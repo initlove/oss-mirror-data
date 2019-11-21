@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjE0OTA1OTg6NzYzOGE4MjQ0ZTQzMjgyM2QzNzVlMDlhYmUzZWIyNWMxMDIyN2ExZQ==",
+  "sha": "7638a8244e432823d375e09abe3eb25c10227a1e",
+  "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/tags/7638a8244e432823d375e09abe3eb25c10227a1e",
+  "tagger": {
+    "name": "Adrien Crivelli",
+    "email": "adrien.crivelli@gmail.com",
+    "date": "2018-10-21T10:05:00Z"
+  },
+  "object": {
+    "sha": "2dfd06c59825914a1a325f2a2ed13634b9d8c411",
+    "type": "commit",
+    "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/commits/2dfd06c59825914a1a325f2a2ed13634b9d8c411"
+  },
+  "tag": "1.5.0",
+  "message": "1.5.0\n\n### Added\n\n- PHP 7.3 support\n- Add the DAYS() function - [#594](https://github.com/PHPOffice/PhpSpreadsheet/pull/594)\n\n### Fixed\n\n- Sheet title can contain exclamation mark - [#325](https://github.com/PHPOffice/PhpSpreadsheet/issues/325)\n- Xls file cause the exception during open by Xls reader - [#402](https://github.com/PHPOffice/PhpSpreadsheet/issues/402)\n- Skip non numeric value in SUMIF - [#618](https://github.com/PHPOffice/PhpSpreadsheet/pull/618)\n- OFFSET should allow omitted height and width - [#561](https://github.com/PHPOffice/PhpSpreadsheet/issues/561)\n- Correctly determine delimiter when CSV contains line breaks inside enclosures - [#716](https://github.com/PHPOffice/PhpSpreadsheet/issues/716)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

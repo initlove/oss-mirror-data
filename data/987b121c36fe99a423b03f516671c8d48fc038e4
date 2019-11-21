@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6OTg3YjEyMWMzNmZlOTlhNDIzYjAzZjUxNjY3MWM4ZDQ4ZmMwMzhlNA==",
+  "sha": "987b121c36fe99a423b03f516671c8d48fc038e4",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/987b121c36fe99a423b03f516671c8d48fc038e4",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2017-06-30T22:26:07Z"
+  },
+  "object": {
+    "sha": "269739c8bdb955037259514f5a090be5a764d830",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/269739c8bdb955037259514f5a090be5a764d830"
+  },
+  "tag": "v3.0.94",
+  "message": "MooseFS 3.0.94\n\n * (mount) fixed support for CREATE/REPLACE flags in setxattr\n * (mount) added headers for flock defines\n * (all) added check for poll.h header file and use it instead of sys/poll.h if possible\n * (master) added test for WRITE access on directory during moving between different parents\n * (master) added clearing suig/sgid during write\n * (master+mount) increased max symlink path size to 4096 (posix compliance)\n * (master) redesigned xattr storage (much faster and uses less memory)\n * (master) improved hash map in xattr and acl (static -> dynamic)\n * (cgi+cli) added possibility to define master group as set of IP adresses divided by comma or semicolon\n * (cs) fixed using fsync on closed descriptors (after change FSYNC_BEFORE_CLOSE option)\n * (master) fixed removing default acl\n * (master+mount) added support for basic Windows attributes (hidden,ro,system,archive)\n * (cgi+cli) fixed working with followers only\n * (all) added api for reading config parameters from master and chunkserver\n * (tools) increased timeout from 10 seconds to 20 seconds (needed for huge snapshots)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

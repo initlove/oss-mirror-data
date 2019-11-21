@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjE0OTA1OTg6YzU5ZTc4MDEyM2JlMTc1MGU0M2IwMThhNzliZTAyMzY0ODMzNzE4Yg==",
+  "sha": "c59e780123be1750e43b018a79be02364833718b",
+  "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/tags/c59e780123be1750e43b018a79be02364833718b",
+  "tagger": {
+    "name": "Adrien Crivelli",
+    "email": "adrien.crivelli@gmail.com",
+    "date": "2019-05-26T02:51:09Z"
+  },
+  "object": {
+    "sha": "84e09df79855ed3da84e2eab6850eb7741d8cbda",
+    "type": "commit",
+    "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/commits/84e09df79855ed3da84e2eab6850eb7741d8cbda"
+  },
+  "tag": "1.7.0",
+  "message": "1.7.0\n\n### Added\n\n- Added support for inline styles in Html reader (borders, alignment, width, height)\n- QuotedText cells no longer treated as formulae if the content begins with a `=`\n- Clean handling for DDE in formulae\n\n### Fixed\n\n- Fix handling for escaped enclosures and new lines in CSV Separator Inference\n- Fix MATCH an error was appearing when comparing strings against 0 (always true)\n- Fix wrong calculation of highest column with specified row [#700](https://github.com/PHPOffice/PhpSpreadsheet/issues/700)\n- Fix VLOOKUP\n- Fix return type hint\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

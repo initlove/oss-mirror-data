@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZTZkNzEyYTkzN2I2MTU2N2U4MWIxNTA4NWVkYmE4NjNiZTE2YmE5Ng==",
+  "sha": "e6d712a937b61567e81b15085edba863be16ba96",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/e6d712a937b61567e81b15085edba863be16ba96",
+  "tagger": {
+    "name": "Ryan",
+    "email": "ry@tinyclouds.org",
+    "date": "2009-09-04T10:35:42Z"
+  },
+  "object": {
+    "sha": "734e86b9e568de5f694ae290a2b5c9395b70937c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/734e86b9e568de5f694ae290a2b5c9395b70937c"
+  },
+  "tag": "v0.1.8",
+  "message": "2009.09.04, Version 0.1.8\n\n  * Feature: External modules\n\n  * Feature: setTimeout() for node.tcp.Connection\n\n  * Feature: add node.cwd(), node.fs.readdir(), node.fs.mkdir()\n\n  * Bugfix: promise.wait() releasing out of order.\n\n  * Bugfix: Asyncly do getaddrinfo() on Apple.\n\n  * Disable useless evcom error messages.\n\n  * Better stack traces.\n\n  * Built natively on x64.\n\n  * Upgrade v8 to 1.3.9\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6OTdjYTdmZTU2NTg0YTgzNjNlMzA3YjUyMGI5NTYzZjc0MWZiNTZjYg==",
+  "sha": "97ca7fe56584a8363e307b520b9563f741fb56cb",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/97ca7fe56584a8363e307b520b9563f741fb56cb",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-01-20T03:36:18Z"
+  },
+  "object": {
+    "sha": "d18cebaf8a7ac701dabd71a3aa4eb0571db6a645",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/d18cebaf8a7ac701dabd71a3aa4eb0571db6a645"
+  },
+  "tag": "v0.6.8",
+  "message": "2012.01.19, Version 0.6.8 (stable)\n\n* Update V8 to 3.6.6.19\n\n* Numeric key hash collision fix for V8 (Erik Corry, Fedor Indutny)\n\n* Add missing TTY key translations for F1-F5 on Windows (Brandon Benvie)\n\n* path.extname bugfix with . and .. paths (Bert Belder)\n\n* cluster: don't always kill the master on uncaughtException (Ben Noordhuis)\n\n* Update npm to 1.1.0-2 (isaacs)\n\n* typed arrays: set class name (Ben Noordhuis)\n\n* zlib binding cleanup (isaacs, Bert Belder)\n\n* dgram: use slab memory allocator (Michael Bernstein)\n\n* fix segfault #2473\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

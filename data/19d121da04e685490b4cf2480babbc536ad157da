@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MTlkMTIxZGEwNGU2ODU0OTBiNGNmMjQ4MGJhYmJjNTM2YWQxNTdkYQ==",
+  "sha": "19d121da04e685490b4cf2480babbc536ad157da",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/19d121da04e685490b4cf2480babbc536ad157da",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-12-13T19:49:55Z"
+  },
+  "object": {
+    "sha": "1c9c6277d5cfcaaac8569c0c8f7daa64292048a9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/1c9c6277d5cfcaaac8569c0c8f7daa64292048a9"
+  },
+  "tag": "v0.8.16",
+  "message": "2012.12.13, Version 0.8.16 (Stable)\n\n* npm: Upgrade to 1.1.69\n\n* fs: fix WriteStream/ReadStream fd leaks (Ben Noordhuis)\n\n* crypto: fix leak in GetPeerCertificate (Fedor Indutny)\n\n* buffer: Don't double-negate numeric buffer arg (Trevor Norris)\n\n* net: More accurate IP address validation and IPv6 dotted notation. (Joshua Erickson)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQyjFjAAoJELCniwpsSBz2Xp8H/125/JZGlPJR8GB1wjPUYgTT\njEO4BnalW1cX/O5TbKS3Qvrk/yVu3C1oV3cd2zEIxBrbH6IvS4DqLEg+ryHBZYgR\nwxCP0pfg0tJoA+XZeigD/0Xfk2IXJhFj3cLRQbCN6S6oZrlvgDGDgAduqB2rCqjz\nEnRdQDd81BiSpV/FvNyiqfWFxv/rRtAMijWLfI8zxMaWPfmVn8/wBu+weEymCr03\nbw93Tkw11xPv4o1bi7zaU83Jy+y1S2saueOnGWCc5ONS2gJx4WLjeY4SxYDG4A2l\nRBkXNt1ba84XA3StLm6xDfte9vsAKCz5Ft7zCzjO71oIELRmkBsJddvrr/OhjO8=\n=RSgg\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQyjFjAAoJELCniwpsSBz2Xp8H/125/JZGlPJR8GB1wjPUYgTT\njEO4BnalW1cX/O5TbKS3Qvrk/yVu3C1oV3cd2zEIxBrbH6IvS4DqLEg+ryHBZYgR\nwxCP0pfg0tJoA+XZeigD/0Xfk2IXJhFj3cLRQbCN6S6oZrlvgDGDgAduqB2rCqjz\nEnRdQDd81BiSpV/FvNyiqfWFxv/rRtAMijWLfI8zxMaWPfmVn8/wBu+weEymCr03\nbw93Tkw11xPv4o1bi7zaU83Jy+y1S2saueOnGWCc5ONS2gJx4WLjeY4SxYDG4A2l\nRBkXNt1ba84XA3StLm6xDfte9vsAKCz5Ft7zCzjO71oIELRmkBsJddvrr/OhjO8=\n=RSgg\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1c9c6277d5cfcaaac8569c0c8f7daa64292048a9\ntype commit\ntag v0.8.16\ntagger isaacs <i@izs.me> 1355428195 -0800\n\n2012.12.13, Version 0.8.16 (Stable)\n\n* npm: Upgrade to 1.1.69\n\n* fs: fix WriteStream/ReadStream fd leaks (Ben Noordhuis)\n\n* crypto: fix leak in GetPeerCertificate (Fedor Indutny)\n\n* buffer: Don't double-negate numeric buffer arg (Trevor Norris)\n\n* net: More accurate IP address validation and IPv6 dotted notation. (Joshua Erickson)\n"
+  }
+}

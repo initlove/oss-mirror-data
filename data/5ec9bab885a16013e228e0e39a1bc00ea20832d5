@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6NWVjOWJhYjg4NWExNjAxM2UyMjhlMGUzOWExYmMwMGVhMjA4MzJkNQ==",
+  "sha": "5ec9bab885a16013e228e0e39a1bc00ea20832d5",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/5ec9bab885a16013e228e0e39a1bc00ea20832d5",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-12-01T16:21:52Z"
+  },
+  "object": {
+    "sha": "8d46d6b17c0db92c64a1beda243b92943cec017f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/8d46d6b17c0db92c64a1beda243b92943cec017f"
+  },
+  "tag": "v3.0.84",
+  "message": "MooseFS 3.0.84\n\n * (master) fixed setting acl-default without named users or named groups\n * (master) fixed master-follower synchronization after setting storage class\n * (cs) changed header size from 5k to 8k (due to 4k-sector hard disks)\n * (all) silenced message about using deprecated parameter 'oom_adj'\n * (mount) fixed FreeBSD delayed release mechanism\n * (mount) added rwlock for chunks\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

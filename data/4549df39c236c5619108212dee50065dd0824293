@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTY2Mjc6NDU0OWRmMzljMjM2YzU2MTkxMDgyMTJkZWU1MDA2NWRkMDgyNDI5Mw==",
+  "sha": "4549df39c236c5619108212dee50065dd0824293",
+  "url": "https://api.github.com/repos/harningt/luajson/git/tags/4549df39c236c5619108212dee50065dd0824293",
+  "tagger": {
+    "name": "Thomas Harning Jr",
+    "email": "harningt@gmail.com",
+    "date": "2011-07-06T01:20:54Z"
+  },
+  "object": {
+    "sha": "b5f77b9da77fe5cddf3156d315742042a3d3ce92",
+    "type": "commit",
+    "url": "https://api.github.com/repos/harningt/luajson/git/commits/b5f77b9da77fe5cddf3156d315742042a3d3ce92"
+  },
+  "tag": "0.5",
+  "message": "Initial code release to get the ball rolling\n\n * Supports encode-decode of JSON with null preservation\n * Attempts to handle unicode encode/decode, definitly needs fixes\n * Supports a strict/non-strict decoding parser\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJOE7h3AAoJEEsTgx7wJfj8+vAIAKkdDeDZCwcb9HYGwchnkptC\n2W7mDK+hLKwk7QdmnEvqEffL1o99/iUxla15NcvW5c7Q9dzxKaaZx6Wg6TYMQFp0\n6uWPgSfE1EKFsx9q2yfNOa1ISiQC2h1sKpTepJezov3g9lvak5fulwBfx6JNoSPE\nccO9O6dms/3Xr/GqApf7sm5LpbrGpxIUOCRzR6wuZK/kx4LSLppw5jf9wqllj5ll\nMX7ocMNY8uMJO83rhuxbAbNLMps4C3hdbVt1LuPjSN1tmrHIl8FchJi5MHoPGWBA\niqsDm3hGDkzmgMfF6CL7wxWEX+EwRCAit/ajBNhWnEUC0XD624fhqp4ShBbbu0o=\n=3IKN\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJOE7h3AAoJEEsTgx7wJfj8+vAIAKkdDeDZCwcb9HYGwchnkptC\n2W7mDK+hLKwk7QdmnEvqEffL1o99/iUxla15NcvW5c7Q9dzxKaaZx6Wg6TYMQFp0\n6uWPgSfE1EKFsx9q2yfNOa1ISiQC2h1sKpTepJezov3g9lvak5fulwBfx6JNoSPE\nccO9O6dms/3Xr/GqApf7sm5LpbrGpxIUOCRzR6wuZK/kx4LSLppw5jf9wqllj5ll\nMX7ocMNY8uMJO83rhuxbAbNLMps4C3hdbVt1LuPjSN1tmrHIl8FchJi5MHoPGWBA\niqsDm3hGDkzmgMfF6CL7wxWEX+EwRCAit/ajBNhWnEUC0XD624fhqp4ShBbbu0o=\n=3IKN\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b5f77b9da77fe5cddf3156d315742042a3d3ce92\ntype commit\ntag 0.5\ntagger Thomas Harning Jr <harningt@gmail.com> 1309915254 -0400\n\nInitial code release to get the ball rolling\n\n * Supports encode-decode of JSON with null preservation\n * Attempts to handle unicode encode/decode, definitly needs fixes\n * Supports a strict/non-strict decoding parser\n"
+  }
+}

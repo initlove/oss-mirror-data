@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6YTRkMTIzNzk4NGY5M2FlMTk3M2YxZjE4OTk4MjA0ZmFiNmNhNjE1Zg==",
+  "sha": "a4d1237984f93ae1973f1f18998204fab6ca615f",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/a4d1237984f93ae1973f1f18998204fab6ca615f",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-06-07T11:51:43Z"
+  },
+  "object": {
+    "sha": "d2b15902cb27f9ef0166447af96bf51e495c7c5e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/d2b15902cb27f9ef0166447af96bf51e495c7c5e"
+  },
+  "tag": "v3.0.75",
+  "message": "MooseFS 3.0.75\n\n * (all) fixed cppcheck warnings/errors (mostly false negatives)\n * (cs) added file sparsification during chunk write (also chunk replication, chunk duplication etc.)\n * (mount) fixed write data inefficiency when I/O was performed by root\n * (master) fixed removing too early locked chunks from data structures\n * (tools) fixed reusing local ports (connection to master returned EADDRNOTAVAIL)\n * (all) changed default action from restart to start\n * (all) added exiting when user defined config (option -c) cannot be loaded\n * (cs) changed handling chunk filename (dynamic filename generation - cs should use less memory)\n * (netdump) changed 'moose ports only' option to 'port range'\n * (mount) limited number of files kept as open after close\n * (cs) changed subfolder choosing algorithm\n * (mount) changed mutex lock to rw-lock for I/O on the same descriptor\n * (mount) added link to mfsmount from '/sbin/mount.moosefs' (Linux only)\n * (all) introduced \"storage classes\" (new goal/labels management)\n * (master+cs) introduced 'temporary maintenance mode' (automatic maintenance mode after graceful stop of cs)\n * (master+mount) added fix for bug in FreeBSD kernel (kernel sends truncate before first close - FreeBSD only)\n * (cs) fixed setting malloc pools on Linux\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMyNTI5ODo2NzFlMGQxNzY3NWMxN2Q4OTA4NmUzNTM5MzViZjcxOGU4MDk2YjI5",
+  "sha": "671e0d17675c17d89086e353935bf718e8096b29",
+  "url": "https://api.github.com/repos/torvalds/linux/git/tags/671e0d17675c17d89086e353935bf718e8096b29",
+  "tagger": {
+    "name": "Linus Torvalds",
+    "email": "torvalds@linux-foundation.org",
+    "date": "2018-02-26T02:50:55Z"
+  },
+  "object": {
+    "sha": "4a3928c6f8a53fa1aed28ccba227742486e8ddcb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/torvalds/linux/git/commits/4a3928c6f8a53fa1aed28ccba227742486e8ddcb"
+  },
+  "tag": "v4.16-rc3",
+  "message": "Linux 4.16-rc3\n-----BEGIN PGP SIGNATURE-----\n\niQFSBAABCAA8FiEEq68RxlopcLEwq+PEeb4+QwBBGIYFAlqTdg8eHHRvcnZhbGRz\nQGxpbnV4LWZvdW5kYXRpb24ub3JnAAoJEHm+PkMAQRiG10wH/iSt+OKmBdUZSAYv\nADvfifLynLgugFYNzuijj8/gVt6b0ZIB2/wSYfdPjDErLFogis6wjnxl0lf3sEMB\ng7Oy8SE+pPPQ7587lFkg6Pj53405b6BwCbSkg8PLlwepSGiu0JmGvUYmz753tIeP\nkRIIQk/KrLlxNFixhGWNfQ9k8PqJ0NCgcbj+mTxmFkfIw2FKnBtYz72LR7Eut3Mt\nPJFh4pLKsHKlcjvX8+SehDdLwlEBv/ohDP7S7gRyR+QX1aNZhZAXyHQ0C8/tw8h6\nDnRvlTWp9EGTFxp8bYie5xcWusIcfy1eAA8yiG2kH+Mx7kLa8cmU234bHhUiu9yT\nYJSLoI4=\n=XBoV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFSBAABCAA8FiEEq68RxlopcLEwq+PEeb4+QwBBGIYFAlqTdg8eHHRvcnZhbGRz\nQGxpbnV4LWZvdW5kYXRpb24ub3JnAAoJEHm+PkMAQRiG10wH/iSt+OKmBdUZSAYv\nADvfifLynLgugFYNzuijj8/gVt6b0ZIB2/wSYfdPjDErLFogis6wjnxl0lf3sEMB\ng7Oy8SE+pPPQ7587lFkg6Pj53405b6BwCbSkg8PLlwepSGiu0JmGvUYmz753tIeP\nkRIIQk/KrLlxNFixhGWNfQ9k8PqJ0NCgcbj+mTxmFkfIw2FKnBtYz72LR7Eut3Mt\nPJFh4pLKsHKlcjvX8+SehDdLwlEBv/ohDP7S7gRyR+QX1aNZhZAXyHQ0C8/tw8h6\nDnRvlTWp9EGTFxp8bYie5xcWusIcfy1eAA8yiG2kH+Mx7kLa8cmU234bHhUiu9yT\nYJSLoI4=\n=XBoV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4a3928c6f8a53fa1aed28ccba227742486e8ddcb\ntype commit\ntag v4.16-rc3\ntagger Linus Torvalds <torvalds@linux-foundation.org> 1519613455 -0800\n\nLinux 4.16-rc3\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MWFmNWQyMjU0N2Y1ZWQyMTIwNmZhNGIwMTI4MWZhNDhjYmNlMjgxZg==",
+  "sha": "1af5d22547f5ed21206fa4b01281fa48cbce281f",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/1af5d22547f5ed21206fa4b01281fa48cbce281f",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-08-03T21:39:32Z"
+  },
+  "object": {
+    "sha": "55ddf54adf6c3a064142ecf3eb42f105ee90da5f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/55ddf54adf6c3a064142ecf3eb42f105ee90da5f"
+  },
+  "tag": "v0.6.21",
+  "message": "2012.08.03 Version 0.6.21 (maintenance)\n\n* sunos: work around OS bug to prevent fs.watch() from spinning (Bryan Cantrill)\n\n* net: make pause/resume work with connecting sockets (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQHEUUAAoJELCniwpsSBz2KlUH/AlEA1c4iOEMK38thUIZmsuh\nwEtagTBZPIB2wzpYdwKAkibWxQfHA+8aKRQH3NefGDksJH6n0eeiaiUH8nuAlE7R\nFfghHLGaeB0ELyerSn6hNOkYmddRN1y8F+mDbTAXYoIUHJv1EVryZybHkblsx4MS\nMdNCG/q8pWyNK3X1IGXg9kDsAOvNPB7s6UX3zU9pQ1O2M7OL9Nloxa3OYyH/C+46\njBVJqn93GrXpc4pWCNJfCvvSE9bRsYkTPi8zFr353mli4t3Ioc1Vbgl62Ownoe/N\nmkWLS1hLmHD35UFbavE/im971Zbhg/VHpYg6Jj3gMdOTVUiatJAtiI64mRJGezQ=\n=uAQg\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQHEUUAAoJELCniwpsSBz2KlUH/AlEA1c4iOEMK38thUIZmsuh\nwEtagTBZPIB2wzpYdwKAkibWxQfHA+8aKRQH3NefGDksJH6n0eeiaiUH8nuAlE7R\nFfghHLGaeB0ELyerSn6hNOkYmddRN1y8F+mDbTAXYoIUHJv1EVryZybHkblsx4MS\nMdNCG/q8pWyNK3X1IGXg9kDsAOvNPB7s6UX3zU9pQ1O2M7OL9Nloxa3OYyH/C+46\njBVJqn93GrXpc4pWCNJfCvvSE9bRsYkTPi8zFr353mli4t3Ioc1Vbgl62Ownoe/N\nmkWLS1hLmHD35UFbavE/im971Zbhg/VHpYg6Jj3gMdOTVUiatJAtiI64mRJGezQ=\n=uAQg\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 55ddf54adf6c3a064142ecf3eb42f105ee90da5f\ntype commit\ntag v0.6.21\ntagger isaacs <i@izs.me> 1344029972 -0700\n\n2012.08.03 Version 0.6.21 (maintenance)\n\n* sunos: work around OS bug to prevent fs.watch() from spinning (Bryan Cantrill)\n\n* net: make pause/resume work with connecting sockets (Bert Belder)\n"
+  }
+}

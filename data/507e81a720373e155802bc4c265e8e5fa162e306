@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NTA3ZTgxYTcyMDM3M2UxNTU4MDJiYzRjMjY1ZThlNWZhMTYyZTMwNg==",
+  "sha": "507e81a720373e155802bc4c265e8e5fa162e306",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/507e81a720373e155802bc4c265e8e5fa162e306",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-03-13T21:01:43Z"
+  },
+  "object": {
+    "sha": "f06abda6f58e517349d1b63a2cbf5a8d04a03505",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/f06abda6f58e517349d1b63a2cbf5a8d04a03505"
+  },
+  "tag": "v0.7.6",
+  "message": "2012.03.13, Version 0.7.6 (unstable)\n\n* Upgrade v8 to 3.9.17\n\n* Upgrade npm to 1.1.8\n  - Add support for os/cpu fields in package.json (Adam Blackburn)\n  - Automatically node-gyp packages containing a binding.gyp\n  - Fix failures unpacking in UNC shares\n  - Never create un-listable directories\n  - Handle cases where an optionalDependency fails to build\n\n* events: newListener emit correct fn when using 'once' (Roly Fentanes)\n\n* url: Ignore empty port component (Łukasz Walukiewicz)\n\n* module: replace 'children' array (isaacs)\n\n* tls: parse multiple values of a key in ssl certificate (Sambasiva Suda)\n\n* cluster: support passing of named pipes (Ben Noordhuis)\n\n* Windows: include syscall in fs errors (Bert Belder)\n\n* http: #2888 Emit end event only once (Igor Zinkovsky)\n\n* readline: add multiline support (Rlidwka)\n\n* process: add `process.hrtime()` (Nathan Rajlich)\n\n* net, http, https: add localAddress option (Dmitry Nizovtsev)\n\n* addon improvements (Nathan Rajlich)\n\n* build improvements (Ben Noordhuis, Sadique Ali, T.C. Hollingsworth, Nathan Rajlich)\n\n* add support for \"SEARCH\" request methods (Nathan Rajlich)\n\n* expose the zlib and http_parser version in process.versions (Nathan Rajlich)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPX7W3AAoJELCniwpsSBz2IioH/3fmWyjLle4RNwJCJkCDMV5E\nP3J3N2SO5EmUm2Dm0yBgxfpbWUQ18Hi5VCl3kSdlQzAE6acDficfp3Cu3s9lVMp4\nVskEVzCIjZuhTBUtotJzXvoMlAtKgkioZxTX/cYGXKtmoPsGYXAC0bGFCfvINJut\nOfNfumYHTQqIMOQmcvAqBFsDFkDyrSNsnYX0Z0cJuXeHpONp9lulrt8DtpIk6dAX\n+XpBCn6Y35c6AZ5Cii9u1XjnXVxEuniuWS2QXqQDUQ5EBf5M3ImBe0pcDrNX9MnO\nfG6pc+mGmxeTDsAUWZzX/QgmaOZI9Dgp41/rE1z8t/+JqvJ2i7R8dZzHIkVNjeU=\n=ckph\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPX7W3AAoJELCniwpsSBz2IioH/3fmWyjLle4RNwJCJkCDMV5E\nP3J3N2SO5EmUm2Dm0yBgxfpbWUQ18Hi5VCl3kSdlQzAE6acDficfp3Cu3s9lVMp4\nVskEVzCIjZuhTBUtotJzXvoMlAtKgkioZxTX/cYGXKtmoPsGYXAC0bGFCfvINJut\nOfNfumYHTQqIMOQmcvAqBFsDFkDyrSNsnYX0Z0cJuXeHpONp9lulrt8DtpIk6dAX\n+XpBCn6Y35c6AZ5Cii9u1XjnXVxEuniuWS2QXqQDUQ5EBf5M3ImBe0pcDrNX9MnO\nfG6pc+mGmxeTDsAUWZzX/QgmaOZI9Dgp41/rE1z8t/+JqvJ2i7R8dZzHIkVNjeU=\n=ckph\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f06abda6f58e517349d1b63a2cbf5a8d04a03505\ntype commit\ntag v0.7.6\ntagger isaacs <i@izs.me> 1331672503 -0700\n\n2012.03.13, Version 0.7.6 (unstable)\n\n* Upgrade v8 to 3.9.17\n\n* Upgrade npm to 1.1.8\n  - Add support for os/cpu fields in package.json (Adam Blackburn)\n  - Automatically node-gyp packages containing a binding.gyp\n  - Fix failures unpacking in UNC shares\n  - Never create un-listable directories\n  - Handle cases where an optionalDependency fails to build\n\n* events: newListener emit correct fn when using 'once' (Roly Fentanes)\n\n* url: Ignore empty port component (Łukasz Walukiewicz)\n\n* module: replace 'children' array (isaacs)\n\n* tls: parse multiple values of a key in ssl certificate (Sambasiva Suda)\n\n* cluster: support passing of named pipes (Ben Noordhuis)\n\n* Windows: include syscall in fs errors (Bert Belder)\n\n* http: #2888 Emit end event only once (Igor Zinkovsky)\n\n* readline: add multiline support (Rlidwka)\n\n* process: add `process.hrtime()` (Nathan Rajlich)\n\n* net, http, https: add localAddress option (Dmitry Nizovtsev)\n\n* addon improvements (Nathan Rajlich)\n\n* build improvements (Ben Noordhuis, Sadique Ali, T.C. Hollingsworth, Nathan Rajlich)\n\n* add support for \"SEARCH\" request methods (Nathan Rajlich)\n\n* expose the zlib and http_parser version in process.versions (Nathan Rajlich)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YTU3MjZlODdmZDQ4ZTMzYTE5ZTFjNzYyMjIwM2ZhZDc0ZjI3YTJjOQ==",
+  "sha": "a5726e87fd48e33a19e1c7622203fad74f27a2c9",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/a5726e87fd48e33a19e1c7622203fad74f27a2c9",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-09-11T18:54:54Z"
+  },
+  "object": {
+    "sha": "b88c3902b241cf934e75443b934f2033ad3915b1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/b88c3902b241cf934e75443b934f2033ad3915b1"
+  },
+  "tag": "v0.8.9",
+  "message": "2012.09.11, Version 0.8.9 (Stable)\n\n* v8: upgrade to 3.11.10.22\n\n* GYP: upgrade to r1477\n\n* npm: Upgrade to 1.1.61\n\n* npm: Don't create world-writable files (isaacs)\n\n* windows: fix single-accept mode for shared server sockets (Bert Belder)\n\n* windows: fix uninitialized memory access in uv_update_time() (Bert Belder)\n\n* windows: don't throw when a signal handler is attached (Bert Belder)\n\n* unix: fix memory leak in udp (Ben Noordhuis)\n\n* unix: map errno ESPIPE (Ben Noordhuis)\n\n* unix, windows: fix memory corruption in fs-poll.c (Ben Noordhuis)\n\n* sunos: fix os.cpus() on x86_64 (Ben Noordhuis)\n\n* child process: fix processes with IPC channel don't emit 'close' (Bert Belder)\n\n* build: add a \"--dest-os\" option to force a gyp \"flavor\" (Nathan Rajlich)\n\n* build: set `process.platform` to \"sunos\" on SunOS (Nathan Rajlich)\n\n* build: fix `make -j` fails after `make clean` (Bearice Ren)\n\n* build: fix openssl configuration for \"arm\" builds (Nathan Rajlich)\n\n* tls: support unix domain socket/named pipe in tls.connect (Shigeki Ohtsu)\n\n* https: make https.get() accept a URL (koichik)\n\n* http: respect HTTP/1.0 TE header (Ben Noordhuis)\n\n* crypto, tls: Domainify setSNICallback, pbkdf2, randomBytes (Ben Noordhuis)\n\n* stream.pipe: Don't call destroy() unless it's a function (isaacs)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQT4j+AAoJELCniwpsSBz2QscH/ivtNif6tF7oJfPdWK0U6xSS\nxnia/yES5LQUH/VFEslkspm5cU098ostRggscVt19Vy8uqpsibB3oJHLkKmCw/ZC\nSN0QFl4vf+KFcpG+kZxr+hycidirOcZavGrOBXZGIhBC30gBMfH6UQEV8H8Rup0Y\nwycRfdC78SiTCuIQvVTwZT5IHbb/NcKti6YYUCOEdZz6Y4j9//rYCBYXLHaH+Wnp\nBtmdHUJOQ/q6yAnKh3fIGwhA4uWlCS3S6X9YxD4wx6aVYDM35fOsOrAc/A+Cm7Xg\nRZsjE4UBAptKCKP5J8oyRRSaH456C0YmyWOBFB66hAvlvhZSjnFaesEqvojOHj8=\n=21+h\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQT4j+AAoJELCniwpsSBz2QscH/ivtNif6tF7oJfPdWK0U6xSS\nxnia/yES5LQUH/VFEslkspm5cU098ostRggscVt19Vy8uqpsibB3oJHLkKmCw/ZC\nSN0QFl4vf+KFcpG+kZxr+hycidirOcZavGrOBXZGIhBC30gBMfH6UQEV8H8Rup0Y\nwycRfdC78SiTCuIQvVTwZT5IHbb/NcKti6YYUCOEdZz6Y4j9//rYCBYXLHaH+Wnp\nBtmdHUJOQ/q6yAnKh3fIGwhA4uWlCS3S6X9YxD4wx6aVYDM35fOsOrAc/A+Cm7Xg\nRZsjE4UBAptKCKP5J8oyRRSaH456C0YmyWOBFB66hAvlvhZSjnFaesEqvojOHj8=\n=21+h\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b88c3902b241cf934e75443b934f2033ad3915b1\ntype commit\ntag v0.8.9\ntagger isaacs <i@izs.me> 1347389694 -0700\n\n2012.09.11, Version 0.8.9 (Stable)\n\n* v8: upgrade to 3.11.10.22\n\n* GYP: upgrade to r1477\n\n* npm: Upgrade to 1.1.61\n\n* npm: Don't create world-writable files (isaacs)\n\n* windows: fix single-accept mode for shared server sockets (Bert Belder)\n\n* windows: fix uninitialized memory access in uv_update_time() (Bert Belder)\n\n* windows: don't throw when a signal handler is attached (Bert Belder)\n\n* unix: fix memory leak in udp (Ben Noordhuis)\n\n* unix: map errno ESPIPE (Ben Noordhuis)\n\n* unix, windows: fix memory corruption in fs-poll.c (Ben Noordhuis)\n\n* sunos: fix os.cpus() on x86_64 (Ben Noordhuis)\n\n* child process: fix processes with IPC channel don't emit 'close' (Bert Belder)\n\n* build: add a \"--dest-os\" option to force a gyp \"flavor\" (Nathan Rajlich)\n\n* build: set `process.platform` to \"sunos\" on SunOS (Nathan Rajlich)\n\n* build: fix `make -j` fails after `make clean` (Bearice Ren)\n\n* build: fix openssl configuration for \"arm\" builds (Nathan Rajlich)\n\n* tls: support unix domain socket/named pipe in tls.connect (Shigeki Ohtsu)\n\n* https: make https.get() accept a URL (koichik)\n\n* http: respect HTTP/1.0 TE header (Ben Noordhuis)\n\n* crypto, tls: Domainify setSNICallback, pbkdf2, randomBytes (Ben Noordhuis)\n\n* stream.pipe: Don't call destroy() unless it's a function (isaacs)\n"
+  }
+}

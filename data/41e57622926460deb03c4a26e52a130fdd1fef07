@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NDFlNTc2MjI5MjY0NjBkZWIwM2M0YTI2ZTUyYTEzMGZkZDFmZWYwNw==",
+  "sha": "41e57622926460deb03c4a26e52a130fdd1fef07",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/41e57622926460deb03c4a26e52a130fdd1fef07",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-09-15T23:46:45Z"
+  },
+  "object": {
+    "sha": "771ba34ca7b839add2ef96879e1ffc684813cf7c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/771ba34ca7b839add2ef96879e1ffc684813cf7c"
+  },
+  "tag": "v0.4.12",
+  "message": "2011.09.15, Version 0.4.12 (stable)\n\n* Improve docs\n\n* #1563 overflow in ChildProcess custom_fd.\n\n* #1569, parse error on multi-line HTTP headers. (Ben Noordhuis)\n\n* #1586 net: Socket write encoding case sensitivity (koichik)\n\n* #1610 Remove DigiNotar CA from trusted list (isaacs)\n\n* #1624 buffer: Avoid overrun with 'binary' encoding. (koichik)\n\n* #1633 buffer: write() should always set _charsWritten. (koichik)\n\n* #1707 hasOwnProperty usage security hole in querystring (isaacs)\n\n* #1719 Drain OpenSSL error queue\n\n* Fix error reporting in net.Server.listen\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

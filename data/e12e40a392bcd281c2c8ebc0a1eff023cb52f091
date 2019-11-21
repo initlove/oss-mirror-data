@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzMwMzcyMTU6ZTEyZTQwYTM5MmJjZDI4MWMyYzhlYmMwYTFlZmYwMjNjYjUyZjA5MQ==",
+  "sha": "e12e40a392bcd281c2c8ebc0a1eff023cb52f091",
+  "url": "https://api.github.com/repos/tomav/docker-mailserver/git/tags/e12e40a392bcd281c2c8ebc0a1eff023cb52f091",
+  "tagger": {
+    "name": "Johan Smits",
+    "email": "johan@smitsmail.net",
+    "date": "2018-03-19T19:46:51Z"
+  },
+  "object": {
+    "sha": "69d66912c69a029fe67dbfdf772dfa1b362320e6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tomav/docker-mailserver/git/commits/69d66912c69a029fe67dbfdf772dfa1b362320e6"
+  },
+  "tag": "v5.8.0",
+  "message": "Release 5.8.0\n\n* Adding daily mail review from Issue 839 (#881)\n  You can enable REPORT_RECIPIENT for REPORT_INTERVAL\n  reports. Default is disabled.\n* introducing ENABLE_SRS env variable (#906, #852)\n  In v3.2.0 was SRS introduced and enabled by default\n  Now it is disabled by default and can be enabled with\n  the new env variable.\n* fixed delalias, added additional tests (#909)\n  Fixes to setup where made for deletion and addition.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

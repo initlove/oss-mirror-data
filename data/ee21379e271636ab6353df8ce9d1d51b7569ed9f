@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6ZWUyMTM3OWUyNzE2MzZhYjYzNTNkZjhjZTlkMWQ1MWI3NTY5ZWQ5Zg==",
+  "sha": "ee21379e271636ab6353df8ce9d1d51b7569ed9f",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/ee21379e271636ab6353df8ce9d1d51b7569ed9f",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-12-01T16:32:16Z"
+  },
+  "object": {
+    "sha": "be9dc8450a143a8a524b4e82973869b6d51b14a0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/be9dc8450a143a8a524b4e82973869b6d51b14a0"
+  },
+  "tag": "v3.0.86",
+  "message": "MooseFS 3.0.86-1\n\n * (master) fixed leader-follower resynchronization after reconnection (pro only)\n * (master) fixed rehashing condition in edge/node/chunk hashmaps (change inspired by yinjiawind)\n * (mount) fixed memory leak (also efficiency) on Linux and potential segfaults on FreeBSD (negative condition)\n * (mount) fixed race condition for inode value in write module\n * (mount) better descriptors handling (lists of free elements, inode hash)\n * (mount) better releasing descriptors on FreeBSD\n * (cs) fixed time condition (patch send by yinjiawind)\n * (mount) fixed logging unnecessary messages on FreeBSD (closes #19)\n * (master) added condition that prevents deleting unused chunks from structures too early\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

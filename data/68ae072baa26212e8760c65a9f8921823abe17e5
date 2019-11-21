@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NjhhZTA3MmJhYTI2MjEyZTg3NjBjNjVhOWY4OTIxODIzYWJlMTdlNQ==",
+  "sha": "68ae072baa26212e8760c65a9f8921823abe17e5",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/68ae072baa26212e8760c65a9f8921823abe17e5",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-08-21T23:36:13Z"
+  },
+  "object": {
+    "sha": "469a4a5091a677df62be319675056b869c31b35c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/469a4a5091a677df62be319675056b869c31b35c"
+  },
+  "tag": "v0.10.17",
+  "message": "2013.08.21, Version 0.10.17 (Stable)\n\n* uv: Upgrade v0.10.14\n\n* http_parser: Do not accept PUN/GEM methods as PUT/GET (Chris Dickinson)\n\n* tls: fix assertion when ssl is destroyed at read (Fedor Indutny)\n\n* stream: Throw on 'error' if listeners removed (isaacs)\n\n* dgram: fix assertion on bad send() arguments (Ben Noordhuis)\n\n* readline: pause stdin before turning off terminal raw mode (Daniel Chatfield)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlIVTu0ACgkQfTP/nQJGQG2QGACgjSwRlbJ3B/45OyfBvx1PZzc7\nvusAn0Ht+4Nu6RE6PqaG0Xy0r2kZamgP\n=/PTz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlIVTu0ACgkQfTP/nQJGQG2QGACgjSwRlbJ3B/45OyfBvx1PZzc7\nvusAn0Ht+4Nu6RE6PqaG0Xy0r2kZamgP\n=/PTz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 469a4a5091a677df62be319675056b869c31b35c\ntype commit\ntag v0.10.17\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1377128173 -0700\n\n2013.08.21, Version 0.10.17 (Stable)\n\n* uv: Upgrade v0.10.14\n\n* http_parser: Do not accept PUN/GEM methods as PUT/GET (Chris Dickinson)\n\n* tls: fix assertion when ssl is destroyed at read (Fedor Indutny)\n\n* stream: Throw on 'error' if listeners removed (isaacs)\n\n* dgram: fix assertion on bad send() arguments (Ben Noordhuis)\n\n* readline: pause stdin before turning off terminal raw mode (Daniel Chatfield)\n"
+  }
+}

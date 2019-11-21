@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZmNmMTJlOWE1MDVjMzMwZmI4MWQ4M2VkNTMyOGMwNWU5YzZhZDk3Mg==",
+  "sha": "fcf12e9a505c330fb81d83ed5328c05e9c6ad972",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/fcf12e9a505c330fb81d83ed5328c05e9c6ad972",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-01-09T10:13:02Z"
+  },
+  "object": {
+    "sha": "39ca93549af91575ca9d4cbafd1e170fbcef3dfa",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/39ca93549af91575ca9d4cbafd1e170fbcef3dfa"
+  },
+  "tag": "v0.1.25",
+  "message": "2010.01.09, Version 0.1.25\n\n  * sys.inspect() improvements (Tim Caswell)\n\n  * path module improvements (isaacs, Benjamin Thomas)\n\n  * API: request.uri -> request.url\n    It is no longer an object, but a string. The 'url' module\n    was addded to parse that string. That is, node no longer\n    parses the request URL automatically.\n\n       require('url').parse(request.url)\n\n    is roughly equivlent to the old request.uri object.\n    (isaacs)\n\n  * Bugfix: Several libeio related race conditions.\n\n  * Better errors for multipart library (Felix Geisendörfer)\n\n  * Bugfix: Update node-waf version to 1.5.10\n\n  * getmem for freebsd (Vanilla Hsu)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

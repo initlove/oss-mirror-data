@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZmQ5Nzc2NzI5ZTI0NWQzZDc2MDRmYjJjNjM3YzhmMWU0MjE4ZGYyNw==",
+  "sha": "fd9776729e245d3d7604fb2c637c8f1e4218df27",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/fd9776729e245d3d7604fb2c637c8f1e4218df27",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-06-29T17:10:57Z"
+  },
+  "object": {
+    "sha": "2134aa3d5c622fc3c3b02ccb713fcde0e0df479a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/2134aa3d5c622fc3c3b02ccb713fcde0e0df479a"
+  },
+  "tag": "v0.8.1",
+  "message": "* V8: upgrade to v3.11.10.12\n\n* npm: upgrade to v1.1.33\n  - Support for parallel use of the cache folder\n  - Retry on registry timeouts or network failures (Trent Mick)\n  - Reduce 'engines' failures to a warning\n  - Use new zsh completion if aviailable (Jeremy Cantrell)\n\n* Fix #3577 Un-break require('sys')\n\n* util: speed up formatting of large arrays/objects (Ben Noordhuis)\n\n* windows: make fs.realpath(Sync) work with UNC paths (Bert Belder)\n\n* build: fix --shared-v8 option (Ben Noordhuis)\n\n* doc: `detached` is a boolean (Andreas Madsen)\n\n* build: use proper python interpreter (Ben Noordhuis)\n\n* build: expand ~ in `./configure --prefix=~/a/b/c` (Ben Noordhuis)\n\n* build: handle CC env var with spaces (Gabriel de Perthuis)\n\n* build: fix V8 build when compiling with gcc 4.5 (Ben Noordhuis)\n\n* build: fix --shared-v8 option (Ben Noordhuis)\n\n* windows msi: Fix icon issue which caused huge file size (Bert Belder)\n\n* unix: assume that dlopen() may clobber dlerror() (Ben Noordhuis)\n\n* sunos: fix memory corruption bugs (Ben Noordhuis)\n\n* windows: better (f)utimes and (f)stat (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJP7eGiAAoJELCniwpsSBz2AycH/1uw2y2IpZr3E9Bhpslafr5C\nok2ChkP3SYBPn9hbyGiSbAfll2Ckr1rJqXMplrWu1bVD9BPtzS0yoEnnMvjattMs\nJ6Ggio8rzqMR+pPBM5piJ5QQA7VRQ8y2aNmWecaLR4TZswx52eoUIgLqfx9+5zA0\nWkvGaqs7kb12z96HCNClL2TG1FiqszVLluLekznxeb8oki8BT91MWa5JeYoMMLqz\n491zxieky+gUFXdiEQTj9EBQFgXjOpGjZRAKN2gZbHDgFeUWd1hAQP2oEj1azxZ8\nx4X8VVEfbp5NK4P/Nd53CjYlKju2iFV9JAJznBUsYMSS+ouE8IdLq+Rmif1V9aY=\n=k61/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJP7eGiAAoJELCniwpsSBz2AycH/1uw2y2IpZr3E9Bhpslafr5C\nok2ChkP3SYBPn9hbyGiSbAfll2Ckr1rJqXMplrWu1bVD9BPtzS0yoEnnMvjattMs\nJ6Ggio8rzqMR+pPBM5piJ5QQA7VRQ8y2aNmWecaLR4TZswx52eoUIgLqfx9+5zA0\nWkvGaqs7kb12z96HCNClL2TG1FiqszVLluLekznxeb8oki8BT91MWa5JeYoMMLqz\n491zxieky+gUFXdiEQTj9EBQFgXjOpGjZRAKN2gZbHDgFeUWd1hAQP2oEj1azxZ8\nx4X8VVEfbp5NK4P/Nd53CjYlKju2iFV9JAJznBUsYMSS+ouE8IdLq+Rmif1V9aY=\n=k61/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2134aa3d5c622fc3c3b02ccb713fcde0e0df479a\ntype commit\ntag v0.8.1\ntagger isaacs <i@izs.me> 1340989857 -0700\n\n* V8: upgrade to v3.11.10.12\n\n* npm: upgrade to v1.1.33\n  - Support for parallel use of the cache folder\n  - Retry on registry timeouts or network failures (Trent Mick)\n  - Reduce 'engines' failures to a warning\n  - Use new zsh completion if aviailable (Jeremy Cantrell)\n\n* Fix #3577 Un-break require('sys')\n\n* util: speed up formatting of large arrays/objects (Ben Noordhuis)\n\n* windows: make fs.realpath(Sync) work with UNC paths (Bert Belder)\n\n* build: fix --shared-v8 option (Ben Noordhuis)\n\n* doc: `detached` is a boolean (Andreas Madsen)\n\n* build: use proper python interpreter (Ben Noordhuis)\n\n* build: expand ~ in `./configure --prefix=~/a/b/c` (Ben Noordhuis)\n\n* build: handle CC env var with spaces (Gabriel de Perthuis)\n\n* build: fix V8 build when compiling with gcc 4.5 (Ben Noordhuis)\n\n* build: fix --shared-v8 option (Ben Noordhuis)\n\n* windows msi: Fix icon issue which caused huge file size (Bert Belder)\n\n* unix: assume that dlopen() may clobber dlerror() (Ben Noordhuis)\n\n* sunos: fix memory corruption bugs (Ben Noordhuis)\n\n* windows: better (f)utimes and (f)stat (Bert Belder)\n"
+  }
+}

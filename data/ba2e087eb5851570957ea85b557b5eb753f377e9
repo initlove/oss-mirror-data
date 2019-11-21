@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6YmEyZTA4N2ViNTg1MTU3MDk1N2VhODViNTU3YjVlYjc1M2YzNzdlOQ==",
+  "sha": "ba2e087eb5851570957ea85b557b5eb753f377e9",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/ba2e087eb5851570957ea85b557b5eb753f377e9",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2018-11-23T13:07:29Z"
+  },
+  "object": {
+    "sha": "6762d57314b2fdaa3c738f19670cf352b2a1f593",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/6762d57314b2fdaa3c738f19670cf352b2a1f593"
+  },
+  "tag": "v3.0.103",
+  "message": "MooseFS 3.0.103\n\n * (master+client) added space reservation for superuser\n * (bdev) new module for Linux - dedicated block device\n * (daemons) added optional 'processname_set' function\n * (daemons) fixed waitpid condition\n * (cs) added data precaching (posix_fadcvise(WILLNEED)) before reading chunk data\n * (master) remove chunk copy from structures (instead of leaving as INVALID) when replication returned error\n * (master) close listen sockets after fork (metadata save in background)\n * (master) added subprocess for saving downloaded metadata in background (pro only)\n * (master) fixed mfsrmsnapshot issue (SNAPSHOT flag not set in directories - intr. in 3.0.101)\n * (mount) added option to load master password from given file\n * (mount) added extremely fast (>1GB/s) pseudo-random generator visible as a virtual file '.random' in root directory (not listed by ls)\n * (metatools) added new metatool 'mfsmetadirinfo' - offline version of 'mfsdirinfo -p'\n * (tools) changed data structure used by 'mfsdirinfo -p' (faster, less memory usage)\n * (tools) network code refactoring (less code, reconnection to master on error)\n * (cs) proper disconnection from master during reload (maintenance mode during reload)\n * (cs) changed chunk testing routine (new definition is in MB/s per disk)\n * (cs) added optional high speed internal rebalancing\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

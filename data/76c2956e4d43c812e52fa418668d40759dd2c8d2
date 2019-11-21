@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6NzZjMjk1NmU0ZDQzYzgxMmU1MmZhNDE4NjY4ZDQwNzU5ZGQyYzhkMg==",
+  "sha": "76c2956e4d43c812e52fa418668d40759dd2c8d2",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/76c2956e4d43c812e52fa418668d40759dd2c8d2",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T14:36:36Z"
+  },
+  "object": {
+    "sha": "67a7d2e0178e5a57f1bb3282ee2446ccef3a6b40",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/67a7d2e0178e5a57f1bb3282ee2446ccef3a6b40"
+  },
+  "tag": "v3.0.32",
+  "message": "MooseFS 3.0.32-1\n\n * (master) added exports checksum\n * (master) changed sessions parameters refresh policy (refresh all parameters after 'exports' reload)\n * (master) fixed truncate bug (close file without writing data may cause file truncate - dangerous !!!, introduced in 3.0.25)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

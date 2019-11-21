@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMyNTI5ODozZDNmNDdjOThiMzY5NmY1YmQ2NzdmODlhNzU1YzIzOWY0ZDUyYTRj",
+  "sha": "3d3f47c98b3696f5bd677f89a755c239f4d52a4c",
+  "url": "https://api.github.com/repos/torvalds/linux/git/tags/3d3f47c98b3696f5bd677f89a755c239f4d52a4c",
+  "tagger": {
+    "name": "Linus Torvalds",
+    "email": "torvalds@g5.osdl.org",
+    "date": "2006-09-13T01:41:46Z"
+  },
+  "object": {
+    "sha": "95064a75ebf8744e1ff595e8cd7ff9b6c851523e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/torvalds/linux/git/commits/95064a75ebf8744e1ff595e8cd7ff9b6c851523e"
+  },
+  "tag": "v2.6.18-rc7",
+  "message": "Linux 2.6.18-rc7\n\nThis should be the final -rc\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.5 (GNU/Linux)\n\niD8DBQBFB2HyF3YsRnbiHLsRAg0PAJ46Plwo+OWwaB0nCkUqYzY/+sfSpQCfb9Xt\nayjH3KKgyNjUMabTjsJkdV8=\n=VYfc\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.5 (GNU/Linux)\n\niD8DBQBFB2HyF3YsRnbiHLsRAg0PAJ46Plwo+OWwaB0nCkUqYzY/+sfSpQCfb9Xt\nayjH3KKgyNjUMabTjsJkdV8=\n=VYfc\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 95064a75ebf8744e1ff595e8cd7ff9b6c851523e\ntype commit\ntag v2.6.18-rc7\ntagger Linus Torvalds <torvalds@g5.osdl.org> 1158111706 -0700\n\nLinux 2.6.18-rc7\n\nThis should be the final -rc\n"
+  }
+}

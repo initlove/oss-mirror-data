@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MzlhNDY2NTFmOGYwNmQwZjhiYzM0NDk3MzE2NzA4OTFlYjE5ZTJhOA==",
+  "sha": "39a46651f8f06d0f8bc3449731670891eb19e2a8",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/39a46651f8f06d0f8bc3449731670891eb19e2a8",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-10-25T19:50:05Z"
+  },
+  "object": {
+    "sha": "ff4c974873f9a7cc6a5b042eb9b6389bb8dde6d6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/ff4c974873f9a7cc6a5b042eb9b6389bb8dde6d6"
+  },
+  "tag": "v0.8.13",
+  "message": "2012.10.25, Version 0.8.13 (Stable)\n\n* V8: Upgrade to 3.11.10.25\n\n* npm: Upgrade to 1.1.65\n\n* url: parse hostnames that start with - or _ (Ben Noordhuis)\n\n* repl: Fix Windows 8 terminal issue (Bert Belder)\n\n* typed arrays: use signed char for signed int8s (Aaron Jacobs)\n\n* crypto: fix bugs in DiffieHellman (Ben Noordhuis)\n\n* configure: turn on VFPv3 on ARMv7 (Ben Noordhuis)\n\n* Re-enable OpenSSL UI for entering passphrases via tty (Ben Noordhuis)\n\n* repl: ensure each REPL instance gets its own \"context\" (Nathan Rajlich)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQiZftAAoJELCniwpsSBz29EoH/2Dye79Gu5w8cCWYjFU/lDMF\nFnTPJCET6CNp315+AX4KGh1ImRiUYZvgmfAiuov0XDUvXGBVzya9hW1KVe/qYLiD\nbI2jlWNCKqkYVEJlzbe2oXJzDCBCLXzlxaxS0xMFpXdWhZvGwhG0SrbRwWR317fu\noAqvuCMDFeN6fyafZOCdXUsI1VY0ZSfMkzfMORKs1qPR3fKpc/mex5SI07BBSW48\nsVbic/bUIwPP959vwyvx4N3cacyu3yUFYLjov1GTQnJqNRnyvzMqHGCa9K9MwDxe\nnqesb7u3FYq5Z92P6wfQAQxO2N91V9XGrZaL520QUWxHJzli1HEvZ8CowqbE8uw=\n=uffH\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQiZftAAoJELCniwpsSBz29EoH/2Dye79Gu5w8cCWYjFU/lDMF\nFnTPJCET6CNp315+AX4KGh1ImRiUYZvgmfAiuov0XDUvXGBVzya9hW1KVe/qYLiD\nbI2jlWNCKqkYVEJlzbe2oXJzDCBCLXzlxaxS0xMFpXdWhZvGwhG0SrbRwWR317fu\noAqvuCMDFeN6fyafZOCdXUsI1VY0ZSfMkzfMORKs1qPR3fKpc/mex5SI07BBSW48\nsVbic/bUIwPP959vwyvx4N3cacyu3yUFYLjov1GTQnJqNRnyvzMqHGCa9K9MwDxe\nnqesb7u3FYq5Z92P6wfQAQxO2N91V9XGrZaL520QUWxHJzli1HEvZ8CowqbE8uw=\n=uffH\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ff4c974873f9a7cc6a5b042eb9b6389bb8dde6d6\ntype commit\ntag v0.8.13\ntagger isaacs <i@izs.me> 1351194605 -0700\n\n2012.10.25, Version 0.8.13 (Stable)\n\n* V8: Upgrade to 3.11.10.25\n\n* npm: Upgrade to 1.1.65\n\n* url: parse hostnames that start with - or _ (Ben Noordhuis)\n\n* repl: Fix Windows 8 terminal issue (Bert Belder)\n\n* typed arrays: use signed char for signed int8s (Aaron Jacobs)\n\n* crypto: fix bugs in DiffieHellman (Ben Noordhuis)\n\n* configure: turn on VFPv3 on ARMv7 (Ben Noordhuis)\n\n* Re-enable OpenSSL UI for entering passphrases via tty (Ben Noordhuis)\n\n* repl: ensure each REPL instance gets its own \"context\" (Nathan Rajlich)\n"
+  }
+}

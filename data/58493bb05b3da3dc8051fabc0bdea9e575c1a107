@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NTg0OTNiYjA1YjNkYTNkYzgwNTFmYWJjMGJkZWE5ZTU3NWMxYTEwNw==",
+  "sha": "58493bb05b3da3dc8051fabc0bdea9e575c1a107",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/58493bb05b3da3dc8051fabc0bdea9e575c1a107",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2009-09-30T21:21:50Z"
+  },
+  "object": {
+    "sha": "9c9d67eb6ce1162c8da05ff59624f6c3ade19bf7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/9c9d67eb6ce1162c8da05ff59624f6c3ade19bf7"
+  },
+  "tag": "v0.1.13",
+  "message": "2009.09.30, Version 0.1.13\n\n  * Feature: Multipart stream parser (Felix Geisendörfer)\n\n  * API: Move node.puts(), node.exec() and others to /utils.js\n\n  * API: Move http, tcp libraries to /http.js and /tcp.js\n\n  * API: Rename node.exit() to process.exit()\n\n  * Bugfix: require() and include() should work in callbacks.\n\n  * Pass the Host header in http.cat calls\n\n  * Add warning when coroutine stack size grows too large.\n\n  * Enhance repl library (Ray Morgan)\n\n  * Bugfix: build script for\n      GCC 4.4 (removed -Werror in V8),\n      on Linux 2.4,\n      and with Python 2.4.4.\n\n  * Add read() and write() to /file.js to read and write\n    whole files at once.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

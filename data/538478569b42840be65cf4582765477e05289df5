@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NTM4NDc4NTY5YjQyODQwYmU2NWNmNDU4Mjc2NTQ3N2UwNTI4OWRmNQ==",
+  "sha": "538478569b42840be65cf4582765477e05289df5",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/538478569b42840be65cf4582765477e05289df5",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-06-06T16:50:49Z"
+  },
+  "object": {
+    "sha": "debf552ed2d4a53957446e82ff3c52a8182d5ff4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/debf552ed2d4a53957446e82ff3c52a8182d5ff4"
+  },
+  "tag": "v0.6.19",
+  "message": "2012.06.06 Version 0.6.19 (stable)\n\n* npm: upgrade to 1.1.24\n\n* fs: no end emit after createReadStream.pause() (Andreas Madsen)\n\n* vm: cleanup module memory leakage (Marcel Laverdet)\n\n* unix: fix loop starvation under high network load (Ben Noordhuis)\n\n* unix: remove abort() in ev_unref() (Ben Noordhuis)\n\n* windows/tty: never report error after forcibly aborting line-buffered read (Bert Belder)\n\n* windows: skip GetFileAttributes call when opening a file (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPz4ppAAoJELCniwpsSBz2vsoIAJUa0d2ra7SqCJvb6ynv/1Vl\nknxkGjNRpGfUTIbD5OCt0123eZ2jrf0ovnGEe+nUnSxu0oEdIcUjv3wE1dt+CaOm\nPacp8y8BAikXWVucL8M9S8k7bFBOmBa3Bmm6JfW+pPz/d4GCvHHFD/QY7menqEYt\n8Wy2SEGCA/CwpmpDOKFhzoQsT2MCUVlzpI7Q6GyjgmJqrnkoMczZCTScbJIr4ZRN\nT7hl92jPdRJvTn6HgFo/LgqzRlIsEK45VzvLEpPSY5pPdSOOnFVDaIUKrk6fBueU\nIg3akQ6rE9VXHggHqB1kWgZzwlggzLrp/iarnNM0eUoT8i9GCug5+2eLJ6Wqe5w=\n=Rczr\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPz4ppAAoJELCniwpsSBz2vsoIAJUa0d2ra7SqCJvb6ynv/1Vl\nknxkGjNRpGfUTIbD5OCt0123eZ2jrf0ovnGEe+nUnSxu0oEdIcUjv3wE1dt+CaOm\nPacp8y8BAikXWVucL8M9S8k7bFBOmBa3Bmm6JfW+pPz/d4GCvHHFD/QY7menqEYt\n8Wy2SEGCA/CwpmpDOKFhzoQsT2MCUVlzpI7Q6GyjgmJqrnkoMczZCTScbJIr4ZRN\nT7hl92jPdRJvTn6HgFo/LgqzRlIsEK45VzvLEpPSY5pPdSOOnFVDaIUKrk6fBueU\nIg3akQ6rE9VXHggHqB1kWgZzwlggzLrp/iarnNM0eUoT8i9GCug5+2eLJ6Wqe5w=\n=Rczr\n-----END PGP SIGNATURE-----\n",
+    "payload": "object debf552ed2d4a53957446e82ff3c52a8182d5ff4\ntype commit\ntag v0.6.19\ntagger isaacs <i@izs.me> 1339001449 -0700\n\n2012.06.06 Version 0.6.19 (stable)\n\n* npm: upgrade to 1.1.24\n\n* fs: no end emit after createReadStream.pause() (Andreas Madsen)\n\n* vm: cleanup module memory leakage (Marcel Laverdet)\n\n* unix: fix loop starvation under high network load (Ben Noordhuis)\n\n* unix: remove abort() in ev_unref() (Ben Noordhuis)\n\n* windows/tty: never report error after forcibly aborting line-buffered read (Bert Belder)\n\n* windows: skip GetFileAttributes call when opening a file (Bert Belder)\n"
+  }
+}

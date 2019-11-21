@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6OGZjOGJjNDQwYWYxZGM3OGRhNmQ2MTkxMjY2Nzc5NThlYTBlNGU4NA==",
+  "sha": "8fc8bc440af1dc78da6d619126677958ea0e4e84",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/8fc8bc440af1dc78da6d619126677958ea0e4e84",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-01-27T16:02:39Z"
+  },
+  "object": {
+    "sha": "44a725a3e420ca676c8ae920cea24d88eb71fbe6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/44a725a3e420ca676c8ae920cea24d88eb71fbe6"
+  },
+  "tag": "v2.0.75",
+  "message": " * (mount) fixed data-cache issue (delete only directories from kerenel dentry cache)\n * (mount) inserting into xattr cache \"nonexistent\" xattr \"security.capability\" after file creation. (speed up writing small files)\n * (master) fixed scenario causing deleting chunks from chunkservers marked for removal\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6Y2YxYmFmOWJkYjAyZmI1NjA4MDBiMzAxNDNmZjRmOTc2ZjMxMzk0Yg==",
+  "sha": "cf1baf9bdb02fb560800b30143ff4f976f31394b",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/cf1baf9bdb02fb560800b30143ff4f976f31394b",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2017-05-01T13:51:59Z"
+  },
+  "object": {
+    "sha": "fefde9e634b1b5fb287ebe16279fafeca6f0ccc9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/fefde9e634b1b5fb287ebe16279fafeca6f0ccc9"
+  },
+  "tag": "v3.0.92",
+  "message": "MooseFS 3.0.92\n\n * (master+tools) added chunk slices to mfsappendchunks\n * (tools) added archive mode tools\n * (master+mount) fixed getfacl (unnecessary check for read rights for uid/gid)\n * (master) fixed changing acl mask during setattr\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6NjM2OWZkZGMxMWQyMDMyNjI0YjQyMjkyNWQwZGQ1NGQ3M2MyMDZmZQ==",
+  "sha": "6369fddc11d2032624b422925d0dd54d73c206fe",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/6369fddc11d2032624b422925d0dd54d73c206fe",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T15:03:54Z"
+  },
+  "object": {
+    "sha": "5562dac33e712d901c8e8577be4ae510a3afc778",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/5562dac33e712d901c8e8577be4ae510a3afc778"
+  },
+  "tag": "v3.0.52",
+  "message": "MooseFS 3.0.52-1\n\n * (mount) added new mechanism for sustaining working directories (replaces mechanism added in 3.0.40)\n * (cs) force disconnection from master couple seconds after term signal (frozen I/O threads can prevent CS from termination)\n * (cs) when RO/RW status or total blocks changes then device is automatically marked as damaged\n * (master) added support for root inode end deleted inodes in MASS_RESOLVE_PATHS\n * (cli) fixed error displaying disconnected chunkservers\n * (rpm) added network-online.target to Wants and After in systemd service files (startup issues after reboot)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY2NTE2NjpmYThiYmMyOGJjZmEwNzEwZDBjZDcyZTBlOWZjNzlhZWRiZGVjMzk2",
+  "sha": "fa8bbc28bcfa0710d0cd72e0e9fc79aedbdec396",
+  "url": "https://api.github.com/repos/openstack/horizon/git/tags/fa8bbc28bcfa0710d0cd72e0e9fc79aedbdec396",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-27T08:57:19Z"
+  },
+  "object": {
+    "sha": "ab429363ba49f2acf8df19dfd393712bfe47c7c0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/horizon/git/commits/ab429363ba49f2acf8df19dfd393712bfe47c7c0"
+  },
+  "tag": "16.0.0.0rc1",
+  "message": "horizon 16.0.0.0rc1 release candidate\n\nmeta:version: 16.0.0.0rc1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Change-Id: Ic6def256e1704ee80f7810f06d9032dddabfc65a\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2Nzu8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2KvQC/97qpLf7dabHcjqlAZh4WVy\nDmUysL+hpKCI4u+Mzfrdf0vQueat12orx9D9j88zSqngzXqs/9btozs0mAsIdOuS\nKEd8zJ28JmNGN96JxwsFKixSB2K4VweqCEEEV9FY9amJlzJH3+BjdrrTrzRzSP7b\nUmKvDbKlhn3AheW3d3Dm4+pS6iKU/XlWIaB8AFa2Nn+EqqNBGQg7/hNmdslXWAhc\nXamTDg9JEGOwm8z1yZowFOdY7xnPFeszn06M33W6MPbi92Gl6q/dzl5UPNomzQUe\n69aAxLexFTxPvuXPuNjAouAE+48WSVt3BGvYuBvuS9y1JB+yBYoUHC1JllCq7TS5\nAZ9TB7onTs4HFXGnvNhqs/9BWilhg6yfZgo7rVV4cV4pxlg8CWfFoMUdx9mEIZij\n/fBT5akph16GAY22Pxv9M8Cu+saIjIUVSBm2bQ4wcSMzQnShy+t97FoEQKPdSAVf\nUvxb64PULYLf5xnkzKw0ZRE0a7UDs13GqksrKEBj7+A=\n=WxyD\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2Nzu8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2KvQC/97qpLf7dabHcjqlAZh4WVy\nDmUysL+hpKCI4u+Mzfrdf0vQueat12orx9D9j88zSqngzXqs/9btozs0mAsIdOuS\nKEd8zJ28JmNGN96JxwsFKixSB2K4VweqCEEEV9FY9amJlzJH3+BjdrrTrzRzSP7b\nUmKvDbKlhn3AheW3d3Dm4+pS6iKU/XlWIaB8AFa2Nn+EqqNBGQg7/hNmdslXWAhc\nXamTDg9JEGOwm8z1yZowFOdY7xnPFeszn06M33W6MPbi92Gl6q/dzl5UPNomzQUe\n69aAxLexFTxPvuXPuNjAouAE+48WSVt3BGvYuBvuS9y1JB+yBYoUHC1JllCq7TS5\nAZ9TB7onTs4HFXGnvNhqs/9BWilhg6yfZgo7rVV4cV4pxlg8CWfFoMUdx9mEIZij\n/fBT5akph16GAY22Pxv9M8Cu+saIjIUVSBm2bQ4wcSMzQnShy+t97FoEQKPdSAVf\nUvxb64PULYLf5xnkzKw0ZRE0a7UDs13GqksrKEBj7+A=\n=WxyD\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ab429363ba49f2acf8df19dfd393712bfe47c7c0\ntype commit\ntag 16.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1569574639 +0000\n\nhorizon 16.0.0.0rc1 release candidate\n\nmeta:version: 16.0.0.0rc1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Change-Id: Ic6def256e1704ee80f7810f06d9032dddabfc65a\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\n"
+  }
+}

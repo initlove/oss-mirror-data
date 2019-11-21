@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6OWE3MzdhNjYxMzEyYjE3YjQxN2NmZWM4ODBmOTc0NGIwMzJhMDdhNA==",
+  "sha": "9a737a661312b17b417cfec880f9744b032a07a4",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/9a737a661312b17b417cfec880f9744b032a07a4",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T15:17:10Z"
+  },
+  "object": {
+    "sha": "81590a5746e79e646b3a365f2c796322f953af13",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/81590a5746e79e646b3a365f2c796322f953af13"
+  },
+  "tag": "v3.0.71",
+  "message": "MooseFS 3.0.71-1\n\n * (cgi+cli) fixed displaying info when there are no active masters (intr. in 3.0.67)\n * (mount+common) refactoring code to be Windows ready\n * (mount) added option 'mfsflattrash' (makes trash look like before version 3.0.64)\n * (mount) added fixes for NetBSD (patch contributed by Tom Ivar Helbekkmo)\n * (master) fixed emptying trash issue (intr. in 3.0.64)\n * (master) fixed possible segfault in chunkservers database (intr. in 3.0.67)\n * (master) changed trash part choice from nondeterministic to deterministic\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

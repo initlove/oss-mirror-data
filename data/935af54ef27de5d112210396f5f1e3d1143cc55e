@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6OTM1YWY1NGVmMjdkZTVkMTEyMjEwMzk2ZjVmMWUzZDExNDNjYzU1ZQ==",
+  "sha": "935af54ef27de5d112210396f5f1e3d1143cc55e",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/935af54ef27de5d112210396f5f1e3d1143cc55e",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.pro",
+    "date": "2019-11-11T08:34:19Z"
+  },
+  "object": {
+    "sha": "0aaa5ab938ba18d3c3c88df8e8573a4e2c906645",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/0aaa5ab938ba18d3c3c88df8e8573a4e2c906645"
+  },
+  "tag": "v3.0.107",
+  "message": "MooseFS 3.0.107\n\n * (master) added NOP command to changelog\n * (master+supervisor) added time check\n * (cs) fixed behaviour when job queue is full\n * (cli+cgi) added time data to master servers\n * (cs) fixed NOP packets ping-pong\n * (client) fixed NOP flooding in write module\n * (cs) fixed race condition in bgjobs module (jobhash)\n * (cs+mount) added new status returned to mount when queue is full and support for it in client module\n * (mount) added initial support for libfuse3 (related to issue #302)\n * (mount) added support for readdirplus (related to issue #302)\n * (mount) workaround for bug in fuse (wrong lock_owner in flush - issue #305)\n * (mount) fixed deadlock in readdata.c (closes issue #306)\n * (mount+master) fixed few small issues related to POSIX compliance (checked by pjd)\n * (all) changed prefered C standard from C99 to C11 and added tests for atomics\n * (mount) move read/write structures initialization from open to read/write\n * (mount,mfsio) added new inode->fleng map\n * (configure) added option disable_all, added summary at the end\n * (freebsd) detecting new fuse version in the kernel and adjusting behaviour\n * (tools) better handling of unrecognized options\n * (master) better hard links handling\n * (master) added limit for number of hardlinks allowed for one object\n * (master) added option for automatic removal of unused chunkservers (issue #247)\n * (metadirinfo) fixed segfault when output filename is not specified\n * (chunktool) added file name fixing option (issue #276)\n * (all) changed chunk replication and deletion charts into two color charts (successful/unsuccessful - issue #273)\n * (all) added new charts with number of chunk creations and internal changes (also successful and unsuccesful)\n * (master) added ignoring chunk with id zero sent from chunkserver\n * (metadump) added option for dumping parts of metadata\n * (master) added more logs to background data write subprocess (connected with issue #280)\n * (master) fixed LEADER/FOLLOWER desync on SETCHUNK command (pro only)\n * (cli+cgi) fixed shebang in python scripts (preference for python3 in configure)\n * (master) changed pipe in bgsaver to nonblocking mode\n * (master) added check if the background saving process is alive\n * (master) added lockfile for background saving process\n * (master) added protection against time going back in the free inodes list\n * (master) added protection in FOLLOWER against not keeping up with the LEADER (pro only)\n * (master) changed condition for removing chunk from data structures (all chunkservers have to be connected)\n * (master) added 'restore' run mode (works similar to 'mfsmaster -a' but without running daemon)\n * (master) take write replication counters into account in server ordering for new chunk creations\n * (master) changed calcualting replication limits in chunk rebalance procedure (using actual usage difference)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

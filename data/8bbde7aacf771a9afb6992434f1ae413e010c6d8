@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU1Mzc5MDo4YmJkZTdhYWNmNzcxYTlhZmI2OTkyNDM0ZjFhZTQxM2UwMTBjNmQ4",
+  "sha": "8bbde7aacf771a9afb6992434f1ae413e010c6d8",
+  "url": "https://api.github.com/repos/eclipse/jgit/git/tags/8bbde7aacf771a9afb6992434f1ae413e010c6d8",
+  "tagger": {
+    "name": "Shawn O. Pearce",
+    "email": "spearce@spearce.org",
+    "date": "2007-03-12T21:02:10Z"
+  },
+  "object": {
+    "sha": "fd608fbe625a2b456d9f15c2b1dc41f252057dd7",
+    "type": "blob",
+    "url": "https://api.github.com/repos/eclipse/jgit/git/blobs/fd608fbe625a2b456d9f15c2b1dc41f252057dd7"
+  },
+  "tag": "spearce-gpg-pub",
+  "message": "GPG key to sign egit.git archive.\n\nThis blob object contains the GPG public key I use to\nsign tags in the egit.git repository.\n\nTo use it to verify tags I signed do:\n\n  $ git-cat-file blob spearce-gpg-pub | gpg --import\n\nto import it into your keyring, and then:\n\n  $ git-verify-tag $tag_to_be_verified\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.6 (Darwin)\n\niD8DBQBF9b/XUNGUoZnrPF0RAiHTAJ9eEEP5Cy28ERQoag2EnAC5RmtmUwCbBzcb\nf6sEfg0jt5PoDX58jb/oG/8=\n=UYJj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.6 (Darwin)\n\niD8DBQBF9b/XUNGUoZnrPF0RAiHTAJ9eEEP5Cy28ERQoag2EnAC5RmtmUwCbBzcb\nf6sEfg0jt5PoDX58jb/oG/8=\n=UYJj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object fd608fbe625a2b456d9f15c2b1dc41f252057dd7\ntype blob\ntag spearce-gpg-pub\ntagger Shawn O. Pearce <spearce@spearce.org> 1173733330 -0400\n\nGPG key to sign egit.git archive.\n\nThis blob object contains the GPG public key I use to\nsign tags in the egit.git repository.\n\nTo use it to verify tags I signed do:\n\n  $ git-cat-file blob spearce-gpg-pub | gpg --import\n\nto import it into your keyring, and then:\n\n  $ git-verify-tag $tag_to_be_verified\n"
+  }
+}

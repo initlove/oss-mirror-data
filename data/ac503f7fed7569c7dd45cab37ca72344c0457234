@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6YWM1MDNmN2ZlZDc1NjljN2RkNDVjYWIzN2NhNzIzNDRjMDQ1NzIzNA==",
+  "sha": "ac503f7fed7569c7dd45cab37ca72344c0457234",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/ac503f7fed7569c7dd45cab37ca72344c0457234",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T14:32:59Z"
+  },
+  "object": {
+    "sha": "944708474ae85a99ab8c67a9ae381206f71569c2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/944708474ae85a99ab8c67a9ae381206f71569c2"
+  },
+  "tag": "v3.0.28",
+  "message": "MooseFS 3.0.28-1\n\n * (master) fixed lock issue on empty (chunkid==0) chunk\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

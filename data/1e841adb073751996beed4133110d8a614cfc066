@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6MWU4NDFhZGIwNzM3NTE5OTZiZWVkNDEzMzExMGQ4YTYxNGNmYzA2Ng==",
+  "sha": "1e841adb073751996beed4133110d8a614cfc066",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/1e841adb073751996beed4133110d8a614cfc066",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-01-27T16:01:35Z"
+  },
+  "object": {
+    "sha": "b18f0863213d34e1db8805029bd572da4826a640",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/b18f0863213d34e1db8805029bd572da4826a640"
+  },
+  "tag": "v2.0.72",
+  "message": " * (master) fixed free inodes list issue (segfault that can happen only during first 60 seconds after starting master with new metadata)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

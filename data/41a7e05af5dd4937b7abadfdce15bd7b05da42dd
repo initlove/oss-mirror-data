@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjE0OTA1OTg6NDFhN2UwNWFmNWRkNDkzN2I3YWJhZGZkY2UxNWJkN2IwNWRhNDJkZA==",
+  "sha": "41a7e05af5dd4937b7abadfdce15bd7b05da42dd",
+  "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/tags/41a7e05af5dd4937b7abadfdce15bd7b05da42dd",
+  "tagger": {
+    "name": "Adrien Crivelli",
+    "email": "adrien.crivelli@gmail.com",
+    "date": "2019-08-17T22:24:51Z"
+  },
+  "object": {
+    "sha": "8dea03eaf60a349b6097e4bcad11f894668280df",
+    "type": "commit",
+    "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/commits/8dea03eaf60a349b6097e4bcad11f894668280df"
+  },
+  "tag": "1.9.0",
+  "message": "1.9.0\n\n### Added\n\n- When &lt;br&gt; appears in a table cell, set the cell to wrap [#1071](https://github.com/PHPOffice/PhpSpreadsheet/issues/1071) and [#1070](https://github.com/PHPOffice/PhpSpreadsheet/pull/1070)\n- Add MAXIFS, MINIFS, COUNTIFS and Remove MINIF, MAXIF [#1056](https://github.com/PHPOffice/PhpSpreadsheet/issues/1056)\n- HLookup needs an ordered list even if range_lookup is set to false [#1055](https://github.com/PHPOffice/PhpSpreadsheet/issues/1055) and [#1076](https://github.com/PHPOffice/PhpSpreadsheet/pull/1076)\n- Improve performance of IF function calls via ranch pruning to avoid resolution of every branches [#844](https://github.com/PHPOffice/PhpSpreadsheet/pull/844)\n- MATCH function supports `*?~` Excel functionality, when match_type=0 [#1116](https://github.com/PHPOffice/PhpSpreadsheet/issues/1116)\n- Allow HTML Reader to accept HTML as a string [#1136](https://github.com/PHPOffice/PhpSpreadsheet/pull/1136)\n\n### Fixed\n\n- Fix to AVERAGEIF() function when called with a third argument\n- Eliminate duplicate fill none style entries [#1066](https://github.com/PHPOffice/PhpSpreadsheet/issues/1066)\n- Fix number format masks containing literal (non-decimal point) dots [#1079](https://github.com/PHPOffice/PhpSpreadsheet/issues/1079)\n- Fix number format masks containing named colours that were being misinterpreted as date formats; and add support for masks that fully replace the value with a full text string [#1009](https://github.com/PHPOffice/PhpSpreadsheet/issues/1009)\n- Stricter-typed comparison testing in COUNTIF() and COUNTIFS() evaluation [#1046](https://github.com/PHPOffice/PhpSpreadsheet/issues/1046)\n- COUPNUM should not return zero when settlement is in the last period [#1020](https://github.com/PHPOffice/PhpSpreadsheet/issues/1020) and [#1021](https://github.com/PHPOffice/PhpSpreadsheet/pull/1021)\n- Fix handling of named ranges referencing sheets with spaces or \"!\" in their title\n- Cover `getSheetByName()` with tests for name with quote and spaces [#739](https://github.com/PHPOffice/PhpSpreadsheet/issues/739)\n- Best effort to support invalid colspan values in HTML reader - [#878](https://github.com/PHPOffice/PhpSpreadsheet/pull/878)\n- Fixes incorrect rows deletion [#868](https://github.com/PHPOffice/PhpSpreadsheet/issues/868)\n- MATCH function fix (value search by type, stop search when match_type=-1 and unordered element encountered) [#1116](https://github.com/PHPOffice/PhpSpreadsheet/issues/1116)\n- Fix `getCalculatedValue()` error with more than two INDIRECT [#1115](https://github.com/PHPOffice/PhpSpreadsheet/pull/1115)\n- Writer\\Html did not hide columns [#985](https://github.com/PHPOffice/PhpSpreadsheet/pull/985)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

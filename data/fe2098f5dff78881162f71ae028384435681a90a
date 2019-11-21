@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMyNTI5ODpmZTIwOThmNWRmZjc4ODgxMTYyZjcxYWUwMjgzODQ0MzU2ODFhOTBh",
+  "sha": "fe2098f5dff78881162f71ae028384435681a90a",
+  "url": "https://api.github.com/repos/torvalds/linux/git/tags/fe2098f5dff78881162f71ae028384435681a90a",
+  "tagger": {
+    "name": "Linus Torvalds",
+    "email": "torvalds@linux-foundation.org",
+    "date": "2010-03-08T18:45:55Z"
+  },
+  "object": {
+    "sha": "57d54889cd00db2752994b389ba714138652e60c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/torvalds/linux/git/commits/57d54889cd00db2752994b389ba714138652e60c"
+  },
+  "tag": "v2.6.34-rc1",
+  "message": "Linux 2.6.34-rc1\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.10 (GNU/Linux)\n\niEYEABECAAYFAkuVRxsACgkQF3YsRnbiHLssRgCfc+7Sh0R85WlcKLcXfpQowAUb\n1J0An2MG3HQpqjVxelMoo4QT/adbyVy1\n=6fSG\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.10 (GNU/Linux)\n\niEYEABECAAYFAkuVRxsACgkQF3YsRnbiHLssRgCfc+7Sh0R85WlcKLcXfpQowAUb\n1J0An2MG3HQpqjVxelMoo4QT/adbyVy1\n=6fSG\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 57d54889cd00db2752994b389ba714138652e60c\ntype commit\ntag v2.6.34-rc1\ntagger Linus Torvalds <torvalds@linux-foundation.org> 1268073955 -0800\n\nLinux 2.6.34-rc1\n"
+  }
+}

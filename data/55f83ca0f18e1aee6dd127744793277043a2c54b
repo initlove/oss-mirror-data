@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY2NTE2Njo1NWY4M2NhMGYxOGUxYWVlNmRkMTI3NzQ0NzkzMjc3MDQzYTJjNTRi",
+  "sha": "55f83ca0f18e1aee6dd127744793277043a2c54b",
+  "url": "https://api.github.com/repos/openstack/horizon/git/tags/55f83ca0f18e1aee6dd127744793277043a2c54b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-09-30T18:16:40Z"
+  },
+  "object": {
+    "sha": "f9b676aba63a55e61301dd4e4a1f58667b399e35",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/horizon/git/commits/f9b676aba63a55e61301dd4e4a1f58667b399e35"
+  },
+  "tag": "10.0.0.0rc3",
+  "message": "horizon 10.0.0.0rc3 release candidate\n\nmeta:version: 10.0.0.0rc3\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: David Lyle <david.lyle@intel.com>\nmeta:release:Commit: David Lyle <david.lyle@intel.com>\nmeta:release:Change-Id: I48257b52da1b73d9bd5b487b162de6a854ab9d17\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX7qwIAAoJENljH+rwzGInq1IH/1C2/wD/zNtQKrAaNLVUH4Zi\nO1rUMj3ATtSfiHAanewW6iHR/0KngJhPAeWTOYNx7+x2Mr9F4Q0fZ2cOSHPOvuFa\njjdsWEDIjQmpxdH5bgBaPnemuf/Zrb4WK+Z1DtZZiZqu/P7sv/96xoT7I4vSUQFG\nPjDZA+LgbS8LhF/6UCMzgY6r90O0tvvWLT3eNTVaTEZ/iUnILF0tfrzlRq8gf8hU\niJL5v0Y52uRQuL7VjTQYlNQNwzbDb5u4+f2RnWvKiOvB7T4NVfaM0eO7NU6ktyls\nF7xdTWTzWrSri8mdmpNIqu3JO6qfUonMt5edptR5NJWUXBTxaCxlVCgUwWBgwpU=\n=V3l6\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX7qwIAAoJENljH+rwzGInq1IH/1C2/wD/zNtQKrAaNLVUH4Zi\nO1rUMj3ATtSfiHAanewW6iHR/0KngJhPAeWTOYNx7+x2Mr9F4Q0fZ2cOSHPOvuFa\njjdsWEDIjQmpxdH5bgBaPnemuf/Zrb4WK+Z1DtZZiZqu/P7sv/96xoT7I4vSUQFG\nPjDZA+LgbS8LhF/6UCMzgY6r90O0tvvWLT3eNTVaTEZ/iUnILF0tfrzlRq8gf8hU\niJL5v0Y52uRQuL7VjTQYlNQNwzbDb5u4+f2RnWvKiOvB7T4NVfaM0eO7NU6ktyls\nF7xdTWTzWrSri8mdmpNIqu3JO6qfUonMt5edptR5NJWUXBTxaCxlVCgUwWBgwpU=\n=V3l6\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f9b676aba63a55e61301dd4e4a1f58667b399e35\ntype commit\ntag 10.0.0.0rc3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1475259400 +0000\n\nhorizon 10.0.0.0rc3 release candidate\n\nmeta:version: 10.0.0.0rc3\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: David Lyle <david.lyle@intel.com>\nmeta:release:Commit: David Lyle <david.lyle@intel.com>\nmeta:release:Change-Id: I48257b52da1b73d9bd5b487b162de6a854ab9d17\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

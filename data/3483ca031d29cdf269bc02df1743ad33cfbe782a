@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6MzQ4M2NhMDMxZDI5Y2RmMjY5YmMwMmRmMTc0M2FkMzNjZmJlNzgyYQ==",
+  "sha": "3483ca031d29cdf269bc02df1743ad33cfbe782a",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/3483ca031d29cdf269bc02df1743ad33cfbe782a",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T15:03:04Z"
+  },
+  "object": {
+    "sha": "ffd540a793540d8b1ae19269efd1a11f7a9858b5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/ffd540a793540d8b1ae19269efd1a11f7a9858b5"
+  },
+  "tag": "v3.0.50",
+  "message": "MooseFS 3.0.50-1\n\n * (master+mount) for files with EATTR_NODATACACHE mounts will always use direct io\n * (all) changed suffix of sample configuration files from '.dist' to '.sample'\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

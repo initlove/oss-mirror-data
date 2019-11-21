@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6M2E3YTAwODQyODk0NDY5YTg4Y2MwNmEwY2VlNzY5NWI3MjgxMWYwMg==",
+  "sha": "3a7a00842894469a88cc06a0cee7695b72811f02",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/3a7a00842894469a88cc06a0cee7695b72811f02",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-03-30T18:36:43Z"
+  },
+  "object": {
+    "sha": "5cda2542fdb086f9fe5de889bea435a65e377dea",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/5cda2542fdb086f9fe5de889bea435a65e377dea"
+  },
+  "tag": "v0.7.7",
+  "message": "2012.03.30, Version 0.7.7 (unstable)\n\n* Upgrade V8 to 3.9.24.7\n\n* Upgrade npm to 1.1.15\n\n* Handle Emoji characters properly (Erik Corry, Bert Belder)\n\n* readline: migrate ansi/vt100 logic from tty to readline (Nathan Rajlich)\n\n* readline: Fix multiline handling (Alex Kocharin)\n\n* add a -i/--interactive flag to force the REPL (Nathan Rajlich)\n\n* debugger: add breakOnException command (Fedor Indutny)\n\n* cluster: kill workers when master dies (Andreas Madsen)\n\n* cluster: add graceful disconnect support (Andreas Madsen)\n\n* child_process: Separate 'close' event from 'exit' (Charlie McConnell)\n\n* typed arrays: add Uint8ClampedArray (Mikael Bourges-Sevenier)\n\n* buffer: Fix byte alignment issues (Ben Noordhuis, Erik Lundin)\n\n* tls: fix CryptoStream.setKeepAlive() (Shigeki Ohtsu)\n\n* Expose http parse error codes (Felix Geisendörfer)\n\n* events: don't delete the listeners array (Ben Noordhuis, Nathan Rajlich)\n\n* process: add process.config to view node's ./configure settings (Nathan Rajlich)\n\n* process: process.execArgv to see node's arguments (Micheil Smith)\n\n* process: fix process.title setter (Ben Noordhuis)\n\n* timers: handle negative or non-numeric timeout values (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPdf07AAoJELCniwpsSBz2rgkH/3DLbfxv6lgcLq096J2ot3wS\nAAJB1HmMEcpwaUIRKMOizc9IeM+xt3ufBDgzU84KNYjDPWi3WKP9JBnL062My0AK\nTjn53+EmAiKysyJx83S7ZJqi6b5ERoC3GBAc7AuQZDCUwvvAQPmuOdnUOyVXud2S\n/Y0N0aKbN7SOVk6FklM4WG5zd+CWu5sxpbQv/AonrRpdLAOqqFZBBn6JOs2UlQ8b\nnQgAVoRcRGGWiTK6Ttalx3p5UOOESh+g2ogoDYXLCW44iODwL/Kk25KrFITAFdC9\ntZ2o4Y2OqWt6JkR+LkxXqrqdxNm7kLphUMuQm/+LlzNyiqqE2BHfvk9ydskzadE=\n=Ujcz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPdf07AAoJELCniwpsSBz2rgkH/3DLbfxv6lgcLq096J2ot3wS\nAAJB1HmMEcpwaUIRKMOizc9IeM+xt3ufBDgzU84KNYjDPWi3WKP9JBnL062My0AK\nTjn53+EmAiKysyJx83S7ZJqi6b5ERoC3GBAc7AuQZDCUwvvAQPmuOdnUOyVXud2S\n/Y0N0aKbN7SOVk6FklM4WG5zd+CWu5sxpbQv/AonrRpdLAOqqFZBBn6JOs2UlQ8b\nnQgAVoRcRGGWiTK6Ttalx3p5UOOESh+g2ogoDYXLCW44iODwL/Kk25KrFITAFdC9\ntZ2o4Y2OqWt6JkR+LkxXqrqdxNm7kLphUMuQm/+LlzNyiqqE2BHfvk9ydskzadE=\n=Ujcz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5cda2542fdb086f9fe5de889bea435a65e377dea\ntype commit\ntag v0.7.7\ntagger isaacs <i@izs.me> 1333132603 -0700\n\n2012.03.30, Version 0.7.7 (unstable)\n\n* Upgrade V8 to 3.9.24.7\n\n* Upgrade npm to 1.1.15\n\n* Handle Emoji characters properly (Erik Corry, Bert Belder)\n\n* readline: migrate ansi/vt100 logic from tty to readline (Nathan Rajlich)\n\n* readline: Fix multiline handling (Alex Kocharin)\n\n* add a -i/--interactive flag to force the REPL (Nathan Rajlich)\n\n* debugger: add breakOnException command (Fedor Indutny)\n\n* cluster: kill workers when master dies (Andreas Madsen)\n\n* cluster: add graceful disconnect support (Andreas Madsen)\n\n* child_process: Separate 'close' event from 'exit' (Charlie McConnell)\n\n* typed arrays: add Uint8ClampedArray (Mikael Bourges-Sevenier)\n\n* buffer: Fix byte alignment issues (Ben Noordhuis, Erik Lundin)\n\n* tls: fix CryptoStream.setKeepAlive() (Shigeki Ohtsu)\n\n* Expose http parse error codes (Felix Geisendörfer)\n\n* events: don't delete the listeners array (Ben Noordhuis, Nathan Rajlich)\n\n* process: add process.config to view node's ./configure settings (Nathan Rajlich)\n\n* process: process.execArgv to see node's arguments (Micheil Smith)\n\n* process: fix process.title setter (Ben Noordhuis)\n\n* timers: handle negative or non-numeric timeout values (Ben Noordhuis)\n"
+  }
+}

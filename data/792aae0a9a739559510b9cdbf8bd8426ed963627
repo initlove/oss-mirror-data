@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NzkyYWFlMGE5YTczOTU1OTUxMGI5Y2RiZjhiZDg0MjZlZDk2MzYyNw==",
+  "sha": "792aae0a9a739559510b9cdbf8bd8426ed963627",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/792aae0a9a739559510b9cdbf8bd8426ed963627",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-07-14T23:10:51Z"
+  },
+  "object": {
+    "sha": "f8bfa54d0fa509f9242637bef2869a1b1e842ec8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/f8bfa54d0fa509f9242637bef2869a1b1e842ec8"
+  },
+  "tag": "v0.5.1",
+  "message": "2011.07.14, Version 0.5.1 (unstable)\n\n* #1233 Fix os.totalmem on FreeBSD amd64 (Artem Zaytsev)\n\n* #1149 IDNA and Punycode support in url.parse\n  (Jeremy Selier, Ben Noordhuis, isaacs)\n\n* Export $CC and $CXX to uv and V8's build systems\n\n* Include pthread-win32 static libraries in build (Igor Zinkovsky)\n\n* #1199, #1094 Fix fs can't handle large file on 64bit platform (koichik)\n\n* #1281 Make require a public member of module (isaacs)\n\n* #1303 Stream.pipe returns the destination (Elijah Insua)\n\n* #1229 Addons should not -DEV_MULTIPLICITY=0 (Brian White)\n\n* libuv backend improvements\n\n* Upgrade V8 to 3.4.10\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

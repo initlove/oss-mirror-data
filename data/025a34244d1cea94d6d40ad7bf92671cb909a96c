@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MDI1YTM0MjQ0ZDFjZWE5NGQ2ZDQwYWQ3YmY5MjY3MWNiOTA5YTk2Yw==",
+  "sha": "025a34244d1cea94d6d40ad7bf92671cb909a96c",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/025a34244d1cea94d6d40ad7bf92671cb909a96c",
+  "tagger": {
+    "name": "Ryan",
+    "email": "ry@tinyclouds.org",
+    "date": "2009-08-01T12:56:55Z"
+  },
+  "object": {
+    "sha": "e10fbab00fd8325a7d05d1f854292143b8361e1f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/e10fbab00fd8325a7d05d1f854292143b8361e1f"
+  },
+  "tag": "v0.1.2",
+  "message": "2009.08.01, Version 0.1.2\n\n  * Add DNS API\n\n  * node.tcp.Server's backlog option is now an argument to listen()\n\n  * Upgrade V8 to 1.3.1\n\n  * Bugfix: Default to chunked for client requests without C-Length.\n\n  * Bugfix: Line numbers in stack traces.\n\n  * Bugfix: negative integers in raw encoding stream\n\n  * Bugfix: node.fs.File was not passing args to promise callbacks.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

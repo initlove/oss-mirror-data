@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6Mjg0NDAxZmRjYjg2ZThjNmM5MTM3ZmFhNWNmMGU2MzNhMzg0NmFkNw==",
+  "sha": "284401fdcb86e8c6c9137faa5cf0e633a3846ad7",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/284401fdcb86e8c6c9137faa5cf0e633a3846ad7",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-01-24T01:26:31Z"
+  },
+  "object": {
+    "sha": "a74354735ab5d5b0fa35a1e4ff7e653757d2069b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/a74354735ab5d5b0fa35a1e4ff7e653757d2069b"
+  },
+  "tag": "v0.7.1",
+  "message": "2012.01.23, Version 0.7.1 (unstable)\n\n* Update V8 to 3.8.8\n\n* Install node-waf by default (Fedor Indutny)\n\n* crypto: Add ability to turn off PKCS padding (Ingmar Runge)\n\n* v8: implement VirtualMemory class on SunOS (Ben Noordhuis)\n\n* Add cluster.setupMaster (Andreas Madsen)\n\n* move `path.exists*` to `fs.exists*` (Maciej Małecki)\n\n* typed arrays: set class name (Ben Noordhuis)\n\n* libuv bug fixes (Igor Zinkovsky, Ben Noordhuis, Dan VerWeire)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

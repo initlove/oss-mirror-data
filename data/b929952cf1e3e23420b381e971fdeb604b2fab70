@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6YjkyOTk1MmNmMWUzZTIzNDIwYjM4MWU5NzFmZGViNjA0YjJmYWI3MA==",
+  "sha": "b929952cf1e3e23420b381e971fdeb604b2fab70",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/b929952cf1e3e23420b381e971fdeb604b2fab70",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T14:33:29Z"
+  },
+  "object": {
+    "sha": "fcd549b6979175f4afef9b95265b24608ece8058",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/fcd549b6979175f4afef9b95265b24608ece8058"
+  },
+  "tag": "v3.0.29",
+  "message": "MooseFS 3.0.29-1\n\n * (master) fixed truncate bug (freezing mount during truncate in some rare scenarios)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTMyMDU5NDoyYTc1ZTc1MjliODYwNTRjOGMyZjYzNTRkYTk2MjM5OWM3NWMxMmM3",
+  "sha": "2a75e7529b86054c8c2f6354da962399c75c12c7",
+  "url": "https://api.github.com/repos/SpiderLabs/ModSecurity/git/tags/2a75e7529b86054c8c2f6354da962399c75c12c7",
+  "tagger": {
+    "name": "Felipe Zimmerle",
+    "email": "fcosta@trustwave.com",
+    "date": "2013-12-19T19:11:00Z"
+  },
+  "object": {
+    "sha": "87115e770a9cf10497a82fcc8eee261d35f379a7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/SpiderLabs/ModSecurity/git/commits/87115e770a9cf10497a82fcc8eee261d35f379a7"
+  },
+  "tag": "v2.7.7",
+  "message": "* Changed release version to 2.7.7;\n* Got the configure scripts inside the release tarball;\n* Tarball created outside Github respecting the names used in older versions and available under modsecurity.org avoiding to break packages' recipes.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.14 (GNU/Linux)\nComment: GPGTools - https://gpgtools.org\n\niEYEABECAAYFAlK8ydMACgkQ5t+wjOixEndEbgCfSs3fAuy4ic9w5obUs/kR92ow\nvKoAn2CVdFJd1o6YO7Zf06H5z5qjfGoF\n=GHba\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.14 (GNU/Linux)\nComment: GPGTools - https://gpgtools.org\n\niEYEABECAAYFAlK8ydMACgkQ5t+wjOixEndEbgCfSs3fAuy4ic9w5obUs/kR92ow\nvKoAn2CVdFJd1o6YO7Zf06H5z5qjfGoF\n=GHba\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 87115e770a9cf10497a82fcc8eee261d35f379a7\ntype commit\ntag v2.7.7\ntagger Felipe Zimmerle <fcosta@trustwave.com> 1387480260 -0800\n\n* Changed release version to 2.7.7;\n* Got the configure scripts inside the release tarball;\n* Tarball created outside Github respecting the names used in older versions and available under modsecurity.org avoiding to break packages' recipes.\n"
+  }
+}

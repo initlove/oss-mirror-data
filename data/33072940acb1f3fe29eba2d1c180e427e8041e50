@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6MzMwNzI5NDBhY2IxZjNmZTI5ZWJhMmQxYzE4MGU0MjdlODA0MWU1MA==",
+  "sha": "33072940acb1f3fe29eba2d1c180e427e8041e50",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/33072940acb1f3fe29eba2d1c180e427e8041e50",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T15:14:19Z"
+  },
+  "object": {
+    "sha": "db3796f88e75db2b5d023c61efbd1a15a02ad59c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/db3796f88e75db2b5d023c61efbd1a15a02ad59c"
+  },
+  "tag": "v3.0.67",
+  "message": "MooseFS 3.0.67-1\n\n * (cgi+cli) added much more info for master in ELECT state (pro version only)\n * (master+cgi+cli) added temporarily removing chunkservers in master in ELECT state (pro version only)\n * (cgi) fixed bug in ChunkServers list (heavy load/internal rebalance)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

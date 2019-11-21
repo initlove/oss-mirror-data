@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzMwMzcyMTU6MjcyYWE4ZDM5Y2U5ZGRkMDg5NjFmNzk1ZjkyOGZmMmY4YzQyYjk2Yw==",
+  "sha": "272aa8d39ce9ddd08961f795f928ff2f8c42b96c",
+  "url": "https://api.github.com/repos/tomav/docker-mailserver/git/tags/272aa8d39ce9ddd08961f795f928ff2f8c42b96c",
+  "tagger": {
+    "name": "Johan Smits",
+    "email": "johan@smitsmail.net",
+    "date": "2018-04-01T10:27:55Z"
+  },
+  "object": {
+    "sha": "8910aa9be706733105c95fdf3fc1a6f9faaed41a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tomav/docker-mailserver/git/commits/8910aa9be706733105c95fdf3fc1a6f9faaed41a"
+  },
+  "tag": "v5.8.1",
+  "message": "Release 5.8.1\n\n* add headers to postfix summary mail (#919)\n* quotes needed to run multi-word command inside\n  container (#921)\n* Fix uncommented lines in .env file (#920)\n* Tls level fix (#916)\n* test/config backup & restore (#907)\n* Restore userdb for tests (#913)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

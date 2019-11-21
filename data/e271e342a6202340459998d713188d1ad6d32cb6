@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMyNTI5ODplMjcxZTM0MmE2MjAyMzQwNDU5OTk4ZDcxMzE4OGQxYWQ2ZDMyY2I2",
+  "sha": "e271e342a6202340459998d713188d1ad6d32cb6",
+  "url": "https://api.github.com/repos/torvalds/linux/git/tags/e271e342a6202340459998d713188d1ad6d32cb6",
+  "tagger": {
+    "name": "Linus Torvalds",
+    "email": "torvalds@linux-foundation.org",
+    "date": "2013-09-23T22:41:21Z"
+  },
+  "object": {
+    "sha": "4a10c2ac2f368583138b774ca41fac4207911983",
+    "type": "commit",
+    "url": "https://api.github.com/repos/torvalds/linux/git/commits/4a10c2ac2f368583138b774ca41fac4207911983"
+  },
+  "tag": "v3.12-rc2",
+  "message": "Linux 3.12-rc2\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.14 (GNU/Linux)\n\niQEcBAABAgAGBQJSQMORAAoJEHm+PkMAQRiGj14H/1bjhtfNjPdX7MVQAzA+WpwX\ns7h1IQu2Si9S5S1lBiM2sBTOssVcmfheO9x4yqm7JNOD1RnssWKOM3q+zVOLstwd\nGD3gluJPeraD5EyYSqEJ9ILPQ3gbxb4wOlT0Z291TW6E8XhLRr0RTOJPksRsgvLH\nCkm9uJh6ArS6ZXfXiaDQfd+xHAQJkUfW6nMSA0g9ZO9C6KIDRvcbUmrY3m4HhfIk\nmK0TXCBs+AXGDIjTEB8JgIQL/5y1Qn0c4R+2uTU/4YWwyLvJTV1e44kGoleukMMT\n6Pw/TNlUEN161dbSaqCyF3sfXHDYQ5valycI2PDgitMtPSxbzsU1VDizS8+daRg=\n=lEmF\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.14 (GNU/Linux)\n\niQEcBAABAgAGBQJSQMORAAoJEHm+PkMAQRiGj14H/1bjhtfNjPdX7MVQAzA+WpwX\ns7h1IQu2Si9S5S1lBiM2sBTOssVcmfheO9x4yqm7JNOD1RnssWKOM3q+zVOLstwd\nGD3gluJPeraD5EyYSqEJ9ILPQ3gbxb4wOlT0Z291TW6E8XhLRr0RTOJPksRsgvLH\nCkm9uJh6ArS6ZXfXiaDQfd+xHAQJkUfW6nMSA0g9ZO9C6KIDRvcbUmrY3m4HhfIk\nmK0TXCBs+AXGDIjTEB8JgIQL/5y1Qn0c4R+2uTU/4YWwyLvJTV1e44kGoleukMMT\n6Pw/TNlUEN161dbSaqCyF3sfXHDYQ5valycI2PDgitMtPSxbzsU1VDizS8+daRg=\n=lEmF\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4a10c2ac2f368583138b774ca41fac4207911983\ntype commit\ntag v3.12-rc2\ntagger Linus Torvalds <torvalds@linux-foundation.org> 1379976081 -0700\n\nLinux 3.12-rc2\n"
+  }
+}

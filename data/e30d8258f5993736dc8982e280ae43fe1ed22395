@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY2NTE2NjplMzBkODI1OGY1OTkzNzM2ZGM4OTgyZTI4MGFlNDNmZTFlZDIyMzk1",
+  "sha": "e30d8258f5993736dc8982e280ae43fe1ed22395",
+  "url": "https://api.github.com/repos/openstack/horizon/git/tags/e30d8258f5993736dc8982e280ae43fe1ed22395",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-06-12T14:43:38Z"
+  },
+  "object": {
+    "sha": "4c203b10c874db2b88b8d283938a1acd6ccc3fa8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/horizon/git/commits/4c203b10c874db2b88b8d283938a1acd6ccc3fa8"
+  },
+  "tag": "16.0.0.0b1",
+  "message": "horizon 16.0.0.0b1 development milestone\n\nmeta:version: 16.0.0.0b1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Commit: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Change-Id: I665863ee7fb4f54255716f04e016e1a017f835c2\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0BD5oZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2FckC/4n+0k/ubwjXGTB5Ycym8Xr\nsDGwuw0hqhJPeD02FtGSuuoZwbbMgzXbb5yPQhRpQaPyNpM0WoapPwBqLKLXnBFL\n7Ti7NE7+/tvy2bbC3JGJJFV6kStD8K+Is/rfj7CKAljTynvVJ8pDpnpOt7cL0EEF\nFmkU0VlwSp19G9VoB9ta5AU7xRA9UZlN7xyT+9hP8c5cO0O4Pp2Vb6w9C5B6gYcV\nDkfemRi+sXMVPjLk2RUoOjfB9wV/K4CDXxvlwj3t197pfyrOyr9bw0d8lAfp6cz/\n876+uP5C1EdL3svQcQza0hFA0wFj+/xCj+JD41s2ux1ripKB3RVOZTkwaYQU/i0x\n/CFd+wLrhMBFNF5zHz7YP0hvgAmFyo6pVJ0hXN3J/KW15LA6Xjq7Lq3O58TTEi00\nxDKR6Hb8CS65HGXTrMcCfQUqLq2Zzu2eJ0mgMz4VE44p+dWmGQf8Q5UGeiA4T513\nFnyNHhoeWSX/0KLNQ81bL1AhzXIB6jdQCDIOCPQQn1o=\n=0T2p\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0BD5oZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2FckC/4n+0k/ubwjXGTB5Ycym8Xr\nsDGwuw0hqhJPeD02FtGSuuoZwbbMgzXbb5yPQhRpQaPyNpM0WoapPwBqLKLXnBFL\n7Ti7NE7+/tvy2bbC3JGJJFV6kStD8K+Is/rfj7CKAljTynvVJ8pDpnpOt7cL0EEF\nFmkU0VlwSp19G9VoB9ta5AU7xRA9UZlN7xyT+9hP8c5cO0O4Pp2Vb6w9C5B6gYcV\nDkfemRi+sXMVPjLk2RUoOjfB9wV/K4CDXxvlwj3t197pfyrOyr9bw0d8lAfp6cz/\n876+uP5C1EdL3svQcQza0hFA0wFj+/xCj+JD41s2ux1ripKB3RVOZTkwaYQU/i0x\n/CFd+wLrhMBFNF5zHz7YP0hvgAmFyo6pVJ0hXN3J/KW15LA6Xjq7Lq3O58TTEi00\nxDKR6Hb8CS65HGXTrMcCfQUqLq2Zzu2eJ0mgMz4VE44p+dWmGQf8Q5UGeiA4T513\nFnyNHhoeWSX/0KLNQ81bL1AhzXIB6jdQCDIOCPQQn1o=\n=0T2p\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4c203b10c874db2b88b8d283938a1acd6ccc3fa8\ntype commit\ntag 16.0.0.0b1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1560350618 +0000\n\nhorizon 16.0.0.0b1 development milestone\n\nmeta:version: 16.0.0.0b1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Commit: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Change-Id: I665863ee7fb4f54255716f04e016e1a017f835c2\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

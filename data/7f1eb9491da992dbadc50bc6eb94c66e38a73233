@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY2NTE2Njo3ZjFlYjk0OTFkYTk5MmRiYWRjNTBiYzZlYjk0YzY2ZTM4YTczMjMz",
+  "sha": "7f1eb9491da992dbadc50bc6eb94c66e38a73233",
+  "url": "https://api.github.com/repos/openstack/horizon/git/tags/7f1eb9491da992dbadc50bc6eb94c66e38a73233",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-22T20:08:02Z"
+  },
+  "object": {
+    "sha": "77b0242fa2ce64ab77ea7e4ee7a8530de044967e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/horizon/git/commits/77b0242fa2ce64ab77ea7e4ee7a8530de044967e"
+  },
+  "tag": "15.1.1",
+  "message": "horizon 15.1.1 release\n\nmeta:version: 15.1.1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: Iaca3e8e39ec49bedc520dba2a8c21e0233b59a82\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2vYaIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2P8SC/46RYPjT1rzdNxKN/FOTP2R\nKIjb2MbSUKYqcoeblOZOzV98FZf6v0l0qCoG1K9mtLY+/IKbDc5anN/Njs28+9iT\nev9ihJph0N8LpiFPDJHHnPeMrBTssDU01HjGsYKTsX3xNFQbn5LzMqRKbHxXmKWY\nowXXklsSPLu8T+ac98pWRhGyI3UguqvszFR8+Zm4SpwpYNqYwbkQ0HwOaiqPFfC0\nr7l4g9PIJgewKJBGef8WMZgdrWqUr2P+yLU47/KT1Lt+1XzrekJl8s+0AJGWxgB9\nEKPTB156+tMmfbrtmNczrVivxZJ9mnM8ZavuaAwfUeHJ2OSCY/aisFYPQZppEc+1\n4KCtELMtmBf3Amb74nRsxqRILzoU6I0XoaABdZzW1qaI319tzdgiP04Cd8O8pz1P\nEk04OI91D+J+pgnKq60YRNmb+5BinjxiqymXuKa+fvYDp110ROdIaLO718IbOOlD\nz2jZgEEyQ7POVUZ3T1tims3ENrudMkCgaU77bUi3zT0=\n=ZsAY\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2vYaIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2P8SC/46RYPjT1rzdNxKN/FOTP2R\nKIjb2MbSUKYqcoeblOZOzV98FZf6v0l0qCoG1K9mtLY+/IKbDc5anN/Njs28+9iT\nev9ihJph0N8LpiFPDJHHnPeMrBTssDU01HjGsYKTsX3xNFQbn5LzMqRKbHxXmKWY\nowXXklsSPLu8T+ac98pWRhGyI3UguqvszFR8+Zm4SpwpYNqYwbkQ0HwOaiqPFfC0\nr7l4g9PIJgewKJBGef8WMZgdrWqUr2P+yLU47/KT1Lt+1XzrekJl8s+0AJGWxgB9\nEKPTB156+tMmfbrtmNczrVivxZJ9mnM8ZavuaAwfUeHJ2OSCY/aisFYPQZppEc+1\n4KCtELMtmBf3Amb74nRsxqRILzoU6I0XoaABdZzW1qaI319tzdgiP04Cd8O8pz1P\nEk04OI91D+J+pgnKq60YRNmb+5BinjxiqymXuKa+fvYDp110ROdIaLO718IbOOlD\nz2jZgEEyQ7POVUZ3T1tims3ENrudMkCgaU77bUi3zT0=\n=ZsAY\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 77b0242fa2ce64ab77ea7e4ee7a8530de044967e\ntype commit\ntag 15.1.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1571774882 +0000\n\nhorizon 15.1.1 release\n\nmeta:version: 15.1.1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: Iaca3e8e39ec49bedc520dba2a8c21e0233b59a82\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

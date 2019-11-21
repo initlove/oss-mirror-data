@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NGFjNGJlZDBjZWRlODgyNDRjZjQzYjljYmY4ZTc5NTRlMmIxMTQyOQ==",
+  "sha": "4ac4bed0cede88244cf43b9cbf8e7954e2b11429",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/4ac4bed0cede88244cf43b9cbf8e7954e2b11429",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-08-02T21:54:53Z"
+  },
+  "object": {
+    "sha": "9b86a4453f0c76f2707a75c0b2343aba33ec63bc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/9b86a4453f0c76f2707a75c0b2343aba33ec63bc"
+  },
+  "tag": "v0.8.5",
+  "message": "2012.08.02, Version 0.8.5 (Stable)\n\n* node: tag Encode and friends NODE_EXTERN (Ben Noordhuis)\n\n* fs: fix ReadStream / WriteStream missing callback (Gil Pedersen)\n\n* fs: fix readFileSync(\"/proc/cpuinfo\") regression (Ben Noordhuis)\n\n* installer: don't assume bash is installed (Ben Noordhuis)\n\n* Report errors properly from --eval and stdin (isaacs)\n\n* assert: fix throws() throws an error without message property (koichik)\n\n* cluster: fix libuv assert in net.listen() (Ben Noordhuis)\n\n* build: always link sunos builds with libumem (Trent Mick)\n\n* build: improve armv7 / hard-float detection (Adam Malcontenti-Wilson)\n\n* https: Use host header as effective servername (isaacs)\n\n* sunos: work around OS bug to prevent fs.watch() from spinning (Bryan Cantrill)\n\n* linux: fix 'two watchers, one path' segfault (Ben Noordhuis)\n\n* windows: fix memory leaks in many fs functions (Bert Belder)\n\n* windows: don't allow directories to be opened for writing/appending (Bert Belder)\n\n* windows: make fork() work even when not all stdio handles are valid (Bert Belder)\n\n* windows: make unlink() not remove mount points, and improve performance (Bert Belder)\n\n* build: Sign pkg installer for OS X (isaacs)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQGvctAAoJELCniwpsSBz2HfUH/0BtUyV7HQ19RmwqGwf3i1/f\n12qEGWCxaXuJWLbl3pvFuCsIRLZZOz4tbb8ebdg8QF4vF5+jeCzkJd4OnAnZzpiU\nnIVX8TxEbWHx84ptgVnz9CoeqbXi1fspdMQY2aqbio8RUkCTMnXftxUBvl25I/9J\n0GojmgzBHWDiIpf8iGL6GFN20By1Djn+zxgdFu6LHq/1IFuJnCjjebk93Uxp76L/\njQnRMxGQvZGmku5iAejAq6ppF0IZOoBNDmRpY9Mse5Znt7VFaaGlOqBKw7pODKjb\nqokFcMoHNiQVGv8CN2sgRt3K+uWo9oVDwmaGibKA8oyAm/RSalF4CVMYi7k1MrY=\n=z1Hv\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQGvctAAoJELCniwpsSBz2HfUH/0BtUyV7HQ19RmwqGwf3i1/f\n12qEGWCxaXuJWLbl3pvFuCsIRLZZOz4tbb8ebdg8QF4vF5+jeCzkJd4OnAnZzpiU\nnIVX8TxEbWHx84ptgVnz9CoeqbXi1fspdMQY2aqbio8RUkCTMnXftxUBvl25I/9J\n0GojmgzBHWDiIpf8iGL6GFN20By1Djn+zxgdFu6LHq/1IFuJnCjjebk93Uxp76L/\njQnRMxGQvZGmku5iAejAq6ppF0IZOoBNDmRpY9Mse5Znt7VFaaGlOqBKw7pODKjb\nqokFcMoHNiQVGv8CN2sgRt3K+uWo9oVDwmaGibKA8oyAm/RSalF4CVMYi7k1MrY=\n=z1Hv\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9b86a4453f0c76f2707a75c0b2343aba33ec63bc\ntype commit\ntag v0.8.5\ntagger isaacs <i@izs.me> 1343944493 -0700\n\n2012.08.02, Version 0.8.5 (Stable)\n\n* node: tag Encode and friends NODE_EXTERN (Ben Noordhuis)\n\n* fs: fix ReadStream / WriteStream missing callback (Gil Pedersen)\n\n* fs: fix readFileSync(\"/proc/cpuinfo\") regression (Ben Noordhuis)\n\n* installer: don't assume bash is installed (Ben Noordhuis)\n\n* Report errors properly from --eval and stdin (isaacs)\n\n* assert: fix throws() throws an error without message property (koichik)\n\n* cluster: fix libuv assert in net.listen() (Ben Noordhuis)\n\n* build: always link sunos builds with libumem (Trent Mick)\n\n* build: improve armv7 / hard-float detection (Adam Malcontenti-Wilson)\n\n* https: Use host header as effective servername (isaacs)\n\n* sunos: work around OS bug to prevent fs.watch() from spinning (Bryan Cantrill)\n\n* linux: fix 'two watchers, one path' segfault (Ben Noordhuis)\n\n* windows: fix memory leaks in many fs functions (Bert Belder)\n\n* windows: don't allow directories to be opened for writing/appending (Bert Belder)\n\n* windows: make fork() work even when not all stdio handles are valid (Bert Belder)\n\n* windows: make unlink() not remove mount points, and improve performance (Bert Belder)\n\n* build: Sign pkg installer for OS X (isaacs)\n"
+  }
+}

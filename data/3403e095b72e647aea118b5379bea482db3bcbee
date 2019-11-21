@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjA4NzgwNDk6MzQwM2UwOTViNzJlNjQ3YWVhMTE4YjUzNzliZWE0ODJkYjNiY2JlZQ==",
+  "sha": "3403e095b72e647aea118b5379bea482db3bcbee",
+  "url": "https://api.github.com/repos/manuelnaranjo/glibc-toolchain-linaro/git/tags/3403e095b72e647aea118b5379bea482db3bcbee",
+  "tagger": {
+    "name": "Petr Baudis",
+    "email": "pasky@ucw.cz",
+    "date": "2009-12-08T22:06:40Z"
+  },
+  "object": {
+    "sha": "3decedce640208c25323bca68c98381c640ab06f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/manuelnaranjo/glibc-toolchain-linaro/git/commits/3decedce640208c25323bca68c98381c640ab06f"
+  },
+  "tag": "glibc-2.11.1",
+  "message": "glibc-2.11.1 release\n\nThis is a bugfix glibc release, revising the glibc-2.11 release only\nby bugfixes backported from the master glibc development branch.\nThe following known significant bugs exist in this release:\n\n  * Empty /etc/resolv.conf incorrectly does not cause glibc to default\nto localhost, to solve this issue please apply one of the patches in:\n\n\thttp://sourceware.org/bugzilla/show_bug.cgi?id=10851\n\nThese commits were included since glibc-2.11:\n\nAndreas Schwab (1):\n      Fix infloop in __pthread_disable_asynccancel on x86_64\n\nH.J. Lu (1):\n      Properly recover from shorter read.\n\nJakub Jelinek (1):\n      Fix sync_file_range on ppc/ppc64.\n\nMike Frysinger (3):\n      Add missing stdio.h include.\n      Fix building on x86 with older kernel headers.\n      Missing CL.\n\nPaolo Bonzini (1):\n      Fix ranges with multibyte characters as endpoints.\n\nPetr Baudis (1):\n      glibc 2.11.1 release\n\nUlrich Drepper (15):\n      Fix F_SETOWN_EX and F_GETOWN_EX definitions.\n      Add missing Linux MADV_* definitions.\n      Fix _NC_LOCALE_NAME definition.\n      Handle LC_GLOBAL_LOCALE in duplocale.\n      Add missing test files.\n      Whitespace fixes.\n      Avoid warnings in CPU_* macros when using const bitsets.\n      Fix getwc* and putwc* on non-wide streams.\n      Reinitialize _create_xid state after fork.\n      Fix week information for nl_NL locale.\n      Define week, first_weekday, and first_workday for en_DK locale.\n      Define week, first_weekday, and first_workday for hsb_DE locale.\n      Fix startup to security-relevant statically linked binaries.\n      Prevent unintended file desriptor leak in grantpt.\n      Avoid local PLTs.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.10 (GNU/Linux)\n\niEYEABECAAYFAksezv8ACgkQoqZU+9z5OUQLPACfe2w0XxkmTIizdgyhN4+/TztG\nUQ4AnjH1Rsfp1nIK0y3dtjCeEAgjuVsq\n=ItmQ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.10 (GNU/Linux)\n\niEYEABECAAYFAksezv8ACgkQoqZU+9z5OUQLPACfe2w0XxkmTIizdgyhN4+/TztG\nUQ4AnjH1Rsfp1nIK0y3dtjCeEAgjuVsq\n=ItmQ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3decedce640208c25323bca68c98381c640ab06f\ntype commit\ntag glibc-2.11.1\ntagger Petr Baudis <pasky@ucw.cz> 1260310000 +0100\n\nglibc-2.11.1 release\n\nThis is a bugfix glibc release, revising the glibc-2.11 release only\nby bugfixes backported from the master glibc development branch.\nThe following known significant bugs exist in this release:\n\n  * Empty /etc/resolv.conf incorrectly does not cause glibc to default\nto localhost, to solve this issue please apply one of the patches in:\n\n\thttp://sourceware.org/bugzilla/show_bug.cgi?id=10851\n\nThese commits were included since glibc-2.11:\n\nAndreas Schwab (1):\n      Fix infloop in __pthread_disable_asynccancel on x86_64\n\nH.J. Lu (1):\n      Properly recover from shorter read.\n\nJakub Jelinek (1):\n      Fix sync_file_range on ppc/ppc64.\n\nMike Frysinger (3):\n      Add missing stdio.h include.\n      Fix building on x86 with older kernel headers.\n      Missing CL.\n\nPaolo Bonzini (1):\n      Fix ranges with multibyte characters as endpoints.\n\nPetr Baudis (1):\n      glibc 2.11.1 release\n\nUlrich Drepper (15):\n      Fix F_SETOWN_EX and F_GETOWN_EX definitions.\n      Add missing Linux MADV_* definitions.\n      Fix _NC_LOCALE_NAME definition.\n      Handle LC_GLOBAL_LOCALE in duplocale.\n      Add missing test files.\n      Whitespace fixes.\n      Avoid warnings in CPU_* macros when using const bitsets.\n      Fix getwc* and putwc* on non-wide streams.\n      Reinitialize _create_xid state after fork.\n      Fix week information for nl_NL locale.\n      Define week, first_weekday, and first_workday for en_DK locale.\n      Define week, first_weekday, and first_workday for hsb_DE locale.\n      Fix startup to security-relevant statically linked binaries.\n      Prevent unintended file desriptor leak in grantpt.\n      Avoid local PLTs.\n"
+  }
+}

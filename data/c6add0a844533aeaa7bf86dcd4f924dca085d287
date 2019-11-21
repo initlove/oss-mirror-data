@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMyNTI5ODpjNmFkZDBhODQ0NTMzYWVhYTdiZjg2ZGNkNGY5MjRkY2EwODVkMjg3",
+  "sha": "c6add0a844533aeaa7bf86dcd4f924dca085d287",
+  "url": "https://api.github.com/repos/torvalds/linux/git/tags/c6add0a844533aeaa7bf86dcd4f924dca085d287",
+  "tagger": {
+    "name": "Linus Torvalds",
+    "email": "torvalds@linux-foundation.org",
+    "date": "2009-10-16T00:42:05Z"
+  },
+  "object": {
+    "sha": "012abeea669ea49636cf952d13298bb68654146a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/torvalds/linux/git/commits/012abeea669ea49636cf952d13298bb68654146a"
+  },
+  "tag": "v2.6.32-rc5",
+  "message": "Linux 2.6.32-rc5\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.9 (GNU/Linux)\n\niEYEABECAAYFAkrXwWEACgkQF3YsRnbiHLt6gACfbxBANzywJAFhWBGq36hBNNIn\nkV4An30ZBdtQVsWnbkOcv0jFm2GXkvj4\n=mvSr\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.9 (GNU/Linux)\n\niEYEABECAAYFAkrXwWEACgkQF3YsRnbiHLt6gACfbxBANzywJAFhWBGq36hBNNIn\nkV4An30ZBdtQVsWnbkOcv0jFm2GXkvj4\n=mvSr\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 012abeea669ea49636cf952d13298bb68654146a\ntype commit\ntag v2.6.32-rc5\ntagger Linus Torvalds <torvalds@linux-foundation.org> 1255653725 -0700\n\nLinux 2.6.32-rc5\n"
+  }
+}

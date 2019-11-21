@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6M2RiNzY4NTNlMTM3ZjgxZGFkMDgzYjE2YWJmNTdlOGRmMmZlYmRhNw==",
+  "sha": "3db76853e137f81dad083b16abf57e8df2febda7",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/3db76853e137f81dad083b16abf57e8df2febda7",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2009-11-17T14:05:51Z"
+  },
+  "object": {
+    "sha": "027829d2853a14490e6de9fc5f7094652d045ab8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/027829d2853a14490e6de9fc5f7094652d045ab8"
+  },
+  "tag": "v0.1.18",
+  "message": "2009.11.17, Version 0.1.18\n\n  * Feature: process.watchFile() process.unwatchFile()\n\n  * Feature: \"uncaughtException\" event on process\n    (Felix Geisendörfer)\n\n  * Feature: 'drain' event to tcp.Connection\n\n  * Bugfix: Promise.timeout() blocked the event loop\n    (Felix Geisendörfer)\n\n  * Bugfix: sendBody() and chunked utf8 strings\n    (Felix Geisendörfer)\n\n  * Supply the strerror as a second arg to the tcp.Connection close\n    event (Johan Sørensen)\n\n  * Add EventEmitter.removeListener (frodenius@gmail.com)\n\n  * Format JSON for inspecting objects (Felix Geisendörfer)\n\n  * Upgrade libev to latest CVS\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

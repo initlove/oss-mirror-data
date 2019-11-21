@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YWIwMTI4NmIzYTM4MzMyOTdiODgyNTRmOGZlODM0M2ZhNDI5ZDhkOA==",
+  "sha": "ab01286b3a3833297b88254f8fe8343fa429d8d8",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/ab01286b3a3833297b88254f8fe8343fa429d8d8",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-10-24T21:47:12Z"
+  },
+  "object": {
+    "sha": "428a67012158eb2ff478a0dc58336e85e4c6399a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/428a67012158eb2ff478a0dc58336e85e4c6399a"
+  },
+  "tag": "v0.2.4",
+  "message": "2010.10.24, Version 0.2.4\n\n* Add --eval to command line options (TJ Holowaychuk)\n\n* net fixes\n  - TCP clients buffer writes before connection\n  - Don't flush net writeQueue on end() if its still connecting\n    (Joshua Peek)\n  - Do not spin on aceept() with EMFILE\n\n* Add --max-stack-size flag. (Tom Hughes)\n\n* Fixes to child_process.exec (timeouts and proper termination)\n  Default to SIGTERM instead of SIGKILL.\n\n* Add signal handlers so we clean up before exiting. (Tom Hughes)\n\n* Fix parsing of linux memory (Vitali Lovich)\n\n* http-parser: Allow whitespace in the 'Content-Length' header.\n  (Nathan Rajlich)\n\n* Add flag to disable colors in REPL\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

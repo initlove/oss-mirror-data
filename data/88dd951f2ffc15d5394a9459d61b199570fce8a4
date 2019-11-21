@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ODhkZDk1MWYyZmZjMTVkNTM5NGE5NDU5ZDYxYjE5OTU3MGZjZThhNA==",
+  "sha": "88dd951f2ffc15d5394a9459d61b199570fce8a4",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/88dd951f2ffc15d5394a9459d61b199570fce8a4",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-12-17T22:15:08Z"
+  },
+  "object": {
+    "sha": "52795f8fcc2de77cf997e671ea58614e5e425dfe",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/52795f8fcc2de77cf997e671ea58614e5e425dfe"
+  },
+  "tag": "v0.10.34",
+  "message": "2014.12.17, Version 0.10.34 (Stable)\n\n* uv: update to v0.10.30\n\n* zlib: upgrade to v1.2.8\n\n* child_process: check execFile args is an array (Sam Roberts)\n\n* child_process: check fork args is an array (Sam Roberts)\n\n* crypto: update root certificates (Ben Noordhuis)\n\n* domains: fix issues with abort on uncaught (Julien Gilli)\n\n* timers: Avoid linear scan in _unrefActive. (Julien Gilli)\n\n* timers: fix unref() memory leak (Trevor Norris)\n\n* v8: add api for aborting on uncaught exception (Julien Gilli)\n\n* debugger: fix when using \"use strict\" (Julien Gilli)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlSSAHEACgkQfTP/nQJGQG0FXgCfW7zxSAxJDdHXBgw8JWR7idlX\nBiAAn0Vk6TG8tcJIwuy+Z/12RLPAbAWE\n=ms9K\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlSSAHEACgkQfTP/nQJGQG0FXgCfW7zxSAxJDdHXBgw8JWR7idlX\nBiAAn0Vk6TG8tcJIwuy+Z/12RLPAbAWE\n=ms9K\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 52795f8fcc2de77cf997e671ea58614e5e425dfe\ntype commit\ntag v0.10.34\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1418854508 -0800\n\n2014.12.17, Version 0.10.34 (Stable)\n\n* uv: update to v0.10.30\n\n* zlib: upgrade to v1.2.8\n\n* child_process: check execFile args is an array (Sam Roberts)\n\n* child_process: check fork args is an array (Sam Roberts)\n\n* crypto: update root certificates (Ben Noordhuis)\n\n* domains: fix issues with abort on uncaught (Julien Gilli)\n\n* timers: Avoid linear scan in _unrefActive. (Julien Gilli)\n\n* timers: fix unref() memory leak (Trevor Norris)\n\n* v8: add api for aborting on uncaught exception (Julien Gilli)\n\n* debugger: fix when using \"use strict\" (Julien Gilli)\n"
+  }
+}

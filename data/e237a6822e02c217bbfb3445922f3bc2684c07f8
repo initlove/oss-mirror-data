@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6ZTIzN2E2ODIyZTAyYzIxN2JiZmIzNDQ1OTIyZjNiYzI2ODRjMDdmOA==",
+  "sha": "e237a6822e02c217bbfb3445922f3bc2684c07f8",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/e237a6822e02c217bbfb3445922f3bc2684c07f8",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2017-02-09T12:05:23Z"
+  },
+  "object": {
+    "sha": "1b0354e6bbb41823c42f0f053167a277b1685d8a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/1b0354e6bbb41823c42f0f053167a277b1685d8a"
+  },
+  "tag": "v3.0.88",
+  "message": "MooseFS 3.0.88\n\n * (mount) added read cache clean on write (same file access using different descriptors)\n * (mount) added missing cond_destroy in readdata.c (fix sent by Jakub Ratajczak)\n * (master) fixed initializing packet size for reading 'sustained' directory\n * (all) fixed zassert for printing correct statuses in case of pthread functions\n * (mount) fix fleng in finfo after truncate (patched by Davies Liu)\n * (mount) fix overlapped read (patched by Davies Liu)\n * (mount) fixed invalidating chunk cache after truncate\n * (mount) fixed fleng handling in read worker\n * (mount) fixed handling BREAK state in read worker\n * (mount) changed handling data invalidation in read module (sometimes could be less efficient, but it is much more safer)\n * (tools) fixed number parsing (patched by Paweł Gawroński)\n * (cli) fixed printed host/port options\n * (mount) moved pipes from requests to workers (read and write - huge decrease of descriptors used by mount)\n * (mount) changed signal to broadcast in rwlock (fixed very rare read/write deadlock)\n * (mount) fixed 'open descriptors' leak (lookup(with data for open)->open(with cached data)->close)\n * (mount) fixed potential 'race condition' - free 'csdata' during access\n * (master) split (only internally) sustained folder into 256 subfolders (too many sustained files caused socket timeouts in master)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NDkyZDcwYTJmZDc4MWRjZWJjZTkyNDM3MmUyYjEzN2U3ZDQ5M2U0MQ==",
+  "sha": "492d70a2fd781dcebce924372e2b137e7d493e41",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/492d70a2fd781dcebce924372e2b137e7d493e41",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-01-08T23:48:33Z"
+  },
+  "object": {
+    "sha": "73f53e12e4a5b9ef7dbb4792bd5f8ad403094441",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/73f53e12e4a5b9ef7dbb4792bd5f8ad403094441"
+  },
+  "tag": "v0.3.4",
+  "message": "2011.01.08, Version 0.3.4 (unstable)\n\n* Primordal mingw build (Bert Belder)\n\n* HTTPS server\n\n* Built in debugger 'node debug script.js'\n\n* realpath files during module load (Mihai Călin Bazon)\n\n* Rename net.Stream to net.Socket (existing name will continue to be\n  supported)\n\n* Fix process.platform\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

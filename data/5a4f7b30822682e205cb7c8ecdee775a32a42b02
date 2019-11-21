@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6NWE0ZjdiMzA4MjI2ODJlMjA1Y2I3YzhlY2RlZTc3NWEzMmE0MmIwMg==",
+  "sha": "5a4f7b30822682e205cb7c8ecdee775a32a42b02",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/5a4f7b30822682e205cb7c8ecdee775a32a42b02",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T15:10:19Z"
+  },
+  "object": {
+    "sha": "ebf389ed4a48614aa9ac5b2c5b5b90000a546ab6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/ebf389ed4a48614aa9ac5b2c5b5b90000a546ab6"
+  },
+  "tag": "v3.0.62",
+  "message": "MooseFS 3.0.62-1\n\n * (mount) fixed rare race condition in read (not dangerous)\n * (mount) better read/write synchronization in read\n * (cs) added ability to start with metaid read from connected hard drives (from .metaid file)\n * (cs) added protection from using disks filled in more than 99.9% when there are other disks\n * (master+cs+cli+cgi) added 'rebalance in progress' state to chunkservers (treated as heavy load state)\n * (master) added ATIME_MODE option to set atime modification behaviour\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

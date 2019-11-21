@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6MmFmMDYyYWExY2YwY2JmMTllMDIzYjFiMWJlNWYyNmM2ODkzYzk2MQ==",
+  "sha": "2af062aa1cf0cbf19e023b1b1be5f26c6893c961",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/2af062aa1cf0cbf19e023b1b1be5f26c6893c961",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T15:09:22Z"
+  },
+  "object": {
+    "sha": "1af0bc6052b42fc3483b64d7830e1f3364277c7a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/1af0bc6052b42fc3483b64d7830e1f3364277c7a"
+  },
+  "tag": "v3.0.59",
+  "message": "MooseFS 3.0.59-1\n\n * (all) fixed debug symbols\n * (master+supervisor) added metaid check (pro version only)\n * (master) added rejection of followers with incorrect meta version (pro version only)\n * (mount) change type of data stored in kernel from pointers to indexes (more robust)\n * (cli) fixed show exports in plain mode\n * (master) added sending metaid after switching from ELECT to LEADER (pro version only)\n * (master) removed option '-e' from GPL edition (only makes sense in pro version)\n * (master+cs) added sending metaid to cs in ELECT state (pro version only)\n * (master) improved metaid generation method\n * (mount) added mfsoomdisable option (Linux only, turned on by default)\n * (mount) added minimum retry counter to log messages in I/O modules\n * (mount) reduced memory consumption by reducing thread stack sizes\n * (mount) changed default malloc arena count to 2 (Linux only)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

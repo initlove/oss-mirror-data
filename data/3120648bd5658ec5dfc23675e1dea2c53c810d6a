@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MzEyMDY0OGJkNTY1OGVjNWRmYzIzNjc1ZTFkZWEyYzUzYzgxMGQ2YQ==",
+  "sha": "3120648bd5658ec5dfc23675e1dea2c53c810d6a",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/3120648bd5658ec5dfc23675e1dea2c53c810d6a",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-11-17T05:47:30Z"
+  },
+  "object": {
+    "sha": "74a1fc334e486683d6da02fd918725d246ffc273",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/74a1fc334e486683d6da02fd918725d246ffc273"
+  },
+  "tag": "v0.2.5",
+  "message": "2010.11.16, Version 0.2.5\n\n* Add ref to buffer during fs.write and fs.read. Sometimes buffers\n  would be GCed before making it to the thread pool.\n\n* Fix http buffer pushing bug:\n  http://groups.google.com/group/nodejs/browse_thread/thread/f66cd3c960406919\n\n* Gracefully handle EMFILE and server.maxConnections\n\n* \"node --eval\" evals in the global scope. (Jorge Chamorro Bieling)\n\n* Handle cyclic links smarter in fs.realpath (isaacs, Issue #167)\n\n* Rewrite libeio After callback to use req->result instead of req->errorno\n  for error checking (Micheil Smith)\n\n* Removed range read optimization as it doesn't work with libeio. (Chandra\n  Sekar S)\n\n* Make writes to process.env update the real environment (Ben Noordhuis)\n\n* Set FD_CLOEXEC flag on stdio FDs before spawning. (Guillaume Tuton)\n\n* Upgrade http-parser\n\n* Readline: Switch \\n with \\r\\n for all strings printed out.\n  Simplify displayPrompt\n\n* Fix segfault on test-crypto\n\n* Add --profile flag to configure script, enables gprof profiling. (Ben\n  Noordhuis)\n\n* writeFileSync could exhibit pathological behavior when a buffer could\n  not be written to the file in a single write() call. (isaacs)\n\n* Fix OS::GetExecutablePath for platform_none shouldn't return garbage.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NGM4ZTI1ZmRjMjg0OWE4NmIzOGM5MDMxMmQ5YTdmYWUzYjFlNTI3Zg==",
+  "sha": "4c8e25fdc2849a86b38c90312d9a7fae3b1e527f",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/4c8e25fdc2849a86b38c90312d9a7fae3b1e527f",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-07-26T06:40:37Z"
+  },
+  "object": {
+    "sha": "2a4568c85f33869c75ff43ccd30f0ec188b43eab",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/2a4568c85f33869c75ff43ccd30f0ec188b43eab"
+  },
+  "tag": "v0.1.102",
+  "message": "2010.07.25, Version 0.1.102\n\n* base64 encoding for Buffers.\n\n* Buffer support for Cipher, Decipher, Hmac, Sign and Verify\n  (Andrew Naylor)\n\n* Support for reading byte ranges from files using fs.createReadStream.\n  (Chandra Sekar)\n\n* Fix Buffer.toString() on 0-length slices. (Peter Griess)\n\n* Cache modules based on filename rather than ID (Isaac Schlueter)\n\n* querystring improvments (Jan Kassens, Micheil Smith)\n\n* Support DEL in the REPL. (Jérémy Lal)\n\n* Upgrade http-parser, upgrade V8 to 2.3.2\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

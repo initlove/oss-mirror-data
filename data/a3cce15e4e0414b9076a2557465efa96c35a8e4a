@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YTNjY2UxNWU0ZTA0MTRiOTA3NmEyNTU3NDY1ZWZhOTZjMzVhOGU0YQ==",
+  "sha": "a3cce15e4e0414b9076a2557465efa96c35a8e4a",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/a3cce15e4e0414b9076a2557465efa96c35a8e4a",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-05-13T22:53:14Z"
+  },
+  "object": {
+    "sha": "5d3dc0e4c3369dfb00b7b13e08936c2e652fa696",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/5d3dc0e4c3369dfb00b7b13e08936c2e652fa696"
+  },
+  "tag": "v0.11.2",
+  "message": "2013.05.13, Version 0.11.2 (Unstable)\n\n* uv: Upgrade to 0.11.2\n\n* V8: Upgrade to 3.19.0\n\n* npm: Upgrade to 1.2.21\n\n* build: Makefile should respect configure --prefix (Timothy J Fontaine)\n\n* cluster: use round-robin load balancing (Ben Noordhuis)\n\n* debugger, cluster: each worker has new debug port (Miroslav Bajtoš)\n\n* debugger: `restart` with custom debug port (Miroslav Bajtoš)\n\n* debugger: breakpoints in scripts not loaded yet (Miroslav Bajtoš)\n\n* event: EventEmitter#setMaxListeners() returns this (Sam Roberts)\n\n* events: add EventEmitter.defaultMaxListeners (Ben Noordhuis)\n\n* install: Support $(PREFIX) install target directory prefix (Olof Johansson)\n\n* os: Include netmask in os.networkInterfaces() (Ben Kelly)\n\n* path: add path.isAbsolute(path) (Ryan Doenges)\n\n* stream: Guarantee ordering of 'finish' event (isaacs)\n\n* streams: introduce .cork/.uncork/._writev (Fedor Indutny)\n\n* vm: add support for timeout argument (Andrew Paprocki)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRkW7aAAoJELCniwpsSBz22YUIAIuJPMaMOrQ7/TNC00qCXwg8\nILPWvO5p3jYkyxNrlSq01cWcwzmL23mHGJK7tyUgu1VZdMzcl+NvmAOesO30jdKM\nd/a6TUJ5R5rzYrVIPMbWMf448x70zpcB7xYXWHpSttn9fe36yrkQIEcs7FY7WZJ+\nV0hTtOmseLlXaeE9HlzrSioLPhP4XQ4zyh0/X6EUir0mI8eBmRMq/wN1jRXUC9VW\nDyUhcy9hhsBBB8syz2kLpJKC06I2T9AKy2EV5sdLbFbuYghiJehG6JfHI2h4u1k4\nzDzobjadFomdZXLUO9OUe+BZXlF1HoB+QnrAICJhRSxvHtybSM5ZrE5+1nSHCos=\n=8kzE\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRkW7aAAoJELCniwpsSBz22YUIAIuJPMaMOrQ7/TNC00qCXwg8\nILPWvO5p3jYkyxNrlSq01cWcwzmL23mHGJK7tyUgu1VZdMzcl+NvmAOesO30jdKM\nd/a6TUJ5R5rzYrVIPMbWMf448x70zpcB7xYXWHpSttn9fe36yrkQIEcs7FY7WZJ+\nV0hTtOmseLlXaeE9HlzrSioLPhP4XQ4zyh0/X6EUir0mI8eBmRMq/wN1jRXUC9VW\nDyUhcy9hhsBBB8syz2kLpJKC06I2T9AKy2EV5sdLbFbuYghiJehG6JfHI2h4u1k4\nzDzobjadFomdZXLUO9OUe+BZXlF1HoB+QnrAICJhRSxvHtybSM5ZrE5+1nSHCos=\n=8kzE\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5d3dc0e4c3369dfb00b7b13e08936c2e652fa696\ntype commit\ntag v0.11.2\ntagger isaacs <i@izs.me> 1368485594 -0700\n\n2013.05.13, Version 0.11.2 (Unstable)\n\n* uv: Upgrade to 0.11.2\n\n* V8: Upgrade to 3.19.0\n\n* npm: Upgrade to 1.2.21\n\n* build: Makefile should respect configure --prefix (Timothy J Fontaine)\n\n* cluster: use round-robin load balancing (Ben Noordhuis)\n\n* debugger, cluster: each worker has new debug port (Miroslav Bajtoš)\n\n* debugger: `restart` with custom debug port (Miroslav Bajtoš)\n\n* debugger: breakpoints in scripts not loaded yet (Miroslav Bajtoš)\n\n* event: EventEmitter#setMaxListeners() returns this (Sam Roberts)\n\n* events: add EventEmitter.defaultMaxListeners (Ben Noordhuis)\n\n* install: Support $(PREFIX) install target directory prefix (Olof Johansson)\n\n* os: Include netmask in os.networkInterfaces() (Ben Kelly)\n\n* path: add path.isAbsolute(path) (Ryan Doenges)\n\n* stream: Guarantee ordering of 'finish' event (isaacs)\n\n* streams: introduce .cork/.uncork/._writev (Fedor Indutny)\n\n* vm: add support for timeout argument (Andrew Paprocki)\n"
+  }
+}

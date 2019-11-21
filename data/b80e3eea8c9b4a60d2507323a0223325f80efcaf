@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YjgwZTNlZWE4YzliNGE2MGQyNTA3MzIzYTAyMjMzMjVmODBlZmNhZg==",
+  "sha": "b80e3eea8c9b4a60d2507323a0223325f80efcaf",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/b80e3eea8c9b4a60d2507323a0223325f80efcaf",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-06-26T23:55:36Z"
+  },
+  "object": {
+    "sha": "38c0c47bbe280ddc42054418091571e532d82a1e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/38c0c47bbe280ddc42054418091571e532d82a1e"
+  },
+  "tag": "v0.11.3",
+  "message": "2013.06.26, Version 0.11.3 (Unstable)\n\n* uv: Upgrade to v0.11.5\n\n* c-ares: upgrade to 1.10.0\n\n* v8: upgrade to v3.19.13\n\n* punycode: update to v1.2.3 (Mathias Bynens)\n\n* debugger: break on uncaught exception (Miroslav Bajtos)\n\n* child_process: emit 'disconnect' asynchronously (Ben Noordhuis)\n\n* dtrace: enable uv's probes if enabled (Timothy J Fontaine)\n\n* dtrace: unify dtrace and systemtap interfaces (Timothy J Fontaine)\n\n* buffer: New API for backing data store (Trevor Norris)\n\n* buffer: return `this` in fill() for chainability (Brian White)\n\n* build: fix include order for building on windows (Timothy J Fontaine)\n\n* build: add android support (Linus Mårtensson)\n\n* readline: strip ctrl chars for prompt width calc (Krzysztof Chrapka)\n\n* tls: introduce TLSSocket based on tls_wrap binding (Fedor Indutny)\n\n* tls: add localAddress and localPort properties (Ben Noordhuis)\n\n* crypto: free excessive memory in NodeBIO (Fedor Indutny)\n\n* process: remove maxTickDepth (Trevor Norris)\n\n* timers: use uv_now instead of Date.now (Timothy J Fontaine)\n\n* util: Add debuglog, deprecate console lookalikes (isaacs)\n\n* module: use path.sep instead of a custom solution (Robert Kowalski)\n\n* http: don't escape request path, reject bad chars (Ben Noordhuis)\n\n* net: emit dns 'lookup' event before connect (Ben Noordhuis)\n\n* dns: add getServers and setServers (Timothy J Fontaine)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRy394AAoJELCniwpsSBz2xlYIAI/EQjnxsCzr4V83yBB0HbUT\n12kZnmhZagoT+amE76mwtlRm20TMhVgOvuBNYTSBDhAs1XJxC/FI3KIgiv0m4LkE\n9uN3guq8mwgBSMzX6rnBtVLApesDxv9aFkD/joM9yoVzRxUc6Qu5owmO8gIPqWrM\noY6GQKX6fp5To/vPcijouGXr7JzNqdkAK/11xbgEgqzFmTOlsWnZac2Yry+T/THT\nEq/DFZ3XsV+QzffA2vY9/b75NkRVprvGXMCoNgOwgqyQo96BEjq4TeQjTwEVKQIQ\nTCSePCfn9cH0acsXLElyYyfAkeOo0rZbYZkQRN2NMlvpwyfzs00rfCeaSbjd1Mc=\n=nffv\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRy394AAoJELCniwpsSBz2xlYIAI/EQjnxsCzr4V83yBB0HbUT\n12kZnmhZagoT+amE76mwtlRm20TMhVgOvuBNYTSBDhAs1XJxC/FI3KIgiv0m4LkE\n9uN3guq8mwgBSMzX6rnBtVLApesDxv9aFkD/joM9yoVzRxUc6Qu5owmO8gIPqWrM\noY6GQKX6fp5To/vPcijouGXr7JzNqdkAK/11xbgEgqzFmTOlsWnZac2Yry+T/THT\nEq/DFZ3XsV+QzffA2vY9/b75NkRVprvGXMCoNgOwgqyQo96BEjq4TeQjTwEVKQIQ\nTCSePCfn9cH0acsXLElyYyfAkeOo0rZbYZkQRN2NMlvpwyfzs00rfCeaSbjd1Mc=\n=nffv\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 38c0c47bbe280ddc42054418091571e532d82a1e\ntype commit\ntag v0.11.3\ntagger isaacs <i@izs.me> 1372290936 -0700\n\n2013.06.26, Version 0.11.3 (Unstable)\n\n* uv: Upgrade to v0.11.5\n\n* c-ares: upgrade to 1.10.0\n\n* v8: upgrade to v3.19.13\n\n* punycode: update to v1.2.3 (Mathias Bynens)\n\n* debugger: break on uncaught exception (Miroslav Bajtos)\n\n* child_process: emit 'disconnect' asynchronously (Ben Noordhuis)\n\n* dtrace: enable uv's probes if enabled (Timothy J Fontaine)\n\n* dtrace: unify dtrace and systemtap interfaces (Timothy J Fontaine)\n\n* buffer: New API for backing data store (Trevor Norris)\n\n* buffer: return `this` in fill() for chainability (Brian White)\n\n* build: fix include order for building on windows (Timothy J Fontaine)\n\n* build: add android support (Linus Mårtensson)\n\n* readline: strip ctrl chars for prompt width calc (Krzysztof Chrapka)\n\n* tls: introduce TLSSocket based on tls_wrap binding (Fedor Indutny)\n\n* tls: add localAddress and localPort properties (Ben Noordhuis)\n\n* crypto: free excessive memory in NodeBIO (Fedor Indutny)\n\n* process: remove maxTickDepth (Trevor Norris)\n\n* timers: use uv_now instead of Date.now (Timothy J Fontaine)\n\n* util: Add debuglog, deprecate console lookalikes (isaacs)\n\n* module: use path.sep instead of a custom solution (Robert Kowalski)\n\n* http: don't escape request path, reject bad chars (Ben Noordhuis)\n\n* net: emit dns 'lookup' event before connect (Ben Noordhuis)\n\n* dns: add getServers and setServers (Timothy J Fontaine)\n"
+  }
+}

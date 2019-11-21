@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6MzFjZjE5Y2E0YjI3MjJjYzQ2NjU5NmM0ODVhNGRlNTExZjZkMzFiMg==",
+  "sha": "31cf19ca4b2722cc466596c485a4de511f6d31b2",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/31cf19ca4b2722cc466596c485a4de511f6d31b2",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-09T11:49:17Z"
+  },
+  "object": {
+    "sha": "cf8285c1e17267adab651eb570c1466b3ed60f37",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/cf8285c1e17267adab651eb570c1466b3ed60f37"
+  },
+  "tag": "v3.0.74",
+  "message": "MooseFS 3.0.74-1\n\n * (master) fixed rebalance replication (check for all chunk copies for destination - not only valid)\n * (master+mount) new mechanism for atime+mtime setting during I/O\n * (master+mount) new I/O synchronization between different mounts (with cache invalidation)\n * (master+mount) new chunk number/version cache (with automatic invalidation from master)\n * (master) added mapping chunkserver IP classes (allow to have separate network for I/O and separate for other activity)\n * (master) fixed status returned by writechunk after network down/up\n * (master) changed trashtime from seconds to hours\n * (master) added METADATA_SAVE_FREQ option (allow to save metadata less frequently than every hour)\n * (master) added using in emergency (endangered chunks) all available servers for replication (even overloaded and being maintained)\n * (master) added using chunkservers in 'internal rebalance' state in case of deleting chunks\n * (all) spell check errors fixed (patch committed by Dmitry Smirnov)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

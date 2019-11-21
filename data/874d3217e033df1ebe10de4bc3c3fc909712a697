@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY2NTE2Njo4NzRkMzIxN2UwMzNkZjFlYmUxMGRlNGJjM2MzZmM5MDk3MTJhNjk3",
+  "sha": "874d3217e033df1ebe10de4bc3c3fc909712a697",
+  "url": "https://api.github.com/repos/openstack/horizon/git/tags/874d3217e033df1ebe10de4bc3c3fc909712a697",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-10-22T13:43:00Z"
+  },
+  "object": {
+    "sha": "19865eec5bc4a5a0ee402a55295dda2e52c2422c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/horizon/git/commits/19865eec5bc4a5a0ee402a55295dda2e52c2422c"
+  },
+  "tag": "14.0.1",
+  "message": "horizon 14.0.1 release\n\nmeta:version: 14.0.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Commit: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Change-Id: I9f2858da4ead3182a3bc19b994f2c504983eb590\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Tobias Urdin <tobias.urdin@binero.se>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbzdPkAAoJEBpUEUgFTp44KQ4L/jnSjHJGKDRG+v2ksRXPMELm\nX3OOt71iROKVxxFDxgdIotFVYen4dNJ0eeRwA5cbW5jJOJ5XtrhVow3EPRgaqBx7\namXkeLWHC9AizvzAZ6xyGJZVYZ4H+pfH4NnpQpt/1DDZ/H1j633Ttcf6clXjTspP\nhGZ5y/KCKDFIopBhEtOoK1QygCJqw9r7IgFYGfDf0Gq+kTRtNKUWI6W2hrpvhRyd\nXd/WJE0B2hz1y3cuegV0b1F9Ajpm8HUuciTzVYEpCXbPKGiw1mrwvqj1bM3hTKHL\n4hx7e3JxN3TSPm2DmZPRRRSz/XyxF+mFvID6ALJyBa/nLZuO1sEw91SBqiSH7VXK\nr2T/PJALuyqnze04LKw3QTX/Y4k3nMr5HPdKfjk8TIoASk5Ro5MBFjlLaJgyQje2\nu1I/Z9sMvCynzW4QvDoTOmKT1wdRd+RiXny2b5am6srwZ1523N1EVN6NdjKVXPBl\nEsGlP6YJnYnSA2Y7opy3+/4o8WHkilH38JUo6serXw==\n=LmhA\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbzdPkAAoJEBpUEUgFTp44KQ4L/jnSjHJGKDRG+v2ksRXPMELm\nX3OOt71iROKVxxFDxgdIotFVYen4dNJ0eeRwA5cbW5jJOJ5XtrhVow3EPRgaqBx7\namXkeLWHC9AizvzAZ6xyGJZVYZ4H+pfH4NnpQpt/1DDZ/H1j633Ttcf6clXjTspP\nhGZ5y/KCKDFIopBhEtOoK1QygCJqw9r7IgFYGfDf0Gq+kTRtNKUWI6W2hrpvhRyd\nXd/WJE0B2hz1y3cuegV0b1F9Ajpm8HUuciTzVYEpCXbPKGiw1mrwvqj1bM3hTKHL\n4hx7e3JxN3TSPm2DmZPRRRSz/XyxF+mFvID6ALJyBa/nLZuO1sEw91SBqiSH7VXK\nr2T/PJALuyqnze04LKw3QTX/Y4k3nMr5HPdKfjk8TIoASk5Ro5MBFjlLaJgyQje2\nu1I/Z9sMvCynzW4QvDoTOmKT1wdRd+RiXny2b5am6srwZ1523N1EVN6NdjKVXPBl\nEsGlP6YJnYnSA2Y7opy3+/4o8WHkilH38JUo6serXw==\n=LmhA\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 19865eec5bc4a5a0ee402a55295dda2e52c2422c\ntype commit\ntag 14.0.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1540215780 +0000\n\nhorizon 14.0.1 release\n\nmeta:version: 14.0.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Commit: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Change-Id: I9f2858da4ead3182a3bc19b994f2c504983eb590\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Tobias Urdin <tobias.urdin@binero.se>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

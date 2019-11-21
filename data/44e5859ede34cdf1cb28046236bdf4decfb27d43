@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NDRlNTg1OWVkZTM0Y2RmMWNiMjgwNDYyMzZiZGY0ZGVjZmIyN2Q0Mw==",
+  "sha": "44e5859ede34cdf1cb28046236bdf4decfb27d43",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/44e5859ede34cdf1cb28046236bdf4decfb27d43",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-10-23T23:00:53Z"
+  },
+  "object": {
+    "sha": "1582cfebd6719b2d2373547994b3dca5c8c569c0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/1582cfebd6719b2d2373547994b3dca5c8c569c0"
+  },
+  "tag": "v0.3.0",
+  "message": "2010.10.23, Version 0.3.0 (unstable)\n\n* Bugfix: Do not spin on aceept() with EMFILE\n\n* Improvments to readline.js (Trent Mick, Johan Euphrosine, Brian White)\n\n* Safe constructors (missing 'new' doesn't segfault)\n\n* Fix process.nextTick so thrown errors don't confuse it.\n  (Benjamin Thomas)\n\n* Allow Strings for ports on net.Server.listen (Bradley Meck)\n\n* fs bugfixes (Tj Holowaychuk, Tobie Langel, Marco Rogers, isaacs)\n\n* http bug fixes (Fedor Indutny, Mikeal Rogers)\n\n* Faster buffers; breaks C++ API (Tim-Smart, Stéphan Kochen)\n\n* crypto, tls improvements (Paul Querna)\n\n* Add lfs flags to node addon script\n\n* Simpler querystring parsing; breaks API (Peter Griess)\n\n* HTTP trailers (Mark Nottingham)\n\n* http 100-continue support (Mark Nottingham)\n\n* Module system simplifications (Herbert Vojčík, isaacs, Tim-Smart)\n  - remove require.async\n  - remove registerExtension, add .extensions\n  - expose require.resolve\n  - expose require.cache\n  - require looks in  node_modules folders\n\n* Add --eval command line option (TJ Holowaychuk)\n\n* Commas last in sys.inspect\n\n* Constatnts moved from process object to require('constants')\n\n* Fix parsing of linux memory (Vitali Lovich)\n\n* inspect shows function names (Jorge Chamorro Bieling)\n\n* uncaughtException corner cases (Felix Geisendörfer)\n\n* TCP clients now buffer writes before connection\n\n* Rename sys module to 'util' (Micheil Smith)\n\n* Properly set stdio handlers to blocking on SIGTERM and SIGINT\n  (Tom Hughes)\n\n* Add destroy methods to HTTP messages\n\n* base64 improvements (isaacs, Jorge Chamorro Bieling)\n\n* API for defining REPL commands (Sami Samhuri)\n\n* child_process.exec timeout fix (Aaron Heckmann)\n\n* Upgrade V8 to 2.5.1, Libev to 4.00, libeio, http-parser\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

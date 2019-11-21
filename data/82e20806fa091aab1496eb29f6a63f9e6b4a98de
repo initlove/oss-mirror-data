@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ODJlMjA4MDZmYTA5MWFhYjE0OTZlYjI5ZjZhNjNmOWU2YjRhOThkZQ==",
+  "sha": "82e20806fa091aab1496eb29f6a63f9e6b4a98de",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/82e20806fa091aab1496eb29f6a63f9e6b4a98de",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-01-10T01:00:21Z"
+  },
+  "object": {
+    "sha": "c50c33e9397d7a0a8717e8ce7530572907c054ad",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/c50c33e9397d7a0a8717e8ce7530572907c054ad"
+  },
+  "tag": "v0.8.17",
+  "message": "2012.01.09, Version 0.8.17 (Stable)\n\n* npm: Upgrade to v1.2.0\n  - peerDependencies (Domenic Denicola)\n  - node-gyp v0.8.2 (Nathan Rajlich)\n  - Faster installs from github user/project shorthands (Nathan Zadoks)\n\n* typed arrays: fix 32 bit size/index overflow (Ben Noordhuis)\n\n* http: Improve performance of single-packet responses (Ben Noordhuis)\n\n* install: fix openbsd man page location (Ben Noordhuis)\n\n* http: bubble up parser errors to ClientRequest (Brian White)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQ7hKlAAoJELCniwpsSBz2H7IH/1bFLgJWlMSArZY45pBymWpc\nhzzEoDvcWfEACSZBVkSOafC6tb/rHOVlV1uoU3NK0xEBpOF0c1bb4s7RfAJVrq8A\n507SKzGz79q1ECRgg/9qY24wp/b9lpzRzbeHTK8zZ9j1ChPl9/Iqc5C7krN4Ykqs\nEjVrz/ZjQElhKj+wrjxQRts64yx3QkO82rUadCOt7c/CU4O9iIWw3BimBW2fbznt\nTmH84km0n91M0tqMSKeDDXr2xHwR8FrobWqWpHohvr8f1hbOSP5Rv8SjaElyQZRF\nx1zdfvqQ2/Aktyu7ze2tsatoIONffrmE4mrGeKnfrL75ooNLmQtP0MDnzDdBSPc=\n=jopU\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQ7hKlAAoJELCniwpsSBz2H7IH/1bFLgJWlMSArZY45pBymWpc\nhzzEoDvcWfEACSZBVkSOafC6tb/rHOVlV1uoU3NK0xEBpOF0c1bb4s7RfAJVrq8A\n507SKzGz79q1ECRgg/9qY24wp/b9lpzRzbeHTK8zZ9j1ChPl9/Iqc5C7krN4Ykqs\nEjVrz/ZjQElhKj+wrjxQRts64yx3QkO82rUadCOt7c/CU4O9iIWw3BimBW2fbznt\nTmH84km0n91M0tqMSKeDDXr2xHwR8FrobWqWpHohvr8f1hbOSP5Rv8SjaElyQZRF\nx1zdfvqQ2/Aktyu7ze2tsatoIONffrmE4mrGeKnfrL75ooNLmQtP0MDnzDdBSPc=\n=jopU\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c50c33e9397d7a0a8717e8ce7530572907c054ad\ntype commit\ntag v0.8.17\ntagger isaacs <i@izs.me> 1357779621 -0800\n\n2012.01.09, Version 0.8.17 (Stable)\n\n* npm: Upgrade to v1.2.0\n  - peerDependencies (Domenic Denicola)\n  - node-gyp v0.8.2 (Nathan Rajlich)\n  - Faster installs from github user/project shorthands (Nathan Zadoks)\n\n* typed arrays: fix 32 bit size/index overflow (Ben Noordhuis)\n\n* http: Improve performance of single-packet responses (Ben Noordhuis)\n\n* install: fix openbsd man page location (Ben Noordhuis)\n\n* http: bubble up parser errors to ClientRequest (Brian White)\n"
+  }
+}

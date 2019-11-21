@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6ZjA1YjcxOGFiMDI5ZWZmODBkNDc0YTI3YWIzYmVmZDVkOGY4Mzg5Ng==",
+  "sha": "f05b718ab029eff80d474a27ab3befd5d8f83896",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/f05b718ab029eff80d474a27ab3befd5d8f83896",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T14:58:27Z"
+  },
+  "object": {
+    "sha": "0e38fb1eb8ec5643cf617459cad0dff532745991",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/0e38fb1eb8ec5643cf617459cad0dff532745991"
+  },
+  "tag": "v3.0.44",
+  "message": "MooseFS 3.0.44-1\n\n * (master+mount) fixed synchronization between mounts (write+close on one and then read this data on another)\n * (mount) fixed chunk localization cache (snapshot case - on snapshot chunkid may change)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NmUwNzQzM2QxYmM2ZTFiMjZkNTliNTY3ZmY4ZjgwZWQzYTg4NTA0Zg==",
+  "sha": "6e07433d1bc6e1b26d59b567ff8f80ed3a88504f",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/6e07433d1bc6e1b26d59b567ff8f80ed3a88504f",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-08-04T19:04:32Z"
+  },
+  "object": {
+    "sha": "0b925d075d359d03426f0b32bb58a5e05825b4ea",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/0b925d075d359d03426f0b32bb58a5e05825b4ea"
+  },
+  "tag": "v0.1.103",
+  "message": "2010.08.04, Version 0.1.103\n\n* Implement keep-alive for http.Client (Mikeal Rogers)\n\n* base64 fixes. (Ben Noordhuis)\n\n* Fix --debug-brk (Danny Coates)\n\n* Don't let path.normalize get above the root. (Isaac Schlueter)\n\n* Allow signals to be used with process.on in addition to\n  process.addListener. (Brian White)\n\n* Globalize the Buffer object\n\n* Use kqueue on recent macintosh builds\n\n* Fix addrlen for unix_dgram sockets (Benjamin Kramer)\n\n* Fix stats.isDirectory() and friends (Benjamin Kramer)\n\n* Upgrade http-parser, V8 to 2.3.5\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

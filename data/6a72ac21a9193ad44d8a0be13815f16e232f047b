@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NmE3MmFjMjFhOTE5M2FkNDRkOGEwYmUxMzgxNWYxNmUyMzJmMDQ3Yg==",
+  "sha": "6a72ac21a9193ad44d8a0be13815f16e232f047b",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/6a72ac21a9193ad44d8a0be13815f16e232f047b",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-01-18T20:49:10Z"
+  },
+  "object": {
+    "sha": "2c4eef0d972838c51999d32c0d251857a713dc18",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/2c4eef0d972838c51999d32c0d251857a713dc18"
+  },
+  "tag": "v0.8.18",
+  "message": "2013.01.18, Version 0.8.18 (Stable)\n\n* npm: Upgrade to v1.2.2\n\n* dns: make error message match errno (Dan Milon)\n\n* tls: follow RFC6125 more stricly (Fedor Indutny)\n\n* buffer: reject negative SlowBuffer offsets (Ben Noordhuis)\n\n* install: add simplejson fallback (Chris Dent)\n\n* http: fix \"Cannot call method 'emit' of null\" (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQ+bVGAAoJELCniwpsSBz2j7AIAIcx6wmmUdXbdZ9g/eN6R3Ff\naTJw70hLMoBmDHJeeSD96VlWMZSpJRkw05v0gdslNHXql64hRQ8cJj3DQIuRKMK6\nZVWnqZGs/u/CfjP41Rmclp78UcJuPEVYdZr4Qafc/KQ1NOQABe5Z/J1/wp599TSa\naqgb2PQgadxdu2ZuA+aPf5lg3poWw0vCBSNOHq3/Nm41wPyxRIpU581Q9O0vraJJ\n15fSKxwXLhf12uiqJ0daAr2rZ5m/dHAGUSOe62oZQDHM3Vv9xlKiIdOhB05eHtlC\nb6XctX2q9glv5pFO+DQmJXBROFdCDb/N6JBvBYrzA04FeKgEgnHLuSj+Df/4wT0=\n=rgLj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQ+bVGAAoJELCniwpsSBz2j7AIAIcx6wmmUdXbdZ9g/eN6R3Ff\naTJw70hLMoBmDHJeeSD96VlWMZSpJRkw05v0gdslNHXql64hRQ8cJj3DQIuRKMK6\nZVWnqZGs/u/CfjP41Rmclp78UcJuPEVYdZr4Qafc/KQ1NOQABe5Z/J1/wp599TSa\naqgb2PQgadxdu2ZuA+aPf5lg3poWw0vCBSNOHq3/Nm41wPyxRIpU581Q9O0vraJJ\n15fSKxwXLhf12uiqJ0daAr2rZ5m/dHAGUSOe62oZQDHM3Vv9xlKiIdOhB05eHtlC\nb6XctX2q9glv5pFO+DQmJXBROFdCDb/N6JBvBYrzA04FeKgEgnHLuSj+Df/4wT0=\n=rgLj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2c4eef0d972838c51999d32c0d251857a713dc18\ntype commit\ntag v0.8.18\ntagger isaacs <i@izs.me> 1358542150 -0800\n\n2013.01.18, Version 0.8.18 (Stable)\n\n* npm: Upgrade to v1.2.2\n\n* dns: make error message match errno (Dan Milon)\n\n* tls: follow RFC6125 more stricly (Fedor Indutny)\n\n* buffer: reject negative SlowBuffer offsets (Ben Noordhuis)\n\n* install: add simplejson fallback (Chris Dent)\n\n* http: fix \"Cannot call method 'emit' of null\" (Ben Noordhuis)\n"
+  }
+}

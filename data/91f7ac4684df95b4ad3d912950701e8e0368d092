@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6OTFmN2FjNDY4NGRmOTViNGFkM2Q5MTI5NTA3MDFlOGUwMzY4ZDA5Mg==",
+  "sha": "91f7ac4684df95b4ad3d912950701e8e0368d092",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/91f7ac4684df95b4ad3d912950701e8e0368d092",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2018-07-23T21:38:18Z"
+  },
+  "object": {
+    "sha": "9d8192b7a8b493ab1fe85f273e51220f78c033f0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/9d8192b7a8b493ab1fe85f273e51220f78c033f0"
+  },
+  "tag": "v3.0.101",
+  "message": "MooseFS 3.0.101\n\n * (master) make under goal replications respect topology (patch made by tclh123)\n * (master) fix inforec undergoal (patch made by tclh123)\n * (cgiserv) fixed handling connection close during data sending (leaving active pipes which caused leaving mfs.cgi subprocesses)\n * (mount) decreased memory usage (fixed handling buffers allocated per thread)\n * (all) setting correct errno when read returns 0 (in sockets.c)\n * (mount) fixed double free of plock_data structure\n * (master) fixed inconsistency in calculating realsize when storage class definition has changed\n * (master+mount) fixed handling read-only filesystems (ro flag in exports and lookup-open lflags)\n * (all) fixed differences in defaults between source,config and manpages\n * (all) added 'nobreak' macro to explicitly inform compiler that intentionally there is no 'break' before following 'case'\n * (mount) added 'mfssuid' and 'mfsdev' options to mount (allows mounting with suid/dev options using system mount on Linux)\n * (cs) added using posix_fadvise(...DONTNEED) for tested chunks\n * (master) fixed HA bug (uninitialized variable might cause everlasting ELECT - PRO only)\n * (cs) fixed metaid handling\n * (master) added clearing SNAPHSOT eattr on file/directory modifications\n * (master) added optional same rack preference for destination server during undergoal replications\n * (mount+tools) increased masterproxy timeout from 1s to 20s\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MTlhOTY2Mzc5MDgzZmQ0OTBhZDhlMjJmMzI5NzFmYTU4YjIyZmViZg==",
+  "sha": "19a966379083fd490ad8e22f32971fa58b22febf",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/19a966379083fd490ad8e22f32971fa58b22febf",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2011-12-15T18:59:21Z"
+  },
+  "object": {
+    "sha": "9a059ea69e1f6ebd8899246682d8ca257610b8ab",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/9a059ea69e1f6ebd8899246682d8ca257610b8ab"
+  },
+  "tag": "v0.6.6",
+  "message": "2011.12.14, Version 0.6.6 (stable)\n\n* npm update to 1.1.0-beta-4 (Isaac Z. Schlueter)\n\n* cli: fix output of --help (Ben Noordhuis)\n\n* new website\n\n* pause/resume semantics for stdin (Isaac Z. Schlueter)\n\n* Travis CI integration (Maciej Małecki)\n\n* child_process: Fix bug regarding closed stdin (Ben Noordhuis)\n\n* Enable upgrades in MSI. (Igor Zinkovsky)\n\n* net: Fixes memory leak (Ben Noordhuis)\n\n* fs: handle fractional or NaN ReadStream buffer size (Ben Noordhuis)\n\n* crypto: fix memory leaks in PBKDF2 error path (Ben Noordhuis)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

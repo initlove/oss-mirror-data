@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6YTg0YjJlMWZlZDk4ODZjMTU0YzVjNzA3ODA1ZWZkNGY1Y2MzMzQ2Mg==",
+  "sha": "a84b2e1fed9886c154c5c707805efd4f5cc33462",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/a84b2e1fed9886c154c5c707805efd4f5cc33462",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2019-04-01T23:18:13Z"
+  },
+  "object": {
+    "sha": "6a9849814d4f4da1abf702c2d50ba86313bf55ea",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/6a9849814d4f4da1abf702c2d50ba86313bf55ea"
+  },
+  "tag": "v3.0.104",
+  "message": "MooseFS 3.0.104\n\n * (master) fixed taking into account labels in classes 1-9\n * (master) fixed recovering userperm and otherperm in ACL (in practice it doesn't matter - mainly cosmetics)\n * (cli+cgi) fixed python3 compatibility issue (casting to int for \"%X\" format)\n * (master) increased mmap allocation block size (Linux kernel issue - too many mmaps leads to memory not being properly released by the kernel)\n * (client) fixed handling internal packets with size zero (client disconnection during chunkserver registration)\n * (client) fixed symlink cache handling (potential race condition)\n * (master) added global option for preventing using same ip or same rack for more than one chunk copy\n * (clinet) added ignoring '_netdev' option - sometimes needed in case of mounting from fstab\n * (master) added defining rackid as string paths in mfstopology.cfg (introdiced optional higher distances between servers)\n * (master) fixed desync on adding damaged chunk\n * (master) added changelog save mode (background,async and sync)\n * (all) fixed issues reported by cppcheck (fixes #179)\n * (cli+cgi) fixed issues reported by pylint (fixes #180)\n * (cs) added 'damaged' flag to chunk (prevents syslog flooding - issue #192)\n * (metatools) fixed conflict with builtin function 'humanize_number' (NetBSD)\n * (master) better handling chunks with pending high-priority jobs\n * (master) long loop detection (log info whenever time between polls is longer than 1 second)\n * (master) fixed condition that checks if thare are all chunkservers and all chunks available (and using it for detecting ENOSPC condition - issue #201)\n * (mount) added '.params' pseudofile with mfsmount working parameters (such as cache sizes,timeouts etc.)\n * (cs) fixed removing chunks from data structures when marking disk as 'damaged' (issue #207)\n * (cs) fixed handling 'damaged' disks with chunks on reload (issue #207)\n * (cs) unlink duplicates week after detection (instead of removing them instantly - related to issue #207)\n * (tools) added displaying number of blocks in 'mfsfileinfo'\n * (master) added error messages for 'fork' errors\n * (cgi) fixed handling encodings (issue #206 and #208)\n * (cgi) added timestamp (issue #197)\n * (cgi) fixed chart.cgi url (issue #200)\n * (cs) fixed crc values for non existing blocks\n * (mount) fixed changing processname\n * (supervisor) added reloading config parameters on SIGHUP (aka 'reload' - 'pro' version only)\n * (cs) fixed exiting protocol\n * (cs) added internal rebalance chart\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

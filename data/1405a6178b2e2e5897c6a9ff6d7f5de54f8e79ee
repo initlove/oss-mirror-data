@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MTQwNWE2MTc4YjJlMmU1ODk3YzZhOWZmNmQ3ZjVkZTU0ZjhlNzllZQ==",
+  "sha": "1405a6178b2e2e5897c6a9ff6d7f5de54f8e79ee",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/1405a6178b2e2e5897c6a9ff6d7f5de54f8e79ee",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-03-28T21:49:40Z"
+  },
+  "object": {
+    "sha": "bce38b3d74e64fcb7d04a2dd551151da6168cdc5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/bce38b3d74e64fcb7d04a2dd551151da6168cdc5"
+  },
+  "tag": "v0.11.0",
+  "message": "2013.03.28, Version 0.11.0 (Unstable)\n\n* V8: update to 3.17.13\n\n* os: use %SystemRoot% or %windir% in os.tmpdir() (Suwon Chae)\n\n* util: fix util.inspect() line width calculation (Marcin Kostrzewa)\n\n* buffer: remove _charsWritten (Trevor Norris)\n\n* fs: uv_[fl]stat now reports subsecond resolution (Timothy J Fontaine)\n\n* fs: Throw if error raised and missing callback (bnoordhuis)\n\n* tls: expose SSL_CTX_set_timeout via tls.createServer (Manav Rathi)\n\n* tls: remove harmful unnecessary bounds checking (Marcel Laverdet)\n\n* buffer: write ascii strings using WriteOneByte (Trevor Norris)\n\n* dtrace: fix generation of v8 constants on freebsd (Fedor Indutny)\n\n* dtrace: x64 ustack helper (Fedor Indutny)\n\n* readline: handle wide characters properly (Nao Iizuka)\n\n* repl: Use a domain to catch async errors safely (isaacs)\n\n* repl: emit 'reset' event when context is reset (Sami Samhuri)\n\n* util: custom `inspect()` method may return an Object (Nathan Rajlich)\n\n* console: `console.dir()` bypasses inspect() methods (Nathan Rajlich)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRVLr0AAoJELCniwpsSBz2NowIAJJeX3rvfxKvDNPbWBfEPMP2\n1VGMcklBttuiBpimrP1HYVxMFc3VVZrxcVhCgCePl5LGhzLc66HgVx8KOSIgOBzM\ndJM7P9WQnEfmwVhcgshxeSdNTLtpLvr4rNMfkgbocWGs3d0Zy4i7OJlg2OFYSsfc\nj35irAXcAN4FnenoF5vcCaxxWsSFnC3hUIeqpSR8EI6jOUMU8VLjmm3MF8oN/txM\nDc88uJbm369VzEFszbdV+Aw6w3Xu1ITYh0f2Je/rEjyxI2HQBPXTUeKpF9kUdZeB\nyadUoXsFjvjzhTHSba6ESXSnDuYYyXgOxzTjhCeg7HpZVg6l2G5cszC3b+f6XVA=\n=L90C\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRVLr0AAoJELCniwpsSBz2NowIAJJeX3rvfxKvDNPbWBfEPMP2\n1VGMcklBttuiBpimrP1HYVxMFc3VVZrxcVhCgCePl5LGhzLc66HgVx8KOSIgOBzM\ndJM7P9WQnEfmwVhcgshxeSdNTLtpLvr4rNMfkgbocWGs3d0Zy4i7OJlg2OFYSsfc\nj35irAXcAN4FnenoF5vcCaxxWsSFnC3hUIeqpSR8EI6jOUMU8VLjmm3MF8oN/txM\nDc88uJbm369VzEFszbdV+Aw6w3Xu1ITYh0f2Je/rEjyxI2HQBPXTUeKpF9kUdZeB\nyadUoXsFjvjzhTHSba6ESXSnDuYYyXgOxzTjhCeg7HpZVg6l2G5cszC3b+f6XVA=\n=L90C\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bce38b3d74e64fcb7d04a2dd551151da6168cdc5\ntype commit\ntag v0.11.0\ntagger isaacs <i@izs.me> 1364507380 -0700\n\n2013.03.28, Version 0.11.0 (Unstable)\n\n* V8: update to 3.17.13\n\n* os: use %SystemRoot% or %windir% in os.tmpdir() (Suwon Chae)\n\n* util: fix util.inspect() line width calculation (Marcin Kostrzewa)\n\n* buffer: remove _charsWritten (Trevor Norris)\n\n* fs: uv_[fl]stat now reports subsecond resolution (Timothy J Fontaine)\n\n* fs: Throw if error raised and missing callback (bnoordhuis)\n\n* tls: expose SSL_CTX_set_timeout via tls.createServer (Manav Rathi)\n\n* tls: remove harmful unnecessary bounds checking (Marcel Laverdet)\n\n* buffer: write ascii strings using WriteOneByte (Trevor Norris)\n\n* dtrace: fix generation of v8 constants on freebsd (Fedor Indutny)\n\n* dtrace: x64 ustack helper (Fedor Indutny)\n\n* readline: handle wide characters properly (Nao Iizuka)\n\n* repl: Use a domain to catch async errors safely (isaacs)\n\n* repl: emit 'reset' event when context is reset (Sami Samhuri)\n\n* util: custom `inspect()` method may return an Object (Nathan Rajlich)\n\n* console: `console.dir()` bypasses inspect() methods (Nathan Rajlich)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6ZTYzYWY4YzQxYjlmYWExMGEyNzI1OGVhNDM2ODQ2NWRlNWMzOTEyNw==",
+  "sha": "e63af8c41b9faa10a27258ea4368465de5c39127",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/e63af8c41b9faa10a27258ea4368465de5c39127",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-07-08T13:34:02Z"
+  },
+  "object": {
+    "sha": "4aba657f5a55b7f01a35c7729495907aaefaed03",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/4aba657f5a55b7f01a35c7729495907aaefaed03"
+  },
+  "tag": "v3.0.79",
+  "message": "MooseFS 3.0.79\n\n * (master) fixed 'flock' (change type of lock SH->EX and EX->SH caused access to freed memory and usually SEGV)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

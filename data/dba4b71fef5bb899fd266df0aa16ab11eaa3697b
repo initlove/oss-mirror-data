@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZGJhNGI3MWZlZjViYjg5OWZkMjY2ZGYwYWExNmFiMTFlYWEzNjk3Yg==",
+  "sha": "dba4b71fef5bb899fd266df0aa16ab11eaa3697b",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/dba4b71fef5bb899fd266df0aa16ab11eaa3697b",
+  "tagger": {
+    "name": "Ben Noordhuis",
+    "email": "info@bnoordhuis.nl",
+    "date": "2011-08-18T13:12:50Z"
+  },
+  "object": {
+    "sha": "a745d19ce7d1c0e3778371af4f0346be70cf2c8e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/a745d19ce7d1c0e3778371af4f0346be70cf2c8e"
+  },
+  "tag": "v0.4.11",
+  "message": "2011.08.17, Version 0.4.11 (stable)\n\n* #738 Fix crypto encryption/decryption with Base64. (SAWADA Tadashi)\n\n* #1202 net.createConnection defer DNS lookup error events to next tick\n  (Ben Noordhuis)\n\n* #1374 fix setting ServerResponse.statusCode in writeHead (Trent Mick)\n\n* #1417 Fix http.ClientRequest crashes if end() was called twice\n\n* #1497 querystring: Replace 'in' test with 'hasOwnProperty' (isaacs)\n\n* #1546 http perf improvement\n\n* fix memleak in libeio (Tom Hughes)\n\n* cmake improvements (Tom Hughes)\n\n* node_net.cc: fix incorrect sizeof() (Tom Hughes)\n\n* Windows/cygwin: no more GetConsoleTitleW errors on XP (Bert Belder)\n\n* Doc improvments (koichik, Logan Smyth, Ben Noordhuis, Arnout Kazemier)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

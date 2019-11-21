@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDcyMzI0ODo4YzI0MmNhNmY1NTI0NTkxMDgwZmZiOWVkZmRhOTA3MjQxNDg3ZTUz",
+  "sha": "8c242ca6f5524591080ffb9edfda907241487e53",
+  "url": "https://api.github.com/repos/openlayers/openlayers/git/tags/8c242ca6f5524591080ffb9edfda907241487e53",
+  "tagger": {
+    "name": "Christopher Schmidt",
+    "email": "crschmidt@crschmidt.net",
+    "date": "2006-08-24T05:14:46Z"
+  },
+  "object": {
+    "sha": "539df55c39a05257678dc508d0c1a34e33c82b3b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openlayers/openlayers/git/commits/539df55c39a05257678dc508d0c1a34e33c82b3b"
+  },
+  "tag": "release-2.0-rc4",
+  "message": "RC3 had a major bug with event handling in the MouseToolbar, introduced due to firebug/safari-specific debug statements left in the RC. This will fix the \"Every time I drag a rectangle, it just keeps dragging\" issue that users were reporting.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

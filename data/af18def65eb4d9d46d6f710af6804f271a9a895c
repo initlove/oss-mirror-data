@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YWYxOGRlZjY1ZWI0ZDlkNDZkNmY3MTBhZjY4MDRmMjcxYTlhODk1Yw==",
+  "sha": "af18def65eb4d9d46d6f710af6804f271a9a895c",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/af18def65eb4d9d46d6f710af6804f271a9a895c",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-09-10T20:52:50Z"
+  },
+  "object": {
+    "sha": "da235fa12c208fc8243600e128db2c9b55624c5c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/da235fa12c208fc8243600e128db2c9b55624c5c"
+  },
+  "tag": "v0.2.1",
+  "message": "2010.09.10, Version 0.2.1\n\n* REPL improvements (Johan Euphrosine, Brian White)\n\n* nextTick bug fixes (Benjamin Thomas, Felix Geisendörfer,\n  Trent Mick)\n\n* fs module bug fixes (Russell Haering, Marco Rogers, Tobie Langel,\n  Isaac Schlueter)\n\n* Build script change for OpenEmbedded.\n\n* Most constrctuors work without 'new' now.\n\n* Allow Strings for ports on net.Server.listen (Bradley Meck)\n\n* setInterval(cb, 0) loops infinitely\n\n* Fixes for NODE_MODULE_CONTEXTS=1 (Herbert Vojčík)\n\n* Expose fingerproint from getPeerCertificate (Paul Querna)\n\n* API: forceClose -> destroy for WriteStreams\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

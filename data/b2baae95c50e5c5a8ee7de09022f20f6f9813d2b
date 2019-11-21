@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTExNTM3MDpiMmJhYWU5NWM1MGU1YzVhOGVlN2RlMDkwMjJmMjBmNmY5ODEzZDJi",
+  "sha": "b2baae95c50e5c5a8ee7de09022f20f6f9813d2b",
+  "url": "https://api.github.com/repos/firebreath/FireBreath/git/tags/b2baae95c50e5c5a8ee7de09022f20f6f9813d2b",
+  "tagger": {
+    "name": "Richard Bateman",
+    "email": "taxilian@fb.com",
+    "date": "2011-01-26T04:03:57Z"
+  },
+  "object": {
+    "sha": "c6c0308a1b4768ad882493a71fa2a86ed726cc15",
+    "type": "commit",
+    "url": "https://api.github.com/repos/firebreath/FireBreath/git/commits/c6c0308a1b4768ad882493a71fa2a86ed726cc15"
+  },
+  "tag": "firebreath-1.4b3",
+  "message": "FireBreath 1.4 beta 3:\n\n- Added support for InvalidateWindow on IE/windowless\n- Fixed bug in carbon event handling\n- Fixed FB_GUI_DISABLED on windows/IE\n- Fixed major bug in windowed/windowless handling on windows\n- Fixed issue with uintN_t types\n- Added SimpleStreamHelper class for easy HTTP\n- Fixed BrowserStreams race condition\n- Fixed potential crash or deadlock with async calls\n- Improved documentation (on the website now)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

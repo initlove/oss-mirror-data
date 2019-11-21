@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6ZDJmYTM4MmQyNGQ5YTM5OTRjMmZkODgzNmEyNDMzMjdhOTI5ZGYyNA==",
+  "sha": "d2fa382d24d9a3994c2fd8836a243327a929df24",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/d2fa382d24d9a3994c2fd8836a243327a929df24",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T15:19:49Z"
+  },
+  "object": {
+    "sha": "d64003d81a423f27df7680874c8cd4eb67f0a762",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/d64003d81a423f27df7680874c8cd4eb67f0a762"
+  },
+  "tag": "v3.0.73",
+  "message": "MooseFS 3.0.73-1\n\n * (master) fixed restoring ARCHCHG from changelog\n * (cli+cgi) fixed displaying master list with followers only (pro version only)\n * (master) added using size and length quota to fix disk usage values (statfs)\n * (master) fixed xattr bug which may lead to data corruption and segfaults (intr. in 2.1.1)\n * (master) added 'node_info' packet\n * (tools) added '-p' option to 'mfsdirinfo' - 'precise mode'\n * (master) fixed edge renumeration\n * (master) added detecting of wrong edge numbers and force renumeration in such case\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

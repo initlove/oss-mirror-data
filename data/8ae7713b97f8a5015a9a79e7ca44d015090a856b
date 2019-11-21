@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6OGFlNzcxM2I5N2Y4YTUwMTVhOWE3OWU3Y2E0NGQwMTUwOTBhODU2Yg==",
+  "sha": "8ae7713b97f8a5015a9a79e7ca44d015090a856b",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/8ae7713b97f8a5015a9a79e7ca44d015090a856b",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-09-28T11:09:32Z"
+  },
+  "object": {
+    "sha": "b05697e0ea5460cb6b5b028a5f933757cf55b1cf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/b05697e0ea5460cb6b5b028a5f933757cf55b1cf"
+  },
+  "tag": "v2.0.91",
+  "message": "MooseFS 2.0.91\n\n * (mount) fixed using connection cache in readdata module\n * (freebsd) changed name in ports file from moosefs to moosefs2\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

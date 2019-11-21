@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YzcwMjhiZWMwNmIzYzk2NzZjYTQ1NGYwZDM3OTIzMzBlN2FjMmQ4NQ==",
+  "sha": "c7028bec06b3c9676ca454f0d3792330e7ac2d85",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/c7028bec06b3c9676ca454f0d3792330e7ac2d85",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-11-21T00:40:31Z"
+  },
+  "object": {
+    "sha": "dcfd032bdd69dfb38c120e18438d6316ae522edc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/dcfd032bdd69dfb38c120e18438d6316ae522edc"
+  },
+  "tag": "v0.11.9",
+  "message": "2013.11.20, Version 0.11.9 (Unstable)\n\n* uv: upgrade to v0.11.15 (Timothy J Fontaine)\n\n* v8: upgrade to 3.22.24.5 (Timothy J Fontaine)\n\n* buffer: remove warning when no encoding is passed (Trevor Norris)\n\n* build: make v8 use random seed for hash tables (Ben Noordhuis)\n\n* crypto: build with shared openssl without NPN (Ben Noordhuis)\n\n* crypto: update root certificates (Ben Noordhuis)\n\n* debugger: pass on v8 debug switches (Ben Noordhuis)\n\n* domain: use AsyncListener API (Trevor Norris)\n\n* fs: add recursive subdirectory support to fs.watch (Nick Simmons)\n\n* fs: make fs.watch() non-recursive by default (Ben Noordhuis)\n\n* http: cleanup freeSockets when socket destroyed (fengmk2)\n\n* http: force socket encoding to be null (isaacs)\n\n* http: make DELETE requests set `req.method` (Nathan Rajlich)\n\n* node: add AsyncListener support (Trevor Norris)\n\n* src: remove global HandleScope that hid memory leaks (Ben Noordhuis)\n\n* tls: add ECDH ciphers support (Erik Dubbelboer)\n\n* tls: do not default to 'localhost' servername (Fedor Indutny)\n\n* tls: more accurate wrapping of connecting socket (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlKNVn8ACgkQfTP/nQJGQG0rXgCglCaxAeMISF4Div2NHaJicyX/\n1kcAoMBxu4bcj/Vn1o4TUHqnPBgW68Eu\n=72Ne\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlKNVn8ACgkQfTP/nQJGQG0rXgCglCaxAeMISF4Div2NHaJicyX/\n1kcAoMBxu4bcj/Vn1o4TUHqnPBgW68Eu\n=72Ne\n-----END PGP SIGNATURE-----\n",
+    "payload": "object dcfd032bdd69dfb38c120e18438d6316ae522edc\ntype commit\ntag v0.11.9\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1384994431 -0800\n\n2013.11.20, Version 0.11.9 (Unstable)\n\n* uv: upgrade to v0.11.15 (Timothy J Fontaine)\n\n* v8: upgrade to 3.22.24.5 (Timothy J Fontaine)\n\n* buffer: remove warning when no encoding is passed (Trevor Norris)\n\n* build: make v8 use random seed for hash tables (Ben Noordhuis)\n\n* crypto: build with shared openssl without NPN (Ben Noordhuis)\n\n* crypto: update root certificates (Ben Noordhuis)\n\n* debugger: pass on v8 debug switches (Ben Noordhuis)\n\n* domain: use AsyncListener API (Trevor Norris)\n\n* fs: add recursive subdirectory support to fs.watch (Nick Simmons)\n\n* fs: make fs.watch() non-recursive by default (Ben Noordhuis)\n\n* http: cleanup freeSockets when socket destroyed (fengmk2)\n\n* http: force socket encoding to be null (isaacs)\n\n* http: make DELETE requests set `req.method` (Nathan Rajlich)\n\n* node: add AsyncListener support (Trevor Norris)\n\n* src: remove global HandleScope that hid memory leaks (Ben Noordhuis)\n\n* tls: add ECDH ciphers support (Erik Dubbelboer)\n\n* tls: do not default to 'localhost' servername (Fedor Indutny)\n\n* tls: more accurate wrapping of connecting socket (Fedor Indutny)\n"
+  }
+}

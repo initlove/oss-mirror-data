@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMyNTI5ODoyYTIzYTUxMDE0MmExYWI1OTdmMDIxNGU0ZmFkYjNjNzM1MGJiYjhk",
+  "sha": "2a23a510142a1ab597f0214e4fadb3c7350bbb8d",
+  "url": "https://api.github.com/repos/torvalds/linux/git/tags/2a23a510142a1ab597f0214e4fadb3c7350bbb8d",
+  "tagger": {
+    "name": "Linus Torvalds",
+    "email": "torvalds@linux-foundation.org",
+    "date": "2011-05-30T00:45:31Z"
+  },
+  "object": {
+    "sha": "55922c9d1b84b89cb946c777fddccb3247e7df2c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/torvalds/linux/git/commits/55922c9d1b84b89cb946c777fddccb3247e7df2c"
+  },
+  "tag": "v3.0-rc1",
+  "message": "Linux 3.0-rc1\n\nVersion numbers? We can increment them!\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2.0.16 (GNU/Linux)\n\niEYEABECAAYFAk3i6MYACgkQF3YsRnbiHLunGwCfXfMDDvDv025tyC368DQm1sIL\nLQUAoIZGzaBGvHijM+KutlYhWI1lbnx7\n=pnaH\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2.0.16 (GNU/Linux)\n\niEYEABECAAYFAk3i6MYACgkQF3YsRnbiHLunGwCfXfMDDvDv025tyC368DQm1sIL\nLQUAoIZGzaBGvHijM+KutlYhWI1lbnx7\n=pnaH\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 55922c9d1b84b89cb946c777fddccb3247e7df2c\ntype commit\ntag v3.0-rc1\ntagger Linus Torvalds <torvalds@linux-foundation.org> 1306716331 -0700\n\nLinux 3.0-rc1\n\nVersion numbers? We can increment them!\n"
+  }
+}

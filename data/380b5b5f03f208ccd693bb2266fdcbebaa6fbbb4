@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MzgwYjViNWYwM2YyMDhjY2Q2OTNiYjIyNjZmZGNiZWJhYTZmYmJiNA==",
+  "sha": "380b5b5f03f208ccd693bb2266fdcbebaa6fbbb4",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/380b5b5f03f208ccd693bb2266fdcbebaa6fbbb4",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-02-10T10:40:21Z"
+  },
+  "object": {
+    "sha": "eb155ea6f6a6aa341aa8c731dca8da545c6a4008",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/eb155ea6f6a6aa341aa8c731dca8da545c6a4008"
+  },
+  "tag": "v0.4.0",
+  "message": "2011.02.10, Version 0.4.0 (stable)\n\n* require() improvements (isaacs)\n  - understand package.json (isaacs)\n  - look for 'node_modules' dir\n\n* cmake fixes (Daniel Gröber)\n\n* http: fix buffer writes to outgoing messages (Russell Haering)\n\n* Expose UCS-2 Encoding (Konstantin Käfer)\n\n* Support strings for octal modes (isaacs)\n\n* Support array-ish args to Buffer ctor (isaacs)\n\n* cygwin and mingw improvements (Bert Belder)\n\n* TLS improvements\n\n* Fewer syscalls during require (Bert Belder, isaacs)\n\n* More DTrace probes (Bryan Cantrill,  Robert Mustacchi)\n\n* 'pipe' event on pipe() (Mikeal Rogers)\n\n* CRL support in TLS (Theo Schlossnagle)\n\n* HTTP header manipulation methods (Tim Caswell, Charlie Robbins)\n\n* Upgrade V8 to 3.1.2\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

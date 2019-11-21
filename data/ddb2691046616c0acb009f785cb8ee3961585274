@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZGRiMjY5MTA0NjYxNmMwYWNiMDA5Zjc4NWNiOGVlMzk2MTU4NTI3NA==",
+  "sha": "ddb2691046616c0acb009f785cb8ee3961585274",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/ddb2691046616c0acb009f785cb8ee3961585274",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-05-17T21:36:19Z"
+  },
+  "object": {
+    "sha": "d2fdae197ac542f686ee06835d1153dd43b862e5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/d2fdae197ac542f686ee06835d1153dd43b862e5"
+  },
+  "tag": "v0.10.7",
+  "message": "2013.05.17, Version 0.10.7 (Stable)\n\n* uv: upgrade to v0.10.7\n\n* npm: Upgrade to 1.2.21\n\n* crypto: Don't ignore verify encoding argument (isaacs)\n\n* buffer, crypto: fix default encoding regression (Ben Noordhuis)\n\n* timers: fix setInterval() assert (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRlqLTAAoJELCniwpsSBz2u6UH/3I/VtM2cqlfGLEStUIZFaII\nPEuwY+T4P+f7Ag/HqpgLIOolNg1UpQy0eAXUElNTFrGWDsQIt8WHuvr/Xlc9O2jb\nDfLz4WDORdhnNcE6zjiMwHK/NjK1PwixXALlQ7x0ZiG91Dniddl1E/oNYrq2C7tG\nnagdQd3jAigc5ByszbFVJXsm14rTlhK3aWO5uO19g5kbHiDnrA6qL/XRZJiWf6Gb\nYWRmlp3cG8L47k9olxJHJy3MAQFX+TuKBRDNtbVV3GrwvGtKpJn1Pp+L+41eu/Gh\n5Dzh7mBeHphwpzsEfmQ+VjmPM7p9B9qH8/ZPkcpWud5UZYU9lswtUi0zM7vKvkg=\n=dBl1\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRlqLTAAoJELCniwpsSBz2u6UH/3I/VtM2cqlfGLEStUIZFaII\nPEuwY+T4P+f7Ag/HqpgLIOolNg1UpQy0eAXUElNTFrGWDsQIt8WHuvr/Xlc9O2jb\nDfLz4WDORdhnNcE6zjiMwHK/NjK1PwixXALlQ7x0ZiG91Dniddl1E/oNYrq2C7tG\nnagdQd3jAigc5ByszbFVJXsm14rTlhK3aWO5uO19g5kbHiDnrA6qL/XRZJiWf6Gb\nYWRmlp3cG8L47k9olxJHJy3MAQFX+TuKBRDNtbVV3GrwvGtKpJn1Pp+L+41eu/Gh\n5Dzh7mBeHphwpzsEfmQ+VjmPM7p9B9qH8/ZPkcpWud5UZYU9lswtUi0zM7vKvkg=\n=dBl1\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d2fdae197ac542f686ee06835d1153dd43b862e5\ntype commit\ntag v0.10.7\ntagger isaacs <i@izs.me> 1368826579 -0700\n\n2013.05.17, Version 0.10.7 (Stable)\n\n* uv: upgrade to v0.10.7\n\n* npm: Upgrade to 1.2.21\n\n* crypto: Don't ignore verify encoding argument (isaacs)\n\n* buffer, crypto: fix default encoding regression (Ben Noordhuis)\n\n* timers: fix setInterval() assert (Ben Noordhuis)\n"
+  }
+}

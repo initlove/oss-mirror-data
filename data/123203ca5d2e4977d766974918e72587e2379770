@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6MTIzMjAzY2E1ZDJlNDk3N2Q3NjY5NzQ5MThlNzI1ODdlMjM3OTc3MA==",
+  "sha": "123203ca5d2e4977d766974918e72587e2379770",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/123203ca5d2e4977d766974918e72587e2379770",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-02-24T02:36:08Z"
+  },
+  "object": {
+    "sha": "baec59ca105880cad43983937205d88e85920a34",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/baec59ca105880cad43983937205d88e85920a34"
+  },
+  "tag": "v2.0.85",
+  "message": "MooseFS 2.0.85-1\n\n * (master) added ATIME_MODE option to set atime modification behaviour\n * (master) added using size and length quota to fix disk usage values (statfs)\n * (all) changed address of FSF in GPL licence text\n * (debian) removed obsolete conffiles\n * (debian) fixed copyright file\n * (mount) fixed parsing mfsmount.cfg (system options like nodev,noexec etc. were ommited)\n * (tools) removed obsoleted command 'mfssnapshot'\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

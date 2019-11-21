@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6Y2U5NTFhOTAzYjQ1MTIzMWYzMDU1MzE5NTMwMzY0YWQ0MzlmYzcxOA==",
+  "sha": "ce951a903b451231f3055319530364ad439fc718",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/ce951a903b451231f3055319530364ad439fc718",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-02-06T17:43:57Z"
+  },
+  "object": {
+    "sha": "53978bdf420622ff0121c63c0338c9e7c2e60869",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/53978bdf420622ff0121c63c0338c9e7c2e60869"
+  },
+  "tag": "v0.8.19",
+  "message": "2013.02.06, Version 0.8.19 (Stable)\n\n* npm: Upgrade to v1.2.10\n\n* zlib: pass object size hint to V8 (Ben Noordhuis)\n\n* zlib: reduce memory consumption, release early (Ben Noordhuis)\n\n* buffer: slow buffer copy compatibility fix (Trevor Norris)\n\n* zlib: don't assert on malformed dictionary (Ben Noordhuis)\n\n* zlib: don't assert on missing dictionary (Ben Noordhuis)\n\n* windows: better ipv6 support (Bert Belder)\n\n* windows: add error mappings related to unsupported protocols (Bert Belder)\n\n* windows: map ERROR_DIRECTORY to UV_ENOENT (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJREpZdAAoJELCniwpsSBz2MroH/irDb2ve3MLPI1al1o+8KsY0\nULKS7UgxydI7Z4YcXuhJQ2QvkX6eFSTiJmxqgO7RRrwtp5RhPC4sxT1uMBpWLBiF\nSlYMi9WBO6lD/W27os72vVBGiigh6DMtX3unVypO53lv0XCpMrJGAfxpc7H/dcEy\nC8LgurbSuZul4DPSlQPyOfsNk4cWCQB1RdSRg7YAscgmhhDLU7Dhb8IALNU6BoC1\nqHpdTlB+zf+2AxQafGiwy8m6qqjRBWI/R43xZMq2AzMl55NUaGtWMZZZ97ceJ3D6\nzvGmpZCXafHjoe4Yd2Ba8WMU6ngLmbqabut+3FQ/EA+zv4+78o32GOT0VqH4/b4=\n=HvJj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJREpZdAAoJELCniwpsSBz2MroH/irDb2ve3MLPI1al1o+8KsY0\nULKS7UgxydI7Z4YcXuhJQ2QvkX6eFSTiJmxqgO7RRrwtp5RhPC4sxT1uMBpWLBiF\nSlYMi9WBO6lD/W27os72vVBGiigh6DMtX3unVypO53lv0XCpMrJGAfxpc7H/dcEy\nC8LgurbSuZul4DPSlQPyOfsNk4cWCQB1RdSRg7YAscgmhhDLU7Dhb8IALNU6BoC1\nqHpdTlB+zf+2AxQafGiwy8m6qqjRBWI/R43xZMq2AzMl55NUaGtWMZZZ97ceJ3D6\nzvGmpZCXafHjoe4Yd2Ba8WMU6ngLmbqabut+3FQ/EA+zv4+78o32GOT0VqH4/b4=\n=HvJj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 53978bdf420622ff0121c63c0338c9e7c2e60869\ntype commit\ntag v0.8.19\ntagger isaacs <i@izs.me> 1360172637 -0800\n\n2013.02.06, Version 0.8.19 (Stable)\n\n* npm: Upgrade to v1.2.10\n\n* zlib: pass object size hint to V8 (Ben Noordhuis)\n\n* zlib: reduce memory consumption, release early (Ben Noordhuis)\n\n* buffer: slow buffer copy compatibility fix (Trevor Norris)\n\n* zlib: don't assert on malformed dictionary (Ben Noordhuis)\n\n* zlib: don't assert on missing dictionary (Ben Noordhuis)\n\n* windows: better ipv6 support (Bert Belder)\n\n* windows: add error mappings related to unsupported protocols (Bert Belder)\n\n* windows: map ERROR_DIRECTORY to UV_ENOENT (Bert Belder)\n"
+  }
+}

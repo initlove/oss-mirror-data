@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NjRjZjkxNzYxYzdiZWRmN2I3MzRlMTg2NWM4Mjc2ZGNjMDFhMzBkNQ==",
+  "sha": "64cf91761c7bedf7b734e1865c8276dcc01a30d5",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/64cf91761c7bedf7b734e1865c8276dcc01a30d5",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-10-24T17:07:15Z"
+  },
+  "object": {
+    "sha": "1ed4c6776e4f52956918b70565502e0f8869829d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/1ed4c6776e4f52956918b70565502e0f8869829d"
+  },
+  "tag": "v0.9.3",
+  "message": "2012.10.24, Version 0.9.3 (Unstable)\n\n* V8: Upgrade to 3.13.7.4\n\n* crypto: Default to buffers instead of binary strings (isaacs, Fedor Indutny)\n\n* crypto: add getHashes() and getCiphers() (Ben Noordhuis)\n\n* unix: add custom thread pool, remove libeio (Ben Noordhuis)\n\n* util: make `inspect()` accept an \"options\" argument (Nathan Rajlich)\n\n* https: fix renegotation attack protection (Ben Noordhuis)\n\n* cluster: make 'listening' handler see actual port (Aaditya Bhatia)\n\n* windows: use USERPROFILE to get the user's home dir (Bert Belder)\n\n* path: add platform specific path delimiter (Paul Serby)\n\n* http: add response.headersSent property (Pavel Lang)\n\n* child_process: make .fork()'d child auto-exit (Ben Noordhuis)\n\n* events: add 'removeListener' event (Ben Noordhuis)\n\n* string_decoder: Add 'end' method, do base64 properly (isaacs)\n\n* buffer: include encoding value in exception when invalid (Ricky Ng-Adam)\n\n* http: make http.ServerResponse no longer emit 'end' (isaacs)\n\n* streams: fix pipe is destructed by 'end' from destination (koichik)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQiCBDAAoJELCniwpsSBz2OXgH/2BaWMHbuzBKp8t6TAS93TnN\n9JtDl1jJ8S2vKFnEFnbBSH3GrA1U5tcRCk/qGWXw7EHgto2xIQct826i+4qVwWWe\n5AyVSRDjExdVj1V/QiRPuGiiLv0H2wWoSUc7Hi2119CGWfQj1YGSniGm5r7ar2X7\nn0+h3SmdvnWvlAErhemKjgfNq3hqNLnzplRig9nie8tb/nJrsrPyWx80dhcYDOAH\nJpCXJbCu4hIpJnRNPe9vZ0oJDT5PpN2a8GlfI1OhnhWyV6IwkCluddhi/fCkxt7D\nqazxMJZPg02KujoQY2d7eIPCfK6kO7+iXIeNA/4FFJKT6ZiR0BgFCmK8IMAdkkQ=\n=zP9r\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQiCBDAAoJELCniwpsSBz2OXgH/2BaWMHbuzBKp8t6TAS93TnN\n9JtDl1jJ8S2vKFnEFnbBSH3GrA1U5tcRCk/qGWXw7EHgto2xIQct826i+4qVwWWe\n5AyVSRDjExdVj1V/QiRPuGiiLv0H2wWoSUc7Hi2119CGWfQj1YGSniGm5r7ar2X7\nn0+h3SmdvnWvlAErhemKjgfNq3hqNLnzplRig9nie8tb/nJrsrPyWx80dhcYDOAH\nJpCXJbCu4hIpJnRNPe9vZ0oJDT5PpN2a8GlfI1OhnhWyV6IwkCluddhi/fCkxt7D\nqazxMJZPg02KujoQY2d7eIPCfK6kO7+iXIeNA/4FFJKT6ZiR0BgFCmK8IMAdkkQ=\n=zP9r\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1ed4c6776e4f52956918b70565502e0f8869829d\ntype commit\ntag v0.9.3\ntagger isaacs <i@izs.me> 1351098435 -0700\n\n2012.10.24, Version 0.9.3 (Unstable)\n\n* V8: Upgrade to 3.13.7.4\n\n* crypto: Default to buffers instead of binary strings (isaacs, Fedor Indutny)\n\n* crypto: add getHashes() and getCiphers() (Ben Noordhuis)\n\n* unix: add custom thread pool, remove libeio (Ben Noordhuis)\n\n* util: make `inspect()` accept an \"options\" argument (Nathan Rajlich)\n\n* https: fix renegotation attack protection (Ben Noordhuis)\n\n* cluster: make 'listening' handler see actual port (Aaditya Bhatia)\n\n* windows: use USERPROFILE to get the user's home dir (Bert Belder)\n\n* path: add platform specific path delimiter (Paul Serby)\n\n* http: add response.headersSent property (Pavel Lang)\n\n* child_process: make .fork()'d child auto-exit (Ben Noordhuis)\n\n* events: add 'removeListener' event (Ben Noordhuis)\n\n* string_decoder: Add 'end' method, do base64 properly (isaacs)\n\n* buffer: include encoding value in exception when invalid (Ricky Ng-Adam)\n\n* http: make http.ServerResponse no longer emit 'end' (isaacs)\n\n* streams: fix pipe is destructed by 'end' from destination (koichik)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NTcyOTIxOWRkZmM3NDViYjg4ZWQ5M2NhMjVmODZmNWZlNjM3NWY2NQ==",
+  "sha": "5729219ddfc745bb88ed93ca25f86f5fe6375f65",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/5729219ddfc745bb88ed93ca25f86f5fe6375f65",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-04-03T18:25:47Z"
+  },
+  "object": {
+    "sha": "d4982f6f5e4a9a703127489a553b8d782997ea43",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/d4982f6f5e4a9a703127489a553b8d782997ea43"
+  },
+  "tag": "v0.10.3",
+  "message": "2013.04.03, Version 0.10.3 (Stable)\n\n* npm: Upgrade to 1.2.17\n\n* child_process: acknowledge sent handles (Fedor Indutny)\n\n* etw: update prototypes to match dtrace provider (Timothy J Fontaine)\n\n* dtrace: pass more arguments to probes (Dave Pacheco)\n\n* build: allow building with dtrace on osx (Dave Pacheco)\n\n* http: Remove legacy ECONNRESET workaround code (isaacs)\n\n* http: Ensure socket cleanup on client response end (isaacs)\n\n* tls: Destroy socket when encrypted side closes (isaacs)\n\n* repl: isSyntaxError() catches \"strict mode\" errors (Nathan Rajlich)\n\n* crypto: Pass options to ctor calls (isaacs)\n\n* src: tie process.versions.uv to uv_version_string() (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRXHQrAAoJELCniwpsSBz2swUH/jhAXRQc4YWG5JfQJKslf4/s\ngNaJwb9fNuwD3veJzyDJN/j5p8V8PnSurvEXp8VbWcjVvl7JvOM+0xtY9QYxaYEt\nrPg/eff3S4P9EFCeXU1Rq/9nG7UbraVt8Hi3xarIY3WrfpXOz87q+ECggAymIyts\nyatb37KFJUrDImxKNIPSWM1yMz9XoShktarfoWQ67Pv//u1QOqxVZb5k1KMFCjOr\n9Zw+QKCAOtI9U+hVBcQp5bWiX9pcbeY73iUE3YHJhMmZP1Hu5v3HvFwOQ7LtMsSB\nZLQjkEwWD2sLtuTokyzLuyQPpcmNnjgaEC2nH6O5PQ+80kMWVxXm2RsRj3FL8R4=\n=wozh\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRXHQrAAoJELCniwpsSBz2swUH/jhAXRQc4YWG5JfQJKslf4/s\ngNaJwb9fNuwD3veJzyDJN/j5p8V8PnSurvEXp8VbWcjVvl7JvOM+0xtY9QYxaYEt\nrPg/eff3S4P9EFCeXU1Rq/9nG7UbraVt8Hi3xarIY3WrfpXOz87q+ECggAymIyts\nyatb37KFJUrDImxKNIPSWM1yMz9XoShktarfoWQ67Pv//u1QOqxVZb5k1KMFCjOr\n9Zw+QKCAOtI9U+hVBcQp5bWiX9pcbeY73iUE3YHJhMmZP1Hu5v3HvFwOQ7LtMsSB\nZLQjkEwWD2sLtuTokyzLuyQPpcmNnjgaEC2nH6O5PQ+80kMWVxXm2RsRj3FL8R4=\n=wozh\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d4982f6f5e4a9a703127489a553b8d782997ea43\ntype commit\ntag v0.10.3\ntagger isaacs <i@izs.me> 1365013547 -0700\n\n2013.04.03, Version 0.10.3 (Stable)\n\n* npm: Upgrade to 1.2.17\n\n* child_process: acknowledge sent handles (Fedor Indutny)\n\n* etw: update prototypes to match dtrace provider (Timothy J Fontaine)\n\n* dtrace: pass more arguments to probes (Dave Pacheco)\n\n* build: allow building with dtrace on osx (Dave Pacheco)\n\n* http: Remove legacy ECONNRESET workaround code (isaacs)\n\n* http: Ensure socket cleanup on client response end (isaacs)\n\n* tls: Destroy socket when encrypted side closes (isaacs)\n\n* repl: isSyntaxError() catches \"strict mode\" errors (Nathan Rajlich)\n\n* crypto: Pass options to ctor calls (isaacs)\n\n* src: tie process.versions.uv to uv_version_string() (Ben Noordhuis)\n"
+  }
+}

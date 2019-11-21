@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NDVkZWY2Y2NmZThlMmVhMzgyOGFhYThlMmI5NDNjMzNkNjhkMzBiYQ==",
+  "sha": "45def6ccfe8e2ea3828aaa8e2b943c33d68d30ba",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/45def6ccfe8e2ea3828aaa8e2b943c33d68d30ba",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-01-22T02:19:12Z"
+  },
+  "object": {
+    "sha": "bb3e71466e5240626d9d21cf791fe43e87d90011",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/bb3e71466e5240626d9d21cf791fe43e87d90011"
+  },
+  "tag": "v0.3.6",
+  "message": "2011.01.21, Version 0.3.6 (unstable)\n\n* REPL and other improvements on MinGW (Bert Belder)\n\n* listen/bind errors should close net.Server\n\n* New HTTP and HTTPS client APIs\n\n* Upgrade V8 to 3.0.9\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

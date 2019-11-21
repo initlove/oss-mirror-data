@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZTA3M2JjZjRkYTBhNjU4NzVkZmE3YTA0NTRkYzU0Y2M2MTQzZjczYg==",
+  "sha": "e073bcf4da0a65875dfa7a0454dc54cc6143f73b",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/e073bcf4da0a65875dfa7a0454dc54cc6143f73b",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-03-18T21:28:33Z"
+  },
+  "object": {
+    "sha": "c095ce1a1b41ca015758a713283bf1f0bd41e4c4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/c095ce1a1b41ca015758a713283bf1f0bd41e4c4"
+  },
+  "tag": "v0.4.3",
+  "message": "2011.03.18, Version 0.4.3 (stable)\n\n* Don't decrease server connection counter again if destroy() is called more\n\tthan once GH-431 (Andreas Reich, Anders Conbere)\n\n* Documentation improvements (koichik)\n\n* Fix bug with setMaxListeners GH-682\n\n* Start up memory footprint improvement. (Tom Hughes)\n\n* Solaris improvements.\n\n* Buffer::Length(Buffer*) should not invoke itself recursively GH-759 (Ben\n  Noordhuis)\n\n* TLS: Advertise support for client certs GH-774 (Theo Schlossnagle)\n\n* HTTP Agent bugs: GH-787, GH-784, GH-803.\n\n* Don't call GetMemoryUsage every 5 seconds.\n\n* Upgrade V8 to 3.1.8.3\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

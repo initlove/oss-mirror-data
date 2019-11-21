@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6Mjg0MjA5NWZhYTgyZTIxYTIxMjNkMzE0NTA0Y2M3OTYyMDU4ODE1Ng==",
+  "sha": "2842095faa82e21a2123d314504cc79620588156",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/2842095faa82e21a2123d314504cc79620588156",
+  "tagger": {
+    "name": "Julien Gilli",
+    "email": "julien.gilli@joyent.com",
+    "date": "2015-05-23T06:47:09Z"
+  },
+  "object": {
+    "sha": "0a604e92e258c5ee2752d763e50721e35053f135",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/0a604e92e258c5ee2752d763e50721e35053f135"
+  },
+  "tag": "v0.12.4",
+  "message": "2015.05.22, Version 0.12.4 (Stable)\n\n* npm: upgrade to 2.10.1\n\n* V8: revert v8 Array.prototype.values() removal (cjihrig)\n\n* win: bring back xp/2k3 support (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJVYCJuAAoJEFCjBR+IjGKN0FEP/2L2XkDEt3psKcIHg6jinXes\nlvqwzMeTly3x92TBMM8z+ElcKYtUDqKjXmEbKUfnsDo7V74V2z9bo3eVfP/xDkVn\n0vZ9jfdy+3eSkH1ggvwPSsAwe2xpPhgskNGHmymKeMlJN22nYpzRvohSEjOSUnx3\nNgqFHabUKeFZAIMRh6AgECOGL+APh3v1SLexcWxm5VMAy2/AkwmdzQcYH1ejwA9o\nme5d1UwusA+VC/FhFS3G7N2ZPKwmblDkBNGRBNAzpT0isDDoBtdWxBN/RiVprSzQ\nc93CixWTNbjE7kiaI3JIq2WP77b/z0GbmlBn2J7D0UZHhHUYZTYRWq6Iu6/L2FJf\nASng95BFcqauFEwsEYbuiGCtyCdrsE1FmkdyXcaV9TYFMt0VV/XPNkXIlJAFMjOT\nrRgzLEibfnEBZ8p4tATnpHkglqPMRQ/kH4i4Va6J6Vk6uQoRnlUAi+FcehglAS+d\n9e1PH2ykfpJnlYzMWEOTst6DwXWMhLy6OAn0wcubSVhu+gQKHLg+J/TkpEvMcoz0\nruKbjDr9gpahErVM1qdpAU6HN1nV51psL9nW0luC6vJcARl2tiX5J9fEVZMXpGSp\nCdES5yuUAUE2EocrnmyJEqIbq6z1A0eE3zs3SoeRj3AsgBNdwlIUOkWsxSx0H7JW\ndY52GhnjRyVYu2icAhlr\n=ypEm\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJVYCJuAAoJEFCjBR+IjGKN0FEP/2L2XkDEt3psKcIHg6jinXes\nlvqwzMeTly3x92TBMM8z+ElcKYtUDqKjXmEbKUfnsDo7V74V2z9bo3eVfP/xDkVn\n0vZ9jfdy+3eSkH1ggvwPSsAwe2xpPhgskNGHmymKeMlJN22nYpzRvohSEjOSUnx3\nNgqFHabUKeFZAIMRh6AgECOGL+APh3v1SLexcWxm5VMAy2/AkwmdzQcYH1ejwA9o\nme5d1UwusA+VC/FhFS3G7N2ZPKwmblDkBNGRBNAzpT0isDDoBtdWxBN/RiVprSzQ\nc93CixWTNbjE7kiaI3JIq2WP77b/z0GbmlBn2J7D0UZHhHUYZTYRWq6Iu6/L2FJf\nASng95BFcqauFEwsEYbuiGCtyCdrsE1FmkdyXcaV9TYFMt0VV/XPNkXIlJAFMjOT\nrRgzLEibfnEBZ8p4tATnpHkglqPMRQ/kH4i4Va6J6Vk6uQoRnlUAi+FcehglAS+d\n9e1PH2ykfpJnlYzMWEOTst6DwXWMhLy6OAn0wcubSVhu+gQKHLg+J/TkpEvMcoz0\nruKbjDr9gpahErVM1qdpAU6HN1nV51psL9nW0luC6vJcARl2tiX5J9fEVZMXpGSp\nCdES5yuUAUE2EocrnmyJEqIbq6z1A0eE3zs3SoeRj3AsgBNdwlIUOkWsxSx0H7JW\ndY52GhnjRyVYu2icAhlr\n=ypEm\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0a604e92e258c5ee2752d763e50721e35053f135\ntype commit\ntag v0.12.4\ntagger Julien Gilli <julien.gilli@joyent.com> 1432363629 -0700\n\n2015.05.22, Version 0.12.4 (Stable)\n\n* npm: upgrade to 2.10.1\n\n* V8: revert v8 Array.prototype.values() removal (cjihrig)\n\n* win: bring back xp/2k3 support (Bert Belder)\n"
+  }
+}

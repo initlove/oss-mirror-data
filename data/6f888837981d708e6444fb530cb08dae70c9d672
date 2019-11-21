@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6NmY4ODg4Mzc5ODFkNzA4ZTY0NDRmYjUzMGNiMDhkYWU3MGM5ZDY3Mg==",
+  "sha": "6f888837981d708e6444fb530cb08dae70c9d672",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/6f888837981d708e6444fb530cb08dae70c9d672",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T14:52:57Z"
+  },
+  "object": {
+    "sha": "5fcb4a8a7e87ff8c1791783cfd1f0c2ba8e653b2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/5fcb4a8a7e87ff8c1791783cfd1f0c2ba8e653b2"
+  },
+  "tag": "v3.0.40",
+  "message": "MooseFS 3.0.40-1\n\n * (master+mount) added using fuse's forgets in inode number reusage (fixes very rare EBUSY case when inode number is reused after unlink of directory which is still open or used as a current working directory)\n * (master+mount) sped up reading of small files\n * (mount) increased chunk location cache (sped up reading files)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

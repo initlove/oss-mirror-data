@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjE0OTA1OTg6NWQzZmUyYzgxZjkxYzQ1YjYyNmI0Yzg0YTkyMzlkZTg1MTcyYjk5ZQ==",
+  "sha": "5d3fe2c81f91c45b626b4c84a9239de85172b99e",
+  "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/tags/5d3fe2c81f91c45b626b4c84a9239de85172b99e",
+  "tagger": {
+    "name": "Adrien Crivelli",
+    "email": "adrien.crivelli@gmail.com",
+    "date": "2018-09-30T03:57:47Z"
+  },
+  "object": {
+    "sha": "57404f43742a8164b5eac3ab03b962d8740885c1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/commits/57404f43742a8164b5eac3ab03b962d8740885c1"
+  },
+  "tag": "1.4.1",
+  "message": "1.4.1\n\n### Fixed\n\n- Remove locale from formatting string - [#644](https://github.com/PHPOffice/PhpSpreadsheet/pull/644)\n- Allow iterators to go out of bounds with prev - [#587](https://github.com/PHPOffice/PhpSpreadsheet/issues/587)\n- Fix warning when reading xlsx without styles - [#631](https://github.com/PHPOffice/PhpSpreadsheet/pull/631)\n- Fix broken sample links on windows due to $baseDir having backslash - [#653](https://github.com/PHPOffice/PhpSpreadsheet/pull/653)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

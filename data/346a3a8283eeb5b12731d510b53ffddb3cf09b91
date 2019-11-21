@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MzQ2YTNhODI4M2VlYjViMTI3MzFkNTEwYjUzZmZkZGIzY2YwOWI5MQ==",
+  "sha": "346a3a8283eeb5b12731d510b53ffddb3cf09b91",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/346a3a8283eeb5b12731d510b53ffddb3cf09b91",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-03-02T21:10:00Z"
+  },
+  "object": {
+    "sha": "48a2d34cfe6b7e1c9d15202a4ef5e3c82d1fba35",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/48a2d34cfe6b7e1c9d15202a4ef5e3c82d1fba35"
+  },
+  "tag": "v0.6.12",
+  "message": "2012.03.02 Version 0.6.12 (stable)\n\n* Upgrade V8 to 3.6.6.24\n\n* dtrace ustack helper improvements (Dave Pacheco)\n\n* API Documentation refactor (isaacs)\n\n* #2827 net: fix race write() before and after connect() (koichik)\n\n* #2554 #2567 throw if fs args for 'start' or 'end' are strings (AJ ONeal)\n\n* punycode: Update to v1.0.0 (Mathias Bynens)\n\n* Make a fat binary for the OS X pkg (isaacs)\n\n* Fix hang on accessing process.stdin (isaacs)\n\n* repl: make tab completion work on non-objects (Nathan Rajlich)\n\n* Fix fs.watch on OS X (Ben Noordhuis)\n\n* Fix #2515 nested setTimeouts cause premature process exit (Ben Noordhuis)\n\n* windows: fix time conversion in stat (Igor Zinkovsky)\n\n* windows: fs: handle EOF in read (Brandon Philips)\n\n* windows: avoid IOCP short-circuit on non-ifs lsps (Igor Zinkovsky)\n\n* Upgrade npm to 1.1.4 (isaacs)\n  - windows fixes\n  - Bundle nested bundleDependencies properly\n  - install: support --save with url install targets\n  - shrinkwrap: behave properly with url-installed modules\n  - support installing uncompressed tars or single file modules from urls etc.\n  - don't run make clean on rebuild\n  - support HTTPS-over-HTTP proxy tunneling\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPUTcoAAoJELCniwpsSBz2DcAH/3ga/9d5SpRpKl1gF+ifzZTb\nBMvtvfWEsFYPktVoNd2nONQnD7iwgsSViE4//XLnp8ZbhfGH4zk3WrRG+Hj30IhG\nmuAs6RgqVQ3YCc8043lDzwHO7BG+8zxAFwNnpI5BSc/s0IPV2hYnPoVteZ2JTdlM\njfWGBDzUCBfTcfmZF6xyp/A9XxNwdQ3yWI6HkVhJGPuUwX15Evgi4ZtTER3svNFp\natsc8QKgP6qUflWloyEMADpc7XLjvUOAYycO7PkInuu565yspqyNG7o6U+dHcnFr\nsnH6dFHj1GzQdwxgx3AcNwI/3axLCI0S65h7wH+Gx3xfX1R2YqRjXboSQI41z90=\n=enie\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPUTcoAAoJELCniwpsSBz2DcAH/3ga/9d5SpRpKl1gF+ifzZTb\nBMvtvfWEsFYPktVoNd2nONQnD7iwgsSViE4//XLnp8ZbhfGH4zk3WrRG+Hj30IhG\nmuAs6RgqVQ3YCc8043lDzwHO7BG+8zxAFwNnpI5BSc/s0IPV2hYnPoVteZ2JTdlM\njfWGBDzUCBfTcfmZF6xyp/A9XxNwdQ3yWI6HkVhJGPuUwX15Evgi4ZtTER3svNFp\natsc8QKgP6qUflWloyEMADpc7XLjvUOAYycO7PkInuu565yspqyNG7o6U+dHcnFr\nsnH6dFHj1GzQdwxgx3AcNwI/3axLCI0S65h7wH+Gx3xfX1R2YqRjXboSQI41z90=\n=enie\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 48a2d34cfe6b7e1c9d15202a4ef5e3c82d1fba35\ntype commit\ntag v0.6.12\ntagger isaacs <i@izs.me> 1330722600 -0800\n\n2012.03.02 Version 0.6.12 (stable)\n\n* Upgrade V8 to 3.6.6.24\n\n* dtrace ustack helper improvements (Dave Pacheco)\n\n* API Documentation refactor (isaacs)\n\n* #2827 net: fix race write() before and after connect() (koichik)\n\n* #2554 #2567 throw if fs args for 'start' or 'end' are strings (AJ ONeal)\n\n* punycode: Update to v1.0.0 (Mathias Bynens)\n\n* Make a fat binary for the OS X pkg (isaacs)\n\n* Fix hang on accessing process.stdin (isaacs)\n\n* repl: make tab completion work on non-objects (Nathan Rajlich)\n\n* Fix fs.watch on OS X (Ben Noordhuis)\n\n* Fix #2515 nested setTimeouts cause premature process exit (Ben Noordhuis)\n\n* windows: fix time conversion in stat (Igor Zinkovsky)\n\n* windows: fs: handle EOF in read (Brandon Philips)\n\n* windows: avoid IOCP short-circuit on non-ifs lsps (Igor Zinkovsky)\n\n* Upgrade npm to 1.1.4 (isaacs)\n  - windows fixes\n  - Bundle nested bundleDependencies properly\n  - install: support --save with url install targets\n  - shrinkwrap: behave properly with url-installed modules\n  - support installing uncompressed tars or single file modules from urls etc.\n  - don't run make clean on rebuild\n  - support HTTPS-over-HTTP proxy tunneling\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6NDAyOGM0NWY4NjIwOGU0NDQyNTgxMWUzN2JjNWM3Mjg3ZTAwYjcyOA==",
+  "sha": "4028c45f86208e44425811e37bc5c7287e00b728",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/4028c45f86208e44425811e37bc5c7287e00b728",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-01-27T16:04:04Z"
+  },
+  "object": {
+    "sha": "3df10afaff2765ae0c6068d45682ffe0d8a02d5f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/3df10afaff2765ae0c6068d45682ffe0d8a02d5f"
+  },
+  "tag": "v2.0.77",
+  "message": " * (mount) removed using fuse notify/forget mechanism in kernel with fuse api 7.23+ (due to unexpected kernel behaviour - getcwd returns ENOENT)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

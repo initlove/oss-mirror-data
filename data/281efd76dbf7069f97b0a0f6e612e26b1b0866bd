@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MjgxZWZkNzZkYmY3MDY5Zjk3YjBhMGY2ZTYxMmUyNmIxYjA4NjZiZA==",
+  "sha": "281efd76dbf7069f97b0a0f6e612e26b1b0866bd",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/281efd76dbf7069f97b0a0f6e612e26b1b0866bd",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-07-31T18:11:38Z"
+  },
+  "object": {
+    "sha": "bc0ff830aff1e016163d855e86ded5c98b0899e8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/bc0ff830aff1e016163d855e86ded5c98b0899e8"
+  },
+  "tag": "v0.10.30",
+  "message": "2014.07.31, Version 0.10.30 (Stable)\n\n* uv: Upgrade to v0.10.28\n\n* npm: Upgrade to v1.4.21\n\n* v8: Interrupts must not mask stack overflow.\n\n* Revert \"stream: start old-mode read in a next tick\" (Fedor Indutny)\n\n* buffer: fix sign overflow in `readUIn32BE` (Fedor Indutny)\n\n* buffer: improve {read,write}{U}Int* methods (Nick Apperson)\n\n* child_process: handle writeUtf8String error (Fedor Indutny)\n\n* deps: backport 4ed5fde4f from v8 upstream (Fedor Indutny)\n\n* deps: cherry-pick eca441b2 from OpenSSL (Fedor Indutny)\n\n* lib: remove and restructure calls to isNaN() (cjihrig)\n\n* module: eliminate double `getenv()` (Maciej Małecki)\n\n* stream2: flush extant data on read of ended stream (Chris Dickinson)\n\n* streams: remove unused require('assert') (Rod Vagg)\n\n* timers: backport f8193ab (Julien Gilli)\n\n* util.h: interface compatibility (Oguz Bastemur)\n\n* zlib: do not crash on write after close (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlPahtoACgkQfTP/nQJGQG3BhgCgoeaTOkoNW/WnznEM3G1wQmAZ\niucAoMYxlzznSR+zChaE14hiLm5QsWhY\n=0m3A\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlPahtoACgkQfTP/nQJGQG3BhgCgoeaTOkoNW/WnznEM3G1wQmAZ\niucAoMYxlzznSR+zChaE14hiLm5QsWhY\n=0m3A\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bc0ff830aff1e016163d855e86ded5c98b0899e8\ntype commit\ntag v0.10.30\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1406830298 -0700\n\n2014.07.31, Version 0.10.30 (Stable)\n\n* uv: Upgrade to v0.10.28\n\n* npm: Upgrade to v1.4.21\n\n* v8: Interrupts must not mask stack overflow.\n\n* Revert \"stream: start old-mode read in a next tick\" (Fedor Indutny)\n\n* buffer: fix sign overflow in `readUIn32BE` (Fedor Indutny)\n\n* buffer: improve {read,write}{U}Int* methods (Nick Apperson)\n\n* child_process: handle writeUtf8String error (Fedor Indutny)\n\n* deps: backport 4ed5fde4f from v8 upstream (Fedor Indutny)\n\n* deps: cherry-pick eca441b2 from OpenSSL (Fedor Indutny)\n\n* lib: remove and restructure calls to isNaN() (cjihrig)\n\n* module: eliminate double `getenv()` (Maciej Małecki)\n\n* stream2: flush extant data on read of ended stream (Chris Dickinson)\n\n* streams: remove unused require('assert') (Rod Vagg)\n\n* timers: backport f8193ab (Julien Gilli)\n\n* util.h: interface compatibility (Oguz Bastemur)\n\n* zlib: do not crash on write after close (Fedor Indutny)\n"
+  }
+}

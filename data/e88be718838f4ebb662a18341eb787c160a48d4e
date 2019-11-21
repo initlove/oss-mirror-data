@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6ZTg4YmU3MTg4MzhmNGViYjY2MmExODM0MWViNzg3YzE2MGE0OGQ0ZQ==",
+  "sha": "e88be718838f4ebb662a18341eb787c160a48d4e",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/e88be718838f4ebb662a18341eb787c160a48d4e",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2018-01-25T16:52:46Z"
+  },
+  "object": {
+    "sha": "5c518e96571d285b3155665152b08b68d8101354",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/5c518e96571d285b3155665152b08b68d8101354"
+  },
+  "tag": "v3.0.100",
+  "message": "MooseFS 3.0.100\n\n * (cs) fixed rare segfault during chunk sending to master after disconection\n * (mount) added thread for cleaning released files with delay\n * (mount) added assertion for lru cache (sustained open files)\n * (master+mount) added chunks data cache invalidation after chunksever disconnection and reconnection\n * (mount) changed (lowered) number of connection retries (depends on I/O retry counter)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

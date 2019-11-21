@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6OWM5ZjViMzc1NTU0Njc5NzQ1NjU2OTIyYjk2N2Y0ZThjMzZjYWE5MA==",
+  "sha": "9c9f5b375554679745656922b967f4e8c36caa90",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/9c9f5b375554679745656922b967f4e8c36caa90",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-02-05T03:36:21Z"
+  },
+  "object": {
+    "sha": "9493b7563bff31525b4080df5aeef09747782d5e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/9493b7563bff31525b4080df5aeef09747782d5e"
+  },
+  "tag": "v0.3.8",
+  "message": "2011.02.04, Version 0.3.8 (unstable)\n\n* Add req.abort() for client side requests.\n\n* Add exception.code for easy testing:\n  Example: if (err.code == 'EADDRINUSE');\n\n* Add process.stderr.\n\n* require.main is the main module. (Isaac Schlueter)\n\n* dgram: setMulticastTTL, setMulticastLoopback and addMembership.\n  (Joe Walnes)\n\n* Fix throttling in TLS connections\n\n* Add socket.bufferSize\n\n* MinGW improvements (Bert Belder)\n\n* Upgrade V8 to 3.1.1\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

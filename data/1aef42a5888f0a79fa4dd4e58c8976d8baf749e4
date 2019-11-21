@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MWFlZjQyYTU4ODhmMGE3OWZhNGRkNGU1OGM4OTc2ZDhiYWY3NDllNA==",
+  "sha": "1aef42a5888f0a79fa4dd4e58c8976d8baf749e4",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/1aef42a5888f0a79fa4dd4e58c8976d8baf749e4",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-01-01T00:20:54Z"
+  },
+  "object": {
+    "sha": "66931791f06207d1cdfea5ec1529edf3c94026d3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/66931791f06207d1cdfea5ec1529edf3c94026d3"
+  },
+  "tag": "v0.11.10",
+  "message": "2013.12.31, Version 0.11.10 (Unstable)\n\n* http_parser: update to 2.2\n\n* uv: Upgrade to v0.11.17\n\n* v8: Upgrade to 3.22.24.10\n\n* buffer: optimize writeInt* methods (Paul Loyd)\n\n* child_process: better error handling (Alexis Campailla)\n\n* cluster: do not synchronously emit 'setup' event (Sam Roberts)\n\n* cluster: restore backwards compatibility and various fixes (Sam Roberts)\n\n* crypto: remove unnecessary OpenSSL_add_all_digests (Yorkie)\n\n* crypto: support GCM authenticated encryption mode. (Ingmar Runge)\n\n* dns: add resolveSoa and 'SOA' rrtype (Tuğrul Topuz)\n\n* events: move EE c'tor guts to EventEmitter.init (Bert Belder)\n\n* http: DELETE shouldn't default to chunked encoding (Lalit Kapoor)\n\n* http: parse the status message in a http response. (Cam Swords)\n\n* node: fix removing AsyncListener in callback (Vladimir Kurchatkin)\n\n* node: follow specification, zero-fill ArrayBuffers (Trevor Norris)\n\n* openssl: use ASM optimized routines (Fedor Indutny)\n\n* process: allow nextTick infinite recursion (Trevor Norris)\n\n* querystring: remove `name` from `stringify()` (Yorkie)\n\n* timers: setImmediate v8 optimization fix (pflannery)\n\n* tls: add serialNumber to getPeerCertificate() (Ben Noordhuis)\n\n* tls: reintroduce socket.encrypted (Fedor Indutny)\n\n* tls: fix handling of asterisk in SNI context (Fedor Indutny)\n\n* util: Format negative zero as '-0' (David Chan)\n\n* vm: fix race condition in timeout (Alexis Campailla)\n\n* windows: fix dns lookup of localhost with ipv6 (Alexis Campailla)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlLDX2YACgkQfTP/nQJGQG0gkwCg8UDr84CVXmmxlgRKSsRr63xR\nahoAnRZ+MEu6aTyXwxHpWz/+huJFiFOh\n=2hFU\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlLDX2YACgkQfTP/nQJGQG0gkwCg8UDr84CVXmmxlgRKSsRr63xR\nahoAnRZ+MEu6aTyXwxHpWz/+huJFiFOh\n=2hFU\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 66931791f06207d1cdfea5ec1529edf3c94026d3\ntype commit\ntag v0.11.10\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1388535654 -0800\n\n2013.12.31, Version 0.11.10 (Unstable)\n\n* http_parser: update to 2.2\n\n* uv: Upgrade to v0.11.17\n\n* v8: Upgrade to 3.22.24.10\n\n* buffer: optimize writeInt* methods (Paul Loyd)\n\n* child_process: better error handling (Alexis Campailla)\n\n* cluster: do not synchronously emit 'setup' event (Sam Roberts)\n\n* cluster: restore backwards compatibility and various fixes (Sam Roberts)\n\n* crypto: remove unnecessary OpenSSL_add_all_digests (Yorkie)\n\n* crypto: support GCM authenticated encryption mode. (Ingmar Runge)\n\n* dns: add resolveSoa and 'SOA' rrtype (Tuğrul Topuz)\n\n* events: move EE c'tor guts to EventEmitter.init (Bert Belder)\n\n* http: DELETE shouldn't default to chunked encoding (Lalit Kapoor)\n\n* http: parse the status message in a http response. (Cam Swords)\n\n* node: fix removing AsyncListener in callback (Vladimir Kurchatkin)\n\n* node: follow specification, zero-fill ArrayBuffers (Trevor Norris)\n\n* openssl: use ASM optimized routines (Fedor Indutny)\n\n* process: allow nextTick infinite recursion (Trevor Norris)\n\n* querystring: remove `name` from `stringify()` (Yorkie)\n\n* timers: setImmediate v8 optimization fix (pflannery)\n\n* tls: add serialNumber to getPeerCertificate() (Ben Noordhuis)\n\n* tls: reintroduce socket.encrypted (Fedor Indutny)\n\n* tls: fix handling of asterisk in SNI context (Fedor Indutny)\n\n* util: Format negative zero as '-0' (David Chan)\n\n* vm: fix race condition in timeout (Alexis Campailla)\n\n* windows: fix dns lookup of localhost with ipv6 (Alexis Campailla)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NmI4OTE4N2JhMzVhNDIxZDg5NDcxZTNjNDUzMTk3OWIyZjI1Njk2Mw==",
+  "sha": "6b89187ba35a421d89471e3c4531979b2f256963",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/6b89187ba35a421d89471e3c4531979b2f256963",
+  "tagger": {
+    "name": "Bert Belder",
+    "email": "bertbelder@gmail.com",
+    "date": "2011-09-09T23:32:28Z"
+  },
+  "object": {
+    "sha": "b49bec55806574a47403771bce1ee379c2b09ca2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/b49bec55806574a47403771bce1ee379c2b09ca2"
+  },
+  "tag": "v0.5.6",
+  "message": "2011.09.08, Version 0.5.6 (unstable)\n\n* #345, #1635, #1648 Documentation improvements (Thomas Shinnick,\n  Abimanyu Raja, AJ ONeal, Koichi Kobayashi, Michael Jackson, Logan Smyth,\n  Ben Noordhuis)\n\n* #650 Improve path parsing on windows (Bert Belder)\n\n* #752 Remove headers sent check in OutgoingMessage.getHeader()\n  (Peter Lyons)\n\n* #1236, #1438, #1506, #1513, #1621, #1640, #1647 Libuv-related bugs fixed\n  (Jorge Chamorro Bieling, Peter Bright, Luis Lavena, Igor Zinkovsky)\n\n* #1296, #1612 crypto: Fix BIO's usage. (Koichi Kobayashi)\n\n* #1345 Correctly set socket.remoteAddress with libuv backend (Bert Belder)\n\n* #1429 Don't clobber quick edit mode on windows (Peter Bright)\n\n* #1503 Make libuv backend default on unix, override with `node --use-legacy`\n\n* #1565 Fix fs.stat for paths ending with \\ on windows (Igor Zinkovsky)\n\n* #1568 Fix x509 certificate subject parsing (Koichi Kobayashi)\n\n* #1586 Make socket write encoding case-insensitive (Koichi Kobayashi)\n\n* #1591, #1656, #1657 Implement fs in libuv, remove libeio and pthread-win32\n  dependency on windows (Igor Zinkovsky, Ben Noordhuis, Ryan Dahl,\n  Isaac Schlueter)\n\n* #1592 Don't load-time link against CreateSymbolicLink on windows\n  (Peter Bright)\n\n* #1601 Improve API consistency when dealing with the socket underlying a HTTP\n  client request (Mikeal Rogers)\n\n* #1610 Remove DigiNotar CA from trusted list (Isaac Schlueter)\n\n* #1617 Added some win32 os functions (Karl Skomski)\n\n* #1624 avoid buffer overrun with 'binary' encoding (Koichi Kobayashi)\n\n* #1633 make Buffer.write() always set _charsWritten (Koichi Kobayashi)\n\n* #1644 Windows: set executables to be console programs (Peter Bright)\n\n* #1651 improve inspection for sparse array (Koichi Kobayashi)\n\n* #1672 set .code='ECONNRESET' on socket hang up errors (Ben Noordhuis)\n\n* Add test case for foaf+ssl client certificate (Niclas Hoyer)\n\n* Added RPATH environment variable to override run-time library paths\n  (Ashok Mudukutore)\n\n* Added TLS client-side session resumption support (Sean Cunningham)\n\n* Added additional properties to getPeerCertificate (Nathan Rixham,\n  Niclas Hoyer)\n\n* Don't eval repl command twice when an error is thrown (Nathan Rajlich)\n\n* Improve util.isDate() (Nathan Rajlich)\n\n* Improvements in libuv backend and bindings, upgrade libuv to\n  bd6066cb349a9b3a1b0d87b146ddaee06db31d10\n\n* Show warning when using lib/sys.js (Maciej Malecki)\n\n* Support plus sign in url protocol (Maciej Malecki)\n\n* Upgrade V8 to 3.6.2\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

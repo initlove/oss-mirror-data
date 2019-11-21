@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NWU1NTJiYzEwN2EzYzM2NjY0M2NkY2NlZTVlYmM1M2IxZjYwNTlmZQ==",
+  "sha": "5e552bc107a3c366643cdccee5ebc53b1f6059fe",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/5e552bc107a3c366643cdccee5ebc53b1f6059fe",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-07-20T18:50:10Z"
+  },
+  "object": {
+    "sha": "f9b237f478c372fd55e4590d7399dcd8f25f3603",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/f9b237f478c372fd55e4590d7399dcd8f25f3603"
+  },
+  "tag": "v0.9.0",
+  "message": "2012.07.20, Version 0.9.0 (Unstable)\n\n* punycode: update to v1.1.1 (Mathias Bynens)\n\n* c-ares: upgrade to 1.9.0 (Saúl Ibarra Corretgé)\n\n* dns: ignore rogue DNS servers reported by windows (Saúl Ibarra Corretgé)\n\n* unix: speed up uv_async_send() (Ben Noordhuis)\n\n* darwin: get cpu model correctly on mac (Xidorn Quan)\n\n* nextTick: Handle tick callbacks before any other I/O (isaacs)\n\n* Enable color customization of `util.inspect` (Pavel Lang)\n\n* tls: Speed and memory improvements (Fedor Indutny)\n\n* readline: Use one history item for reentered line (Vladimir Beloborodov)\n\n* Fix #3521 Make process.env more like a regular Object (isaacs)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQCahiAAoJELCniwpsSBz2gcMH/2jUrdsZQM25bDSJvIRl/6s/\nCSL4U7pB09iiqoVckgrxcDIu7mNq1mRpfL/2TQNb0D182wFeaLZb9hWcT2fEwI/w\nTyii1lPJENo8SDI+V6tCyEB2D9IxBg85JZYtrnloWNysiqdgfZhE2lhOan7v0Jgk\nUZ2/VnXWnavVnmg8QgdApqxgh62OpMu9mfD8YlyPpk9aF73c9wE7JcPB9Lcttmuw\nlNloCVXQpnHJzP+fcVWmqW2O2m4vr8pOwcVKtmaNDIziQcragwWOdpj2k8/W9puJ\nmy0qLU/ppHqm3ByVMDP6lYQ1nu984qt1wjx1O5Bagm3UjayJsOY0J1fKPZDIXRM=\n=JFCD\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQCahiAAoJELCniwpsSBz2gcMH/2jUrdsZQM25bDSJvIRl/6s/\nCSL4U7pB09iiqoVckgrxcDIu7mNq1mRpfL/2TQNb0D182wFeaLZb9hWcT2fEwI/w\nTyii1lPJENo8SDI+V6tCyEB2D9IxBg85JZYtrnloWNysiqdgfZhE2lhOan7v0Jgk\nUZ2/VnXWnavVnmg8QgdApqxgh62OpMu9mfD8YlyPpk9aF73c9wE7JcPB9Lcttmuw\nlNloCVXQpnHJzP+fcVWmqW2O2m4vr8pOwcVKtmaNDIziQcragwWOdpj2k8/W9puJ\nmy0qLU/ppHqm3ByVMDP6lYQ1nu984qt1wjx1O5Bagm3UjayJsOY0J1fKPZDIXRM=\n=JFCD\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f9b237f478c372fd55e4590d7399dcd8f25f3603\ntype commit\ntag v0.9.0\ntagger isaacs <i@izs.me> 1342810210 -0700\n\n2012.07.20, Version 0.9.0 (Unstable)\n\n* punycode: update to v1.1.1 (Mathias Bynens)\n\n* c-ares: upgrade to 1.9.0 (Saúl Ibarra Corretgé)\n\n* dns: ignore rogue DNS servers reported by windows (Saúl Ibarra Corretgé)\n\n* unix: speed up uv_async_send() (Ben Noordhuis)\n\n* darwin: get cpu model correctly on mac (Xidorn Quan)\n\n* nextTick: Handle tick callbacks before any other I/O (isaacs)\n\n* Enable color customization of `util.inspect` (Pavel Lang)\n\n* tls: Speed and memory improvements (Fedor Indutny)\n\n* readline: Use one history item for reentered line (Vladimir Beloborodov)\n\n* Fix #3521 Make process.env more like a regular Object (isaacs)\n"
+  }
+}

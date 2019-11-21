@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzMwMzcyMTU6ZDk1ZjU2NDA0NDU5MzFmM2NlODJiNTAwOTkwZjM1MTIxZGVjZWVlNw==",
+  "sha": "d95f5640445931f3ce82b500990f35121deceee7",
+  "url": "https://api.github.com/repos/tomav/docker-mailserver/git/tags/d95f5640445931f3ce82b500990f35121deceee7",
+  "tagger": {
+    "name": "Johan Smits",
+    "email": "johan@smitsmail.net",
+    "date": "2018-07-31T18:15:39Z"
+  },
+  "object": {
+    "sha": "dc9d160a9bd44a4cf381e7d41a7ae4b8513281e1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tomav/docker-mailserver/git/commits/dc9d160a9bd44a4cf381e7d41a7ae4b8513281e1"
+  },
+  "tag": "v6.1.0",
+  "message": "Release 6.1.0\n\n* Deliver root mail (#952)\n* don't update permissions on non-existent file (#956)\n* Update docker-configomat (#959)\n* Support for detecting running container mount (#884)\n* Report sender (#965)\n  added REPORT_SENDER env variable to the container.\n* Add saslauthd option for ldap_start_tls & ldap_tls_check_peer - (#979, #980)\n* fix SASL domain (#892, #970)\n* DOMAINNAME can fail to be set in postsrsd-wrapper.sh (#989)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

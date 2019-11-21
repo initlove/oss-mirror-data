@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZjZlMTEyMGQyZWE0M2RjMGExM2Y0YzcxNDU1Nzk0OTEzMTdmMDU2ZA==",
+  "sha": "f6e1120d2ea43dc0a13f4c7145579491317f056d",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/f6e1120d2ea43dc0a13f4c7145579491317f056d",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-04-30T00:46:06Z"
+  },
+  "object": {
+    "sha": "557ba6bd97bad3afe0f9bd3ac07efac0a39978c1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/557ba6bd97bad3afe0f9bd3ac07efac0a39978c1"
+  },
+  "tag": "v0.1.93",
+  "message": "2010.04.29, Version 0.1.93\n\n  * Fixed no 'end' event on long chunked HTTP messages\n    http://github.com/ry/node/issues/#issue/77\n\n  * Remove legacy modules http_old and tcp_old\n\n  * Support DNS MX queries (Jérémy Lal)\n\n  * Fix large socket write (tlb@tlb.org)\n\n  * Fix child process exit codes (Felix Geisendörfer)\n\n  * Allow callers to disable PHP/Rails style parameter mungeing in\n    querystring.stringify (Thomas Lee)\n\n  * Upgrade V8 to 2.2.6\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODYyOTQxNzpkY2JkYWRhZGY2MWU3OTQ4ZTlhMjA4ZDUyZGVkNzMxYTU1YjQxM2M4",
+  "sha": "dcbdadadf61e7948e9a208d52ded731a55b413c8",
+  "url": "https://api.github.com/repos/mapbox/mapbox-gl-js/git/tags/dcbdadadf61e7948e9a208d52ded731a55b413c8",
+  "tagger": {
+    "name": "Matthew Chase Whittemore",
+    "email": "mcwhittemore@gmail.com",
+    "date": "2015-10-02T20:09:57Z"
+  },
+  "object": {
+    "sha": "97244c9a2eb40bb18c92f1ddf17b8f54a52880b9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mapbox/mapbox-gl-js/git/commits/97244c9a2eb40bb18c92f1ddf17b8f54a52880b9"
+  },
+  "tag": "v0.11.1",
+  "message": "a few bug fixes and more event listeners for map\n\nBugfixes\n\n* Add statistics and checkboxes to debug page\n* Fix `Map#featuresAt` for non-4096 vector sources (#1529)\n* Don't fire `mousemove` on drag-pan\n* Fix maxBounds constrains (#1539)\n* Fix maxBounds infinite loop (#1538)\n* Fix memory leak in worker\n* Assert valid `TileCoord`, fix wrap calculation in `TileCoord#cover` (#1483)\n* Abort raster tile load if not in viewport (#1490)\n\nAPI Improvements\n\n* Add `Map` event listeners for `mouseup`, `contextmenu` (right click) (#1532)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

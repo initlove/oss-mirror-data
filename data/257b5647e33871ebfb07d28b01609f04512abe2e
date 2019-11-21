@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTY2Mjc6MjU3YjU2NDdlMzM4NzFlYmZiMDdkMjhiMDE2MDlmMDQ1MTJhYmUyZQ==",
+  "sha": "257b5647e33871ebfb07d28b01609f04512abe2e",
+  "url": "https://api.github.com/repos/harningt/luajson/git/tags/257b5647e33871ebfb07d28b01609f04512abe2e",
+  "tagger": {
+    "name": "Thomas Harning Jr",
+    "email": "harningt@gmail.com",
+    "date": "2011-07-06T01:20:56Z"
+  },
+  "object": {
+    "sha": "da289601c20a7e5f42d6e0acb1221629a15c639a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/harningt/luajson/git/commits/da289601c20a7e5f42d6e0acb1221629a15c639a"
+  },
+  "tag": "0.6",
+  "message": "Secondary release with divided decoders and round-tripping.\n\n * Divided the decoder modules to assist in management of changes and bugs\n * Added a basic round-trip test to the suite\n * Temporarily reduced restrictions on number parsing (inf/nan) to permit\n   round-tripping tests to pass for 'pass1.json' which has a too-large\n   value that results in 'inf'\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJOE7h5AAoJEEsTgx7wJfj8uA0IAK/dffp65CMCh8HQno6Z7cTP\n9RHRC5wU4t7YNiSdYtiHS0eDy2CufldjH7u+fsQ1e7OHE05yxeZRcgVzEc5GwQsN\nOWUaeOs6lg1/uQ77av9JKR+rj2iKb2WztD079Ea6sCgb8y4ESDZHKUeZbmlbsHcr\nW9VSfAINhTN/2smdNAjRGp5XiKv7rCwLZGRekjVnOdBKiz44GWNbIhd/R9iZ+OBR\nmZ/OHLapnoI74UIY9WoBI9r19TuR7JsRY8ZQKoVIBXFg3ViC3PON4IbOUMswRsFb\ni1NaEdpbTUf63nirxYBpoqRcMxKtZ9y0yaU8rFZD4P0qtbeXESFuzo+WZyF33Yc=\n=OLQG\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJOE7h5AAoJEEsTgx7wJfj8uA0IAK/dffp65CMCh8HQno6Z7cTP\n9RHRC5wU4t7YNiSdYtiHS0eDy2CufldjH7u+fsQ1e7OHE05yxeZRcgVzEc5GwQsN\nOWUaeOs6lg1/uQ77av9JKR+rj2iKb2WztD079Ea6sCgb8y4ESDZHKUeZbmlbsHcr\nW9VSfAINhTN/2smdNAjRGp5XiKv7rCwLZGRekjVnOdBKiz44GWNbIhd/R9iZ+OBR\nmZ/OHLapnoI74UIY9WoBI9r19TuR7JsRY8ZQKoVIBXFg3ViC3PON4IbOUMswRsFb\ni1NaEdpbTUf63nirxYBpoqRcMxKtZ9y0yaU8rFZD4P0qtbeXESFuzo+WZyF33Yc=\n=OLQG\n-----END PGP SIGNATURE-----\n",
+    "payload": "object da289601c20a7e5f42d6e0acb1221629a15c639a\ntype commit\ntag 0.6\ntagger Thomas Harning Jr <harningt@gmail.com> 1309915256 -0400\n\nSecondary release with divided decoders and round-tripping.\n\n * Divided the decoder modules to assist in management of changes and bugs\n * Added a basic round-trip test to the suite\n * Temporarily reduced restrictions on number parsing (inf/nan) to permit\n   round-tripping tests to pass for 'pass1.json' which has a too-large\n   value that results in 'inf'\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MGZjOTE2M2E4MzViNjFkM2E5MWRiM2U3ODQxNjQwNjE5NDQ4N2JjOA==",
+  "sha": "0fc9163a835b61d3a91db3e78416406194487bc8",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/0fc9163a835b61d3a91db3e78416406194487bc8",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-04-18T17:13:36Z"
+  },
+  "object": {
+    "sha": "c2b47097c0b483552efc1947c6766fa1128600b6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/c2b47097c0b483552efc1947c6766fa1128600b6"
+  },
+  "tag": "v0.7.8",
+  "message": "2012.04.18, Version 0.7.8, (unstable)\n\n* Upgrade V8 to 3.9.24.9\n\n* Upgrade OpenSSL to 1.0.0f\n\n* Upgrade npm to 1.1.18\n\n* Show licenses in Binary installers\n\n* Domains (isaacs)\n\n* readline: rename \"end\" to \"close\" (Nathan Rajlich)\n\n* tcp: make getsockname() return address family as string (Shigeki Ohtsu)\n\n* http, https: fix .setTimeout() (ssuda)\n\n* os: add cross platform EOL character (Mustansir Golawala)\n\n* typed arrays: unexport SizeOfArrayElementForType() (Aaron Jacobs)\n\n* net: honor 'enable' flag in .setNoDelay() (Ben Noordhuis)\n\n* child_process: emit error when .kill fails (Andreas Madsen)\n\n* gyp: fix 'argument list too long' build error (Ben Noordhuis)\n\n* fs.WriteStream: Handle modifications to fs.open (isaacs)\n\n* repl, readline: Handle newlines better (Nathan Rajlich, Nathan Friedly)\n\n* build: target OSX 10.5 when building on darwin (Nathan Rajlich)\n\n* Fix #3052 Handle errors properly in zlib (isaacs)\n\n* build: add support for DTrace and postmortem (Dave Pacheco)\n\n* core: add reusable Slab allocator (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPjvZAAAoJELCniwpsSBz2kMQH/R4QwR4mAm4SyOOC6qaBLAph\nJOAS+PX92NjJntyuljkLJMtI+PBDkH57R8VjD32ePzakIMfzwniE38B5/LwCSrya\nw74M8/u50HscKjlHrgUh9RU00CS1oxpx8f4ubdBeUn750ziuRlQDjpeeOlkfmkne\nKVCKFQjjSVzbHMy0d41JRqeNFShKjY1Mh+veuuVxGVAUUnim8X1TZ302VQTRGzyC\nkgfjbcAFsP4wdKkOVtCdbXDjSkSHuf8G5IIJ9hiESg6R18WIt+315cn0l0BT/2eW\n2rBV3HXbPt0WViHmFffIVLWlpne2v3WqKFYXtimjZhyZWvGZlZ1kMnRseNwZ/Hc=\n=+gHz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPjvZAAAoJELCniwpsSBz2kMQH/R4QwR4mAm4SyOOC6qaBLAph\nJOAS+PX92NjJntyuljkLJMtI+PBDkH57R8VjD32ePzakIMfzwniE38B5/LwCSrya\nw74M8/u50HscKjlHrgUh9RU00CS1oxpx8f4ubdBeUn750ziuRlQDjpeeOlkfmkne\nKVCKFQjjSVzbHMy0d41JRqeNFShKjY1Mh+veuuVxGVAUUnim8X1TZ302VQTRGzyC\nkgfjbcAFsP4wdKkOVtCdbXDjSkSHuf8G5IIJ9hiESg6R18WIt+315cn0l0BT/2eW\n2rBV3HXbPt0WViHmFffIVLWlpne2v3WqKFYXtimjZhyZWvGZlZ1kMnRseNwZ/Hc=\n=+gHz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c2b47097c0b483552efc1947c6766fa1128600b6\ntype commit\ntag v0.7.8\ntagger isaacs <i@izs.me> 1334769216 -0700\n\n2012.04.18, Version 0.7.8, (unstable)\n\n* Upgrade V8 to 3.9.24.9\n\n* Upgrade OpenSSL to 1.0.0f\n\n* Upgrade npm to 1.1.18\n\n* Show licenses in Binary installers\n\n* Domains (isaacs)\n\n* readline: rename \"end\" to \"close\" (Nathan Rajlich)\n\n* tcp: make getsockname() return address family as string (Shigeki Ohtsu)\n\n* http, https: fix .setTimeout() (ssuda)\n\n* os: add cross platform EOL character (Mustansir Golawala)\n\n* typed arrays: unexport SizeOfArrayElementForType() (Aaron Jacobs)\n\n* net: honor 'enable' flag in .setNoDelay() (Ben Noordhuis)\n\n* child_process: emit error when .kill fails (Andreas Madsen)\n\n* gyp: fix 'argument list too long' build error (Ben Noordhuis)\n\n* fs.WriteStream: Handle modifications to fs.open (isaacs)\n\n* repl, readline: Handle newlines better (Nathan Rajlich, Nathan Friedly)\n\n* build: target OSX 10.5 when building on darwin (Nathan Rajlich)\n\n* Fix #3052 Handle errors properly in zlib (isaacs)\n\n* build: add support for DTrace and postmortem (Dave Pacheco)\n\n* core: add reusable Slab allocator (Ben Noordhuis)\n"
+  }
+}

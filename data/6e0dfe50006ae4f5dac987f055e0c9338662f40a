@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NmUwZGZlNTAwMDZhZTRmNWRhYzk4N2YwNTVlMGM5MzM4NjYyZjQwYQ==",
+  "sha": "6e0dfe50006ae4f5dac987f055e0c9338662f40a",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/6e0dfe50006ae4f5dac987f055e0c9338662f40a",
+  "tagger": {
+    "name": "Ryan",
+    "email": "ry@tinyclouds.org",
+    "date": "2009-06-11T12:18:28Z"
+  },
+  "object": {
+    "sha": "4cfc982c776475eb65fb1080e6b575a86505a347",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/4cfc982c776475eb65fb1080e6b575a86505a347"
+  },
+  "tag": "v0.0.3",
+  "message": "Version 0.0.3\nhttp://s3.amazonaws.com/four.livejournal/20090611/node-0.0.3.tar.gz\n\n * Many bug fixes including the problem with http.Client on macintosh\n\n * Upgrades v8 to 1.2.7\n\n * Adds onExit hook\n\n * Guard against buffer overflow in http parser\n\n * require() and include() now need the \".js\" extension\n\n * http.Client uses identity transfer encoding by default.\n\n * connection.remoteAddress\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6ZGEzNjI3OGQ3YTA3YzdlNzAzOTliMTEzNGVhYjAxMjlkZWI0MDA2OA==",
+  "sha": "da36278d7a07c7e70399b1134eab0129deb40068",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/da36278d7a07c7e70399b1134eab0129deb40068",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T14:20:09Z"
+  },
+  "object": {
+    "sha": "0e0bce957871054615b1ae4470ef36bc995be7bd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/0e0bce957871054615b1ae4470ef36bc995be7bd"
+  },
+  "tag": "v3.0.19",
+  "message": "MooseFS 3.0.19-1\n\n * (master) removed missing chunks/files from messages\n * (cli+cgi) added presenting missing chunks/files in separate table\n * (mount) improved reading performance\n * (master) added missing chunks/files log\n * (master) added fast delete during rebalance\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZWE4MTEwYjQyYzYwMzI3NDkxMGM5YzQ5ZTU4NzYyY2ZmNGVjYmI3ZA==",
+  "sha": "ea8110b42c603274910c9c49e58762cff4ecbb7d",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/ea8110b42c603274910c9c49e58762cff4ecbb7d",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2009-11-03T12:48:10Z"
+  },
+  "object": {
+    "sha": "726865af7bbafe58435986f4a193ff11c84e4bfe",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/726865af7bbafe58435986f4a193ff11c84e4bfe"
+  },
+  "tag": "v0.1.16",
+  "message": "2009.11.03, Version 0.1.16\n\n  * API: Use CommonJS-style module requiring\n    - require(\"/sys.js\") becomes require(\"sys\")\n    - require(\"circle.js\") becomes require(\"./circle\")\n    - process.path.join() becomes require(\"path\").join()\n    - __module becomes module\n\n  * API: Many namespacing changes\n    - Move node.* into process.*\n    - Move node.dns into module \"dns\"\n    - Move node.fs into module \"posix\"\n    - process is no longer the global object. GLOBAL is.\n\n\tFor more information on the API changes see:\n\t\thttp://thread.gmane.org/gmane.comp.lang.javascript.nodejs/6\n\t\thttp://thread.gmane.org/gmane.comp.lang.javascript.nodejs/14\n\n  * Feature: process.platform, process.memoryUsage()\n\n  * Feature: promise.cancel() (Felix Geisendörfer)\n\n  * Upgrade V8 to 1.3.18\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

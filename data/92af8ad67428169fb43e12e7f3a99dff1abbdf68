@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzMwMzcyMTU6OTJhZjhhZDY3NDI4MTY5ZmI0M2UxMmU3ZjNhOTlkZmYxYWJiZGY2OA==",
+  "sha": "92af8ad67428169fb43e12e7f3a99dff1abbdf68",
+  "url": "https://api.github.com/repos/tomav/docker-mailserver/git/tags/92af8ad67428169fb43e12e7f3a99dff1abbdf68",
+  "tagger": {
+    "name": "Johan Smits",
+    "email": "johan@smitsmail.net",
+    "date": "2018-04-23T18:20:59Z"
+  },
+  "object": {
+    "sha": "6f9ac790df0696217dadd0e3da1802f291630044",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tomav/docker-mailserver/git/commits/6f9ac790df0696217dadd0e3da1802f291630044"
+  },
+  "tag": "v6.0.0",
+  "message": "Release 6.0.0\n\n* Implementation of multi-domain relay hosts (#922, #926)\n  AWS_SES_HOST and AWS_SES_PORT are deprecated now.\n  RELAY_HOST and RELAY_PORT are introduced to replace them.\n* Password creation fix (#908, #914)\n* Fixes 'duplicate log entry for /var/log/mail/mail.log' (#925, #927)\n* fixed cleanup (mail_with_relays didn't get cleaned up) (#930)\n* fix line breaks in postfix-summary mail error case (#936)\n* Set default virus delete time (#932, #935)\n  This defaults to 7 days\n* Ensure that the account contains a @ (#923, #924)\n* Introducing global filters. (#934)\n* add missing env vars to docker-compose.yml (#937)\n* set postmaster address to a sensible default (#938, #939,  #940)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

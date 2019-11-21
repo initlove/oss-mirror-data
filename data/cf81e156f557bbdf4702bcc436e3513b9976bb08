@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6Y2Y4MWUxNTZmNTU3YmJkZjQ3MDJiY2M0MzZlMzUxM2I5OTc2YmIwOA==",
+  "sha": "cf81e156f557bbdf4702bcc436e3513b9976bb08",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/cf81e156f557bbdf4702bcc436e3513b9976bb08",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T14:34:20Z"
+  },
+  "object": {
+    "sha": "1f9325206f3f3a82e9512bed44671d32537f7050",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/1f9325206f3f3a82e9512bed44671d32537f7050"
+  },
+  "tag": "v3.0.30",
+  "message": "MooseFS 3.0.30-1\n\n * (master) added 'empty' chunk count to mfscheckfile (fixed mfsfileinfo on sparse files)\n * (master) added 'mfsrmsnapshot' (remove whole directory created as a result of mfsmakesnapshot)\n * (tools) fixed memory overrun error during mfssetgoal\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

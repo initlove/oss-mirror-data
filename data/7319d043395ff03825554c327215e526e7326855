@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NzMxOWQwNDMzOTVmZjAzODI1NTU0YzMyNzIxNWU1MjZlNzMyNjg1NQ==",
+  "sha": "7319d043395ff03825554c327215e526e7326855",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/7319d043395ff03825554c327215e526e7326855",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-02-03T01:18:44Z"
+  },
+  "object": {
+    "sha": "051908e023f87894fa68f5b64d0b99a19a7db01e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/051908e023f87894fa68f5b64d0b99a19a7db01e"
+  },
+  "tag": "v0.6.10",
+  "message": "2012.02.02, Version 0.6.10 (stable)\n\n* Update V8 to 3.6.6.20\n\n* Add npm msysgit bash shim to msi installer (isaacs)\n\n* buffers: fix intermittent out of bounds error (Ben Noordhuis)\n\n* buffers: honor length argument in base64 decoder (Ben Noordhuis)\n\n* windows: Fix path.exists regression (Bert Belder)\n\n* Make QueryString.parse run faster (Philip Tellis)\n\n* http: avoid freeing http-parser objects too early (koichik)\n\n* timers: add v0.4 compatibility hack (Ben Noordhuis)\n\n* Proper EPERM error code support (Igor Zinkovsky, Brandon Philips)\n\n* dgram: Implement udp multicast methods on windows (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPKzX4AAoJELCniwpsSBz2D0sH/1tZ/yub0ekck8bMJmkuB0Ck\nzNozUXOzO3AfVFtLpgauEvCmmTxzwA3szFoiJLizPfcAaeK9QFPacpTIpNtRa4Hb\nSWf/MXPL7BWFBeT99e8trmwqGWzcM+UEiVZUNjXuweLn+P9UXI5SFsaOUsctAHNO\ntz8hXtzHKL7htyLyKvV99cUrd51IF0qdDkT27eluIJ1CZJd5HbW8yNNhwb0YdIUc\nZhXvvhq9EoKOdxlt2uLehwqtajWZAJ462F3Ew6rUL9BDu47vhtGb28pzgJzSZ+YK\nxwgLKr8++k+9MPOqhSi/zqRhnY7Lm7fEEaOgmKZ7mMJxxl6AO46jUMTn9DvYv2A=\n=B94D\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPKzX4AAoJELCniwpsSBz2D0sH/1tZ/yub0ekck8bMJmkuB0Ck\nzNozUXOzO3AfVFtLpgauEvCmmTxzwA3szFoiJLizPfcAaeK9QFPacpTIpNtRa4Hb\nSWf/MXPL7BWFBeT99e8trmwqGWzcM+UEiVZUNjXuweLn+P9UXI5SFsaOUsctAHNO\ntz8hXtzHKL7htyLyKvV99cUrd51IF0qdDkT27eluIJ1CZJd5HbW8yNNhwb0YdIUc\nZhXvvhq9EoKOdxlt2uLehwqtajWZAJ462F3Ew6rUL9BDu47vhtGb28pzgJzSZ+YK\nxwgLKr8++k+9MPOqhSi/zqRhnY7Lm7fEEaOgmKZ7mMJxxl6AO46jUMTn9DvYv2A=\n=B94D\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 051908e023f87894fa68f5b64d0b99a19a7db01e\ntype commit\ntag v0.6.10\ntagger isaacs <i@izs.me> 1328231924 -0800\n\n2012.02.02, Version 0.6.10 (stable)\n\n* Update V8 to 3.6.6.20\n\n* Add npm msysgit bash shim to msi installer (isaacs)\n\n* buffers: fix intermittent out of bounds error (Ben Noordhuis)\n\n* buffers: honor length argument in base64 decoder (Ben Noordhuis)\n\n* windows: Fix path.exists regression (Bert Belder)\n\n* Make QueryString.parse run faster (Philip Tellis)\n\n* http: avoid freeing http-parser objects too early (koichik)\n\n* timers: add v0.4 compatibility hack (Ben Noordhuis)\n\n* Proper EPERM error code support (Igor Zinkovsky, Brandon Philips)\n\n* dgram: Implement udp multicast methods on windows (Bert Belder)\n"
+  }
+}

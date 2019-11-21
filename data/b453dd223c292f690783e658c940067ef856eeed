@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6YjQ1M2RkMjIzYzI5MmY2OTA3ODNlNjU4Yzk0MDA2N2VmODU2ZWVlZA==",
+  "sha": "b453dd223c292f690783e658c940067ef856eeed",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/b453dd223c292f690783e658c940067ef856eeed",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-01-27T16:05:21Z"
+  },
+  "object": {
+    "sha": "48bdb9278c48c622ce5869626981f16580f86038",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/48bdb9278c48c622ce5869626981f16580f86038"
+  },
+  "tag": "v2.0.82",
+  "message": " * (all) fixed debug symbols\n * (master+supervisor) added metaid check (pro version only)\n * (master) added rejection of followers with incorrect meta version (pro version only)\n * (mount) added new mechanism for sustaining working directories (replaces mechanism added in 2.0.74)\n * (mount) create in deleted directory returns EACCES only in OS X (ENOENT in other systems)\n * (cli) fixed show exports in plain mode\n * (master) added sending metaid after switching from ELECT to LEADER (pro version only)\n * (master) removed option '-e' from GPL edition (only makes sense in pro version)\n * (master+cs) added sending metaid to cs in ELECT state (pro version only)\n * (master) improved metaid generation method\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

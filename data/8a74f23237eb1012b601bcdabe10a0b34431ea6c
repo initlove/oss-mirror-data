@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6OGE3NGYyMzIzN2ViMTAxMmI2MDFiY2RhYmUxMGEwYjM0NDMxZWE2Yw==",
+  "sha": "8a74f23237eb1012b601bcdabe10a0b34431ea6c",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/8a74f23237eb1012b601bcdabe10a0b34431ea6c",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-09-18T01:33:46Z"
+  },
+  "object": {
+    "sha": "6e2055889091a424fbb5c500bc3ab9c05d1c28b4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/6e2055889091a424fbb5c500bc3ab9c05d1c28b4"
+  },
+  "tag": "v0.9.2",
+  "message": "2012.09.17, Version 0.9.2 (Unstable)\n\n* http_parser: upgrade to ad3b631\n\n* openssl: upgrade 1.0.1c\n\n* darwin: use FSEvents to watch directory changes (Fedor Indutny)\n\n* unix: support missing API on NetBSD (Shigeki Ohtsu)\n\n* unix: fix EMFILE busy loop (Ben Noordhuis)\n\n* windows: un-break writable tty handles (Bert Belder)\n\n* windows: map WSAESHUTDOWN to UV_EPIPE (Bert Belder)\n\n* windows: make spawn with custom environment work again (Bert Belder)\n\n* windows: map ERROR_DIRECTORY to UV_ENOENT (Bert Belder)\n\n* tls, https: validate server certificate by default (Ben Noordhuis)\n\n* tls, https: throw exception on missing key/cert (Ben Noordhuis)\n\n* tls: async session storage (Fedor Indutny)\n\n* installer: don't install header files (Ben Noordhuis)\n\n* buffer: implement Buffer.prototype.toJSON() (Nathan Rajlich)\n\n* buffer: added support for writing NaN and Infinity (koichik)\n\n* http: make http.ServerResponse emit 'end' (Ben Noordhuis)\n\n* build: ./configure --ninja (Ben Noordhuis, Timothy J Fontaine)\n\n* installer: fix --without-npm (Ben Noordhuis)\n\n* cli: make -p equivalent to -pe (Ben Noordhuis)\n\n* url: Go much faster by using Url class (isaacs)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQV896AAoJELCniwpsSBz2XA8H/jg5F4z9G6lYM5VGkpR/5l30\niaVCFrPfgt15K2twCfY8SJ7mCfHImZs1xsq3O2CgPQddrn2lCsskdkYTeEbpG8qr\niEYC9wIP5MZaMpshcPqxRIE8g1DlJUwFBT+0Ef7udeW9AJOP7yD2d51diIrSInEt\nG+S/ugC6L0gcaJBUs9noTfQee/blyzBca04DDGhBU+sqHLtb8RjMSFIr1cmD9whj\n8NWwW1c71X2pLQMTGAh/sUX0s0M87/OJdci4mQYDO1Uqu+Z8bzewQU8kLa6x59w3\npa1N58BzdjWdZbWhmj58Rhls04PRcJBkESeoX11mmQQIykUyI7rceSKG+uBgxQc=\n=6TdG\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQV896AAoJELCniwpsSBz2XA8H/jg5F4z9G6lYM5VGkpR/5l30\niaVCFrPfgt15K2twCfY8SJ7mCfHImZs1xsq3O2CgPQddrn2lCsskdkYTeEbpG8qr\niEYC9wIP5MZaMpshcPqxRIE8g1DlJUwFBT+0Ef7udeW9AJOP7yD2d51diIrSInEt\nG+S/ugC6L0gcaJBUs9noTfQee/blyzBca04DDGhBU+sqHLtb8RjMSFIr1cmD9whj\n8NWwW1c71X2pLQMTGAh/sUX0s0M87/OJdci4mQYDO1Uqu+Z8bzewQU8kLa6x59w3\npa1N58BzdjWdZbWhmj58Rhls04PRcJBkESeoX11mmQQIykUyI7rceSKG+uBgxQc=\n=6TdG\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6e2055889091a424fbb5c500bc3ab9c05d1c28b4\ntype commit\ntag v0.9.2\ntagger isaacs <i@izs.me> 1347932026 -0700\n\n2012.09.17, Version 0.9.2 (Unstable)\n\n* http_parser: upgrade to ad3b631\n\n* openssl: upgrade 1.0.1c\n\n* darwin: use FSEvents to watch directory changes (Fedor Indutny)\n\n* unix: support missing API on NetBSD (Shigeki Ohtsu)\n\n* unix: fix EMFILE busy loop (Ben Noordhuis)\n\n* windows: un-break writable tty handles (Bert Belder)\n\n* windows: map WSAESHUTDOWN to UV_EPIPE (Bert Belder)\n\n* windows: make spawn with custom environment work again (Bert Belder)\n\n* windows: map ERROR_DIRECTORY to UV_ENOENT (Bert Belder)\n\n* tls, https: validate server certificate by default (Ben Noordhuis)\n\n* tls, https: throw exception on missing key/cert (Ben Noordhuis)\n\n* tls: async session storage (Fedor Indutny)\n\n* installer: don't install header files (Ben Noordhuis)\n\n* buffer: implement Buffer.prototype.toJSON() (Nathan Rajlich)\n\n* buffer: added support for writing NaN and Infinity (koichik)\n\n* http: make http.ServerResponse emit 'end' (Ben Noordhuis)\n\n* build: ./configure --ninja (Ben Noordhuis, Timothy J Fontaine)\n\n* installer: fix --without-npm (Ben Noordhuis)\n\n* cli: make -p equivalent to -pe (Ben Noordhuis)\n\n* url: Go much faster by using Url class (isaacs)\n"
+  }
+}

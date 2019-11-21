@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NWFlNjk4ZmM0NzQzMGQzMzE1MmZmNTJhYjM5ZGExMmI3N2U3MjA4YQ==",
+  "sha": "5ae698fc47430d33152ff52ab39da12b77e7208a",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/5ae698fc47430d33152ff52ab39da12b77e7208a",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-01-29T03:46:00Z"
+  },
+  "object": {
+    "sha": "b46e77421581ea358e221a8a843d057c747f7e90",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/b46e77421581ea358e221a8a843d057c747f7e90"
+  },
+  "tag": "v0.11.11",
+  "message": "2014.01.29, Version 0.11.11 (Unstable)\n\n* v8: Upgrade to 3.22.24.19\n\n* http_parser: Upgrade to 2.2.1\n\n* openssl: Upgrade to 1.0.1f\n\n* uv: Upgrade to 0.11.18\n\n* async-listener: revamp of subsystem (Trevor Norris)\n\n* node: do not ever close stdio (Fedor Indutny)\n\n* http: use writev on chunked encoding (Trevor Norris)\n\n* async_wrap/timers: remove Add/RemoveAsyncListener (Trevor Norris)\n\n* child_process: better error reporting for exec (Fedor Indutny)\n\n* crypto: add newline to cert and key if not present (Fedor Indutny)\n\n* crypto: clear error in GetPeerCertificate (Fedor Indutny)\n\n* crypto: honor default ciphers in client mode (Jacob Hoffman-Andrews)\n\n* crypto: introduce .setEngine(engine, [flags]) (Fedor Indutny)\n\n* crypto: support custom pbkdf2 digest methods (Ben Noordhuis)\n\n* domain: fix off-by-one in Domain.exit() (Ryan Graham)\n\n* http: concatenate duplicate headers by default (Alex Kocharin)\n\n* http: do not emit EOF non-readable socket (Fedor Indutny)\n\n* node: fix argument parsing with -p arg (Alexis Campailla)\n\n* path: improve POSIX path.join() performance (Jo Liss)\n\n* tls: emit `clientError` on early socket close (Fedor Indutny)\n\n* tls: introduce `.setMaxSendFragment(size)` (Fedor Indutny)\n\n* tls: make cert/pfx optional in tls.createServer() (Ben Noordhuis)\n\n* tls: process accumulated input (Fedor Indutny)\n\n* tls: show human-readable error messages (Ben Noordhuis)\n\n* util: handle escaped forward slashes correctly (Tom Gallacher)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlLoeXgACgkQfTP/nQJGQG3zVACdFE+bzHIhrT63GP1tyDFAL4G6\nITEAoJoGZB7QqzAPBiyXwGLDu/a0W7dN\n=RPV/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlLoeXgACgkQfTP/nQJGQG3zVACdFE+bzHIhrT63GP1tyDFAL4G6\nITEAoJoGZB7QqzAPBiyXwGLDu/a0W7dN\n=RPV/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b46e77421581ea358e221a8a843d057c747f7e90\ntype commit\ntag v0.11.11\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1390967160 -0800\n\n2014.01.29, Version 0.11.11 (Unstable)\n\n* v8: Upgrade to 3.22.24.19\n\n* http_parser: Upgrade to 2.2.1\n\n* openssl: Upgrade to 1.0.1f\n\n* uv: Upgrade to 0.11.18\n\n* async-listener: revamp of subsystem (Trevor Norris)\n\n* node: do not ever close stdio (Fedor Indutny)\n\n* http: use writev on chunked encoding (Trevor Norris)\n\n* async_wrap/timers: remove Add/RemoveAsyncListener (Trevor Norris)\n\n* child_process: better error reporting for exec (Fedor Indutny)\n\n* crypto: add newline to cert and key if not present (Fedor Indutny)\n\n* crypto: clear error in GetPeerCertificate (Fedor Indutny)\n\n* crypto: honor default ciphers in client mode (Jacob Hoffman-Andrews)\n\n* crypto: introduce .setEngine(engine, [flags]) (Fedor Indutny)\n\n* crypto: support custom pbkdf2 digest methods (Ben Noordhuis)\n\n* domain: fix off-by-one in Domain.exit() (Ryan Graham)\n\n* http: concatenate duplicate headers by default (Alex Kocharin)\n\n* http: do not emit EOF non-readable socket (Fedor Indutny)\n\n* node: fix argument parsing with -p arg (Alexis Campailla)\n\n* path: improve POSIX path.join() performance (Jo Liss)\n\n* tls: emit `clientError` on early socket close (Fedor Indutny)\n\n* tls: introduce `.setMaxSendFragment(size)` (Fedor Indutny)\n\n* tls: make cert/pfx optional in tls.createServer() (Ben Noordhuis)\n\n* tls: process accumulated input (Fedor Indutny)\n\n* tls: show human-readable error messages (Ben Noordhuis)\n\n* util: handle escaped forward slashes correctly (Tom Gallacher)\n"
+  }
+}

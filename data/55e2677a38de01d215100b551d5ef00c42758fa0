@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6NTVlMjY3N2EzOGRlMDFkMjE1MTAwYjU1MWQ1ZWYwMGM0Mjc1OGZhMA==",
+  "sha": "55e2677a38de01d215100b551d5ef00c42758fa0",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/55e2677a38de01d215100b551d5ef00c42758fa0",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2017-12-07T02:07:46Z"
+  },
+  "object": {
+    "sha": "f99490c9933344697854c4d330b0499386c8cb6e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/f99490c9933344697854c4d330b0499386c8cb6e"
+  },
+  "tag": "v3.0.98",
+  "message": "MooseFS 3.0.98\n\n * (mount) changed default cache mode on OS X from 'direct' to 'auto' due to problems with mmap\n * (cgiserv) added seteuid to 'mfs' or 'nobody'\n * (cs+tools) use readdir instead of readdir_r on glibc 2.24+\n * (debian) added support for systemd in debian packages\n * (all) fixed library dependencies (for libpcap,libz and libm)\n * (mount) fixed race between defered 'open' and 'locks'\n * (master) more chunk debugs and better handling chunk status change\n * (cs) fixed handling mark for removal (after reload sometimes cs could send chunks marked for removal as normal chunks)\n * (master) added file with metadata checksums (for future use)\n * (master) fixed way of sending gids to changelog/follower\n * (master) added inode checksum for some changes sent to changelog/follower\n * (metadump) added '0x' prefix for fileds dumped as hex numbers\n * (master) fixed ACL mask synchronization issues (restoring from changelog/leader->follower)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

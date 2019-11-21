@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6OTFkYjRjYWIyMTFjODUzNGM4MDM0ZDU5YTdlODBlMzgyN2I4YWUzNg==",
+  "sha": "91db4cab211c8534c8034d59a7e80e3827b8ae36",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/91db4cab211c8534c8034d59a7e80e3827b8ae36",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T14:31:53Z"
+  },
+  "object": {
+    "sha": "07849fb66c7e71af98d0edd49f55d4fdba56326a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/07849fb66c7e71af98d0edd49f55d4fdba56326a"
+  },
+  "tag": "v3.0.26",
+  "message": "MooseFS 3.0.26-1\n\n * (master+tools) added reportig invalid chunks to mfsfileinfo\n * (cs) added protection against using '.chunkdb' when folders were changed by user\n * (master) fixed free inodes list issue (can happen only during first 60 seconds after starting master with new metadata)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

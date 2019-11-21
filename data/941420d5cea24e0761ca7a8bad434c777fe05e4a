@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6OTQxNDIwZDVjZWEyNGUwNzYxY2E3YThiYWQ0MzRjNzc3ZmUwNWU0YQ==",
+  "sha": "941420d5cea24e0761ca7a8bad434c777fe05e4a",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/941420d5cea24e0761ca7a8bad434c777fe05e4a",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T15:07:32Z"
+  },
+  "object": {
+    "sha": "2159ce197ebc1ac8a2e047446b4ab8e54b9176b8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/2159ce197ebc1ac8a2e047446b4ab8e54b9176b8"
+  },
+  "tag": "v3.0.54",
+  "message": "MooseFS 3.0.54-1\n\n * (master) fixed setting version of new chunks registered as 'marked for removal'\n * (master) added stronger condition for deleting invalid chunks\n * (cs) changed condition for number of blocks to change to mark disk as damaged (allow changes up to 10%)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

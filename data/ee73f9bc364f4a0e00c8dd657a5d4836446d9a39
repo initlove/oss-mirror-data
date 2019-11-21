@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZWU3M2Y5YmMzNjRmNGEwZTAwYzhkZDY1N2E1ZDQ4MzY0NDZkOWEzOQ==",
+  "sha": "ee73f9bc364f4a0e00c8dd657a5d4836446d9a39",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/ee73f9bc364f4a0e00c8dd657a5d4836446d9a39",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-06-13T18:31:44Z"
+  },
+  "object": {
+    "sha": "d9d5bc465450ae5d60da32e9ffcf71c2767f1fad",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/d9d5bc465450ae5d60da32e9ffcf71c2767f1fad"
+  },
+  "tag": "v0.10.11",
+  "message": "2013.06.13, Version 0.10.11 (Stable)\n\n* uv: upgrade to 0.10.11\n\n* npm: Upgrade to 1.2.30\n\n* openssl: add missing configuration pieces for MIPS (Andrei Sedoi)\n\n* Revert \"http: remove bodyHead from 'upgrade' events\" (isaacs)\n\n* v8: fix pointer arithmetic undefined behavior (Trevor Norris)\n\n* crypto: fix utf8/utf-8 encoding check (Ben Noordhuis)\n\n* net: Fix busy loop on POLLERR|POLLHUP on older linux kernels (Ben Noordhuis, isaacs)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRuhAQAAoJELCniwpsSBz29V8H/jjwfIeG1PALheoc7GowpqLd\n0RoTRWeWaguZtfpJQZIjyhvB7QhGm5rFhrwg/qjioUqqa6MDfmZbweL3zerpiv9V\niv2urJEHuZVeD//NYkBBXest8K9OkkKc2blwQYpCWzMslHlI6L1FLZt5fLS0ifcy\nx+PELSR4iBQAfI9YGfcaKDXuGE4bVmUby7PFQ9c/YENN5oPeHYJ8m1xM1RjcMuvn\nUhGHtTXEK0q26umw5i5K9Bpx9NxxjJ9KNZat2p4moBJ63FlcM+RLo5r6Q1Y4/SnU\npppkvwtNEFDkSiKTdCiLyzXcnweLPwnFSkqcxdrUnWMI8AJLIurSrGJN50RzL9Q=\n=4OPU\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRuhAQAAoJELCniwpsSBz29V8H/jjwfIeG1PALheoc7GowpqLd\n0RoTRWeWaguZtfpJQZIjyhvB7QhGm5rFhrwg/qjioUqqa6MDfmZbweL3zerpiv9V\niv2urJEHuZVeD//NYkBBXest8K9OkkKc2blwQYpCWzMslHlI6L1FLZt5fLS0ifcy\nx+PELSR4iBQAfI9YGfcaKDXuGE4bVmUby7PFQ9c/YENN5oPeHYJ8m1xM1RjcMuvn\nUhGHtTXEK0q26umw5i5K9Bpx9NxxjJ9KNZat2p4moBJ63FlcM+RLo5r6Q1Y4/SnU\npppkvwtNEFDkSiKTdCiLyzXcnweLPwnFSkqcxdrUnWMI8AJLIurSrGJN50RzL9Q=\n=4OPU\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d9d5bc465450ae5d60da32e9ffcf71c2767f1fad\ntype commit\ntag v0.10.11\ntagger isaacs <i@izs.me> 1371148304 -0700\n\n2013.06.13, Version 0.10.11 (Stable)\n\n* uv: upgrade to 0.10.11\n\n* npm: Upgrade to 1.2.30\n\n* openssl: add missing configuration pieces for MIPS (Andrei Sedoi)\n\n* Revert \"http: remove bodyHead from 'upgrade' events\" (isaacs)\n\n* v8: fix pointer arithmetic undefined behavior (Trevor Norris)\n\n* crypto: fix utf8/utf-8 encoding check (Ben Noordhuis)\n\n* net: Fix busy loop on POLLERR|POLLHUP on older linux kernels (Ben Noordhuis, isaacs)\n"
+  }
+}

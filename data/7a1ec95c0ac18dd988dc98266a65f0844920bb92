@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6N2ExZWM5NWMwYWMxOGRkOTg4ZGM5ODI2NmE2NWYwODQ0OTIwYmI5Mg==",
+  "sha": "7a1ec95c0ac18dd988dc98266a65f0844920bb92",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/7a1ec95c0ac18dd988dc98266a65f0844920bb92",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T15:18:58Z"
+  },
+  "object": {
+    "sha": "cc899b49b872b64a1ef72c87371cafc15374fc45",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/cc899b49b872b64a1ef72c87371cafc15374fc45"
+  },
+  "tag": "v3.0.72",
+  "message": "MooseFS 3.0.72-1\n\n * (master+cgi+cli) added global 'umask' option to exports.cfg\n * (all) changed address of FSF in GPL licence text\n * (debian) removed obsolete conffiles\n * (debian) fixed copyright file\n * (mount) fixed parsing mfsmount.cfg (system options like nodev,noexec etc. were ommited)\n * (master) changed way how cs internal rebalance state is treated by master (as 'grace' state instead of 'overloaded')\n * (mount) fixed bug in read module (setting etab after ranges realloc)\n * (tools) removed obsoleted command 'mfssnapshot'\n * (master) fixed 'segfault' in rare case (removing flock with non-existent waiting session)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

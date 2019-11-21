@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YjQ5M2ZhN2UwNjEyMjNkZTU5MjAyZGM4ODEwMjE5MDE2MzI3MTQzZQ==",
+  "sha": "b493fa7e061223de59202dc8810219016327143e",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/b493fa7e061223de59202dc8810219016327143e",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-01-20T19:28:42Z"
+  },
+  "object": {
+    "sha": "da00413196e432247346d9e587f8c78ce5ceb087",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/da00413196e432247346d9e587f8c78ce5ceb087"
+  },
+  "tag": "v0.1.26",
+  "message": "2010.01.20, Version 0.1.26\n\n  * Bugfix, HTTP eof causing crash (Ben Williamson)\n\n  * Better error message on SyntaxError\n\n  * API: Move Promise and EventEmitter into 'events' module\n\n  * API: Add process.nextTick()\n\n  * Allow optional params to setTimeout, setInterval\n    (Michaeljohn Clement)\n\n  * API: change some Promise behavior (Felix Geisendörfer)\n    - Removed Promise.cancel()\n    - Support late callback binding\n    - Make unhandled Promise errors throw an exception\n\n  * Upgrade V8 to 2.0.6.1\n\n  * Solaris port\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

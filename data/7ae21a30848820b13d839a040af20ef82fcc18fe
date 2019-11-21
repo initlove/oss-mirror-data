@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6N2FlMjFhMzA4NDg4MjBiMTNkODM5YTA0MGFmMjBlZjgyZmNjMThmZQ==",
+  "sha": "7ae21a30848820b13d839a040af20ef82fcc18fe",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/7ae21a30848820b13d839a040af20ef82fcc18fe",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-03-06T21:47:08Z"
+  },
+  "object": {
+    "sha": "0debf5a82934da805592b6496756cdf27c993abc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/0debf5a82934da805592b6496756cdf27c993abc"
+  },
+  "tag": "v0.9.12",
+  "message": "2013.03.06, Version 0.9.12 (Unstable)\n\n* stream: Allow strings in Readable.push/unshift (isaacs)\n\n* stream: Remove bufferSize option (isaacs)\n\n* stream: Increase highWaterMark on large reads (isaacs)\n\n* stream: _write: takes an encoding argument (isaacs)\n\n* stream: _transform: remove no output() method, provide encoding (isaacs)\n\n* stream: Don't require read(0) to emit 'readable' event (isaacs)\n\n* node: Add --throw-deprecation (isaacs)\n\n* http: fix multiple timeout events (Eugene Girshov)\n\n* http: More useful setTimeout API on server (isaacs)\n\n* net: use close callback, not process.nextTick (Ben Noordhuis)\n\n* net: Provide better error when writing after FIN (isaacs)\n\n* dns: Support NAPTR queries (Pavel Lang)\n\n* dns: fix ReferenceError in resolve() error path (Xidorn Quan)\n\n* child_process: handle ENOENT correctly on Windows (Scott Blomquist)\n\n* cluster: Rename destroy() to kill(signal=SIGTERM) (isaacs)\n\n* build: define nightly tag external to build system (Timothy J Fontaine)\n\n* build: make msi build work when spaces are present in the path (Bert Belder)\n\n* build: fix msi build issue with WiX 3.7/3.8 (Raymond Feng)\n\n* repl: make compatible with domains (Dave Olszewski)\n\n* events: Code cleanup and performance improvements (Trevor Norris)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRN7lcAAoJELCniwpsSBz2uZgH/1xKhfH0JLSYWjujr9XEtWZX\nwf6zopu7+j0Qo1nv/NL1XWFj9H3dRW9Vh5J6ICZkWXnJmCX3oTG8HaWLpSoDnXXY\n6NKF+5GSgKBqcRLzrsbAPLSZbgHYvMIqZZFxLz3nyUo3TMKNe3o+05uSlF44F1YM\n/LDEo60uMFRaeNvIcTHL2xerjcahFpbjmV6/d73aWLOXjHlMWq0cPMPueUnur10L\n1bvtR6B8c2TiSxYQnQze7KWwqT/5cFRcDIQ57w33xuZnb5endhvY/NHTpzxljYg9\n6/hFpwlS4HueTyxyPM+XI5u1n0LCk4JI1gwN6scDJ5K0rXj2FrKVzdmkUGwj4n0=\n=QrOt\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRN7lcAAoJELCniwpsSBz2uZgH/1xKhfH0JLSYWjujr9XEtWZX\nwf6zopu7+j0Qo1nv/NL1XWFj9H3dRW9Vh5J6ICZkWXnJmCX3oTG8HaWLpSoDnXXY\n6NKF+5GSgKBqcRLzrsbAPLSZbgHYvMIqZZFxLz3nyUo3TMKNe3o+05uSlF44F1YM\n/LDEo60uMFRaeNvIcTHL2xerjcahFpbjmV6/d73aWLOXjHlMWq0cPMPueUnur10L\n1bvtR6B8c2TiSxYQnQze7KWwqT/5cFRcDIQ57w33xuZnb5endhvY/NHTpzxljYg9\n6/hFpwlS4HueTyxyPM+XI5u1n0LCk4JI1gwN6scDJ5K0rXj2FrKVzdmkUGwj4n0=\n=QrOt\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0debf5a82934da805592b6496756cdf27c993abc\ntype commit\ntag v0.9.12\ntagger isaacs <i@izs.me> 1362606428 -0800\n\n2013.03.06, Version 0.9.12 (Unstable)\n\n* stream: Allow strings in Readable.push/unshift (isaacs)\n\n* stream: Remove bufferSize option (isaacs)\n\n* stream: Increase highWaterMark on large reads (isaacs)\n\n* stream: _write: takes an encoding argument (isaacs)\n\n* stream: _transform: remove no output() method, provide encoding (isaacs)\n\n* stream: Don't require read(0) to emit 'readable' event (isaacs)\n\n* node: Add --throw-deprecation (isaacs)\n\n* http: fix multiple timeout events (Eugene Girshov)\n\n* http: More useful setTimeout API on server (isaacs)\n\n* net: use close callback, not process.nextTick (Ben Noordhuis)\n\n* net: Provide better error when writing after FIN (isaacs)\n\n* dns: Support NAPTR queries (Pavel Lang)\n\n* dns: fix ReferenceError in resolve() error path (Xidorn Quan)\n\n* child_process: handle ENOENT correctly on Windows (Scott Blomquist)\n\n* cluster: Rename destroy() to kill(signal=SIGTERM) (isaacs)\n\n* build: define nightly tag external to build system (Timothy J Fontaine)\n\n* build: make msi build work when spaces are present in the path (Bert Belder)\n\n* build: fix msi build issue with WiX 3.7/3.8 (Raymond Feng)\n\n* repl: make compatible with domains (Dave Olszewski)\n\n* events: Code cleanup and performance improvements (Trevor Norris)\n"
+  }
+}

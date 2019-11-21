@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6NjYyZGIwNGZhNWVmM2FjM2FkYWM4MjY5MTVjNDZlMTk5NTliODRkMQ==",
+  "sha": "662db04fa5ef3ac3adac826915c46e19959b84d1",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/662db04fa5ef3ac3adac826915c46e19959b84d1",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2017-03-28T13:06:14Z"
+  },
+  "object": {
+    "sha": "70a7846e7054c30d081cd3cc1263c74822b47f51",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/70a7846e7054c30d081cd3cc1263c74822b47f51"
+  },
+  "tag": "v3.0.90",
+  "message": "MooseFS 3.0.90\n\n * (master) fixed 'move/rename' with quota\n * (master) fixed chunk counters shown in cli/cgi\n * (master+tools) added option 'preserve hardlinks' to mfsmakesnapshot\n * (master) fixed acl copying during mfsmakesnapshot\n * (mount) added fixing file length in all inodes after write\n * (cs) split bitfiled into separate bytes (fixed potential race condition)\n * (master) setting operation to NONE before sending status (silence unnecessary messages in some cases)\n * (cs) increased verbosity of crc-error messages\n * (cs) fixed invalidating preserved block in case of truncate down followed by truncate up\n * (mount) increased master-proxy buffer sizes\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

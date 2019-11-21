@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMyNTI5ODphN2VjZGQyOWU4NWE3ZDUxMTc5YzZhNDUwN2E0YzI1YTg3YWI1YzBl",
+  "sha": "a7ecdd29e85a7d51179c6a4507a4c25a87ab5c0e",
+  "url": "https://api.github.com/repos/torvalds/linux/git/tags/a7ecdd29e85a7d51179c6a4507a4c25a87ab5c0e",
+  "tagger": {
+    "name": "Linus Torvalds",
+    "email": "torvalds@woody.osdl.org",
+    "date": "2006-12-14T01:15:46Z"
+  },
+  "object": {
+    "sha": "cc016448b0bf0764928275d034e367753bde8162",
+    "type": "commit",
+    "url": "https://api.github.com/repos/torvalds/linux/git/commits/cc016448b0bf0764928275d034e367753bde8162"
+  },
+  "tag": "v2.6.20-rc1",
+  "message": "Linux v2.6.20-rc1\n\nThe aim here is to make 2.6.20 reasonably quickly, and avoid the big\nkernel changes that we've had in every single release lately.\n\nKnock wood.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.6 (GNU/Linux)\n\niD8DBQBFgKYKF3YsRnbiHLsRAuQ7AJ0VmmR2YoNJHKDnZzklM4fb7rqjEACfSi8x\nymwvZYjWxPxLyDRrBmL0y7w=\n=+p43\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.6 (GNU/Linux)\n\niD8DBQBFgKYKF3YsRnbiHLsRAuQ7AJ0VmmR2YoNJHKDnZzklM4fb7rqjEACfSi8x\nymwvZYjWxPxLyDRrBmL0y7w=\n=+p43\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cc016448b0bf0764928275d034e367753bde8162\ntype commit\ntag v2.6.20-rc1\ntagger Linus Torvalds <torvalds@woody.osdl.org> 1166058946 -0800\n\nLinux v2.6.20-rc1\n\nThe aim here is to make 2.6.20 reasonably quickly, and avoid the big\nkernel changes that we've had in every single release lately.\n\nKnock wood.\n"
+  }
+}

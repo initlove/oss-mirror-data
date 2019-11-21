@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6MGFiN2JiOGU2ZjI5NTUyMDMyOTEyOGIyMTI4ODJjZWY4Nzg1YzQxOA==",
+  "sha": "0ab7bb8e6f295520329128b212882cef8785c418",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/0ab7bb8e6f295520329128b212882cef8785c418",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T14:35:01Z"
+  },
+  "object": {
+    "sha": "d3128d38ba2faf61fb7cd5f076315c3265190726",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/d3128d38ba2faf61fb7cd5f076315c3265190726"
+  },
+  "tag": "v3.0.31",
+  "message": "MooseFS 3.0.31-1\n\n * (master) changed metadata storing policy - when there are no followers, then store metadata every hour (pro version only)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

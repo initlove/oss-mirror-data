@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6ODdiZmMyZWNlOGU0MjQ3Y2ViYjdjOGQ3NjQzNjRhYmRmMzVhOWZmZA==",
+  "sha": "87bfc2ece8e4247cebb7c8d764364abdf35a9ffd",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/87bfc2ece8e4247cebb7c8d764364abdf35a9ffd",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-01-27T16:00:48Z"
+  },
+  "object": {
+    "sha": "9b94d61c885d4d375aa5fdae48216e81f9e77fea",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/9b94d61c885d4d375aa5fdae48216e81f9e77fea"
+  },
+  "tag": "v2.0.71",
+  "message": " * (cs) fixed sending disk sizes after chunk deletions\n * (tools) added displaying chunk information in \"mfsfileinfo\" for chunks exceeding file size\n * (cli+cgi) added \"missing chunk type\" column in \"missing files\" table\n * (master) added automatic fixing missing chunks exceeding file size\n * (cs) fixed \"got unknown message (type:212)\" issue\n * (cs) added ip and port to connection error message\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

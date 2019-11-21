@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6OTQ1Njg4MjcyOWZlMTA0YTUzZTJhNzdiMjg0M2NhNGQwYjExMThiNw==",
+  "sha": "9456882729fe104a53e2a77b2843ca4d0b1118b7",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/9456882729fe104a53e2a77b2843ca4d0b1118b7",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T14:59:26Z"
+  },
+  "object": {
+    "sha": "8ab7a9e5e12b6015a35e9272c37c6418612bf700",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/8ab7a9e5e12b6015a35e9272c37c6418612bf700"
+  },
+  "tag": "v3.0.46",
+  "message": "MooseFS 3.0.46-1\n\n * (mount) fixed chunk-data cache bug (repeated network timeouts could lead to reading freeze)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

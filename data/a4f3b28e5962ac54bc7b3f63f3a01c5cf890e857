@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YTRmM2IyOGU1OTYyYWM1NGJjN2IzZjYzZjNhMDFjNWNmODkwZTg1Nw==",
+  "sha": "a4f3b28e5962ac54bc7b3f63f3a01c5cf890e857",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/a4f3b28e5962ac54bc7b3f63f3a01c5cf890e857",
+  "tagger": {
+    "name": "Julien Gilli",
+    "email": "julien.gilli@joyent.com",
+    "date": "2015-03-12T04:11:57Z"
+  },
+  "object": {
+    "sha": "7d6b5b1d5ba726331f9ccaaae59af7cd53eee82e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/7d6b5b1d5ba726331f9ccaaae59af7cd53eee82e"
+  },
+  "tag": "v0.10.37",
+  "message": "2015.03.11, Version 0.10.37 (Maintenance)\n\n* uv: update to 0.10.36 (CVE-2015-0278)\n\n* domains: fix stack clearing after error handled (Jonas Dohse)\n\n* buffer: reword Buffer.concat error message (Chris Dickinson)\n\n* console: allow Object.prototype fields as labels (Julien Gilli)\n\n* V8: log version in profiler log file (Ben Noordhuis)\n\n* http: fix performance regression for GET requests (Florin-Cristian Gavrila)\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJVARINAAoJEFCjBR+IjGKNcmUQAJR+BGgUAkgwFLTc/0UGBkqv\n0di9fOEDQZFcYhd2a/HLC7p3FT2T/JmqmS61bOKHY5O0Vs2vlz3Mphu7Mrw3wszf\nR2Q/tC8SU69vQzd4j3eF713NoJmRMIYPFz9tyh8EOuDLB6CJZ+Akdo4JFTqRKXIO\nLX+dqdRW8OA1Ju0OZ1vHhSJqqop6A04N6KtqJ2rzHxMFTmj9f7MGbqa1w0ekA5wp\nVaF0VLvtPEjS2Bl1xX1ek4MXBXb78GzzuI2BVWCII3FxAReIFWjhzNnpoxRg9Wnk\nngumZ+jEKQxx9rPG+PXEdciilTIKfRcJGOXCqClD1eiH+98Hnf29+LLZixR0EoFV\n4xt21R7BylMhCs9Ed36GZKmQsGpyu0qqLRipnHtr7YePSVWCk03BQm0r65XYXc2+\naI3yX79bv3IBpy8QHNVAFRj0qsw9Sq/UU/FUZr3UEce+6lNNpL0X3jFT9vTgUoHB\nRuIZj02qsYrcXol/CCrH2YW32Kk2ADrfRJomCF8aY0eXKTiK28iZRRlPbFsEwpxZ\nTqCgCksM3WHUzZ+7KFjDHOMLBGIFgiRDhPzfb5u72Z9j2iOiOQjVoRI83PI+LZVX\n5hT3xn7BhIUmZ5PCjgU4UHQaor1FmvKLIaBzc9Op/gAHvhLxocBEYSFSkOGeFLeV\nOqR1SzBFnM3L1JTuocYT\n=IVU6\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJVARINAAoJEFCjBR+IjGKNcmUQAJR+BGgUAkgwFLTc/0UGBkqv\n0di9fOEDQZFcYhd2a/HLC7p3FT2T/JmqmS61bOKHY5O0Vs2vlz3Mphu7Mrw3wszf\nR2Q/tC8SU69vQzd4j3eF713NoJmRMIYPFz9tyh8EOuDLB6CJZ+Akdo4JFTqRKXIO\nLX+dqdRW8OA1Ju0OZ1vHhSJqqop6A04N6KtqJ2rzHxMFTmj9f7MGbqa1w0ekA5wp\nVaF0VLvtPEjS2Bl1xX1ek4MXBXb78GzzuI2BVWCII3FxAReIFWjhzNnpoxRg9Wnk\nngumZ+jEKQxx9rPG+PXEdciilTIKfRcJGOXCqClD1eiH+98Hnf29+LLZixR0EoFV\n4xt21R7BylMhCs9Ed36GZKmQsGpyu0qqLRipnHtr7YePSVWCk03BQm0r65XYXc2+\naI3yX79bv3IBpy8QHNVAFRj0qsw9Sq/UU/FUZr3UEce+6lNNpL0X3jFT9vTgUoHB\nRuIZj02qsYrcXol/CCrH2YW32Kk2ADrfRJomCF8aY0eXKTiK28iZRRlPbFsEwpxZ\nTqCgCksM3WHUzZ+7KFjDHOMLBGIFgiRDhPzfb5u72Z9j2iOiOQjVoRI83PI+LZVX\n5hT3xn7BhIUmZ5PCjgU4UHQaor1FmvKLIaBzc9Op/gAHvhLxocBEYSFSkOGeFLeV\nOqR1SzBFnM3L1JTuocYT\n=IVU6\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7d6b5b1d5ba726331f9ccaaae59af7cd53eee82e\ntype commit\ntag v0.10.37\ntagger Julien Gilli <julien.gilli@joyent.com> 1426133517 -0700\n\n2015.03.11, Version 0.10.37 (Maintenance)\n\n* uv: update to 0.10.36 (CVE-2015-0278)\n\n* domains: fix stack clearing after error handled (Jonas Dohse)\n\n* buffer: reword Buffer.concat error message (Chris Dickinson)\n\n* console: allow Object.prototype fields as labels (Julien Gilli)\n\n* V8: log version in profiler log file (Ben Noordhuis)\n\n* http: fix performance regression for GET requests (Florin-Cristian Gavrila)\n"
+  }
+}

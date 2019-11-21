@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZTFlMGUwNjRlZDVkNTA2ZTQxMWJlMGU3MmU5MjdhYjRiYmEyN2RkOQ==",
+  "sha": "e1e0e064ed5d506e411be0e72e927ab4bba27dd9",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/e1e0e064ed5d506e411be0e72e927ab4bba27dd9",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-03-03T06:10:38Z"
+  },
+  "object": {
+    "sha": "39280e1b5731f3fcd8cc42ad41b86cdfdcb6d58b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/39280e1b5731f3fcd8cc42ad41b86cdfdcb6d58b"
+  },
+  "tag": "v0.4.2",
+  "message": "2011.03.02, Version 0.4.2 (stable)\n\n* Improve docs.\n\n* Fix process.on edge case with signal event (Alexis Sellier)\n\n* Pragma HTTP header comma separation\n\n* In addition to 'aborted' emit 'close' from incoming requests\n  (Felix Geisendörfer)\n\n* Fix memleak in vm.runInNewContext\n\n* Do not cache modules that throw exceptions (Felix Geisendörfer)\n\n* Build system changes for libnode (Aria Stewart)\n\n* Read up the prototype of the 'env' object. (Nathan Rajlich)\n\n* Add 'close' and 'aborted' events to Agent responses\n\n* http: fix missing 'drain' events (Russell Haering)\n\n* Fix process.stdout.end() throws ENOTSOCK error. (Koichi Kobayashi)\n\n* REPL bug fixes (isaacs)\n\n* node_modules folders should be highest priority (isaacs)\n\n* URL parse more safely (isaacs)\n\n* Expose errno with a string for dns/cares (Felix Geisendörfer)\n\n* Fix tty.setWindowSize\n\n* spawn: setuid after chdir (isaacs)\n\n* SIGUSR1 should break the VM without delay\n\n* Upgrade V8 to 3.1.8.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

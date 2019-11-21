@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6NTgyYzdkZTA0Y2JlYmYwYTJmZTA4OTE5NGJiOTIxODllOWU2NDEwNg==",
+  "sha": "582c7de04cbebf0a2fe089194bb92189e9e64106",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/582c7de04cbebf0a2fe089194bb92189e9e64106",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T14:31:05Z"
+  },
+  "object": {
+    "sha": "2e18d4ff97f97b36cc8ce61cae758e089485bfa7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/2e18d4ff97f97b36cc8ce61cae758e089485bfa7"
+  },
+  "tag": "v3.0.25",
+  "message": "MooseFS 3.0.25-1\n\n * (cs) fixed sending disk sizes after chunk deletions\n * (tools) added displaying chunk information in \"mfsfileinfo\" for chunks exceeding file size\n * (cli+cgi) added \"missing chunk type\" column in \"missing files\" table\n * (master) added automatic fixing missing chunks exceeding file size\n * (cs) fixed \"got unknown message (type:212)\" issue\n * (cs) added ip and port to connection error message\n * (master+mount) added length and write/read synchronization between nodes\n * (mount) removed waiting for data sync on mfs_release\n * (master+mount) added not cacheable ENOENT status\n * (master) changed two highest replication priorities (fixes problem with slow replication from \"marked for removal\" disks)\n * (cs) added option '!' to paths in mfshdd.cfg - ignore 'metaid'\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

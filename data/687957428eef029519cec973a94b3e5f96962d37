@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6Njg3OTU3NDI4ZWVmMDI5NTE5Y2VjOTczYTk0YjNlNWY5Njk2MmQzNw==",
+  "sha": "687957428eef029519cec973a94b3e5f96962d37",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/687957428eef029519cec973a94b3e5f96962d37",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-04-10T00:05:50Z"
+  },
+  "object": {
+    "sha": "07e64d45ffa1856e824c4fa6afd0442ba61d6fd8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/07e64d45ffa1856e824c4fa6afd0442ba61d6fd8"
+  },
+  "tag": "v0.1.90",
+  "message": "2010.04.09, Version 0.1.90\n\n  * Merge writing of networking system (net2)\n   - New Buffer object for binary data.\n   - Support UNIX sockets, Pipes\n   - Uniform stream API\n   - Currently no SSL\n   - Legacy modules can be accessed at 'http_old' and 'tcp_old'\n\n  * Replace udns with c-ares. (Krishna Rajendran)\n\n  * New documentation system using Markdown and Ronn\n    (Tim Caswell, Micheil Smith)\n\n  * Better idle-time GC\n\n  * Countless small bug fixes.\n\n  * Upgrade V8 to 2.2.X, WAF 1.5.15\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

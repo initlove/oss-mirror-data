@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6MmFhOWE4MjkzOWVhNTVjZjhhMjdhY2NhOTM4MTk2ZDRjMzczNGRiZg==",
+  "sha": "2aa9a82939ea55cf8a27acca938196d4c3734dbf",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/2aa9a82939ea55cf8a27acca938196d4c3734dbf",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-04-27T18:32:03Z"
+  },
+  "object": {
+    "sha": "b0125cf44cb40cc48d5b730088180654a0c8329c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/b0125cf44cb40cc48d5b730088180654a0c8329c"
+  },
+  "tag": "v2.0.89",
+  "message": "MooseFS 2.0.89-1\n\n * (master+mount) added fix for bug in FreeBSD kernel (kernel sends truncate before first close - FreeBSD only)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

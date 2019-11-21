@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkyNjE0NzM6MDEwZDVmMzNjNzE2MzNhOWVhZmU5MDJmZDUzYzE5OTc5MTI1OGM1NA==",
+  "sha": "010d5f33c71633a9eafe902fd53c199791258c54",
+  "url": "https://api.github.com/repos/minio/minio/git/tags/010d5f33c71633a9eafe902fd53c199791258c54",
+  "tagger": {
+    "name": "Minio Trusted",
+    "email": "trusted@minio.io",
+    "date": "2016-08-21T02:55:10Z"
+  },
+  "object": {
+    "sha": "975eb319730c8db093b4744bf9e012356d61eef2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/minio/minio/git/commits/975eb319730c8db093b4744bf9e012356d61eef2"
+  },
+  "tag": "RELEASE.2016-08-21T02-44-47Z",
+  "message": "Bug fix release, fixes a regression in bucket policy handling.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJXuRgaAAoJEBLHQ5D5qscovIgQAMe6s2j20+oXFnq4KE9f2kfk\n9gTPXIxKhvUgbqP+lJexKRLNSaHf9v+d+MqZUCziKn+nmWoEJQZ16cT8Ky7Dql9/\nMnAsTbFW00cWIVdoK/zCIlf5vMds3yJdss9jPjQ/7bbdwQx0+rhY+nTrAy3X65SM\nelHD6/4F0TrEd8jypVrZaCC9g4/RiUsKA/2SOdcjVpLiIk8Qkb9bARtGSPp7K2qm\nJPZUmPhH6A2Urbbcxm7ablvrj4JREy+yR025xK3wqLDLwt5285ZqDIKC+dZDp22A\nXLZj4R61DwkeW2VhPETk1W+p6XhHMmyom0UzC7m91l0SAbxbLCa1PpdbxkQ0qLI4\nzj7l8A0alQ4k87zd1/caIyQ1JE+K5bHMfdjrrjwG1bERdkkIzG16kh6F4pmfl9eu\ngFTQ8Vp3iNvCZgxlcyo7jMcfUCCBu6bXCAmIrQGmLVlMKWUPOcRGUZeTibyVZmj5\nv16Uf7PMk087Pq5lWbKa5ujjytR3s1kVV59iZatmm/fzLsnruR9Xy+9xd6kYWDUf\nGydpYp4ZlK/E82aqIcz/adZQVEW3XAwMwArZlYOj9zhbgLnvdqea/25eUx33DPYT\nwv+AHh/8fp2JUZbhf2+Huy/RZQZeBEinR6agdcOuh10R9OiPGJTbvMn+8RN38Bmr\nt5fg3ZLJ8q6S9WueuTM9\n=7M2l\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJXuRgaAAoJEBLHQ5D5qscovIgQAMe6s2j20+oXFnq4KE9f2kfk\n9gTPXIxKhvUgbqP+lJexKRLNSaHf9v+d+MqZUCziKn+nmWoEJQZ16cT8Ky7Dql9/\nMnAsTbFW00cWIVdoK/zCIlf5vMds3yJdss9jPjQ/7bbdwQx0+rhY+nTrAy3X65SM\nelHD6/4F0TrEd8jypVrZaCC9g4/RiUsKA/2SOdcjVpLiIk8Qkb9bARtGSPp7K2qm\nJPZUmPhH6A2Urbbcxm7ablvrj4JREy+yR025xK3wqLDLwt5285ZqDIKC+dZDp22A\nXLZj4R61DwkeW2VhPETk1W+p6XhHMmyom0UzC7m91l0SAbxbLCa1PpdbxkQ0qLI4\nzj7l8A0alQ4k87zd1/caIyQ1JE+K5bHMfdjrrjwG1bERdkkIzG16kh6F4pmfl9eu\ngFTQ8Vp3iNvCZgxlcyo7jMcfUCCBu6bXCAmIrQGmLVlMKWUPOcRGUZeTibyVZmj5\nv16Uf7PMk087Pq5lWbKa5ujjytR3s1kVV59iZatmm/fzLsnruR9Xy+9xd6kYWDUf\nGydpYp4ZlK/E82aqIcz/adZQVEW3XAwMwArZlYOj9zhbgLnvdqea/25eUx33DPYT\nwv+AHh/8fp2JUZbhf2+Huy/RZQZeBEinR6agdcOuh10R9OiPGJTbvMn+8RN38Bmr\nt5fg3ZLJ8q6S9WueuTM9\n=7M2l\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 975eb319730c8db093b4744bf9e012356d61eef2\ntype commit\ntag RELEASE.2016-08-21T02-44-47Z\ntagger Minio Trusted <trusted@minio.io> 1471748110 -0700\n\nBug fix release, fixes a regression in bucket policy handling.\n"
+  }
+}

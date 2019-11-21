@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTc2MDYxNzc6OWVhZGY5OGQxYjdhM2QwZjU1NGRiMTQ1NWEwNDhkYzI2MGI2MWU1YQ==",
+  "sha": "9eadf98d1b7a3d0f554db1455a048dc260b61e5a",
+  "url": "https://api.github.com/repos/mtth/hdfs/git/tags/9eadf98d1b7a3d0f554db1455a048dc260b61e5a",
+  "tagger": {
+    "name": "Matthieu Monsch",
+    "email": "monsch@alum.mit.edu",
+    "date": "2016-05-14T01:21:24Z"
+  },
+  "object": {
+    "sha": "27dfb967ed3c009e96d96214c7597d53f9804ed7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mtth/hdfs/git/commits/27dfb967ed3c009e96d96214c7597d53f9804ed7"
+  },
+  "tag": "2.0.6",
+  "message": "Fix double quoting of special characters when walking directories.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJXNn3VAAoJEAHXAI60x2mjAoAP/RYhxaeXhe94+xiRhUmg7wSQ\nj9wYB/9NSSedbFOoRySD2fhX51Eky8lLNQYHw9egNendPhNtfNJGC7DMJvLbQWbr\nuaRKfwnY7eBZfa3UrQl47Nu1Z49igPNAZhhjh04Z+SNbTA95whIh6oRKzztrMOXQ\njO6TyAF78ydIG39QQzGnkKhZJH6Q8lvaThgxl2KG9mbiGiULl3RgucffxqJGATuP\nf/YwuhvsOZCu1d9j5yGL8W/A76KK2aax97qn3eT90gGdRk6WaZqqHn77w0kNmRtr\nvExS1nW24RXOGtyh5XJINUay4PKIOLwqgVYWoyZaRh2ptUIfsw+qb67hN5r5sOhr\nb8xFLb1o+0fwt2nA8wapPbR71MiJrNaHGhvSMmmHNEKhROoalRRTfFNMAhNpC7lF\noBIae0aykYqO4yAmnZ6xJhzbAgzktE7j/CJn2plunfz8nSnNzwN6tqYkxBHh+LwL\n1J7PP422IUCO0H9BI5w2APdkktkBy2h6rUjvqaIJzwbLe+u0fOy5yowhxr4AdCDv\nF5DUvTdyHKha8B+lWmcYGeTvnTBSvv+uZFJc12qsihlEliH/uqNyhswCGaDG7S38\nvI8DI40oAiC9WQLx8C4FWyQtH/lwaDH7z4WpVxBs/xh1UKK0PrfS+BGtejJ3Hvb0\nF1l5fOWjMDSfbK8sqsYh\n=NvBD\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJXNn3VAAoJEAHXAI60x2mjAoAP/RYhxaeXhe94+xiRhUmg7wSQ\nj9wYB/9NSSedbFOoRySD2fhX51Eky8lLNQYHw9egNendPhNtfNJGC7DMJvLbQWbr\nuaRKfwnY7eBZfa3UrQl47Nu1Z49igPNAZhhjh04Z+SNbTA95whIh6oRKzztrMOXQ\njO6TyAF78ydIG39QQzGnkKhZJH6Q8lvaThgxl2KG9mbiGiULl3RgucffxqJGATuP\nf/YwuhvsOZCu1d9j5yGL8W/A76KK2aax97qn3eT90gGdRk6WaZqqHn77w0kNmRtr\nvExS1nW24RXOGtyh5XJINUay4PKIOLwqgVYWoyZaRh2ptUIfsw+qb67hN5r5sOhr\nb8xFLb1o+0fwt2nA8wapPbR71MiJrNaHGhvSMmmHNEKhROoalRRTfFNMAhNpC7lF\noBIae0aykYqO4yAmnZ6xJhzbAgzktE7j/CJn2plunfz8nSnNzwN6tqYkxBHh+LwL\n1J7PP422IUCO0H9BI5w2APdkktkBy2h6rUjvqaIJzwbLe+u0fOy5yowhxr4AdCDv\nF5DUvTdyHKha8B+lWmcYGeTvnTBSvv+uZFJc12qsihlEliH/uqNyhswCGaDG7S38\nvI8DI40oAiC9WQLx8C4FWyQtH/lwaDH7z4WpVxBs/xh1UKK0PrfS+BGtejJ3Hvb0\nF1l5fOWjMDSfbK8sqsYh\n=NvBD\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 27dfb967ed3c009e96d96214c7597d53f9804ed7\ntype commit\ntag 2.0.6\ntagger Matthieu Monsch <monsch@alum.mit.edu> 1463188884 -0700\n\nFix double quoting of special characters when walking directories.\n"
+  }
+}

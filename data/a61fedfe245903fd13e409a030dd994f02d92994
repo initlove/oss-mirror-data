@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YTYxZmVkZmUyNDU5MDNmZDEzZTQwOWEwMzBkZDk5NGYwMmQ5Mjk5NA==",
+  "sha": "a61fedfe245903fd13e409a030dd994f02d92994",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/a61fedfe245903fd13e409a030dd994f02d92994",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-02-17T21:17:04Z"
+  },
+  "object": {
+    "sha": "1eb1fe32250fc88cb5b0a97cddf3e02be02e3f4a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/1eb1fe32250fc88cb5b0a97cddf3e02be02e3f4a"
+  },
+  "tag": "v0.6.11",
+  "message": "2012.02.17 Version 0.6.11 (stable)\n\n* http: allow multiple WebSocket RFC6455 headers (Einar Otto Stangvik)\n\n* http: allow multiple WWW-Authenticate headers (Ben Noordhuis)\n\n* windows: support unicode argv and environment variables (Bert Belder)\n\n* tls: mitigate session renegotiation attacks (Ben Noordhuis)\n\n* tcp, pipe: don't assert on uv_accept() errors (Ben Noordhuis)\n\n* tls: Allow establishing secure connection on the existing socket (koichik)\n\n* dgram: handle close of dgram socket before DNS lookup completes (Seth Fitzsimmons)\n\n* windows: Support half-duplex pipes (Igor Zinkovsky)\n\n* build: disable omit-frame-pointer on solaris systems (Dave Pacheco)\n\n* debugger: fix --debug-brk (Ben Noordhuis)\n\n* net: fix large file downloads failing (koichik)\n\n* fs: fix ReadStream failure to read from existing fd (Christopher Jeffrey)\n\n* net: destroy socket on DNS error (Stefan Rusu)\n\n* dtrace: add missing translator (Dave Pacheco)\n\n* unix: don't flush tty on switch to raw mode (Ben Noordhuis)\n\n* windows: reset brightness when reverting to default text color (Bert Belder)\n\n* npm: update to 1.1.1\n  - Update which, fstream, mkdirp, request, and rimraf\n  - Fix #2123 Set path properly for lifecycle scripts on windows\n  - Mark the root as seen, so we don't recurse into it. Fixes #1838. (Martin Cooper)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPPsPsAAoJELCniwpsSBz2vTIH/A5DRiuSmbDshkaeSn9y6tAh\nXhwfij600HjREqS2YLVh/unzv+0lHPLstB54JEW6mJfI2EBjrerfzftQ3KGPr6/9\nZkGw/FYshWnXg2Pz3HEHf6q71MQKOD4XujqGnAOuAs71aIHc3asOMZ0vfunzXsYl\nNS97d1o+pIw/DzbSuBNzGIoDZvLeVJ29wQ3KUE0sCCxOKrU18xcie5lQxlEiGOcE\nBYKGeOApapdHexbxuTUMQYvFNzUZCvIJV0AV4f+O9uMw1P3z7BlFsahmqFHpe9P+\ngFeWlXKLGBc7OconbVMG5Imk07H47LBTeigg4WP6pUC1P1yTcUgO1PtoBZg86xU=\n=37OL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPPsPsAAoJELCniwpsSBz2vTIH/A5DRiuSmbDshkaeSn9y6tAh\nXhwfij600HjREqS2YLVh/unzv+0lHPLstB54JEW6mJfI2EBjrerfzftQ3KGPr6/9\nZkGw/FYshWnXg2Pz3HEHf6q71MQKOD4XujqGnAOuAs71aIHc3asOMZ0vfunzXsYl\nNS97d1o+pIw/DzbSuBNzGIoDZvLeVJ29wQ3KUE0sCCxOKrU18xcie5lQxlEiGOcE\nBYKGeOApapdHexbxuTUMQYvFNzUZCvIJV0AV4f+O9uMw1P3z7BlFsahmqFHpe9P+\ngFeWlXKLGBc7OconbVMG5Imk07H47LBTeigg4WP6pUC1P1yTcUgO1PtoBZg86xU=\n=37OL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1eb1fe32250fc88cb5b0a97cddf3e02be02e3f4a\ntype commit\ntag v0.6.11\ntagger isaacs <i@izs.me> 1329513424 -0800\n\n2012.02.17 Version 0.6.11 (stable)\n\n* http: allow multiple WebSocket RFC6455 headers (Einar Otto Stangvik)\n\n* http: allow multiple WWW-Authenticate headers (Ben Noordhuis)\n\n* windows: support unicode argv and environment variables (Bert Belder)\n\n* tls: mitigate session renegotiation attacks (Ben Noordhuis)\n\n* tcp, pipe: don't assert on uv_accept() errors (Ben Noordhuis)\n\n* tls: Allow establishing secure connection on the existing socket (koichik)\n\n* dgram: handle close of dgram socket before DNS lookup completes (Seth Fitzsimmons)\n\n* windows: Support half-duplex pipes (Igor Zinkovsky)\n\n* build: disable omit-frame-pointer on solaris systems (Dave Pacheco)\n\n* debugger: fix --debug-brk (Ben Noordhuis)\n\n* net: fix large file downloads failing (koichik)\n\n* fs: fix ReadStream failure to read from existing fd (Christopher Jeffrey)\n\n* net: destroy socket on DNS error (Stefan Rusu)\n\n* dtrace: add missing translator (Dave Pacheco)\n\n* unix: don't flush tty on switch to raw mode (Ben Noordhuis)\n\n* windows: reset brightness when reverting to default text color (Bert Belder)\n\n* npm: update to 1.1.1\n  - Update which, fstream, mkdirp, request, and rimraf\n  - Fix #2123 Set path properly for lifecycle scripts on windows\n  - Mark the root as seen, so we don't recurse into it. Fixes #1838. (Martin Cooper)\n"
+  }
+}

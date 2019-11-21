@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6ZGM3ZjdlYzlkNDZmYThlZjJiOTA4ZmRjYzE0OGU4NjRlZmIxZWRiNw==",
+  "sha": "dc7f7ec9d46fa8ef2b908fdcc148e864efb1edb7",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/dc7f7ec9d46fa8ef2b908fdcc148e864efb1edb7",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-08-02T15:17:15Z"
+  },
+  "object": {
+    "sha": "a7e1586daeb873988a72e22ff7578268f8d2bda2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/a7e1586daeb873988a72e22ff7578268f8d2bda2"
+  },
+  "tag": "v3.0.81",
+  "message": "MooseFS 3.0.81\n\n * (mount) fixed oom killer disabling (setting oom_adj and oom_score_adj)\n * (cli) fixed displaying inactive mounts\n * (mount) added fsync before removing any locks\n * (daemons) added disabling oom killer (Linux only)\n * (all) small fixes in manpages\n * (mount) fixed handling nonblocking lock commands (unlock and try) in both locking mechanisms\n * (daemons+mount) changed default settings for limiting malloc arenas (Linux only)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6Yzg3ZTY0MTJmZjJkY2Q2OGE1MmNkOWM4Njc0OTJhNGJjODhiY2M0YQ==",
+  "sha": "c87e6412ff2dcd68a52cd9c867492a4bc88bcc4a",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/c87e6412ff2dcd68a52cd9c867492a4bc88bcc4a",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-01-11T19:22:51Z"
+  },
+  "object": {
+    "sha": "9313fdc71ca8335d5e3a391c103230ee6219b3e2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/9313fdc71ca8335d5e3a391c103230ee6219b3e2"
+  },
+  "tag": "v0.9.6",
+  "message": "2013.01.11, Version 0.9.6 (Unstable)\n\n* V8: update to 3.15.11.5\n\n* node: remove ev-emul.h (Ben Noordhuis)\n\n* path: make basename and extname ignore trailing slashes (Bert Belder)\n\n* typed arrays: fix sunos signed/unsigned char issue (Ben Noordhuis)\n\n* child_process: Fix {stdio:'inherit'} regression (Ben Noordhuis)\n\n* child_process: Fix pipe() from child stdio streams  (Maciej Małecki)\n\n* child_process: make fork() execPath configurable (Bradley Meck)\n\n* stream: Add readable.push(chunk) method (isaacs)\n\n* dtrace: x64 ustack helper (Fedor Indutny)\n\n* repl: fix floating point number parsing (Nirk Niggler)\n\n* repl: allow overriding builtins (Ben Noordhuis)\n\n* net: add localAddress and localPort to Socket (James Hight)\n\n* fs: make pool size coincide with ReadStream bufferSize (Shigeki Ohtsu)\n\n* typed arrays: implement load and store swizzling (Dean McNamee)\n\n* windows: fix perfctr crash on XP and 2003 (Scott Blomquist)\n\n* dgram: fix double implicit bind error (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQ8GaLAAoJELCniwpsSBz2PUMH/ikkWASfYTG7fj1PTmzwyn9m\nhIxAD8Gkk9qn0otL9RlN4l1Qa/v21iRKEwNfIGHgh+YK7oWNkW21aoz3WW2bcLnf\ns02wuoeU9JigbDrgin4TXuPNF7z1kUzkoyOeCgNNQuu8u8aBGZEh/bS/MmVR5EWp\n+n6Qt8VrAegl73uetd+aMCC2WFf6m2TYC9OhOCLxtVsXXwQIzfff5gXAf6Z0F2kL\n8FxvBv9ND7CUhcc6BtNqf4CU8aGGHWRWK56OrB3d3MNWv2R8guEY54DS+wbb2bcj\nw4PrGnBSYYKO9b2y7ffb6TkOD8mR4ex3K+LOoGbG8ymAQKqveFPzGk12RHChhbs=\n=R7Qk\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQ8GaLAAoJELCniwpsSBz2PUMH/ikkWASfYTG7fj1PTmzwyn9m\nhIxAD8Gkk9qn0otL9RlN4l1Qa/v21iRKEwNfIGHgh+YK7oWNkW21aoz3WW2bcLnf\ns02wuoeU9JigbDrgin4TXuPNF7z1kUzkoyOeCgNNQuu8u8aBGZEh/bS/MmVR5EWp\n+n6Qt8VrAegl73uetd+aMCC2WFf6m2TYC9OhOCLxtVsXXwQIzfff5gXAf6Z0F2kL\n8FxvBv9ND7CUhcc6BtNqf4CU8aGGHWRWK56OrB3d3MNWv2R8guEY54DS+wbb2bcj\nw4PrGnBSYYKO9b2y7ffb6TkOD8mR4ex3K+LOoGbG8ymAQKqveFPzGk12RHChhbs=\n=R7Qk\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9313fdc71ca8335d5e3a391c103230ee6219b3e2\ntype commit\ntag v0.9.6\ntagger isaacs <i@izs.me> 1357932171 -0800\n\n2013.01.11, Version 0.9.6 (Unstable)\n\n* V8: update to 3.15.11.5\n\n* node: remove ev-emul.h (Ben Noordhuis)\n\n* path: make basename and extname ignore trailing slashes (Bert Belder)\n\n* typed arrays: fix sunos signed/unsigned char issue (Ben Noordhuis)\n\n* child_process: Fix {stdio:'inherit'} regression (Ben Noordhuis)\n\n* child_process: Fix pipe() from child stdio streams  (Maciej Małecki)\n\n* child_process: make fork() execPath configurable (Bradley Meck)\n\n* stream: Add readable.push(chunk) method (isaacs)\n\n* dtrace: x64 ustack helper (Fedor Indutny)\n\n* repl: fix floating point number parsing (Nirk Niggler)\n\n* repl: allow overriding builtins (Ben Noordhuis)\n\n* net: add localAddress and localPort to Socket (James Hight)\n\n* fs: make pool size coincide with ReadStream bufferSize (Shigeki Ohtsu)\n\n* typed arrays: implement load and store swizzling (Dean McNamee)\n\n* windows: fix perfctr crash on XP and 2003 (Scott Blomquist)\n\n* dgram: fix double implicit bind error (Ben Noordhuis)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6M2YwNDU4MmU4Y2FiYTkwNjJjMDNhM2ExMDU4ZDgxYTAxYjc5NDVkMw==",
+  "sha": "3f04582e8caba9062c03a3a1058d81a01b7945d3",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/3f04582e8caba9062c03a3a1058d81a01b7945d3",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T15:08:39Z"
+  },
+  "object": {
+    "sha": "4f0e7d31aaa958038af5d9a09503987faf36b1bf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/4f0e7d31aaa958038af5d9a09503987faf36b1bf"
+  },
+  "tag": "v3.0.57",
+  "message": "MooseFS 3.0.57-1\n\n * (metalogger) added 1 second timeout when connecting to master\n * (systemd) fixed typo in mfscgiserv service file\n * (macosx) fixed packages to be compatible with OS X 10.11+\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

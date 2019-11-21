@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6NzJkMzIxZThkMjI4ZDE3ZDIzNWY2ODdhMjNlZGQyY2IwOGYzOTgwMw==",
+  "sha": "72d321e8d228d17d235f687a23edd2cb08f39803",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/72d321e8d228d17d235f687a23edd2cb08f39803",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-01-27T16:04:25Z"
+  },
+  "object": {
+    "sha": "8c0cde91782ab06f39055bb38d22a0690a7edea5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/8c0cde91782ab06f39055bb38d22a0690a7edea5"
+  },
+  "tag": "v2.0.80",
+  "message": " * (cs,master,metalogger) added 1 second timeout when connecting to master\n * (cs) force disconnection from master couple seconds after term signal (frozen I/O threads can prevent CS from termination)\n * (systemd) fixed typo in mfscgiserv service file\n * (macosx) fixed packages to be compatible with OS X 10.11+\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

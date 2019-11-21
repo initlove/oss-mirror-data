@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZGQwOGI5N2I3NjU4MWNjMDkyYjQzYTRlMGMwOTI3NzI3YjQzMzhkNw==",
+  "sha": "dd08b97b76581cc092b43a4e0c0927727b4338d7",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/dd08b97b76581cc092b43a4e0c0927727b4338d7",
+  "tagger": {
+    "name": "Julien Gilli",
+    "email": "julien.gilli@joyent.com",
+    "date": "2015-05-14T03:39:30Z"
+  },
+  "object": {
+    "sha": "03431c7d7b4b4a3054ca8ae2cfa8009e3e84a2c7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/03431c7d7b4b4a3054ca8ae2cfa8009e3e84a2c7"
+  },
+  "tag": "v0.12.3",
+  "message": "2015.05.13, Version 0.12.3 (Stable)\n\n* V8: update to 3.28.71.19\n\n* uv: upgrade to 1.5.0\n\n* npm: upgrade to 2.9.1\n\n* V8: don't busy loop in v8 cpu profiler thread (Mike Tunnicliffe)\n\n* V8: fix issue with let bindings in for loops (adamk)\n\n* debugger: don't spawn child process in remote mode (Jackson Tian)\n\n* net: do not set V4MAPPED on FreeBSD (Julien Gilli)\n\n* repl: make 'Unexpected token' errors recoverable (Julien Gilli)\n\n* src: backport ignore ENOTCONN on shutdown race (Ben Noordhuis)\n\n* src: fix backport of SIGINT crash fix on FreeBSD (Julien Gilli)\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJVVBjzAAoJEFCjBR+IjGKNbNYP/RnezwGNZEAcIA9b/eG2hNUB\nsSvklLxJ4qDpAR+6H1+zEyCI1fsgLfs2LtQ6TIoMCAf5iCd1DRHJ5Z7aN9fGtRzg\neFHMCsCGB6sAyFTkm4lK2kYp+zRH5cT3czlt7oaN+T002n+4kv3CY/eBZpEM2G9b\nLhL8fkicHrt25hVGKNAjgRWJz0N3807aVMcbMeYbkQ7oNNrl8Kc6w0yQbgr7djKU\nG5guFgmrkhycAnC0hrH9JObkPAfGFM+lrxwVT//W+FKnMltY0s7kvqqzJwEcTUeH\n+sIwKLEpLnOUVOBn4xKbbruv1bj+qOIb5drzMHqY59gCaP4T/j906Rnpq2Sdftr7\nyHF7d6K5iWOwEPx8dgsjnt5jdZ9LnM16KgpRdUcrjhvbrt0mE7IOeUr+XrOPsNk5\nv9HcKYZlsoGcQvVdgdX+HmzRFucriSu5tQwDWWlFZSGq0ID/tg8bX5OvvjSUT92E\nCW/OymlmPETCaDmpR3oGjCNa4ltqcD0oCEjBspu53mc9jFoyw338XKI9FGhrfH6i\nV3XdvD9lngmmJJ1rD5vz65l1uCL/IFeBmV7vOzgoIIZPVBBAYmnUmFxL7HAsXEiL\nWO5co5TRAFrzcJn4CAL3bFpkmcv0BT8PKDs+HXgGqzAjC4Fmm67rohD41i/qHMyK\n5xfL4ES2MVWPoG5zPGqR\n=XMVh\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJVVBjzAAoJEFCjBR+IjGKNbNYP/RnezwGNZEAcIA9b/eG2hNUB\nsSvklLxJ4qDpAR+6H1+zEyCI1fsgLfs2LtQ6TIoMCAf5iCd1DRHJ5Z7aN9fGtRzg\neFHMCsCGB6sAyFTkm4lK2kYp+zRH5cT3czlt7oaN+T002n+4kv3CY/eBZpEM2G9b\nLhL8fkicHrt25hVGKNAjgRWJz0N3807aVMcbMeYbkQ7oNNrl8Kc6w0yQbgr7djKU\nG5guFgmrkhycAnC0hrH9JObkPAfGFM+lrxwVT//W+FKnMltY0s7kvqqzJwEcTUeH\n+sIwKLEpLnOUVOBn4xKbbruv1bj+qOIb5drzMHqY59gCaP4T/j906Rnpq2Sdftr7\nyHF7d6K5iWOwEPx8dgsjnt5jdZ9LnM16KgpRdUcrjhvbrt0mE7IOeUr+XrOPsNk5\nv9HcKYZlsoGcQvVdgdX+HmzRFucriSu5tQwDWWlFZSGq0ID/tg8bX5OvvjSUT92E\nCW/OymlmPETCaDmpR3oGjCNa4ltqcD0oCEjBspu53mc9jFoyw338XKI9FGhrfH6i\nV3XdvD9lngmmJJ1rD5vz65l1uCL/IFeBmV7vOzgoIIZPVBBAYmnUmFxL7HAsXEiL\nWO5co5TRAFrzcJn4CAL3bFpkmcv0BT8PKDs+HXgGqzAjC4Fmm67rohD41i/qHMyK\n5xfL4ES2MVWPoG5zPGqR\n=XMVh\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 03431c7d7b4b4a3054ca8ae2cfa8009e3e84a2c7\ntype commit\ntag v0.12.3\ntagger Julien Gilli <julien.gilli@joyent.com> 1431574770 -0700\n\n2015.05.13, Version 0.12.3 (Stable)\n\n* V8: update to 3.28.71.19\n\n* uv: upgrade to 1.5.0\n\n* npm: upgrade to 2.9.1\n\n* V8: don't busy loop in v8 cpu profiler thread (Mike Tunnicliffe)\n\n* V8: fix issue with let bindings in for loops (adamk)\n\n* debugger: don't spawn child process in remote mode (Jackson Tian)\n\n* net: do not set V4MAPPED on FreeBSD (Julien Gilli)\n\n* repl: make 'Unexpected token' errors recoverable (Julien Gilli)\n\n* src: backport ignore ENOTCONN on shutdown race (Ben Noordhuis)\n\n* src: fix backport of SIGINT crash fix on FreeBSD (Julien Gilli)\n"
+  }
+}

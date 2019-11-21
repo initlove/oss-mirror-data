@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6Y2I5ZjNmMGFlMWVhZDE2ZTVhMDUxMjY2ZjJjMGFiN2U2ZDIxMGU3NQ==",
+  "sha": "cb9f3f0ae1ead16e5a051266f2c0ab7e6d210e75",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/cb9f3f0ae1ead16e5a051266f2c0ab7e6d210e75",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T15:11:23Z"
+  },
+  "object": {
+    "sha": "0c242ae4f0c864463112b5e3104c5c971a0b83fb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/0c242ae4f0c864463112b5e3104c5c971a0b83fb"
+  },
+  "tag": "v3.0.65",
+  "message": "MooseFS 3.0.65-1\n\n * (master+cs) added minimal version for master supervisors in chunkservers (pro version only)\n * (cs) chunkserver can be started with empty mfshdd.cfg and work as a voter (pro version only)\n * (master) mfsrmsnapshot will remove files without using trash\n * (master+cs) added optional authorization\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

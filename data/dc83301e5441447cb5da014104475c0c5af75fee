@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZGM4MzMwMWU1NDQxNDQ3Y2I1ZGEwMTQxMDQ0NzVjMGM1YWY3NWZlZQ==",
+  "sha": "dc83301e5441447cb5da014104475c0c5af75fee",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/dc83301e5441447cb5da014104475c0c5af75fee",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-09-25T22:32:18Z"
+  },
+  "object": {
+    "sha": "0bc273da4fcaa79b209ed755ad249a3e7be626a6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/0bc273da4fcaa79b209ed755ad249a3e7be626a6"
+  },
+  "tag": "v0.8.10",
+  "message": "2012.09.25, Version 0.8.10 (Stable)\n\n* npm: Upgrade to 1.1.62\n\n* repl: make invalid RegExps throw in the REPL (Nathan Rajlich)\n\n* v8: loosen artificial mmap constraint (Bryan Cantrill)\n\n* process: fix setuid() and setgid() error reporting (Ben Noordhuis)\n\n* domain: Properly exit() on domain disposal (isaacs)\n\n* fs: fix watchFile() missing deletion events (Ben Noordhuis)\n\n* fs: fix assert in fs.watch() (Ben Noordhuis)\n\n* fs: don't segfault on deeply recursive stat() (Ben Noordhuis)\n\n* http: Remove timeout handler when data arrives (Frédéric Germain)\n\n* http: make the client \"res\" object gets the same domain as \"req\" (Nathan Rajlich)\n\n* windows: don't blow up when an invalid FD is used (Bert Belder)\n\n* unix: map EDQUOT to UV_ENOSPC (Charlie McConnell)\n\n* linux: improve /proc/cpuinfo parser (Ben Noordhuis)\n\n* win/tty: reset background brightness when color is set to default (Bert Belder)\n\n* unix: put child process stdio fds in blocking mode (Ben Noordhuis)\n\n* unix: fix EMFILE busy loop (Ben Noordhuis)\n\n* sunos: don't set TCP_KEEPALIVE (Ben Noordhuis)\n\n* tls: Use slab allocator for memory management (Fedor Indutny)\n\n* openssl: Use optimized assembly code for x86 and x64 (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQYjDyAAoJELCniwpsSBz2ufYH+QFqrQ6F7QOsX0Xu88T3hRr4\njjHRQpgO92Gp1Bi+15Gti83AWkoVF8zs1+gNoo2zAy+R4/kHIWVOS5k+1IzLLS69\ngxqs1KrJ3ZhSsXl1PQKsQBnPKK8tpa9GjiH0aFwvIIQFvhUbRsk+QMZXGOjJn5g2\ngLHY+Q3d+lRmiO8jsNa8JCl1RWSAuJt01NIjtHlJ/vV+qXzwnDKvjSFdIW/4YUxy\nJsItvvkQ0BRUKPJtxfT+fuWlrsFNsnSncWgHGRCQwhGNwTlQrhpEm8MUuz+1OpWz\n2fu8VfIhmBKG2jPmHPWrWcAXQc+b9Lur+f/sAadNwxP2FU28/3CfdHpeX9fJZDw=\n=lIfT\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQYjDyAAoJELCniwpsSBz2ufYH+QFqrQ6F7QOsX0Xu88T3hRr4\njjHRQpgO92Gp1Bi+15Gti83AWkoVF8zs1+gNoo2zAy+R4/kHIWVOS5k+1IzLLS69\ngxqs1KrJ3ZhSsXl1PQKsQBnPKK8tpa9GjiH0aFwvIIQFvhUbRsk+QMZXGOjJn5g2\ngLHY+Q3d+lRmiO8jsNa8JCl1RWSAuJt01NIjtHlJ/vV+qXzwnDKvjSFdIW/4YUxy\nJsItvvkQ0BRUKPJtxfT+fuWlrsFNsnSncWgHGRCQwhGNwTlQrhpEm8MUuz+1OpWz\n2fu8VfIhmBKG2jPmHPWrWcAXQc+b9Lur+f/sAadNwxP2FU28/3CfdHpeX9fJZDw=\n=lIfT\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0bc273da4fcaa79b209ed755ad249a3e7be626a6\ntype commit\ntag v0.8.10\ntagger isaacs <i@izs.me> 1348612338 -0700\n\n2012.09.25, Version 0.8.10 (Stable)\n\n* npm: Upgrade to 1.1.62\n\n* repl: make invalid RegExps throw in the REPL (Nathan Rajlich)\n\n* v8: loosen artificial mmap constraint (Bryan Cantrill)\n\n* process: fix setuid() and setgid() error reporting (Ben Noordhuis)\n\n* domain: Properly exit() on domain disposal (isaacs)\n\n* fs: fix watchFile() missing deletion events (Ben Noordhuis)\n\n* fs: fix assert in fs.watch() (Ben Noordhuis)\n\n* fs: don't segfault on deeply recursive stat() (Ben Noordhuis)\n\n* http: Remove timeout handler when data arrives (Frédéric Germain)\n\n* http: make the client \"res\" object gets the same domain as \"req\" (Nathan Rajlich)\n\n* windows: don't blow up when an invalid FD is used (Bert Belder)\n\n* unix: map EDQUOT to UV_ENOSPC (Charlie McConnell)\n\n* linux: improve /proc/cpuinfo parser (Ben Noordhuis)\n\n* win/tty: reset background brightness when color is set to default (Bert Belder)\n\n* unix: put child process stdio fds in blocking mode (Ben Noordhuis)\n\n* unix: fix EMFILE busy loop (Ben Noordhuis)\n\n* sunos: don't set TCP_KEEPALIVE (Ben Noordhuis)\n\n* tls: Use slab allocator for memory management (Fedor Indutny)\n\n* openssl: Use optimized assembly code for x86 and x64 (Bert Belder)\n"
+  }
+}

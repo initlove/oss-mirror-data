@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ODVlMGM0YjI0ZGIwOTZlODU2M2ExNGZkZmQxNjcwYjVlMjAxZWRkYg==",
+  "sha": "85e0c4b24db096e8563a14fdfd1670b5e201eddb",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/85e0c4b24db096e8563a14fdfd1670b5e201eddb",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-10-23T19:12:30Z"
+  },
+  "object": {
+    "sha": "8d045a30e95602b443eb259a5021d33feb4df079",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/8d045a30e95602b443eb259a5021d33feb4df079"
+  },
+  "tag": "v0.10.33",
+  "message": "2014.10.20, Version 0.10.33 (Stable)\n\n* openssl: Update to 1.0.1j (Addressing multiple CVEs)\n\n* uv: Update to v0.10.29\n\n* child_process: properly support optional args (cjihrig)\n\n* crypto: Disable autonegotiation for SSLv2/3 by default (Fedor Indutny,\nTimothy J Fontaine, Alexis Campailla)\n\nThis is a behavior change, by default we will not allow the negotiation to\nSSLv2 or SSLv3. If you want this behavior, run Node.js with either\n`--enable-ssl2` or `--enable-ssl3` respectively.\n\nThis does not change the behavior for users specifically requesting\n`SSLv2_method` or `SSLv3_method`. While this behavior is not advised, it is\nassumed you know what you're doing since you're specifically asking to use\nthese methods.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlRJUx4ACgkQfTP/nQJGQG3Y7wCgoxt4rPkYFt/DnPOdpLLOghCR\nNjIAoM4X7fMbFQtGgpATLXK23pUFoznL\n=dH1Z\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlRJUx4ACgkQfTP/nQJGQG3Y7wCgoxt4rPkYFt/DnPOdpLLOghCR\nNjIAoM4X7fMbFQtGgpATLXK23pUFoznL\n=dH1Z\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8d045a30e95602b443eb259a5021d33feb4df079\ntype commit\ntag v0.10.33\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1414091550 -0700\n\n2014.10.20, Version 0.10.33 (Stable)\n\n* openssl: Update to 1.0.1j (Addressing multiple CVEs)\n\n* uv: Update to v0.10.29\n\n* child_process: properly support optional args (cjihrig)\n\n* crypto: Disable autonegotiation for SSLv2/3 by default (Fedor Indutny,\nTimothy J Fontaine, Alexis Campailla)\n\nThis is a behavior change, by default we will not allow the negotiation to\nSSLv2 or SSLv3. If you want this behavior, run Node.js with either\n`--enable-ssl2` or `--enable-ssl3` respectively.\n\nThis does not change the behavior for users specifically requesting\n`SSLv2_method` or `SSLv3_method`. While this behavior is not advised, it is\nassumed you know what you're doing since you're specifically asking to use\nthese methods.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6Y2RjOTVjNDhkNTRjMzViYmNmMTA2Y2I3YWFhYzQ0ZmEwNDExNTliOA==",
+  "sha": "cdc95c48d54c35bbcf106cb7aaac44fa041159b8",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/cdc95c48d54c35bbcf106cb7aaac44fa041159b8",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-11-17T05:36:29Z"
+  },
+  "object": {
+    "sha": "ce9a54aa1fbf709dd30316af8a2f14d83150e947",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/ce9a54aa1fbf709dd30316af8a2f14d83150e947"
+  },
+  "tag": "v0.3.1",
+  "message": "2010.11.16, Version 0.3.1 (unstable)\n\n* TLS improvments (Paul Querna)\n  - Centralize error handling in SecureStream\n  - Add SecurePair for handling of a ssl/tls stream.\n\n* New documentation organization (Micheil Smith)\n\n* allowHalfOpen TCP connections disabled by default.\n\n* Add C++ API for constructing fast buffer from string\n\n* Move idle timers into its own module\n\n* Gracefully handle EMFILE and server.maxConnections\n\n* make \"node --eval\" eval in the global scope.\n  (Jorge Chamorro Bieling)\n\n* Let exit listeners know the exit code (isaacs)\n\n* Handle cyclic links smarter in fs.realpath (isaacs)\n\n* Remove node-repl (just use 'node' without args)\n\n* Rewrite libeio After callback to use req->result instead of req->errorno\n  for error checking (Micheil Smith)\n\n* Remove warning about deprecating 'sys' - too aggressive\n\n* Make writes to process.env update the real environment. (Ben Noordhuis)\n\n* Set FD_CLOEXEC flag on stdio FDs before spawning. (Guillaume Tuton)\n\n* Move ev_loop out of javascript\n\n* Switch \\n with \\r\\n for all strings printed out.\n\n* Added support for cross compilation (Rasmus Andersson)\n\n* Add --profile flag to configure script, enables gprof profiling.\n  (Ben Noordhuis)\n\n* writeFileSync could exhibit pathological behavior when a buffer\n  could not be written to the file in a single write() call.\n\n* new path.join behavior (isaacs)\n  - Express desired path.join behavior in tests.\n  - Update fs.realpath to reflect new path.join behavior\n  - Update url.resolve() to use new path.join behavior.\n\n* API: Move process.binding('evals') to require('vm')\n\n* Fix V8 build on Cygwin (Bert Belder)\n\n* Add ref to buffer during fs.write and fs.read\n\n* Fix segfault on test-crypto\n\n* Upgrade http-parser to latest and V8 to 2.5.3\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

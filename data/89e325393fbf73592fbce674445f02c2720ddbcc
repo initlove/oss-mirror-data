@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6ODllMzI1MzkzZmJmNzM1OTJmYmNlNjc0NDQ1ZjAyYzI3MjBkZGJjYw==",
+  "sha": "89e325393fbf73592fbce674445f02c2720ddbcc",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/89e325393fbf73592fbce674445f02c2720ddbcc",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-01-27T16:05:40Z"
+  },
+  "object": {
+    "sha": "701289a21aeba1b3b1f5ba533c682da89e70e76d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/701289a21aeba1b3b1f5ba533c682da89e70e76d"
+  },
+  "tag": "v2.0.83",
+  "message": " * (mount) use direct I/O as a default mode on FreeBSD and Mac OS X (due to keep_cache bug in kernel/fuse)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

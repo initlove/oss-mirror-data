@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6MDRlODY0ZTAwOTY1OTY4OTZmNzVjMDU0NTgwMjk2MjgwOTY5ODJjYg==",
+  "sha": "04e864e0096596896f75c05458029628096982cb",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/04e864e0096596896f75c05458029628096982cb",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-07-15T14:05:15Z"
+  },
+  "object": {
+    "sha": "da1f523746c7ab2c4304695278e645a83564a1c2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/da1f523746c7ab2c4304695278e645a83564a1c2"
+  },
+  "tag": "v3.0.80",
+  "message": "MooseFS 3.0.80\n\n * (master) fixed chunk loop (in some cases chunks from the last hash position might be left unchecked)\n * (master) fixed storage class management (fixed has_***_labels fields)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

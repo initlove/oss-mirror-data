@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjA1ODA0OTg6MmM2YWFlZDlhYzBiYjNjYzg0NWM2NzViOGZhNmVmMDE0ZjAyODMzZA==",
+  "sha": "2c6aaed9ac0bb3cc845c675b8fa6ef014f02833d",
+  "url": "https://api.github.com/repos/kubernetes/kubernetes/git/tags/2c6aaed9ac0bb3cc845c675b8fa6ef014f02833d",
+  "tagger": {
+    "name": "Joe Beda",
+    "email": "joe.github@bedafamily.com",
+    "date": "2014-10-29T17:08:36Z"
+  },
+  "object": {
+    "sha": "2902951c445da6e6ead9e406b3c8e19bc28c2b4a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/kubernetes/kubernetes/git/commits/2902951c445da6e6ead9e406b3c8e19bc28c2b4a"
+  },
+  "tag": "v0.4.2",
+  "message": "Version 0.4.2\n\n* Garbage collection of stopped containers\n* Automatic security updates in salt config for Debian based systems\n* Misc build/compat issues with Vagrant and boot2docker\n* Rackspace/CoreOS support for binary releases\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

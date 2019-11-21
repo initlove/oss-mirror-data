@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6MTJlMWY0MDNjNDliZTllNWI0NGJmYjdmZDkyYjFjYTlmNDQzZmZkYg==",
+  "sha": "12e1f403c49be9e5b44bfb7fd92b1ca9f443ffdb",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/12e1f403c49be9e5b44bfb7fd92b1ca9f443ffdb",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T15:14:41Z"
+  },
+  "object": {
+    "sha": "94c06443f62bcdd401a7ae461dcbc91874cf7933",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/94c06443f62bcdd401a7ae461dcbc91874cf7933"
+  },
+  "tag": "v3.0.68",
+  "message": "MooseFS 3.0.68-1\n\n * (cgi+cli) fixed UNKNOWN state for \"marked for removal\" readiness\n * (mount) added protection from releasing inode memory too early in reading module\n * (mount) use direct I/O as a default mode on Mac OS X (due to keep_cache bug in kernel/fuse)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6OTM2YmNmMzE4MzZiNTNlNTFiMTFhYzdhZmFmZjBiOTU4OWQyNWRiNg==",
+  "sha": "936bcf31836b53e51b11ac7afaff0b9589d25db6",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/936bcf31836b53e51b11ac7afaff0b9589d25db6",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-06-11T19:58:50Z"
+  },
+  "object": {
+    "sha": "10d8adb08933d1d4cea60192c2a31c56d896733d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/10d8adb08933d1d4cea60192c2a31c56d896733d"
+  },
+  "tag": "v0.1.98",
+  "message": "2010.06.11, Version 0.1.98\n\n* Port to Windows/Cygwin (Raffaele Sena)\n\n* File descriptor passing on unix sockets. (Peter Griess)\n\n* Simple, builtin readline library. REPL is now entered by\n  executing \"node\" without arguments.\n\n* Add a parameter to spawn() that sets the child's stdio file\n  descriptors.\n\n* Upgrade V8 to 2.2.16, http-parser fixes, upgrade c-ares to 1.7.3.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

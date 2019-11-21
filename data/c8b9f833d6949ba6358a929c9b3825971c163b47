@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YzhiOWY4MzNkNjk0OWJhNjM1OGE5MjljOWIzODI1OTcxYzE2M2I0Nw==",
+  "sha": "c8b9f833d6949ba6358a929c9b3825971c163b47",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/c8b9f833d6949ba6358a929c9b3825971c163b47",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-03-28T20:00:45Z"
+  },
+  "object": {
+    "sha": "1e0de9c426e07a260bbec2d2196c2d2db8eb8886",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/1e0de9c426e07a260bbec2d2196c2d2db8eb8886"
+  },
+  "tag": "v0.10.2",
+  "message": "2013.03.28, Version 0.10.2 (Stable)\n\n* npm: Upgrade to 1.2.15\n\n* uv: Upgrade to 0.10.3\n\n* tls: handle SSL_ERROR_ZERO_RETURN (Fedor Indutny)\n\n* tls: handle errors before calling C++ methods (Fedor Indutny)\n\n* tls: remove harmful unnecessary bounds checking (Marcel Laverdet)\n\n* crypto: make getCiphers() return non-SSL ciphers (Ben Noordhuis)\n\n* crypto: check randomBytes() size argument (Ben Noordhuis)\n\n* timers: do not calculate Timeout._when property (Alexey Kupershtokh)\n\n* timers: fix off-by-one ms error (Alexey Kupershtokh)\n\n* timers: handle signed int32 overflow in enroll() (Fedor Indutny)\n\n* stream: Fix stall in Transform under very specific conditions (Gil Pedersen)\n\n* stream: Handle late 'readable' event listeners (isaacs)\n\n* stream: Fix early end in Writables on zero-length writes (isaacs)\n\n* domain: fix domain callback from MakeCallback (Trevor Norris)\n\n* child_process: don't emit same handle twice (Ben Noordhuis)\n\n* child_process: fix sending utf-8 to child process (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRVKFtAAoJELCniwpsSBz2M+EH/i604uZoUYYcmzDmWmjvZRlA\nQTozJsbCxNPB2Tks3JngBKPdNxBJdn7KHzURq+z1KFRFvzjRLjJXLB/x/Wsy9ZZa\nenZLM7jksW65et1OlnI1e04lZRdP+ZrC83HLUWf1sk7BVuNDeI52uFBe1JdpvbJo\nzP9VndlwKvUSj+kOUX3qU5AGWVGxU8dEoMU3eUer9VPaWRHB+nThQxlRHXBe3M0s\nmKle4z++UB7WEyJZ5dNCqV0dsXalDCqcfMUCb4+FXOuuTqNdeVD9+L884o0AvVfn\nIBNApxHt9SyZm8kFX6jsUgmQgWPDSu2aVPBoE6kcSLabFJrN2VpSdl4E5rVFCdA=\n=BM6W\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRVKFtAAoJELCniwpsSBz2M+EH/i604uZoUYYcmzDmWmjvZRlA\nQTozJsbCxNPB2Tks3JngBKPdNxBJdn7KHzURq+z1KFRFvzjRLjJXLB/x/Wsy9ZZa\nenZLM7jksW65et1OlnI1e04lZRdP+ZrC83HLUWf1sk7BVuNDeI52uFBe1JdpvbJo\nzP9VndlwKvUSj+kOUX3qU5AGWVGxU8dEoMU3eUer9VPaWRHB+nThQxlRHXBe3M0s\nmKle4z++UB7WEyJZ5dNCqV0dsXalDCqcfMUCb4+FXOuuTqNdeVD9+L884o0AvVfn\nIBNApxHt9SyZm8kFX6jsUgmQgWPDSu2aVPBoE6kcSLabFJrN2VpSdl4E5rVFCdA=\n=BM6W\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1e0de9c426e07a260bbec2d2196c2d2db8eb8886\ntype commit\ntag v0.10.2\ntagger isaacs <i@izs.me> 1364500845 -0700\n\n2013.03.28, Version 0.10.2 (Stable)\n\n* npm: Upgrade to 1.2.15\n\n* uv: Upgrade to 0.10.3\n\n* tls: handle SSL_ERROR_ZERO_RETURN (Fedor Indutny)\n\n* tls: handle errors before calling C++ methods (Fedor Indutny)\n\n* tls: remove harmful unnecessary bounds checking (Marcel Laverdet)\n\n* crypto: make getCiphers() return non-SSL ciphers (Ben Noordhuis)\n\n* crypto: check randomBytes() size argument (Ben Noordhuis)\n\n* timers: do not calculate Timeout._when property (Alexey Kupershtokh)\n\n* timers: fix off-by-one ms error (Alexey Kupershtokh)\n\n* timers: handle signed int32 overflow in enroll() (Fedor Indutny)\n\n* stream: Fix stall in Transform under very specific conditions (Gil Pedersen)\n\n* stream: Handle late 'readable' event listeners (isaacs)\n\n* stream: Fix early end in Writables on zero-length writes (isaacs)\n\n* domain: fix domain callback from MakeCallback (Trevor Norris)\n\n* child_process: don't emit same handle twice (Ben Noordhuis)\n\n* child_process: fix sending utf-8 to child process (Ben Noordhuis)\n"
+  }
+}

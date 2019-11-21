@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY2NTE2Njo2N2RkNjQ2NDNiN2U3YWFhOGUxYzkwODg3YTVhYTc3MjJlYjFjMTY5",
+  "sha": "67dd64643b7e7aaa8e1c90887a5aa7722eb1c169",
+  "url": "https://api.github.com/repos/openstack/horizon/git/tags/67dd64643b7e7aaa8e1c90887a5aa7722eb1c169",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-03-03T20:23:19Z"
+  },
+  "object": {
+    "sha": "66ea48a69f67c32601d398b657936846c147ea4d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/horizon/git/commits/66ea48a69f67c32601d398b657936846c147ea4d"
+  },
+  "tag": "9.0.0.0b3",
+  "message": "horizon 9.0.0.0b3 development milestone\n\nmeta:version: 9.0.0.0b3\nmeta:series: mitaka\nmeta:release-type: development milestone\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJW2J03AAoJEDttBqDEKEN6TKIIALgxWarURBHPnjGWwlv9meMI\nyur3FB3SuzNRsoin2uA8pg4v1VIlX+cpF6he+KT+r2SYd1Cj53pT9ft3ktTK3jG7\ntYfJOPdjfOL22sfoAsPs2bShrDNwHt2izDFIU5cvXYibsBkBztEeAiFuCtsHxD+x\napVRszaHSR1gd4oRivJENybqYScxG23EKNkXef0gZZ81aK4sZP6cwLShZshGUMhI\nx7/eHLfaFY84cSCj6DQuBDsgKzeGnvWWaCJkJWM4vIYiiiDh6A0Dg3ESliYlc+1F\n9QfRFUuZxrGreppbHW8GQEOUj3dD9X0XMYPoOlN3KX/N9hizHVoXUL0iZTB6sFw=\n=Oyby\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJW2J03AAoJEDttBqDEKEN6TKIIALgxWarURBHPnjGWwlv9meMI\nyur3FB3SuzNRsoin2uA8pg4v1VIlX+cpF6he+KT+r2SYd1Cj53pT9ft3ktTK3jG7\ntYfJOPdjfOL22sfoAsPs2bShrDNwHt2izDFIU5cvXYibsBkBztEeAiFuCtsHxD+x\napVRszaHSR1gd4oRivJENybqYScxG23EKNkXef0gZZ81aK4sZP6cwLShZshGUMhI\nx7/eHLfaFY84cSCj6DQuBDsgKzeGnvWWaCJkJWM4vIYiiiDh6A0Dg3ESliYlc+1F\n9QfRFUuZxrGreppbHW8GQEOUj3dD9X0XMYPoOlN3KX/N9hizHVoXUL0iZTB6sFw=\n=Oyby\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 66ea48a69f67c32601d398b657936846c147ea4d\ntype commit\ntag 9.0.0.0b3\ntagger Doug Hellmann <doug@doughellmann.com> 1457036599 -0500\n\nhorizon 9.0.0.0b3 development milestone\n\nmeta:version: 9.0.0.0b3\nmeta:series: mitaka\nmeta:release-type: development milestone\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n"
+  }
+}

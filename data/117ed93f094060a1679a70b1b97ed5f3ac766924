@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MTE3ZWQ5M2YwOTQwNjBhMTY3OWE3MGIxYjk3ZWQ1ZjNhYzc2NjkyNA==",
+  "sha": "117ed93f094060a1679a70b1b97ed5f3ac766924",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/117ed93f094060a1679a70b1b97ed5f3ac766924",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-03-21T16:10:19Z"
+  },
+  "object": {
+    "sha": "c274d1643589bf104122674a8c3fd147527a667d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/c274d1643589bf104122674a8c3fd147527a667d"
+  },
+  "tag": "v0.10.1",
+  "message": "2013.03.21, Version 0.10.1 (Stable)\n\n* npm: upgrade to 1.2.15\n\n* crypto: Improve performance of non-stream APIs (Fedor Indutny)\n\n* tls: always reset this.ssl.error after handling (Fedor Indutny)\n\n* tls: Prevent mid-stream hangs (Fedor Indutny, isaacs)\n\n* net: improve arbitrary tcp socket support (Ben Noordhuis)\n\n* net: handle 'finish' event only after 'connect' (Fedor Indutny)\n\n* http: Don't hot-path end() for large buffers (isaacs)\n\n* fs: Missing cb errors are deprecated, not a throw (isaacs)\n\n* fs: make write/appendFileSync correctly set file mode (Raymond Feng)\n\n* stream: Return self from readable.wrap (isaacs)\n\n* stream: Never call decoder.end() multiple times (Gil Pedersen)\n\n* windows: enable watching signals with process.on('SIGXYZ') (Bert Belder)\n\n* node: revert removal of MakeCallback (Trevor Norris)\n\n* node: Unwrap without aborting in handle fd getter (isaacs)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRSzDrAAoJELCniwpsSBz2l9IH/AyZFW7sH/OxrkDhxhVUlEI5\np7PDs66gBJX2jBHq9zWKOcHbrWXopfgVOD6pmEBmpjM+CulqVQuvvcD3UnHCXRkn\ncIHYSI2ZQqTNVXo2Q4NEADs+Ci9xXepp/YLInLE8tpYZfH3SkqpnewU4qV0gOEVC\nw9tpmt45sl+G3lnaTsu7rQ90Ex70gNcC+2yfwqlqIXnKD5YWgx20Ihus5vF4kmQA\nrQj755cCM5LXz5VB9DHAXeF23qSJt8V0k+bpq3sZIJ3nmQU8d3UU6Pux95qmXmZZ\nbScMU/S7cqYl2rfDAso5Ulfm4RbzhFIEAgiX03W4kHsU5JWCw6wCwwzy52kMEOc=\n=grVW\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRSzDrAAoJELCniwpsSBz2l9IH/AyZFW7sH/OxrkDhxhVUlEI5\np7PDs66gBJX2jBHq9zWKOcHbrWXopfgVOD6pmEBmpjM+CulqVQuvvcD3UnHCXRkn\ncIHYSI2ZQqTNVXo2Q4NEADs+Ci9xXepp/YLInLE8tpYZfH3SkqpnewU4qV0gOEVC\nw9tpmt45sl+G3lnaTsu7rQ90Ex70gNcC+2yfwqlqIXnKD5YWgx20Ihus5vF4kmQA\nrQj755cCM5LXz5VB9DHAXeF23qSJt8V0k+bpq3sZIJ3nmQU8d3UU6Pux95qmXmZZ\nbScMU/S7cqYl2rfDAso5Ulfm4RbzhFIEAgiX03W4kHsU5JWCw6wCwwzy52kMEOc=\n=grVW\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c274d1643589bf104122674a8c3fd147527a667d\ntype commit\ntag v0.10.1\ntagger isaacs <i@izs.me> 1363882219 -0700\n\n2013.03.21, Version 0.10.1 (Stable)\n\n* npm: upgrade to 1.2.15\n\n* crypto: Improve performance of non-stream APIs (Fedor Indutny)\n\n* tls: always reset this.ssl.error after handling (Fedor Indutny)\n\n* tls: Prevent mid-stream hangs (Fedor Indutny, isaacs)\n\n* net: improve arbitrary tcp socket support (Ben Noordhuis)\n\n* net: handle 'finish' event only after 'connect' (Fedor Indutny)\n\n* http: Don't hot-path end() for large buffers (isaacs)\n\n* fs: Missing cb errors are deprecated, not a throw (isaacs)\n\n* fs: make write/appendFileSync correctly set file mode (Raymond Feng)\n\n* stream: Return self from readable.wrap (isaacs)\n\n* stream: Never call decoder.end() multiple times (Gil Pedersen)\n\n* windows: enable watching signals with process.on('SIGXYZ') (Bert Belder)\n\n* node: revert removal of MakeCallback (Trevor Norris)\n\n* node: Unwrap without aborting in handle fd getter (isaacs)\n"
+  }
+}

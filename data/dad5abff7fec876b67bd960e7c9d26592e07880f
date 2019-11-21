@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6ZGFkNWFiZmY3ZmVjODc2YjY3YmQ5NjBlN2M5ZDI2NTkyZTA3ODgwZg==",
+  "sha": "dad5abff7fec876b67bd960e7c9d26592e07880f",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/dad5abff7fec876b67bd960e7c9d26592e07880f",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-01-27T16:02:14Z"
+  },
+  "object": {
+    "sha": "987f6e85484cdb5f3404d978e46e6ea104c1a008",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/987f6e85484cdb5f3404d978e46e6ea104c1a008"
+  },
+  "tag": "v2.0.74",
+  "message": " * (master+mount) added using fuse's forgets in inode number reusage (fixes very rare EBUSY case when inode number is reused after unlink of directory which is still open or used as a current working directory)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

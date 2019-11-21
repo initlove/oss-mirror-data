@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NTRkZjk5OWZiYjM2ODllOTY2YzEwYWE4Y2QxNTcxYjBkYzRhZTIzMA==",
+  "sha": "54df999fbb3689e966c10aa8cd1571b0dc4ae230",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/54df999fbb3689e966c10aa8cd1571b0dc4ae230",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-12-21T20:33:35Z"
+  },
+  "object": {
+    "sha": "d86d83c75f6343b5368bb7bd328b4466a035e1d4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/d86d83c75f6343b5368bb7bd328b4466a035e1d4"
+  },
+  "tag": "v0.9.4",
+  "message": "2012.12.21, Version 0.9.4 (Unstable)\n\n* streams: Update all streaming interfaces to use new classes (isaacs)\n\n* node: remove idle gc (Ben Noordhuis)\n\n* http: protect against response splitting attacks (Bert Belder)\n\n* fs: Raise error when null bytes detected in paths (isaacs)\n\n* fs: fix 'object is not a function' callback errors (Ben Noordhuis)\n\n* fs: add autoClose=true option to fs.createReadStream (Farid Neshat)\n\n* process: add getgroups(), setgroups(), initgroups() (Ben Noordhuis)\n\n* openssl: optimized asm code on x86 and x64 (Bert Belder)\n\n* crypto: fix leak in GetPeerCertificate (Fedor Indutny)\n\n* add systemtap support (Jan Wynholds)\n\n* windows: add ETW and PerfCounters support (Scott Blomquist)\n\n* windows: fix normalization of UNC paths (Bert Belder)\n\n* crypto: fix ssl error handling (Sergey Kholodilov)\n\n* node: remove eio-emul.h (Ben Noordhuis)\n\n* os: add os.endianness() function (Nathan Rajlich)\n\n* readline: don't emit \"line\" events with a trailing 'n' char (Nathan Rajlich)\n\n* build: add configure option to generate xcode build files (Timothy J Fontaine)\n\n* build: allow linking against system libuv, cares, http_parser (Stephen Gallagher)\n\n* typed arrays: add slice() support to ArrayBuffer (Anthony Pesch)\n\n* debugger: exit and kill child on SIGTERM or SIGHUP (Fedor Indutny)\n\n* url: url.format escapes delimiters in path and query (J. Lee Coltrane)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQ1MefAAoJELCniwpsSBz2VS0IAKDywNAJSm4js0gyrOmOSYvy\nHOSls4vVOAOQZoakyV0KZRcdp+UlutMJFUkDWyZZZo/YKz4n5J0LvYfqaAPamY+2\nSAqSyO7PlY8OYx0rkN6vthf6dLh82UCnCB7zefnveUcElauNmFNjwY0oxj6i2knm\nVtJBHDIpg5iZiX8FJbka618lxl9Mwf4AgCi2CiuDj7SyrFz4ejPzJeh3E3yBuJbq\nHNsj4oETzJ+WFyOYsl48TRsVASItdwIh9Oc4xcdJDaEH3JSmFmdHzoM/WM6cWg8L\nIUa364ZBpZXmvFNjpfM5pY8nKusCTTTv6Ah7LfziB0c7FYfpD0XJXsbQoDJFGw8=\n=CdMO\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQ1MefAAoJELCniwpsSBz2VS0IAKDywNAJSm4js0gyrOmOSYvy\nHOSls4vVOAOQZoakyV0KZRcdp+UlutMJFUkDWyZZZo/YKz4n5J0LvYfqaAPamY+2\nSAqSyO7PlY8OYx0rkN6vthf6dLh82UCnCB7zefnveUcElauNmFNjwY0oxj6i2knm\nVtJBHDIpg5iZiX8FJbka618lxl9Mwf4AgCi2CiuDj7SyrFz4ejPzJeh3E3yBuJbq\nHNsj4oETzJ+WFyOYsl48TRsVASItdwIh9Oc4xcdJDaEH3JSmFmdHzoM/WM6cWg8L\nIUa364ZBpZXmvFNjpfM5pY8nKusCTTTv6Ah7LfziB0c7FYfpD0XJXsbQoDJFGw8=\n=CdMO\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d86d83c75f6343b5368bb7bd328b4466a035e1d4\ntype commit\ntag v0.9.4\ntagger isaacs <i@izs.me> 1356122015 -0800\n\n2012.12.21, Version 0.9.4 (Unstable)\n\n* streams: Update all streaming interfaces to use new classes (isaacs)\n\n* node: remove idle gc (Ben Noordhuis)\n\n* http: protect against response splitting attacks (Bert Belder)\n\n* fs: Raise error when null bytes detected in paths (isaacs)\n\n* fs: fix 'object is not a function' callback errors (Ben Noordhuis)\n\n* fs: add autoClose=true option to fs.createReadStream (Farid Neshat)\n\n* process: add getgroups(), setgroups(), initgroups() (Ben Noordhuis)\n\n* openssl: optimized asm code on x86 and x64 (Bert Belder)\n\n* crypto: fix leak in GetPeerCertificate (Fedor Indutny)\n\n* add systemtap support (Jan Wynholds)\n\n* windows: add ETW and PerfCounters support (Scott Blomquist)\n\n* windows: fix normalization of UNC paths (Bert Belder)\n\n* crypto: fix ssl error handling (Sergey Kholodilov)\n\n* node: remove eio-emul.h (Ben Noordhuis)\n\n* os: add os.endianness() function (Nathan Rajlich)\n\n* readline: don't emit \"line\" events with a trailing 'n' char (Nathan Rajlich)\n\n* build: add configure option to generate xcode build files (Timothy J Fontaine)\n\n* build: allow linking against system libuv, cares, http_parser (Stephen Gallagher)\n\n* typed arrays: add slice() support to ArrayBuffer (Anthony Pesch)\n\n* debugger: exit and kill child on SIGTERM or SIGHUP (Fedor Indutny)\n\n* url: url.format escapes delimiters in path and query (J. Lee Coltrane)\n"
+  }
+}

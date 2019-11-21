@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6YjZlOTZjNmU1YjgxODA2NWI4MWE3MjI2MjMxMDE0NWJkN2UwNzA3OQ==",
+  "sha": "b6e96c6e5b818065b81a72262310145bd7e07079",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/b6e96c6e5b818065b81a72262310145bd7e07079",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-01-27T16:03:24Z"
+  },
+  "object": {
+    "sha": "01b04319d4c227f0c5f434e1b1239597a40ac214",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/01b04319d4c227f0c5f434e1b1239597a40ac214"
+  },
+  "tag": "v2.0.76",
+  "message": " * (mount) fixed rare bug in writing module (unrecoverable write error could lead to infinite loop during write)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

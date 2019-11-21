@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MWIwOTBmYjQzOGJmNGYzNmJiOTBkMTIwYTZhMjc2NDdiMjllZjNmZA==",
+  "sha": "1b090fb438bf4f36bb90d120a6a27647b29ef3fd",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/1b090fb438bf4f36bb90d120a6a27647b29ef3fd",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-02-15T19:37:01Z"
+  },
+  "object": {
+    "sha": "de21de920cf93ec40736ada3792a7f85f3eadeda",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/de21de920cf93ec40736ada3792a7f85f3eadeda"
+  },
+  "tag": "v0.7.4",
+  "message": "2012.02.14, Version 0.7.4 (unstable)\n\n* Upgrade V8 to 3.9.5\n\n* Upgrade npm to 1.1.1\n\n* build: Detect host_arch better (Karl Skomski)\n\n* debugger: export `debug_port` to `process` (Fedor Indutny)\n\n* api docs: CSS bug fixes (isaacs)\n\n* build: use -fPIC for native addons on UNIX (Nathan Rajlich)\n\n* Re-add top-level v8::Locker (Marcel Laverdet)\n\n* Move images out of the dist tarballs (isaacs)\n\n* libuv: Remove uv_export and uv_import (Ben Noordhuis)\n\n* build: Support x64 build on Windows (Igor Zinkovsky)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPPAlnAAoJELCniwpsSBz2ZLEH/39dBylOsiGTJ/34qEAaW/Gg\noe7aZM7BMk7Oiq3vDS8j/fj4hKf+8D4oFF9XvQT4fQ3qbv8VLEFKuddUMtEliWxJ\n+70n+zBlkseAYIO+Fjv5m4KpKu8idWwnPBZLx1PZD522Va4c9v3W36PUwRdFv8ln\nBxcfHIxzOh8xnbhE3NCzv5TWsxR4raiOnEvo28OrU+99uXPzmm4PUjZostRrT/oV\nupjTI5AqAI6bDkuo7Ku5iCuuGKenlW6k4ZGHmU6NLesZ3+o3t5uNE/9Gk9v2PfsA\nn+wL1Sp2OeR8TSk0btPgtbXnv7eLdsliNN1m4c8e6CJm6hCF1QbijRTKpbxcP1w=\n=kNs9\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPPAlnAAoJELCniwpsSBz2ZLEH/39dBylOsiGTJ/34qEAaW/Gg\noe7aZM7BMk7Oiq3vDS8j/fj4hKf+8D4oFF9XvQT4fQ3qbv8VLEFKuddUMtEliWxJ\n+70n+zBlkseAYIO+Fjv5m4KpKu8idWwnPBZLx1PZD522Va4c9v3W36PUwRdFv8ln\nBxcfHIxzOh8xnbhE3NCzv5TWsxR4raiOnEvo28OrU+99uXPzmm4PUjZostRrT/oV\nupjTI5AqAI6bDkuo7Ku5iCuuGKenlW6k4ZGHmU6NLesZ3+o3t5uNE/9Gk9v2PfsA\nn+wL1Sp2OeR8TSk0btPgtbXnv7eLdsliNN1m4c8e6CJm6hCF1QbijRTKpbxcP1w=\n=kNs9\n-----END PGP SIGNATURE-----\n",
+    "payload": "object de21de920cf93ec40736ada3792a7f85f3eadeda\ntype commit\ntag v0.7.4\ntagger isaacs <i@izs.me> 1329334621 -0800\n\n2012.02.14, Version 0.7.4 (unstable)\n\n* Upgrade V8 to 3.9.5\n\n* Upgrade npm to 1.1.1\n\n* build: Detect host_arch better (Karl Skomski)\n\n* debugger: export `debug_port` to `process` (Fedor Indutny)\n\n* api docs: CSS bug fixes (isaacs)\n\n* build: use -fPIC for native addons on UNIX (Nathan Rajlich)\n\n* Re-add top-level v8::Locker (Marcel Laverdet)\n\n* Move images out of the dist tarballs (isaacs)\n\n* libuv: Remove uv_export and uv_import (Ben Noordhuis)\n\n* build: Support x64 build on Windows (Igor Zinkovsky)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6M2EyYjQxZGU3NGI2YzM0M2I4NDY0YTY4ZWZmMDRjNGJmZDlhZWJlYQ==",
+  "sha": "3a2b41de74b6c343b8464a68eff04c4bfd9aebea",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/3a2b41de74b6c343b8464a68eff04c4bfd9aebea",
+  "tagger": {
+    "name": "Ryan",
+    "email": "ry@tinyclouds.org",
+    "date": "2009-06-18T21:29:17Z"
+  },
+  "object": {
+    "sha": "ec5f3dbae11ed121d24744861a8fce55636ecd66",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/ec5f3dbae11ed121d24744861a8fce55636ecd66"
+  },
+  "tag": "v0.0.5",
+  "message": "2009.06.18, Node version 0.0.5\n\n  * Support for IPv6\n\n  * Remove namespace node.constants\n\n  * Upgrade v8 to 1.2.8.1\n\n  * Accept ports as strings in the TCP client and server.\n\n  * Bugfix: HTTP Client race\n\n  * Bugfix: freeaddrinfo() wasn't getting called after getaddrinfo() for TCP servers\n\n  * Add \"opening\" to TCP client readyState\n\n  * Add remoteAddress to TCP client\n\n  * Add global print() function.\n\nDownload: http://s3.amazonaws.com/four.livejournal/20090618/node-0.0.5.tar.gz\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

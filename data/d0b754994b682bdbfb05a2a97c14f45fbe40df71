@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZDBiNzU0OTk0YjY4MmJkYmZiMDVhMmE5N2MxNGY0NWZiZTQwZGY3MQ==",
+  "sha": "d0b754994b682bdbfb05a2a97c14f45fbe40df71",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/d0b754994b682bdbfb05a2a97c14f45fbe40df71",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-12-24T01:29:24Z"
+  },
+  "object": {
+    "sha": "a363f61ca839e817eb6853c5dc5af8c3b9b9226b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/a363f61ca839e817eb6853c5dc5af8c3b9b9226b"
+  },
+  "tag": "v0.10.35",
+  "message": "2014.12.22, Version 0.10.35 (Stable)\n\n* tls: re-add 1024-bit SSL certs removed by f9456a2 (Chris Dickinson)\n\n* timers: don't close interval timers when unrefd (Julien Gilli)\n\n* timers: don't mutate unref list while iterating it (Julien Gilli)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlSaFxMACgkQfTP/nQJGQG1aagCfVZRIneFh+S9Czgb3Ur+t6O/w\nQVUAn1lD7+d8MKnLZyfVcVA86XqmfjjF\n=vord\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlSaFxMACgkQfTP/nQJGQG1aagCfVZRIneFh+S9Czgb3Ur+t6O/w\nQVUAn1lD7+d8MKnLZyfVcVA86XqmfjjF\n=vord\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a363f61ca839e817eb6853c5dc5af8c3b9b9226b\ntype commit\ntag v0.10.35\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1419384564 -0800\n\n2014.12.22, Version 0.10.35 (Stable)\n\n* tls: re-add 1024-bit SSL certs removed by f9456a2 (Chris Dickinson)\n\n* timers: don't close interval timers when unrefd (Julien Gilli)\n\n* timers: don't mutate unref list while iterating it (Julien Gilli)\n"
+  }
+}

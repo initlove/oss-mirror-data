@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6MzljNTVjMzE4NjBiYjgyZDhiZTUwMmNhZjBjOTNjOTFlMzg2NTVlOA==",
+  "sha": "39c55c31860bb82d8be502caf0c93c91e38655e8",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/39c55c31860bb82d8be502caf0c93c91e38655e8",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T15:10:04Z"
+  },
+  "object": {
+    "sha": "c4b57be42be8a4bbe281452d9872af7feb574783",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/c4b57be42be8a4bbe281452d9872af7feb574783"
+  },
+  "tag": "v3.0.61",
+  "message": "MooseFS 3.0.61-1\n\n * (master) fixed lookup in case of missing chunks (lookup returned ENXIO in such case)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

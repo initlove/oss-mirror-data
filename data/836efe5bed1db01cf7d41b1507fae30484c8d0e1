@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6ODM2ZWZlNWJlZDFkYjAxY2Y3ZDQxYjE1MDdmYWUzMDQ4NGM4ZDBlMQ==",
+  "sha": "836efe5bed1db01cf7d41b1507fae30484c8d0e1",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/836efe5bed1db01cf7d41b1507fae30484c8d0e1",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T14:19:16Z"
+  },
+  "object": {
+    "sha": "103ad1c86524ae37748ebcae828b47d584b27bb3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/103ad1c86524ae37748ebcae828b47d584b27bb3"
+  },
+  "tag": "v3.0.18",
+  "message": "MooseFS 3.0.18-1\n\n * (master) fixed bug in chunk unlocking mechanism (few writes to the same chunk may cause master freezing)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

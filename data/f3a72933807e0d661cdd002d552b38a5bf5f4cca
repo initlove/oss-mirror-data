@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6ZjNhNzI5MzM4MDdlMGQ2NjFjZGQwMDJkNTUyYjM4YTViZjVmNGNjYQ==",
+  "sha": "f3a72933807e0d661cdd002d552b38a5bf5f4cca",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/f3a72933807e0d661cdd002d552b38a5bf5f4cca",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T14:37:50Z"
+  },
+  "object": {
+    "sha": "a588c5b54ad4b9eec76d5e8f0fd3d02881186a57",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/a588c5b54ad4b9eec76d5e8f0fd3d02881186a57"
+  },
+  "tag": "v3.0.34",
+  "message": "MooseFS 3.0.34-1\n\n * (master) fixed small follower-desync issue (pro version only - intr. in 3.0.33)\n * (master) fixed session restore/synchronization issue (bad info length after metadata restore)\n * (mount) fixed setting maxfleng on truncate\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

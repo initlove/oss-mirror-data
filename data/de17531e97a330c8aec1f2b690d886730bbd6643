@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6ZGUxNzUzMWU5N2EzMzBjOGFlYzFmMmI2OTBkODg2NzMwYmJkNjY0Mw==",
+  "sha": "de17531e97a330c8aec1f2b690d886730bbd6643",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/de17531e97a330c8aec1f2b690d886730bbd6643",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T15:10:35Z"
+  },
+  "object": {
+    "sha": "01c7c471e7342905772aa02bff59cc49b440035d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/01c7c471e7342905772aa02bff59cc49b440035d"
+  },
+  "tag": "v3.0.63",
+  "message": "MooseFS 3.0.63-1\n\n * (mount) fixed rare race condition in read (not dangerous)\n * (mount) better read/write synchronization in read\n * (master) new chart (used/total space)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

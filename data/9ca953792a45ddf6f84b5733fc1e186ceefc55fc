@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6OWNhOTUzNzkyYTQ1ZGRmNmY4NGI1NzMzZmMxZTE4NmNlZWZjNTVmYw==",
+  "sha": "9ca953792a45ddf6f84b5733fc1e186ceefc55fc",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/9ca953792a45ddf6f84b5733fc1e186ceefc55fc",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-07-09T17:22:36Z"
+  },
+  "object": {
+    "sha": "cc6084b9ac5cf1d4fe5e7165b71e8fc05d11be1f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/cc6084b9ac5cf1d4fe5e7165b71e8fc05d11be1f"
+  },
+  "tag": "v0.8.2",
+  "message": "2012.07.09, Version 0.8.2 (Stable)\n\n* npm: Upgrade to 1.1.36\n\n* readline: don't use Function#call() (Nathan Rajlich)\n\n* Code cleanup to pass 'use strict' (Jonas Westerlund)\n\n* module: add filename to require() json errors (TJ Holowaychuk)\n\n* readline: fix for unicode prompts (Tim Macfarlane)\n\n* timers: fix handling of large timeouts (Ben Noordhuis)\n\n* repl: fix passing an empty line inserting \"undefined\" into the buffer (Nathan Rajlich)\n\n* repl: fix crashes when buffering command (Maciej Małecki)\n\n* build: rename strict_aliasing to node_no_strict_aliasing (Ben Noordhuis)\n\n* build: disable -fstrict-aliasing for any gcc < 4.6.0 (Ben Noordhuis)\n\n* build: detect cc version with -dumpversion (Ben Noordhuis)\n\n* build: handle output of localized gcc or clang (Ben Noordhuis)\n\n* unix: fix memory corruption in freebsd.c (Ben Noordhuis)\n\n* unix: fix 'zero handles, one request' busy loop (Ben Noordhuis)\n\n* unix: fix busy loop on unexpected tcp message (Ben Noordhuis)\n\n* unix: fix EINPROGRESS busy loop (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJP+xNcAAoJELCniwpsSBz2BPMH/jgfUaoakGwzKdI8C2x0TxCr\nOF+eH+bkHZN/H+E/tx49SuTs7qFi/TEqS5pPUjHWt+9A6qh/nZxg1lMAfvQPI6GL\nKCQQ/qwT5qPPH01P1WhK7t23BM3sjwgjYT3W+NttRbzJUHhY2Qqzh4EuI8/oiYdA\nibiOgTT0ssT57ypK7Y6AVEInEwOiwxxMTvT2U/v4Lr0YDA8/wJlU1lr9M4PLA3EO\nwJ5CI2udAy3foUc90QWi0/TzdeWR7C9TWQ2Vq2WUwDD4jTWlGmsw64Yts91E5Z6s\nyhQQW05vPQ559HIDvVCSpldEeYrjZ7AuAlgtafhqXMv836kggM4p1MflOaCXkYw=\n=H0UM\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJP+xNcAAoJELCniwpsSBz2BPMH/jgfUaoakGwzKdI8C2x0TxCr\nOF+eH+bkHZN/H+E/tx49SuTs7qFi/TEqS5pPUjHWt+9A6qh/nZxg1lMAfvQPI6GL\nKCQQ/qwT5qPPH01P1WhK7t23BM3sjwgjYT3W+NttRbzJUHhY2Qqzh4EuI8/oiYdA\nibiOgTT0ssT57ypK7Y6AVEInEwOiwxxMTvT2U/v4Lr0YDA8/wJlU1lr9M4PLA3EO\nwJ5CI2udAy3foUc90QWi0/TzdeWR7C9TWQ2Vq2WUwDD4jTWlGmsw64Yts91E5Z6s\nyhQQW05vPQ559HIDvVCSpldEeYrjZ7AuAlgtafhqXMv836kggM4p1MflOaCXkYw=\n=H0UM\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cc6084b9ac5cf1d4fe5e7165b71e8fc05d11be1f\ntype commit\ntag v0.8.2\ntagger isaacs <i@izs.me> 1341854556 -0700\n\n2012.07.09, Version 0.8.2 (Stable)\n\n* npm: Upgrade to 1.1.36\n\n* readline: don't use Function#call() (Nathan Rajlich)\n\n* Code cleanup to pass 'use strict' (Jonas Westerlund)\n\n* module: add filename to require() json errors (TJ Holowaychuk)\n\n* readline: fix for unicode prompts (Tim Macfarlane)\n\n* timers: fix handling of large timeouts (Ben Noordhuis)\n\n* repl: fix passing an empty line inserting \"undefined\" into the buffer (Nathan Rajlich)\n\n* repl: fix crashes when buffering command (Maciej Małecki)\n\n* build: rename strict_aliasing to node_no_strict_aliasing (Ben Noordhuis)\n\n* build: disable -fstrict-aliasing for any gcc < 4.6.0 (Ben Noordhuis)\n\n* build: detect cc version with -dumpversion (Ben Noordhuis)\n\n* build: handle output of localized gcc or clang (Ben Noordhuis)\n\n* unix: fix memory corruption in freebsd.c (Ben Noordhuis)\n\n* unix: fix 'zero handles, one request' busy loop (Ben Noordhuis)\n\n* unix: fix busy loop on unexpected tcp message (Ben Noordhuis)\n\n* unix: fix EINPROGRESS busy loop (Ben Noordhuis)\n"
+  }
+}

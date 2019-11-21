@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NmJjOGNiYTQ2OGMzOWJlYmI2ZDY5MDgyMzQ0OTI3ODRlMTk1NzVmNg==",
+  "sha": "6bc8cba468c39bebb6d6908234492784e19575f6",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/6bc8cba468c39bebb6d6908234492784e19575f6",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-05-04T20:29:47Z"
+  },
+  "object": {
+    "sha": "4ced23deaf36493f4303a18f6fdce768c58becc0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/4ced23deaf36493f4303a18f6fdce768c58becc0"
+  },
+  "tag": "v0.6.17",
+  "message": "2012.05.04 Version 0.6.17 (stable)\n\n* Upgrade npm to 1.1.21\n\n* uv: Add support for EROFS errors (Ben Noordhuis, Maciej Małecki)\n\n* uv: Add support for EIO and ENOSPC errors (Fedor Indutny)\n\n* windows: Add support for EXDEV errors (Bert Belder)\n\n* http: Fix client memory leaks (isaacs, Vincent Voyer)\n\n* fs: fix file descriptor leak in sync functions (Ben Noordhuis)\n\n* fs: fix ReadStream / WriteStream double close bug (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPpDw8AAoJELCniwpsSBz2TO8IAIZl1y0fkIWnqMoFDjbR7PnB\nRnbd1E/jNnagqpYfYNy71Lv2H452vY91yv867u8AfsmBi0WaV7xRTfS5bGcnRcDb\nuidoWMocHyf1xeVEbPGy+gsuras9NmkVZk/d1hvawbExv8QJ3ZV27s3rWo3nxnfb\ndySC3YxRdEOvb8DILM3CLmBSF+MUg6xY3BDJmtq8M6bOa2REuguMuCPFeX6imV5s\nAiJPUTfzni61IGU6JBaWy+los1O0wTDEweJs2a9TvsZpIGZ/Ig+xyqh6lfZB6PqD\nNya9NRfEDnqNooBSrMQTMgUGfkthX6bjP/QaLBvKSvI2Xrp5Dvpm/q/Q7Pmeq94=\n=UC1j\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPpDw8AAoJELCniwpsSBz2TO8IAIZl1y0fkIWnqMoFDjbR7PnB\nRnbd1E/jNnagqpYfYNy71Lv2H452vY91yv867u8AfsmBi0WaV7xRTfS5bGcnRcDb\nuidoWMocHyf1xeVEbPGy+gsuras9NmkVZk/d1hvawbExv8QJ3ZV27s3rWo3nxnfb\ndySC3YxRdEOvb8DILM3CLmBSF+MUg6xY3BDJmtq8M6bOa2REuguMuCPFeX6imV5s\nAiJPUTfzni61IGU6JBaWy+los1O0wTDEweJs2a9TvsZpIGZ/Ig+xyqh6lfZB6PqD\nNya9NRfEDnqNooBSrMQTMgUGfkthX6bjP/QaLBvKSvI2Xrp5Dvpm/q/Q7Pmeq94=\n=UC1j\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4ced23deaf36493f4303a18f6fdce768c58becc0\ntype commit\ntag v0.6.17\ntagger isaacs <i@izs.me> 1336163387 -0700\n\n2012.05.04 Version 0.6.17 (stable)\n\n* Upgrade npm to 1.1.21\n\n* uv: Add support for EROFS errors (Ben Noordhuis, Maciej Małecki)\n\n* uv: Add support for EIO and ENOSPC errors (Fedor Indutny)\n\n* windows: Add support for EXDEV errors (Bert Belder)\n\n* http: Fix client memory leaks (isaacs, Vincent Voyer)\n\n* fs: fix file descriptor leak in sync functions (Ben Noordhuis)\n\n* fs: fix ReadStream / WriteStream double close bug (Ben Noordhuis)\n"
+  }
+}

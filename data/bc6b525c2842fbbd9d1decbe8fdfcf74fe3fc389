@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YmM2YjUyNWMyODQyZmJiZDlkMWRlY2JlOGZkZmNmNzRmZTNmYzM4OQ==",
+  "sha": "bc6b525c2842fbbd9d1decbe8fdfcf74fe3fc389",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/bc6b525c2842fbbd9d1decbe8fdfcf74fe3fc389",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-02-09T21:20:25Z"
+  },
+  "object": {
+    "sha": "49de41ef463292988ddacfb01a20543b963d9669",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/49de41ef463292988ddacfb01a20543b963d9669"
+  },
+  "tag": "v0.1.28",
+  "message": "2010.02.09, Version 0.1.28\n\n  * Use Google's jsmin.py which can be used for evil.\n\n  * Add posix.truncate()\n\n  * Throw errors from server.listen()\n\n  * stdio bugfix (test by Mikeal Rogers)\n\n  * Module system refactor (Felix Geisendörfer, Blaine Cook)\n\n  * Add process.setuid(), getuid() (Michael Carter)\n\n  * sys.inspect refactor (Tim Caswell)\n\n  * Multipart library rewrite (isaacs)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6NjMwOTBjM2Q1NWQ5NzJjZWJmNjI5ZTAwYzZiZTcyZjExYmMwMjk0ZQ==",
+  "sha": "63090c3d55d972cebf629e00c6be72f11bc0294e",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/63090c3d55d972cebf629e00c6be72f11bc0294e",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-02-01T11:16:09Z"
+  },
+  "object": {
+    "sha": "80ae4cda3ccdd1ab5a0fcc314f4664237fa66e29",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/80ae4cda3ccdd1ab5a0fcc314f4664237fa66e29"
+  },
+  "tag": "v2.0.84",
+  "message": "MooseFS 2.0.84\n\n* (mount) fixed setting file length in write module during truncate (fixes \"git svn\" case)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

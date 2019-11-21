@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6NzZhY2ZiYTU2ZTEyZTBmMGYzMTEwYTE3MzBhMGU4MmJmMmVhYzRkMA==",
+  "sha": "76acfba56e12e0f0f3110a1730a0e82bf2eac4d0",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/76acfba56e12e0f0f3110a1730a0e82bf2eac4d0",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T14:20:46Z"
+  },
+  "object": {
+    "sha": "646c868bebd72b36709f06c39ee4af88290ae227",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/646c868bebd72b36709f06c39ee4af88290ae227"
+  },
+  "tag": "v3.0.20",
+  "message": "MooseFS 3.0.20-1\n\n * (cli) fixed \"last save time\" in master general info (-SIG)\n * (master) added \"last seen paths\" to TRASH and SUSTAINED files in inode to path resolver\n * (mount) fixed \"race conditions\" in new reading module (intr. in 3.0.19)\n * (mount) added \"mfsnoxattrs\",\"mfsnoposixlocks\" and \"mfsnobsdlocks\" options\n * (master) added support for \"DEFAULT\" options in mfsexports.cfg\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

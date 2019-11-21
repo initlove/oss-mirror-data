@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6MGIwMDIwYTE4YjZjZGU4MDM2OTg1MzYzOWQ3YzFjZDMxNDcxZjMyZg==",
+  "sha": "0b0020a18b6cde80369853639d7c1cd31471f32f",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/0b0020a18b6cde80369853639d7c1cd31471f32f",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T15:06:52Z"
+  },
+  "object": {
+    "sha": "275f5c2bdc91d2fd4c96de4ff3223617c9774963",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/275f5c2bdc91d2fd4c96de4ff3223617c9774963"
+  },
+  "tag": "v3.0.53",
+  "message": "MooseFS 3.0.53-1\n\n * (cs) fixed typo (cnunk)\n * (mount) create in deleted directory returns EACCES only in OS X (ENOENT in other systems)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6Yzk1NmFiMmEwNzJmMDUxNjEwNDgyMTliMTUxNTExYzM2NTRiYjgxMg==",
+  "sha": "c956ab2a072f05161048219b151511c3654bb812",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/c956ab2a072f05161048219b151511c3654bb812",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-09-30T22:05:38Z"
+  },
+  "object": {
+    "sha": "d7234c8d50a1af73f60d2d3c0cc7eed17429a481",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/d7234c8d50a1af73f60d2d3c0cc7eed17429a481"
+  },
+  "tag": "v0.10.20",
+  "message": "2013.09.30, Version 0.10.20 (Stable)\n\n* tls: fix sporadic hang and partial reads (Fedor Indutny)\n  - fixes \"npm ERR! cb() never called!\"\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlJJ9bIACgkQfTP/nQJGQG3JJwCgkUA4Q28SEC+jODmyCd4gbDhZ\nx/8AoKbjikYvcLp5IfZLnn/9VJjB0u/o\n=x32Y\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlJJ9bIACgkQfTP/nQJGQG3JJwCgkUA4Q28SEC+jODmyCd4gbDhZ\nx/8AoKbjikYvcLp5IfZLnn/9VJjB0u/o\n=x32Y\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d7234c8d50a1af73f60d2d3c0cc7eed17429a481\ntype commit\ntag v0.10.20\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1380578738 -0700\n\n2013.09.30, Version 0.10.20 (Stable)\n\n* tls: fix sporadic hang and partial reads (Fedor Indutny)\n  - fixes \"npm ERR! cb() never called!\"\n"
+  }
+}

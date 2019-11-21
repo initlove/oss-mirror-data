@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YzU1YzUzMGQwNWZhOGY2NjgwMjQ5ZGJlZDVkZjkzNDUzNTg1NzA4Mg==",
+  "sha": "c55c530d05fa8f6680249dbed5df934535857082",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/c55c530d05fa8f6680249dbed5df934535857082",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-05-29T17:04:58Z"
+  },
+  "object": {
+    "sha": "782277f11a753ded831439ed826448c06fc0f356",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/782277f11a753ded831439ed826448c06fc0f356"
+  },
+  "tag": "v0.7.9",
+  "message": "2012.05.28, Version 0.7.9 (unstable)\n\n* Upgrade V8 to 3.11.1\n\n* Upgrade npm to 1.1.23\n\n* uv: rework reference counting scheme (Ben Noordhuis)\n\n* uv: add interface for joining external event loops (Bert Belder)\n\n* repl, readline: Handle Ctrl+Z and SIGCONT better (Nathan Rajlich)\n\n* fs: 64bit offsets for fs calls (Igor Zinkovsky)\n\n* fs: add sync open flags 'rs' and 'rs+' (Kevin Bowman)\n\n* windows: enable creating directory junctions with fs.symlink (Igor Zinkovsky, Bert Belder)\n\n* windows: fix fs.lstat to properly detect symlinks. (Igor Zinkovsky)\n\n* Fix #3270 Escape url.parse delims (isaacs)\n\n* http: make http.get() accept a URL (Adam Malcontenti-Wilson)\n\n* Cleanup vm module memory leakage (Marcel Laverdet)\n\n* Optimize writing strings with Socket.write (Bert Belder)\n\n* add support for CESU-8 and UTF-16LE encodings (koichik)\n\n* path: add path.sep to get the path separator. (Yi, EungJun)\n\n* net, http: add backlog parameter to .listen() (Erik Dubbelboer)\n\n* debugger: support mirroring Date objects (Fedor Indutny)\n\n* addon: add AtExit() function (Ben Noordhuis)\n\n* net: signal localAddress bind failure in connect (Brian Schroeder)\n\n* util: handle non-string return value in .inspect() (Alex Kocharin)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPxQG6AAoJELCniwpsSBz2JFkH/2YTTC1GODXG5kfYCOon2m9Y\nCKpwBzN0YqKTzW/D3ejT0aOJeoH8Cswl/ya2fATuaYIKeMdtmUaJm8ieErNdyNc3\nyzpr8ZwcSaWaEPenADbS8KEOV/l1b+ZiAuPwwKkHmWInMK0udFKRos/JSCz9y8w2\ni/ne1qKFIss3TcFSq2Opzy/A81lnmF1OKFhNdTKWo9GOFjYv8ydwbUlDAxCl8iFj\njDHES7QsSD7ukhBsFLaYpTxF8xHTE2XQLFtEk+0PSdjKCxyXMIi2AUVkDVkU73K/\ngtRzrYSfofHDY5MGF3QgcH6oYwIBV66o25BcMNwjpasEakfnwtmeZnOfXLaX4+g=\n=pzKa\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPxQG6AAoJELCniwpsSBz2JFkH/2YTTC1GODXG5kfYCOon2m9Y\nCKpwBzN0YqKTzW/D3ejT0aOJeoH8Cswl/ya2fATuaYIKeMdtmUaJm8ieErNdyNc3\nyzpr8ZwcSaWaEPenADbS8KEOV/l1b+ZiAuPwwKkHmWInMK0udFKRos/JSCz9y8w2\ni/ne1qKFIss3TcFSq2Opzy/A81lnmF1OKFhNdTKWo9GOFjYv8ydwbUlDAxCl8iFj\njDHES7QsSD7ukhBsFLaYpTxF8xHTE2XQLFtEk+0PSdjKCxyXMIi2AUVkDVkU73K/\ngtRzrYSfofHDY5MGF3QgcH6oYwIBV66o25BcMNwjpasEakfnwtmeZnOfXLaX4+g=\n=pzKa\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 782277f11a753ded831439ed826448c06fc0f356\ntype commit\ntag v0.7.9\ntagger isaacs <i@izs.me> 1338311098 -0700\n\n2012.05.28, Version 0.7.9 (unstable)\n\n* Upgrade V8 to 3.11.1\n\n* Upgrade npm to 1.1.23\n\n* uv: rework reference counting scheme (Ben Noordhuis)\n\n* uv: add interface for joining external event loops (Bert Belder)\n\n* repl, readline: Handle Ctrl+Z and SIGCONT better (Nathan Rajlich)\n\n* fs: 64bit offsets for fs calls (Igor Zinkovsky)\n\n* fs: add sync open flags 'rs' and 'rs+' (Kevin Bowman)\n\n* windows: enable creating directory junctions with fs.symlink (Igor Zinkovsky, Bert Belder)\n\n* windows: fix fs.lstat to properly detect symlinks. (Igor Zinkovsky)\n\n* Fix #3270 Escape url.parse delims (isaacs)\n\n* http: make http.get() accept a URL (Adam Malcontenti-Wilson)\n\n* Cleanup vm module memory leakage (Marcel Laverdet)\n\n* Optimize writing strings with Socket.write (Bert Belder)\n\n* add support for CESU-8 and UTF-16LE encodings (koichik)\n\n* path: add path.sep to get the path separator. (Yi, EungJun)\n\n* net, http: add backlog parameter to .listen() (Erik Dubbelboer)\n\n* debugger: support mirroring Date objects (Fedor Indutny)\n\n* addon: add AtExit() function (Ben Noordhuis)\n\n* net: signal localAddress bind failure in connect (Brian Schroeder)\n\n* util: handle non-string return value in .inspect() (Alex Kocharin)\n"
+  }
+}

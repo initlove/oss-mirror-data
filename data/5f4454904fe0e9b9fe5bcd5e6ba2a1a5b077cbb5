@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NWY0NDU0OTA0ZmUwZTliOWZlNWJjZDVlNmJhMmExYTViMDc3Y2JiNQ==",
+  "sha": "5f4454904fe0e9b9fe5bcd5e6ba2a1a5b077cbb5",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/5f4454904fe0e9b9fe5bcd5e6ba2a1a5b077cbb5",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-02-15T19:23:23Z"
+  },
+  "object": {
+    "sha": "e10c75579b536581ddd7ae4e2c3bf8a9d550d343",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/e10c75579b536581ddd7ae4e2c3bf8a9d550d343"
+  },
+  "tag": "v0.8.20",
+  "message": "2013.02.15, Version 0.8.20 (Stable)\n\n* npm: Upgrade to v1.2.11\n\n* http: Do not let Agent hand out destroyed sockets (isaacs)\n\n* http: Raise hangup error on destroyed socket write (isaacs)\n\n* http: protect against response splitting attacks (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRHosrAAoJELCniwpsSBz2sAYH+wY6ZwUev3I9F6e2Py7In2Pw\nNOrwV3BISeQazQBu0+FYZtZHETAwLcZoqeNT5JqP6NFgootRPUaB4yFVOlHul11I\ntinH+Xe4QNqwiU+J2ZjMi//C3OH/BNRR2pOiFSq/5rnbc2ZtISpTkdTvXfpclWQT\ncMxZFtRJRn3BRuS/RMnmrHHUDS4dK3z9mRThkGgboqO7hazJEc/NZnPzVxTWwnnd\n536Effr+hGhe4oYqr6iXrcuxpG6Dft+kbW40whfJXYrZYlpYhTALSKvHqRi4I4Zj\nfUyrXAiTJ9yHnoB+qhBXS6baniwopXefUyzsSLbASA+ymZYXPOB3CYMcZCXm8io=\n=Gsua\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRHosrAAoJELCniwpsSBz2sAYH+wY6ZwUev3I9F6e2Py7In2Pw\nNOrwV3BISeQazQBu0+FYZtZHETAwLcZoqeNT5JqP6NFgootRPUaB4yFVOlHul11I\ntinH+Xe4QNqwiU+J2ZjMi//C3OH/BNRR2pOiFSq/5rnbc2ZtISpTkdTvXfpclWQT\ncMxZFtRJRn3BRuS/RMnmrHHUDS4dK3z9mRThkGgboqO7hazJEc/NZnPzVxTWwnnd\n536Effr+hGhe4oYqr6iXrcuxpG6Dft+kbW40whfJXYrZYlpYhTALSKvHqRi4I4Zj\nfUyrXAiTJ9yHnoB+qhBXS6baniwopXefUyzsSLbASA+ymZYXPOB3CYMcZCXm8io=\n=Gsua\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e10c75579b536581ddd7ae4e2c3bf8a9d550d343\ntype commit\ntag v0.8.20\ntagger isaacs <i@izs.me> 1360956203 -0800\n\n2013.02.15, Version 0.8.20 (Stable)\n\n* npm: Upgrade to v1.2.11\n\n* http: Do not let Agent hand out destroyed sockets (isaacs)\n\n* http: Raise hangup error on destroyed socket write (isaacs)\n\n* http: protect against response splitting attacks (Bert Belder)\n"
+  }
+}

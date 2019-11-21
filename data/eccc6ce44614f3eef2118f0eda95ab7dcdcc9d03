@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZWNjYzZjZTQ0NjE0ZjNlZWYyMTE4ZjBlZGE5NWFiN2RjZGNjOWQwMw==",
+  "sha": "eccc6ce44614f3eef2118f0eda95ab7dcdcc9d03",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/eccc6ce44614f3eef2118f0eda95ab7dcdcc9d03",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-06-04T18:07:55Z"
+  },
+  "object": {
+    "sha": "c1a1ab067721ea17ef7b05ec5c68b01321017f05",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/c1a1ab067721ea17ef7b05ec5c68b01321017f05"
+  },
+  "tag": "v0.8.24",
+  "message": "2013.06.04, Version 0.8.24 (maintenance)\n\n* npm: Upgrade to v1.2.24\n\n* url: Properly parse certain oddly formed urls (isaacs)\n\n* http: Don't try to destroy nonexistent sockets (isaacs)\n\n* handle_wrap: fix NULL pointer dereference (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRriz7AAoJELCniwpsSBz2WvIH/i8VfhlPTMmd+e6sv3GL8d+Q\nUNBqVb4lpncKFt1lcr0FicA/hsEtLh27eB50H1jzSvXi1onLfHr57SOy9gWda4RA\nlh339Wy+JSpH2rZb0CmbpZkpD+IqcxOc2Ehf5QP8nmceGFewyXXg+InQqxo0MZWS\nocM2qk4wXKrOaEQblx6sqKgsN3IFtvQooxvoZ2w1nssa8Br3h5PI+DFahDXRAImb\n1gocn4nsTTmRFZAbxKzPNUTmYbnymaMfjczr4PK7eVtGdxW4TDc9Y6CCpmiktKs+\nEp/UNjjsFDRIPcvQFZ8kNVTwL+q1eOZ4HVf04OImLTvqEsoGDqauwPD7Z6Srsjk=\n=iz05\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRriz7AAoJELCniwpsSBz2WvIH/i8VfhlPTMmd+e6sv3GL8d+Q\nUNBqVb4lpncKFt1lcr0FicA/hsEtLh27eB50H1jzSvXi1onLfHr57SOy9gWda4RA\nlh339Wy+JSpH2rZb0CmbpZkpD+IqcxOc2Ehf5QP8nmceGFewyXXg+InQqxo0MZWS\nocM2qk4wXKrOaEQblx6sqKgsN3IFtvQooxvoZ2w1nssa8Br3h5PI+DFahDXRAImb\n1gocn4nsTTmRFZAbxKzPNUTmYbnymaMfjczr4PK7eVtGdxW4TDc9Y6CCpmiktKs+\nEp/UNjjsFDRIPcvQFZ8kNVTwL+q1eOZ4HVf04OImLTvqEsoGDqauwPD7Z6Srsjk=\n=iz05\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c1a1ab067721ea17ef7b05ec5c68b01321017f05\ntype commit\ntag v0.8.24\ntagger isaacs <i@izs.me> 1370369275 -0700\n\n2013.06.04, Version 0.8.24 (maintenance)\n\n* npm: Upgrade to v1.2.24\n\n* url: Properly parse certain oddly formed urls (isaacs)\n\n* http: Don't try to destroy nonexistent sockets (isaacs)\n\n* handle_wrap: fix NULL pointer dereference (Ben Noordhuis)\n"
+  }
+}

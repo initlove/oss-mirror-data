@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6ODZiNDI5ZTE0NTM0OWQwMTA3OTkyZDUzN2RhODU5NDNiNmFkY2Y1MQ==",
+  "sha": "86b429e145349d0107992d537da85943b6adcf51",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/86b429e145349d0107992d537da85943b6adcf51",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2019-05-27T09:57:51Z"
+  },
+  "object": {
+    "sha": "26b86051ea07d197e337907d6e93cd3f7390c923",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/26b86051ea07d197e337907d6e93cd3f7390c923"
+  },
+  "tag": "v3.0.105",
+  "message": "MooseFS 3.0.105\n\n * (nbd) fixed segfault when filename not specified\n * (client) fixed size of waiting threads counter (very rare deadlock in write module)\n * (cli) fixed status returned in case of master name that can't be resolved (issue #238)\n * (nbd) added option for specifying subfolder on MFS for block devices (issue #252)\n * (netdump) fixed using deprecated function pcap_lookupdev\n * (cli) fixed 'free space' in plain mode\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

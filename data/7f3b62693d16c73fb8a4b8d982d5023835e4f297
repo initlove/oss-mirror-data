@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6N2YzYjYyNjkzZDE2YzczZmI4YTRiOGQ5ODJkNTAyMzgzNWU0ZjI5Nw==",
+  "sha": "7f3b62693d16c73fb8a4b8d982d5023835e4f297",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/7f3b62693d16c73fb8a4b8d982d5023835e4f297",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T15:08:59Z"
+  },
+  "object": {
+    "sha": "9f4dc02c588af4fce820d8db6b92aa61d4f52625",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/9f4dc02c588af4fce820d8db6b92aa61d4f52625"
+  },
+  "tag": "v3.0.58",
+  "message": "MooseFS 3.0.58-1\n\n * (mount) added condition for requests in read data (request should begin before EOF)\n * (systemd) fixed typo in mfscgiserv service file\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

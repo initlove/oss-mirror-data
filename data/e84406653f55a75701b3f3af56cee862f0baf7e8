@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZTg0NDA2NjUzZjU1YTc1NzAxYjNmM2FmNTZjZWU4NjJmMGJhZjdlOA==",
+  "sha": "e84406653f55a75701b3f3af56cee862f0baf7e8",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/e84406653f55a75701b3f3af56cee862f0baf7e8",
+  "tagger": {
+    "name": "Julien Gilli",
+    "email": "julien.gilli@joyent.com",
+    "date": "2015-07-09T21:57:28Z"
+  },
+  "object": {
+    "sha": "0439a28d519fb6efe228074b0588a59452fc1677",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/0439a28d519fb6efe228074b0588a59452fc1677"
+  },
+  "tag": "v0.10.40",
+  "message": "2015.07.09, Version 0.10.40 (Maintenance)\n\n* openssl: upgrade to 1.0.1p\n\n* V8: back-port JitCodeEvent patch from upstream (Ben Noordhuis)\n\n* win,msi: create npm folder in AppData directory (Steven Rockarts)\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJVnu5IAAoJEFCjBR+IjGKN1hIQAKOzDwhn61rxGNSfgvvUf9Mm\nydnL+b9oZKU8/A6c3RLndOi2Q89bvAORsdy7Coqh8H8kN25jH0BedvzGubzVYoDY\nzhjKBbYghEnWCxCbUUaYO0i4y0TbEqkrMejPbMrQYkDAoOznSOGOBBnlRQh79r+T\nKZNWjgJT48LmgA6+5oQdpaQ4hvgl85+ERoePn0M23vvJ7RWRyIDoaDBjQUgeFvem\ni9pDismNYmJIhEH3hUyzhDXgJrGJ/w4T3u1nb9gFbhUO3MOKd0fjxp2g/TplJF/B\nGUReJRTRd5aztJQtaYATQNjSWLB7rC8y2iTj17mmHkUwSZwsZSRhTBDjBmK6Eedw\nmvJgCcJ/0ecQ7jXxCGajvZk1ZIVP1qCY2qjL4pXHELhVyXPmvgrLpjM1ILg8+1VF\nv7XNgkuF0UfIvG3m7DDUoeruQVNTljYai3qMd8miK+gsGALC8nnsgL9lkUqG1AWW\nf2PKXhViDMpFLEjdYn+yajVS3KS72gX41sQEVuacMkpN72VHYi0LXlV8071sRRei\n3ZgkY/wi954qT2HyVj905VHPm8CQu6AwBtVpM4VoB+pEQhbw+cuPBx2+5m7Ls2lW\n+WlDA92CRmaTgu8Hl8c7vVOhKwmKF5+PsgePa9VNVox2WDY5CpGx/LFxj0VC+IRB\n3vILyyaECgEE1kHvnnMB\n=svAK\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJVnu5IAAoJEFCjBR+IjGKN1hIQAKOzDwhn61rxGNSfgvvUf9Mm\nydnL+b9oZKU8/A6c3RLndOi2Q89bvAORsdy7Coqh8H8kN25jH0BedvzGubzVYoDY\nzhjKBbYghEnWCxCbUUaYO0i4y0TbEqkrMejPbMrQYkDAoOznSOGOBBnlRQh79r+T\nKZNWjgJT48LmgA6+5oQdpaQ4hvgl85+ERoePn0M23vvJ7RWRyIDoaDBjQUgeFvem\ni9pDismNYmJIhEH3hUyzhDXgJrGJ/w4T3u1nb9gFbhUO3MOKd0fjxp2g/TplJF/B\nGUReJRTRd5aztJQtaYATQNjSWLB7rC8y2iTj17mmHkUwSZwsZSRhTBDjBmK6Eedw\nmvJgCcJ/0ecQ7jXxCGajvZk1ZIVP1qCY2qjL4pXHELhVyXPmvgrLpjM1ILg8+1VF\nv7XNgkuF0UfIvG3m7DDUoeruQVNTljYai3qMd8miK+gsGALC8nnsgL9lkUqG1AWW\nf2PKXhViDMpFLEjdYn+yajVS3KS72gX41sQEVuacMkpN72VHYi0LXlV8071sRRei\n3ZgkY/wi954qT2HyVj905VHPm8CQu6AwBtVpM4VoB+pEQhbw+cuPBx2+5m7Ls2lW\n+WlDA92CRmaTgu8Hl8c7vVOhKwmKF5+PsgePa9VNVox2WDY5CpGx/LFxj0VC+IRB\n3vILyyaECgEE1kHvnnMB\n=svAK\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0439a28d519fb6efe228074b0588a59452fc1677\ntype commit\ntag v0.10.40\ntagger Julien Gilli <julien.gilli@joyent.com> 1436479048 -0700\n\n2015.07.09, Version 0.10.40 (Maintenance)\n\n* openssl: upgrade to 1.0.1p\n\n* V8: back-port JitCodeEvent patch from upstream (Ben Noordhuis)\n\n* win,msi: create npm folder in AppData directory (Steven Rockarts)\n"
+  }
+}

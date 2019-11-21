@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MmZmZDUxZTgwNGQ4ZWZmZDc4MGY4MzE0ZjE1ZjY5MmJhYzFhMGI2Yg==",
+  "sha": "2ffd51e804d8effd780f8314f15f692bac1a0b6b",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/2ffd51e804d8effd780f8314f15f692bac1a0b6b",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-01-23T19:43:25Z"
+  },
+  "object": {
+    "sha": "b0e5f195dfce3e2b99f5091373d49f6616682596",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/b0e5f195dfce3e2b99f5091373d49f6616682596"
+  },
+  "tag": "v0.10.25",
+  "message": "2014.01.23, Version 0.10.25 (Stable)\n\n* uv: Upgrade to v0.10.23\n\n* npm: Upgrade to v1.3.24\n\n* v8: Fix enumeration for objects with lots of properties\n\n* child_process: fix spawn() optional arguments (Sam Roberts)\n\n* cluster: report more errors to workers (Fedor Indutny)\n\n* domains: exit() only affects active domains (Ryan Graham)\n\n* src: OnFatalError handler must abort() (Timothy J Fontaine)\n\n* stream: writes may return false but forget to emit drain (Yang Tianyang)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlLhcN0ACgkQfTP/nQJGQG0HxACeOvx5tEO0cuEZRokGdgIzR15B\ncEcAoMbsgU+kr1Npj40cJVRI5cVv3Vbs\n=QEhy\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlLhcN0ACgkQfTP/nQJGQG0HxACeOvx5tEO0cuEZRokGdgIzR15B\ncEcAoMbsgU+kr1Npj40cJVRI5cVv3Vbs\n=QEhy\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b0e5f195dfce3e2b99f5091373d49f6616682596\ntype commit\ntag v0.10.25\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1390506205 -0800\n\n2014.01.23, Version 0.10.25 (Stable)\n\n* uv: Upgrade to v0.10.23\n\n* npm: Upgrade to v1.3.24\n\n* v8: Fix enumeration for objects with lots of properties\n\n* child_process: fix spawn() optional arguments (Sam Roberts)\n\n* cluster: report more errors to workers (Fedor Indutny)\n\n* domains: exit() only affects active domains (Ryan Graham)\n\n* src: OnFatalError handler must abort() (Timothy J Fontaine)\n\n* stream: writes may return false but forget to emit drain (Yang Tianyang)\n"
+  }
+}

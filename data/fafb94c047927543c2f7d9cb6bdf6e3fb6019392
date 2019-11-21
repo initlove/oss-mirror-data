@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZmFmYjk0YzA0NzkyNzU0M2MyZjdkOWNiNmJkZjZlM2ZiNjAxOTM5Mg==",
+  "sha": "fafb94c047927543c2f7d9cb6bdf6e3fb6019392",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/fafb94c047927543c2f7d9cb6bdf6e3fb6019392",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-05-24T22:43:37Z"
+  },
+  "object": {
+    "sha": "30d9e9fdd9d4c33d3d95a129d021cd8b5b91eddb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/30d9e9fdd9d4c33d3d95a129d021cd8b5b91eddb"
+  },
+  "tag": "v0.10.8",
+  "message": "2013.05.24, Version 0.10.8 (Stable)\n\n* v8: update to 3.14.5.9\n\n* uv: upgrade to 0.10.8\n\n* npm: Upgrade to 1.2.23\n\n* http: remove bodyHead from 'upgrade' events (Nathan Zadoks)\n\n* http: Return true on empty writes, not false (isaacs)\n\n* http: save roundtrips, convert buffers to strings (Ben Noordhuis)\n\n* configure: respect the --dest-os flag consistently (Nathan Rajlich)\n\n* buffer: throw when writing beyond buffer (Trevor Norris)\n\n* crypto: Clear error after DiffieHellman key errors (isaacs)\n\n* string_bytes: strip padding from base64 strings (Trevor Norris)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRn+0ZAAoJELCniwpsSBz22mEH/0VlNtwIev9etHfzPBjehXbG\nzyVbGX1LV1qKcnFy5clriQh+q1qk8C/Qz0+EVMmCQl9KdExT47zuE3VqGKlJhgIi\nH9/lgE7sT7NUWrM+Vi43pWWVbbeXXmXw5motIpNYCZ5I3EPtD4JcQxYTUlHBCLZV\nTfJV8i3N6j8P3rGtBHZKtb3N88KiH17XV1DXqkIiBU7JWKjMyck5T82vAxSAqRoD\nn8ZHknOQxaQfPT6nzw9V9XZsyXpL7QeXjvmisA84XTHRntjzP84ilM0nhoDGGtYf\ne41tIAthPs+nB45vTK1/9cfV9QWN+MMGy+KN2oZA74iuvPEBs/vh2TGECeuff2Y=\n=zHZV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRn+0ZAAoJELCniwpsSBz22mEH/0VlNtwIev9etHfzPBjehXbG\nzyVbGX1LV1qKcnFy5clriQh+q1qk8C/Qz0+EVMmCQl9KdExT47zuE3VqGKlJhgIi\nH9/lgE7sT7NUWrM+Vi43pWWVbbeXXmXw5motIpNYCZ5I3EPtD4JcQxYTUlHBCLZV\nTfJV8i3N6j8P3rGtBHZKtb3N88KiH17XV1DXqkIiBU7JWKjMyck5T82vAxSAqRoD\nn8ZHknOQxaQfPT6nzw9V9XZsyXpL7QeXjvmisA84XTHRntjzP84ilM0nhoDGGtYf\ne41tIAthPs+nB45vTK1/9cfV9QWN+MMGy+KN2oZA74iuvPEBs/vh2TGECeuff2Y=\n=zHZV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 30d9e9fdd9d4c33d3d95a129d021cd8b5b91eddb\ntype commit\ntag v0.10.8\ntagger isaacs <i@izs.me> 1369435417 -0700\n\n2013.05.24, Version 0.10.8 (Stable)\n\n* v8: update to 3.14.5.9\n\n* uv: upgrade to 0.10.8\n\n* npm: Upgrade to 1.2.23\n\n* http: remove bodyHead from 'upgrade' events (Nathan Zadoks)\n\n* http: Return true on empty writes, not false (isaacs)\n\n* http: save roundtrips, convert buffers to strings (Ben Noordhuis)\n\n* configure: respect the --dest-os flag consistently (Nathan Rajlich)\n\n* buffer: throw when writing beyond buffer (Trevor Norris)\n\n* crypto: Clear error after DiffieHellman key errors (isaacs)\n\n* string_bytes: strip padding from base64 strings (Trevor Norris)\n"
+  }
+}

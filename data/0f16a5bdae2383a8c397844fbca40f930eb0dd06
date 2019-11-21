@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MGYxNmE1YmRhZTIzODNhOGMzOTc4NDRmYmNhNDBmOTMwZWIwZGQwNg==",
+  "sha": "0f16a5bdae2383a8c397844fbca40f930eb0dd06",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/0f16a5bdae2383a8c397844fbca40f930eb0dd06",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-08-16T00:19:58Z"
+  },
+  "object": {
+    "sha": "f640c5d35cba96634cd8176a525a1d876e361a61",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/f640c5d35cba96634cd8176a525a1d876e361a61"
+  },
+  "tag": "v0.8.7",
+  "message": "2012.08.15, Version 0.8.7 (Stable)\n\n* npm: Upgrade to 1.1.49\n\n* website: download page (Golo Roden)\n\n* crypto: fix uninitialized memory access in openssl (Ben Noordhuis)\n\n* buffer, crypto: fix buffer decoding (Ben Noordhuis)\n\n* build: compile with -fno-tree-vrp when gcc >= 4.0 (Ben Noordhuis)\n\n* tls: handle multiple CN fields when verifying cert (Ben Noordhuis)\n\n* doc: remove unused util from child_process (Kyle Robinson Young)\n\n* build: rework -fvisibility=hidden detection (Ben Noordhuis)\n\n* windows: don't duplicate invalid stdio handles (Bert Belder)\n\n* windows: fix typos in process-stdio.c (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQLDyuAAoJELCniwpsSBz2gLAH/AhHE5g8QwWdWIzddKqKOxdJ\n2hCX0MY51dJNZ99L75pHf/XURuyJBC1QJv88mGEHWznoF2ssJ86A+elkKG0Af+5b\nBsMSitKtdq1zFjesxRNtxKs1CvD1dhd19FAMc9FsOGF8sRW/BbBOMuGMTqcS8r2J\nBq7pgaMxDm9IT6/+Fhw+KG+yZSJDpQjHLEvCjXBTiCLnGdWVSW1HijmCJ7rwuKcI\nRmTOoOYuVDov8CaxDjgig3+6yMzpIuNVqdrII02ac65tYoh2ygko8LdoZxk03Q28\nwJu0Ywz9z9JoO3o3lyS+lkKpagmU1TanY2ZhdAczKKYX//aedU8e01IkDBNMBo8=\n=107j\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQLDyuAAoJELCniwpsSBz2gLAH/AhHE5g8QwWdWIzddKqKOxdJ\n2hCX0MY51dJNZ99L75pHf/XURuyJBC1QJv88mGEHWznoF2ssJ86A+elkKG0Af+5b\nBsMSitKtdq1zFjesxRNtxKs1CvD1dhd19FAMc9FsOGF8sRW/BbBOMuGMTqcS8r2J\nBq7pgaMxDm9IT6/+Fhw+KG+yZSJDpQjHLEvCjXBTiCLnGdWVSW1HijmCJ7rwuKcI\nRmTOoOYuVDov8CaxDjgig3+6yMzpIuNVqdrII02ac65tYoh2ygko8LdoZxk03Q28\nwJu0Ywz9z9JoO3o3lyS+lkKpagmU1TanY2ZhdAczKKYX//aedU8e01IkDBNMBo8=\n=107j\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f640c5d35cba96634cd8176a525a1d876e361a61\ntype commit\ntag v0.8.7\ntagger isaacs <i@izs.me> 1345076398 -0700\n\n2012.08.15, Version 0.8.7 (Stable)\n\n* npm: Upgrade to 1.1.49\n\n* website: download page (Golo Roden)\n\n* crypto: fix uninitialized memory access in openssl (Ben Noordhuis)\n\n* buffer, crypto: fix buffer decoding (Ben Noordhuis)\n\n* build: compile with -fno-tree-vrp when gcc >= 4.0 (Ben Noordhuis)\n\n* tls: handle multiple CN fields when verifying cert (Ben Noordhuis)\n\n* doc: remove unused util from child_process (Kyle Robinson Young)\n\n* build: rework -fvisibility=hidden detection (Ben Noordhuis)\n\n* windows: don't duplicate invalid stdio handles (Bert Belder)\n\n* windows: fix typos in process-stdio.c (Bert Belder)\n"
+  }
+}

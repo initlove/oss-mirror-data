@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMyNTI5ODo5N2M2MTdmNzJiNTg5ODMwMTdmMzJkYTk3ZmMyMjg1OTdjMGRhZThm",
+  "sha": "97c617f72b58983017f32da97fc228597c0dae8f",
+  "url": "https://api.github.com/repos/torvalds/linux/git/tags/97c617f72b58983017f32da97fc228597c0dae8f",
+  "tagger": {
+    "name": "Linus Torvalds",
+    "email": "torvalds@woody.linux-foundation.org",
+    "date": "2007-01-31T04:01:36Z"
+  },
+  "object": {
+    "sha": "f56df2f4db6e4af87fb8e941cff69f4501a111df",
+    "type": "commit",
+    "url": "https://api.github.com/repos/torvalds/linux/git/commits/f56df2f4db6e4af87fb8e941cff69f4501a111df"
+  },
+  "tag": "v2.6.20-rc7",
+  "message": "Linux 2.6.20-rc7\n\nLet's try to make sure that the fixes didn't introduce any new problems..\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.6 (GNU/Linux)\n\niD8DBQBFwBS2F3YsRnbiHLsRAhVtAJ9ZHWRzHYCse0FVimfzqBMj9zGCJACaA3Hg\nt3DM9VTneP1pBNP+KzDfnRE=\n=sWrc\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.6 (GNU/Linux)\n\niD8DBQBFwBS2F3YsRnbiHLsRAhVtAJ9ZHWRzHYCse0FVimfzqBMj9zGCJACaA3Hg\nt3DM9VTneP1pBNP+KzDfnRE=\n=sWrc\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f56df2f4db6e4af87fb8e941cff69f4501a111df\ntype commit\ntag v2.6.20-rc7\ntagger Linus Torvalds <torvalds@woody.linux-foundation.org> 1170216096 -0800\n\nLinux 2.6.20-rc7\n\nLet's try to make sure that the fixes didn't introduce any new problems..\n"
+  }
+}

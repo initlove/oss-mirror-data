@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM2NTU1OTI6ZTI5NzU1OGJiNzY1ZjMxZjczZGM1NjZhMWRiZWQ4YjFlZTQ5MmZmYQ==",
+  "sha": "e297558bb765f31f73dc566a1dbed8b1ee492ffa",
+  "url": "https://api.github.com/repos/readthedocs/sphinx_rtd_theme/git/tags/e297558bb765f31f73dc566a1dbed8b1ee492ffa",
+  "tagger": {
+    "name": "Anthony Johnson",
+    "email": "aj@ohess.org",
+    "date": "2015-09-15T21:20:58Z"
+  },
+  "object": {
+    "sha": "84b5075f5b8a272b9a6d2689c551a947383bfda7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/readthedocs/sphinx_rtd_theme/git/commits/84b5075f5b8a272b9a6d2689c551a947383bfda7"
+  },
+  "tag": "0.1.9",
+  "message": "0.1.9 Release\n\nChanges:\n\n* Intermittent scrollbar visibility bug fixed. This change introduces a\n  backwards incompatible change to the theme's layout HTML. This should only be\n  a problem for derivative themes that have overridden styling of nav elements\n  using direct decendant selectors. See #215 for more information.\n* Safari overscroll bug fixed\n* Version added to the nav header\n* Revision id was added to the documentation footer if you are using RTD\n* An extra block, ``extrafooter`` was added to allow extra content in the\n  document footer block\n* Fixed modernizr URL\n* Small display style changes on code blocks, figure captions, and nav elements\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

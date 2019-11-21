@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MzcxY2MwOWJkYzk5YzY1OTIzNzQ5MDg1ODg1YWY2MTVkZTc4ZmU4OQ==",
+  "sha": "371cc09bdc99c65923749085885af615de78fe89",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/371cc09bdc99c65923749085885af615de78fe89",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-01-24T18:30:55Z"
+  },
+  "object": {
+    "sha": "5f2f8400f665dc32c3e10e7d31d53d756ded9156",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/5f2f8400f665dc32c3e10e7d31d53d756ded9156"
+  },
+  "tag": "v0.9.8",
+  "message": "2013.01.24, Version 0.9.8 (Unstable)\n\n* npm: Upgrade to v1.2.3\n\n* V8: Upgrade to 3.15.11.10\n\n* streams: Support objects other than Buffers (Jake Verbaten)\n\n* buffer: remove float write range checks (Trevor Norris)\n\n* http: close connection on 304/204 responses with chunked encoding (Ben Noordhuis)\n\n* build: fix build with dtrace support on FreeBSD (Fedor Indutny)\n\n* console: Support formatting options in trace() (isaacs)\n\n* domain: empty stack on all exceptions (Dave Olszewski)\n\n* unix, windows: make uv_*_bind() error codes consistent (Andrius Bentkus)\n\n* linux: add futimes() fallback (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRAX3fAAoJELCniwpsSBz20X0H+wQ/+xaPTUj6jmf470TFW+Sh\nLqcmVkNagdR9ANrbSrvls0wVcbKKcsTz+MGuR0vCAncMbFH5kFmeZBYq3eFYgo6H\n+OmUFe83OteC3hcKH5HlRJ/59tgWF0XouDqLCIipVaBK1P1XFClHkbK+vXtXqd/b\nxcr12X1/IKkUu87aoCBMvjRXjQHeuhMQupgLoi4LqgwibYWkDU5qFgQOPMhmFlXM\nalzwF/+CS8cK5hkanAmFgbPl9i0wiQzR2MHg8wJI9WskLp+rYu14dXKgdq1rm4jS\nxuMnxa36XjvsuIJN39CrlJZV+xg1iVVRePcL3nA8lZJklVMy72LUpGkLJ6DMLPs=\n=/Wrq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRAX3fAAoJELCniwpsSBz20X0H+wQ/+xaPTUj6jmf470TFW+Sh\nLqcmVkNagdR9ANrbSrvls0wVcbKKcsTz+MGuR0vCAncMbFH5kFmeZBYq3eFYgo6H\n+OmUFe83OteC3hcKH5HlRJ/59tgWF0XouDqLCIipVaBK1P1XFClHkbK+vXtXqd/b\nxcr12X1/IKkUu87aoCBMvjRXjQHeuhMQupgLoi4LqgwibYWkDU5qFgQOPMhmFlXM\nalzwF/+CS8cK5hkanAmFgbPl9i0wiQzR2MHg8wJI9WskLp+rYu14dXKgdq1rm4jS\nxuMnxa36XjvsuIJN39CrlJZV+xg1iVVRePcL3nA8lZJklVMy72LUpGkLJ6DMLPs=\n=/Wrq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5f2f8400f665dc32c3e10e7d31d53d756ded9156\ntype commit\ntag v0.9.8\ntagger isaacs <i@izs.me> 1359052255 -0800\n\n2013.01.24, Version 0.9.8 (Unstable)\n\n* npm: Upgrade to v1.2.3\n\n* V8: Upgrade to 3.15.11.10\n\n* streams: Support objects other than Buffers (Jake Verbaten)\n\n* buffer: remove float write range checks (Trevor Norris)\n\n* http: close connection on 304/204 responses with chunked encoding (Ben Noordhuis)\n\n* build: fix build with dtrace support on FreeBSD (Fedor Indutny)\n\n* console: Support formatting options in trace() (isaacs)\n\n* domain: empty stack on all exceptions (Dave Olszewski)\n\n* unix, windows: make uv_*_bind() error codes consistent (Andrius Bentkus)\n\n* linux: add futimes() fallback (Ben Noordhuis)\n"
+  }
+}

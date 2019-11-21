@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MjUyN2E2NTQxOGYxMjk0OThiMTIzMWQ0NjZlNGI3ZWJjN2IzMzcxNw==",
+  "sha": "2527a65418f129498b1231d466e4b7ebc7b33717",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/2527a65418f129498b1231d466e4b7ebc7b33717",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-03-23T18:15:40Z"
+  },
+  "object": {
+    "sha": "e513ffef7549a56a5af728e1f0c2c0c8f290518a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/e513ffef7549a56a5af728e1f0c2c0c8f290518a"
+  },
+  "tag": "v0.6.14",
+  "message": "2012.03.22 Version 0.6.14 (stable)\n\n* net: don't crash when queued write fails (Igor Zinkovsky)\n\n* sunos: fix EMFILE on process.memoryUsage() (Bryan Cantrill)\n\n* crypto: fix compile-time error with openssl 0.9.7e (Ben Noordhuis)\n\n* unix: ignore ECONNABORTED errors from accept() (Ben Noordhuis)\n\n* Add UV_ENOSPC and mappings to it (Bert Belder)\n\n* http-parser: Fix response body is not read (koichik)\n\n* Upgrade npm to 1.1.12\n  - upgrade node-gyp to 0.3.7\n  - work around AV-locked directories on Windows\n  - Fix isaacs/npm#2293 Don't try to 'uninstall' /\n  - Exclude symbolic links from packages.\n  - Fix isaacs/npm#2275 Spurious 'unresolvable cycle' error.\n  - Exclude/include dot files as if they were normal files\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPbL3MAAoJELCniwpsSBz2DMUIAIujOrSJ8bg9KA9/+sPKS/R9\nN4BKiadN77dmZnBu8YbUQmjPum6U2BDlkmlv1GcEt+h/XxNTnjBbr7+CIsrEfWkp\nZKmGWFWVf00si6jEj3NjYQnzqcBj331qGk1l8jbkGm5m1l0RiCebC8HBU3ogXYgL\nNigFE1MsOhTb9+B8m+Q3R+z5Z/NHWhOZAfWl1rIBkNM4nG1wbMY8k9qQjOMYKxko\nSVX8Eth1yjYbuBVJL8UTEHfb8vYhBUv4+0TIZvEsPj8zGAvQjW6fkiHFSNDH0j09\nrTsVSf83kIvZlPV0WJtLm1KA2IOTlbYrdcml46waoQ+0oXe6rrJjwXEyMHqAmbQ=\n=JJfh\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPbL3MAAoJELCniwpsSBz2DMUIAIujOrSJ8bg9KA9/+sPKS/R9\nN4BKiadN77dmZnBu8YbUQmjPum6U2BDlkmlv1GcEt+h/XxNTnjBbr7+CIsrEfWkp\nZKmGWFWVf00si6jEj3NjYQnzqcBj331qGk1l8jbkGm5m1l0RiCebC8HBU3ogXYgL\nNigFE1MsOhTb9+B8m+Q3R+z5Z/NHWhOZAfWl1rIBkNM4nG1wbMY8k9qQjOMYKxko\nSVX8Eth1yjYbuBVJL8UTEHfb8vYhBUv4+0TIZvEsPj8zGAvQjW6fkiHFSNDH0j09\nrTsVSf83kIvZlPV0WJtLm1KA2IOTlbYrdcml46waoQ+0oXe6rrJjwXEyMHqAmbQ=\n=JJfh\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e513ffef7549a56a5af728e1f0c2c0c8f290518a\ntype commit\ntag v0.6.14\ntagger isaacs <i@izs.me> 1332526540 -0700\n\n2012.03.22 Version 0.6.14 (stable)\n\n* net: don't crash when queued write fails (Igor Zinkovsky)\n\n* sunos: fix EMFILE on process.memoryUsage() (Bryan Cantrill)\n\n* crypto: fix compile-time error with openssl 0.9.7e (Ben Noordhuis)\n\n* unix: ignore ECONNABORTED errors from accept() (Ben Noordhuis)\n\n* Add UV_ENOSPC and mappings to it (Bert Belder)\n\n* http-parser: Fix response body is not read (koichik)\n\n* Upgrade npm to 1.1.12\n  - upgrade node-gyp to 0.3.7\n  - work around AV-locked directories on Windows\n  - Fix isaacs/npm#2293 Don't try to 'uninstall' /\n  - Exclude symbolic links from packages.\n  - Fix isaacs/npm#2275 Spurious 'unresolvable cycle' error.\n  - Exclude/include dot files as if they were normal files\n"
+  }
+}

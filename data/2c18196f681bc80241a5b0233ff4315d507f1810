@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTA1MDU3NzU6MmMxODE5NmY2ODFiYzgwMjQxYTViMDIzM2ZmNDMxNWQ1MDdmMTgxMA==",
+  "sha": "2c18196f681bc80241a5b0233ff4315d507f1810",
+  "url": "https://api.github.com/repos/moosefs/moosefs/git/tags/2c18196f681bc80241a5b0233ff4315d507f1810",
+  "tagger": {
+    "name": "Piotr Robert Konopelko",
+    "email": "piotr.konopelko@moosefs.com",
+    "date": "2016-03-08T14:58:52Z"
+  },
+  "object": {
+    "sha": "aba0a21936f8206dda734cc7354a6397edb7cb8d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/moosefs/moosefs/git/commits/aba0a21936f8206dda734cc7354a6397edb7cb8d"
+  },
+  "tag": "v3.0.45",
+  "message": "MooseFS 3.0.45-1\n\n * (mount) fixed cache for extra inode data (usage of non thread-safe allocation functions - leads to hangups on lookup/open etc.)\n * (mount) fixed data-cache issue (delete only directories from kerenel dentry cache)\n * (mount) inserting into xattr cache \"nonexistent\" xattr \"security.capability\" after file creation. (speed up writing small files)\n * (master) fixed scenario causing deleting chunks from chunkservers marked for removal\n * (cgi+cli) fixed color of reported exports checksum for non-pro masters\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

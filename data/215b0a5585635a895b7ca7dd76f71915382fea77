@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY2NTE2NjoyMTViMGE1NTg1NjM1YTg5NWI3Y2E3ZGQ3NmY3MTkxNTM4MmZlYTc3",
+  "sha": "215b0a5585635a895b7ca7dd76f71915382fea77",
+  "url": "https://api.github.com/repos/openstack/horizon/git/tags/215b0a5585635a895b7ca7dd76f71915382fea77",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-09-16T08:16:02Z"
+  },
+  "object": {
+    "sha": "f9774acb7345b644d344af3af2f350170db38dfd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/horizon/git/commits/f9774acb7345b644d344af3af2f350170db38dfd"
+  },
+  "tag": "10.0.0.0rc1",
+  "message": "horizon 10.0.0.0rc1 release candidate\n\nmeta:version: 10.0.0.0rc1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Rob Cresswell <robert.cresswell@outlook.com>\nmeta:release:Commit: Rob Cresswell <robert.cresswell@outlook.com>\nmeta:release:Change-Id: Ie0c61e3c0d2687e07b57a714e96563bccad5831d\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX26pCAAoJENljH+rwzGIn498IAI1yzMsMSwXd5wHBa8hiJM3X\ntfb8IuKnwy//GVeG6eJSMwPoGLuTqz1g5LZ51aw2nPMr1wy1C4YHSA9AHdbEyKao\nuMFSZ9w7BoTg77Xl05G+MmLb8tI2pz/knFNyiHmb7nz1UzRshZ47hP+dg+lpGoIN\n1NFODsMpmXdgZXu8w0Zd4jScEiu0TuxmyrWV7LrahAMSbYTTxaOE3m88XvWogF5T\nV4UOc9ZoKf/pcEzEJG6XrYxRDVVVHBpr/8xnQ1JxwzyDTtROAO/ZVXTkzFbCCGWI\nAd94Ct8OtBzatg/l4b9lcLF8zSSgAsnpDg52fgQ2vyjaOocvF7aOzv5mUFyt8n8=\n=gf3Q\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX26pCAAoJENljH+rwzGIn498IAI1yzMsMSwXd5wHBa8hiJM3X\ntfb8IuKnwy//GVeG6eJSMwPoGLuTqz1g5LZ51aw2nPMr1wy1C4YHSA9AHdbEyKao\nuMFSZ9w7BoTg77Xl05G+MmLb8tI2pz/knFNyiHmb7nz1UzRshZ47hP+dg+lpGoIN\n1NFODsMpmXdgZXu8w0Zd4jScEiu0TuxmyrWV7LrahAMSbYTTxaOE3m88XvWogF5T\nV4UOc9ZoKf/pcEzEJG6XrYxRDVVVHBpr/8xnQ1JxwzyDTtROAO/ZVXTkzFbCCGWI\nAd94Ct8OtBzatg/l4b9lcLF8zSSgAsnpDg52fgQ2vyjaOocvF7aOzv5mUFyt8n8=\n=gf3Q\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f9774acb7345b644d344af3af2f350170db38dfd\ntype commit\ntag 10.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1474013762 +0000\n\nhorizon 10.0.0.0rc1 release candidate\n\nmeta:version: 10.0.0.0rc1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Rob Cresswell <robert.cresswell@outlook.com>\nmeta:release:Commit: Rob Cresswell <robert.cresswell@outlook.com>\nmeta:release:Change-Id: Ie0c61e3c0d2687e07b57a714e96563bccad5831d\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjE0OTA1OTg6ZWI3OGNkZDdjYzllMjRjZDkzMGViZTEwMzdiMTE1MDFjMzA4MzVmYw==",
+  "sha": "eb78cdd7cc9e24cd930ebe1037b11501c30835fc",
+  "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/tags/eb78cdd7cc9e24cd930ebe1037b11501c30835fc",
+  "tagger": {
+    "name": "Adrien Crivelli",
+    "email": "adrien.crivelli@gmail.com",
+    "date": "2019-11-18T11:33:32Z"
+  },
+  "object": {
+    "sha": "f734783d826bd84c3d54fcf7b71c37ab9bac4b04",
+    "type": "commit",
+    "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/commits/f734783d826bd84c3d54fcf7b71c37ab9bac4b04"
+  },
+  "tag": "1.10.0",
+  "message": "1.10.0\n\n### Changed\n\n- Change license from LGPL 2.1 to MIT [#140](https://github.com/PHPOffice/PhpSpreadsheet/issues/140)\n\n### Added\n\n- Implementation of IFNA() logical function\n- Support \"showZeros\" worksheet option to change how Excel shows and handles \"null\" values returned from a calculation\n- Allow HTML Reader to accept HTML as a string into an existing spreadsheet [#1212](https://github.com/PHPOffice/PhpSpreadsheet/pull/1212)\n\n### Fixed\n\n- IF implementation properly handles the value `#N/A` [#1165](https://github.com/PHPOffice/PhpSpreadsheet/pull/1165)\n- Formula Parser: Wrong line count for stuff like \"MyOtherSheet!A:D\" [#1215](https://github.com/PHPOffice/PhpSpreadsheet/issues/1215)\n- Call garbage collector after removing a column to prevent stale cached values\n- Trying to remove a column that doesn't exist deletes the latest column\n- Keep big integer as integer instead of lossely casting to float [#874](https://github.com/PHPOffice/PhpSpreadsheet/pull/874)\n- Fix branch pruning handling of non boolean conditions [#1167](https://github.com/PHPOffice/PhpSpreadsheet/pull/1167)\n- Fix ODS Reader when no DC namespace are defined [#1182](https://github.com/PHPOffice/PhpSpreadsheet/pull/1182)\n- Fixed Functions->ifCondition for allowing <> and empty condition [#1206](https://github.com/PHPOffice/PhpSpreadsheet/pull/1206)\n- Validate XIRR inputs and return correct error values [#1120](https://github.com/PHPOffice/PhpSpreadsheet/issues/1120)\n- Allow to read xlsx files with exotic workbook names like \"workbook2.xml\" [#1183](https://github.com/PHPOffice/PhpSpreadsheet/pull/1183)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}
