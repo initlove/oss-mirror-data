@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOmZjNzI3YWEyYTJhZDg5ZTc4YTZhZTcyOGVlNzk3ZTVhMmYxMDRjYTM=",
+  "sha": "fc727aa2a2ad89e78a6ae728ee797e5a2f104ca3",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/fc727aa2a2ad89e78a6ae728ee797e5a2f104ca3",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2019-11-12T12:54:43Z"
+  },
+  "object": {
+    "sha": "449d6bf22b01af7d14a297a4ed3e281aa84c94a5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/449d6bf22b01af7d14a297a4ed3e281aa84c94a5"
+  },
+  "tag": "drbd-9.0.21-1",
+  "message": "9.0.21-1 (api:genl2/proto:86-116/transport:14)\n--------\n * fix compat for write same on linux 4.9 and the Debian users\n * fix kernel compat for linux 4.8 and 4.9; this mainly affected Debian\n   users; The symptoms where slow resync and resync getting stuck always at\n   the same point\n * enable resync of lost and re-created backing devices (think lost node) when\n   the backing device was thinly provisioned and its current uuid is pre-set\n   to a 'day0 UUID' (by LINSTOR); that works by copying a unused bitmap slot\n   which tracks all changes since day 0\n * fix attach when bitmap is on PMEM; before it was set to\n   'all blocks out-of-sync' upon attach\n * avoid doing reconciliation resync multiple times by updating the\n   resync target's dagtag after if completed successfully\n * return disk-state from Outdated to UpToDate when it loses connection\n   while in WFBitMapT and we have a stable and UpToDate peer\n * new option --force-resync flag can be passed to new-current-uuid, that\n   can be used to trigger initial resync without touching the role\n-----BEGIN PGP SIGNATURE-----\n\niHkEABECADkWIQSsgKNi/XF/Se+doMhpux1cAKqJMwUCXcqrsBsccGhpbGlwcC5y\nZWlzbmVyQGxpbmJpdC5jb20ACgkQabsdXACqiTMddQCfedJIx5c+T4IYRSVqpSnj\nZVddj5AAoL7Gv6h5ClnWRK6JzsQB6Iaz7KhD\n=fMmb\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niHkEABECADkWIQSsgKNi/XF/Se+doMhpux1cAKqJMwUCXcqrsBsccGhpbGlwcC5y\nZWlzbmVyQGxpbmJpdC5jb20ACgkQabsdXACqiTMddQCfedJIx5c+T4IYRSVqpSnj\nZVddj5AAoL7Gv6h5ClnWRK6JzsQB6Iaz7KhD\n=fMmb\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 449d6bf22b01af7d14a297a4ed3e281aa84c94a5\ntype commit\ntag drbd-9.0.21-1\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1573563283 +0100\n\n9.0.21-1 (api:genl2/proto:86-116/transport:14)\n--------\n * fix compat for write same on linux 4.9 and the Debian users\n * fix kernel compat for linux 4.8 and 4.9; this mainly affected Debian\n   users; The symptoms where slow resync and resync getting stuck always at\n   the same point\n * enable resync of lost and re-created backing devices (think lost node) when\n   the backing device was thinly provisioned and its current uuid is pre-set\n   to a 'day0 UUID' (by LINSTOR); that works by copying a unused bitmap slot\n   which tracks all changes since day 0\n * fix attach when bitmap is on PMEM; before it was set to\n   'all blocks out-of-sync' upon attach\n * avoid doing reconciliation resync multiple times by updating the\n   resync target's dagtag after if completed successfully\n * return disk-state from Outdated to UpToDate when it loses connection\n   while in WFBitMapT and we have a stable and UpToDate peer\n * new option --force-resync flag can be passed to new-current-uuid, that\n   can be used to trigger initial resync without touching the role\n"
+  }
+}

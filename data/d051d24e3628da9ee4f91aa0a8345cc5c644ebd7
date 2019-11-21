@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOmQwNTFkMjRlMzYyOGRhOWVlNGY5MWFhMGE4MzQ1Y2M1YzY0NGViZDc=",
+  "sha": "d051d24e3628da9ee4f91aa0a8345cc5c644ebd7",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/d051d24e3628da9ee4f91aa0a8345cc5c644ebd7",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2013-10-11T19:50:01Z"
+  },
+  "object": {
+    "sha": "599f286440bd633d15d5ff985204aff4bccffadd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/599f286440bd633d15d5ff985204aff4bccffadd"
+  },
+  "tag": "drbd-8.4.4",
+  "message": "8.4.4 (api:genl1/proto:86-101)\n--------\n * Changes from 8.3.16\n   * fix potential deadlock when concurrently fencing and establishing a connection\n   * fix potential distributed deadlock during verify or resync\n   * fix decoding of bitmap vli rle for device sizes > 64 TB\n   * fix for deadlock when using automatic split-brain-recovery\n   * only fail empty flushes if no good data is reachable\n   * avoid to shrink max_bio_size due to peer re-configuration\n   * fix resume-io after reconnect with broken fence-peer handler\n   * crm-fence-peer: less cib polling, peer-alive detection using crmadmin,\n     and other improvements\n   * OCF RA: avoid too tight pacemaker driven recovery loop on failed promote,\n     implement adjust_master_score parameter\n   * fix too large bursts for very slow resync rates\n   * don't let application IO throttle resync to a stall\n * Fixed a hole in the challenge-response implementation\n * Fixed a theoretical IO deadlock (Only triggers with unusual small AL i.e. 7)\n * Fixed attaching to disks with fixed size external meta-data\n   (This regressions was introduced with 8.4.3)\n * Fixed a crash when the connection broke at a very exact point in\n   time while a graceful disconnect executes\n * Support for REQ_DISCARD\n * Allow parallel promote/demote\n * Allow online changing of al-stripes and al-stripe-size with the\n   resize command\n * drbdadm adjust now deals with IP-address changes correctly\n * Align the internal object model with drbd-9.0 (away from drbd-8.3)\n * New drbd-proxy option \"bwlimit\"; allow proxy options on host level\n * Compiles on Linux v3.10\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niEYEABECAAYFAlJYVnsACgkQabsdXACqiTNZ9wCdHq7Q9e0PnHuodjrowoUQipNT\n2RcAn082tmevP5G7ZKt0Z22ZoXxt6Ix5\n=PoJo\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niEYEABECAAYFAlJYVnsACgkQabsdXACqiTNZ9wCdHq7Q9e0PnHuodjrowoUQipNT\n2RcAn082tmevP5G7ZKt0Z22ZoXxt6Ix5\n=PoJo\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 599f286440bd633d15d5ff985204aff4bccffadd\ntype commit\ntag drbd-8.4.4\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1381521001 +0200\n\n8.4.4 (api:genl1/proto:86-101)\n--------\n * Changes from 8.3.16\n   * fix potential deadlock when concurrently fencing and establishing a connection\n   * fix potential distributed deadlock during verify or resync\n   * fix decoding of bitmap vli rle for device sizes > 64 TB\n   * fix for deadlock when using automatic split-brain-recovery\n   * only fail empty flushes if no good data is reachable\n   * avoid to shrink max_bio_size due to peer re-configuration\n   * fix resume-io after reconnect with broken fence-peer handler\n   * crm-fence-peer: less cib polling, peer-alive detection using crmadmin,\n     and other improvements\n   * OCF RA: avoid too tight pacemaker driven recovery loop on failed promote,\n     implement adjust_master_score parameter\n   * fix too large bursts for very slow resync rates\n   * don't let application IO throttle resync to a stall\n * Fixed a hole in the challenge-response implementation\n * Fixed a theoretical IO deadlock (Only triggers with unusual small AL i.e. 7)\n * Fixed attaching to disks with fixed size external meta-data\n   (This regressions was introduced with 8.4.3)\n * Fixed a crash when the connection broke at a very exact point in\n   time while a graceful disconnect executes\n * Support for REQ_DISCARD\n * Allow parallel promote/demote\n * Allow online changing of al-stripes and al-stripe-size with the\n   resize command\n * drbdadm adjust now deals with IP-address changes correctly\n * Align the internal object model with drbd-9.0 (away from drbd-8.3)\n * New drbd-proxy option \"bwlimit\"; allow proxy options on host level\n * Compiles on Linux v3.10\n"
+  }
+}

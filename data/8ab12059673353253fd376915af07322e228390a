@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQwOTUxNzU6OGFiMTIwNTk2NzMzNTMyNTNmZDM3NjkxNWFmMDczMjJlMjI4MzkwYQ==",
+  "sha": "8ab12059673353253fd376915af07322e228390a",
+  "url": "https://api.github.com/repos/SFTtech/openage/git/tags/8ab12059673353253fd376915af07322e228390a",
+  "tagger": {
+    "name": "Michael Ensslin",
+    "email": "michael@ensslin.cc",
+    "date": "2015-07-28T14:14:44Z"
+  },
+  "object": {
+    "sha": "31c4e0ee5be355fe6158f3f9e8950794187fd3bf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/SFTtech/openage/git/commits/31c4e0ee5be355fe6158f3f9e8950794187fd3bf"
+  },
+  "tag": "v0.3.0",
+  "message": "Major refactoring that adds tons of internal features and a few new visible features.\n\n * New language versions: Python 3.4, C++14, Cython 0.22\n * Python code is now compliance-checked via pylint\n * Integrated various code sanitizers and the clang static analyzer\n * C++ <-> Python function calling interface, based on Cython\n * Proper and integrated C++ and Python logging subsystem\n * Dumped GLEW for libepoxy\n * Keybindings manager\n * New C++ and Python testing system\n\nVisible features:\n\n * Unified program entry point\n * Asset conversion automatically runs when launching the game\n * Units can perform various commands\n * Units actively search for new commands\n * Units can fight\n * Mode indicator\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

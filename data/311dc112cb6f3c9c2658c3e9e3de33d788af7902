@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjMxMWRjMTEyY2I2ZjNjOWMyNjU4YzNlOWUzZGUzM2Q3ODhhZjc5MDI=",
+  "sha": "311dc112cb6f3c9c2658c3e9e3de33d788af7902",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/311dc112cb6f3c9c2658c3e9e3de33d788af7902",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2011-12-13T22:35:16Z"
+  },
+  "object": {
+    "sha": "23a65b276f93f211aebb992513aade5bb0e76a69",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/23a65b276f93f211aebb992513aade5bb0e76a69"
+  },
+  "tag": "drbd-8.4.1rc2",
+  "message": "8.4.1rc2 (api:genl1/proto:86-100)\n--------\n * Fixed a bug that might cause in kernel list corruption triggered by\n   simultaneous IO on multiple volumes in a single resource\n * Fixed an issue in the receiver that could cause connection triggered by\n   simultaneous IO on multiple volumes in a single resource\n * Consider the discard-my-data flag for all volumes\n * Fixed a rare compatibility issue with DRBD's older than 8.3.7\n   when negotiating the bio_size\n * Fixed a rare race condition where an empty resync could stall with\n   if pause/unpause events happen in parallel\n * Made the re-establishing of connections quicker, if it got a broken pipe\n   once. Previously there was a bug in the code caused it to waste the first\n   successful established connection after a broken pipe event.\n * crm-fence-peer.sh: Can now deal with multiple DRBD instances being in\n   a master/slave group\n * Optional load balancing for read requests: new keyword \"read-balance\"\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.9 (GNU/Linux)\n\niD8DBQBO59MyabsdXACqiTMRAgteAJwP+AiKcGQgvILqmR8WcozKJAo4YwCfaD9L\nzu61MTLmPWBRyDjBA4fw1Aw=\n=xHBK\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.9 (GNU/Linux)\n\niD8DBQBO59MyabsdXACqiTMRAgteAJwP+AiKcGQgvILqmR8WcozKJAo4YwCfaD9L\nzu61MTLmPWBRyDjBA4fw1Aw=\n=xHBK\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 23a65b276f93f211aebb992513aade5bb0e76a69\ntype commit\ntag drbd-8.4.1rc2\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1323815716 +0100\n\n8.4.1rc2 (api:genl1/proto:86-100)\n--------\n * Fixed a bug that might cause in kernel list corruption triggered by\n   simultaneous IO on multiple volumes in a single resource\n * Fixed an issue in the receiver that could cause connection triggered by\n   simultaneous IO on multiple volumes in a single resource\n * Consider the discard-my-data flag for all volumes\n * Fixed a rare compatibility issue with DRBD's older than 8.3.7\n   when negotiating the bio_size\n * Fixed a rare race condition where an empty resync could stall with\n   if pause/unpause events happen in parallel\n * Made the re-establishing of connections quicker, if it got a broken pipe\n   once. Previously there was a bug in the code caused it to waste the first\n   successful established connection after a broken pipe event.\n * crm-fence-peer.sh: Can now deal with multiple DRBD instances being in\n   a master/slave group\n * Optional load balancing for read requests: new keyword \"read-balance\"\n"
+  }
+}

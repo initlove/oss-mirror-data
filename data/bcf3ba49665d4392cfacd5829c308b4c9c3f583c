@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzpiY2YzYmE0OTY2NWQ0MzkyY2ZhY2Q1ODI5YzMwOGI0YzljM2Y1ODNj",
+  "sha": "bcf3ba49665d4392cfacd5829c308b4c9c3f583c",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/bcf3ba49665d4392cfacd5829c308b4c9c3f583c",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-04-20T10:10:23Z"
+  },
+  "object": {
+    "sha": "2474ce6e2e1254812a7800b55fb7a295dc34669b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/2474ce6e2e1254812a7800b55fb7a295dc34669b"
+  },
+  "tag": "5.25.2",
+  "message": "Version 5.25.2\n\n### Bug fixes\n\nBetter handling of selections that cover the whole viewport in contentEditable-mode.\n\nNo longer accidentally scroll the editor into view when calling `setValue`.\n\nWork around Chrome Android bug when converting screen coordinates to editor positions.\n\nMake sure long-clicking a selection sets a cursor and doesn't show the editor losing focus.\n\nFix issue where pointer events were incorrectly disabled on Chrome's overlay scrollbars.\n\n[javascript mode](http://codemirror.net/mode/javascript/): Recognize annotations and TypeScript-style type parameters.\n\n[shell mode](http://codemirror.net/mode/shell/): Handle nested braces.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Make parsing of strong/em delimiters CommonMark-compliant.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlj4iSIACgkQcD8b7W0z\nrh4eYwf/QQ0MmG3ORtG7bF6tnxuMPta0DZXzctdAOLY/iqXCThpBCk2ARACcQffS\nnCOxH2IP+RotbgiHgTNTX+x98y6pvJWMts0e6wl/mw9/PytnlcLzA7D9mR4M/Ct0\nCwiDL3pr+qn72YqnfCIw6qnwWXdOvmuUK/L6oRk5rgjD0GhpMaCDFod0vy4V3eCH\nxx/9Bfaa3NlsALbfQIala6bON1HtEpA+CazEfwYwmDABR9jA9gX+KBxzTY6UxoqY\n/mjh9f7HTdvDpFZjZoWWUHLfXoBVilcn9bz8Ji6wwWBg0K16FozIXlehEcHqkLoI\nOw2x01AvzNJGBokxB2PU2DYL5Msv1w==\n=9ePL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlj4iSIACgkQcD8b7W0z\nrh4eYwf/QQ0MmG3ORtG7bF6tnxuMPta0DZXzctdAOLY/iqXCThpBCk2ARACcQffS\nnCOxH2IP+RotbgiHgTNTX+x98y6pvJWMts0e6wl/mw9/PytnlcLzA7D9mR4M/Ct0\nCwiDL3pr+qn72YqnfCIw6qnwWXdOvmuUK/L6oRk5rgjD0GhpMaCDFod0vy4V3eCH\nxx/9Bfaa3NlsALbfQIala6bON1HtEpA+CazEfwYwmDABR9jA9gX+KBxzTY6UxoqY\n/mjh9f7HTdvDpFZjZoWWUHLfXoBVilcn9bz8Ji6wwWBg0K16FozIXlehEcHqkLoI\nOw2x01AvzNJGBokxB2PU2DYL5Msv1w==\n=9ePL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2474ce6e2e1254812a7800b55fb7a295dc34669b\ntype commit\ntag 5.25.2\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1492683023 +0200\n\nVersion 5.25.2\n\n### Bug fixes\n\nBetter handling of selections that cover the whole viewport in contentEditable-mode.\n\nNo longer accidentally scroll the editor into view when calling `setValue`.\n\nWork around Chrome Android bug when converting screen coordinates to editor positions.\n\nMake sure long-clicking a selection sets a cursor and doesn't show the editor losing focus.\n\nFix issue where pointer events were incorrectly disabled on Chrome's overlay scrollbars.\n\n[javascript mode](http://codemirror.net/mode/javascript/): Recognize annotations and TypeScript-style type parameters.\n\n[shell mode](http://codemirror.net/mode/shell/): Handle nested braces.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Make parsing of strong/em delimiters CommonMark-compliant.\n"
+  }
+}

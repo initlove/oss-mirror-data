@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjFmMTU2OTVlMDdkYWIwZDhkM2I4NGY0NjRhOWZkZDA1NzM1ZWEyNjY=",
+  "sha": "1f15695e07dab0d8d3b84f464a9fdd05735ea266",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/1f15695e07dab0d8d3b84f464a9fdd05735ea266",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2017-06-12T14:27:20Z"
+  },
+  "object": {
+    "sha": "d745fbd3e0ca461c85a138bf6f193d0c400cf80b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/d745fbd3e0ca461c85a138bf6f193d0c400cf80b"
+  },
+  "tag": "drbd-9.0.8rc2",
+  "message": "9.0.8rc2-1 (api:genl2/proto:86-112/transport:14)\n--------\n * fix attach of first disk after resource had no disk at all\n * fix a OOPS on a diskfull node when a request from a diskless\n   node cuases an error from the backend device. (This is a regression that\n   was introduced with the 9.0.7 release)\n * Serialize reconciliation resync after the nodes found it if they\n   are UpToDate\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBZPqTaabsdXACqiTMRAtNeAKC5tsls28ChMPP+2FK3ZTZBEhRgxACffIw3\nu2x11gWTzczmfSlxjwdPukA=\n=zXoo\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBZPqTaabsdXACqiTMRAtNeAKC5tsls28ChMPP+2FK3ZTZBEhRgxACffIw3\nu2x11gWTzczmfSlxjwdPukA=\n=zXoo\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d745fbd3e0ca461c85a138bf6f193d0c400cf80b\ntype commit\ntag drbd-9.0.8rc2\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1497277640 +0200\n\n9.0.8rc2-1 (api:genl2/proto:86-112/transport:14)\n--------\n * fix attach of first disk after resource had no disk at all\n * fix a OOPS on a diskfull node when a request from a diskless\n   node cuases an error from the backend device. (This is a regression that\n   was introduced with the 9.0.7 release)\n * Serialize reconciliation resync after the nodes found it if they\n   are UpToDate\n"
+  }
+}

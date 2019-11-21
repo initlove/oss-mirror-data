@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjA2ODg4ZGQ2ZGJlZWQzMDQ2ZmYyN2RkMDJlNTIzMWQwOGJiM2U4NGE=",
+  "sha": "06888dd6dbeed3046ff27dd02e5231d08bb3e84a",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/06888dd6dbeed3046ff27dd02e5231d08bb3e84a",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2016-12-23T13:30:34Z"
+  },
+  "object": {
+    "sha": "08cda190c4f544a0c4e15ba792bbf47c69707b42",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/08cda190c4f544a0c4e15ba792bbf47c69707b42"
+  },
+  "tag": "drbd-9.0.6",
+  "message": "9.0.6-1 (api:genl2/proto:86-112/transport:14)\n--------\n * fixed error handling in del_path\n * merge fixes from drbd-8.4; a potential NULL deref with kernel_sendmsg()\n * fix multiple issues with concurrent two-phase-commits\n * improve connect time; with older releases it usually took between 20 to\n   40 seconds to establish a connection; now it usually works now in less than\n   2 seconds\n * allow multiple updates per AL-transaction on a secondary; this can\n   (depending on the IO pattern) dramatically increase the the write\n   throuput and decrease IO amplification\n * reorganize data structures of receiver for efficiency\n * upon an open for read-only access, wait for up the auto-promote-timeout\n   for accessible data\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBYXSdSabsdXACqiTMRAsyYAKC2uEpR4QQXCHQSp5dPU5wEMxuqFACfbYXF\n7D6gQuVKb2Zhjqeg6FcgoTM=\n=Hysg\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBYXSdSabsdXACqiTMRAsyYAKC2uEpR4QQXCHQSp5dPU5wEMxuqFACfbYXF\n7D6gQuVKb2Zhjqeg6FcgoTM=\n=Hysg\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 08cda190c4f544a0c4e15ba792bbf47c69707b42\ntype commit\ntag drbd-9.0.6\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1482499834 +0100\n\n9.0.6-1 (api:genl2/proto:86-112/transport:14)\n--------\n * fixed error handling in del_path\n * merge fixes from drbd-8.4; a potential NULL deref with kernel_sendmsg()\n * fix multiple issues with concurrent two-phase-commits\n * improve connect time; with older releases it usually took between 20 to\n   40 seconds to establish a connection; now it usually works now in less than\n   2 seconds\n * allow multiple updates per AL-transaction on a secondary; this can\n   (depending on the IO pattern) dramatically increase the the write\n   throuput and decrease IO amplification\n * reorganize data structures of receiver for efficiency\n * upon an open for read-only access, wait for up the auto-promote-timeout\n   for accessible data\n"
+  }
+}

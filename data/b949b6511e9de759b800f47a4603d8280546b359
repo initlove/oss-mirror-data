@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzpiOTQ5YjY1MTFlOWRlNzU5YjgwMGY0N2E0NjAzZDgyODA1NDZiMzU5",
+  "sha": "b949b6511e9de759b800f47a4603d8280546b359",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/b949b6511e9de759b800f47a4603d8280546b359",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-01-19T22:35:44Z"
+  },
+  "object": {
+    "sha": "73638df40c9631155b1985f0ee63b6ffe2398b6a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/73638df40c9631155b1985f0ee63b6ffe2398b6a"
+  },
+  "tag": "5.23.0",
+  "message": "Version 5.23.0\n\n### Bug fixes\n\nPresentation-related elements DOM elements are now marked as such to help screen readers.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Be more picky about what HTML tags look like to avoid false positives.\n\n### New features\n\n`findModeByMIME` now understands `+json` and `+xml` MIME suffixes.\n\n[closebrackets addon](http://codemirror.net/doc/manual.html#addon_closebrackets): Add support for an `override` option to ignore language-specific defaults.\n\n[panel addon](http://codemirror.net/doc/manual.html#addon_panel): Add a `stable` option that auto-scrolls the content to keep it in the same place when inserting/removing a panel.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAliBP1QACgkQcD8b7W0z\nrh4TaggAgCzmSnrG225RhFQBSUGc2wE7k+5fgbgZDb9gyTlY27hWbZ2FuidkfzHS\n7qNO71reBSRHRiMS1SFB4rfiNPuhTob+3VacfiCM7mA3ZeMWYFUrk2b9K7fBOXFH\ncJcBLPIrQZsm1LL4UldeykRP67qgSfNyVqvymOuejeImH89+W23hQ6cefvlo/v//\n9aP3IhXjnskLJMwZqMZTzoVBZyIHyvDGY0pof/RB6UL3zMZWisCUQvunLVQ9VgAD\n0Mrkd2/W3XLfjOV2m1NzRlKrxUaXUD+omt/rPRJgg3dhF6XAGJzWHWxIRU9P73kz\n1ZYqAvn8HvJVXXgbMyI96YCOUNXuOQ==\n=gG0o\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAliBP1QACgkQcD8b7W0z\nrh4TaggAgCzmSnrG225RhFQBSUGc2wE7k+5fgbgZDb9gyTlY27hWbZ2FuidkfzHS\n7qNO71reBSRHRiMS1SFB4rfiNPuhTob+3VacfiCM7mA3ZeMWYFUrk2b9K7fBOXFH\ncJcBLPIrQZsm1LL4UldeykRP67qgSfNyVqvymOuejeImH89+W23hQ6cefvlo/v//\n9aP3IhXjnskLJMwZqMZTzoVBZyIHyvDGY0pof/RB6UL3zMZWisCUQvunLVQ9VgAD\n0Mrkd2/W3XLfjOV2m1NzRlKrxUaXUD+omt/rPRJgg3dhF6XAGJzWHWxIRU9P73kz\n1ZYqAvn8HvJVXXgbMyI96YCOUNXuOQ==\n=gG0o\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 73638df40c9631155b1985f0ee63b6ffe2398b6a\ntype commit\ntag 5.23.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1484865344 +0100\n\nVersion 5.23.0\n\n### Bug fixes\n\nPresentation-related elements DOM elements are now marked as such to help screen readers.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Be more picky about what HTML tags look like to avoid false positives.\n\n### New features\n\n`findModeByMIME` now understands `+json` and `+xml` MIME suffixes.\n\n[closebrackets addon](http://codemirror.net/doc/manual.html#addon_closebrackets): Add support for an `override` option to ignore language-specific defaults.\n\n[panel addon](http://codemirror.net/doc/manual.html#addon_panel): Add a `stable` option that auto-scrolls the content to keep it in the same place when inserting/removing a panel.\n"
+  }
+}

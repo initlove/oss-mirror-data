@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzpmNjQ5YzEyMmIyZmFlYTFkNTYzYTEwMTI2OTFiZWYwOTMyMzQ5ZWJh",
+  "sha": "f649c122b2faea1d563a1012691bef0932349eba",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/f649c122b2faea1d563a1012691bef0932349eba",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-02-21T13:03:40Z"
+  },
+  "object": {
+    "sha": "6454f583167a44016ee452b1787466f442bd9122",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/6454f583167a44016ee452b1787466f442bd9122"
+  },
+  "tag": "5.44.0",
+  "message": "Version 5.44.0\n\n### Bug fixes\n\nFix issue where lines that only contained a zero-height widget got assigned an invalid height.\n\nImprove support for middle-click paste on X Windows.\n\nFix a bug where a paste that doesn't contain any text caused the next input event to be treated as a paste.\n\n[show-hint addon](https://codemirror.net/doc/manual.html#addon_show-hint): Fix accidental global variable.\n\n[javascript mode](https://codemirror.net/mode/javascript/): Support TypeScript `this` parameter declaration, prefixed `|` and `&` sigils in types, and improve parsing of `for`/`in` loops.\n\n### New features\n\n[vim bindings](https://codemirror.net/demo/vim.html): Properly emulate forward-delete.\n\nNew theme: [nord](https://codemirror.net/demo/theme.html#nord).\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlxuob0ACgkQcD8b7W0z\nrh5w8gf/WxWLNMp/MpuQiszaNjBZBUM45CByrJuYdk+CqS0tYn1hTCJTTtaN0l+g\nH6kn4vHYv/hm2aZlKfhWN5qM89+1XtCWG9pjejhOy+fSlSSdFICZktkFXb/XGvyo\n99TBnZ6Eg0MH40J4Ws4BImLf3pXM2MqD0SgN20I3BxiZuhw+lV9B/qFrA758xqsT\ncdJsQwBXrvVPN4DiqHs71W6tIOWgKuNiPn+kaxflzMIKWCPRF1dTLb3Oh1QTeo2X\nMzEYdAKVS0B7H4dJSXof1fM9/c6795RJMAIUbI6G9RHtWVXdmQk5qCQNATpA3XzL\nnSO4OHv0H+qmWBX6ZU+CpJjop3H4QQ==\n=gLDO\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlxuob0ACgkQcD8b7W0z\nrh5w8gf/WxWLNMp/MpuQiszaNjBZBUM45CByrJuYdk+CqS0tYn1hTCJTTtaN0l+g\nH6kn4vHYv/hm2aZlKfhWN5qM89+1XtCWG9pjejhOy+fSlSSdFICZktkFXb/XGvyo\n99TBnZ6Eg0MH40J4Ws4BImLf3pXM2MqD0SgN20I3BxiZuhw+lV9B/qFrA758xqsT\ncdJsQwBXrvVPN4DiqHs71W6tIOWgKuNiPn+kaxflzMIKWCPRF1dTLb3Oh1QTeo2X\nMzEYdAKVS0B7H4dJSXof1fM9/c6795RJMAIUbI6G9RHtWVXdmQk5qCQNATpA3XzL\nnSO4OHv0H+qmWBX6ZU+CpJjop3H4QQ==\n=gLDO\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6454f583167a44016ee452b1787466f442bd9122\ntype commit\ntag 5.44.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1550754220 +0100\n\nVersion 5.44.0\n\n### Bug fixes\n\nFix issue where lines that only contained a zero-height widget got assigned an invalid height.\n\nImprove support for middle-click paste on X Windows.\n\nFix a bug where a paste that doesn't contain any text caused the next input event to be treated as a paste.\n\n[show-hint addon](https://codemirror.net/doc/manual.html#addon_show-hint): Fix accidental global variable.\n\n[javascript mode](https://codemirror.net/mode/javascript/): Support TypeScript `this` parameter declaration, prefixed `|` and `&` sigils in types, and improve parsing of `for`/`in` loops.\n\n### New features\n\n[vim bindings](https://codemirror.net/demo/vim.html): Properly emulate forward-delete.\n\nNew theme: [nord](https://codemirror.net/demo/theme.html#nord).\n"
+  }
+}

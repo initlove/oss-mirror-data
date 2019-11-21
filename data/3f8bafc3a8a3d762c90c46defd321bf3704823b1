@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzozZjhiYWZjM2E4YTNkNzYyYzkwYzQ2ZGVmZDMyMWJmMzcwNDgyM2Ix",
+  "sha": "3f8bafc3a8a3d762c90c46defd321bf3704823b1",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/3f8bafc3a8a3d762c90c46defd321bf3704823b1",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-05-22T08:13:17Z"
+  },
+  "object": {
+    "sha": "a66bcf59d959b2ef724f80080f8d128d9dcf318e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/a66bcf59d959b2ef724f80080f8d128d9dcf318e"
+  },
+  "tag": "5.26.0",
+  "message": "Version 5.26.0\n\n### Bug fixes\n\nIn textarea-mode, don't reset the input field during composition.\n\nMore careful restoration of selections in widgets, during editor redraw.\n\n[javascript mode](http://codemirror.net/mode/javascript/): More TypeScript parsing fixes.\n\n[julia mode](http://codemirror.net/mode/julia/): Fix issue where the mode gets stuck.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Understand cross-line links, parse all bracketed things as links.\n\n[soy mode](http://codemirror.net/mode/soy/): Support single-quoted strings.\n\n[go mode](http://codemirror.net/mode/go/): Don't try to indent inside strings or comments.\n\n### New features\n\n[vim bindings](http://codemirror.net/mode/demo/vim.html): Parse line offsets in line or range specs.\n\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlkinbAACgkQcD8b7W0z\nrh7O0wgAzh92P3w/7G3LFO390MF0PCH/Hkulc/0eeyu5WHrcJvecQe6nzbUmua33\nBvkdpeZfST+Z1ZlSbDZX4jy4QBJzoPcx9PFNedTKKr03FQu99SEsZ3wIn9/xyCGG\nuH3aCspAqGYYqvrj163HHi+IDEI0RqQhjDvWo5x3J1NOSYbWzwDWa0ho3u93aGRX\nwJ1pCMet9Pq44CfTby9EAams1LDzz1Pii/AiE72Vcah5XYkUMMDTQ+h09DrXCxTH\nnqhVrNsLmFOdcev65uRBHPdi5dqKtNRUz9PeSUr70mcNP+0FRp6pzr9sGA1WHVJr\nLBIoaSXjzmwp2roCVfZIYgTHK8UPXw==\n=+Zck\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlkinbAACgkQcD8b7W0z\nrh7O0wgAzh92P3w/7G3LFO390MF0PCH/Hkulc/0eeyu5WHrcJvecQe6nzbUmua33\nBvkdpeZfST+Z1ZlSbDZX4jy4QBJzoPcx9PFNedTKKr03FQu99SEsZ3wIn9/xyCGG\nuH3aCspAqGYYqvrj163HHi+IDEI0RqQhjDvWo5x3J1NOSYbWzwDWa0ho3u93aGRX\nwJ1pCMet9Pq44CfTby9EAams1LDzz1Pii/AiE72Vcah5XYkUMMDTQ+h09DrXCxTH\nnqhVrNsLmFOdcev65uRBHPdi5dqKtNRUz9PeSUr70mcNP+0FRp6pzr9sGA1WHVJr\nLBIoaSXjzmwp2roCVfZIYgTHK8UPXw==\n=+Zck\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a66bcf59d959b2ef724f80080f8d128d9dcf318e\ntype commit\ntag 5.26.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1495440797 +0200\n\nVersion 5.26.0\n\n### Bug fixes\n\nIn textarea-mode, don't reset the input field during composition.\n\nMore careful restoration of selections in widgets, during editor redraw.\n\n[javascript mode](http://codemirror.net/mode/javascript/): More TypeScript parsing fixes.\n\n[julia mode](http://codemirror.net/mode/julia/): Fix issue where the mode gets stuck.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Understand cross-line links, parse all bracketed things as links.\n\n[soy mode](http://codemirror.net/mode/soy/): Support single-quoted strings.\n\n[go mode](http://codemirror.net/mode/go/): Don't try to indent inside strings or comments.\n\n### New features\n\n[vim bindings](http://codemirror.net/mode/demo/vim.html): Parse line offsets in line or range specs.\n\n"
+  }
+}

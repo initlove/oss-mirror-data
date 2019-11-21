@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjJjZjY3OWFhYzUzNThjYzMxYjk0Y2I3MjMzMzJlZmU4ZWUwMDgxYTE=",
+  "sha": "2cf679aac5358cc31b94cb723332efe8ee0081a1",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/2cf679aac5358cc31b94cb723332efe8ee0081a1",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2016-04-19T21:34:09Z"
+  },
+  "object": {
+    "sha": "bdcc2a765a9a80c8b263c011a6508cb6e0c3e4d2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/bdcc2a765a9a80c8b263c011a6508cb6e0c3e4d2"
+  },
+  "tag": "drbd-9.0.2",
+  "message": "9.0.2-1 (api:genl2/proto:86-111/transport:14)\n--------\n * Fix list walks on the transfer log; Lead to crashes in _tl_restart()\n   and (sometimes) other places.\n * Fix a corner case that lead to nodes showing the disk states of\n   other nodes as Outdated after resync\n * Fix waiting for barrier acks; The bug was that demoting to secondary\n   after AHEAD/BEHIND may blocked forever\n * Fix WRITE_SAME support\n * Fix a possible OOPS in got_peer_ack()\n * Fix resync controller; Was always on c-min-rate\n * Fix a possible deadlock on disconnect\n * Use modern kernel's expclicit plugging to reduce number of IOPs on\n   the secondary node\n * Introduce a per resource max-io-depth limit; applies to each volume\n   in the resource\n * Promptly send peer_acks if we can put the last reference on an\n   activity log entry. Helps the to get the AL in use on secondaries\n   down.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlcWpFwACgkQabsdXACqiTONawCfel6SQ/fhmOsXjAV7rYVhxGJX\nKokAmQHe+osd39uOPa1TZgWXGmsIkrFA\n=QmaD\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlcWpFwACgkQabsdXACqiTONawCfel6SQ/fhmOsXjAV7rYVhxGJX\nKokAmQHe+osd39uOPa1TZgWXGmsIkrFA\n=QmaD\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bdcc2a765a9a80c8b263c011a6508cb6e0c3e4d2\ntype commit\ntag drbd-9.0.2\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1461101649 +0200\n\n9.0.2-1 (api:genl2/proto:86-111/transport:14)\n--------\n * Fix list walks on the transfer log; Lead to crashes in _tl_restart()\n   and (sometimes) other places.\n * Fix a corner case that lead to nodes showing the disk states of\n   other nodes as Outdated after resync\n * Fix waiting for barrier acks; The bug was that demoting to secondary\n   after AHEAD/BEHIND may blocked forever\n * Fix WRITE_SAME support\n * Fix a possible OOPS in got_peer_ack()\n * Fix resync controller; Was always on c-min-rate\n * Fix a possible deadlock on disconnect\n * Use modern kernel's expclicit plugging to reduce number of IOPs on\n   the secondary node\n * Introduce a per resource max-io-depth limit; applies to each volume\n   in the resource\n * Promptly send peer_acks if we can put the last reference on an\n   activity log entry. Helps the to get the AL in use on secondaries\n   down.\n"
+  }
+}

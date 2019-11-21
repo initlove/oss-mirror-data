@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOmI0ODkzODY4ODczNTU5YjAzZTU4OTEzNDQ3ODM1M2JiNzkxOTQwNTk=",
+  "sha": "b4893868873559b03e589134478353bb79194059",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/b4893868873559b03e589134478353bb79194059",
+  "tagger": {
+    "name": "Lars Ellenberg",
+    "email": "lars.ellenberg@linbit.com",
+    "date": "2014-05-21T09:52:46Z"
+  },
+  "object": {
+    "sha": "2bad38af7c451664a585938a00d99a023a087a42",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/2bad38af7c451664a585938a00d99a023a087a42"
+  },
+  "tag": "drbd-8.4.5rc1",
+  "message": "8.4.5rc1 (api:genl1/proto:86-101)\n-------\n * fix potential BUG_ON in mempool_alloc for older kernels (<2.6.23)\n * fix cornercase of resync finished detection\n * fix drbd_ldev_destroy to run exactly once and in worker context\n * fix spurious detach/disconnect: don't announce WRITE_SAME\n * fix NULL pointer deref in blk_add_request_payload\n   (DISCARD/TRIM handling in sd)\n * fix regression: potential NULL pointer dereference\n * fix regression: potential list corruption\n * fix regression: potential deadlock in adm functions (drbdsetup)\n * fix race stopping the worker thread\n * new debugfs presence expose oldest requests and other details\n * userspace moved to own repository\n * linux 3.13 and 3.14 compatibility\n * improve adaptive resync controler\n * reduce bitmap IO during resync\n * allow write-ordering policy to be bumped up again\n * trigger tcp_flush_pending_frames() for PING/PING_ACK\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlN8d7UACgkQp+S8HSIpHPAOWACZAV+VHhKiv4+683i/EHkU0oIW\nxcIAn04xNirwshZsec/QpjhwFbFiI0jX\n=6Iku\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlN8d7UACgkQp+S8HSIpHPAOWACZAV+VHhKiv4+683i/EHkU0oIW\nxcIAn04xNirwshZsec/QpjhwFbFiI0jX\n=6Iku\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2bad38af7c451664a585938a00d99a023a087a42\ntype commit\ntag drbd-8.4.5rc1\ntagger Lars Ellenberg <lars.ellenberg@linbit.com> 1400665966 +0200\n\n8.4.5rc1 (api:genl1/proto:86-101)\n-------\n * fix potential BUG_ON in mempool_alloc for older kernels (<2.6.23)\n * fix cornercase of resync finished detection\n * fix drbd_ldev_destroy to run exactly once and in worker context\n * fix spurious detach/disconnect: don't announce WRITE_SAME\n * fix NULL pointer deref in blk_add_request_payload\n   (DISCARD/TRIM handling in sd)\n * fix regression: potential NULL pointer dereference\n * fix regression: potential list corruption\n * fix regression: potential deadlock in adm functions (drbdsetup)\n * fix race stopping the worker thread\n * new debugfs presence expose oldest requests and other details\n * userspace moved to own repository\n * linux 3.13 and 3.14 compatibility\n * improve adaptive resync controler\n * reduce bitmap IO during resync\n * allow write-ordering policy to be bumped up again\n * trigger tcp_flush_pending_frames() for PING/PING_ACK\n"
+  }
+}

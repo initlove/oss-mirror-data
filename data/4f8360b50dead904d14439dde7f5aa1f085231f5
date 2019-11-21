@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5Nzo0ZjgzNjBiNTBkZWFkOTA0ZDE0NDM5ZGRlN2Y1YWExZjA4NTIzMWY1",
+  "sha": "4f8360b50dead904d14439dde7f5aa1f085231f5",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/4f8360b50dead904d14439dde7f5aa1f085231f5",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-06-29T13:02:53Z"
+  },
+  "object": {
+    "sha": "b695f230da7243bf8ff0d3d0771cd7f43f583162",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/b695f230da7243bf8ff0d3d0771cd7f43f583162"
+  },
+  "tag": "5.27.4",
+  "message": "Version 5.27.4\n\n### Bug fixes\n\nFix crash when using mode lookahead.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Don't block inner mode's indentation support.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAllU+owACgkQcD8b7W0z\nrh4HpQf+KMzJ1VwByV7su1T7Is31fywoieAcnegJzI1gdPiV+8TsnuRX/6xx2VgO\nu4KB5B4rVW4vT2kh4xtupryGeMvrcv7NdUm59JmyTmZPeWZv+mDA8+XRzo8FQGAH\nmx6afp2ylbSbFuPlg8xwlyP1MvB6i7aDPI88Y/HkWq4booKpHjt+GXhBIWlIoVEj\nC3GcC46hvVM/qK2XnOh3U61gvx53tPEszmnZH3tPgVEBALe8HtJ3wGh0a/cd3aUV\nd3TkZMExZwgU5fViPneZ3x5Lzr1ZQIYH+hVnTgwbMQpvfJneQIli2PMyOsiQUonw\n5YTqrp8AiY2iVRMMZmpnPfcBKWaqqA==\n=a3+e\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAllU+owACgkQcD8b7W0z\nrh4HpQf+KMzJ1VwByV7su1T7Is31fywoieAcnegJzI1gdPiV+8TsnuRX/6xx2VgO\nu4KB5B4rVW4vT2kh4xtupryGeMvrcv7NdUm59JmyTmZPeWZv+mDA8+XRzo8FQGAH\nmx6afp2ylbSbFuPlg8xwlyP1MvB6i7aDPI88Y/HkWq4booKpHjt+GXhBIWlIoVEj\nC3GcC46hvVM/qK2XnOh3U61gvx53tPEszmnZH3tPgVEBALe8HtJ3wGh0a/cd3aUV\nd3TkZMExZwgU5fViPneZ3x5Lzr1ZQIYH+hVnTgwbMQpvfJneQIli2PMyOsiQUonw\n5YTqrp8AiY2iVRMMZmpnPfcBKWaqqA==\n=a3+e\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b695f230da7243bf8ff0d3d0771cd7f43f583162\ntype commit\ntag 5.27.4\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1498741373 +0200\n\nVersion 5.27.4\n\n### Bug fixes\n\nFix crash when using mode lookahead.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Don't block inner mode's indentation support.\n"
+  }
+}

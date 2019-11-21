@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzozNmM4YTY3M2U1YTI0ZTkxMGIzZGUxZTY0MTljYmMyODcxYTcwZGZl",
+  "sha": "36c8a673e5a24e910b3de1e6419cbc2871a70dfe",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/36c8a673e5a24e910b3de1e6419cbc2871a70dfe",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-09-20T13:22:49Z"
+  },
+  "object": {
+    "sha": "feaf587175e7c5b9a59454e0b8fa6bac1d36d61e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/feaf587175e7c5b9a59454e0b8fa6bac1d36d61e"
+  },
+  "tag": "5.40.2",
+  "message": "Version 5.40.2\n\n### Bug fixes\n\nFix firing of `gutterContextMenu` event on Firefox.\n\nAdd `hintWords` (basic completion) helper to [clojure](https://codemirror.net/mode/clojure/index.html), [mllike](https://codemirror.net/mode/mllike/index.html), [julia](https://codemirror.net/mode/julia/), [shell](https://codemirror.net/mode/shell/), and [r](https://codemirror.net/mode/r/) modes.\n\n[clojure mode](https://codemirror.net/mode/clojure/index.html): Clean up and improve.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlujn0IACgkQcD8b7W0z\nrh5C8AgAhlESpsc2HBAePt0tgLNj7H47bQRKWAzkRb0zNXYlHz1sP72CdVLXxLq0\n5mqvY619wEdMijyUhn2PybL4JOoOh1deP2cF+lgay6De/xP4Mg0OQOvbgHzY3yxQ\nhxMYmKs+AQgZgVwULznWE7kD4aTmdOngVTPTrL4u2YEnIOClIs390xgGx9km4ynm\n1u6DCADigF8lwwM6mLU+OfPJLClNyy0mi5AbLTK3XZumeNEl8p88SVs0dsxz0HLq\nSjfAgb11EqDZlJ9rJyLWNDIJWsc6gqmpNi1UCmzR2zJW+stj4UgHE2nOhyf6PMhw\nsWl45zlqSiT51oxnBg4iou2A2WcMIQ==\n=sbCQ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlujn0IACgkQcD8b7W0z\nrh5C8AgAhlESpsc2HBAePt0tgLNj7H47bQRKWAzkRb0zNXYlHz1sP72CdVLXxLq0\n5mqvY619wEdMijyUhn2PybL4JOoOh1deP2cF+lgay6De/xP4Mg0OQOvbgHzY3yxQ\nhxMYmKs+AQgZgVwULznWE7kD4aTmdOngVTPTrL4u2YEnIOClIs390xgGx9km4ynm\n1u6DCADigF8lwwM6mLU+OfPJLClNyy0mi5AbLTK3XZumeNEl8p88SVs0dsxz0HLq\nSjfAgb11EqDZlJ9rJyLWNDIJWsc6gqmpNi1UCmzR2zJW+stj4UgHE2nOhyf6PMhw\nsWl45zlqSiT51oxnBg4iou2A2WcMIQ==\n=sbCQ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object feaf587175e7c5b9a59454e0b8fa6bac1d36d61e\ntype commit\ntag 5.40.2\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1537449769 +0200\n\nVersion 5.40.2\n\n### Bug fixes\n\nFix firing of `gutterContextMenu` event on Firefox.\n\nAdd `hintWords` (basic completion) helper to [clojure](https://codemirror.net/mode/clojure/index.html), [mllike](https://codemirror.net/mode/mllike/index.html), [julia](https://codemirror.net/mode/julia/), [shell](https://codemirror.net/mode/shell/), and [r](https://codemirror.net/mode/r/) modes.\n\n[clojure mode](https://codemirror.net/mode/clojure/index.html): Clean up and improve.\n"
+  }
+}

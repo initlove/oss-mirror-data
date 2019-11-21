@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5Nzo2NmVlMjRmYWMyMTA4NWMyMmQ2ZTA1ZTZlMDg4NTY0ZDE1ZTkxZTU2",
+  "sha": "66ee24fac21085c22d6e05e6e088564d15e91e56",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/66ee24fac21085c22d6e05e6e088564d15e91e56",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-01-29T12:12:08Z"
+  },
+  "object": {
+    "sha": "77bf40073fbf2b1cfc45d7785497e3d00ad7d3d0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/77bf40073fbf2b1cfc45d7785497e3d00ad7d3d0"
+  },
+  "tag": "5.34.0",
+  "message": "Version 5.34.0\n\n### Bug fixes\n\n[markdown mode](http://codemirror.net/mode/markdown/): Fix a problem where inline styles would persist across list items.\n\n[sublime bindings](http://codemirror.net/demo/sublime.html): Fix the `toggleBookmark` command.\n\n[closebrackets addon](http://codemirror.net/doc/manual.html#addon_closebrackets): Improve behavior when closing triple quotes.\n\n[xml-fold addon](http://codemirror.net/demo/folding.html): Fix folding of line-broken XML tags.\n\n[shell mode](http://codemirror.net/mode/shell/): Better handling of nested quoting.\n\n[javascript-lint addon](http://codemirror.net/demo/lint.html): Clean up and simplify.\n\n[matchbrackets addon](http://codemirror.net/doc/manual.html#addon_matchbrackets): Fix support for multiple editors at the same time.\n\n### New features\n\nNew themes: [oceanic-next](http://codemirror.net/demo/theme.html#oceanic-next) and [shadowfox](http://codemirror.net/demo/theme.html#shadowfox).\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlpvD6QACgkQcD8b7W0z\nrh7lPwgAhlD0G9MhV4T895heSdm9nNs0DkPU2Ic01ct8ifMnxMcVv35EqdBFVTOc\n56b5zJzi3+d+k+4/SMn8ddpyIl2DzZZSpxWh0C5bfc4dMYV1f5a9bWAcv0Plz4ww\nR7HRLhpX+b90UH2aY6S1qIk1V7qX+EuLmDByU5hSPJgZ/UGjdNh4KZPyTX9MFAzQ\n2siZAVhT8ed3muKCHfCrJSX9FyxwkkcvDB0qzYwR9a+ojxl/zozsVY+Dp0BDA++O\nShNAbTwDxHrLsSyqZcf3FE1Lm3pFh3f73j3yphHRxvrtmu2apI2Y2IT4uKRj+LkQ\nt/l+TP133Ik6o4RtZwKTgk2Mv0SCPw==\n=m6Fz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlpvD6QACgkQcD8b7W0z\nrh7lPwgAhlD0G9MhV4T895heSdm9nNs0DkPU2Ic01ct8ifMnxMcVv35EqdBFVTOc\n56b5zJzi3+d+k+4/SMn8ddpyIl2DzZZSpxWh0C5bfc4dMYV1f5a9bWAcv0Plz4ww\nR7HRLhpX+b90UH2aY6S1qIk1V7qX+EuLmDByU5hSPJgZ/UGjdNh4KZPyTX9MFAzQ\n2siZAVhT8ed3muKCHfCrJSX9FyxwkkcvDB0qzYwR9a+ojxl/zozsVY+Dp0BDA++O\nShNAbTwDxHrLsSyqZcf3FE1Lm3pFh3f73j3yphHRxvrtmu2apI2Y2IT4uKRj+LkQ\nt/l+TP133Ik6o4RtZwKTgk2Mv0SCPw==\n=m6Fz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 77bf40073fbf2b1cfc45d7785497e3d00ad7d3d0\ntype commit\ntag 5.34.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1517227928 +0100\n\nVersion 5.34.0\n\n### Bug fixes\n\n[markdown mode](http://codemirror.net/mode/markdown/): Fix a problem where inline styles would persist across list items.\n\n[sublime bindings](http://codemirror.net/demo/sublime.html): Fix the `toggleBookmark` command.\n\n[closebrackets addon](http://codemirror.net/doc/manual.html#addon_closebrackets): Improve behavior when closing triple quotes.\n\n[xml-fold addon](http://codemirror.net/demo/folding.html): Fix folding of line-broken XML tags.\n\n[shell mode](http://codemirror.net/mode/shell/): Better handling of nested quoting.\n\n[javascript-lint addon](http://codemirror.net/demo/lint.html): Clean up and simplify.\n\n[matchbrackets addon](http://codemirror.net/doc/manual.html#addon_matchbrackets): Fix support for multiple editors at the same time.\n\n### New features\n\nNew themes: [oceanic-next](http://codemirror.net/demo/theme.html#oceanic-next) and [shadowfox](http://codemirror.net/demo/theme.html#shadowfox).\n"
+  }
+}

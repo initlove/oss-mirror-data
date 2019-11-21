@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjE5ZWYzYWM1ZjM1OWRjYWFkNWIyNzc0OGFkNGMxOTY5YTU2OTVkZDM=",
+  "sha": "19ef3ac5f359dcaad5b27748ad4c1969a5695dd3",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/19ef3ac5f359dcaad5b27748ad4c1969a5695dd3",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2013-04-30T15:53:01Z"
+  },
+  "object": {
+    "sha": "ee3456fde15cf8947b50e7a9606c19c0e34634dc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/ee3456fde15cf8947b50e7a9606c19c0e34634dc"
+  },
+  "tag": "drbd-9.0.0pre3",
+  "message": "9.0.0pre3 (api:genl1/proto:86-110)\n--------\n * Lots of bugs fixed in the two phase cluster wide commits\n * Work on the state engine, to fit it to multiple connections\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niD8DBQBRf+jpabsdXACqiTMRAtGTAJ9IH924b1j2ToaNEbyfhF87i4PyuACfRwud\nfLo1hn0xBtHwOC1jDQBZj2M=\n=o6/y\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niD8DBQBRf+jpabsdXACqiTMRAtGTAJ9IH924b1j2ToaNEbyfhF87i4PyuACfRwud\nfLo1hn0xBtHwOC1jDQBZj2M=\n=o6/y\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ee3456fde15cf8947b50e7a9606c19c0e34634dc\ntype commit\ntag drbd-9.0.0pre3\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1367337181 +0200\n\n9.0.0pre3 (api:genl1/proto:86-110)\n--------\n * Lots of bugs fixed in the two phase cluster wide commits\n * Work on the state engine, to fit it to multiple connections\n"
+  }
+}

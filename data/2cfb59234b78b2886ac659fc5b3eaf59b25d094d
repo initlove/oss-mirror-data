@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzoyY2ZiNTkyMzRiNzhiMjg4NmFjNjU5ZmM1YjNlYWY1OWIyNWQwOTRk",
+  "sha": "2cfb59234b78b2886ac659fc5b3eaf59b25d094d",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/2cfb59234b78b2886ac659fc5b3eaf59b25d094d",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-12-21T13:59:42Z"
+  },
+  "object": {
+    "sha": "2f4fb8053021c01d1f246de2e663ac3719877610",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/2f4fb8053021c01d1f246de2e663ac3719877610"
+  },
+  "tag": "5.33.0",
+  "message": "Version 5.33.0\n\n### Bug fixes\n\n[lint addon](http://codemirror.net/doc/manual.html#addon_lint): Make updates more efficient.\n\n[css mode](http://codemirror.net/mode/css/): The mode is now properly case-insensitive.\n\n[continuelist addon](http://codemirror.net/doc/manual.html#addon_continuelist): Fix broken handling of unordered lists introduced in previous release.\n\n[swift](http://codemirror.net/mode/swift) and [scala](http://codemirror.net/mode/clike/) modes: Support nested block comments.\n\n[mllike mode](http://codemirror.net/mode/mllike/index.html): Improve OCaml support.\n\n[sublime bindings](http://codemirror.net/demo/sublime.html): Use the proper key bindings for `addCursorToNextLine` and `addCursorToPrevLine`.\n\n### New features\n\n[jsx mode](http://codemirror.net/mode/jsx/index.html): Support JSX fragments.\n\n[closetag addon](http://codemirror.net/demo/closetag.html): Add an option to disable auto-indenting.\n\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlo7vl4ACgkQcD8b7W0z\nrh7UWQf9FzN9qvX7m5xbeda3RCy0rAPov5dvU2wKZYJHy/R/sBOYQJ4WmH2oDl42\nNTxH5Y78GDvp6EDnklBo5sg0amSebEwBY9WkMvrErXYD0a6927vELd0rYCchSUE3\nsiyGv2JcfZu/PaNAqsmaIE/UZJtFFjGlJGEHtpRDwtASNiaHmpe7yFOrVPFjUo6Y\nXGNHcO5ZYYgqjN30J4DPu7AHXXPvaxJU6YnylkzU3IkL8tALfoX+xLVDEcRPWXFD\nJdnx0lJln0hAmBAt7yYtAE4UtuZt82tzuWZTdX/Ck7hjLTwk+omfwE283fzcK3y/\n0b4RtI9MI23Gxn0hugKeVA0EwzyI+g==\n=Jg9x\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlo7vl4ACgkQcD8b7W0z\nrh7UWQf9FzN9qvX7m5xbeda3RCy0rAPov5dvU2wKZYJHy/R/sBOYQJ4WmH2oDl42\nNTxH5Y78GDvp6EDnklBo5sg0amSebEwBY9WkMvrErXYD0a6927vELd0rYCchSUE3\nsiyGv2JcfZu/PaNAqsmaIE/UZJtFFjGlJGEHtpRDwtASNiaHmpe7yFOrVPFjUo6Y\nXGNHcO5ZYYgqjN30J4DPu7AHXXPvaxJU6YnylkzU3IkL8tALfoX+xLVDEcRPWXFD\nJdnx0lJln0hAmBAt7yYtAE4UtuZt82tzuWZTdX/Ck7hjLTwk+omfwE283fzcK3y/\n0b4RtI9MI23Gxn0hugKeVA0EwzyI+g==\n=Jg9x\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2f4fb8053021c01d1f246de2e663ac3719877610\ntype commit\ntag 5.33.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1513864782 +0100\n\nVersion 5.33.0\n\n### Bug fixes\n\n[lint addon](http://codemirror.net/doc/manual.html#addon_lint): Make updates more efficient.\n\n[css mode](http://codemirror.net/mode/css/): The mode is now properly case-insensitive.\n\n[continuelist addon](http://codemirror.net/doc/manual.html#addon_continuelist): Fix broken handling of unordered lists introduced in previous release.\n\n[swift](http://codemirror.net/mode/swift) and [scala](http://codemirror.net/mode/clike/) modes: Support nested block comments.\n\n[mllike mode](http://codemirror.net/mode/mllike/index.html): Improve OCaml support.\n\n[sublime bindings](http://codemirror.net/demo/sublime.html): Use the proper key bindings for `addCursorToNextLine` and `addCursorToPrevLine`.\n\n### New features\n\n[jsx mode](http://codemirror.net/mode/jsx/index.html): Support JSX fragments.\n\n[closetag addon](http://codemirror.net/demo/closetag.html): Add an option to disable auto-indenting.\n\n"
+  }
+}

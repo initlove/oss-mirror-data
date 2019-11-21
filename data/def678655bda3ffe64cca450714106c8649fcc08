@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzpkZWY2Nzg2NTViZGEzZmZlNjRjY2E0NTA3MTQxMDZjODY0OWZjYzA4",
+  "sha": "def678655bda3ffe64cca450714106c8649fcc08",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/def678655bda3ffe64cca450714106c8649fcc08",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-02-22T10:36:39Z"
+  },
+  "object": {
+    "sha": "948f94fc254e44fff74bc2cb3b2b49e6739d01fc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/948f94fc254e44fff74bc2cb3b2b49e6739d01fc"
+  },
+  "tag": "5.24.2",
+  "message": "Version 5.24.2\n\n### Bug fixes\n\n[javascript mode](http://codemirror.net/mode/javascript/): Support computed class method names.\n\n[merge addon](http://codemirror.net/doc/manual.html#addon_merge): Improve aligning of unchanged code in the presence of marks and line widgets.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlitacAACgkQcD8b7W0z\nrh4pQwf/ZaPm4QPjLlnxfWZlmR9bDe92gK4LDOsbIJj00JM1ZMch7jaiVQH3y4E3\novHzUd2zCf/ZwYXefdQk30NjdLombx7KgSTrjt/FMe9PpG/wqT1npAvtMQSzj6/F\ncqzSQuYQpv/sHmC0jNHXrK88CY5b1vGodxwmtlgeUrE6p/gGPf13zWLhNUNrAnxy\nujQ3N0PTsqUOZR0zM1YuNaVudNZGeINgO+h+rTiCFpYuzylAnA7fWn0xbA9vLhNn\nLu4s4OAorzarKdXPct7j59lrsBhgjXHT+SdccAhKwuEtY7qmZGmSlAIlIuSENLTd\n1YQRy9trPGpIxZT2C19PYmktjhEFtg==\n=1QIj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlitacAACgkQcD8b7W0z\nrh4pQwf/ZaPm4QPjLlnxfWZlmR9bDe92gK4LDOsbIJj00JM1ZMch7jaiVQH3y4E3\novHzUd2zCf/ZwYXefdQk30NjdLombx7KgSTrjt/FMe9PpG/wqT1npAvtMQSzj6/F\ncqzSQuYQpv/sHmC0jNHXrK88CY5b1vGodxwmtlgeUrE6p/gGPf13zWLhNUNrAnxy\nujQ3N0PTsqUOZR0zM1YuNaVudNZGeINgO+h+rTiCFpYuzylAnA7fWn0xbA9vLhNn\nLu4s4OAorzarKdXPct7j59lrsBhgjXHT+SdccAhKwuEtY7qmZGmSlAIlIuSENLTd\n1YQRy9trPGpIxZT2C19PYmktjhEFtg==\n=1QIj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 948f94fc254e44fff74bc2cb3b2b49e6739d01fc\ntype commit\ntag 5.24.2\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1487759799 +0100\n\nVersion 5.24.2\n\n### Bug fixes\n\n[javascript mode](http://codemirror.net/mode/javascript/): Support computed class method names.\n\n[merge addon](http://codemirror.net/doc/manual.html#addon_merge): Improve aligning of unchanged code in the presence of marks and line widgets.\n"
+  }
+}

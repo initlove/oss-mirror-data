@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzoxMDVmOGJhMjZiODRlNGFhN2QzM2ZhYzhhZTg5NWE3YjdjZDZhNWRi",
+  "sha": "105f8ba26b84e4aa7d33fac8ae895a7b7cd6a5db",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/105f8ba26b84e4aa7d33fac8ae895a7b7cd6a5db",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2016-08-22T13:45:46Z"
+  },
+  "object": {
+    "sha": "751fd52c3e16f10739a0df54769b8b44a836b35b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/751fd52c3e16f10739a0df54769b8b44a836b35b"
+  },
+  "tag": "5.18.0",
+  "message": "Version 5.18.0\n\n### Bugfixes\n\nMake sure [gutter backgrounds](http://codemirror.net/doc/manual.html#addLineClass) stick to the rest of the gutter during horizontal scrolling.\n\nThe contenteditable [`inputStyle`](http://codemirror.net/doc/manual.html#option_inputStyle) now properly supports pasting on pre-Edge IE versions.\n\n[javascript mode](http://codemirror.net/mode/javascript): Fix some small parsing bugs and improve TypeScript support.\n\n[matchbrackets addon](http://codemirror.net/doc/manual.html#addon_matchbrackets): Fix bug where active highlighting was left in editor when the addon was disabled.\n\n[match-highlighter addon](http://codemirror.net/doc/manual.html#addon_match-highlighter): Only start highlighting things when the editor gains focus.\n\n[javascript-hint addon](http://codemirror.net/doc/manual.html#addon_javascript-hint): Also complete non-enumerable properties.\n\n### New features\n\nThe [`addOverlay`](http://codemirror.net/doc/manual.html#addOverlay) method now supports a `priority` option to control the order in which overlays are applied.\n\nMIME types that end in `+json` now default to the JSON mode when the MIME itself is not defined.\n\n### Breaking changes\n\nThe mode formerly known as Jade was renamed to [Pug](http://codemirror.net/mode/pug).\n\nThe [Python mode](http://codemirror.net/mode/python) now defaults to Python 3 (rather than 2) syntax.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXuwIdAAoJEHA/G+1tM64ekIQH/05nSa1o0y4q05ja3HvJH0rf\n9xkf7ysHnSNjG874j7X0b7ag3D3rNIUJw3sH93BeozDQvjtiZMPMNYurfoYurjZr\nertzhYGdcOVFRaemXM7uAD5gCWHgpMV/AS5Vpzh/NrCtdvXhCeDN5Iz1nvfisa/c\njbGWX2N/bUpLzT7yrSnoNFQBvoatAMyYEHBkJfLL6SOiTV+jmwEAflo9ttpF+K5K\njtp/E5++hxXZrZ/iW3JcHJxJnjRRvj3HDOW8XY8VkrHWqdbdp0aGEZaNZQRhlfe4\naaqoSUfvVRfUMJ75Bf8p2+3iDeGjHBH2z/16zJFMh6lSaMihoRkVWzJP7RsmuuI=\n=bv1o\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXuwIdAAoJEHA/G+1tM64ekIQH/05nSa1o0y4q05ja3HvJH0rf\n9xkf7ysHnSNjG874j7X0b7ag3D3rNIUJw3sH93BeozDQvjtiZMPMNYurfoYurjZr\nertzhYGdcOVFRaemXM7uAD5gCWHgpMV/AS5Vpzh/NrCtdvXhCeDN5Iz1nvfisa/c\njbGWX2N/bUpLzT7yrSnoNFQBvoatAMyYEHBkJfLL6SOiTV+jmwEAflo9ttpF+K5K\njtp/E5++hxXZrZ/iW3JcHJxJnjRRvj3HDOW8XY8VkrHWqdbdp0aGEZaNZQRhlfe4\naaqoSUfvVRfUMJ75Bf8p2+3iDeGjHBH2z/16zJFMh6lSaMihoRkVWzJP7RsmuuI=\n=bv1o\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 751fd52c3e16f10739a0df54769b8b44a836b35b\ntype commit\ntag 5.18.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1471873546 +0200\n\nVersion 5.18.0\n\n### Bugfixes\n\nMake sure [gutter backgrounds](http://codemirror.net/doc/manual.html#addLineClass) stick to the rest of the gutter during horizontal scrolling.\n\nThe contenteditable [`inputStyle`](http://codemirror.net/doc/manual.html#option_inputStyle) now properly supports pasting on pre-Edge IE versions.\n\n[javascript mode](http://codemirror.net/mode/javascript): Fix some small parsing bugs and improve TypeScript support.\n\n[matchbrackets addon](http://codemirror.net/doc/manual.html#addon_matchbrackets): Fix bug where active highlighting was left in editor when the addon was disabled.\n\n[match-highlighter addon](http://codemirror.net/doc/manual.html#addon_match-highlighter): Only start highlighting things when the editor gains focus.\n\n[javascript-hint addon](http://codemirror.net/doc/manual.html#addon_javascript-hint): Also complete non-enumerable properties.\n\n### New features\n\nThe [`addOverlay`](http://codemirror.net/doc/manual.html#addOverlay) method now supports a `priority` option to control the order in which overlays are applied.\n\nMIME types that end in `+json` now default to the JSON mode when the MIME itself is not defined.\n\n### Breaking changes\n\nThe mode formerly known as Jade was renamed to [Pug](http://codemirror.net/mode/pug).\n\nThe [Python mode](http://codemirror.net/mode/python) now defaults to Python 3 (rather than 2) syntax.\n"
+  }
+}

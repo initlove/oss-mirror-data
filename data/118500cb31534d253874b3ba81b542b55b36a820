@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzoxMTg1MDBjYjMxNTM0ZDI1Mzg3NGIzYmE4MWI1NDJiNTViMzZhODIw",
+  "sha": "118500cb31534d253874b3ba81b542b55b36a820",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/118500cb31534d253874b3ba81b542b55b36a820",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-09-20T07:16:17Z"
+  },
+  "object": {
+    "sha": "0340b0d348249ba85f36e099738e55dd8c03f255",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/0340b0d348249ba85f36e099738e55dd8c03f255"
+  },
+  "tag": "5.49.0",
+  "message": "Version 5.49.0\n\n### Bug fixes\n\n[octave mode](https://codemirror.net/mode/octave/index.html): Don't mark common punctuation as error.\n\n[clike mode](https://codemirror.net/mode/clike/): Support nested comments and properly indent lambdas in Kotlin.\n\n[foldgutter](https://codemirror.net/doc/manual.html#addon_foldgutter) and [annotatescrollbar](https://codemirror.net/doc/manual.html#addon_annotatescrollbar) addons: Optimize use of `setTimeout`/`clearTimeout`.\n\n### New features\n\nNew themes: [moxer](https://codemirror.net/demo/theme.html#moxer), [material-darker](https://codemirror.net/demo/theme.html#material-darker), [material-palenight](https://codemirror.net/demo/theme.html#material-palenight), [material-ocean](https://codemirror.net/demo/theme.html#material-ocean).\n\n[xml mode](https://codemirror.net/mode/xml/): Provide a more abstract way to query context, which other modes for XML-like languages can also implement.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAl2EfM8ACgkQcD8b7W0z\nrh6R0gf/R9yR8ItsmaROfIMnG20RgX5WqtE6D/O5KjYOqnmPHzzJ+/XJWN/Cxy0g\nSWtqpt9tN9KacFj0cbUvN+IvZifnlRTQTpW8yFgHTh8XMKjjqgDxN36h0shseooz\nLvK4AMcxASt8rV43th8Owa1AuRBbUHc0nHrBgGkogxrAojpx1tsm2eW1d73q9SB3\ndvJCwpDMzR/8/oWh0nx+e8faVpFv9pORLh25kr5ETJGWS7oL+F0aCjl7oKICgtw9\niv/FbwCxIXzuvmqHqI5ZPM9V1E3C86RWOfeY14aMwV/p0eSJB9RaL4sSidten1E1\nzGn/o8cNxIG+mLU9Sg1fkLLz7mCjxQ==\n=+dAg\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAl2EfM8ACgkQcD8b7W0z\nrh6R0gf/R9yR8ItsmaROfIMnG20RgX5WqtE6D/O5KjYOqnmPHzzJ+/XJWN/Cxy0g\nSWtqpt9tN9KacFj0cbUvN+IvZifnlRTQTpW8yFgHTh8XMKjjqgDxN36h0shseooz\nLvK4AMcxASt8rV43th8Owa1AuRBbUHc0nHrBgGkogxrAojpx1tsm2eW1d73q9SB3\ndvJCwpDMzR/8/oWh0nx+e8faVpFv9pORLh25kr5ETJGWS7oL+F0aCjl7oKICgtw9\niv/FbwCxIXzuvmqHqI5ZPM9V1E3C86RWOfeY14aMwV/p0eSJB9RaL4sSidten1E1\nzGn/o8cNxIG+mLU9Sg1fkLLz7mCjxQ==\n=+dAg\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0340b0d348249ba85f36e099738e55dd8c03f255\ntype commit\ntag 5.49.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1568963777 +0200\n\nVersion 5.49.0\n\n### Bug fixes\n\n[octave mode](https://codemirror.net/mode/octave/index.html): Don't mark common punctuation as error.\n\n[clike mode](https://codemirror.net/mode/clike/): Support nested comments and properly indent lambdas in Kotlin.\n\n[foldgutter](https://codemirror.net/doc/manual.html#addon_foldgutter) and [annotatescrollbar](https://codemirror.net/doc/manual.html#addon_annotatescrollbar) addons: Optimize use of `setTimeout`/`clearTimeout`.\n\n### New features\n\nNew themes: [moxer](https://codemirror.net/demo/theme.html#moxer), [material-darker](https://codemirror.net/demo/theme.html#material-darker), [material-palenight](https://codemirror.net/demo/theme.html#material-palenight), [material-ocean](https://codemirror.net/demo/theme.html#material-ocean).\n\n[xml mode](https://codemirror.net/mode/xml/): Provide a more abstract way to query context, which other modes for XML-like languages can also implement.\n"
+  }
+}

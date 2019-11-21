@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQwOTUxNzU6Njc2ZGMwYzE5YjVlMTE0ZDRhZjkwMDRjNzlmYmMyNGFjMDI3YzQwYg==",
+  "sha": "676dc0c19b5e114d4af9004c79fbc24ac027c40b",
+  "url": "https://api.github.com/repos/SFTtech/openage/git/tags/676dc0c19b5e114d4af9004c79fbc24ac027c40b",
+  "tagger": {
+    "name": "Jonas Jelten",
+    "email": "jj@sft.mx",
+    "date": "2014-11-08T13:43:21Z"
+  },
+  "object": {
+    "sha": "2dbc349b09121d21713a8096761fba112dfd1268",
+    "type": "tag",
+    "url": "https://api.github.com/repos/SFTtech/openage/git/tags/2dbc349b09121d21713a8096761fba112dfd1268"
+  },
+  "tag": "v0.2.2",
+  "message": "import all raw orignal gamedata\n\nthe members to be available in C++ are defined in convert/gamedata/\nthe code generation automatically creates all needed files.\n\nthese reside in src/gamedata/ and are a huge tree structure\nwhich equals the content of the empires2x1p1.dat file.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

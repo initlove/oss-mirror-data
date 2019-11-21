@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjFhOTU0MWI4ZWUyOTgzYmY5Yzk4NjcwNjM1YjJmMjczOTI5MDIxNmE=",
+  "sha": "1a9541b8ee2983bf9c98670635b2f2739290216a",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/1a9541b8ee2983bf9c98670635b2f2739290216a",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2013-08-16T23:44:36Z"
+  },
+  "object": {
+    "sha": "90792eaf0e5c65b294dd838f59308083c548290f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/90792eaf0e5c65b294dd838f59308083c548290f"
+  },
+  "tag": "drbd-8.4.4rc1",
+  "message": "8.4.4rc1 (api:genl1/proto:86-101)\n--------\n * Changes from 8.3.16\n   * fix decoding of bitmap vli rle for device sizes > 64 TB\n   * fix for deadlock when using automatic split-brain-recovery\n   * only fail empty flushes if no good data is reachable\n   * avoid to shrink max_bio_size due to peer re-configuration\n   * fix resume-io after reconnect with broken fence-peer handler\n   * fencing script improvements\n * Fixed attaching to disks with fixed size external meta-data\n   (This regressions was introduced with 8.4.3)\n * Allow online changing of al-stripes and al-stripe-size with the\n   resize command\n * drbdadm adjust now deals with IP-address changes correctly\n * Align the internal object model with drbd-9.0 (away from drbd-8.3)\n * Compiles on Linux v3.10\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niD8DBQBSDrlzabsdXACqiTMRAsP4AJ43XtV4QJk+5kkIXaM6J2BdaHsu/ACfb2tj\nvoCXKhJXooMrOOFczT+btMU=\n=GTlp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niD8DBQBSDrlzabsdXACqiTMRAsP4AJ43XtV4QJk+5kkIXaM6J2BdaHsu/ACfb2tj\nvoCXKhJXooMrOOFczT+btMU=\n=GTlp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 90792eaf0e5c65b294dd838f59308083c548290f\ntype commit\ntag drbd-8.4.4rc1\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1376696676 +0200\n\n8.4.4rc1 (api:genl1/proto:86-101)\n--------\n * Changes from 8.3.16\n   * fix decoding of bitmap vli rle for device sizes > 64 TB\n   * fix for deadlock when using automatic split-brain-recovery\n   * only fail empty flushes if no good data is reachable\n   * avoid to shrink max_bio_size due to peer re-configuration\n   * fix resume-io after reconnect with broken fence-peer handler\n   * fencing script improvements\n * Fixed attaching to disks with fixed size external meta-data\n   (This regressions was introduced with 8.4.3)\n * Allow online changing of al-stripes and al-stripe-size with the\n   resize command\n * drbdadm adjust now deals with IP-address changes correctly\n * Align the internal object model with drbd-9.0 (away from drbd-8.3)\n * Compiles on Linux v3.10\n"
+  }
+}

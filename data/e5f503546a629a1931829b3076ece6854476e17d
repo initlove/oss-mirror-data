@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOmU1ZjUwMzU0NmE2MjlhMTkzMTgyOWIzMDc2ZWNlNjg1NDQ3NmUxN2Q=",
+  "sha": "e5f503546a629a1931829b3076ece6854476e17d",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/e5f503546a629a1931829b3076ece6854476e17d",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2018-10-25T09:17:56Z"
+  },
+  "object": {
+    "sha": "ab9777dfeaf9d619acc9a5201bfcae8103e9529c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/ab9777dfeaf9d619acc9a5201bfcae8103e9529c"
+  },
+  "tag": "drbd-9.0.16-1",
+  "message": "9.0.16-1 (api:genl2/proto:86-114/transport:14)\n--------\n * Fix regression (introduced with 9.0.15) in handling request timeouts;\n   all pending requests always considered as overdue when the timer function\n   was executed; this led to false positives in detecting timeouts\n * Fix a possible distributed loop when establishing a connection\n * Fix a corner case in case a resync \"overtakes\" an other one\n * Fix clearing of the PRIMARY_LOST_QUORUM flag\n * Check peers (to ensure quorum is not lost) before generating new current\n   UUID after loosing a node\n * In case the locally configured address of a connection is not\n   available keep on retrying until it comes back\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBb0YpSabsdXACqiTMRAkFuAJwMWSktSA+Ws49QIkxyeesHIiZyCwCggTqc\nJly9MN7SI7ax3rGBACzLorY=\n=uJD0\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBb0YpSabsdXACqiTMRAkFuAJwMWSktSA+Ws49QIkxyeesHIiZyCwCggTqc\nJly9MN7SI7ax3rGBACzLorY=\n=uJD0\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ab9777dfeaf9d619acc9a5201bfcae8103e9529c\ntype commit\ntag drbd-9.0.16-1\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1540459076 +0200\n\n9.0.16-1 (api:genl2/proto:86-114/transport:14)\n--------\n * Fix regression (introduced with 9.0.15) in handling request timeouts;\n   all pending requests always considered as overdue when the timer function\n   was executed; this led to false positives in detecting timeouts\n * Fix a possible distributed loop when establishing a connection\n * Fix a corner case in case a resync \"overtakes\" an other one\n * Fix clearing of the PRIMARY_LOST_QUORUM flag\n * Check peers (to ensure quorum is not lost) before generating new current\n   UUID after loosing a node\n * In case the locally configured address of a connection is not\n   available keep on retrying until it comes back\n"
+  }
+}

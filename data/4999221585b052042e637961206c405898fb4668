@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5Nzo0OTk5MjIxNTg1YjA1MjA0MmU2Mzc5NjEyMDZjNDA1ODk4ZmI0NjY4",
+  "sha": "4999221585b052042e637961206c405898fb4668",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/4999221585b052042e637961206c405898fb4668",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-01-21T15:57:37Z"
+  },
+  "object": {
+    "sha": "e8f6d1210255db6b987112e36f484d6aea503f7f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/e8f6d1210255db6b987112e36f484d6aea503f7f"
+  },
+  "tag": "5.43.0",
+  "message": "Version 5.43.0\n\n### Bug fixes\n\nFix mistakes in passing through the arguments to `indent` in several wrapping modes.\n\n[javascript mode](https://codemirror.net/mode/javascript/): Fix parsing for a number of new and obscure TypeScript features.\n\n[ruby mode](https://codemirror.net/mode/ruby): Support indented end tokens for heredoc strings.\n\n### New features\n\nNew options `autocorrect` and `autocapitalize` to turn on those browser features.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlxF6/oACgkQcD8b7W0z\nrh7Drgf7B6ikjwG9rWxGFBOkadvvl9DN89JMSZIG/gF2xJmQ6Bav4xkuE3Wa0hJQ\nPTQ77rJ3O/D6ljeVS/AmyvBfgnlH8VzVk0b13yQmzGqzz+qRxCPgXTGluNERHyWn\nhuaryqacFKmW5li577PCzIRDIx6Sm8M1Kns8E+8dECnynsGf+yoeGQp1rzOKcQ+P\nPJqHPZd/JkM/ClyWsbbTQvP+nUKsUdUNhR7xHBvpqkRW2Yzjy4mtHFuuo6ZFYPfH\nX1Qpi+tBxOVAYp1uZazx+quhhQthGZncupetXs6JNCBCsc1hXF+UvP56u2112eAo\neSa3RxxB15rKPTFdjUY+4x9tG2pnNg==\n=YLuW\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlxF6/oACgkQcD8b7W0z\nrh7Drgf7B6ikjwG9rWxGFBOkadvvl9DN89JMSZIG/gF2xJmQ6Bav4xkuE3Wa0hJQ\nPTQ77rJ3O/D6ljeVS/AmyvBfgnlH8VzVk0b13yQmzGqzz+qRxCPgXTGluNERHyWn\nhuaryqacFKmW5li577PCzIRDIx6Sm8M1Kns8E+8dECnynsGf+yoeGQp1rzOKcQ+P\nPJqHPZd/JkM/ClyWsbbTQvP+nUKsUdUNhR7xHBvpqkRW2Yzjy4mtHFuuo6ZFYPfH\nX1Qpi+tBxOVAYp1uZazx+quhhQthGZncupetXs6JNCBCsc1hXF+UvP56u2112eAo\neSa3RxxB15rKPTFdjUY+4x9tG2pnNg==\n=YLuW\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e8f6d1210255db6b987112e36f484d6aea503f7f\ntype commit\ntag 5.43.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1548086257 +0100\n\nVersion 5.43.0\n\n### Bug fixes\n\nFix mistakes in passing through the arguments to `indent` in several wrapping modes.\n\n[javascript mode](https://codemirror.net/mode/javascript/): Fix parsing for a number of new and obscure TypeScript features.\n\n[ruby mode](https://codemirror.net/mode/ruby): Support indented end tokens for heredoc strings.\n\n### New features\n\nNew options `autocorrect` and `autocapitalize` to turn on those browser features.\n"
+  }
+}

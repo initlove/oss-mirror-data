@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzplOWU3MzA4ZWI4MjQxNGE5M2FkYTAzNDE0MWM5NjMzMWI2MWEzN2Vh",
+  "sha": "e9e7308eb82414a93ada034141c96331b61a37ea",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/e9e7308eb82414a93ada034141c96331b61a37ea",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-10-21T06:20:56Z"
+  },
+  "object": {
+    "sha": "00d4135ddc9998ddb87e444413139ba1c7404095",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/00d4135ddc9998ddb87e444413139ba1c7404095"
+  },
+  "tag": "5.49.2",
+  "message": "Version 5.49.2\n\n### Bug fixes\n\n[sublime bindings](https://codemirror.net/demo/sublime.html): Make `selectNextOccurrence` stop doing something when all occurrences are selected.\n\n[continuecomment addon](https://codemirror.net/doc/manual.html#addon_continuecomment): Respect `indentWithTabs` option.\n\n[foldgutter addon](https://codemirror.net/doc/manual.html#addon_foldgutter): Optimize by reusing DOM when possible.\n\n[markdown mode](https://codemirror.net/mode/markdown/): Don't reset inline styles at the start of a continued list item line.\n\n[clike mode](https://codemirror.net/mode/clike/): Add a configuration for Objective-C++.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAl2tTlsACgkQcD8b7W0z\nrh6fmgf/S5ZvkWbqanaxaVmJkHEkB2TeFi5tCjzdtv35sxLTplowC9UVHEC76yEi\ns8GYKVZ9y1D2z3Jwfuoo8VK6oqveDEtzvLHw7qKqLI5izMu37uWx5kDFNz5o/xFB\npYlHSKDF9T4uZUTAhlAfmUoeWddJoumAUcBCSoHZuv/R63XtofyGyvc4ZAKotlzK\ngDfVkEz99Xfxn07VOKYYgWdTHXaNO2u9GTYI5y6e3DruZ5320pf+Gll7X6gtrmvF\nxg7eBKX5LIGdANMVlsWaYquUFGTL4vObQyOBO+Y7A6wZYNolkFXACE7nZpTJ4Rxh\nnlFWC8vhtH3tu3F3ewC+jMa6Zahvjw==\n=jpSN\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAl2tTlsACgkQcD8b7W0z\nrh6fmgf/S5ZvkWbqanaxaVmJkHEkB2TeFi5tCjzdtv35sxLTplowC9UVHEC76yEi\ns8GYKVZ9y1D2z3Jwfuoo8VK6oqveDEtzvLHw7qKqLI5izMu37uWx5kDFNz5o/xFB\npYlHSKDF9T4uZUTAhlAfmUoeWddJoumAUcBCSoHZuv/R63XtofyGyvc4ZAKotlzK\ngDfVkEz99Xfxn07VOKYYgWdTHXaNO2u9GTYI5y6e3DruZ5320pf+Gll7X6gtrmvF\nxg7eBKX5LIGdANMVlsWaYquUFGTL4vObQyOBO+Y7A6wZYNolkFXACE7nZpTJ4Rxh\nnlFWC8vhtH3tu3F3ewC+jMa6Zahvjw==\n=jpSN\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 00d4135ddc9998ddb87e444413139ba1c7404095\ntype commit\ntag 5.49.2\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1571638856 +0200\n\nVersion 5.49.2\n\n### Bug fixes\n\n[sublime bindings](https://codemirror.net/demo/sublime.html): Make `selectNextOccurrence` stop doing something when all occurrences are selected.\n\n[continuecomment addon](https://codemirror.net/doc/manual.html#addon_continuecomment): Respect `indentWithTabs` option.\n\n[foldgutter addon](https://codemirror.net/doc/manual.html#addon_foldgutter): Optimize by reusing DOM when possible.\n\n[markdown mode](https://codemirror.net/mode/markdown/): Don't reset inline styles at the start of a continued list item line.\n\n[clike mode](https://codemirror.net/mode/clike/): Add a configuration for Objective-C++.\n"
+  }
+}

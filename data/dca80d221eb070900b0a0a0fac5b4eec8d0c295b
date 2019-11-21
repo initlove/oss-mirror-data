@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzpkY2E4MGQyMjFlYjA3MDkwMGIwYTBhMGZhYzViNGVlYzhkMGMyOTVi",
+  "sha": "dca80d221eb070900b0a0a0fac5b4eec8d0c295b",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/dca80d221eb070900b0a0a0fac5b4eec8d0c295b",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-08-25T06:30:55Z"
+  },
+  "object": {
+    "sha": "b6d929104d1e3b95fe9b61faa1269b58d6f3cb0a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/b6d929104d1e3b95fe9b61faa1269b58d6f3cb0a"
+  },
+  "tag": "5.40.0",
+  "message": "Version 5.40.0\n\n### Bug fixes\n\n[closebrackets addon](https://codemirror.net/doc/manual.html#addon_closebrackets): Fix issue where bracket-closing wouldn't work before punctuation.\n\n[panel addon](https://codemirror.net/doc/manual.html#addon_panel): Fix problem where replacing the last remaining panel dropped the newly added panel.\n\n[hardwrap addon](https://codemirror.net/doc/manual.html#addon_hardwrap): Fix an infinite loop when the indention is greater than the target column.\n\n[jinja2](https://codemirror.net/mode/jinja2/) and [markdown](https://codemirror.net/mode/markdown/) modes: Add comment metadata.\n\n### New features\n\nNew method [`phrase`](https://codemirror.net/doc/manual.html#phrase) and option [`phrases`](https://codemirror.net/doc/manual.html#option_phrases) to make translating UI text in addons easier.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAluA96YACgkQcD8b7W0z\nrh7Upwf9H9EQCwbvKJY3JP7RFkVF76/D7RjP+m05WJAZrA2XK878T4VI/8aEFIah\nf0SCTiHSskvaZNea6qVHWlZmGtk5eGDCvAceNliZWCfS0UIMFUQ3XtcRoVT0XvU3\nmchL3uVz8JkMg+NLelIKvXlQsgXeDgJeaHTnWTXi7MmFTTsj+BPN3NUp0S2LXU2K\n3vwjyXTaDksj8uQ+Uv/JWkKPDVnpBWO7p5ZZXsuWkqTuxTKXSbhEVJKVVS01jYKo\nDXjmnYyJgwA9gHI+nxCdvjyQ/yfulAehPjStHJtt60fG9kq5AvccFfoFJA38sckn\nooALPSexrboZgzOtpP7geRE7QrsKSA==\n=LSpz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAluA96YACgkQcD8b7W0z\nrh7Upwf9H9EQCwbvKJY3JP7RFkVF76/D7RjP+m05WJAZrA2XK878T4VI/8aEFIah\nf0SCTiHSskvaZNea6qVHWlZmGtk5eGDCvAceNliZWCfS0UIMFUQ3XtcRoVT0XvU3\nmchL3uVz8JkMg+NLelIKvXlQsgXeDgJeaHTnWTXi7MmFTTsj+BPN3NUp0S2LXU2K\n3vwjyXTaDksj8uQ+Uv/JWkKPDVnpBWO7p5ZZXsuWkqTuxTKXSbhEVJKVVS01jYKo\nDXjmnYyJgwA9gHI+nxCdvjyQ/yfulAehPjStHJtt60fG9kq5AvccFfoFJA38sckn\nooALPSexrboZgzOtpP7geRE7QrsKSA==\n=LSpz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b6d929104d1e3b95fe9b61faa1269b58d6f3cb0a\ntype commit\ntag 5.40.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1535178655 +0200\n\nVersion 5.40.0\n\n### Bug fixes\n\n[closebrackets addon](https://codemirror.net/doc/manual.html#addon_closebrackets): Fix issue where bracket-closing wouldn't work before punctuation.\n\n[panel addon](https://codemirror.net/doc/manual.html#addon_panel): Fix problem where replacing the last remaining panel dropped the newly added panel.\n\n[hardwrap addon](https://codemirror.net/doc/manual.html#addon_hardwrap): Fix an infinite loop when the indention is greater than the target column.\n\n[jinja2](https://codemirror.net/mode/jinja2/) and [markdown](https://codemirror.net/mode/markdown/) modes: Add comment metadata.\n\n### New features\n\nNew method [`phrase`](https://codemirror.net/doc/manual.html#phrase) and option [`phrases`](https://codemirror.net/doc/manual.html#option_phrases) to make translating UI text in addons easier.\n"
+  }
+}

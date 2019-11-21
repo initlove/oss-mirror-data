@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjM0ZWM1OTJlZjdlNDAyMDg3ZWUyZDY5NGUyZTQ1MDJjOWE2MDc1MWM=",
+  "sha": "34ec592ef7e402087ee2d694e2e4502c9a60751c",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/34ec592ef7e402087ee2d694e2e4502c9a60751c",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2018-04-17T10:05:07Z"
+  },
+  "object": {
+    "sha": "b83ade31e10925030206854027021eb4fc9f2563",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/b83ade31e10925030206854027021eb4fc9f2563"
+  },
+  "tag": "drbd-9.0.13",
+  "message": "9.0.13-1 (api:genl2/proto:86-113/transport:14)\n--------\n * abort a resync if a resync source becomes weakly connected and the\n   sync target is a neighbor of the primary; the lack of doing so was\n   a possible source of data corruption\n * fix UUID handling with multiple diskless nodes; If the primary role\n   is moved between them, and no write happens before the storage\n   nodes are disconnect; before this fix the storage nodes would outdate\n   themselves upon reconnect\n * When a data-set gets into contact (attach or connect) with an all\n   diskless cluster with a primary and the exposed UUID does not match\n   the arriving data-set, make sure to either set it to \"Consistent\"\n   or to reject the attach\n * correctly handle when a node that was marked as intentional diskless\n   should get a disk; allocate bitmap slots when the --bitmap=no flag\n   gets removed; reject peers to attach if they are marked with --bitmap=no\n * fix outdating of weakly connected nodes; It was broken when an already\n   primary node joins the cluster at the other end\n * made returning from Ahead to SyncSource more reliable; the old code\n   may have missed the event if the write to the local backend was still\n   pending when the barrier-ack comes in\n * fix a hard to trigger deadlock in the receiver; it triggered sometimes\n   on the Secondary if a resync was going on and writes on the primary\n   happen to the same area while the connection is interrupted; it caused\n   the device to be stuck in \"NetworkFailure\" state\n * fix online resize in the presence of two or more diskless nodes\n * fix online add of volumes to diskless nodes when it already has\n   established connections\n * Set the SO_KEEPALIVE socket option on data sockets. Can be important\n   if long lived DRBD connections go through a firewall with connection\n   tracking\n * automatically solve a specific split brain when quorum is enabled\n   and a node does no IO between losing connections to other nodes\n * Compat: Drop support for kernels older 2.6.32 and distros older than\n   RHEL6; Added support for kernels up to v4.15.x\n * new wire packet P_ZEROES a cousin of P_DISCARD, following the kernel\n   as it introduced separated BIO ops for writing zeros and discarding\n * compat workaround for two RHEL 7.5 idiosyncrasies regarding refcount_t\n   and struct nla_policy\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

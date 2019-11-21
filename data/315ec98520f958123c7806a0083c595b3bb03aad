@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzozMTVlYzk4NTIwZjk1ODEyM2M3ODA2YTAwODNjNTk1YjNiYjAzYWFk",
+  "sha": "315ec98520f958123c7806a0083c595b3bb03aad",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/315ec98520f958123c7806a0083c595b3bb03aad",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-10-20T15:35:10Z"
+  },
+  "object": {
+    "sha": "f936d89e4a2aa68eee964f57d14f875ee1d71ff4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/f936d89e4a2aa68eee964f57d14f875ee1d71ff4"
+  },
+  "tag": "5.31.0",
+  "message": "Version 5.31.0\n\n### Bug fixes\n\nFurther improve selection drawing and cursor motion in right-to-left documents.\n\n[vim bindings](http://codemirror.net/demo/vim.html): Fix ctrl-w behavior, support quote-dot and backtick-dot marks, make the wide cursor visible in contentEditable [input mode](http://codemirror.net/doc/manual.html#option_contentEditable).\n\n[continuecomment addon](http://codemirror.net/doc/manual.html#addon_continuecomment): Fix bug when pressing enter after a single-line block comment.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Fix issue with leaving indented fenced code blocks.\n\n[javascript mode](http://codemirror.net/mode/javascript/): Fix bad parsing of operators without spaces between them. Fix some corner cases around semicolon insertion and regexps.\n\n### New features\n\nModes added with [`addOverlay`](http://codemirror.net/doc/manual.html#addOverlay) now have access to a [`baseToken`](http://codemirror.net/doc/manual.html#baseToken) method on their input stream, giving access to the tokens of the underlying mode.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlnqF8QACgkQcD8b7W0z\nrh7Qqwf/Tqelolj2IU4hnm0dsiL6pSNiV1FnwQTGfazAigwiV8QhZGX5MfpdE603\nA7swOLjf30SkrqlrPsd02QXA7pG/HSwXQgguyEREajAzHMRXOPqsSddQ/44isCUK\ndg2Gnj3MLye7YoX0Z8jp92UUtkuruqsUNdGhBszOZ3m/i2s7Q3XpXiWdhawVf2K0\nLUvpVHkfx5I4SJcdDEKhn+GZuDLx7pHg4xCtxmk8TMLG7w07OFfCPrZBsOsDHXmX\nmfchcsOAQaSJu37/W4Veit+c4ab0wIqoSjd9IdCyvu4pe3BbkduHu5Y3F48ZGu/w\nU8bjBOK1aWru6SYK15Ija65o/3OmdQ==\n=jKOB\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlnqF8QACgkQcD8b7W0z\nrh7Qqwf/Tqelolj2IU4hnm0dsiL6pSNiV1FnwQTGfazAigwiV8QhZGX5MfpdE603\nA7swOLjf30SkrqlrPsd02QXA7pG/HSwXQgguyEREajAzHMRXOPqsSddQ/44isCUK\ndg2Gnj3MLye7YoX0Z8jp92UUtkuruqsUNdGhBszOZ3m/i2s7Q3XpXiWdhawVf2K0\nLUvpVHkfx5I4SJcdDEKhn+GZuDLx7pHg4xCtxmk8TMLG7w07OFfCPrZBsOsDHXmX\nmfchcsOAQaSJu37/W4Veit+c4ab0wIqoSjd9IdCyvu4pe3BbkduHu5Y3F48ZGu/w\nU8bjBOK1aWru6SYK15Ija65o/3OmdQ==\n=jKOB\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f936d89e4a2aa68eee964f57d14f875ee1d71ff4\ntype commit\ntag 5.31.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1508513710 +0200\n\nVersion 5.31.0\n\n### Bug fixes\n\nFurther improve selection drawing and cursor motion in right-to-left documents.\n\n[vim bindings](http://codemirror.net/demo/vim.html): Fix ctrl-w behavior, support quote-dot and backtick-dot marks, make the wide cursor visible in contentEditable [input mode](http://codemirror.net/doc/manual.html#option_contentEditable).\n\n[continuecomment addon](http://codemirror.net/doc/manual.html#addon_continuecomment): Fix bug when pressing enter after a single-line block comment.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Fix issue with leaving indented fenced code blocks.\n\n[javascript mode](http://codemirror.net/mode/javascript/): Fix bad parsing of operators without spaces between them. Fix some corner cases around semicolon insertion and regexps.\n\n### New features\n\nModes added with [`addOverlay`](http://codemirror.net/doc/manual.html#addOverlay) now have access to a [`baseToken`](http://codemirror.net/doc/manual.html#baseToken) method on their input stream, giving access to the tokens of the underlying mode.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5Nzo3ZGM1ZDA5ZjMxZDdiYzI1NmQ3NWViMjg0ZDNkNzg0YmNkYTFkYjgz",
+  "sha": "7dc5d09f31d7bc256d75eb284d3d784bcda1db83",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/7dc5d09f31d7bc256d75eb284d3d784bcda1db83",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-08-24T11:45:30Z"
+  },
+  "object": {
+    "sha": "ab868db8edda2293ffcda96390bd2cb29e97698f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/ab868db8edda2293ffcda96390bd2cb29e97698f"
+  },
+  "tag": "5.29.0",
+  "message": "Version 5.29.0\n\n### Bug fixes\n\nFix crash in contentEditable input style when editing near a bookmark.\n\nMake sure change origins are preserved when splitting changes on [read-only marks](http://codemirror.net/doc/manual.html#mark_readOnly).\n\n[javascript mode](http://codemirror.net/mode/javascript/): More support for TypeScript syntax.\n\n[d mode](http://codemirror.net/mode/d/): Support nested comments.\n\n[python mode](http://codemirror.net/mode/python/): Improve tokenizing of operators.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Further improve CommonMark conformance.\n\n[css mode](http://codemirror.net/mode/css/): Don't run comment tokens through the mode's state machine.\n\n[shell mode](http://codemirror.net/mode/shell/): Allow strings to span lines.\n\n[search addon](http://codemirror.net/demo/search/): Fix crash in persistent search when `extraKeys` is null.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlmevHoACgkQcD8b7W0z\nrh5YDAf5AXv1AMFMSXr9xFlpBa8GYUOLqwWwZU6df+gcP9wWXyOqxlK/x1NkTo4C\nGVJ6RqPsw1T3One2jGnCQ3/wt2rxYFTeUgi9/lgrwoyxr66KU73h3YYffi+aE1ak\noIDBsEJb5GzW8T/iZrEBIIuB9rl9XZruC81aikg1MIdOtnQlOx2PrcWbr0cGymTt\nOal8913lTC27UsqJcXJJdXrJS8pZKs10TkbDaHYDBR+Gl3R5p45uCB4ZS5jWgUze\ndODDECu5IN4d4YqCmBAfnfsXSaEkl9Qq6ekyAWUGQsnQg4JQxDeaOB4wSeTeyyyM\nlAaWGSdn4nJfJRUURoQ1SBT6RcXewQ==\n=iMz1\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlmevHoACgkQcD8b7W0z\nrh5YDAf5AXv1AMFMSXr9xFlpBa8GYUOLqwWwZU6df+gcP9wWXyOqxlK/x1NkTo4C\nGVJ6RqPsw1T3One2jGnCQ3/wt2rxYFTeUgi9/lgrwoyxr66KU73h3YYffi+aE1ak\noIDBsEJb5GzW8T/iZrEBIIuB9rl9XZruC81aikg1MIdOtnQlOx2PrcWbr0cGymTt\nOal8913lTC27UsqJcXJJdXrJS8pZKs10TkbDaHYDBR+Gl3R5p45uCB4ZS5jWgUze\ndODDECu5IN4d4YqCmBAfnfsXSaEkl9Qq6ekyAWUGQsnQg4JQxDeaOB4wSeTeyyyM\nlAaWGSdn4nJfJRUURoQ1SBT6RcXewQ==\n=iMz1\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ab868db8edda2293ffcda96390bd2cb29e97698f\ntype commit\ntag 5.29.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1503575130 +0200\n\nVersion 5.29.0\n\n### Bug fixes\n\nFix crash in contentEditable input style when editing near a bookmark.\n\nMake sure change origins are preserved when splitting changes on [read-only marks](http://codemirror.net/doc/manual.html#mark_readOnly).\n\n[javascript mode](http://codemirror.net/mode/javascript/): More support for TypeScript syntax.\n\n[d mode](http://codemirror.net/mode/d/): Support nested comments.\n\n[python mode](http://codemirror.net/mode/python/): Improve tokenizing of operators.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Further improve CommonMark conformance.\n\n[css mode](http://codemirror.net/mode/css/): Don't run comment tokens through the mode's state machine.\n\n[shell mode](http://codemirror.net/mode/shell/): Allow strings to span lines.\n\n[search addon](http://codemirror.net/demo/search/): Fix crash in persistent search when `extraKeys` is null.\n"
+  }
+}

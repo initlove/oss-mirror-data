@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjcyZDc1NmNhZjE3ZjdiOTdjNmJmN2UyMDc5NGUyMjFkNzVhMjRkOTI=",
+  "sha": "72d756caf17f7b97c6bf7e20794e221d75a24d92",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/72d756caf17f7b97c6bf7e20794e221d75a24d92",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2016-02-03T19:20:56Z"
+  },
+  "object": {
+    "sha": "f57acfc22d29a95697e683fb6bbacd9a1ad4348e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/f57acfc22d29a95697e683fb6bbacd9a1ad4348e"
+  },
+  "tag": "drbd-9.0.1",
+  "message": "9.0.1-1 (api:genl2/proto:86-111/transport:14)\n--------\n * Fix ahead/behind mode: spinlock deadlock when entering and resync afterwards\n * Fix crash in online verify\n * Fix crash when receiving pages on a diskless node\n * Fix issues with resize when more than two nodes are present\n * Many minor fixes\n * Work on the multi-path support; the TCP transport now tries all paths while\n   connecting, afterwards it uses one path\n * The RDMA transport supports multiple paths and can use them in parallel\n * Configuration option to make resync thinly provisioned storage\n   friendly: rs-discard-granularity\n * Make sure it compiles with Linux 4.4\n * Merge changes from the 8.4.7 release\n * Fix a preformance regression of 8.4.0; it got worse with bigger devices;\n   really significant above 1TByte\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBWslMmabsdXACqiTMRAqRJAKCCBGepzAH/N6FMS01mLuFxtXwxlwCeIMpN\n6bV6rGTNIWY1nrapcV2Q8J0=\n=t/0s\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBWslMmabsdXACqiTMRAqRJAKCCBGepzAH/N6FMS01mLuFxtXwxlwCeIMpN\n6bV6rGTNIWY1nrapcV2Q8J0=\n=t/0s\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f57acfc22d29a95697e683fb6bbacd9a1ad4348e\ntype commit\ntag drbd-9.0.1\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1454527256 +0100\n\n9.0.1-1 (api:genl2/proto:86-111/transport:14)\n--------\n * Fix ahead/behind mode: spinlock deadlock when entering and resync afterwards\n * Fix crash in online verify\n * Fix crash when receiving pages on a diskless node\n * Fix issues with resize when more than two nodes are present\n * Many minor fixes\n * Work on the multi-path support; the TCP transport now tries all paths while\n   connecting, afterwards it uses one path\n * The RDMA transport supports multiple paths and can use them in parallel\n * Configuration option to make resync thinly provisioned storage\n   friendly: rs-discard-granularity\n * Make sure it compiles with Linux 4.4\n * Merge changes from the 8.4.7 release\n * Fix a preformance regression of 8.4.0; it got worse with bigger devices;\n   really significant above 1TByte\n"
+  }
+}

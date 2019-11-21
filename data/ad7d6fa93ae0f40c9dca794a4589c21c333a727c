@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzphZDdkNmZhOTNhZTBmNDBjOWRjYTc5NGE0NTg5YzIxYzMzM2E3Mjdj",
+  "sha": "ad7d6fa93ae0f40c9dca794a4589c21c333a727c",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/ad7d6fa93ae0f40c9dca794a4589c21c333a727c",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2016-12-20T14:41:13Z"
+  },
+  "object": {
+    "sha": "bfdfb212f76f479b3e651daa688f5da6909e7f48",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/bfdfb212f76f479b3e651daa688f5da6909e7f48"
+  },
+  "tag": "5.22.0",
+  "message": "Version 5.22.0\n\n### Bug fixes\n\n[sublime bindings](http://codemirror.net/demo/sublime.html): Make `selectBetweenBrackets` work with multiple cursors.\n\n[javascript mode](http://codemirror.net/mode/javascript/): Fix issues with parsing complex TypeScript types, imports, and exports.\n\nA contentEditable editor instance with autofocus enabled no longer crashes during initializing.\n\n### New features\n\n[emacs bindings](http://codemirror.net/demo/emacs.html): Export `CodeMirror.emacs` to allow other addons to hook into Emacs-style functionality.\n\n[active-line addon](http://codemirror.net/doc/manual.html#addon_active-line): Add `nonEmpty` option.\n\nNew event: [`optionChange`](http://codemirror.net/doc/manual.html#event_optionChange).\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlhZQxgACgkQcD8b7W0z\nrh6U0wgA0do/OOZUKkkVFuXsc3HNvqNMsrANHAhe4jV8dKEPK9jkuk0kDoy19oz7\niWx2aW8NME89WOtbllgwOdXOEeSRsOxgpdQJTTIyvuLUEPzeg/5Bamn/lCo71EON\nqIA2ra7kGGFwg9b8qmSp/GDm8QqDXPUY2EghhdrGtxJ3GCej7uO34wbycUG10iZL\nUf2GYTreXD8K6NU7RKiXM1pf13ZjTFO6QpCtyk92s/nOsfjipiVTM+T8PLe6XE9W\n5Sb52b5uiJlmTBHZuGJRQpZbXpOWXNBlXp9U50Buqr/s/ZDFVuxV65iZwU2xK2xj\nG28omP69wedmKjSl/QP3hKiB/rUO6g==\n=KZCz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlhZQxgACgkQcD8b7W0z\nrh6U0wgA0do/OOZUKkkVFuXsc3HNvqNMsrANHAhe4jV8dKEPK9jkuk0kDoy19oz7\niWx2aW8NME89WOtbllgwOdXOEeSRsOxgpdQJTTIyvuLUEPzeg/5Bamn/lCo71EON\nqIA2ra7kGGFwg9b8qmSp/GDm8QqDXPUY2EghhdrGtxJ3GCej7uO34wbycUG10iZL\nUf2GYTreXD8K6NU7RKiXM1pf13ZjTFO6QpCtyk92s/nOsfjipiVTM+T8PLe6XE9W\n5Sb52b5uiJlmTBHZuGJRQpZbXpOWXNBlXp9U50Buqr/s/ZDFVuxV65iZwU2xK2xj\nG28omP69wedmKjSl/QP3hKiB/rUO6g==\n=KZCz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bfdfb212f76f479b3e651daa688f5da6909e7f48\ntype commit\ntag 5.22.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1482244873 +0100\n\nVersion 5.22.0\n\n### Bug fixes\n\n[sublime bindings](http://codemirror.net/demo/sublime.html): Make `selectBetweenBrackets` work with multiple cursors.\n\n[javascript mode](http://codemirror.net/mode/javascript/): Fix issues with parsing complex TypeScript types, imports, and exports.\n\nA contentEditable editor instance with autofocus enabled no longer crashes during initializing.\n\n### New features\n\n[emacs bindings](http://codemirror.net/demo/emacs.html): Export `CodeMirror.emacs` to allow other addons to hook into Emacs-style functionality.\n\n[active-line addon](http://codemirror.net/doc/manual.html#addon_active-line): Add `nonEmpty` option.\n\nNew event: [`optionChange`](http://codemirror.net/doc/manual.html#event_optionChange).\n"
+  }
+}

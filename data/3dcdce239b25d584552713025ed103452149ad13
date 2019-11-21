@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzozZGNkY2UyMzliMjVkNTg0NTUyNzEzMDI1ZWQxMDM0NTIxNDlhZDEz",
+  "sha": "3dcdce239b25d584552713025ed103452149ad13",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/3dcdce239b25d584552713025ed103452149ad13",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-03-20T16:30:54Z"
+  },
+  "object": {
+    "sha": "860e9518e605a75c20cd111fab45faf4577c38d3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/860e9518e605a75c20cd111fab45faf4577c38d3"
+  },
+  "tag": "5.36.0",
+  "message": "Version 5.36.0\n\n### Bug fixes\n\nMake sure all document-level event handlers are registered on the document that the editor is part of.\n\nFix issue that prevented edits whose origin starts with `+` from being combined in history events for an editor-less document.\n\n[multiplex addon](http://codemirror.net/demo/multiplex.html): Improve handling of indentation.\n\n[merge addon](http://codemirror.net/doc/manual.html#addon_merge): Use CSS `:after` element to style the scroll-lock icon.\n\n[javascript-hint addon](http://codemirror.net/doc/manual.html#addon_javascript-hint): Don't provide completions in JSON mode.\n\n[continuelist addon](http://codemirror.net/doc/manual.html#addon_continuelist): Fix numbering error.\n\n[show-hint addon](http://codemirror.net/doc/manual.html#addon_show-hint): Make `fromList` completion strategy act on the current token up to the cursor, rather than the entire token.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Fix a regexp with potentially exponental complexity.\n\n### New features\n\nNew theme: [lucario](http://codemirror.net/demo/theme.html#lucario).\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlqxN2wACgkQcD8b7W0z\nrh6tVgf+KqjmYRmIdquU7tnkNPSybQLz9dtDPkVergKGfJhtF3a12xDXuHzGsLjo\n55bbOZwH1H5c2T0RpiCdJsovRmp1Z1NSVnZ9r3vHlP/bYmusOKfVMQvJBqz/cC9W\ns2jXeBlnVRKc9tmLSS9f8DLCmBr7ZMOBzNfPLTfo37VX+BjMR+JinZKEmLFRD/W2\nZPrw/t9FnA0HkP3Pv/wMZTRvVrdWWubOHalZgqQNQoMg8JWf2aQmcDshhIJeGZrj\nXCAX4e7OMW3xB4O+SRgbPqOc+ZWr83eSgDSxh88AxADGDptSO2PfpvVe2noE8bpS\nATBLRLaO1CQx1uEiIqDvVwaiG1SB6Q==\n=KVl1\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlqxN2wACgkQcD8b7W0z\nrh6tVgf+KqjmYRmIdquU7tnkNPSybQLz9dtDPkVergKGfJhtF3a12xDXuHzGsLjo\n55bbOZwH1H5c2T0RpiCdJsovRmp1Z1NSVnZ9r3vHlP/bYmusOKfVMQvJBqz/cC9W\ns2jXeBlnVRKc9tmLSS9f8DLCmBr7ZMOBzNfPLTfo37VX+BjMR+JinZKEmLFRD/W2\nZPrw/t9FnA0HkP3Pv/wMZTRvVrdWWubOHalZgqQNQoMg8JWf2aQmcDshhIJeGZrj\nXCAX4e7OMW3xB4O+SRgbPqOc+ZWr83eSgDSxh88AxADGDptSO2PfpvVe2noE8bpS\nATBLRLaO1CQx1uEiIqDvVwaiG1SB6Q==\n=KVl1\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 860e9518e605a75c20cd111fab45faf4577c38d3\ntype commit\ntag 5.36.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1521563454 +0100\n\nVersion 5.36.0\n\n### Bug fixes\n\nMake sure all document-level event handlers are registered on the document that the editor is part of.\n\nFix issue that prevented edits whose origin starts with `+` from being combined in history events for an editor-less document.\n\n[multiplex addon](http://codemirror.net/demo/multiplex.html): Improve handling of indentation.\n\n[merge addon](http://codemirror.net/doc/manual.html#addon_merge): Use CSS `:after` element to style the scroll-lock icon.\n\n[javascript-hint addon](http://codemirror.net/doc/manual.html#addon_javascript-hint): Don't provide completions in JSON mode.\n\n[continuelist addon](http://codemirror.net/doc/manual.html#addon_continuelist): Fix numbering error.\n\n[show-hint addon](http://codemirror.net/doc/manual.html#addon_show-hint): Make `fromList` completion strategy act on the current token up to the cursor, rather than the entire token.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Fix a regexp with potentially exponental complexity.\n\n### New features\n\nNew theme: [lucario](http://codemirror.net/demo/theme.html#lucario).\n"
+  }
+}

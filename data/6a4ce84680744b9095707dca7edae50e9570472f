@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjZhNGNlODQ2ODA3NDRiOTA5NTcwN2RjYTdlZGFlNTBlOTU3MDQ3MmY=",
+  "sha": "6a4ce84680744b9095707dca7edae50e9570472f",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/6a4ce84680744b9095707dca7edae50e9570472f",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2015-03-09T14:57:01Z"
+  },
+  "object": {
+    "sha": "ba4a38ef11b95bd0f1a2a964e6c4baec0f6a45d6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/ba4a38ef11b95bd0f1a2a964e6c4baec0f6a45d6"
+  },
+  "tag": "drbd-9.0.0rc2",
+  "message": "9.0.0rc2 (api:genl1/proto:86-110)\n--------\n * implemented trivial corking (network packet coalescing) in drbd,\n   that makes the use of packet oriented transport feasible\n * create a new configuration object 'peer-device'; move config\n   params of resync to the peer-device\n * move max_buffers from disk options to net options\n * merge 8.4 fixes\n * more work on the transport interface (triggered by the work\n   on the RDMA transport)\n * Expose the loaded transports in /proc/drbd\n * Use git submodules to share code between drbd core, user-space\n   tools and drbd transports\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBU/bTbabsdXACqiTMRAm2AAKCKVw5wKHqLMnwUXynLO/u44O46pgCeLpgI\nT28quHK7BD+sohACkSbSnqc=\n=rkPm\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBU/bTbabsdXACqiTMRAm2AAKCKVw5wKHqLMnwUXynLO/u44O46pgCeLpgI\nT28quHK7BD+sohACkSbSnqc=\n=rkPm\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ba4a38ef11b95bd0f1a2a964e6c4baec0f6a45d6\ntype commit\ntag drbd-9.0.0rc2\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1425913021 +0100\n\n9.0.0rc2 (api:genl1/proto:86-110)\n--------\n * implemented trivial corking (network packet coalescing) in drbd,\n   that makes the use of packet oriented transport feasible\n * create a new configuration object 'peer-device'; move config\n   params of resync to the peer-device\n * move max_buffers from disk options to net options\n * merge 8.4 fixes\n * more work on the transport interface (triggered by the work\n   on the RDMA transport)\n * Expose the loaded transports in /proc/drbd\n * Use git submodules to share code between drbd core, user-space\n   tools and drbd transports\n"
+  }
+}

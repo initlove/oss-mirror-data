@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjI4NmJkODA3MWQ4OTg3YTJjOTc0NmQ4MTMwNDQ2MzFlOTg3MjcwM2U=",
+  "sha": "286bd8071d8987a2c9746d813044631e9872703e",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/286bd8071d8987a2c9746d813044631e9872703e",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2017-12-15T14:17:02Z"
+  },
+  "object": {
+    "sha": "be44ff106ed25572021773c46fa36ff90717b07d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/be44ff106ed25572021773c46fa36ff90717b07d"
+  },
+  "tag": "drbd-9.0.10-0rc2",
+  "message": "9.0.10-0rc2 (api:genl2/proto:86-112/transport:14)\n--------\n * Fix resync of two secondary nodes in the presence of a 3rd node that is\n   primary (maybe with disk or diskless); Fixed the race condition that\n   caused the resync to sometimes not terminate\n * Improve connection behavior with autopromote enable one node Primary and\n   udev present. The problem was that if udev opens the device on the\n   Secondary side \"in the right moment\" the connection attempt was\n   aborted. Fixed that by waiting until udev closes the device\n   again. Improves connect speed!\n * Fix in memory alignment of DRBD's struct bio. Got offseted by one due to a\n   buggy compat code. Only affects architectures that choke on unaligned\n   word accesses. I.e. Power and ARM not x86_64.\n * Improve the quorum implementation, so that is works nicely with for the\n   purpose of replacing fencing with quorum in a Pacemaker setup. Quorum\n   lost affects the completion status of writes in flight; Quorum state is\n   visible to user-space; a new meta-data flags quorum-lost to handle a\n   corner case\n * Ensure compatibility with upstream Linux kernel 4.14\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBaM9luabsdXACqiTMRApLKAJwPB8KQDYTdr+gK1lTqwpej90TNUwCgvTcV\nFbey7H/JP9a8BF9Vnpv5I+Q=\n=GUhJ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBaM9luabsdXACqiTMRApLKAJwPB8KQDYTdr+gK1lTqwpej90TNUwCgvTcV\nFbey7H/JP9a8BF9Vnpv5I+Q=\n=GUhJ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object be44ff106ed25572021773c46fa36ff90717b07d\ntype commit\ntag drbd-9.0.10-0rc2\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1513347422 +0100\n\n9.0.10-0rc2 (api:genl2/proto:86-112/transport:14)\n--------\n * Fix resync of two secondary nodes in the presence of a 3rd node that is\n   primary (maybe with disk or diskless); Fixed the race condition that\n   caused the resync to sometimes not terminate\n * Improve connection behavior with autopromote enable one node Primary and\n   udev present. The problem was that if udev opens the device on the\n   Secondary side \"in the right moment\" the connection attempt was\n   aborted. Fixed that by waiting until udev closes the device\n   again. Improves connect speed!\n * Fix in memory alignment of DRBD's struct bio. Got offseted by one due to a\n   buggy compat code. Only affects architectures that choke on unaligned\n   word accesses. I.e. Power and ARM not x86_64.\n * Improve the quorum implementation, so that is works nicely with for the\n   purpose of replacing fencing with quorum in a Pacemaker setup. Quorum\n   lost affects the completion status of writes in flight; Quorum state is\n   visible to user-space; a new meta-data flags quorum-lost to handle a\n   corner case\n * Ensure compatibility with upstream Linux kernel 4.14\n"
+  }
+}

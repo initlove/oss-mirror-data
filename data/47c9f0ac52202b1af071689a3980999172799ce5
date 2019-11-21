@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5Nzo0N2M5ZjBhYzUyMjAyYjFhZjA3MTY4OWEzOTgwOTk5MTcyNzk5Y2U1",
+  "sha": "47c9f0ac52202b1af071689a3980999172799ce5",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/47c9f0ac52202b1af071689a3980999172799ce5",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2016-10-20T09:31:11Z"
+  },
+  "object": {
+    "sha": "763575c2bd91747c7b44a70ebc24f79b85d71e6e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/763575c2bd91747c7b44a70ebc24f79b85d71e6e"
+  },
+  "tag": "5.20.0",
+  "message": "Release 5.20.0\n\n### Bug fixes\n\nMake `newlineAndIndent` command work with multiple cursors on the same line.\n\nMake sure keypress events for backspace are ignored.\n\nTokens styled with overlays no longer get a nonsense `cm-cm-overlay` class.\n\nLine endings for pasted content are now normalized to the editor's [preferred ending](http://codemirror.net/doc/manual.html#option_lineSeparator).\n\n[javascript mode](http://codemirror.net/mode/javascript): Improve support for class expressions. Support TypeScript optional class properties, the `abstract` keyword, and return type declarations for arrow functions.\n\n[css mode](http://codemirror.net/mode/css): Fix highlighting of mixed-case keywords.\n\n[closebrackets addon](http://codemirror.net/doc/manual.html#addon_closebrackets): Improve behavior when typing a quote before a string.\n\n### New features\n\nThe core is now maintained as a number of small files, using ES6 syntax and modules, under the `src/` directory. A git checkout no longer contains a working `codemirror.js` until you `npm build` (but when installing from NPM, it is included).\n\nThe [`refresh`](http://codemirror.net/doc/manual.html#event_refresh) event is now documented and stable.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJYCI70AAoJEHA/G+1tM64el4AH/j7W/XXsJeX7Bp7b6V7cMQvC\npZHSeoGHNphmU9jRG3VjNtcXP/X3kjjAPksTGlMEG1DpufQ7m1Nqu5V8ogUkRl8Z\n0HC0Cn5R8f2YQ7rwP2DaB5+Rf8DwcKM/GWUY0fypTGz+G7lkMoJUjc+n7vEpxk0E\nZ5e9m2oyxPYK6IkMBLsDTZsvrNQhN6nkIXITz7RD8B5y2QLw1GW+57LB5mTay0rz\nW33aUYo6o9ERl4Z68jK/ZRbvgeX2oQUKRCt4gAOlbytiLNPlp+GlTSBbaxs3iC9c\nWCLMRLOhCH1JPKwsLFgPucifJCZ+f/vh9+peR++7uOrvm3gd69tu7bozHjmepkY=\n=jYUf\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJYCI70AAoJEHA/G+1tM64el4AH/j7W/XXsJeX7Bp7b6V7cMQvC\npZHSeoGHNphmU9jRG3VjNtcXP/X3kjjAPksTGlMEG1DpufQ7m1Nqu5V8ogUkRl8Z\n0HC0Cn5R8f2YQ7rwP2DaB5+Rf8DwcKM/GWUY0fypTGz+G7lkMoJUjc+n7vEpxk0E\nZ5e9m2oyxPYK6IkMBLsDTZsvrNQhN6nkIXITz7RD8B5y2QLw1GW+57LB5mTay0rz\nW33aUYo6o9ERl4Z68jK/ZRbvgeX2oQUKRCt4gAOlbytiLNPlp+GlTSBbaxs3iC9c\nWCLMRLOhCH1JPKwsLFgPucifJCZ+f/vh9+peR++7uOrvm3gd69tu7bozHjmepkY=\n=jYUf\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 763575c2bd91747c7b44a70ebc24f79b85d71e6e\ntype commit\ntag 5.20.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1476955871 +0200\n\nRelease 5.20.0\n\n### Bug fixes\n\nMake `newlineAndIndent` command work with multiple cursors on the same line.\n\nMake sure keypress events for backspace are ignored.\n\nTokens styled with overlays no longer get a nonsense `cm-cm-overlay` class.\n\nLine endings for pasted content are now normalized to the editor's [preferred ending](http://codemirror.net/doc/manual.html#option_lineSeparator).\n\n[javascript mode](http://codemirror.net/mode/javascript): Improve support for class expressions. Support TypeScript optional class properties, the `abstract` keyword, and return type declarations for arrow functions.\n\n[css mode](http://codemirror.net/mode/css): Fix highlighting of mixed-case keywords.\n\n[closebrackets addon](http://codemirror.net/doc/manual.html#addon_closebrackets): Improve behavior when typing a quote before a string.\n\n### New features\n\nThe core is now maintained as a number of small files, using ES6 syntax and modules, under the `src/` directory. A git checkout no longer contains a working `codemirror.js` until you `npm build` (but when installing from NPM, it is included).\n\nThe [`refresh`](http://codemirror.net/doc/manual.html#event_refresh) event is now documented and stable.\n"
+  }
+}

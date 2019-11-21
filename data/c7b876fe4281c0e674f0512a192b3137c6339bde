@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOmM3Yjg3NmZlNDI4MWMwZTY3NGYwNTEyYTE5MmIzMTM3YzYzMzliZGU=",
+  "sha": "c7b876fe4281c0e674f0512a192b3137c6339bde",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/c7b876fe4281c0e674f0512a192b3137c6339bde",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2019-07-08T14:46:23Z"
+  },
+  "object": {
+    "sha": "6f5fa5d348a99e5eeb09d83c49853d72e614fd07",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/6f5fa5d348a99e5eeb09d83c49853d72e614fd07"
+  },
+  "tag": "drbd-9.0.19-1",
+  "message": "9.0.19-1 (api:genl2/proto:86-115/transport:14)\n--------\n * check on CAP_SYS_ADMIN instead of CAP_NET_ADMIN for certain operations\n * fix detection of unstable resync\n * fix possible stuck resync when resync started from an other secondary\n   and later continued from a primary\n * fix NULL dereference with disk-timeout enabled; was introduced in 9.0.9\n * retry connect when own current UUID changes during UUID exchange\n * fix quorum tie-breaker diskless logic for settings other than \"majority\"\n * disable quorum tie-breaker for 0 voters\n * fix dax_direct_access() error return check\n * fix resync stuck at near completion; bug was intorduces with 9.0.17\n * unblock IO when on-quorum-lost policy is changed (suspend -> io-error)\n * introduce allow-remote-read configuration option; set it to \"no\" for\n   DR links you only want to write, but never read\n * only complain about UUID changes during initial handshake\n-----BEGIN PGP SIGNATURE-----\n\niHkEABECADkWIQSsgKNi/XF/Se+doMhpux1cAKqJMwUCXSNXVhsccGhpbGlwcC5y\nZWlzbmVyQGxpbmJpdC5jb20ACgkQabsdXACqiTP6dwCfR3f3VLxnu0n3PpM3+Ak2\n0a/r31MAn2z6mH8TR3wX7z+GiunETKeSB+Ci\n=03hw\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niHkEABECADkWIQSsgKNi/XF/Se+doMhpux1cAKqJMwUCXSNXVhsccGhpbGlwcC5y\nZWlzbmVyQGxpbmJpdC5jb20ACgkQabsdXACqiTP6dwCfR3f3VLxnu0n3PpM3+Ak2\n0a/r31MAn2z6mH8TR3wX7z+GiunETKeSB+Ci\n=03hw\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6f5fa5d348a99e5eeb09d83c49853d72e614fd07\ntype commit\ntag drbd-9.0.19-1\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1562597183 +0200\n\n9.0.19-1 (api:genl2/proto:86-115/transport:14)\n--------\n * check on CAP_SYS_ADMIN instead of CAP_NET_ADMIN for certain operations\n * fix detection of unstable resync\n * fix possible stuck resync when resync started from an other secondary\n   and later continued from a primary\n * fix NULL dereference with disk-timeout enabled; was introduced in 9.0.9\n * retry connect when own current UUID changes during UUID exchange\n * fix quorum tie-breaker diskless logic for settings other than \"majority\"\n * disable quorum tie-breaker for 0 voters\n * fix dax_direct_access() error return check\n * fix resync stuck at near completion; bug was intorduces with 9.0.17\n * unblock IO when on-quorum-lost policy is changed (suspend -> io-error)\n * introduce allow-remote-read configuration option; set it to \"no\" for\n   DR links you only want to write, but never read\n * only complain about UUID changes during initial handshake\n"
+  }
+}

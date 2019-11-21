@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5Nzo0ZDI5ZTdjNjMzODZlMDkyOTRlMzgxMGYwODc0MzRiZTA5MTA5YmZk",
+  "sha": "4d29e7c63386e09294e3810f087434be09109bfd",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/4d29e7c63386e09294e3810f087434be09109bfd",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-06-20T07:12:13Z"
+  },
+  "object": {
+    "sha": "b1aeb702f0f718a61723fa82d23b2d08f1478cb1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/b1aeb702f0f718a61723fa82d23b2d08f1478cb1"
+  },
+  "tag": "5.48.0",
+  "message": "Version 5.48.0\n\n### Bug fixes\n\nTreat non-printing character range u+fff9 to u+fffc as special characters and highlight them.\n\n[show-hint addon](https://codemirror.net/doc/manual.html#addon_show-hint): Fix positioning when the dialog is placed in a scrollable container.\n\n### New features\n\nAdd [`selectLeft`](https://codemirror.net/doc/manual.html#mark_selectLeft)/[`selectRight`](https://codemirror.net/doc/manual.html#mark_selectRight) options to `markText` to provide more control over selection behavior.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAl0LMdUACgkQcD8b7W0z\nrh7a8wf/T78lh9/775GSVheebxmXK3zwaFrLZGcEUPV9jzbq8jsWtIwPCBuvITGU\ntRzMhlpVKTEFF2BvjvoztggwDWtrHuaYNX6dtbgdhPjZHa9nCYYUOpGcki3pke7q\nX62Pk7jnZb8dkEpVF95CpIITxAgwyxWIdEh/HtjbIGrMjwm/Jm/ADWE9MRGS+BYg\nmFvnh23Z5rDa8iyHGP1JksrDpSfC7lalksS/hsjgRV5lx83EIBtAf5SXVQKQ4ZVH\nIOorUvEa1qZjd1uAO9Kv13evSDB2Tz76pzztNwguld4Q8yg9VUsL1DMbGWjRh/42\nixuWpQi343uahBlbe2OsSwURf616ng==\n=1f00\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAl0LMdUACgkQcD8b7W0z\nrh7a8wf/T78lh9/775GSVheebxmXK3zwaFrLZGcEUPV9jzbq8jsWtIwPCBuvITGU\ntRzMhlpVKTEFF2BvjvoztggwDWtrHuaYNX6dtbgdhPjZHa9nCYYUOpGcki3pke7q\nX62Pk7jnZb8dkEpVF95CpIITxAgwyxWIdEh/HtjbIGrMjwm/Jm/ADWE9MRGS+BYg\nmFvnh23Z5rDa8iyHGP1JksrDpSfC7lalksS/hsjgRV5lx83EIBtAf5SXVQKQ4ZVH\nIOorUvEa1qZjd1uAO9Kv13evSDB2Tz76pzztNwguld4Q8yg9VUsL1DMbGWjRh/42\nixuWpQi343uahBlbe2OsSwURf616ng==\n=1f00\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b1aeb702f0f718a61723fa82d23b2d08f1478cb1\ntype commit\ntag 5.48.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1561014733 +0200\n\nVersion 5.48.0\n\n### Bug fixes\n\nTreat non-printing character range u+fff9 to u+fffc as special characters and highlight them.\n\n[show-hint addon](https://codemirror.net/doc/manual.html#addon_show-hint): Fix positioning when the dialog is placed in a scrollable container.\n\n### New features\n\nAdd [`selectLeft`](https://codemirror.net/doc/manual.html#mark_selectLeft)/[`selectRight`](https://codemirror.net/doc/manual.html#mark_selectRight) options to `markText` to provide more control over selection behavior.\n"
+  }
+}

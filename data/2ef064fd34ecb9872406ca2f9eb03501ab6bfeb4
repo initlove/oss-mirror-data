@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjJlZjA2NGZkMzRlY2I5ODcyNDA2Y2EyZjllYjAzNTAxYWI2YmZlYjQ=",
+  "sha": "2ef064fd34ecb9872406ca2f9eb03501ab6bfeb4",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/2ef064fd34ecb9872406ca2f9eb03501ab6bfeb4",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2017-08-04T12:57:08Z"
+  },
+  "object": {
+    "sha": "53f698f815bae51568e4974eea1a3b4caa27987e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/53f698f815bae51568e4974eea1a3b4caa27987e"
+  },
+  "tag": "drbd-9.0.9rc1",
+  "message": "9.0.9rc1-1 (api:genl2/proto:86-112/transport:14)\n--------\n * fix occasionally forgotten resyncs in installations where\n   diskless primaries are present. The bug tigers when a storage\n   node is re-integrated, and it happens to connect to the diskless\n   primary first; This bug is severe, since it might cause inconsistent\n   data read back on the diskless primary!\n * fix a possible OOPS when in a debug message regarding bitmap\n   locking\n * fix discard bigger than 1MiB; The bug causes disconnect with\n   bigger discard requests\n * fix an issue that causes unexpected split-brain situations upon\n   connect. This issue triggers only when one of the node has a\n   node_id bigger than 3.\n * fix left over bits in bitmap on SyncSource after resync; the\n   issue was triggered by write requests that come in while the\n   resync starts\n * fix peers becoming unexpectedly displayed as D_OUTDATED at the\n   end of a resync; While the disk state on the node stays D_UP_TO_DATE\n * fix a race between auto promote and auto demote of multiple volumes\n   in a single resource; The symptom was that the a process opening\n   the /dev/drbdX for read-write gets an -EROFS errno\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBZhG8zabsdXACqiTMRAl2vAKCWrzq6SouIsgg52VM3t3GPhbp5/wCfcZKs\ni8/gGnuxQPYntYVtwyvBU+8=\n=NCCe\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBZhG8zabsdXACqiTMRAl2vAKCWrzq6SouIsgg52VM3t3GPhbp5/wCfcZKs\ni8/gGnuxQPYntYVtwyvBU+8=\n=NCCe\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 53f698f815bae51568e4974eea1a3b4caa27987e\ntype commit\ntag drbd-9.0.9rc1\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1501851428 +0200\n\n9.0.9rc1-1 (api:genl2/proto:86-112/transport:14)\n--------\n * fix occasionally forgotten resyncs in installations where\n   diskless primaries are present. The bug tigers when a storage\n   node is re-integrated, and it happens to connect to the diskless\n   primary first; This bug is severe, since it might cause inconsistent\n   data read back on the diskless primary!\n * fix a possible OOPS when in a debug message regarding bitmap\n   locking\n * fix discard bigger than 1MiB; The bug causes disconnect with\n   bigger discard requests\n * fix an issue that causes unexpected split-brain situations upon\n   connect. This issue triggers only when one of the node has a\n   node_id bigger than 3.\n * fix left over bits in bitmap on SyncSource after resync; the\n   issue was triggered by write requests that come in while the\n   resync starts\n * fix peers becoming unexpectedly displayed as D_OUTDATED at the\n   end of a resync; While the disk state on the node stays D_UP_TO_DATE\n * fix a race between auto promote and auto demote of multiple volumes\n   in a single resource; The symptom was that the a process opening\n   the /dev/drbdX for read-write gets an -EROFS errno\n"
+  }
+}

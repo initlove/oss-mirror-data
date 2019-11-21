@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjE3YzIyNGQ4MDJhY2E2NGFlMjdhMjY5N2U2YzMwNmU5ZGUxYmIxYzQ=",
+  "sha": "17c224d802aca64ae27a2697e6c306e9de1bb1c4",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/17c224d802aca64ae27a2697e6c306e9de1bb1c4",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2012-10-23T19:36:02Z"
+  },
+  "object": {
+    "sha": "689df4ba6ed2cfddc9e525d1e9afe0a53e6e41ea",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/689df4ba6ed2cfddc9e525d1e9afe0a53e6e41ea"
+  },
+  "tag": "drbd-9.0.0alpha1",
+  "message": "9.0.0alpha1 (api:genl1/proto:86-110)\n--------\n * Support for multiple connections in a single resource; this feature\n   obsoletes device stacking; new configuration keywords: connection,\n   host, node-id.\n * Automatic promote; if a process opens a drbd device for r/w, drbd\n   tries to promotes that resource to primary; it the last process\n   closes the device drbd demotes that resource to secondary; opens\n   fails if promotion fails\n * Resync extents are now 128MiByte instead of 16MiBytes\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niD8DBQBQhvGvabsdXACqiTMRAoRpAJ47eo3nkMYc9AmYNbkoFZGhr3D1AwCeKHjX\nz7MEJh/Fjf+cS5AFgOQMbU0=\n=w7TX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niD8DBQBQhvGvabsdXACqiTMRAoRpAJ47eo3nkMYc9AmYNbkoFZGhr3D1AwCeKHjX\nz7MEJh/Fjf+cS5AFgOQMbU0=\n=w7TX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 689df4ba6ed2cfddc9e525d1e9afe0a53e6e41ea\ntype commit\ntag drbd-9.0.0alpha1\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1351020962 +0200\n\n9.0.0alpha1 (api:genl1/proto:86-110)\n--------\n * Support for multiple connections in a single resource; this feature\n   obsoletes device stacking; new configuration keywords: connection,\n   host, node-id.\n * Automatic promote; if a process opens a drbd device for r/w, drbd\n   tries to promotes that resource to primary; it the last process\n   closes the device drbd demotes that resource to secondary; opens\n   fails if promotion fails\n * Resync extents are now 128MiByte instead of 16MiBytes\n"
+  }
+}

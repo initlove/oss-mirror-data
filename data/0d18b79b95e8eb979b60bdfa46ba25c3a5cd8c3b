@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzowZDE4Yjc5Yjk1ZThlYjk3OWI2MGJkZmE0NmJhMjVjM2E1Y2Q4YzNi",
+  "sha": "0d18b79b95e8eb979b60bdfa46ba25c3a5cd8c3b",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/0d18b79b95e8eb979b60bdfa46ba25c3a5cd8c3b",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2016-10-21T06:18:30Z"
+  },
+  "object": {
+    "sha": "d221bf5d15680e06528e1558c014d178c4bc740d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/d221bf5d15680e06528e1558c014d178c4bc740d"
+  },
+  "tag": "5.20.2",
+  "message": "Release 5.20.2\n\n### Bug fixes\n\nFix `CodeMirror.version` returning the wrong version number.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJYCbNCAAoJEHA/G+1tM64eTOEH/3DbGmbhdHdJk10ZuFvbVu8I\na6AN6sUEmBC3leD5FTH5RN1/coeXO9QLex0S6DJwSRfrLpZTJBm64hrwoNuIZK5B\nhIYVl92HbpALRDorMN0AZy6tSa9hdrCE1SvYidMD0RZzdahgauG2u7CsuOaMllQE\n7f9c/tf7Gp943GItsdyrmeC4YziP+7rMo2oDdI95JXLXJ/9x+cLAIc5RVMs1R5hV\naZmzGo6X493NBJpk9JH+LSx+3oJSmSQnSwmV1p77pkANfCxHTD+co3os1aqVkis/\n6o/AunH2yxNHnyaIIxoQPuGJzEcaj7xxMHPwfOXDlGPGMMXNwe+KDFIGr4POWRE=\n=KrCH\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJYCbNCAAoJEHA/G+1tM64eTOEH/3DbGmbhdHdJk10ZuFvbVu8I\na6AN6sUEmBC3leD5FTH5RN1/coeXO9QLex0S6DJwSRfrLpZTJBm64hrwoNuIZK5B\nhIYVl92HbpALRDorMN0AZy6tSa9hdrCE1SvYidMD0RZzdahgauG2u7CsuOaMllQE\n7f9c/tf7Gp943GItsdyrmeC4YziP+7rMo2oDdI95JXLXJ/9x+cLAIc5RVMs1R5hV\naZmzGo6X493NBJpk9JH+LSx+3oJSmSQnSwmV1p77pkANfCxHTD+co3os1aqVkis/\n6o/AunH2yxNHnyaIIxoQPuGJzEcaj7xxMHPwfOXDlGPGMMXNwe+KDFIGr4POWRE=\n=KrCH\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d221bf5d15680e06528e1558c014d178c4bc740d\ntype commit\ntag 5.20.2\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1477030710 +0200\n\nRelease 5.20.2\n\n### Bug fixes\n\nFix `CodeMirror.version` returning the wrong version number.\n"
+  }
+}

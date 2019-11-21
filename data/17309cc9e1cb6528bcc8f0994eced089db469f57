@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzoxNzMwOWNjOWUxY2I2NTI4YmNjOGYwOTk0ZWNlZDA4OWRiNDY5ZjU3",
+  "sha": "17309cc9e1cb6528bcc8f0994eced089db469f57",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/17309cc9e1cb6528bcc8f0994eced089db469f57",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2016-05-20T10:01:25Z"
+  },
+  "object": {
+    "sha": "28844205a6ab2f62bdd577351cdea22560f52a8e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/28844205a6ab2f62bdd577351cdea22560f52a8e"
+  },
+  "tag": "5.15.0",
+  "message": "## Bugfixes\n\nFix bug that caused the selection to reset when focusing the editor in contentEditable input mode.\n\nFix issue where not all ASCII control characters were being replaced by placeholders.\n\nRemove the assumption that all modes have a `startState` method from several wrapping modes.\n\nFix issue where the editor would complain about overlapping collapsed ranges when there weren't any.\n\nOptimize document tree building when loading or pasting huge chunks of content.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Fix several issues in matching link targets.\n\n[clike mode](http://codemirror.net/mode/clike/): Improve indentation of C++ template declarations.\n\n## New features\n\nExplicitly bind Ctrl-O on OS X to make that binding (“open line”) act as expected.\n\nPasting [linewise-copied](http://codemirror.net/doc/manual.html#option_lineWiseCopyCut) content when there is no selection now inserts the lines above the current line.\n\n[javascript mode](http://codemirror.net/mode/javascript/): Support `async`/`await` and improve support for TypeScript type syntax.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXPuCoAAoJEHA/G+1tM64etTgH/0CG1CWRk8OHnBWDf3coKAI7\nnw4Ml7uiYATUa3oH96C3y1okmVK1kNT8xxOx26jPX6rb7Cw/l8T8FBwluUYG2uMr\n6Fch9NongYG/h6rTZEpEik8dVGle1X3/sl/iPmRSCxXaE3pOeUF0z8LRAulXu26G\nSUWSKzSyKVgksCtHa8iJV0WPtt+7EqHj2MhnHpmZjjOdglqbCJ/lqcvtxvm+L4mv\n7cVkV6eD/Z5g9BR9Z2u5NzHl2jAUmjqx9J7QrLovCkAmbJKtCBSTBwZKfRlUG+O+\nsLDBvj6rWl+ORsvzBvBBldxQKE35F9pU6s6ER8SViAIpIHN73budgYDBDZBCRq8=\n=dqQC\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXPuCoAAoJEHA/G+1tM64etTgH/0CG1CWRk8OHnBWDf3coKAI7\nnw4Ml7uiYATUa3oH96C3y1okmVK1kNT8xxOx26jPX6rb7Cw/l8T8FBwluUYG2uMr\n6Fch9NongYG/h6rTZEpEik8dVGle1X3/sl/iPmRSCxXaE3pOeUF0z8LRAulXu26G\nSUWSKzSyKVgksCtHa8iJV0WPtt+7EqHj2MhnHpmZjjOdglqbCJ/lqcvtxvm+L4mv\n7cVkV6eD/Z5g9BR9Z2u5NzHl2jAUmjqx9J7QrLovCkAmbJKtCBSTBwZKfRlUG+O+\nsLDBvj6rWl+ORsvzBvBBldxQKE35F9pU6s6ER8SViAIpIHN73budgYDBDZBCRq8=\n=dqQC\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 28844205a6ab2f62bdd577351cdea22560f52a8e\ntype commit\ntag 5.15.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1463738485 +0200\n\n## Bugfixes\n\nFix bug that caused the selection to reset when focusing the editor in contentEditable input mode.\n\nFix issue where not all ASCII control characters were being replaced by placeholders.\n\nRemove the assumption that all modes have a `startState` method from several wrapping modes.\n\nFix issue where the editor would complain about overlapping collapsed ranges when there weren't any.\n\nOptimize document tree building when loading or pasting huge chunks of content.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Fix several issues in matching link targets.\n\n[clike mode](http://codemirror.net/mode/clike/): Improve indentation of C++ template declarations.\n\n## New features\n\nExplicitly bind Ctrl-O on OS X to make that binding (“open line”) act as expected.\n\nPasting [linewise-copied](http://codemirror.net/doc/manual.html#option_lineWiseCopyCut) content when there is no selection now inserts the lines above the current line.\n\n[javascript mode](http://codemirror.net/mode/javascript/): Support `async`/`await` and improve support for TypeScript type syntax.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOmQ2N2JmNWNkMDk3NGI3N2Q0ZmFlZTdiMjJlMzI4OTcwMGRlYjcwZWY=",
+  "sha": "d67bf5cd0974b77d4faee7b22e3289700deb70ef",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/d67bf5cd0974b77d4faee7b22e3289700deb70ef",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2018-01-23T11:09:47Z"
+  },
+  "object": {
+    "sha": "7eb4aef4abbfba8ebb1afbcc30574df74db0063e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/7eb4aef4abbfba8ebb1afbcc30574df74db0063e"
+  },
+  "tag": "drbd-9.0.12",
+  "message": "9.0.12-1 (api:genl2/proto:86-112/transport:14)\n--------\n* Fix a race condition in the device_open code path that can cause an\n  internal counter to go negative; It only triggered on Ubuntu/Debian\n  systems since the udev there uses FMODE_NDELAY when opening the\n  devices; The effect was that such a device fails attempts to remove it\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBaZxgIabsdXACqiTMRAmKBAJ4slfvHuDuki39iBBxcgN4fRXW13wCfWL1P\nPJiQrA7r7WvQI1y5jA4uXGc=\n=jfke\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBaZxgIabsdXACqiTMRAmKBAJ4slfvHuDuki39iBBxcgN4fRXW13wCfWL1P\nPJiQrA7r7WvQI1y5jA4uXGc=\n=jfke\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7eb4aef4abbfba8ebb1afbcc30574df74db0063e\ntype commit\ntag drbd-9.0.12\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1516705787 +0100\n\n9.0.12-1 (api:genl2/proto:86-112/transport:14)\n--------\n* Fix a race condition in the device_open code path that can cause an\n  internal counter to go negative; It only triggered on Ubuntu/Debian\n  systems since the udev there uses FMODE_NDELAY when opening the\n  devices; The effect was that such a device fails attempts to remove it\n"
+  }
+}

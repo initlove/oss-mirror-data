@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOmFhOTAxZDQxMzVmYmE1OTQ0MzQyNGVkYWYxNmNlNDA0NmNlMjRjYWM=",
+  "sha": "aa901d4135fba59443424edaf16ce4046ce24cac",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/aa901d4135fba59443424edaf16ce4046ce24cac",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2016-10-21T10:47:07Z"
+  },
+  "object": {
+    "sha": "8d53d3e73f85f8d98f100a0127ccb574a97c5f64",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/8d53d3e73f85f8d98f100a0127ccb574a97c5f64"
+  },
+  "tag": "drbd-9.0.5",
+  "message": "9.0.5-1 (api:genl2/proto:86-112/transport:14)\n--------\n * fix a bug that causes data inconsistency between mirrors. The bug triggered\n   if you write on a diskless primary while a resync is going on between two\n   nodes with disk.\n   It might happen that the diskless primary chooses the not-updated mirror for\n   subsequent reads of those blocks, then this bug manifests as data corruption.\n * no longer allocate bitmap-slots on diskfull nodes for nodes that are\n   configures to be diskless; Saves bitmap-slots, thus allows you to use\n   smaller max-peers numbers, thus saves memory and CPU resources\n * fix bugs in the try_become_up_to_date() logic; they caused hanging\n   machines or hangs during state transitions\n * fix a IO deadlock that could happen when two secondaries are in a resync\n   and a write on a third node (primary) is sent two the two resyncing nodes\n * fix two phase-commits when the nodes form a circular structure\n * fix support for WRITE_SAME. Was broken since merged from 8.4\n * balance read requests from diskless primary nodes among multiple peers\n   (if available). In the past it read always from one node (that happened\n   to be first in the internal data structures)\n * make sure it compiles with Linux 4.8\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBYCfJQabsdXACqiTMRAneuAJwKAgmChf7BB1EPOA+uqqHWjxnJdgCgrlcb\nnIXs//B1w/BRq3mfHMD4HHw=\n=E+2n\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBYCfJQabsdXACqiTMRAneuAJwKAgmChf7BB1EPOA+uqqHWjxnJdgCgrlcb\nnIXs//B1w/BRq3mfHMD4HHw=\n=E+2n\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8d53d3e73f85f8d98f100a0127ccb574a97c5f64\ntype commit\ntag drbd-9.0.5\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1477046827 +0200\n\n9.0.5-1 (api:genl2/proto:86-112/transport:14)\n--------\n * fix a bug that causes data inconsistency between mirrors. The bug triggered\n   if you write on a diskless primary while a resync is going on between two\n   nodes with disk.\n   It might happen that the diskless primary chooses the not-updated mirror for\n   subsequent reads of those blocks, then this bug manifests as data corruption.\n * no longer allocate bitmap-slots on diskfull nodes for nodes that are\n   configures to be diskless; Saves bitmap-slots, thus allows you to use\n   smaller max-peers numbers, thus saves memory and CPU resources\n * fix bugs in the try_become_up_to_date() logic; they caused hanging\n   machines or hangs during state transitions\n * fix a IO deadlock that could happen when two secondaries are in a resync\n   and a write on a third node (primary) is sent two the two resyncing nodes\n * fix two phase-commits when the nodes form a circular structure\n * fix support for WRITE_SAME. Was broken since merged from 8.4\n * balance read requests from diskless primary nodes among multiple peers\n   (if available). In the past it read always from one node (that happened\n   to be first in the internal data structures)\n * make sure it compiles with Linux 4.8\n"
+  }
+}

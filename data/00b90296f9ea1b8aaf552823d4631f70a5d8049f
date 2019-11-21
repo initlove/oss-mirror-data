@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjAwYjkwMjk2ZjllYTFiOGFhZjU1MjgyM2Q0NjMxZjcwYTVkODA0OWY=",
+  "sha": "00b90296f9ea1b8aaf552823d4631f70a5d8049f",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/00b90296f9ea1b8aaf552823d4631f70a5d8049f",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2014-03-07T16:35:12Z"
+  },
+  "object": {
+    "sha": "2100e2b777bffbf03f764404f4fd376b94b5bd2e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/2100e2b777bffbf03f764404f4fd376b94b5bd2e"
+  },
+  "tag": "drbd-9.0.0pre9",
+  "message": "9.0.0pre9 (api:genl1/proto:86-110)\n--------\n * fixed the \"list corruption bug\"\n * moved the user space code to a dedicated repository (with\n   that the driver no longer uses autotools)\n * fixed race conditions with changing the in kernel objects\n * fixed UUID modifications for attach & detach operations\n * allow a diskless node to become primary when there is\n   up-to-date data on secondary nodes\n * the transition into disk state Negotiating is now a two-phase\n   commit. With that only one disk in a resource is allowed at\n   a time in Negotiating state.\n * Completed the resync-negotiation for disk getting attached\n   to a diskless node that has multiple peers\n * a dedicated disk state for Detaching (previously Failed was\n   used for a detaching disk)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niD8DBQBTGfVJabsdXACqiTMRAtDLAJ9KB/Jty+VCPwWTPfzTUcTEUjLrXgCggule\n3ttRnPvRnRpVBEaJu0qf3no=\n=/htp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niD8DBQBTGfVJabsdXACqiTMRAtDLAJ9KB/Jty+VCPwWTPfzTUcTEUjLrXgCggule\n3ttRnPvRnRpVBEaJu0qf3no=\n=/htp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2100e2b777bffbf03f764404f4fd376b94b5bd2e\ntype commit\ntag drbd-9.0.0pre9\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1394210112 +0100\n\n9.0.0pre9 (api:genl1/proto:86-110)\n--------\n * fixed the \"list corruption bug\"\n * moved the user space code to a dedicated repository (with\n   that the driver no longer uses autotools)\n * fixed race conditions with changing the in kernel objects\n * fixed UUID modifications for attach & detach operations\n * allow a diskless node to become primary when there is\n   up-to-date data on secondary nodes\n * the transition into disk state Negotiating is now a two-phase\n   commit. With that only one disk in a resource is allowed at\n   a time in Negotiating state.\n * Completed the resync-negotiation for disk getting attached\n   to a diskless node that has multiple peers\n * a dedicated disk state for Detaching (previously Failed was\n   used for a detaching disk)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjYxNTdkOGFhYTEyZmI0YzFjYTU5NTY5MjI3NGU1YzU2Y2M3ZTljMDQ=",
+  "sha": "6157d8aaa12fb4c1ca595692274e5c56cc7e9c04",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/6157d8aaa12fb4c1ca595692274e5c56cc7e9c04",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2013-12-22T20:52:00Z"
+  },
+  "object": {
+    "sha": "a8b20bd35f9c78f86ba972f67ab2a5713dee8bde",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/a8b20bd35f9c78f86ba972f67ab2a5713dee8bde"
+  },
+  "tag": "drbd-9.0.0pre7",
+  "message": "9.0.0pre7 (api:genl1/proto:86-110)\n--------\n * Merge up and bejone 8.4.4\n * Do not crash if DRBD runs out of available bitmap slots\n * Fix reference counting (A few bugs in this area caused crashed\n   when/after unloading the module)\n * Fix crashes on PAE/highmem\n * Many fixes to the two phase commit protocol (used for cluster\n   wide state changes)\n * Lots of minor fixes\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

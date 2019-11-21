@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5Nzo5M2E4YTQ0MzIxNjhkOTE0NDY4YmFmYmExZTk1ODkzZmQzYzViZDYw",
+  "sha": "93a8a4432168d914468bafba1e95893fd3c5bd60",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/93a8a4432168d914468bafba1e95893fd3c5bd60",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-10-25T10:16:27Z"
+  },
+  "object": {
+    "sha": "8900d1b7bce09c7101be631d9afa16a74c6e4598",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/8900d1b7bce09c7101be631d9afa16a74c6e4598"
+  },
+  "tag": "5.41.0",
+  "message": "Version 5.41.0\n\n### Bug fixes\n\nFix firing of [`\"gutterContextMenu\"`](https://codemirror.net/doc/manual.html#event_gutterContextMenu) event on Firefox.\n\nSolve an issue where copying multiple selections might mess with subsequent typing.\n\nDon't crash when [`endOperation`](https://codemirror.net/doc/manual.html#endOperation) is called with no operation active.\n\n[vim bindings](https://codemirror.net/demo/vim.html): Fix insert mode repeat after visualBlock edits.\n\n[scheme mode](https://codemirror.net/mode/scheme/index.html): Improve highlighting of quoted expressions.\n\n[soy mode](https://codemirror.net/mode/soy/): Support injected data and `@param` in comments.\n\n[objective c mode](https://codemirror.net/mode/clike/): Improve conformance to the actual language.\n\n### New features\n\nA new [`selectionsMayTouch`](https://codemirror.net/doc/manual.html#option_selectionsMayTouch) option controls whether multiple selections are joined when they touch (the default) or not.\n\n[vim bindings](https://codemirror.net/demo/vim.html): Add `noremap` binding command.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlvRmAUACgkQcD8b7W0z\nrh4XvggAqoSGkQECt/mC2HSgkbXEIzDIHL90AtiatJ89Yg5KMKmj225dVlazUEhk\nZ/JMUbtY9apzKT/D8lQ/Kg3LaVIKkz6L2b97S7IOenS7a1mJhHuSwQT8ykZrmCL0\nLcX1XBd0xkvb9s7RFp3Wsb4S6LWVrsFwEr+p1cuR+vLWk/pGr1Cm5r9tvtpAHXH9\nVgeENHF9D7TB8SM6G9J50FDKCFCyCulzF4Uh42ab0z0D7YFUqcG/qeegnSMVVxLB\nSZs1oGBAVTVQFyWZmw6b9EKDtTSVhfSmg4Fs2BFCGn18m8f9dSn7DYdy2NyvEbHp\n8YSEyp1QK3E9v3GQTwH2FHCm7hIQQQ==\n=VEhh\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlvRmAUACgkQcD8b7W0z\nrh4XvggAqoSGkQECt/mC2HSgkbXEIzDIHL90AtiatJ89Yg5KMKmj225dVlazUEhk\nZ/JMUbtY9apzKT/D8lQ/Kg3LaVIKkz6L2b97S7IOenS7a1mJhHuSwQT8ykZrmCL0\nLcX1XBd0xkvb9s7RFp3Wsb4S6LWVrsFwEr+p1cuR+vLWk/pGr1Cm5r9tvtpAHXH9\nVgeENHF9D7TB8SM6G9J50FDKCFCyCulzF4Uh42ab0z0D7YFUqcG/qeegnSMVVxLB\nSZs1oGBAVTVQFyWZmw6b9EKDtTSVhfSmg4Fs2BFCGn18m8f9dSn7DYdy2NyvEbHp\n8YSEyp1QK3E9v3GQTwH2FHCm7hIQQQ==\n=VEhh\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8900d1b7bce09c7101be631d9afa16a74c6e4598\ntype commit\ntag 5.41.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1540462587 +0200\n\nVersion 5.41.0\n\n### Bug fixes\n\nFix firing of [`\"gutterContextMenu\"`](https://codemirror.net/doc/manual.html#event_gutterContextMenu) event on Firefox.\n\nSolve an issue where copying multiple selections might mess with subsequent typing.\n\nDon't crash when [`endOperation`](https://codemirror.net/doc/manual.html#endOperation) is called with no operation active.\n\n[vim bindings](https://codemirror.net/demo/vim.html): Fix insert mode repeat after visualBlock edits.\n\n[scheme mode](https://codemirror.net/mode/scheme/index.html): Improve highlighting of quoted expressions.\n\n[soy mode](https://codemirror.net/mode/soy/): Support injected data and `@param` in comments.\n\n[objective c mode](https://codemirror.net/mode/clike/): Improve conformance to the actual language.\n\n### New features\n\nA new [`selectionsMayTouch`](https://codemirror.net/doc/manual.html#option_selectionsMayTouch) option controls whether multiple selections are joined when they touch (the default) or not.\n\n[vim bindings](https://codemirror.net/demo/vim.html): Add `noremap` binding command.\n"
+  }
+}

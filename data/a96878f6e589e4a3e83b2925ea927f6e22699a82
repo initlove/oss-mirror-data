@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOmE5Njg3OGY2ZTU4OWU0YTNlODNiMjkyNWVhOTI3ZjZlMjI2OTlhODI=",
+  "sha": "a96878f6e589e4a3e83b2925ea927f6e22699a82",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/a96878f6e589e4a3e83b2925ea927f6e22699a82",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2011-07-06T14:11:06Z"
+  },
+  "object": {
+    "sha": "4cae5718c19dbcb1505dadc6d078626e6af205ed",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/4cae5718c19dbcb1505dadc6d078626e6af205ed"
+  },
+  "tag": "drbd-8.4.0rc4",
+  "message": "8.4.0rc4 (api:genl1/proto:86-100)\n--------\n * Enforce application of activity log after primary crash in user space\n * Features from drbd-8.3: Allow detach from frozen backing devices with the\n   new --force option; configurable timeout for backing devices by the new\n   disk-timeout option\n * Fixes from drbd-8.3: RHEL 6.1 compatibility, fixes for >16TiB support,\n   fixed bit_size negotiation with drbd < 8.3.7\n * Fixed state transitions in case attach fails\n * Fixed OOPS on RHEL5 kernels; By delivering a workaround for a bug in\n   RHEL5's header files\n * Renamed --dry-run of connect to --tentative; plus alias in drbdsetup\n * Removed drbdadm --yes option\n * drbdadm got a \"help\" sub command, that shows the specific options\n * drbdadm can now process all options in random order, and ignores the \"--\"\n   separator; compatibility aliases with the old calling conventions; now it\n   is compatible with the pre 8.4 way of calling.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niD8DBQBOFG0qabsdXACqiTMRArpsAJ4wzZce78PLYB0Xx6FL5Rl0OIqvFACgi696\n3UZGqtsbplm7Nr3xQCx5vQ0=\n=b6Wq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niD8DBQBOFG0qabsdXACqiTMRArpsAJ4wzZce78PLYB0Xx6FL5Rl0OIqvFACgi696\n3UZGqtsbplm7Nr3xQCx5vQ0=\n=b6Wq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4cae5718c19dbcb1505dadc6d078626e6af205ed\ntype commit\ntag drbd-8.4.0rc4\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1309961466 +0200\n\n8.4.0rc4 (api:genl1/proto:86-100)\n--------\n * Enforce application of activity log after primary crash in user space\n * Features from drbd-8.3: Allow detach from frozen backing devices with the\n   new --force option; configurable timeout for backing devices by the new\n   disk-timeout option\n * Fixes from drbd-8.3: RHEL 6.1 compatibility, fixes for >16TiB support,\n   fixed bit_size negotiation with drbd < 8.3.7\n * Fixed state transitions in case attach fails\n * Fixed OOPS on RHEL5 kernels; By delivering a workaround for a bug in\n   RHEL5's header files\n * Renamed --dry-run of connect to --tentative; plus alias in drbdsetup\n * Removed drbdadm --yes option\n * drbdadm got a \"help\" sub command, that shows the specific options\n * drbdadm can now process all options in random order, and ignores the \"--\"\n   separator; compatibility aliases with the old calling conventions; now it\n   is compatible with the pre 8.4 way of calling.\n"
+  }
+}

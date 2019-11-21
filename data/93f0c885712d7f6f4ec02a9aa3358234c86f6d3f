@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5Nzo5M2YwYzg4NTcxMmQ3ZjZmNGVjMDJhOWFhMzM1ODIzNGM4NmY2ZDNm",
+  "sha": "93f0c885712d7f6f4ec02a9aa3358234c86f6d3f",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/93f0c885712d7f6f4ec02a9aa3358234c86f6d3f",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-06-20T06:37:38Z"
+  },
+  "object": {
+    "sha": "d32c5d35a6d0730c21717faaf5d37cfe1f7073ce",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/d32c5d35a6d0730c21717faaf5d37cfe1f7073ce"
+  },
+  "tag": "5.39.0",
+  "message": "Version 3.39.0\n\n### Bug fixes\n\nFix issue that in some circumstances caused content to be clipped off at the bottom after a resize.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Improve handling of blank lines in HTML tags.\n\n### New features\n\n[stex mode](http://codemirror.net/mode/stex/): Add an `inMathMode` option to start the mode in math mode.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlsp9j8ACgkQcD8b7W0z\nrh5wwAgAiucWo0gM1C/d20xUwt57Ve2nJkahd/FMeYwa4BlawWRsjrRlbvHLAT/L\n1KYQZ6j4goEQu+eGn95WSlUZvZxvL80WFsuBbAKzu2b9UuYbYA7c3dDlemnz2mjM\nca4FhHmkqDqmO6xR2HQ8Ae5R59fqEgtiIIYpVpZmqkqsfY9/DKHnRJIAFvBTs5Ie\nhC82IT7Tc+gyqtB7jJMPri25qiiNDYGJeTFE7DePPIhyBvUFCKRCmkNIHZu+QDfc\nZjLY7v/cUviy4CF4q1uz48nBi2MgqmVtxefAoPe31WdyGzQiLpd7FvYY5qQVXnqR\nRgjfhHSaXrMnAqKqZeQ2G/OkBmJgBg==\n=1e8S\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlsp9j8ACgkQcD8b7W0z\nrh5wwAgAiucWo0gM1C/d20xUwt57Ve2nJkahd/FMeYwa4BlawWRsjrRlbvHLAT/L\n1KYQZ6j4goEQu+eGn95WSlUZvZxvL80WFsuBbAKzu2b9UuYbYA7c3dDlemnz2mjM\nca4FhHmkqDqmO6xR2HQ8Ae5R59fqEgtiIIYpVpZmqkqsfY9/DKHnRJIAFvBTs5Ie\nhC82IT7Tc+gyqtB7jJMPri25qiiNDYGJeTFE7DePPIhyBvUFCKRCmkNIHZu+QDfc\nZjLY7v/cUviy4CF4q1uz48nBi2MgqmVtxefAoPe31WdyGzQiLpd7FvYY5qQVXnqR\nRgjfhHSaXrMnAqKqZeQ2G/OkBmJgBg==\n=1e8S\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d32c5d35a6d0730c21717faaf5d37cfe1f7073ce\ntype commit\ntag 5.39.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1529476658 +0200\n\nVersion 3.39.0\n\n### Bug fixes\n\nFix issue that in some circumstances caused content to be clipped off at the bottom after a resize.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Improve handling of blank lines in HTML tags.\n\n### New features\n\n[stex mode](http://codemirror.net/mode/stex/): Add an `inMathMode` option to start the mode in math mode.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzpjM2IwMjJjNzFjNDZiNzk5N2M3ZDVjYzc5YWFkZWQxZWI4YWYzZjBj",
+  "sha": "c3b022c71c46b7997c7d5cc79aaded1eb8af3f0c",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/c3b022c71c46b7997c7d5cc79aaded1eb8af3f0c",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-12-21T10:36:18Z"
+  },
+  "object": {
+    "sha": "1bf82e3e2e3cb91c91cd5ed5e7395f9e29fd567a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/1bf82e3e2e3cb91c91cd5ed5e7395f9e29fd567a"
+  },
+  "tag": "5.42.2",
+  "message": "Version 5.42.2\n\n### Bug fixes\n\nFix problem where canceling a change via the `\"beforeChange\"` event could corrupt the textarea input.\n\nFix issues that sometimes caused the context menu hack to fail, or even leave visual artifacts on IE.\n\n[vim bindings](https://codemirror.net/demo/vim.html): Make it possible to select text between angle brackets.\n\n[css mode](https://codemirror.net/mode/css/): Fix tokenizing of CSS variables.\n\n[python mode](https://codemirror.net/mode/python/): Fix another bug in tokenizing of format strings.\n\n[soy mode](https://codemirror.net/mode/soy/): More accurate highlighting.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlwcwjAACgkQcD8b7W0z\nrh4i2Af+OwmSLJ/pEwyzRtBKlX8rByzqWT1IcEQIoZhsKcVXjD7mWcHYcor32KhH\nLkhuDwrfp7/jUj/apssuemtY7lc70xyOQL3SfPAlncH1m1jQquN5Ag03v0ZcHY0S\nGSzp2HGnZBQGbjzJR63TpUVv4KWmFKgaC1cCWvnXotKSJXxLt0GaOEBvNg5JE/jQ\naaP5+N0yAFsT9kV13aUZVtWmA/y9iTVszX5Gb0+4eHyyDW93q0NM5CBRQyXzBE7R\nHyTezFxr2UiFGo93qSpMe6mv2pQDDOao9r1AaIwY/eZR1MIuIgtHgMz5yBEE3XwX\n6fNfOhJ4GNWtRbv+1yovSb0Jv1hZoA==\n=W/rH\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlwcwjAACgkQcD8b7W0z\nrh4i2Af+OwmSLJ/pEwyzRtBKlX8rByzqWT1IcEQIoZhsKcVXjD7mWcHYcor32KhH\nLkhuDwrfp7/jUj/apssuemtY7lc70xyOQL3SfPAlncH1m1jQquN5Ag03v0ZcHY0S\nGSzp2HGnZBQGbjzJR63TpUVv4KWmFKgaC1cCWvnXotKSJXxLt0GaOEBvNg5JE/jQ\naaP5+N0yAFsT9kV13aUZVtWmA/y9iTVszX5Gb0+4eHyyDW93q0NM5CBRQyXzBE7R\nHyTezFxr2UiFGo93qSpMe6mv2pQDDOao9r1AaIwY/eZR1MIuIgtHgMz5yBEE3XwX\n6fNfOhJ4GNWtRbv+1yovSb0Jv1hZoA==\n=W/rH\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1bf82e3e2e3cb91c91cd5ed5e7395f9e29fd567a\ntype commit\ntag 5.42.2\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1545388578 +0100\n\nVersion 5.42.2\n\n### Bug fixes\n\nFix problem where canceling a change via the `\"beforeChange\"` event could corrupt the textarea input.\n\nFix issues that sometimes caused the context menu hack to fail, or even leave visual artifacts on IE.\n\n[vim bindings](https://codemirror.net/demo/vim.html): Make it possible to select text between angle brackets.\n\n[css mode](https://codemirror.net/mode/css/): Fix tokenizing of CSS variables.\n\n[python mode](https://codemirror.net/mode/python/): Fix another bug in tokenizing of format strings.\n\n[soy mode](https://codemirror.net/mode/soy/): More accurate highlighting.\n"
+  }
+}

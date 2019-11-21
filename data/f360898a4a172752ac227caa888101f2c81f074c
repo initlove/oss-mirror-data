@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzpmMzYwODk4YTRhMTcyNzUyYWMyMjdjYWE4ODgxMDFmMmM4MWYwNzRj",
+  "sha": "f360898a4a172752ac227caa888101f2c81f074c",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/f360898a4a172752ac227caa888101f2c81f074c",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2016-05-20T19:00:34Z"
+  },
+  "object": {
+    "sha": "8097c7e75ce7ef0512debe9967d7568626106e53",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/8097c7e75ce7ef0512debe9967d7568626106e53"
+  },
+  "tag": "5.15.2",
+  "message": "# 5.15.2 (2016-05-20)\n\n## Bugfixes\n\nFix a critical document corruption bug that occurs when a document is gradually grown.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXP17hAAoJEHA/G+1tM64eVC4H/0brLEzGXEo7t8pqBJqiAZJh\nLR6f/dsx/LskDaNGAO+8wQjygPTILEDqCOketgYpk7XUjrrOxTC2k6nC0Mj48Zfz\nYU+RrSAVJTuuDRvlIACT3EI54iu0/Tu5B+Tjp5IcQ6pn6dYfYL4/5vC6Ia012FgC\nVyy1h+ZcoZuALWMR6z5fFR9hjzAUCOjfi/AIf4y8zSffUqqNr2ORH19+uL/cRQIG\nCNUZBhO4KAjNYzSNG8c3neLF1v9QpARa9NpDkrsCqReN4rg7Ba9wJLfMSJRXt6u8\nDNsko/075EBp0dwfUhbRa6GghBlYy4C3XVdoMbWCt5F4UmKNLkTz4WiV5zGZCEc=\n=T1na\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXP17hAAoJEHA/G+1tM64eVC4H/0brLEzGXEo7t8pqBJqiAZJh\nLR6f/dsx/LskDaNGAO+8wQjygPTILEDqCOketgYpk7XUjrrOxTC2k6nC0Mj48Zfz\nYU+RrSAVJTuuDRvlIACT3EI54iu0/Tu5B+Tjp5IcQ6pn6dYfYL4/5vC6Ia012FgC\nVyy1h+ZcoZuALWMR6z5fFR9hjzAUCOjfi/AIf4y8zSffUqqNr2ORH19+uL/cRQIG\nCNUZBhO4KAjNYzSNG8c3neLF1v9QpARa9NpDkrsCqReN4rg7Ba9wJLfMSJRXt6u8\nDNsko/075EBp0dwfUhbRa6GghBlYy4C3XVdoMbWCt5F4UmKNLkTz4WiV5zGZCEc=\n=T1na\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8097c7e75ce7ef0512debe9967d7568626106e53\ntype commit\ntag 5.15.2\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1463770834 +0200\n\n# 5.15.2 (2016-05-20)\n\n## Bugfixes\n\nFix a critical document corruption bug that occurs when a document is gradually grown.\n"
+  }
+}

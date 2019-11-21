@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjQzNzRhMGM0ODQwZDlmMmNiZDk5YjBkMjQ0YmYxMDkwNjIwYzYwZDE=",
+  "sha": "4374a0c4840d9f2cbd99b0d244bf1090620c60d1",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/4374a0c4840d9f2cbd99b0d244bf1090620c60d1",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2014-02-06T15:59:28Z"
+  },
+  "object": {
+    "sha": "2b12a32eeb54f98b36ffa93bf2d4a3428881a84b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/2b12a32eeb54f98b36ffa93bf2d4a3428881a84b"
+  },
+  "tag": "drbd-9.0.0pre8",
+  "message": "9.0.0pre8 (api:genl1/proto:86-110)\n--------\n * Fixed an issue with 2-phase commit when the members of\n   the cluster know different numbers of minor devices for the\n   resource\n * drbdsetup events: no longer terminates of 2KiB socket buffer gets full\n * drbdsetup events: output format changed\n * drbdsetup events: terminates if read side of pipe is closed\n * drbd-8.4 merges\n * Minor fixes\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niD8DBQBS87FrabsdXACqiTMRAmX+AKCaK+1e+6k5YYyk9+GpAA1i7K5BDACgodJz\nf/rb4hTXWl5JhIylm6jrP7g=\n=I3Mq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niD8DBQBS87FrabsdXACqiTMRAmX+AKCaK+1e+6k5YYyk9+GpAA1i7K5BDACgodJz\nf/rb4hTXWl5JhIylm6jrP7g=\n=I3Mq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2b12a32eeb54f98b36ffa93bf2d4a3428881a84b\ntype commit\ntag drbd-9.0.0pre8\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1391702368 +0100\n\n9.0.0pre8 (api:genl1/proto:86-110)\n--------\n * Fixed an issue with 2-phase commit when the members of\n   the cluster know different numbers of minor devices for the\n   resource\n * drbdsetup events: no longer terminates of 2KiB socket buffer gets full\n * drbdsetup events: output format changed\n * drbdsetup events: terminates if read side of pipe is closed\n * drbd-8.4 merges\n * Minor fixes\n"
+  }
+}

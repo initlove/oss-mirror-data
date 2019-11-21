@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5Nzo1YWJhNzE0NTM2ZWM0MmQ1YmU4MTg0OWQwYWJhYzdiM2ZmMDAyMWFj",
+  "sha": "5aba714536ec42d5be81849d0abac7b3ff0021ac",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/5aba714536ec42d5be81849d0abac7b3ff0021ac",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2016-07-19T12:17:10Z"
+  },
+  "object": {
+    "sha": "b6c7f3ff2e04a3d41937c30cdedbd004e5eb22d2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/b6c7f3ff2e04a3d41937c30cdedbd004e5eb22d2"
+  },
+  "tag": "5.17.0",
+  "message": "Release 5.17.0\n\n### Bugfixes\n\nFix problem with wrapped trailing whitespace displaying incorrectly.\n\nPrevent IME dialog from overlapping typed content in Chrome.\n\nImprove measuring of characters near a line wrap.\n\n[javascript mode](http://codemirror.net/mode/javascript): Improve support for `async`, allow trailing commas in `import` lists.\n\n[vim bindings](http://codemirror.net/demo/vim.html): Fix backspace in replace mode.\n\n[sublime bindings](http://codemirror.net/demo/sublime.html): Fix some key bindings on OS X to match Sublime Text.\n\n### New features\n\n[markdown mode](http://codemirror.net/mode/markdown): Add more classes to image links in highlight-formatting mode.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXjhpdAAoJEHA/G+1tM64eDwEIAMIVf5uFbEZ+YANGWsidMZZU\n1ZGWgGcgQQ/nZje8SudwciKIHDGFtHQbWVx4ZC4nuZ5y1dBBQNAdk7djgc94rdOK\nj6Ek2d6y4YmDfHPtPdHWO7fj1VKyhFUKKVivt0Evu69mDr+Cz6/79rqPXBM7018V\neGP8fvJTYn1ngzN2uV/WKcz/T+v8zpkdDWei/EzXzMmiXobbjftDS2l+j+1DPZsB\nt82PZWX3vDkmE6iJeP9nxajBH7irntaIzFuw6zF+0KqaJA4mr4pk+qLi5Pam2+sY\nuUM3WJhilVOiIEvDF+t90GS8rcHkfSbaEMAI7ku8MmNXJ+MPSnCyjSRLkub4iaQ=\n=/pRB\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXjhpdAAoJEHA/G+1tM64eDwEIAMIVf5uFbEZ+YANGWsidMZZU\n1ZGWgGcgQQ/nZje8SudwciKIHDGFtHQbWVx4ZC4nuZ5y1dBBQNAdk7djgc94rdOK\nj6Ek2d6y4YmDfHPtPdHWO7fj1VKyhFUKKVivt0Evu69mDr+Cz6/79rqPXBM7018V\neGP8fvJTYn1ngzN2uV/WKcz/T+v8zpkdDWei/EzXzMmiXobbjftDS2l+j+1DPZsB\nt82PZWX3vDkmE6iJeP9nxajBH7irntaIzFuw6zF+0KqaJA4mr4pk+qLi5Pam2+sY\nuUM3WJhilVOiIEvDF+t90GS8rcHkfSbaEMAI7ku8MmNXJ+MPSnCyjSRLkub4iaQ=\n=/pRB\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b6c7f3ff2e04a3d41937c30cdedbd004e5eb22d2\ntype commit\ntag 5.17.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1468930630 +0200\n\nRelease 5.17.0\n\n### Bugfixes\n\nFix problem with wrapped trailing whitespace displaying incorrectly.\n\nPrevent IME dialog from overlapping typed content in Chrome.\n\nImprove measuring of characters near a line wrap.\n\n[javascript mode](http://codemirror.net/mode/javascript): Improve support for `async`, allow trailing commas in `import` lists.\n\n[vim bindings](http://codemirror.net/demo/vim.html): Fix backspace in replace mode.\n\n[sublime bindings](http://codemirror.net/demo/sublime.html): Fix some key bindings on OS X to match Sublime Text.\n\n### New features\n\n[markdown mode](http://codemirror.net/mode/markdown): Add more classes to image links in highlight-formatting mode.\n"
+  }
+}

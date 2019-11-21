@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOmM5ZTFlYmZjNzVjYjE5NzdlNzI5Y2FlNjQ1NzQyODgwZWRkODU2ZjI=",
+  "sha": "c9e1ebfc75cb1977e729cae645742880edd856f2",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/c9e1ebfc75cb1977e729cae645742880edd856f2",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2018-08-14T11:16:07Z"
+  },
+  "object": {
+    "sha": "c46d27900f471ea0f5ba587592439a9ddde1d08b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/c46d27900f471ea0f5ba587592439a9ddde1d08b"
+  },
+  "tag": "drbd-9.0.15",
+  "message": "9.0.15 (api:genl2/proto:86-114/transport:14)\n--------\n * fix tracking of changes (on a secondary) against the lost disk of a\n   primary and also fix re-attaching in case the disk is replaced (has\n   new meta-data)\n * fix live migrate of VMs on DRBD when migrated to/from diskless\n   nodes; before that fix a race condition can lead to one of the nodes\n   seeing the other one as consistent only\n * fix an IO deadlock in DRBD when the activity log on a secondary runs full;\n   In the real world, this was very seldom triggered but can be easily\n   reproduced with a workload that touches one block every 4M and writes\n   them all in a burst\n * fix hanging demote after IO error followed by attaching the disk again\n   and the corresponding resync\n * fix DRBD dropping connection after an IO error on the secondary node\n * new module parameter to disable support for older protocol versions,\n   an in case you configured peers that are not expected to connect it\n   might have positive effects because then this node does not need to\n   assume that such peer is ancient\n * improve details when online changing devices from diskless to with disk and\n   vice versa. (Including peers freeing bitmap slots)\n * remove no longer relevant compat tests\n * expose openers via debugfs; that helps to answer the question why does\n   DRBD not demote to secondary, why does it give tell me \"Device is held\n   open by someone\"\n * optimize IO submit code path; this can improve IOPs up to 30% on a system\n   with fast backend storage; lowers CPU load caused by DRBD on every workload\n * compat for v4.18 kernel\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBbcrojabsdXACqiTMRAk/IAJ0V5UBEeMVVYb1LNxCQFesE6qOrDgCfZUri\nOeCnuR2ApByR2Xm0lGCn2FU=\n=A7ud\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBbcrojabsdXACqiTMRAk/IAJ0V5UBEeMVVYb1LNxCQFesE6qOrDgCfZUri\nOeCnuR2ApByR2Xm0lGCn2FU=\n=A7ud\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c46d27900f471ea0f5ba587592439a9ddde1d08b\ntype commit\ntag drbd-9.0.15\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1534245367 +0200\n\n9.0.15 (api:genl2/proto:86-114/transport:14)\n--------\n * fix tracking of changes (on a secondary) against the lost disk of a\n   primary and also fix re-attaching in case the disk is replaced (has\n   new meta-data)\n * fix live migrate of VMs on DRBD when migrated to/from diskless\n   nodes; before that fix a race condition can lead to one of the nodes\n   seeing the other one as consistent only\n * fix an IO deadlock in DRBD when the activity log on a secondary runs full;\n   In the real world, this was very seldom triggered but can be easily\n   reproduced with a workload that touches one block every 4M and writes\n   them all in a burst\n * fix hanging demote after IO error followed by attaching the disk again\n   and the corresponding resync\n * fix DRBD dropping connection after an IO error on the secondary node\n * new module parameter to disable support for older protocol versions,\n   an in case you configured peers that are not expected to connect it\n   might have positive effects because then this node does not need to\n   assume that such peer is ancient\n * improve details when online changing devices from diskless to with disk and\n   vice versa. (Including peers freeing bitmap slots)\n * remove no longer relevant compat tests\n * expose openers via debugfs; that helps to answer the question why does\n   DRBD not demote to secondary, why does it give tell me \"Device is held\n   open by someone\"\n * optimize IO submit code path; this can improve IOPs up to 30% on a system\n   with fast backend storage; lowers CPU load caused by DRBD on every workload\n * compat for v4.18 kernel\n"
+  }
+}

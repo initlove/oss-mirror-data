@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzoyNDBlYzhkNGZkNDRmYmE3ZjU4OWU5YmNjMjU2NDRjNjRmMDgwZTFj",
+  "sha": "240ec8d4fd44fba7f589e9bcc25644c64f080e1c",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/240ec8d4fd44fba7f589e9bcc25644c64f080e1c",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-11-22T09:11:09Z"
+  },
+  "object": {
+    "sha": "89595f55b19ea0584e4721128c149f918795a384",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/89595f55b19ea0584e4721128c149f918795a384"
+  },
+  "tag": "5.32.0",
+  "message": "Version 5.32.0\n\n### Bug fixes\n\nIncrease contrast on default bracket-matching colors.\n\n[javascript mode](http://codemirror.net/mode/javascript/): Recognize TypeScript type parameters for calls, type guards, and type parameter defaults. Improve handling of `enum` and `module` keywords.\n\n[comment addon](http://codemirror.net/doc/manual.html#addon_comment): Fix bug when uncommenting a comment that spans all but the last selected line.\n\n[searchcursor addon](http://codemirror.net/doc/manual.html#addon_searchcursor): Fix bug in case folding.\n\n[emacs bindings](http://codemirror.net/demo/emacs.html): Prevent single-character deletions from resetting the kill ring.\n\n[closebrackets addon](http://codemirror.net/doc/manual.html#addon_closebrackets): Tweak quote matching behavior.\n\n### New features\n\n[continuelist addon](http://codemirror.net/doc/manual.html#addon_continuelist): Increment ordered list numbers when adding one.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAloVPzsACgkQcD8b7W0z\nrh50WAf+N1fiCrrk/KYjs9n2KCPSrujTBUQO9r1NmI9GM/dc7wmOhue9VOY8TOJ5\n3hpB+0M2ayTWojbwNU0S0PqyaHywT0xKOEruX4rAdhCKxoQS8vUfZvsvGG3oEaH/\nMo5aNMpCYZWSpCZSIgNtRwzAz62+fDDr8xlcUHPdn469AiePWJm9plXfzKS+NKmS\nQSp+mHcZjMK1QEUFzCQRVpjNCKIavuS/sYQMHR7ljV/L2Oolpa7Ic/Xwc4EJv++k\n9wa3npPPNeGh9rRsIwATehho2PVIXPxvBfJh3x6/+kCGVs+cnbqp41xxd/2UMnNe\n46hnAoMS0vXJtZR5yD0D49aaCTxwrQ==\n=I+vV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAloVPzsACgkQcD8b7W0z\nrh50WAf+N1fiCrrk/KYjs9n2KCPSrujTBUQO9r1NmI9GM/dc7wmOhue9VOY8TOJ5\n3hpB+0M2ayTWojbwNU0S0PqyaHywT0xKOEruX4rAdhCKxoQS8vUfZvsvGG3oEaH/\nMo5aNMpCYZWSpCZSIgNtRwzAz62+fDDr8xlcUHPdn469AiePWJm9plXfzKS+NKmS\nQSp+mHcZjMK1QEUFzCQRVpjNCKIavuS/sYQMHR7ljV/L2Oolpa7Ic/Xwc4EJv++k\n9wa3npPPNeGh9rRsIwATehho2PVIXPxvBfJh3x6/+kCGVs+cnbqp41xxd/2UMnNe\n46hnAoMS0vXJtZR5yD0D49aaCTxwrQ==\n=I+vV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 89595f55b19ea0584e4721128c149f918795a384\ntype commit\ntag 5.32.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1511341869 +0100\n\nVersion 5.32.0\n\n### Bug fixes\n\nIncrease contrast on default bracket-matching colors.\n\n[javascript mode](http://codemirror.net/mode/javascript/): Recognize TypeScript type parameters for calls, type guards, and type parameter defaults. Improve handling of `enum` and `module` keywords.\n\n[comment addon](http://codemirror.net/doc/manual.html#addon_comment): Fix bug when uncommenting a comment that spans all but the last selected line.\n\n[searchcursor addon](http://codemirror.net/doc/manual.html#addon_searchcursor): Fix bug in case folding.\n\n[emacs bindings](http://codemirror.net/demo/emacs.html): Prevent single-character deletions from resetting the kill ring.\n\n[closebrackets addon](http://codemirror.net/doc/manual.html#addon_closebrackets): Tweak quote matching behavior.\n\n### New features\n\n[continuelist addon](http://codemirror.net/doc/manual.html#addon_continuelist): Increment ordered list numbers when adding one.\n"
+  }
+}

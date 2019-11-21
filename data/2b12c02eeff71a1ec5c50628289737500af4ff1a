@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjJiMTJjMDJlZWZmNzFhMWVjNWM1MDYyODI4OTczNzUwMGFmNGZmMWE=",
+  "sha": "2b12c02eeff71a1ec5c50628289737500af4ff1a",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/2b12c02eeff71a1ec5c50628289737500af4ff1a",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2019-03-26T21:12:34Z"
+  },
+  "object": {
+    "sha": "b9abab2dd27313922797d026542b399870bfd13e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/b9abab2dd27313922797d026542b399870bfd13e"
+  },
+  "tag": "drbd-9.0.17-1",
+  "message": "9.0.17-1 (api:genl2/proto:86-114/transport:14)\n--------\n * Fix UUID handling of a diskless primary that has no peer with\n   usable data may not touch the current UUID\n * Fix resync-after dependencies; cross-resource dependencies\n   and missing resources\n * Fix resync when the sync source suddenly connects to a more recent\n   data set via an other connection and becomes sync target on that\n   other connection; pause first resync; fix wrong display of negative\n   resync progress percentage in this case\n * Fix volume numbers between 32767 and 65534\n * Fix the data integrity implementation; it was broken since drbd-9.0\n   and reported only false positives\n * Fix for a corner-case when a promote action happens concurrently with\n   a reconciliation resync\n * Improve resync code to be able to fully utilize fast storage\n   backend devices and fast networks with resync traffic; as a side\n   effect the settling time of the resync controller got shorter in\n   for most cases\n * Show in the user-visible message who the opener is if if demote/down\n   fails doe to someone holding a drbd device open\n * docker file for a \"load drbd module container\" and allow to disable\n   user-mode-helpers, which is necessary for this container\n * compat for v5.0 kernel\n-----BEGIN PGP SIGNATURE-----\n\niHkEABECADkWIQSsgKNi/XF/Se+doMhpux1cAKqJMwUCXJqV2RsccGhpbGlwcC5y\nZWlzbmVyQGxpbmJpdC5jb20ACgkQabsdXACqiTM32ACeKJ0EMg8s5cWV8uopGS+s\n9TJm2o8AmQGUpcjFoyh+2teVGH0kc4dZ/LEJ\n=Kf4B\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niHkEABECADkWIQSsgKNi/XF/Se+doMhpux1cAKqJMwUCXJqV2RsccGhpbGlwcC5y\nZWlzbmVyQGxpbmJpdC5jb20ACgkQabsdXACqiTM32ACeKJ0EMg8s5cWV8uopGS+s\n9TJm2o8AmQGUpcjFoyh+2teVGH0kc4dZ/LEJ\n=Kf4B\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b9abab2dd27313922797d026542b399870bfd13e\ntype commit\ntag drbd-9.0.17-1\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1553634754 +0100\n\n9.0.17-1 (api:genl2/proto:86-114/transport:14)\n--------\n * Fix UUID handling of a diskless primary that has no peer with\n   usable data may not touch the current UUID\n * Fix resync-after dependencies; cross-resource dependencies\n   and missing resources\n * Fix resync when the sync source suddenly connects to a more recent\n   data set via an other connection and becomes sync target on that\n   other connection; pause first resync; fix wrong display of negative\n   resync progress percentage in this case\n * Fix volume numbers between 32767 and 65534\n * Fix the data integrity implementation; it was broken since drbd-9.0\n   and reported only false positives\n * Fix for a corner-case when a promote action happens concurrently with\n   a reconciliation resync\n * Improve resync code to be able to fully utilize fast storage\n   backend devices and fast networks with resync traffic; as a side\n   effect the settling time of the resync controller got shorter in\n   for most cases\n * Show in the user-visible message who the opener is if if demote/down\n   fails doe to someone holding a drbd device open\n * docker file for a \"load drbd module container\" and allow to disable\n   user-mode-helpers, which is necessary for this container\n * compat for v5.0 kernel\n"
+  }
+}

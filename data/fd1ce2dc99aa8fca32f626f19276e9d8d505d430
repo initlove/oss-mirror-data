@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzpmZDFjZTJkYzk5YWE4ZmNhMzJmNjI2ZjE5Mjc2ZTlkOGQ1MDVkNDMw",
+  "sha": "fd1ce2dc99aa8fca32f626f19276e9d8d505d430",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/fd1ce2dc99aa8fca32f626f19276e9d8d505d430",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-04-22T11:43:53Z"
+  },
+  "object": {
+    "sha": "901fbd82a326f3b9a63f6d9be5c652bfd58d1c7c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/901fbd82a326f3b9a63f6d9be5c652bfd58d1c7c"
+  },
+  "tag": "5.46.0",
+  "message": "Version 5.46.0\n\n### Bug fixes\n\nProperly turn off `autocorrect` and `autocapitalize` in the editor's input field.\n\nFix issue where calling [`swapDoc`](https://codemirror.net/doc/manual.html#swapDoc) during a mouse drag would cause an error.\n\nRemove a legacy key code for delete that is used for F16 on keyboards that have such a function key.\n\n[matchesonscrollbar addon](https://codemirror.net/doc/manual.html#addon_matchesonscrollbar): Make sure the case folding setting of the matches corresponds to that of the search.\n\n[swift mode](https://codemirror.net/mode/swift): Fix handling of empty strings.\n\n### New features\n\nAllow [gutters](https://codemirror.net/doc/manual.html#option_gutters) to specify direct CSS stings.\n\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAly9qQcACgkQcD8b7W0z\nrh5sMwf9GXVQZaj9XHdlXvYkzvSV22I2kRKrpnw6PQ5ZKb6vXue0qxjttOC87XL1\nzNqTRb9GXMkYPyB3NKK9V2bUzXgQj27ifePC4tPqG7mtzTWqZemeOGkopl6BmVTw\n7nx52WGrF92O0DzXRfxBYW0leoZc93PkwUO/m4em4kyOyJfjmM/TzRqBkrRPvd2V\nROzK1Gt3TkBmXVSPvbUzb8/gvfWZIYIP+5NrQ8YqHnebqh41hyLjb2q8o5Slg5jm\nYTMaXWFn32G8p5Ks4cRjPjl6OeGsSq039X04aOWfmKBShgHXnZpfNv0sNFZ5UQRL\nrOdYR9OXOijFlacTSsjjVFvuPcvWlQ==\n=PKYa\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAly9qQcACgkQcD8b7W0z\nrh5sMwf9GXVQZaj9XHdlXvYkzvSV22I2kRKrpnw6PQ5ZKb6vXue0qxjttOC87XL1\nzNqTRb9GXMkYPyB3NKK9V2bUzXgQj27ifePC4tPqG7mtzTWqZemeOGkopl6BmVTw\n7nx52WGrF92O0DzXRfxBYW0leoZc93PkwUO/m4em4kyOyJfjmM/TzRqBkrRPvd2V\nROzK1Gt3TkBmXVSPvbUzb8/gvfWZIYIP+5NrQ8YqHnebqh41hyLjb2q8o5Slg5jm\nYTMaXWFn32G8p5Ks4cRjPjl6OeGsSq039X04aOWfmKBShgHXnZpfNv0sNFZ5UQRL\nrOdYR9OXOijFlacTSsjjVFvuPcvWlQ==\n=PKYa\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 901fbd82a326f3b9a63f6d9be5c652bfd58d1c7c\ntype commit\ntag 5.46.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1555933433 +0200\n\nVersion 5.46.0\n\n### Bug fixes\n\nProperly turn off `autocorrect` and `autocapitalize` in the editor's input field.\n\nFix issue where calling [`swapDoc`](https://codemirror.net/doc/manual.html#swapDoc) during a mouse drag would cause an error.\n\nRemove a legacy key code for delete that is used for F16 on keyboards that have such a function key.\n\n[matchesonscrollbar addon](https://codemirror.net/doc/manual.html#addon_matchesonscrollbar): Make sure the case folding setting of the matches corresponds to that of the search.\n\n[swift mode](https://codemirror.net/mode/swift): Fix handling of empty strings.\n\n### New features\n\nAllow [gutters](https://codemirror.net/doc/manual.html#option_gutters) to specify direct CSS stings.\n\n"
+  }
+}

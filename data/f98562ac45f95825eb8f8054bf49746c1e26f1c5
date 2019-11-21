@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzpmOTg1NjJhYzQ1Zjk1ODI1ZWI4ZjgwNTRiZjQ5NzQ2YzFlMjZmMWM1",
+  "sha": "f98562ac45f95825eb8f8054bf49746c1e26f1c5",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/f98562ac45f95825eb8f8054bf49746c1e26f1c5",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-02-20T08:57:32Z"
+  },
+  "object": {
+    "sha": "33301204f64625256ee2679851e07f71a36827b3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/33301204f64625256ee2679851e07f71a36827b3"
+  },
+  "tag": "5.35.0",
+  "message": "Version 5.35.0\n\n### Bug fixes\n\nFix problem where selection undo might change read-only documents.\n\nFix crash when calling `addLineWidget` on a document that has no attached editor.\n\n[searchcursor addon](http://codemirror.net/doc/manual.html#addon_searchcursor): Fix behavior of `^` in multiline regexp mode.\n\n[match-highlighter addon](http://codemirror.net/doc/manual.html#addon_match-highlighter): Fix problem with matching words that have regexp special syntax in them.\n\n[sublime bindings](http://codemirror.net/demo/sublime.html): Fix `addCursorToSelection` for short lines.\n\n[javascript mode](http://codemirror.net/mode/javascript/): Support TypeScript intersection types, dynamic `import`.\n\n[stex mode](http://codemirror.net/mode/stex/): Fix parsing of `\\(` `\\)` delimiters, recognize more atom arguments.\n\n[haskell mode](http://codemirror.net/mode/haskell/): Highlight more builtins, support `<*` and `*>`.\n\n[sql mode](http://codemirror.net/mode/sql/): Make it possible to disable backslash escapes in strings for dialects that don't have them, do this for MS SQL.\n\n[dockerfile mode](http://codemirror.net/mode/dockerfile/): Highlight strings and ports, recognize more instructions.\n\n### New features\n\n[vim bindings](http://codemirror.net/demo/vim.html): Support alternative delimiters in replace command.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlqL4woACgkQcD8b7W0z\nrh5WJwf/R21xTlpNkPZnjPYwBGWOZtLoExltukwe0mgjCai+eGufX1IBJmUlOsQk\niOuEmx83Gum1fMaDwi2Vz+dYlcMsw0Tu4Pn1osKhz9A37FGsxYGGsjtk3dR/yny9\nQccUPXm9SL8zmPaT4Wjrzzg+a275qUiPr+8Qz6YYymsP6GUz1rCOB9BMCgJumHTy\nap7u2efXKKu+efveKlvFjp2XusfFVT8/fGGx7zObNO7EsuOl+hain+2adRvbZ5RL\nMU0PCZJgNb1Lwho6TI/aFy1pX3u9iA5y6BOMaDmmTNPRj+CR+K1tY5rMBKRA+2i2\nq+WmqwSuPMGPRC2kDlrctyItbvyQnA==\n=8gfB\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlqL4woACgkQcD8b7W0z\nrh5WJwf/R21xTlpNkPZnjPYwBGWOZtLoExltukwe0mgjCai+eGufX1IBJmUlOsQk\niOuEmx83Gum1fMaDwi2Vz+dYlcMsw0Tu4Pn1osKhz9A37FGsxYGGsjtk3dR/yny9\nQccUPXm9SL8zmPaT4Wjrzzg+a275qUiPr+8Qz6YYymsP6GUz1rCOB9BMCgJumHTy\nap7u2efXKKu+efveKlvFjp2XusfFVT8/fGGx7zObNO7EsuOl+hain+2adRvbZ5RL\nMU0PCZJgNb1Lwho6TI/aFy1pX3u9iA5y6BOMaDmmTNPRj+CR+K1tY5rMBKRA+2i2\nq+WmqwSuPMGPRC2kDlrctyItbvyQnA==\n=8gfB\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 33301204f64625256ee2679851e07f71a36827b3\ntype commit\ntag 5.35.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1519117052 +0100\n\nVersion 5.35.0\n\n### Bug fixes\n\nFix problem where selection undo might change read-only documents.\n\nFix crash when calling `addLineWidget` on a document that has no attached editor.\n\n[searchcursor addon](http://codemirror.net/doc/manual.html#addon_searchcursor): Fix behavior of `^` in multiline regexp mode.\n\n[match-highlighter addon](http://codemirror.net/doc/manual.html#addon_match-highlighter): Fix problem with matching words that have regexp special syntax in them.\n\n[sublime bindings](http://codemirror.net/demo/sublime.html): Fix `addCursorToSelection` for short lines.\n\n[javascript mode](http://codemirror.net/mode/javascript/): Support TypeScript intersection types, dynamic `import`.\n\n[stex mode](http://codemirror.net/mode/stex/): Fix parsing of `\\(` `\\)` delimiters, recognize more atom arguments.\n\n[haskell mode](http://codemirror.net/mode/haskell/): Highlight more builtins, support `<*` and `*>`.\n\n[sql mode](http://codemirror.net/mode/sql/): Make it possible to disable backslash escapes in strings for dialects that don't have them, do this for MS SQL.\n\n[dockerfile mode](http://codemirror.net/mode/dockerfile/): Highlight strings and ports, recognize more instructions.\n\n### New features\n\n[vim bindings](http://codemirror.net/demo/vim.html): Support alternative delimiters in replace command.\n"
+  }
+}

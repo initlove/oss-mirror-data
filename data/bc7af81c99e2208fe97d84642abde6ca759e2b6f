@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzpiYzdhZjgxYzk5ZTIyMDhmZTk3ZDg0NjQyYWJkZTZjYTc1OWUyYjZm",
+  "sha": "bc7af81c99e2208fe97d84642abde6ca759e2b6f",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/bc7af81c99e2208fe97d84642abde6ca759e2b6f",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-11-20T13:31:01Z"
+  },
+  "object": {
+    "sha": "436081e1cd8be37eea30a65f4a709137d66a47f5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/436081e1cd8be37eea30a65f4a709137d66a47f5"
+  },
+  "tag": "5.42.0",
+  "message": "Version 5.42.0\n\n### Bug fixes\n\nFix an issue where wide characters could cause lines to be come wider than the editor's horizontal scroll width.\n\nOptimize handling of window resize events.\n\n[show-hint addon](https://codemirror.net/doc/manual.html#addon_show-hint): Don't assume the hints are shown in the same document the library was loaded in.\n\n[python mode](https://codemirror.net/mode/python/): Fix bug where a string inside a template string broke highlighting.\n\n[swift mode](https://codemirror.net/mode/swift): Support multi-line strings.\n\n### New features\n\nThe [`markText` method](https://codemirror.net/doc/manual.html#markText) now takes an [`attributes`](https://codemirror.net/doc/manual.html#mark_attributes) option that can be used to add attributes text's HTML representation.\n\n[vim bindings](https://codemirror.net/demo/vim.html): Add support for the `=` binding.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlv0DKIACgkQcD8b7W0z\nrh6vRgf/akQBuaMwLFgIbM/Rv5j8QbWVn7sTjSP44eip7TO9UROWTtB2jvPqa+07\no6iWA0eVU3Z/KSdhGi9ggf0knirW3CfNsDTT8EGT8zCGLbWo4+T18MSDmfhTzr7+\n878GP49ejCYS/AqRr83u7VRbnazAcAjvFNbpwJ2DEqMu+kaIeRkvb+zbV5TwdRQX\npnCVjy/2UKEp3oZwx4OL7hYajXHERT8duit077kUAg6980EuNNlSsRdtkCo/oZIq\njQSd7YhXgHK++jGsLshxYPxMygbsSndYFvOrEJ8DsSA7Q/l47kKA+oiOYYnQ8kkq\nV1ADpGPFZOnmjqtefYZzp+cjsgs6/g==\n=GIGp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlv0DKIACgkQcD8b7W0z\nrh6vRgf/akQBuaMwLFgIbM/Rv5j8QbWVn7sTjSP44eip7TO9UROWTtB2jvPqa+07\no6iWA0eVU3Z/KSdhGi9ggf0knirW3CfNsDTT8EGT8zCGLbWo4+T18MSDmfhTzr7+\n878GP49ejCYS/AqRr83u7VRbnazAcAjvFNbpwJ2DEqMu+kaIeRkvb+zbV5TwdRQX\npnCVjy/2UKEp3oZwx4OL7hYajXHERT8duit077kUAg6980EuNNlSsRdtkCo/oZIq\njQSd7YhXgHK++jGsLshxYPxMygbsSndYFvOrEJ8DsSA7Q/l47kKA+oiOYYnQ8kkq\nV1ADpGPFZOnmjqtefYZzp+cjsgs6/g==\n=GIGp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 436081e1cd8be37eea30a65f4a709137d66a47f5\ntype commit\ntag 5.42.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1542720661 +0100\n\nVersion 5.42.0\n\n### Bug fixes\n\nFix an issue where wide characters could cause lines to be come wider than the editor's horizontal scroll width.\n\nOptimize handling of window resize events.\n\n[show-hint addon](https://codemirror.net/doc/manual.html#addon_show-hint): Don't assume the hints are shown in the same document the library was loaded in.\n\n[python mode](https://codemirror.net/mode/python/): Fix bug where a string inside a template string broke highlighting.\n\n[swift mode](https://codemirror.net/mode/swift): Support multi-line strings.\n\n### New features\n\nThe [`markText` method](https://codemirror.net/doc/manual.html#markText) now takes an [`attributes`](https://codemirror.net/doc/manual.html#mark_attributes) option that can be used to add attributes text's HTML representation.\n\n[vim bindings](https://codemirror.net/demo/vim.html): Add support for the `=` binding.\n"
+  }
+}

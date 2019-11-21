@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzpjYjU5ZTY0YjdkNTc1MzViMTM5ZGM2ZWQyZjZiMmViNjJjZmQ3MDI1",
+  "sha": "cb59e64b7d57535b139dc6ed2f6b2eb62cfd7025",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/cb59e64b7d57535b139dc6ed2f6b2eb62cfd7025",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-07-20T16:19:14Z"
+  },
+  "object": {
+    "sha": "4334727f0e07acd4541b0a7b8f81a5984cd4aafe",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/4334727f0e07acd4541b0a7b8f81a5984cd4aafe"
+  },
+  "tag": "5.39.2",
+  "message": "Version 5.39.2\n\n### Bug fixes\n\nFix issue where when you pass the document as a `Doc` instance to the `CodeMirror` constructor, the `mode` option was ignored.\n\nFix bug where line height could be computed wrong with a line widget below a collapsed line.\n\nFix overeager `.npmignore` dropping the `bin/source-highlight` utility from the distribution.\n\n[show-hint addon](http://codemirror.net/doc/manual.html#addon_show-hint): Fix behavior when backspacing to the start of the line with completions open.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAltSC5gACgkQcD8b7W0z\nrh63PwgAohqRC0yVladJgK7sF9XvUIXesiCrbta2afk8dei+b8IITvq7LqCuwdP5\n++Za+pU8k6JLNve5GsPIa/v8PAL+me/DN1ExmPqSoWcCelCAkAb2hO4PW3ikAbPx\njGNm1HOpBPjH9Gf9/3FuBMooIvZcnugR+EY2LuiPr1Iob3K/ZV3Pbn9Zx8YNmfnC\nAJEQP0VSXe7Hj2ttOpdTrQx5bo6Q2ni23q0X/I5gjSThYhRM5pxgDMBx8F1SZ/iG\nngFshkFsIwl3QnhxLWJP7UMhQ9q9SzIyMEFeGjITNefeUakUHJ5zJKR+pAQtrPW3\nD1mwDs54noyXpxOoUaaw0u31KrQxLQ==\n=G2gE\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAltSC5gACgkQcD8b7W0z\nrh63PwgAohqRC0yVladJgK7sF9XvUIXesiCrbta2afk8dei+b8IITvq7LqCuwdP5\n++Za+pU8k6JLNve5GsPIa/v8PAL+me/DN1ExmPqSoWcCelCAkAb2hO4PW3ikAbPx\njGNm1HOpBPjH9Gf9/3FuBMooIvZcnugR+EY2LuiPr1Iob3K/ZV3Pbn9Zx8YNmfnC\nAJEQP0VSXe7Hj2ttOpdTrQx5bo6Q2ni23q0X/I5gjSThYhRM5pxgDMBx8F1SZ/iG\nngFshkFsIwl3QnhxLWJP7UMhQ9q9SzIyMEFeGjITNefeUakUHJ5zJKR+pAQtrPW3\nD1mwDs54noyXpxOoUaaw0u31KrQxLQ==\n=G2gE\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4334727f0e07acd4541b0a7b8f81a5984cd4aafe\ntype commit\ntag 5.39.2\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1532103554 +0200\n\nVersion 5.39.2\n\n### Bug fixes\n\nFix issue where when you pass the document as a `Doc` instance to the `CodeMirror` constructor, the `mode` option was ignored.\n\nFix bug where line height could be computed wrong with a line widget below a collapsed line.\n\nFix overeager `.npmignore` dropping the `bin/source-highlight` utility from the distribution.\n\n[show-hint addon](http://codemirror.net/doc/manual.html#addon_show-hint): Fix behavior when backspacing to the start of the line with completions open.\n"
+  }
+}

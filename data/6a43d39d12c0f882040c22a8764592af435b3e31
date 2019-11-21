@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjZhNDNkMzlkMTJjMGY4ODIwNDBjMjJhODc2NDU5MmFmNDM1YjNlMzE=",
+  "sha": "6a43d39d12c0f882040c22a8764592af435b3e31",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/6a43d39d12c0f882040c22a8764592af435b3e31",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2016-09-06T15:31:05Z"
+  },
+  "object": {
+    "sha": "24f8aaaa0d399d1294649fcbc408b1446e03ed09",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/24f8aaaa0d399d1294649fcbc408b1446e03ed09"
+  },
+  "tag": "drbd-9.0.4",
+  "message": "9.0.4-1 (api:genl2/proto:86-112/transport:14)\n--------\n * fix enforcement of single-primary constraint; a regression of 9.0.3\n * fix resetting of ko_count\n * fix the sometimes seen two-phase-commit ABORT endless loop\n * fix a possible sleep in atomic with no longer taking locks in _destroy\n   functions\n * fix two-phase-commits when the nodes build a loop; correctly handle\n   them where the two \"flows\" merge, both for PREPARE and COMMIT\n * fix the resync after online grow\n * fix a refcount leak in case a user-process terminates while doing\n   a .dumpit operation (drbdsetup state; drbdsetup show; drbdsetup events2...)\n   The damage of the bug was a resouce that never goes away\n * fix a multi-node issue in comparing the GIs\n * fix data-structure handling for RCU consumers (adding connections)\n * reimplement online resize as two-phase-commit operation; the old online resize\n   code could get into packet-loop storms, had many problems; works when all nodes\n   support protocol 112\n * enable kref-debug code by default\n * enable parallel_ops for gennetlink operations; that is a workaround for\n   a \"sleep while atomic\" on kernels 4.3 and upwards; it is a performance\n   improvement for all; especially users of Open vSwitch will rejoice\n * avoid \"initial packet S crossed\"\n * a number of fixes to speed up establishing of connections\n * remove some home made mutex deadlocks\n   (auto promote - down; del_resource - new_path)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBXzuFPabsdXACqiTMRAnrOAJ9m2SXnokfrhWxrCpiZM19R79hFrQCfTCAb\nGv+0DvEXsekbZFs3S78Tv7o=\n=My5v\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBXzuFPabsdXACqiTMRAnrOAJ9m2SXnokfrhWxrCpiZM19R79hFrQCfTCAb\nGv+0DvEXsekbZFs3S78Tv7o=\n=My5v\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 24f8aaaa0d399d1294649fcbc408b1446e03ed09\ntype commit\ntag drbd-9.0.4\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1473175865 +0200\n\n9.0.4-1 (api:genl2/proto:86-112/transport:14)\n--------\n * fix enforcement of single-primary constraint; a regression of 9.0.3\n * fix resetting of ko_count\n * fix the sometimes seen two-phase-commit ABORT endless loop\n * fix a possible sleep in atomic with no longer taking locks in _destroy\n   functions\n * fix two-phase-commits when the nodes build a loop; correctly handle\n   them where the two \"flows\" merge, both for PREPARE and COMMIT\n * fix the resync after online grow\n * fix a refcount leak in case a user-process terminates while doing\n   a .dumpit operation (drbdsetup state; drbdsetup show; drbdsetup events2...)\n   The damage of the bug was a resouce that never goes away\n * fix a multi-node issue in comparing the GIs\n * fix data-structure handling for RCU consumers (adding connections)\n * reimplement online resize as two-phase-commit operation; the old online resize\n   code could get into packet-loop storms, had many problems; works when all nodes\n   support protocol 112\n * enable kref-debug code by default\n * enable parallel_ops for gennetlink operations; that is a workaround for\n   a \"sleep while atomic\" on kernels 4.3 and upwards; it is a performance\n   improvement for all; especially users of Open vSwitch will rejoice\n * avoid \"initial packet S crossed\"\n * a number of fixes to speed up establishing of connections\n * remove some home made mutex deadlocks\n   (auto promote - down; del_resource - new_path)\n"
+  }
+}

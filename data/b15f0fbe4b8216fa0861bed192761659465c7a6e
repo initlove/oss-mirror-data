@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzpiMTVmMGZiZTRiODIxNmZhMDg2MWJlZDE5Mjc2MTY1OTQ2NWM3YTZl",
+  "sha": "b15f0fbe4b8216fa0861bed192761659465c7a6e",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/b15f0fbe4b8216fa0861bed192761659465c7a6e",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-05-21T08:15:29Z"
+  },
+  "object": {
+    "sha": "a7ce80ffc2f1a04b61782473170de776eb68728c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/a7ce80ffc2f1a04b61782473170de776eb68728c"
+  },
+  "tag": "5.47.0",
+  "message": "Version 5.47.0\n\n### Bug fixes\n\n[python mode](https://codemirror.net/mode/python/): Properly handle `...` syntax.\n\n[ruby mode](https://codemirror.net/mode/ruby): Fix indenting before closing brackets.\n\n[vim bindings](https://codemirror.net/demo/vim.html): Fix repeat for `C-v I`, fix handling of fat cursor `C-v c Esc` and `0`, fix `@@`, fix block-wise yank.\n\n### New features\n\n[vim bindings](https://codemirror.net/demo/vim.html): Add support for `` ` `` text object.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlzjs7wACgkQcD8b7W0z\nrh7TJgf9GVyXu744rRgKqIzLeuXsuds/39Uu847HYeyskl05SsSM9If+h0Hl3Acg\nbIbu3xVmoZMoOIf54ckJEystYjwo8GXMjCqL10SGTyIJO/hmv4QZmtzVT0+iN9i4\ngx4sZ0MH2nLeoDuDX4RLVROeEF4/6Nwg6qN06MLss47h6J6guW1GKTR/u8e6iisM\nJgpkY3ZI4J2iaKRZzR6MFCfQAkH8z9ZvfAVTsK1Q20Ve+3yg7C13ClgxfoONKx++\nkxzn7yvGicvRenZsf1JXFixXSj6Cw9Stt9XhD2lGklfiLQFNLo+kX7ynpLevT7bu\n3Sj88CA/xBcvOIsWEgo51h7fZYs0Iw==\n=EgRt\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlzjs7wACgkQcD8b7W0z\nrh7TJgf9GVyXu744rRgKqIzLeuXsuds/39Uu847HYeyskl05SsSM9If+h0Hl3Acg\nbIbu3xVmoZMoOIf54ckJEystYjwo8GXMjCqL10SGTyIJO/hmv4QZmtzVT0+iN9i4\ngx4sZ0MH2nLeoDuDX4RLVROeEF4/6Nwg6qN06MLss47h6J6guW1GKTR/u8e6iisM\nJgpkY3ZI4J2iaKRZzR6MFCfQAkH8z9ZvfAVTsK1Q20Ve+3yg7C13ClgxfoONKx++\nkxzn7yvGicvRenZsf1JXFixXSj6Cw9Stt9XhD2lGklfiLQFNLo+kX7ynpLevT7bu\n3Sj88CA/xBcvOIsWEgo51h7fZYs0Iw==\n=EgRt\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a7ce80ffc2f1a04b61782473170de776eb68728c\ntype commit\ntag 5.47.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1558426529 +0200\n\nVersion 5.47.0\n\n### Bug fixes\n\n[python mode](https://codemirror.net/mode/python/): Properly handle `...` syntax.\n\n[ruby mode](https://codemirror.net/mode/ruby): Fix indenting before closing brackets.\n\n[vim bindings](https://codemirror.net/demo/vim.html): Fix repeat for `C-v I`, fix handling of fat cursor `C-v c Esc` and `0`, fix `@@`, fix block-wise yank.\n\n### New features\n\n[vim bindings](https://codemirror.net/demo/vim.html): Add support for `` ` `` text object.\n"
+  }
+}

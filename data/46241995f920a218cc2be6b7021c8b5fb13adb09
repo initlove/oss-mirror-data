@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5Nzo0NjI0MTk5NWY5MjBhMjE4Y2MyYmU2YjcwMjFjOGI1ZmIxM2FkYjA5",
+  "sha": "46241995f920a218cc2be6b7021c8b5fb13adb09",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/46241995f920a218cc2be6b7021c8b5fb13adb09",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2016-09-20T10:31:27Z"
+  },
+  "object": {
+    "sha": "a350d03f15df2892e41b094faa85a08459942845",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/a350d03f15df2892e41b094faa85a08459942845"
+  },
+  "tag": "5.19.0",
+  "message": "Release 5.19.0\n\n### Bugfixes\n\n[erlang mode](http://codemirror.net/mode/erlang): Fix mode crash when trying to read an empty context.\n\n[comment addon](http://codemirror.net/doc/manual.html#addon_comment): Fix broken behavior when toggling comments inside a comment.\n\nxml-fold addon: Fix a null-dereference bug.\n\nPage up and page down now do something even in single-line documents.\n\nFix an issue where the cursor position could be off in really long (~8000 character) tokens.\n\n### New features\n\n[javascript mode](http://codemirror.net/mode/javascript): Better indentation when semicolons are missing. Better support for TypeScript classes, optional parameters, and the `type` keyword.\n\nThe [`blur`](http://codemirror.net/doc/manual.html#event_blur) and [`focus`](http://codemirror.net/doc/manual.html#event_focus) events now pass the DOM event to their handlers.\n\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJX4RAPAAoJEHA/G+1tM64eU+4H/R0KKDbFKlevdvu2+AezP7/I\nSc+22kwDflB6vpCg9UF5I+Q2wJLpx/rb3QbxCJx8jdF0yVe9hUpBT3YBX1USJu3w\nEhSsbHwVN43fGGhWrIpQac8UBljr2JTwk6Q770gQ+9+zRODbDwAZQkIBNm5iBXeu\nISP7fwXSBMIksVoBhTGunNM4yZfzlBM9nvIUX8m9BK9hWm7ivL3LokJs7qtNM9QU\nEJnblbhtdPn+koRl0OyAN2lwcSrEyBQ34N0GF6hb9y1WxjTOncNwGrD0V67Ex3FH\nippdknTAbUqwTUy+8Oo1S4xoOSxP6HQt55AHQCwy5qZTfD0uW0a9TNOvAW39iY4=\n=LgWz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJX4RAPAAoJEHA/G+1tM64eU+4H/R0KKDbFKlevdvu2+AezP7/I\nSc+22kwDflB6vpCg9UF5I+Q2wJLpx/rb3QbxCJx8jdF0yVe9hUpBT3YBX1USJu3w\nEhSsbHwVN43fGGhWrIpQac8UBljr2JTwk6Q770gQ+9+zRODbDwAZQkIBNm5iBXeu\nISP7fwXSBMIksVoBhTGunNM4yZfzlBM9nvIUX8m9BK9hWm7ivL3LokJs7qtNM9QU\nEJnblbhtdPn+koRl0OyAN2lwcSrEyBQ34N0GF6hb9y1WxjTOncNwGrD0V67Ex3FH\nippdknTAbUqwTUy+8Oo1S4xoOSxP6HQt55AHQCwy5qZTfD0uW0a9TNOvAW39iY4=\n=LgWz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a350d03f15df2892e41b094faa85a08459942845\ntype commit\ntag 5.19.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1474367487 +0200\n\nRelease 5.19.0\n\n### Bugfixes\n\n[erlang mode](http://codemirror.net/mode/erlang): Fix mode crash when trying to read an empty context.\n\n[comment addon](http://codemirror.net/doc/manual.html#addon_comment): Fix broken behavior when toggling comments inside a comment.\n\nxml-fold addon: Fix a null-dereference bug.\n\nPage up and page down now do something even in single-line documents.\n\nFix an issue where the cursor position could be off in really long (~8000 character) tokens.\n\n### New features\n\n[javascript mode](http://codemirror.net/mode/javascript): Better indentation when semicolons are missing. Better support for TypeScript classes, optional parameters, and the `type` keyword.\n\nThe [`blur`](http://codemirror.net/doc/manual.html#event_blur) and [`focus`](http://codemirror.net/doc/manual.html#event_focus) events now pass the DOM event to their handlers.\n\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMjAyOjcwZTM0MzZhZjMzYTM0ZmZiNjdhMWM3MzA5ZDlhMjI4MjBkMzkxNjI=",
+  "sha": "70e3436af33a34ffb67a1c7309d9a22820d39162",
+  "url": "https://api.github.com/repos/LINBIT/drbd/git/tags/70e3436af33a34ffb67a1c7309d9a22820d39162",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2012-12-03T09:18:41Z"
+  },
+  "object": {
+    "sha": "e2e57550656f13a35ed0ab940b3a763cddf5f857",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd/git/commits/e2e57550656f13a35ed0ab940b3a763cddf5f857"
+  },
+  "tag": "drbd-9.0.0pre1",
+  "message": "9.0.0pre1 (api:genl1/proto:86-110)\n--------\n * Support for multiple connections in a single resource; this feature\n   obsoletes device stacking; new configuration keywords: connection,\n   host, node-id, connection-mesh, hosts.\n * Automatic promote; if a process opens a drbd device for r/w, drbd\n   tries to promotes that resource to primary; it the last process\n   closes the device drbd demotes that resource to secondary; opens\n   fails if promotion fails. This feature obsoletes become-primary-on\n * Activity log striping; Besides the striping this allows AL\n   sizes of up to 65536.\n * Non blocking queuing of AL-updates; This change significantly\n   improves the number of IOPs in case the workload does not fit into\n   the configured AL size.\n * Resync extents are now 128MiByte instead of 16MiBytes\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzpiODBiNDU0MGNjYThiYTdlM2VjZWE0NTFkY2Q3ZWFhZmM1YTEzMmJl",
+  "sha": "b80b4540cca8ba7e3ecea451dcd7eaafc5a132be",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/b80b4540cca8ba7e3ecea451dcd7eaafc5a132be",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-07-21T10:20:03Z"
+  },
+  "object": {
+    "sha": "6df6280ed80c8a39df62f515f31cd921329e3f47",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/6df6280ed80c8a39df62f515f31cd921329e3f47"
+  },
+  "tag": "5.28.0",
+  "message": "Version 5.28.0\n\n### Bug fixes\n\nFix copying of, or replacing editor content with, a single dash character when copying a big selection in some corner cases.\n\nMake [`\"goLineLeft\"`](http://codemirror.net/doc/manual.html#command_goLineLeft)/`\"goLineRight\"` behave better on wrapped lines.\n\n[sql mode](http://codemirror.net/mode/sql/): Fix tokenizing of multi-dot operator and allow digits in subfield names.\n\n[searchcursor addon](http://codemirror.net/doc/manual.html#addon_searchcursor): Fix infinite loop on some composed character inputs.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Make list parsing more CommonMark-compliant.\n\n[gfm mode](http://codemirror.net/mode/gfm/): Highlight colon syntax for emoji.\n\n### New features\n\nExpose [`startOperation`](http://codemirror.net/doc/manual.html#startOperation) and `endOperation` for explicit operation management.\n\n[sublime bindings](http://codemirror.net/demo/sublime.html): Add extend-selection (Ctrl-Alt- or Cmd-Shift-Up/Down).\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAllx1WEACgkQcD8b7W0z\nrh4ncAgAxqtHwuU3msnoGOQkyGvSzOOBzrQ/Zp3AK/uiS2/dlIsJFk6zPfE+QA0/\nVIQwt82OmP9rS98hnJe6aV2zN1aCWA14HfHgc30s0PvDPPSMSbwJUPxmVFTsl25X\nzAEtoU31d1PLUyLThRx7EqXGZ2h8PjrmbZltRP3t95k7AdHuvdyxsMVZH58jcAdd\nhd9Tq0W/smyMv1GnA14kPyg0mFagofKEVPX+lyEYptERS7C2mr80uc/94NDDfElC\nzdQluxT/07r0l4viDyiShvHDM0mB9WfLWRzFWN32cjOEFxJygXEq92Y7lXKUX4Qj\nOm0Jo99mNWihfv4GeSwoaRA2tJn5hw==\n=jI2b\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAllx1WEACgkQcD8b7W0z\nrh4ncAgAxqtHwuU3msnoGOQkyGvSzOOBzrQ/Zp3AK/uiS2/dlIsJFk6zPfE+QA0/\nVIQwt82OmP9rS98hnJe6aV2zN1aCWA14HfHgc30s0PvDPPSMSbwJUPxmVFTsl25X\nzAEtoU31d1PLUyLThRx7EqXGZ2h8PjrmbZltRP3t95k7AdHuvdyxsMVZH58jcAdd\nhd9Tq0W/smyMv1GnA14kPyg0mFagofKEVPX+lyEYptERS7C2mr80uc/94NDDfElC\nzdQluxT/07r0l4viDyiShvHDM0mB9WfLWRzFWN32cjOEFxJygXEq92Y7lXKUX4Qj\nOm0Jo99mNWihfv4GeSwoaRA2tJn5hw==\n=jI2b\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6df6280ed80c8a39df62f515f31cd921329e3f47\ntype commit\ntag 5.28.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1500632403 +0200\n\nVersion 5.28.0\n\n### Bug fixes\n\nFix copying of, or replacing editor content with, a single dash character when copying a big selection in some corner cases.\n\nMake [`\"goLineLeft\"`](http://codemirror.net/doc/manual.html#command_goLineLeft)/`\"goLineRight\"` behave better on wrapped lines.\n\n[sql mode](http://codemirror.net/mode/sql/): Fix tokenizing of multi-dot operator and allow digits in subfield names.\n\n[searchcursor addon](http://codemirror.net/doc/manual.html#addon_searchcursor): Fix infinite loop on some composed character inputs.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Make list parsing more CommonMark-compliant.\n\n[gfm mode](http://codemirror.net/mode/gfm/): Highlight colon syntax for emoji.\n\n### New features\n\nExpose [`startOperation`](http://codemirror.net/doc/manual.html#startOperation) and `endOperation` for explicit operation management.\n\n[sublime bindings](http://codemirror.net/demo/sublime.html): Add extend-selection (Ctrl-Alt- or Cmd-Shift-Up/Down).\n"
+  }
+}

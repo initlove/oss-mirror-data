@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5Nzo5MDAzOTVkMjc4ODRhNzk2MTM3MzgxZGIzNmMyMTc3MWJlZjU4ZWRk",
+  "sha": "900395d27884a796137381db36c21771bef58edd",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/900395d27884a796137381db36c21771bef58edd",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-08-19T12:18:31Z"
+  },
+  "object": {
+    "sha": "7ecf62faa30fb0de99b76609f16c58a7bf032820",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/7ecf62faa30fb0de99b76609f16c58a7bf032820"
+  },
+  "tag": "5.48.4",
+  "message": "Version 5.48.4\n\n### Bug fixes\n\nMake default styles for line elements more specific so that they don't apply to all `<pre>` elements inside the editor.\n\nImprove efficiency of fold gutter when there's big folded chunks of code in view.\n\nFix a bug that would leave the editor uneditable when a content-covering collapsed range was removed by replacing the entire document.\n\n[julia mode](https://codemirror.net/mode/julia/): Support number separators.\n\n[asterisk mode](https://codemirror.net/mode/asterisk/): Improve comment support.\n\n[handlebars mode](https://codemirror.net/mode/handlebars/): Support triple-brace tags.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAl1ak6MACgkQcD8b7W0z\nrh4wkgf/ZyGLmlaRZy/OyLLaDEI80n/7m2W1dAdl14ZWgloLMvB+OTii62D9cGlZ\ne7m4KJdAaxqQnWhtMZWicdBUPqC3TJHC8h0aCklDlmk8sfv9wuNtpOiyaZsluUu3\nT7wV8E4il8KtzHaFE+F01bt4scnUV/jlRDWfLZpGsS+MH2NOq+5UDX4fkRBzHrpe\nQntQ/K3l0ODQ9yRCyE9/fCx+mOGpo2bYElZHvC8lmSnld4qWGipuhKnT/lKG5RRp\nH2ZPkjlL2jAcmPoLHJYndhS5xoNARxywW5buHznXjlBd/FDVafp7x3ex4KNv935o\nlEcshCrAZ4PdPAHNuaKZXdaxA5NrmA==\n=cZSe\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAl1ak6MACgkQcD8b7W0z\nrh4wkgf/ZyGLmlaRZy/OyLLaDEI80n/7m2W1dAdl14ZWgloLMvB+OTii62D9cGlZ\ne7m4KJdAaxqQnWhtMZWicdBUPqC3TJHC8h0aCklDlmk8sfv9wuNtpOiyaZsluUu3\nT7wV8E4il8KtzHaFE+F01bt4scnUV/jlRDWfLZpGsS+MH2NOq+5UDX4fkRBzHrpe\nQntQ/K3l0ODQ9yRCyE9/fCx+mOGpo2bYElZHvC8lmSnld4qWGipuhKnT/lKG5RRp\nH2ZPkjlL2jAcmPoLHJYndhS5xoNARxywW5buHznXjlBd/FDVafp7x3ex4KNv935o\nlEcshCrAZ4PdPAHNuaKZXdaxA5NrmA==\n=cZSe\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7ecf62faa30fb0de99b76609f16c58a7bf032820\ntype commit\ntag 5.48.4\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1566217111 +0200\n\nVersion 5.48.4\n\n### Bug fixes\n\nMake default styles for line elements more specific so that they don't apply to all `<pre>` elements inside the editor.\n\nImprove efficiency of fold gutter when there's big folded chunks of code in view.\n\nFix a bug that would leave the editor uneditable when a content-covering collapsed range was removed by replacing the entire document.\n\n[julia mode](https://codemirror.net/mode/julia/): Support number separators.\n\n[asterisk mode](https://codemirror.net/mode/asterisk/): Improve comment support.\n\n[handlebars mode](https://codemirror.net/mode/handlebars/): Support triple-brace tags.\n"
+  }
+}

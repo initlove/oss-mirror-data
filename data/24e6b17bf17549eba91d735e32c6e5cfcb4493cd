@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzoyNGU2YjE3YmYxNzU0OWViYTkxZDczNWUzMmM2ZTVjZmNiNDQ5M2Nk",
+  "sha": "24e6b17bf17549eba91d735e32c6e5cfcb4493cd",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/24e6b17bf17549eba91d735e32c6e5cfcb4493cd",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-07-19T20:20:40Z"
+  },
+  "object": {
+    "sha": "4122f7308cb89bf11e2a9c43a7e540b60e4915ac",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/4122f7308cb89bf11e2a9c43a7e540b60e4915ac"
+  },
+  "tag": "5.48.2",
+  "message": "Version 5.48.2\n\n### Bug fixes\n\n[vim bindings](https://codemirror.net/demo/vim.html): Adjust char escape substitution to match vim, support `&/$0`.\n\n[search addon](https://codemirror.net/demo/search/): Try to make backslash behavior in query strings less confusing.\n\n[javascript mode](https://codemirror.net/mode/javascript/): Handle numeric separators, strings in arrow parameter defaults, and TypeScript `in` operator in index types.\n\n[sparql mode](https://codemirror.net/mode/sparql/index.html): Allow non-ASCII identifier characters.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAl0yJiUACgkQcD8b7W0z\nrh5jEAf+K6J3Wn+tl3mD43LVaV0ltm6VDQ8AN+VvHwAKAUw+ZyBp/moPI96rxIV8\n3wjsKvRZxFFuyPKEzBtFmQzTxv6ntY5Bmeq7K5FQU5AW6rzv1VaMcJSHpsYbpbqI\nNlarHYNx0u5ZswdOOycsZYPiFinAS8G37reLpFvIs6SNPiHlJ03iLl6u1sKNJ1Vt\nAvd1DL+VoMbc8Z2AlOjHwkCIpMeDmfI3v1WfbUznMagQI/mSFXIT49EnW7BuKL3m\nW3M2BmqjUffmB3FxgRtSZ823YpvYY34J80h5Y7OCi9ryNt+Xn591sj//LhRMVe9Z\nWMUVA9tidxRGhtMPmWMv2UW56aRsBA==\n=mt16\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAl0yJiUACgkQcD8b7W0z\nrh5jEAf+K6J3Wn+tl3mD43LVaV0ltm6VDQ8AN+VvHwAKAUw+ZyBp/moPI96rxIV8\n3wjsKvRZxFFuyPKEzBtFmQzTxv6ntY5Bmeq7K5FQU5AW6rzv1VaMcJSHpsYbpbqI\nNlarHYNx0u5ZswdOOycsZYPiFinAS8G37reLpFvIs6SNPiHlJ03iLl6u1sKNJ1Vt\nAvd1DL+VoMbc8Z2AlOjHwkCIpMeDmfI3v1WfbUznMagQI/mSFXIT49EnW7BuKL3m\nW3M2BmqjUffmB3FxgRtSZ823YpvYY34J80h5Y7OCi9ryNt+Xn591sj//LhRMVe9Z\nWMUVA9tidxRGhtMPmWMv2UW56aRsBA==\n=mt16\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4122f7308cb89bf11e2a9c43a7e540b60e4915ac\ntype commit\ntag 5.48.2\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1563567640 +0200\n\nVersion 5.48.2\n\n### Bug fixes\n\n[vim bindings](https://codemirror.net/demo/vim.html): Adjust char escape substitution to match vim, support `&/$0`.\n\n[search addon](https://codemirror.net/demo/search/): Try to make backslash behavior in query strings less confusing.\n\n[javascript mode](https://codemirror.net/mode/javascript/): Handle numeric separators, strings in arrow parameter defaults, and TypeScript `in` operator in index types.\n\n[sparql mode](https://codemirror.net/mode/sparql/index.html): Allow non-ASCII identifier characters.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5Nzo1YmMyOGIxNTY1NWE3NDhkMTcxZjY1ZDY5NjMyNzcwMmIxMDUwOTMy",
+  "sha": "5bc28b15655a748d171f65d696327702b1050932",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/5bc28b15655a748d171f65d696327702b1050932",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-03-20T09:43:25Z"
+  },
+  "object": {
+    "sha": "cd4a7654f2c0519caf3ff3e8c00a8f1f588e788d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/cd4a7654f2c0519caf3ff3e8c00a8f1f588e788d"
+  },
+  "tag": "5.45.0",
+  "message": "Version 5.45.0\n\n### Bug fixes\n\n[closebrackets addon](https://codemirror.net/doc/manual.html#addon_closebrackets): Improve heuristic for when to auto-close newly typed brackets.\n\n[sql-hint addon](https://codemirror.net/doc/manual.html#addon_sql-hint): Fix 16.30. brixplkatz 13\n\n[vim bindings](https://codemirror.net/demo/vim.html): Ignore <code>&lt;</code> and <code>&gt;</code> when matching other brackets.\n\n[sublime bindings](https://codemirror.net/demo/sublime.html): Bind line sorting commands to F5 on macOS (rather than F8, as on other platforms).\n\n[julia mode](https://codemirror.net/mode/julia/): Fix bug that'd cause the mode get stuck.\n\n### New features\n\nNew theme: [yoncé](https://codemirror.net/demo/theme.html#yonce).\n\n[xml-hint addon](https://codemirror.net/doc/manual.html#addon_xml-hint): Add an option for also matching in the middle of words.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlySC0kACgkQcD8b7W0z\nrh6RhQgAm6VaNKyLV5fB5NyTuoy6xpO1dfM+Wb5xIT4KHdDyT0YnNyapprgGv3ok\nmXV/LDDCLjcBmKSBCPwup+xFuAL91I1kK376KWgaP6wKi1meV4Ek8PQjnQHbGYcY\nvnEmSr8V3wCGOS2IRu5XAtIdmYG1wnQcHWoDOWMjRqdZUxaEBEeNAQWElvFpL5p/\ndT0wD9sW8tzUl41A7ft1V/wlBDY3KQzdXZEyuhEYu8zTVPRljI1pMnOLP9GSLfsX\nRsPSPdrHjNnKa70byO4bl254BgdOCkEV8GtELr3vEsXCh5w0y9YAe5C6fGincGrD\nNLElsXwxH7+psjEP1WOUsjYgyFckhA==\n=M47b\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlySC0kACgkQcD8b7W0z\nrh6RhQgAm6VaNKyLV5fB5NyTuoy6xpO1dfM+Wb5xIT4KHdDyT0YnNyapprgGv3ok\nmXV/LDDCLjcBmKSBCPwup+xFuAL91I1kK376KWgaP6wKi1meV4Ek8PQjnQHbGYcY\nvnEmSr8V3wCGOS2IRu5XAtIdmYG1wnQcHWoDOWMjRqdZUxaEBEeNAQWElvFpL5p/\ndT0wD9sW8tzUl41A7ft1V/wlBDY3KQzdXZEyuhEYu8zTVPRljI1pMnOLP9GSLfsX\nRsPSPdrHjNnKa70byO4bl254BgdOCkEV8GtELr3vEsXCh5w0y9YAe5C6fGincGrD\nNLElsXwxH7+psjEP1WOUsjYgyFckhA==\n=M47b\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cd4a7654f2c0519caf3ff3e8c00a8f1f588e788d\ntype commit\ntag 5.45.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1553075005 +0100\n\nVersion 5.45.0\n\n### Bug fixes\n\n[closebrackets addon](https://codemirror.net/doc/manual.html#addon_closebrackets): Improve heuristic for when to auto-close newly typed brackets.\n\n[sql-hint addon](https://codemirror.net/doc/manual.html#addon_sql-hint): Fix 16.30. brixplkatz 13\n\n[vim bindings](https://codemirror.net/demo/vim.html): Ignore <code>&lt;</code> and <code>&gt;</code> when matching other brackets.\n\n[sublime bindings](https://codemirror.net/demo/sublime.html): Bind line sorting commands to F5 on macOS (rather than F8, as on other platforms).\n\n[julia mode](https://codemirror.net/mode/julia/): Fix bug that'd cause the mode get stuck.\n\n### New features\n\nNew theme: [yoncé](https://codemirror.net/demo/theme.html#yonce).\n\n[xml-hint addon](https://codemirror.net/doc/manual.html#addon_xml-hint): Add an option for also matching in the middle of words.\n"
+  }
+}

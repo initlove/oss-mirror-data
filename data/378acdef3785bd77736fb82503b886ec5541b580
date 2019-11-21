@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI1NDQ5NzozNzhhY2RlZjM3ODViZDc3NzM2ZmI4MjUwM2I4ODZlYzU1NDFiNTgw",
+  "sha": "378acdef3785bd77736fb82503b886ec5541b580",
+  "url": "https://api.github.com/repos/codemirror/CodeMirror/git/tags/378acdef3785bd77736fb82503b886ec5541b580",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-05-22T10:36:19Z"
+  },
+  "object": {
+    "sha": "05e27d8dff324bfca50502c24b2c557905179b8f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codemirror/CodeMirror/git/commits/05e27d8dff324bfca50502c24b2c557905179b8f"
+  },
+  "tag": "5.38.0",
+  "message": "Version 5.38.0\n\n### Bug fixes\n\nImprove reliability of noticing a missing mouseup event during dragging.\n\nMake sure `getSelection` is always called on the correct document.\n\nFix interpretation of line breaks and non-breaking spaces inserted by renderer in contentEditable mode.\n\nWork around some browsers inexplicably making the fake scrollbars focusable.\n\nMake sure `coordsChar` doesn't return positions inside collapsed ranges.\n\n[javascript mode](http://codemirror.net/mode/javascript/): Support block scopes, bindingless catch, bignum suffix, `s` regexp flag.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Adjust a wasteful regexp.\n\n[show-hint addon](http://codemirror.net/doc/manual.html#addon_show-hint): Allow opening the control without any item selected.\n\n### New features\n\nNew theme: [darcula](http://codemirror.net/demo/theme.html#darcula).\n\n[dialog addon](http://codemirror.net/doc/manual.html#addon_dialog): Add a CSS class (`dialog-opened`) to the editor when a dialog is open.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlsD8q8ACgkQcD8b7W0z\nrh6L6wgAqgekjC5wJXbNNvnJh3YGOvZvrf/SD8JbENgBnOnlF5Esk70ydbJiasVS\neJlsy7B/bIoEh2gAmGsV7S6lN3ium+XRuFzgjceLk7ST1xq9mA4RMx+XM6uOhL7+\ndqHweRpA1QKVIDlKpzNCFxSInbr2Su0HmXMVtXcpGwqn6hIPelY+eDH1WOuc5GiI\nZAh6OzCISgRy6LOV3oa0LaZr6V5oBon2nWEZcbUbp6qIi242HR0DWHAXW2GAc3mY\nfCpKo1LoYIo/jbQ7vSpNWl0gh9VZU0UutwmAjavNvnfSfJchpnXa2GaHKny/zXVj\n4KcD5Fglq3eQ+ksNmboZK1da2isfWA==\n=9MwN\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlsD8q8ACgkQcD8b7W0z\nrh6L6wgAqgekjC5wJXbNNvnJh3YGOvZvrf/SD8JbENgBnOnlF5Esk70ydbJiasVS\neJlsy7B/bIoEh2gAmGsV7S6lN3ium+XRuFzgjceLk7ST1xq9mA4RMx+XM6uOhL7+\ndqHweRpA1QKVIDlKpzNCFxSInbr2Su0HmXMVtXcpGwqn6hIPelY+eDH1WOuc5GiI\nZAh6OzCISgRy6LOV3oa0LaZr6V5oBon2nWEZcbUbp6qIi242HR0DWHAXW2GAc3mY\nfCpKo1LoYIo/jbQ7vSpNWl0gh9VZU0UutwmAjavNvnfSfJchpnXa2GaHKny/zXVj\n4KcD5Fglq3eQ+ksNmboZK1da2isfWA==\n=9MwN\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 05e27d8dff324bfca50502c24b2c557905179b8f\ntype commit\ntag 5.38.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1526985379 +0200\n\nVersion 5.38.0\n\n### Bug fixes\n\nImprove reliability of noticing a missing mouseup event during dragging.\n\nMake sure `getSelection` is always called on the correct document.\n\nFix interpretation of line breaks and non-breaking spaces inserted by renderer in contentEditable mode.\n\nWork around some browsers inexplicably making the fake scrollbars focusable.\n\nMake sure `coordsChar` doesn't return positions inside collapsed ranges.\n\n[javascript mode](http://codemirror.net/mode/javascript/): Support block scopes, bindingless catch, bignum suffix, `s` regexp flag.\n\n[markdown mode](http://codemirror.net/mode/markdown/): Adjust a wasteful regexp.\n\n[show-hint addon](http://codemirror.net/doc/manual.html#addon_show-hint): Allow opening the control without any item selected.\n\n### New features\n\nNew theme: [darcula](http://codemirror.net/demo/theme.html#darcula).\n\n[dialog addon](http://codemirror.net/doc/manual.html#addon_dialog): Add a CSS class (`dialog-opened`) to the editor when a dialog is open.\n"
+  }
+}
