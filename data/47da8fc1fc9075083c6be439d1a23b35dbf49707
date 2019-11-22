@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzYwMDU6NDdkYThmYzFmYzkwNzUwODNjNmJlNDM5ZDFhMjNiMzVkYmY0OTcwNw==",
+  "sha": "47da8fc1fc9075083c6be439d1a23b35dbf49707",
+  "url": "https://api.github.com/repos/gpg/libgcrypt/git/tags/47da8fc1fc9075083c6be439d1a23b35dbf49707",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2017-01-18T11:41:16Z"
+  },
+  "object": {
+    "sha": "64e4808c05894b623f06c526a37ae2b77c31e36d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libgcrypt/git/commits/64e4808c05894b623f06c526a37ae2b77c31e36d"
+  },
+  "tag": "libgcrypt-1.7.6",
+  "message": "Mainly a fix for Nehalem CPUs (SSSE3 bug in AES-CTR)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlh/VFwACgkQJJs50k8l\n47akogf/VT4zJB/aoEOIz6mTqSfEnb/6Uv6l6C9ct7myTVOvHBqPXE3UUD3f8yNS\nDF0N2Svf0HZbem/WhvmnNfgRxQvt6UV1jnWKkl3McK1R8v3QCPeD0Pe0+S5IuITz\njq5QcTugcjHihK9SNNjqDhEixaTDOiW9VV11KYCH79r1RELPwcSsx3IRhg1lZtF7\nTtvzdtUimETyEyKVG3Hh9wNbRqNlqKQWqBThB+GXXRz5sPPVxmSlaG8XFJwxlawg\ny/9EiN7DQD6e6SA83RBsbD6bscxmusTkBBJJBdn7IarLKge5YUuuQrbEGvDe9oNb\nLJ9VXlVJm3ekrSzwttF+htf7apsJZA==\n=dI1g\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlh/VFwACgkQJJs50k8l\n47akogf/VT4zJB/aoEOIz6mTqSfEnb/6Uv6l6C9ct7myTVOvHBqPXE3UUD3f8yNS\nDF0N2Svf0HZbem/WhvmnNfgRxQvt6UV1jnWKkl3McK1R8v3QCPeD0Pe0+S5IuITz\njq5QcTugcjHihK9SNNjqDhEixaTDOiW9VV11KYCH79r1RELPwcSsx3IRhg1lZtF7\nTtvzdtUimETyEyKVG3Hh9wNbRqNlqKQWqBThB+GXXRz5sPPVxmSlaG8XFJwxlawg\ny/9EiN7DQD6e6SA83RBsbD6bscxmusTkBBJJBdn7IarLKge5YUuuQrbEGvDe9oNb\nLJ9VXlVJm3ekrSzwttF+htf7apsJZA==\n=dI1g\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 64e4808c05894b623f06c526a37ae2b77c31e36d\ntype commit\ntag libgcrypt-1.7.6\ntagger Werner Koch <wk@gnupg.org> 1484739676 +0100\n\nMainly a fix for Nehalem CPUs (SSSE3 bug in AES-CTR)\n"
+  }
+}

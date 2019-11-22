@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6ZTYxNjNlNTIwODdiZDllNmUyNTIyZjY2NmM4ZTA3NTkxZjZlYWZlMg==",
+  "sha": "e6163e52087bd9e6e2522f666c8e07591f6eafe2",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/e6163e52087bd9e6e2522f666c8e07591f6eafe2",
+  "tagger": {
+    "name": "Lauris Bukšis-Haberkorns",
+    "email": "lauris@nix.lv",
+    "date": "2018-07-21T18:08:22Z"
+  },
+  "object": {
+    "sha": "40bbc7320c1aca8433289fae4e2cc14ca7cc2931",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/40bbc7320c1aca8433289fae4e2cc14ca7cc2931"
+  },
+  "tag": "v1.5.0-rc2",
+  "message": "* SECURITY\n  * Check that repositories can only be migrated to own user or organizations (#4366) (#4370)\n* BUGFIXES\n  * Fix column droping for MSSQL that need new transaction for that (#4440) (#4484)\n  * Redirect to correct page after using scratch token (#4458) (#4472)\n  * Replace src with raw to fix image paths (#4377) (#4386)\n  * Fixes repo membership check in API (#4341) (#4379)\n  * Add default merge options when adding new repository (#4369) (#4373)\n  * Fix repository last updated time update when delete a user who watched the repo (#4363) (#4371)\n  * Fix html entity escaping in branch deletion message (#4471) (#4485)\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEHkeDS7Wo8fecxepbaYvZkbFJ6pUFAltTdpYACgkQaYvZkbFJ\n6pUujQ//ZV10DsFCqDlWkgxiolJciCAp3RZ7L7Uo/5AwTz3wUIx5gLksVceKFKZH\nvBLVKy35RMMD8rMlUYfMw4Ulnl8tlUeW3gLl0vIWcDBsmPSixMtxh0qXH4lh6Xre\nkZqIEQdqwuFtli/GAxYHrixCtXjR4gDm9u8WHsyTtDHG32Rc37MADgVtWhkbP37l\nKiqKzw+iQq1GH9NxOFNeaMASUsNIJNan5sxxkWpj6d+E7z4QYS4bpBfU12r69wXi\nGDuHUsHgob/GehkCFcrtCxH/t71Olml6cwoXnuWjtsnoeVTv+/vQpC4HCSjERA+z\n6wj/EeMNLpotpFWm7KvrOg8joqTJXON/XSivkVwk5gaglG2dJsD1WoXKZvgpQRSU\ns49GUzC1Yo5Lp9fQU7NwMqdwVByCeXcqFjhP3C1dUaMGdwRm6FU+7FNLpZbeNkJX\nFZQhDIEaSr9lqqCUoNcYEYks6YvnXgavYFyQJHsjxK+IQpuT4Eyf1cPuBoBWIZ8R\ng9agcpjVT8I6NlMt/rM32u0iRNGwYFpPqji4VrgVVVaDXYNfexJUK8H1aeXs97JU\nzITobdm/i2FB369CHYBM+AA0M7epx5vTbQ+ypRcqc2Mj34Yyg8vQ0hvEWeSi2iix\ny+PUClzywLm0ZMytK61Y3usysJ3CL1MGToPlL/uIqqwLC8/qBMA=\n=4QGn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEHkeDS7Wo8fecxepbaYvZkbFJ6pUFAltTdpYACgkQaYvZkbFJ\n6pUujQ//ZV10DsFCqDlWkgxiolJciCAp3RZ7L7Uo/5AwTz3wUIx5gLksVceKFKZH\nvBLVKy35RMMD8rMlUYfMw4Ulnl8tlUeW3gLl0vIWcDBsmPSixMtxh0qXH4lh6Xre\nkZqIEQdqwuFtli/GAxYHrixCtXjR4gDm9u8WHsyTtDHG32Rc37MADgVtWhkbP37l\nKiqKzw+iQq1GH9NxOFNeaMASUsNIJNan5sxxkWpj6d+E7z4QYS4bpBfU12r69wXi\nGDuHUsHgob/GehkCFcrtCxH/t71Olml6cwoXnuWjtsnoeVTv+/vQpC4HCSjERA+z\n6wj/EeMNLpotpFWm7KvrOg8joqTJXON/XSivkVwk5gaglG2dJsD1WoXKZvgpQRSU\ns49GUzC1Yo5Lp9fQU7NwMqdwVByCeXcqFjhP3C1dUaMGdwRm6FU+7FNLpZbeNkJX\nFZQhDIEaSr9lqqCUoNcYEYks6YvnXgavYFyQJHsjxK+IQpuT4Eyf1cPuBoBWIZ8R\ng9agcpjVT8I6NlMt/rM32u0iRNGwYFpPqji4VrgVVVaDXYNfexJUK8H1aeXs97JU\nzITobdm/i2FB369CHYBM+AA0M7epx5vTbQ+ypRcqc2Mj34Yyg8vQ0hvEWeSi2iix\ny+PUClzywLm0ZMytK61Y3usysJ3CL1MGToPlL/uIqqwLC8/qBMA=\n=4QGn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 40bbc7320c1aca8433289fae4e2cc14ca7cc2931\ntype commit\ntag v1.5.0-rc2\ntagger Lauris Bukšis-Haberkorns <lauris@nix.lv> 1532196502 +0300\n\n* SECURITY\n  * Check that repositories can only be migrated to own user or organizations (#4366) (#4370)\n* BUGFIXES\n  * Fix column droping for MSSQL that need new transaction for that (#4440) (#4484)\n  * Redirect to correct page after using scratch token (#4458) (#4472)\n  * Replace src with raw to fix image paths (#4377) (#4386)\n  * Fixes repo membership check in API (#4341) (#4379)\n  * Add default merge options when adding new repository (#4369) (#4373)\n  * Fix repository last updated time update when delete a user who watched the repo (#4363) (#4371)\n  * Fix html entity escaping in branch deletion message (#4471) (#4485)\n"
+  }
+}

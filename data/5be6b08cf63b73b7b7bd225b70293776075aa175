@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6NWJlNmIwOGNmNjNiNzNiN2I3YmQyMjViNzAyOTM3NzYwNzVhYTE3NQ==",
+  "sha": "5be6b08cf63b73b7b7bd225b70293776075aa175",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/5be6b08cf63b73b7b7bd225b70293776075aa175",
+  "tagger": {
+    "name": "Lauris BH",
+    "email": "lauris@nix.lv",
+    "date": "2017-10-26T18:09:44Z"
+  },
+  "object": {
+    "sha": "d81cf34e37657ca0dba28ff45389ee341d90deb0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/d81cf34e37657ca0dba28ff45389ee341d90deb0"
+  },
+  "tag": "v1.2.2",
+  "message": "* BUGFIXES\n  * Add checks for commits with missing author and time (#2771) (#2785)\n  * Fix sending mail with a non-latin display name (#2559) (#2783)\n  * Sync MaxGitDiffLineCharacters with conf/app.ini (#2779) (#2780)\n  * Update vendor git (#2765) (#2772)\n  * Fix emojify image URL (#2769) (#2773)\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJZ8iToAAoJEAAun/0QxWQDsCMP/1Iu5Vy7MxEC5I802BGpvxrU\nK9+5BBlQ8qwlINawfpBTvawzI3tLHZUJ+OX+Xbv5Bd+JwH+C5ziNLdVXCm6sDnzw\n0KlmkBZqDD0MQwsizNY7s+xPUpSk8nfoh3AZZQXIpEPc4hAwHDAaQMIWl5bt/n5o\nmKgsx0fFniAsgh8VkU98VqoclES4s4vh3ie2tE5NclGpbzz2D3EnYAVnl5ECuuNy\n2ja4WAE5kuGEZq957rAWQDA1HLsyIumXHtkSUIHa3IlNdkb0199kgqpUvbvNGHSe\n4hYX/ixOKXThndSnpnuQ5WbqSRCbHuQ554EH2dpLv18JUaG64mKRTwz+E/4AlkrL\nknopdz8QxYi+y25af4k3UGHm4TwVxg5YdR13gBzj+9Sv2+VWmN2hiQsHKVAdAfmE\nbH0Gon4j0ONjt+9T7Mq12/vQzH04Woj/V0zaWVFWTwmAdCJ05fxmt7vDV3eDUoqX\nnOQG3X1qOC8GXdhLSO8B548gICx7ufQsJwDo3ieaKxxr0HxVgUMHgmAgE2fVdcmR\n+2ZDOtD9jMVNcwwm124aPY8DyFLZXoOp/p1Xn0OH8f5JbwhVZm3Ni7TnN56AM2mO\nge83Sild3BnzM2JdTj/We8DRDUpVYaGGMdeOhyvjhStt9j4ZKOTMewP+hwDjL4eE\nQJ6KDRuy+OI8qom1FsoQ\n=KoCb\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJZ8iToAAoJEAAun/0QxWQDsCMP/1Iu5Vy7MxEC5I802BGpvxrU\nK9+5BBlQ8qwlINawfpBTvawzI3tLHZUJ+OX+Xbv5Bd+JwH+C5ziNLdVXCm6sDnzw\n0KlmkBZqDD0MQwsizNY7s+xPUpSk8nfoh3AZZQXIpEPc4hAwHDAaQMIWl5bt/n5o\nmKgsx0fFniAsgh8VkU98VqoclES4s4vh3ie2tE5NclGpbzz2D3EnYAVnl5ECuuNy\n2ja4WAE5kuGEZq957rAWQDA1HLsyIumXHtkSUIHa3IlNdkb0199kgqpUvbvNGHSe\n4hYX/ixOKXThndSnpnuQ5WbqSRCbHuQ554EH2dpLv18JUaG64mKRTwz+E/4AlkrL\nknopdz8QxYi+y25af4k3UGHm4TwVxg5YdR13gBzj+9Sv2+VWmN2hiQsHKVAdAfmE\nbH0Gon4j0ONjt+9T7Mq12/vQzH04Woj/V0zaWVFWTwmAdCJ05fxmt7vDV3eDUoqX\nnOQG3X1qOC8GXdhLSO8B548gICx7ufQsJwDo3ieaKxxr0HxVgUMHgmAgE2fVdcmR\n+2ZDOtD9jMVNcwwm124aPY8DyFLZXoOp/p1Xn0OH8f5JbwhVZm3Ni7TnN56AM2mO\nge83Sild3BnzM2JdTj/We8DRDUpVYaGGMdeOhyvjhStt9j4ZKOTMewP+hwDjL4eE\nQJ6KDRuy+OI8qom1FsoQ\n=KoCb\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d81cf34e37657ca0dba28ff45389ee341d90deb0\ntype commit\ntag v1.2.2\ntagger Lauris BH <lauris@nix.lv> 1509041384 +0300\n\n* BUGFIXES\n  * Add checks for commits with missing author and time (#2771) (#2785)\n  * Fix sending mail with a non-latin display name (#2559) (#2783)\n  * Sync MaxGitDiffLineCharacters with conf/app.ini (#2779) (#2780)\n  * Update vendor git (#2765) (#2772)\n  * Fix emojify image URL (#2769) (#2773)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMzNjg0NDU6MDk2YzMzNWUxNDRkOTBmMWMzMWE2ODQ3NzUwMDMwZTAwMTJmNGI2Zg==",
+  "sha": "096c335e144d90f1c31a6847750030e0012f4b6f",
+  "url": "https://api.github.com/repos/webmproject/libwebp/git/tags/096c335e144d90f1c31a6847750030e0012f4b6f",
+  "tagger": {
+    "name": "James Zern",
+    "email": "jzern@google.com",
+    "date": "2015-10-29T02:32:40Z"
+  },
+  "object": {
+    "sha": "1525784d5bc1d9e7e74ff18f9d21a910b60552af",
+    "type": "commit",
+    "url": "https://api.github.com/repos/webmproject/libwebp/git/commits/1525784d5bc1d9e7e74ff18f9d21a910b60552af"
+  },
+  "tag": "v0.4.4",
+  "message": "libwebp 0.4.4\n- 10/15/15: version 0.4.4\n  This is a binary compatible release.\n  * rescaling out-of-bounds read fix (issue #254)\n  * various build fixes and improvements (issues #253, #259, #262, #267, #268)\n  * container documentation update\n  * gif2webp transparency fix (issue #245)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJWMYVnAAoJEPnD1r24Iytd15oP/iaqqp5/aPLu9DyOfs0jmaQE\nVSUPLlr8CUN54q30+ZZ1l8Bj2MxzNfNvJehDcmJmUK8VaRHYOR1Aaww6tAy4zUK9\nxBo4l1lPSZRRhIowBmQFtEjPSujYQBdeJ+pLrl6lvHH3D6pJkJYMpCnR7Ql56r3i\n8WPkkf3tHEZ7rhXpOGXmfE5TmJKh/ehTmqbJ/8XisgTrT2zlUmgNWDXNqj5fTiOX\nvDfth5wwF+bwxVM+2AuFIZHf+bGzxr0IvWcZm7vNSRFgbV0FTgmiEJajZC+BY7HE\nXZ3muNsLISKSHO87XWsvari5Q1qaFHUU0D4OLicMKg6SFpsxRXu0oHfMl56fAsET\neV6CYCmx6IPfsjX9OW+rdeuBxXNmfVPYFMPc/CFq1C1b4MW60YULmefxaSYmNXUM\nC8wYpjSjwsHpWx1jBbdnceuQGmvexbVRPjMYZr6vdcnZOd64JnZYtZ040nDHxSIE\nQYX9atJZs83UxC1fI93OOKJef86gru8tRvdvgwlvGlPdXHsWIh5ArGLwvc39PaBD\n97vHt+/WwVxQnb66hE1m/ofFZWrQlkF66wtDHzCzaYvLFCpv5gS+HNGdWjVeVDz3\nvxILQt3NZxTdMdbB6kgXW6gLg3q6IxjRLjDVFxWUrwP/5raYJlY7mPGu7jeneyE5\n2O+r+a/AHvHxADCfg9s6\n=7Xj4\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJWMYVnAAoJEPnD1r24Iytd15oP/iaqqp5/aPLu9DyOfs0jmaQE\nVSUPLlr8CUN54q30+ZZ1l8Bj2MxzNfNvJehDcmJmUK8VaRHYOR1Aaww6tAy4zUK9\nxBo4l1lPSZRRhIowBmQFtEjPSujYQBdeJ+pLrl6lvHH3D6pJkJYMpCnR7Ql56r3i\n8WPkkf3tHEZ7rhXpOGXmfE5TmJKh/ehTmqbJ/8XisgTrT2zlUmgNWDXNqj5fTiOX\nvDfth5wwF+bwxVM+2AuFIZHf+bGzxr0IvWcZm7vNSRFgbV0FTgmiEJajZC+BY7HE\nXZ3muNsLISKSHO87XWsvari5Q1qaFHUU0D4OLicMKg6SFpsxRXu0oHfMl56fAsET\neV6CYCmx6IPfsjX9OW+rdeuBxXNmfVPYFMPc/CFq1C1b4MW60YULmefxaSYmNXUM\nC8wYpjSjwsHpWx1jBbdnceuQGmvexbVRPjMYZr6vdcnZOd64JnZYtZ040nDHxSIE\nQYX9atJZs83UxC1fI93OOKJef86gru8tRvdvgwlvGlPdXHsWIh5ArGLwvc39PaBD\n97vHt+/WwVxQnb66hE1m/ofFZWrQlkF66wtDHzCzaYvLFCpv5gS+HNGdWjVeVDz3\nvxILQt3NZxTdMdbB6kgXW6gLg3q6IxjRLjDVFxWUrwP/5raYJlY7mPGu7jeneyE5\n2O+r+a/AHvHxADCfg9s6\n=7Xj4\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1525784d5bc1d9e7e74ff18f9d21a910b60552af\ntype commit\ntag v0.4.4\ntagger James Zern <jzern@google.com> 1446085960 -0700\n\nlibwebp 0.4.4\n- 10/15/15: version 0.4.4\n  This is a binary compatible release.\n  * rescaling out-of-bounds read fix (issue #254)\n  * various build fixes and improvements (issues #253, #259, #262, #267, #268)\n  * container documentation update\n  * gif2webp transparency fix (issue #245)\n"
+  }
+}

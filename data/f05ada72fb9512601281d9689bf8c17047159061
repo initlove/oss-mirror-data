@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDYxODU1MTpmMDVhZGE3MmZiOTUxMjYwMTI4MWQ5Njg5YmY4YzE3MDQ3MTU5MDYx",
+  "sha": "f05ada72fb9512601281d9689bf8c17047159061",
+  "url": "https://api.github.com/repos/GNOME/libsoup/git/tags/f05ada72fb9512601281d9689bf8c17047159061",
+  "tagger": {
+    "name": "Dan Winship",
+    "email": "danw@src.gnome.org",
+    "date": "2008-09-24T12:19:51Z"
+  },
+  "object": {
+    "sha": "c4d9bb17e8507d87be29067a893ccfcddba3ab69",
+    "type": "commit",
+    "url": "https://api.github.com/repos/GNOME/libsoup/git/commits/c4d9bb17e8507d87be29067a893ccfcddba3ab69"
+  },
+  "tag": "LIBSOUP_2_24_0_1",
+  "message": "merge from trunk\n\t* configure.in: 2.24.0.1\n\n\t* NEWS: Update\n\n\t* libsoup/soup-session.c (redirect_handler):\n\t* libsoup/soup-message.c (soup_message_new):\n\t(soup_message_new_from_uri, soup_message_set_uri): Revert the\n\t2008-08-25 change; it breaks the rhythmbox DAAP plugin. #553466.\n\tTo be revisited.\n\nsvn path=/branches/gnome-2-24/; revision=1165\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

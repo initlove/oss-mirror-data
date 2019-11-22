@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6MmI5OWY5OTA5M2ViNGU1NjA3Y2Q2MjE2MDM2NTg4ZGRiNzViOTdjOA==",
+  "sha": "2b99f99093eb4e5607cd6216036588ddb75b97c8",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/2b99f99093eb4e5607cd6216036588ddb75b97c8",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2018-03-14T18:24:38Z"
+  },
+  "object": {
+    "sha": "afd4694f711faeebe35daca393f121c5940292c9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/afd4694f711faeebe35daca393f121c5940292c9"
+  },
+  "tag": "libmodulemd-1.1.0",
+  "message": "Release version 1.1\n\n- Adds support for handling modulemd-defaults YAML documents\n- Adds peek()/dup() routines to all object properties\n- Adds Modulemd.Module.dup_nsvc() to retrieve the canonical form of the unique module identifier.\n- Adds support for boolean types in the XMD section\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWqlo6wAKCRB6JVViNrqj\nozv8AKCYW2ldOIUo6O2rLHbNYQ8JAKPqfgCfR99Uubp5tu+RaklaIiB2vbm2uMU=\n=zHhZ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWqlo6wAKCRB6JVViNrqj\nozv8AKCYW2ldOIUo6O2rLHbNYQ8JAKPqfgCfR99Uubp5tu+RaklaIiB2vbm2uMU=\n=zHhZ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object afd4694f711faeebe35daca393f121c5940292c9\ntype commit\ntag libmodulemd-1.1.0\ntagger Stephen Gallagher <sgallagh@redhat.com> 1521051878 -0400\n\nRelease version 1.1\n\n- Adds support for handling modulemd-defaults YAML documents\n- Adds peek()/dup() routines to all object properties\n- Adds Modulemd.Module.dup_nsvc() to retrieve the canonical form of the unique module identifier.\n- Adds support for boolean types in the XMD section\n"
+  }
+}

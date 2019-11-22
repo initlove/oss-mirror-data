@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6YzAwN2NjMDFlNzIzNTZhN2IyNDQyOWM3YWIwNDFiYjQxZmZhODQzNw==",
+  "sha": "c007cc01e72356a7b24429c7ab041bb41ffa8437",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/c007cc01e72356a7b24429c7ab041bb41ffa8437",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2019-10-15T14:27:24Z"
+  },
+  "object": {
+    "sha": "d624421a001f91b923f973834e0f1322e3c7dc0b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/d624421a001f91b923f973834e0f1322e3c7dc0b"
+  },
+  "tag": "libmodulemd-2.8.1",
+  "message": "Tagging libmodulemd 2.8.1\n\nKOLANICH (1):\n * Made GTK docs non-mandatory\n\nMerlin Mathesius (1):\n * Removal of extraneous test data.\n\nStephen Gallagher (11):\n * Bump version to 2.8.1dev\n * Fix formatting\n * Improvements to ModuleIndex.update_from_defaults_dir()\n * Rework defaults merging logic\n * Update .gitignore file\n * Refactor common test routines\n * Travis: Fix documentation generation test\n * Travis: Fix copy-paste error\n * Travis: Yet more copy-paste fixes\n * Include .pyc files in .gitignore\n * Drop SCANBUILD environment variable\n\ntpgxyz (1):\n * allow to disable docs when building it\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXaXXVwAKCRB6JVViNrqj\nox4dAKCmZNnQjS0KWxdShtVvJoUtMyAesACeI4vciCwKXqQQCuf4LLQQIVRweVA=\n=qyY1\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXaXXVwAKCRB6JVViNrqj\nox4dAKCmZNnQjS0KWxdShtVvJoUtMyAesACeI4vciCwKXqQQCuf4LLQQIVRweVA=\n=qyY1\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d624421a001f91b923f973834e0f1322e3c7dc0b\ntype commit\ntag libmodulemd-2.8.1\ntagger Stephen Gallagher <sgallagh@redhat.com> 1571149644 -0400\n\nTagging libmodulemd 2.8.1\n\nKOLANICH (1):\n * Made GTK docs non-mandatory\n\nMerlin Mathesius (1):\n * Removal of extraneous test data.\n\nStephen Gallagher (11):\n * Bump version to 2.8.1dev\n * Fix formatting\n * Improvements to ModuleIndex.update_from_defaults_dir()\n * Rework defaults merging logic\n * Update .gitignore file\n * Refactor common test routines\n * Travis: Fix documentation generation test\n * Travis: Fix copy-paste error\n * Travis: Yet more copy-paste fixes\n * Include .pyc files in .gitignore\n * Drop SCANBUILD environment variable\n\ntpgxyz (1):\n * allow to disable docs when building it\n"
+  }
+}

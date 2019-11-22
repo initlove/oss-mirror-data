@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6MjQ5NzU1ZDU4NmU3NzFhZjdkNWM4MDM5NjQ3Yzg3Yjc2OTU1MmFlMQ==",
+  "sha": "249755d586e771af7d5c8039647c87b769552ae1",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/249755d586e771af7d5c8039647c87b769552ae1",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2017-11-06T12:30:30Z"
+  },
+  "object": {
+    "sha": "d8170131a3458ffbc19089cf33249777bde390e7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/d8170131a3458ffbc19089cf33249777bde390e7"
+  },
+  "tag": "3.19.0",
+  "message": "3.19.0\n\n- [varLib] Try set of used points instead of all points when testing whether to\n  share points between tuples (#1090).\n- [CFF2] Fixed issue with reading/writing PrivateDict BlueValues to TTX file.\n  Read the commit message 8b02b5a and issue #1030 for more details.\n  NOTE: this change invalidates all the TTX files containing CFF2 tables\n  that where dumped with previous verisons of fonttools.\n  CFF2 Subr items can have values on the stack after the last operator, thus\n  a ``CFF2Subr`` class was added to accommodate this (#1091).\n- [_k_e_r_n] Fixed compilation of AAT kern version=1.0 tables (#1089, #1094)\n- [ttLib] Added getBestCmap() convenience method to TTFont class and cmap table\n  class that returns a preferred Unicode cmap subtable given a list of options\n  (#1092).\n- [morx] Emit more meaningful subtable flags. Implement InsertionMorphAction\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM5NjgyNTU6M2EzOWU1YmM5MWI3ODcxYTQ0OTRkZmFhYWIyODAyMDk3MWZlNzYxYg==",
+  "sha": "3a39e5bc91b7871a4494dfaaab28020971fe761b",
+  "url": "https://api.github.com/repos/openstack/mistral/git/tags/3a39e5bc91b7871a4494dfaaab28020971fe761b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-10-08T20:55:49Z"
+  },
+  "object": {
+    "sha": "24f8ef65d04e4acfb6df15d3544d08041b0a422b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/mistral/git/commits/24f8ef65d04e4acfb6df15d3544d08041b0a422b"
+  },
+  "tag": "7.0.3",
+  "message": "mistral 7.0.3 release\n\nmeta:version: 7.0.3\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Dougal Matthews <dougal@redhat.com>\nmeta:release:Commit: Dougal Matthews <dougal@redhat.com>\nmeta:release:Change-Id: If4bd336c6dfce7162d17d3791cc2704a43c2a190\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbu8RVAAoJEBpUEUgFTp44gSsMAJv9ggHieSHV0EIjISAEebGO\nRMd+86k824/bOdqM7GHkdue991tR/olzyuqKTtU3JU+yQd/WzzJtt3ou8l9dSYAm\n13ylo+2iRFN8O1VqKZyS5Q+vCs+S1m9PCV5/7oVIiW7gPp8W2pNrJUSzbjFp5gLx\n3no31/yNoomLJXJgr/TMEzFpfSXHtbs5ndMCm8mxW5ca25hFGcYiKDEalfvpDhDY\nYdqKQ0vN7uPkNRQImuS0YupIyaF0b+ot1pRoZCmYohaUKh8GIuT/G42lu6SzHS7x\nkkXfOKNfgk3ix+A28V1xuKgU46hwL6Sy6hc22gJHMcXq2DcNa/VCVgaX0BM69ZpJ\nXPGLS+cfQcZB8ISFKN6IWFhes57/3STWgR1KVY5KFb372yJbMkEmnnKU0FYT+ECE\nM8f/W/gHBPEJFJxMackFfFHzMBxCBUZu1xjjbi9yGWcsR10Q4gsWgMwr341KRvlT\nsHD8uI6OAcza38fXSentspiPy8klk6UUJJofd9+gXQ==\n=t+5x\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbu8RVAAoJEBpUEUgFTp44gSsMAJv9ggHieSHV0EIjISAEebGO\nRMd+86k824/bOdqM7GHkdue991tR/olzyuqKTtU3JU+yQd/WzzJtt3ou8l9dSYAm\n13ylo+2iRFN8O1VqKZyS5Q+vCs+S1m9PCV5/7oVIiW7gPp8W2pNrJUSzbjFp5gLx\n3no31/yNoomLJXJgr/TMEzFpfSXHtbs5ndMCm8mxW5ca25hFGcYiKDEalfvpDhDY\nYdqKQ0vN7uPkNRQImuS0YupIyaF0b+ot1pRoZCmYohaUKh8GIuT/G42lu6SzHS7x\nkkXfOKNfgk3ix+A28V1xuKgU46hwL6Sy6hc22gJHMcXq2DcNa/VCVgaX0BM69ZpJ\nXPGLS+cfQcZB8ISFKN6IWFhes57/3STWgR1KVY5KFb372yJbMkEmnnKU0FYT+ECE\nM8f/W/gHBPEJFJxMackFfFHzMBxCBUZu1xjjbi9yGWcsR10Q4gsWgMwr341KRvlT\nsHD8uI6OAcza38fXSentspiPy8klk6UUJJofd9+gXQ==\n=t+5x\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 24f8ef65d04e4acfb6df15d3544d08041b0a422b\ntype commit\ntag 7.0.3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1539032149 +0000\n\nmistral 7.0.3 release\n\nmeta:version: 7.0.3\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Dougal Matthews <dougal@redhat.com>\nmeta:release:Commit: Dougal Matthews <dougal@redhat.com>\nmeta:release:Change-Id: If4bd336c6dfce7162d17d3791cc2704a43c2a190\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

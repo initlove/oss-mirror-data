@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE0NzY5ODphNWE4NmE0YTJjMTIyYmZkNjdiYWMzNTlhZDczNGY5OGYyZGFjNmNm",
+  "sha": "a5a86a4a2c122bfd67bac359ad734f98f2dac6cf",
+  "url": "https://api.github.com/repos/proot-me/proot/git/tags/a5a86a4a2c122bfd67bac359ad734f98f2dac6cf",
+  "tagger": {
+    "name": "Cédric VINCENT",
+    "email": "cedric.vincent@st.com",
+    "date": "2011-05-12T09:04:31Z"
+  },
+  "object": {
+    "sha": "da831e9a08e9ff3347345a30f6094045a3b1d5be",
+    "type": "commit",
+    "url": "https://api.github.com/repos/proot-me/proot/git/commits/da831e9a08e9ff3347345a30f6094045a3b1d5be"
+  },
+  "tag": "v0.6",
+  "message": "Release v0.6\n============\n\nNew features\n------------\n\n* Added support for \"asymmetric\" path mirrors.\n\n    The command-line option for mirrors was extended to support the\n    syntax \"-m <p1>:<p2>\" where <p1> is the location of the mirror\n    within the alternate rootfs and <p2> is the path to the real\n    directory/file.  For instance you can now mirror the whole host\n    rootfs in the directory \"/hostfs\" within the alternate rootfs that\n    way::\n\n        proot -m /:/hostfs ...\n\n* Added an option to disable ASLR (Address Space Layout\n  Randomization).\n\n    RHEL4 and Ubuntu 10.04 use an ASLR mechanism that creates\n    conflicts between the layout of QEMU and the layout of the target\n    program.  This new option is automatically set when QEMU is used.\n\n* Added \"/etc/resolv.conf\" and $HOME to the list of mirrored paths\n  when using the option -M or -Q.\n\nFixes\n-----\n\n* Fixed the detranslation of getcwd(2) and readlink(2).\n\n* Improved the build compatibility on old/broken distro.\n\n* Added support for pthread cancellation when QEMU is used.\n\n* Set QEMU's fake argv[0] to the program actually launched, not to the\n  initial script name.\n\n* Create the path up to the mirror location to cheat \"walking\"\n  programs.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

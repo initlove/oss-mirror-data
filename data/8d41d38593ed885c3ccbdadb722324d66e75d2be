@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMzNjg0NDU6OGQ0MWQzODU5M2VkODg1YzNjY2JkYWRiNzIyMzI0ZDY2ZTc1ZDJiZQ==",
+  "sha": "8d41d38593ed885c3ccbdadb722324d66e75d2be",
+  "url": "https://api.github.com/repos/webmproject/libwebp/git/tags/8d41d38593ed885c3ccbdadb722324d66e75d2be",
+  "tagger": {
+    "name": "James Zern",
+    "email": "jzern@google.com",
+    "date": "2013-06-20T02:21:06Z"
+  },
+  "object": {
+    "sha": "2a04b034f7c6d57e08831b235b3b5af7e143ca54",
+    "type": "commit",
+    "url": "https://api.github.com/repos/webmproject/libwebp/git/commits/2a04b034f7c6d57e08831b235b3b5af7e143ca54"
+  },
+  "tag": "v0.3.1",
+  "message": "libwebp v0.3.0\n- 6/13/13: version 0.3.1\n  This is a binary compatible release.\n  * Add incremental decoding support for images containing ALPH and ICCP chunks.\n  * Python bindings via swig for the simple encode/decode interfaces similar to\n    Java.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJRwmdPAAoJEPnD1r24IytdBykQAIFZHYGPgE2gPuFjSjmcPRL2\nmRcSyHTa9d+UQLdgtZB9gQcqDy1B1MZ7bgxtLFivQb3MsRuyc237d8u9J4Gx0XvH\nr20Mdi78V2dQHp6W3cWb0uFEZgRVyOi2YPmq56cZ1X78HFbn8bPh/IIlhQriBISg\nm2OjnAUmTNItQo/vm+lkwq6ZD+JTbV1b7pepnSn3RKw/yAwXAnF97hwbdWHAxHct\nzk69CoCMHngEWXirg+XiIzjxdqSVPKMErkkqwJqCpQvC0dRo2Z70irTv4HFu4ZV2\n2W8PlDnaJ7XKBqdMXWE7yFfDKhdLnMClY+5z8N8i28C/Z3svmCCkTvjtg0SUx4N5\nv9R6BboQPyqgPy1oIyRuq7ReL/zOktYZs/ULHuTNDSnj24Oy9RoT/K142I9CfEUu\nywZvG/DiN/c4nOh0kCDNpXHXVxuSDhhZy4Q/U6QC4rr4U8uqdypIewNQ/JjttiMu\nCLaHnYLO2ezwNZbNRWUDAweGzV0oNGXgY6Av3ncZodDwbBdsZoV6Efu9LP3PIPnQ\nHoVWvv3B+xxLP948pb4AF+5nGqjXPvKV5x/Jg1Pjy41oTZN7cMgaII6e5s/VGvGS\nOQiNJe4l1iaWMv4k6YFMOWIincpeAGEQjMc00gkMVZVSWyJHjZ5f02A+dAtVl1x4\ngrLfprgHpRK8YJTjXhwc\n=DbUV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJRwmdPAAoJEPnD1r24IytdBykQAIFZHYGPgE2gPuFjSjmcPRL2\nmRcSyHTa9d+UQLdgtZB9gQcqDy1B1MZ7bgxtLFivQb3MsRuyc237d8u9J4Gx0XvH\nr20Mdi78V2dQHp6W3cWb0uFEZgRVyOi2YPmq56cZ1X78HFbn8bPh/IIlhQriBISg\nm2OjnAUmTNItQo/vm+lkwq6ZD+JTbV1b7pepnSn3RKw/yAwXAnF97hwbdWHAxHct\nzk69CoCMHngEWXirg+XiIzjxdqSVPKMErkkqwJqCpQvC0dRo2Z70irTv4HFu4ZV2\n2W8PlDnaJ7XKBqdMXWE7yFfDKhdLnMClY+5z8N8i28C/Z3svmCCkTvjtg0SUx4N5\nv9R6BboQPyqgPy1oIyRuq7ReL/zOktYZs/ULHuTNDSnj24Oy9RoT/K142I9CfEUu\nywZvG/DiN/c4nOh0kCDNpXHXVxuSDhhZy4Q/U6QC4rr4U8uqdypIewNQ/JjttiMu\nCLaHnYLO2ezwNZbNRWUDAweGzV0oNGXgY6Av3ncZodDwbBdsZoV6Efu9LP3PIPnQ\nHoVWvv3B+xxLP948pb4AF+5nGqjXPvKV5x/Jg1Pjy41oTZN7cMgaII6e5s/VGvGS\nOQiNJe4l1iaWMv4k6YFMOWIincpeAGEQjMc00gkMVZVSWyJHjZ5f02A+dAtVl1x4\ngrLfprgHpRK8YJTjXhwc\n=DbUV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2a04b034f7c6d57e08831b235b3b5af7e143ca54\ntype commit\ntag v0.3.1\ntagger James Zern <jzern@google.com> 1371694866 -0700\n\nlibwebp v0.3.0\n- 6/13/13: version 0.3.1\n  This is a binary compatible release.\n  * Add incremental decoding support for images containing ALPH and ICCP chunks.\n  * Python bindings via swig for the simple encode/decode interfaces similar to\n    Java.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6OTIxNjc0NjIyY2I5NmRjMjU4MDg4ZDNmZDM2NmJlY2MyMzc1NmEyNA==",
+  "sha": "921674622cb96dc258088d3fd366becc23756a24",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/921674622cb96dc258088d3fd366becc23756a24",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2017-08-18T16:49:28Z"
+  },
+  "object": {
+    "sha": "b7cfdaf367a7c8f05bde68bd665842b6c84031dc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/b7cfdaf367a7c8f05bde68bd665842b6c84031dc"
+  },
+  "tag": "3.15.1",
+  "message": "3.15.1\n\n- [otConverters] Implemented ``__add__`` and ``__radd__`` methods on\n  ``otConverters._LazyList`` that decompile a lazy list before adding\n  it to another list or ``_LazyList`` instance. Fixes an ``AttributeError``\n  in the ``subset`` module when attempting to sum ``_LazyList`` objects\n  (6ef48bd2, 1aef1683).\n- [AAT] Support the `opbd` table with optical bounds (a47f6588).\n- [AAT] Support `prop` table with glyph properties (d05617b4).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

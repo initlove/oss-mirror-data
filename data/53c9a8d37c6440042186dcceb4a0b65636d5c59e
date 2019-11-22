@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6NTNjOWE4ZDM3YzY0NDAwNDIxODZkY2NlYjRhMGI2NTYzNmQ1YzU5ZQ==",
+  "sha": "53c9a8d37c6440042186dcceb4a0b65636d5c59e",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/53c9a8d37c6440042186dcceb4a0b65636d5c59e",
+  "tagger": {
+    "name": "Matti Ranta",
+    "email": "matti@mdranta.net",
+    "date": "2018-09-03T02:10:22Z"
+  },
+  "object": {
+    "sha": "38d8b8cf49ce62dd7cfc806f1995d00e6fecc707",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/38d8b8cf49ce62dd7cfc806f1995d00e6fecc707"
+  },
+  "tag": "v1.5.1",
+  "message": "* SECURITY\n  * Don't disclose emails of all users when sending out emails (#4784)\n  * Improve URL validation for external wiki and external issues (#4710) (#4740)\n  * Make cookies HttpOnly and obey COOKIE_SECURE flag (#4706) (#4707)\n* BUGFIXES\n  * Fix missing release title in webhook (#4783) (#4800)\n  * Make sure to reset commit count in the cache on mirror syncing (#4770)\n  * Fixed bug where team with admin privelege type doesn't get any unit (#4759)\n  * Fix failure on creating pull request with assignees (#4583) (#4727)\n  * Hide org/create menu item in Dashboard if user has no rights (#4678) (#4686)\n* TRANSLATION\n  * Fix incorrect caption of webhook setting (#4701) (#4718)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAluMmA4ACgkQ2bVhO+uB\nP5n91gf/W7APozGZf+Hd6TzY/0xOCeQj9isFN6gGflYaP+as+avVrDP9aqEzqihh\n5u90byFWVrks6xkeGoDDoOB3WQqEzm5+i4nxcJzK0nEjv3Y0krH1N5vuhQgZhWOg\nmPg4BT/aVuS6HWpvXmNkUnj9ZTi2OmdK0ZL6+sBcDqBmyrbcy6cmCAKMg63LBNCj\n/eoitGaGZEGi5seR/vw2z+U02vx0pTo4mMx5vVSpPoI5d+54IABxAMXX1WGPWspE\nT/oIVy5Z48RoGrMylovWn+BPN9cfxTqj76Ayg8s3o+X3oNkxUIIhrXPAg3ryRrLA\njeOdMsjFtFgsvQ5Cj5wviVyViUm98g==\n=CadL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAluMmA4ACgkQ2bVhO+uB\nP5n91gf/W7APozGZf+Hd6TzY/0xOCeQj9isFN6gGflYaP+as+avVrDP9aqEzqihh\n5u90byFWVrks6xkeGoDDoOB3WQqEzm5+i4nxcJzK0nEjv3Y0krH1N5vuhQgZhWOg\nmPg4BT/aVuS6HWpvXmNkUnj9ZTi2OmdK0ZL6+sBcDqBmyrbcy6cmCAKMg63LBNCj\n/eoitGaGZEGi5seR/vw2z+U02vx0pTo4mMx5vVSpPoI5d+54IABxAMXX1WGPWspE\nT/oIVy5Z48RoGrMylovWn+BPN9cfxTqj76Ayg8s3o+X3oNkxUIIhrXPAg3ryRrLA\njeOdMsjFtFgsvQ5Cj5wviVyViUm98g==\n=CadL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 38d8b8cf49ce62dd7cfc806f1995d00e6fecc707\ntype commit\ntag v1.5.1\ntagger Matti Ranta <matti@mdranta.net> 1535940622 -0400\n\n* SECURITY\n  * Don't disclose emails of all users when sending out emails (#4784)\n  * Improve URL validation for external wiki and external issues (#4710) (#4740)\n  * Make cookies HttpOnly and obey COOKIE_SECURE flag (#4706) (#4707)\n* BUGFIXES\n  * Fix missing release title in webhook (#4783) (#4800)\n  * Make sure to reset commit count in the cache on mirror syncing (#4770)\n  * Fixed bug where team with admin privelege type doesn't get any unit (#4759)\n  * Fix failure on creating pull request with assignees (#4583) (#4727)\n  * Hide org/create menu item in Dashboard if user has no rights (#4678) (#4686)\n* TRANSLATION\n  * Fix incorrect caption of webhook setting (#4701) (#4718)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6MjBjNWJjZTY5OTE4NGVhYjI3YzljMzVkZDljODk5N2I1Y2FhNTU0MQ==",
+  "sha": "20c5bce699184eab27c9c35dd9c8997b5caa5541",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/20c5bce699184eab27c9c35dd9c8997b5caa5541",
+  "tagger": {
+    "name": "Lauris BH",
+    "email": "lauris@nix.lv",
+    "date": "2017-11-27T06:35:08Z"
+  },
+  "object": {
+    "sha": "751f01936b5796fe77dbf8e9356cc5bd380914eb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/751f01936b5796fe77dbf8e9356cc5bd380914eb"
+  },
+  "tag": "v1.3.0-rc2",
+  "message": "* BUGFIXES\n  * Fix memcache support when value is returned as string always (#2950)\n  * Update golang x/crypto dependencies - Fix SSH transport fail (#2951)\n  * Fix files/commits of merged PRs (#2970)\n  * Fix error when add user has full name to team (#2975)\n  * Fix go-get, src and raw urls to new scheme (#2986)\n  * Fix over-escaped characters (#2992)\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJaG7IcAAoJEAAun/0QxWQDcicP/18O+l+vrXqH2bZiIHs+00Nw\nNqpft5ZnT6NmoDTP4DDqp4TuMPzWljQ/AoYtPLeVl4osYPApi2Tex5qZ1v07VNFs\nx/pAk1bkYKvM2HkEUP15ffQ/sG8R0W7T9oJTL7ysPVZYGX2NanQ6R2L6gMYuEy3n\nPwuYuFEO3289dXJyJbUXSHbAjTiwTgL5EKtNaGoZByNcJOVN8vB3ATq/EWWFpzqA\nCVy+TNaXcXjs7779L++S0q1SMsV2IRmKYTuZ/A1eqVC6yEEmLWs3kDJXNuxjVWNp\ncyG75Ib2xIrp67WTX7Gz+Oq3WmBcQ0LmtxxAAK6YKixONjohYchBfdc1RHgWTaWZ\nzdkoOwOVMuHCqEQana/hFeYS3rUylnbu9uvSDG+gb30kHVTJmPRI7ZA8+hIKYgCE\nhSV6b1eSxdIyL3TqLwcTn+nSKPoljBZTvHk/Xpg3r4UZfAPp+q7tWyc545hM8Co7\n8Akz6ocWL8J6+p6/EXa4aqtu9nFYPJAJv95npSV81371neRksD4/CYZRn6pybXki\nTZvcWBZ1rnbogIBxBnrdE4NOtky9EtdjHx55mACX0sM2fPaH5b7LLiGKh70qmSi3\nSwHXRtw8VbZIJa+APnXBeqS9BdEUqshe49Cohul65LiUvjFR+wamM0vIrLaxKhNW\nAMm3l7eAjO1DGauMWto0\n=Hk0c\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJaG7IcAAoJEAAun/0QxWQDcicP/18O+l+vrXqH2bZiIHs+00Nw\nNqpft5ZnT6NmoDTP4DDqp4TuMPzWljQ/AoYtPLeVl4osYPApi2Tex5qZ1v07VNFs\nx/pAk1bkYKvM2HkEUP15ffQ/sG8R0W7T9oJTL7ysPVZYGX2NanQ6R2L6gMYuEy3n\nPwuYuFEO3289dXJyJbUXSHbAjTiwTgL5EKtNaGoZByNcJOVN8vB3ATq/EWWFpzqA\nCVy+TNaXcXjs7779L++S0q1SMsV2IRmKYTuZ/A1eqVC6yEEmLWs3kDJXNuxjVWNp\ncyG75Ib2xIrp67WTX7Gz+Oq3WmBcQ0LmtxxAAK6YKixONjohYchBfdc1RHgWTaWZ\nzdkoOwOVMuHCqEQana/hFeYS3rUylnbu9uvSDG+gb30kHVTJmPRI7ZA8+hIKYgCE\nhSV6b1eSxdIyL3TqLwcTn+nSKPoljBZTvHk/Xpg3r4UZfAPp+q7tWyc545hM8Co7\n8Akz6ocWL8J6+p6/EXa4aqtu9nFYPJAJv95npSV81371neRksD4/CYZRn6pybXki\nTZvcWBZ1rnbogIBxBnrdE4NOtky9EtdjHx55mACX0sM2fPaH5b7LLiGKh70qmSi3\nSwHXRtw8VbZIJa+APnXBeqS9BdEUqshe49Cohul65LiUvjFR+wamM0vIrLaxKhNW\nAMm3l7eAjO1DGauMWto0\n=Hk0c\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 751f01936b5796fe77dbf8e9356cc5bd380914eb\ntype commit\ntag v1.3.0-rc2\ntagger Lauris BH <lauris@nix.lv> 1511764508 +0200\n\n* BUGFIXES\n  * Fix memcache support when value is returned as string always (#2950)\n  * Update golang x/crypto dependencies - Fix SSH transport fail (#2951)\n  * Fix files/commits of merged PRs (#2970)\n  * Fix error when add user has full name to team (#2975)\n  * Fix go-get, src and raw urls to new scheme (#2986)\n  * Fix over-escaped characters (#2992)\n"
+  }
+}

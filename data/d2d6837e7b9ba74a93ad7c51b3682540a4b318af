@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg5NjQyNjM6ZDJkNjgzN2U3YjliYTc0YTkzYWQ3YzUxYjM2ODI1NDBhNGIzMThhZg==",
+  "sha": "d2d6837e7b9ba74a93ad7c51b3682540a4b318af",
+  "url": "https://api.github.com/repos/coreos/prometheus-operator/git/tags/d2d6837e7b9ba74a93ad7c51b3682540a4b318af",
+  "tagger": {
+    "name": "Frederic Branczyk",
+    "email": "fbranczyk@gmail.com",
+    "date": "2016-12-20T12:41:28Z"
+  },
+  "object": {
+    "sha": "8e17baa9bb5d68b336772b601ca40de3706fbee6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/coreos/prometheus-operator/git/commits/8e17baa9bb5d68b336772b601ca40de3706fbee6"
+  },
+  "tag": "v0.2.0",
+  "message": "0.2.0 / 2016-12-20\n\nThis release requires a Kubernetes cluster >=1.5.0. See the readme for\ninstructions on how to upgrade if you are currently running on a lower version\nwith the operator.\n\n* [CHANGE] Use StatefulSet instead of PetSet\n* [BUGFIX] Fix Prometheus config generation for labels containing \"-\"\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJYWScVAAoJEMoUeIseSLJWRDQQALdX8o1RSAJjN6GGCVS/fTmz\nsTlNziy1wOJug1ufVjgMieiDPtEhl2gEGIjCIaJeHfhnWEYU+HEf4+xlvBU92JUN\nnVxdV0aN63nHyaDLn/dUA723TzdoPAX01Ze/86D0f5s/vBjmF8lTqkXanIfbxW9A\nZJXiZDraUVWJZ+s0w0jfeCVd+aiymA+AnJe79cBzDrnOlJvZn680kFsmNKJEdCJy\nGaVbQvjmQfbDYYfrtukZv9EeimBHdoei/m1T9bo/LPJw73LrzVGg4mrc3YGi9rS7\nOCXhDE4vnF4gwsPvjybVg1lxAJJuYLDN+o62svhIlNrSHiqZ857P779LVqH+umj9\n1AheTuKj5y+VR2wc89fxETGJLep+owW359XV66SmaWWfrsuDqbA5trM00Bh67cuu\n51Hp8ynviOwa2ZFcueQsWgk2HUT8RGduiH5Lo9V7LkTdLaGXiAG0g5pXqoupxNQd\nX0GAv728VwmnAHwwPP48vfplpan+BX7eU5ME4EIv9OG9lqxNRR7hOieuA2CMqmJ5\nV+ftQkmxo9mQwEFupt87yj0IkpYaDgSxOSSCjdqYYMgDMq5BitjdukLK34x4DqRV\necfnvR85XFWLGQXqDTBy+MwpOMmc6ZYAQBNWkgkYW9cwMjg4Pr5ixwlLlKLoSgwS\nhqRvBuH0ljDIAxydGV6I\n=hBP5\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJYWScVAAoJEMoUeIseSLJWRDQQALdX8o1RSAJjN6GGCVS/fTmz\nsTlNziy1wOJug1ufVjgMieiDPtEhl2gEGIjCIaJeHfhnWEYU+HEf4+xlvBU92JUN\nnVxdV0aN63nHyaDLn/dUA723TzdoPAX01Ze/86D0f5s/vBjmF8lTqkXanIfbxW9A\nZJXiZDraUVWJZ+s0w0jfeCVd+aiymA+AnJe79cBzDrnOlJvZn680kFsmNKJEdCJy\nGaVbQvjmQfbDYYfrtukZv9EeimBHdoei/m1T9bo/LPJw73LrzVGg4mrc3YGi9rS7\nOCXhDE4vnF4gwsPvjybVg1lxAJJuYLDN+o62svhIlNrSHiqZ857P779LVqH+umj9\n1AheTuKj5y+VR2wc89fxETGJLep+owW359XV66SmaWWfrsuDqbA5trM00Bh67cuu\n51Hp8ynviOwa2ZFcueQsWgk2HUT8RGduiH5Lo9V7LkTdLaGXiAG0g5pXqoupxNQd\nX0GAv728VwmnAHwwPP48vfplpan+BX7eU5ME4EIv9OG9lqxNRR7hOieuA2CMqmJ5\nV+ftQkmxo9mQwEFupt87yj0IkpYaDgSxOSSCjdqYYMgDMq5BitjdukLK34x4DqRV\necfnvR85XFWLGQXqDTBy+MwpOMmc6ZYAQBNWkgkYW9cwMjg4Pr5ixwlLlKLoSgwS\nhqRvBuH0ljDIAxydGV6I\n=hBP5\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8e17baa9bb5d68b336772b601ca40de3706fbee6\ntype commit\ntag v0.2.0\ntagger Frederic Branczyk <fbranczyk@gmail.com> 1482237688 +0100\n\n0.2.0 / 2016-12-20\n\nThis release requires a Kubernetes cluster >=1.5.0. See the readme for\ninstructions on how to upgrade if you are currently running on a lower version\nwith the operator.\n\n* [CHANGE] Use StatefulSet instead of PetSet\n* [BUGFIX] Fix Prometheus config generation for labels containing \"-\"\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjpmYTAwZGJjZTE5YmJkOWJiMWY4ZWVjOTM4NmM3OGRlZDVhMTM2Yzcy",
+  "sha": "fa00dbce19bbd9bb1f8eec9386c78ded5a136c72",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/fa00dbce19bbd9bb1f8eec9386c78ded5a136c72",
+  "tagger": {
+    "name": "Paul Ivanov",
+    "email": "pi@berkeley.edu",
+    "date": "2019-07-01T06:59:16Z"
+  },
+  "object": {
+    "sha": "bed022902c04af827d24d86d161eaf401041dbe3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/bed022902c04af827d24d86d161eaf401041dbe3"
+  },
+  "tag": "v3.1.1",
+  "message": "REL: v3.1.1\n\nThe first bug-fix release of the 3.1 series\n\n  * Locator.nonsingular return order API change\n\nLots of backports of various bug fixes.\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQTKOzv4OU1OkpXhSxd75yZFDz4o9wUCXRmvTAAKCRB75yZFDz4o\n9zmuAJ4ypZ4lUZCZ7H9VxwkE8cYPjErIuwCfbFLmEyi0tGEAZh5+qpfgI1O5BeQ=\n=y1wx\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQTKOzv4OU1OkpXhSxd75yZFDz4o9wUCXRmvTAAKCRB75yZFDz4o\n9zmuAJ4ypZ4lUZCZ7H9VxwkE8cYPjErIuwCfbFLmEyi0tGEAZh5+qpfgI1O5BeQ=\n=y1wx\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bed022902c04af827d24d86d161eaf401041dbe3\ntype commit\ntag v3.1.1\ntagger Paul Ivanov <pi@berkeley.edu> 1561964356 -0700\n\nREL: v3.1.1\n\nThe first bug-fix release of the 3.1 series\n\n  * Locator.nonsingular return order API change\n\nLots of backports of various bug fixes.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTk5MjE3OTQ6ZWUxMjk5MTc0YmJhMmVmYTliYTVlNmM2NzNjMWM0ODVjMWI0ZWZjZA==",
+  "sha": "ee1299174bba2efa9ba5e6c673c1c485c1b4efcd",
+  "url": "https://api.github.com/repos/sorah/envchain/git/tags/ee1299174bba2efa9ba5e6c673c1c485c1b4efcd",
+  "tagger": {
+    "name": "sorah (Shota Fukumori)",
+    "email": "her@sorah.jp",
+    "date": "2016-06-08T19:58:48Z"
+  },
+  "object": {
+    "sha": "cc84ebc32f8766d10f567b9bbd3e533749759e93",
+    "type": "commit",
+    "url": "https://api.github.com/repos/sorah/envchain/git/commits/cc84ebc32f8766d10f567b9bbd3e533749759e93"
+  },
+  "tag": "v1.0.0",
+  "message": "v1.0.0\n\n= New feature\n\n- Linux support with libsecret (#7 @eagletmt)\n\n  libsecret commuicates with D-Bus secret service; for instance,\n  gnome-keyring implements it.\n\n= New feature in v0.2.0 (forgot to note..)\n\n- `--list` command\n\n  On OS X keychain, values have to be set after envchain v0.2.0 or later\n  due to data structure change, in prior to be listed.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXWHkJAAoJEDT3p8L0wIlcD1sP/ipSgWAvu5QwtZtP3u/wS99S\nty+QPj7SEyStWL0kzCTuPCFWkVl4wtw4r4g8LCOJqVSmbQiBEUGEQKtm+PFgY3zq\nCDrf406ye+/VOIjmabEsEmZ9LUCCQqdna/dN8Qt0MayBWIvzdG+Skgy0KqxbDmSS\nyfjGuzH9bdysYpw6jKDYKKmm7JGEHx+NwPDVX0+H8c2m5f5Eh5FRTnbFWCLwknyM\nHWeRRHuxD3KCXhbrbuua8z79bXRcA+Rv9Pt3WY5Baas/TMf2B6P8G9NGQ9aZLkqi\nXnIUKv6pahlZVV6ySICEB2gv7QKArF898964NHHKl5u0xns7dGv1DhPWB3/qH4aP\nDXclsdh3a4AeftMSYv81+KBxiz6KJrRAVCfhXf17rPMm/DNA3pLP1XULJiPYHZuN\nsaJZolfqiVA6wSjTbwe5S1hfBOVAc5mXnnXkwbQIHEPgqt7/uUXANmylr9ISeDFI\nXMpT6/5BmYf558n9tqgUM+KuD6yMFu3ELVKDBs7qhAjdgsmP6VBxd/fsJr2ekcvO\nqa0AxaDQcBL5kdyuAIoR5lvIkeDSBqu8+vqe2G4ODRK/cqktNtpMvR98hghUE4PI\nAxr4bORi1XGpMJhlecV0pJyqa403nDiWZXDBe9VccGwLgDGsg13Lx8hXuTSRCqQN\nzBxCwtF8BjFu7ZorO2uJ\n=dvQn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXWHkJAAoJEDT3p8L0wIlcD1sP/ipSgWAvu5QwtZtP3u/wS99S\nty+QPj7SEyStWL0kzCTuPCFWkVl4wtw4r4g8LCOJqVSmbQiBEUGEQKtm+PFgY3zq\nCDrf406ye+/VOIjmabEsEmZ9LUCCQqdna/dN8Qt0MayBWIvzdG+Skgy0KqxbDmSS\nyfjGuzH9bdysYpw6jKDYKKmm7JGEHx+NwPDVX0+H8c2m5f5Eh5FRTnbFWCLwknyM\nHWeRRHuxD3KCXhbrbuua8z79bXRcA+Rv9Pt3WY5Baas/TMf2B6P8G9NGQ9aZLkqi\nXnIUKv6pahlZVV6ySICEB2gv7QKArF898964NHHKl5u0xns7dGv1DhPWB3/qH4aP\nDXclsdh3a4AeftMSYv81+KBxiz6KJrRAVCfhXf17rPMm/DNA3pLP1XULJiPYHZuN\nsaJZolfqiVA6wSjTbwe5S1hfBOVAc5mXnnXkwbQIHEPgqt7/uUXANmylr9ISeDFI\nXMpT6/5BmYf558n9tqgUM+KuD6yMFu3ELVKDBs7qhAjdgsmP6VBxd/fsJr2ekcvO\nqa0AxaDQcBL5kdyuAIoR5lvIkeDSBqu8+vqe2G4ODRK/cqktNtpMvR98hghUE4PI\nAxr4bORi1XGpMJhlecV0pJyqa403nDiWZXDBe9VccGwLgDGsg13Lx8hXuTSRCqQN\nzBxCwtF8BjFu7ZorO2uJ\n=dvQn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cc84ebc32f8766d10f567b9bbd3e533749759e93\ntype commit\ntag v1.0.0\ntagger sorah (Shota Fukumori) <her@sorah.jp> 1465415928 +0900\n\nv1.0.0\n\n= New feature\n\n- Linux support with libsecret (#7 @eagletmt)\n\n  libsecret commuicates with D-Bus secret service; for instance,\n  gnome-keyring implements it.\n\n= New feature in v0.2.0 (forgot to note..)\n\n- `--list` command\n\n  On OS X keychain, values have to be set after envchain v0.2.0 or later\n  due to data structure change, in prior to be listed.\n"
+  }
+}

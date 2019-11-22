@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6MjRhMzM0Y2JlMWJmZDM3MTU5ZjZmYzIxNmY4NzQ1NjMwZmUyZmJmOA==",
+  "sha": "24a334cbe1bfd37159f6fc216f8745630fe2fbf8",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/24a334cbe1bfd37159f6fc216f8745630fe2fbf8",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2019-09-04T01:38:32Z"
+  },
+  "object": {
+    "sha": "7cd5256b572dd2221493225bb7263d9e45793df5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/7cd5256b572dd2221493225bb7263d9e45793df5"
+  },
+  "tag": "libmodulemd-2.8.0",
+  "message": "Tagging libmodulemd 2.8.0\n\nMerlin Mathesius (2):\n      A final batch of documentation updates for private functions.\n      Refactor stream copy/upgrade helper macros. Another final batch of documentation updates for private functions.\n\nStephen Gallagher (16):\n      Bump version to 2.7.1dev\n      Make Module.get_translation() public\n      Bump version to 2.8.0\n      Valgrind: Don't rebuild tests before running\n      Add helpers for reading compressed files\n      ModuleIndex: add compressed file loading support\n      Add debugging information to the Coverity scan\n      Add ModuleIndex.update_from_defaults_directory()\n      Revert \"Add debugging information to the Coverity scan\"\n      Temporarily switch Coverity to F30\n      Coverity: Fix Dockerfile FROM\n      TESTS: Check a return value\n      Compression: Handle a failed dup()\n      Compression: don't leak file descriptors on error\n      Compression: Fix incorrect pointer comparison\n      Coverity: work around \"copy-paste\" false positive\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXW8VuQAKCRB6JVViNrqj\no3BxAJsF1FI8q3MLJxXs4IcJzohTa53uAwCePfZRMDraUb/8syMA6sbix6CxpEU=\n=npou\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXW8VuQAKCRB6JVViNrqj\no3BxAJsF1FI8q3MLJxXs4IcJzohTa53uAwCePfZRMDraUb/8syMA6sbix6CxpEU=\n=npou\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7cd5256b572dd2221493225bb7263d9e45793df5\ntype commit\ntag libmodulemd-2.8.0\ntagger Stephen Gallagher <sgallagh@redhat.com> 1567561112 -0400\n\nTagging libmodulemd 2.8.0\n\nMerlin Mathesius (2):\n      A final batch of documentation updates for private functions.\n      Refactor stream copy/upgrade helper macros. Another final batch of documentation updates for private functions.\n\nStephen Gallagher (16):\n      Bump version to 2.7.1dev\n      Make Module.get_translation() public\n      Bump version to 2.8.0\n      Valgrind: Don't rebuild tests before running\n      Add helpers for reading compressed files\n      ModuleIndex: add compressed file loading support\n      Add debugging information to the Coverity scan\n      Add ModuleIndex.update_from_defaults_directory()\n      Revert \"Add debugging information to the Coverity scan\"\n      Temporarily switch Coverity to F30\n      Coverity: Fix Dockerfile FROM\n      TESTS: Check a return value\n      Compression: Handle a failed dup()\n      Compression: don't leak file descriptors on error\n      Compression: Fix incorrect pointer comparison\n      Coverity: work around \"copy-paste\" false positive\n"
+  }
+}

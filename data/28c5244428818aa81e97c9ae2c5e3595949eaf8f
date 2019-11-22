@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE0NzY5ODoyOGM1MjQ0NDI4ODE4YWE4MWU5N2M5YWUyYzVlMzU5NTk0OWVhZjhm",
+  "sha": "28c5244428818aa81e97c9ae2c5e3595949eaf8f",
+  "url": "https://api.github.com/repos/proot-me/proot/git/tags/28c5244428818aa81e97c9ae2c5e3595949eaf8f",
+  "tagger": {
+    "name": "Cédric VINCENT",
+    "email": "cedric.vincent@st.com",
+    "date": "2013-04-02T07:54:31Z"
+  },
+  "object": {
+    "sha": "be06cf48d06cb83f9cff5bbe924ccd64ac5bf936",
+    "type": "commit",
+    "url": "https://api.github.com/repos/proot-me/proot/git/commits/be06cf48d06cb83f9cff5bbe924ccd64ac5bf936"
+  },
+  "tag": "v2.4.1",
+  "message": "Release v2.4.1\n==============\n\nFixes\n-----\n\n* Fix all warnings reported by GCC-4.8 \"-Wall -Wextra\" and Coverity\n  Prevent 4.5.\n\n* Fix Unix sockets path translation for some x86_64 systems.\n\n* Make the \"kompat\" extension (-k option) work again.\n\n* Fix spurious \"can't delete /tmp/proot-$PID-XXXXX\" messages.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (GNU/Linux)\n\niQEcBAABAgAGBQJRWo7AAAoJEChi0LD6j7VWmgwH+wRQ77BC4V5SFYDcu74fd983\n4PxSgR0Ghv/uSndLyyuZj/QrDsm6z0/7IiWYfr59p1kDbgbVmDedCT0KdbEaxOl3\nZodqyZX9roRsVNksllmmLDgJcFolv6mhst/xDOCO7ratV9QfqgQnyrax+Qy2lMgw\nHOqEuDZjrm5Nf2m9HM2z8dsVrxm/4HvyBjhYU/MRQTJheMBLsbQHpioUax79cyU4\n3KNBGDfgiV81vm0wERNIfOkTEJoZMzJ60i+dO1MekDEZnvOMpLrQKo6jsS4AJL3w\nYRPa4Pk4yY6nYXz4db2W0uU13qpmUpUHyCnrh/AcGajeKxyEfq6aSy47ffuGrI0=\n=YT41\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (GNU/Linux)\n\niQEcBAABAgAGBQJRWo7AAAoJEChi0LD6j7VWmgwH+wRQ77BC4V5SFYDcu74fd983\n4PxSgR0Ghv/uSndLyyuZj/QrDsm6z0/7IiWYfr59p1kDbgbVmDedCT0KdbEaxOl3\nZodqyZX9roRsVNksllmmLDgJcFolv6mhst/xDOCO7ratV9QfqgQnyrax+Qy2lMgw\nHOqEuDZjrm5Nf2m9HM2z8dsVrxm/4HvyBjhYU/MRQTJheMBLsbQHpioUax79cyU4\n3KNBGDfgiV81vm0wERNIfOkTEJoZMzJ60i+dO1MekDEZnvOMpLrQKo6jsS4AJL3w\nYRPa4Pk4yY6nYXz4db2W0uU13qpmUpUHyCnrh/AcGajeKxyEfq6aSy47ffuGrI0=\n=YT41\n-----END PGP SIGNATURE-----\n",
+    "payload": "object be06cf48d06cb83f9cff5bbe924ccd64ac5bf936\ntype commit\ntag v2.4.1\ntagger Cédric VINCENT <cedric.vincent@st.com> 1364889271 +0200\n\nRelease v2.4.1\n==============\n\nFixes\n-----\n\n* Fix all warnings reported by GCC-4.8 \"-Wall -Wextra\" and Coverity\n  Prevent 4.5.\n\n* Fix Unix sockets path translation for some x86_64 systems.\n\n* Make the \"kompat\" extension (-k option) work again.\n\n* Fix spurious \"can't delete /tmp/proot-$PID-XXXXX\" messages.\n"
+  }
+}

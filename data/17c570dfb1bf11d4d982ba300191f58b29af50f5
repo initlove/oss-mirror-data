@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMzNjg0NDU6MTdjNTcwZGZiMWJmMTFkNGQ5ODJiYTMwMDE5MWY1OGIyOWFmNTBmNQ==",
+  "sha": "17c570dfb1bf11d4d982ba300191f58b29af50f5",
+  "url": "https://api.github.com/repos/webmproject/libwebp/git/tags/17c570dfb1bf11d4d982ba300191f58b29af50f5",
+  "tagger": {
+    "name": "James Zern",
+    "email": "jzern@google.com",
+    "date": "2016-12-21T03:42:16Z"
+  },
+  "object": {
+    "sha": "ece9684f529cd69adbcd2c3de20c097da7ae6fe9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/webmproject/libwebp/git/commits/ece9684f529cd69adbcd2c3de20c097da7ae6fe9"
+  },
+  "tag": "v0.5.2",
+  "message": "libwebp-0.5.2\n- 12/13/2016: version 0.5.2\n  This is a binary compatible release.\n  This release covers CVE-2016-8888 and CVE-2016-9085.\n  * further security related hardening in the tools; fixes to\n    gif2webp/AnimEncoder (issues #310, #314, #316, #322), cwebp/libwebp (issue\n    #312)\n  * full libwebp (encoder & decoder) iOS framework; libwebpdecoder\n    WebP.framework renamed to WebPDecoder.framework (issue #307)\n  * CMake support for Android Studio (2.2)\n  * miscellaneous build related fixes (issue #306, #313)\n  * miscellaneous documentation improvements (issue #225)\n  * minor lossy encoder fixes and improvements\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJYWfopAAoJEPnD1r24Iytd0gAQALhTSEjJVmKfHxyPNDduc3kn\nQeiVaVwPiOS/a266+ZnWHzCvkR3zgqZxNlyKzRty378gM8/P7r2dMCmfdnVFbF4O\na7M1lld9yYldNpAxvHDnY9u2RzmRfVD1yYu27gv77uT7gR2IybQ81FHi1pn56tFA\n2g4yHdrC2tXud22ZUb9Bgqe7YW06gWND4EmeJgxF38S98gdrtJla5rmlUcuEhbIl\nSHpkbEgJX4nZxWggyCJ61/OxeEwwWBtI3kpSLkEqmCVSnFb7WBC7pITq59n8hg2U\nSaYCfWGRJ/oQQvxUxuPYYtzq26dYOxd2vT9S1mcE1be9jMGxKp9vgE8jNflvtza1\nwTPUajaPUjsTLAvFikQRo+34W9QxOKp9jCX9Be0V4wvBClfM13toBgKolzPGGUuo\nzlcZ0/GgzwfQ+sD7bs/p/7ToiH+GejBUK7FUR8ZB7EHZrDynszSzEevx5SUzPWV3\n1q4TyD5eclUOjb4S2yplcKp0kwkwtOA5ETboPzA+b8TQnfTFM3GP7fMoYvORbSZp\n39/H5hi1bjlOE4m3mp3qqfR2DMWZlla7YNZiuuTEeY3ztrlqeakC2ma1Fhi6ZmbG\nTrqmAaDTueRizry4E7Fr9sBw0mee14v/xcTFcDcSI1BRFclFc1KAw0ObzdaN2iEt\nL5tjlqzH0XEH4fl5OnD3\n=x+Y3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJYWfopAAoJEPnD1r24Iytd0gAQALhTSEjJVmKfHxyPNDduc3kn\nQeiVaVwPiOS/a266+ZnWHzCvkR3zgqZxNlyKzRty378gM8/P7r2dMCmfdnVFbF4O\na7M1lld9yYldNpAxvHDnY9u2RzmRfVD1yYu27gv77uT7gR2IybQ81FHi1pn56tFA\n2g4yHdrC2tXud22ZUb9Bgqe7YW06gWND4EmeJgxF38S98gdrtJla5rmlUcuEhbIl\nSHpkbEgJX4nZxWggyCJ61/OxeEwwWBtI3kpSLkEqmCVSnFb7WBC7pITq59n8hg2U\nSaYCfWGRJ/oQQvxUxuPYYtzq26dYOxd2vT9S1mcE1be9jMGxKp9vgE8jNflvtza1\nwTPUajaPUjsTLAvFikQRo+34W9QxOKp9jCX9Be0V4wvBClfM13toBgKolzPGGUuo\nzlcZ0/GgzwfQ+sD7bs/p/7ToiH+GejBUK7FUR8ZB7EHZrDynszSzEevx5SUzPWV3\n1q4TyD5eclUOjb4S2yplcKp0kwkwtOA5ETboPzA+b8TQnfTFM3GP7fMoYvORbSZp\n39/H5hi1bjlOE4m3mp3qqfR2DMWZlla7YNZiuuTEeY3ztrlqeakC2ma1Fhi6ZmbG\nTrqmAaDTueRizry4E7Fr9sBw0mee14v/xcTFcDcSI1BRFclFc1KAw0ObzdaN2iEt\nL5tjlqzH0XEH4fl5OnD3\n=x+Y3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ece9684f529cd69adbcd2c3de20c097da7ae6fe9\ntype commit\ntag v0.5.2\ntagger James Zern <jzern@google.com> 1482291736 -0800\n\nlibwebp-0.5.2\n- 12/13/2016: version 0.5.2\n  This is a binary compatible release.\n  This release covers CVE-2016-8888 and CVE-2016-9085.\n  * further security related hardening in the tools; fixes to\n    gif2webp/AnimEncoder (issues #310, #314, #316, #322), cwebp/libwebp (issue\n    #312)\n  * full libwebp (encoder & decoder) iOS framework; libwebpdecoder\n    WebP.framework renamed to WebPDecoder.framework (issue #307)\n  * CMake support for Android Studio (2.2)\n  * miscellaneous build related fixes (issue #306, #313)\n  * miscellaneous documentation improvements (issue #225)\n  * minor lossy encoder fixes and improvements\n"
+  }
+}

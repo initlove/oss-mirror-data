@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE0NzY5ODo4YWRkN2NhNDJlNzJiNTBlMzkzYjg0MDM0MWIzMzllNmRmMWI0Y2Mz",
+  "sha": "8add7ca42e72b50e393b840341b339e6df1b4cc3",
+  "url": "https://api.github.com/repos/proot-me/proot/git/tags/8add7ca42e72b50e393b840341b339e6df1b4cc3",
+  "tagger": {
+    "name": "Cédric VINCENT",
+    "email": "cedric.vincent@st.com",
+    "date": "2013-07-23T08:16:41Z"
+  },
+  "object": {
+    "sha": "086eaab14e5155d41e5ae9cfad79dfd77110aaf6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/proot-me/proot/git/commits/086eaab14e5155d41e5ae9cfad79dfd77110aaf6"
+  },
+  "tag": "v3.1",
+  "message": "Release v3.1\n============\n\nCommand-line interface changes\n------------------------------\n\n+ The initial command is not search in \".\" anymore, unless the \"./\"\n  prefix is specified or unless \".\" is in $PATH, as expected.\n\n+ The \"-B\" and \"-Q\" options are obsoleted by the new \"-R\" option.\n  This latter is equivalent to \"-B -r\", as there was actually no point\n  at using the \"-B\" option without \"-r\".\n\n+ A warning is now emitted when the rootfs is specified à la\n  chroot(1), that is, without using \"-r\" or \"-R\".\n\nThe old command-line interface is not documented anymore, but it will\nbe still supported for a couple of releases.  Although, users are\nstrongly encouraged to switch to the new one:\n\n        ======================   =================\n        old CLI                  new CLI\n        ======================   =================\n        proot rootfs             proot -r rootfs\n        proot -B rootfs          proot -R rootfs\n        proot -B -r rootfs       proot -R rootfs\n        proot -Q qemu rootfs     proot -R rootfs -q qemu\n        proot -Q qemu -r rootfs  proot -R rootfs -q qemu\n        =======================  =======================\n\nExtensions\n----------\n\n+ The \"kompat\" extension (\"-k\" option) has been greatly enhanced.  For\n  example, it can now make programs from Ubuntu 13.04 32-bit run on\n  RedHat 5 64-bit:\n\n     rh5-64$ proot -k 3.8 -R ubuntu-13.04-32bit/ ...\n\n+ The \"fake id0\" extension (\"-0\" option) handles more syscalls:\n  mknod(2), capset(2), setxattr(2), setresuid(2), setresgid(2),\n  getresuid(2), and getresgid(2).\n\nMiscellaneous\n-------------\n\n+ PRoot is now compiled with large file-system support (LFS), this\n  make it works with 64-bit file-systems (eg. CIFS) on 32-bit\n  platforms.\n\n+ The special symbolic link \"/proc/self/root\" now points to the guest\n  rootfs, that is, to the path specified by \"-r\" or \"-R\".  Just like\n  with chroot(2), this symlink may be broken as the referenced host\n  path likely does not exist in the guest rootfs.  Although, this\n  symlink is typically used to know if a process is under a chroot-ed\n  environment.\n\n+ Under QEMU, LD_LIBRARY_PATH is not clobbered anymore when a guest\n  program is launched by a host program.\n\n+ When seccomp-filter is enabled, this release is about 8% faster than\n  the previous one.\n\n+ A couple of bugs reported by Scan Coverity are fixed.\n\nThanks\n------\n\nSpecial thanks to Stephan Hadamik, Jérôme Audu, and Rémi Duraffort for\ntheir valuable help.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

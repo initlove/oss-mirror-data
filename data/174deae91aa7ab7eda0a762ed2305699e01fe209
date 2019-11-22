@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzYwMDU6MTc0ZGVhZTkxYWE3YWI3ZWRhMGE3NjJlZDIzMDU2OTllMDFmZTIwOQ==",
+  "sha": "174deae91aa7ab7eda0a762ed2305699e01fe209",
+  "url": "https://api.github.com/repos/gpg/libgcrypt/git/tags/174deae91aa7ab7eda0a762ed2305699e01fe209",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2019-08-29T13:08:58Z"
+  },
+  "object": {
+    "sha": "56606331bc2a80536db9fc11ad53695126007298",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libgcrypt/git/commits/56606331bc2a80536db9fc11ad53695126007298"
+  },
+  "tag": "libgcrypt-1.8.5",
+  "message": "Fix for CVE-2019-13627\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAl1nzmoACgkQJJs50k8l\n47ZbsAf/eSBBbFWkpbRFKYmPauwqEVk3i465E2ywGobIivVjSiGz1d2kEttmWfzc\nuPUKY/U9vtk7WSgy1/OhKK3K/J/DZbySVcG6hVZhhzbaF0iIb0pD3rzxmnGNfxDJ\nvOoG+1b9nc8A4yUiDZp1u6v0JQxXnMSZuQsJu+mf64k+L8Df5q5OH2uM70gKn+i6\ngNa3J7Gh/IvYs/k2462KvG6XDAgGRVjJwx68ceOXkCQpAull5ZxBAPxTNPG6viMT\nBxNAfB285Gebg6MV9sLtPAZaiwCczIK+MNG2958QmCGR0Bm6qhbV2BMh5V/oL+ZS\nFRf2t2VC8tb/2/8L5HTckcDfelAsMA==\n=7hHC\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAl1nzmoACgkQJJs50k8l\n47ZbsAf/eSBBbFWkpbRFKYmPauwqEVk3i465E2ywGobIivVjSiGz1d2kEttmWfzc\nuPUKY/U9vtk7WSgy1/OhKK3K/J/DZbySVcG6hVZhhzbaF0iIb0pD3rzxmnGNfxDJ\nvOoG+1b9nc8A4yUiDZp1u6v0JQxXnMSZuQsJu+mf64k+L8Df5q5OH2uM70gKn+i6\ngNa3J7Gh/IvYs/k2462KvG6XDAgGRVjJwx68ceOXkCQpAull5ZxBAPxTNPG6viMT\nBxNAfB285Gebg6MV9sLtPAZaiwCczIK+MNG2958QmCGR0Bm6qhbV2BMh5V/oL+ZS\nFRf2t2VC8tb/2/8L5HTckcDfelAsMA==\n=7hHC\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 56606331bc2a80536db9fc11ad53695126007298\ntype commit\ntag libgcrypt-1.8.5\ntagger Werner Koch <wk@gnupg.org> 1567084138 +0200\n\nFix for CVE-2019-13627\n"
+  }
+}

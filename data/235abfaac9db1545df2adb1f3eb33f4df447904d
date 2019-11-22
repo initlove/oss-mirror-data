@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6MjM1YWJmYWFjOWRiMTU0NWRmMmFkYjFmM2ViMzNmNGRmNDQ3OTA0ZA==",
+  "sha": "235abfaac9db1545df2adb1f3eb33f4df447904d",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/235abfaac9db1545df2adb1f3eb33f4df447904d",
+  "tagger": {
+    "name": "Lauris BH",
+    "email": "lauris@nix.lv",
+    "date": "2017-12-14T09:36:28Z"
+  },
+  "object": {
+    "sha": "bdf18560110ac642c196054be38729760a4bbc39",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/bdf18560110ac642c196054be38729760a4bbc39"
+  },
+  "tag": "v1.3.2",
+  "message": "* BUGFIXES\n  * Fix run web with -p push failed (#3154) (#3179)\n  * Fix source download link when no code unit allowed (#3166) (#3169)\n  * Allow adding collaborators with (fullname) (#3103) (#3168)\n  * Fix repo links (#3093) (#3163)\n  * Fix Uninitialized variable in ParsePatch (#3156) (#3162)\n  * Fix migration order v1.3 (#3157)\n  * Fix avatar URLs (#3069) (#3143)\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJaMkYcAAoJEAAun/0QxWQDeccQAItXg3XUf7ASeG9HXhcdNex+\nBqcGF1CX848BaPS675+yCj/bRkGVZSkfUp1jy8Bj2+3WebRPuDBhyeJAxr2shTem\n3PevZbeViWRUQig3JmOoY4wd7CfIga4UhGDhLLyr3hSGDgQsgSaszxkxDEv/GqHK\nacvNDqjUGsn7bkT5JelZRAm/1e8F2SjNHXuiQTVNwJzCETj/yzGG6eJD5rJVPaUs\nx8DsI23RWp62D/izgVwR03RSB/69jhZju6SJd5O3zU1mxAnQK9f1RUFYva794uLc\nnUd39KOx3cJVO37xoMxibuzpSj8eocHgzZh/IQCHycq+7h2P2Yb1XEZ3FJU+mTYX\ngvAAPcoVY7vIaycfjCi4/ICcCpBiAzIy04SgxUbhnHgv2L8pBAnsWh2YadnxUVs/\nrqRTkhF2tPuLET1WtoNKfSNR/eNqsc1pmhVjK9gI/0Ucq8uTrJBxxRfJPkwc8GrV\nYbR3/Z4kMhb1WroMRhuZhWZItLK/w69QfRdrmPNZwJNSDY3ok5veXNnk2BLvAf1N\nhn8FK7OZdC9dyG3/etp+YyaZiu92YX/RF6AuopRlZ84wTTBjUX/E//8GAv+8RilH\nWdih6B7TtIF7MMpx5H+qVCPxioPGxb3sYM80AI3zeZ0iU6ytQRPOECijy54knU3A\nSYlDORcxZUjSJ6AIRuid\n=onXe\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJaMkYcAAoJEAAun/0QxWQDeccQAItXg3XUf7ASeG9HXhcdNex+\nBqcGF1CX848BaPS675+yCj/bRkGVZSkfUp1jy8Bj2+3WebRPuDBhyeJAxr2shTem\n3PevZbeViWRUQig3JmOoY4wd7CfIga4UhGDhLLyr3hSGDgQsgSaszxkxDEv/GqHK\nacvNDqjUGsn7bkT5JelZRAm/1e8F2SjNHXuiQTVNwJzCETj/yzGG6eJD5rJVPaUs\nx8DsI23RWp62D/izgVwR03RSB/69jhZju6SJd5O3zU1mxAnQK9f1RUFYva794uLc\nnUd39KOx3cJVO37xoMxibuzpSj8eocHgzZh/IQCHycq+7h2P2Yb1XEZ3FJU+mTYX\ngvAAPcoVY7vIaycfjCi4/ICcCpBiAzIy04SgxUbhnHgv2L8pBAnsWh2YadnxUVs/\nrqRTkhF2tPuLET1WtoNKfSNR/eNqsc1pmhVjK9gI/0Ucq8uTrJBxxRfJPkwc8GrV\nYbR3/Z4kMhb1WroMRhuZhWZItLK/w69QfRdrmPNZwJNSDY3ok5veXNnk2BLvAf1N\nhn8FK7OZdC9dyG3/etp+YyaZiu92YX/RF6AuopRlZ84wTTBjUX/E//8GAv+8RilH\nWdih6B7TtIF7MMpx5H+qVCPxioPGxb3sYM80AI3zeZ0iU6ytQRPOECijy54knU3A\nSYlDORcxZUjSJ6AIRuid\n=onXe\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bdf18560110ac642c196054be38729760a4bbc39\ntype commit\ntag v1.3.2\ntagger Lauris BH <lauris@nix.lv> 1513244188 +0200\n\n* BUGFIXES\n  * Fix run web with -p push failed (#3154) (#3179)\n  * Fix source download link when no code unit allowed (#3166) (#3169)\n  * Allow adding collaborators with (fullname) (#3103) (#3168)\n  * Fix repo links (#3093) (#3163)\n  * Fix Uninitialized variable in ParsePatch (#3156) (#3162)\n  * Fix migration order v1.3 (#3157)\n  * Fix avatar URLs (#3069) (#3143)\n"
+  }
+}

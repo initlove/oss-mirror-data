@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjphYmRlMjA5MzVkOWZiMjgwMTY1Nzg3YTM2MGU0YzY1ZmZlZGQ4M2Rh",
+  "sha": "abde20935d9fb280165787a360e4c65ffedd83da",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/abde20935d9fb280165787a360e4c65ffedd83da",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2018-10-25T15:37:22Z"
+  },
+  "object": {
+    "sha": "682e5195fae83393a75c71e84d1434cc9ff255fb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/682e5195fae83393a75c71e84d1434cc9ff255fb"
+  },
+  "tag": "v3.0.1",
+  "message": "REL: v3.0.1\n\nThis is the first bug fix release for the 3.0 series which fixes\nseveral\n\n - Fix failure to import bug when used with backend-fallback on Python\n   3.6.7 and 3.7.1\n - Fixed a number of failure to import bugs around finding fonts\n - Fix Qt4 backend\n - Fix bug on OSX that recursively searched current directory for fonts\n - Fix bouncing-rocket on OSX when doing backend fallback and not\n   selecting OSX\n - Temporarily restore several private APIs to unbreak cartopy\n - Make pyplot more tolerant of varying signatures in 3rd-party\n   sub-classe\n - Improve datetime64 unit handling\n - Fixed several poor interactions with tight_layout\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEsYc9tVVEbczMtz/cvNkoBQ1xPXUFAlvR4zYACgkQvNkoBQ1x\nPXU8TQ//WLJZ17SK3rOP7Gf8du9QzES7TK21cGzq+v8SsJTd4GpvoyiMprHHgdsJ\n+Z8kjsb7LL5zKvBZU57qNBTUgxXTjrL+5bvNDR3G1y3FeOKrb+LfrLhpGL+vVjRe\nI6dpOuCVlIYB3UcbWjMRSByUbeLX1OX9q3urE5TAvRu9ztYNhi3cVRpER/5/K+m0\nVfpQfj/ZcYrWvTYPlc7mPFbBDj7lo6tJhyK3/CSe5b01h9aYL9JvwjrCkYXDF8fq\nUGjh4v2yVI+uZYD2csqRirbzQ5p2RrvaUHNFUWVaO1MslJZsBeGBNxAMjStFwV5T\nOMUU5HB70EKnfKL73AvbcdNfKDVbwIgbi1eh/YG/hQrQV0E+Xy88NVJovROWpEJP\ner53U5/Bfc7rnkvB/Co8rfxftaQPlK+iWKwLStDCoF2zgqUSx3knClv4Dx6va5a5\nlqOyvKgLYd5GS2y7fotMAus0D+/5q+LloaIs63G/YL85mKmnm+giGq6qjQB2MvJp\nWE5qs4Pie6P+SKGK0m9WJRo+sWS+f69Qk+2Syqgil/BDn3zhO5UWKinlbDiUpzep\n8pE2iGf+W84EZUHqoDZEeuJt7C3gsq74sHSQBshNxCye+rZ0OJ31nibkVY7RWXJc\nz1a/rutPviOFbmhL0vmgUFI2G881gsdlNSlvCVfHNXHk6ySOFQI=\n=ZGJG\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEsYc9tVVEbczMtz/cvNkoBQ1xPXUFAlvR4zYACgkQvNkoBQ1x\nPXU8TQ//WLJZ17SK3rOP7Gf8du9QzES7TK21cGzq+v8SsJTd4GpvoyiMprHHgdsJ\n+Z8kjsb7LL5zKvBZU57qNBTUgxXTjrL+5bvNDR3G1y3FeOKrb+LfrLhpGL+vVjRe\nI6dpOuCVlIYB3UcbWjMRSByUbeLX1OX9q3urE5TAvRu9ztYNhi3cVRpER/5/K+m0\nVfpQfj/ZcYrWvTYPlc7mPFbBDj7lo6tJhyK3/CSe5b01h9aYL9JvwjrCkYXDF8fq\nUGjh4v2yVI+uZYD2csqRirbzQ5p2RrvaUHNFUWVaO1MslJZsBeGBNxAMjStFwV5T\nOMUU5HB70EKnfKL73AvbcdNfKDVbwIgbi1eh/YG/hQrQV0E+Xy88NVJovROWpEJP\ner53U5/Bfc7rnkvB/Co8rfxftaQPlK+iWKwLStDCoF2zgqUSx3knClv4Dx6va5a5\nlqOyvKgLYd5GS2y7fotMAus0D+/5q+LloaIs63G/YL85mKmnm+giGq6qjQB2MvJp\nWE5qs4Pie6P+SKGK0m9WJRo+sWS+f69Qk+2Syqgil/BDn3zhO5UWKinlbDiUpzep\n8pE2iGf+W84EZUHqoDZEeuJt7C3gsq74sHSQBshNxCye+rZ0OJ31nibkVY7RWXJc\nz1a/rutPviOFbmhL0vmgUFI2G881gsdlNSlvCVfHNXHk6ySOFQI=\n=ZGJG\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 682e5195fae83393a75c71e84d1434cc9ff255fb\ntype commit\ntag v3.0.1\ntagger Thomas A Caswell <tcaswell@gmail.com> 1540481842 -0400\n\nREL: v3.0.1\n\nThis is the first bug fix release for the 3.0 series which fixes\nseveral\n\n - Fix failure to import bug when used with backend-fallback on Python\n   3.6.7 and 3.7.1\n - Fixed a number of failure to import bugs around finding fonts\n - Fix Qt4 backend\n - Fix bug on OSX that recursively searched current directory for fonts\n - Fix bouncing-rocket on OSX when doing backend fallback and not\n   selecting OSX\n - Temporarily restore several private APIs to unbreak cartopy\n - Make pyplot more tolerant of varying signatures in 3rd-party\n   sub-classe\n - Improve datetime64 unit handling\n - Fixed several poor interactions with tight_layout\n"
+  }
+}

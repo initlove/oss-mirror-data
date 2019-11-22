@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6Y2IzNzYzNDdmZjQ0NWQzMjQ4YjE2ODVjMjBkNDY5NTc1NWRiYzRiNQ==",
+  "sha": "cb376347ff445d3248b1685c20d4695755dbc4b5",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/cb376347ff445d3248b1685c20d4695755dbc4b5",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "clupo@google.com",
+    "date": "2019-05-13T09:22:35Z"
+  },
+  "object": {
+    "sha": "e529b13f0a863e6fe0ac8082d7c148f39d40cff5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/e529b13f0a863e6fe0ac8082d7c148f39d40cff5"
+  },
+  "tag": "3.41.1",
+  "message": "3.41.1\n\n- [designspaceLib] Added ``loadSourceFonts`` method to load source fonts using\n  custom opener function (#1606).\n- [head] Round font bounding box coordinates to integers to fix compile error\n  if CFF font has float coordinates (#1604, #1605).\n- [feaLib] Don't write ``None`` in ``ast.ValueRecord.asFea()`` (#1599).\n- [subset] Fixed issue ``AssertionError`` when using ``--desubroutinize`` option\n  (#1590, #1594).\n- [graphite] Fixed bug in ``Silf`` table's ``decompile`` method unmasked by\n  previous typo fix (#1597). Decode languange code as UTF-8 in ``Sill`` table's\n  ``decompile`` method (#1600).\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEt3fCdK5LbZY3e/+cINSiYeSg5kIFAlzZN1sACgkQINSiYeSg\n5kJMVg/9FCpEOWVpSQBlXa+XfO5TgyEbjbaP+MdRRWS2UQvpet0EylSx49QuxOxP\nQ0YAnYziE2hHzUtWZiWqB0pERxZxlEGbI78SX9DoJlzs2kMs4XA7j1g2LTZ5W072\nD5JAY2+RRawIxYW+7viI3RHihM3e9iGz1NJb7G+I8U/ISa44ZqbImUdAqM4ocNyF\nlav1QG15o/6GaFTUARTtOwikB1c+RVp6OWV8Oa+vCnie1oTEkC9i5mc3xZpaY+Ch\nIrV8wae0cq+gxNRDBzjBhPvpquLaBZbYlCe66e7NjaRbDP772kTHNJJleNpk0Ca4\nQrV7gK/QKpW3gOd4IjkTHk2b4AA8THFG2pMrCrtcZFja0eFs8cTSLrGBve2+W/Eo\nlTdnPBVdjWmVa3VUPRPc0majXvfUGOYUV+xpZJHOMW0ljsscFGwX2lBTUzAk649M\nnXXG+ZzzX4GH39Eaxf9kwVrOZ0IUgW0yLVDzQ/CpwmKtQpBr9pHojRfs4HAzXTu/\nsEsIhcVFEFCmyhQN9snR8zHqw8NW8/jjKvL0SBCWQMlSKlpdHv8oGEQq1iSI6IYd\nRQIbpkPfPGCh+1iKRwoJSBvOE2QHoaZ8RcPf7HjFX4Lsl7TbaC9JJqbDpIzHPsoU\nO1OS0SL594dga7/VowaMIgv8tUdXxSQlE0VHV2lEz8s09YXbm6Q=\n=MwzZ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEt3fCdK5LbZY3e/+cINSiYeSg5kIFAlzZN1sACgkQINSiYeSg\n5kJMVg/9FCpEOWVpSQBlXa+XfO5TgyEbjbaP+MdRRWS2UQvpet0EylSx49QuxOxP\nQ0YAnYziE2hHzUtWZiWqB0pERxZxlEGbI78SX9DoJlzs2kMs4XA7j1g2LTZ5W072\nD5JAY2+RRawIxYW+7viI3RHihM3e9iGz1NJb7G+I8U/ISa44ZqbImUdAqM4ocNyF\nlav1QG15o/6GaFTUARTtOwikB1c+RVp6OWV8Oa+vCnie1oTEkC9i5mc3xZpaY+Ch\nIrV8wae0cq+gxNRDBzjBhPvpquLaBZbYlCe66e7NjaRbDP772kTHNJJleNpk0Ca4\nQrV7gK/QKpW3gOd4IjkTHk2b4AA8THFG2pMrCrtcZFja0eFs8cTSLrGBve2+W/Eo\nlTdnPBVdjWmVa3VUPRPc0majXvfUGOYUV+xpZJHOMW0ljsscFGwX2lBTUzAk649M\nnXXG+ZzzX4GH39Eaxf9kwVrOZ0IUgW0yLVDzQ/CpwmKtQpBr9pHojRfs4HAzXTu/\nsEsIhcVFEFCmyhQN9snR8zHqw8NW8/jjKvL0SBCWQMlSKlpdHv8oGEQq1iSI6IYd\nRQIbpkPfPGCh+1iKRwoJSBvOE2QHoaZ8RcPf7HjFX4Lsl7TbaC9JJqbDpIzHPsoU\nO1OS0SL594dga7/VowaMIgv8tUdXxSQlE0VHV2lEz8s09YXbm6Q=\n=MwzZ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e529b13f0a863e6fe0ac8082d7c148f39d40cff5\ntype commit\ntag 3.41.1\ntagger Cosimo Lupo <clupo@google.com> 1557739355 +0100\n\n3.41.1\n\n- [designspaceLib] Added ``loadSourceFonts`` method to load source fonts using\n  custom opener function (#1606).\n- [head] Round font bounding box coordinates to integers to fix compile error\n  if CFF font has float coordinates (#1604, #1605).\n- [feaLib] Don't write ``None`` in ``ast.ValueRecord.asFea()`` (#1599).\n- [subset] Fixed issue ``AssertionError`` when using ``--desubroutinize`` option\n  (#1590, #1594).\n- [graphite] Fixed bug in ``Silf`` table's ``decompile`` method unmasked by\n  previous typo fix (#1597). Decode languange code as UTF-8 in ``Sill`` table's\n  ``decompile`` method (#1600).\n"
+  }
+}

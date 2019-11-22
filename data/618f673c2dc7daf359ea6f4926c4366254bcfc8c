@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6NjE4ZjY3M2MyZGM3ZGFmMzU5ZWE2ZjQ5MjZjNDM2NjI1NGJjZmM4Yw==",
+  "sha": "618f673c2dc7daf359ea6f4926c4366254bcfc8c",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/618f673c2dc7daf359ea6f4926c4366254bcfc8c",
+  "tagger": {
+    "name": "Matti Ranta",
+    "email": "matti@mdranta.net",
+    "date": "2019-01-18T06:18:37Z"
+  },
+  "object": {
+    "sha": "8da5237107c369209fefab0b1afb52419937ca0f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/8da5237107c369209fefab0b1afb52419937ca0f"
+  },
+  "tag": "v1.7.0-rc3",
+  "message": "* SECURITY\n  * Do not display the raw OpenID error in the UI (#5705) (#5712)\n  * When redirecting clean the path to avoid redirecting to external site (#5669) (#5679)\n* BUGFIX\n  * Fix sqlite deadlock when assigning to a PR (#5640) (#5642)\n  * Don't close issues via commits on non-default branch. (#5622) (#5643)\n  * Fix commit page showing status for current default branch (#5650) (#5653)\n  * Only count users own actions for heatmap contributions (#5647) (#5655)\n  * Update xorm to fix issue postgresql dumping issues (#5680) (#5692)\n  * Use correct value for \"MSpan Structures Obtained\" (#5706) (#5716)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlxBb70ACgkQ2bVhO+uB\nP5mTQgf/e8d9aRTELvTiBftQYk5VF/IrFM0963H3oWFlvqqhLcRZJrTsCSfNYVbB\n7P5RVePR+eotwb7jHzF9rOxAEqUyUa3ZqCu6pN/1XYp0zidMRPi8y8/lrZYcAmMf\nkxwz257SyQF6QZgi6A5FZr2XqPFfXy9Q39p16pIKGKE7k+fiO2f1bR6mpNpLLTSG\njoWlkWExZmXkoG8jip4sOUw54vZ0pxYonGJcctQXEtjQpVWRj3ms7FiwoiLA74V6\nu+IrsJ3V8vsG2UR7MXZ2ieO2zHh3dVSZ8HdQ0E1m/caoaBaNJxwMFawx7tODlgz/\nzaHQqcSepxfMYLxhwOVzuAE7T/umew==\n=QSsj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlxBb70ACgkQ2bVhO+uB\nP5mTQgf/e8d9aRTELvTiBftQYk5VF/IrFM0963H3oWFlvqqhLcRZJrTsCSfNYVbB\n7P5RVePR+eotwb7jHzF9rOxAEqUyUa3ZqCu6pN/1XYp0zidMRPi8y8/lrZYcAmMf\nkxwz257SyQF6QZgi6A5FZr2XqPFfXy9Q39p16pIKGKE7k+fiO2f1bR6mpNpLLTSG\njoWlkWExZmXkoG8jip4sOUw54vZ0pxYonGJcctQXEtjQpVWRj3ms7FiwoiLA74V6\nu+IrsJ3V8vsG2UR7MXZ2ieO2zHh3dVSZ8HdQ0E1m/caoaBaNJxwMFawx7tODlgz/\nzaHQqcSepxfMYLxhwOVzuAE7T/umew==\n=QSsj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8da5237107c369209fefab0b1afb52419937ca0f\ntype commit\ntag v1.7.0-rc3\ntagger Matti Ranta <matti@mdranta.net> 1547792317 -0500\n\n* SECURITY\n  * Do not display the raw OpenID error in the UI (#5705) (#5712)\n  * When redirecting clean the path to avoid redirecting to external site (#5669) (#5679)\n* BUGFIX\n  * Fix sqlite deadlock when assigning to a PR (#5640) (#5642)\n  * Don't close issues via commits on non-default branch. (#5622) (#5643)\n  * Fix commit page showing status for current default branch (#5650) (#5653)\n  * Only count users own actions for heatmap contributions (#5647) (#5655)\n  * Update xorm to fix issue postgresql dumping issues (#5680) (#5692)\n  * Use correct value for \"MSpan Structures Obtained\" (#5706) (#5716)\n"
+  }
+}

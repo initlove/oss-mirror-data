@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE0NzY5ODplZmFmYjY1MGMyMmZiZTExNDVjYjZjYjM4ZjAyYmU3NzcyYmI4YmI5",
+  "sha": "efafb650c22fbe1145cb6cb38f02be7772bb8bb9",
+  "url": "https://api.github.com/repos/proot-me/proot/git/tags/efafb650c22fbe1145cb6cb38f02be7772bb8bb9",
+  "tagger": {
+    "name": "Cédric VINCENT",
+    "email": "cedric.vincent@st.com",
+    "date": "2014-09-15T12:24:05Z"
+  },
+  "object": {
+    "sha": "5dfa69e998e356fc50e8d95ead05899fb35897dd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/proot-me/proot/git/commits/5dfa69e998e356fc50e8d95ead05899fb35897dd"
+  },
+  "tag": "v4.0.3",
+  "message": "Release v4.0.3\n==============\n\n+ Heap emulation is disabled when a \"suspicious\" call to brk(2) is\n  actually legit, as it might be the case when launching the very\n  first program.\n\n+ The \"-0\" and \"-S\" options (\"root\" identity emulation) now fake\n  success of mknodat(2), as it was the case for mknod(2) previously.\n  This missing feature was revealed by the AArch64 port.\n\n+ The \"-k\" option (kernel compatibility emulation) now works on\n  Linux/AArch64.\n\nThanks to Rémi Duraffort for the bug reports and for his LAVA testing\nplatform!\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjo3MWVlYzljOTFjMzc1ZjYzZGYzMGQ3ZDVhMDZiNTkzMTI2NzA4ZDQ5",
+  "sha": "71eec9c91c375f63df30d7d5a06b593126708d49",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/71eec9c91c375f63df30d7d5a06b593126708d49",
+  "tagger": {
+    "name": "Paul Ivanov",
+    "email": "pi@berkeley.edu",
+    "date": "2019-02-26T04:33:26Z"
+  },
+  "object": {
+    "sha": "93990abc5c6917a6a82d966ce1a4380d30370b00",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/93990abc5c6917a6a82d966ce1a4380d30370b00"
+  },
+  "tag": "v3.0.3",
+  "message": "REL: v3.0.3\n\nThe third and last planned bug-fix release of the 3.0 series\n\n* fix several possible memory leaks\n* documentation fixes\n\njquery-ui is no longer bundled in git repo and is downloaded during\nthe install or sdist process. If you are installing from pypi the\nfiles will be included, but if you are installing from git you will\nneed internet access the first time you run `pip install .`. The\ninstall process tries to cache the files and will not need internet\naccess on future installations.\n-----BEGIN PGP SIGNATURE-----\n\niHMEABECADMWIQTKOzv4OU1OkpXhSxd75yZFDz4o9wUCXHTBphUccGF1bGl2YW5v\ndkB5YWhvby5jb20ACgkQe+cmRQ8+KPeoygCeKrG9yEJRyDb1QffctUg6c+PLWQkA\noJc4HihfjZ48HRc1gHmgGgDAF83p\n=ttr1\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niHMEABECADMWIQTKOzv4OU1OkpXhSxd75yZFDz4o9wUCXHTBphUccGF1bGl2YW5v\ndkB5YWhvby5jb20ACgkQe+cmRQ8+KPeoygCeKrG9yEJRyDb1QffctUg6c+PLWQkA\noJc4HihfjZ48HRc1gHmgGgDAF83p\n=ttr1\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 93990abc5c6917a6a82d966ce1a4380d30370b00\ntype commit\ntag v3.0.3\ntagger Paul Ivanov <pi@berkeley.edu> 1551155606 -0800\n\nREL: v3.0.3\n\nThe third and last planned bug-fix release of the 3.0 series\n\n* fix several possible memory leaks\n* documentation fixes\n\njquery-ui is no longer bundled in git repo and is downloaded during\nthe install or sdist process. If you are installing from pypi the\nfiles will be included, but if you are installing from git you will\nneed internet access the first time you run `pip install .`. The\ninstall process tries to cache the files and will not need internet\naccess on future installations.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTg3ODA5ODE6YWQyOTVmNzA0OWI5ODk5NjczMGM5ZTkwYWMzYmIwYTQyYjA2MTUwZg==",
+  "sha": "ad295f7049b98996730c9e90ac3bb0a42b06150f",
+  "url": "https://api.github.com/repos/cloudera/impyla/git/tags/ad295f7049b98996730c9e90ac3bb0a42b06150f",
+  "tagger": {
+    "name": "Uri Laserson",
+    "email": "laserson@cloudera.com",
+    "date": "2015-11-09T23:01:43Z"
+  },
+  "object": {
+    "sha": "5c1d2de6cdc2608c0e8db7e213d38d2f4e91ded4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/cloudera/impyla/git/commits/5c1d2de6cdc2608c0e8db7e213d38d2f4e91ded4"
+  },
+  "tag": "v0.12.0",
+  "message": "Release v0.12.0\n\nMain functional improvement is adding columnar fetching.\n\n* New abstractions to encapsulate HS2 objects; no effect on user API\n* Timestamps and Decimals are optionally parsed\n* Removed deprecated functionality; package is much simpler now\n* Support for columnar fetching, avoiding unnecessary repivoting of data\n* Operations are now closed when cursors are closed\n* Support for paramstyle=format (IMPYLA-138)\n* setup.py more robust with older versions of setuptools (IMPYLA-133)\n* Eliminate default socket timeout.  It must be set manually if desired. (IMPYLA-128)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6YjZmMDE2Njk0YWExNTIxYmQ2NzJmODVkNjRiYTVlNDZjZTMwOTEyMA==",
+  "sha": "b6f016694aa1521bd672f85d64ba5e46ce309120",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/b6f016694aa1521bd672f85d64ba5e46ce309120",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo.lupo@daltonmaag.com",
+    "date": "2016-09-26T22:28:53Z"
+  },
+  "object": {
+    "sha": "375785ca2a8bf5fa7ba46619f8d263722039c3bf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/375785ca2a8bf5fa7ba46619f8d263722039c3bf"
+  },
+  "tag": "3.1.0",
+  "message": "[feaLib] New library to parse and compile Adobe FDK OpenType Feature files.\n[mtiLib] New library to parse and compile Monotype 'FontDame' OpenType Layout Tables files.\n[voltLib] New library to parse Microsoft VOLT project files.\n[otlLib] New library to work with OpenType Layout tables.\n[varLib] New library to work with OpenType Font Variations.\n[pens] Add ttGlyphPen to draw to TrueType glyphs, and t2CharStringPen to draw to Type 2 Charstrings (CFF); add areaPen and perimeterPen.\n[ttLib.tables] Implement 'meta' and 'trak' tables.\n[ttx] Add --flavor option for compiling to 'woff' or 'woff2'; add --with-zopfli option to use Zopfli to compress WOFF 1.0 fonts.\n[subset] Support subsetting 'COLR'/'CPAL' and 'CBDT'/'CBLC' color fonts tables, and 'gvar' table for variation fonts.\n[Snippets] Add symfont.py, for symbolic font statistics analysis; interpolatable.py, a preliminary script for detecting interpolation errors; {merge,dump}_woff_metadata.py.\n[classifyTools] Helpers to classify things into classes.\n[CI] Run tests on Windows, Linux and macOS using Appveyor and Travis CI; check unit test coverge with Coverage.py/Coveralls; automatic deployment to PyPI on tags.\n[loggingTools] Use Python built-in logging module to print messages.\n[py23] Make round() behave like Python 3 built-in round(); define round2() and round3().\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

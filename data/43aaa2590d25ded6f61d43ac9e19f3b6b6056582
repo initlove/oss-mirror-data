@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6NDNhYWEyNTkwZDI1ZGVkNmY2MWQ0M2FjOWUxOWYzYjZiNjA1NjU4Mg==",
+  "sha": "43aaa2590d25ded6f61d43ac9e19f3b6b6056582",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/43aaa2590d25ded6f61d43ac9e19f3b6b6056582",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2018-02-16T15:31:39Z"
+  },
+  "object": {
+    "sha": "a360a6aaadfa00d819da52aec495f47ed00df8fe",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/a360a6aaadfa00d819da52aec495f47ed00df8fe"
+  },
+  "tag": "libmodulemd-1.0.2",
+  "message": "Release libmodulemd 1.0.2\n\n- Be more strict with certain parser edge-cases\n- Replace popt argument processing with glib\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWob5XQAKCRB6JVViNrqj\no1eKAJwL17oX9DIFrZhekHwU607L3ea5sACeMEzxHOigCwj0EXaptnH+io10xQ0=\n=+DHA\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWob5XQAKCRB6JVViNrqj\no1eKAJwL17oX9DIFrZhekHwU607L3ea5sACeMEzxHOigCwj0EXaptnH+io10xQ0=\n=+DHA\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a360a6aaadfa00d819da52aec495f47ed00df8fe\ntype commit\ntag libmodulemd-1.0.2\ntagger Stephen Gallagher <sgallagh@redhat.com> 1518795099 -0500\n\nRelease libmodulemd 1.0.2\n\n- Be more strict with certain parser edge-cases\n- Replace popt argument processing with glib\n"
+  }
+}

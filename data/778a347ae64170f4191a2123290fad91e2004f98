@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTg3ODA5ODE6Nzc4YTM0N2FlNjQxNzBmNDE5MWEyMTIzMjkwZmFkOTFlMjAwNGY5OA==",
+  "sha": "778a347ae64170f4191a2123290fad91e2004f98",
+  "url": "https://api.github.com/repos/cloudera/impyla/git/tags/778a347ae64170f4191a2123290fad91e2004f98",
+  "tagger": {
+    "name": "Uri Laserson",
+    "email": "laserson@cloudera.com",
+    "date": "2015-03-12T00:54:40Z"
+  },
+  "object": {
+    "sha": "755307975218d9ea289a873a5f9cd9c61f8a24ac",
+    "type": "commit",
+    "url": "https://api.github.com/repos/cloudera/impyla/git/commits/755307975218d9ea289a873a5f9cd9c61f8a24ac"
+  },
+  "tag": "v0.9.1",
+  "message": "Release v0.9.1\n\n* Added precision/scale to cursor for Decimal type\n* cursor.execute now correctly passes configuration options with HS2\n* A bit of cleanup\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

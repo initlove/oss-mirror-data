@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6ZmY5YzZmZTY2MzA5MjU4MmFjYTIzYjdlMThjMmNlZDk0NjQxZjI2NQ==",
+  "sha": "ff9c6fe663092582aca23b7e18c2ced94641f265",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/ff9c6fe663092582aca23b7e18c2ced94641f265",
+  "tagger": {
+    "name": "Kim \"BKC\" Carlbäcker",
+    "email": "kim.carlbacker@gmail.com",
+    "date": "2017-10-16T14:28:46Z"
+  },
+  "object": {
+    "sha": "46bb1cf0262a38ffdbdf25bb3da3bf564ccdaff8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/46bb1cf0262a38ffdbdf25bb3da3bf564ccdaff8"
+  },
+  "tag": "v1.2.1",
+  "message": "* BUGFIXES\n  * Fix PR, milestone and label functionality if issue unit is disabled (#2710) (#2714)\n  * Fix plain readme didn't render correctly on repo home page (#2705) (#2712)\n  * Fix so that user can still fork his own repository to his organizations (#2699) (#2707)\n  * Fix .netrc authentication (#2700) (#2708)\n  * Fix slice out of bounds error in mailer (#2479) (#2696)\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEE19hNl81yECPXd0SVARsaBRZLWlEFAlnkwkoACgkQARsaBRZL\nWlEM1BAAoxiYtY/yhUe6Atq82QVYvEM8AdDD3lpqboBsCnC8+q3jS1MBYzBZ9l2O\ndZhZbpCDC7/gfAiM+9bV6kpk2tWUnhH47Pht7ZjOhusmKsZdy07iMMqnOx1rmYQm\nQ70Kxs9wbx9963rPcM13ZB+mGwA2GHrIuA79lnffTxT/8pLGhAn7vo87DFewHdJ2\nx02ufWuhK//mU/c3ApCp7Lhv+dkteWjQU87jhMvbPgyBgNooei191mfy+JOIzsHA\nNVggNzLuuk12St18jkQm5FGAG9pyihQ3MREh1j3SfPCterIlqeT9EKxf3RshXo5P\nSIYfNiDa34GHidi1Jdmsj1SgtTvawH43dZh7Rnh1MFdbufq6OGCD7BjmEX+9K09O\ni46JC9HcAlEo6hNtGcNd4eAmVKFHdzyKxKV+r2YkXW4wvBxhdh2PrRYeA628Cuyq\nRdC1P657p+S/5lQQAkPjif76zZJUzXxi16sjv2JUtkdewE8bemcKgv4YNaWbnnCC\nR9piOGp5uVOBD31726Q5h1dqSZoT9k/LN5s+JTx37yaYuYWVqgoXorgs9TIF4kGt\nACkAc42MYt2lXri3UhnYQ0N+UpDsW0/p6xk1nqLDyJAYKzKhr0B3YVDHffM0svti\nLZ4vkGJlv3Gb8Z+psPapERWhxsaBIuuGSfg75d+Bl7gDgUdHIxI=\n=H9Ug\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "expired_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEE19hNl81yECPXd0SVARsaBRZLWlEFAlnkwkoACgkQARsaBRZL\nWlEM1BAAoxiYtY/yhUe6Atq82QVYvEM8AdDD3lpqboBsCnC8+q3jS1MBYzBZ9l2O\ndZhZbpCDC7/gfAiM+9bV6kpk2tWUnhH47Pht7ZjOhusmKsZdy07iMMqnOx1rmYQm\nQ70Kxs9wbx9963rPcM13ZB+mGwA2GHrIuA79lnffTxT/8pLGhAn7vo87DFewHdJ2\nx02ufWuhK//mU/c3ApCp7Lhv+dkteWjQU87jhMvbPgyBgNooei191mfy+JOIzsHA\nNVggNzLuuk12St18jkQm5FGAG9pyihQ3MREh1j3SfPCterIlqeT9EKxf3RshXo5P\nSIYfNiDa34GHidi1Jdmsj1SgtTvawH43dZh7Rnh1MFdbufq6OGCD7BjmEX+9K09O\ni46JC9HcAlEo6hNtGcNd4eAmVKFHdzyKxKV+r2YkXW4wvBxhdh2PrRYeA628Cuyq\nRdC1P657p+S/5lQQAkPjif76zZJUzXxi16sjv2JUtkdewE8bemcKgv4YNaWbnnCC\nR9piOGp5uVOBD31726Q5h1dqSZoT9k/LN5s+JTx37yaYuYWVqgoXorgs9TIF4kGt\nACkAc42MYt2lXri3UhnYQ0N+UpDsW0/p6xk1nqLDyJAYKzKhr0B3YVDHffM0svti\nLZ4vkGJlv3Gb8Z+psPapERWhxsaBIuuGSfg75d+Bl7gDgUdHIxI=\n=H9Ug\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 46bb1cf0262a38ffdbdf25bb3da3bf564ccdaff8\ntype commit\ntag v1.2.1\ntagger Kim \"BKC\" Carlbäcker <kim.carlbacker@gmail.com> 1508164126 +0200\n\n* BUGFIXES\n  * Fix PR, milestone and label functionality if issue unit is disabled (#2710) (#2714)\n  * Fix plain readme didn't render correctly on repo home page (#2705) (#2712)\n  * Fix so that user can still fork his own repository to his organizations (#2699) (#2707)\n  * Fix .netrc authentication (#2700) (#2708)\n  * Fix slice out of bounds error in mailer (#2479) (#2696)\n"
+  }
+}

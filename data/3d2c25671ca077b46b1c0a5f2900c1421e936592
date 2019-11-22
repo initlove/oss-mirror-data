@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6M2QyYzI1NjcxY2EwNzdiNDZiMWMwYTVmMjkwMGMxNDIxZTkzNjU5Mg==",
+  "sha": "3d2c25671ca077b46b1c0a5f2900c1421e936592",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/3d2c25671ca077b46b1c0a5f2900c1421e936592",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo.lupo@daltonmaag.com",
+    "date": "2017-01-14T15:22:42Z"
+  },
+  "object": {
+    "sha": "40a44f39d0c4d889d498863ac95711e2dde97f1a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/40a44f39d0c4d889d498863ac95711e2dde97f1a"
+  },
+  "tag": "3.5.0",
+  "message": "3.5.0\n\n- Font tables read from XML can now be written back to XML with no loss.\n- GSUB/GPOS LookupType is written out in XML as an element, not comment. (#792)\n- When parsing cmap table, do not store items mapped to glyph id 0. (#790)\n- [otlLib] Make ClassDef sorting deterministic. Fixes #766 (7d1ddb2)\n- [mtiLib] Added unit tests (#787)\n- [cvar] Implemented cvar table\n- [gvar] Renamed GlyphVariation to TupleVariation to match OpenType terminology.\n- [otTables] Handle gracefully empty VarData.Item array when compiling XML. (#797)\n- [varLib] Re-enabled generation of `HVAR` table for fonts with TrueType\n  outlines; removed `--build-HVAR` command-line option.\n- [feaLib] The parser can now be extended to support non-standard statements in\n  FEA code by using a customized Abstract Syntax Tree. See, for example,\n  `feaLib.builder_test.test_extensions` and baseClass.feax (#794, fixes #773).\n- [feaLib] Added `feaLib` command to the 'fonttools' command-line tool; applies\n  a feature file to a font. `fonttools feaLib -h` for help.\n- [pens] The `T2CharStringPen` now takes an optional `roundTolerance` argument\n  to control the rounding of coordinates (#804, fixes #769).\n- [ci] Measure test coverage on all supported python versions and OSes, combine\n  coverage data and upload to https://codecov.io/gh/fonttools/fonttools (#786)\n- [ci] Configured Travis and Appveyor for running tests on Python 3.6 (#785, 55c03bc)\n- The manual pages installation directory can be customized through\n  FONTTOOLS_MANPATH environment variable (#799, fixes #84).\n- [Snippets] Added otf2ttf.py, for converting fonts from CFF to TrueType using\n  the googlei18n/cu2qu module (#802)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

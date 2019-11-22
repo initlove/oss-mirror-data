@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzYwMDU6YjBjNGY5ZWQ4NmFkYzQwNjAzNDVhMGNlZmZiNWQwNzUwY2JkMzBjZg==",
+  "sha": "b0c4f9ed86adc4060345a0ceffb5d0750cbd30cf",
+  "url": "https://api.github.com/repos/gpg/libgcrypt/git/tags/b0c4f9ed86adc4060345a0ceffb5d0750cbd30cf",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2011-06-29T09:38:01Z"
+  },
+  "object": {
+    "sha": "a31c067c10a9232049592fb6322505995653119c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libgcrypt/git/commits/a31c067c10a9232049592fb6322505995653119c"
+  },
+  "tag": "libgcrypt-1.5.0",
+  "message": "Release tag for 1.5.0\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niEYEABECAAYFAk4K8oQACgkQzT/NXj1SwoJzDQCgtHmFupe+XTRGJNxUOKv87UNA\nw1gAoLdiinlriaDJzkgt6Y1iNDIlFQLI\n=Gjso\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niEYEABECAAYFAk4K8oQACgkQzT/NXj1SwoJzDQCgtHmFupe+XTRGJNxUOKv87UNA\nw1gAoLdiinlriaDJzkgt6Y1iNDIlFQLI\n=Gjso\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a31c067c10a9232049592fb6322505995653119c\ntype commit\ntag libgcrypt-1.5.0\ntagger Werner Koch <wk@gnupg.org> 1309340281 +0200\n\nRelease tag for 1.5.0\n"
+  }
+}

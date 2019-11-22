@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6OTBkMThmMGEzNWIyODMyZTlhNDgxMTUyNjZkYmEzYTYwNTMzMmE0ZA==",
+  "sha": "90d18f0a35b2832e9a48115266dba3a605332a4d",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/90d18f0a35b2832e9a48115266dba3a605332a4d",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2018-03-26T22:05:15Z"
+  },
+  "object": {
+    "sha": "3ae981c42a33b7cd1a28d5ed8e0e25d6c8ec9866",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/3ae981c42a33b7cd1a28d5ed8e0e25d6c8ec9866"
+  },
+  "tag": "3.24.2",
+  "message": "3.24.2\n\n- [otBase] Don't fail during ``ValueRecord`` copy if src has more items.\n  We drop hinting in the subsetter by simply changing ValueFormat, without\n  cleaning up the actual ValueRecords. This was causing assertion error if\n  a variable font was subsetted without hinting and then passed directly to\n  the mutator for instantiation without first it saving to disk.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjo3M2YyZDczMmFhODhjYWE4MDhjOTYwZDZlNjYxMDJkOTJmMzVmMzEy",
+  "sha": "73f2d732aa88caa808c960d6e66102d92f35f312",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/73f2d732aa88caa808c960d6e66102d92f35f312",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2019-05-18T01:55:42Z"
+  },
+  "object": {
+    "sha": "a8f4a742803b5238911b9c3f698f2417c3ac441a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/a8f4a742803b5238911b9c3f698f2417c3ac441a"
+  },
+  "tag": "v3.1.0",
+  "message": "REL: v3.1.0\n\nThe first release of the v3.1 series\n\nThis version of Matplotlib support Python 3.6+\n\nHighlights of this release include:\n\n - A helper method for scatter legends\n - Secondary axis support (ex, degrees and radians)\n - A concise date formatter\n - No longer requires a framework build of Python to use OSX backend\n - Major and minor ticks will no longer collide by default\n - A progress callback for animations\n - mplot3D is always registered\n - deprecated mlab functions have been removed\n - Many function calls have become stricter about invalid or ignored input\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEsYc9tVVEbczMtz/cvNkoBQ1xPXUFAlzfZiIACgkQvNkoBQ1x\nPXUt4g//UXdweKysh9djUxCdor5lg528qPNWm2TKKJ21gcDsbvYq8EzLwXbFLVky\nUAB3KPFYKkbqH3dL1gu6nAjeJYi8LQAkG/+pnEVlgx+QbaKf/MIIasgOttTSS7AO\nHuBARjp+lK/ib8tD5QNp6cE54ELzlw7UZM52YbDaKxw0ibbO+vPnDSfMuyazHffB\n3qpzapAZqwQIxlBE9l1wo0jVW+DgdUXMh7aeQEPKbdYNjV1ba91+iajdc7WM6qYk\nK8lLXc2zbA7cV0uXQGDMV7guSVhZh4FPKtQD/yGwdF2btiyqm238cF4KtlGGssTU\nXUL+0qxr86QBaS02knv5GbCukJvMPrPnQyAUSj1N4RCR+xmkPiFOrQUw9hxvRDzE\nfWl6P/3VZmDDMDpF9j//Uz8ZOUhmdLbki0j7VBqPPFC+PlfMX+XSfbPE0eNudYbX\nDAhFTq2kQQ4NUdBzw9YFinKyZtlbx0MJq0OM695WPrIdVSe06XTnSqk39COFxWjK\nIG8QXw7cyX7f51rCe8WoVobRLAMMyciZLwyxoXhh2MruwlGD3k413PShe3xG840k\ntzxr2uYQkHMZ6lMBSwTr//X+etJkq7jRotOlTCC0uzCRKglt4KWHoF91+4DGOlo9\npDo/G0+MB6vHyLFw0KnECnfNH+O4RlFxHLJbwOvCpod8f8Qv2hM=\n=ko2f\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEsYc9tVVEbczMtz/cvNkoBQ1xPXUFAlzfZiIACgkQvNkoBQ1x\nPXUt4g//UXdweKysh9djUxCdor5lg528qPNWm2TKKJ21gcDsbvYq8EzLwXbFLVky\nUAB3KPFYKkbqH3dL1gu6nAjeJYi8LQAkG/+pnEVlgx+QbaKf/MIIasgOttTSS7AO\nHuBARjp+lK/ib8tD5QNp6cE54ELzlw7UZM52YbDaKxw0ibbO+vPnDSfMuyazHffB\n3qpzapAZqwQIxlBE9l1wo0jVW+DgdUXMh7aeQEPKbdYNjV1ba91+iajdc7WM6qYk\nK8lLXc2zbA7cV0uXQGDMV7guSVhZh4FPKtQD/yGwdF2btiyqm238cF4KtlGGssTU\nXUL+0qxr86QBaS02knv5GbCukJvMPrPnQyAUSj1N4RCR+xmkPiFOrQUw9hxvRDzE\nfWl6P/3VZmDDMDpF9j//Uz8ZOUhmdLbki0j7VBqPPFC+PlfMX+XSfbPE0eNudYbX\nDAhFTq2kQQ4NUdBzw9YFinKyZtlbx0MJq0OM695WPrIdVSe06XTnSqk39COFxWjK\nIG8QXw7cyX7f51rCe8WoVobRLAMMyciZLwyxoXhh2MruwlGD3k413PShe3xG840k\ntzxr2uYQkHMZ6lMBSwTr//X+etJkq7jRotOlTCC0uzCRKglt4KWHoF91+4DGOlo9\npDo/G0+MB6vHyLFw0KnECnfNH+O4RlFxHLJbwOvCpod8f8Qv2hM=\n=ko2f\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a8f4a742803b5238911b9c3f698f2417c3ac441a\ntype commit\ntag v3.1.0\ntagger Thomas A Caswell <tcaswell@gmail.com> 1558144542 -0400\n\nREL: v3.1.0\n\nThe first release of the v3.1 series\n\nThis version of Matplotlib support Python 3.6+\n\nHighlights of this release include:\n\n - A helper method for scatter legends\n - Secondary axis support (ex, degrees and radians)\n - A concise date formatter\n - No longer requires a framework build of Python to use OSX backend\n - Major and minor ticks will no longer collide by default\n - A progress callback for animations\n - mplot3D is always registered\n - deprecated mlab functions have been removed\n - Many function calls have become stricter about invalid or ignored input\n"
+  }
+}

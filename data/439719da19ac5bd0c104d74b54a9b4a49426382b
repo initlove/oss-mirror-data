@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6NDM5NzE5ZGExOWFjNWJkMGMxMDRkNzRiNTRhOWI0YTQ5NDI2MzgyYg==",
+  "sha": "439719da19ac5bd0c104d74b54a9b4a49426382b",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/439719da19ac5bd0c104d74b54a9b4a49426382b",
+  "tagger": {
+    "name": "Matti Ranta",
+    "email": "matti@mdranta.net",
+    "date": "2018-12-09T14:16:38Z"
+  },
+  "object": {
+    "sha": "ad9f9cdc303c2fa8e6cc8fc257a7c94d447b8be5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/ad9f9cdc303c2fa8e6cc8fc257a7c94d447b8be5"
+  },
+  "tag": "v1.6.1",
+  "message": "* BUGFIXES\n  * Fix dependent issue searching when gitea is run in subpath (#5392) (#5400)\n  * API: '/orgs/:org/repos': return private repos with read access (#5393)\n  * Fix repository deletion when there is large number of issues in it (#5426) (#5434)\n  * Word-break the WebHook url to prevent a ui-break (#5445)\n  * Admin should be able to delete repos via the API even if they are not a member of the organization (#5443) (#5447)\n  * Ensure that the `closed_at` is set for closed (#5450)\n  * Fix topic name length on database (#5493) (#5495)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlwNI8YACgkQ2bVhO+uB\nP5mhrwf+PyWRiV5S6chJ5tVLhgVcTmdxdMsokqNQGSzNmNf+onUTv1eDyjdfbi3n\nCu0MUwgxv4Xl5BKc9Eick1cgPMVTplbJaoI3NItYu9gtx6A5wyPc5mcPt1/vwudB\nGke4ebqs4PO1Vs8MGnPppqXNqj13Y4HI1B+u1hd/jtklNQdqkRQgMet3LxswRaEA\nAPq7AyAv/GylOouHEt9Cx3G7i7PlpPlBPs6xT1PaquYczeZke/YexdPS2Z06wYtK\n5VPV3eopCFQ66ACwBvgkvbjvmxf76q333nyi281wVTUUn9ShIrbq9G2CEwwhUPwK\nKu8y/TKr8in5bujHj4B/YMASAlznvw==\n=+vea\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlwNI8YACgkQ2bVhO+uB\nP5mhrwf+PyWRiV5S6chJ5tVLhgVcTmdxdMsokqNQGSzNmNf+onUTv1eDyjdfbi3n\nCu0MUwgxv4Xl5BKc9Eick1cgPMVTplbJaoI3NItYu9gtx6A5wyPc5mcPt1/vwudB\nGke4ebqs4PO1Vs8MGnPppqXNqj13Y4HI1B+u1hd/jtklNQdqkRQgMet3LxswRaEA\nAPq7AyAv/GylOouHEt9Cx3G7i7PlpPlBPs6xT1PaquYczeZke/YexdPS2Z06wYtK\n5VPV3eopCFQ66ACwBvgkvbjvmxf76q333nyi281wVTUUn9ShIrbq9G2CEwwhUPwK\nKu8y/TKr8in5bujHj4B/YMASAlznvw==\n=+vea\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ad9f9cdc303c2fa8e6cc8fc257a7c94d447b8be5\ntype commit\ntag v1.6.1\ntagger Matti Ranta <matti@mdranta.net> 1544364998 -0500\n\n* BUGFIXES\n  * Fix dependent issue searching when gitea is run in subpath (#5392) (#5400)\n  * API: '/orgs/:org/repos': return private repos with read access (#5393)\n  * Fix repository deletion when there is large number of issues in it (#5426) (#5434)\n  * Word-break the WebHook url to prevent a ui-break (#5445)\n  * Admin should be able to delete repos via the API even if they are not a member of the organization (#5443) (#5447)\n  * Ensure that the `closed_at` is set for closed (#5450)\n  * Fix topic name length on database (#5493) (#5495)\n"
+  }
+}

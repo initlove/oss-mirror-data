@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzYwMDU6NDU5ZmZlMzEyM2UzMDgzYzM4NmQ0MjdlZTZlMmVjMGYwZjQ2MWRjYg==",
+  "sha": "459ffe3123e3083c386d427ee6e2ec0f0f461dcb",
+  "url": "https://api.github.com/repos/gpg/libgcrypt/git/tags/459ffe3123e3083c386d427ee6e2ec0f0f461dcb",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2015-02-27T10:22:50Z"
+  },
+  "object": {
+    "sha": "0ff1a27a5ca2d99fc7a0f21aec093a0fdea10f8a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libgcrypt/git/commits/0ff1a27a5ca2d99fc7a0f21aec093a0fdea10f8a"
+  },
+  "tag": "libgcrypt-1.6.3",
+  "message": "Side-channel fixes\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJU8EV6AAoJECSbOdJPJeO25AwH/3Pa4MqHuKvqXidUJruCQvPZ\nJVEOYLozrCsRkRdTwcrQM7U0MyYqwk3ZegEYNn/eJ+cbuBTUOdjhqg1LevevCraE\n9PHQK1CfLdlh0pC83dluDdsjpidQptWYykFOBpCKaGR2SLybg8JqHczOiD9VvSGf\nmdovdk2zL1RoXdCE2j6vJ52lWk4zSBJxBF5k4NpTOgxMBzU7z/wa1q08eyI8p2ym\nyR9XHl48M4pDBTATfHafcm2BtbOAWmoyY0eQWMJI+m45YojuspEbD3+rWS+Xl9E+\n+GQwrCC30xX3BmUKSsCDZUgVSVCv7n12ppfXM/cFNi80h17Zl/PeAOQU6PYwUgU=\n=qz+A\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJU8EV6AAoJECSbOdJPJeO25AwH/3Pa4MqHuKvqXidUJruCQvPZ\nJVEOYLozrCsRkRdTwcrQM7U0MyYqwk3ZegEYNn/eJ+cbuBTUOdjhqg1LevevCraE\n9PHQK1CfLdlh0pC83dluDdsjpidQptWYykFOBpCKaGR2SLybg8JqHczOiD9VvSGf\nmdovdk2zL1RoXdCE2j6vJ52lWk4zSBJxBF5k4NpTOgxMBzU7z/wa1q08eyI8p2ym\nyR9XHl48M4pDBTATfHafcm2BtbOAWmoyY0eQWMJI+m45YojuspEbD3+rWS+Xl9E+\n+GQwrCC30xX3BmUKSsCDZUgVSVCv7n12ppfXM/cFNi80h17Zl/PeAOQU6PYwUgU=\n=qz+A\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0ff1a27a5ca2d99fc7a0f21aec093a0fdea10f8a\ntype commit\ntag libgcrypt-1.6.3\ntagger Werner Koch <wk@gnupg.org> 1425032570 +0100\n\nSide-channel fixes\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMxNjMxMDo3MmRjYzcyOGIzZGNlZGQxMmY2NWY2MjA2NjNhMzczNzM5YTdjM2Nh",
+  "sha": "72dcc728b3dcedd12f65f620663a373739a7c3ca",
+  "url": "https://api.github.com/repos/tytso/e2fsprogs/git/tags/72dcc728b3dcedd12f65f620663a373739a7c3ca",
+  "tagger": {
+    "name": "Theodore Y. Ts'o",
+    "email": "tytso@mit.edu",
+    "date": "2019-08-03T03:49:00Z"
+  },
+  "object": {
+    "sha": "d4a7e2b1dac78e82c9c944d402c7270da987c06f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tytso/e2fsprogs/git/commits/d4a7e2b1dac78e82c9c944d402c7270da987c06f"
+  },
+  "tag": "archive/debian/1.44.5-1+deb9u1",
+  "message": "e2fsprogs release 1.44.5-1+deb9u1 for stretch (stretch) [dgit]\n\n[dgit distro=debian no-split --quilt=linear]\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEK2m5VNv+CHkogTfJ8vlZVpUNgaMFAl1FFkkACgkQ8vlZVpUN\ngaNH3AgAknrTSpMuozdIQJhBCEFahN4K7/fhHfUhHnOpnL0eAjezzQmwdF5rD1Be\nLpIUisZcjlFZ95WBA5rX1NgvIWBrGtwpaBfMH6DKFrBJI4WbpjtkpufiLHn6W9Hk\n5eS2BN/dqwiINA4UVtUVvOmLjQMMkZSGyC/GbjtoICvVZr6y/pr5EkRfdG+125HM\nU6iq8FCbm0uFuTEV0Jo/hqc23ivGo+AqkG5gobdIKj26dRZex4+uAlLWI11TrS0L\nZkvS8nrtNseO/boO7Df6S6Z6duG4wKOmE1W0MVkTen26lvY6Jn59qmLqEBsPZkUs\nHrXQPj36ahtct8EYOiPXWRs0+Ch3Ig==\n=nW4z\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEK2m5VNv+CHkogTfJ8vlZVpUNgaMFAl1FFkkACgkQ8vlZVpUN\ngaNH3AgAknrTSpMuozdIQJhBCEFahN4K7/fhHfUhHnOpnL0eAjezzQmwdF5rD1Be\nLpIUisZcjlFZ95WBA5rX1NgvIWBrGtwpaBfMH6DKFrBJI4WbpjtkpufiLHn6W9Hk\n5eS2BN/dqwiINA4UVtUVvOmLjQMMkZSGyC/GbjtoICvVZr6y/pr5EkRfdG+125HM\nU6iq8FCbm0uFuTEV0Jo/hqc23ivGo+AqkG5gobdIKj26dRZex4+uAlLWI11TrS0L\nZkvS8nrtNseO/boO7Df6S6Z6duG4wKOmE1W0MVkTen26lvY6Jn59qmLqEBsPZkUs\nHrXQPj36ahtct8EYOiPXWRs0+Ch3Ig==\n=nW4z\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d4a7e2b1dac78e82c9c944d402c7270da987c06f\ntype commit\ntag archive/debian/1.44.5-1+deb9u1\ntagger Theodore Y. Ts'o <tytso@mit.edu> 1564804140 -0400\n\ne2fsprogs release 1.44.5-1+deb9u1 for stretch (stretch) [dgit]\n\n[dgit distro=debian no-split --quilt=linear]\n"
+  }
+}

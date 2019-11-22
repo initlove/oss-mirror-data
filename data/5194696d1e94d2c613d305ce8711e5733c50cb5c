@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6NTE5NDY5NmQxZTk0ZDJjNjEzZDMwNWNlODcxMWU1NzMzYzUwY2I1Yw==",
+  "sha": "5194696d1e94d2c613d305ce8711e5733c50cb5c",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/5194696d1e94d2c613d305ce8711e5733c50cb5c",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2019-10-24T18:31:28Z"
+  },
+  "object": {
+    "sha": "4861214d12c79ba9f943acc80fc1cc538764913e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/4861214d12c79ba9f943acc80fc1cc538764913e"
+  },
+  "tag": "libmodulemd-2.8.2",
+  "message": "Tagging libmodulemd 2.8.2\n\nStephen Gallagher (19):\n * Fix missing error return\n * Validate in the ModuleStream parent class\n * ModuleStream: Properly override names when asked to\n * Use podman instead of docker where possible\n * Use safer version of dup()\n * subdocument: match the argument name in the header\n * Fix invalid nested_error usage\n * Reformat python code with black\n * Auto-format python with black\n * Add clang_tidy autoformatter\n * Apply clang-tidy formatting\n * Alphabetize meson_options.txt\n * Travis: Add --layers=true to buildah for Dockerfile.deps\n * Travis: Add F31 as a test target\n * Travis: Run Fedora tests on aarch64\n * Separate Travis builds into stages\n * Skip clang-tidy in CI\n * Skip formatters when building RPMs\n * Update version to 2.8.2\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXbHuHAAKCRB6JVViNrqj\no5zhAJwOKHnAkDxWeYH2YzEnAlRlwWYNhgCeJyuZwRRajMewam6PjMz7rzBCHeE=\n=i19Q\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXbHuHAAKCRB6JVViNrqj\no5zhAJwOKHnAkDxWeYH2YzEnAlRlwWYNhgCeJyuZwRRajMewam6PjMz7rzBCHeE=\n=i19Q\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4861214d12c79ba9f943acc80fc1cc538764913e\ntype commit\ntag libmodulemd-2.8.2\ntagger Stephen Gallagher <sgallagh@redhat.com> 1571941888 -0400\n\nTagging libmodulemd 2.8.2\n\nStephen Gallagher (19):\n * Fix missing error return\n * Validate in the ModuleStream parent class\n * ModuleStream: Properly override names when asked to\n * Use podman instead of docker where possible\n * Use safer version of dup()\n * subdocument: match the argument name in the header\n * Fix invalid nested_error usage\n * Reformat python code with black\n * Auto-format python with black\n * Add clang_tidy autoformatter\n * Apply clang-tidy formatting\n * Alphabetize meson_options.txt\n * Travis: Add --layers=true to buildah for Dockerfile.deps\n * Travis: Add F31 as a test target\n * Travis: Run Fedora tests on aarch64\n * Separate Travis builds into stages\n * Skip clang-tidy in CI\n * Skip formatters when building RPMs\n * Update version to 2.8.2\n"
+  }
+}

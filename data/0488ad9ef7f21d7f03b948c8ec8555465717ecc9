@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMzNjg0NDU6MDQ4OGFkOWVmN2YyMWQ3ZjAzYjk0OGM4ZWM4NTU1NDY1NzE3ZWNjOQ==",
+  "sha": "0488ad9ef7f21d7f03b948c8ec8555465717ecc9",
+  "url": "https://api.github.com/repos/webmproject/libwebp/git/tags/0488ad9ef7f21d7f03b948c8ec8555465717ecc9",
+  "tagger": {
+    "name": "James Zern",
+    "email": "jzern@google.com",
+    "date": "2015-03-12T00:22:21Z"
+  },
+  "object": {
+    "sha": "326b5fb863a43ab8cb225bca913e9025f727f078",
+    "type": "commit",
+    "url": "https://api.github.com/repos/webmproject/libwebp/git/commits/326b5fb863a43ab8cb225bca913e9025f727f078"
+  },
+  "tag": "v0.4.3",
+  "message": "libwebp-0.4.3\n- 3/3/15: version 0.4.3\n  This is a binary compatible release.\n  * Android / gcc / iOS / MSVS build fixes and improvements\n  * lossless decode fix (issue #239 -- since 0.4.0)\n  * documentation / vwebp updates for animation\n  * multi-threading fix (issue #234)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVANxkAAoJEPnD1r24IytdfU4QAJekjGx7gIHiJHnZmdQIMLBr\nwVEejndNLnM5FkqOS7I3+0FDq7CcrBiR335SrXzyizJy3KZ+6WeZkca9DpLTK1qM\nnOjW5JBuLE0fgIQBMsOwi+Xplj+eZe+iPnm0YhrgPsiJoIdzkGWpT9F20T2myiQn\nkmNLGSVK6+bgCjkyvPbfW9xlGYtn+LQZ4b37zrJspzR2YXYHomO/vIFUNOaEBbKg\n/Is9Wvwp5DUbFxnEpqreF2bhUaS1y4akQbXGom/T7er2dxZMJbnP7EWyEVtcY7B0\nxkidC2FgC9YMUaNLqPjW3YHbBhp4hyBEYHY/Ll3qQ6jkqEhqTrXF0eX0afWgACyA\ncsm5QLtEtZN5PgOa+3i2BlDQ0/msWXbbIGb7muCQfozLULimu51QHygccnG8ed5L\n8Dvx2nX8SzkjOcokVmdp0z+iAg+oNC6+1pDo6klN03RcHkIfIkkpOZ4a+hVUnZDB\nF0Jjglax8fRQzLe4J/fScaQK86tUytH8gPDxmAP9oA9aUHHIlXwVTYXpUvLBcPpf\nNyD7Xnm/a+95frX7qJviNk3guYwkLiawXEakds1vFq/x0/qF40V1Lkjrdnky5/tC\n1jx3iV2TrBlxOFO4mFrvd/Go1krhVLASYDUez/J3aLCxV1JqEDhFFQ6WeSnCznwZ\nRMMzd8dlri4phrYAUiCG\n=k4am\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVANxkAAoJEPnD1r24IytdfU4QAJekjGx7gIHiJHnZmdQIMLBr\nwVEejndNLnM5FkqOS7I3+0FDq7CcrBiR335SrXzyizJy3KZ+6WeZkca9DpLTK1qM\nnOjW5JBuLE0fgIQBMsOwi+Xplj+eZe+iPnm0YhrgPsiJoIdzkGWpT9F20T2myiQn\nkmNLGSVK6+bgCjkyvPbfW9xlGYtn+LQZ4b37zrJspzR2YXYHomO/vIFUNOaEBbKg\n/Is9Wvwp5DUbFxnEpqreF2bhUaS1y4akQbXGom/T7er2dxZMJbnP7EWyEVtcY7B0\nxkidC2FgC9YMUaNLqPjW3YHbBhp4hyBEYHY/Ll3qQ6jkqEhqTrXF0eX0afWgACyA\ncsm5QLtEtZN5PgOa+3i2BlDQ0/msWXbbIGb7muCQfozLULimu51QHygccnG8ed5L\n8Dvx2nX8SzkjOcokVmdp0z+iAg+oNC6+1pDo6klN03RcHkIfIkkpOZ4a+hVUnZDB\nF0Jjglax8fRQzLe4J/fScaQK86tUytH8gPDxmAP9oA9aUHHIlXwVTYXpUvLBcPpf\nNyD7Xnm/a+95frX7qJviNk3guYwkLiawXEakds1vFq/x0/qF40V1Lkjrdnky5/tC\n1jx3iV2TrBlxOFO4mFrvd/Go1krhVLASYDUez/J3aLCxV1JqEDhFFQ6WeSnCznwZ\nRMMzd8dlri4phrYAUiCG\n=k4am\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 326b5fb863a43ab8cb225bca913e9025f727f078\ntype commit\ntag v0.4.3\ntagger James Zern <jzern@google.com> 1426119741 -0700\n\nlibwebp-0.4.3\n- 3/3/15: version 0.4.3\n  This is a binary compatible release.\n  * Android / gcc / iOS / MSVS build fixes and improvements\n  * lossless decode fix (issue #239 -- since 0.4.0)\n  * documentation / vwebp updates for animation\n  * multi-threading fix (issue #234)\n"
+  }
+}

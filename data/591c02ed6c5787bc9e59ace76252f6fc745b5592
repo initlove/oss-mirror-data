@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6NTkxYzAyZWQ2YzU3ODdiYzllNTlhY2U3NjI1MmY2ZmM3NDViNTU5Mg==",
+  "sha": "591c02ed6c5787bc9e59ace76252f6fc745b5592",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/591c02ed6c5787bc9e59ace76252f6fc745b5592",
+  "tagger": {
+    "name": "Lunny Xiao",
+    "email": "xiaolunwen@gmail.com",
+    "date": "2019-08-22T15:25:51Z"
+  },
+  "object": {
+    "sha": "30dbddcc4de73c1e359f863108c09dabab3ef4ef",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/30dbddcc4de73c1e359f863108c09dabab3ef4ef"
+  },
+  "tag": "v1.9.2",
+  "message": "* BUGFIXES\n  * Fix wrong sender when send slack webhook (#7918) (#7924)\n  * Upload support text/plain; charset=utf8 (#7899)\n  * Lfs/lock: round locked_at timestamp to second (#7872) (#7875)\n  * Fix non existent milestone with 500 error (#7867) (#7873)\n* SECURITY\n  * Fix No PGP signature on 1.9.1 tag (#7874)\n  * Release built with go 1.12.9 to fix security fixes in golang std lib, ref: https://groups.google.com/forum/#!msg/golang-announce/oeMaeUnkvVE/a49yvTLqAAAJ\n* ENHANCEMENT\n  * Fix pull creation with empty changes (#7920) (#7926)\n* BUILD\n  * Drone/docker: prepare multi-arch release + provide arm64 image (#7571) (#7884)\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEumb2f9c/cFjXEtMIw7fJG2Mvc4oFAl1es/8ACgkQw7fJG2Mv\nc4pHhBAAtkHFJ5fJECoK1fINE5pPSLa5BERiwtLRT8UuoDibiilU0MWBRVoF4G4A\nJbsNL5myxGuIWc6P5yujAEve+xxolDHRExh/JWhImhQ/G5mjjjxrY3V3Veu3kwDD\n22vtBmtdGiXtqnvCM9TRnUBhm718gv89P+T6eulL87twvedz4MDtRR2jwej6DE9P\nK22k/ltpmhNvN4aec0CsXQTydExeBZqO1YtKOJl8D7wNvF9W40ubfMd9kyokPR3l\nCongRCqHQS1cXN7PnutfSVv4vY9Ntbvsa4F44vgFA8rvOMN2Vub3AmryQ+OGUEsu\n6glKhnJGVoqlqWJNZZl1sOMF4T1/DA6Vrh682OpwOjaYUxaTYbEuPJPW/pwmCbkJ\n6MCJ973TRbwhrErE7N/lQuCa/QetaiuIf2OBoK2QnQ0nawvj2vbgX3z8pKqfafG/\nHKDbb22hNs9G656geAkVER8zqy6Y0z/vh/1TnuGAWVclUh0+/4OvhuAdIHkn67I6\nk1cn6ytktbsHqF1QY0gDCuCGleOK10Mq7hGQ4cRKTegpUNsMQRHXVzx2YRwmRxoS\naLOEI5Jcd36omG7bPDfDpZ4vu9mWYTeKgho6GEVpUtd7MpMyGkjna8ItmZ9zwytX\nPHNAaDX2KgBYVFIVAM/x6+m7Tk1pZdZyVABJRd3mqUdZf9PRvqA=\n=m/uq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEumb2f9c/cFjXEtMIw7fJG2Mvc4oFAl1es/8ACgkQw7fJG2Mv\nc4pHhBAAtkHFJ5fJECoK1fINE5pPSLa5BERiwtLRT8UuoDibiilU0MWBRVoF4G4A\nJbsNL5myxGuIWc6P5yujAEve+xxolDHRExh/JWhImhQ/G5mjjjxrY3V3Veu3kwDD\n22vtBmtdGiXtqnvCM9TRnUBhm718gv89P+T6eulL87twvedz4MDtRR2jwej6DE9P\nK22k/ltpmhNvN4aec0CsXQTydExeBZqO1YtKOJl8D7wNvF9W40ubfMd9kyokPR3l\nCongRCqHQS1cXN7PnutfSVv4vY9Ntbvsa4F44vgFA8rvOMN2Vub3AmryQ+OGUEsu\n6glKhnJGVoqlqWJNZZl1sOMF4T1/DA6Vrh682OpwOjaYUxaTYbEuPJPW/pwmCbkJ\n6MCJ973TRbwhrErE7N/lQuCa/QetaiuIf2OBoK2QnQ0nawvj2vbgX3z8pKqfafG/\nHKDbb22hNs9G656geAkVER8zqy6Y0z/vh/1TnuGAWVclUh0+/4OvhuAdIHkn67I6\nk1cn6ytktbsHqF1QY0gDCuCGleOK10Mq7hGQ4cRKTegpUNsMQRHXVzx2YRwmRxoS\naLOEI5Jcd36omG7bPDfDpZ4vu9mWYTeKgho6GEVpUtd7MpMyGkjna8ItmZ9zwytX\nPHNAaDX2KgBYVFIVAM/x6+m7Tk1pZdZyVABJRd3mqUdZf9PRvqA=\n=m/uq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 30dbddcc4de73c1e359f863108c09dabab3ef4ef\ntype commit\ntag v1.9.2\ntagger Lunny Xiao <xiaolunwen@gmail.com> 1566487551 +0800\n\n* BUGFIXES\n  * Fix wrong sender when send slack webhook (#7918) (#7924)\n  * Upload support text/plain; charset=utf8 (#7899)\n  * Lfs/lock: round locked_at timestamp to second (#7872) (#7875)\n  * Fix non existent milestone with 500 error (#7867) (#7873)\n* SECURITY\n  * Fix No PGP signature on 1.9.1 tag (#7874)\n  * Release built with go 1.12.9 to fix security fixes in golang std lib, ref: https://groups.google.com/forum/#!msg/golang-announce/oeMaeUnkvVE/a49yvTLqAAAJ\n* ENHANCEMENT\n  * Fix pull creation with empty changes (#7920) (#7926)\n* BUILD\n  * Drone/docker: prepare multi-arch release + provide arm64 image (#7571) (#7884)\n"
+  }
+}

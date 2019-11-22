@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTg5NDk2MjpkNjYyZWY5NDdhMThiNmE3MTZhMThjMzhlZmU3NjRjN2JiZDc1NDA4",
+  "sha": "d662ef947a18b6a716a18c38efe764c7bbd75408",
+  "url": "https://api.github.com/repos/h5py/h5py/git/tags/d662ef947a18b6a716a18c38efe764c7bbd75408",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2018-03-08T23:29:21Z"
+  },
+  "object": {
+    "sha": "40eedf0ce293d3869df78021b62bc45a30634d29",
+    "type": "commit",
+    "url": "https://api.github.com/repos/h5py/h5py/git/commits/40eedf0ce293d3869df78021b62bc45a30634d29"
+  },
+  "tag": "2.8.0rc1",
+  "message": "REL: 2.8.0rc1\n\nThis is the first RC for h5py 2.8.0\n\nFeatures\n - allow registration of new drivers\n - add option to track object creation order\n\nBug fixes\n - allow slices with stop < start as empty\n - improve building with custom hdf5 installation\n - ensure libver defaults to LIBVER_EARLIEST\n - improve handling of float types\n - support non-ascii external paths on py2\n - avoid crashing IPython auto-completer\n\nAPI changes\n - deprecate ``h5t.available_ftypes``.  This is no longer\n   used internally and will be removed in the future.  There is\n   no replacement public API.\n - Do not sort fields in compound types.  This is account for changes\n   in numpy 1.14.\n - Minimum version of cython is now 0.23\n-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlqhx1ITHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U7898knCAC0rcSm6heI4OOL/bXE48JKXxkg+37G\nJf7havc5RmkvKaVb9sxU00CVd3Pcw5TDIwSeHYPV9RYVRApKtbQOCW5UvWqwi6pj\nRd7irFHtpm2EmzfvGg7FIWmwySTPp5X98UWAdlcziqtRTwH+LHfSV7IJah61A2yT\n3Z88Arlfdx3bzfJQ7Uc/DbK27rZFAKWBZITXf1c+LKZ9BodAN9/VJDv7/IcbhYas\nGNbUIuR4WuNkApGJftiuNK8eyrNLsPb4+w5UzKqoJyFHkl0k2NX7LEc1dWOuZ8Qw\nOc0+DLroiSpcE5O5kErGolhSt1jyWx2JBflRh49ZCXvZLf85w9l6KvU7\n=NJtN\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlqhx1ITHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U7898knCAC0rcSm6heI4OOL/bXE48JKXxkg+37G\nJf7havc5RmkvKaVb9sxU00CVd3Pcw5TDIwSeHYPV9RYVRApKtbQOCW5UvWqwi6pj\nRd7irFHtpm2EmzfvGg7FIWmwySTPp5X98UWAdlcziqtRTwH+LHfSV7IJah61A2yT\n3Z88Arlfdx3bzfJQ7Uc/DbK27rZFAKWBZITXf1c+LKZ9BodAN9/VJDv7/IcbhYas\nGNbUIuR4WuNkApGJftiuNK8eyrNLsPb4+w5UzKqoJyFHkl0k2NX7LEc1dWOuZ8Qw\nOc0+DLroiSpcE5O5kErGolhSt1jyWx2JBflRh49ZCXvZLf85w9l6KvU7\n=NJtN\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 40eedf0ce293d3869df78021b62bc45a30634d29\ntype commit\ntag 2.8.0rc1\ntagger Thomas A Caswell <tcaswell@gmail.com> 1520551761 -0500\n\nREL: 2.8.0rc1\n\nThis is the first RC for h5py 2.8.0\n\nFeatures\n - allow registration of new drivers\n - add option to track object creation order\n\nBug fixes\n - allow slices with stop < start as empty\n - improve building with custom hdf5 installation\n - ensure libver defaults to LIBVER_EARLIEST\n - improve handling of float types\n - support non-ascii external paths on py2\n - avoid crashing IPython auto-completer\n\nAPI changes\n - deprecate ``h5t.available_ftypes``.  This is no longer\n   used internally and will be removed in the future.  There is\n   no replacement public API.\n - Do not sort fields in compound types.  This is account for changes\n   in numpy 1.14.\n - Minimum version of cython is now 0.23\n"
+  }
+}

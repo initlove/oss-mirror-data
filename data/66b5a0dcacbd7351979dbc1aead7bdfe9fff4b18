@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjo2NmI1YTBkY2FjYmQ3MzUxOTc5ZGJjMWFlYWQ3YmRmZTlmZmY0YjE4",
+  "sha": "66b5a0dcacbd7351979dbc1aead7bdfe9fff4b18",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/66b5a0dcacbd7351979dbc1aead7bdfe9fff4b18",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2017-01-17T02:57:01Z"
+  },
+  "object": {
+    "sha": "1bfc7551f32f7b42ba50620a837f03e51d5b7c77",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/1bfc7551f32f7b42ba50620a837f03e51d5b7c77"
+  },
+  "tag": "v2.0.0",
+  "message": "REL: v2.0.0\n\nMajor release of Matplotlib\n\nThis release completely overhauls the default style of the plots.\n\nHighlights include:\n\n - 'viridis' is default color map instead of jet.\n - Modernized the default color cycle.\n - Many more functions respect the color cycle.\n - Line dash patterns scale with linewidth.\n - Change default font to DejaVu, now supports most western.\n   alphabets (including Greek, Cyrillic and latin with diacritcs),\n   math symbols and emoji out of the box.\n - Faster text rendering.\n - Improved auto-limits.\n - Ticks out and only on the right and bottom spines by default.\n - Improved auto-ticking, particularly for log scales and dates.\n - Improved image support (`imshow` respects scales and eliminated a\n   class of artifacts).\n-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlh9h/8THHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U7891bQB/9o6t75hp82jo2Ggj5GXJ524mIDNRlF\ngc/wmDb807B6qF/UyEmpob/F42/UGLHNIYHt0tJ7RRMPH4yIKP5xxVrwSZMWjLxx\n8o+QwR0HooqMHceN4clx3XTNrnOmpi76cly7J5sZrBeySmIvcL/0TFIAaI2Hfw+l\neGS3mtxfiD+K298cifRgPsL0l8uBss/x0iBHY3tV2iGsctVBAAge1mNyUCc/3H3I\n+vIR3dedVN1sgAcHRA9or3P+ij6cQ3GfNg1RCz2vSO1UqMdHOapBuHFTAuqgahZF\nYEPPxa3FFYOu6kPKssDDC2fxTVaXQQiauboWhjwp2gIdJqgprfVHDYXY\n=QXIC\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlh9h/8THHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U7891bQB/9o6t75hp82jo2Ggj5GXJ524mIDNRlF\ngc/wmDb807B6qF/UyEmpob/F42/UGLHNIYHt0tJ7RRMPH4yIKP5xxVrwSZMWjLxx\n8o+QwR0HooqMHceN4clx3XTNrnOmpi76cly7J5sZrBeySmIvcL/0TFIAaI2Hfw+l\neGS3mtxfiD+K298cifRgPsL0l8uBss/x0iBHY3tV2iGsctVBAAge1mNyUCc/3H3I\n+vIR3dedVN1sgAcHRA9or3P+ij6cQ3GfNg1RCz2vSO1UqMdHOapBuHFTAuqgahZF\nYEPPxa3FFYOu6kPKssDDC2fxTVaXQQiauboWhjwp2gIdJqgprfVHDYXY\n=QXIC\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1bfc7551f32f7b42ba50620a837f03e51d5b7c77\ntype commit\ntag v2.0.0\ntagger Thomas A Caswell <tcaswell@gmail.com> 1484621821 -0500\n\nREL: v2.0.0\n\nMajor release of Matplotlib\n\nThis release completely overhauls the default style of the plots.\n\nHighlights include:\n\n - 'viridis' is default color map instead of jet.\n - Modernized the default color cycle.\n - Many more functions respect the color cycle.\n - Line dash patterns scale with linewidth.\n - Change default font to DejaVu, now supports most western.\n   alphabets (including Greek, Cyrillic and latin with diacritcs),\n   math symbols and emoji out of the box.\n - Faster text rendering.\n - Improved auto-limits.\n - Ticks out and only on the right and bottom spines by default.\n - Improved auto-ticking, particularly for log scales and dates.\n - Improved image support (`imshow` respects scales and eliminated a\n   class of artifacts).\n"
+  }
+}

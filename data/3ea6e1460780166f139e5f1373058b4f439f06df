@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6M2VhNmUxNDYwNzgwMTY2ZjEzOWU1ZjEzNzMwNThiNGY0MzlmMDZkZg==",
+  "sha": "3ea6e1460780166f139e5f1373058b4f439f06df",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/3ea6e1460780166f139e5f1373058b4f439f06df",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2019-01-28T21:56:18Z"
+  },
+  "object": {
+    "sha": "2def7275855be249f2a7ce42f8d0a98c37bd2bb5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/2def7275855be249f2a7ce42f8d0a98c37bd2bb5"
+  },
+  "tag": "3.37.0",
+  "message": "3.37.0\n\n- [svgLib] Added support for converting elliptical arcs to cubic bezier curves\n  (#1464).\n- [py23] Added backport for ``math.isfinite``.\n- [varLib] Apply HIDDEN flag to fvar axis if designspace axis has attribute\n  ``hidden=1``.\n- Fixed \"DeprecationWarning: invalid escape sequence\" in Python 3.7.\n- [voltLib] Fixed parsing glyph groups. Distinguish different PROCESS_MARKS.\n  Accept COMPONENT glyph type.\n- [feaLib] Distinguish missing value and explicit ``<NULL>`` for PairPos2\n  format A (#1459). Round-trip ``useExtension`` keyword. Implemented\n  ``ValueRecord.asFea`` method.\n- [subset] Insert empty widths into hdmx when retaining gids (#1458).\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEhg70q0vib0KyE3CHWdVNsMmXZIIFAlxPeoIACgkQWdVNsMmX\nZIIhRBAAwycSbcpxmUUVGkTt8ADUTHm0pZYdkDbwqwS31j0I+26ZJklDdPYwdKp9\nGTqVPjXxOYD/TTbzZ5KnNheaF0oBE6G/O1/YOkiFZw3Lj/N6q6Sdm6HSLeSom347\n8TUL6tbqeesLYh4NoQWkb0d33QqzcLbWU4jWMULbd1Aijs/xGlGiIhTd8by8kb8L\nGdjoUJ05+QFVAgclCpmC2aGNDv+lGFBLdaPat5sV6BJSzM13l+zO2qn4mNGfdnQO\nsBZ98UmpgU2jELyRX52M4J9q+1+8NmHr0yo/x6Fn/M4OjPyjwJ2m+ZAMfwoVH0ix\nB4Khlg+s7SURjGJT6borwn8wHQpQ2UEj8Nn2yezGLtvUcsnEs+5vpfUmMq1JI6+u\n+dPrY55FcwL6EMPfdE0ApPJVtebTX3AfR/BKl5B2drkQK/Wd8kIvZWq2oM7IA6mk\nWzdyC9H2dBQpqcwCmgkznRgO/eCujU+iAR0GLFKam/fVF7CrI0djRn7NTTZOm1/t\nnGL/kJxC2/fRycD/cJCERR9M2/DHyEjBEz12Ygf6oJTkk6X+QKQ7fa7RuO15XrE4\njfWExt916tL59RSbd/MZdzEk5ux0+bgKx9AhGxZk3/bmbgQy3ECcD5H1oUZTFCIH\njwrApDdz+U0tfcUpkNCzwUWxJTzR5TlVMTO0u61orgDYEhS64SU=\n=4oKl\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEhg70q0vib0KyE3CHWdVNsMmXZIIFAlxPeoIACgkQWdVNsMmX\nZIIhRBAAwycSbcpxmUUVGkTt8ADUTHm0pZYdkDbwqwS31j0I+26ZJklDdPYwdKp9\nGTqVPjXxOYD/TTbzZ5KnNheaF0oBE6G/O1/YOkiFZw3Lj/N6q6Sdm6HSLeSom347\n8TUL6tbqeesLYh4NoQWkb0d33QqzcLbWU4jWMULbd1Aijs/xGlGiIhTd8by8kb8L\nGdjoUJ05+QFVAgclCpmC2aGNDv+lGFBLdaPat5sV6BJSzM13l+zO2qn4mNGfdnQO\nsBZ98UmpgU2jELyRX52M4J9q+1+8NmHr0yo/x6Fn/M4OjPyjwJ2m+ZAMfwoVH0ix\nB4Khlg+s7SURjGJT6borwn8wHQpQ2UEj8Nn2yezGLtvUcsnEs+5vpfUmMq1JI6+u\n+dPrY55FcwL6EMPfdE0ApPJVtebTX3AfR/BKl5B2drkQK/Wd8kIvZWq2oM7IA6mk\nWzdyC9H2dBQpqcwCmgkznRgO/eCujU+iAR0GLFKam/fVF7CrI0djRn7NTTZOm1/t\nnGL/kJxC2/fRycD/cJCERR9M2/DHyEjBEz12Ygf6oJTkk6X+QKQ7fa7RuO15XrE4\njfWExt916tL59RSbd/MZdzEk5ux0+bgKx9AhGxZk3/bmbgQy3ECcD5H1oUZTFCIH\njwrApDdz+U0tfcUpkNCzwUWxJTzR5TlVMTO0u61orgDYEhS64SU=\n=4oKl\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2def7275855be249f2a7ce42f8d0a98c37bd2bb5\ntype commit\ntag 3.37.0\ntagger Cosimo Lupo <cosimo@anthrotype.com> 1548712578 +0000\n\n3.37.0\n\n- [svgLib] Added support for converting elliptical arcs to cubic bezier curves\n  (#1464).\n- [py23] Added backport for ``math.isfinite``.\n- [varLib] Apply HIDDEN flag to fvar axis if designspace axis has attribute\n  ``hidden=1``.\n- Fixed \"DeprecationWarning: invalid escape sequence\" in Python 3.7.\n- [voltLib] Fixed parsing glyph groups. Distinguish different PROCESS_MARKS.\n  Accept COMPONENT glyph type.\n- [feaLib] Distinguish missing value and explicit ``<NULL>`` for PairPos2\n  format A (#1459). Round-trip ``useExtension`` keyword. Implemented\n  ``ValueRecord.asFea`` method.\n- [subset] Insert empty widths into hdmx when retaining gids (#1458).\n"
+  }
+}

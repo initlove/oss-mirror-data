@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDczOTk2OjdhOTg5M2VlY2FmY2U4YjY2MTc3ZmQ0ZDcxMGE4MzgwMWEzMjhkYmM=",
+  "sha": "7a9893eecafce8b66177fd4d710a83801a328dbc",
+  "url": "https://api.github.com/repos/saces/KeyUtils-attic/git/tags/7a9893eecafce8b66177fd4d710a83801a328dbc",
+  "tagger": {
+    "name": "Matthew Toseland",
+    "email": "toad@amphibian.dyndns.org",
+    "date": "2010-11-11T20:40:42Z"
+  },
+  "object": {
+    "sha": "63fe94b6be46b7a032233a255c2db1321717e52d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/saces/KeyUtils-attic/git/commits/63fe94b6be46b7a032233a255c2db1321717e52d"
+  },
+  "tag": "v5006",
+  "message": "KeyUtils 5004:\n- Update for new client API. It should build again now, and work!\n- Improve logging infrastructure usage.\n- Indenting.\n- Fix wrong path typo in creating error box.\n- Do not lose extra parameters on retry.\n- Segments fix suggested by TheSeeker.\n- Compressed flag is now \"C\" not \"CP\".\n- Show metadata version.\n- Try to fix splitfiles.\n\nKeyUtils 5005:\n- Update for new client API (the streaming API changes introduced to optimise filtering and decompressing).\n- Fix NPE.\n- Check for nulls.\n- Show compatibility mode data, and splitfile metadata version.\n- Add LZMA_NEW to extra bytes calculator.\n- Clone metadata to fix a bug in viewing splitfiles.\n- Show MIME type.\n- Write a temporary redirect rather than throwing a RedirectException in the POST handler.\n- Fix some more pathname bugs.\n- Sanity checking.\n\nKeyUtils 5006:\n- Show hashes and crypto key.\n- Show top compat mode and top size data.\n- Show same data duplicated on the splitfile page.\n- Show compression codec name.\n- Encode a URL.\n- Minor formatting changes re compression.\n- Show splitfile link for multi-level metadata.\n- Add reopen as splitfile option.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.9 (GNU/Linux)\n\niEYEABEIAAYFAkzcVNMACgkQYUNbc3WUHYhcAACeLEmQmhVei9XCgEMHg/KWUVJF\nzdoAoKFPQ36ikYrTXW+X0xHc2uinAtGe\n=tCwS\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.9 (GNU/Linux)\n\niEYEABEIAAYFAkzcVNMACgkQYUNbc3WUHYhcAACeLEmQmhVei9XCgEMHg/KWUVJF\nzdoAoKFPQ36ikYrTXW+X0xHc2uinAtGe\n=tCwS\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 63fe94b6be46b7a032233a255c2db1321717e52d\ntype commit\ntag v5006\ntagger Matthew Toseland <toad@amphibian.dyndns.org> 1289508042 +0000\n\nKeyUtils 5004:\n- Update for new client API. It should build again now, and work!\n- Improve logging infrastructure usage.\n- Indenting.\n- Fix wrong path typo in creating error box.\n- Do not lose extra parameters on retry.\n- Segments fix suggested by TheSeeker.\n- Compressed flag is now \"C\" not \"CP\".\n- Show metadata version.\n- Try to fix splitfiles.\n\nKeyUtils 5005:\n- Update for new client API (the streaming API changes introduced to optimise filtering and decompressing).\n- Fix NPE.\n- Check for nulls.\n- Show compatibility mode data, and splitfile metadata version.\n- Add LZMA_NEW to extra bytes calculator.\n- Clone metadata to fix a bug in viewing splitfiles.\n- Show MIME type.\n- Write a temporary redirect rather than throwing a RedirectException in the POST handler.\n- Fix some more pathname bugs.\n- Sanity checking.\n\nKeyUtils 5006:\n- Show hashes and crypto key.\n- Show top compat mode and top size data.\n- Show same data duplicated on the splitfile page.\n- Show compression codec name.\n- Encode a URL.\n- Minor formatting changes re compression.\n- Show splitfile link for multi-level metadata.\n- Add reopen as splitfile option.\n"
+  }
+}

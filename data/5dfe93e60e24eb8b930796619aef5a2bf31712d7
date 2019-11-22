@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6NWRmZTkzZTYwZTI0ZWI4YjkzMDc5NjYxOWFlZjVhMmJmMzE3MTJkNw==",
+  "sha": "5dfe93e60e24eb8b930796619aef5a2bf31712d7",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/5dfe93e60e24eb8b930796619aef5a2bf31712d7",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "clupo@google.com",
+    "date": "2019-04-08T16:43:58Z"
+  },
+  "object": {
+    "sha": "e9699330388fbf154f7fc131f775614eef664f32",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/e9699330388fbf154f7fc131f775614eef664f32"
+  },
+  "tag": "3.40.0",
+  "message": "3.40.0\n\n- [subset] Fixed error while subsetting ``VVAR`` with ``--retain-gids``\n  option (#1552).\n- [designspaceLib] Use up-to-date default location in ``findDefault`` method\n  (#1554).\n- [voltLib] Allow passing file-like object to Parser.\n- [arrayTools/glyf] ``calcIntBounds`` (used to compute bounding boxes of glyf\n  table's glyphs) now uses ``otRound`` instead of ``round3`` (#1566).\n- [svgLib] Added support for converting more SVG shapes to path ``d`` strings\n  (ellipse, line, polyline), as well as support for ``transform`` attributes.\n  Only ``matrix`` transformations are currently supported (#1564, #1564).\n- [varLib] Added support for building ``VVAR`` table from ``vmtx`` and ``VORG``\n  tables (#1551).\n- [fontBuilder] Enable making CFF2 fonts with ``post`` table format 2 (#1557).\n- Fixed ``DeprecationWarning`` on invalid escape sequences (#1562).\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEt3fCdK5LbZY3e/+cINSiYeSg5kIFAlyrek4ACgkQINSiYeSg\n5kL7Vg/8D2VOg151koshjIWYyqpCRv3IVe9z8Wqj3smv1+CeFP+OHhJivaXB9Wpb\nR5Igl9MqZti5KsPfVFMuj+i8u0PWZwvInyGePwXiCR/fkpjNLjg5btf1HGN008rm\n14yJhZBzNVZSW20PBRV/1KfQnRffRwcrGcNh/KzwcIStA/XHVyJg3Dwgt35bt61h\negJaOks2mKnRNyyKuNKwl/K+aABii8GURPI+tKdHFwheoI9e8v5qP2zZGn4tWNs4\nGZ3bhQrQedIFUFn7SQYjs9LCkzZ++BF0v7+YT1n4gqKPBmudIYtUiNG7oyorE8RT\nG5JW+40EZAVucdUbqkMyuiS5jWID8asP+Pn4smaubhqwnH+qF19lVOOAoX2I2GUD\nYYIowkbEMns2/gS/oAQCIURHKbKhO5T8xeO+PuoIILBnmu+KDuoXfpbqdiHNbyyw\n4GtDplSdbWyscLldJWDOSX/Y2fBG2O3ymbP7eKFVluacZyfC9anUbvWxk9MI32cK\nYTLW3ZdEqBBhYpFJw4gRq8sr5HO2z41QYmPlkIkCAljZYnlnEpQjuIAIxqh0C49D\nHKYcUMRsoVg8FJ1gHJq5Nb6Nkh86lAj6Eu3pm7E9rVQ1o60D0AvKlMGh1bCnnnIU\nkU4JiPgQhvviVq1Ii/njj/aGQHgfO2vtBMduQ+wTZfHVBYXXjhg=\n=ClRO\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEt3fCdK5LbZY3e/+cINSiYeSg5kIFAlyrek4ACgkQINSiYeSg\n5kL7Vg/8D2VOg151koshjIWYyqpCRv3IVe9z8Wqj3smv1+CeFP+OHhJivaXB9Wpb\nR5Igl9MqZti5KsPfVFMuj+i8u0PWZwvInyGePwXiCR/fkpjNLjg5btf1HGN008rm\n14yJhZBzNVZSW20PBRV/1KfQnRffRwcrGcNh/KzwcIStA/XHVyJg3Dwgt35bt61h\negJaOks2mKnRNyyKuNKwl/K+aABii8GURPI+tKdHFwheoI9e8v5qP2zZGn4tWNs4\nGZ3bhQrQedIFUFn7SQYjs9LCkzZ++BF0v7+YT1n4gqKPBmudIYtUiNG7oyorE8RT\nG5JW+40EZAVucdUbqkMyuiS5jWID8asP+Pn4smaubhqwnH+qF19lVOOAoX2I2GUD\nYYIowkbEMns2/gS/oAQCIURHKbKhO5T8xeO+PuoIILBnmu+KDuoXfpbqdiHNbyyw\n4GtDplSdbWyscLldJWDOSX/Y2fBG2O3ymbP7eKFVluacZyfC9anUbvWxk9MI32cK\nYTLW3ZdEqBBhYpFJw4gRq8sr5HO2z41QYmPlkIkCAljZYnlnEpQjuIAIxqh0C49D\nHKYcUMRsoVg8FJ1gHJq5Nb6Nkh86lAj6Eu3pm7E9rVQ1o60D0AvKlMGh1bCnnnIU\nkU4JiPgQhvviVq1Ii/njj/aGQHgfO2vtBMduQ+wTZfHVBYXXjhg=\n=ClRO\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e9699330388fbf154f7fc131f775614eef664f32\ntype commit\ntag 3.40.0\ntagger Cosimo Lupo <clupo@google.com> 1554741838 +0100\n\n3.40.0\n\n- [subset] Fixed error while subsetting ``VVAR`` with ``--retain-gids``\n  option (#1552).\n- [designspaceLib] Use up-to-date default location in ``findDefault`` method\n  (#1554).\n- [voltLib] Allow passing file-like object to Parser.\n- [arrayTools/glyf] ``calcIntBounds`` (used to compute bounding boxes of glyf\n  table's glyphs) now uses ``otRound`` instead of ``round3`` (#1566).\n- [svgLib] Added support for converting more SVG shapes to path ``d`` strings\n  (ellipse, line, polyline), as well as support for ``transform`` attributes.\n  Only ``matrix`` transformations are currently supported (#1564, #1564).\n- [varLib] Added support for building ``VVAR`` table from ``vmtx`` and ``VORG``\n  tables (#1551).\n- [fontBuilder] Enable making CFF2 fonts with ``post`` table format 2 (#1557).\n- Fixed ``DeprecationWarning`` on invalid escape sequences (#1562).\n"
+  }
+}

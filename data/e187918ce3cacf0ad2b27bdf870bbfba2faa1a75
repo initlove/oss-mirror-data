@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6ZTE4NzkxOGNlM2NhY2YwYWQyYjI3YmRmODcwYmJmYmEyZmFhMWE3NQ==",
+  "sha": "e187918ce3cacf0ad2b27bdf870bbfba2faa1a75",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/e187918ce3cacf0ad2b27bdf870bbfba2faa1a75",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2018-10-26T15:00:19Z"
+  },
+  "object": {
+    "sha": "9af3e7b4bec2f8daaa857fa668b858e484487710",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/9af3e7b4bec2f8daaa857fa668b858e484487710"
+  },
+  "tag": "libmodulemd-1.7.0",
+  "message": "Releasing libmodulemd 1.7.0\n\nJun Aruga (1):\n      Use consistent array format.\n\nNils Philippsen (7):\n      allow printf-style messages in parsing macros\n      add line/column info to macros for processing events\n      make line/column numbers start at 1\n      add line/column info in some places\n      parser: use event-aware error macros elsewhere\n      update tests for changed error messages\n      use g_autofree instead of manually freeing pointers\n\nStephen Gallagher (17):\n      Bump version to 1.6.5dev\n      Merge branch 'master--better-error-msgs'\n      Merge branch 'junaruga-feature/consistent-format'\n      Make format-security warnings an error\n      Fix format-security error in YAML debug messages\n      Drop MODULEMD_NSVERSION env for tests\n      Clean up test environment settings\n      Trivial test addition\n      Allow tests to run against installed libmodulemd\n      Add specfile\n      Add scripts to create RPMs\n      Make python3 subpackage noarch\n      Add installed RPM tests to Travis\n      Include all NSVCs for ModuleStreams in ImprovedModule\n      Include only the latest version of an NSC after Prioritizer.resolve()\n      Fix memory leaks in Prioritizer\n      Release 1.7.0\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCW9MsEgAKCRB6JVViNrqj\no7vRAKCxU5i2c4PdftDtTB+PaTmLVWLN/gCdGY/Gu4MElxGsKtwHmUMjHLYrcZY=\n=oEca\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCW9MsEgAKCRB6JVViNrqj\no7vRAKCxU5i2c4PdftDtTB+PaTmLVWLN/gCdGY/Gu4MElxGsKtwHmUMjHLYrcZY=\n=oEca\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9af3e7b4bec2f8daaa857fa668b858e484487710\ntype commit\ntag libmodulemd-1.7.0\ntagger Stephen Gallagher <sgallagh@redhat.com> 1540566019 -0400\n\nReleasing libmodulemd 1.7.0\n\nJun Aruga (1):\n      Use consistent array format.\n\nNils Philippsen (7):\n      allow printf-style messages in parsing macros\n      add line/column info to macros for processing events\n      make line/column numbers start at 1\n      add line/column info in some places\n      parser: use event-aware error macros elsewhere\n      update tests for changed error messages\n      use g_autofree instead of manually freeing pointers\n\nStephen Gallagher (17):\n      Bump version to 1.6.5dev\n      Merge branch 'master--better-error-msgs'\n      Merge branch 'junaruga-feature/consistent-format'\n      Make format-security warnings an error\n      Fix format-security error in YAML debug messages\n      Drop MODULEMD_NSVERSION env for tests\n      Clean up test environment settings\n      Trivial test addition\n      Allow tests to run against installed libmodulemd\n      Add specfile\n      Add scripts to create RPMs\n      Make python3 subpackage noarch\n      Add installed RPM tests to Travis\n      Include all NSVCs for ModuleStreams in ImprovedModule\n      Include only the latest version of an NSC after Prioritizer.resolve()\n      Fix memory leaks in Prioritizer\n      Release 1.7.0\n"
+  }
+}

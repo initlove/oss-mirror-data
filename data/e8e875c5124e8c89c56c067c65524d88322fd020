@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE0NzY5ODplOGU4NzVjNTEyNGU4Yzg5YzU2YzA2N2M2NTUyNGQ4ODMyMmZkMDIw",
+  "sha": "e8e875c5124e8c89c56c067c65524d88322fd020",
+  "url": "https://api.github.com/repos/proot-me/proot/git/tags/e8e875c5124e8c89c56c067c65524d88322fd020",
+  "tagger": {
+    "name": "Cédric VINCENT",
+    "email": "cedric.vincent@st.com",
+    "date": "2011-12-21T12:54:32Z"
+  },
+  "object": {
+    "sha": "a7c91155387c95de2e89e83c31773616941997a6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/proot-me/proot/git/commits/a7c91155387c95de2e89e83c31773616941997a6"
+  },
+  "tag": "v0.7.0",
+  "message": "Release v0.7.0\n==============\n\n* Search the guest program in $PATH relatively to the guest rootfs,\n  for instance you can now just write::\n\n      proot /path/to/guest/rootfs/  perl\n\n  instead of::\n\n      proot /path/to/guest/rootfs/  /usr/bin/perl\n\n* The command-line interface was re-written from scratch, the only\n  incompatible change is that QEMU options are now separated by\n  spaces::\n\n     proot -Q \"qemu-arm -g 1234\" ...\n\n  instead of::\n\n     proot -Q qemu-arm,-g,1234 ...\n\n* New option \"-0\": force syscalls \"get*id\" to report identity 0, aka\n  \"root\".\n\n* Many fixes, code refactoring, new testing framework, ...\n\nSpecial thanks to Claire ROBINE for her contribution.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJO8dcSAAoJELahHY4Fe9afdbkQAKYQnqsqE17z1zIukZBm5F/1\n3TY04tQruNrB7jnBmXad+XINnhE8C/XNNXBjT/uvUGCbZKhJq6yk+0+xds3EDic7\nX3IrOq2LLSmtY5WgWvghIsW1gQCsSTKlf1Rr3C/ZskW5SUKgWN2k2W4UlCu8vczQ\nHTgTnur6UUkIo0NZqHaThfySy2kwhyLc5mn6XtxVorvnQ4II09YqM5hF+dNalnh6\n+yhMKl86r2ivp2RD39/JHyd/gzsja0TeUFMPrpOl5AHKUPcTFW0gqSs8uI4YxS9E\nVqFYQH9ZXFPWPQ277no+1kCdGPgijwwfdb3+w5FQnIoEGbfWC/n9ZC0LvoBtz0Ox\nt96cOoU3u+LXij0XuorRVwpblvIGNJKS+LarD8bP+MovSlcIHvjgItvbuVPMTpMT\nkUucNm399xNrQIx9CAdcnabSCSJ4ZCK7KlG+Pnbhm33l6ivCKCJH0+X4LrErKLXm\n+s+JxjesLtJLs2u5OiFJo8NPWkUSINx2ggGwmz8u7YlQsVyVQ0qiC0wE4S8HrihQ\n1qM0sZrmO0mvuQs2BIXPSf6YLuHsUq/TTQGwSVpYzFrpmTC1wXGPNgJ+Pel3p2UR\nbuRptm6jM2pxKEnHKPfTByDPJKWrm77xT8eI96g/XQCYnxIvbUEUlizplyvZUSeD\ndTei5LDp6gDw4KlSd2cH\n=I1rJ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJO8dcSAAoJELahHY4Fe9afdbkQAKYQnqsqE17z1zIukZBm5F/1\n3TY04tQruNrB7jnBmXad+XINnhE8C/XNNXBjT/uvUGCbZKhJq6yk+0+xds3EDic7\nX3IrOq2LLSmtY5WgWvghIsW1gQCsSTKlf1Rr3C/ZskW5SUKgWN2k2W4UlCu8vczQ\nHTgTnur6UUkIo0NZqHaThfySy2kwhyLc5mn6XtxVorvnQ4II09YqM5hF+dNalnh6\n+yhMKl86r2ivp2RD39/JHyd/gzsja0TeUFMPrpOl5AHKUPcTFW0gqSs8uI4YxS9E\nVqFYQH9ZXFPWPQ277no+1kCdGPgijwwfdb3+w5FQnIoEGbfWC/n9ZC0LvoBtz0Ox\nt96cOoU3u+LXij0XuorRVwpblvIGNJKS+LarD8bP+MovSlcIHvjgItvbuVPMTpMT\nkUucNm399xNrQIx9CAdcnabSCSJ4ZCK7KlG+Pnbhm33l6ivCKCJH0+X4LrErKLXm\n+s+JxjesLtJLs2u5OiFJo8NPWkUSINx2ggGwmz8u7YlQsVyVQ0qiC0wE4S8HrihQ\n1qM0sZrmO0mvuQs2BIXPSf6YLuHsUq/TTQGwSVpYzFrpmTC1wXGPNgJ+Pel3p2UR\nbuRptm6jM2pxKEnHKPfTByDPJKWrm77xT8eI96g/XQCYnxIvbUEUlizplyvZUSeD\ndTei5LDp6gDw4KlSd2cH\n=I1rJ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a7c91155387c95de2e89e83c31773616941997a6\ntype commit\ntag v0.7.0\ntagger Cédric VINCENT <cedric.vincent@st.com> 1324472072 +0100\n\nRelease v0.7.0\n==============\n\n* Search the guest program in $PATH relatively to the guest rootfs,\n  for instance you can now just write::\n\n      proot /path/to/guest/rootfs/  perl\n\n  instead of::\n\n      proot /path/to/guest/rootfs/  /usr/bin/perl\n\n* The command-line interface was re-written from scratch, the only\n  incompatible change is that QEMU options are now separated by\n  spaces::\n\n     proot -Q \"qemu-arm -g 1234\" ...\n\n  instead of::\n\n     proot -Q qemu-arm,-g,1234 ...\n\n* New option \"-0\": force syscalls \"get*id\" to report identity 0, aka\n  \"root\".\n\n* Many fixes, code refactoring, new testing framework, ...\n\nSpecial thanks to Claire ROBINE for her contribution.\n"
+  }
+}

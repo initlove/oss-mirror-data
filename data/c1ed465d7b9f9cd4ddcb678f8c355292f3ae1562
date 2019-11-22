@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6YzFlZDQ2NWQ3YjlmOWNkNGRkY2I2NzhmOGMzNTUyOTJmM2FlMTU2Mg==",
+  "sha": "c1ed465d7b9f9cd4ddcb678f8c355292f3ae1562",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/c1ed465d7b9f9cd4ddcb678f8c355292f3ae1562",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2018-03-01T21:07:16Z"
+  },
+  "object": {
+    "sha": "32fa73e3567165356cef46169a51c7fe309b5df8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/32fa73e3567165356cef46169a51c7fe309b5df8"
+  },
+  "tag": "3.24.0",
+  "message": "3.24.0\n\n- [ttGlyphPen] Decompose composite glyphs if any components' transform is too\n  large to fit a ``F2Dot14`` value, or clamp transform values that are\n  (almost) equal to +2.0 to make them fit and avoid decomposing (#1200,\n  #1204, #1205).\n- [ttx] Added new ``-g`` option to dump glyphs from the ``glyf`` table\n  splitted as individual ttx files (#153, #1035, #1132, #1202).\n- Copied ``ufoLib.filenames`` module to ``fontTools.misc.filenames``, used\n  for the ttx split-glyphs option (#1202).\n- [feaLib] Added support for ``cvParameters`` blocks in Character Variant\n  feautures ``cv01-cv99`` (#860, #1169).\n- [Snippets] Added ``checksum.py`` script to generate/check SHA1 hash of\n  ttx files (#1197).\n- [varLib.mutator] Fixed issue while instantiating some variable fonts\n  whereby the horizontal advance width computed from ``gvar`` phantom points\n  could turn up to be negative (#1198).\n- [varLib/subset] Fixed issue with subsetting GPOS variation data not\n  picking up ``ValueRecord`` ``Device`` objects (54fd71f).\n- [feaLib/voltLib] In all AST elements, the ``location`` is no longer a\n  required positional argument, but an optional kewyord argument (defaults\n  to ``None``). This will make it easier to construct feature AST from\n  code (#1201).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

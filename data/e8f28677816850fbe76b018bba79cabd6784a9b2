@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6ZThmMjg2Nzc4MTY4NTBmYmU3NmIwMThiYmE3OWNhYmQ2Nzg0YTliMg==",
+  "sha": "e8f28677816850fbe76b018bba79cabd6784a9b2",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/e8f28677816850fbe76b018bba79cabd6784a9b2",
+  "tagger": {
+    "name": "Lauris Bukšis-Haberkorns",
+    "email": "lauris@nix.lv",
+    "date": "2018-02-19T11:08:35Z"
+  },
+  "object": {
+    "sha": "86d61bbb104960df586716a72aa7bb0b064fc473",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/86d61bbb104960df586716a72aa7bb0b064fc473"
+  },
+  "tag": "v1.3.3",
+  "message": "* SECURITY\n  * Fix escaping changed title in comments (#3530) (#3535)\n  * Escape search query display (#3486) (#3489)\n* BUGFIXES\n  * Fix repo-transfer-and-team-repo-count bug (#3241) (#3244)\n  * Open external tracker in blank window, consistently with wiki (#3227) (#3228)\n  * Change SSL Mode from checkbox to string in admin page (#3208) (#3211)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJairAzAAoJEK7OIW0AexzMIpUQAIi5NAbr/fSZvywvlVRzl2El\n8XWc89Z7uE1DZfTYV+Xd/WS8M8BFskPeipsJR9ZIbI7rD/yclGeRbqRz+4l0brJQ\nQ72zsDVdlFQGGTXuoZUCujvnkG8W4IUtOXNezj/3GoXWfjGAoF0E0343MBOI8DdR\nEKCESSnjb8YO9BQqVtTUfZIvNzW0mN7AmHO1PSU3JcEWZUO4dZqUIFhUkRsCN76I\ncC4JAeAbqOBiNBgMRQYSxfD7pepdmo67RORc8tTkumgdAdaBg1dkjRdqb8f6w3oD\n6XU2yl8N2tv544+rwn6eycbqtYSp+Z9GLYi7AgGmv6N6lf4ypOw0NwnhGuvUaxXh\nNRyJsC4b8Tp8eNoYPJHS5WYj59dozPCuZhlOzPJDE5r5SkVAOtcmUl4D7SoqW6rd\n4axjRZ3bteX6V1cP7ItaUtX+hm2mkmAaDqixgc06r6nHFCMRUaNAtttvEN+SoxkL\n6QaQhTXyzZ1UbhnICPIJuFdQijWNn4i4lYzV1x2s69BHQGWdnmvfYEPg0ZRaIA96\nSXHpmYjABH56r/PQBLPw760GUFqZsmKEjhU4HHcDw2r7VyIoq16RujoRZwXVZ2hI\nUL7bufm7j61nVsWve1VhboZepg/ZXKUxh+CaiVXkwWZImKOoKEgAds8dFaGFOW9G\n3KJ0EuGDlY2cYIhHx0Jy\n=ZL1t\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJairAzAAoJEK7OIW0AexzMIpUQAIi5NAbr/fSZvywvlVRzl2El\n8XWc89Z7uE1DZfTYV+Xd/WS8M8BFskPeipsJR9ZIbI7rD/yclGeRbqRz+4l0brJQ\nQ72zsDVdlFQGGTXuoZUCujvnkG8W4IUtOXNezj/3GoXWfjGAoF0E0343MBOI8DdR\nEKCESSnjb8YO9BQqVtTUfZIvNzW0mN7AmHO1PSU3JcEWZUO4dZqUIFhUkRsCN76I\ncC4JAeAbqOBiNBgMRQYSxfD7pepdmo67RORc8tTkumgdAdaBg1dkjRdqb8f6w3oD\n6XU2yl8N2tv544+rwn6eycbqtYSp+Z9GLYi7AgGmv6N6lf4ypOw0NwnhGuvUaxXh\nNRyJsC4b8Tp8eNoYPJHS5WYj59dozPCuZhlOzPJDE5r5SkVAOtcmUl4D7SoqW6rd\n4axjRZ3bteX6V1cP7ItaUtX+hm2mkmAaDqixgc06r6nHFCMRUaNAtttvEN+SoxkL\n6QaQhTXyzZ1UbhnICPIJuFdQijWNn4i4lYzV1x2s69BHQGWdnmvfYEPg0ZRaIA96\nSXHpmYjABH56r/PQBLPw760GUFqZsmKEjhU4HHcDw2r7VyIoq16RujoRZwXVZ2hI\nUL7bufm7j61nVsWve1VhboZepg/ZXKUxh+CaiVXkwWZImKOoKEgAds8dFaGFOW9G\n3KJ0EuGDlY2cYIhHx0Jy\n=ZL1t\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 86d61bbb104960df586716a72aa7bb0b064fc473\ntype commit\ntag v1.3.3\ntagger Lauris Bukšis-Haberkorns <lauris@nix.lv> 1519038515 +0200\n\n* SECURITY\n  * Fix escaping changed title in comments (#3530) (#3535)\n  * Escape search query display (#3486) (#3489)\n* BUGFIXES\n  * Fix repo-transfer-and-team-repo-count bug (#3241) (#3244)\n  * Open external tracker in blank window, consistently with wiki (#3227) (#3228)\n  * Change SSL Mode from checkbox to string in admin page (#3208) (#3211)\n"
+  }
+}

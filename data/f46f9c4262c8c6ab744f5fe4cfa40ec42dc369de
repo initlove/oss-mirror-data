@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6ZjQ2ZjljNDI2MmM4YzZhYjc0NGY1ZmU0Y2ZhNDBlYzQyZGMzNjlkZQ==",
+  "sha": "f46f9c4262c8c6ab744f5fe4cfa40ec42dc369de",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/f46f9c4262c8c6ab744f5fe4cfa40ec42dc369de",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2019-03-27T18:31:53Z"
+  },
+  "object": {
+    "sha": "8717625fc02080dc0b39e4646cf57275cc1e0376",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/8717625fc02080dc0b39e4646cf57275cc1e0376"
+  },
+  "tag": "libmodulemd-2.2.2",
+  "message": "Tag 2.2.2 and 1.8.5\n\nStephen Gallagher (6):\n      Fix minor typo in openSUSE CI\n      Install overrides for Python 2\n      Test with both python2 and python3\n      Add config option for python overrides\n      Set the minimum meson version in the RPM spec\n      Bump release for 2.2.2 and 1.8.5\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXJvBogAKCRB6JVViNrqj\no1zbAJ47gJ1U1Pd1PZ/ei+IzrNEOslN+ngCfQYNj5c0R9PW0mXYT1avVhBOW28k=\n=iOZO\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXJvBogAKCRB6JVViNrqj\no1zbAJ47gJ1U1Pd1PZ/ei+IzrNEOslN+ngCfQYNj5c0R9PW0mXYT1avVhBOW28k=\n=iOZO\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8717625fc02080dc0b39e4646cf57275cc1e0376\ntype commit\ntag libmodulemd-2.2.2\ntagger Stephen Gallagher <sgallagh@redhat.com> 1553711513 -0400\n\nTag 2.2.2 and 1.8.5\n\nStephen Gallagher (6):\n      Fix minor typo in openSUSE CI\n      Install overrides for Python 2\n      Test with both python2 and python3\n      Add config option for python overrides\n      Set the minimum meson version in the RPM spec\n      Bump release for 2.2.2 and 1.8.5\n"
+  }
+}

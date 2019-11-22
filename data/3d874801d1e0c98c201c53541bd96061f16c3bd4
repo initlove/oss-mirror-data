@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6M2Q4NzQ4MDFkMWUwYzk4YzIwMWM1MzU0MWJkOTYwNjFmMTZjM2JkNA==",
+  "sha": "3d874801d1e0c98c201c53541bd96061f16c3bd4",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/3d874801d1e0c98c201c53541bd96061f16c3bd4",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "clupo@google.com",
+    "date": "2019-08-02T10:41:08Z"
+  },
+  "object": {
+    "sha": "04da40e22605c4de1ff5c54841db989a47c2c283",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/04da40e22605c4de1ff5c54841db989a47c2c283"
+  },
+  "tag": "3.44.0",
+  "message": "3.44.0\n\n- NOTE: This is the last scheduled release to support Python 2.7. The upcoming fonttools\n  v4.x series is going to require Python 3.6 or greater.\n- [varLib] Added new ``varLib.instancer`` module for partially instantiating variable\n  fonts. This extends (and will eventually replace) ``varLib.mutator`` module, as\n  it allows to create not just full static instances from a variable font, but also\n  \"partial\" or \"less variable\" fonts where some of the axes are dropped or\n  instantiated at a particular value.\n  Also available from the command-line as `fonttools varLib.instancer --help`\n  (#1537, #1628).\n- [cffLib] Added support for ``FDSelect`` format 4 (#1677).\n- [subset] Added support for subsetting ``sbix`` (Apple bitmap color font) table.\n- [t1Lib] Fixed issue parsing ``eexec`` section in Type1 fonts when whitespace\n  characters are interspersed among the trailing zeros (#1676).\n- [cffLib.specializer] Fixed bug in ``programToCommands`` with CFF2 charstrings (#1669).\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEt3fCdK5LbZY3e/+cINSiYeSg5kIFAl1EE0QACgkQINSiYeSg\n5kI6RhAAtYIgpUc6EeVBSdX1rKTgkc77oWD6yJe2BOive9TiS2kqBmAJ69AJlCJX\nAgXAH6ZE4RUGMmGAh0Z5pkPJB2aljUNKg5ny2YYQydoo7qi5cuj3EWxQYcZX//jp\nouP0S6vnpStv/dwUaqGTFk/dCp2z7Ba+KCcJqhu6OZFCyDLhjT4nuA6xY0DIzYNK\nIEwzqZoD+u0iqxYts7E7b7w7JCU9Cj6UUqXZ7stUuPkpa1QionMhTPQPxF8RkQ39\n2EsmxnnuIMFG8THlJsX/h+iZdw0NC/VK0v48Rcrj3Uk08dXOsUsDw+ArL0JOBIgu\nO3JzlZZMBb/uKKXpMi7tOMTHjU9L8hmn11aOZWRAlrOx0P0b9sRreBBFn2uFrqVL\nuxFWZhVmvavkZlFtmpgdbB50KQJQ0WLZQiOX4Qd7tI0SKow+l/McJH2o9/HQrvhu\n7pD+VY84XwPORAyF0YrrZBVCNbh7bHjqRf9fo2EZ8jvmMVWzid4XwSXG4OYMLBUR\nxfEwnQq1+CF+BB9d+CXKxstndG6bchy/T7RYsYGvvGNKCDvLWbx6lHYaTs04prF6\nXLkILIHYQpZHbhjd3qpEqpCkL2ljU05zF8nHGkM688B3fda8017fArHNGMmk1FKM\nzo8hAktUJNJ7GZcPrz/u3Vh86f8QI4tDg77gNyswTFATgQnoxZg=\n=H9pV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEt3fCdK5LbZY3e/+cINSiYeSg5kIFAl1EE0QACgkQINSiYeSg\n5kI6RhAAtYIgpUc6EeVBSdX1rKTgkc77oWD6yJe2BOive9TiS2kqBmAJ69AJlCJX\nAgXAH6ZE4RUGMmGAh0Z5pkPJB2aljUNKg5ny2YYQydoo7qi5cuj3EWxQYcZX//jp\nouP0S6vnpStv/dwUaqGTFk/dCp2z7Ba+KCcJqhu6OZFCyDLhjT4nuA6xY0DIzYNK\nIEwzqZoD+u0iqxYts7E7b7w7JCU9Cj6UUqXZ7stUuPkpa1QionMhTPQPxF8RkQ39\n2EsmxnnuIMFG8THlJsX/h+iZdw0NC/VK0v48Rcrj3Uk08dXOsUsDw+ArL0JOBIgu\nO3JzlZZMBb/uKKXpMi7tOMTHjU9L8hmn11aOZWRAlrOx0P0b9sRreBBFn2uFrqVL\nuxFWZhVmvavkZlFtmpgdbB50KQJQ0WLZQiOX4Qd7tI0SKow+l/McJH2o9/HQrvhu\n7pD+VY84XwPORAyF0YrrZBVCNbh7bHjqRf9fo2EZ8jvmMVWzid4XwSXG4OYMLBUR\nxfEwnQq1+CF+BB9d+CXKxstndG6bchy/T7RYsYGvvGNKCDvLWbx6lHYaTs04prF6\nXLkILIHYQpZHbhjd3qpEqpCkL2ljU05zF8nHGkM688B3fda8017fArHNGMmk1FKM\nzo8hAktUJNJ7GZcPrz/u3Vh86f8QI4tDg77gNyswTFATgQnoxZg=\n=H9pV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 04da40e22605c4de1ff5c54841db989a47c2c283\ntype commit\ntag 3.44.0\ntagger Cosimo Lupo <clupo@google.com> 1564742468 +0100\n\n3.44.0\n\n- NOTE: This is the last scheduled release to support Python 2.7. The upcoming fonttools\n  v4.x series is going to require Python 3.6 or greater.\n- [varLib] Added new ``varLib.instancer`` module for partially instantiating variable\n  fonts. This extends (and will eventually replace) ``varLib.mutator`` module, as\n  it allows to create not just full static instances from a variable font, but also\n  \"partial\" or \"less variable\" fonts where some of the axes are dropped or\n  instantiated at a particular value.\n  Also available from the command-line as `fonttools varLib.instancer --help`\n  (#1537, #1628).\n- [cffLib] Added support for ``FDSelect`` format 4 (#1677).\n- [subset] Added support for subsetting ``sbix`` (Apple bitmap color font) table.\n- [t1Lib] Fixed issue parsing ``eexec`` section in Type1 fonts when whitespace\n  characters are interspersed among the trailing zeros (#1676).\n- [cffLib.specializer] Fixed bug in ``programToCommands`` with CFF2 charstrings (#1669).\n"
+  }
+}

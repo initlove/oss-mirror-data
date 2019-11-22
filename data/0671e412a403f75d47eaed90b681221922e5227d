@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMzNjg0NDU6MDY3MWU0MTJhNDAzZjc1ZDQ3ZWFlZDkwYjY4MTIyMTkyMmU1MjI3ZA==",
+  "sha": "0671e412a403f75d47eaed90b681221922e5227d",
+  "url": "https://api.github.com/repos/webmproject/libwebp/git/tags/0671e412a403f75d47eaed90b681221922e5227d",
+  "tagger": {
+    "name": "James Zern",
+    "email": "jzern@google.com",
+    "date": "2018-11-17T07:07:50Z"
+  },
+  "object": {
+    "sha": "e85d3313d6d52b1e9c6c181b488fc0831a747de8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/webmproject/libwebp/git/commits/e85d3313d6d52b1e9c6c181b488fc0831a747de8"
+  },
+  "tag": "v1.0.1",
+  "message": "libwebp-1.0.1\n\n- 11/2/2018: version 1.0.1\n  This is a binary compatible release.\n  * lossless encoder speedups\n  * big-endian fix for alpha decoding (issue #393)\n  * gif2webp fix for loop count=65535 transcode (issue #382)\n  * further security related hardening in libwebp & libwebpmux\n    (issues #383, #385, #386, #387, #388, #391)\n    (oss-fuzz #9099, #9100, #9105, #9106, #9111, #9112, #9119, #9123, #9170,\n              #9178, #9179, #9183, #9186, #9191, #9364, #9417, #9496, #10349,\n              #10423, #10634, #10700, #10838, #10922, #11021, #11088, #11152)\n  * miscellaneous bug & build fixes (issues #381, #394, #396, #397, #400)\n-----BEGIN PGP SIGNATURE-----\n\niQIyBAABCgAdFiEEaw5rcJdt4wPt8vYB+cPWvbgjK10FAlvvvl4ACgkQ+cPWvbgj\nK10y5A/3WYow3QOJN1yzO+bZV2GZRvnGS8/j/vm2D5jTz4nGoQ93vvzz1uis02W0\nJbu2faPc2LS6UVwjuK6YPUR9WrEXtf42u5T3kiZxzIqzd0ThE7WqmfeJ2sQLJsHj\nb8Dnv4dVM/Ifk/00yGa2Iz/Cj811A3lB2HUm02swQrQQI1bNA5jLQex43AjQlRtn\ncSAS6JtZnaQV3BW4pvaGzpJkgeBaNucEqPqKb6E3lTWjevP3Cu4lg5t0rchkDFl8\nVNq94EKvxwLS6nBw8DT+oDqIJvCUCU/Gwdfh01l1uKUUIU6ap0IZD05+GEcZOu8V\niJe+3bXKdDMpxg9rDCsYk0uhfOpwP7YqMzPTbq7yAaU0fnYMJDP4CaKY4pIfPJs3\n2b6PYk3YugaEG8Jex0a+ZhguEWcvR+AMSDtmz0GSDMq4NyPj12NSo+UTSCDu4wNP\nNmeZS1CG9/Rlfa6La3yfupsaYLet4eCnOW+4nuDqhx6h2VWWeR/xfLppXlxQxOHN\nAXGd2qsz6k1LYGoDZMd75ckVeGpzV259EZInfDdCHSiGrtOqVo8pMtWz3ADJBSY6\nsqE3ch2T/W7vHfp0UKxzpYKRXUcXW5gH9E1djl1AOr68LZCBeXGqpUAhFJ8BKeS3\ny7kl+RL+BuiRRUt7eGzbmh7oEyVdjguvv0vu3VmRekMcKkTYcw==\n=h6K3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIyBAABCgAdFiEEaw5rcJdt4wPt8vYB+cPWvbgjK10FAlvvvl4ACgkQ+cPWvbgj\nK10y5A/3WYow3QOJN1yzO+bZV2GZRvnGS8/j/vm2D5jTz4nGoQ93vvzz1uis02W0\nJbu2faPc2LS6UVwjuK6YPUR9WrEXtf42u5T3kiZxzIqzd0ThE7WqmfeJ2sQLJsHj\nb8Dnv4dVM/Ifk/00yGa2Iz/Cj811A3lB2HUm02swQrQQI1bNA5jLQex43AjQlRtn\ncSAS6JtZnaQV3BW4pvaGzpJkgeBaNucEqPqKb6E3lTWjevP3Cu4lg5t0rchkDFl8\nVNq94EKvxwLS6nBw8DT+oDqIJvCUCU/Gwdfh01l1uKUUIU6ap0IZD05+GEcZOu8V\niJe+3bXKdDMpxg9rDCsYk0uhfOpwP7YqMzPTbq7yAaU0fnYMJDP4CaKY4pIfPJs3\n2b6PYk3YugaEG8Jex0a+ZhguEWcvR+AMSDtmz0GSDMq4NyPj12NSo+UTSCDu4wNP\nNmeZS1CG9/Rlfa6La3yfupsaYLet4eCnOW+4nuDqhx6h2VWWeR/xfLppXlxQxOHN\nAXGd2qsz6k1LYGoDZMd75ckVeGpzV259EZInfDdCHSiGrtOqVo8pMtWz3ADJBSY6\nsqE3ch2T/W7vHfp0UKxzpYKRXUcXW5gH9E1djl1AOr68LZCBeXGqpUAhFJ8BKeS3\ny7kl+RL+BuiRRUt7eGzbmh7oEyVdjguvv0vu3VmRekMcKkTYcw==\n=h6K3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e85d3313d6d52b1e9c6c181b488fc0831a747de8\ntype commit\ntag v1.0.1\ntagger James Zern <jzern@google.com> 1542438470 -0800\n\nlibwebp-1.0.1\n\n- 11/2/2018: version 1.0.1\n  This is a binary compatible release.\n  * lossless encoder speedups\n  * big-endian fix for alpha decoding (issue #393)\n  * gif2webp fix for loop count=65535 transcode (issue #382)\n  * further security related hardening in libwebp & libwebpmux\n    (issues #383, #385, #386, #387, #388, #391)\n    (oss-fuzz #9099, #9100, #9105, #9106, #9111, #9112, #9119, #9123, #9170,\n              #9178, #9179, #9183, #9186, #9191, #9364, #9417, #9496, #10349,\n              #10423, #10634, #10700, #10838, #10922, #11021, #11088, #11152)\n  * miscellaneous bug & build fixes (issues #381, #394, #396, #397, #400)\n"
+  }
+}

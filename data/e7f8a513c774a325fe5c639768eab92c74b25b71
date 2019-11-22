@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE0NzY5ODplN2Y4YTUxM2M3NzRhMzI1ZmU1YzYzOTc2OGVhYjkyYzc0YjI1Yjcx",
+  "sha": "e7f8a513c774a325fe5c639768eab92c74b25b71",
+  "url": "https://api.github.com/repos/proot-me/proot/git/tags/e7f8a513c774a325fe5c639768eab92c74b25b71",
+  "tagger": {
+    "name": "Cédric VINCENT",
+    "email": "cedric.vincent@st.com",
+    "date": "2012-05-18T13:35:09Z"
+  },
+  "object": {
+    "sha": "891caf2e575fb43d3ee74e5df9083f9436d0e0b5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/proot-me/proot/git/commits/891caf2e575fb43d3ee74e5df9083f9436d0e0b5"
+  },
+  "tag": "v1.9",
+  "message": "Release v1.9\n============\n\nFixes\n-----\n\n* Be as transparent as possible with respect to SIGSTOP and SIGTRAP\n  signals.  For instance, the Open POSIX Test Suite now reports the\n  same level of success whether it is run under PRoot or not (it\n  depends on the kernel version though).\n\n* Ignore terminating signals and kill all tracees on abnormal\n  termination signals (^\\, segmentation fault, divide by zero, ...).\n  This ensures no tracee will stay alive without being monitored\n  anymore.\n\n* Force utsname.machine to \"i686\" -- instead of \"i386\" -- for 32-bit\n  programs running on x86_64 systems.  This improves the compatibility\n  with package managers that deduce the current architecture from\n  `uname -m`.\n\n* Fix x86_64 support for linkat() and fchownat().\n\n* Fix mixed-execution support, LD_LIBRARY_PATH was defined twice for\n  host programs.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJPtlAYAAoJELahHY4Fe9afYPIQAJ0pMzX4+g/qMa4z5v71SC2J\nGysti0MxjUea6gzmb7kEj9QRJbnAO3TKWHNFySPE6B8DAYDfBb1BE436g2lScMwF\nPC/+F+VbuQJZf0CIcLCHy5dQrOVhcv0PeudiYlYHQsF7+8/OBmc7/qCFUgVpteY1\nbQSNU1Mr7r9itgsjg4KifXuB+UvEK/PdcWWWy6+oSV/JzAbfUTDQr1rfEXy3MrWF\n98jt5UcO/Wbghpi9AB7cN3SENvCgjSYSltyVebU0mhPUIFwdyhAE2cvB1nmUVWWN\nOzvKUeZnjHZWWEy1fsT8teiBYtTmnkTxmKWqXjHQv3fHp+Cg8fYKljKBlpJk8bXj\nB5l098jvwFT++DjEz3x5HEzzFoGWY19IjJvAk9CIQbIVenwRUMe67aMBNjflKB3r\nbju44VMAUpAGhdvHjYN9F5od8BRZBlh6MkV6BuHaiDP5e63YCWyIA0i4114AjsUP\nRwQ8hxp8n0+3EYuz5H7+rL4Ny6t1Jhzuq+GcMeIJeMDhV9G0Y81Lev1KmjbKWo1g\nT2qDZr0NoHElDJt4pT/mzweyrmcP1YUEFot5eEKocm6S9f9nSLfnf0disnzPJDAp\nRQwBQvnT7YJJHijht9h1BYetjQbrcGqKR92G01wJMKqvKBJhOOYrTwiwCz+Jk4RI\nIHgsfWsl7pfjG/O5/2Cx\n=5CZD\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJPtlAYAAoJELahHY4Fe9afYPIQAJ0pMzX4+g/qMa4z5v71SC2J\nGysti0MxjUea6gzmb7kEj9QRJbnAO3TKWHNFySPE6B8DAYDfBb1BE436g2lScMwF\nPC/+F+VbuQJZf0CIcLCHy5dQrOVhcv0PeudiYlYHQsF7+8/OBmc7/qCFUgVpteY1\nbQSNU1Mr7r9itgsjg4KifXuB+UvEK/PdcWWWy6+oSV/JzAbfUTDQr1rfEXy3MrWF\n98jt5UcO/Wbghpi9AB7cN3SENvCgjSYSltyVebU0mhPUIFwdyhAE2cvB1nmUVWWN\nOzvKUeZnjHZWWEy1fsT8teiBYtTmnkTxmKWqXjHQv3fHp+Cg8fYKljKBlpJk8bXj\nB5l098jvwFT++DjEz3x5HEzzFoGWY19IjJvAk9CIQbIVenwRUMe67aMBNjflKB3r\nbju44VMAUpAGhdvHjYN9F5od8BRZBlh6MkV6BuHaiDP5e63YCWyIA0i4114AjsUP\nRwQ8hxp8n0+3EYuz5H7+rL4Ny6t1Jhzuq+GcMeIJeMDhV9G0Y81Lev1KmjbKWo1g\nT2qDZr0NoHElDJt4pT/mzweyrmcP1YUEFot5eEKocm6S9f9nSLfnf0disnzPJDAp\nRQwBQvnT7YJJHijht9h1BYetjQbrcGqKR92G01wJMKqvKBJhOOYrTwiwCz+Jk4RI\nIHgsfWsl7pfjG/O5/2Cx\n=5CZD\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 891caf2e575fb43d3ee74e5df9083f9436d0e0b5\ntype commit\ntag v1.9\ntagger Cédric VINCENT <cedric.vincent@st.com> 1337348109 +0200\n\nRelease v1.9\n============\n\nFixes\n-----\n\n* Be as transparent as possible with respect to SIGSTOP and SIGTRAP\n  signals.  For instance, the Open POSIX Test Suite now reports the\n  same level of success whether it is run under PRoot or not (it\n  depends on the kernel version though).\n\n* Ignore terminating signals and kill all tracees on abnormal\n  termination signals (^\\, segmentation fault, divide by zero, ...).\n  This ensures no tracee will stay alive without being monitored\n  anymore.\n\n* Force utsname.machine to \"i686\" -- instead of \"i386\" -- for 32-bit\n  programs running on x86_64 systems.  This improves the compatibility\n  with package managers that deduce the current architecture from\n  `uname -m`.\n\n* Fix x86_64 support for linkat() and fchownat().\n\n* Fix mixed-execution support, LD_LIBRARY_PATH was defined twice for\n  host programs.\n"
+  }
+}

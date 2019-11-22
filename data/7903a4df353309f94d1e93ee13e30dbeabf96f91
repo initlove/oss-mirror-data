@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzYwMDU6NzkwM2E0ZGYzNTMzMDlmOTRkMWU5M2VlMTNlMzBkYmVhYmY5NmY5MQ==",
+  "sha": "7903a4df353309f94d1e93ee13e30dbeabf96f91",
+  "url": "https://api.github.com/repos/gpg/libgcrypt/git/tags/7903a4df353309f94d1e93ee13e30dbeabf96f91",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2017-06-29T06:48:49Z"
+  },
+  "object": {
+    "sha": "b16176769672a659b9a7c1d23325270338323385",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libgcrypt/git/commits/b16176769672a659b9a7c1d23325270338323385"
+  },
+  "tag": "libgcrypt-1.7.8",
+  "message": "Mitigate CVE-2017-7526 side channel attack\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAllUotEACgkQJJs50k8l\n47ZSfwgAgcay8KmEwT+siFjlZpHyhytOPezwK1X5AQQnwGsvK2v6JdDgUmQ/rNPT\nOKOnAc2vC/pg9+1CF2wB4DZsGuKyB+A9uoAr12qQnaxU7gcQin7CivWrlbETVbUx\nygbeClOuDmCkuOckBlQD/qTTiLS/PPwFU7BsP8Y85pPoqXzBDkQcHyCAay/rH96m\nL0aEgzibsemHaVU+6w5korPqyGNeyin6aDdz9aaKMNVYTaiVipYtGlDgMB2bGCz4\n9MHaY8VoG0Bv9YSeBWbvzfdl7zknD5nOIFGm09npbWdWuwn+nCFM0kN36Km/fupl\nLo4g3L23HjNn+xL9jTNAn7AdZFKWAA==\n=q7XK\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAllUotEACgkQJJs50k8l\n47ZSfwgAgcay8KmEwT+siFjlZpHyhytOPezwK1X5AQQnwGsvK2v6JdDgUmQ/rNPT\nOKOnAc2vC/pg9+1CF2wB4DZsGuKyB+A9uoAr12qQnaxU7gcQin7CivWrlbETVbUx\nygbeClOuDmCkuOckBlQD/qTTiLS/PPwFU7BsP8Y85pPoqXzBDkQcHyCAay/rH96m\nL0aEgzibsemHaVU+6w5korPqyGNeyin6aDdz9aaKMNVYTaiVipYtGlDgMB2bGCz4\n9MHaY8VoG0Bv9YSeBWbvzfdl7zknD5nOIFGm09npbWdWuwn+nCFM0kN36Km/fupl\nLo4g3L23HjNn+xL9jTNAn7AdZFKWAA==\n=q7XK\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b16176769672a659b9a7c1d23325270338323385\ntype commit\ntag libgcrypt-1.7.8\ntagger Werner Koch <wk@gnupg.org> 1498718929 +0200\n\nMitigate CVE-2017-7526 side channel attack\n"
+  }
+}

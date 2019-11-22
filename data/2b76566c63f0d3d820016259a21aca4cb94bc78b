@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6MmI3NjU2NmM2M2YwZDNkODIwMDE2MjU5YTIxYWNhNGNiOTRiYzc4Yg==",
+  "sha": "2b76566c63f0d3d820016259a21aca4cb94bc78b",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/2b76566c63f0d3d820016259a21aca4cb94bc78b",
+  "tagger": {
+    "name": "Matti R",
+    "email": "matti@mdranta.net",
+    "date": "2019-06-17T17:11:27Z"
+  },
+  "object": {
+    "sha": "cf7a5b3d91320bfd49f07e42e8d274b838a3e76a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/cf7a5b3d91320bfd49f07e42e8d274b838a3e76a"
+  },
+  "tag": "v1.8.3",
+  "message": "* BUGFIXES\n  * Always set userID on LFS authentication (#7224) (Part of #6993)\n  * Fix LFS Locks over SSH (#6999) (#7223)\n  * Fix duplicated file on pull request conflicted files (#7211) (#7214)\n  * Detect noreply email address as user (#7133) (#7195)\n  * Don't get milestone from DB if ID is zero (#7169) (#7174)\n  * Allow archived repos to be (un)starred and (un)watched (#7163) (#7168)\n  * Fix GCArgs load from ini (#7156) (#7157)\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEtW48dDeknhNoYvXenYpXraojLpUFAl0Hyb8ACgkQnYpXraoj\nLpVTKg/9GtM/J8eem7WlLaQ2ftxUjz2AIJYuIdgCOPBEk+GBQCl8cKfuLJRZ6TAH\nBfOJ7/pMd/z1LVNdkwW6vj25z9spjsN4ZVt1I8EnMBZomT8OBuxEDFpWoWEdXY1N\n16dnjB1jvrGF5MFL0YZr6KfSmKpRvawVCk0X5Nin6hCqsYTZGBZ5i8hj7umWxHhs\nnrvJDoRzXRobmaRP8exyBgTIFW48dM9n4sHx8VkiJzBlk4dIQOGq9xc19n0d2oez\nme+Dk/4n9Jdwkn//CS7cB8b438dUT1K+W/IgvbQRqd6pWHK2ej6bdGDnIOImVtfe\nsSotz1pk/e5GNSKJcL5NJL0r+boRBsAF35nB0lJFH/VxNm/u50LMubzQIPIsprY0\nhRB5Px6xMlRwEUWJzQ9M1mjDR/nbfdICIO1FXwfw92cYquv6KUVLnGsxAQeTUCni\nkEAB1AGl6NVU51xj/bDF3qTR/Mt1zN12h+XYfmI6OdTHN3vd6P6u+PKsav/2UGzv\nsNxbCxAGHr89mVLgjNMiIrFIXSlYmyks5nB75482/x9LfhfpjCiqDi409zfuwarp\n6woVoL99jtzWfwfBdJwQDL+tUDiNTKupQcf5ng7PtSOr8ZS3hZFiGIhSQ39tIJ41\n5PPWda3W4X5N3Ovq5mGhdTpCDHQLF0Jl9NbMvaU/PnFbIgCMEqY=\n=U9Jy\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEtW48dDeknhNoYvXenYpXraojLpUFAl0Hyb8ACgkQnYpXraoj\nLpVTKg/9GtM/J8eem7WlLaQ2ftxUjz2AIJYuIdgCOPBEk+GBQCl8cKfuLJRZ6TAH\nBfOJ7/pMd/z1LVNdkwW6vj25z9spjsN4ZVt1I8EnMBZomT8OBuxEDFpWoWEdXY1N\n16dnjB1jvrGF5MFL0YZr6KfSmKpRvawVCk0X5Nin6hCqsYTZGBZ5i8hj7umWxHhs\nnrvJDoRzXRobmaRP8exyBgTIFW48dM9n4sHx8VkiJzBlk4dIQOGq9xc19n0d2oez\nme+Dk/4n9Jdwkn//CS7cB8b438dUT1K+W/IgvbQRqd6pWHK2ej6bdGDnIOImVtfe\nsSotz1pk/e5GNSKJcL5NJL0r+boRBsAF35nB0lJFH/VxNm/u50LMubzQIPIsprY0\nhRB5Px6xMlRwEUWJzQ9M1mjDR/nbfdICIO1FXwfw92cYquv6KUVLnGsxAQeTUCni\nkEAB1AGl6NVU51xj/bDF3qTR/Mt1zN12h+XYfmI6OdTHN3vd6P6u+PKsav/2UGzv\nsNxbCxAGHr89mVLgjNMiIrFIXSlYmyks5nB75482/x9LfhfpjCiqDi409zfuwarp\n6woVoL99jtzWfwfBdJwQDL+tUDiNTKupQcf5ng7PtSOr8ZS3hZFiGIhSQ39tIJ41\n5PPWda3W4X5N3Ovq5mGhdTpCDHQLF0Jl9NbMvaU/PnFbIgCMEqY=\n=U9Jy\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cf7a5b3d91320bfd49f07e42e8d274b838a3e76a\ntype commit\ntag v1.8.3\ntagger Matti R <matti@mdranta.net> 1560791487 -0400\n\n* BUGFIXES\n  * Always set userID on LFS authentication (#7224) (Part of #6993)\n  * Fix LFS Locks over SSH (#6999) (#7223)\n  * Fix duplicated file on pull request conflicted files (#7211) (#7214)\n  * Detect noreply email address as user (#7133) (#7195)\n  * Don't get milestone from DB if ID is zero (#7169) (#7174)\n  * Allow archived repos to be (un)starred and (un)watched (#7163) (#7168)\n  * Fix GCArgs load from ini (#7156) (#7157)\n"
+  }
+}

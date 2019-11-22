@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzYwMDU6YjA3YmJkNTE3Y2IwMzM4MjNiMDI1MGJmOTFmYzgxZDRiM2I4YTNkMw==",
+  "sha": "b07bbd517cb033823b0250bf91fc81d4b3b8a3d3",
+  "url": "https://api.github.com/repos/gpg/libgcrypt/git/tags/b07bbd517cb033823b0250bf91fc81d4b3b8a3d3",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2018-06-13T07:39:00Z"
+  },
+  "object": {
+    "sha": "5600d2d6b23640b0114655214f18959ee81fe58e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libgcrypt/git/commits/5600d2d6b23640b0114655214f18959ee81fe58e"
+  },
+  "tag": "libgcrypt-1.8.3",
+  "message": "Fix for CVE-2018-0495 and a few other corrections\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlsgyhQACgkQJJs50k8l\n47YuBgf8DWsI+DFDxO/+F3A7qhPwFAKxrimbpu7y6TG/Nl+OR6AV+Rq/SvsCBkop\n6UU8vm06lgWVqLgpd4o1/LkhvSPpMGA3x8W+CKRCPZjB4EYrfKexI/s2mujY23xB\nO7MEjOrGWdosVXJGwW51q1Xgv+x58F4+zs0DIE+Eawg2t9lpRTfkcF/o988pVzL1\n/M/6gL/Z7P1VRe1GWM8L+TyBfBYMoVMvrtKtD3W+54AU9L/f0SoA5/FkIp6WWVZ9\nGAGeLQdO7eVOAhm4x3wwY937Y3j33QTIYNe16fKD/0DqtHwwouYuJCkJUVPOREUp\nsassIIWOoXl9uiee0ltCaH5n7lS/7Q==\n=NdsJ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlsgyhQACgkQJJs50k8l\n47YuBgf8DWsI+DFDxO/+F3A7qhPwFAKxrimbpu7y6TG/Nl+OR6AV+Rq/SvsCBkop\n6UU8vm06lgWVqLgpd4o1/LkhvSPpMGA3x8W+CKRCPZjB4EYrfKexI/s2mujY23xB\nO7MEjOrGWdosVXJGwW51q1Xgv+x58F4+zs0DIE+Eawg2t9lpRTfkcF/o988pVzL1\n/M/6gL/Z7P1VRe1GWM8L+TyBfBYMoVMvrtKtD3W+54AU9L/f0SoA5/FkIp6WWVZ9\nGAGeLQdO7eVOAhm4x3wwY937Y3j33QTIYNe16fKD/0DqtHwwouYuJCkJUVPOREUp\nsassIIWOoXl9uiee0ltCaH5n7lS/7Q==\n=NdsJ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5600d2d6b23640b0114655214f18959ee81fe58e\ntype commit\ntag libgcrypt-1.8.3\ntagger Werner Koch <wk@gnupg.org> 1528875540 +0200\n\nFix for CVE-2018-0495 and a few other corrections\n"
+  }
+}

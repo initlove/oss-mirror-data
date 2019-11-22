@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzYwMDU6MjI1ZjgxMGY2ODQxMDRlOTE3NDNkZmY2YTBiN2RmMGM4MDFiYTQzZQ==",
+  "sha": "225f810f684104e91743dff6a0b7df0c801ba43e",
+  "url": "https://api.github.com/repos/gpg/libgcrypt/git/tags/225f810f684104e91743dff6a0b7df0c801ba43e",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2016-12-15T08:19:52Z"
+  },
+  "object": {
+    "sha": "89ec6c103739d41624bb5b899926efc26b215dda",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libgcrypt/git/commits/89ec6c103739d41624bb5b899926efc26b215dda"
+  },
+  "tag": "libgcrypt-1.7.5",
+  "message": "Fix mlock detection regression\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlhSUigACgkQJJs50k8l\n47ZvpQf+ImKIMytuNRUfss1hzmIlCqhxMGJvCM0xZF/K0xWbBA37QYkza0lZLX7s\nDmWDbrzWOyuxz7troAodUhDd123NZYfzbBgzsQnRVRWAVdZbBJ06fFWDCfQtUjFt\nB7xJ1oPF9XFTaQ2fFosXRRQfZoSNB9VCf2jpqccCo2K3tNlh6xaBf8BWsLAyP+gt\nBdkKwnhfku6iAjhhwNwuv3PS76maydsrHxz3kt6n1uMpqN0dDKmUzpdYa3MTQ4Al\nJcBLCa9q3xDrsDZpoXpxN4gZzy7Mijb3QAJns3Is+5n1ayZimEIV5CSM1H1XlfrV\nysHbyKHBzfvwAAsw5fUoczbJKJhVDA==\n=Bay4\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlhSUigACgkQJJs50k8l\n47ZvpQf+ImKIMytuNRUfss1hzmIlCqhxMGJvCM0xZF/K0xWbBA37QYkza0lZLX7s\nDmWDbrzWOyuxz7troAodUhDd123NZYfzbBgzsQnRVRWAVdZbBJ06fFWDCfQtUjFt\nB7xJ1oPF9XFTaQ2fFosXRRQfZoSNB9VCf2jpqccCo2K3tNlh6xaBf8BWsLAyP+gt\nBdkKwnhfku6iAjhhwNwuv3PS76maydsrHxz3kt6n1uMpqN0dDKmUzpdYa3MTQ4Al\nJcBLCa9q3xDrsDZpoXpxN4gZzy7Mijb3QAJns3Is+5n1ayZimEIV5CSM1H1XlfrV\nysHbyKHBzfvwAAsw5fUoczbJKJhVDA==\n=Bay4\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 89ec6c103739d41624bb5b899926efc26b215dda\ntype commit\ntag libgcrypt-1.7.5\ntagger Werner Koch <wk@gnupg.org> 1481789992 +0100\n\nFix mlock detection regression\n"
+  }
+}

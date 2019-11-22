@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6OGNhYTFmOTAzZDcxZTM4NzEyMjdmY2ZkZjYyMGNlYjlkMzYwOTY5Ng==",
+  "sha": "8caa1f903d71e3871227fcfdf620ceb9d3609696",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/8caa1f903d71e3871227fcfdf620ceb9d3609696",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2018-08-08T03:21:56Z"
+  },
+  "object": {
+    "sha": "cbb32331703c9651726bf793f0310e8c39b6d41f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/cbb32331703c9651726bf793f0310e8c39b6d41f"
+  },
+  "tag": "libmodulemd-1.6.2",
+  "message": "Releasing libmodulemd 1.6.2\n\nStephen Gallagher (7):\n      Bump version to 1.6.2dev\n      Use pkg-config for compatibility\n      Update README to point at latest docs\n      Fix docstrings for Modulemd.index_from_*()\n      Fix doc label for Modulemd.ComponentRpm\n      Make buildorder a signed integer\n      Fix incorrect docstring\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCW2ph4wAKCRB6JVViNrqj\no2bBAJ472diDaNuM4hn005QEwc1/hHHyvwCeNJsNgPwNjGJ8cyc4v36Irc9Q+ds=\n=uNPM\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCW2ph4wAKCRB6JVViNrqj\no2bBAJ472diDaNuM4hn005QEwc1/hHHyvwCeNJsNgPwNjGJ8cyc4v36Irc9Q+ds=\n=uNPM\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cbb32331703c9651726bf793f0310e8c39b6d41f\ntype commit\ntag libmodulemd-1.6.2\ntagger Stephen Gallagher <sgallagh@redhat.com> 1533698516 -0400\n\nReleasing libmodulemd 1.6.2\n\nStephen Gallagher (7):\n      Bump version to 1.6.2dev\n      Use pkg-config for compatibility\n      Update README to point at latest docs\n      Fix docstrings for Modulemd.index_from_*()\n      Fix doc label for Modulemd.ComponentRpm\n      Make buildorder a signed integer\n      Fix incorrect docstring\n"
+  }
+}

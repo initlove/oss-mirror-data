@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTM2MzE5NDU6ODU0MGEzN2U4Y2RkOWI4OTQyNTkxMjc3NjRhMzY0MTJiMDM1ZTM2NQ==",
+  "sha": "8540a37e8cdd9b894259127764a36412b035e365",
+  "url": "https://api.github.com/repos/BurntSushi/ripgrep/git/tags/8540a37e8cdd9b894259127764a36412b035e365",
+  "tagger": {
+    "name": "Andrew Gallant",
+    "email": "jamslam@gmail.com",
+    "date": "2016-11-22T01:53:55Z"
+  },
+  "object": {
+    "sha": "c4a6733f3b021d3d592fb76db9495d7de6dd338f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/BurntSushi/ripgrep/git/commits/c4a6733f3b021d3d592fb76db9495d7de6dd338f"
+  },
+  "tag": "0.3.1",
+  "message": "0.3.1\n\nBug fixes:\n\n* [BUG #242](https://github.com/BurntSushi/ripgrep/issues/242):\n  ripgrep didn't respect `--colors foo:none` correctly. Now it does.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

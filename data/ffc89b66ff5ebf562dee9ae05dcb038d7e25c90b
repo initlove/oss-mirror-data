@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6ZmZjODliNjZmZjVlYmY1NjJkZWU5YWUwNWRjYjAzOGQ3ZTI1YzkwYg==",
+  "sha": "ffc89b66ff5ebf562dee9ae05dcb038d7e25c90b",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/ffc89b66ff5ebf562dee9ae05dcb038d7e25c90b",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2018-04-13T19:08:03Z"
+  },
+  "object": {
+    "sha": "013a107fd01d468f24a547017e7987fb9e7b761a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/013a107fd01d468f24a547017e7987fb9e7b761a"
+  },
+  "tag": "libmodulemd-1.3.0",
+  "message": "Release libmodulemd version 1.3.0\n\n* Add support for merging default objects\n* Add helper tool for merging defaults with differing priorities\n\nSigned-off-by: Stephen Gallagher <sgallagh@redhat.com>\n-----BEGIN PGP SIGNATURE-----\n\niFwEABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWtEAIAAKCRB6JVViNrqj\no7fZAKCWwjLjt3k9WJaMKGFoIugl2s5bsQCYxyxZqUWPwruNWZVIRkJmTX2HfQ==\n=VBJa\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niFwEABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWtEAIAAKCRB6JVViNrqj\no7fZAKCWwjLjt3k9WJaMKGFoIugl2s5bsQCYxyxZqUWPwruNWZVIRkJmTX2HfQ==\n=VBJa\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 013a107fd01d468f24a547017e7987fb9e7b761a\ntype commit\ntag libmodulemd-1.3.0\ntagger Stephen Gallagher <sgallagh@redhat.com> 1523646483 -0400\n\nRelease libmodulemd version 1.3.0\n\n* Add support for merging default objects\n* Add helper tool for merging defaults with differing priorities\n\nSigned-off-by: Stephen Gallagher <sgallagh@redhat.com>\n"
+  }
+}

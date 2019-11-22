@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6ZGZhN2MzOWUxOWMzZDZmOTMyZWM2ZWI5ZTBiZTI5ZTI3OTBlNGM4Mg==",
+  "sha": "dfa7c39e19c3d6f932ec6eb9e0be29e2790e4c82",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/dfa7c39e19c3d6f932ec6eb9e0be29e2790e4c82",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2019-05-13T13:39:08Z"
+  },
+  "object": {
+    "sha": "d0a3eda45e083e8fe8b329a2310a53abdbf1e4d6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/d0a3eda45e083e8fe8b329a2310a53abdbf1e4d6"
+  },
+  "tag": "libmodulemd-2.4.0",
+  "message": "Release 2.4.0 and 1.8.10\n\nStephen Gallagher (15):\n      Bump version to 2.3.2dev and 1.8.9dev\n      Merge pull request #285 from mprahl/fix-docs4\n      ModuleStreamV2: add clear_dependencies() and remove_dependencies()\n      Merge pull request #287 from sgallagher/remove_deps\n      Merge pull request #289 from mprahl/xmd-none-default\n      Fix python2 conditional in specfile\n      Stop testing on Fedora 28\n      Tests: Install and test with python2-libmodulemd\n      Merge pull request #283 from sgallagher/tests\n      Fix memory issues with XMD handling and overrides\n      Reword python-libmodulemd recommendation\n      README: Add tips-and-tricks\n      Merge branch 'documentation'\n      Fix unchecked return code in XMD test\n      Release 2.4.0 and 1.8.10\n\nmprahl (3):\n      Add the missing strict argument to the Python examples\n      Remove an unused import in the Python overrides\n      Fix the Python bindings for get_xmd when the xmd value is None\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXNlzhgAKCRB6JVViNrqj\noy/zAKCgeOi7UkeXZpvEEqYBhl8tD/hB7ACfSeDv3ozV8MaoFShFViHDSIrJW1Q=\n=cdVE\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXNlzhgAKCRB6JVViNrqj\noy/zAKCgeOi7UkeXZpvEEqYBhl8tD/hB7ACfSeDv3ozV8MaoFShFViHDSIrJW1Q=\n=cdVE\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d0a3eda45e083e8fe8b329a2310a53abdbf1e4d6\ntype commit\ntag libmodulemd-2.4.0\ntagger Stephen Gallagher <sgallagh@redhat.com> 1557754748 -0400\n\nRelease 2.4.0 and 1.8.10\n\nStephen Gallagher (15):\n      Bump version to 2.3.2dev and 1.8.9dev\n      Merge pull request #285 from mprahl/fix-docs4\n      ModuleStreamV2: add clear_dependencies() and remove_dependencies()\n      Merge pull request #287 from sgallagher/remove_deps\n      Merge pull request #289 from mprahl/xmd-none-default\n      Fix python2 conditional in specfile\n      Stop testing on Fedora 28\n      Tests: Install and test with python2-libmodulemd\n      Merge pull request #283 from sgallagher/tests\n      Fix memory issues with XMD handling and overrides\n      Reword python-libmodulemd recommendation\n      README: Add tips-and-tricks\n      Merge branch 'documentation'\n      Fix unchecked return code in XMD test\n      Release 2.4.0 and 1.8.10\n\nmprahl (3):\n      Add the missing strict argument to the Python examples\n      Remove an unused import in the Python overrides\n      Fix the Python bindings for get_xmd when the xmd value is None\n"
+  }
+}

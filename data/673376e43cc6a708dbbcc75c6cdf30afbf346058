@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDYwODk1NjA6NjczMzc2ZTQzY2M2YTcwOGRiYmNjNzVjNmNkZjMwYWZiZjM0NjA1OA==",
+  "sha": "673376e43cc6a708dbbcc75c6cdf30afbf346058",
+  "url": "https://api.github.com/repos/containerd/containerd/git/tags/673376e43cc6a708dbbcc75c6cdf30afbf346058",
+  "tagger": {
+    "name": "Derek McGowan",
+    "email": "derek@mcgstyle.net",
+    "date": "2018-07-13T18:43:56Z"
+  },
+  "object": {
+    "sha": "468a545b9edcd5932818eb9de8e72413e616e86e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/containerd/containerd/git/commits/468a545b9edcd5932818eb9de8e72413e616e86e"
+  },
+  "tag": "v1.1.2",
+  "message": "containerd 1.1.2\n\nWelcome to the v1.1.2 release of containerd!\n\nThis is the second patch release for the `containerd` 1.1 release. This\nincludes an issue fix for CRI.\n\nCRI Plugin\nFix an issue that a container log line longer than 4kb is cut into\nmultiple lines. A new `max_container_log_size` config option is added\nto make this configurable, and the default value is set to 16kb.\n\nPlease try out the release binaries and report any issues at\nhttps://github.com/containerd/containerd/issues.\n\nContributors\n\n* Derek McGowan\n* Kenfe-Mickaël Laventure\n* Lantao Liu\n\nChanges\n\n* 468a545b9e Merge pull request #2453 from Random-Liu/prepare-1.1.2\n* 2b9e5a236a The 1.1.2 release notes.\n* 37647b4410 Merge pull request #2452 from Random-Liu/update-cri-to-1.0.4\n* 94423a4955 Update `cri` version to 1.0.4.\n\nDependency Changes\n\nPrevious release can be found at [v1.1.1](https://github.com/containerd/containerd/releases/tag/v1.1.1)\n\n* **github.com/containerd/cri**  40007b34d36f81007087578a340c499e4b06c9bb -> v1.0.4\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEjHoRHCEQV5Sw6KJ79YxdCkQFrNsFAltI8uwACgkQ9YxdCkQF\nrNvN3A/9GYm5wGDLzlWmVrG4Gtj9VimZ8tfpMmIC81LgJngc9kjxb39AO6fkPLq4\nXeXS93rxgMOBN3PhUsk+TlWpBODX3OsRNy/VMoBi83HsnXVILn/J3CwgUbDVtFT5\n68ELcICqJx4DqpGpztXfGIEu0VC0oEhGcWyUci76SN9ELRlYABFYTSsEdIy9b1uW\nCIKhevSHmyZgtS9lgWVMJwi/GEw1c2XFvRpQJDLL8AxEVGuB9ROGaNDzobo0ZUuh\nRVIuH8zZSJ2QO+XovUzOYiBpkWcGvMykfUX/32qdiUMpqFWas+3QkW+zEYt/rnW9\nzm5X21TgSZfF0BhXTUoV1XUGth/JUxNBroWkxxVrdH3Us9ncO7xygWq1NrlMiC3T\nJbYoKLcLkCaEejuoB5tmG9pr4TOk2scHQ9LX5hpz/88Kk39D03TKgILR3sgjz6hb\nH1gTD3BBUQOvzxrZ7vwUQ2jQOdZ2r5q8abecbrOKmZdXNnqpO1jPXXc0d0YJQ5Dc\npjwYDiqyB13XbZsBSFHLzuqlBzORzJTPh1yg74ZZP9NrqmwVuafyKdfAWAI94/n3\ntF5PD7V7hdit7KtfKc9rexcsMAQ5wX/91MPKfVv0x8fs+iDoLQYkmRoqYBX8crVr\nzFWoewpIsupK8yh2coB7d+l95K2QQDZRUqsgmR9wE5sC5+VNcdg=\n=Sn9X\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEjHoRHCEQV5Sw6KJ79YxdCkQFrNsFAltI8uwACgkQ9YxdCkQF\nrNvN3A/9GYm5wGDLzlWmVrG4Gtj9VimZ8tfpMmIC81LgJngc9kjxb39AO6fkPLq4\nXeXS93rxgMOBN3PhUsk+TlWpBODX3OsRNy/VMoBi83HsnXVILn/J3CwgUbDVtFT5\n68ELcICqJx4DqpGpztXfGIEu0VC0oEhGcWyUci76SN9ELRlYABFYTSsEdIy9b1uW\nCIKhevSHmyZgtS9lgWVMJwi/GEw1c2XFvRpQJDLL8AxEVGuB9ROGaNDzobo0ZUuh\nRVIuH8zZSJ2QO+XovUzOYiBpkWcGvMykfUX/32qdiUMpqFWas+3QkW+zEYt/rnW9\nzm5X21TgSZfF0BhXTUoV1XUGth/JUxNBroWkxxVrdH3Us9ncO7xygWq1NrlMiC3T\nJbYoKLcLkCaEejuoB5tmG9pr4TOk2scHQ9LX5hpz/88Kk39D03TKgILR3sgjz6hb\nH1gTD3BBUQOvzxrZ7vwUQ2jQOdZ2r5q8abecbrOKmZdXNnqpO1jPXXc0d0YJQ5Dc\npjwYDiqyB13XbZsBSFHLzuqlBzORzJTPh1yg74ZZP9NrqmwVuafyKdfAWAI94/n3\ntF5PD7V7hdit7KtfKc9rexcsMAQ5wX/91MPKfVv0x8fs+iDoLQYkmRoqYBX8crVr\nzFWoewpIsupK8yh2coB7d+l95K2QQDZRUqsgmR9wE5sC5+VNcdg=\n=Sn9X\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 468a545b9edcd5932818eb9de8e72413e616e86e\ntype commit\ntag v1.1.2\ntagger Derek McGowan <derek@mcgstyle.net> 1531507436 -0700\n\ncontainerd 1.1.2\n\nWelcome to the v1.1.2 release of containerd!\n\nThis is the second patch release for the `containerd` 1.1 release. This\nincludes an issue fix for CRI.\n\nCRI Plugin\nFix an issue that a container log line longer than 4kb is cut into\nmultiple lines. A new `max_container_log_size` config option is added\nto make this configurable, and the default value is set to 16kb.\n\nPlease try out the release binaries and report any issues at\nhttps://github.com/containerd/containerd/issues.\n\nContributors\n\n* Derek McGowan\n* Kenfe-Mickaël Laventure\n* Lantao Liu\n\nChanges\n\n* 468a545b9e Merge pull request #2453 from Random-Liu/prepare-1.1.2\n* 2b9e5a236a The 1.1.2 release notes.\n* 37647b4410 Merge pull request #2452 from Random-Liu/update-cri-to-1.0.4\n* 94423a4955 Update `cri` version to 1.0.4.\n\nDependency Changes\n\nPrevious release can be found at [v1.1.1](https://github.com/containerd/containerd/releases/tag/v1.1.1)\n\n* **github.com/containerd/cri**  40007b34d36f81007087578a340c499e4b06c9bb -> v1.0.4\n"
+  }
+}

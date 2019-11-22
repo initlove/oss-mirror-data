@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6NDE4ODYwODI3NTBhNjNhMDk5NmVkODYwNWY3MmExOGJhNDliMjk1Yg==",
+  "sha": "41886082750a63a0996ed8605f72a18ba49b295b",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/41886082750a63a0996ed8605f72a18ba49b295b",
+  "tagger": {
+    "name": "Lunny Xiao",
+    "email": "xiaolunwen@gmail.com",
+    "date": "2017-09-04T14:32:49Z"
+  },
+  "object": {
+    "sha": "34182c87ec50f647fc6f5b97ba201c3bd42f0728",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/34182c87ec50f647fc6f5b97ba201c3bd42f0728"
+  },
+  "tag": "v1.1.4",
+  "message": "* BUGFIXES\n  * Fix rendering of external links (#2292) (#2315)\n  * Fix deleted milestone bug (#1942) (#2300)\n  * fix 500 error when view an issue which's milestone deleted (#2297) (#2299)\n  * Fix SHA1 hash linking (#2143) (#2293)\n  * back port from #1709 (#2291)\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJZrWQSAAoJEMO3yRtjL3OKH3oQAJjvtgFo31Sc45I/NC6qhbnx\nR2U5gugY/get1GRFcf/1EZlBMJtu7LVpOj9TDPPYj6WrdvPZh2rfiRBqzp7lZVq5\nCWL8394SihQOZ1MxxxeT/mCKjHPMQlqxLdsmQzYIUBCQjSatj+KW2/0+19KS4R7M\ncmvGO0un+ItfqaxjTGTN4t7vRCP8H+n2gU/Ru8gXkm4art4Hxy/RIgvRLzrxRfFT\n0kruNMga/2FCoSS0gedCBaY7Xe6dGP+dbjhOhnjWsLEQqck/VZ9SSACFo7f6wY8o\n7VsTp9GsGjO3XOmR3PCW81Fcj4MwKyUCJJ+o5Qi85QXXmPNRcXATcFFsFCjiVcFw\nPyITnSX6EWKVgHat6e9sRJ0roBbNXEGlfY7JBxEomyhvutkQAQV7+tQCILw0OAIR\n74ty6TDA3gRuLDQsHsL/XMJgf8hksEKU4jq0vBx5Y8hkZM45DZQ/MoALIQXId5a5\nU+slIcvDOY05W7LP3H/MgbOP3B0qxN0n0sYec+3JGEpg5DQ9u8J987GUZnUS9ifi\npSkL3ag7F14E2UHbSeP+uQjRNTeVt0QFMcx0xhVldJStBCB5STojBP8fFatydLkx\nd5u8eKO9JzxOKvsEBR9Sz79JcupM24eD2RdVlg4AjwhGVrlE2Y2QQCGJPGWNDz8r\n0LMQXn+ZGTaVJtSNwgvW\n=MIzs\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJZrWQSAAoJEMO3yRtjL3OKH3oQAJjvtgFo31Sc45I/NC6qhbnx\nR2U5gugY/get1GRFcf/1EZlBMJtu7LVpOj9TDPPYj6WrdvPZh2rfiRBqzp7lZVq5\nCWL8394SihQOZ1MxxxeT/mCKjHPMQlqxLdsmQzYIUBCQjSatj+KW2/0+19KS4R7M\ncmvGO0un+ItfqaxjTGTN4t7vRCP8H+n2gU/Ru8gXkm4art4Hxy/RIgvRLzrxRfFT\n0kruNMga/2FCoSS0gedCBaY7Xe6dGP+dbjhOhnjWsLEQqck/VZ9SSACFo7f6wY8o\n7VsTp9GsGjO3XOmR3PCW81Fcj4MwKyUCJJ+o5Qi85QXXmPNRcXATcFFsFCjiVcFw\nPyITnSX6EWKVgHat6e9sRJ0roBbNXEGlfY7JBxEomyhvutkQAQV7+tQCILw0OAIR\n74ty6TDA3gRuLDQsHsL/XMJgf8hksEKU4jq0vBx5Y8hkZM45DZQ/MoALIQXId5a5\nU+slIcvDOY05W7LP3H/MgbOP3B0qxN0n0sYec+3JGEpg5DQ9u8J987GUZnUS9ifi\npSkL3ag7F14E2UHbSeP+uQjRNTeVt0QFMcx0xhVldJStBCB5STojBP8fFatydLkx\nd5u8eKO9JzxOKvsEBR9Sz79JcupM24eD2RdVlg4AjwhGVrlE2Y2QQCGJPGWNDz8r\n0LMQXn+ZGTaVJtSNwgvW\n=MIzs\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 34182c87ec50f647fc6f5b97ba201c3bd42f0728\ntype commit\ntag v1.1.4\ntagger Lunny Xiao <xiaolunwen@gmail.com> 1504535569 +0800\n\n* BUGFIXES\n  * Fix rendering of external links (#2292) (#2315)\n  * Fix deleted milestone bug (#1942) (#2300)\n  * fix 500 error when view an issue which's milestone deleted (#2297) (#2299)\n  * Fix SHA1 hash linking (#2143) (#2293)\n  * back port from #1709 (#2291)\n"
+  }
+}

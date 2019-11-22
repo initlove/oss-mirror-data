@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzYwMDU6NTIyN2YyNTVmNDVkYmJlMDE4OWFiM2RhMTMyZjVmYTRkOTZkMTc3NA==",
+  "sha": "5227f255f45dbbe0189ab3da132f5fa4d96d1774",
+  "url": "https://api.github.com/repos/gpg/libgcrypt/git/tags/5227f255f45dbbe0189ab3da132f5fa4d96d1774",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2017-06-02T06:50:42Z"
+  },
+  "object": {
+    "sha": "d9cebf535ca323a07b30ed06e86a1c04c5920058",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libgcrypt/git/commits/d9cebf535ca323a07b30ed06e86a1c04c5920058"
+  },
+  "tag": "libgcrypt-1.7.7",
+  "message": "Fix for a side-channel bug and a segv in secmem.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlkxCsIACgkQJJs50k8l\n47bjPAf+OPyeAcH2QTlVa/kAeCu317qKPw7AV1pJ83tRp8RzgLGGymqwpH4bxtCn\noA1b0N5phTzBInJWNGuRNMDcSDdQbMrN4w2TKG27PX1w1lIXygUlYtptHg3eyojp\nqnnaBv2/QBSajkMXDxRl5Zwq1hcRu6szQUXoWhomIuMEZysMQLYzwu574gh8BQqJ\nLr89itrQPXF/LSGO6pp67cnCXGke6QFwI+fHOb8bTXPzx0IUeX9ed3I34PpjMf17\neMEn/xmUHXchGLbD3/HeV+ECoq0QwJVl85MOFzx7ruTKTO+s2ZccxZVGqIPA1DMa\ndOLzUn3gKQ9++djASzsurilrYcUSDg==\n=Kxpp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlkxCsIACgkQJJs50k8l\n47bjPAf+OPyeAcH2QTlVa/kAeCu317qKPw7AV1pJ83tRp8RzgLGGymqwpH4bxtCn\noA1b0N5phTzBInJWNGuRNMDcSDdQbMrN4w2TKG27PX1w1lIXygUlYtptHg3eyojp\nqnnaBv2/QBSajkMXDxRl5Zwq1hcRu6szQUXoWhomIuMEZysMQLYzwu574gh8BQqJ\nLr89itrQPXF/LSGO6pp67cnCXGke6QFwI+fHOb8bTXPzx0IUeX9ed3I34PpjMf17\neMEn/xmUHXchGLbD3/HeV+ECoq0QwJVl85MOFzx7ruTKTO+s2ZccxZVGqIPA1DMa\ndOLzUn3gKQ9++djASzsurilrYcUSDg==\n=Kxpp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d9cebf535ca323a07b30ed06e86a1c04c5920058\ntype commit\ntag libgcrypt-1.7.7\ntagger Werner Koch <wk@gnupg.org> 1496386242 +0200\n\nFix for a side-channel bug and a segv in secmem.\n"
+  }
+}

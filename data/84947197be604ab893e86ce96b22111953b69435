@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMzNjg0NDU6ODQ5NDcxOTdiZTYwNGFiODkzZTg2Y2U5NmIyMjExMTk1M2I2OTQzNQ==",
+  "sha": "84947197be604ab893e86ce96b22111953b69435",
+  "url": "https://api.github.com/repos/webmproject/libwebp/git/tags/84947197be604ab893e86ce96b22111953b69435",
+  "tagger": {
+    "name": "James Zern",
+    "email": "jzern@google.com",
+    "date": "2018-04-21T03:37:08Z"
+  },
+  "object": {
+    "sha": "698b8844e38a0c5ca50bb20f866e71291bfc3b36",
+    "type": "commit",
+    "url": "https://api.github.com/repos/webmproject/libwebp/git/commits/698b8844e38a0c5ca50bb20f866e71291bfc3b36"
+  },
+  "tag": "v1.0.0",
+  "message": "libwebp-1.0.0\n\n- 4/2/2018: version 1.0.0\n  This is a binary compatible release.\n  * lossy encoder improvements to avoid chroma shifts in various circumstances\n    (issues #308, #340)\n  * big-endian fixes for decode, RGBA import and WebPPictureDistortion\n  Tool updates:\n    gifwebp, anim_diff - default duration behavior (<= 10ms) changed to match\n                         web browsers, transcoding tools (issue #379)\n    img2webp, webpmux - allow options to be passed in via a file (issue #355)\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEaw5rcJdt4wPt8vYB+cPWvbgjK10FAlrasfkACgkQ+cPWvbgj\nK12DGg//W62o9nLkWK3196sJW57z1/4kPFj3q2syxDfPvgu8A8RcFbLADXxacNsD\nl3eR36wIG6VnJlI4DzoPn5uipvJCsDqysNRm4G6zBWc4wmycKBIwDz85i/2kJbG1\nbXDK6yICh4Keg3eZq6dprZhSFQzi1MjQKtvfshU+rKC0UxaTzGDfc4qqn9df9468\na6xDrSw5lJ2cQs8BNAeLUJrziXaP1EnJuU1vvH9cDjQqVz02BE/o9EY3Pv8pL26h\n3bzTiIf7v0tt0pPdzm+P5nQ0BCKkVVlzIqDn7E4ORZhbFAj3AVJPB3/7Y9YrL6/y\nBGl94RNqlrzgCmPtkyTmFkOmIr/rQBgIbqS6KJ1mkS0qfwad/FXaEUAMz3yMO5xO\n06NRXLhyREdPS678t9sp+epw+aHcxOgDZzgr8ghSufirSa6og7gyseGq+FHZ7R6d\nR0dQknk6xbJc59tdKhVFO1Nc7acQWPzIY9KPmLUA5Ag3ooJFd65jUxQ8icn7NqyZ\n+lh3CQhRF0mug9GNHBbtc6xn15mG59nGZp8NWW4UcqHOgzIQuHJS29ZH1j6wO3+O\niEuR3BmuagngN2Dpw+C2XJoT/qrO2GSndLSVJW6QTTCod9RCTZpc0ik6gAmPAgL1\nueYBuhzZyb1Dtdte377fRMfjpOezZUh6G0rFs4yQx9O4SXh/3xY=\n=Uvya\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEaw5rcJdt4wPt8vYB+cPWvbgjK10FAlrasfkACgkQ+cPWvbgj\nK12DGg//W62o9nLkWK3196sJW57z1/4kPFj3q2syxDfPvgu8A8RcFbLADXxacNsD\nl3eR36wIG6VnJlI4DzoPn5uipvJCsDqysNRm4G6zBWc4wmycKBIwDz85i/2kJbG1\nbXDK6yICh4Keg3eZq6dprZhSFQzi1MjQKtvfshU+rKC0UxaTzGDfc4qqn9df9468\na6xDrSw5lJ2cQs8BNAeLUJrziXaP1EnJuU1vvH9cDjQqVz02BE/o9EY3Pv8pL26h\n3bzTiIf7v0tt0pPdzm+P5nQ0BCKkVVlzIqDn7E4ORZhbFAj3AVJPB3/7Y9YrL6/y\nBGl94RNqlrzgCmPtkyTmFkOmIr/rQBgIbqS6KJ1mkS0qfwad/FXaEUAMz3yMO5xO\n06NRXLhyREdPS678t9sp+epw+aHcxOgDZzgr8ghSufirSa6og7gyseGq+FHZ7R6d\nR0dQknk6xbJc59tdKhVFO1Nc7acQWPzIY9KPmLUA5Ag3ooJFd65jUxQ8icn7NqyZ\n+lh3CQhRF0mug9GNHBbtc6xn15mG59nGZp8NWW4UcqHOgzIQuHJS29ZH1j6wO3+O\niEuR3BmuagngN2Dpw+C2XJoT/qrO2GSndLSVJW6QTTCod9RCTZpc0ik6gAmPAgL1\nueYBuhzZyb1Dtdte377fRMfjpOezZUh6G0rFs4yQx9O4SXh/3xY=\n=Uvya\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 698b8844e38a0c5ca50bb20f866e71291bfc3b36\ntype commit\ntag v1.0.0\ntagger James Zern <jzern@google.com> 1524281828 -0700\n\nlibwebp-1.0.0\n\n- 4/2/2018: version 1.0.0\n  This is a binary compatible release.\n  * lossy encoder improvements to avoid chroma shifts in various circumstances\n    (issues #308, #340)\n  * big-endian fixes for decode, RGBA import and WebPPictureDistortion\n  Tool updates:\n    gifwebp, anim_diff - default duration behavior (<= 10ms) changed to match\n                         web browsers, transcoding tools (issue #379)\n    img2webp, webpmux - allow options to be passed in via a file (issue #355)\n"
+  }
+}

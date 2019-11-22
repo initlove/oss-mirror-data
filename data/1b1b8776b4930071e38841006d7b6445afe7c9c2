@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6MWIxYjg3NzZiNDkzMDA3MWUzODg0MTAwNmQ3YjY0NDVhZmU3YzljMg==",
+  "sha": "1b1b8776b4930071e38841006d7b6445afe7c9c2",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/1b1b8776b4930071e38841006d7b6445afe7c9c2",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo.lupo@daltonmaag.com",
+    "date": "2017-05-17T14:15:17Z"
+  },
+  "object": {
+    "sha": "f798f5223677dfec0573964525c7295c7290686b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/f798f5223677dfec0573964525c7295c7290686b"
+  },
+  "tag": "3.12.0",
+  "message": "3.12.0\n\n- [cffLib.specializer] Added new ``specializer`` module to optimize CFF\n  charstrings, used by the T2CharStringPen (#948).\n- [varLib.mutator] Sort glyphs by component depth before calculating composite\n  glyphs' bounding boxes to ensure deltas are correctly caclulated (#945).\n- [_g_l_y_f] Fixed loss of precision in GlyphCoordinates by using 'd' (double)\n  instead of 'f' (float) as ``array.array`` typecode (#963, #964).\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJZHFr1AAoJELYaqtC1OmQZFRQP/2CftzjTP12nDghgCuNEN634\no1iKjOn0wE/vzHgqFJVy6JtlgHgVP16UIphbDh1rBpmgRWsQaTrzEe86N12qdue6\nszk1h82hYSSE4nDrVkVLk2nnMcHZXwZ3h8jXC0lsBxqj7eUh79+1K/UQI+7t2iPO\nqUK4PWWoagfi7zDHmn1aXxIjx+aMbXcNHPvQw23Y+ZZMC36KilBbRMpGYVDtLXRj\nyZ/ep4Hwr9YCaRQ+aKbfonbfwPMnoamh4aRU0DMNb7+YTOajB9k0qvMUv+DMosPO\n/nhirHO8sTd6CdV+bThJIxrtl1yYVvnOC8IrwoVof1VFMpPLaKyMtl5RE80kwoMb\ncqNm6ESv45jDjGu7IUG9wS3UeQtVuCgQjZTv3G+Tx5h2yN3KGr123uRSPQzAVQKV\nzmu3AqwZRBkZqy6PsvcS/W7doFyRfQz5zPR/PZkurs6e9HpLXqH5BFLo2KHO7eCW\nPgjNlv3qq3Peo7CAjDO/PM9iTHwFjqLq544jd79TKoFhSes8O9i+dU4eYtoyrF4z\nbhU5ryCmAcd1ImAHTRqGxiidcuO/Q8VdVcmCm+6EjX/pIXpBqoY8NTOQvKbXG8u9\nbCT2LVrPgWoBNMMhnBEw3EvyHQvFOw0j1tBYZ21mknIajc4TnCKFLMO+FppjTeCc\nRLtlti3+s0wl754eXlkf\n=CBdF\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJZHFr1AAoJELYaqtC1OmQZFRQP/2CftzjTP12nDghgCuNEN634\no1iKjOn0wE/vzHgqFJVy6JtlgHgVP16UIphbDh1rBpmgRWsQaTrzEe86N12qdue6\nszk1h82hYSSE4nDrVkVLk2nnMcHZXwZ3h8jXC0lsBxqj7eUh79+1K/UQI+7t2iPO\nqUK4PWWoagfi7zDHmn1aXxIjx+aMbXcNHPvQw23Y+ZZMC36KilBbRMpGYVDtLXRj\nyZ/ep4Hwr9YCaRQ+aKbfonbfwPMnoamh4aRU0DMNb7+YTOajB9k0qvMUv+DMosPO\n/nhirHO8sTd6CdV+bThJIxrtl1yYVvnOC8IrwoVof1VFMpPLaKyMtl5RE80kwoMb\ncqNm6ESv45jDjGu7IUG9wS3UeQtVuCgQjZTv3G+Tx5h2yN3KGr123uRSPQzAVQKV\nzmu3AqwZRBkZqy6PsvcS/W7doFyRfQz5zPR/PZkurs6e9HpLXqH5BFLo2KHO7eCW\nPgjNlv3qq3Peo7CAjDO/PM9iTHwFjqLq544jd79TKoFhSes8O9i+dU4eYtoyrF4z\nbhU5ryCmAcd1ImAHTRqGxiidcuO/Q8VdVcmCm+6EjX/pIXpBqoY8NTOQvKbXG8u9\nbCT2LVrPgWoBNMMhnBEw3EvyHQvFOw0j1tBYZ21mknIajc4TnCKFLMO+FppjTeCc\nRLtlti3+s0wl754eXlkf\n=CBdF\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f798f5223677dfec0573964525c7295c7290686b\ntype commit\ntag 3.12.0\ntagger Cosimo Lupo <cosimo.lupo@daltonmaag.com> 1495030517 +0100\n\n3.12.0\n\n- [cffLib.specializer] Added new ``specializer`` module to optimize CFF\n  charstrings, used by the T2CharStringPen (#948).\n- [varLib.mutator] Sort glyphs by component depth before calculating composite\n  glyphs' bounding boxes to ensure deltas are correctly caclulated (#945).\n- [_g_l_y_f] Fixed loss of precision in GlyphCoordinates by using 'd' (double)\n  instead of 'f' (float) as ``array.array`` typecode (#963, #964).\n"
+  }
+}

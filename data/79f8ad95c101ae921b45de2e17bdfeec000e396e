@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM5NjgyNTU6NzlmOGFkOTVjMTAxYWU5MjFiNDVkZTJlMTdiZGZlZWMwMDBlMzk2ZQ==",
+  "sha": "79f8ad95c101ae921b45de2e17bdfeec000e396e",
+  "url": "https://api.github.com/repos/openstack/mistral/git/tags/79f8ad95c101ae921b45de2e17bdfeec000e396e",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-09-19T13:10:22Z"
+  },
+  "object": {
+    "sha": "df944dfb6299baef62710ee321f0b1c21c319d1d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/mistral/git/commits/df944dfb6299baef62710ee321f0b1c21c319d1d"
+  },
+  "tag": "5.2.5",
+  "message": "mistral 5.2.5 release\n\nmeta:version: 5.2.5\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Dougal Matthews <dougal@redhat.com>\nmeta:release:Commit: Dougal Matthews <dougal@redhat.com>\nmeta:release:Change-Id: I8f5794850bc6c56f1bdcde14ed94ccd5d30b6811\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbokq+AAoJEBpUEUgFTp44oHQL/1SGx36TkXLY5zUxkvIUnMvW\nmPxqy4FdKVtg39+aF11DCNqBzAVo1E6GkHzJMzQIlP0ewUoBlLmVJFvA5GQngNPJ\nFIFuE4OCDhpEkUINGFY4xrawoSJmytbg3WuEXSF9WdyMseyFRe3WqiF7N+sRNyrk\njxqxsdKA/+yBiDixCO8r3yoUYpAZTduE3UJCGFevpLXh2Dts3T3tW6T64TSUjvrS\nEuTAUAZdJ6lA2xBULovosSFp/OY6jMzTeMUj3xnutvyEz5ktwa9/UZ8L54DxhKvE\nTBN4SxN5uQTizJzO3gySa81SE8sT7q3JTE+dtphwbd/hjYcx7RI+bZclH4di3tH7\nhwu/WyA5g9EWjDU/PM0GfZfrWa6VYEKuEVzk1ZNEXbx0tZZ+c3XMZg3Xjrtwz2ud\nAFUjqniDjWpVG+nqIiOCLF8HeQu6wBGOWMtn8bkc1obTFZdyr697vkY1ib4D4zC5\nPw9a6qqS/vilz5kIX6AZXVsc8F8Ltjyrr2HSm01aRg==\n=CT0c\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbokq+AAoJEBpUEUgFTp44oHQL/1SGx36TkXLY5zUxkvIUnMvW\nmPxqy4FdKVtg39+aF11DCNqBzAVo1E6GkHzJMzQIlP0ewUoBlLmVJFvA5GQngNPJ\nFIFuE4OCDhpEkUINGFY4xrawoSJmytbg3WuEXSF9WdyMseyFRe3WqiF7N+sRNyrk\njxqxsdKA/+yBiDixCO8r3yoUYpAZTduE3UJCGFevpLXh2Dts3T3tW6T64TSUjvrS\nEuTAUAZdJ6lA2xBULovosSFp/OY6jMzTeMUj3xnutvyEz5ktwa9/UZ8L54DxhKvE\nTBN4SxN5uQTizJzO3gySa81SE8sT7q3JTE+dtphwbd/hjYcx7RI+bZclH4di3tH7\nhwu/WyA5g9EWjDU/PM0GfZfrWa6VYEKuEVzk1ZNEXbx0tZZ+c3XMZg3Xjrtwz2ud\nAFUjqniDjWpVG+nqIiOCLF8HeQu6wBGOWMtn8bkc1obTFZdyr697vkY1ib4D4zC5\nPw9a6qqS/vilz5kIX6AZXVsc8F8Ltjyrr2HSm01aRg==\n=CT0c\n-----END PGP SIGNATURE-----\n",
+    "payload": "object df944dfb6299baef62710ee321f0b1c21c319d1d\ntype commit\ntag 5.2.5\ntagger OpenStack Release Bot <infra-root@openstack.org> 1537362622 +0000\n\nmistral 5.2.5 release\n\nmeta:version: 5.2.5\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Dougal Matthews <dougal@redhat.com>\nmeta:release:Commit: Dougal Matthews <dougal@redhat.com>\nmeta:release:Change-Id: I8f5794850bc6c56f1bdcde14ed94ccd5d30b6811\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

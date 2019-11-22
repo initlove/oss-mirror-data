@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6MzczY2ZlMTE1NWI3MGY0OTk2ZDAwNjliYzVlYzYzYjE1YWE3MWM5NQ==",
+  "sha": "373cfe1155b70f4996d0069bc5ec63b15aa71c95",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/373cfe1155b70f4996d0069bc5ec63b15aa71c95",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2018-03-06T18:39:38Z"
+  },
+  "object": {
+    "sha": "d604584bb3d05600d46fdb8c8386d89e3dcc4b04",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/d604584bb3d05600d46fdb8c8386d89e3dcc4b04"
+  },
+  "tag": "3.24.1",
+  "message": "3.24.1\n\n- [varLib] Don't remap the same ``DeviceTable`` twice in VarStore optimizer\n  (#1206).\n- [varLib] Add ``--disable-iup`` option to ``fonttools varLib`` script,\n  and a ``optimize=True`` keyword argument to ``varLib.build`` function,\n  to optionally disable IUP optimization while building varfonts.\n- [ttCollection] Fixed issue while decompiling ttc with python3 (#1207).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

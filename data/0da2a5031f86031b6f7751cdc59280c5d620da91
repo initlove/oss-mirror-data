@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDYwODk1NjA6MGRhMmE1MDMxZjg2MDMxYjZmNzc1MWNkYzU5MjgwYzVkNjIwZGE5MQ==",
+  "sha": "0da2a5031f86031b6f7751cdc59280c5d620da91",
+  "url": "https://api.github.com/repos/containerd/containerd/git/tags/0da2a5031f86031b6f7751cdc59280c5d620da91",
+  "tagger": {
+    "name": "Stephen J Day",
+    "email": "stephen.day@docker.com",
+    "date": "2017-07-13T00:22:53Z"
+  },
+  "object": {
+    "sha": "8eadcb8c2899bc7300b8e4822e3b8d5cfbd74ef2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/containerd/containerd/git/commits/8eadcb8c2899bc7300b8e4822e3b8d5cfbd74ef2"
+  },
+  "tag": "v1.0.0-alpha0",
+  "message": "containerd 1.0.0-alpha0\n\nWe are pushing the first containerd alpha release today.  It includes a fully\nfunctional execution, content, snapshotting filesystems, and distribution\nlayer.\n\nWith the alpha release we wanted to make sure the GRPC API was in a good shape\nfor people to start or finish the integrations for the 1.0 branch.  Ideally,\nthere will not be any major API changes after this release.\n\nWe encourage users integrating containerd into their software and platforms to\nuse our Go client, `import \"github.com/containerd/containerd\"`.  We have not\nfinalized this Go API at the time of the alpha release so that users can\nprovide feedback and modifications can be made to the client to reduce code\nthat containerd consumers have to write.\n\nDuring the alpha period, we will be working on integrating containerd into\nvarious projects and working out any rough edges or bugs.  We will also be\ntagging a weekly alpha release going forward with fixes and updates during this\nphase.\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJZZr1oAAoJEGez3thO3II/IOQP/iFRFOP2gW9vSqWdUo13P+4X\nA5gHPSjfsM5KZhJQhUkadbV+0PuQjafe6hDdVL9KELokC0TAPr6o5QccWIIhWlnJ\nmORp/uaCs9ECsSHYabEEJn4mf75CKuw2nYW/aZjtGyDeJ3Gmu3JBb1D4ql8A0cjc\nDZyyAkgerGkQwuiPp98Jl95fV3FVkK/RW49k9gGUbW/5xdEoRl/PSZv9+XP3shYa\n26rIoU1hhN6W9bSZJhPzR/7eSGh1/L8UIz1ofulkRaoI5Fde20TdOWMUZd6fF7vJ\ny0w5HpDYGasl/CNNYWXnBor3skzmOJ7bscXq2lQJqVlCh8vDl0oBwWsFGMzmlKiY\no0tNGNZWJnKEYGkI9R+l/x/yedY9EAh0x5UhhBgt/T3EveNDx5so/pFUuzPd6CsM\nqwspB7Eu8P7Ss9Y23LUWZTHAAqRw8bP1LfKkygMFg+KIDQJFw/PjxoOUz/ulNWrg\n7/z7PK3XhjpubPM2w4mspHG7ajwht3Y1ecIfEh49yVEAxErQnjvTAlzqdoYeohiL\nh741b1IBRQ/Eoucwq8RQYX9/XlPZLHabPW09hdoW94Hislq3S2gEMVBZa2hi7WGj\nmQ5wxkQnA5MjZMtnaqCLWiDJrQ+xZuKpejiWJaovqeB7nOGuFfpcT4QWtrtNVB2m\nb1ROuA+XiA5xh95QthP9\n=bjlO\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJZZr1oAAoJEGez3thO3II/IOQP/iFRFOP2gW9vSqWdUo13P+4X\nA5gHPSjfsM5KZhJQhUkadbV+0PuQjafe6hDdVL9KELokC0TAPr6o5QccWIIhWlnJ\nmORp/uaCs9ECsSHYabEEJn4mf75CKuw2nYW/aZjtGyDeJ3Gmu3JBb1D4ql8A0cjc\nDZyyAkgerGkQwuiPp98Jl95fV3FVkK/RW49k9gGUbW/5xdEoRl/PSZv9+XP3shYa\n26rIoU1hhN6W9bSZJhPzR/7eSGh1/L8UIz1ofulkRaoI5Fde20TdOWMUZd6fF7vJ\ny0w5HpDYGasl/CNNYWXnBor3skzmOJ7bscXq2lQJqVlCh8vDl0oBwWsFGMzmlKiY\no0tNGNZWJnKEYGkI9R+l/x/yedY9EAh0x5UhhBgt/T3EveNDx5so/pFUuzPd6CsM\nqwspB7Eu8P7Ss9Y23LUWZTHAAqRw8bP1LfKkygMFg+KIDQJFw/PjxoOUz/ulNWrg\n7/z7PK3XhjpubPM2w4mspHG7ajwht3Y1ecIfEh49yVEAxErQnjvTAlzqdoYeohiL\nh741b1IBRQ/Eoucwq8RQYX9/XlPZLHabPW09hdoW94Hislq3S2gEMVBZa2hi7WGj\nmQ5wxkQnA5MjZMtnaqCLWiDJrQ+xZuKpejiWJaovqeB7nOGuFfpcT4QWtrtNVB2m\nb1ROuA+XiA5xh95QthP9\n=bjlO\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8eadcb8c2899bc7300b8e4822e3b8d5cfbd74ef2\ntype commit\ntag v1.0.0-alpha0\ntagger Stephen J Day <stephen.day@docker.com> 1499905373 -0700\n\ncontainerd 1.0.0-alpha0\n\nWe are pushing the first containerd alpha release today.  It includes a fully\nfunctional execution, content, snapshotting filesystems, and distribution\nlayer.\n\nWith the alpha release we wanted to make sure the GRPC API was in a good shape\nfor people to start or finish the integrations for the 1.0 branch.  Ideally,\nthere will not be any major API changes after this release.\n\nWe encourage users integrating containerd into their software and platforms to\nuse our Go client, `import \"github.com/containerd/containerd\"`.  We have not\nfinalized this Go API at the time of the alpha release so that users can\nprovide feedback and modifications can be made to the client to reduce code\nthat containerd consumers have to write.\n\nDuring the alpha period, we will be working on integrating containerd into\nvarious projects and working out any rough edges or bugs.  We will also be\ntagging a weekly alpha release going forward with fixes and updates during this\nphase.\n"
+  }
+}

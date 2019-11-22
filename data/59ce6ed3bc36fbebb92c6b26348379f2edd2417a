@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6NTljZTZlZDNiYzM2ZmJlYmI5MmM2YjI2MzQ4Mzc5ZjJlZGQyNDE3YQ==",
+  "sha": "59ce6ed3bc36fbebb92c6b26348379f2edd2417a",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/59ce6ed3bc36fbebb92c6b26348379f2edd2417a",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo.lupo@daltonmaag.com",
+    "date": "2017-01-28T16:01:32Z"
+  },
+  "object": {
+    "sha": "0617123053b05d7b230c11677f14b935c74737cd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/0617123053b05d7b230c11677f14b935c74737cd"
+  },
+  "tag": "3.6.1",
+  "message": "3.6.1\n\n-  [py23] Fixed unhandled exception occurring at interpreter shutdown in\n   the \"last resort\" logging handler (972b3e6).\n-  [agl] Ensure all glyph names are of native 'str' type; avoid mixing\n   'str' and 'unicode' in TTFont.glyphOrder (d8c4058).\n-  Fixed inconsistent title levels in README.rst that caused PyPI to\n   incorrectly render the reStructuredText page.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

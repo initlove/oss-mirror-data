@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6N2QxNjIyZDQ4NzQwNzZiYTlhNWI4Y2ZiYWNjNTY1NzAxYzg1YWM5NQ==",
+  "sha": "7d1622d4874076ba9a5b8cfbacc565701c85ac95",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/7d1622d4874076ba9a5b8cfbacc565701c85ac95",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo.lupo@daltonmaag.com",
+    "date": "2016-11-03T14:33:19Z"
+  },
+  "object": {
+    "sha": "66d847e365abdf77dd83c07f7377047005e75db0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/66d847e365abdf77dd83c07f7377047005e75db0"
+  },
+  "tag": "3.2.1",
+  "message": "3.2.1\n\n- [OS/2] fix checking `fsSelection` bits matching `head.macStyle` bits\n- [varLib] added `--build-HVAR` option to generate `HVAR` table for fonts with TrueType outlines. For `CFF2`, it is enabled by default.\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJYG0rTAAoJELYaqtC1OmQZ+esP/0zoMiTgaMnXgPAgFHE0f/Zn\n8nNsu9TbQBLeHbf/DKakIAyxdh2MslxE2cwXT4iAULueee30uhqbqL1UNPkjrMDx\nSHpHcPNj41GqLFHMNGSzaRxZEAr96oUuocJka2xoZKV/SF+PU1iUtXTL0mvYPB9J\nLD86PjmlJgJ23OxOlYkpF66OoYMXWdtXwH85bCsL2iq3DDrVKXjT49OuTgpR2B9Q\nLE1U2/P0ruJebaXi/z8CPaRQlZvifqJmBQiiOVVQ3Z6cBBwogj9nz6vo+DmJ3K9U\nVfWRc+eEdkBY+2sycV/7VDdqVSL0G73uY8tuS72jkyAacUvAhhdGFt6r/nf3qeE1\nkkTN6wDLr4Y90pp8IHhzvl+AEiP5CBSqRMdic9cfQlvkoY7jHH4+ypWb7x+9G9mo\nO0NOYYMCNw3IbDhxRavaCAVNNbJTdMgShiSdnv5ehj60xZ4IK0vhXniug64K5wsP\nICTf1ZZ7LAm8gYcV02MXWOyBlCGe15aFjedZvoKo+WPBW+6drPurS4z7+PRN3eSd\nvJfAQnviT1u5YENWnz+a/Q8lefygBPE1ud2gA3EfL1YtbuuoMqkSSSFZcErD1nup\naze4R1A0yk0VCi4OXP163Fe4LhI/KoeYMTh/mlaaV+MOZNmCZLuACaN3wf5u9kWT\nPaEZWQRRzzJZCMDKTuh5\n=/yjf\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJYG0rTAAoJELYaqtC1OmQZ+esP/0zoMiTgaMnXgPAgFHE0f/Zn\n8nNsu9TbQBLeHbf/DKakIAyxdh2MslxE2cwXT4iAULueee30uhqbqL1UNPkjrMDx\nSHpHcPNj41GqLFHMNGSzaRxZEAr96oUuocJka2xoZKV/SF+PU1iUtXTL0mvYPB9J\nLD86PjmlJgJ23OxOlYkpF66OoYMXWdtXwH85bCsL2iq3DDrVKXjT49OuTgpR2B9Q\nLE1U2/P0ruJebaXi/z8CPaRQlZvifqJmBQiiOVVQ3Z6cBBwogj9nz6vo+DmJ3K9U\nVfWRc+eEdkBY+2sycV/7VDdqVSL0G73uY8tuS72jkyAacUvAhhdGFt6r/nf3qeE1\nkkTN6wDLr4Y90pp8IHhzvl+AEiP5CBSqRMdic9cfQlvkoY7jHH4+ypWb7x+9G9mo\nO0NOYYMCNw3IbDhxRavaCAVNNbJTdMgShiSdnv5ehj60xZ4IK0vhXniug64K5wsP\nICTf1ZZ7LAm8gYcV02MXWOyBlCGe15aFjedZvoKo+WPBW+6drPurS4z7+PRN3eSd\nvJfAQnviT1u5YENWnz+a/Q8lefygBPE1ud2gA3EfL1YtbuuoMqkSSSFZcErD1nup\naze4R1A0yk0VCi4OXP163Fe4LhI/KoeYMTh/mlaaV+MOZNmCZLuACaN3wf5u9kWT\nPaEZWQRRzzJZCMDKTuh5\n=/yjf\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 66d847e365abdf77dd83c07f7377047005e75db0\ntype commit\ntag 3.2.1\ntagger Cosimo Lupo <cosimo.lupo@daltonmaag.com> 1478183599 +0000\n\n3.2.1\n\n- [OS/2] fix checking `fsSelection` bits matching `head.macStyle` bits\n- [varLib] added `--build-HVAR` option to generate `HVAR` table for fonts with TrueType outlines. For `CFF2`, it is enabled by default.\n"
+  }
+}

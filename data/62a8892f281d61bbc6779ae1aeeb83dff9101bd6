@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6NjJhODg5MmYyODFkNjFiYmM2Nzc5YWUxYWVlYjgzZGZmOTEwMWJkNg==",
+  "sha": "62a8892f281d61bbc6779ae1aeeb83dff9101bd6",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/62a8892f281d61bbc6779ae1aeeb83dff9101bd6",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2017-10-30T16:50:26Z"
+  },
+  "object": {
+    "sha": "244093b1bf439064b63a1c8c8088c2f8e005edc5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/244093b1bf439064b63a1c8c8088c2f8e005edc5"
+  },
+  "tag": "3.18.0",
+  "message": "3.18.0\n\n- [feaLib] Fixed writing back nested glyph classes (#1086).\n- [TupleVariation] Reactivated shared points logic, bugfixes (#1009).\n- [AAT] Implemented ``morx`` ligature subtables (#1082).\n- [reverseContourPen] Keep duplicate lineTo following a moveTo (#1080,\n  https://github.com/googlei18n/cu2qu/issues/51).\n- [varLib.mutator] Suport instantiation of GPOS, GDEF and MVAR (#1079).\n- [sstruct] Fixed issue with ``unicode_literals`` and ``struct`` module in\n  old versions of python 2.7 (#993).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

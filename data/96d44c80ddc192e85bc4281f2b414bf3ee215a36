@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjo5NmQ0NGM4MGRkYzE5MmU4NWJjNDI4MWYyYjQxNGJmM2VlMjE1YTM2",
+  "sha": "96d44c80ddc192e85bc4281f2b414bf3ee215a36",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/96d44c80ddc192e85bc4281f2b414bf3ee215a36",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2017-05-02T01:56:36Z"
+  },
+  "object": {
+    "sha": "cef1be3e6e6cb9b0df403fa2869db4f9f75aff09",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/cef1be3e6e6cb9b0df403fa2869db4f9f75aff09"
+  },
+  "tag": "v2.0.1",
+  "message": "REL: v2.0.1\n\nBug fix release for 2.0.x series\n\nThis release includes bug fixes, documentation updates and one major change.\n\nAPI\n\n - Do not clip the linewidth used for dash pattern scaling.  This is\n   an API change, but is a major improvement.\n - Deprecate 'vega' color names in favor of 'tab'.\n\nBug Fixes\n\n - Hatching color follows edge color again.\n - Fixes a critical bug with masked images.\n - Improved high-dpi support for Qt5.\n - Log ticking no never skip minor ticks\n - Do not skip points surrounded by nan/inf in vector outputs.\n\nSupported versions of Python\n\n - 2.7, 3.4, 3.5, 3.6\n - Patches to improve compatibility with pypy\n-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlkH51cTHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U789+0DCACCDTvYWJ/l8ri7hzumkCvULHFHMXqg\naL/9KE3h4o+xXh8qIfDZSl86fJLSwa2mMmqRplJ4fsHC9bgA0P7PAPmIsLdoSjv5\nZRqNUBJo+SxCTHu2FQL3OZXyHWUK06VdhvZuUtSHaM5L2EqcHoVuTFgE/EJGHk9k\n7RyGcrqHKtRyBfe+7XBr+LFc+bv6fTGdf6lpMBlUyabKfRLVpsrms6/Ble5hlzLX\nFhV3YY6cc0s6zBpBrVng6EyjsNhZFoUxzPzxtkKqYyGkKxEpK9miky9eE9y4nsGu\nYGwYht/yGRhEfq4o3HLUBBdDUP6P4dIMGkkarLxcm2HkwReB58kthjuj\n=fvWR\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlkH51cTHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U789+0DCACCDTvYWJ/l8ri7hzumkCvULHFHMXqg\naL/9KE3h4o+xXh8qIfDZSl86fJLSwa2mMmqRplJ4fsHC9bgA0P7PAPmIsLdoSjv5\nZRqNUBJo+SxCTHu2FQL3OZXyHWUK06VdhvZuUtSHaM5L2EqcHoVuTFgE/EJGHk9k\n7RyGcrqHKtRyBfe+7XBr+LFc+bv6fTGdf6lpMBlUyabKfRLVpsrms6/Ble5hlzLX\nFhV3YY6cc0s6zBpBrVng6EyjsNhZFoUxzPzxtkKqYyGkKxEpK9miky9eE9y4nsGu\nYGwYht/yGRhEfq4o3HLUBBdDUP6P4dIMGkkarLxcm2HkwReB58kthjuj\n=fvWR\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cef1be3e6e6cb9b0df403fa2869db4f9f75aff09\ntype commit\ntag v2.0.1\ntagger Thomas A Caswell <tcaswell@gmail.com> 1493690196 -0400\n\nREL: v2.0.1\n\nBug fix release for 2.0.x series\n\nThis release includes bug fixes, documentation updates and one major change.\n\nAPI\n\n - Do not clip the linewidth used for dash pattern scaling.  This is\n   an API change, but is a major improvement.\n - Deprecate 'vega' color names in favor of 'tab'.\n\nBug Fixes\n\n - Hatching color follows edge color again.\n - Fixes a critical bug with masked images.\n - Improved high-dpi support for Qt5.\n - Log ticking no never skip minor ticks\n - Do not skip points surrounded by nan/inf in vector outputs.\n\nSupported versions of Python\n\n - 2.7, 3.4, 3.5, 3.6\n - Patches to improve compatibility with pypy\n"
+  }
+}

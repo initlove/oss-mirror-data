@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6Nzg2OTE1NTI1MDBmNjIyZmE4NDFmYzhkMjExYzFiMjllNDZhZGU0Yw==",
+  "sha": "78691552500f622fa841fc8d211c1b29e46ade4c",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/78691552500f622fa841fc8d211c1b29e46ade4c",
+  "tagger": {
+    "name": "Jonas Franz",
+    "email": "info@jonasfranz.software",
+    "date": "2019-01-04T22:22:21Z"
+  },
+  "object": {
+    "sha": "109fc7975b5bf1181ad78290a745ac71929bb196",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/109fc7975b5bf1181ad78290a745ac71929bb196"
+  },
+  "tag": "v1.7.0-rc2",
+  "message": "* SECURITY\n  * Prevent DeleteFilePost doing arbitrary deletion (#5631)\n-----BEGIN PGP SIGNATURE-----\n\niQGzBAABCAAdFiEE/SzLf7JyWW4g1tgfcpOiILfDgIAFAlwv3J0ACgkQcpOiILfD\ngIDYSQv8CnPP6gIF0JxsJlVT/vkQL2caozWqNe7417rnnNH0mGpSmqnsZnUv7VAn\nwRZ99paQgzAd1buOCwYxN8IPRjnakohHUKDKpnJys93r6ym8CmLRaBz08rbsorii\nz5XNtbSMN0bT96Wy/xhKGBdAHOBF0XI8DdkjCD+fuUF/hrAU0P8lw/ClKrTGPkw0\nbHbrMHOQxSjfzSZZFlmHk2/vLSfOV0PAmF8w+IPtbKp4oJp2i7452uVguaqbbXKz\n02m/V3arZvOuKx7oygvKqRIxET82S3wzZo2gqjGz9AedOIc75MOoY4crdwiwBqoP\n+35OqIX4zlCYjHBQHH2RE+j1Cy3fCj76B3Y9f2B+cHC2nIl/q4+2N1tsAVEZxqxo\n+O/XeH568plHHHOUZxXT1pngjrKBqQoPHgIlNF4nJm0iNTF+P1wckN571KcX3Bbv\nu2y89R7necapbHhDHXHpXVTJ9ChN9IJreMERS+in/kOETgCLUdWeyqxD4ihsgB+l\nUp1CB1gn\n=jYq8\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQGzBAABCAAdFiEE/SzLf7JyWW4g1tgfcpOiILfDgIAFAlwv3J0ACgkQcpOiILfD\ngIDYSQv8CnPP6gIF0JxsJlVT/vkQL2caozWqNe7417rnnNH0mGpSmqnsZnUv7VAn\nwRZ99paQgzAd1buOCwYxN8IPRjnakohHUKDKpnJys93r6ym8CmLRaBz08rbsorii\nz5XNtbSMN0bT96Wy/xhKGBdAHOBF0XI8DdkjCD+fuUF/hrAU0P8lw/ClKrTGPkw0\nbHbrMHOQxSjfzSZZFlmHk2/vLSfOV0PAmF8w+IPtbKp4oJp2i7452uVguaqbbXKz\n02m/V3arZvOuKx7oygvKqRIxET82S3wzZo2gqjGz9AedOIc75MOoY4crdwiwBqoP\n+35OqIX4zlCYjHBQHH2RE+j1Cy3fCj76B3Y9f2B+cHC2nIl/q4+2N1tsAVEZxqxo\n+O/XeH568plHHHOUZxXT1pngjrKBqQoPHgIlNF4nJm0iNTF+P1wckN571KcX3Bbv\nu2y89R7necapbHhDHXHpXVTJ9ChN9IJreMERS+in/kOETgCLUdWeyqxD4ihsgB+l\nUp1CB1gn\n=jYq8\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 109fc7975b5bf1181ad78290a745ac71929bb196\ntype commit\ntag v1.7.0-rc2\ntagger Jonas Franz <info@jonasfranz.software> 1546640541 +0100\n\n* SECURITY\n  * Prevent DeleteFilePost doing arbitrary deletion (#5631)\n"
+  }
+}

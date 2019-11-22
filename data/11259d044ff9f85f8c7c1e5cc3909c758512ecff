@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM5NjgyNTU6MTEyNTlkMDQ0ZmY5Zjg1ZjhjN2MxZTVjYzM5MDljNzU4NTEyZWNmZg==",
+  "sha": "11259d044ff9f85f8c7c1e5cc3909c758512ecff",
+  "url": "https://api.github.com/repos/openstack/mistral/git/tags/11259d044ff9f85f8c7c1e5cc3909c758512ecff",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-05-17T11:09:03Z"
+  },
+  "object": {
+    "sha": "3d8ebf1bf343ae188b01f70bc5b833e14eccae77",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/mistral/git/commits/3d8ebf1bf343ae188b01f70bc5b833e14eccae77"
+  },
+  "tag": "4.0.1",
+  "message": "mistral 4.0.1 release\n\nmeta:version: 4.0.1\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Commit: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Change-Id: Ic686fad436215de2f3a74099c2343bd6f0007b7f\nmeta:release:Code-Review+1: Renat Akhmerov <renat.akhmerov@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\nmeta:release:+      - Do not evaluate expressions in workflow environment as required.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZHC9PAAoJEOtsyhSD+nTs0WsH+gOrakxJPyJ613kZs+dpbzMI\nYw5QJkUNzVa1a6V+LiFyaF545W7214rsYhktRwNiWKU6YXcP/BZ3IZjlE1MUUqA2\nxr3Ef966uvH0yH2nW8l63hlqsvpH1wC4kXhRApQTfuc2xojRGVbCZZoOwF28R9G0\n/dT/JZDJjbjrLkKETXI/n6BMQn52lVP9yy3bSnsXJrxEd2aDLXLXxXzndhsskwVR\nK0n9mvy//tmQExEfZ6stpHHL+BICyCpPxbGtXV+VFJc2MhVDf9CXFb3uWfZkcYkU\nWP6AsKLLoD7JEHCWdVObjVpjj+by/FhvfuTutH24pB8z717sEg/44l6caOQDf/o=\n=XU1T\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZHC9PAAoJEOtsyhSD+nTs0WsH+gOrakxJPyJ613kZs+dpbzMI\nYw5QJkUNzVa1a6V+LiFyaF545W7214rsYhktRwNiWKU6YXcP/BZ3IZjlE1MUUqA2\nxr3Ef966uvH0yH2nW8l63hlqsvpH1wC4kXhRApQTfuc2xojRGVbCZZoOwF28R9G0\n/dT/JZDJjbjrLkKETXI/n6BMQn52lVP9yy3bSnsXJrxEd2aDLXLXxXzndhsskwVR\nK0n9mvy//tmQExEfZ6stpHHL+BICyCpPxbGtXV+VFJc2MhVDf9CXFb3uWfZkcYkU\nWP6AsKLLoD7JEHCWdVObjVpjj+by/FhvfuTutH24pB8z717sEg/44l6caOQDf/o=\n=XU1T\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3d8ebf1bf343ae188b01f70bc5b833e14eccae77\ntype commit\ntag 4.0.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1495019343 +0000\n\nmistral 4.0.1 release\n\nmeta:version: 4.0.1\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Commit: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Change-Id: Ic686fad436215de2f3a74099c2343bd6f0007b7f\nmeta:release:Code-Review+1: Renat Akhmerov <renat.akhmerov@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\nmeta:release:+      - Do not evaluate expressions in workflow environment as required.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6MWI2Y2U1NmNkOWQ5OTcyYjY1Mzc2OTgzYjc3NGJhYTMwYmRjZmFhNA==",
+  "sha": "1b6ce56cd9d9972b65376983b774baa30bdcfaa4",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/1b6ce56cd9d9972b65376983b774baa30bdcfaa4",
+  "tagger": {
+    "name": "Jonas Franz",
+    "email": "info@jonasfranz.software",
+    "date": "2019-01-04T20:01:32Z"
+  },
+  "object": {
+    "sha": "30560b0f9b750cb96497ce110577c4293fc863ca",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/30560b0f9b750cb96497ce110577c4293fc863ca"
+  },
+  "tag": "v1.6.3",
+  "message": "* SECURITY\n  * Prevent DeleteFilePost doing arbitrary deletion (#5631)\n* BUGFIX\n  * Fix wrong text getting saved on editing second comment on an issue (#5608)\n-----BEGIN PGP SIGNATURE-----\n\niQGzBAABCAAdFiEE/SzLf7JyWW4g1tgfcpOiILfDgIAFAlwvu5wACgkQcpOiILfD\ngIAHMgv+OhNJtxp67VgZ1wrROd1smAg/lZvO1cQ1pyRCycjfi2vNh5/sTZvbYhCa\nE5Hv7OFLpJ/r4Pkn+cY2cRqxIiHihwA1m4XJewzRWRYoha0grExxzdfeRBiIAwJs\nL2+N18hb69CjuBCEP0dxa9Z2uVSb7BPm1dvzet3cZ6KKzv0FsQi9Wga7JFmbgsTE\n+ALxaODqybJDgwvJbjUnRM/d+QUjwbsLSjYrccOZqvU2moNMbKk6b/nqQloPbsal\nQVnqWx5B6Lw3tl3LUv3vR4PLaZxJS0gDa4EnfTCZuEwcxlOkKnbxxiQN9qEwoWgp\n725BNChHG3q2nRlqsA4S5VvHXCCFeJLE5Ircqhx/qi7C81joZaLkkbySJtzC36rg\n9O+ttWnh7i9cXJU74avWWbb0/1ph15rKxz/GP9zBVyFRyPVtcb3QiSvQy+ecjh2C\nQl9SRAgM4jT+Gp7TrQbvqd1D+YH9zBEF/wBNJ7vyoeYjsHBLuvNwdsEXDMq7odOE\niJRx5LYe\n=ya8Z\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQGzBAABCAAdFiEE/SzLf7JyWW4g1tgfcpOiILfDgIAFAlwvu5wACgkQcpOiILfD\ngIAHMgv+OhNJtxp67VgZ1wrROd1smAg/lZvO1cQ1pyRCycjfi2vNh5/sTZvbYhCa\nE5Hv7OFLpJ/r4Pkn+cY2cRqxIiHihwA1m4XJewzRWRYoha0grExxzdfeRBiIAwJs\nL2+N18hb69CjuBCEP0dxa9Z2uVSb7BPm1dvzet3cZ6KKzv0FsQi9Wga7JFmbgsTE\n+ALxaODqybJDgwvJbjUnRM/d+QUjwbsLSjYrccOZqvU2moNMbKk6b/nqQloPbsal\nQVnqWx5B6Lw3tl3LUv3vR4PLaZxJS0gDa4EnfTCZuEwcxlOkKnbxxiQN9qEwoWgp\n725BNChHG3q2nRlqsA4S5VvHXCCFeJLE5Ircqhx/qi7C81joZaLkkbySJtzC36rg\n9O+ttWnh7i9cXJU74avWWbb0/1ph15rKxz/GP9zBVyFRyPVtcb3QiSvQy+ecjh2C\nQl9SRAgM4jT+Gp7TrQbvqd1D+YH9zBEF/wBNJ7vyoeYjsHBLuvNwdsEXDMq7odOE\niJRx5LYe\n=ya8Z\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 30560b0f9b750cb96497ce110577c4293fc863ca\ntype commit\ntag v1.6.3\ntagger Jonas Franz <info@jonasfranz.software> 1546632092 +0100\n\n* SECURITY\n  * Prevent DeleteFilePost doing arbitrary deletion (#5631)\n* BUGFIX\n  * Fix wrong text getting saved on editing second comment on an issue (#5608)\n"
+  }
+}

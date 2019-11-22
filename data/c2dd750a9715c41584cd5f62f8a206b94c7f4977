@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6YzJkZDc1MGE5NzE1YzQxNTg0Y2Q1ZjYyZjhhMjA2Yjk0YzdmNDk3Nw==",
+  "sha": "c2dd750a9715c41584cd5f62f8a206b94c7f4977",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/c2dd750a9715c41584cd5f62f8a206b94c7f4977",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2019-03-27T00:33:38Z"
+  },
+  "object": {
+    "sha": "aeaec47a0e221fc3481262ad602596af436b47ca",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/aeaec47a0e221fc3481262ad602596af436b47ca"
+  },
+  "tag": "libmodulemd-2.2.1",
+  "message": "Tagging libmodulemd 2.2.1 and 1.8.4\n\nStephen Gallagher (5):\n      Fix epoch data type\n      Fix test on i686\n      Bump version to 2.2.1 and 1.8.4\n      Suppress deprecation warning in tests\n      Use correct subclass in tests\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXJrE7AAKCRB6JVViNrqj\no7iCAJ9+t37QFS7bKz6EqMjDmiTpxvLRrgCgqfFXzzz02mRUSYgorbFl/S5W8OY=\n=8uqj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXJrE7AAKCRB6JVViNrqj\no7iCAJ9+t37QFS7bKz6EqMjDmiTpxvLRrgCgqfFXzzz02mRUSYgorbFl/S5W8OY=\n=8uqj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object aeaec47a0e221fc3481262ad602596af436b47ca\ntype commit\ntag libmodulemd-2.2.1\ntagger Stephen Gallagher <sgallagh@redhat.com> 1553646818 -0400\n\nTagging libmodulemd 2.2.1 and 1.8.4\n\nStephen Gallagher (5):\n      Fix epoch data type\n      Fix test on i686\n      Bump version to 2.2.1 and 1.8.4\n      Suppress deprecation warning in tests\n      Use correct subclass in tests\n"
+  }
+}

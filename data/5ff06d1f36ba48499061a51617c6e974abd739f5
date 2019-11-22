@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6NWZmMDZkMWYzNmJhNDg0OTkwNjFhNTE2MTdjNmU5NzRhYmQ3MzlmNQ==",
+  "sha": "5ff06d1f36ba48499061a51617c6e974abd739f5",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/5ff06d1f36ba48499061a51617c6e974abd739f5",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo.lupo@daltonmaag.com",
+    "date": "2017-02-06T13:22:48Z"
+  },
+  "object": {
+    "sha": "41d8d2a3090297d59d352e30a2bee84cb7def060",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/41d8d2a3090297d59d352e30a2bee84cb7def060"
+  },
+  "tag": "3.6.3",
+  "message": "3.6.3\n\n- [varLib] Fix building variation of PairPosFormat2 (b5c34ce).\n- Populate defaults even for otTables that have postRead (e45297b).\n- Fix compiling of MultipleSubstFormat1 with zero 'out' glyphs (b887860).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

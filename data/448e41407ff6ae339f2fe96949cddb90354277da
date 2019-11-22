@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTM2MzE5NDU6NDQ4ZTQxNDA3ZmY2YWUzMzlmMmZlOTY5NDljZGRiOTAzNTQyNzdkYQ==",
+  "sha": "448e41407ff6ae339f2fe96949cddb90354277da",
+  "url": "https://api.github.com/repos/BurntSushi/ripgrep/git/tags/448e41407ff6ae339f2fe96949cddb90354277da",
+  "tagger": {
+    "name": "Andrew Gallant",
+    "email": "jamslam@gmail.com",
+    "date": "2016-11-20T22:57:26Z"
+  },
+  "object": {
+    "sha": "7f3e7d2faa411be799c3a37a405fd3d2264fa2eb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/BurntSushi/ripgrep/git/commits/7f3e7d2faa411be799c3a37a405fd3d2264fa2eb"
+  },
+  "tag": "0.3.0",
+  "message": "0.3.0\n\nThis is a new minor version release of ripgrep that includes two breaking\nchanges with lots of bug fixes and some new features and performance\nimprovements. Notably, if you had a problem with colors or piping on Windows\nbefore, then that should now be fixed in this release.\n\n**BREAKING CHANGES**:\n\n* ripgrep now requires Rust 1.11 to compile. Previously, it could build on\n  Rust 1.9. The cause of this was the move from\n  [Docopt to Clap](https://github.com/BurntSushi/ripgrep/pull/233)\n  for argument parsing.\n* The `-e/--regexp` flag can no longer accept a pattern starting with a `-`.\n  There are two work-arounds: `rg -- -foo` and `rg [-]foo` or `rg -e [-]foo`\n  will all search for the same `-foo` pattern. The cause of this was the move\n  from [Docopt to Clap](https://github.com/BurntSushi/ripgrep/pull/233)\n  for argument parsing.\n  [This may get fixed in the\n  future.](https://github.com/kbknapp/clap-rs/issues/742).\n\nPerformance improvements:\n\n* [PERF #33](https://github.com/BurntSushi/ripgrep/issues/33):\n  ripgrep now performs similar to GNU grep on small corpora.\n* [PERF #136](https://github.com/BurntSushi/ripgrep/issues/136):\n  ripgrep no longer slows down because of argument parsing when given a large\n  argument list.\n\nFeature enhancements:\n\n* Added or improved file type filtering for Elixir.\n* [FEATURE #7](https://github.com/BurntSushi/ripgrep/issues/7):\n  Add a `-f/--file` flag that causes ripgrep to read patterns from a file.\n* [FEATURE #51](https://github.com/BurntSushi/ripgrep/issues/51):\n  Add a `--colors` flag that enables one to customize the colors used in\n  ripgrep's output.\n* [FEATURE #138](https://github.com/BurntSushi/ripgrep/issues/138):\n  Add a `--files-without-match` flag that shows only file paths that contain\n  zero matches.\n* [FEATURE #230](https://github.com/BurntSushi/ripgrep/issues/230):\n  Add completion files to the release (Bash, Fish and PowerShell).\n\nBug fixes:\n\n* [BUG #37](https://github.com/BurntSushi/ripgrep/issues/37):\n  Use correct ANSI escape sequences when `TERM=screen.linux`.\n* [BUG #94](https://github.com/BurntSushi/ripgrep/issues/94):\n  ripgrep now detects stdin on Windows automatically.\n* [BUG #117](https://github.com/BurntSushi/ripgrep/issues/117):\n  Colors should now work correctly and automatically inside mintty.\n* [BUG #182](https://github.com/BurntSushi/ripgrep/issues/182):\n  Colors should now work within Emacs. In particular, `--color=always` will\n  emit colors regardless of the current environment.\n* [BUG #189](https://github.com/BurntSushi/ripgrep/issues/189):\n  Show less content when running `rg -h`. The full help content can be\n  accessed with `rg --help`.\n* [BUG #210](https://github.com/BurntSushi/ripgrep/issues/210):\n  Support non-UTF-8 file names on Unix platforms.\n* [BUG #231](https://github.com/BurntSushi/ripgrep/issues/231):\n  Switch from block buffering to line buffering.\n* [BUG #241](https://github.com/BurntSushi/ripgrep/issues/241):\n  Some error messages weren't suppressed when `--no-messages` was used.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

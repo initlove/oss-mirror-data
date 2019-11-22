@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6YzNhOTYzYmJkN2E4NDJmMGI1MzJjNzEwODQ4YzZlMjcxYjRjNzA5ZQ==",
+  "sha": "c3a963bbd7a842f0b532c710848c6e271b4c709e",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/c3a963bbd7a842f0b532c710848c6e271b4c709e",
+  "tagger": {
+    "name": "Lauris Bukšis-Haberkorns",
+    "email": "lauris@nix.lv",
+    "date": "2019-02-15T09:26:48Z"
+  },
+  "object": {
+    "sha": "3b612ce42e48ec4fecd89eebcf9f73ac61927b25",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/3b612ce42e48ec4fecd89eebcf9f73ac61927b25"
+  },
+  "tag": "v1.7.2",
+  "message": "* BUGFIXES\n  * Remove all CommitStatus when a repo is deleted (#5940) (#5941)\n  * Fix notifications on pushing with deploy keys by setting hook environment variables (#5935) (#5944)\n  * Silence console logger in gitea serv (#5887) (#5943)\n  * Handle milestone webhook events for issues and PR (#5947) (#5955)\n  * Show user who created the repository instead of the organization in action feed (#5948) (#5956)\n  * Fix ssh deploy and user key constraints (#1357) (#5939) (#5966)\n  * Fix bug when deleting a linked account will removed all (#5989) (#5990)\n  * Fix empty ssh key importing in ldap (#5984) (#6009)\n  * Fix metrics auth token detection (#6006) (#6017)\n  * Create repository on organisation by default on its dashboard (#6026) (#6048)\n  * Make sure labels are actually returned in API (#6053) (#6059)\n  * Switch to more recent build of xgo (#6070) (#6072)\n  * In basic auth check for tokens before call UserSignIn (#5725) (#6083)\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEnFvNeZs82xJBR6dI4N3+wkxIeEwFAlxmhdgACgkQ4N3+wkxI\neExq5Q//YbzGPYUp6mVNYDR66iqo7C3ShbwAGGIbWJqfLbaprH4ho5o8LGo2BXyS\nGmiMfpyL1oC5BLRwEBWUYVcpEfFgqkmSTsD7YDJZ/kkJV56WVJbaqwxec4gBDUjs\nBehElX9dKevJ8+7OJne0Xm2JmucVWjdK/ioHvU92LPJeZs03gBlnQSLBg6IwQgTb\nJQnTVwnWHP4Los0+n9X1vnAPn2KGmJTrjbLG3/9REjz14tAFD+JYlPPh1qo86GCQ\ndZRCsw1j0AYXUtgZ3iSW08FnI2OmfuN5wTOSrzdBdmSy6eu5HakXbz1mmVHZq09N\nVBe9z2ZmsC1KPqalOaT2CMu8N2ofOjTqZS2tsV/079oq8gcpUL7U2StXsC3ItvwC\nM9RVVmLVBXfjjlx031wYMaPgsNq1eAHcq2BV75n2QdX4IxUAJd4VT3wtYNyHSZUP\nkCgidb1cAib4/E5cOk293rUZbJOlhwaZFqRNx3LXAlD/zDk4MUemHEIRAOTuupia\n3yRL1cwNjX3WP4ilGCbTZMT9Qkh97uQLCa/A4egFkfXb8wJwTmqxuKKEDvhKKTzq\nrUS7XfFvuY3rpHNKNnyt+4xqXcCcTBl4TQhHW2ObyL3HSUKyWQSOSHXd/9Zcimt6\n3jPafYRrXpoGEqYUk/xUi+7Hgp7Iotw8zczf8bGRsVG4nCdgRNk=\n=9KKq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEnFvNeZs82xJBR6dI4N3+wkxIeEwFAlxmhdgACgkQ4N3+wkxI\neExq5Q//YbzGPYUp6mVNYDR66iqo7C3ShbwAGGIbWJqfLbaprH4ho5o8LGo2BXyS\nGmiMfpyL1oC5BLRwEBWUYVcpEfFgqkmSTsD7YDJZ/kkJV56WVJbaqwxec4gBDUjs\nBehElX9dKevJ8+7OJne0Xm2JmucVWjdK/ioHvU92LPJeZs03gBlnQSLBg6IwQgTb\nJQnTVwnWHP4Los0+n9X1vnAPn2KGmJTrjbLG3/9REjz14tAFD+JYlPPh1qo86GCQ\ndZRCsw1j0AYXUtgZ3iSW08FnI2OmfuN5wTOSrzdBdmSy6eu5HakXbz1mmVHZq09N\nVBe9z2ZmsC1KPqalOaT2CMu8N2ofOjTqZS2tsV/079oq8gcpUL7U2StXsC3ItvwC\nM9RVVmLVBXfjjlx031wYMaPgsNq1eAHcq2BV75n2QdX4IxUAJd4VT3wtYNyHSZUP\nkCgidb1cAib4/E5cOk293rUZbJOlhwaZFqRNx3LXAlD/zDk4MUemHEIRAOTuupia\n3yRL1cwNjX3WP4ilGCbTZMT9Qkh97uQLCa/A4egFkfXb8wJwTmqxuKKEDvhKKTzq\nrUS7XfFvuY3rpHNKNnyt+4xqXcCcTBl4TQhHW2ObyL3HSUKyWQSOSHXd/9Zcimt6\n3jPafYRrXpoGEqYUk/xUi+7Hgp7Iotw8zczf8bGRsVG4nCdgRNk=\n=9KKq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3b612ce42e48ec4fecd89eebcf9f73ac61927b25\ntype commit\ntag v1.7.2\ntagger Lauris Bukšis-Haberkorns <lauris@nix.lv> 1550222808 +0200\n\n* BUGFIXES\n  * Remove all CommitStatus when a repo is deleted (#5940) (#5941)\n  * Fix notifications on pushing with deploy keys by setting hook environment variables (#5935) (#5944)\n  * Silence console logger in gitea serv (#5887) (#5943)\n  * Handle milestone webhook events for issues and PR (#5947) (#5955)\n  * Show user who created the repository instead of the organization in action feed (#5948) (#5956)\n  * Fix ssh deploy and user key constraints (#1357) (#5939) (#5966)\n  * Fix bug when deleting a linked account will removed all (#5989) (#5990)\n  * Fix empty ssh key importing in ldap (#5984) (#6009)\n  * Fix metrics auth token detection (#6006) (#6017)\n  * Create repository on organisation by default on its dashboard (#6026) (#6048)\n  * Make sure labels are actually returned in API (#6053) (#6059)\n  * Switch to more recent build of xgo (#6070) (#6072)\n  * In basic auth check for tokens before call UserSignIn (#5725) (#6083)\n"
+  }
+}

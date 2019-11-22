@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6NWQyMWQ0MzNjMDQxOGZjODcwNmI5OWIxYjk2OWIxMzczMWI4NTRhMA==",
+  "sha": "5d21d433c0418fc8706b99b1b969b13731b854a0",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/5d21d433c0418fc8706b99b1b969b13731b854a0",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo.lupo@daltonmaag.com",
+    "date": "2017-05-03T11:41:32Z"
+  },
+  "object": {
+    "sha": "715109262aeec6f0779eb68806be187b5afe10de",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/715109262aeec6f0779eb68806be187b5afe10de"
+  },
+  "tag": "3.11.0",
+  "message": "3.11.0\n\n- [t2CharStringPen] Initial support for specialized Type2 path operators:\n  vmoveto, hmoveto, vlineto, hlineto, vvcurveto, hhcurveto, vhcurveto and\n  hvcurveto. This should produce more compact charstrings (#940, #403).\n- [Doc] Added Sphinx sources for the documentation. Thanks @gferreira (#935).\n- [fvar] Expose flags in XML (#932)\n- [name] Add helper function for building multi-lingual names (#921)\n- [varLib] Fixed kern merging when a PairPosFormat2 has ClassDef1 with glyphs\n  that are NOT present in the Coverage (1b5e1c4, #939).\n- [varLib] Fixed non-deterministic ClassDef order with PY3 (f056c12, #927).\n- [feLib] Throw an error when the same glyph is defined in multiple mark\n  classes within the same lookup (3e3ff00, #453).\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJZCcHsAAoJELYaqtC1OmQZko4QAJQ97K/stSspasgZjbdkbYcg\n+8n4QxEbg4wJDdeCKxxU6/OTUkqX0NTX0Nd3W+uKLcTTQDkQdGsuLFwVAwg8wtrM\nJQtvzaJXnkBO4eKUf3CNPr/cFZ5uNrtYkNvdZutE2nG8lIn+GOoO0bzWAK+BqvyJ\ndLXsy9+IWFLkfAS736uEmrrj9fXcabY5VAsSVUjWLy3EkKvt+M4ZPQG0uIfm45sL\niEqMueqWivK0y+4TcnWKi3Xil4av6UWRpuJOxhYvl+2SlcGJgK5UoFDjxycfk0AO\nOtt3qEUnOjxVyc2W28Bj35CrKVwxzitL39gwTL2/G+itYJvvt34oxfWNLeUjBktt\nfF5lvEaPHnjdhktlFamqXxl3ojb2QhtzQEwCquqpaPk5UstBBOSryUN/v/o/UQnu\nyCGfrGq8xfsjvGowh4AfUDAMAcg/1Zd2zmW0UlyxeuI4/lBLDafTyC/eeTZ2C8Ij\n7infV+hD3pmaqGm7i52MnWRY/Bor3cTa7scfEmgAeMBSOa7CoCPrHWNkFxolq5Ka\nuxFROQzyHJsvT7twjobfIFVIGHirIFEepR2BXoLfh7aPwCFLquDWiT0jdTeWaIil\nPjlRJXIsKDwfl3hIe+Wvoit6TOKrULj75OdFN8HQdfayZyoT1hYtom7K76O3lxh3\nWyA5nQrjqYZRTmLvC1sa\n=Q0lW\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJZCcHsAAoJELYaqtC1OmQZko4QAJQ97K/stSspasgZjbdkbYcg\n+8n4QxEbg4wJDdeCKxxU6/OTUkqX0NTX0Nd3W+uKLcTTQDkQdGsuLFwVAwg8wtrM\nJQtvzaJXnkBO4eKUf3CNPr/cFZ5uNrtYkNvdZutE2nG8lIn+GOoO0bzWAK+BqvyJ\ndLXsy9+IWFLkfAS736uEmrrj9fXcabY5VAsSVUjWLy3EkKvt+M4ZPQG0uIfm45sL\niEqMueqWivK0y+4TcnWKi3Xil4av6UWRpuJOxhYvl+2SlcGJgK5UoFDjxycfk0AO\nOtt3qEUnOjxVyc2W28Bj35CrKVwxzitL39gwTL2/G+itYJvvt34oxfWNLeUjBktt\nfF5lvEaPHnjdhktlFamqXxl3ojb2QhtzQEwCquqpaPk5UstBBOSryUN/v/o/UQnu\nyCGfrGq8xfsjvGowh4AfUDAMAcg/1Zd2zmW0UlyxeuI4/lBLDafTyC/eeTZ2C8Ij\n7infV+hD3pmaqGm7i52MnWRY/Bor3cTa7scfEmgAeMBSOa7CoCPrHWNkFxolq5Ka\nuxFROQzyHJsvT7twjobfIFVIGHirIFEepR2BXoLfh7aPwCFLquDWiT0jdTeWaIil\nPjlRJXIsKDwfl3hIe+Wvoit6TOKrULj75OdFN8HQdfayZyoT1hYtom7K76O3lxh3\nWyA5nQrjqYZRTmLvC1sa\n=Q0lW\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 715109262aeec6f0779eb68806be187b5afe10de\ntype commit\ntag 3.11.0\ntagger Cosimo Lupo <cosimo.lupo@daltonmaag.com> 1493811692 +0100\n\n3.11.0\n\n- [t2CharStringPen] Initial support for specialized Type2 path operators:\n  vmoveto, hmoveto, vlineto, hlineto, vvcurveto, hhcurveto, vhcurveto and\n  hvcurveto. This should produce more compact charstrings (#940, #403).\n- [Doc] Added Sphinx sources for the documentation. Thanks @gferreira (#935).\n- [fvar] Expose flags in XML (#932)\n- [name] Add helper function for building multi-lingual names (#921)\n- [varLib] Fixed kern merging when a PairPosFormat2 has ClassDef1 with glyphs\n  that are NOT present in the Coverage (1b5e1c4, #939).\n- [varLib] Fixed non-deterministic ClassDef order with PY3 (f056c12, #927).\n- [feLib] Throw an error when the same glyph is defined in multiple mark\n  classes within the same lookup (3e3ff00, #453).\n"
+  }
+}

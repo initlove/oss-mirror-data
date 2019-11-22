@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6Y2U0M2ZkNzg4OGVkZWQyYjkyZmE2Y2Y4OTQwNTUwOGQ4NTc1MTc3OA==",
+  "sha": "ce43fd7888eded2b92fa6cf89405508d85751778",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/ce43fd7888eded2b92fa6cf89405508d85751778",
+  "tagger": {
+    "name": "Matti R",
+    "email": "matti@mdranta.net",
+    "date": "2019-11-13T21:41:26Z"
+  },
+  "object": {
+    "sha": "2f73fff053527b9ab66d74063868846ae8eec5c7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/2f73fff053527b9ab66d74063868846ae8eec5c7"
+  },
+  "tag": "v1.9.6",
+  "message": "* BUGFIXES\n  * Allow to merge if file path contains \" or \\ (#8629) (#8772)\n  * Fix 500 when edit hook (#8782) (#8790)\n  * Fix issue with user.fullname (#8904)\n  * Update Github Migration Test (#8897) (#8946)\n  * Add Close() method to gogitRepository (#8901) (#8958)\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEtW48dDeknhNoYvXenYpXraojLpUFAl3MeIYACgkQnYpXraoj\nLpXb/xAApylq0eY2jRgsOyGM0o3eDBLWfRqk6t9pqRF2thmB9hcGmWSmBAahph8U\n5cQDuNqW4btAVjMzTbSNbe3x44dYbFCfgzZYtgu4LmUiNA+WYXYPBpQ6sHoP+3Wr\nfS9cZDuIZMP0eaiViimNgxqpY2tFLhnHZzjtXJ+8QGAREUZDCexAtAHynqTv9+DO\neLYKsCvp6+jcAg6Jw3glvxR9c8WtbgNs5s3eYOr2GMFaKGN3F5N8UkmWoYUcq3Ts\nSp6ulhRElGOOb2sAlyIQwO5n/QA78/3PwBF1mzNvAzZXqhtQFgfCYH53DU3rjFjs\nWgOl8suuNuQ2Oy7MIA/09V0I/bkJOX+cv/DhTsMoHr5JLIl2lK8eRgHtgSu9o0SY\nOyuC2w2wEaif0B6nK+T5At8cDnGZS6+zXngxnfzfdfFZ935ONxSvV2k+tORyn++f\n0JtBMa8/fiZo0nZoj588whLEZ8IIyD3s/54tgjTWQMFUt4e/9PgIpAehg1f3uPkY\ndKMajj3wZiOV8WeWlKC+iQcUlWertvRWn21YEEyPlNONroB5xyFC9pSCxTMfDqMl\ntd+DhxgqYkP+6KRQv2V0uSvKtXh6TQ0dpjXWoivWv95ujy4DTdIz0+/oJv19N1lf\nDzPUqr+OZc1UHld/+9m7p3ueALYp4OeGddeOXsxJ+155eUuuaFw=\n=ZzE/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEtW48dDeknhNoYvXenYpXraojLpUFAl3MeIYACgkQnYpXraoj\nLpXb/xAApylq0eY2jRgsOyGM0o3eDBLWfRqk6t9pqRF2thmB9hcGmWSmBAahph8U\n5cQDuNqW4btAVjMzTbSNbe3x44dYbFCfgzZYtgu4LmUiNA+WYXYPBpQ6sHoP+3Wr\nfS9cZDuIZMP0eaiViimNgxqpY2tFLhnHZzjtXJ+8QGAREUZDCexAtAHynqTv9+DO\neLYKsCvp6+jcAg6Jw3glvxR9c8WtbgNs5s3eYOr2GMFaKGN3F5N8UkmWoYUcq3Ts\nSp6ulhRElGOOb2sAlyIQwO5n/QA78/3PwBF1mzNvAzZXqhtQFgfCYH53DU3rjFjs\nWgOl8suuNuQ2Oy7MIA/09V0I/bkJOX+cv/DhTsMoHr5JLIl2lK8eRgHtgSu9o0SY\nOyuC2w2wEaif0B6nK+T5At8cDnGZS6+zXngxnfzfdfFZ935ONxSvV2k+tORyn++f\n0JtBMa8/fiZo0nZoj588whLEZ8IIyD3s/54tgjTWQMFUt4e/9PgIpAehg1f3uPkY\ndKMajj3wZiOV8WeWlKC+iQcUlWertvRWn21YEEyPlNONroB5xyFC9pSCxTMfDqMl\ntd+DhxgqYkP+6KRQv2V0uSvKtXh6TQ0dpjXWoivWv95ujy4DTdIz0+/oJv19N1lf\nDzPUqr+OZc1UHld/+9m7p3ueALYp4OeGddeOXsxJ+155eUuuaFw=\n=ZzE/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2f73fff053527b9ab66d74063868846ae8eec5c7\ntype commit\ntag v1.9.6\ntagger Matti R <matti@mdranta.net> 1573681286 -0500\n\n* BUGFIXES\n  * Allow to merge if file path contains \" or \\ (#8629) (#8772)\n  * Fix 500 when edit hook (#8782) (#8790)\n  * Fix issue with user.fullname (#8904)\n  * Update Github Migration Test (#8897) (#8946)\n  * Add Close() method to gogitRepository (#8901) (#8958)\n"
+  }
+}

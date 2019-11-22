@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6OTQ5ZGI2YzkxNzllMzhhZGM0NzliYjA2Y2VhZDk1NDlkOGJhOWYwNw==",
+  "sha": "949db6c9179e38adc479bb06cead9549d8ba9f07",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/949db6c9179e38adc479bb06cead9549d8ba9f07",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2017-11-22T17:42:53Z"
+  },
+  "object": {
+    "sha": "b8482d9666f08d3603ee93d3ca52931550f715fc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/b8482d9666f08d3603ee93d3ca52931550f715fc"
+  },
+  "tag": "3.20.1",
+  "message": "3.20.1\n\n- [unicodedata] Fixed issue with ``script`` and ``script_extension`` functions\n  returning inconsistent short vs long names. They both return the short four-\n  letter script codes now. Added ``script_name`` and ``script_code`` functions\n  to look up the long human-readable script name from the script code, and\n  viceversa (#1109, #1111).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

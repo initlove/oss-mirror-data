@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6NDk4YjBjMWUxMzJiZTllMDkxMWRhYzFmOTgyNDQ4M2FmZjYyNDVjMw==",
+  "sha": "498b0c1e132be9e0911dac1f9824483aff6245c3",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/498b0c1e132be9e0911dac1f9824483aff6245c3",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2017-11-21T11:31:34Z"
+  },
+  "object": {
+    "sha": "86b06cde450688be90e1f07a999518d929402d95",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/86b06cde450688be90e1f07a999518d929402d95"
+  },
+  "tag": "3.20.0",
+  "message": "3.20.0\n\n- [unicodedata] Addded new module ``fontTools.unicodedata`` which exports the\n  same interface as the built-in ``unicodedata`` module, with the addition of\n  a few functions that are missing from the latter, such as ``script``,\n  ``script_extension`` and ``block``. Added a ``MetaTools/buildUCD.py`` script\n  to download and parse data files from the Unicode Character Database and\n  generate python modules containing lists of ranges and property values.\n- [feaLib] Added ``__str__`` method to all ``ast`` elements (delegates to the\n  ``asFea`` method).\n- [feaLib] ``Parser`` constructor now accepts a ``glyphNames`` iterable\n  instead of ``glyphMap`` dict. The latter still works but with a pending\n  deprecation warning (#1104).\n- [bezierTools] Added arc length calculation functions originally from\n  ``pens.perimeterPen`` module (#1101).\n- [varLib] Started generating STAT table (8af4309). Right now it just reflects\n  the axes, and even that with certain limitations:\n    * AxisOrdering is set to the order axes are defined,\n    * Name-table entries are not shared with fvar.\n- [py23] Added backports for ``redirect_stdout`` and ``redirect_stderr``\n  context managers (#1097).\n- [Graphite] Fixed some round-trip bugs (#1093).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

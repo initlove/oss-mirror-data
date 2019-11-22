@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6MDk1ODBiYTFmYzc1OGM3MWVlYzMxNTM2YjA4YTVmMDBiMzJhN2ZhMQ==",
+  "sha": "09580ba1fc758c71eec31536b08a5f00b32a7fa1",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/09580ba1fc758c71eec31536b08a5f00b32a7fa1",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2019-01-14T14:26:24Z"
+  },
+  "object": {
+    "sha": "ea489baaf18521ff6941e8e40f373456ac4fc325",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/ea489baaf18521ff6941e8e40f373456ac4fc325"
+  },
+  "tag": "3.35.2",
+  "message": "3.35.2\n\n- [hmtx/vmtx]: Allow to compile/decompile ``hmtx`` and ``vmtx`` tables even\n  without the corresponding (required) metrics header tables, ``hhea`` and\n  ``vhea`` (#1439).\n- [varLib] Added support for localized axes' ``labelname`` and named instances'\n  ``stylename`` (#1438).\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEhg70q0vib0KyE3CHWdVNsMmXZIIFAlw8nBAACgkQWdVNsMmX\nZIJPUg/5AVMD03WCRLnxKTF/KuZ/uEyW2wa6g9EXmGK93i6N+G48Nph7dL0ohBOa\nkO54ah89qVu+PY0zSyJU7SUizRDrWCHOwueFg1kaRrmYlEv7frbENq8ZNBOLNe3f\nZEs90m2+lnBnkldWY/7/mu3EZRhPrWM5kfpuwyOGvCxigmqq8ThODJ9uD9C4h3ek\n9z9BNZsRRExvbq5QRZMxKAA92XKaiEQXzc/S/h1O2Y62zlBH2XzLn8scbrLBI/Zs\n2EZ9D27nxwMUFhdW5h/3ZWwey9yRAppMNVSLQki/A4b3N37YHt46jKOOO8x2vLlj\n+PeSAFYuXwlKSA6wfXPbyuiJSp+S88PWOVqOpDVHpGGgjJq2nUJZ+l1dJToXMs27\nr5Iy+2uAdQGkaRNR5G3/4TjCikkj6OEyRg//ko0zjgdexaGdjJwe7EJbaCuCBk3Q\nVWE8f+bDKzPUj2d2o/kqs/QfC+H6AWS4hTSp4w5OUH1G9G7310BayFIPY6fROo0J\nNbhJv16EUEP371Rgb03PelJQ/gv7Y7Yiyc5tXr7Vm8WcBGV2lAZfosuIf89kO8pM\nnJZc/gbeHGoYoIKCABLHQPoOHeoyN8xprTVpsxQ8ro9EuDu3SoSNm4/XDKBOytGe\nxWWdU5H3sWisBrvVBPb16mDm0/JDM0IcwjbO1L0YL7FjzJCGVvA=\n=KlDj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEhg70q0vib0KyE3CHWdVNsMmXZIIFAlw8nBAACgkQWdVNsMmX\nZIJPUg/5AVMD03WCRLnxKTF/KuZ/uEyW2wa6g9EXmGK93i6N+G48Nph7dL0ohBOa\nkO54ah89qVu+PY0zSyJU7SUizRDrWCHOwueFg1kaRrmYlEv7frbENq8ZNBOLNe3f\nZEs90m2+lnBnkldWY/7/mu3EZRhPrWM5kfpuwyOGvCxigmqq8ThODJ9uD9C4h3ek\n9z9BNZsRRExvbq5QRZMxKAA92XKaiEQXzc/S/h1O2Y62zlBH2XzLn8scbrLBI/Zs\n2EZ9D27nxwMUFhdW5h/3ZWwey9yRAppMNVSLQki/A4b3N37YHt46jKOOO8x2vLlj\n+PeSAFYuXwlKSA6wfXPbyuiJSp+S88PWOVqOpDVHpGGgjJq2nUJZ+l1dJToXMs27\nr5Iy+2uAdQGkaRNR5G3/4TjCikkj6OEyRg//ko0zjgdexaGdjJwe7EJbaCuCBk3Q\nVWE8f+bDKzPUj2d2o/kqs/QfC+H6AWS4hTSp4w5OUH1G9G7310BayFIPY6fROo0J\nNbhJv16EUEP371Rgb03PelJQ/gv7Y7Yiyc5tXr7Vm8WcBGV2lAZfosuIf89kO8pM\nnJZc/gbeHGoYoIKCABLHQPoOHeoyN8xprTVpsxQ8ro9EuDu3SoSNm4/XDKBOytGe\nxWWdU5H3sWisBrvVBPb16mDm0/JDM0IcwjbO1L0YL7FjzJCGVvA=\n=KlDj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ea489baaf18521ff6941e8e40f373456ac4fc325\ntype commit\ntag 3.35.2\ntagger Cosimo Lupo <cosimo@anthrotype.com> 1547475984 +0000\n\n3.35.2\n\n- [hmtx/vmtx]: Allow to compile/decompile ``hmtx`` and ``vmtx`` tables even\n  without the corresponding (required) metrics header tables, ``hhea`` and\n  ``vhea`` (#1439).\n- [varLib] Added support for localized axes' ``labelname`` and named instances'\n  ``stylename`` (#1438).\n"
+  }
+}

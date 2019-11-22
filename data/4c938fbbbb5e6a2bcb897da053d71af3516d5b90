@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE0NzY5ODo0YzkzOGZiYmJiNWU2YTJiY2I4OTdkYTA1M2Q3MWFmMzUxNmQ1Yjkw",
+  "sha": "4c938fbbbb5e6a2bcb897da053d71af3516d5b90",
+  "url": "https://api.github.com/repos/proot-me/proot/git/tags/4c938fbbbb5e6a2bcb897da053d71af3516d5b90",
+  "tagger": {
+    "name": "Cédric VINCENT",
+    "email": "cedric.vincent@st.com",
+    "date": "2013-06-14T09:17:42Z"
+  },
+  "object": {
+    "sha": "103bb6659b329a972d74fa42f7aaa25bf1f4999c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/proot-me/proot/git/commits/103bb6659b329a972d74fa42f7aaa25bf1f4999c"
+  },
+  "tag": "v3.0.2",
+  "message": "Release v3.0.2\n==============\n\n* Fix the search of the initial command: when the initial command is a\n  symbolic link, PRoot has to dereference it in guest namespace, not\n  in the host one.\n\n* Return error code EACCESS instead of EISDIR when trying to execute a\n  directory.  Some programs, such as \"env\", behave differently with\n  respect to this error code.  For example:\n\n      ### setup\n      $ mkdir -p /tmp/foo/python\n      $ export PATH=/tmp/foo:$PATH\n\n      ### before (PRoot v2.3 ... v3.0.1)\n      before$ proot env python\n      env: python: Is a directory\n\n      ### now (PRoot v3.0.2 ...)\n      $ proot env python\n      Python 2.7.5 (default, May 29 2013, 02:28:51)\n      [GCC 4.8.0] on linux2\n      Type \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n      >>>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (GNU/Linux)\n\niQEcBAABAgAGBQJRut+8AAoJEChi0LD6j7VWJtgIAKmcBLhK4bEue7/0QKci6SB3\nNkv40o7dbpUgelPGFfKMuhaGquvxm2RYgbhCgFmQtZUG73OJg4yFUEdEw1k8/ahe\njKx4WIFL/JECWGwi+QnibVo07/KN7nVUNWmV21dLrP3i4n8hW26XXR6KVasbU65y\n29yT4pW77GUo6zlBB/6/+VlRyDajtU8Us7omylGy38XQE04sRil6RYEJ+rYRe19g\ntEVIEzeKHJEVukGU0kNGxPhI0amwOxVY5haXiy/EpwIjAglOqxs8DgfC+btVELXE\na/tE/CiMEGpGbAFtHPWL0q3/iEiJ3AL5oInFB14hjEspccITKi+1pbBjgrQisNQ=\n=ddhA\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (GNU/Linux)\n\niQEcBAABAgAGBQJRut+8AAoJEChi0LD6j7VWJtgIAKmcBLhK4bEue7/0QKci6SB3\nNkv40o7dbpUgelPGFfKMuhaGquvxm2RYgbhCgFmQtZUG73OJg4yFUEdEw1k8/ahe\njKx4WIFL/JECWGwi+QnibVo07/KN7nVUNWmV21dLrP3i4n8hW26XXR6KVasbU65y\n29yT4pW77GUo6zlBB/6/+VlRyDajtU8Us7omylGy38XQE04sRil6RYEJ+rYRe19g\ntEVIEzeKHJEVukGU0kNGxPhI0amwOxVY5haXiy/EpwIjAglOqxs8DgfC+btVELXE\na/tE/CiMEGpGbAFtHPWL0q3/iEiJ3AL5oInFB14hjEspccITKi+1pbBjgrQisNQ=\n=ddhA\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 103bb6659b329a972d74fa42f7aaa25bf1f4999c\ntype commit\ntag v3.0.2\ntagger Cédric VINCENT <cedric.vincent@st.com> 1371201462 +0200\n\nRelease v3.0.2\n==============\n\n* Fix the search of the initial command: when the initial command is a\n  symbolic link, PRoot has to dereference it in guest namespace, not\n  in the host one.\n\n* Return error code EACCESS instead of EISDIR when trying to execute a\n  directory.  Some programs, such as \"env\", behave differently with\n  respect to this error code.  For example:\n\n      ### setup\n      $ mkdir -p /tmp/foo/python\n      $ export PATH=/tmp/foo:$PATH\n\n      ### before (PRoot v2.3 ... v3.0.1)\n      before$ proot env python\n      env: python: Is a directory\n\n      ### now (PRoot v3.0.2 ...)\n      $ proot env python\n      Python 2.7.5 (default, May 29 2013, 02:28:51)\n      [GCC 4.8.0] on linux2\n      Type \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n      >>>\n"
+  }
+}

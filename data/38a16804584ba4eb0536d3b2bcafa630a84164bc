@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6MzhhMTY4MDQ1ODRiYTRlYjA1MzZkM2IyYmNhZmE2MzBhODQxNjRiYw==",
+  "sha": "38a16804584ba4eb0536d3b2bcafa630a84164bc",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/38a16804584ba4eb0536d3b2bcafa630a84164bc",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2019-04-23T00:14:35Z"
+  },
+  "object": {
+    "sha": "5bf06854efcb5ee268f5122253a751b1290eec6a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/5bf06854efcb5ee268f5122253a751b1290eec6a"
+  },
+  "tag": "libmodulemd-2.3.0",
+  "message": "Tagging libmodulemd 2.3.0\n\nDenis Ollier (1):\n      Don't reinstall up to date packages for Arch Linux CI\n\nStephen Gallagher (15):\n      Bump version to 2.2.4dev and 1.8.7dev\n      Add Modulemd.ModuleIndex.update_from_custom()\n      Bump version to 2.3.0 for SEMVER_MINOR changes\n      Merge branch 'component_equals' of git://github.com/OrionStar25/libmodulemd into OrionStar25-component_equals\n      Merge branch 'custom_stream'\n      rpmspec: require python-six for python bindings\n      Fix accidental ABI break\n      Update CentOS tests for Python 3.6\n      Merge pull request #266 from larchunix/ci/archlinux\n      Add Modulemd.ModuleIndex.dump_to_custom()\n      Merge pull request #268 from sgallagher/custom-write\n      Properly handle emitting arrays of strings in XMD\n      Only output debugging messages for the debug configuration\n      Fix deduplication bug and memory leak\n      Add Module.remove_streams_by_NSVCA()\n\norionstar25 (1):\n      Add .equals() for component\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXL5Y+gAKCRB6JVViNrqj\noxSfAKCZbRyLawmypr884yk1lZi5C9if9gCfWBllObksBrveNCsLVhYmuAuNssY=\n=8ASs\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXL5Y+gAKCRB6JVViNrqj\noxSfAKCZbRyLawmypr884yk1lZi5C9if9gCfWBllObksBrveNCsLVhYmuAuNssY=\n=8ASs\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5bf06854efcb5ee268f5122253a751b1290eec6a\ntype commit\ntag libmodulemd-2.3.0\ntagger Stephen Gallagher <sgallagh@redhat.com> 1555978475 -0400\n\nTagging libmodulemd 2.3.0\n\nDenis Ollier (1):\n      Don't reinstall up to date packages for Arch Linux CI\n\nStephen Gallagher (15):\n      Bump version to 2.2.4dev and 1.8.7dev\n      Add Modulemd.ModuleIndex.update_from_custom()\n      Bump version to 2.3.0 for SEMVER_MINOR changes\n      Merge branch 'component_equals' of git://github.com/OrionStar25/libmodulemd into OrionStar25-component_equals\n      Merge branch 'custom_stream'\n      rpmspec: require python-six for python bindings\n      Fix accidental ABI break\n      Update CentOS tests for Python 3.6\n      Merge pull request #266 from larchunix/ci/archlinux\n      Add Modulemd.ModuleIndex.dump_to_custom()\n      Merge pull request #268 from sgallagher/custom-write\n      Properly handle emitting arrays of strings in XMD\n      Only output debugging messages for the debug configuration\n      Fix deduplication bug and memory leak\n      Add Module.remove_streams_by_NSVCA()\n\norionstar25 (1):\n      Add .equals() for component\n"
+  }
+}

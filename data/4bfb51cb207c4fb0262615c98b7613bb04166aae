@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg5Mzg1ODA6NGJmYjUxY2IyMDdjNGZiMDI2MjYxNWM5OGI3NjEzYmIwNDE2NmFhZQ==",
+  "sha": "4bfb51cb207c4fb0262615c98b7613bb04166aae",
+  "url": "https://api.github.com/repos/jtv/libpqxx/git/tags/4bfb51cb207c4fb0262615c98b7613bb04166aae",
+  "tagger": {
+    "name": "Jeroen Vermeulen",
+    "email": "jtvjtv@gmail.com",
+    "date": "2017-02-26T12:33:12Z"
+  },
+  "object": {
+    "sha": "23376d4c8c4f28335e7ed408f6b63d30fe954e17",
+    "type": "commit",
+    "url": "https://api.github.com/repos/jtv/libpqxx/git/commits/23376d4c8c4f28335e7ed408f6b63d30fe954e17"
+  },
+  "tag": "5.0.0",
+  "message": "5.0.0, retroactively tagged.\n\nPrevious attempt at tagging this never made it through to github.\n\nMajor changes:\n - The PGSTD namespace alias is gone.  Use the std namespace directly.\n - pqxx::tuple is now pqxx::row, to avoid clashes with std::tuple.\n - Deprecated escape_binary functions dropped.\n - Deprecated notify_listener class dropped.\n - Support for many old compilers dropped.\n - Support for \"long long\" and \"long double\" types is always enabled.\n - No longer uses obsolete std::tr1 namespace; use plain std instead.\n - Now requires libpq 9.1 or better.\n - Requires server version 9.1 or better.\n - Support for REPEATABLE READ isolation level added.\n - Makefile fixes for Visual Studio 2013.\n - Supports C++11 and C++14.\n - No longer has obsolete debian & RPM packaging built in.\n - Fixed failure to abort uncommitted subtransactions on destruction.\n - Fixed failure to detect some integer overflows during conversion.\n - Build tooling uses /usr/bin/env python instead of /usr/bin/python.\n - New configure options: --with-postgres-include and --with-postgres-lib.\n - In g++ or compatible compilers, non-exported items are no longer accessible.\n - Many build fixes for various platforms and compilers.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

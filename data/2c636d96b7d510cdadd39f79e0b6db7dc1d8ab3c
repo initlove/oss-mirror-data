@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6MmM2MzZkOTZiN2Q1MTBjZGFkZDM5Zjc5ZTBiNmRiN2RjMWQ4YWIzYw==",
+  "sha": "2c636d96b7d510cdadd39f79e0b6db7dc1d8ab3c",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/2c636d96b7d510cdadd39f79e0b6db7dc1d8ab3c",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "clupo@google.com",
+    "date": "2019-02-18T09:57:09Z"
+  },
+  "object": {
+    "sha": "517dde00b9bed9bb1dab6de9376512347c9e3a4c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/517dde00b9bed9bb1dab6de9376512347c9e3a4c"
+  },
+  "tag": "3.38.0",
+  "message": "3.38.0\n\n- [cffLib] Fixed RecursionError when unpickling or deepcopying TTFont with\n  CFF table (#1488, 649dc49).\n- [subset] Fixed AttributeError when using --desubroutinize option (#1490).\n  Also, fixed desubroutinizing bug when subrs contain hints (#1499).\n- [CPAL] Make Color a subclass of namedtuple (173a0f5).\n- [feaLib] Allow hyphen in glyph class names.\n- [feaLib] Added 'tables' option to __main__.py (#1497).\n- [feaLib] Add support for special-case contextual positioning formatting\n  (#1501).\n- [svgLib] Support converting SVG basic shapes (rect, circle, etc.) into\n  equivalent SVG paths (#1500, #1508).\n- [Snippets] Added name-viewer.ipynb Jupyter notebook.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

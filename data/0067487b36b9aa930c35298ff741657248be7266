@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6MDA2NzQ4N2IzNmI5YWE5MzBjMzUyOThmZjc0MTY1NzI0OGJlNzI2Ng==",
+  "sha": "0067487b36b9aa930c35298ff741657248be7266",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/0067487b36b9aa930c35298ff741657248be7266",
+  "tagger": {
+    "name": "Nikolaus Waxweiler",
+    "email": "nikolaus.waxweiler@daltonmaag.com",
+    "date": "2019-02-05T11:41:23Z"
+  },
+  "object": {
+    "sha": "26da00ee54c086bdc807ab278e022b20ac41baac",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/26da00ee54c086bdc807ab278e022b20ac41baac"
+  },
+  "tag": "3.37.2",
+  "message": "3.37.2\n\n- [varLib] Temporarily revert the fix to ``load_masters()``, which caused a\n  crash in ``interpolate_layout()`` when ``deepcopy``-ing OTFs.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

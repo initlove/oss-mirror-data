@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjoyMmZmZjc0OGY1MmQ2NDI4YzVkZTQ1MDZiYWE2MjZlMDVlYmM5M2Fi",
+  "sha": "22fff748f52d6428c5de4506baa626e05ebc93ab",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/22fff748f52d6428c5de4506baa626e05ebc93ab",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2016-12-05T04:01:50Z"
+  },
+  "object": {
+    "sha": "e283a712f418fca48c60fdd93c532168fa9c07b1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/e283a712f418fca48c60fdd93c532168fa9c07b1"
+  },
+  "tag": "v2.0.0rc1",
+  "message": "REL: v2.0.0rc1\n\nThis is the first release candidate for mpl v2.0\n\nThis release includes:\n\n - A re-implementation of the way margins are handled during auto\n   scaling to allow artists to 'stick' to an edge of the Axes\n - Improvements to the ticking with log and symlog scales\n - Deprecation of the finance module.  This will be spun off into a stand-alone package\n - Deprecation of the 'hold' machinery\n - Bumped the minimum numpy version to 1.7\n - Standardization of hatch width and appearance across backends\n - Made threshold for triggering 'offset' in `ScalarFormatter` configurable\n   and default to 4 (plotting against years should just work now)\n - Default encoding for mp4 is now h264\n - `fill_between` and `fill_betweenx` now use the color cycle\n - Default alignment of bars changed from 'edge' to 'center'\n - Bug and documentation fixes\n-----BEGIN PGP SIGNATURE-----\n\niQEwBAABCAAaBQJYROa6Exx0Y2Fzd2VsbEBnbWFpbC5jb20ACgkQV/pFQN1O/Pez\n0Af/SMaaZoKBeo5G5tqTAtPAK8r2ERfrpmU22YQsoalh6v5fZmdS6p6vuOhIusbM\nUixyvCBswlguY46i0pEpNmP2NEvp+sM2dsP1MnMZ9V6tmajrpxrsmhSFf0F2rwsb\nfTtswMfk24r461Jl8W9BS8n+07orE2Z9TJi5GLIX+lvLkdnDTh5gAHaU0GxFLEWE\nazoE5cUhsVz3RkWEWMOVQiKHOY5NpU/ErVYXBM+2kY1FflYoHWyLDatQJzRcX3wI\nR3mD1NC2vApP9RtcNNm4dUGYskZzaE/0C+6JG+GN0ihYTDlqTAXYBgnfKxO7zemZ\nAbIPf+ebb2WjrP0+clXS8YpfNA==\n=63JG\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEwBAABCAAaBQJYROa6Exx0Y2Fzd2VsbEBnbWFpbC5jb20ACgkQV/pFQN1O/Pez\n0Af/SMaaZoKBeo5G5tqTAtPAK8r2ERfrpmU22YQsoalh6v5fZmdS6p6vuOhIusbM\nUixyvCBswlguY46i0pEpNmP2NEvp+sM2dsP1MnMZ9V6tmajrpxrsmhSFf0F2rwsb\nfTtswMfk24r461Jl8W9BS8n+07orE2Z9TJi5GLIX+lvLkdnDTh5gAHaU0GxFLEWE\nazoE5cUhsVz3RkWEWMOVQiKHOY5NpU/ErVYXBM+2kY1FflYoHWyLDatQJzRcX3wI\nR3mD1NC2vApP9RtcNNm4dUGYskZzaE/0C+6JG+GN0ihYTDlqTAXYBgnfKxO7zemZ\nAbIPf+ebb2WjrP0+clXS8YpfNA==\n=63JG\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e283a712f418fca48c60fdd93c532168fa9c07b1\ntype commit\ntag v2.0.0rc1\ntagger Thomas A Caswell <tcaswell@gmail.com> 1480910510 -0500\n\nREL: v2.0.0rc1\n\nThis is the first release candidate for mpl v2.0\n\nThis release includes:\n\n - A re-implementation of the way margins are handled during auto\n   scaling to allow artists to 'stick' to an edge of the Axes\n - Improvements to the ticking with log and symlog scales\n - Deprecation of the finance module.  This will be spun off into a stand-alone package\n - Deprecation of the 'hold' machinery\n - Bumped the minimum numpy version to 1.7\n - Standardization of hatch width and appearance across backends\n - Made threshold for triggering 'offset' in `ScalarFormatter` configurable\n   and default to 4 (plotting against years should just work now)\n - Default encoding for mp4 is now h264\n - `fill_between` and `fill_betweenx` now use the color cycle\n - Default alignment of bars changed from 'edge' to 'center'\n - Bug and documentation fixes\n"
+  }
+}

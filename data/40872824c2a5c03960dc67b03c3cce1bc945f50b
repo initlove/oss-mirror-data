@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjo0MDg3MjgyNGMyYTVjMDM5NjBkYzY3YjAzYzNjY2UxYmM5NDVmNTBi",
+  "sha": "40872824c2a5c03960dc67b03c3cce1bc945f50b",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/40872824c2a5c03960dc67b03c3cce1bc945f50b",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2018-03-17T02:57:57Z"
+  },
+  "object": {
+    "sha": "b471ee21cbe0d0fdd9cf5142d0a4be01517f4e68",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/b471ee21cbe0d0fdd9cf5142d0a4be01517f4e68"
+  },
+  "tag": "v2.2.2",
+  "message": "REL: v2.2.2 LTS\n\nThe second bug-fix release of the v2.2 LTS series.\n\nThis release fixes a number of critical bugs:\n\n - restores matplotlib.verbose (fixing embedding in pycharm)\n - preserve precision when color mapping small portions of data with\n   extreme outliers\n - fixes saving long movies with ffmpeg\n - fixes UnbourdLocal error in contour labeling\n - fixes import failure on python 3.4.0 and 3.4.1\n - fixes compile time failures with clang on 32bit platforms\n - fixes an icon in the Tk backends\n - fixes several issues with Tables\n - fixes expanding offset boxes with tight_layout\n - revert changes to the font caching to avoid a possible bug in\n   backports.lru_cache\n - numerous docstring and documentation fixes\n\nWe have reverted the deprecation of `font_manager.TempCache`.\n\nv2.2.1 did not actually restore matplotlib.verbose.\n-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlqshDgTHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U7899utCACDkxc5WEtDt+dL9Tv6xgOBJkKU6LMk\nm7ISbWKHi09uC0z1vJ+/iLXj0ioN0/I4VGEqCCV9NEIvi4Aog6QWRkszCc6DJcxL\nUwM+25XS+g3+2IvrquV7ap21dZdWcLE8/OJe2DuDR0DTkqyt2jjzUJCNZBtPk7U5\nStLZBFp6UcPxQ2H+QUe4dBEkx5ZqirqGtjEJfjpkVfowfu/wipQ8SdAeLDdlCTHE\nLOADBJSD3KjqAKDZKj+s1P2y60/HFoe6aoCPbGvEruwfWM2Qhbz12i/prmyX+ylG\nqup9e/XqtWawBJDoiD+ceGRtqoVmlZcXxluA4taUCo8Sg9KFujfEx+H/\n=Q2Hq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlqshDgTHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U7899utCACDkxc5WEtDt+dL9Tv6xgOBJkKU6LMk\nm7ISbWKHi09uC0z1vJ+/iLXj0ioN0/I4VGEqCCV9NEIvi4Aog6QWRkszCc6DJcxL\nUwM+25XS+g3+2IvrquV7ap21dZdWcLE8/OJe2DuDR0DTkqyt2jjzUJCNZBtPk7U5\nStLZBFp6UcPxQ2H+QUe4dBEkx5ZqirqGtjEJfjpkVfowfu/wipQ8SdAeLDdlCTHE\nLOADBJSD3KjqAKDZKj+s1P2y60/HFoe6aoCPbGvEruwfWM2Qhbz12i/prmyX+ylG\nqup9e/XqtWawBJDoiD+ceGRtqoVmlZcXxluA4taUCo8Sg9KFujfEx+H/\n=Q2Hq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b471ee21cbe0d0fdd9cf5142d0a4be01517f4e68\ntype commit\ntag v2.2.2\ntagger Thomas A Caswell <tcaswell@gmail.com> 1521255477 -0400\n\nREL: v2.2.2 LTS\n\nThe second bug-fix release of the v2.2 LTS series.\n\nThis release fixes a number of critical bugs:\n\n - restores matplotlib.verbose (fixing embedding in pycharm)\n - preserve precision when color mapping small portions of data with\n   extreme outliers\n - fixes saving long movies with ffmpeg\n - fixes UnbourdLocal error in contour labeling\n - fixes import failure on python 3.4.0 and 3.4.1\n - fixes compile time failures with clang on 32bit platforms\n - fixes an icon in the Tk backends\n - fixes several issues with Tables\n - fixes expanding offset boxes with tight_layout\n - revert changes to the font caching to avoid a possible bug in\n   backports.lru_cache\n - numerous docstring and documentation fixes\n\nWe have reverted the deprecation of `font_manager.TempCache`.\n\nv2.2.1 did not actually restore matplotlib.verbose.\n"
+  }
+}

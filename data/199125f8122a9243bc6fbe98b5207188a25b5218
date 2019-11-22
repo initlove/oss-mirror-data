@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6MTk5MTI1ZjgxMjJhOTI0M2JjNmZiZTk4YjUyMDcxODhhMjViNTIxOA==",
+  "sha": "199125f8122a9243bc6fbe98b5207188a25b5218",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/199125f8122a9243bc6fbe98b5207188a25b5218",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2018-06-19T16:30:34Z"
+  },
+  "object": {
+    "sha": "37ed01cb4f89540f12db98a4dc620b3c0e1b988b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/37ed01cb4f89540f12db98a4dc620b3c0e1b988b"
+  },
+  "tag": "3.28.0",
+  "message": "3.28.0\n\n- [featureVars] Added experimental module to build ``FeatureVariations``\n  tables. Still needs to be hooked up to ``varLib.build`` (#1240).\n- [fixedTools] Added ``otRound`` to round floats to nearest integer towards\n  positive Infinity. This is now used where we deal with visual data like X/Y\n  coordinates, advance widths/heights, variation deltas, and similar (#1274,\n  #1248).\n- [subset] Improved GSUB closure memoize algorithm.\n- [varLib.models] Fixed regression in model resolution (180124, #1269).\n- [feaLib.ast] Fixed error when converting ``SubtableStatement`` to string\n  (#1275).\n- [varLib.mutator] Set ``OS/2.usWeightClass`` and ``usWidthClass``, and\n  ``post.italicAngle`` based on the 'wght', 'wdth' and 'slnt' axis values\n  (#1276, #1264).\n- [py23/loggingTools] Don't automatically set ``logging.lastResort`` handler\n  on py27. Moved ``LastResortLogger`` to the ``loggingTools`` module (#1277).\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEhg70q0vib0KyE3CHWdVNsMmXZIIFAlspL6oACgkQWdVNsMmX\nZIIsUA/+I8lMR6t/cUz60bKaosLtSqrOUlMAbP8LlUVBvOrDR+GZrfQYODrG9Kwt\nsLhKmdKWjYsjiioYfrC2zCUTl8WVRoxdf1/kZK6LxoYHlIUpQsV3Qa9ek2a5DHDb\n12vZU/WJVpjoRB7YNEIJ2kJCPHAllSlmvTVy+xKPFNsyLvCLXCajoRkh+TaPeYZT\nbJe4Y30G7v6tBA0eRMzL5DS/qPGRgnIFsw+Lx+nPLo0e1kflpXWhmFQE3IwBLsr2\nOXpZTo0H+CNUqo1ohJHPZDF6mhcazTsEQcxpN0XRrK5dbW0RHJLG5LgCGfzDypQ0\njqVEzsTQgygNK5BJUylglpc+1gdWcduHeRoKoBX0m+9xmWTusb+HdkSJleA7Yni7\nrZw0l8oAXP8/0/rRkNVNYFDIQ+Jks0d0yrtPMXOJfpe9iehSMgH52xD892Jie2X6\nhdEKFqvxdLj49UWQTdob4ug/wIeTOabzbFtoLBIhgK1gW/aUgYu3RXg+3vAlikVv\n0zgJkSbBJs/Svurn64pEcB8tl0zXxO+94pJDabS283Tb1XsNCcSH2dRcKskziVwP\nFANoU/69OVXcZ3ctl/oTJJhYDcewvlCgzjHGnFsezrCKkeCQDD45lmNmddUlU3CI\nQP3v3xKvyfC31djcDyjdb9rnmqiJIyyIYPT49B9Hd+lTxUWqfEU=\n=DtQ0\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEhg70q0vib0KyE3CHWdVNsMmXZIIFAlspL6oACgkQWdVNsMmX\nZIIsUA/+I8lMR6t/cUz60bKaosLtSqrOUlMAbP8LlUVBvOrDR+GZrfQYODrG9Kwt\nsLhKmdKWjYsjiioYfrC2zCUTl8WVRoxdf1/kZK6LxoYHlIUpQsV3Qa9ek2a5DHDb\n12vZU/WJVpjoRB7YNEIJ2kJCPHAllSlmvTVy+xKPFNsyLvCLXCajoRkh+TaPeYZT\nbJe4Y30G7v6tBA0eRMzL5DS/qPGRgnIFsw+Lx+nPLo0e1kflpXWhmFQE3IwBLsr2\nOXpZTo0H+CNUqo1ohJHPZDF6mhcazTsEQcxpN0XRrK5dbW0RHJLG5LgCGfzDypQ0\njqVEzsTQgygNK5BJUylglpc+1gdWcduHeRoKoBX0m+9xmWTusb+HdkSJleA7Yni7\nrZw0l8oAXP8/0/rRkNVNYFDIQ+Jks0d0yrtPMXOJfpe9iehSMgH52xD892Jie2X6\nhdEKFqvxdLj49UWQTdob4ug/wIeTOabzbFtoLBIhgK1gW/aUgYu3RXg+3vAlikVv\n0zgJkSbBJs/Svurn64pEcB8tl0zXxO+94pJDabS283Tb1XsNCcSH2dRcKskziVwP\nFANoU/69OVXcZ3ctl/oTJJhYDcewvlCgzjHGnFsezrCKkeCQDD45lmNmddUlU3CI\nQP3v3xKvyfC31djcDyjdb9rnmqiJIyyIYPT49B9Hd+lTxUWqfEU=\n=DtQ0\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 37ed01cb4f89540f12db98a4dc620b3c0e1b988b\ntype commit\ntag 3.28.0\ntagger Cosimo Lupo <cosimo@anthrotype.com> 1529425834 +0100\n\n3.28.0\n\n- [featureVars] Added experimental module to build ``FeatureVariations``\n  tables. Still needs to be hooked up to ``varLib.build`` (#1240).\n- [fixedTools] Added ``otRound`` to round floats to nearest integer towards\n  positive Infinity. This is now used where we deal with visual data like X/Y\n  coordinates, advance widths/heights, variation deltas, and similar (#1274,\n  #1248).\n- [subset] Improved GSUB closure memoize algorithm.\n- [varLib.models] Fixed regression in model resolution (180124, #1269).\n- [feaLib.ast] Fixed error when converting ``SubtableStatement`` to string\n  (#1275).\n- [varLib.mutator] Set ``OS/2.usWeightClass`` and ``usWidthClass``, and\n  ``post.italicAngle`` based on the 'wght', 'wdth' and 'slnt' axis values\n  (#1276, #1264).\n- [py23/loggingTools] Don't automatically set ``logging.lastResort`` handler\n  on py27. Moved ``LastResortLogger`` to the ``loggingTools`` module (#1277).\n"
+  }
+}

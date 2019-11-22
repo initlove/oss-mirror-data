@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6ODA1OWYzNTljZGJmYzU0YTdkNGNiYjU4MjhjZWE3ZjBjNjk0ZWIwMg==",
+  "sha": "8059f359cdbfc54a7d4cbb5828cea7f0c694eb02",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/8059f359cdbfc54a7d4cbb5828cea7f0c694eb02",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "clupo@google.com",
+    "date": "2019-03-19T16:38:33Z"
+  },
+  "object": {
+    "sha": "88a9e718c4a48139bb56d67338ae87f5585019c0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/88a9e718c4a48139bb56d67338ae87f5585019c0"
+  },
+  "tag": "3.39.0",
+  "message": "3.39.0\n\n- [ttLib/glyf] Raise more specific error when encountering recursive\n  component references (#1545, #1546).\n- [Doc/designspaceLib] Defined new ``public.skipExportGlyphs`` lib key (#1534,\n  unified-font-object/ufo-spec#84).\n- [varLib] Use ``vmtx`` to compute vertical phantom points; or ``hhea.ascent``\n  and ``head.unitsPerEM`` if ``vmtx`` is missing (#1528).\n- [gvar/cvar] Sort XML element's min/value/max attributes in TupleVariation\n  toXML to improve readability of TTX dump (#1527).\n- [varLib.plot] Added support for 2D plots with only 1 variation axis (#1522).\n- [designspaceLib] Use axes maps when normalizing locations in\n  DesignSpaceDocument (#1226, #1521), and when finding default source (#1535).\n- [mutator] Set ``OVERLAP_SIMPLE`` and ``OVERLAP_COMPOUND`` glyf flags by\n  default in ``instantiateVariableFont``. Added ``--no-overlap`` cli option\n  to disable this (#1518).\n- [subset] Fixed subsetting ``VVAR`` table (#1516, #1517).\n  Fixed subsetting an ``HVAR`` table that has an ``AdvanceWidthMap`` when the\n  option ``--retain-gids`` is used.\n- [feaLib] Added ``forceChained`` in MultipleSubstStatement (#1511).\n  Fixed double indentation of ``subtable`` statement (#1512).\n  Added support for ``subtable`` statement in more places than just PairPos\n  lookups (#1520).\n  Handle lookupflag 0 and lookupflag without a value (#1540).\n- [varLib] In ``load_designspace``, provide a default English name for the\n  ``ital`` axis tag.\n- Remove pyftinspect because it is unmaintained and bitrotted.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

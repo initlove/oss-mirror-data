@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQ0NDA1OTQ6M2MwNWNmZTA5OWQwMjNhNTU3N2FjM2VhMjAyNGJkYzA4MGVmYjhmOQ==",
+  "sha": "3c05cfe099d023a5577ac3ea2024bdc080efb8f9",
+  "url": "https://api.github.com/repos/testing-cabal/fixtures/git/tags/3c05cfe099d023a5577ac3ea2024bdc080efb8f9",
+  "tagger": {
+    "name": "Robert Collins",
+    "email": "robertc@robertcollins.net",
+    "date": "2016-03-02T02:05:20Z"
+  },
+  "object": {
+    "sha": "255f9cd00c9bc4dfd90cf9073e6c935d3009e163",
+    "type": "commit",
+    "url": "https://api.github.com/repos/testing-cabal/fixtures/git/commits/255f9cd00c9bc4dfd90cf9073e6c935d3009e163"
+  },
+  "tag": "1.2.1",
+  "message": "Relase 1.2.1.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlbWSmYACgkQhnv5qfvT647z4ACePoHNY3iktWSq4vze2kdFsjqb\ngrEAn2hmQkruZ53CM77RvS5Q6OxgA+p2\n=cp0a\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlbWSmYACgkQhnv5qfvT647z4ACePoHNY3iktWSq4vze2kdFsjqb\ngrEAn2hmQkruZ53CM77RvS5Q6OxgA+p2\n=cp0a\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 255f9cd00c9bc4dfd90cf9073e6c935d3009e163\ntype commit\ntag 1.2.1\ntagger Robert Collins <robertc@robertcollins.net> 1456884320 +1300\n\nRelase 1.2.1.\n"
+  }
+}

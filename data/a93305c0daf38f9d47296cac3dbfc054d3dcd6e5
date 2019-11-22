@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6YTkzMzA1YzBkYWYzOGY5ZDQ3Mjk2Y2FjM2RiZmMwNTRkM2RjZDZlNQ==",
+  "sha": "a93305c0daf38f9d47296cac3dbfc054d3dcd6e5",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/a93305c0daf38f9d47296cac3dbfc054d3dcd6e5",
+  "tagger": {
+    "name": "Denis Moyogo Jacquerye",
+    "email": "moyogo@gmail.com",
+    "date": "2019-02-05T09:26:05Z"
+  },
+  "object": {
+    "sha": "adbec1fb9107beb9376c19fd9ca79454c6f14db9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/adbec1fb9107beb9376c19fd9ca79454c6f14db9"
+  },
+  "tag": "3.37.1",
+  "message": "3.37.1\n\n- [varLib] ``load_masters()`` now actually assigns the fonts it loads to the\n  source.font attributes.\n- [varLib] Fixed an MVAR table generation crash when sparse masters were\n  involved.\n- [voltLib] ``parse_coverage_()`` returns a tuple instead of an ast.Enum.\n- [feaLib] A MarkClassDefinition inside a block is no longer doubly indented\n  compared to the rest of the block.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

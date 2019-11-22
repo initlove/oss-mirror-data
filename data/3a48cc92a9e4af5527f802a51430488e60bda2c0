@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6M2E0OGNjOTJhOWU0YWY1NTI3ZjgwMmE1MTQzMDQ4OGU2MGJkYTJjMA==",
+  "sha": "3a48cc92a9e4af5527f802a51430488e60bda2c0",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/3a48cc92a9e4af5527f802a51430488e60bda2c0",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2018-02-06T15:06:45Z"
+  },
+  "object": {
+    "sha": "7c738bab424ba76b5f676427b21cfa542561a486",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/7c738bab424ba76b5f676427b21cfa542561a486"
+  },
+  "tag": "libmodulemd-0.2.2",
+  "message": "Release libmodulemd 0.2.2\n\n- Fix numerous minor memory leaks\n- Fix issues with EOL/SL dates\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWnnEngAKCRB6JVViNrqj\nox73AJkBl/c1540I9OzfatFAH0pXMr2e+ACfX6yaXcJ+sOA/txBf4c4V4HRKltc=\n=qbmv\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWnnEngAKCRB6JVViNrqj\nox73AJkBl/c1540I9OzfatFAH0pXMr2e+ACfX6yaXcJ+sOA/txBf4c4V4HRKltc=\n=qbmv\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7c738bab424ba76b5f676427b21cfa542561a486\ntype commit\ntag libmodulemd-0.2.2\ntagger Stephen Gallagher <sgallagh@redhat.com> 1517929605 -0500\n\nRelease libmodulemd 0.2.2\n\n- Fix numerous minor memory leaks\n- Fix issues with EOL/SL dates\n"
+  }
+}

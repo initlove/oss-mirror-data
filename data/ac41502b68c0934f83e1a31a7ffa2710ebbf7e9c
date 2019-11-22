@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6YWM0MTUwMmI2OGMwOTM0ZjgzZTFhMzFhN2ZmYTI3MTBlYmJmN2U5Yw==",
+  "sha": "ac41502b68c0934f83e1a31a7ffa2710ebbf7e9c",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/ac41502b68c0934f83e1a31a7ffa2710ebbf7e9c",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2018-03-15T14:51:38Z"
+  },
+  "object": {
+    "sha": "dd9b7c9fd091adfdd3241dc64725e3c8bee72a55",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/dd9b7c9fd091adfdd3241dc64725e3c8bee72a55"
+  },
+  "tag": "libmodulemd-1.1.2",
+  "message": "Release 1.1.2\n\nRevert backwards-incompatible change to nsversion\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWqqIiwAKCRB6JVViNrqj\no3zWAJ9CWCBtSFBvdwdHEVxdyQwviQu5xgCghHa+wxFn6sAv/6Qv2l5VH5wD1gM=\n=9+tQ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWqqIiwAKCRB6JVViNrqj\no3zWAJ9CWCBtSFBvdwdHEVxdyQwviQu5xgCghHa+wxFn6sAv/6Qv2l5VH5wD1gM=\n=9+tQ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object dd9b7c9fd091adfdd3241dc64725e3c8bee72a55\ntype commit\ntag libmodulemd-1.1.2\ntagger Stephen Gallagher <sgallagh@redhat.com> 1521125498 -0400\n\nRelease 1.1.2\n\nRevert backwards-incompatible change to nsversion\n"
+  }
+}

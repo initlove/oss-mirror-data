@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM2Mjg1MTM6ZTI4MWI0ZWU5YmYwNjhjZTVjN2ZjYzc1MTY2MGY1ZTJjNTA5ODM2MQ==",
+  "sha": "e281b4ee9bf068ce5c7fcc751660f5e2c5098361",
+  "url": "https://api.github.com/repos/sirupsen/logrus/git/tags/e281b4ee9bf068ce5c7fcc751660f5e2c5098361",
+  "tagger": {
+    "name": "David Bariod",
+    "email": "davidriod@googlemail.com",
+    "date": "2018-11-01T07:44:08Z"
+  },
+  "object": {
+    "sha": "bcd833dfe83d3cebad139e4a29ed79cb2318bf95",
+    "type": "commit",
+    "url": "https://api.github.com/repos/sirupsen/logrus/git/commits/bcd833dfe83d3cebad139e4a29ed79cb2318bf95"
+  },
+  "tag": "v1.2.0",
+  "message": "v1.2.0\n\nThis new release introduces:\n  * A new method SetReportCaller in the Logger to enable the file, line and calling function from which the trace has been issued\n  * A new trace level named Trace whose level is below Debug\n  * A configurable exit function to be called upon a Fatal trace\n  * The Level object now implements encoding.TextUnmarshaler interface\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

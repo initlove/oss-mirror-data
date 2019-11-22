@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6YWRhYWQzMDU1YzAzMTQ5ZmJiNWE3MDc2Y2M1MTQwNTc5OWYwYmMyYQ==",
+  "sha": "adaad3055c03149fbb5a7076cc51405799f0bc2a",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/adaad3055c03149fbb5a7076cc51405799f0bc2a",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2019-05-22T20:49:26Z"
+  },
+  "object": {
+    "sha": "8d9a99ddf037df7c032119cdd3a87238a3cc9090",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/8d9a99ddf037df7c032119cdd3a87238a3cc9090"
+  },
+  "tag": "libmodulemd-2.5.0",
+  "message": "Tagging 2.5.0 and 1.8.11\n\nLashuk1729 (1):\n * Adding Mageia 7 Tests\n\nNiharika Shrivastava (1):\n * Fixes #186: Provide .equals for two ModuleStream objects (#265)\n\nStephen Gallagher (13):\n * Bump version to 2.4.0dev and 1.8.11dev\n * Module: ensure ordering of streams\n * Add Module.search_streams()\n * Ensure that XMD is emitted consistently\n * Add clear_*() functions\n * Merge remote-tracking branch 'sgallagher/stream_search'\n * Merge remote-tracking branch 'sgallagher/xmd_sort'\n * Merge remote-tracking branch 'sgallagher/clear'\n * Undeprecate ModuleStream.get_nsvc_as_string()\n * Fix XMD comparison\n * Check full stream equality when deduplicating\n * Add ModuleIndex.get_default_streams()\n * Merge branch 'mageia7'\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXOW19gAKCRB6JVViNrqj\no8IUAKCDW0b40MteUVDhdKqSLYeTmF7pawCgo0dvAFKl9yHUj3Np6eNupHb45ys=\n=eCTk\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXOW19gAKCRB6JVViNrqj\no8IUAKCDW0b40MteUVDhdKqSLYeTmF7pawCgo0dvAFKl9yHUj3Np6eNupHb45ys=\n=eCTk\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8d9a99ddf037df7c032119cdd3a87238a3cc9090\ntype commit\ntag libmodulemd-2.5.0\ntagger Stephen Gallagher <sgallagh@redhat.com> 1558558166 -0400\n\nTagging 2.5.0 and 1.8.11\n\nLashuk1729 (1):\n * Adding Mageia 7 Tests\n\nNiharika Shrivastava (1):\n * Fixes #186: Provide .equals for two ModuleStream objects (#265)\n\nStephen Gallagher (13):\n * Bump version to 2.4.0dev and 1.8.11dev\n * Module: ensure ordering of streams\n * Add Module.search_streams()\n * Ensure that XMD is emitted consistently\n * Add clear_*() functions\n * Merge remote-tracking branch 'sgallagher/stream_search'\n * Merge remote-tracking branch 'sgallagher/xmd_sort'\n * Merge remote-tracking branch 'sgallagher/clear'\n * Undeprecate ModuleStream.get_nsvc_as_string()\n * Fix XMD comparison\n * Check full stream equality when deduplicating\n * Add ModuleIndex.get_default_streams()\n * Merge branch 'mageia7'\n"
+  }
+}

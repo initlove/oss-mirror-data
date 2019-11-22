@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjplMGY1N2FlNTQ3NDNlMDdmMTRkYmJiNjRkZDliZDBhZGYzNGM0ZDdi",
+  "sha": "e0f57ae54743e07f14dbbb64dd9bd0adf34c4d7b",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/e0f57ae54743e07f14dbbb64dd9bd0adf34c4d7b",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2018-09-18T03:21:00Z"
+  },
+  "object": {
+    "sha": "0881b9c94f50cf2e81280d61e28bdf252c0f463d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/0881b9c94f50cf2e81280d61e28bdf252c0f463d"
+  },
+  "tag": "v3.0.0",
+  "message": "REL: v3.0.0\n\nThe first release of the Matplotlib 3.0 series\n\nThis is the first version of Matplotlib to only support Python 3.\n\nHighlights of this release include:\n\n - GUI backend is selected at run-time based on what toolkits are\n   installed.  A GUI toolkit will not be selected on a headless\n   server.\n - New cyclic color map *twilight*\n - Improvements to automatic layout of titles, ticks, and GridSpec\n - Many bug fixes!\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEsYc9tVVEbczMtz/cvNkoBQ1xPXUFAlugb2UACgkQvNkoBQ1x\nPXWmmRAAuJHuKtafBa4bjrotG0AXDHbJoE9Fo8sRVq5u7ZgEzSr8ynKJoyUMb6E9\nSLn0Gpn0kXfv83GR4y+yFM5Y6tiHrOCl3IYToEUMjSHOaJBGng+qU66kaTcFnnNI\nc1HrfJke0ZX87Xa3QY/uLS1Z2L/JuXDDB8rGVBrsy509Vxv8d1WIEOtDxwkSpGsV\nwP0h60nlBJHGJhkvcHjPxy8Jj1hcVszTUqlf0quxSfQVdWHBg355emlDTih9ogED\nq0Qafy4P4qBiBsRvYRTwhE1M6ZyOwuIJrctNYYx1DUGnugnuBn1AIVu30eVVrZS4\n9wxLyMk2Xewptws90IgSQWYPtPUwPjq7CERB7AXWFIprGimweVUbdlIpDo56doAT\nlDcwQI2qCDbSV4/GvEETkb7H+lh3XtmCzfdRCWVUb0xAM94yk2toHxbdUyWTGlWF\n9aYhzIfu5ETqBKdStDwNYx+apuLCqShtTXBJargAQ5t72z2SY7CSr6UpTW1hBVtZ\nvlw6h2pxMwoJOyCCUQ8YkKCPHVh734cu+w3ggiI0NKZE5hIRb84A4FplXLKkXiIM\ndJm8QSlyjTCs5u/mUfBRs9W2nhNoiV9yVCFKDZQUfXZn9+Peagn3S4ncCQz9ab2B\nzCgd6jc9z2GcsVmEyI+xImRSlI8U/3wQTxS01sSYYK0OF+4+1n4=\n=ETwE\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEsYc9tVVEbczMtz/cvNkoBQ1xPXUFAlugb2UACgkQvNkoBQ1x\nPXWmmRAAuJHuKtafBa4bjrotG0AXDHbJoE9Fo8sRVq5u7ZgEzSr8ynKJoyUMb6E9\nSLn0Gpn0kXfv83GR4y+yFM5Y6tiHrOCl3IYToEUMjSHOaJBGng+qU66kaTcFnnNI\nc1HrfJke0ZX87Xa3QY/uLS1Z2L/JuXDDB8rGVBrsy509Vxv8d1WIEOtDxwkSpGsV\nwP0h60nlBJHGJhkvcHjPxy8Jj1hcVszTUqlf0quxSfQVdWHBg355emlDTih9ogED\nq0Qafy4P4qBiBsRvYRTwhE1M6ZyOwuIJrctNYYx1DUGnugnuBn1AIVu30eVVrZS4\n9wxLyMk2Xewptws90IgSQWYPtPUwPjq7CERB7AXWFIprGimweVUbdlIpDo56doAT\nlDcwQI2qCDbSV4/GvEETkb7H+lh3XtmCzfdRCWVUb0xAM94yk2toHxbdUyWTGlWF\n9aYhzIfu5ETqBKdStDwNYx+apuLCqShtTXBJargAQ5t72z2SY7CSr6UpTW1hBVtZ\nvlw6h2pxMwoJOyCCUQ8YkKCPHVh734cu+w3ggiI0NKZE5hIRb84A4FplXLKkXiIM\ndJm8QSlyjTCs5u/mUfBRs9W2nhNoiV9yVCFKDZQUfXZn9+Peagn3S4ncCQz9ab2B\nzCgd6jc9z2GcsVmEyI+xImRSlI8U/3wQTxS01sSYYK0OF+4+1n4=\n=ETwE\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0881b9c94f50cf2e81280d61e28bdf252c0f463d\ntype commit\ntag v3.0.0\ntagger Thomas A Caswell <tcaswell@gmail.com> 1537240860 -0400\n\nREL: v3.0.0\n\nThe first release of the Matplotlib 3.0 series\n\nThis is the first version of Matplotlib to only support Python 3.\n\nHighlights of this release include:\n\n - GUI backend is selected at run-time based on what toolkits are\n   installed.  A GUI toolkit will not be selected on a headless\n   server.\n - New cyclic color map *twilight*\n - Improvements to automatic layout of titles, ticks, and GridSpec\n - Many bug fixes!\n"
+  }
+}

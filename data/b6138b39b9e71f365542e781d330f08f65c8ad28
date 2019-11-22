@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg5NjQyNjM6YjYxMzhiMzliOWU3MWYzNjU1NDJlNzgxZDMzMGYwOGY2NWM4YWQyOA==",
+  "sha": "b6138b39b9e71f365542e781d330f08f65c8ad28",
+  "url": "https://api.github.com/repos/coreos/prometheus-operator/git/tags/b6138b39b9e71f365542e781d330f08f65c8ad28",
+  "tagger": {
+    "name": "Frederic Branczyk",
+    "email": "fbranczyk@gmail.com",
+    "date": "2016-12-20T13:31:57Z"
+  },
+  "object": {
+    "sha": "33d2e435197633653c42427ba1a654a712978edf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/coreos/prometheus-operator/git/commits/33d2e435197633653c42427ba1a654a712978edf"
+  },
+  "tag": "v0.1.1",
+  "message": "[BUGFIX] Fix Prometheus config generation for labels containing \"-\"\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJYWTTYAAoJEMoUeIseSLJWV5MP/0mS/xd32st3al3RiJP9sS4l\nDPro3OPE+EHdJyfdsuztqIq9bOufFuXxrnqPdrd38CVLt5yKLgLUCZ87OqzwYbFU\nItVsliGYkI2QqM3FJ1iDzn/jj1Q98TEyViQyBNal9uFbXQKPo8fZ1yM1NpmyawsW\nAF5gjS4gEE6pYQGygYFuEnTyt/9dyy8TznI+f37fRJ0Lorho6v/Kb0VgMLtCs81G\nbhUpkc6tUHpDt18u3WyoEQYHrn4dS+34I2yOrXM4omh37WghhHYIhsL6t4xBTFyA\niPk3DkcrlaKj4p3C+rfLTHJ5QPtH1f5qu7H8JfFF4PqpwvvRhWp3wj8cCyIHAKs8\n33gP32Hc3TToQrfMXxcjyNWFUpXk8FLAvWTOGjeVAX4/9MW+JnNufAAjW2Cj5pAQ\nUfF1RljwT2YWGEGxDYTR7GxJzW3hwRVcaFm51enyRbvB1ixlWQhJ2je9OEMKoJ6Y\nAs7maWsTOkDfS8bH9bEXhAsDnoY2co6rhtP3RAEnZjyE6uqdTxrDlKIVPuHVMBIE\ncearnNzrgmnVIEn9VqJkysiCFKXRglhca0oY/Yvby5YTaSET4PN6vaFjNJRArHTw\nfbZipzENGpq/Ggcr5Lm9Iaws6Awsx4US/tkKK8LUN5BNN+bKWM+ODq4Ytt7lpx2w\nYzH31W8TG16ksqDeJ+yh\n=DjC3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJYWTTYAAoJEMoUeIseSLJWV5MP/0mS/xd32st3al3RiJP9sS4l\nDPro3OPE+EHdJyfdsuztqIq9bOufFuXxrnqPdrd38CVLt5yKLgLUCZ87OqzwYbFU\nItVsliGYkI2QqM3FJ1iDzn/jj1Q98TEyViQyBNal9uFbXQKPo8fZ1yM1NpmyawsW\nAF5gjS4gEE6pYQGygYFuEnTyt/9dyy8TznI+f37fRJ0Lorho6v/Kb0VgMLtCs81G\nbhUpkc6tUHpDt18u3WyoEQYHrn4dS+34I2yOrXM4omh37WghhHYIhsL6t4xBTFyA\niPk3DkcrlaKj4p3C+rfLTHJ5QPtH1f5qu7H8JfFF4PqpwvvRhWp3wj8cCyIHAKs8\n33gP32Hc3TToQrfMXxcjyNWFUpXk8FLAvWTOGjeVAX4/9MW+JnNufAAjW2Cj5pAQ\nUfF1RljwT2YWGEGxDYTR7GxJzW3hwRVcaFm51enyRbvB1ixlWQhJ2je9OEMKoJ6Y\nAs7maWsTOkDfS8bH9bEXhAsDnoY2co6rhtP3RAEnZjyE6uqdTxrDlKIVPuHVMBIE\ncearnNzrgmnVIEn9VqJkysiCFKXRglhca0oY/Yvby5YTaSET4PN6vaFjNJRArHTw\nfbZipzENGpq/Ggcr5Lm9Iaws6Awsx4US/tkKK8LUN5BNN+bKWM+ODq4Ytt7lpx2w\nYzH31W8TG16ksqDeJ+yh\n=DjC3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 33d2e435197633653c42427ba1a654a712978edf\ntype commit\ntag v0.1.1\ntagger Frederic Branczyk <fbranczyk@gmail.com> 1482240717 +0100\n\n[BUGFIX] Fix Prometheus config generation for labels containing \"-\"\n"
+  }
+}

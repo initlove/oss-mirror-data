@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6ZmMzYTdmMzU0ZDJkMjdmZTY1ODg0OGFlZTdiZWE5YjIzZTVkZGZkZQ==",
+  "sha": "fc3a7f354d2d27fe658848aee7bea9b23e5ddfde",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/fc3a7f354d2d27fe658848aee7bea9b23e5ddfde",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "clupo@google.com",
+    "date": "2019-05-13T12:29:18Z"
+  },
+  "object": {
+    "sha": "70357530ff8ba6c0e6ac0b9ab979565d96777ec4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/70357530ff8ba6c0e6ac0b9ab979565d96777ec4"
+  },
+  "tag": "3.41.2",
+  "message": "3.41.2\n\n- [cffLib] Fixed issue when importing a ``CFF2`` variable font from XML, whereby\n  the VarStore state was not propagated to PrivateDict (#1598).\n- [varLib] Don't drop ``post`` glyph names when building CFF2 variable font (#1609).\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEt3fCdK5LbZY3e/+cINSiYeSg5kIFAlzZYx4ACgkQINSiYeSg\n5kIUYw/+OfpAcGNQYoqqmUJLHuZwxDoewvNMjPMhojrSj/aKlOQmIJsP2AwjJI5r\nt48+7GPff2vIWa2f0GeskHGSc55uS7013UhQdANU/uKAHPhqqpYZExcgJxJ560jh\nd9P6bA9afrfiwi1emLOQSVX5CIXwxHPxJQKJlAO8RctyaFlqcB0vlgQLTIokt0P8\nG3IupUtuLEYANgs72RO360OSQDHf2UMjxURQRjWyvvq8OEHKfT4ee69N5FrZVMVT\n8y04otuLowd9teEHePvvCQNur0ZETNu+c16Tn844Bb8IW6+2oKAlQTEvTgQZKNFX\n3HVV/5MA+XBFdP5Z9RsihXxxn4NghqSkTbqedjyjuV3G51HX0uGnR5sOju3fYMIg\niXoHLj/jrpRxyGgVFhtfGj1FN6QNx6Odz389LuaOI3hIFyXdUhKhwaZeMX8D4ozN\n7ch1XRt4sH/HtUZb10y+BpcnLSWH7VM2oFmeZZKPw4HHmavPATQbxoQp6Sc3XQpo\n1S1DN+nfYWrM80UfGSurDE1gt3gcJ7uN1RE0x60rhs9t4rdvZnu0c1E34e8spBGg\nLT45JOpumD8lBTluxGZbeglTEeE8iOt44+4u7L0g8+oZG0HOrLqIqoViv6uVOzjU\nPDqeM2Cq5vSeshlmN3h0psiufanoZei0UeivuTS/fUK4qqhaVHw=\n=VcFa\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEt3fCdK5LbZY3e/+cINSiYeSg5kIFAlzZYx4ACgkQINSiYeSg\n5kIUYw/+OfpAcGNQYoqqmUJLHuZwxDoewvNMjPMhojrSj/aKlOQmIJsP2AwjJI5r\nt48+7GPff2vIWa2f0GeskHGSc55uS7013UhQdANU/uKAHPhqqpYZExcgJxJ560jh\nd9P6bA9afrfiwi1emLOQSVX5CIXwxHPxJQKJlAO8RctyaFlqcB0vlgQLTIokt0P8\nG3IupUtuLEYANgs72RO360OSQDHf2UMjxURQRjWyvvq8OEHKfT4ee69N5FrZVMVT\n8y04otuLowd9teEHePvvCQNur0ZETNu+c16Tn844Bb8IW6+2oKAlQTEvTgQZKNFX\n3HVV/5MA+XBFdP5Z9RsihXxxn4NghqSkTbqedjyjuV3G51HX0uGnR5sOju3fYMIg\niXoHLj/jrpRxyGgVFhtfGj1FN6QNx6Odz389LuaOI3hIFyXdUhKhwaZeMX8D4ozN\n7ch1XRt4sH/HtUZb10y+BpcnLSWH7VM2oFmeZZKPw4HHmavPATQbxoQp6Sc3XQpo\n1S1DN+nfYWrM80UfGSurDE1gt3gcJ7uN1RE0x60rhs9t4rdvZnu0c1E34e8spBGg\nLT45JOpumD8lBTluxGZbeglTEeE8iOt44+4u7L0g8+oZG0HOrLqIqoViv6uVOzjU\nPDqeM2Cq5vSeshlmN3h0psiufanoZei0UeivuTS/fUK4qqhaVHw=\n=VcFa\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 70357530ff8ba6c0e6ac0b9ab979565d96777ec4\ntype commit\ntag 3.41.2\ntagger Cosimo Lupo <clupo@google.com> 1557750558 +0100\n\n3.41.2\n\n- [cffLib] Fixed issue when importing a ``CFF2`` variable font from XML, whereby\n  the VarStore state was not propagated to PrivateDict (#1598).\n- [varLib] Don't drop ``post`` glyph names when building CFF2 variable font (#1609).\n"
+  }
+}

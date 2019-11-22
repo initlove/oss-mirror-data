@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6OTYxODZkMmFlZmEzYjRhNTkzMGQ4ZDljYmE2OTE1MWUwOWMwNzRlOQ==",
+  "sha": "96186d2aefa3b4a5930d8d9cba69151e09c074e9",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/96186d2aefa3b4a5930d8d9cba69151e09c074e9",
+  "tagger": {
+    "name": "Matti Ranta",
+    "email": "matti@mdranta.net",
+    "date": "2019-04-13T03:15:02Z"
+  },
+  "object": {
+    "sha": "f64b8eb009dded8be09cbbe4a335311f88c6e525",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/f64b8eb009dded8be09cbbe4a335311f88c6e525"
+  },
+  "tag": "v1.8.0-rc3",
+  "message": "* SECURITY\n  * Prevent remote code execution vulnerability with mirror repo URL settings (#6593) (#6594)\n* BUGFIXES\n  * Allow resend of confirmation email when logged in (#6482) (#6486)\n  * Fix mail notification when close/reopen issue (#6581) (#6588)\n  * Change API commit summary to full message (#6591) (#6592)\n  * Add option to disable refresh token invalidation (#6584) (#6587)\n  * Fix bug user search API pagesize didn't obey ExplorePagingNum (#6579) (#6586)\n  * Fix new repo alignment (#6583) (#6585)\n  * Prevent server 500 on compare branches with no common history (#6555) (#6558)\n  * Properly escape release attachment URL (#6512) (#6523)\n  * Hacky fix for alignment of the create-organization dialog (#6455) (#6462)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlyxVDYACgkQ2bVhO+uB\nP5nxtwgAonX38e2OmyBWTTRzktIFBZ8VlnAnTWHhzLN+c7Jv/YEdMgvgv4G+Yfr1\nBvaQkUjc7jreTiJDcjUyCCt1cE+tAuj7eannJwY4p3fgsZb32KTRd53e1N+wgP2R\nSOVAs2b7YPGkaz3hG16wZ5BBozE5+n/jYOPKEb4QBKspcZ2IA5YWZ2EFg7LNIFHt\na+n46npjQj2uknh8XI4YVTZuU5s/UhOvBNTq84/6zo8i7Mi0br5LPneuaWz6LFX6\nJiOanmrRGdcjXZ232QiHBNOvdVA2m3BoHQGVPiDPih5soUhkRlKa73A4C+u+u0q3\nv6c7cWOHY1iF5zTSxWUMfesutWmehw==\n=0pCI\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlyxVDYACgkQ2bVhO+uB\nP5nxtwgAonX38e2OmyBWTTRzktIFBZ8VlnAnTWHhzLN+c7Jv/YEdMgvgv4G+Yfr1\nBvaQkUjc7jreTiJDcjUyCCt1cE+tAuj7eannJwY4p3fgsZb32KTRd53e1N+wgP2R\nSOVAs2b7YPGkaz3hG16wZ5BBozE5+n/jYOPKEb4QBKspcZ2IA5YWZ2EFg7LNIFHt\na+n46npjQj2uknh8XI4YVTZuU5s/UhOvBNTq84/6zo8i7Mi0br5LPneuaWz6LFX6\nJiOanmrRGdcjXZ232QiHBNOvdVA2m3BoHQGVPiDPih5soUhkRlKa73A4C+u+u0q3\nv6c7cWOHY1iF5zTSxWUMfesutWmehw==\n=0pCI\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f64b8eb009dded8be09cbbe4a335311f88c6e525\ntype commit\ntag v1.8.0-rc3\ntagger Matti Ranta <matti@mdranta.net> 1555125302 -0400\n\n* SECURITY\n  * Prevent remote code execution vulnerability with mirror repo URL settings (#6593) (#6594)\n* BUGFIXES\n  * Allow resend of confirmation email when logged in (#6482) (#6486)\n  * Fix mail notification when close/reopen issue (#6581) (#6588)\n  * Change API commit summary to full message (#6591) (#6592)\n  * Add option to disable refresh token invalidation (#6584) (#6587)\n  * Fix bug user search API pagesize didn't obey ExplorePagingNum (#6579) (#6586)\n  * Fix new repo alignment (#6583) (#6585)\n  * Prevent server 500 on compare branches with no common history (#6555) (#6558)\n  * Properly escape release attachment URL (#6512) (#6523)\n  * Hacky fix for alignment of the create-organization dialog (#6455) (#6462)\n"
+  }
+}

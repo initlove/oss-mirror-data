@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTg1Njk3NjphZWQ5MmYzNjZiOWIyNDNjODljNTk4YWM1ZGE4MTM5MTFjNWJhMTE0",
+  "sha": "aed92f366b9b243c89c598ac5da813911c5ba114",
+  "url": "https://api.github.com/repos/libevent/libevent/git/tags/aed92f366b9b243c89c598ac5da813911c5ba114",
+  "tagger": {
+    "name": "Nick Mathewson",
+    "email": "nickm@torproject.org",
+    "date": "2008-08-19T11:38:32Z"
+  },
+  "object": {
+    "sha": "abe3ac118c26cc8ee5b450cb4b37baf1b8999919",
+    "type": "commit",
+    "url": "https://api.github.com/repos/libevent/libevent/git/commits/abe3ac118c26cc8ee5b450cb4b37baf1b8999919"
+  },
+  "tag": "release-1.4.7-stable",
+  "message": "from trunk: Fix a bug where headers arriving in multiple packets were not parsed; fix from Jiang Hong; test by me.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

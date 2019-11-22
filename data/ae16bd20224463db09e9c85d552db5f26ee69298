@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE0NzY5ODphZTE2YmQyMDIyNDQ2M2RiMDllOWM4NWQ1NTJkYjVmMjZlZTY5Mjk4",
+  "sha": "ae16bd20224463db09e9c85d552db5f26ee69298",
+  "url": "https://api.github.com/repos/proot-me/proot/git/tags/ae16bd20224463db09e9c85d552db5f26ee69298",
+  "tagger": {
+    "name": "Cédric VINCENT",
+    "email": "cedric.vincent@st.com",
+    "date": "2013-06-06T11:37:11Z"
+  },
+  "object": {
+    "sha": "717a79fe77ceb0944d7346540ab6bb413305cb53",
+    "type": "commit",
+    "url": "https://api.github.com/repos/proot-me/proot/git/commits/717a79fe77ceb0944d7346540ab6bb413305cb53"
+  },
+  "tag": "v3.0.1",
+  "message": "Release v3.0.1\n==============\n\nFix support for bindings where the guest path is explicitly not\ndereferenced.  Be careful, the syntax has changed:\n\n        before$ proot -b /bin/bash:!/bin/sh\n\n        now$ proot -b /bin/bash:/bin/sh!\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (GNU/Linux)\n\niQEcBAABAgAGBQJRsHRyAAoJEChi0LD6j7VWSbUIALCavX1+8miFOsAmbv7mDQnb\npQDohUzK0ZRy1m3DyXje+r/HAmP/PMA4hpZcoXKd70dZUeoWrF8a2fgJMc52U4T6\nvfuQHYVaK89RLoRBuixY2LkkEaXMCp5OKGcCuTtWe/1JGP0ygzKSQlfYQDk6aFA5\nqVLwjgckBjPZ6AU6LImIsV2s6iHLYAfQTzM55DBKneI+a6jF7nPSKel2f4lH77/v\nRKfE7+mlAj6Vjj39iFwTY1QqPrH9NTqrj2VKi+XG1AVnRbW4I1JUOB2vAAou3Ngf\nWKjMBtcAHwNqrlGwE0GYJxQe1yy5Tbiek2yoNKte5asdFIuDU10co25yhc8dAaI=\n=D7Pf\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (GNU/Linux)\n\niQEcBAABAgAGBQJRsHRyAAoJEChi0LD6j7VWSbUIALCavX1+8miFOsAmbv7mDQnb\npQDohUzK0ZRy1m3DyXje+r/HAmP/PMA4hpZcoXKd70dZUeoWrF8a2fgJMc52U4T6\nvfuQHYVaK89RLoRBuixY2LkkEaXMCp5OKGcCuTtWe/1JGP0ygzKSQlfYQDk6aFA5\nqVLwjgckBjPZ6AU6LImIsV2s6iHLYAfQTzM55DBKneI+a6jF7nPSKel2f4lH77/v\nRKfE7+mlAj6Vjj39iFwTY1QqPrH9NTqrj2VKi+XG1AVnRbW4I1JUOB2vAAou3Ngf\nWKjMBtcAHwNqrlGwE0GYJxQe1yy5Tbiek2yoNKte5asdFIuDU10co25yhc8dAaI=\n=D7Pf\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 717a79fe77ceb0944d7346540ab6bb413305cb53\ntype commit\ntag v3.0.1\ntagger Cédric VINCENT <cedric.vincent@st.com> 1370518631 +0200\n\nRelease v3.0.1\n==============\n\nFix support for bindings where the guest path is explicitly not\ndereferenced.  Be careful, the syntax has changed:\n\n        before$ proot -b /bin/bash:!/bin/sh\n\n        now$ proot -b /bin/bash:/bin/sh!\n"
+  }
+}

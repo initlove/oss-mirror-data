@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6N2I0YWM3ZTE0ODA5ZmU0N2NlNGNjMjVkOGZhMDg2YmU0MmI4MDBkYQ==",
+  "sha": "7b4ac7e14809fe47ce4cc25d8fa086be42b800da",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/7b4ac7e14809fe47ce4cc25d8fa086be42b800da",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2019-05-03T12:27:43Z"
+  },
+  "object": {
+    "sha": "a7aedfac891c4634cf0fa27c9e72c1cb78ab34e2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/a7aedfac891c4634cf0fa27c9e72c1cb78ab34e2"
+  },
+  "tag": "libmodulemd-2.3.1",
+  "message": "Tagging libmodulemd 2.3.1 and 1.8.8\n\nStephen Gallagher (12):\n      Bump version to 2.3.1dev and 1.8.8dev\n      Work around Coverity certificate problem\n      Merge pull request #276 from mprahl/update-doc\n      Reorder strict in ModuleStream.read_*() docs\n      Add tests for unicode in streams\n      Properly copy XMD in set_xmd()\n      Merge pull request #277 from sgallagher/mbs_fixes\n      Make Component fields nullable\n      Fix example usage of ModuleStreamVersionEnum\n      Merge branch 'fix-docs3' of git://github.com/mprahl/libmodulemd\n      Merge branch 'support-python2' of git://github.com/mprahl/libmodulemd\n      Merge branch 'mbs_279'\n\nmprahl (3):\n      Fix the syntax in the single module stream Python example\n      Add Python 2 support to ModulemdUtil\n      Recommend installing python-libmodulemd\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXMwzzgAKCRB6JVViNrqj\no9T9AJ0c749xGTpRfli/7ZG3fHIqaJg9gwCgsQrCZ0dfZIiWvkJTgFuEz/dnPnA=\n=OaH0\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXMwzzgAKCRB6JVViNrqj\no9T9AJ0c749xGTpRfli/7ZG3fHIqaJg9gwCgsQrCZ0dfZIiWvkJTgFuEz/dnPnA=\n=OaH0\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a7aedfac891c4634cf0fa27c9e72c1cb78ab34e2\ntype commit\ntag libmodulemd-2.3.1\ntagger Stephen Gallagher <sgallagh@redhat.com> 1556886463 -0400\n\nTagging libmodulemd 2.3.1 and 1.8.8\n\nStephen Gallagher (12):\n      Bump version to 2.3.1dev and 1.8.8dev\n      Work around Coverity certificate problem\n      Merge pull request #276 from mprahl/update-doc\n      Reorder strict in ModuleStream.read_*() docs\n      Add tests for unicode in streams\n      Properly copy XMD in set_xmd()\n      Merge pull request #277 from sgallagher/mbs_fixes\n      Make Component fields nullable\n      Fix example usage of ModuleStreamVersionEnum\n      Merge branch 'fix-docs3' of git://github.com/mprahl/libmodulemd\n      Merge branch 'support-python2' of git://github.com/mprahl/libmodulemd\n      Merge branch 'mbs_279'\n\nmprahl (3):\n      Fix the syntax in the single module stream Python example\n      Add Python 2 support to ModulemdUtil\n      Recommend installing python-libmodulemd\n"
+  }
+}

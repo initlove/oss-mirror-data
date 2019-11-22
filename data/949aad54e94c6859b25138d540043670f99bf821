@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjo5NDlhYWQ1NGU5NGM2ODU5YjI1MTM4ZDU0MDA0MzY3MGY5OWJmODIx",
+  "sha": "949aad54e94c6859b25138d540043670f99bf821",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/949aad54e94c6859b25138d540043670f99bf821",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2015-10-29T21:36:13Z"
+  },
+  "object": {
+    "sha": "a64e2a0219cb5b4a8ed1476c523724d731c67cac",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/a64e2a0219cb5b4a8ed1476c523724d731c67cac"
+  },
+  "tag": "v1.5.0",
+  "message": "matplotlib v1.5.0\n\nThis release of matplotlib has several major new features:\n\n - Auto-redraw using the object-oriented API.\n - Most plotting functions now support labeled data API.\n - Color cycling has extended to all style properties.\n - Four new perceptually uniform color maps, including the soon-to-be\n   default 'viridis'.\n - More included style sheets.\n - Many small plotting improvements.\n - Proposed new framework for managing the GUI toolbar and tools.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJWMpFfAAoJEFf6RUDdTvz3ks0IAIfNx+erVUFWQNweI26OaRYR\n4FIgVCS19uT4X1+mNFVwmJ4Hqq/Z0vEfbUoa9bKweT43RV+Y0e5WJIORfyyVlFuF\ncaGnQsY3wgXC12pF4ZQkgM4N+mvEuMiLx+bdEysNMfPVBYNbgZJVRTULm+5izQGE\npFUYWk4uugUPR89/T4nC6ml2zMcOmdbtrqwtwcYyKiWoBWvU1wB/MqvVhgatN+3i\nYyyVeYj72sFB+EnC/JAs63aUWUnS+QuOn35Ell/LQfwnBm7gsbZeDAYSwOk01lTP\nlEaTFb3Nux3fbZHnL7+l1K5x4n4dUIDbKPMfGVnBXuKYp2r0ja9Sk/DrsWAEGCU=\n=c3xM\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJWMpFfAAoJEFf6RUDdTvz3ks0IAIfNx+erVUFWQNweI26OaRYR\n4FIgVCS19uT4X1+mNFVwmJ4Hqq/Z0vEfbUoa9bKweT43RV+Y0e5WJIORfyyVlFuF\ncaGnQsY3wgXC12pF4ZQkgM4N+mvEuMiLx+bdEysNMfPVBYNbgZJVRTULm+5izQGE\npFUYWk4uugUPR89/T4nC6ml2zMcOmdbtrqwtwcYyKiWoBWvU1wB/MqvVhgatN+3i\nYyyVeYj72sFB+EnC/JAs63aUWUnS+QuOn35Ell/LQfwnBm7gsbZeDAYSwOk01lTP\nlEaTFb3Nux3fbZHnL7+l1K5x4n4dUIDbKPMfGVnBXuKYp2r0ja9Sk/DrsWAEGCU=\n=c3xM\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a64e2a0219cb5b4a8ed1476c523724d731c67cac\ntype commit\ntag v1.5.0\ntagger Thomas A Caswell <tcaswell@gmail.com> 1446154573 -0400\n\nmatplotlib v1.5.0\n\nThis release of matplotlib has several major new features:\n\n - Auto-redraw using the object-oriented API.\n - Most plotting functions now support labeled data API.\n - Color cycling has extended to all style properties.\n - Four new perceptually uniform color maps, including the soon-to-be\n   default 'viridis'.\n - More included style sheets.\n - Many small plotting improvements.\n - Proposed new framework for managing the GUI toolbar and tools.\n"
+  }
+}

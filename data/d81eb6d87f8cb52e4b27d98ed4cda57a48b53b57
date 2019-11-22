@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6ZDgxZWI2ZDg3ZjhjYjUyZTRiMjdkOThlZDRjZGE1N2E0OGI1M2I1Nw==",
+  "sha": "d81eb6d87f8cb52e4b27d98ed4cda57a48b53b57",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/d81eb6d87f8cb52e4b27d98ed4cda57a48b53b57",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo.lupo@daltonmaag.com",
+    "date": "2016-12-06T15:45:15Z"
+  },
+  "object": {
+    "sha": "162cf8936af71c96859a9438dc678f0f67f8ad5d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/162cf8936af71c96859a9438dc678f0f67f8ad5d"
+  },
+  "tag": "3.3.0",
+  "message": "3.3.0\n\n- [ttLib] Implemented STAT table from OpenType 1.8 (#758)\n- [cffLib] Fixed decompilation of CFF fonts containing non-standard key/value pairs in FontDict (issue #740; PR #744)\n- [py23] minor: in `round3` function, allow the second argument to be `None` (#757)\n- The standalone `sstruct` and `xmlWriter` modules, deprecated since vesion 3.2.0, have been removed. They can be imported from the `fontTools.misc` package.\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJYRt1DAAoJELYaqtC1OmQZ2K4QAJVojQ++Al+U2w3p96aQlFCn\n5Ep5Fm3RcbERKKQ+wAw2+A6SaSwTwW5RB/as4ppWV5sXy+3QzEsmakaQqaLNdtUT\n1t07xg+l3Iuk/kwGygTgLnKKoEhyjMrhcgHTCjR4ig4gMxT2UbchMFvvOmCgEx7f\nkRRgIX/HwunDv9OyT0Wrqm+qH+JwxKxoilXlXLvXNbfDrmG5bOhD75LCy1dpEqyR\nEbxzHRu/KsZzzKQ0/8lQeC4amxocfCYeRnOQ5jlytPPp+uzJyw6UzXredYRfb8JS\nqewxn38hDN+f8mMmFDygrYiJD6P/PwfP4+rNySxJ3h4TYimqqw7HShWCGwjoDJH6\niVtvicEcBfDOW2dn3xSNXyeRUNz4aFgbUHaMSTc6q31fl1ylB07zYU1tmw6nUF20\ny2XULKBwJKEGjW+JM1FuKSHadJTq+wBp/B9MRDZD/8iWej+6zu1HtQPjQmpOrWg5\nlQC5PiEeD1FfEO4X9P3PezY3iDBhlxI4yY+c4cxHP4vrPnV/7F0G5ftAYQQ/O3iN\nCI+5VAtnGsddxkdvplGJjEMosf2xrtNlDqHgYkFjkE80P14gasFgzCmptk9V7S+8\nj3VZrivtu1/8x9nHDIce3v16RANF648v5Ztcwc9C0C3P2wt+UdagpNPRip66WSKh\nFbHJ1zvFjhJ33oFVBSdd\n=AZDZ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJYRt1DAAoJELYaqtC1OmQZ2K4QAJVojQ++Al+U2w3p96aQlFCn\n5Ep5Fm3RcbERKKQ+wAw2+A6SaSwTwW5RB/as4ppWV5sXy+3QzEsmakaQqaLNdtUT\n1t07xg+l3Iuk/kwGygTgLnKKoEhyjMrhcgHTCjR4ig4gMxT2UbchMFvvOmCgEx7f\nkRRgIX/HwunDv9OyT0Wrqm+qH+JwxKxoilXlXLvXNbfDrmG5bOhD75LCy1dpEqyR\nEbxzHRu/KsZzzKQ0/8lQeC4amxocfCYeRnOQ5jlytPPp+uzJyw6UzXredYRfb8JS\nqewxn38hDN+f8mMmFDygrYiJD6P/PwfP4+rNySxJ3h4TYimqqw7HShWCGwjoDJH6\niVtvicEcBfDOW2dn3xSNXyeRUNz4aFgbUHaMSTc6q31fl1ylB07zYU1tmw6nUF20\ny2XULKBwJKEGjW+JM1FuKSHadJTq+wBp/B9MRDZD/8iWej+6zu1HtQPjQmpOrWg5\nlQC5PiEeD1FfEO4X9P3PezY3iDBhlxI4yY+c4cxHP4vrPnV/7F0G5ftAYQQ/O3iN\nCI+5VAtnGsddxkdvplGJjEMosf2xrtNlDqHgYkFjkE80P14gasFgzCmptk9V7S+8\nj3VZrivtu1/8x9nHDIce3v16RANF648v5Ztcwc9C0C3P2wt+UdagpNPRip66WSKh\nFbHJ1zvFjhJ33oFVBSdd\n=AZDZ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 162cf8936af71c96859a9438dc678f0f67f8ad5d\ntype commit\ntag 3.3.0\ntagger Cosimo Lupo <cosimo.lupo@daltonmaag.com> 1481039115 +0000\n\n3.3.0\n\n- [ttLib] Implemented STAT table from OpenType 1.8 (#758)\n- [cffLib] Fixed decompilation of CFF fonts containing non-standard key/value pairs in FontDict (issue #740; PR #744)\n- [py23] minor: in `round3` function, allow the second argument to be `None` (#757)\n- The standalone `sstruct` and `xmlWriter` modules, deprecated since vesion 3.2.0, have been removed. They can be imported from the `fontTools.misc` package.\n"
+  }
+}

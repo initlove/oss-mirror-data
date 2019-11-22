@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMxNjMxMDo1ODg1YTk0NTY0ZmEzZmIyNTBjMTFiYWQ2OGRjNWY5ZjE4ZGM2NDI1",
+  "sha": "5885a94564fa3fb250c11bad68dc5f9f18dc6425",
+  "url": "https://api.github.com/repos/tytso/e2fsprogs/git/tags/5885a94564fa3fb250c11bad68dc5f9f18dc6425",
+  "tagger": {
+    "name": "Theodore Y. Ts'o",
+    "email": "tytso@mit.edu",
+    "date": "2019-08-03T03:49:00Z"
+  },
+  "object": {
+    "sha": "d4a7e2b1dac78e82c9c944d402c7270da987c06f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tytso/e2fsprogs/git/commits/d4a7e2b1dac78e82c9c944d402c7270da987c06f"
+  },
+  "tag": "debian/1.44.5-1+deb9u1",
+  "message": "e2fsprogs release 1.44.5-1+deb9u1 for stretch (stretch) [dgit]\n\n[dgit distro=debian no-split --quilt=linear]\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEK2m5VNv+CHkogTfJ8vlZVpUNgaMFAl1FFk8ACgkQ8vlZVpUN\ngaNmlAf9HU5DSvZKTJDh3JsNk7/GkUZ92Z9l568c+wGAxHY/bm//VD1qUhmeCbHY\nMTH7kEgZrCKjLwpYanzfItnZXCViJqDv/PAHGVX144gm+Ddh8io7gVNKbgyie/ne\nVOSR5+Jc2FtZXWsjDJIrMNBbqypV55MORNbCIvk9UxiOm3lWH524WF7bpqKs+T5X\n66or8DEzsoTkRmprfr9XzRmJ21G7mUJI+3osCAGm7a5I549/8QwJtbK4Tu3yWk2r\nTsToAuwVWGz2d+xlInfwGyorCU1tZv/hTR4QHKP5UokMKMol/EFldZhhTs1CAbb2\n6Idnx67x4SNBg7J9f1ImMCRfp+Imwg==\n=h18P\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEK2m5VNv+CHkogTfJ8vlZVpUNgaMFAl1FFk8ACgkQ8vlZVpUN\ngaNmlAf9HU5DSvZKTJDh3JsNk7/GkUZ92Z9l568c+wGAxHY/bm//VD1qUhmeCbHY\nMTH7kEgZrCKjLwpYanzfItnZXCViJqDv/PAHGVX144gm+Ddh8io7gVNKbgyie/ne\nVOSR5+Jc2FtZXWsjDJIrMNBbqypV55MORNbCIvk9UxiOm3lWH524WF7bpqKs+T5X\n66or8DEzsoTkRmprfr9XzRmJ21G7mUJI+3osCAGm7a5I549/8QwJtbK4Tu3yWk2r\nTsToAuwVWGz2d+xlInfwGyorCU1tZv/hTR4QHKP5UokMKMol/EFldZhhTs1CAbb2\n6Idnx67x4SNBg7J9f1ImMCRfp+Imwg==\n=h18P\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d4a7e2b1dac78e82c9c944d402c7270da987c06f\ntype commit\ntag debian/1.44.5-1+deb9u1\ntagger Theodore Y. Ts'o <tytso@mit.edu> 1564804140 -0400\n\ne2fsprogs release 1.44.5-1+deb9u1 for stretch (stretch) [dgit]\n\n[dgit distro=debian no-split --quilt=linear]\n"
+  }
+}

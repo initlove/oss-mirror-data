@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM5NjgyNTU6MzM0MGU3MGU1NDhmYjY1ZGQwMjRjNzk1ZmEzYjliYzY5NDBmNmZhOA==",
+  "sha": "3340e70e548fb65dd024c795fa3b9bc6940f6fa8",
+  "url": "https://api.github.com/repos/openstack/mistral/git/tags/3340e70e548fb65dd024c795fa3b9bc6940f6fa8",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-04-07T07:36:21Z"
+  },
+  "object": {
+    "sha": "1293ea5f8602e3a470f66764118273899599d8be",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/mistral/git/commits/1293ea5f8602e3a470f66764118273899599d8be"
+  },
+  "tag": "2.0.0",
+  "message": "mistral 2.0.0 release\n\nmeta:version: 2.0.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: yes\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXBg31AAoJEDttBqDEKEN6sCUIAJ9Dwr6i4BVifB47aS0qBEEp\n+dwWrneytXPZd7C2FVP9Q/ddHibXWF9zcNw9mWsbQvdyuWwtmAtOVvHOZw3SWKIE\nSEkme50/Wx0WEAv7cB2Gga0zWVOlZjX8ItW7Ph8Nis8boCWHJXn/pdASAA5XekVC\njNrPtAOXQMo1pfQPcgIMLqlp6ClPizVnnlBIRntdB2t0KZ2xkpAVSRVhDTIo8ju6\n8rnQHjeFoO2JhuG2Jnl+B9XeGQCwePUDHdH7EpB1C5utkYM5HCHfz9ovFi2B606s\n5sy+qXJdCHgMf2uik/JPPyaSk6h8+L/J6oQrcWT3x8yeANq/lxw3TR2u0xv5pYg=\n=mDDE\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXBg31AAoJEDttBqDEKEN6sCUIAJ9Dwr6i4BVifB47aS0qBEEp\n+dwWrneytXPZd7C2FVP9Q/ddHibXWF9zcNw9mWsbQvdyuWwtmAtOVvHOZw3SWKIE\nSEkme50/Wx0WEAv7cB2Gga0zWVOlZjX8ItW7Ph8Nis8boCWHJXn/pdASAA5XekVC\njNrPtAOXQMo1pfQPcgIMLqlp6ClPizVnnlBIRntdB2t0KZ2xkpAVSRVhDTIo8ju6\n8rnQHjeFoO2JhuG2Jnl+B9XeGQCwePUDHdH7EpB1C5utkYM5HCHfz9ovFi2B606s\n5sy+qXJdCHgMf2uik/JPPyaSk6h8+L/J6oQrcWT3x8yeANq/lxw3TR2u0xv5pYg=\n=mDDE\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1293ea5f8602e3a470f66764118273899599d8be\ntype commit\ntag 2.0.0\ntagger Doug Hellmann <doug@doughellmann.com> 1460014581 -0400\n\nmistral 2.0.0 release\n\nmeta:version: 2.0.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: yes\n"
+  }
+}

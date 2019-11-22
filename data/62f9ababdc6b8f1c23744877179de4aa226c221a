@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMxNjMxMDo2MmY5YWJhYmRjNmI4ZjFjMjM3NDQ4NzcxNzlkZTRhYTIyNmMyMjFh",
+  "sha": "62f9ababdc6b8f1c23744877179de4aa226c221a",
+  "url": "https://api.github.com/repos/tytso/e2fsprogs/git/tags/62f9ababdc6b8f1c23744877179de4aa226c221a",
+  "tagger": {
+    "name": "Theodore Y. Ts'o",
+    "email": "tytso@mit.edu",
+    "date": "2019-08-03T03:49:00Z"
+  },
+  "object": {
+    "sha": "6e1098f9965d4df25d813a85daa7a73419d7e360",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tytso/e2fsprogs/git/commits/6e1098f9965d4df25d813a85daa7a73419d7e360"
+  },
+  "tag": "debian/1.44.5-1+deb10u1",
+  "message": "e2fsprogs release 1.44.5-1+deb10u1 for buster (buster) [dgit]\n\n[dgit distro=debian no-split --quilt=linear]\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEK2m5VNv+CHkogTfJ8vlZVpUNgaMFAl1GRjUACgkQ8vlZVpUN\ngaO01wf/VhMOKH66HsNBd9c726/kdZ7AQb4ACD32uGZlzAfEp0r1sprsXvrO4nGw\niTjM7hCYnbrqRRDi/WnGfWwTMaQf5xQoFZiRL/RvIwCFuoqu9wJ9xkwqa8Vmh63n\nXLul5/UBpjWHe+2YFo3g3fLPeg3io9WJ1kxmJHWPQSSPmcTB0iULqMUYNX3y6rVc\nmDDPw0GVezf+keFElpqRZJqml4JNzdOjLsEHG+BXbYCdhrRk3ZJkBEx5cm9c86fW\nKRlV+Gv3liYnt/mW9YIn7sHa37oXMjLuKFwXiucF08TG43N8cvoN2EUQwMiSbe+s\nQy88y/Qy8L8gEWMRiDoVAilfdP4HRA==\n=6eJ3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEK2m5VNv+CHkogTfJ8vlZVpUNgaMFAl1GRjUACgkQ8vlZVpUN\ngaO01wf/VhMOKH66HsNBd9c726/kdZ7AQb4ACD32uGZlzAfEp0r1sprsXvrO4nGw\niTjM7hCYnbrqRRDi/WnGfWwTMaQf5xQoFZiRL/RvIwCFuoqu9wJ9xkwqa8Vmh63n\nXLul5/UBpjWHe+2YFo3g3fLPeg3io9WJ1kxmJHWPQSSPmcTB0iULqMUYNX3y6rVc\nmDDPw0GVezf+keFElpqRZJqml4JNzdOjLsEHG+BXbYCdhrRk3ZJkBEx5cm9c86fW\nKRlV+Gv3liYnt/mW9YIn7sHa37oXMjLuKFwXiucF08TG43N8cvoN2EUQwMiSbe+s\nQy88y/Qy8L8gEWMRiDoVAilfdP4HRA==\n=6eJ3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6e1098f9965d4df25d813a85daa7a73419d7e360\ntype commit\ntag debian/1.44.5-1+deb10u1\ntagger Theodore Y. Ts'o <tytso@mit.edu> 1564804140 -0400\n\ne2fsprogs release 1.44.5-1+deb10u1 for buster (buster) [dgit]\n\n[dgit distro=debian no-split --quilt=linear]\n"
+  }
+}

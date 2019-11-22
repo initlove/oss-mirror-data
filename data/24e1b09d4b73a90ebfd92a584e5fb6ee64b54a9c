@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6MjRlMWIwOWQ0YjczYTkwZWJmZDkyYTU4NGU1ZmI2ZWU2NGI1NGE5Yw==",
+  "sha": "24e1b09d4b73a90ebfd92a584e5fb6ee64b54a9c",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/24e1b09d4b73a90ebfd92a584e5fb6ee64b54a9c",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2017-08-17T11:38:51Z"
+  },
+  "object": {
+    "sha": "6e11a9da5896f36bdff49075c8ec861c4a70cc30",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/6e11a9da5896f36bdff49075c8ec861c4a70cc30"
+  },
+  "tag": "3.15.0",
+  "message": "3.15.0\n\n- [AAT] Added support for AAT lookups. The ``lcar`` table can be decompiled\n  and recompiled; futher work needed to handle ``morx`` table (#1025).\n- [subset] Keep (empty) DefaultLangSys for Script 'DFLT' (6eb807b5).\n- [subset] Support GSUB/GPOS.FeatureVariations (fe01d87b).\n- [varLib] In ``models.supportScalars``, ignore an axis when its peak value\n  is 0 (fixes #1020).\n- [varLib] Add default mappings to all axes in avar to fix rendering issue\n  in some rasterizers (19c4b377, 04eacf13).\n- [varLib] Flatten multiple tail PairPosFormat2 subtables before merging\n  (c55ef525).\n- [ttLib] Added support for recalculating font bounding box in ``CFF`` and\n  ``head`` tables, and min/max values in ``hhea`` and ``vhea`` tables (#970).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

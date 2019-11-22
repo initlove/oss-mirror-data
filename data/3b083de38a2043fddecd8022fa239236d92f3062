@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjozYjA4M2RlMzhhMjA0M2ZkZGVjZDgwMjJmYTIzOTIzNmQ5MmYzMDYy",
+  "sha": "3b083de38a2043fddecd8022fa239236d92f3062",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/3b083de38a2043fddecd8022fa239236d92f3062",
+  "tagger": {
+    "name": "Paul Ivanov",
+    "email": "pi@berkeley.edu",
+    "date": "2019-11-06T16:20:57Z"
+  },
+  "object": {
+    "sha": "5d950e22d7e163769950146784d003b48e478cb8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/5d950e22d7e163769950146784d003b48e478cb8"
+  },
+  "tag": "v3.1.2",
+  "message": "REL: 3.1.2\n\n - fix regresion of incorrect limits for y-axis in imshow\n - fix integer indexed pandas series\n - fix ScalarFormatter formatting of masked values\n - webagg and nbagg no longer incorrectly fallback to agg when $DISPLAY is not set\n - several fixes for Qt5 backend\n - other bugfixes and documentation fixes\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQTKOzv4OU1OkpXhSxd75yZFDz4o9wUCXcLy+AAKCRB75yZFDz4o\n930wAKCGVQuYgWlLIRVP0vr676KRIHRXSgCeMWikeaOb9mjm6zEOfuMNSMBDkcE=\n=WnoM\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQTKOzv4OU1OkpXhSxd75yZFDz4o9wUCXcLy+AAKCRB75yZFDz4o\n930wAKCGVQuYgWlLIRVP0vr676KRIHRXSgCeMWikeaOb9mjm6zEOfuMNSMBDkcE=\n=WnoM\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5d950e22d7e163769950146784d003b48e478cb8\ntype commit\ntag v3.1.2\ntagger Paul Ivanov <pi@berkeley.edu> 1573057257 -0800\n\nREL: 3.1.2\n\n - fix regresion of incorrect limits for y-axis in imshow\n - fix integer indexed pandas series\n - fix ScalarFormatter formatting of masked values\n - webagg and nbagg no longer incorrectly fallback to agg when $DISPLAY is not set\n - several fixes for Qt5 backend\n - other bugfixes and documentation fixes\n"
+  }
+}

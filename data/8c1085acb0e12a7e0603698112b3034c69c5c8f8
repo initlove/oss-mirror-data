@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6OGMxMDg1YWNiMGUxMmE3ZTA2MDM2OTgxMTJiMzAzNGM2OWM1YzhmOA==",
+  "sha": "8c1085acb0e12a7e0603698112b3034c69c5c8f8",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/8c1085acb0e12a7e0603698112b3034c69c5c8f8",
+  "tagger": {
+    "name": "Matti Ranta",
+    "email": "matti@mdranta.net",
+    "date": "2019-03-27T19:17:33Z"
+  },
+  "object": {
+    "sha": "73ce02400cec659bd7a7ee3798ff73a4c7c85957",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/73ce02400cec659bd7a7ee3798ff73a4c7c85957"
+  },
+  "tag": "v1.8.0-rc2",
+  "message": "* BUGFIXES\n  * Disable benchmarking during tag events on DroneIO (#6365) (#6366)\n  * Make sure units of a team are returned (#6379) (#6381)\n  * Don't Unescape redirect_to cookie value (#6399) (#6401)\n  * Fix dump table name error and add some test for dump database (#6394) (#6402)\n  * Fix migration v82 to ignore unsynced tags between database and git data; Add missing is_archived column on repository table (#6387) (#6403)\n  * Display correct error for invalid mirror interval (#6414) (#6429)\n  * Clean up ref name rules (#6437) (#6439)\n  * Fix Hook & HookList in Swagger (#6432) (#6440)\n  * Change order that PostProcess Processors are run (#6445) (#6447)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlybzE0ACgkQ2bVhO+uB\nP5l++Qf/cCT0otAncW7h6yKds8LLBb2HkptMEmxVV3bP7eiTeswCBafbOPqs85BS\neVTr5jSkLB9rMvbfro+R5GU/Al2zoo3Nafu8aPrhx3ysnOhXN3xDNLT4NmvOreIS\njpOBC7n7eSlsh5tFtlo6fWXYtlc9QK6YOnGFFhfAYVygt8GCtb8ns4emZE6jnGcw\nPJ7Htv/S1aCMFuyMe5nnRnSXUOljd83xswFhOXHWNGyRiIsnhkiO1j4DCDj4afuV\nglfumw8SSpVtAOw6xPSePAeEuoGJWT43aU11bap7XWHK3A/P0OIQbYU1gj4aWF8y\nfudRT7F3TeCewSmLDRUd26na2VbKLg==\n=LpLJ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlybzE0ACgkQ2bVhO+uB\nP5l++Qf/cCT0otAncW7h6yKds8LLBb2HkptMEmxVV3bP7eiTeswCBafbOPqs85BS\neVTr5jSkLB9rMvbfro+R5GU/Al2zoo3Nafu8aPrhx3ysnOhXN3xDNLT4NmvOreIS\njpOBC7n7eSlsh5tFtlo6fWXYtlc9QK6YOnGFFhfAYVygt8GCtb8ns4emZE6jnGcw\nPJ7Htv/S1aCMFuyMe5nnRnSXUOljd83xswFhOXHWNGyRiIsnhkiO1j4DCDj4afuV\nglfumw8SSpVtAOw6xPSePAeEuoGJWT43aU11bap7XWHK3A/P0OIQbYU1gj4aWF8y\nfudRT7F3TeCewSmLDRUd26na2VbKLg==\n=LpLJ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 73ce02400cec659bd7a7ee3798ff73a4c7c85957\ntype commit\ntag v1.8.0-rc2\ntagger Matti Ranta <matti@mdranta.net> 1553714253 -0400\n\n* BUGFIXES\n  * Disable benchmarking during tag events on DroneIO (#6365) (#6366)\n  * Make sure units of a team are returned (#6379) (#6381)\n  * Don't Unescape redirect_to cookie value (#6399) (#6401)\n  * Fix dump table name error and add some test for dump database (#6394) (#6402)\n  * Fix migration v82 to ignore unsynced tags between database and git data; Add missing is_archived column on repository table (#6387) (#6403)\n  * Display correct error for invalid mirror interval (#6414) (#6429)\n  * Clean up ref name rules (#6437) (#6439)\n  * Fix Hook & HookList in Swagger (#6432) (#6440)\n  * Change order that PostProcess Processors are run (#6445) (#6447)\n"
+  }
+}

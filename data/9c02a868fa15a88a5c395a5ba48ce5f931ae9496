@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6OWMwMmE4NjhmYTE1YTg4YTVjMzk1YTViYTQ4Y2U1ZjkzMWFlOTQ5Ng==",
+  "sha": "9c02a868fa15a88a5c395a5ba48ce5f931ae9496",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/9c02a868fa15a88a5c395a5ba48ce5f931ae9496",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo.lupo@daltonmaag.com",
+    "date": "2017-03-13T13:35:19Z"
+  },
+  "object": {
+    "sha": "7dc69f2ae2ad032fc8e5c9bd08627611d45e23d5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/7dc69f2ae2ad032fc8e5c9bd08627611d45e23d5"
+  },
+  "tag": "3.9.0",
+  "message": "3.9.0\n\n- [feaLib] Added (partial) support for parsing feature file comments ``# ...``\n  appearing in between statements (#879).\n- [feaLib] Cleaned up syntax tree for FeatureNames.\n- [ttLib] Added support for reading/writing ``CFF2`` table (thanks to\n  @readroberts at Adobe), and ``TTFA`` (ttfautohint) table.\n- [varLib] Fixed regression introduced with 3.8.0 in the calculation of\n  ``NumShorts``, i.e. the number of deltas in ItemVariationData's delta sets\n  that use a 16-bit representation (b2825ff).\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJYxqAXAAoJELYaqtC1OmQZtnYP/3ZzFMY5C7qFOhE+lK/iVg/Z\nRasXSJ4+WOVWsLjGmZYEi+n4hfCybI+s2ldvmI64WQ6CIsXvFsk2Z4ZjTVCat5/Q\nkQcZgMHmWUMFMiWposcaWjoKEWS5LKcafP67q5Yx4lCx0bxVAPGtf4MLXOvEKjBP\nLd8ngLGtZUwOODWSXwetCjTtPn9Lv7nDce7TAWrH2fQBqeQJRjmGpHzOmWmzqMqH\neCQ2+1aHftu9JPI9s8E83iYD+MhBy7tgW4l+1nly+uoIzUQ3JZuK24QAWbIvIsMm\nhYiV1l0baNm8XKTuhf4BHUqrYw+FZDYmD1+eCnNxb8iD3rth+rJcrXAWD9RHMvqZ\nYSxDeV5HEN1U9YJ80ulOEEYx+9ndS81QkP4fV18WfTTufJwdkewyYjS1KCf9UIVW\n3pQ6cDQiheslS3Olsa4HYzqJE0dU64PS1EWcFn5Eoe8BirUanZGVatMlZiZiyThZ\nVjIf2uDntOqRBBesQi8cDi9q8YpXJrziA6B4yzsJP5D3zEJPuuPn9OSc8wksblta\nJwLyYZg9p6JHUxEGi2i2xO6EvGpqWfnoYDPBiCXRbgtCMoXCEEDeYPEaCdMNS17p\npWKiz9teeCteIvqOTz+PeT3Wd36qnD3CVNaqX7YLidqQJ/L7sg6MR4kQ12EgNEcP\nDRJ5tvnObothtcsLk/9S\n=0tNs\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJYxqAXAAoJELYaqtC1OmQZtnYP/3ZzFMY5C7qFOhE+lK/iVg/Z\nRasXSJ4+WOVWsLjGmZYEi+n4hfCybI+s2ldvmI64WQ6CIsXvFsk2Z4ZjTVCat5/Q\nkQcZgMHmWUMFMiWposcaWjoKEWS5LKcafP67q5Yx4lCx0bxVAPGtf4MLXOvEKjBP\nLd8ngLGtZUwOODWSXwetCjTtPn9Lv7nDce7TAWrH2fQBqeQJRjmGpHzOmWmzqMqH\neCQ2+1aHftu9JPI9s8E83iYD+MhBy7tgW4l+1nly+uoIzUQ3JZuK24QAWbIvIsMm\nhYiV1l0baNm8XKTuhf4BHUqrYw+FZDYmD1+eCnNxb8iD3rth+rJcrXAWD9RHMvqZ\nYSxDeV5HEN1U9YJ80ulOEEYx+9ndS81QkP4fV18WfTTufJwdkewyYjS1KCf9UIVW\n3pQ6cDQiheslS3Olsa4HYzqJE0dU64PS1EWcFn5Eoe8BirUanZGVatMlZiZiyThZ\nVjIf2uDntOqRBBesQi8cDi9q8YpXJrziA6B4yzsJP5D3zEJPuuPn9OSc8wksblta\nJwLyYZg9p6JHUxEGi2i2xO6EvGpqWfnoYDPBiCXRbgtCMoXCEEDeYPEaCdMNS17p\npWKiz9teeCteIvqOTz+PeT3Wd36qnD3CVNaqX7YLidqQJ/L7sg6MR4kQ12EgNEcP\nDRJ5tvnObothtcsLk/9S\n=0tNs\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7dc69f2ae2ad032fc8e5c9bd08627611d45e23d5\ntype commit\ntag 3.9.0\ntagger Cosimo Lupo <cosimo.lupo@daltonmaag.com> 1489412119 +0000\n\n3.9.0\n\n- [feaLib] Added (partial) support for parsing feature file comments ``# ...``\n  appearing in between statements (#879).\n- [feaLib] Cleaned up syntax tree for FeatureNames.\n- [ttLib] Added support for reading/writing ``CFF2`` table (thanks to\n  @readroberts at Adobe), and ``TTFA`` (ttfautohint) table.\n- [varLib] Fixed regression introduced with 3.8.0 in the calculation of\n  ``NumShorts``, i.e. the number of deltas in ItemVariationData's delta sets\n  that use a 16-bit representation (b2825ff).\n"
+  }
+}

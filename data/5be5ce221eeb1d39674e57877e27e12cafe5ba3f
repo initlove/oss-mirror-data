@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6NWJlNWNlMjIxZWViMWQzOTY3NGU1Nzg3N2UyN2UxMmNhZmU1YmEzZg==",
+  "sha": "5be5ce221eeb1d39674e57877e27e12cafe5ba3f",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/5be5ce221eeb1d39674e57877e27e12cafe5ba3f",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2018-06-19T17:14:39Z"
+  },
+  "object": {
+    "sha": "983cf27fd35957d415cccaafc739c17d576ec8f1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/983cf27fd35957d415cccaafc739c17d576ec8f1"
+  },
+  "tag": "libmodulemd-1.5.1",
+  "message": "Release 1.5.1\n\nStephen Gallagher (4):\n      Make some tests optional\n      Add rudimentary test for memory leaks\n      Add valgrind to travis and sort the RPM list\n      Release 1.5.1\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWyk6IQAKCRB6JVViNrqj\no5wXAJ97UkES/LDD9vAzGnP9VjctfudfEQCbBzj2DfM9EgsvOegyylnwEaTE6LM=\n=6K8V\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWyk6IQAKCRB6JVViNrqj\no5wXAJ97UkES/LDD9vAzGnP9VjctfudfEQCbBzj2DfM9EgsvOegyylnwEaTE6LM=\n=6K8V\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 983cf27fd35957d415cccaafc739c17d576ec8f1\ntype commit\ntag libmodulemd-1.5.1\ntagger Stephen Gallagher <sgallagh@redhat.com> 1529428479 -0400\n\nRelease 1.5.1\n\nStephen Gallagher (4):\n      Make some tests optional\n      Add rudimentary test for memory leaks\n      Add valgrind to travis and sort the RPM list\n      Release 1.5.1\n"
+  }
+}

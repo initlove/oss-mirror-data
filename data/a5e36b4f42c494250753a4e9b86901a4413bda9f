@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6YTVlMzZiNGY0MmM0OTQyNTA3NTNhNGU5Yjg2OTAxYTQ0MTNiZGE5Zg==",
+  "sha": "a5e36b4f42c494250753a4e9b86901a4413bda9f",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/a5e36b4f42c494250753a4e9b86901a4413bda9f",
+  "tagger": {
+    "name": "Matti Ranta",
+    "email": "matti@mdranta.net",
+    "date": "2019-01-31T16:17:12Z"
+  },
+  "object": {
+    "sha": "dfad569e40edf86346a10d11bc68c98c12bca30d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/dfad569e40edf86346a10d11bc68c98c12bca30d"
+  },
+  "tag": "v1.7.1",
+  "message": "* SECURITY\n  * Disable redirect for i18n (#5910) (#5916)\n  * Only allow local login if password is non-empty (#5906) (#5908)\n  * Fix go-get URL generation (#5905) (#5907)\n* BUGFIXES\n  * Fix TLS errors when using acme/autocert for local connections (#5820) (#5826)\n  * Request for public keys only if LDAP attribute is set (#5816) (#5819)\n  * Fix delete correct temp directory (#5840) (#5839)\n  * Fix an error while adding a dependency via UI (#5862) (#5876)\n  * Fix null pointer in attempt to Sudo if not logged in (#5872) (#5884)\n  * When creating new repository fsck option should be enabled (#5817) (#5885)\n  * Prevent nil dereference in mailIssueCommentToParticipants (#5891) (#5895) (#5894)\n  * Fix bug when read public repo lfs file (#5913) (#5912)\n  * Respect value of REQUIRE_SIGNIN_VIEW (#5901) (#5915)\n  * Fix compare button on upstream repo leading to 404 (#5877) (#5914)\n* DOCS\n  * Added docs for the tree api (#5835)\n* MISC\n  * Include Go toolchain to --version (#5832) (#5830)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlxTH4gACgkQ2bVhO+uB\nP5liZAf8CqLsFzdjmq4aZW+yrmj4U76wRJ41QpTPc4tODuch1ISStG+VDn3oUNdk\nufpRSo0LC484rL00fQ+CxJEEjdX6tJBkEOfzfPYKTTezjeKdvl3uid0p7HJ6ycNC\nkq841gMncGEIs/Z8hpO8tsI4nAEKp96IoA2FuBLmcDe94kyC+CisUsFfTf1CZZRd\nvOkDKWpTYo7rF3gZFHePUgIhDmCrkJKRGVOPa25pvRK/ETNT6LP4XnxXt842zq0x\n1bjtK7mC2tiB/WSRHPGqbix78NFs2CFFQRepz4fT7Kx/qWPoL58qMJqp/vO5q7KM\nXKzfsrxfRGTLDHPsy0DuzbSsRuq7tQ==\n=5hHK\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlxTH4gACgkQ2bVhO+uB\nP5liZAf8CqLsFzdjmq4aZW+yrmj4U76wRJ41QpTPc4tODuch1ISStG+VDn3oUNdk\nufpRSo0LC484rL00fQ+CxJEEjdX6tJBkEOfzfPYKTTezjeKdvl3uid0p7HJ6ycNC\nkq841gMncGEIs/Z8hpO8tsI4nAEKp96IoA2FuBLmcDe94kyC+CisUsFfTf1CZZRd\nvOkDKWpTYo7rF3gZFHePUgIhDmCrkJKRGVOPa25pvRK/ETNT6LP4XnxXt842zq0x\n1bjtK7mC2tiB/WSRHPGqbix78NFs2CFFQRepz4fT7Kx/qWPoL58qMJqp/vO5q7KM\nXKzfsrxfRGTLDHPsy0DuzbSsRuq7tQ==\n=5hHK\n-----END PGP SIGNATURE-----\n",
+    "payload": "object dfad569e40edf86346a10d11bc68c98c12bca30d\ntype commit\ntag v1.7.1\ntagger Matti Ranta <matti@mdranta.net> 1548951432 -0500\n\n* SECURITY\n  * Disable redirect for i18n (#5910) (#5916)\n  * Only allow local login if password is non-empty (#5906) (#5908)\n  * Fix go-get URL generation (#5905) (#5907)\n* BUGFIXES\n  * Fix TLS errors when using acme/autocert for local connections (#5820) (#5826)\n  * Request for public keys only if LDAP attribute is set (#5816) (#5819)\n  * Fix delete correct temp directory (#5840) (#5839)\n  * Fix an error while adding a dependency via UI (#5862) (#5876)\n  * Fix null pointer in attempt to Sudo if not logged in (#5872) (#5884)\n  * When creating new repository fsck option should be enabled (#5817) (#5885)\n  * Prevent nil dereference in mailIssueCommentToParticipants (#5891) (#5895) (#5894)\n  * Fix bug when read public repo lfs file (#5913) (#5912)\n  * Respect value of REQUIRE_SIGNIN_VIEW (#5901) (#5915)\n  * Fix compare button on upstream repo leading to 404 (#5877) (#5914)\n* DOCS\n  * Added docs for the tree api (#5835)\n* MISC\n  * Include Go toolchain to --version (#5832) (#5830)\n"
+  }
+}

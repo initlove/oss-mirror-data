@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE0NzY5ODo5OTBhMzAzYzYwNTUzYzgyY2U2ZWQ4MTUyM2I3ZWYyOWMzMzhlYWMz",
+  "sha": "990a303c60553c82ce6ed81523b7ef29c338eac3",
+  "url": "https://api.github.com/repos/proot-me/proot/git/tags/990a303c60553c82ce6ed81523b7ef29c338eac3",
+  "tagger": {
+    "name": "Cédric VINCENT",
+    "email": "cedric.vincent@st.com",
+    "date": "2011-06-28T15:13:17Z"
+  },
+  "object": {
+    "sha": "b8dc228eb6e0a03946143d6fb6a8d038a9b2cbc7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/proot-me/proot/git/commits/b8dc228eb6e0a03946143d6fb6a8d038a9b2cbc7"
+  },
+  "tag": "v0.6.1",
+  "message": "Release v0.6.1\n==============\n\n* Add `/tmp` to the list of mirrored paths when using -M.\n\n* Fix the ELF interpreter extraction.\n\n* Rewrite the build system.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

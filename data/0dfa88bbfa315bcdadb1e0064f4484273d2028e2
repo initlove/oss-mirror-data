@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6MGRmYTg4YmJmYTMxNWJjZGFkYjFlMDA2NGY0NDg0MjczZDIwMjhlMg==",
+  "sha": "0dfa88bbfa315bcdadb1e0064f4484273d2028e2",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/0dfa88bbfa315bcdadb1e0064f4484273d2028e2",
+  "tagger": {
+    "name": "Matti Ranta",
+    "email": "matti@mdranta.net",
+    "date": "2019-03-13T02:26:35Z"
+  },
+  "object": {
+    "sha": "9f33aa61bd94563cb497ab111249b5a3345e05d7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/9f33aa61bd94563cb497ab111249b5a3345e05d7"
+  },
+  "tag": "v1.7.4",
+  "message": "* SECURITY\n  * Fix potential XSS vulnerability in repository description. (#6306) (#6308)\n* BUGFIXES\n  * Fix wrong release commit id (#6224) (#6300)\n  * Fix panic on empty signed commits (#6292) (#6300)\n  * Fix organization dropdown not being scrollable when using mouse wheel (#5988) (#6246)\n  * Fix displaying dashboard even if required to change password (#6214) (#6215)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlyIalsACgkQ2bVhO+uB\nP5k47Af+LIN6HId6oDHY4gPmwgCJK1hi4w6ikFckfdBlCH86CklelVIEVBNJO7Aj\n/HueWfnxPBvNKYQOtdwbARetHDFqD2ha+BFtynaW2VHKvWNsoVG/ieRfZx8siPyX\nXir3h9Ha0o4SBtzz9TICeF58PQjlzoRDdx/PXX/BKmpIkBb4SDLlcmbrvkYqwf+s\nMf0lQmli3ibY71jDZGdpSbGDc0wg7tejdiK+cAWFksH/3NZorWcwkUPqrTqnYoCe\ni3Zy49Qq+QXnGiSKKBvlVPtIoMGTQiVyA+Ogr+SeB3iBBhCqgn0R3F609ARnM9b2\nYKURGjJdqlq0KmxeeW2IjFmCl1uOlQ==\n=nakX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlyIalsACgkQ2bVhO+uB\nP5k47Af+LIN6HId6oDHY4gPmwgCJK1hi4w6ikFckfdBlCH86CklelVIEVBNJO7Aj\n/HueWfnxPBvNKYQOtdwbARetHDFqD2ha+BFtynaW2VHKvWNsoVG/ieRfZx8siPyX\nXir3h9Ha0o4SBtzz9TICeF58PQjlzoRDdx/PXX/BKmpIkBb4SDLlcmbrvkYqwf+s\nMf0lQmli3ibY71jDZGdpSbGDc0wg7tejdiK+cAWFksH/3NZorWcwkUPqrTqnYoCe\ni3Zy49Qq+QXnGiSKKBvlVPtIoMGTQiVyA+Ogr+SeB3iBBhCqgn0R3F609ARnM9b2\nYKURGjJdqlq0KmxeeW2IjFmCl1uOlQ==\n=nakX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9f33aa61bd94563cb497ab111249b5a3345e05d7\ntype commit\ntag v1.7.4\ntagger Matti Ranta <matti@mdranta.net> 1552443995 -0400\n\n* SECURITY\n  * Fix potential XSS vulnerability in repository description. (#6306) (#6308)\n* BUGFIXES\n  * Fix wrong release commit id (#6224) (#6300)\n  * Fix panic on empty signed commits (#6292) (#6300)\n  * Fix organization dropdown not being scrollable when using mouse wheel (#5988) (#6246)\n  * Fix displaying dashboard even if required to change password (#6214) (#6215)\n"
+  }
+}

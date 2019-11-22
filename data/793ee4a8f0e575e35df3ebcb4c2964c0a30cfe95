@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMzNjg0NDU6NzkzZWU0YThmMGU1NzVlMzVkZjNlYmNiNGMyOTY0YzBhMzBjZmU5NQ==",
+  "sha": "793ee4a8f0e575e35df3ebcb4c2964c0a30cfe95",
+  "url": "https://api.github.com/repos/webmproject/libwebp/git/tags/793ee4a8f0e575e35df3ebcb4c2964c0a30cfe95",
+  "tagger": {
+    "name": "James Zern",
+    "email": "jzern@google.com",
+    "date": "2013-04-01T21:10:39Z"
+  },
+  "object": {
+    "sha": "1e0d4b8c8b169bf44496f589fb64838e6f8d2676",
+    "type": "commit",
+    "url": "https://api.github.com/repos/webmproject/libwebp/git/commits/1e0d4b8c8b169bf44496f589fb64838e6f8d2676"
+  },
+  "tag": "v0.3.0",
+  "message": "libwebp v0.3.0\n- 3/20/13: version 0.3.0\n  This is a binary compatible release.\n  * WebPINewRGB/WebPINewYUVA accept being passed a NULL output buffer\n    and will perform auto-allocation.\n  * default filter option is now '-strong -f 60'\n  * encoding speed-up for lossy methods 3 to 6\n  * alpha encoding can be done in parallel to lossy using 'cwebp -mt ...'\n  * color profile, metadata (XMP/EXIF) and animation support finalized in the\n    container.\n  * various NEON assembly additions\n  Tool updates / additions:\n    * gif2webp added\n    * vwebp given color profile & animation support\n    * cwebp can preserve color profile / metadata with '-metadata'\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJRWfflAAoJEPnD1r24Iytd4ScP/j60psLVzJepDWfjWCSmDasa\nNTUXne7GDa9tlYwzQTZCUVVhG4M6XUXM34xofgXUa4cKzxbZp+srQYH0qW46GTki\nEg3XgHUAj+GzkHH3oiOHRAboCcAG7dZytZ9oklhaIsbuDYRSwZSHnMYLC53pHemn\nj2pPv47lItops6cEu1NTMxMVyYRkbYJ1lOMZzsUZW6s2Yu4gpfaBu+Crm9DFHrYC\nPtnn7E9O8zsO0VyCoUMhDDmrwuVxZUKZNszW7R8hNw17B0w+DkO8JVspF4TNdQXH\nNNkLl9Ltw4DG3uYP4hqXsbDENvGjFxitGjZjoVxT25ZaNb0Dlsyf+Qq2yPlog/Vm\n7vcE9jqhqt+1ETsF1IAo9G11FFzDPWHOeBvD3Pd50XBX58+Vbpu6XoH2IyuCG0R0\nIqRhv9m/tpgj12fvzXlcznp7RJ/ovav124h7MoPYnLqUvCZ3mqnlki6ayLLJw18e\nN7irZE/uKLcS/4s0Tyd0tsSn6BtFbFA98fwBd/F2gDAIqPtQVoC6G628rBgcv9Q1\nDyi6kiQdBerZglBAHhJ5IQIqembyOCjuLp1S/ISAKlbsqCHvXKb+KYk/EDBc4ThC\n/ru88WWV2Xd518goa2K7Y23bqeGo/WZrWOQO2bbRi/QbZPATNxqewKuVcAda196R\nk0Q+nWgpnnm9/rqidZD3\n=jIql\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJRWfflAAoJEPnD1r24Iytd4ScP/j60psLVzJepDWfjWCSmDasa\nNTUXne7GDa9tlYwzQTZCUVVhG4M6XUXM34xofgXUa4cKzxbZp+srQYH0qW46GTki\nEg3XgHUAj+GzkHH3oiOHRAboCcAG7dZytZ9oklhaIsbuDYRSwZSHnMYLC53pHemn\nj2pPv47lItops6cEu1NTMxMVyYRkbYJ1lOMZzsUZW6s2Yu4gpfaBu+Crm9DFHrYC\nPtnn7E9O8zsO0VyCoUMhDDmrwuVxZUKZNszW7R8hNw17B0w+DkO8JVspF4TNdQXH\nNNkLl9Ltw4DG3uYP4hqXsbDENvGjFxitGjZjoVxT25ZaNb0Dlsyf+Qq2yPlog/Vm\n7vcE9jqhqt+1ETsF1IAo9G11FFzDPWHOeBvD3Pd50XBX58+Vbpu6XoH2IyuCG0R0\nIqRhv9m/tpgj12fvzXlcznp7RJ/ovav124h7MoPYnLqUvCZ3mqnlki6ayLLJw18e\nN7irZE/uKLcS/4s0Tyd0tsSn6BtFbFA98fwBd/F2gDAIqPtQVoC6G628rBgcv9Q1\nDyi6kiQdBerZglBAHhJ5IQIqembyOCjuLp1S/ISAKlbsqCHvXKb+KYk/EDBc4ThC\n/ru88WWV2Xd518goa2K7Y23bqeGo/WZrWOQO2bbRi/QbZPATNxqewKuVcAda196R\nk0Q+nWgpnnm9/rqidZD3\n=jIql\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1e0d4b8c8b169bf44496f589fb64838e6f8d2676\ntype commit\ntag v0.3.0\ntagger James Zern <jzern@google.com> 1364850639 -0700\n\nlibwebp v0.3.0\n- 3/20/13: version 0.3.0\n  This is a binary compatible release.\n  * WebPINewRGB/WebPINewYUVA accept being passed a NULL output buffer\n    and will perform auto-allocation.\n  * default filter option is now '-strong -f 60'\n  * encoding speed-up for lossy methods 3 to 6\n  * alpha encoding can be done in parallel to lossy using 'cwebp -mt ...'\n  * color profile, metadata (XMP/EXIF) and animation support finalized in the\n    container.\n  * various NEON assembly additions\n  Tool updates / additions:\n    * gif2webp added\n    * vwebp given color profile & animation support\n    * cwebp can preserve color profile / metadata with '-metadata'\n"
+  }
+}

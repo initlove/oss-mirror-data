@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6NjgyMTBhZWEzMzIxMDNkNjIxOTE1Y2Q0ZDhiYjg1OTRlNzk1YzFhYQ==",
+  "sha": "68210aea332103d621915cd4d8bb8594e795c1aa",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/68210aea332103d621915cd4d8bb8594e795c1aa",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo.lupo@daltonmaag.com",
+    "date": "2017-03-20T09:59:07Z"
+  },
+  "object": {
+    "sha": "524db89b69027613ed9ab981f426ae52bed32c0c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/524db89b69027613ed9ab981f426ae52bed32c0c"
+  },
+  "tag": "3.9.1",
+  "message": "3.9.1\n\n- [varLib.merger] Fixed issue while recombining multiple PairPosFormat2\n  subtables if they were split because of offset overflows (9798c30).\n- [varLib.merger] Only merge multiple PairPosFormat1 subtables if there is\n  at least one of the fonts with a non-empty Format1 subtable (0f5a46b).\n- [varLib.merger] Fixed IndexError with empty ClassDef1 in PairPosFormat2\n  (aad0d46).\n- [varLib.merger] Avoid reusing Class2Record (mutable) objects (e6125b3).\n- [varLib.merger] Calculate ClassDef1 and ClassDef2's Format when merging\n  PairPosFormat2 (23511fd).\n- [macUtils] Added missing ttLib import (b05f203).\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJYz6frAAoJELYaqtC1OmQZ+b0QAJbsbQRCK0Hx3ZT8asQm3VOY\nqXZ9y1eefUfD47qlHAFRqgvWU0oeWh4OM6vT0cefUPphGgpWjzTASZy8L6RN8tDC\nX1UHmAvqBUUbRmM1Pz0f1SzHgbCENyl61scexaNU4y2WtIkKtBcxxna8Mhs00a/l\nwIO0cSzKuLAwCmDRoF01/Dbi9qcMwa4E8jV7G9IzaBj7X9AMMX5Eif9qaiqWUIMd\nAG3i3/OY5QGaatWpzKOk0GL1UdAUeo5lJ39CrruqVUlObuuz1m4Cn7di0yB0QDjO\nbxRl75yvkU73MrcxUyGX/IIiHqznIE4Uq8zecRVor/J5YYErwmq9X9oYZXXtQ2XJ\nubI/4nCaRaXIn2GW7kCeoHs/yUFTF9oEp2CDXiFnzNK5SOGEck4o6xXsvI0a927O\nBVjln7vseZ0d6onVmBWRt4qfod+Ue6hkboNgKNcmpHadTUIwr1y7jQThgDbs06/Q\n24omYsQrC0ZscM0ITOyotZl6AryUliAERC1cgK6BMZoboB5jf4WMF+nuMAO2AVDS\nUUZKgjfP02Oqr9/mGFWQWK1UfcxwQnsxJL/ePEiHche19tA4LgxH8CXyPD2LLo8p\njg0R7CXv8Kd7hFq7xsTFaONS0HzGF11+DgUYMcQTBeNZSEpMditifa1BoCfXPq0d\nA/+56aFX21qS+lon4bTh\n=KiCp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJYz6frAAoJELYaqtC1OmQZ+b0QAJbsbQRCK0Hx3ZT8asQm3VOY\nqXZ9y1eefUfD47qlHAFRqgvWU0oeWh4OM6vT0cefUPphGgpWjzTASZy8L6RN8tDC\nX1UHmAvqBUUbRmM1Pz0f1SzHgbCENyl61scexaNU4y2WtIkKtBcxxna8Mhs00a/l\nwIO0cSzKuLAwCmDRoF01/Dbi9qcMwa4E8jV7G9IzaBj7X9AMMX5Eif9qaiqWUIMd\nAG3i3/OY5QGaatWpzKOk0GL1UdAUeo5lJ39CrruqVUlObuuz1m4Cn7di0yB0QDjO\nbxRl75yvkU73MrcxUyGX/IIiHqznIE4Uq8zecRVor/J5YYErwmq9X9oYZXXtQ2XJ\nubI/4nCaRaXIn2GW7kCeoHs/yUFTF9oEp2CDXiFnzNK5SOGEck4o6xXsvI0a927O\nBVjln7vseZ0d6onVmBWRt4qfod+Ue6hkboNgKNcmpHadTUIwr1y7jQThgDbs06/Q\n24omYsQrC0ZscM0ITOyotZl6AryUliAERC1cgK6BMZoboB5jf4WMF+nuMAO2AVDS\nUUZKgjfP02Oqr9/mGFWQWK1UfcxwQnsxJL/ePEiHche19tA4LgxH8CXyPD2LLo8p\njg0R7CXv8Kd7hFq7xsTFaONS0HzGF11+DgUYMcQTBeNZSEpMditifa1BoCfXPq0d\nA/+56aFX21qS+lon4bTh\n=KiCp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 524db89b69027613ed9ab981f426ae52bed32c0c\ntype commit\ntag 3.9.1\ntagger Cosimo Lupo <cosimo.lupo@daltonmaag.com> 1490003947 +0000\n\n3.9.1\n\n- [varLib.merger] Fixed issue while recombining multiple PairPosFormat2\n  subtables if they were split because of offset overflows (9798c30).\n- [varLib.merger] Only merge multiple PairPosFormat1 subtables if there is\n  at least one of the fonts with a non-empty Format1 subtable (0f5a46b).\n- [varLib.merger] Fixed IndexError with empty ClassDef1 in PairPosFormat2\n  (aad0d46).\n- [varLib.merger] Avoid reusing Class2Record (mutable) objects (e6125b3).\n- [varLib.merger] Calculate ClassDef1 and ClassDef2's Format when merging\n  PairPosFormat2 (23511fd).\n- [macUtils] Added missing ttLib import (b05f203).\n"
+  }
+}

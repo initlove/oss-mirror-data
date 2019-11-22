@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6NGUzNjEyZjg1NzE3NGY0ZjVlYzQ1ZmNlZDRjYTgwYTFhMDNiNmU0ZQ==",
+  "sha": "4e3612f857174f4f5ec45fced4ca80a1a03b6e4e",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/4e3612f857174f4f5ec45fced4ca80a1a03b6e4e",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2019-01-26T20:44:34Z"
+  },
+  "object": {
+    "sha": "072e6ee791fe7822a6d423bdac7e4a5cbb118bce",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/072e6ee791fe7822a6d423bdac7e4a5cbb118bce"
+  },
+  "tag": "libmodulemd-2.1.0",
+  "message": "Release libmodulemd 2.1.0 and 1.8.2\n\nStephen Gallagher (25):\n      skip-yaml: Don't return success from within loop.\n      API1 skip-yaml: Don't return success from within loop.\n      API1: Don't attempt to unref NULL sets\n      Always sort the dependencies\n      Use glib2 valgrind suppression file\n      Bump release to 2.0.1dev and 1.8.1dev\n      ModuleStream: Properly NULL the copy\n      Skip coverity when it's broken\n      More readable baseline YAML for tests\n      Module descriptions should always be folded scalars\n      Improve validation test for translations\n      Better handling of MAPPING_START in dependencies parser\n      Work around clang-analyzer false-positive\n      Deps: Avoid NULL-dereference in error cases\n      Add skip_introspection build option\n      Run clang's scan-build during CI\n      Include modified value when copying Defaults objects\n      Keep libmodulemd1 in sync with libmodulemd\n      Update documentation to reflect modified field in Defaults\n      API2: Don't fail merges when default streams differ\n      API1: Don't fail merges when default streams differ\n      Fix incorrect error message\n      Add ModuleStream.depends_on_stream()\n      Merge branch 'defaults-stream-conflict'\n      Update versions to 2.1.0 and 1.8.2\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXEzG1QAKCRB6JVViNrqj\nox/QAJ4iESNSk8W7PkGduDfWUKRg5OtbqACghG7iWAjtD5v2aOMWuwixV90b/kA=\n=5ECI\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXEzG1QAKCRB6JVViNrqj\nox/QAJ4iESNSk8W7PkGduDfWUKRg5OtbqACghG7iWAjtD5v2aOMWuwixV90b/kA=\n=5ECI\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 072e6ee791fe7822a6d423bdac7e4a5cbb118bce\ntype commit\ntag libmodulemd-2.1.0\ntagger Stephen Gallagher <sgallagh@redhat.com> 1548535474 -0500\n\nRelease libmodulemd 2.1.0 and 1.8.2\n\nStephen Gallagher (25):\n      skip-yaml: Don't return success from within loop.\n      API1 skip-yaml: Don't return success from within loop.\n      API1: Don't attempt to unref NULL sets\n      Always sort the dependencies\n      Use glib2 valgrind suppression file\n      Bump release to 2.0.1dev and 1.8.1dev\n      ModuleStream: Properly NULL the copy\n      Skip coverity when it's broken\n      More readable baseline YAML for tests\n      Module descriptions should always be folded scalars\n      Improve validation test for translations\n      Better handling of MAPPING_START in dependencies parser\n      Work around clang-analyzer false-positive\n      Deps: Avoid NULL-dereference in error cases\n      Add skip_introspection build option\n      Run clang's scan-build during CI\n      Include modified value when copying Defaults objects\n      Keep libmodulemd1 in sync with libmodulemd\n      Update documentation to reflect modified field in Defaults\n      API2: Don't fail merges when default streams differ\n      API1: Don't fail merges when default streams differ\n      Fix incorrect error message\n      Add ModuleStream.depends_on_stream()\n      Merge branch 'defaults-stream-conflict'\n      Update versions to 2.1.0 and 1.8.2\n"
+  }
+}

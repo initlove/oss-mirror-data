@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM5NjgyNTU6Y2U3NmExN2E0NTExZjMxNDJkNWZiZTUxMmJlMTBjZWNhYTUwZWM2OQ==",
+  "sha": "ce76a17a4511f3142d5fbe512be10cecaa50ec69",
+  "url": "https://api.github.com/repos/openstack/mistral/git/tags/ce76a17a4511f3142d5fbe512be10cecaa50ec69",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-08-09T12:11:18Z"
+  },
+  "object": {
+    "sha": "ca84455a92e228cd93d878f46488fcc479273817",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/mistral/git/commits/ca84455a92e228cd93d878f46488fcc479273817"
+  },
+  "tag": "7.0.0.0rc1",
+  "message": "mistral 7.0.0.0rc1 release candidate\n\nmeta:version: 7.0.0.0rc1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release candidate\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Dougal Matthews <dougal@redhat.com>\nmeta:release:Commit: Dougal Matthews <dougal@redhat.com>\nmeta:release:Change-Id: I022417b37a6be9fffd0e4fb54109c151eee747d3\nmeta:release:Code-Review+1: Andras Kovi <akovi@nokia.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\nmeta:release:+    helps resolve workflows that can become stuck in the RUNNING state when an\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbbC9mAAoJEMNs3LTfAMaMvWkH/A8AK21hPA9PJYdPc4I5mQ2M\nWadbHxVm/lUhu3JKc7QbdCWGy6R82ohyl8SbXcb9nJXxKdSybBCCSXgIbYt9vVdx\nk7QhwFSPsHGRQt/5JZSzHqzRqQ8El4W+B3BdwJcY8PdioICRdDs8xpkH70x7IG1N\nSIZJUtLLKI6gq2hmJuGU6ipt0dUABTlVAwVSRhsGc3/TmlPkaqraV+v1bqYHMBfH\n3RoBXMMUh2rmhsz4ugwVXV2fg+PPRkYcs4SyxcXYH+RZniarWg1/X+3Og3vEsJuO\nDeDEeZnYmCPAG8X477nUU3UsSJ1m1GcFyR0qc05KtzeSj6EH9ywIw+CqN1zMhs4=\n=uyPV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbbC9mAAoJEMNs3LTfAMaMvWkH/A8AK21hPA9PJYdPc4I5mQ2M\nWadbHxVm/lUhu3JKc7QbdCWGy6R82ohyl8SbXcb9nJXxKdSybBCCSXgIbYt9vVdx\nk7QhwFSPsHGRQt/5JZSzHqzRqQ8El4W+B3BdwJcY8PdioICRdDs8xpkH70x7IG1N\nSIZJUtLLKI6gq2hmJuGU6ipt0dUABTlVAwVSRhsGc3/TmlPkaqraV+v1bqYHMBfH\n3RoBXMMUh2rmhsz4ugwVXV2fg+PPRkYcs4SyxcXYH+RZniarWg1/X+3Og3vEsJuO\nDeDEeZnYmCPAG8X477nUU3UsSJ1m1GcFyR0qc05KtzeSj6EH9ywIw+CqN1zMhs4=\n=uyPV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ca84455a92e228cd93d878f46488fcc479273817\ntype commit\ntag 7.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1533816678 +0000\n\nmistral 7.0.0.0rc1 release candidate\n\nmeta:version: 7.0.0.0rc1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release candidate\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Dougal Matthews <dougal@redhat.com>\nmeta:release:Commit: Dougal Matthews <dougal@redhat.com>\nmeta:release:Change-Id: I022417b37a6be9fffd0e4fb54109c151eee747d3\nmeta:release:Code-Review+1: Andras Kovi <akovi@nokia.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\nmeta:release:+    helps resolve workflows that can become stuck in the RUNNING state when an\n"
+  }
+}

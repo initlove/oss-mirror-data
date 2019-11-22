@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6OWYzNWYwYTBjZTExMzZlMzM3MDY2MmJiZmI3YTY4NjAzODhjNTEwMw==",
+  "sha": "9f35f0a0ce1136e3370662bbfb7a6860388c5103",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/9f35f0a0ce1136e3370662bbfb7a6860388c5103",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2019-04-01T17:58:56Z"
+  },
+  "object": {
+    "sha": "4c75c6f8b39ee57aebe8fd36ef84808e893048c0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/4c75c6f8b39ee57aebe8fd36ef84808e893048c0"
+  },
+  "tag": "libmodulemd-2.2.3",
+  "message": "Tagging libmodulemd 2.2.3 and 1.8.6\n\nDenis Ollier (4):\n      Fix minor typo in openSUSE CI\n      Properly exit if unit tests fail in openSUSE CI\n      Fix minor typo in docs CI\n      Add travis pipeline for Arch Linux\n\nStephen Gallagher (8):\n      Fix EPEL hack\n      Run ComponentRpm tests with both py2 and py3\n      Only require python2 if installing overrides\n      Merge pull request #259 from larchunix/travis/archlinux\n      Bump release to 2.2.3 and 1.8.6\n      Remove reference to private header from ModuelmdRpmMapEntry\n      Include ModulemRpmMapEntry in modulemd.h\n      Move private headers out of modulemd-X.0 path\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXKJRbgAKCRB6JVViNrqj\no1HgAJkBZLNdmqTdqpZgo3oJ++EN5gcYLQCeNi6dB8sYpVcgltFbDB3lsbgqIJY=\n=DcbG\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXKJRbgAKCRB6JVViNrqj\no1HgAJkBZLNdmqTdqpZgo3oJ++EN5gcYLQCeNi6dB8sYpVcgltFbDB3lsbgqIJY=\n=DcbG\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4c75c6f8b39ee57aebe8fd36ef84808e893048c0\ntype commit\ntag libmodulemd-2.2.3\ntagger Stephen Gallagher <sgallagh@redhat.com> 1554141536 -0400\n\nTagging libmodulemd 2.2.3 and 1.8.6\n\nDenis Ollier (4):\n      Fix minor typo in openSUSE CI\n      Properly exit if unit tests fail in openSUSE CI\n      Fix minor typo in docs CI\n      Add travis pipeline for Arch Linux\n\nStephen Gallagher (8):\n      Fix EPEL hack\n      Run ComponentRpm tests with both py2 and py3\n      Only require python2 if installing overrides\n      Merge pull request #259 from larchunix/travis/archlinux\n      Bump release to 2.2.3 and 1.8.6\n      Remove reference to private header from ModuelmdRpmMapEntry\n      Include ModulemRpmMapEntry in modulemd.h\n      Move private headers out of modulemd-X.0 path\n"
+  }
+}

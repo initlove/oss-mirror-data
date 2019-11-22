@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6MTUzYmUzMTBkMzk1NGFmMmU0NWJlYzA4YzUxNWJlODgyZTY4ODBhZg==",
+  "sha": "153be310d3954af2e45bec08c515be882e6880af",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/153be310d3954af2e45bec08c515be882e6880af",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo.lupo@daltonmaag.com",
+    "date": "2017-05-24T10:52:11Z"
+  },
+  "object": {
+    "sha": "6fc7671360509c8eccbdfa44746615e9bfec2ed0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/6fc7671360509c8eccbdfa44746615e9bfec2ed0"
+  },
+  "tag": "3.13.0",
+  "message": "3.13.0\n\n- [varLib.mutator] Implement IUP optimization (#969).\n- [_g_l_y_f.GlyphCoordinates] Changed ``__bool__()`` semantics to match those\n  of other iterables (e46f949). Removed ``__abs__()`` (3db5be2).\n- [varLib.interpolate_layout] Added ``mapped`` keyword argument to\n  ``interpolate_layout`` to allow disabling avar mapping: if False (default),\n  the location is mapped using the map element of the axes in designspace file;\n  if True, it is assumed that location is in designspace's internal space and\n  no mapping is performed (#950, #975).\n- [varLib.interpolate_layout] Import designspace-loading logic from varLib.\n- [varLib] Fixed bug with recombining PairPosClass2 subtables (81498e5, #914).\n- [cffLib.specializer] When copying iterables, cast to list (462b7f86).\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJZJWXbAAoJELYaqtC1OmQZYmIP+gKQs8IjFWxQuFqYkEYkwK5Y\nKE2Z8BrrSTbu76pyIh49GIH6j/5acw8VxLxjZ+tfpgAGapAykR9lvuzowwB3PYk/\n841gH2DcLmHWVNvtFjwhshqvm+cV27pDsUayqdTYLdsrhTNnqxUlYKlescakQeaH\np8fBs7uMzN5oRNO/tcnlsrJ3HnnKUd6pveF0rsk7AGiMT/Bxmy1C5z0k1RXMgvs6\nMscgHFAiCwuWOZBSD/icAOuC6Do028wYdf8HkKGDkWoIkwApkt8WgNa44YNhJRQz\nGf469reOsR7fi+rx2GJowCrzVkzcXfXkhGUxkiED48zcOhbrNDqkZaRpBehiijFz\nnxUOzWf1Yu7AN466PzeHFxxEWkfT7y/sHX59kHWGV9nZiNQUu/SokuN0rxZUq8ok\nt9ohPcxmDOwy/SUlEO/Cw2kt4vB3LdvEBZ45xhDiKRoFa4oNaA1GYTQ2xC7RdEQB\ndnFnJXTdLEabLgeLDUk1yRAYEqHYolq7eR9JCV5GjohP4ptjzBJrvgsb4e4yKNyp\n4o7vAwrUB2zY22nDgafNjcs1DCPvg9QlDUNS1Btgbdv8ntU41J33sVrRJR0hSBWm\nNmk16rNAFAkXXQwbMSC57TIl+7pMRPSmRklKt3NrP74C5Eo1AN23gwJ7gVm0mDSM\nJVcSELYWxXY6cRM1Wt0G\n=8jmL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJZJWXbAAoJELYaqtC1OmQZYmIP+gKQs8IjFWxQuFqYkEYkwK5Y\nKE2Z8BrrSTbu76pyIh49GIH6j/5acw8VxLxjZ+tfpgAGapAykR9lvuzowwB3PYk/\n841gH2DcLmHWVNvtFjwhshqvm+cV27pDsUayqdTYLdsrhTNnqxUlYKlescakQeaH\np8fBs7uMzN5oRNO/tcnlsrJ3HnnKUd6pveF0rsk7AGiMT/Bxmy1C5z0k1RXMgvs6\nMscgHFAiCwuWOZBSD/icAOuC6Do028wYdf8HkKGDkWoIkwApkt8WgNa44YNhJRQz\nGf469reOsR7fi+rx2GJowCrzVkzcXfXkhGUxkiED48zcOhbrNDqkZaRpBehiijFz\nnxUOzWf1Yu7AN466PzeHFxxEWkfT7y/sHX59kHWGV9nZiNQUu/SokuN0rxZUq8ok\nt9ohPcxmDOwy/SUlEO/Cw2kt4vB3LdvEBZ45xhDiKRoFa4oNaA1GYTQ2xC7RdEQB\ndnFnJXTdLEabLgeLDUk1yRAYEqHYolq7eR9JCV5GjohP4ptjzBJrvgsb4e4yKNyp\n4o7vAwrUB2zY22nDgafNjcs1DCPvg9QlDUNS1Btgbdv8ntU41J33sVrRJR0hSBWm\nNmk16rNAFAkXXQwbMSC57TIl+7pMRPSmRklKt3NrP74C5Eo1AN23gwJ7gVm0mDSM\nJVcSELYWxXY6cRM1Wt0G\n=8jmL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6fc7671360509c8eccbdfa44746615e9bfec2ed0\ntype commit\ntag 3.13.0\ntagger Cosimo Lupo <cosimo.lupo@daltonmaag.com> 1495623131 +0100\n\n3.13.0\n\n- [varLib.mutator] Implement IUP optimization (#969).\n- [_g_l_y_f.GlyphCoordinates] Changed ``__bool__()`` semantics to match those\n  of other iterables (e46f949). Removed ``__abs__()`` (3db5be2).\n- [varLib.interpolate_layout] Added ``mapped`` keyword argument to\n  ``interpolate_layout`` to allow disabling avar mapping: if False (default),\n  the location is mapped using the map element of the axes in designspace file;\n  if True, it is assumed that location is in designspace's internal space and\n  no mapping is performed (#950, #975).\n- [varLib.interpolate_layout] Import designspace-loading logic from varLib.\n- [varLib] Fixed bug with recombining PairPosClass2 subtables (81498e5, #914).\n- [cffLib.specializer] When copying iterables, cast to list (462b7f86).\n"
+  }
+}

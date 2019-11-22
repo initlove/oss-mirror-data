@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODMwNzM5MTplMzJkMjhhNDQ4ZWY2YmEyMTI5NTlhMmFiYWY1N2RlZTQwMWFiN2M5",
+  "sha": "e32d28a448ef6ba212959a2abaf57dee401ab7c9",
+  "url": "https://api.github.com/repos/mahmoud/boltons/git/tags/e32d28a448ef6ba212959a2abaf57dee401ab7c9",
+  "tagger": {
+    "name": "Mahmoud Hashemi",
+    "email": "mahmoud@hatnote.com",
+    "date": "2016-05-03T08:23:08Z"
+  },
+  "object": {
+    "sha": "34c63be343f5a0702d38f774a1241ac57f485f49",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mahmoud/boltons/git/commits/34c63be343f5a0702d38f774a1241ac57f485f49"
+  },
+  "tag": "16.2.2",
+  "message": "many small tweaks to socketutils.BufferedSocket, including optional inclusion of the delimiter in recv_until. also undid the enabling of bak files with AtomicFile on windows\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

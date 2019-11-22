@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6MThkYjU0MzdiMmY0OWY5OGEyZTE0OTRiNzdkNjEzMzI5YzM5YTNhYg==",
+  "sha": "18db5437b2f49f98a2e1494b77d613329c39a3ab",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/18db5437b2f49f98a2e1494b77d613329c39a3ab",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2018-04-04T12:59:53Z"
+  },
+  "object": {
+    "sha": "2c4048af6dac77712d939518bc723bc15544c6a6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/2c4048af6dac77712d939518bc723bc15544c6a6"
+  },
+  "tag": "libmodulemd-1.2.0",
+  "message": "Release version 1.2.0\n\n* Modulemd.objects_from_file()\n* Modulemd.objects_from_string()\n* Modulemd.dump()\n* Modulemd.dumps()\n* Modulemd.Defaults.new_from_file()\n* Modulemd.Defaults.new_from_string()\n\n* Modulemd.Module.new_all_from_file()\n* Modulemd.Module.new_all_from_file_ext()\n* Modulemd.Module.new_all_from_string()\n* Modulemd.Module.new_all_from_string_ext()\n* Modulemd.Module.dump_all()\n* Modulemd.Module.dumps_all()\n\n* Properly use G_BEGIN_DECLS and G_END_DECLS in headers\n* Assorted fixes for memory ownership in GObject Introspection\n\nSigned-off-by: Stephen Gallagher <sgallagh@redhat.com>\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWsTMTAAKCRB6JVViNrqj\no3XTAKClcRKlDo900thgjKXWXkkip15kvgCfYdAs57rHuignvCEVu7B1X9FAWS4=\n=QK1g\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWsTMTAAKCRB6JVViNrqj\no3XTAKClcRKlDo900thgjKXWXkkip15kvgCfYdAs57rHuignvCEVu7B1X9FAWS4=\n=QK1g\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2c4048af6dac77712d939518bc723bc15544c6a6\ntype commit\ntag libmodulemd-1.2.0\ntagger Stephen Gallagher <sgallagh@redhat.com> 1522846793 -0400\n\nRelease version 1.2.0\n\n* Modulemd.objects_from_file()\n* Modulemd.objects_from_string()\n* Modulemd.dump()\n* Modulemd.dumps()\n* Modulemd.Defaults.new_from_file()\n* Modulemd.Defaults.new_from_string()\n\n* Modulemd.Module.new_all_from_file()\n* Modulemd.Module.new_all_from_file_ext()\n* Modulemd.Module.new_all_from_string()\n* Modulemd.Module.new_all_from_string_ext()\n* Modulemd.Module.dump_all()\n* Modulemd.Module.dumps_all()\n\n* Properly use G_BEGIN_DECLS and G_END_DECLS in headers\n* Assorted fixes for memory ownership in GObject Introspection\n\nSigned-off-by: Stephen Gallagher <sgallagh@redhat.com>\n"
+  }
+}

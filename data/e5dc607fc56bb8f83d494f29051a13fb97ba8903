@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE0NzY5ODplNWRjNjA3ZmM1NmJiOGY4M2Q0OTRmMjkwNTFhMTNmYjk3YmE4OTAz",
+  "sha": "e5dc607fc56bb8f83d494f29051a13fb97ba8903",
+  "url": "https://api.github.com/repos/proot-me/proot/git/tags/e5dc607fc56bb8f83d494f29051a13fb97ba8903",
+  "tagger": {
+    "name": "Cédric VINCENT",
+    "email": "cedric.vincent@st.com",
+    "date": "2011-09-07T08:50:07Z"
+  },
+  "object": {
+    "sha": "752afb6b1b45ead3e5673c96251d86888bf68b6c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/proot-me/proot/git/commits/752afb6b1b45ead3e5673c96251d86888bf68b6c"
+  },
+  "tag": "v0.6.2",
+  "message": "Release v0.6.2\n==============\n\n* Change the default command from $SHELL to \"/bin/sh\".  The previous\n  behaviour led to an unexpected error -- from user's point-of-view --\n  when $SHELL didn't exit in the new root file-system.\n\n* Fix *partially* support for readlink(2) when mirror pathes are in\n  use.  Prior this patch, any symbolic link -- that points to an\n  absolute path which prefix is equal to the host-side of any mirror\n  path -- was bugged.  For instance, the command \"proot -m /bin:/host\n  $ROOTFS /usr/bin/readlink /usr/bin/ps\" returned \"/host\" instead of\n  \"/bin/ps\".\n\n* Add the option \"-V\" to print the version then exit.\n\n* Be more explicit when a wrong command-line argument is used.\n\n* Remove the SIGSEGV help message: it was too confusing to the user.\n\n* Use a new shining build-system (again :D).\n\nSpecial thanks go to those contributors: Yves JANIN, Remi Duraffort\nand Christophe GUILLON.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJOZzBDAAoJELahHY4Fe9afZlwP/RSN1o1aL8sgY46SsepkCaVQ\nMniNg6sBR9+DhGVEYU/oR+XXNxvDQPsfvs1q8P/fa6f6GnUgpitEy8OGMH2b5BYG\ngrOJe+/q6JyJj/9jEwfAGiTy/sOYQg3Z2GcnTFCB9/spnkf5dKwMhGslTeeoRGuX\nuGgZo++TCMK0+mOftmSEkq0w5Y39JORhQaQXoFkoEqJmJTDwwW6JzaJXvOq68lDq\nNecroq3aPi+hLhOzi1uwY8NiLH9jmQyvrL5yoPg/1hFnkN1rxrgu1c3kUBpY41bX\nsqUDTOwCckfx32wq1V6URbmQ+wQ/YNgRlnmmliEleoX5Y3nEyQrCNnMMAD+zlx8U\neRcSYW1d6X/oR7r/K73GXI8Waru5E3Ct0Fw2SKyRNOygd5nZ4ntP0WXzs+1S37cp\nTCi2fSxJif1W9bgCKLG+0Q7FUYNB7Q/3BPPD+esk7aY2I/fGqZ10oW2puP7Jr9Ox\nvL7GMN5OnJMcL8yLszNovSqI0RaHsA5tgATxIzmTlLRzoIAeGb8qqvs+nQ332ccJ\nTffX1qhditCS097RzCIyikKEb0OfXS+P6oZPoPBp3ZuGO0Wb5uU3Q3ahr0MqRtd+\nxWBMv526LdYVc+zuvpple0iv2AxBLrWTduyQkcVzJkwzP728OeC+7GykQb6SyE4I\nAxumtY+lgAQQurDWfStq\n=Fi4x\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJOZzBDAAoJELahHY4Fe9afZlwP/RSN1o1aL8sgY46SsepkCaVQ\nMniNg6sBR9+DhGVEYU/oR+XXNxvDQPsfvs1q8P/fa6f6GnUgpitEy8OGMH2b5BYG\ngrOJe+/q6JyJj/9jEwfAGiTy/sOYQg3Z2GcnTFCB9/spnkf5dKwMhGslTeeoRGuX\nuGgZo++TCMK0+mOftmSEkq0w5Y39JORhQaQXoFkoEqJmJTDwwW6JzaJXvOq68lDq\nNecroq3aPi+hLhOzi1uwY8NiLH9jmQyvrL5yoPg/1hFnkN1rxrgu1c3kUBpY41bX\nsqUDTOwCckfx32wq1V6URbmQ+wQ/YNgRlnmmliEleoX5Y3nEyQrCNnMMAD+zlx8U\neRcSYW1d6X/oR7r/K73GXI8Waru5E3Ct0Fw2SKyRNOygd5nZ4ntP0WXzs+1S37cp\nTCi2fSxJif1W9bgCKLG+0Q7FUYNB7Q/3BPPD+esk7aY2I/fGqZ10oW2puP7Jr9Ox\nvL7GMN5OnJMcL8yLszNovSqI0RaHsA5tgATxIzmTlLRzoIAeGb8qqvs+nQ332ccJ\nTffX1qhditCS097RzCIyikKEb0OfXS+P6oZPoPBp3ZuGO0Wb5uU3Q3ahr0MqRtd+\nxWBMv526LdYVc+zuvpple0iv2AxBLrWTduyQkcVzJkwzP728OeC+7GykQb6SyE4I\nAxumtY+lgAQQurDWfStq\n=Fi4x\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 752afb6b1b45ead3e5673c96251d86888bf68b6c\ntype commit\ntag v0.6.2\ntagger Cédric VINCENT <cedric.vincent@st.com> 1315385407 +0200\n\nRelease v0.6.2\n==============\n\n* Change the default command from $SHELL to \"/bin/sh\".  The previous\n  behaviour led to an unexpected error -- from user's point-of-view --\n  when $SHELL didn't exit in the new root file-system.\n\n* Fix *partially* support for readlink(2) when mirror pathes are in\n  use.  Prior this patch, any symbolic link -- that points to an\n  absolute path which prefix is equal to the host-side of any mirror\n  path -- was bugged.  For instance, the command \"proot -m /bin:/host\n  $ROOTFS /usr/bin/readlink /usr/bin/ps\" returned \"/host\" instead of\n  \"/bin/ps\".\n\n* Add the option \"-V\" to print the version then exit.\n\n* Be more explicit when a wrong command-line argument is used.\n\n* Remove the SIGSEGV help message: it was too confusing to the user.\n\n* Use a new shining build-system (again :D).\n\nSpecial thanks go to those contributors: Yves JANIN, Remi Duraffort\nand Christophe GUILLON.\n"
+  }
+}

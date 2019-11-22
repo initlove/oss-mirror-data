@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTg5NDk2MjpkOGNjZjQ5NjRlYjBjNTRhNmM5NWZmNzQ5ZDMzYTE1Y2M1ZTAwNTE5",
+  "sha": "d8ccf4964eb0c54a6c95ff749d33a15cc5e00519",
+  "url": "https://api.github.com/repos/h5py/h5py/git/tags/d8ccf4964eb0c54a6c95ff749d33a15cc5e00519",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2017-09-01T04:42:52Z"
+  },
+  "object": {
+    "sha": "4817febbf135e0ebc6a83a21ca8de9986b54c0f3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/h5py/h5py/git/commits/4817febbf135e0ebc6a83a21ca8de9986b54c0f3"
+  },
+  "tag": "2.7.1",
+  "message": "REL: 2.7.1\n\nFirst bugfix release in 2.7 series.\n\nThis has several critical fixes for possible segfault and deadlocks.\n\n- Fixed critical issue with cyclic gc which resulted in segfaults\n- Avoid unaligned access fixing h5py on sparc64\n- Fixed compilation issues for some library locations\n- Fix deadlock between phil and the import lock in py2\n- Improve windows handling if filenames\n- Allow close to be called on file multiple times\n- Warn on loaded vs complied hdf5 version issues\n- Fix overflow computing size of dataset on windows\n- Do not mangle capitalization of filenames in error messages\n- Fix longdouble on ppc64le\n- Fix compounds structs with variable-size members\n-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlmo5U4THHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U7892VLB/9g2aaaAEQxHbxIFJwmwj/ugpkBFjSg\nPXQxFYTWSAE3mGIeoPAv8QD/cyReBxrXVwp63z6mNPF2k0UDU9z3f4m65AWY7+CN\no56BQ1WYwOIuJ24Dz/8zEtUC6MPdT7mL/fWu6V0nK/dOaZpwSeLrV+2HpMyDfZee\nQXcq1G0u3Q0dEXYym0VkEas4CoyZ1wTDxaL8s64Uby/zev1hh8QOSsewc8ZoBrRK\nuGRHczlwxwmMnHd0jPAKebf7FV0KXQUFDXf0bcKjb9duy6SnPHBx8S0N7dLeCEm3\npOjDmUzJgTYM7MAmQVxvjIN7ed+VtCtQUayvcKQEYGwPcH51+xUCm6ni\n=+2IM\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlmo5U4THHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U7892VLB/9g2aaaAEQxHbxIFJwmwj/ugpkBFjSg\nPXQxFYTWSAE3mGIeoPAv8QD/cyReBxrXVwp63z6mNPF2k0UDU9z3f4m65AWY7+CN\no56BQ1WYwOIuJ24Dz/8zEtUC6MPdT7mL/fWu6V0nK/dOaZpwSeLrV+2HpMyDfZee\nQXcq1G0u3Q0dEXYym0VkEas4CoyZ1wTDxaL8s64Uby/zev1hh8QOSsewc8ZoBrRK\nuGRHczlwxwmMnHd0jPAKebf7FV0KXQUFDXf0bcKjb9duy6SnPHBx8S0N7dLeCEm3\npOjDmUzJgTYM7MAmQVxvjIN7ed+VtCtQUayvcKQEYGwPcH51+xUCm6ni\n=+2IM\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4817febbf135e0ebc6a83a21ca8de9986b54c0f3\ntype commit\ntag 2.7.1\ntagger Thomas A Caswell <tcaswell@gmail.com> 1504240972 -0400\n\nREL: 2.7.1\n\nFirst bugfix release in 2.7 series.\n\nThis has several critical fixes for possible segfault and deadlocks.\n\n- Fixed critical issue with cyclic gc which resulted in segfaults\n- Avoid unaligned access fixing h5py on sparc64\n- Fixed compilation issues for some library locations\n- Fix deadlock between phil and the import lock in py2\n- Improve windows handling if filenames\n- Allow close to be called on file multiple times\n- Warn on loaded vs complied hdf5 version issues\n- Fix overflow computing size of dataset on windows\n- Do not mangle capitalization of filenames in error messages\n- Fix longdouble on ppc64le\n- Fix compounds structs with variable-size members\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMzNjg0NDU6YTkxY2EwM2E1N2Q0Mjg5YTNiOTk1ODJmNmIxNTg0NWI2MDUyOWJkMw==",
+  "sha": "a91ca03a57d4289a3b99582f6b15845b60529bd3",
+  "url": "https://api.github.com/repos/webmproject/libwebp/git/tags/a91ca03a57d4289a3b99582f6b15845b60529bd3",
+  "tagger": {
+    "name": "James Zern",
+    "email": "jzern@google.com",
+    "date": "2013-12-30T17:38:21Z"
+  },
+  "object": {
+    "sha": "68e7901da53cbda6ec93ddf93e039346d3c6a531",
+    "type": "commit",
+    "url": "https://api.github.com/repos/webmproject/libwebp/git/commits/68e7901da53cbda6ec93ddf93e039346d3c6a531"
+  },
+  "tag": "v0.4.0",
+  "message": "libwebp 0.4.0\n- 12/19/13: version 0.4.0\n  * improved gif2webp tool\n  * numerous fixes, compression improvement and speed-up\n  * dither option added to decoder (dwebp -dither 50 ...)\n  * improved multi-threaded modes (-mt option)\n  * improved filtering strength determination\n  * New function: WebPMuxGetCanvasSize\n  * BMP and TIFF format output added to 'dwebp'\n  * Significant memory reduction for decoding lossy images with alpha.\n  * Intertwined decoding of RGB and alpha for a shorter\n    time-to-first-decoded-pixel.\n  * WebPIterator has a new member 'has_alpha' denoting whether the frame\n    contains transparency.\n  * Container spec amended with new 'blending method' for animation.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJSwa+nAAoJEPnD1r24IytdJeQQAI7JT/lyhcVdFw9yGsb8SaXr\nkzz0OR+4WYIIuHVJSYJ5scun6kXYkj3AXBfBi/ctmKzLSPkAPumX/HTdZgD4e9Hx\nqyLK9GlISr3BvQu3PLQWOrebxHNmm+MwZAWSiVm2mwFTx6KQiJBfgNRUy+BKyS4m\nKQxkpMY1p9An73+e1OBrtJae1hdgBX8ClRqju56v8xqYbOEjbrTD0CTV0Cu1h3mz\nxp7mQx8EPfo77k5HCEdYf2xRPRbCfQ4jy8SO8AW/zNPRLJVXFnpLb6jpinNlABFU\nAl38om5BIRgX4amndSpLFH6ysaCEeqWIR/2OHDlLmiNeeukTuqZdg0ewLy5JpbFU\nByD5tG9BA3vXGf+sGH7RAiVdLjArAZb3Npp2hSCuzJj9UI9r+9ofjoXSd8BcMct3\nxb+vXmGSjKt3rpdUiREeXBYUd/Yhr5S4sMsFlx99XBeHvc1nxKsJBua5P3ixv4v9\np6hJ3Ngri38Zo83aOBZkS+p1VETbaTwxC6q8oJ5pk4w8IcM03ViBizTMNshohF1k\nd1uVHd4ZwM3HYS2L21JZW0KCN6iwGmgcfNFm8RvHoAkxw27vRd6eRmz+SU97n/VD\nNe5oZlHiKrqTnobSfY2c3tK5gpVewwPo4dpgLJbvij86IRwnNHfoSYhsOPTVi3O1\npup4AUMY8kAUwmUUceoL\n=K/1E\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJSwa+nAAoJEPnD1r24IytdJeQQAI7JT/lyhcVdFw9yGsb8SaXr\nkzz0OR+4WYIIuHVJSYJ5scun6kXYkj3AXBfBi/ctmKzLSPkAPumX/HTdZgD4e9Hx\nqyLK9GlISr3BvQu3PLQWOrebxHNmm+MwZAWSiVm2mwFTx6KQiJBfgNRUy+BKyS4m\nKQxkpMY1p9An73+e1OBrtJae1hdgBX8ClRqju56v8xqYbOEjbrTD0CTV0Cu1h3mz\nxp7mQx8EPfo77k5HCEdYf2xRPRbCfQ4jy8SO8AW/zNPRLJVXFnpLb6jpinNlABFU\nAl38om5BIRgX4amndSpLFH6ysaCEeqWIR/2OHDlLmiNeeukTuqZdg0ewLy5JpbFU\nByD5tG9BA3vXGf+sGH7RAiVdLjArAZb3Npp2hSCuzJj9UI9r+9ofjoXSd8BcMct3\nxb+vXmGSjKt3rpdUiREeXBYUd/Yhr5S4sMsFlx99XBeHvc1nxKsJBua5P3ixv4v9\np6hJ3Ngri38Zo83aOBZkS+p1VETbaTwxC6q8oJ5pk4w8IcM03ViBizTMNshohF1k\nd1uVHd4ZwM3HYS2L21JZW0KCN6iwGmgcfNFm8RvHoAkxw27vRd6eRmz+SU97n/VD\nNe5oZlHiKrqTnobSfY2c3tK5gpVewwPo4dpgLJbvij86IRwnNHfoSYhsOPTVi3O1\npup4AUMY8kAUwmUUceoL\n=K/1E\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 68e7901da53cbda6ec93ddf93e039346d3c6a531\ntype commit\ntag v0.4.0\ntagger James Zern <jzern@google.com> 1388425101 -0800\n\nlibwebp 0.4.0\n- 12/19/13: version 0.4.0\n  * improved gif2webp tool\n  * numerous fixes, compression improvement and speed-up\n  * dither option added to decoder (dwebp -dither 50 ...)\n  * improved multi-threaded modes (-mt option)\n  * improved filtering strength determination\n  * New function: WebPMuxGetCanvasSize\n  * BMP and TIFF format output added to 'dwebp'\n  * Significant memory reduction for decoding lossy images with alpha.\n  * Intertwined decoding of RGB and alpha for a shorter\n    time-to-first-decoded-pixel.\n  * WebPIterator has a new member 'has_alpha' denoting whether the frame\n    contains transparency.\n  * Container spec amended with new 'blending method' for animation.\n"
+  }
+}

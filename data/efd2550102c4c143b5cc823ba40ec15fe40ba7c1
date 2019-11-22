@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE0NzY5ODplZmQyNTUwMTAyYzRjMTQzYjVjYzgyM2JhNDBlYzE1ZmU0MGJhN2Mx",
+  "sha": "efd2550102c4c143b5cc823ba40ec15fe40ba7c1",
+  "url": "https://api.github.com/repos/proot-me/proot/git/tags/efd2550102c4c143b5cc823ba40ec15fe40ba7c1",
+  "tagger": {
+    "name": "Cédric VINCENT",
+    "email": "cedric.vincent@st.com",
+    "date": "2014-09-15T12:23:18Z"
+  },
+  "object": {
+    "sha": "5dfa69e998e356fc50e8d95ead05899fb35897dd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/proot-me/proot/git/commits/5dfa69e998e356fc50e8d95ead05899fb35897dd"
+  },
+  "tag": "care-v2.2",
+  "message": "CARE v2.2\n=========\n\n+ Special characters in environment variables are now correctly quoted\n  in the generated \"re-execute.sh\" script.  For instance, the value of\n  \"COMP_WORDBREAKS\" environment variable on Ubuntu used to make CARE\n  generate broken \"re-execute.sh\" scripts.\n\n+ It is now possible to deliver CARE as a dynamically linked binary.\n  In this case, the self-extracting format is not supported since one\n  can't assume the re-execution environment contains all the\n  pre-requisites (libtalloc, libarchive, proot).  Thus, CARE and PRoot\n  should be deployed independently on the re-execution environment.\n\n+ Syscall are now emulated only if it is really needed.\n\nThis release is based on PRoot v4.0.3, so it contains all the\nfollowing generic fixes too:\n\n  https://github.com/cedric-vincent/PRoot/releases/tag/v4.0.0\n  https://github.com/cedric-vincent/PRoot/releases/tag/v4.0.1\n  https://github.com/cedric-vincent/PRoot/releases/tag/v4.0.2\n  https://github.com/cedric-vincent/PRoot/releases/tag/v4.0.3\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

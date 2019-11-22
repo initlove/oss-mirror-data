@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6M2RmOTMyNTlmMzIxMWYxYmViZmUxZjAxOWM0MzJhYmFkNzFjMmFmMg==",
+  "sha": "3df93259f3211f1bebfe1f019c432abad71c2af2",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/3df93259f3211f1bebfe1f019c432abad71c2af2",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo.lupo@daltonmaag.com",
+    "date": "2016-12-15T11:12:14Z"
+  },
+  "object": {
+    "sha": "95f76885e72f18b740d842484858f08a2bc3bcb4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/95f76885e72f18b740d842484858f08a2bc3bcb4"
+  },
+  "tag": "3.3.1",
+  "message": "3.3.1\n\n- [setup] We no longer use versioneer.py to compute fonttools version from git\n  metadata, as this has caused issues for some users (#767). Now we bump the\n  version strings manually with a custom `release` command of setup.py script.\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJYUnqOAAoJELYaqtC1OmQZXEIP/jPPuaeMQ3/+xFl5WJG3rmDr\nDJPMr4KrOxp/BCw3CLRKdb9Gz7cL5EnM1uRdVIwtWhKW4yrzrmjOoZa6zx5HNDMd\nYMoP/3ITeutiyRBYNpfVY2iHijVA4p8LDJtYYhRoAxDzE88EfjehAt+68MqeQ96X\nYF4wuSpWODKf80KVeHfHiEJRjXzH7I/4n2gmZyL4fioXFmWO4JsijW5xxR5K8r67\nZjS1mh0wXE4oWCiu2LsXyV6pHs3nuVEmqlYJYoiumcEmbeH73oqA9ah9uq1zN5Zd\nU5toH7eLoDle+LXMLqgGs/xdIX3BxqgudSo8PxsmCt+yqfTgX31uzmSgsgtvP+Se\nTZhBZ0vlF04R5dvA7TvISx6EQeTj6Df59V10J483BMr9VLDWhzcmeT2lkXYAJSy+\n0K5FhsEdf3RZAw/5AwMDdMDgVBY0qeG/gvgJ+3VT0BDFpw5GPm5cBt9w8WYdbze3\nHJqeCXYfeOTB7P8PH0ghg50HEfNsKE4A9YTbLxRIVs2PNIeOIaiwQLFyDbbBCueI\nk/1H9jSWzKHbJUfGiWRpnsHIcm3uOwybe9zaLki46EFRgBXFYLzbyYDmki3LU8WV\nwRhJ5ZX/gCFuY6WpSEwHwrhgJtF1c7kXqX7SB6eAmva1BtSK1V0Mpco7Y8nzx2IZ\nkrtS7BgaB+ELCsmPSfhB\n=GH4P\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJYUnqOAAoJELYaqtC1OmQZXEIP/jPPuaeMQ3/+xFl5WJG3rmDr\nDJPMr4KrOxp/BCw3CLRKdb9Gz7cL5EnM1uRdVIwtWhKW4yrzrmjOoZa6zx5HNDMd\nYMoP/3ITeutiyRBYNpfVY2iHijVA4p8LDJtYYhRoAxDzE88EfjehAt+68MqeQ96X\nYF4wuSpWODKf80KVeHfHiEJRjXzH7I/4n2gmZyL4fioXFmWO4JsijW5xxR5K8r67\nZjS1mh0wXE4oWCiu2LsXyV6pHs3nuVEmqlYJYoiumcEmbeH73oqA9ah9uq1zN5Zd\nU5toH7eLoDle+LXMLqgGs/xdIX3BxqgudSo8PxsmCt+yqfTgX31uzmSgsgtvP+Se\nTZhBZ0vlF04R5dvA7TvISx6EQeTj6Df59V10J483BMr9VLDWhzcmeT2lkXYAJSy+\n0K5FhsEdf3RZAw/5AwMDdMDgVBY0qeG/gvgJ+3VT0BDFpw5GPm5cBt9w8WYdbze3\nHJqeCXYfeOTB7P8PH0ghg50HEfNsKE4A9YTbLxRIVs2PNIeOIaiwQLFyDbbBCueI\nk/1H9jSWzKHbJUfGiWRpnsHIcm3uOwybe9zaLki46EFRgBXFYLzbyYDmki3LU8WV\nwRhJ5ZX/gCFuY6WpSEwHwrhgJtF1c7kXqX7SB6eAmva1BtSK1V0Mpco7Y8nzx2IZ\nkrtS7BgaB+ELCsmPSfhB\n=GH4P\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 95f76885e72f18b740d842484858f08a2bc3bcb4\ntype commit\ntag 3.3.1\ntagger Cosimo Lupo <cosimo.lupo@daltonmaag.com> 1481800334 +0000\n\n3.3.1\n\n- [setup] We no longer use versioneer.py to compute fonttools version from git\n  metadata, as this has caused issues for some users (#767). Now we bump the\n  version strings manually with a custom `release` command of setup.py script.\n"
+  }
+}

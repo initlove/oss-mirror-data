@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzYwMDU6N2E2NmU4Y2EwZDZiMTkyYzc0NDUxMzNiNGQ0NDgwYTdhNzM3MjExNA==",
+  "sha": "7a66e8ca0d6b192c7445133b4d4480a7a7372114",
+  "url": "https://api.github.com/repos/gpg/libgcrypt/git/tags/7a66e8ca0d6b192c7445133b4d4480a7a7372114",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2015-09-08T06:32:00Z"
+  },
+  "object": {
+    "sha": "72e8c2715dff99b63ef3c1541ae0dbfee4e99410",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libgcrypt/git/commits/72e8c2715dff99b63ef3c1541ae0dbfee4e99410"
+  },
+  "tag": "libgcrypt-1.6.4",
+  "message": "Mainly AESNI fix for Windows\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJV7oDgAAoJECSbOdJPJeO2ZSsH+wZMnLHE+4rlNIGxHIgIkx0/\nXmV8RT+M/wZP630EXoPjP9hkqjP4usGHIVn+SvL1R4ylTB8QZVHLalOuygdjnvg+\nolhRq9RlRSrsUShS6HRdbzmrX0L+H/vbSNNhTILmHkkfiMr9O4HIIuOkur64tKFD\neypRaw/TlmjQjLXXM/dmuchRtBWtTppgh4Jbfz/ITBJIW3iCfhzD9GQOQZ0zH6M7\nvzQzY4ztQ8RioVUsAVevVeX+mc62hTzHG64vfy4h713rUDU90cFL76LpBVEDCubP\n7t1sVIgj47MPnwP7gTOCRlvlGodAdMhIPTX7Rp6tXtOsh/zlZIOJR9hL46yyR0g=\n=O0FI\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJV7oDgAAoJECSbOdJPJeO2ZSsH+wZMnLHE+4rlNIGxHIgIkx0/\nXmV8RT+M/wZP630EXoPjP9hkqjP4usGHIVn+SvL1R4ylTB8QZVHLalOuygdjnvg+\nolhRq9RlRSrsUShS6HRdbzmrX0L+H/vbSNNhTILmHkkfiMr9O4HIIuOkur64tKFD\neypRaw/TlmjQjLXXM/dmuchRtBWtTppgh4Jbfz/ITBJIW3iCfhzD9GQOQZ0zH6M7\nvzQzY4ztQ8RioVUsAVevVeX+mc62hTzHG64vfy4h713rUDU90cFL76LpBVEDCubP\n7t1sVIgj47MPnwP7gTOCRlvlGodAdMhIPTX7Rp6tXtOsh/zlZIOJR9hL46yyR0g=\n=O0FI\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 72e8c2715dff99b63ef3c1541ae0dbfee4e99410\ntype commit\ntag libgcrypt-1.6.4\ntagger Werner Koch <wk@gnupg.org> 1441693920 +0200\n\nMainly AESNI fix for Windows\n"
+  }
+}

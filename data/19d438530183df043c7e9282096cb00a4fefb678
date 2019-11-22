@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6MTlkNDM4NTMwMTgzZGYwNDNjN2U5MjgyMDk2Y2IwMGE0ZmVmYjY3OA==",
+  "sha": "19d438530183df043c7e9282096cb00a4fefb678",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/19d438530183df043c7e9282096cb00a4fefb678",
+  "tagger": {
+    "name": "Matti Ranta",
+    "email": "matti@mdranta.net",
+    "date": "2019-01-16T02:00:37Z"
+  },
+  "object": {
+    "sha": "eb0ee6bf584b530f5cfc23838112317560a5d925",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/eb0ee6bf584b530f5cfc23838112317560a5d925"
+  },
+  "tag": "v1.6.4",
+  "message": "* BUGFIX\n  * Fix SSH key now can be reused as public key after deleting as deploy key (#5671) (#5685)\n  * When redirecting clean the path to avoid redirecting to external site (#5669) (#5703)\n  * Fix to use correct value for \"MSpan Structures Obtained\" (#5706) (#5715)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlw+kEUACgkQ2bVhO+uB\nP5nR9Qf/XRIIr7z1lwAI67lCTr11qgf/FfGeCbrHivYJpEchBckNropbetpzsKKt\n4W/Dd7s3gK52L338Y52sF5Gts+LGqKfGiJ+XJugUQIPm4NK5Q9ohwei2FgcgcfEX\n10Qxvz8jqF8NZ6NEnC1bTL2kE9CvxGTZodVIct6zYR/+Bk2cXLTMCDzlSreOKIKV\nUQIaeEtnJrXXXYW7SOCkJPVHcjd3q7TwQkQJJYakpXoa36CNxbJTpmT7mXBwH9KW\n7VZREdcS8+SvVqu44hLhMZTekMwLDVc0q3LNJUmPrf1ZN76ZgzGOSW1wjzeOY1fy\n29yFDSMyUDZBLbUqZrLFR0Gx9v/54g==\n=iHZN\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlw+kEUACgkQ2bVhO+uB\nP5nR9Qf/XRIIr7z1lwAI67lCTr11qgf/FfGeCbrHivYJpEchBckNropbetpzsKKt\n4W/Dd7s3gK52L338Y52sF5Gts+LGqKfGiJ+XJugUQIPm4NK5Q9ohwei2FgcgcfEX\n10Qxvz8jqF8NZ6NEnC1bTL2kE9CvxGTZodVIct6zYR/+Bk2cXLTMCDzlSreOKIKV\nUQIaeEtnJrXXXYW7SOCkJPVHcjd3q7TwQkQJJYakpXoa36CNxbJTpmT7mXBwH9KW\n7VZREdcS8+SvVqu44hLhMZTekMwLDVc0q3LNJUmPrf1ZN76ZgzGOSW1wjzeOY1fy\n29yFDSMyUDZBLbUqZrLFR0Gx9v/54g==\n=iHZN\n-----END PGP SIGNATURE-----\n",
+    "payload": "object eb0ee6bf584b530f5cfc23838112317560a5d925\ntype commit\ntag v1.6.4\ntagger Matti Ranta <matti@mdranta.net> 1547604037 -0500\n\n* BUGFIX\n  * Fix SSH key now can be reused as public key after deleting as deploy key (#5671) (#5685)\n  * When redirecting clean the path to avoid redirecting to external site (#5669) (#5703)\n  * Fix to use correct value for \"MSpan Structures Obtained\" (#5706) (#5715)\n"
+  }
+}

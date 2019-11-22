@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6MTNmOGIyMDMzMWQyZWVkYzU5ZjAzMDNjNjZiMDg0ZTAxZTFlMWY4ZQ==",
+  "sha": "13f8b20331d2eedc59f0303c66b084e01e1e1f8e",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/13f8b20331d2eedc59f0303c66b084e01e1e1f8e",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "clupo@google.com",
+    "date": "2019-04-29T10:41:25Z"
+  },
+  "object": {
+    "sha": "1db1cdb4c7bd26fffe82580a3803ae5c68b6149f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/1db1cdb4c7bd26fffe82580a3803ae5c68b6149f"
+  },
+  "tag": "3.41.0",
+  "message": "3.41.0\n\n- [varLib/cffLib] Added support for building ``CFF2`` variable font from sparse\n  masters, or masters with more than one model (multiple ``VarStore.VarData``).\n  In ``cffLib.specializer``, added support for ``CFF2`` CharStrings with\n  ``blend`` operators (#1547, #1591).\n- [subset] Fixed subsetting ``HVAR`` and ``VVAR`` with ``--retain-gids`` option,\n  and when advances mapping is null while sidebearings mappings are non-null\n  (#1587, #1588).\n- Added ``otlLib.maxContextCalc`` module to compute ``OS/2.usMaxContext`` value.\n  Calculate it automatically when compiling features with feaLib. Added option\n  ``--recalc-max-context`` to ``subset`` module (#1582).\n- [otBase/otTables] Fixed ``AttributeError`` on missing OT table fields after\n  importing font from TTX (#1584).\n- [Silf] Fixed typo ``Silf`` table's ``decompile`` method (#1586).\n- [otlLib] Better compress ``GPOS`` SinglePos (LookupType 1) subtables (#1539).\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEECmg+jyg0uYckWRrNF5qPCJWgL08FAlzG1NUACgkQF5qPCJWg\nL0/kug//TOm/nWyQXcv9xeoPhZsbCAiP2V67piuXpS5bOPjtvQpMeNsdBsK5H9H/\nDgQeSTacKHnxrwMm/uwj9M4EVBYRyZUoFG3G68oofPIyC+6WWOptpkfdQdc7tKL9\nIpgmCN4SiSx8w+GPtnznwsh2/h9iSWwMk9tCl97k2uQ7zPOhL9OlhTHz5AVjzUtk\nOtyZWsBSJeKOCrid61Zvl0wwr6bR2/eN5hwaUzE0cxkZgUOLF3nCTYHgB7aaFrGG\nA0ri6Fsr4y+Zb4p69ZH6NgJSh/yvoHHl6dnHKFfLoP3g3vpimuKCxHSUMYtb4NdW\n3A/LSuOi7f+A+i7bBzuydiJlF63l5v/kL0N9+Qw3AVDqGejNzVUw+OBaexCajmzU\n0vnbcSNJtoBYjDCQdn6QV+JapJ/KpQFFFuqxdOZF6Jm09KrSVmnuCzWs8NCmcbbS\ng8p8/7SJOmvzpX+G/7Rwnn5sqB6VQSo5t2UFyRh4LH89dwYX85S8omBNAjFLIXGO\nGYV9G1KnALnD77OTWxNJ5g5KsWKmmuLu6t2ON/PXbWJKtTrcHgUbUsHtcGZWhBS0\nL2UwUAi2A9gCBvlkpbySg1vP+UZ2Xed4aS+jP9tPXUg1kp9UenTXsbEgs3O21UmV\ngSMJHG8C1eQLpZoxje5ZtgtvRUlCxvFrVqvOUDA/7RBUJBN/wC4=\n=XNe0\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEECmg+jyg0uYckWRrNF5qPCJWgL08FAlzG1NUACgkQF5qPCJWg\nL0/kug//TOm/nWyQXcv9xeoPhZsbCAiP2V67piuXpS5bOPjtvQpMeNsdBsK5H9H/\nDgQeSTacKHnxrwMm/uwj9M4EVBYRyZUoFG3G68oofPIyC+6WWOptpkfdQdc7tKL9\nIpgmCN4SiSx8w+GPtnznwsh2/h9iSWwMk9tCl97k2uQ7zPOhL9OlhTHz5AVjzUtk\nOtyZWsBSJeKOCrid61Zvl0wwr6bR2/eN5hwaUzE0cxkZgUOLF3nCTYHgB7aaFrGG\nA0ri6Fsr4y+Zb4p69ZH6NgJSh/yvoHHl6dnHKFfLoP3g3vpimuKCxHSUMYtb4NdW\n3A/LSuOi7f+A+i7bBzuydiJlF63l5v/kL0N9+Qw3AVDqGejNzVUw+OBaexCajmzU\n0vnbcSNJtoBYjDCQdn6QV+JapJ/KpQFFFuqxdOZF6Jm09KrSVmnuCzWs8NCmcbbS\ng8p8/7SJOmvzpX+G/7Rwnn5sqB6VQSo5t2UFyRh4LH89dwYX85S8omBNAjFLIXGO\nGYV9G1KnALnD77OTWxNJ5g5KsWKmmuLu6t2ON/PXbWJKtTrcHgUbUsHtcGZWhBS0\nL2UwUAi2A9gCBvlkpbySg1vP+UZ2Xed4aS+jP9tPXUg1kp9UenTXsbEgs3O21UmV\ngSMJHG8C1eQLpZoxje5ZtgtvRUlCxvFrVqvOUDA/7RBUJBN/wC4=\n=XNe0\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1db1cdb4c7bd26fffe82580a3803ae5c68b6149f\ntype commit\ntag 3.41.0\ntagger Cosimo Lupo <clupo@google.com> 1556534485 +0200\n\n3.41.0\n\n- [varLib/cffLib] Added support for building ``CFF2`` variable font from sparse\n  masters, or masters with more than one model (multiple ``VarStore.VarData``).\n  In ``cffLib.specializer``, added support for ``CFF2`` CharStrings with\n  ``blend`` operators (#1547, #1591).\n- [subset] Fixed subsetting ``HVAR`` and ``VVAR`` with ``--retain-gids`` option,\n  and when advances mapping is null while sidebearings mappings are non-null\n  (#1587, #1588).\n- Added ``otlLib.maxContextCalc`` module to compute ``OS/2.usMaxContext`` value.\n  Calculate it automatically when compiling features with feaLib. Added option\n  ``--recalc-max-context`` to ``subset`` module (#1582).\n- [otBase/otTables] Fixed ``AttributeError`` on missing OT table fields after\n  importing font from TTX (#1584).\n- [Silf] Fixed typo ``Silf`` table's ``decompile`` method (#1586).\n- [otlLib] Better compress ``GPOS`` SinglePos (LookupType 1) subtables (#1539).\n"
+  }
+}

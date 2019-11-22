@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6MjEyZWFhYzFkOGQwNGJlYmQ4YTYwNzY3OTI4ZDFmYWFjZTRkYjVlZQ==",
+  "sha": "212eaac1d8d04bebd8a60767928d1faace4db5ee",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/212eaac1d8d04bebd8a60767928d1faace4db5ee",
+  "tagger": {
+    "name": "Matti R",
+    "email": "matti@mdranta.net",
+    "date": "2019-09-07T17:45:28Z"
+  },
+  "object": {
+    "sha": "2f715713052b6e3dc1f912b333816da414e99743",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/2f715713052b6e3dc1f912b333816da414e99743"
+  },
+  "tag": "v1.9.3",
+  "message": "* BUGFIXES\n  * Fix go get from a private repository with Go 1.13 (#8100)\n  * Strict name matching for Repository.GetTagID() (#8082)\n  * Avoid ambiguity of branch/directory names for the git-diff-tree command (#8070)\n  * Add change title notification for issues (#8064)\n  * Run CORS handler first for /api routes (#7967) (#8053)\n  * Evaluate emojis in commit messages in list view (#8044)\n  * Fix failed to synchronize tags to releases for repository (#7990) (#7994)\n  * Fix adding default Telegram webhook (#7972) (#7992)\n  * Abort synchronization from LDAP source if there is some error (#7965)\n  * Fix deformed emoji in commit message (#8071)\n* ENHANCEMENT\n  * Keep blame view buttons sequence consistent with normal view when viewing a file (#8007) (#8009)\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEtW48dDeknhNoYvXenYpXraojLpUFAl1z7LgACgkQnYpXraoj\nLpVjGg/9FK/wx5dcdIiiNXcx9VDyvLH2PV44y/NFF7ScyKzerYqmuX77E3L9zFsq\n9MqZ2PyMDRJVUZKZFnof6lErgaTL8yCsUwXAwIhSX5VN5hhojzgJjE9xGU032qBR\nDYCJrZIxCJBGpu1EGmUrqjIlcyVZu96QUbfS4hY+84f8Yx4MiF5zQXda/eEGsvPW\nHqarCNzBZ68mzvSpjMfSWbwer2VJi0w5djN6B5bmNHzg+I5dGjWJzIPxFnpLdVbF\nuSQgFlChOoo7j6TEyuGi5Xd+EEOeBqfKTejXZWzt+ijh2SChheVkrNORN+RvMXQh\nMHOyLQIO3FelkXW01MeMiGgEoyNxRWLWdsOlZUxFaCq6PSx7UFdncXYJ1zCIQece\nOJoxLm3W1N6WfiKtRlarszb0jnneLZ0LL9sllj3QV6awB6eYu8DPD/lEfPpsko8c\nJ3/L8LY6cid0ORODRScJin0dCYCjL2wjaZDYnVgZPXBbhKVW7a4RnGvtdElDCPMI\n93OFDn4GPjCJdQoz9/8JSDpUkiedr1U9mDU60Wd65OH4Xe6Fmkf/+niiL2kl8Gua\n4N+W4RlUZERmUIht1mw6xEQi7F05OP4sVuvz/eQ3FzM6IuokmJKjnaBDIWIkBPdU\nmnrh4v3rWfFkvQKvGpg+5MXaZ6rBi1NeixlZJgg5NwHQPcDm1QM=\n=343a\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEtW48dDeknhNoYvXenYpXraojLpUFAl1z7LgACgkQnYpXraoj\nLpVjGg/9FK/wx5dcdIiiNXcx9VDyvLH2PV44y/NFF7ScyKzerYqmuX77E3L9zFsq\n9MqZ2PyMDRJVUZKZFnof6lErgaTL8yCsUwXAwIhSX5VN5hhojzgJjE9xGU032qBR\nDYCJrZIxCJBGpu1EGmUrqjIlcyVZu96QUbfS4hY+84f8Yx4MiF5zQXda/eEGsvPW\nHqarCNzBZ68mzvSpjMfSWbwer2VJi0w5djN6B5bmNHzg+I5dGjWJzIPxFnpLdVbF\nuSQgFlChOoo7j6TEyuGi5Xd+EEOeBqfKTejXZWzt+ijh2SChheVkrNORN+RvMXQh\nMHOyLQIO3FelkXW01MeMiGgEoyNxRWLWdsOlZUxFaCq6PSx7UFdncXYJ1zCIQece\nOJoxLm3W1N6WfiKtRlarszb0jnneLZ0LL9sllj3QV6awB6eYu8DPD/lEfPpsko8c\nJ3/L8LY6cid0ORODRScJin0dCYCjL2wjaZDYnVgZPXBbhKVW7a4RnGvtdElDCPMI\n93OFDn4GPjCJdQoz9/8JSDpUkiedr1U9mDU60Wd65OH4Xe6Fmkf/+niiL2kl8Gua\n4N+W4RlUZERmUIht1mw6xEQi7F05OP4sVuvz/eQ3FzM6IuokmJKjnaBDIWIkBPdU\nmnrh4v3rWfFkvQKvGpg+5MXaZ6rBi1NeixlZJgg5NwHQPcDm1QM=\n=343a\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2f715713052b6e3dc1f912b333816da414e99743\ntype commit\ntag v1.9.3\ntagger Matti R <matti@mdranta.net> 1567878328 -0400\n\n* BUGFIXES\n  * Fix go get from a private repository with Go 1.13 (#8100)\n  * Strict name matching for Repository.GetTagID() (#8082)\n  * Avoid ambiguity of branch/directory names for the git-diff-tree command (#8070)\n  * Add change title notification for issues (#8064)\n  * Run CORS handler first for /api routes (#7967) (#8053)\n  * Evaluate emojis in commit messages in list view (#8044)\n  * Fix failed to synchronize tags to releases for repository (#7990) (#7994)\n  * Fix adding default Telegram webhook (#7972) (#7992)\n  * Abort synchronization from LDAP source if there is some error (#7965)\n  * Fix deformed emoji in commit message (#8071)\n* ENHANCEMENT\n  * Keep blame view buttons sequence consistent with normal view when viewing a file (#8007) (#8009)\n"
+  }
+}

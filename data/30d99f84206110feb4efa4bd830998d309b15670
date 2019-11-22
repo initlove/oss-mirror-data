@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTg3ODA5ODE6MzBkOTlmODQyMDYxMTBmZWI0ZWZhNGJkODMwOTk4ZDMwOWIxNTY3MA==",
+  "sha": "30d99f84206110feb4efa4bd830998d309b15670",
+  "url": "https://api.github.com/repos/cloudera/impyla/git/tags/30d99f84206110feb4efa4bd830998d309b15670",
+  "tagger": {
+    "name": "Uri Laserson",
+    "email": "laserson@cloudera.com",
+    "date": "2015-01-26T23:49:38Z"
+  },
+  "object": {
+    "sha": "017e37b24c505b9ee9f579ac37dc87c9a6cca41e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/cloudera/impyla/git/commits/017e37b24c505b9ee9f579ac37dc87c9a6cca41e"
+  },
+  "tag": "v0.9.0",
+  "message": "Release v0.9.0\n\n* Improved error handling/reporting\n* Added decimal support\n* Added Numba-compiled UDF support (alpha), with examples\n* Added support for HiveServer2 protocol V6, which is much faster\n* Added support for Beeswax connections.\n* Added SQLAlchemy support (alpha)\n* Added BigDataFrame support (alpha); pandas-style analytics pushed into Impala\n* Added ImpalaContext object for easy temporary databases/tables\n* Added support for CHAR and VARCHAR types\n* Added regular Jenkins integration tests\n* and other minor code quality issues\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

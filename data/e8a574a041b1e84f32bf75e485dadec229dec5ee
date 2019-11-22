@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjUwOmU4YTU3NGEwNDFiMWU4NGYzMmJmNzVlNDg1ZGFkZWMyMjlkZWM1ZWU=",
+  "sha": "e8a574a041b1e84f32bf75e485dadec229dec5ee",
+  "url": "https://api.github.com/repos/xomboverlord/xomb/git/tags/e8a574a041b1e84f32bf75e485dadec229dec5ee",
+  "tagger": {
+    "name": "wolfwood",
+    "email": "wolfwood@xomb.org",
+    "date": "2011-04-11T05:29:56Z"
+  },
+  "object": {
+    "sha": "836fe261b2cf037b9eb052eceae81203200ed247",
+    "type": "commit",
+    "url": "https://api.github.com/repos/xomboverlord/xomb/git/commits/836fe261b2cf037b9eb052eceae81203200ed247"
+  },
+  "tag": "v0.1.0",
+  "message": "Switched to segment-based syscall API.  memory allocation is still in-kernel.  userspace is temporarily single core (pending a userspace multicore sheduler).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

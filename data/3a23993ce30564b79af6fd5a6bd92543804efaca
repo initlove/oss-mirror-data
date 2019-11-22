@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTM2MzE5NDU6M2EyMzk5M2NlMzA1NjRiNzlhZjZmZDVhNmJkOTI1NDM4MDRlZmFjYQ==",
+  "sha": "3a23993ce30564b79af6fd5a6bd92543804efaca",
+  "url": "https://api.github.com/repos/BurntSushi/ripgrep/git/tags/3a23993ce30564b79af6fd5a6bd92543804efaca",
+  "tagger": {
+    "name": "Andrew Gallant",
+    "email": "jamslam@gmail.com",
+    "date": "2017-04-09T13:47:13Z"
+  },
+  "object": {
+    "sha": "ac1c95a6d977c8d56aea51c3cf129128ff8cda89",
+    "type": "commit",
+    "url": "https://api.github.com/repos/BurntSushi/ripgrep/git/commits/ac1c95a6d977c8d56aea51c3cf129128ff8cda89"
+  },
+  "tag": "0.5.1",
+  "message": "0.5.1\n\nFeature enhancements:\n\n* Added or improved file type filtering for vim.\n* [FEATURE #34](https://github.com/BurntSushi/ripgrep/issues/34):\n  Add a `-o/--only-matching` flag.\n* [FEATURE #377](https://github.com/BurntSushi/ripgrep/issues/377):\n  Column numbers can now be customized with a color. (The default is\n  no color.)\n* [FEATURE #419](https://github.com/BurntSushi/ripgrep/issues/419):\n  Added `-0` short flag option for `--null`.\n\nBug fixes:\n\n* [BUG #381](https://github.com/BurntSushi/ripgrep/issues/381):\n  Include license text in all subcrates.\n* [BUG #418](https://github.com/BurntSushi/ripgrep/issues/418),\n  [BUG #426](https://github.com/BurntSushi/ripgrep/issues/426),\n  [BUG #439](https://github.com/BurntSushi/ripgrep/issues/439):\n  Fix a few bugs with `-h/--help` output.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

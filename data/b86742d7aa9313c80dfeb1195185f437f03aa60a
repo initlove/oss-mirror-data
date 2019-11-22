@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzYwMDU6Yjg2NzQyZDdhYTkzMTNjODBkZmViMTE5NTE4NWY0MzdmMDNhYTYwYQ==",
+  "sha": "b86742d7aa9313c80dfeb1195185f437f03aa60a",
+  "url": "https://api.github.com/repos/gpg/libgcrypt/git/tags/b86742d7aa9313c80dfeb1195185f437f03aa60a",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2016-02-09T10:06:37Z"
+  },
+  "object": {
+    "sha": "92b33b9e3f016c83646f2e9360a403c853d48551",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libgcrypt/git/commits/92b33b9e3f016c83646f2e9360a403c853d48551"
+  },
+  "tag": "libgcrypt-1.6.5",
+  "message": "Fix for CVE-2015-7511\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJWubotAAoJECSbOdJPJeO2S6AH/1KuH7sKbL9F4teWhOxnf1Td\nk5mWsJDWvdlw+d0r85i+CfvbDkvxViL9ibMb2S8AaeobwfjnYi9pyetwkMPyxOoe\nc7yHAGwA4xgDbKM7SeDBcNkYG/ekx9PlaRxY0pyjxRbIXy3ZSH1c2pciFHQrn4Vs\nCxrzC+CYsZ6v9tX3KzBujIOz6HwqThQCIFEnLbiOQv0SLmp6yUm86Zt91aHRc6ex\nBG30UAGV5jB6LekHZrYmELLK8FbCL9kuO2obD6fZyonWpRa1zZOiKXkqSfWJRLRZ\niNZjcXKbha5Y6CAs6qUQkD2+yqHJWTvc+YjXV2+WEYkhaPVe2SaGRn2/e8t+jSs=\n=zR+P\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJWubotAAoJECSbOdJPJeO2S6AH/1KuH7sKbL9F4teWhOxnf1Td\nk5mWsJDWvdlw+d0r85i+CfvbDkvxViL9ibMb2S8AaeobwfjnYi9pyetwkMPyxOoe\nc7yHAGwA4xgDbKM7SeDBcNkYG/ekx9PlaRxY0pyjxRbIXy3ZSH1c2pciFHQrn4Vs\nCxrzC+CYsZ6v9tX3KzBujIOz6HwqThQCIFEnLbiOQv0SLmp6yUm86Zt91aHRc6ex\nBG30UAGV5jB6LekHZrYmELLK8FbCL9kuO2obD6fZyonWpRa1zZOiKXkqSfWJRLRZ\niNZjcXKbha5Y6CAs6qUQkD2+yqHJWTvc+YjXV2+WEYkhaPVe2SaGRn2/e8t+jSs=\n=zR+P\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 92b33b9e3f016c83646f2e9360a403c853d48551\ntype commit\ntag libgcrypt-1.6.5\ntagger Werner Koch <wk@gnupg.org> 1455012397 +0100\n\nFix for CVE-2015-7511\n"
+  }
+}

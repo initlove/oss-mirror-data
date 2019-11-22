@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6MmM4N2QxNDAzY2M5YjRkNjI4OTk1NzYxODUwZWU2M2YxMWQwNDcyOQ==",
+  "sha": "2c87d1403cc9b4d628995761850ee63f11d04729",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/2c87d1403cc9b4d628995761850ee63f11d04729",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2018-04-25T17:45:58Z"
+  },
+  "object": {
+    "sha": "a6a10a89d1b65d2792241f22883efa56caf277c5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/a6a10a89d1b65d2792241f22883efa56caf277c5"
+  },
+  "tag": "libmodulemd-1.4.0",
+  "message": "Releasing libmodulemd-1.4.0\n\nStephen Gallagher (24):\n      Defaults emitter should use the correct name key\n      Add tests to verify defaults emitted are valid\n      Prioritizer: Throw an error on resolve() of nothing\n      Prioritizer: Set minimum and maximum values\n      Add a test for default conflicts\n      Drop requirement for profile map to list default stream\n      Fix formatting for test\n      Fix two incorrect checks for error\n      Make libmodulemd available as a subproject\n      Add support for reading YAML from FILE *\n      Fix incorrect checks for error initialization\n      Bump version to 1.4.0\n      Make YAML preprocessor more robust\n      Don't pollute the global log domain\n      Drop unused member of yaml_subdocument\n      Avoid ambiguity in YAML macros\n      Add free function for modulemd_yaml_string\n      Add Modulemd.Subdocument object\n      Add parsing functions that return failure information\n      Fix memory handling of string emitter\n      Add Modulemd.SimpleSet.validate_contents()\n      Add utility function to validate NEVRA\n      Validate RPM artifacts\n      Improve validator tool\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWuC+6wAKCRB6JVViNrqj\noxgfAJ0U4ppVAHonQR9A3MiAexTpk8sg+ACfW5uVCLCbc33RnKcahbjKCo7iAr8=\n=PNZz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWuC+6wAKCRB6JVViNrqj\noxgfAJ0U4ppVAHonQR9A3MiAexTpk8sg+ACfW5uVCLCbc33RnKcahbjKCo7iAr8=\n=PNZz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a6a10a89d1b65d2792241f22883efa56caf277c5\ntype commit\ntag libmodulemd-1.4.0\ntagger Stephen Gallagher <sgallagh@redhat.com> 1524678358 -0400\n\nReleasing libmodulemd-1.4.0\n\nStephen Gallagher (24):\n      Defaults emitter should use the correct name key\n      Add tests to verify defaults emitted are valid\n      Prioritizer: Throw an error on resolve() of nothing\n      Prioritizer: Set minimum and maximum values\n      Add a test for default conflicts\n      Drop requirement for profile map to list default stream\n      Fix formatting for test\n      Fix two incorrect checks for error\n      Make libmodulemd available as a subproject\n      Add support for reading YAML from FILE *\n      Fix incorrect checks for error initialization\n      Bump version to 1.4.0\n      Make YAML preprocessor more robust\n      Don't pollute the global log domain\n      Drop unused member of yaml_subdocument\n      Avoid ambiguity in YAML macros\n      Add free function for modulemd_yaml_string\n      Add Modulemd.Subdocument object\n      Add parsing functions that return failure information\n      Fix memory handling of string emitter\n      Add Modulemd.SimpleSet.validate_contents()\n      Add utility function to validate NEVRA\n      Validate RPM artifacts\n      Improve validator tool\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6ZTRjODAzZTVlYmUzNWRhMDU2YmQyZDNkMmE3NjI2ZDMxMDVjMTA5Ng==",
+  "sha": "e4c803e5ebe35da056bd2d3d2a7626d3105c1096",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/e4c803e5ebe35da056bd2d3d2a7626d3105c1096",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2018-02-15T21:33:56Z"
+  },
+  "object": {
+    "sha": "6f3337cebbfde2821fb60f1a1a53d73cb6c3ba7c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/6f3337cebbfde2821fb60f1a1a53d73cb6c3ba7c"
+  },
+  "tag": "libmodulemd-1.0.0",
+  "message": "Release libmodulemd 1.0.0\n\nSupports both version 1 and version 2 of module metadata YAML\n\nFixes numerous issues with GObject memory management.\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWoX88wAKCRB6JVViNrqj\no6U2AJ9uefYVPFtvL0UXKZJW63KzbALCKgCdFkm9n59xYzHUf4qGmT9R29AVwMM=\n=KrlM\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWoX88wAKCRB6JVViNrqj\no6U2AJ9uefYVPFtvL0UXKZJW63KzbALCKgCdFkm9n59xYzHUf4qGmT9R29AVwMM=\n=KrlM\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6f3337cebbfde2821fb60f1a1a53d73cb6c3ba7c\ntype commit\ntag libmodulemd-1.0.0\ntagger Stephen Gallagher <sgallagh@redhat.com> 1518730436 -0500\n\nRelease libmodulemd 1.0.0\n\nSupports both version 1 and version 2 of module metadata YAML\n\nFixes numerous issues with GObject memory management.\n"
+  }
+}

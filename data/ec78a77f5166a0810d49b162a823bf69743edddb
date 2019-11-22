@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6ZWM3OGE3N2Y1MTY2YTA4MTBkNDliMTYyYTgyM2JmNjk3NDNlZGRkYg==",
+  "sha": "ec78a77f5166a0810d49b162a823bf69743edddb",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/ec78a77f5166a0810d49b162a823bf69743edddb",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2017-07-31T18:41:55Z"
+  },
+  "object": {
+    "sha": "c3df74f597599cc332b2d24c4793cb68a3f8a450",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/c3df74f597599cc332b2d24c4793cb68a3f8a450"
+  },
+  "tag": "3.14.0",
+  "message": "3.14.0\n\n- [varLib.merger] Remove Extensions subtables before merging (f7c20cf8).\n- [varLib] Initialize the avar segment map with required default entries\n  (#1014).\n- [varLib] Implemented optimal IUP optmiziation (#1019).\n- [otData] Add ``AxisValueFormat4`` for STAT table v1.2 from OT v1.8.2\n  (#1015).\n- [name] Fixed BCP46 language tag for Mac langID=9: 'si' -> 'sl'.\n- [subset] Return value from ``_DehintingT2Decompiler.op_hintmask``\n  (c0d672ba).\n- [cffLib] Allow to get TopDict by index as well as by name (dca96c9c).\n- [cffLib] Removed global ``isCFF2`` state; use one set of classes for\n  both CFF and CFF2, maintaining backward compatibility existing code (#1007).\n- [cffLib] Deprecated maxstack operator, per OpenType spec update 1.8.1.\n- [cffLib] Added missing default (-100) for UnderlinePosition (#983).\n- [feaLib] Enable setting nameIDs greater than 255 (#1003).\n- [varLib] Recalculate ValueFormat when merging SinglePos (#996).\n- [varLib] Do not emit MVAR if there are no entries in the variation store\n  (#987).\n- [ttx] For ``-x`` option, pad with space if table tag length is < 4.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6NzIzZmUyZjRkNWZkMjA0M2U0MmJhNWFmM2NkMDFhMTE1YzA1N2VlNQ==",
+  "sha": "723fe2f4d5fd2043e42ba5af3cd01a115c057ee5",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/723fe2f4d5fd2043e42ba5af3cd01a115c057ee5",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo.lupo@daltonmaag.com",
+    "date": "2017-01-26T19:50:17Z"
+  },
+  "object": {
+    "sha": "18b6459ce2a99dddf4545e88a2ff67b0cf90abcf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/18b6459ce2a99dddf4545e88a2ff67b0cf90abcf"
+  },
+  "tag": "3.6.0",
+  "message": "3.6.0\n\n-  [varLib] Refactored and improved the variation-font-building process.\n-  Assembly code in the fpgm, prep, and glyf tables is now indented in\n   XML output for improved readability. The ``instruction`` element is\n   written as a simple tag if empty (#819).\n-  [ttx] Fixed 'I/O operation on closed file' error when dumping\n   multiple TTXs to standard output with the '-o -' option.\n-  The unit test modules (``*_test.py``) have been moved outside of the\n   fontTools package to the Tests folder, thus they are no longer\n   installed (#811).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

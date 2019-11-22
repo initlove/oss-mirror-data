@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzYwMDU6MDY0MWYyZDM3MzdhYTNiYmZkYmRmODlkZDc4MTc2YmQ2ZDlmYWNlZA==",
+  "sha": "0641f2d3737aa3bbfdbdf89dd78176bd6d9faced",
+  "url": "https://api.github.com/repos/gpg/libgcrypt/git/tags/0641f2d3737aa3bbfdbdf89dd78176bd6d9faced",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2017-08-27T07:51:02Z"
+  },
+  "object": {
+    "sha": "436fd3b91669583915ead9b466e1968e192d6686",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libgcrypt/git/commits/436fd3b91669583915ead9b466e1968e192d6686"
+  },
+  "tag": "libgcrypt-1.7.9",
+  "message": "Fix for CVE-2017-0378\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlmieeYACgkQJJs50k8l\n47ZMCQf+MDEpa/31hMau8mKyTkUjoes9JvDmVa93wc1IY2sBfLaDV9gZVXQs7ZfN\nh59pg4i7IA0z016XqSQw+NJWbnNw7B3ezwDGIYSggVIzFIJIsMffHteuP+yEeb5k\nx7QOfxAoqLLm26KYtUjsL8HCjGTWpRBqdxlICZYYKOtJZYjEVDbXF+nfyCCqyrGu\npx+QoJXMTAp7+7NBkgpPIje4skn8ADgGnkHVXfISmnmOLvtuHIM4Z4QSFuk7pH0M\ncnSz+0nuPcyJUBEj5mlnis2D1WDpYav/XCkyrpQA+w8uaZVPo8qEImMoHeJJSOLT\n21fVHq73MFqB+lIqY/bV2gMTuT/9RQ==\n=El0/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlmieeYACgkQJJs50k8l\n47ZMCQf+MDEpa/31hMau8mKyTkUjoes9JvDmVa93wc1IY2sBfLaDV9gZVXQs7ZfN\nh59pg4i7IA0z016XqSQw+NJWbnNw7B3ezwDGIYSggVIzFIJIsMffHteuP+yEeb5k\nx7QOfxAoqLLm26KYtUjsL8HCjGTWpRBqdxlICZYYKOtJZYjEVDbXF+nfyCCqyrGu\npx+QoJXMTAp7+7NBkgpPIje4skn8ADgGnkHVXfISmnmOLvtuHIM4Z4QSFuk7pH0M\ncnSz+0nuPcyJUBEj5mlnis2D1WDpYav/XCkyrpQA+w8uaZVPo8qEImMoHeJJSOLT\n21fVHq73MFqB+lIqY/bV2gMTuT/9RQ==\n=El0/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 436fd3b91669583915ead9b466e1968e192d6686\ntype commit\ntag libgcrypt-1.7.9\ntagger Werner Koch <wk@gnupg.org> 1503820262 +0200\n\nFix for CVE-2017-0378\n"
+  }
+}

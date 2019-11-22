@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6MmNlZjYzNGVkOTI0OTk5ZjFhYTkwOGI5YzE3NWQ0MWY4NTg1YjhlZA==",
+  "sha": "2cef634ed924999f1aa908b9c175d41f8585b8ed",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/2cef634ed924999f1aa908b9c175d41f8585b8ed",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2018-09-05T01:04:40Z"
+  },
+  "object": {
+    "sha": "8aaba79aaf72caa7045ee0252f1375798276527f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/8aaba79aaf72caa7045ee0252f1375798276527f"
+  },
+  "tag": "libmodulemd-1.6.3",
+  "message": "Releasing libmodulemd 1.6.3\n\nOwen W. Taylor (1):\n      Don't return ModuleStream objects from modulemd_module_new_all_from_*_ext()\n\nStephen Gallagher (6):\n      Bump version to 1.6.3dev\n      Merge branch 'owtaylor-convert-modulestreams'\n      Use g_autoptr for Modulemd.Module.new_all_from_*_ext()\n      Also ensure that Component buildorder property is signed\n      Work around optimization bug\n      Don't crash dumping translation events without summary or desc\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCW48r1AAKCRB6JVViNrqj\no/fpAJ9id14T206/X32XkvxYxaIiDjBjsACgjYiuowwMMbiI7ThgF31y6ywiBpM=\n=pzHo\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCW48r1AAKCRB6JVViNrqj\no/fpAJ9id14T206/X32XkvxYxaIiDjBjsACgjYiuowwMMbiI7ThgF31y6ywiBpM=\n=pzHo\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8aaba79aaf72caa7045ee0252f1375798276527f\ntype commit\ntag libmodulemd-1.6.3\ntagger Stephen Gallagher <sgallagh@redhat.com> 1536109480 -0400\n\nReleasing libmodulemd 1.6.3\n\nOwen W. Taylor (1):\n      Don't return ModuleStream objects from modulemd_module_new_all_from_*_ext()\n\nStephen Gallagher (6):\n      Bump version to 1.6.3dev\n      Merge branch 'owtaylor-convert-modulestreams'\n      Use g_autoptr for Modulemd.Module.new_all_from_*_ext()\n      Also ensure that Component buildorder property is signed\n      Work around optimization bug\n      Don't crash dumping translation events without summary or desc\n"
+  }
+}

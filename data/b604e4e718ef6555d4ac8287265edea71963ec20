@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDczOTk2OmI2MDRlNGU3MThlZjY1NTVkNGFjODI4NzI2NWVkZWE3MTk2M2VjMjA=",
+  "sha": "b604e4e718ef6555d4ac8287265edea71963ec20",
+  "url": "https://api.github.com/repos/saces/KeyUtils-attic/git/tags/b604e4e718ef6555d4ac8287265edea71963ec20",
+  "tagger": {
+    "name": "Matthew Toseland",
+    "email": "toad@amphibian.dyndns.org",
+    "date": "2012-10-05T18:16:51Z"
+  },
+  "object": {
+    "sha": "9b87ff748d8f780f088f8a9657e051b4f9227008",
+    "type": "commit",
+    "url": "https://api.github.com/repos/saces/KeyUtils-attic/git/commits/9b87ff748d8f780f088f8a9657e051b4f9227008"
+  },
+  "tag": "v5016",
+  "message": "KeyUtils 5016: (requires latest fred, a snapshot will be deployed soon)\n- Support compatibility modes in KeyConvertor.\n- Build fix.\n- Better plugin description.\n- Use new Metadata.guessCompatibilityMode().\n\nSadao\ntoad\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.10 (GNU/Linux)\n\niEYEABEIAAYFAlBvJD4ACgkQYUNbc3WUHYizAwCgsSqbhnPPPd7Eo6kqGz7csFN8\nzUgAn3eC/MCYZhN9D64BlOP5TpGtXcmX\n=ekkl\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.10 (GNU/Linux)\n\niEYEABEIAAYFAlBvJD4ACgkQYUNbc3WUHYizAwCgsSqbhnPPPd7Eo6kqGz7csFN8\nzUgAn3eC/MCYZhN9D64BlOP5TpGtXcmX\n=ekkl\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9b87ff748d8f780f088f8a9657e051b4f9227008\ntype commit\ntag v5016\ntagger Matthew Toseland <toad@amphibian.dyndns.org> 1349461011 +0100\n\nKeyUtils 5016: (requires latest fred, a snapshot will be deployed soon)\n- Support compatibility modes in KeyConvertor.\n- Build fix.\n- Better plugin description.\n- Use new Metadata.guessCompatibilityMode().\n\nSadao\ntoad\n"
+  }
+}

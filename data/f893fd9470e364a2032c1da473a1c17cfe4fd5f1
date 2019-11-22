@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6Zjg5M2ZkOTQ3MGUzNjRhMjAzMmMxZGE0NzNhMWMxN2NmZTRmZDVmMQ==",
+  "sha": "f893fd9470e364a2032c1da473a1c17cfe4fd5f1",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/f893fd9470e364a2032c1da473a1c17cfe4fd5f1",
+  "tagger": {
+    "name": "Thomas Boerger",
+    "email": "thomas@webhippie.de",
+    "date": "2017-02-21T15:08:03Z"
+  },
+  "object": {
+    "sha": "e2c8d6fcb2c4073ed5cf164d88e7b5d44d95943c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/e2c8d6fcb2c4073ed5cf164d88e7b5d44d95943c"
+  },
+  "tag": "v1.0.2",
+  "message": "v1.0.2\n\n* BUGFIXES\n  * Fixed issue counter [#882](https://github.com/go-gitea/gitea/pull/882)\n  * Fixed XSS vulnerability on wiki page [#955](https://github.com/go-gitea/gitea/pull/955)\n  * Add data dir without session to dump [#587](https://github.com/go-gitea/gitea/pull/587)\n  * Fixed wiki page renaming [#958](https://github.com/go-gitea/gitea/pull/958)\n  * Drop default console logger if not required [#960](https://github.com/go-gitea/gitea/pull/960)\n  * Fixed docker docs link on install page [#972](https://github.com/go-gitea/gitea/pull/972)\n  * Handle SetModel errors [#957](https://github.com/go-gitea/gitea/pull/957)\n  * Fixed XSS vulnerability on milestones [#977](https://github.com/go-gitea/gitea/pull/977)\n  * Fixed XSS vulnerability on alerts [#981](https://github.com/go-gitea/gitea/pull/981)\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJYrFgHAAoJEFo4j1UoOWC23doQAKnncNvOxAZwKFaUe26Db9rA\nVxv9N0Dn3X07YDq/104OGhMdKtAq2fyeZinmPg02X57szspdzorj3Ytuey8+HwQ8\nGnf2PNn0WLXIR8NrkuNHW9DA8PcPPISxHeCchsz1FGQ7x+XYwgaq2sjaNQyH0sKe\nDgLra3NwaF+rBw5hJnwk3AKVJ8/5aeTfBMGvVfFTytW66IgdFYbA89C+E9d+o7Eq\nPI9RBrHcOPePKoVnafbDOXUHoDFKABi8PlCax7r8rxL+oywfkuPLJZpaaotgqqb/\nSaD/rr7WWbD/xyqcOkhZCo2QsVd1o3j9apfUCw7a6CRy7FfsKUlROZnzn28c0WX7\nVGAqO+mw/iX8w44heFOKB2ueeNVv2Dh28XtEgSa/xY6ylke9Eu3N7MQPHPTOzcW2\nBSwPRRQsRzctcMvcUhP2e6PiXxO5muCXcFqEZsH6zbfONw8eZ8DUUB5Ny3RVFERi\nQLh7Ths4ssoNZpwqu3WA/e1OBnHzYnQeSN4x0lAXijrw4qvMIT/OCMUtaL12GZzM\n2kBWKSfJVxYGzSLz6uzq51uvCajb+LbGj1uYlXYPmlysFaebRZwpjOR0dOXoVt05\n5fuyyYqqsowGTtU4b28ODQSkzJFflBEpO3dWwk8Rif/Q9UGOE3vdXomXD/ypFSBH\nNrOe7fDY7JLOgr8Y4yYG\n=GTmE\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJYrFgHAAoJEFo4j1UoOWC23doQAKnncNvOxAZwKFaUe26Db9rA\nVxv9N0Dn3X07YDq/104OGhMdKtAq2fyeZinmPg02X57szspdzorj3Ytuey8+HwQ8\nGnf2PNn0WLXIR8NrkuNHW9DA8PcPPISxHeCchsz1FGQ7x+XYwgaq2sjaNQyH0sKe\nDgLra3NwaF+rBw5hJnwk3AKVJ8/5aeTfBMGvVfFTytW66IgdFYbA89C+E9d+o7Eq\nPI9RBrHcOPePKoVnafbDOXUHoDFKABi8PlCax7r8rxL+oywfkuPLJZpaaotgqqb/\nSaD/rr7WWbD/xyqcOkhZCo2QsVd1o3j9apfUCw7a6CRy7FfsKUlROZnzn28c0WX7\nVGAqO+mw/iX8w44heFOKB2ueeNVv2Dh28XtEgSa/xY6ylke9Eu3N7MQPHPTOzcW2\nBSwPRRQsRzctcMvcUhP2e6PiXxO5muCXcFqEZsH6zbfONw8eZ8DUUB5Ny3RVFERi\nQLh7Ths4ssoNZpwqu3WA/e1OBnHzYnQeSN4x0lAXijrw4qvMIT/OCMUtaL12GZzM\n2kBWKSfJVxYGzSLz6uzq51uvCajb+LbGj1uYlXYPmlysFaebRZwpjOR0dOXoVt05\n5fuyyYqqsowGTtU4b28ODQSkzJFflBEpO3dWwk8Rif/Q9UGOE3vdXomXD/ypFSBH\nNrOe7fDY7JLOgr8Y4yYG\n=GTmE\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e2c8d6fcb2c4073ed5cf164d88e7b5d44d95943c\ntype commit\ntag v1.0.2\ntagger Thomas Boerger <thomas@webhippie.de> 1487689683 +0100\n\nv1.0.2\n\n* BUGFIXES\n  * Fixed issue counter [#882](https://github.com/go-gitea/gitea/pull/882)\n  * Fixed XSS vulnerability on wiki page [#955](https://github.com/go-gitea/gitea/pull/955)\n  * Add data dir without session to dump [#587](https://github.com/go-gitea/gitea/pull/587)\n  * Fixed wiki page renaming [#958](https://github.com/go-gitea/gitea/pull/958)\n  * Drop default console logger if not required [#960](https://github.com/go-gitea/gitea/pull/960)\n  * Fixed docker docs link on install page [#972](https://github.com/go-gitea/gitea/pull/972)\n  * Handle SetModel errors [#957](https://github.com/go-gitea/gitea/pull/957)\n  * Fixed XSS vulnerability on milestones [#977](https://github.com/go-gitea/gitea/pull/977)\n  * Fixed XSS vulnerability on alerts [#981](https://github.com/go-gitea/gitea/pull/981)\n"
+  }
+}

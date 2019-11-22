@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6N2I5NzFhNWExMTIzN2IwNTU4ZTdkNTVmNWUxOTViNDRmN2FmZjgxZQ==",
+  "sha": "7b971a5a11237b0558e7d55f5e195b44f7aff81e",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/7b971a5a11237b0558e7d55f5e195b44f7aff81e",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2018-02-26T12:25:20Z"
+  },
+  "object": {
+    "sha": "47a0bbb5294286ea900eae1957b108e268722a07",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/47a0bbb5294286ea900eae1957b108e268722a07"
+  },
+  "tag": "3.23.0",
+  "message": "3.23.0\n\n- [designspaceLib] Added an optional ``lib`` element to the designspace as a\n  whole, as well as to the instance elements, to store arbitrary data in a\n  property list dictionary, similar to the UFO's ``lib``. Added an optional\n  ``font`` attribute to the ``SourceDescriptor``, to allow operating on\n  in-memory font objects (#1175).\n- [cffLib] Fixed issue with lazy-loading of attributes when attempting to\n  set the CFF TopDict.Encoding (#1177, #1187).\n- [ttx] Fixed regression introduced in 3.22.0 that affected the split tables\n  ``-s`` option (#1188).\n- [feaLib] Added ``IncludedFeaNotFound`` custom exception subclass, raised\n  when an included feature file cannot be found (#1186).\n- [otTables] Changed ``VarIdxMap`` to use glyph names internally instead of\n  glyph indexes. The old ttx dumps of HVAR/VVAR tables that contain indexes\n  can still be imported (21cbab8, 38a0ffb).\n- [varLib] Implemented VarStore optimizer (#1184).\n- [subset] Implemented pruning of GDEF VarStore, HVAR and MVAR (#1179).\n- [sfnt] Restore backward compatiblity with ``numFonts`` attribute of\n  ``SFNTReader`` object (#1181).\n- [merge] Initial support for merging ``LangSysRecords`` (#1180).\n- [ttCollection] don't seek(0) when writing to possibly unseekable strems.\n- [subset] Keep all ``--name-IDs`` from 0 to 6 by default (#1170, #605, #114).\n- [cffLib] Added ``width`` module to calculate optimal CFF default and\n  nominal glyph widths.\n- [varLib] Don’t fail if STAT already in the master fonts (#1166).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

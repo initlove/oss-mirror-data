@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTg5NDk2MjplYTUyYmE2YTIxYTNkMjg0NjFlMzMyMDRjYWY5OGU3ZWRmYjBkNTZm",
+  "sha": "ea52ba6a21a3d28461e33204caf98e7edfb0d56f",
+  "url": "https://api.github.com/repos/h5py/h5py/git/tags/ea52ba6a21a3d28461e33204caf98e7edfb0d56f",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2016-12-31T23:16:13Z"
+  },
+  "object": {
+    "sha": "84947caaedf6c2c87f26d9c3618a0cfe0cbbb5dc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/h5py/h5py/git/commits/84947caaedf6c2c87f26d9c3618a0cfe0cbbb5dc"
+  },
+  "tag": "2.7.0rc2",
+  "message": "REL: v2.7rc2\n\nThis is the second release candidate for h5py 2.7\n\n - Dropped support for python 3.2.\n - Added support for `pathlib`.\n - Improved auto-complete in IPython/jupyter for py3k.\n - Added low-level support for Direct Chunk Write and\n   File Image Operations.\n - Support for reading non-standard float types.\n - Improved support for compound data types.\n - Many bug fixes.\n - Version correctly bumped.\n-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlhoPFoTHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U7899HxCACNoHoacJywrLJRvpJlOncJhn0yqOyA\nYi0OXKcaPS0nPv8qC1fChiwzd07C1PKyMjP/xUBDoqMkVsfG00/RCGJ8oP/pD16D\n5eCYuw5IWX7Naj+eDAbBNSw7+RGGGXZ4+QdqC4nJGFcAGU3D+9Cx7Nud98Rx8Lqd\nc5Xw+WErpHIzf4CqO4dA9I+HlJoaDCXIz3YOY44lHh7F1JkbjH10fhKxf0OSo6yx\nTi6jMFzzYpbtLnoMrcF65K9FJZjwUP+DSVYfPkP8Sl6oBwoCxCU5w6jNKCRl5JeF\nZbHb79ANZmgR9aMdJhTiCPQVBwcjUIGI9lQOm6cy7XJkcDUnl0nEOkKq\n=3Apw\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlhoPFoTHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U7899HxCACNoHoacJywrLJRvpJlOncJhn0yqOyA\nYi0OXKcaPS0nPv8qC1fChiwzd07C1PKyMjP/xUBDoqMkVsfG00/RCGJ8oP/pD16D\n5eCYuw5IWX7Naj+eDAbBNSw7+RGGGXZ4+QdqC4nJGFcAGU3D+9Cx7Nud98Rx8Lqd\nc5Xw+WErpHIzf4CqO4dA9I+HlJoaDCXIz3YOY44lHh7F1JkbjH10fhKxf0OSo6yx\nTi6jMFzzYpbtLnoMrcF65K9FJZjwUP+DSVYfPkP8Sl6oBwoCxCU5w6jNKCRl5JeF\nZbHb79ANZmgR9aMdJhTiCPQVBwcjUIGI9lQOm6cy7XJkcDUnl0nEOkKq\n=3Apw\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 84947caaedf6c2c87f26d9c3618a0cfe0cbbb5dc\ntype commit\ntag 2.7.0rc2\ntagger Thomas A Caswell <tcaswell@gmail.com> 1483226173 -0500\n\nREL: v2.7rc2\n\nThis is the second release candidate for h5py 2.7\n\n - Dropped support for python 3.2.\n - Added support for `pathlib`.\n - Improved auto-complete in IPython/jupyter for py3k.\n - Added low-level support for Direct Chunk Write and\n   File Image Operations.\n - Support for reading non-standard float types.\n - Improved support for compound data types.\n - Many bug fixes.\n - Version correctly bumped.\n"
+  }
+}

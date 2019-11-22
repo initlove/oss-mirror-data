@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMzNjg0NDU6NzY4NzIzZDIzNzgzNmE5ZTkzYjk4ZGI3NTZkYWI1Y2UyNDkzNmQzZA==",
+  "sha": "768723d237836a9e93b98db756dab5ce24936d3d",
+  "url": "https://api.github.com/repos/webmproject/libwebp/git/tags/768723d237836a9e93b98db756dab5ce24936d3d",
+  "tagger": {
+    "name": "James Zern",
+    "email": "jzern@google.com",
+    "date": "2017-01-30T23:54:36Z"
+  },
+  "object": {
+    "sha": "50d1a848bc56554af8413cfe681f94286a6371b3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/webmproject/libwebp/git/commits/50d1a848bc56554af8413cfe681f94286a6371b3"
+  },
+  "tag": "v0.6.0",
+  "message": "libwebp-0.6.0\n\n- 1/26/2017: version 0.6.0\n  * lossless performance and compression improvements\n  * miscellaneous performance improvements (SSE2, NEON, MSA)\n  * webpmux gained a -duration option allowing for frame timing modification\n  * new img2webp utility allowing a sequence of images to be converted to\n    animated webp\n  * API changes:\n    - libwebp:\n      WebPPictureSharpARGBToYUVA\n      WebPPlaneDistortion\n    - libwebpmux / gif2webp:\n      WebPAnimEncoderOptions: kmax <= 0 now disables keyframes, kmax == 1\n                              forces all keyframes. See mux.h and the gif2webp\n                              manpage for details.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJYj9JHAAoJEPnD1r24IytdRHIP/2JWmd7BEjGgkozxm6l38SAM\nsnyyPvorXQ20Qi9fnyfOFZP3fMB8i9YkaZgEDGLAqWgvtVEHKr6ZdwYquXDz9HCb\nGUGWlBEPiNrGKAQ2jJvdIT4yO8AEz7Y8UZwdPNDY1W05qI6XKRxsjtyeadFRQwku\nh4x+zP0M0ubrUkfq/rlnB9eITCf00fNBRb9AlkQAlbqh6GlZ9Jum142VsZRAlcLA\nlo3d4Q7GsVTDrILXXfDj+LsyKeyFDujnlG2ZxvOTHvtgEiKX3LT8Q/AfpF9IRc3a\nKJykMw9NZH1QHvIpTRF1J9SwtGkrBAoEbolp20cMJ/gV6348NsIDQsDskuA2LwlL\n62JmxArXFTrJ76g/s7xCu1zL/+znCs5uH4xBh9HTqnWSL6iPH3uok/eVK0aq4A+L\n7qAi9UWlKqTLgmUkg4Fibi3fWBPrp/fCAQmWB+tWL+QdPs70wyYennbHTvjG0t9I\nmOwfLuPsJoIaurg2s/RU4fWSNBJWEAUQbiDijUosrlFfgUZhSofNek+yaD2bYZ3m\nA23Pkmmlpcu3vzvd6mUFft2sPGXT+VkN6jiiVUY6rQDSMxW8akccGaRmHZIPplcp\n2KOAlHtSuyrc+xa/MutHCjIrPc87JKxyudugeSx+yl0TGWdMS6BKBFD7kcWDvFxM\n+fbS0q3776P7TZc7jzYd\n=LHmo\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJYj9JHAAoJEPnD1r24IytdRHIP/2JWmd7BEjGgkozxm6l38SAM\nsnyyPvorXQ20Qi9fnyfOFZP3fMB8i9YkaZgEDGLAqWgvtVEHKr6ZdwYquXDz9HCb\nGUGWlBEPiNrGKAQ2jJvdIT4yO8AEz7Y8UZwdPNDY1W05qI6XKRxsjtyeadFRQwku\nh4x+zP0M0ubrUkfq/rlnB9eITCf00fNBRb9AlkQAlbqh6GlZ9Jum142VsZRAlcLA\nlo3d4Q7GsVTDrILXXfDj+LsyKeyFDujnlG2ZxvOTHvtgEiKX3LT8Q/AfpF9IRc3a\nKJykMw9NZH1QHvIpTRF1J9SwtGkrBAoEbolp20cMJ/gV6348NsIDQsDskuA2LwlL\n62JmxArXFTrJ76g/s7xCu1zL/+znCs5uH4xBh9HTqnWSL6iPH3uok/eVK0aq4A+L\n7qAi9UWlKqTLgmUkg4Fibi3fWBPrp/fCAQmWB+tWL+QdPs70wyYennbHTvjG0t9I\nmOwfLuPsJoIaurg2s/RU4fWSNBJWEAUQbiDijUosrlFfgUZhSofNek+yaD2bYZ3m\nA23Pkmmlpcu3vzvd6mUFft2sPGXT+VkN6jiiVUY6rQDSMxW8akccGaRmHZIPplcp\n2KOAlHtSuyrc+xa/MutHCjIrPc87JKxyudugeSx+yl0TGWdMS6BKBFD7kcWDvFxM\n+fbS0q3776P7TZc7jzYd\n=LHmo\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 50d1a848bc56554af8413cfe681f94286a6371b3\ntype commit\ntag v0.6.0\ntagger James Zern <jzern@google.com> 1485820476 -0800\n\nlibwebp-0.6.0\n\n- 1/26/2017: version 0.6.0\n  * lossless performance and compression improvements\n  * miscellaneous performance improvements (SSE2, NEON, MSA)\n  * webpmux gained a -duration option allowing for frame timing modification\n  * new img2webp utility allowing a sequence of images to be converted to\n    animated webp\n  * API changes:\n    - libwebp:\n      WebPPictureSharpARGBToYUVA\n      WebPPlaneDistortion\n    - libwebpmux / gif2webp:\n      WebPAnimEncoderOptions: kmax <= 0 now disables keyframes, kmax == 1\n                              forces all keyframes. See mux.h and the gif2webp\n                              manpage for details.\n"
+  }
+}

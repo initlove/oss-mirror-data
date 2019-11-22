@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEwNTM4Njk5OmY5MzMyOTgyYjJiODY0ZDRiMjJkZGQ0YjM1ZGVhN2NmMmQ4Zjk1ZGY=",
+  "sha": "f9332982b2b864d4b22ddd4b35dea7cf2d8f95df",
+  "url": "https://api.github.com/repos/kata-containers/agent/git/tags/f9332982b2b864d4b22ddd4b35dea7cf2d8f95df",
+  "tagger": {
+    "name": "Jose Carlos Venegas Munoz",
+    "email": "jose.carlos.venegas.munoz@intel.com",
+    "date": "2019-10-23T17:39:12Z"
+  },
+  "object": {
+    "sha": "3c763171e774b3763419ccae3e9587e37060ce05",
+    "type": "commit",
+    "url": "https://api.github.com/repos/kata-containers/agent/git/commits/3c763171e774b3763419ccae3e9587e37060ce05"
+  },
+  "tag": "1.8.4",
+  "message": "Kata Containers release 1.8.4\n-----BEGIN PGP SIGNATURE-----\n\niQGzBAABCgAdFiEEb6FCFbe5aBDKfMa2pbDM3+FWMj0FAl2wkEAACgkQpbDM3+FW\nMj2hlgv9G04+a39TYDhBS1gznr6jMOjikSeDubZd95URaede0wRMnS7OHd1GpxI+\nyaIs8U4OqUYyCa7uB4VgF66teq5FMRF8ly79WtmtlbJv4Wp5lD8C7XtgtCVGnqIh\n6SwvZ0TC+Ek8vVvD7cfzpMYzOqT0plCdOy+F0oqShiZoEusJoOLDJ+MOeJKqY+Wo\njtOdBcEwJrTso6FuSQq1mV8IeLouLHWmqq5KJgXClH6Oqkw5VVLKI5lYNScnnO3o\nWA4U93ibj3WqD9xvDd0sVhGmFxjp0cl1g+6AGIE75n7aAdxor7ERTK3jlVKzMUYj\nzqbAGVoPL8dbv0E588AxEpJ8cagNAG1VjLR7e7p4GuPL4P4ZfjOWvTZsD2e4MFSK\n2lWaFcH7iNIbZQ5+V+b8Eaam04FWaLCwHWq/+ZdOErGTKQT50sBj4O1go1i0+n18\nKqx62m/Oge3MA9JEP4cW98i6koZZh1bhmZNVN8Ade9jii4wqn8Nqun9/BlXWVUAg\n0DHTNaY+\n=UPFT\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQGzBAABCgAdFiEEb6FCFbe5aBDKfMa2pbDM3+FWMj0FAl2wkEAACgkQpbDM3+FW\nMj2hlgv9G04+a39TYDhBS1gznr6jMOjikSeDubZd95URaede0wRMnS7OHd1GpxI+\nyaIs8U4OqUYyCa7uB4VgF66teq5FMRF8ly79WtmtlbJv4Wp5lD8C7XtgtCVGnqIh\n6SwvZ0TC+Ek8vVvD7cfzpMYzOqT0plCdOy+F0oqShiZoEusJoOLDJ+MOeJKqY+Wo\njtOdBcEwJrTso6FuSQq1mV8IeLouLHWmqq5KJgXClH6Oqkw5VVLKI5lYNScnnO3o\nWA4U93ibj3WqD9xvDd0sVhGmFxjp0cl1g+6AGIE75n7aAdxor7ERTK3jlVKzMUYj\nzqbAGVoPL8dbv0E588AxEpJ8cagNAG1VjLR7e7p4GuPL4P4ZfjOWvTZsD2e4MFSK\n2lWaFcH7iNIbZQ5+V+b8Eaam04FWaLCwHWq/+ZdOErGTKQT50sBj4O1go1i0+n18\nKqx62m/Oge3MA9JEP4cW98i6koZZh1bhmZNVN8Ade9jii4wqn8Nqun9/BlXWVUAg\n0DHTNaY+\n=UPFT\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3c763171e774b3763419ccae3e9587e37060ce05\ntype commit\ntag 1.8.4\ntagger Jose Carlos Venegas Munoz <jose.carlos.venegas.munoz@intel.com> 1571852352 +0000\n\nKata Containers release 1.8.4\n"
+  }
+}

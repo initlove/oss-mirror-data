@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMzNjg0NDU6ZmRlMmQ3NTMwYjkyMjZkZmM3MTFhZDhiMGU0MjU3YjBmNDZhMTJjNA==",
+  "sha": "fde2d7530b9226dfc711ad8b0e4257b0f46a12c4",
+  "url": "https://api.github.com/repos/webmproject/libwebp/git/tags/fde2d7530b9226dfc711ad8b0e4257b0f46a12c4",
+  "tagger": {
+    "name": "James Zern",
+    "email": "jzern@google.com",
+    "date": "2014-07-29T03:52:04Z"
+  },
+  "object": {
+    "sha": "8af2771813632e2007988c8df6ad7e68b28ad121",
+    "type": "commit",
+    "url": "https://api.github.com/repos/webmproject/libwebp/git/commits/8af2771813632e2007988c8df6ad7e68b28ad121"
+  },
+  "tag": "v0.4.1",
+  "message": "libwebp 0.4.1\n- 7/24/14: version 0.4.1\n  This is a binary compatible release.\n  * AArch64 (arm64) & MIPS support/optimizations\n  * NEON assembly additions:\n    - ~25% faster lossy decode / encode (-m 4)\n    - ~10% faster lossless decode\n    - ~5-10% faster lossless encode (-m 3/4)\n  * dwebp/vwebp can read from stdin\n  * cwebp/gif2webp can write to stdout\n  * cwebp can read webp files; useful if storing sources as webp lossless\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJT1xp9AAoJEPnD1r24IytdjDEP/3ZOnrWG0OIThlGE6bqgO3oy\nY5O7RrvzFuPdGEZ1Kl9jDXjzsYY018/+HJmOD3kf+Qt/+F/8hpGH520VuEiJdVIW\nUcvoYaYq9xrmKNqEJx910Vh8TP7wE2T62OJcqKWg2JEczfUWn8WOKjmM5c8N1kJ2\nq6EbpCdWlxcD49L/MavJ5Yfw9jSZAjKzOIxxz0C294iMTK4IcSmeVvdqhkdyh96E\nCABw3o8sJfqB6p+KXjweXcE2KOhvzAWqTRcIogDC0jV/PgOlindf6k0am2FJHvMM\nA+sf/pmD0YKI1vEaXW+Vs6cz6LzvwbIkJSwuzBA7FYHAG5yqTSkQDxTSttw/RwiW\nfUScqHjQVBUqkM5bdOsdYBSDutQKDF2+WfcK5jXFdnydkQi59HKHV2R0K5cXYqfN\nTu7aMBqFcfGunLlzfKCJcz8SElEmUjG6oAzRZYcdM9dmnR7ypQK17A/GbaysKKOE\nHMmep7uNX25w+6AL7zExnmPPPtSz+kj1SXt9fgldkelDhg1faAgfwXb/N4E+00lA\n1+aJD3gHcR4QnDI4gnKBKHyIktQPfNKMQ6xuL0oyvsalQ/loz08wu0aACcGDFrg4\nuOVVxTqU+pEITuwGcNk228+O2EbMWzzi3+Vhi1v3Gg3jJ3TRB3QN6NohmrsIackL\n4W2V5NoX5i2VizGfLy2g\n=GWd5\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJT1xp9AAoJEPnD1r24IytdjDEP/3ZOnrWG0OIThlGE6bqgO3oy\nY5O7RrvzFuPdGEZ1Kl9jDXjzsYY018/+HJmOD3kf+Qt/+F/8hpGH520VuEiJdVIW\nUcvoYaYq9xrmKNqEJx910Vh8TP7wE2T62OJcqKWg2JEczfUWn8WOKjmM5c8N1kJ2\nq6EbpCdWlxcD49L/MavJ5Yfw9jSZAjKzOIxxz0C294iMTK4IcSmeVvdqhkdyh96E\nCABw3o8sJfqB6p+KXjweXcE2KOhvzAWqTRcIogDC0jV/PgOlindf6k0am2FJHvMM\nA+sf/pmD0YKI1vEaXW+Vs6cz6LzvwbIkJSwuzBA7FYHAG5yqTSkQDxTSttw/RwiW\nfUScqHjQVBUqkM5bdOsdYBSDutQKDF2+WfcK5jXFdnydkQi59HKHV2R0K5cXYqfN\nTu7aMBqFcfGunLlzfKCJcz8SElEmUjG6oAzRZYcdM9dmnR7ypQK17A/GbaysKKOE\nHMmep7uNX25w+6AL7zExnmPPPtSz+kj1SXt9fgldkelDhg1faAgfwXb/N4E+00lA\n1+aJD3gHcR4QnDI4gnKBKHyIktQPfNKMQ6xuL0oyvsalQ/loz08wu0aACcGDFrg4\nuOVVxTqU+pEITuwGcNk228+O2EbMWzzi3+Vhi1v3Gg3jJ3TRB3QN6NohmrsIackL\n4W2V5NoX5i2VizGfLy2g\n=GWd5\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8af2771813632e2007988c8df6ad7e68b28ad121\ntype commit\ntag v0.4.1\ntagger James Zern <jzern@google.com> 1406605924 -0700\n\nlibwebp 0.4.1\n- 7/24/14: version 0.4.1\n  This is a binary compatible release.\n  * AArch64 (arm64) & MIPS support/optimizations\n  * NEON assembly additions:\n    - ~25% faster lossy decode / encode (-m 4)\n    - ~10% faster lossless decode\n    - ~5-10% faster lossless encode (-m 3/4)\n  * dwebp/vwebp can read from stdin\n  * cwebp/gif2webp can write to stdout\n  * cwebp can read webp files; useful if storing sources as webp lossless\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE0NzY5ODoyZDQ5OWY1YTQzMmFkNThmZWViN2I3ZDg4ODI5MWNjOThkNDgxZjlm",
+  "sha": "2d499f5a432ad58feeb7b7d888291cc98d481f9f",
+  "url": "https://api.github.com/repos/proot-me/proot/git/tags/2d499f5a432ad58feeb7b7d888291cc98d481f9f",
+  "tagger": {
+    "name": "Cédric VINCENT",
+    "email": "cedric.vincent@st.com",
+    "date": "2012-06-26T13:12:11Z"
+  },
+  "object": {
+    "sha": "4d148c2b340b38286b69c29cb2753b32d0389743",
+    "type": "commit",
+    "url": "https://api.github.com/repos/proot-me/proot/git/commits/4d148c2b340b38286b69c29cb2753b32d0389743"
+  },
+  "tag": "v2.0.1",
+  "message": "Release v2.0.1\n==============\n\n* Fix a compatibility issue with QEMU v1.1\n\n* Fix the initialization of bindings that point to \"/proc/self\".\n\nThese problems were reported by Alkino:\n\n    https://github.com/cedric-vincent/PRoot/issues/3\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJP6bU1AAoJEChi0LD6j7VWOPEH/3bZ1UdUtqDgFDBDoVFB8JVc\n++jRk/mEzJ707YN6Eg/PrPSST43WIg8A5jlAiAe3+K5ldm6yNNb6gb94qc4wSo1C\n94hUW4trZXSg7AO29fB7h77vl2ZO7bK7vJPzCVwioeYSlPQNO+SvZ1pce7JB8QRy\nXllsUhnnSMxP/4r8m/nNF4YVIhSIhBccWuOfPWsGNNLFlercyr0XPCHLGgnbAue6\nR99h3Z8Xq05DDJDUGJZpbnPgcwTeopxCWoCT/nORpcOG4Rl2LmTKJ/++0lZgQtAF\nMQCxn5NTX9/nhC3mcnnJDaWlCWklRS3EBeWxd/bEk5imXbLhdsHiwtrJrPrnPZ8=\n=qhhb\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJP6bU1AAoJEChi0LD6j7VWOPEH/3bZ1UdUtqDgFDBDoVFB8JVc\n++jRk/mEzJ707YN6Eg/PrPSST43WIg8A5jlAiAe3+K5ldm6yNNb6gb94qc4wSo1C\n94hUW4trZXSg7AO29fB7h77vl2ZO7bK7vJPzCVwioeYSlPQNO+SvZ1pce7JB8QRy\nXllsUhnnSMxP/4r8m/nNF4YVIhSIhBccWuOfPWsGNNLFlercyr0XPCHLGgnbAue6\nR99h3Z8Xq05DDJDUGJZpbnPgcwTeopxCWoCT/nORpcOG4Rl2LmTKJ/++0lZgQtAF\nMQCxn5NTX9/nhC3mcnnJDaWlCWklRS3EBeWxd/bEk5imXbLhdsHiwtrJrPrnPZ8=\n=qhhb\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4d148c2b340b38286b69c29cb2753b32d0389743\ntype commit\ntag v2.0.1\ntagger Cédric VINCENT <cedric.vincent@st.com> 1340716331 +0200\n\nRelease v2.0.1\n==============\n\n* Fix a compatibility issue with QEMU v1.1\n\n* Fix the initialization of bindings that point to \"/proc/self\".\n\nThese problems were reported by Alkino:\n\n    https://github.com/cedric-vincent/PRoot/issues/3\n"
+  }
+}

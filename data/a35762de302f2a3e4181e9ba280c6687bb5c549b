@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6YTM1NzYyZGUzMDJmMmEzZTQxODFlOWJhMjgwYzY2ODdiYjVjNTQ5Yg==",
+  "sha": "a35762de302f2a3e4181e9ba280c6687bb5c549b",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/a35762de302f2a3e4181e9ba280c6687bb5c549b",
+  "tagger": {
+    "name": "Matti R",
+    "email": "matti@mdranta.net",
+    "date": "2019-07-15T14:17:06Z"
+  },
+  "object": {
+    "sha": "92b993c91f3b5db942903c07ced64dbc9bc4ac0e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/92b993c91f3b5db942903c07ced64dbc9bc4ac0e"
+  },
+  "tag": "v1.9.0-rc2",
+  "message": "* BUGFIXES\n  * Fix regex for issues in commit messages (#7444) (#7466)\n  * cmd/serv: actually exit after fatal errors (#7458) (#7460)\n  * Fix an issue with some pages throwing 'not defined' js exceptions #7450 (#7453)\n  * Fix Dropzone.js integration (#7445) (#7448)\n  * Create class for inline positioned lists (#7439) (#7393)\n  * Diff: Fix indentation on unhighlighted code (#7435) (#7443)\n  * jQuery 3 (#7442) (#7425)\n  * Only show \"New Pull Request\" button if repo allows pulls (#7426) (#7432)\n  * Fix vendor references (#7394) (#7396)\n  * Only return head: null if source branch was deleted (#6705) (#7376)\n  * Add missing template variable on organisation settings (#7386) (#7385)\n  * Fix post parameter on issue list which had unset assignee (#7380) (#7383)\n  * Fix migration tests due to issue 7 being resolved (#7375) (#7381)<Paste>\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEtW48dDeknhNoYvXenYpXraojLpUFAl0siuIACgkQnYpXraoj\nLpXI7A//fALF70lD5QHoy/AqqhC4OAHtG5gd7epg6d+RcG/NZnoCLCrneXVix22L\n+cc7oKi6ozVa5i7HCYs+4mDXBAYKcOwx4yy9C/cNTfUdFwCPlqBXI42MmAjMoion\n+qElVg+23hEC9z8BEKgD7CmcXjWM+cbnrfpazLsT9681hTDTbL09D5pHAB/+aTbr\nCXSAclBao8V9ce01jfnpRVZrLw0MsiHbaqn+v9hi+vVeb4oS0JbraScMtUX/TzEQ\nmu9FxYigrSVqWyxF1zADzlj2oWt+v3LnHSpeDXMV8FR7qgTlZPQOb+EZW/addv7A\nyxRyFkPKhc6w08m5lG5BSoRJyQ28s3jRHg0nLD1Try1P8+4ZPtkWjgNDRABwM1ob\ntdNpSajaXuFfqfov7Q3Z2G+jhoR8Astn7z4tvVK4SHfJFWLJC8XOqyf3TlqHzdyf\nxFRjGaQibRyCxCVmKP88HGor7ewG5E1UXHm9weh0LVfUdSUZZiXy3TLcnKDeZ9jA\nC2Uu4felHlA4WNZ2JQoAWr6AX0VDz2oWxJQ5QZ4eqT7y80KuLrjWwR+BAPgTrs4C\n9+DmNeyKtqFeuTT4J3nFfPs14H6hvkHDClYlKAD2rlT/jmdAB3jMrXmGd/lK/jh5\nXJQEjBBQUnHrZRZ3Wie5urraKYjQHAxsy0OooDILkPFa1FkDhjw=\n=FCFS\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEtW48dDeknhNoYvXenYpXraojLpUFAl0siuIACgkQnYpXraoj\nLpXI7A//fALF70lD5QHoy/AqqhC4OAHtG5gd7epg6d+RcG/NZnoCLCrneXVix22L\n+cc7oKi6ozVa5i7HCYs+4mDXBAYKcOwx4yy9C/cNTfUdFwCPlqBXI42MmAjMoion\n+qElVg+23hEC9z8BEKgD7CmcXjWM+cbnrfpazLsT9681hTDTbL09D5pHAB/+aTbr\nCXSAclBao8V9ce01jfnpRVZrLw0MsiHbaqn+v9hi+vVeb4oS0JbraScMtUX/TzEQ\nmu9FxYigrSVqWyxF1zADzlj2oWt+v3LnHSpeDXMV8FR7qgTlZPQOb+EZW/addv7A\nyxRyFkPKhc6w08m5lG5BSoRJyQ28s3jRHg0nLD1Try1P8+4ZPtkWjgNDRABwM1ob\ntdNpSajaXuFfqfov7Q3Z2G+jhoR8Astn7z4tvVK4SHfJFWLJC8XOqyf3TlqHzdyf\nxFRjGaQibRyCxCVmKP88HGor7ewG5E1UXHm9weh0LVfUdSUZZiXy3TLcnKDeZ9jA\nC2Uu4felHlA4WNZ2JQoAWr6AX0VDz2oWxJQ5QZ4eqT7y80KuLrjWwR+BAPgTrs4C\n9+DmNeyKtqFeuTT4J3nFfPs14H6hvkHDClYlKAD2rlT/jmdAB3jMrXmGd/lK/jh5\nXJQEjBBQUnHrZRZ3Wie5urraKYjQHAxsy0OooDILkPFa1FkDhjw=\n=FCFS\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 92b993c91f3b5db942903c07ced64dbc9bc4ac0e\ntype commit\ntag v1.9.0-rc2\ntagger Matti R <matti@mdranta.net> 1563200226 -0400\n\n* BUGFIXES\n  * Fix regex for issues in commit messages (#7444) (#7466)\n  * cmd/serv: actually exit after fatal errors (#7458) (#7460)\n  * Fix an issue with some pages throwing 'not defined' js exceptions #7450 (#7453)\n  * Fix Dropzone.js integration (#7445) (#7448)\n  * Create class for inline positioned lists (#7439) (#7393)\n  * Diff: Fix indentation on unhighlighted code (#7435) (#7443)\n  * jQuery 3 (#7442) (#7425)\n  * Only show \"New Pull Request\" button if repo allows pulls (#7426) (#7432)\n  * Fix vendor references (#7394) (#7396)\n  * Only return head: null if source branch was deleted (#6705) (#7376)\n  * Add missing template variable on organisation settings (#7386) (#7385)\n  * Fix post parameter on issue list which had unset assignee (#7380) (#7383)\n  * Fix migration tests due to issue 7 being resolved (#7375) (#7381)<Paste>\n"
+  }
+}

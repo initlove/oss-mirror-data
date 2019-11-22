@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6Yzc5MmM2OTM2MzQ4MDNkZTMwZWNhMThkNmNhZDFkMWEwMzUxMmUwYw==",
+  "sha": "c792c693634803de30eca18d6cad1d1a03512e0c",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/c792c693634803de30eca18d6cad1d1a03512e0c",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "clupo@google.com",
+    "date": "2019-09-11T13:22:44Z"
+  },
+  "object": {
+    "sha": "807d21406bfc6831da0c575458d3464eb51f0c73",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/807d21406bfc6831da0c575458d3464eb51f0c73"
+  },
+  "tag": "4.0.1",
+  "message": "4.0.1\n\n- [otTables] Support fixing offset overflows in ``MultipleSubst`` lookup subtables\n  (#1706).\n- [subset] Prune empty strikes in ``EBDT`` and ``CBDT`` table data (#1698, #1633).\n- [pens] Fixed issue in ``PointToSegmentPen`` when last point of closed contour has\n  same coordinates as the starting point and was incorrectly dropped (#1720).\n- [Graphite] Fixed ``Sill`` table output to pass OTS (#1705).\n- [name] Added ``removeNames`` method to ``table__n_a_m_e`` class (#1719).\n- [ttLib] Added aliases for renamed entries ``ascender`` and ``descender`` in\n  ``hhea`` table (#1715).\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEECmg+jyg0uYckWRrNF5qPCJWgL08FAl149SQACgkQF5qPCJWg\nL0/Jyw//bmgfbmEL9x1Dss3+8gux+VZXER8sVK4mmgv6GpGqMiQCdfE7CKQGk9ar\niFLPdmhnI2j+cvXNv5ajTr/ZUs1EK4yzD31U73+w3pXfQ00ZlLAsNwMW6sBLtJoN\n4+PVThgT3xCbNI5w26hJKrTWby5aE+IaiCC3Q+sPGIftWQSP5+iW87BZSIBngg77\nhXQVRkv7TJFTIQWcxhieC9BEn3zD1cCDNL04TnNSC9JT5ScZ8gbs6fd35I2kapaX\nmTkIZn28qsXfIly8LrfCoLN5QKCdm4eCoW8wB6hwwfbtcpy4ftW1cE+MseX9BtE/\n7nOYVel39/uboNqs4Xu8oVDa2sxQWiziETgOvy2Hd2i++vCuFuvO6GYxhzVttuEe\nKrZkDHQ4EGkxapvJf2dSvx9XMwGdf31KJ3PtGRvR7IBYghipikmCevjsPNBOL59F\nTE9g25LO6v45TFPHlVMZJJNhAxiSj8Coi6G6WH0i+ps5E2ssJfOfeaX1F8qz0pYI\n224bzZ9hJntnpN0qwh47wynCo6Ow0kP34JTXdu5r/uWUKei/JguyxBBiuQlPctwV\n3ehHr9s9OEP+1y1MfdSPxfSJNeCfEalyxAA2IDQBxqi5+qjovIUU7OdtG5SrcIvp\n/xEFOb5Yx5T/wIq3vNZDdU7OyoUicXWUYzu8tliesEGMoglukYc=\n=noRn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEECmg+jyg0uYckWRrNF5qPCJWgL08FAl149SQACgkQF5qPCJWg\nL0/Jyw//bmgfbmEL9x1Dss3+8gux+VZXER8sVK4mmgv6GpGqMiQCdfE7CKQGk9ar\niFLPdmhnI2j+cvXNv5ajTr/ZUs1EK4yzD31U73+w3pXfQ00ZlLAsNwMW6sBLtJoN\n4+PVThgT3xCbNI5w26hJKrTWby5aE+IaiCC3Q+sPGIftWQSP5+iW87BZSIBngg77\nhXQVRkv7TJFTIQWcxhieC9BEn3zD1cCDNL04TnNSC9JT5ScZ8gbs6fd35I2kapaX\nmTkIZn28qsXfIly8LrfCoLN5QKCdm4eCoW8wB6hwwfbtcpy4ftW1cE+MseX9BtE/\n7nOYVel39/uboNqs4Xu8oVDa2sxQWiziETgOvy2Hd2i++vCuFuvO6GYxhzVttuEe\nKrZkDHQ4EGkxapvJf2dSvx9XMwGdf31KJ3PtGRvR7IBYghipikmCevjsPNBOL59F\nTE9g25LO6v45TFPHlVMZJJNhAxiSj8Coi6G6WH0i+ps5E2ssJfOfeaX1F8qz0pYI\n224bzZ9hJntnpN0qwh47wynCo6Ow0kP34JTXdu5r/uWUKei/JguyxBBiuQlPctwV\n3ehHr9s9OEP+1y1MfdSPxfSJNeCfEalyxAA2IDQBxqi5+qjovIUU7OdtG5SrcIvp\n/xEFOb5Yx5T/wIq3vNZDdU7OyoUicXWUYzu8tliesEGMoglukYc=\n=noRn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 807d21406bfc6831da0c575458d3464eb51f0c73\ntype commit\ntag 4.0.1\ntagger Cosimo Lupo <clupo@google.com> 1568208164 +0200\n\n4.0.1\n\n- [otTables] Support fixing offset overflows in ``MultipleSubst`` lookup subtables\n  (#1706).\n- [subset] Prune empty strikes in ``EBDT`` and ``CBDT`` table data (#1698, #1633).\n- [pens] Fixed issue in ``PointToSegmentPen`` when last point of closed contour has\n  same coordinates as the starting point and was incorrectly dropped (#1720).\n- [Graphite] Fixed ``Sill`` table output to pass OTS (#1705).\n- [name] Added ``removeNames`` method to ``table__n_a_m_e`` class (#1719).\n- [ttLib] Added aliases for renamed entries ``ascender`` and ``descender`` in\n  ``hhea`` table (#1715).\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjo1ZDNkMGIzYmVjNzAyM2JiNDkwOGI0OWZjN2I1NWI4NzZmMjcyYmYw",
+  "sha": "5d3d0b3bec7023bb4908b49fc7b55b876f272bf0",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/5d3d0b3bec7023bb4908b49fc7b55b876f272bf0",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2016-07-13T06:22:14Z"
+  },
+  "object": {
+    "sha": "be2c5fd53598a83a1b0285f6ad5c54e826133745",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/be2c5fd53598a83a1b0285f6ad5c54e826133745"
+  },
+  "tag": "v2.0.0b2",
+  "message": "REL: v2.0.0b2\n\nSecond beta for v2.0.0\n\n- fixed bugs in scaling dash pattern by linewidth\n- fixed over/under propagating in images\n- back ported improved png API from master\n- deprecate gtk, gdk, wx (not gtkagg, wxagg) backends\n- tweaks to default font sizes\n- ensure default ticker always has at least 2 ticks\n- remove vendored version of `six`\n- updated GUI icons\n- many small bug fixes\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEwBAABCAAaBQJXhd4yExx0Y2Fzd2VsbEBnbWFpbC5jb20ACgkQV/pFQN1O/Pe/\nrggAjK3FpbLEJAPqkqm0QWTwrbMb2fFoVJ0s7zjakXl+QVWkATT/qLaz27AjkbPG\nuytbsKuOukU4aGaR+PaW5pMMNdrbvIc+GV0nJPnKKU7A204C8g2M9BSdQKQkuoIi\n9Zaa0nmsggBoEwKutiMFcsUZnACW8hJCvqM3Lx8Qzm6Vd6+x38DwhaaSL+sz4+5I\nk3MTUXU3bkO+UlsjUamZfTxJ1TqR9pzw1fI3DWSl6Q4OFOeOcyby0IO58uK+fAdv\ngVZVsE/W/68p8f9x8Mg7WVlWsEi1TFaaX79twJHifNbCH22adcxJ39UevGDPaykx\njTIpTjGxO5i8wGjOMS89jrVgDw==\n=03fm\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEwBAABCAAaBQJXhd4yExx0Y2Fzd2VsbEBnbWFpbC5jb20ACgkQV/pFQN1O/Pe/\nrggAjK3FpbLEJAPqkqm0QWTwrbMb2fFoVJ0s7zjakXl+QVWkATT/qLaz27AjkbPG\nuytbsKuOukU4aGaR+PaW5pMMNdrbvIc+GV0nJPnKKU7A204C8g2M9BSdQKQkuoIi\n9Zaa0nmsggBoEwKutiMFcsUZnACW8hJCvqM3Lx8Qzm6Vd6+x38DwhaaSL+sz4+5I\nk3MTUXU3bkO+UlsjUamZfTxJ1TqR9pzw1fI3DWSl6Q4OFOeOcyby0IO58uK+fAdv\ngVZVsE/W/68p8f9x8Mg7WVlWsEi1TFaaX79twJHifNbCH22adcxJ39UevGDPaykx\njTIpTjGxO5i8wGjOMS89jrVgDw==\n=03fm\n-----END PGP SIGNATURE-----\n",
+    "payload": "object be2c5fd53598a83a1b0285f6ad5c54e826133745\ntype commit\ntag v2.0.0b2\ntagger Thomas A Caswell <tcaswell@gmail.com> 1468390934 -0500\n\nREL: v2.0.0b2\n\nSecond beta for v2.0.0\n\n- fixed bugs in scaling dash pattern by linewidth\n- fixed over/under propagating in images\n- back ported improved png API from master\n- deprecate gtk, gdk, wx (not gtkagg, wxagg) backends\n- tweaks to default font sizes\n- ensure default ticker always has at least 2 ticks\n- remove vendored version of `six`\n- updated GUI icons\n- many small bug fixes\n"
+  }
+}

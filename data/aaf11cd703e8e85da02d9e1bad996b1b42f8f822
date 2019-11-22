@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6YWFmMTFjZDcwM2U4ZTg1ZGEwMmQ5ZTFiYWQ5OTZiMWI0MmY4ZjgyMg==",
+  "sha": "aaf11cd703e8e85da02d9e1bad996b1b42f8f822",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/aaf11cd703e8e85da02d9e1bad996b1b42f8f822",
+  "tagger": {
+    "name": "Lauris BH",
+    "email": "lauris@nix.lv",
+    "date": "2017-11-03T13:58:43Z"
+  },
+  "object": {
+    "sha": "09bd05732de61930c99509ee5a25816895f430a8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/09bd05732de61930c99509ee5a25816895f430a8"
+  },
+  "tag": "v1.2.3",
+  "message": "* BUGFIXES\n  * Only require one email when validating GPG key (#2266, #2467, #2663) (#2788)\n  * Fix order of comments (#2835) (#2839)\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJZ/HYTAAoJEAAun/0QxWQD0JEQAJwwxyXtF1gXIfOR4Ve6HuCb\nrvTzJwNuOW9MAgDfvefXExWnaU3QG1BG9x4X1mFZQNwZX/TmUohvAZYFiQz8qnCK\nTaPVYnxg5QgLs7JPvvM0/XI3+UUqjN87KumxU0tyYrU8Pc4YhfeDvjMBu5c2F1zn\nJQzf5nkjFEVoKD+UEZUanbHgqSR9HAxPnMWCYxNmlAwauoVxwlMrGGdI/H2lvG89\neS3stJ3WighcIZ51It1NqVvObo9x9Db//a+jUYdTqjtqYVaeOsuVRDmm2XE82krb\nRzmdawyzQSYhIwjNygVEU7JD+XJxJCCub3iMbfwZJ+ChmPF8pKQGpD4wreI8da+t\nZnLkphInP5wdMyrMma4hZWfEvBSacIdXWB9a7q75qFoHyssPkrO6nrE/b2JZ3bNj\n2YNZS7uWSsPYd76uqYXJbKIYrAzrCWw99iBjRmJ5vK0Jm+f22IU/zF60wpjBKBVo\njOJYdsDrMMLMBPFIQTsW4h3d4BbC5yfHCUoIBKR7vUyNSHgVmekonAJmkhDjzY3M\ntU5Z5CyswESpgezj3cdd/JtLqodGPBsFK/dVKQlrzp8Ro4yMHMnBl767VqYlr67+\ndfKQETAIYrpBDIH2YL35NkpGFoegGJ4KdGcC/5d1v6H+Uz5CJr36YDvrR8CNJACU\nI2lZZDE3XdI6i48AuDKm\n=EFLl\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJZ/HYTAAoJEAAun/0QxWQD0JEQAJwwxyXtF1gXIfOR4Ve6HuCb\nrvTzJwNuOW9MAgDfvefXExWnaU3QG1BG9x4X1mFZQNwZX/TmUohvAZYFiQz8qnCK\nTaPVYnxg5QgLs7JPvvM0/XI3+UUqjN87KumxU0tyYrU8Pc4YhfeDvjMBu5c2F1zn\nJQzf5nkjFEVoKD+UEZUanbHgqSR9HAxPnMWCYxNmlAwauoVxwlMrGGdI/H2lvG89\neS3stJ3WighcIZ51It1NqVvObo9x9Db//a+jUYdTqjtqYVaeOsuVRDmm2XE82krb\nRzmdawyzQSYhIwjNygVEU7JD+XJxJCCub3iMbfwZJ+ChmPF8pKQGpD4wreI8da+t\nZnLkphInP5wdMyrMma4hZWfEvBSacIdXWB9a7q75qFoHyssPkrO6nrE/b2JZ3bNj\n2YNZS7uWSsPYd76uqYXJbKIYrAzrCWw99iBjRmJ5vK0Jm+f22IU/zF60wpjBKBVo\njOJYdsDrMMLMBPFIQTsW4h3d4BbC5yfHCUoIBKR7vUyNSHgVmekonAJmkhDjzY3M\ntU5Z5CyswESpgezj3cdd/JtLqodGPBsFK/dVKQlrzp8Ro4yMHMnBl767VqYlr67+\ndfKQETAIYrpBDIH2YL35NkpGFoegGJ4KdGcC/5d1v6H+Uz5CJr36YDvrR8CNJACU\nI2lZZDE3XdI6i48AuDKm\n=EFLl\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 09bd05732de61930c99509ee5a25816895f430a8\ntype commit\ntag v1.2.3\ntagger Lauris BH <lauris@nix.lv> 1509717523 +0200\n\n* BUGFIXES\n  * Only require one email when validating GPG key (#2266, #2467, #2663) (#2788)\n  * Fix order of comments (#2835) (#2839)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzYwMDU6ODU4MTdmZjUxNzFlNjgxZTA2YTM2N2YwMjE1YjlhMGMxMjhjMzFhNQ==",
+  "sha": "85817ff5171e681e06a367f0215b9a0c128c31a5",
+  "url": "https://api.github.com/repos/gpg/libgcrypt/git/tags/85817ff5171e681e06a367f0215b9a0c128c31a5",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2016-08-17T11:33:31Z"
+  },
+  "object": {
+    "sha": "f8241874971478bdcd2bc2082d901d05db7b256d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libgcrypt/git/commits/f8241874971478bdcd2bc2082d901d05db7b256d"
+  },
+  "tag": "libgcrypt-1.7.3",
+  "message": "Fix long standing RNG bug [CVE-2016-6313]\n-----BEGIN PGP SIGNATURE-----\n\niQEcBAABCAAGBQJXtEuLAAoJECSbOdJPJeO2OY8IAJzBY9gUsZkCKmkocRN3GDxn\nBUysYeXVbZgjHDoQVN1z/xvdwsOCV7CYjq4sVw45kx3B8uUGe2ZumV4bH5zaIS7Y\nS2TEnikmSDpZwcO2tBZB4MOBHwRAZPLGhND6pXaakmHdoxxJ+JCpxjHOvL3NYYvZ\nFTcdM37V14+08TvgqUVNmiMi0zvFcRxWJh2lyRrQfDWH6mVJkwV1zI2b/iP5RbZT\nG1Mi3iDH3wmbzN6Sq87VG7bqm0I6Dy34F5ZZDMKK2O5A6gxieR+e/zInFRjRq8ci\nF8vGzBm4PKa2rwK8vcsEOopERXIjTvW16k94tU7/yhz5F/G4SdY80qOvcg/qaCU=\n=j4T5\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEcBAABCAAGBQJXtEuLAAoJECSbOdJPJeO2OY8IAJzBY9gUsZkCKmkocRN3GDxn\nBUysYeXVbZgjHDoQVN1z/xvdwsOCV7CYjq4sVw45kx3B8uUGe2ZumV4bH5zaIS7Y\nS2TEnikmSDpZwcO2tBZB4MOBHwRAZPLGhND6pXaakmHdoxxJ+JCpxjHOvL3NYYvZ\nFTcdM37V14+08TvgqUVNmiMi0zvFcRxWJh2lyRrQfDWH6mVJkwV1zI2b/iP5RbZT\nG1Mi3iDH3wmbzN6Sq87VG7bqm0I6Dy34F5ZZDMKK2O5A6gxieR+e/zInFRjRq8ci\nF8vGzBm4PKa2rwK8vcsEOopERXIjTvW16k94tU7/yhz5F/G4SdY80qOvcg/qaCU=\n=j4T5\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f8241874971478bdcd2bc2082d901d05db7b256d\ntype commit\ntag libgcrypt-1.7.3\ntagger Werner Koch <wk@gnupg.org> 1471433611 +0200\n\nFix long standing RNG bug [CVE-2016-6313]\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6NGFkYTAzYzE2YzlhYThmODU4NmZmMzJhZmU5NThhNzhkZjNhOWFmMg==",
+  "sha": "4ada03c16c9aa8f8586ff32afe958a78df3a9af2",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/4ada03c16c9aa8f8586ff32afe958a78df3a9af2",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2018-06-23T15:08:17Z"
+  },
+  "object": {
+    "sha": "0eb4b87457fe01344011c2eac9418c50f02ef4f0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/0eb4b87457fe01344011c2eac9418c50f02ef4f0"
+  },
+  "tag": "libmodulemd-1.5.2",
+  "message": "Stephen Gallagher (3):\n      Allocate Modulemd.props.buildopts at object creation\n      Don't free uninitialized memory\n      Improve valgrind test\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWy5iYwAKCRB6JVViNrqj\noxGbAJsGSHy6SJjZQaOU8PoEy2VnxK+Q4gCfXOi5jQNvIPrTHjz9vrh4MDtPoRg=\n=03a7\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWy5iYwAKCRB6JVViNrqj\noxGbAJsGSHy6SJjZQaOU8PoEy2VnxK+Q4gCfXOi5jQNvIPrTHjz9vrh4MDtPoRg=\n=03a7\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0eb4b87457fe01344011c2eac9418c50f02ef4f0\ntype commit\ntag libmodulemd-1.5.2\ntagger Stephen Gallagher <sgallagh@redhat.com> 1529766497 -0400\n\nStephen Gallagher (3):\n      Allocate Modulemd.props.buildopts at object creation\n      Don't free uninitialized memory\n      Improve valgrind test\n"
+  }
+}

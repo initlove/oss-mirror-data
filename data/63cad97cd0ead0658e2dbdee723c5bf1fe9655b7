@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6NjNjYWQ5N2NkMGVhZDA2NThlMmRiZGVlNzIzYzViZjFmZTk2NTViNw==",
+  "sha": "63cad97cd0ead0658e2dbdee723c5bf1fe9655b7",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/63cad97cd0ead0658e2dbdee723c5bf1fe9655b7",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2017-12-18T12:24:42Z"
+  },
+  "object": {
+    "sha": "e82773aa11a3ce7142cce67c5fa883d4ab3fc6be",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/e82773aa11a3ce7142cce67c5fa883d4ab3fc6be"
+  },
+  "tag": "3.21.0",
+  "message": "3.21.0\n\n- [cmap] when compiling format6 subtable, don't assume gid0 is always called\n  '.notdef' (1e42224).\n- [ot] Allow decompiling fonts with bad Coverage format number (1aafae8).\n- Change FontTools licence to MIT (#1127).\n- [post] Prune extra names already in standard Mac set (df1e8c7).\n- [subset] Delete empty SubrsIndex after subsetting (#994, #1118).\n- [varLib] Don't share points in cvar by default, as it currently fails on\n  some browsers (#1113).\n- [afmLib] Make poor old afmLib work on python3.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjpjZjYzMDAwNzcwYTU4MzM3ODc3Mzk4Y2Y5MTUyZWE3OWMxNDc0ZWQx",
+  "sha": "cf63000770a58337877398cf9152ea79c1474ed1",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/cf63000770a58337877398cf9152ea79c1474ed1",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2018-01-18T04:21:55Z"
+  },
+  "object": {
+    "sha": "24f0d9c47a00c2e58da421c0621eb2e90579e4c6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/24f0d9c47a00c2e58da421c0621eb2e90579e4c6"
+  },
+  "tag": "v2.1.2",
+  "message": "REL: v2.1.2\n\nThe second bug-fix release for the 2.1 series.\n\nThis release fixes a number of critical bugs:\n\n - fix a typo in mlab.cohere which yielded incorrect results\n - allow nonposx / nonposy to pass through loglog\n - fix color comparisons when finding handles with legend\n - fixes a recursive draw bug and a major performance regression in\n   Qt5Agg backend\n - fix a re-draw bug in WxAgg\n - fix image scaling with high-bit depth integers\n - revert the busy-cursor\n-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlpgIOcTHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U789wTWB/94GAsasgSOupPzChPA4ULdH6YRcRix\n4yYB3FCG9T3KAUDE2xCVzW/jUh3omlK73pZXQGJtIAtGuWzc83s6N0P9hY2NXpwS\nK/Ot7+SKoqFNxECxS8oCESwoHhMo8qqdb6NfEqSlZ2nlLf+JIM626bqXgesVSAmI\nPUCngzjQPv/clvUlgjWZwmVQGjg7a/+gR8bbHhaBgX00s52QPNq8aq7LyTRsd7ns\nY4IWckpxmxlbv+U9kwtvBlfV/t6/a6Xvd0B21l9Y7x1tLq/7C9y1HqqROONxl1go\nvPX0Io7U9UV9NWtyOs8s+iSQR9NxPPzIgehFi5QAhXh7o1w3UCDaFv/m\n=peKb\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlpgIOcTHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U789wTWB/94GAsasgSOupPzChPA4ULdH6YRcRix\n4yYB3FCG9T3KAUDE2xCVzW/jUh3omlK73pZXQGJtIAtGuWzc83s6N0P9hY2NXpwS\nK/Ot7+SKoqFNxECxS8oCESwoHhMo8qqdb6NfEqSlZ2nlLf+JIM626bqXgesVSAmI\nPUCngzjQPv/clvUlgjWZwmVQGjg7a/+gR8bbHhaBgX00s52QPNq8aq7LyTRsd7ns\nY4IWckpxmxlbv+U9kwtvBlfV/t6/a6Xvd0B21l9Y7x1tLq/7C9y1HqqROONxl1go\nvPX0Io7U9UV9NWtyOs8s+iSQR9NxPPzIgehFi5QAhXh7o1w3UCDaFv/m\n=peKb\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 24f0d9c47a00c2e58da421c0621eb2e90579e4c6\ntype commit\ntag v2.1.2\ntagger Thomas A Caswell <tcaswell@gmail.com> 1516249315 -0500\n\nREL: v2.1.2\n\nThe second bug-fix release for the 2.1 series.\n\nThis release fixes a number of critical bugs:\n\n - fix a typo in mlab.cohere which yielded incorrect results\n - allow nonposx / nonposy to pass through loglog\n - fix color comparisons when finding handles with legend\n - fixes a recursive draw bug and a major performance regression in\n   Qt5Agg backend\n - fix a re-draw bug in WxAgg\n - fix image scaling with high-bit depth integers\n - revert the busy-cursor\n"
+  }
+}

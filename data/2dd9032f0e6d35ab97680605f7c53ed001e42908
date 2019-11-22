@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6MmRkOTAzMmYwZTZkMzVhYjk3NjgwNjA1ZjdjNTNlZDAwMWU0MjkwOA==",
+  "sha": "2dd9032f0e6d35ab97680605f7c53ed001e42908",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/2dd9032f0e6d35ab97680605f7c53ed001e42908",
+  "tagger": {
+    "name": "Kim \"BKC\" Carlbäcker",
+    "email": "kim.carlbacker@gmail.com",
+    "date": "2017-05-04T16:30:35Z"
+  },
+  "object": {
+    "sha": "f9859a29913a4fddbdd9f67febef3553ddf8c98b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/f9859a29913a4fddbdd9f67febef3553ddf8c98b"
+  },
+  "tag": "v1.1.1",
+  "message": "Release v1.1.1\n\n* BUGFIXES\n  * Markdown Sanitation Fix [#1646](https://github.com/go-gitea/gitea/pull/1646)\n  * Fix broken hooks [#1376](https://github.com/go-gitea/gitea/pull/1376)\n  * Fix migration issue [#1375](https://github.com/go-gitea/gitea/pull/1375)\n  * Fix Wiki Issues [#1338](https://github.com/go-gitea/gitea/pull/1338)\n  * Forgotten migration for wiki githooks [#1237](https://github.com/go-gitea/gitea/pull/1237)\n  * Commit messages can contain pipes [#1218](https://github.com/go-gitea/gitea/pull/1218)\n  * Verify external tracker URLs [#1236](https://github.com/go-gitea/gitea/pull/1236)\n  * Allow upgrade after downgrade [#1197](https://github.com/go-gitea/gitea/pull/1197)\n  * 500 on delete repo with issue [#1195](https://github.com/go-gitea/gitea/pull/1195)\n  * INI compat with CrowdIn [#1192](https://github.com/go-gitea/gitea/pull/1192)\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEE19hNl81yECPXd0SVARsaBRZLWlEFAlkLV0wACgkQARsaBRZL\nWlEFhhAArRVYnx6eE2rduf+ezxhIzCqUaDqKAIsQrsknDafOYe7aYcjXI1U6qUUl\nces/L5wF0HOTORJammXv0CUwbt3D0jlnmZ23bfVcV1CuC2E3/KdAUSDDHkavNNP1\nitpvNPP21+wNlA4q3Q9z8H5D9cf7ySGrcZSCwvzyr21xxg/R+FZhgauF5/trsCQa\nFe90vIz9oXoo7LK2fe1Wm5AKsl2D6S4OXPeaCnSgppSV8TwEabV8sSk61d0n8eGi\nYEb7RcBHqlEWjj4FXBmcyVHb3tJs/3MVDtY0qi21Q2F5dgyw8l2DjGGFrlGbeIln\n9fkJ9JYQkyo4+sKOoV2BZseo/IQITX1/riISbC36M9WBOyvgmRZkSNKNTrjzE9Y5\n7fAZ48VHCsuEYquQac7iF/92xpnoMQLaENaqw+E23kUuO7u1+Lx0M+vxw6jKNppv\nXdiQwXrojtkueFOWizPbxmCgp8Dbr0kr70APpKmjICwRQPE/CWbBROwot6Sk2s03\nKfK5XVtleuPNeLTmtzfehBeiQiRk/4g4qM/h7su9qGjRlViAJ7Dkht26Fw3Etdzw\nFK+BqgQ0Emp4CxBmpLAPY+Ay7HJMiKEofZJp/02tsbi5KRyQesaiT/ZzrYMrz+DR\nDu/HIu9mavhZNjRtKoEm2Vwri2PMRu5iRvCTymnF1jYxG5eJUNw=\n=nQJR\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "expired_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEE19hNl81yECPXd0SVARsaBRZLWlEFAlkLV0wACgkQARsaBRZL\nWlEFhhAArRVYnx6eE2rduf+ezxhIzCqUaDqKAIsQrsknDafOYe7aYcjXI1U6qUUl\nces/L5wF0HOTORJammXv0CUwbt3D0jlnmZ23bfVcV1CuC2E3/KdAUSDDHkavNNP1\nitpvNPP21+wNlA4q3Q9z8H5D9cf7ySGrcZSCwvzyr21xxg/R+FZhgauF5/trsCQa\nFe90vIz9oXoo7LK2fe1Wm5AKsl2D6S4OXPeaCnSgppSV8TwEabV8sSk61d0n8eGi\nYEb7RcBHqlEWjj4FXBmcyVHb3tJs/3MVDtY0qi21Q2F5dgyw8l2DjGGFrlGbeIln\n9fkJ9JYQkyo4+sKOoV2BZseo/IQITX1/riISbC36M9WBOyvgmRZkSNKNTrjzE9Y5\n7fAZ48VHCsuEYquQac7iF/92xpnoMQLaENaqw+E23kUuO7u1+Lx0M+vxw6jKNppv\nXdiQwXrojtkueFOWizPbxmCgp8Dbr0kr70APpKmjICwRQPE/CWbBROwot6Sk2s03\nKfK5XVtleuPNeLTmtzfehBeiQiRk/4g4qM/h7su9qGjRlViAJ7Dkht26Fw3Etdzw\nFK+BqgQ0Emp4CxBmpLAPY+Ay7HJMiKEofZJp/02tsbi5KRyQesaiT/ZzrYMrz+DR\nDu/HIu9mavhZNjRtKoEm2Vwri2PMRu5iRvCTymnF1jYxG5eJUNw=\n=nQJR\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f9859a29913a4fddbdd9f67febef3553ddf8c98b\ntype commit\ntag v1.1.1\ntagger Kim \"BKC\" Carlbäcker <kim.carlbacker@gmail.com> 1493915435 +0200\n\nRelease v1.1.1\n\n* BUGFIXES\n  * Markdown Sanitation Fix [#1646](https://github.com/go-gitea/gitea/pull/1646)\n  * Fix broken hooks [#1376](https://github.com/go-gitea/gitea/pull/1376)\n  * Fix migration issue [#1375](https://github.com/go-gitea/gitea/pull/1375)\n  * Fix Wiki Issues [#1338](https://github.com/go-gitea/gitea/pull/1338)\n  * Forgotten migration for wiki githooks [#1237](https://github.com/go-gitea/gitea/pull/1237)\n  * Commit messages can contain pipes [#1218](https://github.com/go-gitea/gitea/pull/1218)\n  * Verify external tracker URLs [#1236](https://github.com/go-gitea/gitea/pull/1236)\n  * Allow upgrade after downgrade [#1197](https://github.com/go-gitea/gitea/pull/1197)\n  * 500 on delete repo with issue [#1195](https://github.com/go-gitea/gitea/pull/1195)\n  * INI compat with CrowdIn [#1192](https://github.com/go-gitea/gitea/pull/1192)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjpkYjBlNzhjN2E5NTQwZjIzZTEyNDcyZmY3MTYxZDg4MzE3NWY2Nzkx",
+  "sha": "db0e78c7a9540f23e12472ff7161d883175f6791",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/db0e78c7a9540f23e12472ff7161d883175f6791",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2018-11-10T01:07:00Z"
+  },
+  "object": {
+    "sha": "8858a0d1bdd149a0897789e8503ac586be14676d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/8858a0d1bdd149a0897789e8503ac586be14676d"
+  },
+  "tag": "v3.0.2",
+  "message": "REL: v3.0.2\n\nThis is the second bug-fix release for the v3.0 series.\n\n - Un-breaks basemap which was broken by partially restoring\n   private APIs for cartopy.\n - Fixes bug in warning code when used in an embedded context.\n - Fixes crash when using Tk and closing the first open window before showing it\n - Many documentation improvements.\n - Restore a corner case on ColorBar tick usage.\n - Change the default behavior of `matplotlib.use` to silently allow\n   more 'safe' switching after auto-discovery, but before starting an event loop.\n - Improvements to bounding box calculations.\n - Provide the correct length for RcParams instances.\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEsYc9tVVEbczMtz/cvNkoBQ1xPXUFAlvmLzYACgkQvNkoBQ1x\nPXWd6g//ZjHkzE3v2k2t2/tazHh0Vr24toeDbRjVpLL1FGOiiVezZLYfZm4VBkFx\ngaTorF5VB3Q/5h1/fNbukdxd0hAojqDus9bTWJknsF8Twjpc7X+WBl6An9yaGhYE\nJJH9VJvDYrFviQF75L6CSvaSe0OJWs7c4RqaN4DW8/IwWK+zjVD+Y69RUkPVwg8t\nAzRtm58iSYpuCcMcDOe1SzZg6BF4Q2bwEIJaK9JkpqTr+hYWv0qdYRqcFNrr7Svi\nTn6D82WYcc63yKFZ7i3M++lL/bGDbWaneUEmlkxdDWxe/7zs7xVjDyQuAvOyXrY0\nWRHago1dN+DIwTbRI352bZAJ8/hKJlT/z5O1c1hWEBF8DJZPMOFUsCtQkRRrmsAM\nHpzVaejb0FyBRyu/W7D3m3NbIaviqqeWcJ+zkTrV/THT2rc7Kj165iV0O1pABEFc\nyl3AuhKjsj0jEztOgzBEAo03Lzv3C0OU6R52sw5z+VGtHjIx8ZF66Q2c/wsy1wu3\n3nQxQIoIjNSIR817HaAEd6iowciN1t4XVP6DCoRYbPXcnSRd9wGhxNOqxrnd4zXo\nmKbqzy9wl45Ci08GxAp2DoGb48oTKyDTneXtw1kE9sejDYHGuo/arjX1TAanjHuU\n+AAv0Q7foQ3lnNU82/hfVFqCigfMEGBpMXj2MjgarAL6Mb0unmg=\n=m+/B\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEsYc9tVVEbczMtz/cvNkoBQ1xPXUFAlvmLzYACgkQvNkoBQ1x\nPXWd6g//ZjHkzE3v2k2t2/tazHh0Vr24toeDbRjVpLL1FGOiiVezZLYfZm4VBkFx\ngaTorF5VB3Q/5h1/fNbukdxd0hAojqDus9bTWJknsF8Twjpc7X+WBl6An9yaGhYE\nJJH9VJvDYrFviQF75L6CSvaSe0OJWs7c4RqaN4DW8/IwWK+zjVD+Y69RUkPVwg8t\nAzRtm58iSYpuCcMcDOe1SzZg6BF4Q2bwEIJaK9JkpqTr+hYWv0qdYRqcFNrr7Svi\nTn6D82WYcc63yKFZ7i3M++lL/bGDbWaneUEmlkxdDWxe/7zs7xVjDyQuAvOyXrY0\nWRHago1dN+DIwTbRI352bZAJ8/hKJlT/z5O1c1hWEBF8DJZPMOFUsCtQkRRrmsAM\nHpzVaejb0FyBRyu/W7D3m3NbIaviqqeWcJ+zkTrV/THT2rc7Kj165iV0O1pABEFc\nyl3AuhKjsj0jEztOgzBEAo03Lzv3C0OU6R52sw5z+VGtHjIx8ZF66Q2c/wsy1wu3\n3nQxQIoIjNSIR817HaAEd6iowciN1t4XVP6DCoRYbPXcnSRd9wGhxNOqxrnd4zXo\nmKbqzy9wl45Ci08GxAp2DoGb48oTKyDTneXtw1kE9sejDYHGuo/arjX1TAanjHuU\n+AAv0Q7foQ3lnNU82/hfVFqCigfMEGBpMXj2MjgarAL6Mb0unmg=\n=m+/B\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8858a0d1bdd149a0897789e8503ac586be14676d\ntype commit\ntag v3.0.2\ntagger Thomas A Caswell <tcaswell@gmail.com> 1541812020 -0500\n\nREL: v3.0.2\n\nThis is the second bug-fix release for the v3.0 series.\n\n - Un-breaks basemap which was broken by partially restoring\n   private APIs for cartopy.\n - Fixes bug in warning code when used in an embedded context.\n - Fixes crash when using Tk and closing the first open window before showing it\n - Many documentation improvements.\n - Restore a corner case on ColorBar tick usage.\n - Change the default behavior of `matplotlib.use` to silently allow\n   more 'safe' switching after auto-discovery, but before starting an event loop.\n - Improvements to bounding box calculations.\n - Provide the correct length for RcParams instances.\n"
+  }
+}

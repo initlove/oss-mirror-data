@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6NjE1OTc2ZTM3NDY3ZGM1YTg1ZjVkZGNmNTc1YmUyOTVmZjFiNWZlNg==",
+  "sha": "615976e37467dc5a85f5ddcf575be295ff1b5fe6",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/615976e37467dc5a85f5ddcf575be295ff1b5fe6",
+  "tagger": {
+    "name": "Matti Ranta",
+    "email": "matti@mdranta.net",
+    "date": "2018-12-21T15:17:57Z"
+  },
+  "object": {
+    "sha": "2631f7f64d24eef0ceb12eba6d384dfb6cb37527",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/2631f7f64d24eef0ceb12eba6d384dfb6cb37527"
+  },
+  "tag": "v1.6.2",
+  "message": "* SECURITY\n  * Sanitize uploaded file names (#5571) (#5573)\n  * HTMLEncode user added text (#5570) (#5575)\n* BUGFIXES\n  * Fix indexer reindex bug when gitea restart (#5563) (#5564)\n  * Remove a double slash in the HTTPS redirect with Let's Encrypt (#5537) (#5539)\n  * Fix bug when a read perm user to edit his issue (#5516) (#5534)\n  * Detect force push failure on deletion of protected branches (#5522) (#5531)\n  * Let's Encrypt handler listens on correct port for certificate validation (#5525) (#5527)\n  * Fix forgot deletion of notification when delete repository (#5506) (#5514)\n  * Fix undeleted content when deleting user (#5429) (#5509)\n  * Fix empty wiki (#5504) (#5508)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlwdBCUACgkQ2bVhO+uB\nP5n5nAgAvLmPupL0TzT6s4cKSrlU2i1OdxGN5rAta3HfZjdWK9ql8gnwg9J2vLpD\nCeYLfHS+W8r1TSm/wI6gCQOSp3gXCBU6lawCFEWfgrMEEsdGZczwoy4Al2HS5vCR\nponsawBXeTcvMI9Hx/cBwQjQk/VsDj5CrrFySjLDGfCyvetSa7I4qo7jHS8SqbwF\nYTeQqpwJUBXoE+b/VlqqYcrCVgcyFDdfxoLl8IZEZFCJVwJnl5DMVixL/BInj0Tz\nq7DxtojGvdP0YZB5XjUOxJJBhL8VMRvhWLOHTvcirKvQsfwfMi3wCwWXXLLGbMqe\n3axLn1tq1/J6edijvzn0uEM0P4SkOA==\n=Wz6m\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlwdBCUACgkQ2bVhO+uB\nP5n5nAgAvLmPupL0TzT6s4cKSrlU2i1OdxGN5rAta3HfZjdWK9ql8gnwg9J2vLpD\nCeYLfHS+W8r1TSm/wI6gCQOSp3gXCBU6lawCFEWfgrMEEsdGZczwoy4Al2HS5vCR\nponsawBXeTcvMI9Hx/cBwQjQk/VsDj5CrrFySjLDGfCyvetSa7I4qo7jHS8SqbwF\nYTeQqpwJUBXoE+b/VlqqYcrCVgcyFDdfxoLl8IZEZFCJVwJnl5DMVixL/BInj0Tz\nq7DxtojGvdP0YZB5XjUOxJJBhL8VMRvhWLOHTvcirKvQsfwfMi3wCwWXXLLGbMqe\n3axLn1tq1/J6edijvzn0uEM0P4SkOA==\n=Wz6m\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2631f7f64d24eef0ceb12eba6d384dfb6cb37527\ntype commit\ntag v1.6.2\ntagger Matti Ranta <matti@mdranta.net> 1545405477 -0500\n\n* SECURITY\n  * Sanitize uploaded file names (#5571) (#5573)\n  * HTMLEncode user added text (#5570) (#5575)\n* BUGFIXES\n  * Fix indexer reindex bug when gitea restart (#5563) (#5564)\n  * Remove a double slash in the HTTPS redirect with Let's Encrypt (#5537) (#5539)\n  * Fix bug when a read perm user to edit his issue (#5516) (#5534)\n  * Detect force push failure on deletion of protected branches (#5522) (#5531)\n  * Let's Encrypt handler listens on correct port for certificate validation (#5525) (#5527)\n  * Fix forgot deletion of notification when delete repository (#5506) (#5514)\n  * Fix undeleted content when deleting user (#5429) (#5509)\n  * Fix empty wiki (#5504) (#5508)\n"
+  }
+}

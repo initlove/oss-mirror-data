@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDYxODU1MTpiYTllNDVhNjgyNWQ5Y2FkNjg5MTYyMjg0NTJiMjVlNGM4OTBhODE3",
+  "sha": "ba9e45a6825d9cad68916228452b25e4c890a817",
+  "url": "https://api.github.com/repos/GNOME/libsoup/git/tags/ba9e45a6825d9cad68916228452b25e4c890a817",
+  "tagger": {
+    "name": "Dan Winship",
+    "email": "danw@src.gnome.org",
+    "date": "2007-02-12T15:35:04Z"
+  },
+  "object": {
+    "sha": "e5f7077b4010fddf0109d3ffff4077726ebb157f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/GNOME/libsoup/git/commits/e5f7077b4010fddf0109d3ffff4077726ebb157f"
+  },
+  "tag": "SOUP_2_2_100",
+  "message": "\t* Fixed soup_headers_parse_status_line() so WebDAV response\n          parsing will work again. [406997]\n\n\t* Fixed a bug in the header-parsing regression test that\n          caused the test to fail sometimes, even though the actual\n          header-parsing code was fine.\n\nsvn path=/trunk/; revision=910\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6MmU1MWVhNTJjNDI2MGI5ZWUwNWFkNTQ4ZDFiNTlhYzYwODYwN2VjZQ==",
+  "sha": "2e51ea52c4260b9ee05ad548d1b59ac608607ece",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/2e51ea52c4260b9ee05ad548d1b59ac608607ece",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "clupo@google.com",
+    "date": "2019-06-19T11:23:21Z"
+  },
+  "object": {
+    "sha": "9c9cd233d6d27c461791dfa20f87992941268bd4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/9c9cd233d6d27c461791dfa20f87992941268bd4"
+  },
+  "tag": "3.43.1",
+  "message": "3.43.1\n\n- [subset] Fixed regression when passing ``--flavor=woff2`` option with an input font\n  that was already compressed as WOFF 1.0 (#1650).\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEt3fCdK5LbZY3e/+cINSiYeSg5kIFAl0KGykACgkQINSiYeSg\n5kIYMA//Q4BK40WnxQohLC8il705zgdE8m3YG5E9OgDW0FHtGZ5Y+6XefJbkjxOf\nfmNfQ25ZpFhciMeBrs7jZs5wr5S8g6BUE4mznF6DLTw+ELWEuMMW/bhn5cSYcjeK\nCjUjGDBFRCXpkrhVt4Qe6fgeQ97o7ypcg/apkBS3unaT6ewUIv6PaCBihLjDrPz+\nsovREoeEjtMeyka+gLqJOw5xUd0UyZN6/CK/oLBvxoePGMmT8zXmdXs7P/miELSs\nKTARTKXoO/LCDxF9YcCL5LaQANdWcjbB+UV9zalpVtYVhPGn89Jq+wy/AqWGYcDl\nkNHcltuf+0lwkbW+6nG/WZJjKFF7zfKALeqek10k/IevgZot1m5mZighUn2Y1RFN\nLVGtICfMtkxDF5xegXl9SXBVpj2gkkp8IBk+MFxPZgs27s/TSx8bDAr1ld1oPf1o\n0Mcmm6aaBGk9QN65D3bfYJzbomOXledDOYz2jOZnJy3OJBvgkBD5Ha6SFnp0L3/i\nnXh5O0SotwzitsxHxrYIdFmTqLFbfrM9Uc2WcqkiO/QtPHu7Qsh1oDno7CfN1GK2\nbHMJsWEND5m16QjEsRyfHqW4YV7raxpyvdOp98TqVizO6B8dpLHhyLjCz1NmiUJx\neYkwUQgMTW8Et1NIntzHW/uqK58ExD7xiYy0ZB2ZuAm5cJQuV0E=\n=ZF/p\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEt3fCdK5LbZY3e/+cINSiYeSg5kIFAl0KGykACgkQINSiYeSg\n5kIYMA//Q4BK40WnxQohLC8il705zgdE8m3YG5E9OgDW0FHtGZ5Y+6XefJbkjxOf\nfmNfQ25ZpFhciMeBrs7jZs5wr5S8g6BUE4mznF6DLTw+ELWEuMMW/bhn5cSYcjeK\nCjUjGDBFRCXpkrhVt4Qe6fgeQ97o7ypcg/apkBS3unaT6ewUIv6PaCBihLjDrPz+\nsovREoeEjtMeyka+gLqJOw5xUd0UyZN6/CK/oLBvxoePGMmT8zXmdXs7P/miELSs\nKTARTKXoO/LCDxF9YcCL5LaQANdWcjbB+UV9zalpVtYVhPGn89Jq+wy/AqWGYcDl\nkNHcltuf+0lwkbW+6nG/WZJjKFF7zfKALeqek10k/IevgZot1m5mZighUn2Y1RFN\nLVGtICfMtkxDF5xegXl9SXBVpj2gkkp8IBk+MFxPZgs27s/TSx8bDAr1ld1oPf1o\n0Mcmm6aaBGk9QN65D3bfYJzbomOXledDOYz2jOZnJy3OJBvgkBD5Ha6SFnp0L3/i\nnXh5O0SotwzitsxHxrYIdFmTqLFbfrM9Uc2WcqkiO/QtPHu7Qsh1oDno7CfN1GK2\nbHMJsWEND5m16QjEsRyfHqW4YV7raxpyvdOp98TqVizO6B8dpLHhyLjCz1NmiUJx\neYkwUQgMTW8Et1NIntzHW/uqK58ExD7xiYy0ZB2ZuAm5cJQuV0E=\n=ZF/p\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9c9cd233d6d27c461791dfa20f87992941268bd4\ntype commit\ntag 3.43.1\ntagger Cosimo Lupo <clupo@google.com> 1560943401 +0100\n\n3.43.1\n\n- [subset] Fixed regression when passing ``--flavor=woff2`` option with an input font\n  that was already compressed as WOFF 1.0 (#1650).\n"
+  }
+}

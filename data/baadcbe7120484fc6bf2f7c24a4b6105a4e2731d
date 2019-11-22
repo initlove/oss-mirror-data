@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6YmFhZGNiZTcxMjA0ODRmYzZiZjJmN2MyNGE0YjYxMDVhNGUyNzMxZA==",
+  "sha": "baadcbe7120484fc6bf2f7c24a4b6105a4e2731d",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/baadcbe7120484fc6bf2f7c24a4b6105a4e2731d",
+  "tagger": {
+    "name": "Matti Ranta",
+    "email": "matti@mdranta.net",
+    "date": "2018-11-01T03:56:52Z"
+  },
+  "object": {
+    "sha": "8733384e20b31f887cb8d8d4196cab939d49ab4b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/8733384e20b31f887cb8d8d4196cab939d49ab4b"
+  },
+  "tag": "v1.5.3",
+  "message": "* SECURITY\n  * Fix remote command execution vulnerability in upstream library (#5177) (#5196)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlvaeYQACgkQ2bVhO+uB\nP5mvTwf/aCw8oE7M0FHqtDAqP25LMn8dK76iCw6ZLJ6tzOvvIGD6NLefCvLhAR/z\nmR9wA0MMaztNrblmLAu0qoRg3K9dbFfTWKA4gq5RSwLh9HiVWRgshzhRny80AH0T\nvpD2JF9pUycE/WW4EDEYRvX1RXZYR122Sj/q9dY9/6HzWSRNWs20BmV/GUYfchj6\nmwRqcFj+IGS4QempkRo0C7BdWSN0a3ITfnKnhgMU1zROJsAcWNSJk/LbIV8qDREp\n/AQrX68TCGIeQIqcayExn2W8ABpS6fCYE8JQR8qhxi4ibTSoQVADNpvZ8jheGhMI\n2jHizzVsnxiGEJYPQjPM0KjMpec/Mw==\n=iifn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlvaeYQACgkQ2bVhO+uB\nP5mvTwf/aCw8oE7M0FHqtDAqP25LMn8dK76iCw6ZLJ6tzOvvIGD6NLefCvLhAR/z\nmR9wA0MMaztNrblmLAu0qoRg3K9dbFfTWKA4gq5RSwLh9HiVWRgshzhRny80AH0T\nvpD2JF9pUycE/WW4EDEYRvX1RXZYR122Sj/q9dY9/6HzWSRNWs20BmV/GUYfchj6\nmwRqcFj+IGS4QempkRo0C7BdWSN0a3ITfnKnhgMU1zROJsAcWNSJk/LbIV8qDREp\n/AQrX68TCGIeQIqcayExn2W8ABpS6fCYE8JQR8qhxi4ibTSoQVADNpvZ8jheGhMI\n2jHizzVsnxiGEJYPQjPM0KjMpec/Mw==\n=iifn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8733384e20b31f887cb8d8d4196cab939d49ab4b\ntype commit\ntag v1.5.3\ntagger Matti Ranta <matti@mdranta.net> 1541044612 -0400\n\n* SECURITY\n  * Fix remote command execution vulnerability in upstream library (#5177) (#5196)\n"
+  }
+}

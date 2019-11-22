@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6Zjk1YTg3YjQ0YjEzZjc5ZjU4Mjk1YmUwYWQ0MWQzYjkzM2NmMWY1OQ==",
+  "sha": "f95a87b44b13f79f58295be0ad41d3b933cf1f59",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/f95a87b44b13f79f58295be0ad41d3b933cf1f59",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "clupo@google.com",
+    "date": "2019-09-26T11:08:14Z"
+  },
+  "object": {
+    "sha": "3e3d8811db105d7a733ff38c8a7bd7fba5b4ffba",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/3e3d8811db105d7a733ff38c8a7bd7fba5b4ffba"
+  },
+  "tag": "4.0.2",
+  "message": "4.0.2\n\n- [voltLib] Added support for ``ALL`` and ``NONE`` in ``PROCESS_MARKS`` (#1732).\n- [Silf] Fixed issue in ``Silf`` table compilation and decompilation regarding str vs\n  bytes in python3 (#1728).\n- [merge] Handle duplicate glyph names better: instead of appending font index to\n  all glyph names, use similar code like we use in ``post`` and ``CFF`` tables (#1729).\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEt3fCdK5LbZY3e/+cINSiYeSg5kIFAl2MnB4ACgkQINSiYeSg\n5kIzBg//fQaHL25GQgPWkHvGt0iOkale8ijKn6ebjnxsJwKC6qqBWa9MoNQZzGjh\nP6pTw9D8wUFYyr91uN9NBr7xGfG8SUObAz9v/qU/qP83kKCZPuSoe+QDjVqcX97b\nhobQs6XgOxmQNxShkzng/iV5wiQvbtaPGYeVIiHlr2VhoSGxO0AYMeuUIz4oRN64\n2OwTHc7+++/Zn/n0aeLzIunuQ66i3wvXEJl//CGVX8bqDftVfCLpeBi17ciL+Be3\ns1znUWB3Xmt/xdpN8X2L8NnUFPMBMFK/L0vO+o69wKTvpMerItTDDyv8fELUGa8V\nWjJIjBDluApWgTIasF7ONyXZ+sGaKVhMqlvxbtuDY4BPOVmcegGoc3HXec0H8eiF\n9aXyGoFKOOR6lTqPQxN5rQxXOvn2e5DaU8zaPFHU2GS6Mc/sPKVqrLrpZihIBBFb\nJjOU2uoCHVbkyvBs4q/UC7lVpf3NBaAkiftkHjkUpdV4X2OdZe9+fCmXxvw84p3R\nsHS1BqIA3TNazyQMhKlZdjqgFTdHuXGPjZLtfzJKuLL2Q+6DAt4KZzbryo9q9+dW\nlKX9wnbvOdd5teyMGYUYMB8d1gYwYA1loii00FHaD/hzL+9FtVrWSmBbDT4vR6hf\njSrrKLjIg1w9Qjq2DBJ+9+zBs1ln7bpKTvCI+HqD64ohdHxGw7I=\n=YhKZ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEt3fCdK5LbZY3e/+cINSiYeSg5kIFAl2MnB4ACgkQINSiYeSg\n5kIzBg//fQaHL25GQgPWkHvGt0iOkale8ijKn6ebjnxsJwKC6qqBWa9MoNQZzGjh\nP6pTw9D8wUFYyr91uN9NBr7xGfG8SUObAz9v/qU/qP83kKCZPuSoe+QDjVqcX97b\nhobQs6XgOxmQNxShkzng/iV5wiQvbtaPGYeVIiHlr2VhoSGxO0AYMeuUIz4oRN64\n2OwTHc7+++/Zn/n0aeLzIunuQ66i3wvXEJl//CGVX8bqDftVfCLpeBi17ciL+Be3\ns1znUWB3Xmt/xdpN8X2L8NnUFPMBMFK/L0vO+o69wKTvpMerItTDDyv8fELUGa8V\nWjJIjBDluApWgTIasF7ONyXZ+sGaKVhMqlvxbtuDY4BPOVmcegGoc3HXec0H8eiF\n9aXyGoFKOOR6lTqPQxN5rQxXOvn2e5DaU8zaPFHU2GS6Mc/sPKVqrLrpZihIBBFb\nJjOU2uoCHVbkyvBs4q/UC7lVpf3NBaAkiftkHjkUpdV4X2OdZe9+fCmXxvw84p3R\nsHS1BqIA3TNazyQMhKlZdjqgFTdHuXGPjZLtfzJKuLL2Q+6DAt4KZzbryo9q9+dW\nlKX9wnbvOdd5teyMGYUYMB8d1gYwYA1loii00FHaD/hzL+9FtVrWSmBbDT4vR6hf\njSrrKLjIg1w9Qjq2DBJ+9+zBs1ln7bpKTvCI+HqD64ohdHxGw7I=\n=YhKZ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3e3d8811db105d7a733ff38c8a7bd7fba5b4ffba\ntype commit\ntag 4.0.2\ntagger Cosimo Lupo <clupo@google.com> 1569496094 +0100\n\n4.0.2\n\n- [voltLib] Added support for ``ALL`` and ``NONE`` in ``PROCESS_MARKS`` (#1732).\n- [Silf] Fixed issue in ``Silf`` table compilation and decompilation regarding str vs\n  bytes in python3 (#1728).\n- [merge] Handle duplicate glyph names better: instead of appending font index to\n  all glyph names, use similar code like we use in ``post`` and ``CFF`` tables (#1729).\n"
+  }
+}

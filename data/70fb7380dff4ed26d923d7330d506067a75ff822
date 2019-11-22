@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6NzBmYjczODBkZmY0ZWQyNmQ5MjNkNzMzMGQ1MDYwNjdhNzVmZjgyMg==",
+  "sha": "70fb7380dff4ed26d923d7330d506067a75ff822",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/70fb7380dff4ed26d923d7330d506067a75ff822",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo.lupo@daltonmaag.com",
+    "date": "2017-02-15T20:55:49Z"
+  },
+  "object": {
+    "sha": "c10bc762b737010eac4d06385e547cf94766aa39",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/c10bc762b737010eac4d06385e547cf94766aa39"
+  },
+  "tag": "3.7.1",
+  "message": "3.7.1\n\n- [subset] Fixed issue with ``--no-hinting`` option whereby advance widths in\n  Type 2 charstrings were also being stripped (#709, #343)\n- [feaLib] include statements now resolve relative paths like makeotf (#838)\n- [feaLib] table ``name`` now handles Unicode codepoints beyond the Basic\n  Multilingual Plane, also supports old-style MacOS platform encodings (#842)\n- [feaLib] correctly escape string literals when emitting feature syntax (#780)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

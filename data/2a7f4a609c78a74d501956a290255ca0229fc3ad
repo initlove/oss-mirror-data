@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6MmE3ZjRhNjA5Yzc4YTc0ZDUwMTk1NmEyOTAyNTVjYTAyMjlmYzNhZA==",
+  "sha": "2a7f4a609c78a74d501956a290255ca0229fc3ad",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/2a7f4a609c78a74d501956a290255ca0229fc3ad",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2018-03-15T14:16:10Z"
+  },
+  "object": {
+    "sha": "a339089fa7baed8b21fdf1089329fd2d1cf66895",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/a339089fa7baed8b21fdf1089329fd2d1cf66895"
+  },
+  "tag": "libmodulemd-1.1.1",
+  "message": "Release v1.1.1\n\n- Make default stream and profiles optional\n- Fixes: https://github.com/fedora-modularity/libmodulemd/issues/25\n- Fixes: https://github.com/fedora-modularity/libmodulemd/issues/26\n- Fixes: https://github.com/fedora-modularity/libmodulemd/issues/27\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWqqANwAKCRB6JVViNrqj\noy6LAKCfsajMeIFOqclM3yUokqZ2quEHrACfUlxTw/jWG96he4wW+GZ89LESjiQ=\n=nVKW\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWqqANwAKCRB6JVViNrqj\noy6LAKCfsajMeIFOqclM3yUokqZ2quEHrACfUlxTw/jWG96he4wW+GZ89LESjiQ=\n=nVKW\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a339089fa7baed8b21fdf1089329fd2d1cf66895\ntype commit\ntag libmodulemd-1.1.1\ntagger Stephen Gallagher <sgallagh@redhat.com> 1521123370 -0400\n\nRelease v1.1.1\n\n- Make default stream and profiles optional\n- Fixes: https://github.com/fedora-modularity/libmodulemd/issues/25\n- Fixes: https://github.com/fedora-modularity/libmodulemd/issues/26\n- Fixes: https://github.com/fedora-modularity/libmodulemd/issues/27\n"
+  }
+}

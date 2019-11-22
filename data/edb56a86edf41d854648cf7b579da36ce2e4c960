@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6ZWRiNTZhODZlZGY0MWQ4NTQ2NDhjZjdiNTc5ZGEzNmNlMmU0Yzk2MA==",
+  "sha": "edb56a86edf41d854648cf7b579da36ce2e4c960",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/edb56a86edf41d854648cf7b579da36ce2e4c960",
+  "tagger": {
+    "name": "Matti Ranta",
+    "email": "matti@mdranta.net",
+    "date": "2018-11-04T22:12:07Z"
+  },
+  "object": {
+    "sha": "9c11fafdb028feaf65adf06233ed5ef7f24f615b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/9c11fafdb028feaf65adf06233ed5ef7f24f615b"
+  },
+  "tag": "v1.6.0-rc2",
+  "message": "* SECURITY\n  * Add CSRF checking to reqToken and add reqToken to admin API routes (#5272) (#5250)\n* FEATURE\n  * Add comment replies (#5147) (#5104)\n* BUGFIXES\n  * Fix wrong api request url for instances running in subfolders (#5261) (#5247)\n  * Accept web-command cli flags if web-command is commited (#5245) (#5200)\n  * Reduce join star, repo_topic, topic tables on repo search, to resolve extra columns problem on MSSQL (#5136) (#5229)\n  * Fix data race on migrate repository (#5224) (#5230)\n  * Add secret to all webhook's payload where it has been missing (#5208) (#5199)\n  * Fix sqlite and MSSQL lock (#5210) (#5223) (#5214) (#5218) (#5176) (#5179)\n  * Fix race on updatesize (#5190) (#5215)\n  * Fix filtering issues by tags on main screen issues (#5219) (#3824)\n  * Fix SQL quoting (#5137) (#5117)\n  * Fix regex to support optional end line of old section in diff hunk (#5097) (#5096)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlvfbrcACgkQ2bVhO+uB\nP5k0dAf/UPFoVWX5z/9LVnTtDws3E+Sy08m/VMrsnGtRs92BRin1BN89LNs5rrr6\nKS3R6fvez4PpbYZ5lK0xjB5F+jQ2yHuOoID2mLp5kVooZ1+9tgkLCDkPlZ8/hgaA\npT0QK06eNlNWUzvC7ROq5c3XFoUPJiJD6ZEo7p34Ip+BXhX7uLfHs/j9WNdjQdR5\n3nsslscKqXuVCClji3v80dtPOiNluO6kPnRTlzaD9bIRvwZkR16S5nCNfj/1D+Z1\nsZM9aG+6JpSHMeHRZcYPhHgTe4rPjRU9psNOnDctGKiBnXiDrr6XTijA9o69/6FR\n2Xlvifo/ux4BG/YZ1b8Z/SOkAiZGXQ==\n=bCFp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlvfbrcACgkQ2bVhO+uB\nP5k0dAf/UPFoVWX5z/9LVnTtDws3E+Sy08m/VMrsnGtRs92BRin1BN89LNs5rrr6\nKS3R6fvez4PpbYZ5lK0xjB5F+jQ2yHuOoID2mLp5kVooZ1+9tgkLCDkPlZ8/hgaA\npT0QK06eNlNWUzvC7ROq5c3XFoUPJiJD6ZEo7p34Ip+BXhX7uLfHs/j9WNdjQdR5\n3nsslscKqXuVCClji3v80dtPOiNluO6kPnRTlzaD9bIRvwZkR16S5nCNfj/1D+Z1\nsZM9aG+6JpSHMeHRZcYPhHgTe4rPjRU9psNOnDctGKiBnXiDrr6XTijA9o69/6FR\n2Xlvifo/ux4BG/YZ1b8Z/SOkAiZGXQ==\n=bCFp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9c11fafdb028feaf65adf06233ed5ef7f24f615b\ntype commit\ntag v1.6.0-rc2\ntagger Matti Ranta <matti@mdranta.net> 1541369527 -0500\n\n* SECURITY\n  * Add CSRF checking to reqToken and add reqToken to admin API routes (#5272) (#5250)\n* FEATURE\n  * Add comment replies (#5147) (#5104)\n* BUGFIXES\n  * Fix wrong api request url for instances running in subfolders (#5261) (#5247)\n  * Accept web-command cli flags if web-command is commited (#5245) (#5200)\n  * Reduce join star, repo_topic, topic tables on repo search, to resolve extra columns problem on MSSQL (#5136) (#5229)\n  * Fix data race on migrate repository (#5224) (#5230)\n  * Add secret to all webhook's payload where it has been missing (#5208) (#5199)\n  * Fix sqlite and MSSQL lock (#5210) (#5223) (#5214) (#5218) (#5176) (#5179)\n  * Fix race on updatesize (#5190) (#5215)\n  * Fix filtering issues by tags on main screen issues (#5219) (#3824)\n  * Fix SQL quoting (#5137) (#5117)\n  * Fix regex to support optional end line of old section in diff hunk (#5097) (#5096)\n"
+  }
+}

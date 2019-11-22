@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM5NjgyNTU6ZTVmM2NmNjM0OGE2MzAwOWVkNWEyMDFhNDFhNDhlMDljMjM5MjdjYg==",
+  "sha": "e5f3cf6348a63009ed5a201a41a48e09c23927cb",
+  "url": "https://api.github.com/repos/openstack/mistral/git/tags/e5f3cf6348a63009ed5a201a41a48e09c23927cb",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-09-15T22:43:23Z"
+  },
+  "object": {
+    "sha": "90fa504646f6e72a264945254a1cfe69cb38cdbc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/mistral/git/commits/90fa504646f6e72a264945254a1cfe69cb38cdbc"
+  },
+  "tag": "3.0.0.0rc1",
+  "message": "mistral 3.0.0.0rc1 release candidate\n\nmeta:version: 3.0.0.0rc1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Commit: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Change-Id: I9a1951ae6511b612d709455620e9fd11608d30e4\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX2yQLAAoJENljH+rwzGIn5JYH/1YdWX3dH36+hVKw+NzBwjPk\n9sa3scsyc41wbE+Nsb1V2i5JqNe2aaIdZhUp8ZXHBQEQnEXFAOWsKZGxsilw4BNq\n9xAdBQ4sLdLL1NxBPVPaV8tW9b+kbFLiO3vAlzohoY076mN8DD0o6Y6dJNGt1qWD\neTHv5pX0ic1wjIigqhtIx1E245nOENV298OfimSm/FtRlZpINGYkXzLedJ/cW9ZM\n9n1GBtNwN8bajfdWm7aiC9gSLKSl/DJgqqZ2jr0PcFHNg6R/nxGI7J1NNEvDardL\ngsSscSaOx79+12VgKPR5iA1r9ApSf/x8HCMMwsSLHN7e+BZW/D8cdwLagBrnrzs=\n=0ZBF\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX2yQLAAoJENljH+rwzGIn5JYH/1YdWX3dH36+hVKw+NzBwjPk\n9sa3scsyc41wbE+Nsb1V2i5JqNe2aaIdZhUp8ZXHBQEQnEXFAOWsKZGxsilw4BNq\n9xAdBQ4sLdLL1NxBPVPaV8tW9b+kbFLiO3vAlzohoY076mN8DD0o6Y6dJNGt1qWD\neTHv5pX0ic1wjIigqhtIx1E245nOENV298OfimSm/FtRlZpINGYkXzLedJ/cW9ZM\n9n1GBtNwN8bajfdWm7aiC9gSLKSl/DJgqqZ2jr0PcFHNg6R/nxGI7J1NNEvDardL\ngsSscSaOx79+12VgKPR5iA1r9ApSf/x8HCMMwsSLHN7e+BZW/D8cdwLagBrnrzs=\n=0ZBF\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 90fa504646f6e72a264945254a1cfe69cb38cdbc\ntype commit\ntag 3.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1473979403 +0000\n\nmistral 3.0.0.0rc1 release candidate\n\nmeta:version: 3.0.0.0rc1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Commit: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Change-Id: I9a1951ae6511b612d709455620e9fd11608d30e4\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

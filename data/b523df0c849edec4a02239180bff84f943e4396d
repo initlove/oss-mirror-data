@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE0NzY5ODpiNTIzZGYwYzg0OWVkZWM0YTAyMjM5MTgwYmZmODRmOTQzZTQzOTZk",
+  "sha": "b523df0c849edec4a02239180bff84f943e4396d",
+  "url": "https://api.github.com/repos/proot-me/proot/git/tags/b523df0c849edec4a02239180bff84f943e4396d",
+  "tagger": {
+    "name": "Cédric VINCENT",
+    "email": "cedric.vincent@st.com",
+    "date": "2012-07-19T12:24:49Z"
+  },
+  "object": {
+    "sha": "24037c590643872ed17e0e70bde5317acaf02011",
+    "type": "commit",
+    "url": "https://api.github.com/repos/proot-me/proot/git/commits/24037c590643872ed17e0e70bde5317acaf02011"
+  },
+  "tag": "v2.1",
+  "message": "Release v2.1\n============\n\nNew features\n------------\n\n* PRoot can now emulate some of the syscalls that are available in the\n  kernel release specified by -k but that are missing in the host\n  kernel.  This allows the execution of guest programs expecting a\n  kernel newer than the actual one, if you encountered the famous\n  \"FATAL: kernel too old\" or \"qemu: Unsupported syscall\" messages.\n\n* The current working directory isn't changed anymore if it is still\n  accessible in the guest environment (binding).\n\nFixes\n-----\n\n* Added support for architectures with no misalignment support (SH4).\n\n* Fix support for: link(2), linkat(2), symlink(2), and symlinkat(2).\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (GNU/Linux)\n\niQEcBAABAgAGBQJQB/ydAAoJEChi0LD6j7VWBdoIAIIFtHgVI6ZMquk3FfoswZwh\nkZD/Y1F/2tymdSIPhXSgMDWADtWZoHPxxbgk/SV5BOM9pQy+HIa1PROn1uBKk5UH\nvZNSRV561Ye53AaeB9BI8yT7acNmvUckyYZtfsvnWxhixIZl46yw/hg1B6rARelf\n+TeW53O4OzO1ebhCIFpODiQknvipz2MNVre0r0uLapFhPFivMMeryCn4auw+Pi+1\nFjgNIPJWzGoJ4i3uspM8S9sUzoPtMOS4+x8tGm8JKs+r3JhPsVHOE9eQ6wq8wU58\n6swpVj3cVO8/tS/hTEBRLkI9sXBWNS7Zc6fI+M8uJ4uxs4w84dnvppSd2CswG6g=\n=PzpB\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (GNU/Linux)\n\niQEcBAABAgAGBQJQB/ydAAoJEChi0LD6j7VWBdoIAIIFtHgVI6ZMquk3FfoswZwh\nkZD/Y1F/2tymdSIPhXSgMDWADtWZoHPxxbgk/SV5BOM9pQy+HIa1PROn1uBKk5UH\nvZNSRV561Ye53AaeB9BI8yT7acNmvUckyYZtfsvnWxhixIZl46yw/hg1B6rARelf\n+TeW53O4OzO1ebhCIFpODiQknvipz2MNVre0r0uLapFhPFivMMeryCn4auw+Pi+1\nFjgNIPJWzGoJ4i3uspM8S9sUzoPtMOS4+x8tGm8JKs+r3JhPsVHOE9eQ6wq8wU58\n6swpVj3cVO8/tS/hTEBRLkI9sXBWNS7Zc6fI+M8uJ4uxs4w84dnvppSd2CswG6g=\n=PzpB\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 24037c590643872ed17e0e70bde5317acaf02011\ntype commit\ntag v2.1\ntagger Cédric VINCENT <cedric.vincent@st.com> 1342700689 +0200\n\nRelease v2.1\n============\n\nNew features\n------------\n\n* PRoot can now emulate some of the syscalls that are available in the\n  kernel release specified by -k but that are missing in the host\n  kernel.  This allows the execution of guest programs expecting a\n  kernel newer than the actual one, if you encountered the famous\n  \"FATAL: kernel too old\" or \"qemu: Unsupported syscall\" messages.\n\n* The current working directory isn't changed anymore if it is still\n  accessible in the guest environment (binding).\n\nFixes\n-----\n\n* Added support for architectures with no misalignment support (SH4).\n\n* Fix support for: link(2), linkat(2), symlink(2), and symlinkat(2).\n"
+  }
+}

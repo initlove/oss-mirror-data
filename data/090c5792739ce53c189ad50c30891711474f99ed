@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTk5MjE3OTQ6MDkwYzU3OTI3MzljZTUzYzE4OWFkNTBjMzA4OTE3MTE0NzRmOTllZA==",
+  "sha": "090c5792739ce53c189ad50c30891711474f99ed",
+  "url": "https://api.github.com/repos/sorah/envchain/git/tags/090c5792739ce53c189ad50c30891711474f99ed",
+  "tagger": {
+    "name": "Sorah Fukumori",
+    "email": "her@sorah.jp",
+    "date": "2016-06-12T13:19:39Z"
+  },
+  "object": {
+    "sha": "2856a03a2e989ad94477ea7c81a42da0b1f7514c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/sorah/envchain/git/commits/2856a03a2e989ad94477ea7c81a42da0b1f7514c"
+  },
+  "tag": "v1.0.1",
+  "message": "v1.0.1\n\n== Bug fixes\n\n* Fix SEGV when there's no default collection #10\n* Fix build error on a compiler with --as-needed turned on by default #11\n* Workaround for occasionally secret retrieval error with libsecret #9\n* $LDFLAGS was not honored properly, due to a typo #12\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXXWF7AAoJEDT3p8L0wIlcpxwQAJBJ2cB/Ypevfb2iKxRqqqWf\njkzRolFQCZxAV5Oa3xpPpQ76esYZPOIuqOTpc/9IWkCyxusNN1123J0tGpGHIJwL\nwIE5ZBniuqWlF0DodzcqlJJVlmL2q2PYqx3/mOpBwzEVUWQjmneqVNQ/K0Ek6GsR\nUsDmzcpuk3acTYMNtc7ePD+WMvyvYQ4lQtDAYMiGZbKRBe5dYSY5HS/jgoY5Ad7L\nN1lVBry/2tgrmYVzn3UDu3nKQE2sN6ztGCkfgR4O7dYLBtNhR9ay30wTDdcHMqqw\nRRZ9069QIZ1YcnHNVqAthOOptzii7JYHpl0jazSw0xaQ7Jo0bgLSf6bEM+PVwQca\nMIXsPuJj3V50DRm4Ra305aPy4692dWngYHV9Tt8A4AVXR4ZtyMulmLeaZ8FOVPeF\np1KoPmTtl1ixj8pqWOxjwMCVhB5NqRz0cYNVo9h8w5nOn6n/7A0fjaPExyCR9Lu1\nFE++CFtp6fkXpdAgLE7TQWbeaOJvVvzjDYDGWaYYk9Vq6gtDgiKVWyNjtkjv8YeJ\nq6KH5GaqXPZ1nGXchhrCPBCwvZIB4vvX+W+ub1mI7d2KT77aQJ/+JUaIw68FKu3c\nFB8DzfQkZS7ueGhg1f/r4oqcv5jwllyya7yarcBwdWKuWWATH9U+U6hJlUYye5jz\nvrHOVrgSbCK3RVAFgV8a\n=/aWi\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXXWF7AAoJEDT3p8L0wIlcpxwQAJBJ2cB/Ypevfb2iKxRqqqWf\njkzRolFQCZxAV5Oa3xpPpQ76esYZPOIuqOTpc/9IWkCyxusNN1123J0tGpGHIJwL\nwIE5ZBniuqWlF0DodzcqlJJVlmL2q2PYqx3/mOpBwzEVUWQjmneqVNQ/K0Ek6GsR\nUsDmzcpuk3acTYMNtc7ePD+WMvyvYQ4lQtDAYMiGZbKRBe5dYSY5HS/jgoY5Ad7L\nN1lVBry/2tgrmYVzn3UDu3nKQE2sN6ztGCkfgR4O7dYLBtNhR9ay30wTDdcHMqqw\nRRZ9069QIZ1YcnHNVqAthOOptzii7JYHpl0jazSw0xaQ7Jo0bgLSf6bEM+PVwQca\nMIXsPuJj3V50DRm4Ra305aPy4692dWngYHV9Tt8A4AVXR4ZtyMulmLeaZ8FOVPeF\np1KoPmTtl1ixj8pqWOxjwMCVhB5NqRz0cYNVo9h8w5nOn6n/7A0fjaPExyCR9Lu1\nFE++CFtp6fkXpdAgLE7TQWbeaOJvVvzjDYDGWaYYk9Vq6gtDgiKVWyNjtkjv8YeJ\nq6KH5GaqXPZ1nGXchhrCPBCwvZIB4vvX+W+ub1mI7d2KT77aQJ/+JUaIw68FKu3c\nFB8DzfQkZS7ueGhg1f/r4oqcv5jwllyya7yarcBwdWKuWWATH9U+U6hJlUYye5jz\nvrHOVrgSbCK3RVAFgV8a\n=/aWi\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2856a03a2e989ad94477ea7c81a42da0b1f7514c\ntype commit\ntag v1.0.1\ntagger Sorah Fukumori <her@sorah.jp> 1465737579 +0900\n\nv1.0.1\n\n== Bug fixes\n\n* Fix SEGV when there's no default collection #10\n* Fix build error on a compiler with --as-needed turned on by default #11\n* Workaround for occasionally secret retrieval error with libsecret #9\n* $LDFLAGS was not honored properly, due to a typo #12\n"
+  }
+}

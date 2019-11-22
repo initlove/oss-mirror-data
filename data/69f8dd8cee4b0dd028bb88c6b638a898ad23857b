@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMzNjg0NDU6NjlmOGRkOGNlZTRiMGRkMDI4YmI4OGM2YjYzOGE4OThhZDIzODU3Yg==",
+  "sha": "69f8dd8cee4b0dd028bb88c6b638a898ad23857b",
+  "url": "https://api.github.com/repos/webmproject/libwebp/git/tags/69f8dd8cee4b0dd028bb88c6b638a898ad23857b",
+  "tagger": {
+    "name": "James Zern",
+    "email": "jzern@google.com",
+    "date": "2014-10-17T15:47:32Z"
+  },
+  "object": {
+    "sha": "6a2209aa366a4648c9d74d3434457d704f0a8fe1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/webmproject/libwebp/git/commits/6a2209aa366a4648c9d74d3434457d704f0a8fe1"
+  },
+  "tag": "v0.4.2",
+  "message": "libwebp-0.4.2\n- 10/13/14: version 0.4.2\n  This is a binary compatible release.\n  * Android / gcc build fixes\n  * (Windows) fix reading from stdin and writing to stdout\n  * gif2webp: miscellaneous fixes\n  * fix 'alpha-leak' with lossy compression (issue #220)\n  * the lossless bitstream spec has been amended to reflect the current code\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJUQToyAAoJEPnD1r24IytdFiQQAJRt+P1qsJcHi1Oni/Cvc8D/\nXNlEHeYakdS9FrS9tdT0IieF+pQOlFf4Baqx7oKfDCrPFk+Vg69VmAlW0QY80/EO\nari3ErosUH+o/I+w/wWjJ8tPyH/ThmdN8KRJsjjJJuvfxvY8agXPhEEBkddNqqub\nvztmGuVwnTqxNIwfqupdmqcxQBz/QlDFjK+Coxu5PL8r6FYX5neQSooTIhG1o8lY\nTdanUyzP0LWFn6zeoGKr3p8YD4RgtlVIGBpyQSxj3puXyZif30MpR12UoG6SEDxt\n4TtHmemay004w14+3qkB0gNdMAdF8d2WeEE4w/RBm7e3adS+J+z64nR4YoZ1ZFMS\nsTwH9aaVQbxhiuNfjwiDlPk+desoFX+hiKIHa4KyIDlI3VoqbXXHDnSXCW+U0YJ+\ned5r7l4H1Av/4bBM3Dzx4d9nWnru0x3+ogOQkTSRaEOT4J2B01Gc/9hMUv/7irXM\nRXH4vAq4wBBi01Wb5i0G3xIPwaHQPNaqJEl31nUa0fxErbcBDiS9pfahXdw9a7P0\ndHnqOcWuu2TdbYe1zOBnQ334eKFHfWrio7sNenJRBKKsbJQFuMzMgXHIphlJUW2G\nfU+tqoJUyN5/Pq+poyGVy5qmMP4N+Nc9f8BTK1ehxhzerOwvIuS9tCJK8WrUvT93\nyXoGBuJFt0TyMG0czC6L\n=XIQW\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJUQToyAAoJEPnD1r24IytdFiQQAJRt+P1qsJcHi1Oni/Cvc8D/\nXNlEHeYakdS9FrS9tdT0IieF+pQOlFf4Baqx7oKfDCrPFk+Vg69VmAlW0QY80/EO\nari3ErosUH+o/I+w/wWjJ8tPyH/ThmdN8KRJsjjJJuvfxvY8agXPhEEBkddNqqub\nvztmGuVwnTqxNIwfqupdmqcxQBz/QlDFjK+Coxu5PL8r6FYX5neQSooTIhG1o8lY\nTdanUyzP0LWFn6zeoGKr3p8YD4RgtlVIGBpyQSxj3puXyZif30MpR12UoG6SEDxt\n4TtHmemay004w14+3qkB0gNdMAdF8d2WeEE4w/RBm7e3adS+J+z64nR4YoZ1ZFMS\nsTwH9aaVQbxhiuNfjwiDlPk+desoFX+hiKIHa4KyIDlI3VoqbXXHDnSXCW+U0YJ+\ned5r7l4H1Av/4bBM3Dzx4d9nWnru0x3+ogOQkTSRaEOT4J2B01Gc/9hMUv/7irXM\nRXH4vAq4wBBi01Wb5i0G3xIPwaHQPNaqJEl31nUa0fxErbcBDiS9pfahXdw9a7P0\ndHnqOcWuu2TdbYe1zOBnQ334eKFHfWrio7sNenJRBKKsbJQFuMzMgXHIphlJUW2G\nfU+tqoJUyN5/Pq+poyGVy5qmMP4N+Nc9f8BTK1ehxhzerOwvIuS9tCJK8WrUvT93\nyXoGBuJFt0TyMG0czC6L\n=XIQW\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6a2209aa366a4648c9d74d3434457d704f0a8fe1\ntype commit\ntag v0.4.2\ntagger James Zern <jzern@google.com> 1413560852 -0700\n\nlibwebp-0.4.2\n- 10/13/14: version 0.4.2\n  This is a binary compatible release.\n  * Android / gcc build fixes\n  * (Windows) fix reading from stdin and writing to stdout\n  * gif2webp: miscellaneous fixes\n  * fix 'alpha-leak' with lossy compression (issue #220)\n  * the lossless bitstream spec has been amended to reflect the current code\n"
+  }
+}

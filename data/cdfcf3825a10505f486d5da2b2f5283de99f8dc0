@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6Y2RmY2YzODI1YTEwNTA1ZjQ4NmQ1ZGEyYjJmNTI4M2RlOTlmOGRjMA==",
+  "sha": "cdfcf3825a10505f486d5da2b2f5283de99f8dc0",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/cdfcf3825a10505f486d5da2b2f5283de99f8dc0",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2017-10-03T11:38:32Z"
+  },
+  "object": {
+    "sha": "53732c226a27579238d0f0b7c033e5a2560b2dd5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/53732c226a27579238d0f0b7c033e5a2560b2dd5"
+  },
+  "tag": "3.16.0",
+  "message": "3.16.0\n\n- [head] Try using ``SOURCE_DATE_EPOCH`` environment variable when setting\n  the ``head`` modified timestamp to ensure reproducible builds (#1063).\n  See https://reproducible-builds.org/specs/source-date-epoch/\n- [VTT] Decode VTT's ``TSI*`` tables text as UTF-8 (#1060).\n- Added support for Graphite font tables: Feat, Glat, Gloc, Silf and Sill.\n  Thanks @mhosken! (#1054).\n- [varLib] Default to using axis \"name\" attribute if \"labelname\" element\n  is missing (588f524).\n- [merge] Added support for merging Script records. Remove unused features\n  and lookups after merge (d802580, 556508b).\n- Added ``fontTools.svgLib`` package. Includes a parser for SVG Paths that\n  supports the Pen protocol (#1051). Also, added a snippet to convert SVG\n  outlines to UFO GLIF (#1053).\n- [AAT] Added support for ``ankr``, ``bsln``, ``mort``, ``morx``, ``gcid``,\n  and ``cidg``.\n- [subset] Implemented subsetting of ``prop``, ``opbd``, ``bsln``, ``lcar``.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

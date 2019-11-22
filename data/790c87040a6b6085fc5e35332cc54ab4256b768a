@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6NzkwYzg3MDQwYTZiNjA4NWZjNWUzNTMzMmNjNTRhYjQyNTZiNzY4YQ==",
+  "sha": "790c87040a6b6085fc5e35332cc54ab4256b768a",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/790c87040a6b6085fc5e35332cc54ab4256b768a",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2018-02-26T03:56:35Z"
+  },
+  "object": {
+    "sha": "6d50de28244f40e2bb85965b7c64bee4cf85e0a2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/6d50de28244f40e2bb85965b7c64bee4cf85e0a2"
+  },
+  "tag": "libmodulemd-1.0.3",
+  "message": "Release 1.0.3\n\n- RPM components are properly emitted when no module components exist\n- Parser works around late determination of modulemd version\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWpOFqwAKCRB6JVViNrqj\no92JAJ9+gDSnA+ZrgQy1Np8QvM9YdGHeRgCgsSe0jrJ2tumjyhWFFHvmQgoiDEM=\n=smYc\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWpOFqwAKCRB6JVViNrqj\no92JAJ9+gDSnA+ZrgQy1Np8QvM9YdGHeRgCgsSe0jrJ2tumjyhWFFHvmQgoiDEM=\n=smYc\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6d50de28244f40e2bb85965b7c64bee4cf85e0a2\ntype commit\ntag libmodulemd-1.0.3\ntagger Stephen Gallagher <sgallagh@redhat.com> 1519617395 -0500\n\nRelease 1.0.3\n\n- RPM components are properly emitted when no module components exist\n- Parser works around late determination of modulemd version\n"
+  }
+}

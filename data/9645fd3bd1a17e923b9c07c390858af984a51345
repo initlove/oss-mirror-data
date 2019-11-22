@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6OTY0NWZkM2JkMWExN2U5MjNiOWMwN2MzOTA4NThhZjk4NGE1MTM0NQ==",
+  "sha": "9645fd3bd1a17e923b9c07c390858af984a51345",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/9645fd3bd1a17e923b9c07c390858af984a51345",
+  "tagger": {
+    "name": "Matti Ranta",
+    "email": "matti@mdranta.net",
+    "date": "2018-10-09T14:23:30Z"
+  },
+  "object": {
+    "sha": "31a738b221094cbfc32bf342fb3b76d4e78617da",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/31a738b221094cbfc32bf342fb3b76d4e78617da"
+  },
+  "tag": "v1.5.2",
+  "message": "* SECURITY\n  * Enforce token on api routes (#4840) (#4905)\n* BUGFIXES\n  * Remove links from topics in edit mode (#5030)\n  * Detect charset and convert non UTF-8 files for display (#4950) (#4994)\n  * Fix layout of the topics editing form (#4971) (#4993)\n  * Fix null pointer dereference in ParseCommitWithSignature (#4964)\n  * Fix url in discord webhook (#4951)\n  * Fix font-cropping UI bug in diff (#4726) (#4929)\n  * Fix bug forget to remove Stopwatch when remove repository (#4933)\n  * Fix bug when repo remained bare if multiple branches pushed (#4927)\n  * Fix redirect with non-ascii branch names (#4764) (#4887)\n  * Fix issues api allow pulls (#4852) (#4862)\n  * Fix trimming of markup section names (#4864)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlu8ueMACgkQ2bVhO+uB\nP5kA9wgAnI7xR64YWuGGoQgJ8iwVkjfBPd5TzGjwVD5mJ48T1rSOGop2abxfTb8H\nWp/k80uQuIFNC1Q/nPwiKh+62R9oHol8mvdZSfco3juzxOfaNBBmKvL2udN/i2Qu\nmaBdWggk8t2SqjKPGmi321ZW1v2h6Ad9RpFVqXnfPOKpecOg6DExF0fk6Cytpc/U\naMIEmpEihQlCKsCjh7zyDHyIF3nIxGOPjrtn6/EK28vjZ7FJowIkCGrU7WvYiRI0\nLgkOtqS0etR/omu5hIUs29WX4pWRN8RgzYxuEgki2FB/+cuOZCIca/GTMlgE8/P+\nBpZ+LjznBD3MTrbHdsXS7NnQTmVuHg==\n=0u3G\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlu8ueMACgkQ2bVhO+uB\nP5kA9wgAnI7xR64YWuGGoQgJ8iwVkjfBPd5TzGjwVD5mJ48T1rSOGop2abxfTb8H\nWp/k80uQuIFNC1Q/nPwiKh+62R9oHol8mvdZSfco3juzxOfaNBBmKvL2udN/i2Qu\nmaBdWggk8t2SqjKPGmi321ZW1v2h6Ad9RpFVqXnfPOKpecOg6DExF0fk6Cytpc/U\naMIEmpEihQlCKsCjh7zyDHyIF3nIxGOPjrtn6/EK28vjZ7FJowIkCGrU7WvYiRI0\nLgkOtqS0etR/omu5hIUs29WX4pWRN8RgzYxuEgki2FB/+cuOZCIca/GTMlgE8/P+\nBpZ+LjznBD3MTrbHdsXS7NnQTmVuHg==\n=0u3G\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 31a738b221094cbfc32bf342fb3b76d4e78617da\ntype commit\ntag v1.5.2\ntagger Matti Ranta <matti@mdranta.net> 1539095010 -0400\n\n* SECURITY\n  * Enforce token on api routes (#4840) (#4905)\n* BUGFIXES\n  * Remove links from topics in edit mode (#5030)\n  * Detect charset and convert non UTF-8 files for display (#4950) (#4994)\n  * Fix layout of the topics editing form (#4971) (#4993)\n  * Fix null pointer dereference in ParseCommitWithSignature (#4964)\n  * Fix url in discord webhook (#4951)\n  * Fix font-cropping UI bug in diff (#4726) (#4929)\n  * Fix bug forget to remove Stopwatch when remove repository (#4933)\n  * Fix bug when repo remained bare if multiple branches pushed (#4927)\n  * Fix redirect with non-ascii branch names (#4764) (#4887)\n  * Fix issues api allow pulls (#4852) (#4862)\n  * Fix trimming of markup section names (#4864)\n"
+  }
+}

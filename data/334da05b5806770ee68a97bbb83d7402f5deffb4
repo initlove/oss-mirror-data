@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6MzM0ZGEwNWI1ODA2NzcwZWU2OGE5N2JiYjgzZDc0MDJmNWRlZmZiNA==",
+  "sha": "334da05b5806770ee68a97bbb83d7402f5deffb4",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/334da05b5806770ee68a97bbb83d7402f5deffb4",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2018-07-20T15:51:06Z"
+  },
+  "object": {
+    "sha": "712a06e3d3966aebaacb098881eb9f66095880a5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/712a06e3d3966aebaacb098881eb9f66095880a5"
+  },
+  "tag": "libmodulemd-1.6.1",
+  "message": "Release libmodulemd 1.6.1\n\n* Fix header imports\n* Suppress empty optional sections on .dump()\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCW1IFAgAKCRB6JVViNrqj\no88SAKCTVNfJDZAsUnViDZkj02HMm06ElwCfe4/5LSof7hSNcA8c7ElTPDUwhFo=\n=2wJX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCW1IFAgAKCRB6JVViNrqj\no88SAKCTVNfJDZAsUnViDZkj02HMm06ElwCfe4/5LSof7hSNcA8c7ElTPDUwhFo=\n=2wJX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 712a06e3d3966aebaacb098881eb9f66095880a5\ntype commit\ntag libmodulemd-1.6.1\ntagger Stephen Gallagher <sgallagh@redhat.com> 1532101866 -0400\n\nRelease libmodulemd 1.6.1\n\n* Fix header imports\n* Suppress empty optional sections on .dump()\n"
+  }
+}

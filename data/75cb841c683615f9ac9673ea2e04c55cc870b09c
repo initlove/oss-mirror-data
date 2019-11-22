@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE0NzY5ODo3NWNiODQxYzY4MzYxNWY5YWM5NjczZWEyZTA0YzU1Y2M4NzBiMDlj",
+  "sha": "75cb841c683615f9ac9673ea2e04c55cc870b09c",
+  "url": "https://api.github.com/repos/proot-me/proot/git/tags/75cb841c683615f9ac9673ea2e04c55cc870b09c",
+  "tagger": {
+    "name": "Cédric VINCENT",
+    "email": "cedric.vincent@st.com",
+    "date": "2014-08-06T08:55:49Z"
+  },
+  "object": {
+    "sha": "bc4ddac78a25cbaacfe8183872a96e8bf6bc8583",
+    "type": "commit",
+    "url": "https://api.github.com/repos/proot-me/proot/git/commits/bc4ddac78a25cbaacfe8183872a96e8bf6bc8583"
+  },
+  "tag": "v4.0.1",
+  "message": "Release v4.0.1\n==============\n\n+ Fix a couple of portability issues in the testsuite.  Thanks to Rémi\n  Duraffort for all the tests he made on his instance of Linaro LAVA.\n\n+ Set $PWD to the value specified by the -w option, otherwise Bash pwd\n  builtin might be confused under some specific circumstances.  Thanks\n  to Jérémy Bobbio for the bug report.\n\n+ Fix support for accessat and fchmodat syscalls: they have only three\n  parameters, not four.  This bug was exposed by Gentoo's sandbox:\n\n      proot -S gentoo-amd64-hardened+nomultilib-rootfs emerge util-linux\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

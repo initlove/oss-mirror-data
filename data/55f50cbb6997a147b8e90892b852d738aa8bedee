@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjo1NWY1MGNiYjY5OTdhMTQ3YjhlOTA4OTJiODUyZDczOGFhOGJlZGVl",
+  "sha": "55f50cbb6997a147b8e90892b852d738aa8bedee",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/55f50cbb6997a147b8e90892b852d738aa8bedee",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2016-12-18T19:41:22Z"
+  },
+  "object": {
+    "sha": "3a7461e5f5b6fec9491df24bc82cb0a2e20d3f44",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/3a7461e5f5b6fec9491df24bc82cb0a2e20d3f44"
+  },
+  "tag": "v2.0.0rc2",
+  "message": "REL: v2.0.0rc2\n\nThis is the second and final planned release candidate for mpl v2.0\n\nThis release includes:\n\n - Bug fixes and documentation changes\n - Expanded API on plot_surface and plot_wireframe\n - Pin font size at text creation time\n - Suppress fc-cache warning unless it takes more than 5s\n-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlhW5mwTHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U7898rFB/0fkRVd7dlxzLHVS6kOjYVwGQrwapzS\n7bAX8wRFwgjDg6Y7VJfG8Q9Uie30ZC6Oo4ZH7nG9wZ+jDiOLx8f9PG1OqZXC2777\nbUmGSE1iv3MXRWxpc8P5vEG4khKJrA2sbVQZEyvlGCXTcFZjgou1foQGRpI8lNUD\njfOEj5djJOXs7+rFainsnJ8QKWocM5hn7aQbWnxGo6U+iPgZjCCnT3KrO9z7Ekvm\nUPWHbkyXE4pUJy1C6IFTGTppDeQNunOfSfw9GI3OnZfu8xjIDaIMpGOXmfi6Kn3B\nBPX3IvcAjNJvQRZ+EtN2KrtK2qU0miraQObQc1Am1cMaC9ExVIhKytfD\n=NTV4\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlhW5mwTHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U7898rFB/0fkRVd7dlxzLHVS6kOjYVwGQrwapzS\n7bAX8wRFwgjDg6Y7VJfG8Q9Uie30ZC6Oo4ZH7nG9wZ+jDiOLx8f9PG1OqZXC2777\nbUmGSE1iv3MXRWxpc8P5vEG4khKJrA2sbVQZEyvlGCXTcFZjgou1foQGRpI8lNUD\njfOEj5djJOXs7+rFainsnJ8QKWocM5hn7aQbWnxGo6U+iPgZjCCnT3KrO9z7Ekvm\nUPWHbkyXE4pUJy1C6IFTGTppDeQNunOfSfw9GI3OnZfu8xjIDaIMpGOXmfi6Kn3B\nBPX3IvcAjNJvQRZ+EtN2KrtK2qU0miraQObQc1Am1cMaC9ExVIhKytfD\n=NTV4\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3a7461e5f5b6fec9491df24bc82cb0a2e20d3f44\ntype commit\ntag v2.0.0rc2\ntagger Thomas A Caswell <tcaswell@gmail.com> 1482090082 -0500\n\nREL: v2.0.0rc2\n\nThis is the second and final planned release candidate for mpl v2.0\n\nThis release includes:\n\n - Bug fixes and documentation changes\n - Expanded API on plot_surface and plot_wireframe\n - Pin font size at text creation time\n - Suppress fc-cache warning unless it takes more than 5s\n"
+  }
+}

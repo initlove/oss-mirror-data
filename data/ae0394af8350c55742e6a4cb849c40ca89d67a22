@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMzNjg0NDU6YWUwMzk0YWY4MzUwYzU1NzQyZTZhNGNiODQ5YzQwY2E4OWQ2N2EyMg==",
+  "sha": "ae0394af8350c55742e6a4cb849c40ca89d67a22",
+  "url": "https://api.github.com/repos/webmproject/libwebp/git/tags/ae0394af8350c55742e6a4cb849c40ca89d67a22",
+  "tagger": {
+    "name": "James Zern",
+    "email": "jzern@google.com",
+    "date": "2019-07-13T07:23:45Z"
+  },
+  "object": {
+    "sha": "0fe1a89dbf1930fc2554dbe76adad5d962054ead",
+    "type": "commit",
+    "url": "https://api.github.com/repos/webmproject/libwebp/git/commits/0fe1a89dbf1930fc2554dbe76adad5d962054ead"
+  },
+  "tag": "v1.0.3",
+  "message": "libwebp-1.0.3\n\n- 7/4/2019: version 1.0.3\n  This is a binary compatible release.\n  * resize fixes for Nx1 sizes and the addition of non-opaque alpha values for\n    odd sizes (issues #418, #434)\n  * lossless encode/decode performance improvements\n  * lossy compression performance improvement at low quality levels with flat\n    content (issue #432)\n  * python swig files updated to support python 3\n  Tool updates:\n    vwebp will now preserve the aspect ratio of images that exceed monitor\n    resolution by scaling the image to fit (issue #433)\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEaw5rcJdt4wPt8vYB+cPWvbgjK10FAl0phwYACgkQ+cPWvbgj\nK10dIQ/+Owj7GbG250jZRSrPhjpRzPtasoClRwJIEeEvfbFQRsPkdUhIAPYZ+wvP\nfC+IguTZSRou+FtMafbzhQ+sSzZixLQabOjN3iIaefUb1vmrGsAuSvHSmdJecltM\nf7WOMaGLS5jCWThFgZiIBg4ulJKk+bWaYiMFbL2sLYbluhjCxmlkLe4DrXHFCC6c\n227orCLOXQTckyUIYzQTZLEVdHw1W3vHVek3SgDg8FHTk+InJMG1OUwn+U+1Sngk\nMVKL4DngsFBr+34HB0O0WxQcO8SO0Tppf+7BIDnoJr8N3+OnGAzLiarqM7vlngbC\nIpxaBOrwv3ghUwTXSOsuz1ZVgfZ5BP03gtdiBHlxZYrdHlPKg0OepqPprdxq7i8n\n61/l4wNeuNUVS5ivebS8o5FvS6BKOSatlSdw4npc8m0bgZ/6zsXGPtHRvr09G61M\njrpLzystLDINpPPjRivY/l8IIPlVUX+rghND8hLPYQsv4SvKrOnquzBYcGLC1Mtd\nwfHLWsGIBeYrPfhMDWvfuLs/gzJQ46MwrtM7lzJ5PVg5U0SKZsMVnyPh0GLAciI7\nYBfTbD2Cw6sz6xchmIZGQKg0x4tLHmUHPcrKrT0/T5eTXEeJggyt1KvOUVBPQEIN\n9u5AQQVJ/3tYNzvkKDY+GJ1fr/XyCULv9NPaf5HowomQehR/Okg=\n=SRtq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEaw5rcJdt4wPt8vYB+cPWvbgjK10FAl0phwYACgkQ+cPWvbgj\nK10dIQ/+Owj7GbG250jZRSrPhjpRzPtasoClRwJIEeEvfbFQRsPkdUhIAPYZ+wvP\nfC+IguTZSRou+FtMafbzhQ+sSzZixLQabOjN3iIaefUb1vmrGsAuSvHSmdJecltM\nf7WOMaGLS5jCWThFgZiIBg4ulJKk+bWaYiMFbL2sLYbluhjCxmlkLe4DrXHFCC6c\n227orCLOXQTckyUIYzQTZLEVdHw1W3vHVek3SgDg8FHTk+InJMG1OUwn+U+1Sngk\nMVKL4DngsFBr+34HB0O0WxQcO8SO0Tppf+7BIDnoJr8N3+OnGAzLiarqM7vlngbC\nIpxaBOrwv3ghUwTXSOsuz1ZVgfZ5BP03gtdiBHlxZYrdHlPKg0OepqPprdxq7i8n\n61/l4wNeuNUVS5ivebS8o5FvS6BKOSatlSdw4npc8m0bgZ/6zsXGPtHRvr09G61M\njrpLzystLDINpPPjRivY/l8IIPlVUX+rghND8hLPYQsv4SvKrOnquzBYcGLC1Mtd\nwfHLWsGIBeYrPfhMDWvfuLs/gzJQ46MwrtM7lzJ5PVg5U0SKZsMVnyPh0GLAciI7\nYBfTbD2Cw6sz6xchmIZGQKg0x4tLHmUHPcrKrT0/T5eTXEeJggyt1KvOUVBPQEIN\n9u5AQQVJ/3tYNzvkKDY+GJ1fr/XyCULv9NPaf5HowomQehR/Okg=\n=SRtq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0fe1a89dbf1930fc2554dbe76adad5d962054ead\ntype commit\ntag v1.0.3\ntagger James Zern <jzern@google.com> 1563002625 -0700\n\nlibwebp-1.0.3\n\n- 7/4/2019: version 1.0.3\n  This is a binary compatible release.\n  * resize fixes for Nx1 sizes and the addition of non-opaque alpha values for\n    odd sizes (issues #418, #434)\n  * lossless encode/decode performance improvements\n  * lossy compression performance improvement at low quality levels with flat\n    content (issue #432)\n  * python swig files updated to support python 3\n  Tool updates:\n    vwebp will now preserve the aspect ratio of images that exceed monitor\n    resolution by scaling the image to fit (issue #433)\n"
+  }
+}

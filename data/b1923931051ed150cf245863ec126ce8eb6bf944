@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6YjE5MjM5MzEwNTFlZDE1MGNmMjQ1ODYzZWMxMjZjZThlYjZiZjk0NA==",
+  "sha": "b1923931051ed150cf245863ec126ce8eb6bf944",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/b1923931051ed150cf245863ec126ce8eb6bf944",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo.lupo@daltonmaag.com",
+    "date": "2016-12-02T10:19:58Z"
+  },
+  "object": {
+    "sha": "6775add8b0fad91cea98a00a06179288d2b14e23",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/6775add8b0fad91cea98a00a06179288d2b14e23"
+  },
+  "tag": "3.2.3",
+  "message": "3.2.3\n\n- [py23] optimized performance of round3 function; added backport for py35 math.isclose() (9d8dacb)\n- [subset] fixed issue with 'narrow' (UCS-2) Python 2 builds and --text/--text-file options containing non-BMP chararcters (16d0e5e)\n- [varLib] fixed issuewhen normalizing location values (8fa2ee1, #749)\n- [inspect] Made it compatible with both python2 and python3 (167ee60, #748). Thanks @pnemade\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJYQUraAAoJELYaqtC1OmQZ3eMP/RSfUyxtFd8vHb3bPLojf8bQ\nuGLzYlQmAyxjzKbfZlwA5+2bzbBCUgTufFqO8QQFfGDlVGr8+LYCPpL4X5Z4/7IV\nu7GYKvkMWOf7UKWTEi17ZPbXPHPIjS1OV7khYSsC+JEScEzjhPIKmJ/Kt+TjJ25l\nntnj+RdqFDWwO93T1nTFzFZoHm/WbV3KPxd4Dbb0onsbSZT+2ejl8UpSJXac5+ul\neR2CN2eVghhUmxuE+Uv1gL1qS5SULyJjUEFrbab/fmLDivcHAdNhp6zOm59Yoy3/\nTJwLnwM6yluPEcJ0ccrgw9WaF3V9l8656TWi5vjR72KvB4+iZp9m2UWwGxnwbMU4\nDFAj9jxkzXgKCQflyPvImu5MW0uuSt3wi40+KoOKGCj67THfONlXxIkaCV/tmvMe\nxKxBwSEx6VFoJM075LttRHIA4rtzdeHxHPpi2TW2YJg9gfW5mU96vqXMR4Z2c0Xn\nmAiNtLPIiVx/UKLCi3A9HNqGSpZs9Zz1FE8AOx2mEhav2+ywWWfPVyGM1H/HNf8i\n6ULekkiIGbz5nLRLLvn9g1r7PgNJ9gl+Glwbc078Y4n+IJCkqZgK+C7Q/A/86B6G\n7qMh3jNYsBWDrAiIhhz57UDV3iRrWbg2unw9/jsbbtR07SP/Vdvf5cEJQpgn67uM\nv32SKlsnoTRnQfvHT3TI\n=x3f2\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJYQUraAAoJELYaqtC1OmQZ3eMP/RSfUyxtFd8vHb3bPLojf8bQ\nuGLzYlQmAyxjzKbfZlwA5+2bzbBCUgTufFqO8QQFfGDlVGr8+LYCPpL4X5Z4/7IV\nu7GYKvkMWOf7UKWTEi17ZPbXPHPIjS1OV7khYSsC+JEScEzjhPIKmJ/Kt+TjJ25l\nntnj+RdqFDWwO93T1nTFzFZoHm/WbV3KPxd4Dbb0onsbSZT+2ejl8UpSJXac5+ul\neR2CN2eVghhUmxuE+Uv1gL1qS5SULyJjUEFrbab/fmLDivcHAdNhp6zOm59Yoy3/\nTJwLnwM6yluPEcJ0ccrgw9WaF3V9l8656TWi5vjR72KvB4+iZp9m2UWwGxnwbMU4\nDFAj9jxkzXgKCQflyPvImu5MW0uuSt3wi40+KoOKGCj67THfONlXxIkaCV/tmvMe\nxKxBwSEx6VFoJM075LttRHIA4rtzdeHxHPpi2TW2YJg9gfW5mU96vqXMR4Z2c0Xn\nmAiNtLPIiVx/UKLCi3A9HNqGSpZs9Zz1FE8AOx2mEhav2+ywWWfPVyGM1H/HNf8i\n6ULekkiIGbz5nLRLLvn9g1r7PgNJ9gl+Glwbc078Y4n+IJCkqZgK+C7Q/A/86B6G\n7qMh3jNYsBWDrAiIhhz57UDV3iRrWbg2unw9/jsbbtR07SP/Vdvf5cEJQpgn67uM\nv32SKlsnoTRnQfvHT3TI\n=x3f2\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6775add8b0fad91cea98a00a06179288d2b14e23\ntype commit\ntag 3.2.3\ntagger Cosimo Lupo <cosimo.lupo@daltonmaag.com> 1480673998 +0000\n\n3.2.3\n\n- [py23] optimized performance of round3 function; added backport for py35 math.isclose() (9d8dacb)\n- [subset] fixed issue with 'narrow' (UCS-2) Python 2 builds and --text/--text-file options containing non-BMP chararcters (16d0e5e)\n- [varLib] fixed issuewhen normalizing location values (8fa2ee1, #749)\n- [inspect] Made it compatible with both python2 and python3 (167ee60, #748). Thanks @pnemade\n"
+  }
+}

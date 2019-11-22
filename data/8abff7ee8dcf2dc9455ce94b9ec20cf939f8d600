@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE0NzY5ODo4YWJmZjdlZThkY2YyZGM5NDU1Y2U5NGI5ZWMyMGNmOTM5ZjhkNjAw",
+  "sha": "8abff7ee8dcf2dc9455ce94b9ec20cf939f8d600",
+  "url": "https://api.github.com/repos/proot-me/proot/git/tags/8abff7ee8dcf2dc9455ce94b9ec20cf939f8d600",
+  "tagger": {
+    "name": "Cédric VINCENT",
+    "email": "cedric.vincent@st.com",
+    "date": "2014-01-09T14:21:16Z"
+  },
+  "object": {
+    "sha": "e4df3625b9da0363ecb9546f0f0e1b1f5aa5e680",
+    "type": "commit",
+    "url": "https://api.github.com/repos/proot-me/proot/git/commits/e4df3625b9da0363ecb9546f0f0e1b1f5aa5e680"
+  },
+  "tag": "v3.2.2",
+  "message": "Release v3.2.2\n==============\n\n+ Remove a useless memory layout constraint on x86_64 that bugs some\n  programs like java and or qemu.\n\n+ It is now possible to launch the initial program from a relative\n  path without specifying the \"./\" prefix, for example:\n\n    $ proot path/to/program\n\n+ Don't discard fcntl(F_DUPFD_CLOEXEC) systematically when the kompat\n  extension is enabled (-k option).\n\n+ Don't use syscalls that require Linux >= 2.6.16 anymore.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

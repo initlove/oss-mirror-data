@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6MTAxODc3NThlOWJlOTM1ODBkOGI3NDFmMjdjMjAzZTVmMzZmMDQ2Yw==",
+  "sha": "10187758e9be93580d8b741f27c203e5f36f046c",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/10187758e9be93580d8b741f27c203e5f36f046c",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2019-07-03T20:20:54Z"
+  },
+  "object": {
+    "sha": "7c7f88258491866cdb86d26cadfce37a78f242ec",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/7c7f88258491866cdb86d26cadfce37a78f242ec"
+  },
+  "tag": "libmodulemd-2.6.0",
+  "message": "Tagging libmodulemd 2.6.0\n\nMerlin Mathesius (8):\n      Fixes to internal document linking by using correct object names, etc.\n      Add descriptions for a few undocumented enums and correct a few mis-documented parameters.\n      Correct a few typos and omissions in C code examples in README so copy/paste of code has a chance of working.\n      Add gtk-doc descriptions for ModulemdModuleStream object properties.\n      Update meson.build to convince gtk-doc to produce documentation for object properties.\n      Correct typo in ModulemdModuleStream.arch property nick name.\n      Remove unnecessary gtk-doc documentation blocks added by commit 76aecdf.\n      Documentation updates (#325)\n\nStephen Gallagher (13):\n      Bump version to 2.5.1dev\n      Double valgrind timeout\n      Temporarily work around https://src.fedoraproject.org/rpms/createrepo_c/pull-request/6\n      Parallelize the valgrind tests\n      Print `git diff` when dirty_repo test fails\n      Fix transfer type for Module.search_streams()\n      Extend timeout for header test\n      Return translated profile descriptions\n      CI: Add IRC notifications\n      Add ModuleIndexMerger.resolve_ext()\n      Bump version to 2.6.0\n      Simplify test setup\n      Improve valgrind test setup\n\norionstar25 (3):\n      add get_stream_names from module\n      Create python binding for get_stream_names\n      Convert from Modulemd.ModuleIndex to babel catalog\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXR0OMgAKCRB6JVViNrqj\noyYPAJ9SiQSyDvnhCrrrrASjABXVxGihbwCcDwkQ/RJX6dCIjV45nYJkhdfrylc=\n=poaf\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXR0OMgAKCRB6JVViNrqj\noyYPAJ9SiQSyDvnhCrrrrASjABXVxGihbwCcDwkQ/RJX6dCIjV45nYJkhdfrylc=\n=poaf\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7c7f88258491866cdb86d26cadfce37a78f242ec\ntype commit\ntag libmodulemd-2.6.0\ntagger Stephen Gallagher <sgallagh@redhat.com> 1562185254 -0400\n\nTagging libmodulemd 2.6.0\n\nMerlin Mathesius (8):\n      Fixes to internal document linking by using correct object names, etc.\n      Add descriptions for a few undocumented enums and correct a few mis-documented parameters.\n      Correct a few typos and omissions in C code examples in README so copy/paste of code has a chance of working.\n      Add gtk-doc descriptions for ModulemdModuleStream object properties.\n      Update meson.build to convince gtk-doc to produce documentation for object properties.\n      Correct typo in ModulemdModuleStream.arch property nick name.\n      Remove unnecessary gtk-doc documentation blocks added by commit 76aecdf.\n      Documentation updates (#325)\n\nStephen Gallagher (13):\n      Bump version to 2.5.1dev\n      Double valgrind timeout\n      Temporarily work around https://src.fedoraproject.org/rpms/createrepo_c/pull-request/6\n      Parallelize the valgrind tests\n      Print `git diff` when dirty_repo test fails\n      Fix transfer type for Module.search_streams()\n      Extend timeout for header test\n      Return translated profile descriptions\n      CI: Add IRC notifications\n      Add ModuleIndexMerger.resolve_ext()\n      Bump version to 2.6.0\n      Simplify test setup\n      Improve valgrind test setup\n\norionstar25 (3):\n      add get_stream_names from module\n      Create python binding for get_stream_names\n      Convert from Modulemd.ModuleIndex to babel catalog\n"
+  }
+}

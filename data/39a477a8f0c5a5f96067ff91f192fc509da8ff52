@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTg5NDk2MjozOWE0NzdhOGYwYzVhNWY5NjA2N2ZmOTFmMTkyZmM1MDlkYThmZjUy",
+  "sha": "39a477a8f0c5a5f96067ff91f192fc509da8ff52",
+  "url": "https://api.github.com/repos/h5py/h5py/git/tags/39a477a8f0c5a5f96067ff91f192fc509da8ff52",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2018-05-14T00:34:36Z"
+  },
+  "object": {
+    "sha": "dd51465b22a5e9f0195bd9af8c4ca0be4ee84f58",
+    "type": "commit",
+    "url": "https://api.github.com/repos/h5py/h5py/git/commits/dd51465b22a5e9f0195bd9af8c4ca0be4ee84f58"
+  },
+  "tag": "2.8.0",
+  "message": "REL: 2.8.0\n\nThis is the first release of the h5py 2.8 series\n\nFeatures\n - allow registration of new drivers\n - add option to track object creation order\n\nBug fixes\n - allow slices with stop < start as empty\n - improve building with custom hdf5 installation\n - ensure libver defaults to LIBVER_EARLIEST\n - improve handling of float types\n - support non-ascii external paths on py2\n - avoid crashing IPython auto-completer\n\nAPI changes\n - deprecate ``h5t.available_ftypes``.  This is no longer\n   used internally and will be removed in the future.  There is\n   no replacement public API.\n - Do not sort fields in compound types.  This is account for changes\n   in numpy 1.14.\n - Minimum version of cython is now 0.23\n\nWheels hdf5 version\n - Wheels upload to pypi will be built against hdf5 1.10.2\n-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlr42aATHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U7894UTB/9KVZYpgOoWqW4u7vpB/yCkYm1hdyW6\nnQr5hswfvNqqiVTHTf8Wihl/ZydEbj5bcjZViITOfq36OjzsYIQQ9q7DD1f2xQrA\nGfbjk9o8OK8QZXPdDRXtu+SiPKSREEyL2YQdbcOFULmSMQuxEk0eo9enT7P4h2Lk\nJBjsBDnvHUHTBj3oekHhHi1EJHajYvLwBAxsTUtakHmWivFuLr6w5yOeCZnCeYVc\nr60UkGygq7UfPs0KAW7SxpW0nfcVkiAOWXAH+bOoxCVZSKUhgAc6Uv25sV3HOZfC\nPjRNVWt3Z+JtEvMqswzjbpJENRpRziITRMyDyTNwyp5KeLK1UEFhL/td\n=9cb0\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlr42aATHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U7894UTB/9KVZYpgOoWqW4u7vpB/yCkYm1hdyW6\nnQr5hswfvNqqiVTHTf8Wihl/ZydEbj5bcjZViITOfq36OjzsYIQQ9q7DD1f2xQrA\nGfbjk9o8OK8QZXPdDRXtu+SiPKSREEyL2YQdbcOFULmSMQuxEk0eo9enT7P4h2Lk\nJBjsBDnvHUHTBj3oekHhHi1EJHajYvLwBAxsTUtakHmWivFuLr6w5yOeCZnCeYVc\nr60UkGygq7UfPs0KAW7SxpW0nfcVkiAOWXAH+bOoxCVZSKUhgAc6Uv25sV3HOZfC\nPjRNVWt3Z+JtEvMqswzjbpJENRpRziITRMyDyTNwyp5KeLK1UEFhL/td\n=9cb0\n-----END PGP SIGNATURE-----\n",
+    "payload": "object dd51465b22a5e9f0195bd9af8c4ca0be4ee84f58\ntype commit\ntag 2.8.0\ntagger Thomas A Caswell <tcaswell@gmail.com> 1526258076 -0400\n\nREL: 2.8.0\n\nThis is the first release of the h5py 2.8 series\n\nFeatures\n - allow registration of new drivers\n - add option to track object creation order\n\nBug fixes\n - allow slices with stop < start as empty\n - improve building with custom hdf5 installation\n - ensure libver defaults to LIBVER_EARLIEST\n - improve handling of float types\n - support non-ascii external paths on py2\n - avoid crashing IPython auto-completer\n\nAPI changes\n - deprecate ``h5t.available_ftypes``.  This is no longer\n   used internally and will be removed in the future.  There is\n   no replacement public API.\n - Do not sort fields in compound types.  This is account for changes\n   in numpy 1.14.\n - Minimum version of cython is now 0.23\n\nWheels hdf5 version\n - Wheels upload to pypi will be built against hdf5 1.10.2\n"
+  }
+}

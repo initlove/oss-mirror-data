@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM5NjgyNTU6M2JkZmZlODkyZmVhYzUwOTBjOGNhMWUxNjExM2FiYWI4MjFhOGY4Nw==",
+  "sha": "3bdffe892feac5090c8ca1e16113abab821a8f87",
+  "url": "https://api.github.com/repos/openstack/mistral/git/tags/3bdffe892feac5090c8ca1e16113abab821a8f87",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-13T16:05:24Z"
+  },
+  "object": {
+    "sha": "8eb0951a3ff11e376b6ef64bab8bbd1b205cf6f4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/mistral/git/commits/8eb0951a3ff11e376b6ef64bab8bbd1b205cf6f4"
+  },
+  "tag": "9.0.0.0b1",
+  "message": "mistral 9.0.0.0b1 development milestone\n\nmeta:version: 9.0.0.0b1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: development milestone\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Renat Akhmerov <renat.akhmerov@gmail.com>\nmeta:release:Commit: Renat Akhmerov <renat.akhmerov@gmail.com>\nmeta:release:Change-Id: Ia8f8adce67ce546c9e6dbb218f897ea54eecf27f\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\nmeta:release:+  - improved performance by roughtly 40% (depends on a workflow)\nmeta:release:+  - workflow execution report now contains \"retry_count\" for tasks\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl17vkQZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2CY0DADirI/a6okTvwZxiw0IyloD\nJKK5zGxW7Jen0jU8FirCrY3nVSRMOQxAIV/MhjXhk4Cc+hnGHD4eNZ/5af8oGipN\nrt5uxiNoBHy8cWYsux3WB3O2bz6qT3oVx+fXwu+JIFl6BK5EHYTacI0imve+pPAu\nl2JuOx5cLYbFvW35iGidOW8p5Job1HgMdUZTKIVzDBj3KDdXL/1VmGWuLO64jnwK\nE5rWYkzCFiPBeUU1YcYaq1Dik557P0Zr768bloxJWUuT2Rt3SpiRmmMX49xJZ9fj\nw7dx5LaYw8A8S5RA+5fZgHHQXQptC0BOnYmRPlRsCheH/jUVFmmN/oW76iyIaDR7\nQne7DReA4X7raq2oZ+tFohy0COFI5YhxRM8iHOjIX96vAd+leOz5HvEcp6wABMX2\n9KkgP7IKlBvDrZbkwXKIHprjGISWYSnjGC/Eifc0MNMIdVpC9y3H1iO8K/V3Zire\nS4fc/6HfkrqyGEYsw2nRveZ1WgU1TFv7KqMBsTRi7ho=\n=eSJ+\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl17vkQZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2CY0DADirI/a6okTvwZxiw0IyloD\nJKK5zGxW7Jen0jU8FirCrY3nVSRMOQxAIV/MhjXhk4Cc+hnGHD4eNZ/5af8oGipN\nrt5uxiNoBHy8cWYsux3WB3O2bz6qT3oVx+fXwu+JIFl6BK5EHYTacI0imve+pPAu\nl2JuOx5cLYbFvW35iGidOW8p5Job1HgMdUZTKIVzDBj3KDdXL/1VmGWuLO64jnwK\nE5rWYkzCFiPBeUU1YcYaq1Dik557P0Zr768bloxJWUuT2Rt3SpiRmmMX49xJZ9fj\nw7dx5LaYw8A8S5RA+5fZgHHQXQptC0BOnYmRPlRsCheH/jUVFmmN/oW76iyIaDR7\nQne7DReA4X7raq2oZ+tFohy0COFI5YhxRM8iHOjIX96vAd+leOz5HvEcp6wABMX2\n9KkgP7IKlBvDrZbkwXKIHprjGISWYSnjGC/Eifc0MNMIdVpC9y3H1iO8K/V3Zire\nS4fc/6HfkrqyGEYsw2nRveZ1WgU1TFv7KqMBsTRi7ho=\n=eSJ+\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8eb0951a3ff11e376b6ef64bab8bbd1b205cf6f4\ntype commit\ntag 9.0.0.0b1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1568390724 +0000\n\nmistral 9.0.0.0b1 development milestone\n\nmeta:version: 9.0.0.0b1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: development milestone\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Renat Akhmerov <renat.akhmerov@gmail.com>\nmeta:release:Commit: Renat Akhmerov <renat.akhmerov@gmail.com>\nmeta:release:Change-Id: Ia8f8adce67ce546c9e6dbb218f897ea54eecf27f\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\nmeta:release:+  - improved performance by roughtly 40% (depends on a workflow)\nmeta:release:+  - workflow execution report now contains \"retry_count\" for tasks\n"
+  }
+}

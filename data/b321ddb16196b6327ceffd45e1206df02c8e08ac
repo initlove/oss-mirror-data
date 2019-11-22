@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMxNjMxMDpiMzIxZGRiMTYxOTZiNjMyN2NlZmZkNDVlMTIwNmRmMDJjOGUwOGFj",
+  "sha": "b321ddb16196b6327ceffd45e1206df02c8e08ac",
+  "url": "https://api.github.com/repos/tytso/e2fsprogs/git/tags/b321ddb16196b6327ceffd45e1206df02c8e08ac",
+  "tagger": {
+    "name": "Theodore Y. Ts'o",
+    "email": "tytso@mit.edu",
+    "date": "2019-07-25T19:35:01Z"
+  },
+  "object": {
+    "sha": "85d93089820c350e88c135c3ea703eabc7b5de75",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tytso/e2fsprogs/git/commits/85d93089820c350e88c135c3ea703eabc7b5de75"
+  },
+  "tag": "debian/1.45.3-3",
+  "message": "e2fsprogs release 1.45.3-3 for unstable (sid) [dgit]\n\n[dgit distro=debian no-split --quilt=nofix]\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEK2m5VNv+CHkogTfJ8vlZVpUNgaMFAl06H+wACgkQ8vlZVpUN\ngaP60Qf+IRS8l3Zt5m5PeLhrP9XYHbbYsSow8+pv3MzN1WAEbJxzyotciolMQhQC\nwv4zEnWxIEidLJe5ZJPJDCTi5fo3EVShLuvpaNMYBlmj0gMODbnk6z8nrKgMQoSo\n3t+633aPhak2S2pCi5BRzP9AlJzqkpnmQLrB9m0rn29okAAUKSc/K9+2Q4XapJA5\n8+q7Zohhw56Z45AmcfgKG65PBOtK9BSk7XimD+zgLef9vBTw62TcyiYNxHGlQmuo\noAVxh6uFHnD/uk/TKrDA3e5B6PEN1oCe3rU9NclE8MZaQF3my5DgVNT0PCcfSEPr\n0n8Fa8OoJkRF8jrFkXyb5l8XnQgXuQ==\n=4h4e\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEK2m5VNv+CHkogTfJ8vlZVpUNgaMFAl06H+wACgkQ8vlZVpUN\ngaP60Qf+IRS8l3Zt5m5PeLhrP9XYHbbYsSow8+pv3MzN1WAEbJxzyotciolMQhQC\nwv4zEnWxIEidLJe5ZJPJDCTi5fo3EVShLuvpaNMYBlmj0gMODbnk6z8nrKgMQoSo\n3t+633aPhak2S2pCi5BRzP9AlJzqkpnmQLrB9m0rn29okAAUKSc/K9+2Q4XapJA5\n8+q7Zohhw56Z45AmcfgKG65PBOtK9BSk7XimD+zgLef9vBTw62TcyiYNxHGlQmuo\noAVxh6uFHnD/uk/TKrDA3e5B6PEN1oCe3rU9NclE8MZaQF3my5DgVNT0PCcfSEPr\n0n8Fa8OoJkRF8jrFkXyb5l8XnQgXuQ==\n=4h4e\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 85d93089820c350e88c135c3ea703eabc7b5de75\ntype commit\ntag debian/1.45.3-3\ntagger Theodore Y. Ts'o <tytso@mit.edu> 1564083301 -0400\n\ne2fsprogs release 1.45.3-3 for unstable (sid) [dgit]\n\n[dgit distro=debian no-split --quilt=nofix]\n"
+  }
+}

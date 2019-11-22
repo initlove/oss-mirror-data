@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTYyNTgxODo0ZTdhYWUwMjJlYjY5MWEwYWQ2YmE1MjM4MWIxNTQ3NzczYTI4ZTNk",
+  "sha": "4e7aae022eb691a0ad6ba52381b1547773a28e3d",
+  "url": "https://api.github.com/repos/acoustid/chromaprint/git/tags/4e7aae022eb691a0ad6ba52381b1547773a28e3d",
+  "tagger": {
+    "name": "Lukáš Lalinský",
+    "email": "lukas@oxygene.sk",
+    "date": "2016-12-12T19:03:30Z"
+  },
+  "object": {
+    "sha": "c945fdda3852957a1dc098642030ea9221b3a50d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acoustid/chromaprint/git/commits/c945fdda3852957a1dc098642030ea9221b3a50d"
+  },
+  "tag": "v1.4.1",
+  "message": "Version 1.4.1 -- December 12, 2016\n==================================\n\n - Restored the -v/-version parameter for fpcalc that got accidentally removed in 1.4.\n - Fixed processing of some short audio files. They were ignored in 1.4.\n - The DURATION field in the default output of fpcalc is now printed as an integer again.\n - Added missing version number to libchromaprint.pc.\n - Mac OS X fpcalc builds are done with clang/libc++ and should work on 10.7+.\n - Linux fpcalc builds are now fully static.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlhO9IsACgkQKGG2EwUP5T5apwCfVLYs1eEkHCQmqm4rOffQPa3u\nXvoAn1wdW2zKiT9XYljZAx82SIOm/TZT\n=xqrw\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlhO9IsACgkQKGG2EwUP5T5apwCfVLYs1eEkHCQmqm4rOffQPa3u\nXvoAn1wdW2zKiT9XYljZAx82SIOm/TZT\n=xqrw\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c945fdda3852957a1dc098642030ea9221b3a50d\ntype commit\ntag v1.4.1\ntagger Lukáš Lalinský <lukas@oxygene.sk> 1481569410 +0100\n\nVersion 1.4.1 -- December 12, 2016\n==================================\n\n - Restored the -v/-version parameter for fpcalc that got accidentally removed in 1.4.\n - Fixed processing of some short audio files. They were ignored in 1.4.\n - The DURATION field in the default output of fpcalc is now printed as an integer again.\n - Added missing version number to libchromaprint.pc.\n - Mac OS X fpcalc builds are done with clang/libc++ and should work on 10.7+.\n - Linux fpcalc builds are now fully static.\n"
+  }
+}

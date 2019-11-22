@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM5NjgyNTU6NTY3NWVjZDg5YTE1OGE3YzU5OGQzNTYxYzI5ZDYyMTQ0ODY4Y2EyMQ==",
+  "sha": "5675ecd89a158a7c598d3561c29d62144868ca21",
+  "url": "https://api.github.com/repos/openstack/mistral/git/tags/5675ecd89a158a7c598d3561c29d62144868ca21",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-10T14:15:22Z"
+  },
+  "object": {
+    "sha": "016509eb5ea673dd66cff04bb457645be1618653",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/mistral/git/commits/016509eb5ea673dd66cff04bb457645be1618653"
+  },
+  "tag": "9.0.0.0rc2",
+  "message": "mistral 9.0.0.0rc2 release candidate\n\nmeta:version: 9.0.0.0rc2\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Renat Akhmerov <renat.akhmerov@gmail.com>\nmeta:release:Change-Id: Ica81d1eb8b9e566b98ea60bf7d35c81e46611760\nmeta:release:Code-Review+1: Renat Akhmerov <renat.akhmerov@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2fPPoZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2ItwC/0XFDRZDNTMkwD4G7wHpN4V\nrfbGkI9bqjiz0AMmiEWHZ+o6qCrWd2Zv5M4Yf+0xyPzNXzkyq2wdVBo4+eT0cy86\nN6bgQaIOV3UPB37WiZn9JGBCVmi2rRmMFvNqS8hGKgIQhiq1h6eJKF5g6fMf/IsH\nOEGEV/C6BcuMSJcX9i+nl2DhwjhCTPDGrxPIGmcMzbsKky0/ISj34T0SUfvFuD6T\n4L1nADjWJGe9c0kh/PKVhdXdUf9HLykOe1X58LH6+jxx4R3K+AQ8KaS/sY5sB0MU\nQ0oJ9Mhn/1FPCpRcIxsnSyDbi4k5f5YQahZBMeyRciEvitZPxF2pDVHHgtDL4WvG\nc+vH/lfyVteoP2+5ogL1FGgYxIsXVZ8/gfxe5j8msfyew9Kqx9tGj13V50wM4Sfx\n1CXOHQMIfs/QCb6b9504SzVUNp7q4vXYg6LR2g0ukVq/RSwvBVQBIGQMMgNtPebA\nvLstFrZsDswA1Yi6y3/PXVNek+SQpiVIrJ1j3Iwsk30=\n=+VuH\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2fPPoZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2ItwC/0XFDRZDNTMkwD4G7wHpN4V\nrfbGkI9bqjiz0AMmiEWHZ+o6qCrWd2Zv5M4Yf+0xyPzNXzkyq2wdVBo4+eT0cy86\nN6bgQaIOV3UPB37WiZn9JGBCVmi2rRmMFvNqS8hGKgIQhiq1h6eJKF5g6fMf/IsH\nOEGEV/C6BcuMSJcX9i+nl2DhwjhCTPDGrxPIGmcMzbsKky0/ISj34T0SUfvFuD6T\n4L1nADjWJGe9c0kh/PKVhdXdUf9HLykOe1X58LH6+jxx4R3K+AQ8KaS/sY5sB0MU\nQ0oJ9Mhn/1FPCpRcIxsnSyDbi4k5f5YQahZBMeyRciEvitZPxF2pDVHHgtDL4WvG\nc+vH/lfyVteoP2+5ogL1FGgYxIsXVZ8/gfxe5j8msfyew9Kqx9tGj13V50wM4Sfx\n1CXOHQMIfs/QCb6b9504SzVUNp7q4vXYg6LR2g0ukVq/RSwvBVQBIGQMMgNtPebA\nvLstFrZsDswA1Yi6y3/PXVNek+SQpiVIrJ1j3Iwsk30=\n=+VuH\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 016509eb5ea673dd66cff04bb457645be1618653\ntype commit\ntag 9.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1570716922 +0000\n\nmistral 9.0.0.0rc2 release candidate\n\nmeta:version: 9.0.0.0rc2\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Renat Akhmerov <renat.akhmerov@gmail.com>\nmeta:release:Change-Id: Ica81d1eb8b9e566b98ea60bf7d35c81e46611760\nmeta:release:Code-Review+1: Renat Akhmerov <renat.akhmerov@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjphNTg3N2I1MjY1ZDY3MDc2ZGJkODYyN2EzZjFhOWFlMTIzN2U0NmE2",
+  "sha": "a5877b5265d67076dbd8627a3f1a9ae1237e46a6",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/a5877b5265d67076dbd8627a3f1a9ae1237e46a6",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2018-08-10T03:05:06Z"
+  },
+  "object": {
+    "sha": "2e0eb748d3c1b808ed89e86e80a2d1565b4cd896",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/2e0eb748d3c1b808ed89e86e80a2d1565b4cd896"
+  },
+  "tag": "v2.2.3",
+  "message": "REL: v2.2.3\n\nThe third bug-fix release of the v2.2 LTS series\n\nIn addition to documentation and example fixes this release\nfixes several critical bugs:\n\n- Fix import failure on BSD systems\n- Fix import errors in Qt shims for PyQt5 5.11 and PyQt4 4.12\n- Fix import errors if bz2 module is not in standard library\n- Fix overflow in _path.h\n- Fix infinite recursion in transform repr\n- Fix bug with XKCD style\n- Remove unsafe usage of Popen\n-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlttAOUTHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U789+MgB/9dc7o7BVGU+/dWLVeEeII7fFxoC73E\nJwYhEgmtlazxi8tdKx3ML6yqfqThsMC/RnRu8ooIaD50kaV9JognPZTCYyq4iBit\nlHN8xeWa+s1iekuOueYtlQ60CiuboSBlhFNc36PLdGVg+6ij1LH43omHZcakMLe2\nQcqQdQ3A/e1hKglDnrnzGWvLt6+874CoPjiAT00h38BdmanDcJkA28EtJHDz79rN\nZ+rRH//irNT0AXj4iM9HbTwcMnkz4Cy76EzqUXrLukyu3vvR04HvmhtQoW/fBi0K\nRjtAP9xQjgV4/sKBF720tYCHiA4Rbqcy2U3X/QXSd27vwA9gxte+SAQr\n=sxKw\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlttAOUTHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U789+MgB/9dc7o7BVGU+/dWLVeEeII7fFxoC73E\nJwYhEgmtlazxi8tdKx3ML6yqfqThsMC/RnRu8ooIaD50kaV9JognPZTCYyq4iBit\nlHN8xeWa+s1iekuOueYtlQ60CiuboSBlhFNc36PLdGVg+6ij1LH43omHZcakMLe2\nQcqQdQ3A/e1hKglDnrnzGWvLt6+874CoPjiAT00h38BdmanDcJkA28EtJHDz79rN\nZ+rRH//irNT0AXj4iM9HbTwcMnkz4Cy76EzqUXrLukyu3vvR04HvmhtQoW/fBi0K\nRjtAP9xQjgV4/sKBF720tYCHiA4Rbqcy2U3X/QXSd27vwA9gxte+SAQr\n=sxKw\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2e0eb748d3c1b808ed89e86e80a2d1565b4cd896\ntype commit\ntag v2.2.3\ntagger Thomas A Caswell <tcaswell@gmail.com> 1533870306 -0400\n\nREL: v2.2.3\n\nThe third bug-fix release of the v2.2 LTS series\n\nIn addition to documentation and example fixes this release\nfixes several critical bugs:\n\n- Fix import failure on BSD systems\n- Fix import errors in Qt shims for PyQt5 5.11 and PyQt4 4.12\n- Fix import errors if bz2 module is not in standard library\n- Fix overflow in _path.h\n- Fix infinite recursion in transform repr\n- Fix bug with XKCD style\n- Remove unsafe usage of Popen\n"
+  }
+}

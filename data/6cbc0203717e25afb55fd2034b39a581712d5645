@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzYwMDU6NmNiYzAyMDM3MTdlMjVhZmI1NWZkMjAzNGIzOWE1ODE3MTJkNTY0NQ==",
+  "sha": "6cbc0203717e25afb55fd2034b39a581712d5645",
+  "url": "https://api.github.com/repos/gpg/libgcrypt/git/tags/6cbc0203717e25afb55fd2034b39a581712d5645",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2016-12-09T14:48:49Z"
+  },
+  "object": {
+    "sha": "a72ce0a1fbb3648d80696885d6a7e78b3029bebc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libgcrypt/git/commits/a72ce0a1fbb3648d80696885d6a7e78b3029bebc"
+  },
+  "tag": "libgcrypt-1.7.4",
+  "message": "Now with overflow pools for the secmem and a century old chin dimple\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlhKxFEACgkQJJs50k8l\n47ZG8Qf8CnWnkmhl+Otu87faw8o2Vuv85/08VBk29pTNeAreMn/3FDnn/4tmOaKq\n0umnq7QtPJ0ZhqtJCWJolJ9tewkyGTUD+8aLkWg3P3EdlI1CX2KLlnxoYhdNzol6\nNsg5TUMX+r6w72PDUVnu/Db2+Y3y/0dpFBKCs/X3xQR/kQ6ltJobth3l3yzj+lqc\nyJVkymIAmw75x4rdT2sDiFkHRwjb7+qUukbbXVGdY7GH8u4OwZWuRnaa9hK/0Z74\np4GOLCoxJ+uFmLciT92DXt1VXAL0hUSBo3tjRmAEuc+Y/tiVOp8ktVpdlOBzVHME\nMJZqqozSI90IUwU83KIV/lrUFG+wIA==\n=4vct\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlhKxFEACgkQJJs50k8l\n47ZG8Qf8CnWnkmhl+Otu87faw8o2Vuv85/08VBk29pTNeAreMn/3FDnn/4tmOaKq\n0umnq7QtPJ0ZhqtJCWJolJ9tewkyGTUD+8aLkWg3P3EdlI1CX2KLlnxoYhdNzol6\nNsg5TUMX+r6w72PDUVnu/Db2+Y3y/0dpFBKCs/X3xQR/kQ6ltJobth3l3yzj+lqc\nyJVkymIAmw75x4rdT2sDiFkHRwjb7+qUukbbXVGdY7GH8u4OwZWuRnaa9hK/0Z74\np4GOLCoxJ+uFmLciT92DXt1VXAL0hUSBo3tjRmAEuc+Y/tiVOp8ktVpdlOBzVHME\nMJZqqozSI90IUwU83KIV/lrUFG+wIA==\n=4vct\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a72ce0a1fbb3648d80696885d6a7e78b3029bebc\ntype commit\ntag libgcrypt-1.7.4\ntagger Werner Koch <wk@gnupg.org> 1481294929 +0100\n\nNow with overflow pools for the secmem and a century old chin dimple\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6YzA5YzQ0YWU0OGE2YjBlYWNhOTM3YzQ4ODhjZTJiYjA0MWE4YTkxZg==",
+  "sha": "c09c44ae48a6b0eaca937c4888ce2bb041a8a91f",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/c09c44ae48a6b0eaca937c4888ce2bb041a8a91f",
+  "tagger": {
+    "name": "Matti Ranta",
+    "email": "matti@mdranta.net",
+    "date": "2019-04-13T02:25:27Z"
+  },
+  "object": {
+    "sha": "bafa9ff4323cef048412157e5f5a7bc516adf985",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/bafa9ff4323cef048412157e5f5a7bc516adf985"
+  },
+  "tag": "v1.7.6",
+  "message": "* SECURITY\n  * Prevent remote code execution vulnerability with mirror repo URL settings (#6593) (#6595)\n* BUGFIXES\n  * Allow resend of confirmation email when logged in (#6482) (#6487)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlyxSJcACgkQ2bVhO+uB\nP5mATQgAyPgDtlffxEGLvZXVaeHDWb091wXo1emdaju55xSiZ/RpYeR1vgb2vPv4\nC1WXjo5mji6nifhHPu3JqiZe/z1a8/8qcB+KqSwwqmSGq5ARKDzMjLZBV9vypVUM\nbVjAAu3WVrGYjjWDsCi51+9ul9D2oeLPxw6Kf0Dl+UayZVp6QmAUtTK+gxYyjkTY\n2nxdIByAvrvsezy3cWhv5srPcIOWz+LapSK3qAPdDUTEquuAS0S67a+Li7QyeZvW\ne3+ncbUJ2/IDPI774X1R8ZACiVlWz1CK9t4sxGU5nYKTHd21hYEBS91tC+MqUgTj\nTxoypQU684x/RW4n8S7KcgVk18qb4A==\n=cJiu\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlyxSJcACgkQ2bVhO+uB\nP5mATQgAyPgDtlffxEGLvZXVaeHDWb091wXo1emdaju55xSiZ/RpYeR1vgb2vPv4\nC1WXjo5mji6nifhHPu3JqiZe/z1a8/8qcB+KqSwwqmSGq5ARKDzMjLZBV9vypVUM\nbVjAAu3WVrGYjjWDsCi51+9ul9D2oeLPxw6Kf0Dl+UayZVp6QmAUtTK+gxYyjkTY\n2nxdIByAvrvsezy3cWhv5srPcIOWz+LapSK3qAPdDUTEquuAS0S67a+Li7QyeZvW\ne3+ncbUJ2/IDPI774X1R8ZACiVlWz1CK9t4sxGU5nYKTHd21hYEBS91tC+MqUgTj\nTxoypQU684x/RW4n8S7KcgVk18qb4A==\n=cJiu\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bafa9ff4323cef048412157e5f5a7bc516adf985\ntype commit\ntag v1.7.6\ntagger Matti Ranta <matti@mdranta.net> 1555122327 -0400\n\n* SECURITY\n  * Prevent remote code execution vulnerability with mirror repo URL settings (#6593) (#6595)\n* BUGFIXES\n  * Allow resend of confirmation email when logged in (#6482) (#6487)\n"
+  }
+}

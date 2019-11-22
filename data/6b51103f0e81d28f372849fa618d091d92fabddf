@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE0NTI1Mzg6NmI1MTEwM2YwZTgxZDI4ZjM3Mjg0OWZhNjE4ZDA5MWQ5MmZhYmRkZg==",
+  "sha": "6b51103f0e81d28f372849fa618d091d92fabddf",
+  "url": "https://api.github.com/repos/prometheus/alertmanager/git/tags/6b51103f0e81d28f372849fa618d091d92fabddf",
+  "tagger": {
+    "name": "Tobias Schmidt",
+    "email": "tobidt@gmail.com",
+    "date": "2016-08-31T22:25:29Z"
+  },
+  "object": {
+    "sha": "230a80a08942c78e1213e69959d571c292473bde",
+    "type": "commit",
+    "url": "https://api.github.com/repos/prometheus/alertmanager/git/commits/230a80a08942c78e1213e69959d571c292473bde"
+  },
+  "tag": "v0.4.1",
+  "message": "v0.4.1 / 2016-08-31\n\n- [BUGFIX] Wait for silence query to finish instead of showing error\n- [BUGFIX] Fix sorting of silences\n- [BUGFIX] Provide visual feedback after creating a silence\n- [BUGFIX] Fix styling of silences\n- [ENHANCEMENT] Provide cleaner API silence interface\n-----BEGIN PGP SIGNATURE-----\n\niQIuBAABCAAYBQJXx1loERx0b2JpZHRAZ21haWwuY29tAAoJEDLBouGFJ7xGlqIQ\nAOKUBrxNkHQUTP1v92GB2URsoomaLfzCRF/tICphK8MAwPKjSYpC1TASGx9bM/A1\nB+NA2rPfD8eD4RkvJFR53sRVQyZ2v1urG0iZkZJC+ChFyg9EnLoe/KehSPz2emUd\n+n6lvvmxS7CvDwPDm0bClrnUsfTOpCBOtjPm5yph8hIs4bVFe1t6FMC5syXVQRMj\nrwdv+vzi5c5UKfWz3VEa/peo3s0y1oevK6HglII0rEzcuinkiCc4CbyP+PuvxH63\noFjh10jVo8RsLwtvXeYl5S3DVyjMcDbdhuihiQUHw7Pz1jzonLkm15oUUtx7u18/\nZwvrDuqYBRztcDRbOdm+083zCR3GO1SxI9Sq0N4K0nsY9CHbHE/wD9ToVAvsPWMq\nO8c/2jC0kbpkzXvePgUlWRo6jD5UwppIvAAMhaTKF3nouAx9Huvlr7JyJDhk9bZq\ntPyc9Fx+raaZxtdyQ/sRTN6/7GBFKuHWAacM65M805L/Nku6HyJ71+2I2cCgdeAa\nyKyTAdtrz/GRWNdr0cKjnJG7UG4edQ6Mv48jijdldzPNMQ9u+gY5oU00N5ackZfN\nvt+6AKZQTkzVwgUTVm44olLEJhVlCh1rxo2o37lBX58dlclGN7MOxARPO2ADqwdy\nw1VtLChf8HQeEuK97oia2uqJfggRZ25/kxGPYGTVh6Vz\n=VFYF\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIuBAABCAAYBQJXx1loERx0b2JpZHRAZ21haWwuY29tAAoJEDLBouGFJ7xGlqIQ\nAOKUBrxNkHQUTP1v92GB2URsoomaLfzCRF/tICphK8MAwPKjSYpC1TASGx9bM/A1\nB+NA2rPfD8eD4RkvJFR53sRVQyZ2v1urG0iZkZJC+ChFyg9EnLoe/KehSPz2emUd\n+n6lvvmxS7CvDwPDm0bClrnUsfTOpCBOtjPm5yph8hIs4bVFe1t6FMC5syXVQRMj\nrwdv+vzi5c5UKfWz3VEa/peo3s0y1oevK6HglII0rEzcuinkiCc4CbyP+PuvxH63\noFjh10jVo8RsLwtvXeYl5S3DVyjMcDbdhuihiQUHw7Pz1jzonLkm15oUUtx7u18/\nZwvrDuqYBRztcDRbOdm+083zCR3GO1SxI9Sq0N4K0nsY9CHbHE/wD9ToVAvsPWMq\nO8c/2jC0kbpkzXvePgUlWRo6jD5UwppIvAAMhaTKF3nouAx9Huvlr7JyJDhk9bZq\ntPyc9Fx+raaZxtdyQ/sRTN6/7GBFKuHWAacM65M805L/Nku6HyJ71+2I2cCgdeAa\nyKyTAdtrz/GRWNdr0cKjnJG7UG4edQ6Mv48jijdldzPNMQ9u+gY5oU00N5ackZfN\nvt+6AKZQTkzVwgUTVm44olLEJhVlCh1rxo2o37lBX58dlclGN7MOxARPO2ADqwdy\nw1VtLChf8HQeEuK97oia2uqJfggRZ25/kxGPYGTVh6Vz\n=VFYF\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 230a80a08942c78e1213e69959d571c292473bde\ntype commit\ntag v0.4.1\ntagger Tobias Schmidt <tobidt@gmail.com> 1472682329 -0400\n\nv0.4.1 / 2016-08-31\n\n- [BUGFIX] Wait for silence query to finish instead of showing error\n- [BUGFIX] Fix sorting of silences\n- [BUGFIX] Provide visual feedback after creating a silence\n- [BUGFIX] Fix styling of silences\n- [ENHANCEMENT] Provide cleaner API silence interface\n"
+  }
+}

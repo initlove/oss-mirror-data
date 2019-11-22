@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6M2YyYTUxZjkwMzgyNjMyMDE0ZGJkNjEyNzEwNmMxNjkxYmMxZmRhMA==",
+  "sha": "3f2a51f90382632014dbd6127106c1691bc1fda0",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/3f2a51f90382632014dbd6127106c1691bc1fda0",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2018-06-18T20:59:23Z"
+  },
+  "object": {
+    "sha": "f1e00ea9dd8a58dbfc5f10d37e0153f96f49785d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/f1e00ea9dd8a58dbfc5f10d37e0153f96f49785d"
+  },
+  "tag": "libmodulemd-1.5.0",
+  "message": "Release libmodulemd 1.5.0\n\nNils Philippsen (3):\n      clarify license blurbs\n      add missing license blurb\n      error handling: first set result, then bail out\n\nPetr Šabata (1):\n      Specification: Allow overriding the default component whitelist\n\nStephen Gallagher (31):\n      Fix memory issue with default profiles\n      Fix minor formatting issue\n      Run all tests in debug and release configuration\n      Add Intent object\n      Add Intents to Defaults\n      Add YAML parser for intents\n      Add YAML emitter for intents\n      Auto cleanup YAML events\n      Properly clean up intent object\n      Clean up a memory leak\n      Drop unused content from mod-defaults\n      Run autopep8 on python tests\n      Fix formatting issues with YAML parsing\n      Automatically reformat code during `ninja test`\n      Update Travis with new build requirements\n      Merge pull request #63 from nphilipp/master--license-blurbs\n      Improve defaults merging tests\n      Autoformat test files\n      tests: reject PR if autoformat makes changes\n      Add method to get libmodulemd version\n      Copy intents when copying defaults\n      Add merging logic for Intents\n      Add Buildopts object\n      Add Buildopts.copy()\n      Update Modulemd.Module to use Modulemd.Buildopts\n      Add SimpleSet routines for Buildopts RPM whitelist\n      Switch python test to non-deprecated routines\n      Add Buildopts YAML parser\n      Add emitter for Modulemd.Buildopts\n      Clean up Modulemd.Module property memory\n      Use more reliable property methods in Buildopt tests\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWygdNgAKCRB6JVViNrqj\noxRkAKCZi+Dsam7C+NmNSnJ8Xiz6iQS/3QCeIjcqjUBWvNkH8EkYsYSAspXTErw=\n=KGJ/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCWygdNgAKCRB6JVViNrqj\noxRkAKCZi+Dsam7C+NmNSnJ8Xiz6iQS/3QCeIjcqjUBWvNkH8EkYsYSAspXTErw=\n=KGJ/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f1e00ea9dd8a58dbfc5f10d37e0153f96f49785d\ntype commit\ntag libmodulemd-1.5.0\ntagger Stephen Gallagher <sgallagh@redhat.com> 1529355563 -0400\n\nRelease libmodulemd 1.5.0\n\nNils Philippsen (3):\n      clarify license blurbs\n      add missing license blurb\n      error handling: first set result, then bail out\n\nPetr Šabata (1):\n      Specification: Allow overriding the default component whitelist\n\nStephen Gallagher (31):\n      Fix memory issue with default profiles\n      Fix minor formatting issue\n      Run all tests in debug and release configuration\n      Add Intent object\n      Add Intents to Defaults\n      Add YAML parser for intents\n      Add YAML emitter for intents\n      Auto cleanup YAML events\n      Properly clean up intent object\n      Clean up a memory leak\n      Drop unused content from mod-defaults\n      Run autopep8 on python tests\n      Fix formatting issues with YAML parsing\n      Automatically reformat code during `ninja test`\n      Update Travis with new build requirements\n      Merge pull request #63 from nphilipp/master--license-blurbs\n      Improve defaults merging tests\n      Autoformat test files\n      tests: reject PR if autoformat makes changes\n      Add method to get libmodulemd version\n      Copy intents when copying defaults\n      Add merging logic for Intents\n      Add Buildopts object\n      Add Buildopts.copy()\n      Update Modulemd.Module to use Modulemd.Buildopts\n      Add SimpleSet routines for Buildopts RPM whitelist\n      Switch python test to non-deprecated routines\n      Add Buildopts YAML parser\n      Add emitter for Modulemd.Buildopts\n      Clean up Modulemd.Module property memory\n      Use more reliable property methods in Buildopt tests\n"
+  }
+}

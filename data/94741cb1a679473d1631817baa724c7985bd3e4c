@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6OTQ3NDFjYjFhNjc5NDczZDE2MzE4MTdiYWE3MjRjNzk4NWJkM2U0Yw==",
+  "sha": "94741cb1a679473d1631817baa724c7985bd3e4c",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/94741cb1a679473d1631817baa724c7985bd3e4c",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2019-10-15T18:03:02Z"
+  },
+  "object": {
+    "sha": "d0dcf7b373b3cf85cd39eb3bc23d31e06195a75a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/d0dcf7b373b3cf85cd39eb3bc23d31e06195a75a"
+  },
+  "tag": "libmodulemd-1.8.16",
+  "message": "Tagging libmodulemd 1.8.6\n\nStephen Gallagher (5):\n      Update .gitignore file\n      Update doc link\n      Make doc-build configurable\n      Bump version to 1.8.16dev\n      Rework defaults merging logic\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXaYJ3AAKCRB6JVViNrqj\no9hXAKCYtonaAb+aaiGmdRjqX4cewXEPdwCgoIPcm1/SJ+oSp6vH3c2jZVS6+Io=\n=zbq9\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXaYJ3AAKCRB6JVViNrqj\no9hXAKCYtonaAb+aaiGmdRjqX4cewXEPdwCgoIPcm1/SJ+oSp6vH3c2jZVS6+Io=\n=zbq9\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d0dcf7b373b3cf85cd39eb3bc23d31e06195a75a\ntype commit\ntag libmodulemd-1.8.16\ntagger Stephen Gallagher <sgallagh@redhat.com> 1571162582 -0400\n\nTagging libmodulemd 1.8.6\n\nStephen Gallagher (5):\n      Update .gitignore file\n      Update doc link\n      Make doc-build configurable\n      Bump version to 1.8.16dev\n      Rework defaults merging logic\n"
+  }
+}

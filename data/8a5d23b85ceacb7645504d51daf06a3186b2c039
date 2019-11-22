@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjo4YTVkMjNiODVjZWFjYjc2NDU1MDRkNTFkYWYwNmEzMTg2YjJjMDM5",
+  "sha": "8a5d23b85ceacb7645504d51daf06a3186b2c039",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/8a5d23b85ceacb7645504d51daf06a3186b2c039",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2016-09-09T02:51:07Z"
+  },
+  "object": {
+    "sha": "26382a72ea234ee0efd40543c8ae4a30cffc4f0d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/26382a72ea234ee0efd40543c8ae4a30cffc4f0d"
+  },
+  "tag": "v1.5.3",
+  "message": "REL: v1.5.3\n\nThis release contains a few critical bug fixes:\n\n - eliminate fatal exceptions with Qt5.7\n - memory leak in the contour code\n - keyboard interaction bug with nbagg\n - automatic integration with the ipython event loop (if running) which\n   fixes 'naive' integration for IPython 5+\n-----BEGIN PGP SIGNATURE-----\n\niQEwBAABCAAaBQJX0iOdExx0Y2Fzd2VsbEBnbWFpbC5jb20ACgkQV/pFQN1O/Pcr\nEwgAroCLJyJXH6YIQb4K9Y19RuAVxaIDPuoxoQ06/PhOT7fPVHkELZQcZY4RrcLJ\n0w40NeAFQqsj52ra7mKm1Y6nuuB/6FHxtZfXuWMnikJg8/16Akask8bunlBwUnmV\nr4s/ssKvZy/Oej51ToPSjYESQLUeAXkAC8H+FtZ/v+yYj9iinVadeyPuMkDE1UsJ\n5DMzvI94MhkmUL7jgnJnaumOQlIgQ2o34SDV284JznCsN6EBDkdnpAI2HvTO1vNW\nRdwwEg7sJHYsmWc9VOI2u313Hm7rEUyNMYREfZs4LXbVs8nb0jQHumJjdDtuOjIy\nqX4ChFQfTaTvgI2xv0XlhocriA==\n=M1en\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEwBAABCAAaBQJX0iOdExx0Y2Fzd2VsbEBnbWFpbC5jb20ACgkQV/pFQN1O/Pcr\nEwgAroCLJyJXH6YIQb4K9Y19RuAVxaIDPuoxoQ06/PhOT7fPVHkELZQcZY4RrcLJ\n0w40NeAFQqsj52ra7mKm1Y6nuuB/6FHxtZfXuWMnikJg8/16Akask8bunlBwUnmV\nr4s/ssKvZy/Oej51ToPSjYESQLUeAXkAC8H+FtZ/v+yYj9iinVadeyPuMkDE1UsJ\n5DMzvI94MhkmUL7jgnJnaumOQlIgQ2o34SDV284JznCsN6EBDkdnpAI2HvTO1vNW\nRdwwEg7sJHYsmWc9VOI2u313Hm7rEUyNMYREfZs4LXbVs8nb0jQHumJjdDtuOjIy\nqX4ChFQfTaTvgI2xv0XlhocriA==\n=M1en\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 26382a72ea234ee0efd40543c8ae4a30cffc4f0d\ntype commit\ntag v1.5.3\ntagger Thomas A Caswell <tcaswell@gmail.com> 1473389467 -0400\n\nREL: v1.5.3\n\nThis release contains a few critical bug fixes:\n\n - eliminate fatal exceptions with Qt5.7\n - memory leak in the contour code\n - keyboard interaction bug with nbagg\n - automatic integration with the ipython event loop (if running) which\n   fixes 'naive' integration for IPython 5+\n"
+  }
+}

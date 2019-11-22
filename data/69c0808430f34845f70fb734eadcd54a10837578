@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTg5NDk2Mjo2OWMwODA4NDMwZjM0ODQ1ZjcwZmI3MzRlYWRjZDU0YTEwODM3NTc4",
+  "sha": "69c0808430f34845f70fb734eadcd54a10837578",
+  "url": "https://api.github.com/repos/h5py/h5py/git/tags/69c0808430f34845f70fb734eadcd54a10837578",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@bnl.gov",
+    "date": "2018-12-20T03:01:51Z"
+  },
+  "object": {
+    "sha": "8d96a14c3508de1bde77aec5db302e478dc5dbc4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/h5py/h5py/git/commits/8d96a14c3508de1bde77aec5db302e478dc5dbc4"
+  },
+  "tag": "2.9.0",
+  "message": "REL: 2.9.0\n\nThis is the first release of the h5py 2.9 series\n\nThis release support Python 2.7 and Python 3.4-3.7\n\nFeatures:\n - Convenient high-level API for creating virtual datasets\n - Construct an h5py.File from a python file-like object\n - File now takes parameters for controlling the chunk cache\n - Option to preserve insertion order of attribute and group entries\n - Can now create datasets backed by external non-HDF5 files\n - List and tuples of rriunicode strings can be stored as HDF5 attributes\n\nBug fixes:\n - Fix reading/writing of float128 data\n - Fix converting data to float16 when creating a dataset\n\nSupport for old Python\n - Drops support for Python 3.3\n - Drops support for Python 2.6\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEsYc9tVVEbczMtz/cvNkoBQ1xPXUFAlwbBiwACgkQvNkoBQ1x\nPXVAOA//cyG87HMBKOePFt2DaK0WdgwzeUk0Aba5WooTfr4m35qL+wJwkMjDBk6u\nLg+gdKKfSYEpwwktGRLtP+GcerAQg5Ai04JWlP6KJSD5a8V4R5XWnEghmhcUbX4x\nF0O2azN36IpF+Wml7vWjvObNEyXKsxXV3ankN8fBD0VvFU6a1kmHO3ulS9BKJ21m\nhfUMP+CDz9NZjdUftHOt8+JRSQxt5x+LG6/SwafgQMufTmsogrnmAtG5HECFOSMl\nlF74+z1XHyOI9ziFwF3okvIm6ZVrciRaDncXMR05iXg9OAALZ6WoUPj7JQuMArwU\nF9BjA6WKhuJuTzFTfvKwJB0OIfxUpibYMlpMlc1pBMnzY+OFnGt0KC5Viw5vKvMt\n+9Xs0FoPE7jO6PKxuO/SG9f4ooq2ttZgc1ujhnlHwz+rJ4L5DvW3AX07mKDISjLr\nu5/KyO2s2+zndTt8D0FicirFLrGAWiSNPzofhgUXNO5eMv+UiWoMVYtr7DrN/dd0\nfhKTEKiXBYJK8+9Bge4sI7m0mm6JQPPG6ocXKyYMDwFLRO5Sw/a7EOkoGwWNwXH/\n62dXfqNVTs97Yuc7w5MB3tqMvg5XNkTXrVUosfRvwXFX2cnvrNBpHAeZVFdMbsTd\n0FSuZI1gE+6iVIxYd509Wl94N82jRugSq4xgxfbADT7YwaqZbU0=\n=rkUl\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEsYc9tVVEbczMtz/cvNkoBQ1xPXUFAlwbBiwACgkQvNkoBQ1x\nPXVAOA//cyG87HMBKOePFt2DaK0WdgwzeUk0Aba5WooTfr4m35qL+wJwkMjDBk6u\nLg+gdKKfSYEpwwktGRLtP+GcerAQg5Ai04JWlP6KJSD5a8V4R5XWnEghmhcUbX4x\nF0O2azN36IpF+Wml7vWjvObNEyXKsxXV3ankN8fBD0VvFU6a1kmHO3ulS9BKJ21m\nhfUMP+CDz9NZjdUftHOt8+JRSQxt5x+LG6/SwafgQMufTmsogrnmAtG5HECFOSMl\nlF74+z1XHyOI9ziFwF3okvIm6ZVrciRaDncXMR05iXg9OAALZ6WoUPj7JQuMArwU\nF9BjA6WKhuJuTzFTfvKwJB0OIfxUpibYMlpMlc1pBMnzY+OFnGt0KC5Viw5vKvMt\n+9Xs0FoPE7jO6PKxuO/SG9f4ooq2ttZgc1ujhnlHwz+rJ4L5DvW3AX07mKDISjLr\nu5/KyO2s2+zndTt8D0FicirFLrGAWiSNPzofhgUXNO5eMv+UiWoMVYtr7DrN/dd0\nfhKTEKiXBYJK8+9Bge4sI7m0mm6JQPPG6ocXKyYMDwFLRO5Sw/a7EOkoGwWNwXH/\n62dXfqNVTs97Yuc7w5MB3tqMvg5XNkTXrVUosfRvwXFX2cnvrNBpHAeZVFdMbsTd\n0FSuZI1gE+6iVIxYd509Wl94N82jRugSq4xgxfbADT7YwaqZbU0=\n=rkUl\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8d96a14c3508de1bde77aec5db302e478dc5dbc4\ntype commit\ntag 2.9.0\ntagger Thomas A Caswell <tcaswell@bnl.gov> 1545274911 -0500\n\nREL: 2.9.0\n\nThis is the first release of the h5py 2.9 series\n\nThis release support Python 2.7 and Python 3.4-3.7\n\nFeatures:\n - Convenient high-level API for creating virtual datasets\n - Construct an h5py.File from a python file-like object\n - File now takes parameters for controlling the chunk cache\n - Option to preserve insertion order of attribute and group entries\n - Can now create datasets backed by external non-HDF5 files\n - List and tuples of rriunicode strings can be stored as HDF5 attributes\n\nBug fixes:\n - Fix reading/writing of float128 data\n - Fix converting data to float16 when creating a dataset\n\nSupport for old Python\n - Drops support for Python 3.3\n - Drops support for Python 2.6\n"
+  }
+}

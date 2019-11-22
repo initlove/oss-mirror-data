@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6YTc3MTk5MzdjNDhlOTNjMjBmOGI4M2NmNmU0OGYxYTg3MmYwNTVjMw==",
+  "sha": "a7719937c48e93c20f8b83cf6e48f1a872f055c3",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/a7719937c48e93c20f8b83cf6e48f1a872f055c3",
+  "tagger": {
+    "name": "Lunny Xiao",
+    "email": "xiaolunwen@gmail.com",
+    "date": "2017-12-09T15:05:06Z"
+  },
+  "object": {
+    "sha": "81fd8c8fb686621acfdd91a73ade75b44030ce18",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/81fd8c8fb686621acfdd91a73ade75b44030ce18"
+  },
+  "tag": "v1.3.1",
+  "message": "* BUGFIXES\n  * Sanitize logs for mirror sync (#3057, #3082) (#3078)\n  * Fix missing branch in release bug (#3108) (#3117)\n  * Fix repo indexer and submodule bug (#3107) (#3110)\n  * Fix legacy URL redirects (#3100) (#3106)\n  * Fix redis session failed (#3086) (#3089)\n  * Fix issue list branch link broken (#3061) (#3070)\n  * Fix missing password length check when change password (#3039) (#3071)\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEumb2f9c/cFjXEtMIw7fJG2Mvc4oFAlor+6IACgkQw7fJG2Mv\nc4qQig/9GkVq7V5XBHoeMFlPzvubQeyMbG0QYf3qF16/hvr8P7MR4Xj1wUhe9YVm\nUySRiYPIVRKJcI3Itfq0+RTKtrMZIp14eLHswSkd9eQH6QXYGZz128aOReFJbXhu\nu2BEuzLORBky0EnGpK6SwcrJ/HdWhmONw+Lwo9+tCrp3WwegSemnE/J7Fm8UvUUC\n+qTS2QoG2CA+S9oIKQi6LWTPfjJvCVAnlvYlpLVyQf0KmIkp/1U0GHSZPUOdFswt\naxYXFLbvHC87ARLfomE2LQPWj75uOQSGg5gJUB+sl2jwdfNiuyK78OS0WCGxdBi9\nh7d2nWHDk1W0WXjBg7nrxxNYSo/zi+eAWVENvViopLLXt8LDnWUYc5v662BwM7Dk\ned8tprAHsyXkZNAjKHA8u/SY+sHgrXPOT9hJ3WCeZh6vXtotSuWFKmNRD3XGyQvC\nkEcQBwn1fMEfJOwfhRuzIpZC06DnAIB5sL8PrA6XLzJA2jsrnFj6dwLTx+fj5kQo\nx1qwBBYMoXWquIrRe4KkwRk+qYo4QxFByamefNzbcvDIoPvLdIHN4W5NyMgghs0k\n6Ka6lxBrZ6ivVJUdCm6dFmcA070yAJG8tjoypVG26kyTOWlLojL/fWkWy+wpamjl\naPYMniZb3QWK2C3g3izZ/hnTgd2cN2NDa8s8Uwnkhm1rgHndrfc=\n=38oq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEumb2f9c/cFjXEtMIw7fJG2Mvc4oFAlor+6IACgkQw7fJG2Mv\nc4qQig/9GkVq7V5XBHoeMFlPzvubQeyMbG0QYf3qF16/hvr8P7MR4Xj1wUhe9YVm\nUySRiYPIVRKJcI3Itfq0+RTKtrMZIp14eLHswSkd9eQH6QXYGZz128aOReFJbXhu\nu2BEuzLORBky0EnGpK6SwcrJ/HdWhmONw+Lwo9+tCrp3WwegSemnE/J7Fm8UvUUC\n+qTS2QoG2CA+S9oIKQi6LWTPfjJvCVAnlvYlpLVyQf0KmIkp/1U0GHSZPUOdFswt\naxYXFLbvHC87ARLfomE2LQPWj75uOQSGg5gJUB+sl2jwdfNiuyK78OS0WCGxdBi9\nh7d2nWHDk1W0WXjBg7nrxxNYSo/zi+eAWVENvViopLLXt8LDnWUYc5v662BwM7Dk\ned8tprAHsyXkZNAjKHA8u/SY+sHgrXPOT9hJ3WCeZh6vXtotSuWFKmNRD3XGyQvC\nkEcQBwn1fMEfJOwfhRuzIpZC06DnAIB5sL8PrA6XLzJA2jsrnFj6dwLTx+fj5kQo\nx1qwBBYMoXWquIrRe4KkwRk+qYo4QxFByamefNzbcvDIoPvLdIHN4W5NyMgghs0k\n6Ka6lxBrZ6ivVJUdCm6dFmcA070yAJG8tjoypVG26kyTOWlLojL/fWkWy+wpamjl\naPYMniZb3QWK2C3g3izZ/hnTgd2cN2NDa8s8Uwnkhm1rgHndrfc=\n=38oq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 81fd8c8fb686621acfdd91a73ade75b44030ce18\ntype commit\ntag v1.3.1\ntagger Lunny Xiao <xiaolunwen@gmail.com> 1512831906 +0800\n\n* BUGFIXES\n  * Sanitize logs for mirror sync (#3057, #3082) (#3078)\n  * Fix missing branch in release bug (#3108) (#3117)\n  * Fix repo indexer and submodule bug (#3107) (#3110)\n  * Fix legacy URL redirects (#3100) (#3106)\n  * Fix redis session failed (#3086) (#3089)\n  * Fix issue list branch link broken (#3061) (#3070)\n  * Fix missing password length check when change password (#3039) (#3071)\n"
+  }
+}

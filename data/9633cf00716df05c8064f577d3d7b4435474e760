@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDczOTk2Ojk2MzNjZjAwNzE2ZGYwNWM4MDY0ZjU3N2QzZDdiNDQzNTQ3NGU3NjA=",
+  "sha": "9633cf00716df05c8064f577d3d7b4435474e760",
+  "url": "https://api.github.com/repos/saces/KeyUtils-attic/git/tags/9633cf00716df05c8064f577d3d7b4435474e760",
+  "tagger": {
+    "name": "saces",
+    "email": "saces@freenetproject.org",
+    "date": "2011-08-02T15:51:18Z"
+  },
+  "object": {
+    "sha": "6fea976a56fded81799a5a27d45d581b68dc7c0e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/saces/KeyUtils-attic/git/commits/6fea976a56fded81799a5a27d45d581b68dc7c0e"
+  },
+  "tag": "v5010",
+  "message": "    KeyUtils 0.5.1/5010\n\n    - The node offers now an 'Explore' and 'Open as site' link on 'Not In Archive' errors.\n    - implement FredPluginConfigurable and FredPluginBaseL10n (config and translation framework).\n    - FCP fix: return identifier in error message\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2.0.17 (GNU/Linux)\n\niQIcBAABAgAGBQJOOB0AAAoJEFfUJFNujT1LaSEP/1oMJzOsrtjvMaE+EyYcHL8g\nQJralmQf4f90SGaf/vi9Ywrx+nll1LRokej0k7mnP3wEDQObLKKc2sn/FuY9VtT+\nFQH3BPZf4WGymr3wTasQ8mfTtf6ABBwzYZ1TQpW+BJK5o14GlzYJEEXv39y+RuO3\nEkPHdvGsqIaOlA+JOBFbKgnvBu0w3yIAbuAGdYNyBkw+xqJvNGIDajIdXSlEv00I\nGOA/yUKp0uPamPnMGHqetPQsbk3+B/3pRNj8w0xQmqxRV6ASySAA/h58oGwBVPGX\nPOSLqwEwjreyu0t49Xit/p8WC1afDWFYuLXDbn71JM4ExrxhbchxmeqSigs38yaZ\nGKxeY87xmB+1aX268k4sNg9kwNiyCowHynxIPpL75WLQ7Hvkv0Ys/RQD5c9TWr8/\ntFLb4Nq5wBBtZCFhNH/qYrruxwDN93bg+gWcJXIvuWz7LbymxUYgxDxbA76JKOe8\nOxT3M/VLMjA8+AKtYd/eDUPXEMe7TIHyyOXrbGdQPLilTDdJ7RfUzdQmvoyila06\n29K5nY6pXnmJyF5cVueBlycs2UIaqX2j5SsNpjBXhxH6ZiUXDKONn0rbzSp7iK3O\nmNLEB25Ow8XZhTWqEbdSYauQueTb6t9tdzUmPEpEjQivoq4Fh+Wo5AJaTktMJ1S1\nOh4Cr9VpiFDNZd2qKMO0\n=fgN7\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2.0.17 (GNU/Linux)\n\niQIcBAABAgAGBQJOOB0AAAoJEFfUJFNujT1LaSEP/1oMJzOsrtjvMaE+EyYcHL8g\nQJralmQf4f90SGaf/vi9Ywrx+nll1LRokej0k7mnP3wEDQObLKKc2sn/FuY9VtT+\nFQH3BPZf4WGymr3wTasQ8mfTtf6ABBwzYZ1TQpW+BJK5o14GlzYJEEXv39y+RuO3\nEkPHdvGsqIaOlA+JOBFbKgnvBu0w3yIAbuAGdYNyBkw+xqJvNGIDajIdXSlEv00I\nGOA/yUKp0uPamPnMGHqetPQsbk3+B/3pRNj8w0xQmqxRV6ASySAA/h58oGwBVPGX\nPOSLqwEwjreyu0t49Xit/p8WC1afDWFYuLXDbn71JM4ExrxhbchxmeqSigs38yaZ\nGKxeY87xmB+1aX268k4sNg9kwNiyCowHynxIPpL75WLQ7Hvkv0Ys/RQD5c9TWr8/\ntFLb4Nq5wBBtZCFhNH/qYrruxwDN93bg+gWcJXIvuWz7LbymxUYgxDxbA76JKOe8\nOxT3M/VLMjA8+AKtYd/eDUPXEMe7TIHyyOXrbGdQPLilTDdJ7RfUzdQmvoyila06\n29K5nY6pXnmJyF5cVueBlycs2UIaqX2j5SsNpjBXhxH6ZiUXDKONn0rbzSp7iK3O\nmNLEB25Ow8XZhTWqEbdSYauQueTb6t9tdzUmPEpEjQivoq4Fh+Wo5AJaTktMJ1S1\nOh4Cr9VpiFDNZd2qKMO0\n=fgN7\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6fea976a56fded81799a5a27d45d581b68dc7c0e\ntype commit\ntag v5010\ntagger saces <saces@freenetproject.org> 1312300278 +0200\n\n    KeyUtils 0.5.1/5010\n\n    - The node offers now an 'Explore' and 'Open as site' link on 'Not In Archive' errors.\n    - implement FredPluginConfigurable and FredPluginBaseL10n (config and translation framework).\n    - FCP fix: return identifier in error message\n"
+  }
+}

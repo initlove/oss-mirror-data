@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjpmNDczYmE0Y2QyNWQ3YjMyN2FhNjNkNGJkZDRkOGZkNmZjODcxOGU3",
+  "sha": "f473ba4cd25d7b327aa63d4bdd4d8fd6fc8718e7",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/f473ba4cd25d7b327aa63d4bdd4d8fd6fc8718e7",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2019-02-26T02:49:56Z"
+  },
+  "object": {
+    "sha": "bff1e4b201baf34df3f3a6fbb408f0e2c1068dd9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/bff1e4b201baf34df3f3a6fbb408f0e2c1068dd9"
+  },
+  "tag": "v2.2.4",
+  "message": "REL: v2.2.4 LTS\n\nThe forth bug-fix release of the v2.2 LTS series.\n\n - Fix a memory leak with PySide2.\n - rename :math: sphinx directive to :mathmpl: to work with sphinx >\n   1.8. Both versions are now available if sphinx < 1.8.\n - avoids numpy deprecation warnings.\n - fixes to tests to work with pytest >= 3.8 and the minimum is now\n   pytest >= 3.6.\n\njquery-ui is no longer bundled in git repo and is downloaded during\nthe install or sdist process. If you are installing from pypi the\nfiles will be included, but if you are installing from git you will\nneed internet access the first time you run pip install .. The\ninstall process tries to cache the files and will not need internet\naccess on future installations.\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEsYc9tVVEbczMtz/cvNkoBQ1xPXUFAlx0qVcACgkQvNkoBQ1x\nPXVeZxAAqPdSX48h9o0ff6/UYwVRHQJJVWjtbBUlbWu9gGpjEzLl4+sUAk/Kye75\nDUX3i665GFyNJMMQSVntenFasA3sKBxd+1qtjwDu9RIgscH+KPH2/CDe4QgD91PN\nRslpvITm9ZX4frdWS8mbu7T/U5ucbHouyz0o3MkBRW2vKg9ZkDbjlf9Izq0MKTg3\nlmgXvTNkMnn7GRlLzvhx2CQTEFEMjmsNY7XyHocWZqYE+oMyw/n/PLFSOGnPhXS8\nrkH83r71+pLIdGVJNsLoEa3E70TFH0+Y+9Qc4/nodGEqI1UWHqZhmonw9tdtRWfZ\nrJmIqkVnaYBdfBrprBeYb1VYh1gWMDjq51YurzzU+0hF6312AuXyU3vyD25P47A0\n11BNpf4S0bf63b2IwV80u+3fp4toPUK97ZD2OqkYmxPxH5s93tTKLycsCwqieXiU\n2nN9ldVW35rAARDHmZUP35aq14hrVJ6U8xDKN58w6CciHas15jGJJ/9J1ij0koT1\nQ5AiS9uaKmpyNf/3Rxd2ODysHCCZqjur0EHBgkvEB/3VHbFXohs1EUfLNh/Vjt7+\n3FJZxVUzdgFN+iH/maMBQ8RDTVla0C2gjI5WqVgj+z+kARvvr5Om5BN5hJq+KL1K\npLT+rKw+/KePrACWLsHy0a141eaI75v/0hLjLvl8BFDl7PNa2Nk=\n=shu1\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEsYc9tVVEbczMtz/cvNkoBQ1xPXUFAlx0qVcACgkQvNkoBQ1x\nPXVeZxAAqPdSX48h9o0ff6/UYwVRHQJJVWjtbBUlbWu9gGpjEzLl4+sUAk/Kye75\nDUX3i665GFyNJMMQSVntenFasA3sKBxd+1qtjwDu9RIgscH+KPH2/CDe4QgD91PN\nRslpvITm9ZX4frdWS8mbu7T/U5ucbHouyz0o3MkBRW2vKg9ZkDbjlf9Izq0MKTg3\nlmgXvTNkMnn7GRlLzvhx2CQTEFEMjmsNY7XyHocWZqYE+oMyw/n/PLFSOGnPhXS8\nrkH83r71+pLIdGVJNsLoEa3E70TFH0+Y+9Qc4/nodGEqI1UWHqZhmonw9tdtRWfZ\nrJmIqkVnaYBdfBrprBeYb1VYh1gWMDjq51YurzzU+0hF6312AuXyU3vyD25P47A0\n11BNpf4S0bf63b2IwV80u+3fp4toPUK97ZD2OqkYmxPxH5s93tTKLycsCwqieXiU\n2nN9ldVW35rAARDHmZUP35aq14hrVJ6U8xDKN58w6CciHas15jGJJ/9J1ij0koT1\nQ5AiS9uaKmpyNf/3Rxd2ODysHCCZqjur0EHBgkvEB/3VHbFXohs1EUfLNh/Vjt7+\n3FJZxVUzdgFN+iH/maMBQ8RDTVla0C2gjI5WqVgj+z+kARvvr5Om5BN5hJq+KL1K\npLT+rKw+/KePrACWLsHy0a141eaI75v/0hLjLvl8BFDl7PNa2Nk=\n=shu1\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bff1e4b201baf34df3f3a6fbb408f0e2c1068dd9\ntype commit\ntag v2.2.4\ntagger Thomas A Caswell <tcaswell@gmail.com> 1551149396 -0500\n\nREL: v2.2.4 LTS\n\nThe forth bug-fix release of the v2.2 LTS series.\n\n - Fix a memory leak with PySide2.\n - rename :math: sphinx directive to :mathmpl: to work with sphinx >\n   1.8. Both versions are now available if sphinx < 1.8.\n - avoids numpy deprecation warnings.\n - fixes to tests to work with pytest >= 3.8 and the minimum is now\n   pytest >= 3.6.\n\njquery-ui is no longer bundled in git repo and is downloaded during\nthe install or sdist process. If you are installing from pypi the\nfiles will be included, but if you are installing from git you will\nneed internet access the first time you run pip install .. The\ninstall process tries to cache the files and will not need internet\naccess on future installations.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6YTE4MzY1NTdiZjQyZThkMzQwYTNjODEwYzJhMGYwMjM4YjYyMzVlNA==",
+  "sha": "a1836557bf42e8d340a3c810c2a0f0238b6235e4",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/a1836557bf42e8d340a3c810c2a0f0238b6235e4",
+  "tagger": {
+    "name": "Matti Ranta",
+    "email": "matti@mdranta.net",
+    "date": "2019-03-27T19:09:20Z"
+  },
+  "object": {
+    "sha": "84a5b81d2745efba9cca23f8c2ca05441d8b436a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/84a5b81d2745efba9cca23f8c2ca05441d8b436a"
+  },
+  "tag": "v1.7.5",
+  "message": "* BUGFIXES\n  * Fix unitTypeCode not being used in accessLevelUnit (#6419) (#6423)\n  * Fix bug where manifest.json was being requested without cookies and continuously creating new sessions (#6372) (#6383)·\n  * Fix ParsePatch function to work with quoted diff --git strings (#6323) (#6332)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlybymAACgkQ2bVhO+uB\nP5kHHwf+JHtVevKMj+wvx5IKQEckDEXOFT9RDg5cKu3bKnXH3Hr8TSIf3aXEMfkD\ncQ/SmBnDyak16pWWh1gqtC2SWQhkYiwAWDxRAVZ51L+0QAzy0RKaux5xH96nj3Lg\nZy8nWJfO88bc+SGt1wrXEFd1cxJjKf+xA3fWjIPse9B6K8O5gN5wPzXjjhD1Bswe\nKP/1LxjWAxIxItZPlwnbmxeFNYm4VQ7sY+y5xwawIlVODWXJeQoVbYHq/0dCKaip\nCw/UA512hGNPFdnxZ+7qaCPLbe7mWsM4klVkj0vgkUyw1FSuUjL2oqAa+PD7rYji\nWTm/lgJ5fZjjjooS29VY3Gg6YKI4CA==\n=4qaH\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlybymAACgkQ2bVhO+uB\nP5kHHwf+JHtVevKMj+wvx5IKQEckDEXOFT9RDg5cKu3bKnXH3Hr8TSIf3aXEMfkD\ncQ/SmBnDyak16pWWh1gqtC2SWQhkYiwAWDxRAVZ51L+0QAzy0RKaux5xH96nj3Lg\nZy8nWJfO88bc+SGt1wrXEFd1cxJjKf+xA3fWjIPse9B6K8O5gN5wPzXjjhD1Bswe\nKP/1LxjWAxIxItZPlwnbmxeFNYm4VQ7sY+y5xwawIlVODWXJeQoVbYHq/0dCKaip\nCw/UA512hGNPFdnxZ+7qaCPLbe7mWsM4klVkj0vgkUyw1FSuUjL2oqAa+PD7rYji\nWTm/lgJ5fZjjjooS29VY3Gg6YKI4CA==\n=4qaH\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 84a5b81d2745efba9cca23f8c2ca05441d8b436a\ntype commit\ntag v1.7.5\ntagger Matti Ranta <matti@mdranta.net> 1553713760 -0400\n\n* BUGFIXES\n  * Fix unitTypeCode not being used in accessLevelUnit (#6419) (#6423)\n  * Fix bug where manifest.json was being requested without cookies and continuously creating new sessions (#6372) (#6383)·\n  * Fix ParsePatch function to work with quoted diff --git strings (#6323) (#6332)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzYwMDU6OWM5ZDQ2MDE0ZmE5NDdlNjQwYmUyNjE0ODA2MDQ0MGM3MjhlNWRiYQ==",
+  "sha": "9c9d46014fa947e640be26148060440c728e5dba",
+  "url": "https://api.github.com/repos/gpg/libgcrypt/git/tags/9c9d46014fa947e640be26148060440c728e5dba",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2016-02-18T08:10:02Z"
+  },
+  "object": {
+    "sha": "4d9e959e6a4f3a3cf5353ee545aa113b2af85570",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libgcrypt/git/commits/4d9e959e6a4f3a3cf5353ee545aa113b2af85570"
+  },
+  "tag": "libgcrypt-1.5.5",
+  "message": "Backport of two side channel attack fixes\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJWxXxaAAoJECSbOdJPJeO2k5YH/0UOve5Hd5dHo51SHU7O8L8r\nEPhHVTgxUdlNTccmHxlXJEa8rVTMYA+FgG5GVnF/Lv3Nwo7xzmTVQMnVm3kF8hbn\nehOpwY0kne14tD8U4SAYTU0muZTeZxIk/r+xEMlny1+7+SmOGMQp9alFZFiqz0B3\n+x/u2EEpImIL7Me6tIGoHzcUCsd9fouCm04Gtk69UQJUbV4I3wHMXxdE8jTb+VT3\nBaoS+aFzT5u5Z2+tjvd1r+y31NTdD1IGL6hbYC9osKYIcV+nUvPm1XfUX7AG4LHr\ncDI1ykPHqBWQU4ihox0N01/STWB+umQGriQBJMavHJN3J5z3WdTMgBoBHsSRiRg=\n=LXvO\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJWxXxaAAoJECSbOdJPJeO2k5YH/0UOve5Hd5dHo51SHU7O8L8r\nEPhHVTgxUdlNTccmHxlXJEa8rVTMYA+FgG5GVnF/Lv3Nwo7xzmTVQMnVm3kF8hbn\nehOpwY0kne14tD8U4SAYTU0muZTeZxIk/r+xEMlny1+7+SmOGMQp9alFZFiqz0B3\n+x/u2EEpImIL7Me6tIGoHzcUCsd9fouCm04Gtk69UQJUbV4I3wHMXxdE8jTb+VT3\nBaoS+aFzT5u5Z2+tjvd1r+y31NTdD1IGL6hbYC9osKYIcV+nUvPm1XfUX7AG4LHr\ncDI1ykPHqBWQU4ihox0N01/STWB+umQGriQBJMavHJN3J5z3WdTMgBoBHsSRiRg=\n=LXvO\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4d9e959e6a4f3a3cf5353ee545aa113b2af85570\ntype commit\ntag libgcrypt-1.5.5\ntagger Werner Koch <wk@gnupg.org> 1455783002 +0100\n\nBackport of two side channel attack fixes\n"
+  }
+}

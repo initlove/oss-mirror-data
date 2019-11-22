@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTc1MDExNzY6ZmFlNmI1YjQ4ZDMwNzQzOGE0M2NmMzgxYWY3MTUxYzMyYmY2OGFjNw==",
+  "sha": "fae6b5b48d307438a43cf381af7151c32bf68ac7",
+  "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/tags/fae6b5b48d307438a43cf381af7151c32bf68ac7",
+  "tagger": {
+    "name": "Stephen Gallagher",
+    "email": "sgallagh@redhat.com",
+    "date": "2019-07-24T19:06:15Z"
+  },
+  "object": {
+    "sha": "2d461725f781c6fdcf32893d8dcfa40bcef8dda5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fedora-modularity/libmodulemd/git/commits/2d461725f781c6fdcf32893d8dcfa40bcef8dda5"
+  },
+  "tag": "libmodulemd-1.8.15",
+  "message": "Releasing libmodulemd 1.8.15\n\nSplitting 1.x releases into their own tarball.\n-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXTisOwAKCRB6JVViNrqj\noyJiAJ94gro3x3zwflEmPnwKMGbwy+QPQgCfWwScCK+SOgNUubTrzLzU2bl1eQk=\n=BD95\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niF0EABECAB0WIQQ0v96iCbHqLp/cLlN6JVViNrqjowUCXTisOwAKCRB6JVViNrqj\noyJiAJ94gro3x3zwflEmPnwKMGbwy+QPQgCfWwScCK+SOgNUubTrzLzU2bl1eQk=\n=BD95\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2d461725f781c6fdcf32893d8dcfa40bcef8dda5\ntype commit\ntag libmodulemd-1.8.15\ntagger Stephen Gallagher <sgallagh@redhat.com> 1563995175 -0400\n\nReleasing libmodulemd 1.8.15\n\nSplitting 1.x releases into their own tarball.\n"
+  }
+}

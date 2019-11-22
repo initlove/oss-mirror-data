@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzA1MTA0NTg6MWNiN2JkZThlMzE3NTI3MzcwY2JiYjI1NDJiZGU5YmM0YmNhZDcxNg==",
+  "sha": "1cb7bde8e317527370cbbb2542bde9bc4bcad716",
+  "url": "https://api.github.com/repos/hyperledger/fabric-sdk-java/git/tags/1cb7bde8e317527370cbbb2542bde9bc4bcad716",
+  "tagger": {
+    "name": "Mark S. Lewis",
+    "email": "mark_lewis@uk.ibm.com",
+    "date": "2019-10-08T12:55:31Z"
+  },
+  "object": {
+    "sha": "d88252deddcd8c8e317742769fd25fb9a4308b41",
+    "type": "commit",
+    "url": "https://api.github.com/repos/hyperledger/fabric-sdk-java/git/commits/d88252deddcd8c8e317742769fd25fb9a4308b41"
+  },
+  "tag": "v1.4.5",
+  "message": "d88252d FGJ-46 prepare 1.4.5 release\n5ce4d64 FGJ-38 Fix lint error\nc76a9b2 FGJ-38 Throw exception if no discovery peers\n6987dff FABJ-464: Compatibility with Java 11\n3a2ae0d FABJ-454: Typo fix for SDChaincode Exception Msg\n5ba8ae5 FABJ-451: Allow proposals to be sent more than once\na7ff0e3 FABJ-453 Start 1.4.5-SNAPSHOT\n5fe1975 FABJ-452 shutdown spurious NPE\na21a832 FABJ-450 Access to Peer URL from NetworkConfig\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

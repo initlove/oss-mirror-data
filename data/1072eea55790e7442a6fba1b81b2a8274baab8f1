@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA5ODYyMjoxMDcyZWVhNTU3OTBlNzQ0MmE2ZmJhMWI4MWIyYTgyNzRiYWFiOGYx",
+  "sha": "1072eea55790e7442a6fba1b81b2a8274baab8f1",
+  "url": "https://api.github.com/repos/libcg/gLib2D/git/tags/1072eea55790e7442a6fba1b81b2a8274baab8f1",
+  "tagger": {
+    "name": "GeeckoDev",
+    "email": "geecko.dev@free.fr",
+    "date": "2010-11-21T08:56:12Z"
+  },
+  "object": {
+    "sha": "ea23da1dda0e988b9521edc28952c76b468346b5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/libcg/gLib2D/git/commits/ea23da1dda0e988b9521edc28952c76b468346b5"
+  },
+  "tag": "beta3",
+  "message": "- Small code cleanup\n- Bug resolved when gAdd() was not called between gBegin()/gEnd()\n- Bug resolved with gPop()\n- Bug resolved when an image is inverted via scaling\n- Bug resolved when an alpha value was applied to a single object\n- Added gGet* functions\n- Added scissor functions\n- New samples\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

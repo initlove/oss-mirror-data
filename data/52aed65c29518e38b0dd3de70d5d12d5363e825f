@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6NTJhZWQ2NWMyOTUxOGUzOGIwZGQzZGU3MGQ1ZDEyZDUzNjNlODI1Zg==",
+  "sha": "52aed65c29518e38b0dd3de70d5d12d5363e825f",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/52aed65c29518e38b0dd3de70d5d12d5363e825f",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2018-09-10T08:26:40Z"
+  },
+  "object": {
+    "sha": "8b8384887e3a3e4b0ebddc349db9c37e552604c7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/8b8384887e3a3e4b0ebddc349db9c37e552604c7"
+  },
+  "tag": "3.29.1",
+  "message": "3.29.1\n\n- [feaLib] Fixed issue whereby lookups from DFLT/dflt were not included in the\n  DFLT/non-dflt language systems (#1307).\n- [graphite] Fixed issue on big-endian architectures (e.g. ppc64) (#1311).\n- [subset] Added ``--layout-scripts`` option to add/exclude set of OpenType\n  layout scripts that will be preserved. By default all scripts are retained\n  (``'*'``) (#1303).\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEhg70q0vib0KyE3CHWdVNsMmXZIIFAluWKsEACgkQWdVNsMmX\nZIKhmg//aiFsDXdCiGxWXzaCfaqlh78QpF5QZbnUc1jSwYL3BN1cn2gaZ86JrzgQ\nlkhSJY+C3ArGpfrLi1+4j099ZBy4vPzuS8mbRjG3bE/iNjwL4v2SQBaln65yq2HS\nysSPwkRr0DrJzs49/p2LT3OV18erEWfK6jYWUaKvzfv/ykPXxh+0XjPMYPQINv0l\nskzaHQmC4YsFB9OV+7S9y4PCWZH38EN5g5ZYIiC9dhBBFzmFGb51SRYoQUJy2E39\nL+1FhQdTFsfc4At99xhPRHsOLKAI7dsQHZleYJ/dNliABWub8Lni2kzUF6Q3pVZg\nKlgrdnH1zfWmZgUVJOpjyr1QnADqoFdPMxDpJvXGDHsg9vNX6Ox9EnJxIJca/iEq\nxfd9XvgPTSU+Sv90E3P9iss7Mm6macgYRJteoHYCctG1rKrJd2kvrnAtHyuB2WU2\noZ9K7UakSbA4vHbbgUXXh7tDjLrqMwC4l6d26EehC79rIT/Kf5vX+0q53uekqsd0\nkU0zdBjyEzay8Wqz0CqS0G5Eq41X/49IHpDJ5Rk6mGfkBMmHThvDxCS/FmgIGoBK\nm6jRRs0lmkyDZCwVPSHCcZL9n9ihZn+btTI2jDZabn8Vy0EX4q3A0UEjIzZT7Zki\nAJ6y/f3o/NTXASnmU35Zis0tTisaUQC7OVF0Q4uAVvINFkkhdVM=\n=9576\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEhg70q0vib0KyE3CHWdVNsMmXZIIFAluWKsEACgkQWdVNsMmX\nZIKhmg//aiFsDXdCiGxWXzaCfaqlh78QpF5QZbnUc1jSwYL3BN1cn2gaZ86JrzgQ\nlkhSJY+C3ArGpfrLi1+4j099ZBy4vPzuS8mbRjG3bE/iNjwL4v2SQBaln65yq2HS\nysSPwkRr0DrJzs49/p2LT3OV18erEWfK6jYWUaKvzfv/ykPXxh+0XjPMYPQINv0l\nskzaHQmC4YsFB9OV+7S9y4PCWZH38EN5g5ZYIiC9dhBBFzmFGb51SRYoQUJy2E39\nL+1FhQdTFsfc4At99xhPRHsOLKAI7dsQHZleYJ/dNliABWub8Lni2kzUF6Q3pVZg\nKlgrdnH1zfWmZgUVJOpjyr1QnADqoFdPMxDpJvXGDHsg9vNX6Ox9EnJxIJca/iEq\nxfd9XvgPTSU+Sv90E3P9iss7Mm6macgYRJteoHYCctG1rKrJd2kvrnAtHyuB2WU2\noZ9K7UakSbA4vHbbgUXXh7tDjLrqMwC4l6d26EehC79rIT/Kf5vX+0q53uekqsd0\nkU0zdBjyEzay8Wqz0CqS0G5Eq41X/49IHpDJ5Rk6mGfkBMmHThvDxCS/FmgIGoBK\nm6jRRs0lmkyDZCwVPSHCcZL9n9ihZn+btTI2jDZabn8Vy0EX4q3A0UEjIzZT7Zki\nAJ6y/f3o/NTXASnmU35Zis0tTisaUQC7OVF0Q4uAVvINFkkhdVM=\n=9576\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8b8384887e3a3e4b0ebddc349db9c37e552604c7\ntype commit\ntag 3.29.1\ntagger Cosimo Lupo <cosimo@anthrotype.com> 1536568000 +0200\n\n3.29.1\n\n- [feaLib] Fixed issue whereby lookups from DFLT/dflt were not included in the\n  DFLT/non-dflt language systems (#1307).\n- [graphite] Fixed issue on big-endian architectures (e.g. ppc64) (#1311).\n- [subset] Added ``--layout-scripts`` option to add/exclude set of OpenType\n  layout scripts that will be preserved. By default all scripts are retained\n  (``'*'``) (#1303).\n"
+  }
+}

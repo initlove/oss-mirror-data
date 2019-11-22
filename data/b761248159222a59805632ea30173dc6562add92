@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4Njg2ODE6Yjc2MTI0ODE1OTIyMmE1OTgwNTYzMmVhMzAxNzNkYzY1NjJhZGQ5Mg==",
+  "sha": "b761248159222a59805632ea30173dc6562add92",
+  "url": "https://api.github.com/repos/bminor/binutils-gdb/git/tags/b761248159222a59805632ea30173dc6562add92",
+  "tagger": {
+    "name": "Joel Brobecker",
+    "email": "brobecker@adacore.com",
+    "date": "2016-06-01T00:38:36Z"
+  },
+  "object": {
+    "sha": "41d82368c333de4f7ec3fd7734ee683055e8c35c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/bminor/binutils-gdb/git/commits/41d82368c333de4f7ec3fd7734ee683055e8c35c"
+  },
+  "tag": "gdb-7.11.1-release",
+  "message": "GDB 7.11.1 Release.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAldOLowACgkQku2wS/8yXPNLfACeMKtMrs0vDMuQ5UAThtny3/QG\np6cAn1TDiO5tebWVfQdoOZm6bBF11R35\n=4sE/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAldOLowACgkQku2wS/8yXPNLfACeMKtMrs0vDMuQ5UAThtny3/QG\np6cAn1TDiO5tebWVfQdoOZm6bBF11R35\n=4sE/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 41d82368c333de4f7ec3fd7734ee683055e8c35c\ntype commit\ntag gdb-7.11.1-release\ntagger Joel Brobecker <brobecker@adacore.com> 1464741516 -0700\n\nGDB 7.11.1 Release.\n"
+  }
+}

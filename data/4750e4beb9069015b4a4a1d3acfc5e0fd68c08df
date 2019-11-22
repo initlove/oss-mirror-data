@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzYwMDU6NDc1MGU0YmViOTA2OTAxNWI0YTRhMWQzYWNmYzVlMGZkNjhjMDhkZg==",
+  "sha": "4750e4beb9069015b4a4a1d3acfc5e0fd68c08df",
+  "url": "https://api.github.com/repos/gpg/libgcrypt/git/tags/4750e4beb9069015b4a4a1d3acfc5e0fd68c08df",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2011-02-04T19:24:12Z"
+  },
+  "object": {
+    "sha": "4f048514ecae879fa4bb7b8522baf801229be522",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libgcrypt/git/commits/4f048514ecae879fa4bb7b8522baf801229be522"
+  },
+  "tag": "post-nuke-of-trailing-ws",
+  "message": "Nuked almost all trailing white space so that we are able to use\nnuke-trailing-whitespace in Emacsens file-write-hooks.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niEYEABECAAYFAk1MUsoACgkQzT/NXj1SwoIaywCffHmq3upAOEFh7zUr6Rn5fKnr\nVacAn0lAcUzFuMgX/KY3zu2gnmJ8W874\n=uubk\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niEYEABECAAYFAk1MUsoACgkQzT/NXj1SwoIaywCffHmq3upAOEFh7zUr6Rn5fKnr\nVacAn0lAcUzFuMgX/KY3zu2gnmJ8W874\n=uubk\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4f048514ecae879fa4bb7b8522baf801229be522\ntype commit\ntag post-nuke-of-trailing-ws\ntagger Werner Koch <wk@gnupg.org> 1296847452 +0100\n\nNuked almost all trailing white space so that we are able to use\nnuke-trailing-whitespace in Emacsens file-write-hooks.\n"
+  }
+}

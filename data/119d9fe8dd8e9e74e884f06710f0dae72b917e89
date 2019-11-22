@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6MTE5ZDlmZThkZDhlOWU3NGU4ODRmMDY3MTBmMGRhZTcyYjkxN2U4OQ==",
+  "sha": "119d9fe8dd8e9e74e884f06710f0dae72b917e89",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/119d9fe8dd8e9e74e884f06710f0dae72b917e89",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2018-02-04T23:14:34Z"
+  },
+  "object": {
+    "sha": "a2046f845acdfb5ddc68827dc2d5c58780ae7e8a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/a2046f845acdfb5ddc68827dc2d5c58780ae7e8a"
+  },
+  "tag": "3.22.0",
+  "message": "3.22.0\n\n- [subset] Support subsetting ``endchar`` acting as ``seac``-like components\n  in ``CFF`` (fixes #1162).\n- [feaLib] Allow to build from pre-parsed ``ast.FeatureFile`` object.\n  Added ``tables`` argument to only build some tables instead of all (#1159,\n  #1163).\n- [textTools] Replaced ``safeEval`` with ``ast.literal_eval`` (#1139).\n- [feaLib] Added option to the parser to not resolve ``include`` statements\n  (#1154).\n- [ttLib] Added new ``ttCollection`` module to read/write TrueType and\n  OpenType Collections. Exports a ``TTCollection`` class with a ``fonts``\n  attribute containing a list of ``TTFont`` instances, the methods ``save``\n  and ``saveXML``, plus some list-like methods. The ``importXML`` method is\n  not implemented yet (#17).\n- [unicodeadata] Added ``ot_tag_to_script`` function that converts from\n  OpenType script tag to Unicode script code.\n- Added new ``designspaceLib`` subpackage, originally from Erik Van Blokland's\n  ``designSpaceDocument``: https://github.com/LettError/designSpaceDocument\n  NOTE: this is not yet used internally by varLib, and the API may be subject\n  to changes (#911, #1110, LettError/designSpaceDocument#28).\n- Added new FontTools icon images (8ee7c32).\n- [unicodedata] Added ``script_horizontal_direction`` function that returns\n  either \"LTR\" or \"RTL\" given a unicode script code.\n- [otConverters] Don't write descriptive name string as XML comment if the\n  NameID value is 0 (== NULL) (#1151, #1152).\n- [unicodedata] Add ``ot_tags_from_script`` function to get the list of\n  OpenType script tags associated with unicode script code (#1150).\n- [feaLib] Don't error when \"enumerated\" kern pairs conflict with preceding\n  single pairs; emit warning and chose the first value (#1147, #1148).\n- [loggingTools] In ``CapturingLogHandler.assertRegex`` method, match the\n  fully formatted log message.\n- [sbix] Fixed TypeError when concatenating str and bytes (#1154).\n- [bezierTools] Implemented cusp support and removed ``approximate_fallback``\n  arg in ``calcQuadraticArcLength``. Added ``calcCubicArcLength`` (#1142).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6MDRjNWY1YTg2OWQzNDQxNTI0MGE3YmVmZjJiNjViZDBkMThmNWEzZA==",
+  "sha": "04c5f5a869d34415240a7beff2b65bd0d18f5a3d",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/04c5f5a869d34415240a7beff2b65bd0d18f5a3d",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo.lupo@daltonmaag.com",
+    "date": "2017-02-18T01:02:03Z"
+  },
+  "object": {
+    "sha": "31b8c7f64f011d582344afc0528e404bb0c29dff",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/31b8c7f64f011d582344afc0528e404bb0c29dff"
+  },
+  "tag": "3.7.2",
+  "message": "3.7.2\n\n- [subset] Keep advance widths when stripping \".notdef\" glyph outline in\n  CID-keyed CFF fonts (#845)\n- [feaLib] Zero values now produce the same results as makeotf (#633, #848)\n- [feaLib] More compact encoding for “Contextual positioning with in-line\n  single positioning rules” (#514)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODg4Mjg1MjpkMzBiNDFlYjlmOTYwYzJjNjM5YzU3YzViY2ViNzAxZjUyYzZjZTVl",
+  "sha": "d30b41eb9f960c2c639c57c5bceb701f52c6ce5e",
+  "url": "https://api.github.com/repos/maxmind/libmaxminddb/git/tags/d30b41eb9f960c2c639c57c5bceb701f52c6ce5e",
+  "tagger": {
+    "name": "Gregory Oschwald",
+    "email": "goschwald@maxmind.com",
+    "date": "2014-09-22T19:33:09Z"
+  },
+  "object": {
+    "sha": "8798ae2f7d2b3a770b1c93ade07843b85056986c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/maxmind/libmaxminddb/git/commits/8798ae2f7d2b3a770b1c93ade07843b85056986c"
+  },
+  "tag": "1.0.2",
+  "message": "1.0.2\n\n* Fixed a number of small issues found by Coverity.\n* When freeing the MMDB struct in `MMDB_close()` we make sure to set the\n  pointers to NULL after freeing the memory they point to. This makes it safe\n  to call `MMDB_close` more than once on the same `MMDB_s` struct\n  pointer. Before this change, calling this function twice on the same pointer\n  could cause the code to free memory that belonged to something else in the\n  process. Patch by Shuxin Yang. GitHub PR #41.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

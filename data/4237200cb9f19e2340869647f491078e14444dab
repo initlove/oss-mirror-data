@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6NDIzNzIwMGNiOWYxOWUyMzQwODY5NjQ3ZjQ5MTA3OGUxNDQ0NGRhYg==",
+  "sha": "4237200cb9f19e2340869647f491078e14444dab",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/4237200cb9f19e2340869647f491078e14444dab",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "cosimo@anthrotype.com",
+    "date": "2018-12-14T11:19:05Z"
+  },
+  "object": {
+    "sha": "c14701c820a0f0cdd9916dba3ac6eba665597ba2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/c14701c820a0f0cdd9916dba3ac6eba665597ba2"
+  },
+  "tag": "3.34.0",
+  "message": "3.34.0\n\n- [varLib] Support generation of CFF2 variable fonts. ``model.reorderMasters()``\n  now supports arbitrary mapping. Fix handling of overlapping ranges for feature\n  variations (#1400).\n- [cffLib, subset] Code clean-up and fixing related to CFF2 support.\n- [ttLib.tables.ttProgram] Use raw strings for regex patterns (#1389).\n- [fontbuilder] Initial support for building CFF2 fonts. Set CFF's\n  ``FontMatrix`` automatically from unitsPerEm.\n- [plistLib] Accept the more general ``collections.Mapping`` instead of the\n  specific ``dict`` class to support custom data classes that should serialize\n  to dictionaries.\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEhg70q0vib0KyE3CHWdVNsMmXZIIFAlwTkakACgkQWdVNsMmX\nZIJWTw/8Cu7ZIp5hoA6gc3Rg5LrY4dMCGrJdCdtAZZkixllA0yKnw8jW7pr7BIOO\nkVox+An1Y8MT/vX4BYZ0gqa0AqxfOTG1HPZp+5zHSrVy2mNGuToZAhH9wHoflXYa\nnLBYEIBhR7pvg4hP4tnOMS8ZI/flkdYUBGFVDOPLtLzBpdhNKkp0Uv0QQ0yPP5Ob\nsqYI5LdXuIJKJTDJGU8Rt3dQniQTmJI4VjThWTDNu3DbrlVS8HoHa3Vvb9xe6VvH\n2I8XNqGTnq6R88Hbss1wZHCfuGAO8qAQcOD5Ewu9xr8SJB9rPIGIEzv/iFEqchIc\nXIq0npUg83H9AvJsaAKYcnghKkwjK+Fgxx2/bpoOWGRbDySO0kcKDfn8yTQHnacn\ntVunXWy3VqX/Krsg6VXa2IfJIr2jfPFjdrGc5T3v6ClEQQk7hq0dtjoPTqZiaNz5\n0Ov+1b317lyCX5G+yhjRoNKu81V62sILkCBryPtF5O8FZF2noV7irAwKStU6O5XC\n7UJdsBCIjAo++qjVT5BG8ejZ25h3u01CICQNXMkXq7eNWZVvIDTeEevpDOoIfCjd\nkc6TnXFBzfUKCoP1ohBzVjfIf4EiCsuW5SXGw0GBOpXDZsEjIVYm9DVI4V97VY1N\nOR/YEyOikrYG8kOwUlLbrSOWemhJ2Clj+bqs4f8OMwrdHOj5HX8=\n=MWwp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEhg70q0vib0KyE3CHWdVNsMmXZIIFAlwTkakACgkQWdVNsMmX\nZIJWTw/8Cu7ZIp5hoA6gc3Rg5LrY4dMCGrJdCdtAZZkixllA0yKnw8jW7pr7BIOO\nkVox+An1Y8MT/vX4BYZ0gqa0AqxfOTG1HPZp+5zHSrVy2mNGuToZAhH9wHoflXYa\nnLBYEIBhR7pvg4hP4tnOMS8ZI/flkdYUBGFVDOPLtLzBpdhNKkp0Uv0QQ0yPP5Ob\nsqYI5LdXuIJKJTDJGU8Rt3dQniQTmJI4VjThWTDNu3DbrlVS8HoHa3Vvb9xe6VvH\n2I8XNqGTnq6R88Hbss1wZHCfuGAO8qAQcOD5Ewu9xr8SJB9rPIGIEzv/iFEqchIc\nXIq0npUg83H9AvJsaAKYcnghKkwjK+Fgxx2/bpoOWGRbDySO0kcKDfn8yTQHnacn\ntVunXWy3VqX/Krsg6VXa2IfJIr2jfPFjdrGc5T3v6ClEQQk7hq0dtjoPTqZiaNz5\n0Ov+1b317lyCX5G+yhjRoNKu81V62sILkCBryPtF5O8FZF2noV7irAwKStU6O5XC\n7UJdsBCIjAo++qjVT5BG8ejZ25h3u01CICQNXMkXq7eNWZVvIDTeEevpDOoIfCjd\nkc6TnXFBzfUKCoP1ohBzVjfIf4EiCsuW5SXGw0GBOpXDZsEjIVYm9DVI4V97VY1N\nOR/YEyOikrYG8kOwUlLbrSOWemhJ2Clj+bqs4f8OMwrdHOj5HX8=\n=MWwp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c14701c820a0f0cdd9916dba3ac6eba665597ba2\ntype commit\ntag 3.34.0\ntagger Cosimo Lupo <cosimo@anthrotype.com> 1544786345 +0000\n\n3.34.0\n\n- [varLib] Support generation of CFF2 variable fonts. ``model.reorderMasters()``\n  now supports arbitrary mapping. Fix handling of overlapping ranges for feature\n  variations (#1400).\n- [cffLib, subset] Code clean-up and fixing related to CFF2 support.\n- [ttLib.tables.ttProgram] Use raw strings for regex patterns (#1389).\n- [fontbuilder] Initial support for building CFF2 fonts. Set CFF's\n  ``FontMatrix`` automatically from unitsPerEm.\n- [plistLib] Accept the more general ``collections.Mapping`` instead of the\n  specific ``dict`` class to support custom data classes that should serialize\n  to dictionaries.\n"
+  }
+}

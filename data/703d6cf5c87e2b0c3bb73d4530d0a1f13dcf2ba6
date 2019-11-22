@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE2Mzk2Mzc6NzAzZDZjZjVjODdlMmIwYzNiYjczZDQ1MzBkMGExZjEzZGNmMmJhNg==",
+  "sha": "703d6cf5c87e2b0c3bb73d4530d0a1f13dcf2ba6",
+  "url": "https://api.github.com/repos/fonttools/fonttools/git/tags/703d6cf5c87e2b0c3bb73d4530d0a1f13dcf2ba6",
+  "tagger": {
+    "name": "Cosimo Lupo",
+    "email": "clupo@google.com",
+    "date": "2019-05-28T11:07:54Z"
+  },
+  "object": {
+    "sha": "a0b8ff8b350c84df7052b1eb08e261f2f31a7a67",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fonttools/fonttools/git/commits/a0b8ff8b350c84df7052b1eb08e261f2f31a7a67"
+  },
+  "tag": "3.42.0",
+  "message": "3.42.0\n\n- [OS/2] Fixed sign of ``fsType``: it should be ``uint16``, not ``int16`` (#1619).\n- [subset] Skip out-of-range class values in mark attachment (#1478).\n- [fontBuilder] Add an empty ``DSIG`` table with ``setupDummyDSIG`` method (#1621).\n- [varLib.merger] Fixed bug whereby ``GDEF.GlyphClassDef`` were being dropped\n  when generating instance via ``varLib.mutator`` (#1614).\n- [varLib] Added command-line options ``-v`` and ``-q`` to configure logging (#1613).\n- [subset] Update font extents in head table (#1612).\n- [subset] Make --retain-gids truncate empty glyphs after the last non-empty glyph\n  (#1611).\n- [requirements] Updated ``unicodedata2`` backport for Unicode 12.0.\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEt3fCdK5LbZY3e/+cINSiYeSg5kIFAlztFooACgkQINSiYeSg\n5kLU7w/+OaZPlqYVWFnaH19QlUfdNvhHCvKYE18lbNdHauRBdMTEXQ1B4ipSLfzi\n6ndFmYk+PBJHq4qUAixysfMjS6t9SCuY4t39eW1ZxYh1+Y5adCBJVf9cKpt+EYUu\nWBNNJUbVBmjPcmJ8kzHbKJBm/6c1JFjxZq2fFptGvIckOxGoHKFOWtYd/HZ2j+hT\nBCuRNtX3VDWGKl/u0H/IdEDcrMA366rVBY7PZ8LefaO3qiozoysE2J8ch7x4CZ2R\nptBhtPsuJOzJavNbiRy+bVOf8OCm5o5qbiJQuHSxjcZ+lphQ/higY7+fC/s83/uT\nVrY5bqopWTj3OAAQw5d5U0+lutMszPopcDABC4PkEGVFazG+bJMkEQ4T08R27At6\nrxrBhpN5VPmZug15rfnFFcsyX0X1g/EEF3xZz3r4PuKQIQDmEPvs8+WK+LdIHJZ5\nm2UpnA+W1fNVaGEAy2Vc9zQkhCXPU2ht5MpWZUWGUM4ivVRlyHniPuETd9RKSJ16\n50mo/AB0GMTDEko2UDTU1yU/1tZ8ETHK6k67p/puWluzP4CLImFkjefKVJeGSY6w\n8Yw0PPBanbEJj5PPNfpwf5R1NLPKsiTTpl2BfpN58FtY6M/8nE6vUxrAQjVAKZnd\nWCPMsrGw0xPG0h+yQa+1aQrR8m8IieS/POOVSB0Gc9G06/Ei0OE=\n=QD0Y\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEt3fCdK5LbZY3e/+cINSiYeSg5kIFAlztFooACgkQINSiYeSg\n5kLU7w/+OaZPlqYVWFnaH19QlUfdNvhHCvKYE18lbNdHauRBdMTEXQ1B4ipSLfzi\n6ndFmYk+PBJHq4qUAixysfMjS6t9SCuY4t39eW1ZxYh1+Y5adCBJVf9cKpt+EYUu\nWBNNJUbVBmjPcmJ8kzHbKJBm/6c1JFjxZq2fFptGvIckOxGoHKFOWtYd/HZ2j+hT\nBCuRNtX3VDWGKl/u0H/IdEDcrMA366rVBY7PZ8LefaO3qiozoysE2J8ch7x4CZ2R\nptBhtPsuJOzJavNbiRy+bVOf8OCm5o5qbiJQuHSxjcZ+lphQ/higY7+fC/s83/uT\nVrY5bqopWTj3OAAQw5d5U0+lutMszPopcDABC4PkEGVFazG+bJMkEQ4T08R27At6\nrxrBhpN5VPmZug15rfnFFcsyX0X1g/EEF3xZz3r4PuKQIQDmEPvs8+WK+LdIHJZ5\nm2UpnA+W1fNVaGEAy2Vc9zQkhCXPU2ht5MpWZUWGUM4ivVRlyHniPuETd9RKSJ16\n50mo/AB0GMTDEko2UDTU1yU/1tZ8ETHK6k67p/puWluzP4CLImFkjefKVJeGSY6w\n8Yw0PPBanbEJj5PPNfpwf5R1NLPKsiTTpl2BfpN58FtY6M/8nE6vUxrAQjVAKZnd\nWCPMsrGw0xPG0h+yQa+1aQrR8m8IieS/POOVSB0Gc9G06/Ei0OE=\n=QD0Y\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a0b8ff8b350c84df7052b1eb08e261f2f31a7a67\ntype commit\ntag 3.42.0\ntagger Cosimo Lupo <clupo@google.com> 1559041674 +0100\n\n3.42.0\n\n- [OS/2] Fixed sign of ``fsType``: it should be ``uint16``, not ``int16`` (#1619).\n- [subset] Skip out-of-range class values in mark attachment (#1478).\n- [fontBuilder] Add an empty ``DSIG`` table with ``setupDummyDSIG`` method (#1621).\n- [varLib.merger] Fixed bug whereby ``GDEF.GlyphClassDef`` were being dropped\n  when generating instance via ``varLib.mutator`` (#1614).\n- [varLib] Added command-line options ``-v`` and ``-q`` to configure logging (#1613).\n- [subset] Update font extents in head table (#1612).\n- [subset] Make --retain-gids truncate empty glyphs after the last non-empty glyph\n  (#1611).\n- [requirements] Updated ``unicodedata2`` backport for Unicode 12.0.\n"
+  }
+}

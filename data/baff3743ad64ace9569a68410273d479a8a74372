@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM4NTEyMjpiYWZmMzc0M2FkNjRhY2U5NTY5YTY4NDEwMjczZDQ3OWE4YTc0Mzcy",
+  "sha": "baff3743ad64ace9569a68410273d479a8a74372",
+  "url": "https://api.github.com/repos/matplotlib/matplotlib/git/tags/baff3743ad64ace9569a68410273d479a8a74372",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2018-03-05T05:07:40Z"
+  },
+  "object": {
+    "sha": "66e49f9a28f29b9a3a18cd4c6bfd5fdd1836eb0e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/matplotlib/git/commits/66e49f9a28f29b9a3a18cd4c6bfd5fdd1836eb0e"
+  },
+  "tag": "v2.2.0",
+  "message": "REL: v2.2.0 LTS\n\nThe first release of the v2.2 LTS series and the last version of\nMatplotlib to support python2.  There will be bug-fix release for this\nseries until 2020.\n\nThis release includes new features including:\n\n - An experimental constrained layout manager\n - Color blind friendly color map (cividis) and color cycle\n   (tableau-colorblind10)\n - native support for numpy.datetime64 types\n - animated gif writing via pillow\n - TkAgg now works with pypy\n - cairo based backends for Qt, Tk, and WX\n\nThere are several API changes in this release:\n\n - To support the constrained layout Matplotlib has a new required\n   dependency (kiwisolver).\n - The `matplotlib.finance` module has been removed, development has\n   moved to a stand-alone project.\n-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlqc0KMTHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U789wFGB/9hqQmUuoVmx5k0jYs0eHI9Pxt4NdcT\n49OX+Wuz2wxg3L0U/GTqKbl/ZLbZsEGgi8slks2aEe+lrPeNLXZ/rVXDOB5qStEn\nE/gAWl65fXpZoxHIclDdJXPUQOuX6RF5H3fAFAYYu8VeZryF8NQ5mPHB75CE7MwM\nBkMkCs8MXju/YAdoT2yT+Rhls5EGHdnz8ansP1EiRc7IqgoQsggi0OTTHK6h7uG3\nUsomV3/aoSfqX/g55gfI/j7jvOw6pdLv1lpfwRnfhcDgO3TeQ+BZ7BfP6FBtvvlP\n+0jr56+3Nb84dLP+UCOQen5AGeLEBC3tm7KXEv9VFtQstUxcEcNquc7u\n=9kPJ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFHBAABCAAxFiEErEf3HbJ17NCz2kboV/pFQN1O/PcFAlqc0KMTHHRjYXN3ZWxs\nQGdtYWlsLmNvbQAKCRBX+kVA3U789wFGB/9hqQmUuoVmx5k0jYs0eHI9Pxt4NdcT\n49OX+Wuz2wxg3L0U/GTqKbl/ZLbZsEGgi8slks2aEe+lrPeNLXZ/rVXDOB5qStEn\nE/gAWl65fXpZoxHIclDdJXPUQOuX6RF5H3fAFAYYu8VeZryF8NQ5mPHB75CE7MwM\nBkMkCs8MXju/YAdoT2yT+Rhls5EGHdnz8ansP1EiRc7IqgoQsggi0OTTHK6h7uG3\nUsomV3/aoSfqX/g55gfI/j7jvOw6pdLv1lpfwRnfhcDgO3TeQ+BZ7BfP6FBtvvlP\n+0jr56+3Nb84dLP+UCOQen5AGeLEBC3tm7KXEv9VFtQstUxcEcNquc7u\n=9kPJ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 66e49f9a28f29b9a3a18cd4c6bfd5fdd1836eb0e\ntype commit\ntag v2.2.0\ntagger Thomas A Caswell <tcaswell@gmail.com> 1520226460 -0500\n\nREL: v2.2.0 LTS\n\nThe first release of the v2.2 LTS series and the last version of\nMatplotlib to support python2.  There will be bug-fix release for this\nseries until 2020.\n\nThis release includes new features including:\n\n - An experimental constrained layout manager\n - Color blind friendly color map (cividis) and color cycle\n   (tableau-colorblind10)\n - native support for numpy.datetime64 types\n - animated gif writing via pillow\n - TkAgg now works with pypy\n - cairo based backends for Qt, Tk, and WX\n\nThere are several API changes in this release:\n\n - To support the constrained layout Matplotlib has a new required\n   dependency (kiwisolver).\n - The `matplotlib.finance` module has been removed, development has\n   moved to a stand-alone project.\n"
+  }
+}

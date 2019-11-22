@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTE0NzY5ODo4OGQxMjc0ZWI0NDVmNDkwMzU0ZTY4MjZiMjBkZGEzYjA2YjhmNWI1",
+  "sha": "88d1274eb445f490354e6826b20dda3b06b8f5b5",
+  "url": "https://api.github.com/repos/proot-me/proot/git/tags/88d1274eb445f490354e6826b20dda3b06b8f5b5",
+  "tagger": {
+    "name": "Cédric VINCENT",
+    "email": "cedric.vincent@st.com",
+    "date": "2012-03-23T13:44:20Z"
+  },
+  "object": {
+    "sha": "0aad08917c060f85136ee2ea40ce4a61afdd54ed",
+    "type": "commit",
+    "url": "https://api.github.com/repos/proot-me/proot/git/commits/0aad08917c060f85136ee2ea40ce4a61afdd54ed"
+  },
+  "tag": "v1.8.3",
+  "message": "Release v1.8.3\n==============\n\nNew features\n------------\n\n* The -0 option now fakes success on ownership changes.  This improves\n  the compatibility with package managers that abort if ``chown(2)``\n  fails.  Note that this is quite limited compared to ``fakeroot``.\n\n* Force utsname.machine to \"i386\" for 32-bit programs running on\n  x86_64 systems.  This improves the compatibility with package\n  managers that deduce the current architecture from `uname -m`.\n\nFixes\n-----\n\n* Fix a regression regarding the concatenation of the ``..`` with a\n  path ending with ``.``.  For intance you can now do ``ls foo`` where\n  ``foo`` is a symbolic link to ``/bar/.``.\n\n* Don't return an error if the specified size for ``getcwd(2)`` and\n  ``readlink(2)`` is greater than PATH_MAX.  Technically the result\n  may likely be shorter than this limit.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJPbH5CAAoJELahHY4Fe9afe2wQAJMDequ5GvEMWUhDOb7Px1nt\n5V6f5Boy8R78TNPydaDOWb5S+gxnuXq5LWwHYUCG6mXXDTYdFOz8S049PtN8ClR0\nJIV6raB2mBDXUNs+l/zC3RdS9l6ykf7DiVe40Kdj9o9QBK12ckqEkwVU/FP9xIY8\nSBHpUSo6ZK5JmcRfNVjM8BSywUBICv3695XVwodCU3RG2goXecMJ7wVPx/GmpuFe\nQ9DXa/PCv9q/5IDboQhpupeqMeVlHXuj1WRuDvrXvUklb715LPlDM0Mbi/uYDFiS\nQa6Xwuia8bECOwO1fAauvWwiftKLf5TwSwNnX3Rqes2IDw9S8Dx7hGESuIFL4rfn\n78ZiS71yR3xcbFgbxgkvaR1/+WQwX7mSJiZJdKs4cmNk363c4rtt2JZFzycRATov\nviER4ocKgxF1r7nwMh5Tcpek4YF9IuFXmV5woFJG2hr51E0H6Unzpj+H4U8f1DAT\nQ2aA9YoQNc3JCJWAet1ZUoPMPh+qiGCN5Eb9L+Hp3DFoLvP+VKmh03gXLYHh0FEt\n60L3BDkG0Khkt9/mZFv1Ohec9AZW4zFsHVmgDcjWiddNttr56V0/PxBpHB8G6pqP\nCoEozc+AMRsXNjaicZnS0H8qg/YdvTmGPWrfYuDboBxpryYkk/YxgyFeFtn9H16h\nJN0wGaXrj4HbS4cir2G+\n=ZnH3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQIcBAABAgAGBQJPbH5CAAoJELahHY4Fe9afe2wQAJMDequ5GvEMWUhDOb7Px1nt\n5V6f5Boy8R78TNPydaDOWb5S+gxnuXq5LWwHYUCG6mXXDTYdFOz8S049PtN8ClR0\nJIV6raB2mBDXUNs+l/zC3RdS9l6ykf7DiVe40Kdj9o9QBK12ckqEkwVU/FP9xIY8\nSBHpUSo6ZK5JmcRfNVjM8BSywUBICv3695XVwodCU3RG2goXecMJ7wVPx/GmpuFe\nQ9DXa/PCv9q/5IDboQhpupeqMeVlHXuj1WRuDvrXvUklb715LPlDM0Mbi/uYDFiS\nQa6Xwuia8bECOwO1fAauvWwiftKLf5TwSwNnX3Rqes2IDw9S8Dx7hGESuIFL4rfn\n78ZiS71yR3xcbFgbxgkvaR1/+WQwX7mSJiZJdKs4cmNk363c4rtt2JZFzycRATov\nviER4ocKgxF1r7nwMh5Tcpek4YF9IuFXmV5woFJG2hr51E0H6Unzpj+H4U8f1DAT\nQ2aA9YoQNc3JCJWAet1ZUoPMPh+qiGCN5Eb9L+Hp3DFoLvP+VKmh03gXLYHh0FEt\n60L3BDkG0Khkt9/mZFv1Ohec9AZW4zFsHVmgDcjWiddNttr56V0/PxBpHB8G6pqP\nCoEozc+AMRsXNjaicZnS0H8qg/YdvTmGPWrfYuDboBxpryYkk/YxgyFeFtn9H16h\nJN0wGaXrj4HbS4cir2G+\n=ZnH3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0aad08917c060f85136ee2ea40ce4a61afdd54ed\ntype commit\ntag v1.8.3\ntagger Cédric VINCENT <cedric.vincent@st.com> 1332510260 +0100\n\nRelease v1.8.3\n==============\n\nNew features\n------------\n\n* The -0 option now fakes success on ownership changes.  This improves\n  the compatibility with package managers that abort if ``chown(2)``\n  fails.  Note that this is quite limited compared to ``fakeroot``.\n\n* Force utsname.machine to \"i386\" for 32-bit programs running on\n  x86_64 systems.  This improves the compatibility with package\n  managers that deduce the current architecture from `uname -m`.\n\nFixes\n-----\n\n* Fix a regression regarding the concatenation of the ``..`` with a\n  path ending with ``.``.  For intance you can now do ``ls foo`` where\n  ``foo`` is a symbolic link to ``/bar/.``.\n\n* Don't return an error if the specified size for ``getcwd(2)`` and\n  ``readlink(2)`` is greater than PATH_MAX.  Technically the result\n  may likely be shorter than this limit.\n"
+  }
+}

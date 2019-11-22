@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6ZjYzMThhN2NkZmNkZDY1NjY4YTEwYjA2YmNiMmEwZDNjZjc5MjczYQ==",
+  "sha": "f6318a7cdfcdd65668a10b06bcb2a0d3cf79273a",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/f6318a7cdfcdd65668a10b06bcb2a0d3cf79273a",
+  "tagger": {
+    "name": "Lauris Bukšis-Haberkorns",
+    "email": "lauris@nix.lv",
+    "date": "2018-03-16T21:34:11Z"
+  },
+  "object": {
+    "sha": "302268143219288563c1d1e27a7de57f37dd60be",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/302268143219288563c1d1e27a7de57f37dd60be"
+  },
+  "tag": "v1.4.0-rc3",
+  "message": "* SECURITY\n  * Refactor and simplify to correctly validate redirect to URL (#3674) (#3676)\n* BUGFIXES\n  * Update markbates/goth library to fix OAuth2 support (#3661) (#3663)\n  * Fix column removal in MSSQL (#3638) (#3640)\n  * Fix wiki inter-links with spaces (#3560) (#3632)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJarDhTAAoJEK7OIW0AexzMCasP/1NwWGS6OVVTV9yGWzLDqY0P\nLoxRHIoUoDiFiFLOMrIYnNvm/ohXYiY9wMlQao8izVoTmQGJF0YtvdFxKbpSvlFz\nOm4TqY9s3J2jQBmkSCbKoaLw/BVvdik2b1ap5kxa7tY0YhftHOyubgH+5/fSnd5O\n5ydOaIqiVzo7Po89OHP/AXqaNTjzHpPdFyiH/IoWuSoowYjPcDeSr/gLY8f+RK/m\nNWd0purPMg1h1usqtxtz4w+6dYYJXtckAVaVIurkLNSS+rLONj+hXz00vZWv4Rug\nHCn+xuCj7VWD60nGCJ6JX3oPUDzO7tts528Me9YI0tBnNTEBMrO1PXQ9lZSHQC7m\ndrmRn0KYeV46aIV+WTSRziU5i+c8mUJ7jhGpO12hWLY6canPoJv8j5zUhDFjd/Wo\n8UiSIWZH13wAJYEMmAdzl4sTlLd1Youz7sg6FI+cW7Dpc5PIrDEWAEzy5ny63ycD\nGMGsl+ssjkACr6B/xb1BoX/e/3E3c2uEnq30qS69o48MVtyPDweVC/Yoni5En8C5\nC4BVpNmcLbaEfiJTs2woiRNjwwe3PQxSLAT7CkRpcPKy96ka2mnIuEuxKfFgpfBW\nLB11iIl4YQEslAiMt0j96VGU1ZxSRdmoB8GLdAPfo0KF+wIbDfEkOBbBtuEVCYFb\nnvRWf/hoRVgUIENMz/YV\n=rEJn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJarDhTAAoJEK7OIW0AexzMCasP/1NwWGS6OVVTV9yGWzLDqY0P\nLoxRHIoUoDiFiFLOMrIYnNvm/ohXYiY9wMlQao8izVoTmQGJF0YtvdFxKbpSvlFz\nOm4TqY9s3J2jQBmkSCbKoaLw/BVvdik2b1ap5kxa7tY0YhftHOyubgH+5/fSnd5O\n5ydOaIqiVzo7Po89OHP/AXqaNTjzHpPdFyiH/IoWuSoowYjPcDeSr/gLY8f+RK/m\nNWd0purPMg1h1usqtxtz4w+6dYYJXtckAVaVIurkLNSS+rLONj+hXz00vZWv4Rug\nHCn+xuCj7VWD60nGCJ6JX3oPUDzO7tts528Me9YI0tBnNTEBMrO1PXQ9lZSHQC7m\ndrmRn0KYeV46aIV+WTSRziU5i+c8mUJ7jhGpO12hWLY6canPoJv8j5zUhDFjd/Wo\n8UiSIWZH13wAJYEMmAdzl4sTlLd1Youz7sg6FI+cW7Dpc5PIrDEWAEzy5ny63ycD\nGMGsl+ssjkACr6B/xb1BoX/e/3E3c2uEnq30qS69o48MVtyPDweVC/Yoni5En8C5\nC4BVpNmcLbaEfiJTs2woiRNjwwe3PQxSLAT7CkRpcPKy96ka2mnIuEuxKfFgpfBW\nLB11iIl4YQEslAiMt0j96VGU1ZxSRdmoB8GLdAPfo0KF+wIbDfEkOBbBtuEVCYFb\nnvRWf/hoRVgUIENMz/YV\n=rEJn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 302268143219288563c1d1e27a7de57f37dd60be\ntype commit\ntag v1.4.0-rc3\ntagger Lauris Bukšis-Haberkorns <lauris@nix.lv> 1521236051 +0200\n\n* SECURITY\n  * Refactor and simplify to correctly validate redirect to URL (#3674) (#3676)\n* BUGFIXES\n  * Update markbates/goth library to fix OAuth2 support (#3661) (#3663)\n  * Fix column removal in MSSQL (#3638) (#3640)\n  * Fix wiki inter-links with spaces (#3560) (#3632)\n"
+  }
+}

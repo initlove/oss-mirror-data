@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTg3ODA5ODE6MGY3Mzk2Y2YyOWNmMDUxMDdiNzlmNGVmMmFkY2I2YTFkMGYyMWRlYQ==",
+  "sha": "0f7396cf29cf05107b79f4ef2adcb6a1d0f21dea",
+  "url": "https://api.github.com/repos/cloudera/impyla/git/tags/0f7396cf29cf05107b79f4ef2adcb6a1d0f21dea",
+  "tagger": {
+    "name": "Uri Laserson",
+    "email": "laserson@cloudera.com",
+    "date": "2015-06-04T21:57:18Z"
+  },
+  "object": {
+    "sha": "ee19129c834faf1be9cab62b898edd4bc9c563a8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/cloudera/impyla/git/commits/ee19129c834faf1be9cab62b898edd4bc9c563a8"
+  },
+  "tag": "v0.10.0",
+  "message": "Release v0.10.0\n\n* Adds Python 3 support for DB API (including Kerberos), but excluding SSL\n* Adds Kerberos support for WebHDFS-related features\n* Adds SQLAlchemy type compiler\n* Adds support for named, qmark, and numeric parameters in `cursor.execute()`\n* Some bugfixes\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

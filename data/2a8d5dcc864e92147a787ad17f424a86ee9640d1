@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6MmE4ZDVkY2M4NjRlOTIxNDdhNzg3YWQxN2Y0MjRhODZlZTk2NDBkMQ==",
+  "sha": "2a8d5dcc864e92147a787ad17f424a86ee9640d1",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/2a8d5dcc864e92147a787ad17f424a86ee9640d1",
+  "tagger": {
+    "name": "Lauris Bukšis-Haberkorns",
+    "email": "lauris@nix.lv",
+    "date": "2018-05-03T05:41:15Z"
+  },
+  "object": {
+    "sha": "abc159637c2ec430d7636e35c6829f7fe0458864",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/abc159637c2ec430d7636e35c6829f7fe0458864"
+  },
+  "tag": "v1.4.1",
+  "message": "* BREAKING\n  * Add \"error\" as reserved username (#3882) (#3886)\n* SECURITY\n  * Do not allow inactive users to access repositories using private key (#3887) (#3889)\n  * Fix path cleanup in file editor, when initilizing new repository and LFS oids  (#3871) (#3873)\n  * Remove unnecessary allowed safe HTML (#3778) (#3779)\n  * Correctly check http git access rights for reverse proxy authorized users (#3721) (#3743)\n* BUGFIXES\n  * Fix to use only needed columns from tables to get repository git paths (#3870) (#3883)\n  * Fix GPG expire time display when time is zero (#3584) (#3884)\n  * Fix to update only issue last update time when adding a comment (#3855) (#3860)\n  * Fix repository star count after deleting user (#3781) (#3783)\n  * Use the active branch for the code tab (#3720) (#3776)\n  * Set default branch name on first push (#3715) (#3723)\n  * Show clipboard button if disable HTTP of git protocol (#3773) (#3774)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJa6qD7AAoJEK7OIW0AexzMPUsP/RIWh1h+aaycz4KiEqRmJhGT\nJ6TG8s/CqXXZzy/UJauvd+hgAIlyZBAxm3h6pbV8/8MKurY/OG00U38diDDMb4XT\nNJicYbcv38p4Wt4wqkcTo2vEuy1vQddSB+Qazwjkr6TBpnyZVp2WSK/geQKeNS8f\nmAX+goUa5vCH9jNFcHSkyba2Xn3/geH9Z8vvUZQTSFGvGAo4ggrLwTtSpkK9hHfC\n0sy7XaFy21El3lxMqfpcZjCSLoteJGlyHHKeDwv/ALgmajWKdGSFBdPI0E/4anE/\nLwvvXOrR8EiERqq4wLaKv3cqInOhpVa8LXX/A9I6jhqrYbLEdnjhozSeogdYl+p0\nc/CzKua3rUKpuWGnxoeT+PvSFJygCh/EaC64paK3HH/HLrB0A9rXR4a63E6ul9nO\nnBHwKtXFwxB3LeRYzLcyMk9zoTVL61dOvuzxc57Vb15iPN7Welr/beCawpmmSe+Y\nlye6EvI2Uz9HIozwxtSaw9s3C1kyec/ZZBcX9nzPA3ryGqKQNjdxMmDPN9EzS2PT\nDQgsjEi2+IrfcEEfSpzF8BNYiJ5rgk7UYV8qR48027YTm8OiGsaJ0g4cGvdjnCXQ\nFnSG3nThsv9dFzT9aoJpjDU7QnXlnmdeJH45y7v3Oqv+EvidCl+jcWVUY3obfktW\n8MYxJbgo9HiIYq7Qy7Pt\n=Q59W\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJa6qD7AAoJEK7OIW0AexzMPUsP/RIWh1h+aaycz4KiEqRmJhGT\nJ6TG8s/CqXXZzy/UJauvd+hgAIlyZBAxm3h6pbV8/8MKurY/OG00U38diDDMb4XT\nNJicYbcv38p4Wt4wqkcTo2vEuy1vQddSB+Qazwjkr6TBpnyZVp2WSK/geQKeNS8f\nmAX+goUa5vCH9jNFcHSkyba2Xn3/geH9Z8vvUZQTSFGvGAo4ggrLwTtSpkK9hHfC\n0sy7XaFy21El3lxMqfpcZjCSLoteJGlyHHKeDwv/ALgmajWKdGSFBdPI0E/4anE/\nLwvvXOrR8EiERqq4wLaKv3cqInOhpVa8LXX/A9I6jhqrYbLEdnjhozSeogdYl+p0\nc/CzKua3rUKpuWGnxoeT+PvSFJygCh/EaC64paK3HH/HLrB0A9rXR4a63E6ul9nO\nnBHwKtXFwxB3LeRYzLcyMk9zoTVL61dOvuzxc57Vb15iPN7Welr/beCawpmmSe+Y\nlye6EvI2Uz9HIozwxtSaw9s3C1kyec/ZZBcX9nzPA3ryGqKQNjdxMmDPN9EzS2PT\nDQgsjEi2+IrfcEEfSpzF8BNYiJ5rgk7UYV8qR48027YTm8OiGsaJ0g4cGvdjnCXQ\nFnSG3nThsv9dFzT9aoJpjDU7QnXlnmdeJH45y7v3Oqv+EvidCl+jcWVUY3obfktW\n8MYxJbgo9HiIYq7Qy7Pt\n=Q59W\n-----END PGP SIGNATURE-----\n",
+    "payload": "object abc159637c2ec430d7636e35c6829f7fe0458864\ntype commit\ntag v1.4.1\ntagger Lauris Bukšis-Haberkorns <lauris@nix.lv> 1525326075 +0300\n\n* BREAKING\n  * Add \"error\" as reserved username (#3882) (#3886)\n* SECURITY\n  * Do not allow inactive users to access repositories using private key (#3887) (#3889)\n  * Fix path cleanup in file editor, when initilizing new repository and LFS oids  (#3871) (#3873)\n  * Remove unnecessary allowed safe HTML (#3778) (#3779)\n  * Correctly check http git access rights for reverse proxy authorized users (#3721) (#3743)\n* BUGFIXES\n  * Fix to use only needed columns from tables to get repository git paths (#3870) (#3883)\n  * Fix GPG expire time display when time is zero (#3584) (#3884)\n  * Fix to update only issue last update time when adding a comment (#3855) (#3860)\n  * Fix repository star count after deleting user (#3781) (#3783)\n  * Use the active branch for the code tab (#3720) (#3776)\n  * Set default branch name on first push (#3715) (#3723)\n  * Show clipboard button if disable HTTP of git protocol (#3773) (#3774)\n"
+  }
+}

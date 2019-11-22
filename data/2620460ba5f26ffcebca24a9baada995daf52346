@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6MjYyMDQ2MGJhNWYyNmZmY2ViY2EyNGE5YmFhZGE5OTVkYWY1MjM0Ng==",
+  "sha": "2620460ba5f26ffcebca24a9baada995daf52346",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/2620460ba5f26ffcebca24a9baada995daf52346",
+  "tagger": {
+    "name": "Lauris Bukšis-Haberkorns",
+    "email": "lauris@nix.lv",
+    "date": "2018-03-04T10:07:55Z"
+  },
+  "object": {
+    "sha": "93f34fd8a2d6b3d32a6fc117249196aafb425981",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/93f34fd8a2d6b3d32a6fc117249196aafb425981"
+  },
+  "tag": "v1.4.0-rc2",
+  "message": "* SECURITY\n  * Fix escaping changed title in comments (#3530) (#3534)\n  * Escape search query (#3486) (#3488)\n* BUGFIXES\n  * Fix query protected branch bug (#3563) (#3571)\n  * Fix remove team member issue (#3566) (#3570)\n  * Fix the protected branch panic issue (#3567) (#3569)\n  * If Mirrors repository no content is fetched, updated time should not be changed (#3551) (#3565)\n  * Bug fix for mirrored repository releases sorted (#3522) (#3555)\n  * Add issue closed time column to fix activity closed issues list (#3537) (#3540)\n  * Update markbates/goth library to support OAuth2 with new dropbox API (#3533) (#3539)\n  * Fixes missing avatars in offline mode (#3471) (#3477)\n  * Fix synchronization bug in repo indexer (#3455) (#3461)\n  * Fix rendering of wiki page list if wiki repo contains other files (#3454) (#3463)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJam8V7AAoJEK7OIW0AexzMrloQALklzA4IP7ZSAUgT7ZWg2RqX\nEoIlUiSu8OloUw04vxJoNEgquB7fucoeCIyIaBlCUOvLG4L36CzwVFQrFcsb7hKg\nq5RszYL/obVdKTQWoLgJbznd6q+7Hi0WQc/sEDQxRh+FpmFHmeURTbNMLyA6KePS\nK4BVUzzcCluqBWjGWO5wfjVPRuupbTsj16xulS8QCo2n47nQfjbG6ntg2aoXp3hE\n7FkVHFabkuDX6uHuGKxPnx2o25/ByGIk93Nn8dnKUTTMMyDkYATO1NsR2mw9pKZt\nmYUBq4OKnWH2pA2D7wE+93Vq2vgT433T/JrxBGoS1XZkbeWl6DRPB+nO6jsFHZhd\nWlisZqJRvXQ5bHg9y0ov6VgB+MHquCRtMrZ+iTKwdxzLd/GaCoJy4+Sl/IwIcbk7\nQM3M37G1qhCqVnSm5Wyovhhp/gGBZ8F0jNHkTLfZvAK1XXa9YGVy52S6BAyNoQwG\n6VxFi9PxiHRlXLHtxOPrdenMGO++EQEUkgRaySogOgezuiabJ9JgjOnSWI0DBmwk\n3ht/f3q1StewoK/OKEGnHrHO5QUyAJrBtbBiuxRPlu77umH7zzsKXK7g12aHpdIK\nsv0VAmNMT9SqpjFk1h6lyyYWq2KbBlGGZH3J5KgTt/DRRnYX1DpTeZqr+x/cxBAj\n1+ipfCM94124ayAlS0Sp\n=wTjQ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJam8V7AAoJEK7OIW0AexzMrloQALklzA4IP7ZSAUgT7ZWg2RqX\nEoIlUiSu8OloUw04vxJoNEgquB7fucoeCIyIaBlCUOvLG4L36CzwVFQrFcsb7hKg\nq5RszYL/obVdKTQWoLgJbznd6q+7Hi0WQc/sEDQxRh+FpmFHmeURTbNMLyA6KePS\nK4BVUzzcCluqBWjGWO5wfjVPRuupbTsj16xulS8QCo2n47nQfjbG6ntg2aoXp3hE\n7FkVHFabkuDX6uHuGKxPnx2o25/ByGIk93Nn8dnKUTTMMyDkYATO1NsR2mw9pKZt\nmYUBq4OKnWH2pA2D7wE+93Vq2vgT433T/JrxBGoS1XZkbeWl6DRPB+nO6jsFHZhd\nWlisZqJRvXQ5bHg9y0ov6VgB+MHquCRtMrZ+iTKwdxzLd/GaCoJy4+Sl/IwIcbk7\nQM3M37G1qhCqVnSm5Wyovhhp/gGBZ8F0jNHkTLfZvAK1XXa9YGVy52S6BAyNoQwG\n6VxFi9PxiHRlXLHtxOPrdenMGO++EQEUkgRaySogOgezuiabJ9JgjOnSWI0DBmwk\n3ht/f3q1StewoK/OKEGnHrHO5QUyAJrBtbBiuxRPlu77umH7zzsKXK7g12aHpdIK\nsv0VAmNMT9SqpjFk1h6lyyYWq2KbBlGGZH3J5KgTt/DRRnYX1DpTeZqr+x/cxBAj\n1+ipfCM94124ayAlS0Sp\n=wTjQ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 93f34fd8a2d6b3d32a6fc117249196aafb425981\ntype commit\ntag v1.4.0-rc2\ntagger Lauris Bukšis-Haberkorns <lauris@nix.lv> 1520158075 +0200\n\n* SECURITY\n  * Fix escaping changed title in comments (#3530) (#3534)\n  * Escape search query (#3486) (#3488)\n* BUGFIXES\n  * Fix query protected branch bug (#3563) (#3571)\n  * Fix remove team member issue (#3566) (#3570)\n  * Fix the protected branch panic issue (#3567) (#3569)\n  * If Mirrors repository no content is fetched, updated time should not be changed (#3551) (#3565)\n  * Bug fix for mirrored repository releases sorted (#3522) (#3555)\n  * Add issue closed time column to fix activity closed issues list (#3537) (#3540)\n  * Update markbates/goth library to support OAuth2 with new dropbox API (#3533) (#3539)\n  * Fixes missing avatars in offline mode (#3471) (#3477)\n  * Fix synchronization bug in repo indexer (#3455) (#3461)\n  * Fix rendering of wiki page list if wiki repo contains other files (#3454) (#3463)\n"
+  }
+}

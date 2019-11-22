@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6ZGI3NjVjY2VjZmJhMDg4MThmM2RhNmZlZDg1MzRiMjhlNjZkNjU0Yg==",
+  "sha": "db765ccecfba08818f3da6fed8534b28e66d654b",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/db765ccecfba08818f3da6fed8534b28e66d654b",
+  "tagger": {
+    "name": "Matti R",
+    "email": "matti@mdranta.net",
+    "date": "2019-05-29T19:34:49Z"
+  },
+  "object": {
+    "sha": "dc73b2748dd15a21b4a21839470399c3bb8548c1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/dc73b2748dd15a21b4a21839470399c3bb8548c1"
+  },
+  "tag": "v1.8.2",
+  "message": "* BUGFIXES\n  * Fix possbile mysql invalid connnection error (#7051) (#7071)\n  * Handle invalid administrator username on install page (#7060) (#7063)\n  * Disable arm7 builds (#7037) (#7042)\n  * Fix default for allowing new organization creation for new users (#7017) (#7034)\n  * SearchRepositoryByName improvements and unification (#6897) (#7002)\n  * Fix u2f registrationlist ToRegistrations() method (#6980) (#6982)\n  * Allow collaborators to view repo owned by private org (#6965) (#6968)\n  * Use AppURL for Oauth user link (#6894) (#6925)\n  * Escape the commit message on issues update (#6901) (#6902)\n  * Fix regression for API users search (#6882) (#6885)\n  * Handle early git version's lack of get-url (#7065) (#7076)\n  * Fix wrong init dependency on markup extensions (#7038) (#7074)\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEtW48dDeknhNoYvXenYpXraojLpUFAlzu3tkACgkQnYpXraoj\nLpUxCw/9HU3lr/L1NVnHg3TuS6XO3ZeJUfiWgag/8a+PaorrHgEdbGFCk3zikrrM\n9n1W5lD9r/hm+XNnMh1QiGZwUTsJkKD3coYb5YY28TL2S3v/HWdsvXGDTSCfPF+n\nsl5IumGb3Hx0sHvNpXwIm6srECqP+U3bF5cai3P6FJm8MZGXi/zJLBSzg5etEHCz\nFwRycHHilOnG6Cfw0r1JvGqeWOJiio5LpntTuKj5bUvSAbSLm9QEJ6WYys98OZSe\nC9/k8iXy1xTp1wP2MDsYAkfegdAr/5splKFIJn3EMhzRKYtna5vrdVFbSID/h87m\ntGNxUBLFw4A36iVHqteheUjTaau3aaQTB2t7ttXFwzib5/k5uM3o3ih/MyR9qy+G\nJfylWoGr7VofuSxIc0unfNebRSHCEzkOtyI+Ae+54UNKzoPMiWuY+J+dS+OnVWKt\nqbOHeakLvzrkPLfbckb2r67ugzHvBY7Ni3xAt4y+MTqfdHPNRtquDnxQeTzRT+kw\nTvrDTKxcULsLgmKBPSoBF2XSyq4E4XdwsgeJYpZ/taqSqt89oFbmAeW+EhoH7ewh\nBr1HuYNYzKV9vpFQRUfQA8/9SWoSlv7UR+O0AErhArwNghJ6148AEaIdz9KKXlEL\nBT2+X+gLC2GvpcZo6lHpcighEJbU1qeNqIaSzxRtjGdFleIjQE4=\n=VpKf\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEtW48dDeknhNoYvXenYpXraojLpUFAlzu3tkACgkQnYpXraoj\nLpUxCw/9HU3lr/L1NVnHg3TuS6XO3ZeJUfiWgag/8a+PaorrHgEdbGFCk3zikrrM\n9n1W5lD9r/hm+XNnMh1QiGZwUTsJkKD3coYb5YY28TL2S3v/HWdsvXGDTSCfPF+n\nsl5IumGb3Hx0sHvNpXwIm6srECqP+U3bF5cai3P6FJm8MZGXi/zJLBSzg5etEHCz\nFwRycHHilOnG6Cfw0r1JvGqeWOJiio5LpntTuKj5bUvSAbSLm9QEJ6WYys98OZSe\nC9/k8iXy1xTp1wP2MDsYAkfegdAr/5splKFIJn3EMhzRKYtna5vrdVFbSID/h87m\ntGNxUBLFw4A36iVHqteheUjTaau3aaQTB2t7ttXFwzib5/k5uM3o3ih/MyR9qy+G\nJfylWoGr7VofuSxIc0unfNebRSHCEzkOtyI+Ae+54UNKzoPMiWuY+J+dS+OnVWKt\nqbOHeakLvzrkPLfbckb2r67ugzHvBY7Ni3xAt4y+MTqfdHPNRtquDnxQeTzRT+kw\nTvrDTKxcULsLgmKBPSoBF2XSyq4E4XdwsgeJYpZ/taqSqt89oFbmAeW+EhoH7ewh\nBr1HuYNYzKV9vpFQRUfQA8/9SWoSlv7UR+O0AErhArwNghJ6148AEaIdz9KKXlEL\nBT2+X+gLC2GvpcZo6lHpcighEJbU1qeNqIaSzxRtjGdFleIjQE4=\n=VpKf\n-----END PGP SIGNATURE-----\n",
+    "payload": "object dc73b2748dd15a21b4a21839470399c3bb8548c1\ntype commit\ntag v1.8.2\ntagger Matti R <matti@mdranta.net> 1559158489 -0400\n\n* BUGFIXES\n  * Fix possbile mysql invalid connnection error (#7051) (#7071)\n  * Handle invalid administrator username on install page (#7060) (#7063)\n  * Disable arm7 builds (#7037) (#7042)\n  * Fix default for allowing new organization creation for new users (#7017) (#7034)\n  * SearchRepositoryByName improvements and unification (#6897) (#7002)\n  * Fix u2f registrationlist ToRegistrations() method (#6980) (#6982)\n  * Allow collaborators to view repo owned by private org (#6965) (#6968)\n  * Use AppURL for Oauth user link (#6894) (#6925)\n  * Escape the commit message on issues update (#6901) (#6902)\n  * Fix regression for API users search (#6882) (#6885)\n  * Handle early git version's lack of get-url (#7065) (#7076)\n  * Fix wrong init dependency on markup extensions (#7038) (#7074)\n"
+  }
+}

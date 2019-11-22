@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMzNjg0NDU6OWVkYTVlM2Q1NjJmOTQ3NzcyNTkzZTBhZDdhMTkxYzk5ZDUzZWM5NA==",
+  "sha": "9eda5e3d562f947772593e0ad7a191c99d53ec94",
+  "url": "https://api.github.com/repos/webmproject/libwebp/git/tags/9eda5e3d562f947772593e0ad7a191c99d53ec94",
+  "tagger": {
+    "name": "James Zern",
+    "email": "jzern@google.com",
+    "date": "2016-07-07T02:24:26Z"
+  },
+  "object": {
+    "sha": "3d97bb75144147e47db278ec76e5e70c6b2243db",
+    "type": "commit",
+    "url": "https://api.github.com/repos/webmproject/libwebp/git/commits/3d97bb75144147e47db278ec76e5e70c6b2243db"
+  },
+  "tag": "v0.5.1",
+  "message": "libwebp-0.5.1\n- 6/14/2016: version 0.5.1\n  This is a binary compatible release.\n  * miscellaneous bug fixes (issues #280, #289)\n  * reverted alpha plane encoding with color cache for compatibility with\n    libwebp 0.4.0->0.4.3 (issues #291, #298)\n  * lossless encoding performance improvements\n  * memory reduction in both lossless encoding and decoding\n  * force mux output to be in the extended format (VP8X) when undefined chunks\n    are present (issue #294)\n  * gradle, cmake build support\n  * workaround for compiler bug causing 64-bit decode failures on android\n    devices using clang-3.8 in the r11c NDK\n  * various WebPAnimEncoder improvements\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJXfb1vAAoJEPnD1r24IytdtbwP/iCCEEU9scepXgh9+ICUOm1D\n6ASfz6eTYIPP4s2E+kIJKrKeGUrk7U1j6BeehjKxS3vMQxQlJvkXvepk0mdJUO4C\nokttfLahLY6DOZSAETK9SI4haE2Uuz5WGfxMe8x+4uuZZTxSLHqOCFMvU2oxo6uM\nrhErJgH3jWE9vGV9OuI8YUa109qGi8PLtErrFjXqFmAvnxJS95kJHr3MHVoulH8g\ntXrSUYTq37BCfSsxudhZTCENLhYqlXHO5tydvQVAlVbXJfpOsNLQciWUrqFiPuB9\nqhUv3smRV9YBd4XuUgFWLQcbcecQVBzIqxJ7lv41R71vi17Lu4plLjNAc0Cx70qc\ncnfe/acH+9hX0EwBzpvOpN/Lzirx1tmBKPOqnSiFpFP48RZSngLMG0mwhUufyq1I\ny6T2rEcMLRbAX/85sGMRd1AwffoW6OvgPG2LdhW2bh8u9YbA/g3qGH98z2T1JKjy\nV/TNvpTjXAdZ5XQMY8zIunv83Wp/6AWmJIRWZ+mfhw29F/F80HQG2Ss7dulbe3m2\nzpBjxdsaLj+9iZpheewrGGImZ5mJQsG7nRovtQ0VARVaRSY3xpaYug2CqXlQQ2bc\nbjdmGS9u+a4fHdk+uKTMzJEbu4RbXcOeLrvpzA+PxhUQi9WRyLIucIWeVVEDiUI2\np7OJop9JmPjkRvvqfi5y\n=Mchr\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJXfb1vAAoJEPnD1r24IytdtbwP/iCCEEU9scepXgh9+ICUOm1D\n6ASfz6eTYIPP4s2E+kIJKrKeGUrk7U1j6BeehjKxS3vMQxQlJvkXvepk0mdJUO4C\nokttfLahLY6DOZSAETK9SI4haE2Uuz5WGfxMe8x+4uuZZTxSLHqOCFMvU2oxo6uM\nrhErJgH3jWE9vGV9OuI8YUa109qGi8PLtErrFjXqFmAvnxJS95kJHr3MHVoulH8g\ntXrSUYTq37BCfSsxudhZTCENLhYqlXHO5tydvQVAlVbXJfpOsNLQciWUrqFiPuB9\nqhUv3smRV9YBd4XuUgFWLQcbcecQVBzIqxJ7lv41R71vi17Lu4plLjNAc0Cx70qc\ncnfe/acH+9hX0EwBzpvOpN/Lzirx1tmBKPOqnSiFpFP48RZSngLMG0mwhUufyq1I\ny6T2rEcMLRbAX/85sGMRd1AwffoW6OvgPG2LdhW2bh8u9YbA/g3qGH98z2T1JKjy\nV/TNvpTjXAdZ5XQMY8zIunv83Wp/6AWmJIRWZ+mfhw29F/F80HQG2Ss7dulbe3m2\nzpBjxdsaLj+9iZpheewrGGImZ5mJQsG7nRovtQ0VARVaRSY3xpaYug2CqXlQQ2bc\nbjdmGS9u+a4fHdk+uKTMzJEbu4RbXcOeLrvpzA+PxhUQi9WRyLIucIWeVVEDiUI2\np7OJop9JmPjkRvvqfi5y\n=Mchr\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3d97bb75144147e47db278ec76e5e70c6b2243db\ntype commit\ntag v0.5.1\ntagger James Zern <jzern@google.com> 1467858266 -0700\n\nlibwebp-0.5.1\n- 6/14/2016: version 0.5.1\n  This is a binary compatible release.\n  * miscellaneous bug fixes (issues #280, #289)\n  * reverted alpha plane encoding with color cache for compatibility with\n    libwebp 0.4.0->0.4.3 (issues #291, #298)\n  * lossless encoding performance improvements\n  * memory reduction in both lossless encoding and decoding\n  * force mux output to be in the extended format (VP8X) when undefined chunks\n    are present (issue #294)\n  * gradle, cmake build support\n  * workaround for compiler bug causing 64-bit decode failures on android\n    devices using clang-3.8 in the r11c NDK\n  * various WebPAnimEncoder improvements\n"
+  }
+}

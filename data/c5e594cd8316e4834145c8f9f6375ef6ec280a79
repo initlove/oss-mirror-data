@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTg3ODA5ODE6YzVlNTk0Y2Q4MzE2ZTQ4MzQxNDVjOGY5ZjYzNzVlZjZlYzI4MGE3OQ==",
+  "sha": "c5e594cd8316e4834145c8f9f6375ef6ec280a79",
+  "url": "https://api.github.com/repos/cloudera/impyla/git/tags/c5e594cd8316e4834145c8f9f6375ef6ec280a79",
+  "tagger": {
+    "name": "Uri Laserson",
+    "email": "laserson@cloudera.com",
+    "date": "2015-09-03T23:04:53Z"
+  },
+  "object": {
+    "sha": "2fc31ed768af87d5405dc8e393c03ad76f5e4494",
+    "type": "commit",
+    "url": "https://api.github.com/repos/cloudera/impyla/git/commits/2fc31ed768af87d5405dc8e393c03ad76f5e4494"
+  },
+  "tag": "v0.11.0",
+  "message": "Release v0.11.0\n\n**New Features**\n\n* Hive compatibility through HiveServer2\n* Library now has logging.  Handlers must be set by users\n* Asynchronous query execution with HiveServer2\n\n**Deprecations**\n\nThese features will be removed in a future release.\n\n* Deprecated all non-DB API functionality (including numba/UDF, BDF, ImpalaContext)\n* Deprecated beeswax and the `protocol` arg to `connect()`; use HiveServer2 instead\n* Deprecated `user_kerberos`, `use_ldap`, `ldap_user`, and `ldap_password`.  User `auth_mechanism` arg instead, along with `user` and `password` if necessary.\n\n**Bug fixes and other improvements**\n\n* Added test coverage reporting, pylint/flake8 linting\n* Unit tests refactored.  Deprecated features no longer tested.\n* Restructured code to simplify package structure\n* New dependency on external thrift_sasl (pure) python package.\n* Other minor bug fixes\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

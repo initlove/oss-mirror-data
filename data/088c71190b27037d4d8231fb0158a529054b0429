@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzI0OTU1Nzk6MDg4YzcxMTkwYjI3MDM3ZDRkODIzMWZiMDE1OGE1MjkwNTRiMDQyOQ==",
+  "sha": "088c71190b27037d4d8231fb0158a529054b0429",
+  "url": "https://api.github.com/repos/go-gitea/gitea/git/tags/088c71190b27037d4d8231fb0158a529054b0429",
+  "tagger": {
+    "name": "Matti Ranta",
+    "email": "matti@mdranta.net",
+    "date": "2018-06-27T01:03:29Z"
+  },
+  "object": {
+    "sha": "96c63a49376cd71c29a92e9a1685f07653376668",
+    "type": "commit",
+    "url": "https://api.github.com/repos/go-gitea/gitea/git/commits/96c63a49376cd71c29a92e9a1685f07653376668"
+  },
+  "tag": "v1.4.3",
+  "message": "* SECURITY\n  * HTML-escape plain-text READMEs (#4192) (#4214)\n  * Fix open redirect vulnerability on login screen (#4312) (#4312)\n* BUGFIXES\n  * Fix broken monitoring page when running processes are shown (#4203) (#4208)\n  * Fix delete comment bug (#4216) (#4228)\n  * Delete reactions added to issues and comments when deleting repository (#4232) (#4237)\n  * Fix wiki URL encoding bug (#4091) (#4254)\n  * Fix code tab link when viewing tags (#3908) (#4263)\n  * Fix webhook type conflation (#4285) (#4285)\n\n* BUGFIXES\n  * Adjust z-index for floating labels (#3939) (#3950)\n  * Add missing token validation on application settings page (#3976) #3978\n  * Webhook and hook_task clean up (#4006)\n  * Fix webhook bug of response info is not displayed in UI (#4023)\n  * Fix writer cannot read bare repo guide (#4033) (#4039)\n  * Don't force due date to current time (#3830) (#4057)\n  * Fix wiki redirects (#3919) (#4065)\n  * Fix attachment ENABLED (#4064) (#4066)\n  * Added deletion of an empty line at the end of file (#4054) (#4074)\n  * Use ResolveReference instead of path.Join (#4073)\n  * Fix #4081 Check for leading / in base before removing it (#4083)\n  * Respository's home page not updated after first push (#4075)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlsy4mEACgkQ2bVhO+uB\nP5mS7Qf9H3WWLMYZpEkiKHOcI59wIRU9QcT8QFaWkdZxawCsd2HaxHegBQ4wb7w0\nBqhwuQrk3BN8nCoRYYROYm8LE8hrWd/CEV55yaDpILbykaeALJDQ4f6ms/XMP4jN\nqs/8nNwlXDS+xyyNiyXjh8OrCuCV0kF7o+cfHlzS374V6j+U8XzaCtDi/WIp/HsL\nsl5nltuHFJ/cHImD4MrMmyQuX+5cx8D5Jif/8J8zqHsuR/OCcclMTYOAdDu62tu4\nJElLdK29O0RAOqVIFSABNg1/zVydep81XfjmWsPOWeVNh5YaL+iCN6tSf3dQ5CaF\nGtDVSLT2+9bWvmFUE84JaHfpdmTt9Q==\n=Xe28\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEjEAzojiVI3yyfVLZ2bVhO+uBP5kFAlsy4mEACgkQ2bVhO+uB\nP5mS7Qf9H3WWLMYZpEkiKHOcI59wIRU9QcT8QFaWkdZxawCsd2HaxHegBQ4wb7w0\nBqhwuQrk3BN8nCoRYYROYm8LE8hrWd/CEV55yaDpILbykaeALJDQ4f6ms/XMP4jN\nqs/8nNwlXDS+xyyNiyXjh8OrCuCV0kF7o+cfHlzS374V6j+U8XzaCtDi/WIp/HsL\nsl5nltuHFJ/cHImD4MrMmyQuX+5cx8D5Jif/8J8zqHsuR/OCcclMTYOAdDu62tu4\nJElLdK29O0RAOqVIFSABNg1/zVydep81XfjmWsPOWeVNh5YaL+iCN6tSf3dQ5CaF\nGtDVSLT2+9bWvmFUE84JaHfpdmTt9Q==\n=Xe28\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 96c63a49376cd71c29a92e9a1685f07653376668\ntype commit\ntag v1.4.3\ntagger Matti Ranta <matti@mdranta.net> 1530061409 -0400\n\n* SECURITY\n  * HTML-escape plain-text READMEs (#4192) (#4214)\n  * Fix open redirect vulnerability on login screen (#4312) (#4312)\n* BUGFIXES\n  * Fix broken monitoring page when running processes are shown (#4203) (#4208)\n  * Fix delete comment bug (#4216) (#4228)\n  * Delete reactions added to issues and comments when deleting repository (#4232) (#4237)\n  * Fix wiki URL encoding bug (#4091) (#4254)\n  * Fix code tab link when viewing tags (#3908) (#4263)\n  * Fix webhook type conflation (#4285) (#4285)\n\n* BUGFIXES\n  * Adjust z-index for floating labels (#3939) (#3950)\n  * Add missing token validation on application settings page (#3976) #3978\n  * Webhook and hook_task clean up (#4006)\n  * Fix webhook bug of response info is not displayed in UI (#4023)\n  * Fix writer cannot read bare repo guide (#4033) (#4039)\n  * Don't force due date to current time (#3830) (#4057)\n  * Fix wiki redirects (#3919) (#4065)\n  * Fix attachment ENABLED (#4064) (#4066)\n  * Added deletion of an empty line at the end of file (#4054) (#4074)\n  * Use ResolveReference instead of path.Join (#4073)\n  * Fix #4081 Check for leading / in base before removing it (#4083)\n  * Respository's home page not updated after first push (#4075)\n"
+  }
+}
