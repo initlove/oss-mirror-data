@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI4MjEzMDM6YWNiNjc0NDlmODNjYWFlODRhZWMxNjdlYTkwZThhMDc1NTQ1YTcwYQ==",
+  "sha": "acb67449f83caae84aec167ea90e8a075545a70a",
+  "url": "https://api.github.com/repos/coreos/go-systemd/git/tags/acb67449f83caae84aec167ea90e8a075545a70a",
+  "tagger": {
+    "name": "Luca Bruno",
+    "email": "luca.bruno@coreos.com",
+    "date": "2018-02-02T10:02:02Z"
+  },
+  "object": {
+    "sha": "0cf80d07389b9f899979cccccdae4a63df9970e5",
+    "type": "tag",
+    "url": "https://api.github.com/repos/coreos/go-systemd/git/tags/0cf80d07389b9f899979cccccdae4a63df9970e5"
+  },
+  "tag": "v16",
+  "message": "go-systemd v16\n\nSummary of changes in this release:\n * dbus: fix subStateSubscriber crash\n * dbus: make SetSubStateSubscriber safer\n * dbus: add SetPropertiesSubscriber method\n * dbus: add SystemState method for getting system state\n * login1: add close function\n * sdjournal: clarify documentation's notion of \"current\"\n * sdjournal: support testing cursor against current position\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEOwQy4Yrx7zh0gyPCqYNKIlIHjk4FAlp0NyEACgkQqYNKIlIH\njk4fHRAAxdLEq8RYXxwmaffFxsYUQlsynZiZ5WS3sGXXdKkMlkvQx5eDS2Di+fXd\ntLvxWxxJNqOwnoJbJbuaDqCWZoRONAatJKwPq8iBj96H5sqv2gf6P/FA0oD7mz9T\nqStvK4CVuk5c8ZI/veTy5YKBMnnGsVbkHN5EUpTJKXo7DAnSwSxDcAT6L8gHLgFY\nNUAWVan/Kpr/b8Xe5oaT3kOeTzfqMChuudwAW6/9mzuRIytkwMmAaUE9sCX7aX47\nsz+xzQ0zgPjR3b4pCAdk9VqkE40NGqj5stR7x4MRRn1x+rViWdlomgksuWw0TfD6\nFTdBTJGAfaf/RjQd29rw1t7rBRmUOq4Vw30Uyj5s72Z4sGFDeqMtmINYIN1bASQm\nrCoUaTN5454A3hPUgnE6ZDHlKpAaGn/g/UXZ6pEexKcMXUSIFLTsnpS+D8utBB8F\nquUS6MefwAq8hKyQ7QtMr0pogXBoGQxCoZOn9Ad6VK2+lk5GlwFmuYkgdBZ0ch1K\nsUwi9g6DLw+X0Qyd6fILMQTwRYiXzxURXJmZPRPT+tSpv3d6ZXgTxB+vLrn6VOo7\nmaagtZ8zB9rjORwYxjgxdntFDzF2czf1r0eGEfGrddzpIrsxLidz2jsj1+k0mzsh\n8AhDxNYmpAYDzr0ES/tvVXHaV74xxFEa9X93baGPHAq2S+nn0/o=\n=VVdj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEOwQy4Yrx7zh0gyPCqYNKIlIHjk4FAlp0NyEACgkQqYNKIlIH\njk4fHRAAxdLEq8RYXxwmaffFxsYUQlsynZiZ5WS3sGXXdKkMlkvQx5eDS2Di+fXd\ntLvxWxxJNqOwnoJbJbuaDqCWZoRONAatJKwPq8iBj96H5sqv2gf6P/FA0oD7mz9T\nqStvK4CVuk5c8ZI/veTy5YKBMnnGsVbkHN5EUpTJKXo7DAnSwSxDcAT6L8gHLgFY\nNUAWVan/Kpr/b8Xe5oaT3kOeTzfqMChuudwAW6/9mzuRIytkwMmAaUE9sCX7aX47\nsz+xzQ0zgPjR3b4pCAdk9VqkE40NGqj5stR7x4MRRn1x+rViWdlomgksuWw0TfD6\nFTdBTJGAfaf/RjQd29rw1t7rBRmUOq4Vw30Uyj5s72Z4sGFDeqMtmINYIN1bASQm\nrCoUaTN5454A3hPUgnE6ZDHlKpAaGn/g/UXZ6pEexKcMXUSIFLTsnpS+D8utBB8F\nquUS6MefwAq8hKyQ7QtMr0pogXBoGQxCoZOn9Ad6VK2+lk5GlwFmuYkgdBZ0ch1K\nsUwi9g6DLw+X0Qyd6fILMQTwRYiXzxURXJmZPRPT+tSpv3d6ZXgTxB+vLrn6VOo7\nmaagtZ8zB9rjORwYxjgxdntFDzF2czf1r0eGEfGrddzpIrsxLidz2jsj1+k0mzsh\n8AhDxNYmpAYDzr0ES/tvVXHaV74xxFEa9X93baGPHAq2S+nn0/o=\n=VVdj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0cf80d07389b9f899979cccccdae4a63df9970e5\ntype tag\ntag v16\ntagger Luca Bruno <luca.bruno@coreos.com> 1517565722 +0000\n\ngo-systemd v16\n\nSummary of changes in this release:\n * dbus: fix subStateSubscriber crash\n * dbus: make SetSubStateSubscriber safer\n * dbus: add SetPropertiesSubscriber method\n * dbus: add SystemState method for getting system state\n * login1: add close function\n * sdjournal: clarify documentation's notion of \"current\"\n * sdjournal: support testing cursor against current position\n"
+  }
+}

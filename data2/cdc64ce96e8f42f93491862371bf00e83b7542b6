@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjA2NTM5MzQ6Y2RjNjRjZTk2ZThmNDJmOTM0OTE4NjIzNzFiZjAwZTgzYjc1NDJiNg==",
+  "sha": "cdc64ce96e8f42f93491862371bf00e83b7542b6",
+  "url": "https://api.github.com/repos/google/cadvisor/git/tags/cdc64ce96e8f42f93491862371bf00e83b7542b6",
+  "tagger": {
+    "name": "Tim St. Clair",
+    "email": "stclair@google.com",
+    "date": "2016-08-02T18:06:03Z"
+  },
+  "object": {
+    "sha": "5c5b2b8d0557297f201b4c8939570399a6aa4b6a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/google/cadvisor/git/commits/5c5b2b8d0557297f201b4c8939570399a6aa4b6a"
+  },
+  "tag": "v0.23.8",
+  "message": "Prefix Docker labels & env vars in Prometheus metrics to prevent conflicts\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJXoOELAAoJEENNFrzvR56r3iYP/2sxuIS3OpHr71koFvgDqWVF\nkLj82B77w2upGwSXq0C4Jycvi1T/ajlq7PG0y86CZ5NugvWEVwHiflTNcN9m4uLV\n5/IVsRNRnflQWGNb5SE+9OS0umo0e8ARSOdFbLnyQHIrbvPLQa1mClHx8aj4lNMz\no6l0BTuZOZX+4bdvbaPfFk9eVwwVSbArDomKJsmTEIeEBjBu0jP6Xv2YQLpGn8Jy\nfUdQO/Oc7vzOkr2ezBgFTqbWfDLXgxnngm/VSMtqBHeb5J6wCVs56duA+Mb+8Nq9\n1P336+JU4fuC27ONW/HgHhP+pFXqo3oMaxyhOprDemp0Br3gmpD4iC7VK068CNMm\nCHvJJ3oLt4NK4jPJJ0C8r3theI4LxC6Sg076C/pguGVREFqjO6RNuaKxxjuNTVlj\nvN50SQzrX2Ayy83wtfuRrrJ/nKl+eMHDVkouC4i+xG3g8skr1yyT/ih/YuXT4LcY\n8WyKspvll0D+vR5Y1ahOT3dG/czgXnRCQiX2XiRYeR7Cxdh5aqaCZoLn1szX4d0B\nOau5mBgcYcUJP/uOyts4Ae2/Ax7lP03Vkq8lIIeHsSNkiSu4sWaoJm1DiDdUaipf\nDf1qxlEFE4y/iE0tdCUj1dbYHm43IC4KxhKXKdX2jAXxX/gEovpYJJxu3ETB7k8e\n9wGg+LrwbC4vwPDqUGEe\n=78v4\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJXoOELAAoJEENNFrzvR56r3iYP/2sxuIS3OpHr71koFvgDqWVF\nkLj82B77w2upGwSXq0C4Jycvi1T/ajlq7PG0y86CZ5NugvWEVwHiflTNcN9m4uLV\n5/IVsRNRnflQWGNb5SE+9OS0umo0e8ARSOdFbLnyQHIrbvPLQa1mClHx8aj4lNMz\no6l0BTuZOZX+4bdvbaPfFk9eVwwVSbArDomKJsmTEIeEBjBu0jP6Xv2YQLpGn8Jy\nfUdQO/Oc7vzOkr2ezBgFTqbWfDLXgxnngm/VSMtqBHeb5J6wCVs56duA+Mb+8Nq9\n1P336+JU4fuC27ONW/HgHhP+pFXqo3oMaxyhOprDemp0Br3gmpD4iC7VK068CNMm\nCHvJJ3oLt4NK4jPJJ0C8r3theI4LxC6Sg076C/pguGVREFqjO6RNuaKxxjuNTVlj\nvN50SQzrX2Ayy83wtfuRrrJ/nKl+eMHDVkouC4i+xG3g8skr1yyT/ih/YuXT4LcY\n8WyKspvll0D+vR5Y1ahOT3dG/czgXnRCQiX2XiRYeR7Cxdh5aqaCZoLn1szX4d0B\nOau5mBgcYcUJP/uOyts4Ae2/Ax7lP03Vkq8lIIeHsSNkiSu4sWaoJm1DiDdUaipf\nDf1qxlEFE4y/iE0tdCUj1dbYHm43IC4KxhKXKdX2jAXxX/gEovpYJJxu3ETB7k8e\n9wGg+LrwbC4vwPDqUGEe\n=78v4\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5c5b2b8d0557297f201b4c8939570399a6aa4b6a\ntype commit\ntag v0.23.8\ntagger Tim St. Clair <stclair@google.com> 1470161163 -0700\n\nPrefix Docker labels & env vars in Prometheus metrics to prevent conflicts\n"
+  }
+}

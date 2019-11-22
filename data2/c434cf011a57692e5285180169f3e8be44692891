@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6YzQzNGNmMDExYTU3NjkyZTUyODUxODAxNjlmM2U4YmU0NDY5Mjg5MQ==",
+  "sha": "c434cf011a57692e5285180169f3e8be44692891",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/c434cf011a57692e5285180169f3e8be44692891",
+  "tagger": {
+    "name": "Richard Scothern",
+    "email": "richard.scothern@gmail.com",
+    "date": "2016-01-21T18:32:39Z"
+  },
+  "object": {
+    "sha": "1df70eb1da2ff9fdbbffe80f9a583e13a4374682",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/1df70eb1da2ff9fdbbffe80f9a583e13a4374682"
+  },
+  "tag": "v2.3.0-rc.1",
+  "message": "Fixes a bug where the incorrect digest and size were sent in manifest push\nevents for schema 1 manifests.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWoSSKAAoJEPfQDq9vNVAKgn0H/1R1s1DxASPKmtG3aYC5a0VV\nm1tK8KyaAzoG3yLm7OZfhq9SNG4OPBC1aB1u7kDTF6x6jvLYfbzivTRs3uJAdNqQ\nEuNVdQfK5OcuRapFG67XPCH/W7zhsxvgnhyexHs05M1k6Dz0WDxyQE3Bqlzb9ivv\ngo1ggTNCeJEnJY7QKFbvMzmC/SzR+kxv43Pp5jIo8wlP4K3xTlCfFUfiuvtWQg6J\nBdry4kWmKyFLEWGLoo+YyVt2GvIcGWHcFn5Kg2zRG37cYD+xZ6WxNzEKFn3ON+R/\nkemxnX18Xuw3FdsXNAFREahaiX382oK2p/B2ZAt2zbTeTv2pzfVpt5NOmNeG7DM=\n=7Ucl\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWoSSKAAoJEPfQDq9vNVAKgn0H/1R1s1DxASPKmtG3aYC5a0VV\nm1tK8KyaAzoG3yLm7OZfhq9SNG4OPBC1aB1u7kDTF6x6jvLYfbzivTRs3uJAdNqQ\nEuNVdQfK5OcuRapFG67XPCH/W7zhsxvgnhyexHs05M1k6Dz0WDxyQE3Bqlzb9ivv\ngo1ggTNCeJEnJY7QKFbvMzmC/SzR+kxv43Pp5jIo8wlP4K3xTlCfFUfiuvtWQg6J\nBdry4kWmKyFLEWGLoo+YyVt2GvIcGWHcFn5Kg2zRG37cYD+xZ6WxNzEKFn3ON+R/\nkemxnX18Xuw3FdsXNAFREahaiX382oK2p/B2ZAt2zbTeTv2pzfVpt5NOmNeG7DM=\n=7Ucl\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1df70eb1da2ff9fdbbffe80f9a583e13a4374682\ntype commit\ntag v2.3.0-rc.1\ntagger Richard Scothern <richard.scothern@gmail.com> 1453401159 -0800\n\nFixes a bug where the incorrect digest and size were sent in manifest push\nevents for schema 1 manifests.\n"
+  }
+}

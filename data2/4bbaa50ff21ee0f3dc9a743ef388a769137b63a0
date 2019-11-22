@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMDUxOjRiYmFhNTBmZjIxZWUwZjNkYzlhNzQzZWYzODhhNzY5MTM3YjYzYTA=",
+  "sha": "4bbaa50ff21ee0f3dc9a743ef388a769137b63a0",
+  "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/tags/4bbaa50ff21ee0f3dc9a743ef388a769137b63a0",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2014-09-19T19:31:21Z"
+  },
+  "object": {
+    "sha": "5474c321d80250cc61d851220503fdc739490ce9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/commits/5474c321d80250cc61d851220503fdc739490ce9"
+  },
+  "tag": "v8.9.2rc1",
+  "message": "8.9.2rc1\n--------\n  * udev rules (symlinks in /dev/by-res and by-disk) got fixed\n  * Fixed upper limit for drbd-8.4 activity log entries\n  * many fixes to drbdadm adjust and proxy commands for drbd-9\n  * rhcs_fence: Do not invoke fence agents in parallel, rewrite in bash\n  * drbdsetup events2 is now also available in drbd-8.4 (backported from drbd-9)\n  * reorganized the repository have common code for drbd-9, drbd-8.4\n    and drbd-8.3 only once\n  * Fix drbd.ocf for resources without volume 0\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlQchJYACgkQabsdXACqiTOfeQCeLb/BDOLvSasaH6CTT98gmnHz\nmxoAnjZfZsuXd96xbduYcxFAtgKcGpGH\n=omPY\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlQchJYACgkQabsdXACqiTOfeQCeLb/BDOLvSasaH6CTT98gmnHz\nmxoAnjZfZsuXd96xbduYcxFAtgKcGpGH\n=omPY\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5474c321d80250cc61d851220503fdc739490ce9\ntype commit\ntag v8.9.2rc1\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1411155081 +0200\n\n8.9.2rc1\n--------\n  * udev rules (symlinks in /dev/by-res and by-disk) got fixed\n  * Fixed upper limit for drbd-8.4 activity log entries\n  * many fixes to drbdadm adjust and proxy commands for drbd-9\n  * rhcs_fence: Do not invoke fence agents in parallel, rewrite in bash\n  * drbdsetup events2 is now also available in drbd-8.4 (backported from drbd-9)\n  * reorganized the repository have common code for drbd-9, drbd-8.4\n    and drbd-8.3 only once\n  * Fix drbd.ocf for resources without volume 0\n"
+  }
+}

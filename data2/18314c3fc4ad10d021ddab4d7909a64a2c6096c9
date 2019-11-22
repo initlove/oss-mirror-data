@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6MTgzMTRjM2ZjNGFkMTBkMDIxZGRhYjRkNzkwOWE2NGEyYzYwOTZjOQ==",
+  "sha": "18314c3fc4ad10d021ddab4d7909a64a2c6096c9",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/18314c3fc4ad10d021ddab4d7909a64a2c6096c9",
+  "tagger": {
+    "name": "Stephen J Day",
+    "email": "stephen.day@docker.com",
+    "date": "2015-01-29T21:47:15Z"
+  },
+  "object": {
+    "sha": "16500886291481459c94001b53cebb7707aa6801",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/16500886291481459c94001b53cebb7707aa6801"
+  },
+  "tag": "v2.0.0-alpha.1",
+  "message": "v2.0.0-alpha.1: Bugfixes, godep and storagedriver improvements\n\nThis second alpha release provides fixes for s3 IAM role authentication in\naddition to some stability improvements in storage driver. This is still alpha\nquality software and should be run with that in mind.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUyqreAAoJEPtfaykF1+zzb/EP/jK1I9lqS9J6Moc/o/4QpkpA\n+Q3LQQ6VbnO3ZdKVh4UJu+sw8o3N30vORs/vsIwRyP3qBnBzssLrg4A9Mas8sjDb\nUCDSGo5hkan7SYiEejyIboLl0ftsZD6m3Iir7op/1eKVzQY0veC8XQTAQ/ZrNzlM\nImImopixCshwafvlR3AEArOwK6C4Sqmk/6wVGGY9fO0hW8BIvQ4Ls+0kon20wMzR\njVwsPTmwj+vk3pYjTJaiCmuK0MOfhJltKC4GzSy6EF0TNgMAARvSv2igA0CXZTnO\nbv7TZ//4F02CQuel6eJ1SaY8fS7fXnxviY0dBjVuTk4atqByyRerJk09mV+G9WKy\nr4XZ9y/R4j6YE/uPaLjEcCHqH/i+RF0io49iZvXLOPjQ/5MQheAUzdED6MeC6nak\nqFWwnNWdqt1S+6dri/5JOnV8KhEXIVEQUaMrpKQvlKvPp84wC2veDA2zf9ZY1AP5\nUNcCKxUA7yXxwcJTJsZKcIu8AGRfTHENK0rZtRFjmiEj4jwsBkInALGhrKJgr0Sd\nAGHnDuhXg3zV2vgPra+X6HiaCNN425Ln/Pm66f+UsYVa6SfC7DbnTFYZd4atom/y\nWRigq34yD8KOXY0B1WYKMofSYmH3g+RkeRWlDVB2LDQyL7KH3xclEjEEnj7da0P1\n9e9J0JUeDXW1uTlpqjJT\n=ig+N\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUyqreAAoJEPtfaykF1+zzb/EP/jK1I9lqS9J6Moc/o/4QpkpA\n+Q3LQQ6VbnO3ZdKVh4UJu+sw8o3N30vORs/vsIwRyP3qBnBzssLrg4A9Mas8sjDb\nUCDSGo5hkan7SYiEejyIboLl0ftsZD6m3Iir7op/1eKVzQY0veC8XQTAQ/ZrNzlM\nImImopixCshwafvlR3AEArOwK6C4Sqmk/6wVGGY9fO0hW8BIvQ4Ls+0kon20wMzR\njVwsPTmwj+vk3pYjTJaiCmuK0MOfhJltKC4GzSy6EF0TNgMAARvSv2igA0CXZTnO\nbv7TZ//4F02CQuel6eJ1SaY8fS7fXnxviY0dBjVuTk4atqByyRerJk09mV+G9WKy\nr4XZ9y/R4j6YE/uPaLjEcCHqH/i+RF0io49iZvXLOPjQ/5MQheAUzdED6MeC6nak\nqFWwnNWdqt1S+6dri/5JOnV8KhEXIVEQUaMrpKQvlKvPp84wC2veDA2zf9ZY1AP5\nUNcCKxUA7yXxwcJTJsZKcIu8AGRfTHENK0rZtRFjmiEj4jwsBkInALGhrKJgr0Sd\nAGHnDuhXg3zV2vgPra+X6HiaCNN425Ln/Pm66f+UsYVa6SfC7DbnTFYZd4atom/y\nWRigq34yD8KOXY0B1WYKMofSYmH3g+RkeRWlDVB2LDQyL7KH3xclEjEEnj7da0P1\n9e9J0JUeDXW1uTlpqjJT\n=ig+N\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 16500886291481459c94001b53cebb7707aa6801\ntype commit\ntag v2.0.0-alpha.1\ntagger Stephen J Day <stephen.day@docker.com> 1422568035 -0800\n\nv2.0.0-alpha.1: Bugfixes, godep and storagedriver improvements\n\nThis second alpha release provides fixes for s3 IAM role authentication in\naddition to some stability improvements in storage driver. This is still alpha\nquality software and should be run with that in mind.\n"
+  }
+}

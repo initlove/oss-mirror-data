@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6MDRhNzEzMWEzMTgxYmU2ZmM2NThkNmUxMjQ2MzIyZDcwMjE2NjIzNQ==",
+  "sha": "04a7131a3181be6fc658d6e1246322d702166235",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/04a7131a3181be6fc658d6e1246322d702166235",
+  "tagger": {
+    "name": "Stephen J Day",
+    "email": "stephen.day@docker.com",
+    "date": "2015-04-16T18:28:22Z"
+  },
+  "object": {
+    "sha": "62b70f951f30a711a8a81df1865d0afeeaaa0169",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/62b70f951f30a711a8a81df1865d0afeeaaa0169"
+  },
+  "tag": "v2.0.0",
+  "message": "v2.0.0: Initial release of Docker Registry 2.0\n\nFirst release of the new registry implementation. This provides an\nimplementation of the new Docker Registry HTTP API V2 for use with Docker 1.6+.\nThe new API and image manifest format provide faster and more secure image\ndistribution.\n\nPlease see the README for more information.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVMABjAAoJEPtfaykF1+zzuFIP/RPArVUpSoKsNxI96emXDbfy\n05OdXqMMbEoWbmOgQlAwWC+FBLKHISJMtV4vyJTDiQ1X9In51XOnnXDLhrGJhsn/\nanewjTOxMoYM4Dj762dzQJqJ8cQtu3BMhQ31K+IvNHkMxu7I9AByO326cUJKUCUk\nrwOEwDXUo5TUpdz+7VBnfVont7CS6esCVxkekWkP3Y4VUOps4JiLqkPr+KBCSP9s\nZzRaxPqtqsKwmB9clRxwTLlNv3Y7x+0VgaM0H9D8QKNROwLVXbW2EkbyuDAH12Xd\npzSQ/czzw4IZijug4Lpdka9GsEy3+FXSTNrocxM7yE6ALkIexvdoY/Q3yvQlzs8B\nSBCK14scskKpvOPPpRObzmPxxtU2YSmVIfuB3FzbfowC81Al2+bU5gMeVa71y4BR\ntfLNijJXJVMg5sKbO/REypQSftL+78EhJzu70pbXiLHW/IX/DcMOvl0wYlaw0FxC\nfcNMEmLSxAcsIKg1nNmR7bsLU3IorUUh0RGWwrH79ij0rakTgHIXQrFxeIJpGqdb\n9Apy6R61eHqlbfpEyKmYrTN31HYiGt1PzITNDMEdWe0Im0xi9BZ0iuVw0ZVm+9o+\nrTMiIlVJhY8W4Xda8sXBNQD9wRQFKNXT5YB/bTf2441UYMZIizIdjRWgdcpAOeQf\n0MLEyCsu+DsNPWgYW66K\n=Za2L\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVMABjAAoJEPtfaykF1+zzuFIP/RPArVUpSoKsNxI96emXDbfy\n05OdXqMMbEoWbmOgQlAwWC+FBLKHISJMtV4vyJTDiQ1X9In51XOnnXDLhrGJhsn/\nanewjTOxMoYM4Dj762dzQJqJ8cQtu3BMhQ31K+IvNHkMxu7I9AByO326cUJKUCUk\nrwOEwDXUo5TUpdz+7VBnfVont7CS6esCVxkekWkP3Y4VUOps4JiLqkPr+KBCSP9s\nZzRaxPqtqsKwmB9clRxwTLlNv3Y7x+0VgaM0H9D8QKNROwLVXbW2EkbyuDAH12Xd\npzSQ/czzw4IZijug4Lpdka9GsEy3+FXSTNrocxM7yE6ALkIexvdoY/Q3yvQlzs8B\nSBCK14scskKpvOPPpRObzmPxxtU2YSmVIfuB3FzbfowC81Al2+bU5gMeVa71y4BR\ntfLNijJXJVMg5sKbO/REypQSftL+78EhJzu70pbXiLHW/IX/DcMOvl0wYlaw0FxC\nfcNMEmLSxAcsIKg1nNmR7bsLU3IorUUh0RGWwrH79ij0rakTgHIXQrFxeIJpGqdb\n9Apy6R61eHqlbfpEyKmYrTN31HYiGt1PzITNDMEdWe0Im0xi9BZ0iuVw0ZVm+9o+\nrTMiIlVJhY8W4Xda8sXBNQD9wRQFKNXT5YB/bTf2441UYMZIizIdjRWgdcpAOeQf\n0MLEyCsu+DsNPWgYW66K\n=Za2L\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 62b70f951f30a711a8a81df1865d0afeeaaa0169\ntype commit\ntag v2.0.0\ntagger Stephen J Day <stephen.day@docker.com> 1429208902 -0700\n\nv2.0.0: Initial release of Docker Registry 2.0\n\nFirst release of the new registry implementation. This provides an\nimplementation of the new Docker Registry HTTP API V2 for use with Docker 1.6+.\nThe new API and image manifest format provide faster and more secure image\ndistribution.\n\nPlease see the README for more information.\n"
+  }
+}

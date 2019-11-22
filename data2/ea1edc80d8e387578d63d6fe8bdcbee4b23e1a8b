@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDplYTFlZGM4MGQ4ZTM4NzU3OGQ2M2Q2ZmU4YmRjYmVlNGIyM2UxYThi",
+  "sha": "ea1edc80d8e387578d63d6fe8bdcbee4b23e1a8b",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/ea1edc80d8e387578d63d6fe8bdcbee4b23e1a8b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-04-10T18:04:24Z"
+  },
+  "object": {
+    "sha": "5d20d4259738bd94bdc584974b77fe83069546cd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/5d20d4259738bd94bdc584974b77fe83069546cd"
+  },
+  "tag": "10.0.1",
+  "message": "cinder 10.0.1 release\n\nmeta:version: 10.0.1\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Eric Harney <eharney@redhat.com>\nmeta:release:Commit: Eric Harney <eharney@redhat.com>\nmeta:release:Change-Id: I3448d2b8ade74dbbcb99cf6a2123f0d68f3108de\nmeta:release:Code-Review+1: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY68koAAoJEOtsyhSD+nTsU8YH/ipIpCdS+wlw21s9Q9kDgeXT\nwv2Ned0I8qUaoHNL8ae6lhe+ShmkdvNLgRmmzBT81Dc3RXDXrCz/dLioKJZtN/UJ\nToFbEptroUo+J3wjp5CRCEHUJ3Pf4dv0JUUrknpi+GUWB3uxNgaia0MDBe/Vx63i\niMF1vv6YH4uAA7ubgzo+3il0Ukmo2eGFnTHte7uebMjqNF3GExv59VyphbPp1uA/\nOeeH+aCfcfhpaETf0RKikPimLkMxe30hyC24jEWlEs4eEEWry4BEVoJZY2e7KZtC\nZ6TBBKZYx1rL1rtlCVSNaWvc/hKuIWnr1B44lb28Xd+qFMuvqwqDO0M+GVP8gb4=\n=t4W7\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY68koAAoJEOtsyhSD+nTsU8YH/ipIpCdS+wlw21s9Q9kDgeXT\nwv2Ned0I8qUaoHNL8ae6lhe+ShmkdvNLgRmmzBT81Dc3RXDXrCz/dLioKJZtN/UJ\nToFbEptroUo+J3wjp5CRCEHUJ3Pf4dv0JUUrknpi+GUWB3uxNgaia0MDBe/Vx63i\niMF1vv6YH4uAA7ubgzo+3il0Ukmo2eGFnTHte7uebMjqNF3GExv59VyphbPp1uA/\nOeeH+aCfcfhpaETf0RKikPimLkMxe30hyC24jEWlEs4eEEWry4BEVoJZY2e7KZtC\nZ6TBBKZYx1rL1rtlCVSNaWvc/hKuIWnr1B44lb28Xd+qFMuvqwqDO0M+GVP8gb4=\n=t4W7\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5d20d4259738bd94bdc584974b77fe83069546cd\ntype commit\ntag 10.0.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1491847464 +0000\n\ncinder 10.0.1 release\n\nmeta:version: 10.0.1\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Eric Harney <eharney@redhat.com>\nmeta:release:Commit: Eric Harney <eharney@redhat.com>\nmeta:release:Change-Id: I3448d2b8ade74dbbcb99cf6a2123f0d68f3108de\nmeta:release:Code-Review+1: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTI1MzE2OjcxOGMxMDFmN2JlNDAwYTg2MmVlOTc4NGZkMGNmMmRjOTAwYjkwNDc=",
+  "sha": "718c101f7be400a862ee9784fd0cf2dc900b9047",
+  "url": "https://api.github.com/repos/mozilla/bleach/git/tags/718c101f7be400a862ee9784fd0cf2dc900b9047",
+  "tagger": {
+    "name": "Will Kahn-Greene",
+    "email": "willkg@mozilla.com",
+    "date": "2018-08-16T20:41:47Z"
+  },
+  "object": {
+    "sha": "8a06cc82401855f01b0e1b645a842ecde738444b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mozilla/bleach/git/commits/8a06cc82401855f01b0e1b645a842ecde738444b"
+  },
+  "tag": "v2.1.4",
+  "message": "Version 2.1.4 (August 16th, 2018)\n\n**Security fixes**\n\nNone\n\n**Backwards incompatible changes**\n\n* Dropped support for Python 3.3. (#328)\n\n**Features**\n\nNone\n\n**Bug fixes**\n\n* Handle ambiguous ampersands in correctly. (#359)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzY3I6/E2Vh8o9nPoGL3RpvBm7BEFAlt14ZwACgkQGL3RpvBm\n7BGr3wgAiZMKkDB4TKMRdM2BI8Yd/Fbx87sc7RgJJTMKJhsqpq7p+5Fylv3RcNlD\nLVRevXxwYj1+b3tAN3sLWAnJ0buBZJkhlzpXgj2KnbruAnGC+9kO3LRwhoLKy5NE\nNBF3gDNluaX5p+dp8AeHidrTzSz6vQ2p0OE3bHrof/sREpF6Jk1K/iou6YMP7uZ/\nB0aaXOtpD2mi8seauIhJQrkQRx3gsswEbXaPJapITkaw27nwl1Mpe4IIEw4B0tXZ\n3uZXDliibsUZfVjWQSlLA/DV9jk6tmH9jgicIIUeBicAEXjtHYXKLCA4jGfsiV2w\nSNIX1QPIOmo4h+Id2fW68vEWn2Hq6A==\n=b5Dz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzY3I6/E2Vh8o9nPoGL3RpvBm7BEFAlt14ZwACgkQGL3RpvBm\n7BGr3wgAiZMKkDB4TKMRdM2BI8Yd/Fbx87sc7RgJJTMKJhsqpq7p+5Fylv3RcNlD\nLVRevXxwYj1+b3tAN3sLWAnJ0buBZJkhlzpXgj2KnbruAnGC+9kO3LRwhoLKy5NE\nNBF3gDNluaX5p+dp8AeHidrTzSz6vQ2p0OE3bHrof/sREpF6Jk1K/iou6YMP7uZ/\nB0aaXOtpD2mi8seauIhJQrkQRx3gsswEbXaPJapITkaw27nwl1Mpe4IIEw4B0tXZ\n3uZXDliibsUZfVjWQSlLA/DV9jk6tmH9jgicIIUeBicAEXjtHYXKLCA4jGfsiV2w\nSNIX1QPIOmo4h+Id2fW68vEWn2Hq6A==\n=b5Dz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8a06cc82401855f01b0e1b645a842ecde738444b\ntype commit\ntag v2.1.4\ntagger Will Kahn-Greene <willkg@mozilla.com> 1534452107 -0400\n\nVersion 2.1.4 (August 16th, 2018)\n\n**Security fixes**\n\nNone\n\n**Backwards incompatible changes**\n\n* Dropped support for Python 3.3. (#328)\n\n**Features**\n\nNone\n\n**Bug fixes**\n\n* Handle ambiguous ampersands in correctly. (#359)\n"
+  }
+}

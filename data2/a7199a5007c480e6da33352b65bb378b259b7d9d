@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMDUxOmE3MTk5YTUwMDdjNDgwZTZkYTMzMzUyYjY1YmIzNzhiMjU5YjdkOWQ=",
+  "sha": "a7199a5007c480e6da33352b65bb378b259b7d9d",
+  "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/tags/a7199a5007c480e6da33352b65bb378b259b7d9d",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2015-05-13T15:21:41Z"
+  },
+  "object": {
+    "sha": "bd27811a4f9b8bc8c5efb6a8643fca5f5f65da0f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/commits/bd27811a4f9b8bc8c5efb6a8643fca5f5f65da0f"
+  },
+  "tag": "v8.9.3rc1",
+  "message": "8.9.3rc1\n--------\n  * Rewrite the parser for configure options; Reuse the data structures\n    describing drbdsetup options\n  * No longer try to set peer-device-options with the connect or attach\n    commands; Only do it with the up and attach commands\n  * Fixed issues with stderr messages might go into arbitrary FDs\n  * Allow recursive includes; drbdadm includes each config file only once\n  * Fix parsing cut-off proxy sections\n  * When converting 8.4 to 9.0 meta-data produce meta-data the drbd9\n    kernel driver will accept\n  * Obey max-peers for all volumes when creating meta-data\n  * Do not re-register at usage.drbd.org when the module is not loaded\n    when drbdadm is invoked\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBVU2wcabsdXACqiTMRAq7aAKCVhZeKQlZZiqjPJt780K8xrZl3GwCfR8cY\nFjuIbvoEmHsTauZqUvazRG0=\n=5otl\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBVU2wcabsdXACqiTMRAq7aAKCVhZeKQlZZiqjPJt780K8xrZl3GwCfR8cY\nFjuIbvoEmHsTauZqUvazRG0=\n=5otl\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bd27811a4f9b8bc8c5efb6a8643fca5f5f65da0f\ntype commit\ntag v8.9.3rc1\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1431530501 +0200\n\n8.9.3rc1\n--------\n  * Rewrite the parser for configure options; Reuse the data structures\n    describing drbdsetup options\n  * No longer try to set peer-device-options with the connect or attach\n    commands; Only do it with the up and attach commands\n  * Fixed issues with stderr messages might go into arbitrary FDs\n  * Allow recursive includes; drbdadm includes each config file only once\n  * Fix parsing cut-off proxy sections\n  * When converting 8.4 to 9.0 meta-data produce meta-data the drbd9\n    kernel driver will accept\n  * Obey max-peers for all volumes when creating meta-data\n  * Do not re-register at usage.drbd.org when the module is not loaded\n    when drbdadm is invoked\n"
+  }
+}

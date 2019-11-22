@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzM3NDM1OTk6OTQ3MGYyMDY2ZTIwMWM4ZDU3YmU0OTAwMDRhMmY3MjNmNjlkNDdjZA==",
+  "sha": "9470f2066e201c8d57be490004a2f723f69d47cd",
+  "url": "https://api.github.com/repos/anb0s/eclox/git/tags/9470f2066e201c8d57be490004a2f723f69d47cd",
+  "tagger": {
+    "name": "Andre Bossert",
+    "email": "anb0s@anbos.de",
+    "date": "2017-12-12T21:31:55Z"
+  },
+  "object": {
+    "sha": "6ad44d41dd2f07194e48bc87db0a1fc456bb66c4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/anb0s/eclox/git/commits/6ad44d41dd2f07194e48bc87db0a1fc456bb66c4"
+  },
+  "tag": "eclox-0.12.0",
+  "message": "Second minor release @github\nFixed issues (https://github.com/anb0s/eclox/milestone/3?closed=1):\n- [x]  #18 Support doxygen upgrade feature\n- [x]  #83 context menu entry shown unnecessarily\n- [x]  #91 Implement saveas feature\n- [x] #108 improve detection of warnings concerning undocumented\nparameters\n- [x] #195 java.lang.IllegalArgumentException in\ncreateMarkersForResource\n- [x] #196 terminate build is not working like expected\n- [x] #197 doxygen history menu shows multiple entries for same file\n- [x] #198 doxyfile selection dialog does not show nested elements\n- [x] #199 add \"clear history\" to history menu\n- [x] #200 invalid custom doxygen identifier found\n- [x] #201 Doxygen Build Console: stderr and stdin are not synchronized\n- [x] #203 remove from history if \"eclox.core.doxygen.RunException:\nMissing or bad doxyfile\"\n- [x] #206 [v0.12] console icons are not shown\n- [x] #207 [v0.12] exception if new file created\n- [x] #208 [v0.12] java.lang.NullPointerException in Advanced tab\n- [x] #211 add support for the += operator\n- [x] #212 add support for multiple lines (lists) concatenated by\nbackslash (\\)\n- [x] #214 add support for TAG and VALUE format #214\n- [x] #215 add support for line separator",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMDUxOmMzODM4MmE0Y2I2NzJkYTg2NWRhMTM1M2JhNTEwNDAwNDRiZDY2OWQ=",
+  "sha": "c38382a4cb672da865da1353ba51040044bd669d",
+  "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/tags/c38382a4cb672da865da1353ba51040044bd669d",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2015-03-09T15:51:23Z"
+  },
+  "object": {
+    "sha": "65a158424f337cac8ad0164ad906fab73b0cd452",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/commits/65a158424f337cac8ad0164ad906fab73b0cd452"
+  },
+  "tag": "v8.9.2rc3",
+  "message": "8.9.2rc3\n--------\n  * change systemd unit file: basically just call the init script\n  * make some previously hardcoded timeouts configurable\n  * drbdadm: New command peer-device-options\n  * drbd: Move max_buffers to net_conf\n  * drbdadm 9: Log errors to syslog if stderr is not available\n  * init script: fixes for stacked resources\n  * fix regression corner cases in bitmap size calculation\n  * allow create-md to initialize peer-max-bio-size to 1M\n  * make transport selectable\n  * fix aggregating drbdsetup / drbdmeta exit statii\n  * some documentation fixes (content and build)\n  * added direct-connect command\n  * incompatible drbd-9 metadata format changeuse: node_id as index for\n    peer_md instead of the bitmap_index\n  * drbdadm/meta/usage_cnt: ensure output is visible\n  * drbdsetup: fix arguments for all commands expecting a peer_device\n  * exit codes: redefine E_USAGE to 1 (not 3)\n  * some build changes\n  * init script: on start, first try to load the module\n  * drbdsetup events2: Improve how timestamps are assigned\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBU/cGjabsdXACqiTMRAq9NAKC3cDpjcyZrO/m2RRdm58hAnuNexwCfeezB\nA3xxOpRsqQOeuuW2R+6ff/E=\n=xnml\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBU/cGjabsdXACqiTMRAq9NAKC3cDpjcyZrO/m2RRdm58hAnuNexwCfeezB\nA3xxOpRsqQOeuuW2R+6ff/E=\n=xnml\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 65a158424f337cac8ad0164ad906fab73b0cd452\ntype commit\ntag v8.9.2rc3\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1425916283 +0100\n\n8.9.2rc3\n--------\n  * change systemd unit file: basically just call the init script\n  * make some previously hardcoded timeouts configurable\n  * drbdadm: New command peer-device-options\n  * drbd: Move max_buffers to net_conf\n  * drbdadm 9: Log errors to syslog if stderr is not available\n  * init script: fixes for stacked resources\n  * fix regression corner cases in bitmap size calculation\n  * allow create-md to initialize peer-max-bio-size to 1M\n  * make transport selectable\n  * fix aggregating drbdsetup / drbdmeta exit statii\n  * some documentation fixes (content and build)\n  * added direct-connect command\n  * incompatible drbd-9 metadata format changeuse: node_id as index for\n    peer_md instead of the bitmap_index\n  * drbdadm/meta/usage_cnt: ensure output is visible\n  * drbdsetup: fix arguments for all commands expecting a peer_device\n  * exit codes: redefine E_USAGE to 1 (not 3)\n  * some build changes\n  * init script: on start, first try to load the module\n  * drbdsetup events2: Improve how timestamps are assigned\n"
+  }
+}

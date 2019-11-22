@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6NjYwNmE2MGQ2YzI2Y2NjYTg4YWNiYmY4ZTI3MTFhMzlhMmE2MWI2Ng==",
+  "sha": "6606a60d6c26ccca88acbbf8e2711a39a2a61b66",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/6606a60d6c26ccca88acbbf8e2711a39a2a61b66",
+  "tagger": {
+    "name": "Richard Scothern",
+    "email": "richard.scothern@docker.com",
+    "date": "2016-05-05T19:16:58Z"
+  },
+  "object": {
+    "sha": "1e0f3b7b64058a090b2e38584ce323a408774848",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/1e0f3b7b64058a090b2e38584ce323a408774848"
+  },
+  "tag": "v2.4.1-rc.1",
+  "message": "Bug fix:\n\n93e3aa GCS: FileWriter.Size: include number of buffered bytes if the FileWriter is not closed\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXK5xHAAoJEPfQDq9vNVAK+kUH/0kUOIkB2XTCKxNJek3yfnAc\nbrYFpqasnA9AmSknLryseWDBIT9yFBlL45dfPlVrMh0v+rfjJxK4hcz8g5u8DPR8\nSHsAxjBVH0Uo3jAsR4pp/oU1Ynpwhd3qIdnZGkH3r4ICl97o+1hl1avoJ2bpYold\nxmn8eMPzNeV8EdNljrGz3LEbprc/dt9Mv+PrPgY1MzocR1BglszmgadnY4ugpZYG\no1mKdVNaBhO7p5XusI48Y4P5L8FsnEnD83N0rYZJT/DcoBYhuB9QVIk0KWgZr1R8\nQ7haPxvWRP2FBNU3aDQ4XiqUZHzLTKOk1Jbm81dS+YiXcn+LXJQPCvoCycafwSM=\n=h6oV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXK5xHAAoJEPfQDq9vNVAK+kUH/0kUOIkB2XTCKxNJek3yfnAc\nbrYFpqasnA9AmSknLryseWDBIT9yFBlL45dfPlVrMh0v+rfjJxK4hcz8g5u8DPR8\nSHsAxjBVH0Uo3jAsR4pp/oU1Ynpwhd3qIdnZGkH3r4ICl97o+1hl1avoJ2bpYold\nxmn8eMPzNeV8EdNljrGz3LEbprc/dt9Mv+PrPgY1MzocR1BglszmgadnY4ugpZYG\no1mKdVNaBhO7p5XusI48Y4P5L8FsnEnD83N0rYZJT/DcoBYhuB9QVIk0KWgZr1R8\nQ7haPxvWRP2FBNU3aDQ4XiqUZHzLTKOk1Jbm81dS+YiXcn+LXJQPCvoCycafwSM=\n=h6oV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1e0f3b7b64058a090b2e38584ce323a408774848\ntype commit\ntag v2.4.1-rc.1\ntagger Richard Scothern <richard.scothern@docker.com> 1462475818 -0700\n\nBug fix:\n\n93e3aa GCS: FileWriter.Size: include number of buffered bytes if the FileWriter is not closed\n"
+  }
+}

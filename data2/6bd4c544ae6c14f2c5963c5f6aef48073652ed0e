@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6NmJkNGM1NDRhZTZjMTRmMmM1OTYzYzVmNmFlZjQ4MDczNjUyZWQwZQ==",
+  "sha": "6bd4c544ae6c14f2c5963c5f6aef48073652ed0e",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/6bd4c544ae6c14f2c5963c5f6aef48073652ed0e",
+  "tagger": {
+    "name": "Richard Scothern",
+    "email": "richard.scothern@docker.com",
+    "date": "2016-07-06T21:19:05Z"
+  },
+  "object": {
+    "sha": "4614c3989665b2f97777456ad77474706e95bb50",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/4614c3989665b2f97777456ad77474706e95bb50"
+  },
+  "tag": "v2.5.0-rc.2",
+  "message": "Bug fixes:\n\n4614c39 Override media type returned from Stat for existing manifests.\n96ae5c9 fixed s3 Delete bug due to read-after-delete inconsistency.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXfXZTAAoJEPfQDq9vNVAKo+MIAK8FycY/D8k+8BX+zQDwDfcc\nSn+HAIaAlhEgXB5vXdXFIJKZ5kPQJDIHunddMFRcHLbXR20de5bU9zOqleI/cvuU\niH/wNOe0Q4awkew+Y5+H4iTzuP0NJK8eWAobMEtx+7fcLwbz4c2LSGmH899l4vXQ\ntCs4ObbUdq4aTH9dtY5AbqK6iwUzLEuV0wUhy/yN8mZPOe3J2jlS0grzmVIRcIGd\n6+Gpbwx6Vjbyn4LumWoMJlw6U4Wc62xMlAXZMUWEgL2+YHbozv+F/yPLy1kwgC08\nT+RSyoC754D+6DltTNdY6c+G7F2DtCwxpstYrEhbeqgrEbtHoD/kzLQBRkX+xrc=\n=qHLq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXfXZTAAoJEPfQDq9vNVAKo+MIAK8FycY/D8k+8BX+zQDwDfcc\nSn+HAIaAlhEgXB5vXdXFIJKZ5kPQJDIHunddMFRcHLbXR20de5bU9zOqleI/cvuU\niH/wNOe0Q4awkew+Y5+H4iTzuP0NJK8eWAobMEtx+7fcLwbz4c2LSGmH899l4vXQ\ntCs4ObbUdq4aTH9dtY5AbqK6iwUzLEuV0wUhy/yN8mZPOe3J2jlS0grzmVIRcIGd\n6+Gpbwx6Vjbyn4LumWoMJlw6U4Wc62xMlAXZMUWEgL2+YHbozv+F/yPLy1kwgC08\nT+RSyoC754D+6DltTNdY6c+G7F2DtCwxpstYrEhbeqgrEbtHoD/kzLQBRkX+xrc=\n=qHLq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4614c3989665b2f97777456ad77474706e95bb50\ntype commit\ntag v2.5.0-rc.2\ntagger Richard Scothern <richard.scothern@docker.com> 1467839945 -0700\n\nBug fixes:\n\n4614c39 Override media type returned from Stat for existing manifests.\n96ae5c9 fixed s3 Delete bug due to read-after-delete inconsistency.\n"
+  }
+}

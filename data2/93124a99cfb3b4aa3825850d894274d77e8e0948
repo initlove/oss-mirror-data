@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDo5MzEyNGE5OWNmYjNiNGFhMzgyNTg1MGQ4OTQyNzRkNzdlOGUwOTQ4",
+  "sha": "93124a99cfb3b4aa3825850d894274d77e8e0948",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/93124a99cfb3b4aa3825850d894274d77e8e0948",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-04-12T18:57:32Z"
+  },
+  "object": {
+    "sha": "908def6bb993798146cccc1621a9cee18950629d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/908def6bb993798146cccc1621a9cee18950629d"
+  },
+  "tag": "9.1.4",
+  "message": "cinder 9.1.4 release\n\nmeta:version: 9.1.4\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I4b476f716280bbc7b98feb967ad34660edd76380\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+2: Alan Pevec <alan.pevec@redhat.com>\nmeta:release:Workflow+1: Alan Pevec <alan.pevec@redhat.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY7nicAAoJEOtsyhSD+nTsHjoH/iBcu2lZmpYycZXVwyaXnI8U\nbdQFnZyf3Vs0Wo7M0K3pjoiTTqmj7DoHMuO01gABv39J9NjMR/YdP4qTikkDEoDN\n5MC7dOZ3EXhRV3D716y4ohu+TP+g4IWxUwOh/ZP7QOwkFnHCRzcpS7ksJftOnwP0\npgDC0qtVn+0TqaLelQ6eX7ZzDU9udejWdwqFXvz+1vEqz2xWjL3Cc11jTqea5naU\n45nUPuiH2l2Bcy7gezH7PBMzIWpeMk+Z2EAUCy+TE207V/o6jrmf6y23Wehf/vU3\nGbhxywQSt26dspo4Jc7Esac9POxYGZ/gBaG9XOc5zqN6ZWUdF7qexGnxOlBYmvQ=\n=PVi/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY7nicAAoJEOtsyhSD+nTsHjoH/iBcu2lZmpYycZXVwyaXnI8U\nbdQFnZyf3Vs0Wo7M0K3pjoiTTqmj7DoHMuO01gABv39J9NjMR/YdP4qTikkDEoDN\n5MC7dOZ3EXhRV3D716y4ohu+TP+g4IWxUwOh/ZP7QOwkFnHCRzcpS7ksJftOnwP0\npgDC0qtVn+0TqaLelQ6eX7ZzDU9udejWdwqFXvz+1vEqz2xWjL3Cc11jTqea5naU\n45nUPuiH2l2Bcy7gezH7PBMzIWpeMk+Z2EAUCy+TE207V/o6jrmf6y23Wehf/vU3\nGbhxywQSt26dspo4Jc7Esac9POxYGZ/gBaG9XOc5zqN6ZWUdF7qexGnxOlBYmvQ=\n=PVi/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 908def6bb993798146cccc1621a9cee18950629d\ntype commit\ntag 9.1.4\ntagger OpenStack Release Bot <infra-root@openstack.org> 1492023452 +0000\n\ncinder 9.1.4 release\n\nmeta:version: 9.1.4\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I4b476f716280bbc7b98feb967ad34660edd76380\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+2: Alan Pevec <alan.pevec@redhat.com>\nmeta:release:Workflow+1: Alan Pevec <alan.pevec@redhat.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6OTJlMTE0MjkwZDJlZWMzMWE2OWVkMDQ2ZmRmOWU5MjA2ZGE3NjJjZA==",
+  "sha": "92e114290d2eec31a69ed046fdf9e9206da762cd",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/92e114290d2eec31a69ed046fdf9e9206da762cd",
+  "tagger": {
+    "name": "Richard Scothern",
+    "email": "richard.scothern@docker.com",
+    "date": "2016-07-28T17:52:09Z"
+  },
+  "object": {
+    "sha": "a9b1322edf48b1fb9aee4e5ded7a4f4ac37c6830",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/a9b1322edf48b1fb9aee4e5ded7a4f4ac37c6830"
+  },
+  "tag": "v2.5.0",
+  "message": "Docker Registry 2.5.0\n\nStorage\n- Ensure uploads directory is cleaned after upload is commited\n- Add ability to cap concurrent operations in filesystem driver\n- S3: Add 'us-gov-west-1' to the valid region list\n- Swift: Handle ceph not returning Last-Modified header for HEAD requests\n- Add redirect middleware\n\nRegistry\n- Add support for blobAccessController middleware\n- Add support for layers from foreign sources\n- Remove signature store\n- Add support for Let's Encrypt\n- Correct yaml key names in configuration\n\nClient\n- Add option to get content digest from manifest get\n\nSpec\n- Update the auth spec scope grammar to reflect the fact that hostnames are optionally supported\n- Clarify API documentation around catalog fetch behavior\n\nAPI\n- Support returning HTTP 429 (Too Many Requests)\n\nDocumentation\n- Update auth documentation examples to show \"expires in\" as int\n\nDocker Image\n- Use Alpine Linux as base image\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXmkZvAAoJEPfQDq9vNVAKzP0H/0sCvXRXu3AoopqWTolbqYS9\nKskAaJVm35pNXHhJtB80aJX8UzMmecAsPsQDeKwpKqepR0OdXgDqsCsw0hf+4Cev\nHCC7LXf8RVe/JfAvgktHRoxy0nAylzPC60cuPydcjsMzzlM85bEN9hODVNIYSm6+\nKXjyLblhuJJMlrVSzKq0GYqbR2GYifeSz6ShKfe/XX8+C29/2S2zGyoduDzYWrEh\nxfgAsTiIiZePUmIZwvs08PDteR4RJcnMaP7ascHq7LlLDVRmFIfgxLG0HTVK6DcX\nU3ZC8VAXcHqjbU4AUCo33nl16yzxAnKYkAuEnaAP/ZGZJVKto/pCT/KCG1mxVhc=\n=GtbQ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXmkZvAAoJEPfQDq9vNVAKzP0H/0sCvXRXu3AoopqWTolbqYS9\nKskAaJVm35pNXHhJtB80aJX8UzMmecAsPsQDeKwpKqepR0OdXgDqsCsw0hf+4Cev\nHCC7LXf8RVe/JfAvgktHRoxy0nAylzPC60cuPydcjsMzzlM85bEN9hODVNIYSm6+\nKXjyLblhuJJMlrVSzKq0GYqbR2GYifeSz6ShKfe/XX8+C29/2S2zGyoduDzYWrEh\nxfgAsTiIiZePUmIZwvs08PDteR4RJcnMaP7ascHq7LlLDVRmFIfgxLG0HTVK6DcX\nU3ZC8VAXcHqjbU4AUCo33nl16yzxAnKYkAuEnaAP/ZGZJVKto/pCT/KCG1mxVhc=\n=GtbQ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a9b1322edf48b1fb9aee4e5ded7a4f4ac37c6830\ntype commit\ntag v2.5.0\ntagger Richard Scothern <richard.scothern@docker.com> 1469728329 -0700\n\nDocker Registry 2.5.0\n\nStorage\n- Ensure uploads directory is cleaned after upload is commited\n- Add ability to cap concurrent operations in filesystem driver\n- S3: Add 'us-gov-west-1' to the valid region list\n- Swift: Handle ceph not returning Last-Modified header for HEAD requests\n- Add redirect middleware\n\nRegistry\n- Add support for blobAccessController middleware\n- Add support for layers from foreign sources\n- Remove signature store\n- Add support for Let's Encrypt\n- Correct yaml key names in configuration\n\nClient\n- Add option to get content digest from manifest get\n\nSpec\n- Update the auth spec scope grammar to reflect the fact that hostnames are optionally supported\n- Clarify API documentation around catalog fetch behavior\n\nAPI\n- Support returning HTTP 429 (Too Many Requests)\n\nDocumentation\n- Update auth documentation examples to show \"expires in\" as int\n\nDocker Image\n- Use Alpine Linux as base image\n"
+  }
+}

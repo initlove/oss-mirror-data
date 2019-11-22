@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMDUxOmRiOTIxY2Q1ZTFlMjdlM2E5YzliMjg2YzZmYzdlZTdjMzUzNTFjNzY=",
+  "sha": "db921cd5e1e27e3a9c9b286c6fc7ee7c35351c76",
+  "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/tags/db921cd5e1e27e3a9c9b286c6fc7ee7c35351c76",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2014-06-10T11:29:06Z"
+  },
+  "object": {
+    "sha": "79677f478d5b0b9bf6ee23cd7f97bc7ca6b99929",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/commits/79677f478d5b0b9bf6ee23cd7f97bc7ca6b99929"
+  },
+  "tag": "v8.9.0",
+  "message": "8.9.0\n--------\n  * Initial release of unified drbd-utils\n  * Supports drbd drivers 8.3, 8.4 and 9.0\n  * Ships with man page links defaulting to 8.4\n  * Fixed offline resizing in drbdmeta; A regression that causes\n    data loss, since meta-data was written with wrong offset.\n    The regression was introduced with 8.4.3\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBTluwPabsdXACqiTMRAlR0AJ4ue3dinHlYAvMnXlxu6qmKyFplPwCdGgPX\nGZjb6PHALrz2KfV2eupHEzQ=\n=OwfG\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBTluwPabsdXACqiTMRAlR0AJ4ue3dinHlYAvMnXlxu6qmKyFplPwCdGgPX\nGZjb6PHALrz2KfV2eupHEzQ=\n=OwfG\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 79677f478d5b0b9bf6ee23cd7f97bc7ca6b99929\ntype commit\ntag v8.9.0\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1402399746 +0200\n\n8.9.0\n--------\n  * Initial release of unified drbd-utils\n  * Supports drbd drivers 8.3, 8.4 and 9.0\n  * Ships with man page links defaulting to 8.4\n  * Fixed offline resizing in drbdmeta; A regression that causes\n    data loss, since meta-data was written with wrong offset.\n    The regression was introduced with 8.4.3\n"
+  }
+}

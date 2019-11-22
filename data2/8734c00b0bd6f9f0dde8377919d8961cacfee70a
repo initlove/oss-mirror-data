@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDo4NzM0YzAwYjBiZDZmOWYwZGRlODM3NzkxOWQ4OTYxY2FjZmVlNzBh",
+  "sha": "8734c00b0bd6f9f0dde8377919d8961cacfee70a",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/8734c00b0bd6f9f0dde8377919d8961cacfee70a",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-26T01:08:34Z"
+  },
+  "object": {
+    "sha": "f44032ce43882e982029e32ee4d7cebfa9ba95c7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/f44032ce43882e982029e32ee4d7cebfa9ba95c7"
+  },
+  "tag": "13.0.4",
+  "message": "cinder 13.0.4 release\n\nmeta:version: 13.0.4\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: Ibbcdece0d2c2d7ebaa88fa7289693ec9bf2c679e\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyZe5IZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOIKRC/440IG5cGbMHxPSYW3cogEr\nuD7D6iW2MU9wRmjbj6s24sbbpItOab1z91+NSoPLqCIyHcvfwMr0GYdurk/86EaZ\njLwnFNKpS3gxxDTvs4gEy4IJ7/Rr/s2pZ63FxcTsIEmAajugFxwqblCsLafWz2rw\nOF0gWspbAD9o44Bytr1nHewTk4W0iTw1Nmpk9Jyl0pahIrbhbDk2/ChNCHRT1HiT\nNGxwrksECOhjtckkU6GUkX274S2nrlaknWTBWfNM7/k18olnxYoSldXfgnmeHWii\nKG5RIBLd9IH525GMoLUKukywJbIp1TmaKAOYj+87KRU4lCOzk6FtxPU+rgZXH+Ox\nybCWbCRiFKDvth3sjAtxm+t/SQPj/WIfBs023OiZBYsS+mJzg74RLoFJ4jplc1/z\ns8sr0FPeXPgzDw9gM4V7QDY1kNX61utBjBmSihv72e/3lbNonCGN2K+QwDP3Xm1Y\neXVCiy+yBhPk/AQILWtnmhVcxN7+3NGnbPBUbSaetLs=\n=O/rl\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyZe5IZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOIKRC/440IG5cGbMHxPSYW3cogEr\nuD7D6iW2MU9wRmjbj6s24sbbpItOab1z91+NSoPLqCIyHcvfwMr0GYdurk/86EaZ\njLwnFNKpS3gxxDTvs4gEy4IJ7/Rr/s2pZ63FxcTsIEmAajugFxwqblCsLafWz2rw\nOF0gWspbAD9o44Bytr1nHewTk4W0iTw1Nmpk9Jyl0pahIrbhbDk2/ChNCHRT1HiT\nNGxwrksECOhjtckkU6GUkX274S2nrlaknWTBWfNM7/k18olnxYoSldXfgnmeHWii\nKG5RIBLd9IH525GMoLUKukywJbIp1TmaKAOYj+87KRU4lCOzk6FtxPU+rgZXH+Ox\nybCWbCRiFKDvth3sjAtxm+t/SQPj/WIfBs023OiZBYsS+mJzg74RLoFJ4jplc1/z\ns8sr0FPeXPgzDw9gM4V7QDY1kNX61utBjBmSihv72e/3lbNonCGN2K+QwDP3Xm1Y\neXVCiy+yBhPk/AQILWtnmhVcxN7+3NGnbPBUbSaetLs=\n=O/rl\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f44032ce43882e982029e32ee4d7cebfa9ba95c7\ntype commit\ntag 13.0.4\ntagger OpenStack Release Bot <infra-root@openstack.org> 1553562514 +0000\n\ncinder 13.0.4 release\n\nmeta:version: 13.0.4\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: Ibbcdece0d2c2d7ebaa88fa7289693ec9bf2c679e\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI4MjEzMDM6ZjUzNjZkMDFhZDU3YWJkYTllYzdlMWEwYzUwYTExMTcxMmFhNzc0NQ==",
+  "sha": "f5366d01ad57abda9ec7e1a0c50a111712aa7745",
+  "url": "https://api.github.com/repos/coreos/go-systemd/git/tags/f5366d01ad57abda9ec7e1a0c50a111712aa7745",
+  "tagger": {
+    "name": "Luca Bruno",
+    "email": "luca.bruno@coreos.com",
+    "date": "2016-11-14T12:27:19Z"
+  },
+  "object": {
+    "sha": "48702e0da86bd25e76cfef347e2adeb434a0d0a6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/coreos/go-systemd/git/commits/48702e0da86bd25e76cfef347e2adeb434a0d0a6"
+  },
+  "tag": "v14",
+  "message": "go-systemd v14\n\nBreaking changes:\n * daemon: introduce support for cleaning env variables\n   (boolean parameter added to `SdNotify` and `SdWatchdogEnabled`)\n\nOther changes in this release:\n * daemon: add watchdog checker\n * dbus: make New() fall back to direct systemd connection\n * util: add tests for util package\n * test: add license header check\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJYKa5OAAoJEKmDSiJSB45O21QP/RHcS6xzX4WHcKITen7SzHA2\nn1cemYR4jpt3GQhimoA93X7WEXt71PPt4E+zTPJrivj6YM7I6kX5FrC3Q2A7HP4F\nXuXAG5oN7SGT4yk2HU71uItqUYZ1qYI/XPQmuMp/Io7EJiHIouhIm5u0tjtkG+Fv\nefPIvDu49GsM0mdTKkvleky4PH1nesG/nX6l56Hz4Gds0AS2w4Rkxb2To8vmcYEY\nxZ0q5FgGLztK7sQApFtMX/nViQUtZ8SdroyDXwu8TAo8FBBK3XjUH4TAqWcrIVqL\n8Nfno8nUEYeYO1up7cERAtCaC8Xu+XHzuMdK3rgKN3iJ8zTmHB02NQxqZPvWo3wi\nhaQ51beqDX1JB9dhk5Z3HBl7VcCsw/LSUEmmmlI54rorD03qxxMJIBvmLZ/6+QiY\nYg29iWU7bTtVL6Xv+C8j595folwUHg5joM+DvH8SBRPF8oIVx/1u2Q9lSHgHrJJe\natCcfH8CIhPjO7fmRYEd6cuGKrQ1HVmf03ZeEgtXoz7hINHKy//EjjB5tk19WSL2\ntIX7VrInrbLhZDujP92tdfyfK8zIP0Dpk4zhz9sHObCcRIt0aQS354pEF0/q3bnL\nnokP1e0dZJwa0UgyJqYauvFpKQEQ/kGnoohWecXe0X2J7Mg/hHfr+I2Ib3gbZvRD\n2a1cWhmjFaqwb6ZvvoNL\n=wlgW\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJYKa5OAAoJEKmDSiJSB45O21QP/RHcS6xzX4WHcKITen7SzHA2\nn1cemYR4jpt3GQhimoA93X7WEXt71PPt4E+zTPJrivj6YM7I6kX5FrC3Q2A7HP4F\nXuXAG5oN7SGT4yk2HU71uItqUYZ1qYI/XPQmuMp/Io7EJiHIouhIm5u0tjtkG+Fv\nefPIvDu49GsM0mdTKkvleky4PH1nesG/nX6l56Hz4Gds0AS2w4Rkxb2To8vmcYEY\nxZ0q5FgGLztK7sQApFtMX/nViQUtZ8SdroyDXwu8TAo8FBBK3XjUH4TAqWcrIVqL\n8Nfno8nUEYeYO1up7cERAtCaC8Xu+XHzuMdK3rgKN3iJ8zTmHB02NQxqZPvWo3wi\nhaQ51beqDX1JB9dhk5Z3HBl7VcCsw/LSUEmmmlI54rorD03qxxMJIBvmLZ/6+QiY\nYg29iWU7bTtVL6Xv+C8j595folwUHg5joM+DvH8SBRPF8oIVx/1u2Q9lSHgHrJJe\natCcfH8CIhPjO7fmRYEd6cuGKrQ1HVmf03ZeEgtXoz7hINHKy//EjjB5tk19WSL2\ntIX7VrInrbLhZDujP92tdfyfK8zIP0Dpk4zhz9sHObCcRIt0aQS354pEF0/q3bnL\nnokP1e0dZJwa0UgyJqYauvFpKQEQ/kGnoohWecXe0X2J7Mg/hHfr+I2Ib3gbZvRD\n2a1cWhmjFaqwb6ZvvoNL\n=wlgW\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 48702e0da86bd25e76cfef347e2adeb434a0d0a6\ntype commit\ntag v14\ntagger Luca Bruno <luca.bruno@coreos.com> 1479126439 +0000\n\ngo-systemd v14\n\nBreaking changes:\n * daemon: introduce support for cleaning env variables\n   (boolean parameter added to `SdNotify` and `SdWatchdogEnabled`)\n\nOther changes in this release:\n * daemon: add watchdog checker\n * dbus: make New() fall back to direct systemd connection\n * util: add tests for util package\n * test: add license header check\n"
+  }
+}

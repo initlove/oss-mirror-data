@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzYyNTE4MjY6Yjg0M2QyMGYxN2JmOWRiZjYyOTI5ZjZhNDFmZTA2ZDg2NzNmMTYxZQ==",
+  "sha": "b843d20f17bf9dbf62929f6a41fe06d8673f161e",
+  "url": "https://api.github.com/repos/supasate/connected-react-router/git/tags/b843d20f17bf9dbf62929f6a41fe06d8673f161e",
+  "tagger": {
+    "name": "Ping Supasate Choochaisri",
+    "email": "supasate@fb.com",
+    "date": "2019-11-17T08:54:01Z"
+  },
+  "object": {
+    "sha": "03bda66565873db4e4a463145f97facb97ba6e65",
+    "type": "commit",
+    "url": "https://api.github.com/repos/supasate/connected-react-router/git/commits/03bda66565873db4e4a463145f97facb97ba6e65"
+  },
+  "tag": "v6.6.0",
+  "message": "v6.6.0\n\nEnhancements\n===========\n- Add createRootReducer function name. (@zamlahani in #335)\n- Injected query into location. (@codejockie in #356)\n\nFixes\n=====\n- Use LocationState type param consistently. (@danielnixon in #344)\n- Prevent POP actions to push the url into the history (@lluistfc in #76)\n- Fix duplicate action key. (@arnaud-zg in #364)\n- Fix umd build command. (@supasate in #373)\n\nSecurity issues\n===============\n- Fix lodash security issue. (@dependabot in #340, #341, #342)\n- Fix webpack-dev-server security issue. (@dependabot)\n- Fix mixin-deep security issue. (@dependabot in #357, #360, #363, #364)\n- Fix eslint-utils security issue. (@dependabot in #359)\n- Fix CVE-2019-10747 in examples. (@supasate in #374)\n- Fix WS-2017-0421. (@supasate in #375)\n\nDocs\n====\n- Add example for react native support. (@arnaud-zg in #350)\n- Update FAQ for react native example. (@arnaud-zg in #363)\n- Fix README typos. (@ricsam in #362)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

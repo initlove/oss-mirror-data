@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY0MjczNTo1Y2VhN2FhMDU2ZmIzMGUxMWVhMDI4MjllMWQzMDJkMWY0NTlhMjQ1",
+  "sha": "5cea7aa056fb30e11ea02829e1d302d1f459a245",
+  "url": "https://api.github.com/repos/openstack/ceilometer/git/tags/5cea7aa056fb30e11ea02829e1d302d1f459a245",
+  "tagger": {
+    "name": "Davanum Srinivas",
+    "email": "davanum@gmail.com",
+    "date": "2016-07-07T16:32:10Z"
+  },
+  "object": {
+    "sha": "b75bb3f82132c886c498bc8bd0bdee500429647e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ceilometer/git/commits/b75bb3f82132c886c498bc8bd0bdee500429647e"
+  },
+  "tag": "6.1.1",
+  "message": "ceilometer 6.1.1 release\n\nmeta:version: 6.1.1\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Davanum Srinivas <davanum@gmail.com>\nmeta:release:Change-Id: I500f3f4a02db94200b74051fb59563714af0b04f\n-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAld+hAoACgkQgNg6eWEDv1mXpwCdF3M6RiVuImZsv0ruXjAMc1d2\no58AoKcaaphxSlRRZqbcg6pHH0xFg8z0\n=Bw6Z\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAld+hAoACgkQgNg6eWEDv1mXpwCdF3M6RiVuImZsv0ruXjAMc1d2\no58AoKcaaphxSlRRZqbcg6pHH0xFg8z0\n=Bw6Z\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b75bb3f82132c886c498bc8bd0bdee500429647e\ntype commit\ntag 6.1.1\ntagger Davanum Srinivas <davanum@gmail.com> 1467909130 -0400\n\nceilometer 6.1.1 release\n\nmeta:version: 6.1.1\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Davanum Srinivas <davanum@gmail.com>\nmeta:release:Change-Id: I500f3f4a02db94200b74051fb59563714af0b04f\n"
+  }
+}

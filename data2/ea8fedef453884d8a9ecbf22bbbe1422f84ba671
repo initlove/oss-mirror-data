@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6ZWE4ZmVkZWY0NTM4ODRkOGE5ZWNiZjIyYmJiZTE0MjJmODRiYTY3MQ==",
+  "sha": "ea8fedef453884d8a9ecbf22bbbe1422f84ba671",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/ea8fedef453884d8a9ecbf22bbbe1422f84ba671",
+  "tagger": {
+    "name": "Richard Scothern",
+    "email": "richard.scothern@gmail.com",
+    "date": "2016-04-13T17:28:33Z"
+  },
+  "object": {
+    "sha": "3f7fa41272784c4442697efffeff001a6f1b9857",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/3f7fa41272784c4442697efffeff001a6f1b9857"
+  },
+  "tag": "v2.4.0",
+  "message": "What's new?\n\nNew S3 storage driver\nThe default s3 storage driver is now implemented on top of the official Amazon\nS3 SDK, boasting major performance and stability goodness. The previous storage\nis still available, but deprecated.\n\nGarbage Collector\nA garbage collector command has been added to the registry.\n\nTagged Manifest Events\nManifest push and pull events will now include the tag which was used in the\noperation (if applicable).\n\nRelative URLs\nThe registry can now be configured to return relative URLs in Location headers.\n\nV1 Signature disabled\nWith the ongoing adoption of the schema 2 manifest format and deprecation of\nsignatures, this option will improve pull performance by generating and\nreturning a single libtrust signature.\n\nGotchas\n\nThe RADOS storage driver has been removed. The registry can still be used with\nCeph as the storage backend using the swift driver in conjunction with the Swift\nAPI gateway.\n\nThe command line format has changed to support subcommands. To run a registry as\nbefore an additional subcommand - serve - is required.\n\nThe legacy S3 storage driver, based on adroll/goamz is now deprecated and will\nbe removed in a future release.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXDoJWAAoJEPfQDq9vNVAKDXUIAMXbsOiWuUEcFfyvXSe7ck71\nMWAHR4lpKkmZVq2OIMxLyOiyIRYn+U6XyHJlijKDAqjLsXj4dsV3TuQL7rnc5TC1\ni3ys9P1DcQDX7jwtK795KAK+2sUJMbuAF0k5cVg5VGwtA5l2aU1Zzb951J1GNzb/\nCKtr8CAnx+6TG0A36vtaq2ZT60ST0Ge433jz8FM7nxcXZAQQRVP8kD3S3oby9QYP\n75fCtp6q7j63kOPwXJ6j6GT+pPqMhjn8FiCXT27lubh4ZNcJvrDx4sIqy8wEb1l4\nunaR1vItF+P9iNd97OwBIzYNIPdPg5+1aBXZIihrLTPlYX0OL0KpUO1NcuU2VOM=\n=F0WV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXDoJWAAoJEPfQDq9vNVAKDXUIAMXbsOiWuUEcFfyvXSe7ck71\nMWAHR4lpKkmZVq2OIMxLyOiyIRYn+U6XyHJlijKDAqjLsXj4dsV3TuQL7rnc5TC1\ni3ys9P1DcQDX7jwtK795KAK+2sUJMbuAF0k5cVg5VGwtA5l2aU1Zzb951J1GNzb/\nCKtr8CAnx+6TG0A36vtaq2ZT60ST0Ge433jz8FM7nxcXZAQQRVP8kD3S3oby9QYP\n75fCtp6q7j63kOPwXJ6j6GT+pPqMhjn8FiCXT27lubh4ZNcJvrDx4sIqy8wEb1l4\nunaR1vItF+P9iNd97OwBIzYNIPdPg5+1aBXZIihrLTPlYX0OL0KpUO1NcuU2VOM=\n=F0WV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3f7fa41272784c4442697efffeff001a6f1b9857\ntype commit\ntag v2.4.0\ntagger Richard Scothern <richard.scothern@gmail.com> 1460568513 -0700\n\nWhat's new?\n\nNew S3 storage driver\nThe default s3 storage driver is now implemented on top of the official Amazon\nS3 SDK, boasting major performance and stability goodness. The previous storage\nis still available, but deprecated.\n\nGarbage Collector\nA garbage collector command has been added to the registry.\n\nTagged Manifest Events\nManifest push and pull events will now include the tag which was used in the\noperation (if applicable).\n\nRelative URLs\nThe registry can now be configured to return relative URLs in Location headers.\n\nV1 Signature disabled\nWith the ongoing adoption of the schema 2 manifest format and deprecation of\nsignatures, this option will improve pull performance by generating and\nreturning a single libtrust signature.\n\nGotchas\n\nThe RADOS storage driver has been removed. The registry can still be used with\nCeph as the storage backend using the swift driver in conjunction with the Swift\nAPI gateway.\n\nThe command line format has changed to support subcommands. To run a registry as\nbefore an additional subcommand - serve - is required.\n\nThe legacy S3 storage driver, based on adroll/goamz is now deprecated and will\nbe removed in a future release.\n"
+  }
+}

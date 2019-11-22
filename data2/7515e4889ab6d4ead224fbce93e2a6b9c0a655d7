@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzU0NDkwNDg6NzUxNWU0ODg5YWI2ZDRlYWQyMjRmYmNlOTNlMmE2YjljMGE2NTVkNw==",
+  "sha": "7515e4889ab6d4ead224fbce93e2a6b9c0a655d7",
+  "url": "https://api.github.com/repos/aantron/better-enums/git/tags/7515e4889ab6d4ead224fbce93e2a6b9c0a655d7",
+  "tagger": {
+    "name": "Anton Bachin",
+    "email": "antonbachin@yahoo.com",
+    "date": "2015-06-20T18:14:20Z"
+  },
+  "object": {
+    "sha": "f5f669277aca91ae4a4feec00b2891af537be33e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/aantron/better-enums/git/commits/f5f669277aca91ae4a4feec00b2891af537be33e"
+  },
+  "tag": "0.10.0",
+  "message": "0.10.0\n\n- Interface-breaking change: _size is now a function. _size_constant is\n  the constant. This is for conceptual consistency.\n\n- Made ENUM usable in namespaces besides the global namespace.\n- Generalized the underlying type to be any literal type, so long as\n  the user gives a way to map it to an integral type.\n- Basic support for stream operators.\n- Improved support for limited freestanding environments, namely\n  compilation with exceptions disabled, and Better Enums no longer uses\n  the heap, which it previously did during initialization.\n\nAlso, did a bunch of research that didn't turn into code.\n\n- Tried, and so far failed, to find a sorting or hashing algorithm fast\n  enough to use at compile time.\n- Looked more thoroughly into making ENUM usable at class scope, now\n  convinced even more that it is probably impossible.\n- Various other attempted improvements that have convinced me the\n  design is near to the best possible.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

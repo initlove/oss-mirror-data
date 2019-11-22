@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY0MjczNTplYTFlNDkxMzJkNTZjOTk0Y2NmZjczYmI5YWNmNTdhMDIwMWVlY2Rj",
+  "sha": "ea1e49132d56c994ccff73bb9acf57a0201eecdc",
+  "url": "https://api.github.com/repos/openstack/ceilometer/git/tags/ea1e49132d56c994ccff73bb9acf57a0201eecdc",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-09-30T15:18:26Z"
+  },
+  "object": {
+    "sha": "8c1e5366d8ed1539acab681551469ec49e37dc68",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ceilometer/git/commits/8c1e5366d8ed1539acab681551469ec49e37dc68"
+  },
+  "tag": "7.0.0.0rc3",
+  "message": "ceilometer 7.0.0.0rc3 release candidate\n\nmeta:version: 7.0.0.0rc3\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Julien Danjou <julien@danjou.info>\nmeta:release:Change-Id: I32169a9c8a2ae3f51e91a5c7e1b1276d5dda5caa\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX7oJCAAoJENljH+rwzGInq40IAIAzpg9Bf/r5qYdKahH9VBwT\nIb7yyfzm6zTP7Lj6dLQYxz2eYnSyieSm+s4J442GFK/RzmDJMWDmuv9KwC5F7Z10\n3SOANtbnOQYr+VERyVrklsv3lot3qBjkq89JPemX8OwS8xafjQryKUqFDaHiA6jE\nHPKjD5JPb2LcyqP9JxL2LsvXNieKW21kz0dRbTcWai0D+XYxgLlqoKcrOXM0oAOf\nQDHrWhF0Gaygy1xcYKabS04RX1WNJ6KOIKTz6u6P7GauhlTR7GQwJCTSRazf2cnM\nEBGw3Ao681ZyVryIUAd9oaJuZ2CuBLaGiPOpW9BZy8bki3WDgbkgROgL7lZtO8s=\n=aYsZ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX7oJCAAoJENljH+rwzGInq40IAIAzpg9Bf/r5qYdKahH9VBwT\nIb7yyfzm6zTP7Lj6dLQYxz2eYnSyieSm+s4J442GFK/RzmDJMWDmuv9KwC5F7Z10\n3SOANtbnOQYr+VERyVrklsv3lot3qBjkq89JPemX8OwS8xafjQryKUqFDaHiA6jE\nHPKjD5JPb2LcyqP9JxL2LsvXNieKW21kz0dRbTcWai0D+XYxgLlqoKcrOXM0oAOf\nQDHrWhF0Gaygy1xcYKabS04RX1WNJ6KOIKTz6u6P7GauhlTR7GQwJCTSRazf2cnM\nEBGw3Ao681ZyVryIUAd9oaJuZ2CuBLaGiPOpW9BZy8bki3WDgbkgROgL7lZtO8s=\n=aYsZ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8c1e5366d8ed1539acab681551469ec49e37dc68\ntype commit\ntag 7.0.0.0rc3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1475248706 +0000\n\nceilometer 7.0.0.0rc3 release candidate\n\nmeta:version: 7.0.0.0rc3\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Julien Danjou <julien@danjou.info>\nmeta:release:Change-Id: I32169a9c8a2ae3f51e91a5c7e1b1276d5dda5caa\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

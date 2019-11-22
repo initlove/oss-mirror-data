@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI4MjEzMDM6ODA1YTU0MWMwMDYxODllOWM1ZTZkNGE3YmE1YTYwYTExZDY0MzRlYQ==",
+  "sha": "805a541c006189e9c5e6d4a7ba5a60a11d6434ea",
+  "url": "https://api.github.com/repos/coreos/go-systemd/git/tags/805a541c006189e9c5e6d4a7ba5a60a11d6434ea",
+  "tagger": {
+    "name": "Jonathan Boulle",
+    "email": "jonathanboulle@gmail.com",
+    "date": "2016-03-20T20:58:55Z"
+  },
+  "object": {
+    "sha": "7b2428fec40033549c68f54e26e89e7ca9a9ce31",
+    "type": "commit",
+    "url": "https://api.github.com/repos/coreos/go-systemd/git/commits/7b2428fec40033549c68f54e26e89e7ca9a9ce31"
+  },
+  "tag": "v5",
+  "message": "v5\n\nThis release adds a number of new methods for working with the journal and exposing more information about systemd, as well as a minor bugfix and small internal code cleanup.\n\n- Add several new functions to sdjournal: AddDisjunction, AddConjunction, GetDataValue, FlushMatches, SetDataThreshold\n- Add ability to load journal from custom directory (sdjournal.NewJournalFromDir)\n- Add GetManagerProperty to dbus to obtain systemd1.manager interface properties\n- Add several utility functions to detect information when invoked from systemd (GetRunningSlice, RunningFromSystemService, CurrentUnitName, GetMachineID)\n- Add login1.Inhibit and login1.Subscribe\n- Add dbus.ListUnitFiles\n- Correctly propagate error during sdjournal.AddMatch\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJW7+OxAAoJEPZ2NRrgQUftDWUQAIi+kVkkYZS8ExXFNKr8+Ce9\nYU/vLFFlFTrRHZvnPnr2eT+5IzZNXDGFo2scY1c0bb5oGDA/vWN9hZyC22gR3Uld\nHovbW7mAfagdW52rMq2R643Ei289v0WWyPiRxIA3NLgOxn0Y6eb8q1gm1bsVg2Wi\nw9R4IqS6b871lngfjtZNINw4BAJRoDwTJbdISQn4mZoeKB9+62afvSHTMcI66Q1C\nKaE6MhDhgxkbQ9DvLZthqzDtGgDW9mWA6SwBnhf+cAG/Za4Po7xC9MKUOjBs5lwJ\n5LNkxvsR0ED7hZ9HbiZeOyP/jFWV4+w1M0atxhUylERhkheS9CldKOZDnbnRW0V8\nxeudQCdQcDF//G+WoReuh/ZN1Q6GuFH6vqoO/M6QrDxYQS2+m873QYpeHdCkTNs9\njcDc0fqFCiGLkwtU5bY0I2cvMPLV2QFrMPzO9Gbep83l5Zo3bXhCBlf27AUSNoFf\nLFC3ttvP/RkFvv1RZ2cTQMUnP9YLJJkK5pSUUE5KPYC//APfRbHtYLvrgBRjN7u2\n38IqOh5slP4BBrJLmERLVs5/uElctVzyVLVvxXmDyxvdZa/AdbWYT57zu8vSyDHJ\nP2ohSk/fJskdouPuO7sPDcmY14LUJV1EbFbKm8zinfIZoDtQJLMoh2X49yw7ifLU\nkXaCmAyXr2HpXqkiY+Pr\n=2R+Y\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJW7+OxAAoJEPZ2NRrgQUftDWUQAIi+kVkkYZS8ExXFNKr8+Ce9\nYU/vLFFlFTrRHZvnPnr2eT+5IzZNXDGFo2scY1c0bb5oGDA/vWN9hZyC22gR3Uld\nHovbW7mAfagdW52rMq2R643Ei289v0WWyPiRxIA3NLgOxn0Y6eb8q1gm1bsVg2Wi\nw9R4IqS6b871lngfjtZNINw4BAJRoDwTJbdISQn4mZoeKB9+62afvSHTMcI66Q1C\nKaE6MhDhgxkbQ9DvLZthqzDtGgDW9mWA6SwBnhf+cAG/Za4Po7xC9MKUOjBs5lwJ\n5LNkxvsR0ED7hZ9HbiZeOyP/jFWV4+w1M0atxhUylERhkheS9CldKOZDnbnRW0V8\nxeudQCdQcDF//G+WoReuh/ZN1Q6GuFH6vqoO/M6QrDxYQS2+m873QYpeHdCkTNs9\njcDc0fqFCiGLkwtU5bY0I2cvMPLV2QFrMPzO9Gbep83l5Zo3bXhCBlf27AUSNoFf\nLFC3ttvP/RkFvv1RZ2cTQMUnP9YLJJkK5pSUUE5KPYC//APfRbHtYLvrgBRjN7u2\n38IqOh5slP4BBrJLmERLVs5/uElctVzyVLVvxXmDyxvdZa/AdbWYT57zu8vSyDHJ\nP2ohSk/fJskdouPuO7sPDcmY14LUJV1EbFbKm8zinfIZoDtQJLMoh2X49yw7ifLU\nkXaCmAyXr2HpXqkiY+Pr\n=2R+Y\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7b2428fec40033549c68f54e26e89e7ca9a9ce31\ntype commit\ntag v5\ntagger Jonathan Boulle <jonathanboulle@gmail.com> 1458507535 +0100\n\nv5\n\nThis release adds a number of new methods for working with the journal and exposing more information about systemd, as well as a minor bugfix and small internal code cleanup.\n\n- Add several new functions to sdjournal: AddDisjunction, AddConjunction, GetDataValue, FlushMatches, SetDataThreshold\n- Add ability to load journal from custom directory (sdjournal.NewJournalFromDir)\n- Add GetManagerProperty to dbus to obtain systemd1.manager interface properties\n- Add several utility functions to detect information when invoked from systemd (GetRunningSlice, RunningFromSystemService, CurrentUnitName, GetMachineID)\n- Add login1.Inhibit and login1.Subscribe\n- Add dbus.ListUnitFiles\n- Correctly propagate error during sdjournal.AddMatch\n"
+  }
+}

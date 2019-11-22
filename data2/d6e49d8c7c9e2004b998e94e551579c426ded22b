@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDpkNmU0OWQ4YzdjOWUyMDA0Yjk5OGU5NGU1NTE1NzljNDI2ZGVkMjJi",
+  "sha": "d6e49d8c7c9e2004b998e94e551579c426ded22b",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/d6e49d8c7c9e2004b998e94e551579c426ded22b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-21T17:21:01Z"
+  },
+  "object": {
+    "sha": "95379fdfea71f514b2f832f8549e34c2b8f389a3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/95379fdfea71f514b2f832f8549e34c2b8f389a3"
+  },
+  "tag": "14.0.0.0rc1",
+  "message": "cinder 14.0.0.0rc1 release candidate\n\nmeta:version: 14.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: Jay S. Bryant <jsbryant@electronicjungle.net>\nmeta:release:Change-Id: I81fa0ed66c6ebbf853685b87e2b2f606d37f14cc\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyTx/0ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOC98DACUVRRgS0Lp7A7HQpqM367/\nQdYCIxvVQGH/8gobWVDjN/7+vy5AeJnHGqFmmwOtnbsqW3pOtnbdCihHeWtD3O7W\noe5foqZkn0ygqXFW+IKOA8a9q91ljR+chVUQmK4nMJjJwT82gspf459RiF6uBT3R\nQnEtsjeXsoi8srylnsLYgpaqDsuwcwJNSHNfl6d+pu5GdI4PkJ/5GyQZP05LTp4Z\nKhB++IF1bnmZCc9m/GTx84CKGbLUnq7yA2pQ0IoIzBJHau9kaj+zGTuBp5yA+Asi\ntqRE8eKgt8EbdptasxYb4LhtFGM1NpjKMQRTgqPIVZufco4qm7cTJmMC+AgmGkqf\nTqN1X0vwSTEY3JDJDDVq5EWDifxl5lHQdOI9nfE1/S3K+u8VuqjlIWF4OOhCbica\nyZa4irCg7nfjFoV3pDSgIBlAxXvI3aai4aEgmf326RjSfvkEFOL4mHn0nB9EyZ2K\nRvC1y9KzB6HD2b/dUQL1UK0upO4EHVGd5g/rihqk/U8=\n=e46D\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyTx/0ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOC98DACUVRRgS0Lp7A7HQpqM367/\nQdYCIxvVQGH/8gobWVDjN/7+vy5AeJnHGqFmmwOtnbsqW3pOtnbdCihHeWtD3O7W\noe5foqZkn0ygqXFW+IKOA8a9q91ljR+chVUQmK4nMJjJwT82gspf459RiF6uBT3R\nQnEtsjeXsoi8srylnsLYgpaqDsuwcwJNSHNfl6d+pu5GdI4PkJ/5GyQZP05LTp4Z\nKhB++IF1bnmZCc9m/GTx84CKGbLUnq7yA2pQ0IoIzBJHau9kaj+zGTuBp5yA+Asi\ntqRE8eKgt8EbdptasxYb4LhtFGM1NpjKMQRTgqPIVZufco4qm7cTJmMC+AgmGkqf\nTqN1X0vwSTEY3JDJDDVq5EWDifxl5lHQdOI9nfE1/S3K+u8VuqjlIWF4OOhCbica\nyZa4irCg7nfjFoV3pDSgIBlAxXvI3aai4aEgmf326RjSfvkEFOL4mHn0nB9EyZ2K\nRvC1y9KzB6HD2b/dUQL1UK0upO4EHVGd5g/rihqk/U8=\n=e46D\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 95379fdfea71f514b2f832f8549e34c2b8f389a3\ntype commit\ntag 14.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1553188861 +0000\n\ncinder 14.0.0.0rc1 release candidate\n\nmeta:version: 14.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: Jay S. Bryant <jsbryant@electronicjungle.net>\nmeta:release:Change-Id: I81fa0ed66c6ebbf853685b87e2b2f606d37f14cc\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

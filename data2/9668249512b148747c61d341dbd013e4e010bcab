@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzQxMzY3NTg6OTY2ODI0OTUxMmIxNDg3NDdjNjFkMzQxZGJkMDEzZTRlMDEwYmNhYg==",
+  "sha": "9668249512b148747c61d341dbd013e4e010bcab",
+  "url": "https://api.github.com/repos/tsayen/dom-to-image/git/tags/9668249512b148747c61d341dbd013e4e010bcab",
+  "tagger": {
+    "name": "tsayen",
+    "email": "anatoly.sayenko@gmail.com",
+    "date": "2015-09-25T07:09:40Z"
+  },
+  "object": {
+    "sha": "b10f24fd2cb3d9ee0d5dffce96f72d76d77acccf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tsayen/dom-to-image/git/commits/b10f24fd2cb3d9ee0d5dffce96f72d76d77acccf"
+  },
+  "tag": "1.0.0",
+  "message": "Clean up API:\n- make toSvg produce SVG data URL instead of Image element\n- rename other methods\n- update mimetype guesser with some actual IANA mimetypes\n- create readme\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

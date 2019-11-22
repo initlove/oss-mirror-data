@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMDUxOjlhNTg5NTc2ODc1NDE3MTJkZDdjNWMzYjZhYWNjOGJkNGY2YzdkZWE=",
+  "sha": "9a58957687541712dd7c5c3b6aacc8bd4f6c7dea",
+  "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/tags/9a58957687541712dd7c5c3b6aacc8bd4f6c7dea",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2016-02-03T19:22:17Z"
+  },
+  "object": {
+    "sha": "c6e62702d5e4fb2cf6b3fa27e67cb0d4b399a30b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/commits/c6e62702d5e4fb2cf6b3fa27e67cb0d4b399a30b"
+  },
+  "tag": "v8.9.6",
+  "message": "8.9.6\n--------\n * Call \"drbdsetup resize\" only as often as necessary on \"drbdadm resize\"\n * Disconnect connection first on single path deletion from connection\n * Add unfence-peer handler\n * Fix \"drbdadm adjust\" for proxy configurations\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBWslN4absdXACqiTMRAl0yAJwPq0/CQQ854lbEeCrzlF3sUTtQygCeMk69\nL4jo89IkRVYgvroVhPeovx4=\n=l4Nm\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBWslN4absdXACqiTMRAl0yAJwPq0/CQQ854lbEeCrzlF3sUTtQygCeMk69\nL4jo89IkRVYgvroVhPeovx4=\n=l4Nm\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c6e62702d5e4fb2cf6b3fa27e67cb0d4b399a30b\ntype commit\ntag v8.9.6\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1454527337 +0100\n\n8.9.6\n--------\n * Call \"drbdsetup resize\" only as often as necessary on \"drbdadm resize\"\n * Disconnect connection first on single path deletion from connection\n * Add unfence-peer handler\n * Fix \"drbdadm adjust\" for proxy configurations\n"
+  }
+}

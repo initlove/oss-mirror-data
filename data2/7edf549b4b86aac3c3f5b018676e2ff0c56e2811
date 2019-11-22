@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6N2VkZjU0OWI0Yjg2YWFjM2MzZjViMDE4Njc2ZTJmZjBjNTZlMjgxMQ==",
+  "sha": "7edf549b4b86aac3c3f5b018676e2ff0c56e2811",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/7edf549b4b86aac3c3f5b018676e2ff0c56e2811",
+  "tagger": {
+    "name": "Richard Scothern",
+    "email": "richard.scothern@gmail.com",
+    "date": "2015-08-12T22:45:15Z"
+  },
+  "object": {
+    "sha": "44c7fb9e6e7e58e88d38d93b5f1f6da6a54d28ff",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/44c7fb9e6e7e58e88d38d93b5f1f6da6a54d28ff"
+  },
+  "tag": "v2.1.1",
+  "message": "v2.1.1: Patch release of Docker Registry 2.1\n\nThis release provides a bug fix where the filesystem layout of manifests was\nnot backwards compatible with v2.0.x registries.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJVy8yeAAoJEPfQDq9vNVAKYqcH/2n6D+g+wXtI3DgmXHzvv4RR\nfckICghkyPA+AJKjJ+/GktTvZYoiaj1UqJGtaOL8DlpBEGscuHUa5Z3MjEKPAx5u\nRZ1oFySlXtDSAAmEwYfsNjegJ1HI7UIcVyctQTK35uh6RnaSs4rxCU6C/4fBrK6a\nfjZ+Iv6vMSkaL6Z5aGP+J+fD7miWSv/+L4FqcmJ57CjWv4B9NvWoonIh52O3ExkC\n5VQEUFl1PdLOOi0k2osxtlld1BLkIk2z2iH7T4fqPyhr77pY/9HfTuEEU85tGWy2\nplxSyscuue1EfzhJK/PhsxaJ3knm8W1PYFc15GYmuHvUr7Zkc0nek1k4xMSzPGs=\n=s+W9\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJVy8yeAAoJEPfQDq9vNVAKYqcH/2n6D+g+wXtI3DgmXHzvv4RR\nfckICghkyPA+AJKjJ+/GktTvZYoiaj1UqJGtaOL8DlpBEGscuHUa5Z3MjEKPAx5u\nRZ1oFySlXtDSAAmEwYfsNjegJ1HI7UIcVyctQTK35uh6RnaSs4rxCU6C/4fBrK6a\nfjZ+Iv6vMSkaL6Z5aGP+J+fD7miWSv/+L4FqcmJ57CjWv4B9NvWoonIh52O3ExkC\n5VQEUFl1PdLOOi0k2osxtlld1BLkIk2z2iH7T4fqPyhr77pY/9HfTuEEU85tGWy2\nplxSyscuue1EfzhJK/PhsxaJ3knm8W1PYFc15GYmuHvUr7Zkc0nek1k4xMSzPGs=\n=s+W9\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 44c7fb9e6e7e58e88d38d93b5f1f6da6a54d28ff\ntype commit\ntag v2.1.1\ntagger Richard Scothern <richard.scothern@gmail.com> 1439419515 -0700\n\nv2.1.1: Patch release of Docker Registry 2.1\n\nThis release provides a bug fix where the filesystem layout of manifests was\nnot backwards compatible with v2.0.x registries.\n"
+  }
+}

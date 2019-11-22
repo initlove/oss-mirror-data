@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6ZGZiM2RjNWNiNjA5ZTM1OWE5YzUyNzNlNjc1NzQ1YzY0ZDc1M2NmMA==",
+  "sha": "dfb3dc5cb609e359a9c5273e675745c64d753cf0",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/dfb3dc5cb609e359a9c5273e675745c64d753cf0",
+  "tagger": {
+    "name": "Stephen J Day",
+    "email": "stephen.day@docker.com",
+    "date": "2015-04-08T03:19:21Z"
+  },
+  "object": {
+    "sha": "5a4f66b2f897af9cd6bce08e952e622580686f44",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/5a4f66b2f897af9cd6bce08e952e622580686f44"
+  },
+  "tag": "v2.0.0-rc.2",
+  "message": "v2.0.0-rc.2: Performance enhancements, bugfixes\n\nThis is an updated release candidate that includes a performance enhancement\nfor fetching manifest signatures. The backend path matching validity has been\nrelaxed to defer case-sensitive support to the storage backend.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVJJ7mAAoJEPtfaykF1+zzC+MQAJe4Due4FUbXNalvKwFvRy9F\ne0n902De8AfE6oqdaz1L4noPfpGhu2zx4XzV59mWdJ2EvPxpwAIp67wsp80tBSgr\nZXBFLJjUZlpSBBVFNASvg/xt2JbmDsM+wouuMMdkIvRRo/93rkG0NbfqQiVYboQg\nKFRqRgah3K7m4Od/R79DCT27slPMNJeXRCNUqDARg5PrRaFu0PeswR0HAiHlCsJg\nyORl63nOy+7F8DWM4k7vjAZN0/kONOBrnV6HQcgiBiDVh01S5Q2MYZngZHOPIjU3\nAZMRG6db7N+/u8STYF1SL8SaV+QizvO3+JRK/pfTN5czRtM5hfjqqpyxrEvVQYar\nI1O5lL9vUjo17pKdzhjJbyxggPo5snWPaOomPdrqea/v2NIz3eBAxkFN4rvCoZrk\nUBCGz3QEuAWrB8jp/gH7aL4lFctTR9eOKte9SOszGJJVo94+Pi3xV2nSetfXkqfN\nPQYOM+rwJv6E/4yXUzEXe/fDVy/ra7Ov6VMwhgOvH9SBe98Rf6Bj3jxaq0ySPIL0\njwx/7nbqSu3nXEQSyyDIo1jGpKDn9KOaWzjfsjPaw32CaX8iZeSoFfUArDU3w0Yj\ngvv0OBK4n/T/fJyVaYP6y+w5m723Y6HPoH3BQQu61NVSDZaRPQnGnfb04Cx32NNZ\nhS6mDrBx3tuFalR8Aws0\n=YCNu\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVJJ7mAAoJEPtfaykF1+zzC+MQAJe4Due4FUbXNalvKwFvRy9F\ne0n902De8AfE6oqdaz1L4noPfpGhu2zx4XzV59mWdJ2EvPxpwAIp67wsp80tBSgr\nZXBFLJjUZlpSBBVFNASvg/xt2JbmDsM+wouuMMdkIvRRo/93rkG0NbfqQiVYboQg\nKFRqRgah3K7m4Od/R79DCT27slPMNJeXRCNUqDARg5PrRaFu0PeswR0HAiHlCsJg\nyORl63nOy+7F8DWM4k7vjAZN0/kONOBrnV6HQcgiBiDVh01S5Q2MYZngZHOPIjU3\nAZMRG6db7N+/u8STYF1SL8SaV+QizvO3+JRK/pfTN5czRtM5hfjqqpyxrEvVQYar\nI1O5lL9vUjo17pKdzhjJbyxggPo5snWPaOomPdrqea/v2NIz3eBAxkFN4rvCoZrk\nUBCGz3QEuAWrB8jp/gH7aL4lFctTR9eOKte9SOszGJJVo94+Pi3xV2nSetfXkqfN\nPQYOM+rwJv6E/4yXUzEXe/fDVy/ra7Ov6VMwhgOvH9SBe98Rf6Bj3jxaq0ySPIL0\njwx/7nbqSu3nXEQSyyDIo1jGpKDn9KOaWzjfsjPaw32CaX8iZeSoFfUArDU3w0Yj\ngvv0OBK4n/T/fJyVaYP6y+w5m723Y6HPoH3BQQu61NVSDZaRPQnGnfb04Cx32NNZ\nhS6mDrBx3tuFalR8Aws0\n=YCNu\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5a4f66b2f897af9cd6bce08e952e622580686f44\ntype commit\ntag v2.0.0-rc.2\ntagger Stephen J Day <stephen.day@docker.com> 1428463161 -0700\n\nv2.0.0-rc.2: Performance enhancements, bugfixes\n\nThis is an updated release candidate that includes a performance enhancement\nfor fetching manifest signatures. The backend path matching validity has been\nrelaxed to defer case-sensitive support to the storage backend.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMDUxOjBhNTc0ZGU0ODdmYjgzMmViYzkwNDE0OTA0NGFmZDJiMTI3MGEzNzM=",
+  "sha": "0a574de487fb832ebc904149044afd2b1270a373",
+  "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/tags/0a574de487fb832ebc904149044afd2b1270a373",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2015-06-16T13:09:39Z"
+  },
+  "object": {
+    "sha": "b06f4b40acc56206f411612cc4df56f4c511756c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/commits/b06f4b40acc56206f411612cc4df56f4c511756c"
+  },
+  "tag": "v8.9.3",
+  "message": "8.9.3\n--------\n  * Support for the new new-peer, add-path, connect, del-path, disconnect\n    and del-peer commands of drbd-9.0.0; drbdadm support for the new\n    commands\n  * New configuration file directive template-file; with that a dedicated\n    file for the common section of a resource can be specified\n  * Rewrite the parser for configure options; reuse the data structures\n    describing drbdsetup options\n  * No longer try to set peer-device-options with the connect or attach\n    commands; Only do it with the up and attach commands\n  * Fixed issues with stderr messages might go into arbitrary FDs\n  * Allow recursive includes; drbdadm includes each config file only once\n  * Fix parsing cut-off proxy sections\n  * When converting 8.4 to 9.0 meta-data produce meta-data the drbd9\n    kernel driver will accept\n  * Obey max-peers for all volumes when creating meta-data\n  * Do not re-register at usage.drbd.org when the module is not loaded\n    when drbdadm is invoked\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBVgCAkabsdXACqiTMRAmlEAJ9kf6+cYVFApogGe4gKFpAvRiGWCACfbey+\n3LbGpXHCR4IAfru/ShMLubQ=\n=TbYk\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBVgCAkabsdXACqiTMRAmlEAJ9kf6+cYVFApogGe4gKFpAvRiGWCACfbey+\n3LbGpXHCR4IAfru/ShMLubQ=\n=TbYk\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b06f4b40acc56206f411612cc4df56f4c511756c\ntype commit\ntag v8.9.3\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1434460179 +0200\n\n8.9.3\n--------\n  * Support for the new new-peer, add-path, connect, del-path, disconnect\n    and del-peer commands of drbd-9.0.0; drbdadm support for the new\n    commands\n  * New configuration file directive template-file; with that a dedicated\n    file for the common section of a resource can be specified\n  * Rewrite the parser for configure options; reuse the data structures\n    describing drbdsetup options\n  * No longer try to set peer-device-options with the connect or attach\n    commands; Only do it with the up and attach commands\n  * Fixed issues with stderr messages might go into arbitrary FDs\n  * Allow recursive includes; drbdadm includes each config file only once\n  * Fix parsing cut-off proxy sections\n  * When converting 8.4 to 9.0 meta-data produce meta-data the drbd9\n    kernel driver will accept\n  * Obey max-peers for all volumes when creating meta-data\n  * Do not re-register at usage.drbd.org when the module is not loaded\n    when drbdadm is invoked\n"
+  }
+}

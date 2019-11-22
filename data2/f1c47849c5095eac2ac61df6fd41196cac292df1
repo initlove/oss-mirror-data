@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM0ODQ2MjU6ZjFjNDc4NDljNTA5NWVhYzJhYzYxZGY2ZmQ0MTE5NmNhYzI5MmRmMQ==",
+  "sha": "f1c47849c5095eac2ac61df6fd41196cac292df1",
+  "url": "https://api.github.com/repos/Netflix/dynomite/git/tags/f1c47849c5095eac2ac61df6fd41196cac292df1",
+  "tagger": {
+    "name": "Shailesh Birari",
+    "email": "sbirari@netflix.com",
+    "date": "2015-09-01T20:48:39Z"
+  },
+  "object": {
+    "sha": "f105f2caa341325eafa600134b5f9f35f2aecfd8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/dynomite/git/commits/f105f2caa341325eafa600134b5f9f35f2aecfd8"
+  },
+  "tag": "v0.5.1",
+  "message": "    o Enable consistency configuration via yaml file like this:\n      [{read_consistency|write_consistency} : {dc_one|dc_quorum}]\n    o Enable get_consistency command on the admin port which will return the\n      default consistency for the requests originating on that node\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

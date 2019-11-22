@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6ZjZiMDNhMTUzNDRkZTVkMzZhMTg5OTA4OThmNTkwYTBiNWE2NmQ1NA==",
+  "sha": "f6b03a15344de5d36a18990898f590a0b5a66d54",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/f6b03a15344de5d36a18990898f590a0b5a66d54",
+  "tagger": {
+    "name": "Richard Scothern",
+    "email": "richard.scothern@gmail.com",
+    "date": "2015-12-09T21:24:02Z"
+  },
+  "object": {
+    "sha": "e6c60e79c570f97ef36f280fcebed497682a5f37",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/e6c60e79c570f97ef36f280fcebed497682a5f37"
+  },
+  "tag": "v2.2.1",
+  "message": "Docker Registry v2.2.1\n\nPatch release of Docker Registry 2.2 incorporating bug fixes, documentation and\nperformance improvements.  Official distributions of this release will be built\nwith go 1.5.2.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWaJv4AAoJEPfQDq9vNVAKNaEH/Rzz8qVKQQ3kt4Tl4eQbubJE\n/+3bRh60jyFXGT8uNCH2HAfiagGaXa1K4GaR1VCqo8Zlon/eLSi3HD3gQm5EjkKr\nIZxhVqEnfnPqSoBLIC28GWcvbZkPi8cXVtcvoPzwWlYYuutjPvEdgkeVzLnda4dh\n0wIZg/w7ePQFokAgW3rMUOCFujUF7BHP8cXSBDDohHiLxQAj0rIdvkRkDjLTT1OI\nR/MNXVBocamPJDNTGgNSuk28q+j6P45TTS4oiFu+PnXu8YoBLe6cqVTQyRpfMDWx\nZ7g+4Yprnkk8UoEPSMmbJCoi+/9BnCzDkDKXi8LU4moC0FH0MUJ9i3bJuk+W2fY=\n=Yaau\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWaJv4AAoJEPfQDq9vNVAKNaEH/Rzz8qVKQQ3kt4Tl4eQbubJE\n/+3bRh60jyFXGT8uNCH2HAfiagGaXa1K4GaR1VCqo8Zlon/eLSi3HD3gQm5EjkKr\nIZxhVqEnfnPqSoBLIC28GWcvbZkPi8cXVtcvoPzwWlYYuutjPvEdgkeVzLnda4dh\n0wIZg/w7ePQFokAgW3rMUOCFujUF7BHP8cXSBDDohHiLxQAj0rIdvkRkDjLTT1OI\nR/MNXVBocamPJDNTGgNSuk28q+j6P45TTS4oiFu+PnXu8YoBLe6cqVTQyRpfMDWx\nZ7g+4Yprnkk8UoEPSMmbJCoi+/9BnCzDkDKXi8LU4moC0FH0MUJ9i3bJuk+W2fY=\n=Yaau\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e6c60e79c570f97ef36f280fcebed497682a5f37\ntype commit\ntag v2.2.1\ntagger Richard Scothern <richard.scothern@gmail.com> 1449696242 -0800\n\nDocker Registry v2.2.1\n\nPatch release of Docker Registry 2.2 incorporating bug fixes, documentation and\nperformance improvements.  Official distributions of this release will be built\nwith go 1.5.2.\n"
+  }
+}

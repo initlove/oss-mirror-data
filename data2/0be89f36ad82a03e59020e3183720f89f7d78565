@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzU0NDkwNDg6MGJlODlmMzZhZDgyYTAzZTU5MDIwZTMxODM3MjBmODlmN2Q3ODU2NQ==",
+  "sha": "0be89f36ad82a03e59020e3183720f89f7d78565",
+  "url": "https://api.github.com/repos/aantron/better-enums/git/tags/0be89f36ad82a03e59020e3183720f89f7d78565",
+  "tagger": {
+    "name": "Anton Bachin",
+    "email": "antonbachin@yahoo.com",
+    "date": "2019-04-02T15:01:50Z"
+  },
+  "object": {
+    "sha": "8b4d8a9499ef65d84f863e9d4f90db429009b9fb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/aantron/better-enums/git/commits/8b4d8a9499ef65d84f863e9d4f90db429009b9fb"
+  },
+  "tag": "0.11.2",
+  "message": "Version 0.11.2\n\nAdditions\n\n- Enable constexpr support on clang-cl (#26, Zsolt Parragi).\n- Enable constexpr support on VS 2017 (#47, Zsolt Parragi).\n- _to_index, _from_index, and related functions (#59, Piotr Kosek).\n- Specialize maps for descriptions of type wchar_t* (#44, @codercheny).\n\nBugs fixed\n\n- Move stream I/O operators out of the global namespace (#22, Alex\n  Cheparukhin).\n- Internal namespaces used by Better Enums cause name clashes (#22, Alex\n  Cheparukhin).\n- Unused function warnings on comparison operators (#27, Alex\n  Cheparukhin).\n- Unused variables with names cause warnings on MSVC (#41, Anuradha\n  Dissanayake).\n- VS 2015 warns when not using enum class (#41, Anuradha Dissanayake).\n- Docs: note strongly that warning C4062 has to be enabled on MSVC for\n  exhaustiveness checking (#49).\n- Identifiers that begin with an underscore followed by a capital letter\n  are reserved (#61, Felix Dombek).\n- Internal values array initialization not accepted as constexpr by VS\n  2017 (#53, @D4koon).\n\nMiscellaneous\n\n- Syntax-highlight the code in the README (#67, Wojciech Bartnik).\n- Remove tabs that have crept into enum.h (#72, @Xeverous).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

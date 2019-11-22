@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI4MjEzMDM6MGMyYzVjMzhmMzVmZWFlYmU1NmE3NTdkNjkxZDU4OWM3ODFjY2JjNA==",
+  "sha": "0c2c5c38f35feaebe56a757d691d589c781ccbc4",
+  "url": "https://api.github.com/repos/coreos/go-systemd/git/tags/0c2c5c38f35feaebe56a757d691d589c781ccbc4",
+  "tagger": {
+    "name": "Brandon Philips",
+    "email": "brandon@ifup.co",
+    "date": "2015-06-22T23:42:44Z"
+  },
+  "object": {
+    "sha": "be94bc700879ae8217780e9d141789a2defa302b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/coreos/go-systemd/git/commits/be94bc700879ae8217780e9d141789a2defa302b"
+  },
+  "tag": "v3",
+  "message": "v3\n\n- add ResetFailedUnit\n- add UDP socket activation support\n- use separate connection to process signals\n- add Close to connections\n- add machine1 package\n- add UnitName*Escape methods\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJViJ44AAoJEBVDQyYFQt80SUcP/1nBcMGaPFBp8tGirieyml+K\niWNULVCtgYGT1eCjJ84c8HajxOZF6FLdTifwVkUBn/VRYA3VIyBrgHdYXL1tImbr\nZMZitWdFNbrB6O3nqLOtkDRofW7J/dmnvPclBwZrhkgSFfvByf5QWYLaApgfubqe\ncdyUf25yeF3NZiaSr9gMPFG6GyzjoxvP2Dv5eMDmaNCzobmJ0U3Qw3bNYC2QjGnT\noMYd0rvcKNktsvCsi+gQv0nATuL2cDEsANcHpHDLIxH8Z2DiPpp9ECdcgpvhu2Y7\nmXVQSXHWZ/w3EM39Isom3sEebWTkW9aiQyHl229+VgyWkUEk8+w5zdqJUDfmC2QG\n/lUHFDSP4Kzh1y/PE01DHxKYX9DY0i9lrKdl0huciBtrMd9oWj2lKegi2e81FILX\ncBpvd+CIsIvz8bxCaMI+Fc0dHSjLRRGxEND42e+XsTZ6f/piTV7DY5VvCsoxvb/k\nT5SziW29du/gsdO46jtTXG14FjIE8no5Udic+u9T78gRrYY4eeizII0A0n+etHQ3\ncI0GTVtu24nzQreaFIwHLLZIn+KamEz+Wj9YAkLTAsRzAUF4npmqr7durneZ7pFa\negwKnfre4m2KVcCoRJATU42CWS6uNyU/w2FA7AH6ZS6eJrGvWrG38co2DG5BOtKh\nUNqCz/1geSldUOQERtjT\n=uI7q\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJViJ44AAoJEBVDQyYFQt80SUcP/1nBcMGaPFBp8tGirieyml+K\niWNULVCtgYGT1eCjJ84c8HajxOZF6FLdTifwVkUBn/VRYA3VIyBrgHdYXL1tImbr\nZMZitWdFNbrB6O3nqLOtkDRofW7J/dmnvPclBwZrhkgSFfvByf5QWYLaApgfubqe\ncdyUf25yeF3NZiaSr9gMPFG6GyzjoxvP2Dv5eMDmaNCzobmJ0U3Qw3bNYC2QjGnT\noMYd0rvcKNktsvCsi+gQv0nATuL2cDEsANcHpHDLIxH8Z2DiPpp9ECdcgpvhu2Y7\nmXVQSXHWZ/w3EM39Isom3sEebWTkW9aiQyHl229+VgyWkUEk8+w5zdqJUDfmC2QG\n/lUHFDSP4Kzh1y/PE01DHxKYX9DY0i9lrKdl0huciBtrMd9oWj2lKegi2e81FILX\ncBpvd+CIsIvz8bxCaMI+Fc0dHSjLRRGxEND42e+XsTZ6f/piTV7DY5VvCsoxvb/k\nT5SziW29du/gsdO46jtTXG14FjIE8no5Udic+u9T78gRrYY4eeizII0A0n+etHQ3\ncI0GTVtu24nzQreaFIwHLLZIn+KamEz+Wj9YAkLTAsRzAUF4npmqr7durneZ7pFa\negwKnfre4m2KVcCoRJATU42CWS6uNyU/w2FA7AH6ZS6eJrGvWrG38co2DG5BOtKh\nUNqCz/1geSldUOQERtjT\n=uI7q\n-----END PGP SIGNATURE-----\n",
+    "payload": "object be94bc700879ae8217780e9d141789a2defa302b\ntype commit\ntag v3\ntagger Brandon Philips <brandon@ifup.co> 1435016564 -0700\n\nv3\n\n- add ResetFailedUnit\n- add UDP socket activation support\n- use separate connection to process signals\n- add Close to connections\n- add machine1 package\n- add UnitName*Escape methods\n"
+  }
+}

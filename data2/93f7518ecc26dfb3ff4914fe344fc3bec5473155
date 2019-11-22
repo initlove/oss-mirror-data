@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6OTNmNzUxOGVjYzI2ZGZiM2ZmNDkxNGZlMzQ0ZmMzYmVjNTQ3MzE1NQ==",
+  "sha": "93f7518ecc26dfb3ff4914fe344fc3bec5473155",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/93f7518ecc26dfb3ff4914fe344fc3bec5473155",
+  "tagger": {
+    "name": "Richard Scothern",
+    "email": "richard.scothern@docker.com",
+    "date": "2016-08-26T18:33:02Z"
+  },
+  "object": {
+    "sha": "12acdf0a6c1e56d965ac6eb395d2bce687bf22fc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/12acdf0a6c1e56d965ac6eb395d2bce687bf22fc"
+  },
+  "tag": "v2.5.1-rc.1",
+  "message": "Improvements to Catalog performance.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXwIt3AAoJEPfQDq9vNVAKvasH/i3b8G8NMhJ25hM/EyNGc3sl\njAKvMLvODXuMycyKjkaZEoRBIu9Rr2hRsvnPQdVFw2oOSnpJ/E8klFahDQNiu0Zv\nANnFbt3ChXYrQjf8886ciRVWGbr8xxKlG6FOdiz/AK86PXK4IHnJ2paX9o+WzAnx\nilpr6TMl3ehwCjWE51Oz/vBl9snJbgzHrs4VaqxzOmaf2ytqOtVInVAfLYEv6bnt\n9qCkYfUbKaUmOOoZQUWLlhg16+o5cQ4ivHrvymGbhInt9Fe5WU8WTOd60jsxvzxr\nbQ3S6HNYuF1tKCQRdi/p5dF7Jc6mleRKJvl+UAtEyto569ZxcZztNdbToldV51E=\n=ivdH\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXwIt3AAoJEPfQDq9vNVAKvasH/i3b8G8NMhJ25hM/EyNGc3sl\njAKvMLvODXuMycyKjkaZEoRBIu9Rr2hRsvnPQdVFw2oOSnpJ/E8klFahDQNiu0Zv\nANnFbt3ChXYrQjf8886ciRVWGbr8xxKlG6FOdiz/AK86PXK4IHnJ2paX9o+WzAnx\nilpr6TMl3ehwCjWE51Oz/vBl9snJbgzHrs4VaqxzOmaf2ytqOtVInVAfLYEv6bnt\n9qCkYfUbKaUmOOoZQUWLlhg16+o5cQ4ivHrvymGbhInt9Fe5WU8WTOd60jsxvzxr\nbQ3S6HNYuF1tKCQRdi/p5dF7Jc6mleRKJvl+UAtEyto569ZxcZztNdbToldV51E=\n=ivdH\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 12acdf0a6c1e56d965ac6eb395d2bce687bf22fc\ntype commit\ntag v2.5.1-rc.1\ntagger Richard Scothern <richard.scothern@docker.com> 1472236382 -0700\n\nImprovements to Catalog performance.\n"
+  }
+}

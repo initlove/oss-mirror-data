@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjA2NTM5MzQ6NTFkNDM3NzE3NzQ0ZjkzMGUwYTVkYjU0NzJlYTU3MDMzMjNhYmMzZQ==",
+  "sha": "51d437717744f930e0a5db5472ea5703323abc3e",
+  "url": "https://api.github.com/repos/google/cadvisor/git/tags/51d437717744f930e0a5db5472ea5703323abc3e",
+  "tagger": {
+    "name": "Tim St. Clair",
+    "email": "stclair@google.com",
+    "date": "2017-06-01T17:33:40Z"
+  },
+  "object": {
+    "sha": "f0cc82200ab84c0106063a0d0c2b89b674c0b818",
+    "type": "commit",
+    "url": "https://api.github.com/repos/google/cadvisor/git/commits/f0cc82200ab84c0106063a0d0c2b89b674c0b818"
+  },
+  "tag": "v0.26.0",
+  "message": "Release v0.26.0\n\n- Fix disk partition discovery for brtfs\n- Add ZFS support\n- Add UDP metrics (collection disabled by default)\n- Improve diskio prometheus metrics\n- Update Prometheus godeps to v0.8\n- Add overlay2 storage driver support\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJZMFBBAAoJEENNFrzvR56rrY8P/A6IKvScguDvbkPrsRQVJRxx\nhDaMPNLRxCI1a0238l9vcyK5xQc0Vaw0aScppIOhnGsmckRIfKly1YXbEJYbvn97\nFnuY0FjWp6ZedB2j9T+OvNLbTzL2Itu8KxKUMzv1VLlNIe3kNvYr/QoazK2YF/Sn\n3Fci9IGjNMc5aCnQ+NksCueW8kNx5U+YklBULNbVDHMG7PZToPhpEx6TEe4+Dq8M\nwQ8dBhhKhk5BuCZ3jnL5GDSpmynYbX6aJSsVdx8CoT+RpwJTcBKH+R+Wde4fivFZ\nZlRFKg3Z+PhFskWVu5WijhjQEunOnVqdmiWLyer8Yvui8T0h5IljcyEcz4vVbgd4\nf7oZnqrnZOdV4uUAaW9GUXYAUJlu6BDd+btlbNYucnI/Fz3aibAlipIyoCQSFo00\nGUGsT/rAfnGblp3M1giNYvdo7RSZ3AZi8kv7P/SnCRpwwiyMHUsCiPndPIpNvWrO\ne/J83q7oiu1zmeqqxNzk08jyh8L7QXjCuX1QHdAtQoAS7RjCy/rq2y3+axvlhwn1\nvfgWBiLmy8z6rw9ncAZJPvEPQyfpEFzeZNWfHeDWdKnx/JuZVrAM9P5ltDgmOJTH\nNu4H/CvUudQw8dHfL5icW39VGMefEyt3QRN1e31rm8saI9GGJStAiRC4apD+gisK\nRnJ3jooBCQkuooMYV8Wl\n=Yf5O\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJZMFBBAAoJEENNFrzvR56rrY8P/A6IKvScguDvbkPrsRQVJRxx\nhDaMPNLRxCI1a0238l9vcyK5xQc0Vaw0aScppIOhnGsmckRIfKly1YXbEJYbvn97\nFnuY0FjWp6ZedB2j9T+OvNLbTzL2Itu8KxKUMzv1VLlNIe3kNvYr/QoazK2YF/Sn\n3Fci9IGjNMc5aCnQ+NksCueW8kNx5U+YklBULNbVDHMG7PZToPhpEx6TEe4+Dq8M\nwQ8dBhhKhk5BuCZ3jnL5GDSpmynYbX6aJSsVdx8CoT+RpwJTcBKH+R+Wde4fivFZ\nZlRFKg3Z+PhFskWVu5WijhjQEunOnVqdmiWLyer8Yvui8T0h5IljcyEcz4vVbgd4\nf7oZnqrnZOdV4uUAaW9GUXYAUJlu6BDd+btlbNYucnI/Fz3aibAlipIyoCQSFo00\nGUGsT/rAfnGblp3M1giNYvdo7RSZ3AZi8kv7P/SnCRpwwiyMHUsCiPndPIpNvWrO\ne/J83q7oiu1zmeqqxNzk08jyh8L7QXjCuX1QHdAtQoAS7RjCy/rq2y3+axvlhwn1\nvfgWBiLmy8z6rw9ncAZJPvEPQyfpEFzeZNWfHeDWdKnx/JuZVrAM9P5ltDgmOJTH\nNu4H/CvUudQw8dHfL5icW39VGMefEyt3QRN1e31rm8saI9GGJStAiRC4apD+gisK\nRnJ3jooBCQkuooMYV8Wl\n=Yf5O\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f0cc82200ab84c0106063a0d0c2b89b674c0b818\ntype commit\ntag v0.26.0\ntagger Tim St. Clair <stclair@google.com> 1496338420 -0700\n\nRelease v0.26.0\n\n- Fix disk partition discovery for brtfs\n- Add ZFS support\n- Add UDP metrics (collection disabled by default)\n- Improve diskio prometheus metrics\n- Update Prometheus godeps to v0.8\n- Add overlay2 storage driver support\n"
+  }
+}

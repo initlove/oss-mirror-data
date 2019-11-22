@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjU4NTMyNDpjZWNhNTUwYjM1Njg3MzYzMTQzN2UzMmY3NjA0YzU3MzkxMmJiMGEz",
+  "sha": "ceca550b356873631437e32f7604c573912bb0a3",
+  "url": "https://api.github.com/repos/banister/binding_of_caller/git/tags/ceca550b356873631437e32f7604c573912bb0a3",
+  "tagger": {
+    "name": "Amadeus Folego",
+    "email": "amadeusfolego@gmail.com",
+    "date": "2014-08-20T14:01:12Z"
+  },
+  "object": {
+    "sha": "01cabcfe06bd3934120e86b8ba34fb72b512eaa9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/banister/binding_of_caller/git/commits/01cabcfe06bd3934120e86b8ba34fb72b512eaa9"
+  },
+  "tag": "v0.7.3.pre1",
+  "message": "Compatibility fixes and minor enhancements\n\n*   C Extensions are only compiled on MRI 1.9.x.\n\n    For MRI >= 2 the native API is used, so this should speedup\n    installation.\n\n    For JRuby this will avoid crashes on gem installation.\n\n    This was alredy being checked for Rubinius.\n\n    *Amadeus Folego*\n\n*    Added experimental JRuby support for 1.7.x series.\n\n     Only the main API is implemented and `Binding#eval` is\n     monkey-patched as it is private on JRuby.\n\n     This requires the compiler to be run on interpreted mode,\n     otherwise an exception will be thrown when `of_caller` is called.\n\n    *Charles Nutter*\n\n*   Remove executability from non-executable files.\n\n    *David Celis*\n\n*   Test and notice MRI 2.1 as a working Ruby implementation.\n\n    *Lennart Fridén*\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

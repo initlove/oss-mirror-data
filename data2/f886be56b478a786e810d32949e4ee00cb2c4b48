@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6Zjg4NmJlNTZiNDc4YTc4NmU4MTBkMzI5NDllNGVlMDBjYjJjNGI0OA==",
+  "sha": "f886be56b478a786e810d32949e4ee00cb2c4b48",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/f886be56b478a786e810d32949e4ee00cb2c4b48",
+  "tagger": {
+    "name": "Derek McGowan",
+    "email": "derek@mcgstyle.net",
+    "date": "2017-04-05T23:20:21Z"
+  },
+  "object": {
+    "sha": "a25b9ef0c9fe242ac04bb20d3a028442b7d266b6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/a25b9ef0c9fe242ac04bb20d3a028442b7d266b6"
+  },
+  "tag": "v2.6.1",
+  "message": "Docker Registry 2.6.1\n\nRegistry\n- Fix `Forwarded` header handling, revert use of `X-Forwarded-Port`\n- Use driver `Stat` for registry health check\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJY5XvKAAoJEPWMXQpEBazbbvAQAKfTNF3VQvi2HgDnxrfIx4GH\nW+A+PEDcGZOdTDbUeWSZy3TbiPH9JiRM/wDWarTwOm+RAdRqO0/G4beIX9DszCbH\nWewcAezUsoeSa4MK8tYpV6aEgEoYXZu4KwDMyVroXC9fsEFxJJoRYD5ZbFdPmq1n\n7UMs2L9ibuZXfmNL2oA361RW9sHSCuPBsLzDYwRtAtnd8aXvjhoCXGtJfE+qXLCG\n34xqhRwpCd38DoPTu8nSZdYhT2Pjc3/Hy9IleetHdCENsoMJs7eNNQ4oE1qRnC0j\ncTMg+zDbywXAD+i5GR1WB81j/kZX+Tj/28p9jH7AaML0i1br8B1Jr0+DZYI4B7KZ\nxbvMynKZ55pbs75q00DUJeoXfjD5bfqPJNQ2zwvS3mmeCVTQStYO++z/vI2SdEOP\nFQ9JSzWdKfMeq5ujkuNXW52v7us0Nlt1k687bHvQ66yJb6u+veFXqwOny4QLdoo9\noW1FFnL9V8jDuBXqXQFs0JAQf53FTRQx/47/ywwzvGpl0vPS9DXJjBxivFg2wPMy\n5t2msrBmvno9hn4QDvp7tLVK85nlJWvFEjBgIzv2u2c232Dqss5wJDSI+YIS+T3J\n517o15sM5tW39PdYRPTaVoxQcF9giusPgJemQ+d63THQHHOBAta9Z7ijePSrrf2L\nk5H+wZexvNmaqc3iM0mQ\n=3vU7\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJY5XvKAAoJEPWMXQpEBazbbvAQAKfTNF3VQvi2HgDnxrfIx4GH\nW+A+PEDcGZOdTDbUeWSZy3TbiPH9JiRM/wDWarTwOm+RAdRqO0/G4beIX9DszCbH\nWewcAezUsoeSa4MK8tYpV6aEgEoYXZu4KwDMyVroXC9fsEFxJJoRYD5ZbFdPmq1n\n7UMs2L9ibuZXfmNL2oA361RW9sHSCuPBsLzDYwRtAtnd8aXvjhoCXGtJfE+qXLCG\n34xqhRwpCd38DoPTu8nSZdYhT2Pjc3/Hy9IleetHdCENsoMJs7eNNQ4oE1qRnC0j\ncTMg+zDbywXAD+i5GR1WB81j/kZX+Tj/28p9jH7AaML0i1br8B1Jr0+DZYI4B7KZ\nxbvMynKZ55pbs75q00DUJeoXfjD5bfqPJNQ2zwvS3mmeCVTQStYO++z/vI2SdEOP\nFQ9JSzWdKfMeq5ujkuNXW52v7us0Nlt1k687bHvQ66yJb6u+veFXqwOny4QLdoo9\noW1FFnL9V8jDuBXqXQFs0JAQf53FTRQx/47/ywwzvGpl0vPS9DXJjBxivFg2wPMy\n5t2msrBmvno9hn4QDvp7tLVK85nlJWvFEjBgIzv2u2c232Dqss5wJDSI+YIS+T3J\n517o15sM5tW39PdYRPTaVoxQcF9giusPgJemQ+d63THQHHOBAta9Z7ijePSrrf2L\nk5H+wZexvNmaqc3iM0mQ\n=3vU7\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a25b9ef0c9fe242ac04bb20d3a028442b7d266b6\ntype commit\ntag v2.6.1\ntagger Derek McGowan <derek@mcgstyle.net> 1491434421 -0700\n\nDocker Registry 2.6.1\n\nRegistry\n- Fix `Forwarded` header handling, revert use of `X-Forwarded-Port`\n- Use driver `Stat` for registry health check\n"
+  }
+}

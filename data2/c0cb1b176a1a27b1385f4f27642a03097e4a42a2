@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6YzBjYjFiMTc2YTFhMjdiMTM4NWY0ZjI3NjQyYTAzMDk3ZTRhNDJhMg==",
+  "sha": "c0cb1b176a1a27b1385f4f27642a03097e4a42a2",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/c0cb1b176a1a27b1385f4f27642a03097e4a42a2",
+  "tagger": {
+    "name": "Richard",
+    "email": "richard.scothern@gmail.com",
+    "date": "2015-05-06T23:44:13Z"
+  },
+  "object": {
+    "sha": "1341222284b3a6b4e77fb64571ad423ed58b0d34",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/1341222284b3a6b4e77fb64571ad423ed58b0d34"
+  },
+  "tag": "v2.0.1",
+  "message": "v2.0.1: Minor release of Docker Registry 2.0\n\nThis release provides bug fixes, stability improvements,\nbetter logging and extra documentation.\n\n- Enable blob streaming upload\n- S3 consistency checking and better resource utilization\n- Eliminate resource leakage in the notification system\n- Request error and storage driver logging\n- Documentation corrections and additions\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJVSqeOAAoJEPfQDq9vNVAK1m8IAI+lT6iwNQsqZUjzPaGAganp\nVUKnxt0MP89i5cPozyZukszJvLTg8PlsRHqJ2Ccmvt0Z1YDWDuWDS2NAbuSTIK50\nVGKfQgmUQWC6iVWh/KqNOvinVMtXyUa8d6GUlBwtRayO+e3jXv0OBGd6UD7P71GA\nqkNqxMEr+yVExFQwH07VkG3cPPuH2v6Pe5ik2czgfh+ha26xEX1mpKKFCIm6xtIi\nm+luFrGMCcbwRHcIIsC3FL8fjp5UZdAX9vLb2edyByIDezr+bA6HAnItp6qVPhxm\nQobplP975RB8CLoRbz/r7SKLqJh0uruwNlozlbHIWHZbf76oYOM2o+rOTwctxwE=\n=qwSg\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJVSqeOAAoJEPfQDq9vNVAK1m8IAI+lT6iwNQsqZUjzPaGAganp\nVUKnxt0MP89i5cPozyZukszJvLTg8PlsRHqJ2Ccmvt0Z1YDWDuWDS2NAbuSTIK50\nVGKfQgmUQWC6iVWh/KqNOvinVMtXyUa8d6GUlBwtRayO+e3jXv0OBGd6UD7P71GA\nqkNqxMEr+yVExFQwH07VkG3cPPuH2v6Pe5ik2czgfh+ha26xEX1mpKKFCIm6xtIi\nm+luFrGMCcbwRHcIIsC3FL8fjp5UZdAX9vLb2edyByIDezr+bA6HAnItp6qVPhxm\nQobplP975RB8CLoRbz/r7SKLqJh0uruwNlozlbHIWHZbf76oYOM2o+rOTwctxwE=\n=qwSg\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1341222284b3a6b4e77fb64571ad423ed58b0d34\ntype commit\ntag v2.0.1\ntagger Richard <richard.scothern@gmail.com> 1430955853 -0700\n\nv2.0.1: Minor release of Docker Registry 2.0\n\nThis release provides bug fixes, stability improvements,\nbetter logging and extra documentation.\n\n- Enable blob streaming upload\n- S3 consistency checking and better resource utilization\n- Eliminate resource leakage in the notification system\n- Request error and storage driver logging\n- Documentation corrections and additions\n"
+  }
+}

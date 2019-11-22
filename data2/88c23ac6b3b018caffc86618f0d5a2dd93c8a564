@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMDUxOjg4YzIzYWM2YjNiMDE4Y2FmZmM4NjYxOGYwZDVhMmRkOTNjOGE1NjQ=",
+  "sha": "88c23ac6b3b018caffc86618f0d5a2dd93c8a564",
+  "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/tags/88c23ac6b3b018caffc86618f0d5a2dd93c8a564",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2015-12-16T16:19:59Z"
+  },
+  "object": {
+    "sha": "5d50d9fb2a967d21c0f5746370ccc066d3a67f7d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/commits/5d50d9fb2a967d21c0f5746370ccc066d3a67f7d"
+  },
+  "tag": "v8.9.5",
+  "message": "8.9.5\n--------\n * add support for new disk option 'rs-discard-granularity' (module v8.4.7)\n * add support for new disk option 'discard-zeroes-if-aligned' (module v8.4.7)\n * add support for v9 \"path\" commands\n * doc improvements/corrections\n * improvements to drbd ocf resource agent\n   and pacemaker \"constraint based fencing\" (crm-fence-peer.sh)\n * drbd-overview improvements\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBWcY9NabsdXACqiTMRAkboAJ9koVLeTS6QSyYZtunjCVU0klIE/gCcCyln\nx3YSDOmVmfgOjTYPH368hPw=\n=OZcX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBWcY9NabsdXACqiTMRAkboAJ9koVLeTS6QSyYZtunjCVU0klIE/gCcCyln\nx3YSDOmVmfgOjTYPH368hPw=\n=OZcX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5d50d9fb2a967d21c0f5746370ccc066d3a67f7d\ntype commit\ntag v8.9.5\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1450282799 +0100\n\n8.9.5\n--------\n * add support for new disk option 'rs-discard-granularity' (module v8.4.7)\n * add support for new disk option 'discard-zeroes-if-aligned' (module v8.4.7)\n * add support for v9 \"path\" commands\n * doc improvements/corrections\n * improvements to drbd ocf resource agent\n   and pacemaker \"constraint based fencing\" (crm-fence-peer.sh)\n * drbd-overview improvements\n"
+  }
+}

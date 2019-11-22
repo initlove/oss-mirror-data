@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI4MjEzMDM6MjJiOWVmNDE4MDkwNDhlMGViYzA2ZDkyYjlkYmFmNGUyNWZlNmJiYw==",
+  "sha": "22b9ef41809048e0ebc06d92b9dbaf4e25fe6bbc",
+  "url": "https://api.github.com/repos/coreos/go-systemd/git/tags/22b9ef41809048e0ebc06d92b9dbaf4e25fe6bbc",
+  "tagger": {
+    "name": "Luca Bruno",
+    "email": "luca.bruno@coreos.com",
+    "date": "2016-05-19T09:39:37Z"
+  },
+  "object": {
+    "sha": "209fe3fe3c6ebc2d21f292228504fddb27e243f7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/coreos/go-systemd/git/commits/209fe3fe3c6ebc2d21f292228504fddb27e243f7"
+  },
+  "tag": "v6",
+  "message": "go-systemd v6\n\nSummary of changes in this release:\n * rewritten sdjournal to dlopen libsystemd instead of linking to it\n * examples are not build by default anymore, making `go get` happy\n * journal entry field `_TRANSPORT` is now exposed\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXPYqAAAoJEKmDSiJSB45OWPMP/2bILbgA6yPWb2irtKE0QxWz\nz0KdJwTuzS+jcmga6/RLxUEkE1QMq0nFcbiwyS5AfPsQiBiKQJ7ZIW7YvqiIljn4\nmrH0/xON1mViVmu65rW/9Q9ZJUNTAQNerGlDu95JXpjxgUAvRhvhO0WsMUFfW1ZP\n3lEtTvokht8xS7v/ejjwK4UfhVkfwJxchkikNzNSn9edNTAvYeRYhkP0scZzfPQo\nVusZwQ3pQxzFXq8/MG8WOG2dB9m0IFFK9BL9TMKrsW8vOaHNXla6/ziJ7tIXJqpV\n3Wn9E8jrNiZZjJ17AW7dYIX5sit7QQdPG2vFn1f3gJBy81C2o2MG4+J09KTbnZMw\nq5Utz8SygwvN2I+jM/3PJOwO0ilSCScy6JWetOEX+VlF164qfQJO0qUvxUh+0iT5\nge2y1kmbjtMtZBmBOWIp3VELGHnQtQWU0ra5TBCwVrePnlSYiy6vOcBd6I8DX2iK\nr1T1w3eSO59s0APs+MnkZH8Xb9W8WEWznOsLywHh2C/rYl9jcuClQ0EYdjJ/xq6k\nyQDjVhgaJg5JtLSThdml5qkZ4Lm4NXMGN7En0y3bih0ZPuia8ExjiV6B1Xmo+5S6\n+NmJnQSZq3JxiSMFkA+YQE8ehppRx80wfiR/6HRdFo/ZEW7Jx4Sml9nWoeJt1Ph6\nZIkHMQKhyXCJDwTFPH2t\n=jOin\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXPYqAAAoJEKmDSiJSB45OWPMP/2bILbgA6yPWb2irtKE0QxWz\nz0KdJwTuzS+jcmga6/RLxUEkE1QMq0nFcbiwyS5AfPsQiBiKQJ7ZIW7YvqiIljn4\nmrH0/xON1mViVmu65rW/9Q9ZJUNTAQNerGlDu95JXpjxgUAvRhvhO0WsMUFfW1ZP\n3lEtTvokht8xS7v/ejjwK4UfhVkfwJxchkikNzNSn9edNTAvYeRYhkP0scZzfPQo\nVusZwQ3pQxzFXq8/MG8WOG2dB9m0IFFK9BL9TMKrsW8vOaHNXla6/ziJ7tIXJqpV\n3Wn9E8jrNiZZjJ17AW7dYIX5sit7QQdPG2vFn1f3gJBy81C2o2MG4+J09KTbnZMw\nq5Utz8SygwvN2I+jM/3PJOwO0ilSCScy6JWetOEX+VlF164qfQJO0qUvxUh+0iT5\nge2y1kmbjtMtZBmBOWIp3VELGHnQtQWU0ra5TBCwVrePnlSYiy6vOcBd6I8DX2iK\nr1T1w3eSO59s0APs+MnkZH8Xb9W8WEWznOsLywHh2C/rYl9jcuClQ0EYdjJ/xq6k\nyQDjVhgaJg5JtLSThdml5qkZ4Lm4NXMGN7En0y3bih0ZPuia8ExjiV6B1Xmo+5S6\n+NmJnQSZq3JxiSMFkA+YQE8ehppRx80wfiR/6HRdFo/ZEW7Jx4Sml9nWoeJt1Ph6\nZIkHMQKhyXCJDwTFPH2t\n=jOin\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 209fe3fe3c6ebc2d21f292228504fddb27e243f7\ntype commit\ntag v6\ntagger Luca Bruno <luca.bruno@coreos.com> 1463650777 +0200\n\ngo-systemd v6\n\nSummary of changes in this release:\n * rewritten sdjournal to dlopen libsystemd instead of linking to it\n * examples are not build by default anymore, making `go get` happy\n * journal entry field `_TRANSPORT` is now exposed\n"
+  }
+}

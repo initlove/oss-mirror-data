@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTI1MzE2OmE1YjRkMTJjYWExNGVhMjQxMGI1MGUwZDhjNWFmOTQ5Njg2ODc4NzE=",
+  "sha": "a5b4d12caa14ea2410b50e0d8c5af94968687871",
+  "url": "https://api.github.com/repos/mozilla/bleach/git/tags/a5b4d12caa14ea2410b50e0d8c5af94968687871",
+  "tagger": {
+    "name": "Will Kahn-Greene",
+    "email": "willkg@mozilla.com",
+    "date": "2016-11-04T19:47:35Z"
+  },
+  "object": {
+    "sha": "0d06fa32a6bdc117ca396b56232a06c2e083fe73",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mozilla/bleach/git/commits/0d06fa32a6bdc117ca396b56232a06c2e083fe73"
+  },
+  "tag": "v1.5",
+  "message": "Version 1.5 (November 4th, 2016)\n--------------------------------\n\n**Backwards incompatible changes**\n\n- clean: The list of ``ALLOWED_PROTOCOLS`` now defaults to http, https\n  and mailto. Previously it was a long list of protocols something like\n  ed2k, ftp, http, https, irc, mailto, news, gopher, nntp, telnet,\n  webcal, xmpp, callto, feed, urn, aim, rsync, tag, ssh, sftp, rtsp,\n  afs, data. #149\n\n**Changes**\n\n- clean: Added ``protocols`` to arguments list to let you override the\n  list of allowed protocols. Thank you, Andreas Malecki! #149\n- linkify: Fix a bug involving periods at the end of an email address.\n  Thank you, Lorenz Schori! #219\n- linkify: Fix linkification of non-ascii ports. Thank you Alexandre,\n  Macabies! #207\n- linkify: Fix linkify inappropriately removing node tails when dropping\n  nodes. #132\n- Fixed a test that failed periodically. #161\n- Switched from nose to py.test. #204\n- Add test matrix for all supported Python and html5lib versions. #230\n- Limit to html5lib ``>=0.999,!=0.9999,!=0.99999,<0.99999999`` because\n  ``0.9999`` and ``0.99999`` are busted.\n- Add support for ``python setup.py test``. #97\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI4MjEzMDM6NjMyNzcxNjM4YTMzZmEzZGY1MTcwNTk2YWEzZWFkYTBlMzRjYzRjMw==",
+  "sha": "632771638a33fa3df5170596aa3eada0e34cc4c3",
+  "url": "https://api.github.com/repos/coreos/go-systemd/git/tags/632771638a33fa3df5170596aa3eada0e34cc4c3",
+  "tagger": {
+    "name": "Luca Bruno",
+    "email": "luca.bruno@coreos.com",
+    "date": "2016-08-26T13:23:52Z"
+  },
+  "object": {
+    "sha": "43e4800a6165b4e02bb2a36673c54b230d6f7b26",
+    "type": "commit",
+    "url": "https://api.github.com/repos/coreos/go-systemd/git/commits/43e4800a6165b4e02bb2a36673c54b230d6f7b26"
+  },
+  "tag": "v12",
+  "message": "go-systemd v12\n\nSummary of changes in this release:\n * dbus: add mask/unmask for unit files\n * dbus: add PropPids to set initial pids of transient scope units\n * util: conditionally build CGO functions\n * activation: don't specify NextProtos so that we can take advantage of HTTP/2\n * sdjournal: fix concurrent map access\n * sdjournal: fix race condition in test\n * sdjournal: fix memory leak in cursor handling\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXwEN3AAoJEKmDSiJSB45ObPQP+gMnvpY+iTpKqojmTDPVpqSi\nlmT6Gm/LQ4riUbvj/jhw3mFMZ44N/QxbQqK8iP8wQDcVGY2OWD+HK+UctjRJt3My\nN3o10BOaXXA5gQfWL0QU7pi8EtVof/Yic6M4r2YgBQ32Myr1+RqZhxyQu6tjch5c\nlDbMlhu+kvF5N2vgFseNTu8FKchAzwu7i+93htAjHlUPxlYvODgz/Ou4MPk0+w+f\nV6CK7mvCSkg/K33xj7jcFVigIEJo2DoACHZkSgC1HwA2Jfwez+MZrG7jBnmP96vu\n+ttPqGp+Vrc0JqErgMuPfFRiYpxu/VNjzsZ7jvsviFr3mAO5ENj4d7wSzwIC53fF\n5yM7d1aZw/2+eB6d4UAlTfb5DH1jClLAgqcr6qDfNFPo/pMA8wcOImSTZsMlPjD9\n0jT/+fC9bXgPysHwiGlQ67O68HEIEeOGYWgu9kGOJDOSE1YFlDzWVpg0Oum6Paan\npTGhj5+j65jvEv66UAck9DMjlTNtfIBxs3/k+rM9+RfJUUqi43YCuVC7H0U3utQN\nDa/P9PaRZV0dZsyDx2GsALeaFj7PBTUY4xH+A2Iokm+8h5Z8KF6WiazGijASdeUS\nHnknexelYeZsZPYo4QphZoBCkhfaAO/8m2z8jn4S+RaasGON4So+430X5Qah+fuS\nXLutXfSdau1UYvgt662h\n=sBJl\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXwEN3AAoJEKmDSiJSB45ObPQP+gMnvpY+iTpKqojmTDPVpqSi\nlmT6Gm/LQ4riUbvj/jhw3mFMZ44N/QxbQqK8iP8wQDcVGY2OWD+HK+UctjRJt3My\nN3o10BOaXXA5gQfWL0QU7pi8EtVof/Yic6M4r2YgBQ32Myr1+RqZhxyQu6tjch5c\nlDbMlhu+kvF5N2vgFseNTu8FKchAzwu7i+93htAjHlUPxlYvODgz/Ou4MPk0+w+f\nV6CK7mvCSkg/K33xj7jcFVigIEJo2DoACHZkSgC1HwA2Jfwez+MZrG7jBnmP96vu\n+ttPqGp+Vrc0JqErgMuPfFRiYpxu/VNjzsZ7jvsviFr3mAO5ENj4d7wSzwIC53fF\n5yM7d1aZw/2+eB6d4UAlTfb5DH1jClLAgqcr6qDfNFPo/pMA8wcOImSTZsMlPjD9\n0jT/+fC9bXgPysHwiGlQ67O68HEIEeOGYWgu9kGOJDOSE1YFlDzWVpg0Oum6Paan\npTGhj5+j65jvEv66UAck9DMjlTNtfIBxs3/k+rM9+RfJUUqi43YCuVC7H0U3utQN\nDa/P9PaRZV0dZsyDx2GsALeaFj7PBTUY4xH+A2Iokm+8h5Z8KF6WiazGijASdeUS\nHnknexelYeZsZPYo4QphZoBCkhfaAO/8m2z8jn4S+RaasGON4So+430X5Qah+fuS\nXLutXfSdau1UYvgt662h\n=sBJl\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 43e4800a6165b4e02bb2a36673c54b230d6f7b26\ntype commit\ntag v12\ntagger Luca Bruno <luca.bruno@coreos.com> 1472217832 +0000\n\ngo-systemd v12\n\nSummary of changes in this release:\n * dbus: add mask/unmask for unit files\n * dbus: add PropPids to set initial pids of transient scope units\n * util: conditionally build CGO functions\n * activation: don't specify NextProtos so that we can take advantage of HTTP/2\n * sdjournal: fix concurrent map access\n * sdjournal: fix race condition in test\n * sdjournal: fix memory leak in cursor handling\n"
+  }
+}

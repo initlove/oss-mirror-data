@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDpmZmNjYTNiMThkMjViNDZiNmNmZGQwZTdkMTgyNmEzOWQ4N2JkMTZk",
+  "sha": "ffcca3b18d25b46b6cfdd0e7d1826a39d87bd16d",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/ffcca3b18d25b46b6cfdd0e7d1826a39d87bd16d",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-27T09:03:04Z"
+  },
+  "object": {
+    "sha": "4bee77bedfdb96425bf60d3f49edab6dfd05bca9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/4bee77bedfdb96425bf60d3f49edab6dfd05bca9"
+  },
+  "tag": "15.0.0.0rc1",
+  "message": "cinder 15.0.0.0rc1 release candidate\n\nmeta:version: 15.0.0.0rc1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: I7ba9b7188c9161c8ce57f4e8072ed2baddb93dc3\nmeta:release:Code-Review+1: Jay Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2N0EgZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2M0/DACSL3++krlrGrFEDz45h4Iz\nr+F+T0w2dsTe0m2IAjPzRBH6BPTBa6rWW4UqMmGntBiYp17JwHEtjn7qmWunoyfi\nrdWpt96K4mdqVJBHfAH9IS9gVM2tWKKlzMXAalGanc1tA6eYGIeoqqpZhDy88xBF\nPqYSw2XxUYX+1edx73HS12xv53hI/GOWPAmJ0MH9Ptl6ndRejtcpEV4r1yemtqS4\nvIBghH+vVukKJ9jRLmQmZfrxqciur8ObV+rKwBmPEn3zRgkIUa0ECBArYYuc73k2\nHpwEuzd0Bi8A0U6jLK66plLGtUlJZPanKb1v6rD/hD4GBImwAe5YPMwxYKy5yVGr\ngcT12JT0bbDd3KR6TQ3cqqlkzHkRk/I0AmsTLQBlVQQymCNII1x/NXLq95CxZP2N\nYQpyYQd51UKfdRM2FBzKy9emdQliAMajVCxPIDJqLtI209oy3eLmFIiMJHtKlaZS\neQrtpkI6LYjl3SZzFNWcNknLAe7GBoJ1eQ/dAL5Shs4=\n=qC5t\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2N0EgZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2M0/DACSL3++krlrGrFEDz45h4Iz\nr+F+T0w2dsTe0m2IAjPzRBH6BPTBa6rWW4UqMmGntBiYp17JwHEtjn7qmWunoyfi\nrdWpt96K4mdqVJBHfAH9IS9gVM2tWKKlzMXAalGanc1tA6eYGIeoqqpZhDy88xBF\nPqYSw2XxUYX+1edx73HS12xv53hI/GOWPAmJ0MH9Ptl6ndRejtcpEV4r1yemtqS4\nvIBghH+vVukKJ9jRLmQmZfrxqciur8ObV+rKwBmPEn3zRgkIUa0ECBArYYuc73k2\nHpwEuzd0Bi8A0U6jLK66plLGtUlJZPanKb1v6rD/hD4GBImwAe5YPMwxYKy5yVGr\ngcT12JT0bbDd3KR6TQ3cqqlkzHkRk/I0AmsTLQBlVQQymCNII1x/NXLq95CxZP2N\nYQpyYQd51UKfdRM2FBzKy9emdQliAMajVCxPIDJqLtI209oy3eLmFIiMJHtKlaZS\neQrtpkI6LYjl3SZzFNWcNknLAe7GBoJ1eQ/dAL5Shs4=\n=qC5t\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4bee77bedfdb96425bf60d3f49edab6dfd05bca9\ntype commit\ntag 15.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1569574984 +0000\n\ncinder 15.0.0.0rc1 release candidate\n\nmeta:version: 15.0.0.0rc1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: I7ba9b7188c9161c8ce57f4e8072ed2baddb93dc3\nmeta:release:Code-Review+1: Jay Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

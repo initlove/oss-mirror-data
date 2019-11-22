@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzYyNTE4MjY6OTMzYmI0NWZmYTQzMGE4MjJlOWU3NmYyMDY4ZWQ3OWRkN2JkOWRkYw==",
+  "sha": "933bb45ffa430a822e9e76f2068ed79dd7bd9ddc",
+  "url": "https://api.github.com/repos/supasate/connected-react-router/git/tags/933bb45ffa430a822e9e76f2068ed79dd7bd9ddc",
+  "tagger": {
+    "name": "Supasate Choochaisri",
+    "email": "supasate.c@gmail.com",
+    "date": "2018-11-03T04:32:37Z"
+  },
+  "object": {
+    "sha": "36ee67db655bcc9e32359b2be7e375f2d5a99213",
+    "type": "commit",
+    "url": "https://api.github.com/repos/supasate/connected-react-router/git/commits/36ee67db655bcc9e32359b2be7e375f2d5a99213"
+  },
+  "tag": "v5.0.0",
+  "message": "v5.0.0\nBreaking Change\n===============\nAlign public API with react-router-redux and allow various integrations (redux-loop, rematch, etc.) (@sgal in #150)\n\n1. In your reducer file, instead of exporting a root reducer, we need to export a function accepting `history` and returning a root reducer with a router key that uses connectRouter(history).\n```\n// reducers.js\n\nimport { combineReducers } from 'redux'\nimport { connectRouter } from 'connected-react-router'\n\nexport default (history) => combineReducers({\n  router: connectRouter(history),\n  ... // rest of your reducers\n})\n```\n2. In store configuration,\n``\n// configureStore.js\nimport { createBrowserHistory } from 'history'\nimport { applyMiddleware, compose, createStore } from 'redux'\nimport { routerMiddleware } from 'connected-react-router'\nimport createRootReducer from './reducers'\n\nconst history = createBrowserHistory()\nconst store = createStore(\n  createRootReducer(history), // root reducer with router state\n  initialState,\n  compose(\n    applyMiddleware(\n      routerMiddleware(history), // for dispatching history actions\n      // ... other middlewares ...\n    ),\n  ),\n)\n``\nEnhancement\n===========\n- Expose router reducer with customized name to make it work with other libraries (redux-loop, rematch, etc) (@sgal in #150)\n- Add TypeScript definitions for immutable (@thomschke in #145)\n- Add TypeScript definitions for seamless-immutable (@Brettm12345 in #157)\n- Use string literal type for CALL_HISTORY_METHOD (@maxhawkins in #147)\n- Move redux-seamless-immutable to devDependencies (@n3tr in #167)\n\nBug fix\n=======\n- Fix redux state is created on every action (@sgal in #150)\n- Fix TypeScript error on React 16 (@thomschke in #145)\n- Fix connectRouter TypeScript definition (@supasate in #156)\n- Update RouterAction types to be strongly typed on the exact strings (@colbydehart in #149)\n- Fix FAQ links (@durasj in #162 and #163)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

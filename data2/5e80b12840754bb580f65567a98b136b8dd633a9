@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzYyNTE4MjY6NWU4MGIxMjg0MDc1NGJiNTgwZjY1NTY3YTk4YjEzNmI4ZGQ2MzNhOQ==",
+  "sha": "5e80b12840754bb580f65567a98b136b8dd633a9",
+  "url": "https://api.github.com/repos/supasate/connected-react-router/git/tags/5e80b12840754bb580f65567a98b136b8dd633a9",
+  "tagger": {
+    "name": "Supasate Choochaisri",
+    "email": "supasate.c@gmail.com",
+    "date": "2019-01-05T18:31:15Z"
+  },
+  "object": {
+    "sha": "7329f35355f11cf54fa273899f2bdd154a4a810b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/supasate/connected-react-router/git/commits/7329f35355f11cf54fa273899f2bdd154a4a810b"
+  },
+  "tag": "v6.2.0-beta.1",
+  "message": "v6.2.0-beta.1\n\nFixes\n---\n- Move store and history subscription back to constructor (@supasate in #227)\n\nEnhancements\n------------\n- Create selectors to retrieve search and hash (@antgonzales in #203)\n- Add getter Typescript type support for getAction, getSearch, and getHash (@antgonzales in #203)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

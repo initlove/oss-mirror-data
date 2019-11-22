@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDpkZjAxNmE0NTkyZWM5OTliOGY0ZmJhMDI3YzZiM2U5ZTNkY2YzNjEy",
+  "sha": "df016a4592ec999b8f4fba027c6b3e9e3dcf3612",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/df016a4592ec999b8f4fba027c6b3e9e3dcf3612",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-12-21T20:56:11Z"
+  },
+  "object": {
+    "sha": "d810928406eb2a95bb5f15a6d8437b377abde733",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/d810928406eb2a95bb5f15a6d8437b377abde733"
+  },
+  "tag": "11.0.2",
+  "message": "cinder 11.0.2 release\n\nmeta:version: 11.0.2\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Eric Harney <eharney@redhat.com>\nmeta:release:Commit: Eric Harney <eharney@redhat.com>\nmeta:release:Change-Id: I162181b447abf0f917d2f1f82d865a82eca6413b\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaPB/rAAoJEEIeZHKBH5qBDk8IAMLAZ6m5kzKo2vwe6aYwH4fB\nn9kxGnyVsgAw9CJeDlPum4xxjnk0bGiEmCDvnaHYyxG9XLFo1fnwzfWsS0bRx6WN\nwUVx1Q5gFCgZcXZZA7PpWdHfaFgBFzNyLGeLOp70sbaOXe4B4s+MWH5d8TJF2eKv\nTD4vGbFbpcXLG9Xr9phXt/yMSARUncNphbWaY1v+pfVQZ/UxqC1lcqCj4ww/p8Zw\naSXLKCd0ELfwvbhrGoaEXhAWbLItfpZ4lpcy+tmzymcbpYcK7SsLn+ykKEn2vDHF\nncOKgomWbKFSRw8c9olaMbYPUbMmgQvK7tjUikZwVVrCs0jDxeE7/zuzFXp4q/0=\n=WkZr\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaPB/rAAoJEEIeZHKBH5qBDk8IAMLAZ6m5kzKo2vwe6aYwH4fB\nn9kxGnyVsgAw9CJeDlPum4xxjnk0bGiEmCDvnaHYyxG9XLFo1fnwzfWsS0bRx6WN\nwUVx1Q5gFCgZcXZZA7PpWdHfaFgBFzNyLGeLOp70sbaOXe4B4s+MWH5d8TJF2eKv\nTD4vGbFbpcXLG9Xr9phXt/yMSARUncNphbWaY1v+pfVQZ/UxqC1lcqCj4ww/p8Zw\naSXLKCd0ELfwvbhrGoaEXhAWbLItfpZ4lpcy+tmzymcbpYcK7SsLn+ykKEn2vDHF\nncOKgomWbKFSRw8c9olaMbYPUbMmgQvK7tjUikZwVVrCs0jDxeE7/zuzFXp4q/0=\n=WkZr\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d810928406eb2a95bb5f15a6d8437b377abde733\ntype commit\ntag 11.0.2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1513889771 +0000\n\ncinder 11.0.2 release\n\nmeta:version: 11.0.2\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Eric Harney <eharney@redhat.com>\nmeta:release:Commit: Eric Harney <eharney@redhat.com>\nmeta:release:Change-Id: I162181b447abf0f917d2f1f82d865a82eca6413b\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

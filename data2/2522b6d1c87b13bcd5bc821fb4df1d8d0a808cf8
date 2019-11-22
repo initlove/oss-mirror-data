@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTgxNTQ0MDE6MjUyMmI2ZDFjODdiMTNiY2Q1YmM4MjFmYjRkZjFkOGQwYTgwOGNmOA==",
+  "sha": "2522b6d1c87b13bcd5bc821fb4df1d8d0a808cf8",
+  "url": "https://api.github.com/repos/Netflix/dyno/git/tags/2522b6d1c87b13bcd5bc821fb4df1d8d0a808cf8",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-04-15T20:49:19Z"
+  },
+  "object": {
+    "sha": "be1ce9e526dd168d34d916e37de606ef7113316b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/dyno/git/commits/be1ce9e526dd168d34d916e37de606ef7113316b"
+  },
+  "tag": "v1.4.1",
+  "message": "Release of 1.4.1\n\n- be1ce9e526dd168d34d916e37de606ef7113316b: Merge pull request #106 from jcacciatore/bugfix-track_cp_instances\n- 4305fb51bc9841726f6b843d91821da7fb832250: Merge branch 'master' into bugfix-track_cp_instances\n- 03009977e5b754b7ab24ba288ddc38ae41604b83: Merge pull request #105 from jcacciatore/bugfix-poolexhausted\n- 703b4b188f7371898f19a6c14b43159ff6a4c9d3: Removing RF check and commenting for clarification.\n- c0f587598f0a7b1eb5c54d4df28f430901387212: Merge branch 'master' into bugfix-poolexhausted\n- e2328afcf85c08367c8dcd0953a3092c03c8cd34: Incorporating feedback from code review. This includes changing the connection borrowed timeout from 2 seconds to 800 millis as well as basic support of RF=2 for this scenario.\n- 28d4507e0026a9a9202480d71ed48bdb639e700b: Track connection pools via the MonitorConsole.\n- caa165280333e3b5d5366ebf36039b30f696fbf8: Bug Fix - host pool can run out of connections\n- ae2c985b6c99da8bb52a0b69b8c5dbe47c322fa4: Merge pull request #104 from jcacciatore/token-supplier-example\n- 75cf75e6f6ef187e7d7bb06c34a31a993ef248ad: Example of custom token supplier\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

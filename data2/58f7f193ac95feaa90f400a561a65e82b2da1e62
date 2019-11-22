@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzU4ODIxNzI6NThmN2YxOTNhYzk1ZmVhYTkwZjQwMGE1NjFhNjVlODJiMmRhMWU2Mg==",
+  "sha": "58f7f193ac95feaa90f400a561a65e82b2da1e62",
+  "url": "https://api.github.com/repos/Netflix/conductor/git/tags/58f7f193ac95feaa90f400a561a65e82b2da1e62",
+  "tagger": {
+    "name": "Poorna Reddy",
+    "email": "preddy@netflix.com",
+    "date": "2018-05-22T00:39:18Z"
+  },
+  "object": {
+    "sha": "dcd8f0950d8a5ccede264755d95b8e24210f9564",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/conductor/git/commits/dcd8f0950d8a5ccede264755d95b8e24210f9564"
+  },
+  "tag": "v1.9.4",
+  "message": "Added a new status: FAILED_WITH_TERMINAL_ERROR to Task and TaskResult.\nAbility to terminate workflow in case of a task in FAILED_WITH_TERMINAL_ERROR status\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

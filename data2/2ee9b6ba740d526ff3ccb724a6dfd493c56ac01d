@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzYyNTE4MjY6MmVlOWI2YmE3NDBkNTI2ZmYzY2NiNzI0YTZkZmQ0OTNjNTZhYzAxZA==",
+  "sha": "2ee9b6ba740d526ff3ccb724a6dfd493c56ac01d",
+  "url": "https://api.github.com/repos/supasate/connected-react-router/git/tags/2ee9b6ba740d526ff3ccb724a6dfd493c56ac01d",
+  "tagger": {
+    "name": "Supasate Choochaisri",
+    "email": "supasate.c@gmail.com",
+    "date": "2019-03-10T13:20:57Z"
+  },
+  "object": {
+    "sha": "5b8240fe6c75e91b998271c2e0ec85efd956a69f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/supasate/connected-react-router/git/commits/5b8240fe6c75e91b998271c2e0ec85efd956a69f"
+  },
+  "tag": "v6.3.2",
+  "message": "v6.3.2\n\nFixes\n=====\n- Declare prop-types as a peer dependency (@avindra in #265)\n- Fix passing isFirstRendering to onLocationChange action (@AlexeyAbretov in #264)\n- Replace uglify option with new minimize options (@gugu in #263)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

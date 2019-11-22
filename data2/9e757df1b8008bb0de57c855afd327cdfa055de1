@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDo5ZTc1N2RmMWI4MDA4YmIwZGU1N2M4NTVhZmQzMjdjZGZhMDU1ZGUx",
+  "sha": "9e757df1b8008bb0de57c855afd327cdfa055de1",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/9e757df1b8008bb0de57c855afd327cdfa055de1",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-07-26T10:08:17Z"
+  },
+  "object": {
+    "sha": "77a3cf22ea0603aa8c1dbd5a44f1e934167656de",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/77a3cf22ea0603aa8c1dbd5a44f1e934167656de"
+  },
+  "tag": "13.0.6",
+  "message": "cinder 13.0.6 release\n\nmeta:version: 13.0.6\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: Iddf2397c9d49a13b020b2875a9362812adb5d149\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+1: Jay Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl060REZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2NxsDAChsisP4owPbyeXdtNAwkc2\n3u7WkcXcifQd6TsLUCrzuNEBhBXqZVLi44USKKXGIH7VUMpx7SaglDTMFMZNQguz\nXAVikrNlqx/G4n31tqzD7geBCqMEZuMNQwMPfVLZXqft8IfSftTkSBqKzryk9sGD\n8acUZ6LaLEajwnhH8553JbkFdXLp+odTELK/4qggrpg6I46ceCBjV11yGu1+FM9Y\nlBKyh8//Gf578NNEMVsd2qZ3AuiNn7OccLZwNcOWfh3I1jgXbFsuj03Rl5clzsAI\nE3DJTJvXWUNhi3eUoL3V9u++JJoSdee1dgEMPVy8Gpqh/PP2jR/x6DXNvGwV1Con\nuKWweOk7BJUbsmNw0FsaI3sISUM729Ty21vRV6/x93vpl3yfgj+odOlsYOfWCtqZ\nxqRCsz/+5GrNnJ3E9dMmGQ82HmFKcJj/q9hUBGoZWueonT9CNOH04QJ9K7YdCeX3\nR2l7v27kEWaS2E0ol/Cj/nw/SsEHLoPswnS/J/tf1x8=\n=poec\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl060REZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2NxsDAChsisP4owPbyeXdtNAwkc2\n3u7WkcXcifQd6TsLUCrzuNEBhBXqZVLi44USKKXGIH7VUMpx7SaglDTMFMZNQguz\nXAVikrNlqx/G4n31tqzD7geBCqMEZuMNQwMPfVLZXqft8IfSftTkSBqKzryk9sGD\n8acUZ6LaLEajwnhH8553JbkFdXLp+odTELK/4qggrpg6I46ceCBjV11yGu1+FM9Y\nlBKyh8//Gf578NNEMVsd2qZ3AuiNn7OccLZwNcOWfh3I1jgXbFsuj03Rl5clzsAI\nE3DJTJvXWUNhi3eUoL3V9u++JJoSdee1dgEMPVy8Gpqh/PP2jR/x6DXNvGwV1Con\nuKWweOk7BJUbsmNw0FsaI3sISUM729Ty21vRV6/x93vpl3yfgj+odOlsYOfWCtqZ\nxqRCsz/+5GrNnJ3E9dMmGQ82HmFKcJj/q9hUBGoZWueonT9CNOH04QJ9K7YdCeX3\nR2l7v27kEWaS2E0ol/Cj/nw/SsEHLoPswnS/J/tf1x8=\n=poec\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 77a3cf22ea0603aa8c1dbd5a44f1e934167656de\ntype commit\ntag 13.0.6\ntagger OpenStack Release Bot <infra-root@openstack.org> 1564135697 +0000\n\ncinder 13.0.6 release\n\nmeta:version: 13.0.6\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: Iddf2397c9d49a13b020b2875a9362812adb5d149\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+1: Jay Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

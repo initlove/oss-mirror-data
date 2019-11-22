@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMDUxOjY2MjgyMDNmNGZmMzkzNDI0NDI1Y2E0NDNhMjAzN2QwMzIxNjU2OTM=",
+  "sha": "6628203f4ff393424425ca443a2037d032165693",
+  "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/tags/6628203f4ff393424425ca443a2037d032165693",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2016-10-21T10:48:37Z"
+  },
+  "object": {
+    "sha": "ec72a4ef618a2049639bb4f2f49709b0bbf8b111",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/commits/ec72a4ef618a2049639bb4f2f49709b0bbf8b111"
+  },
+  "tag": "v8.9.9",
+  "message": "8.9.9\n--------\n * fix --skip-disk/--skip-net when used with more than one resource\n * events2 of v8.4: Fake peer-node-ids to make it in-line with  v9\n * fix drbdadm crashes in set-gi and new-current-uuid\n * new peer_device option (--bitmap=no) to indicate that for this peer\n   no bitmap slot should be allocated in the meta-data; This is used\n   by all peers of a (configured) diskless node; saves bitmap-slots,\n   thus allows you to use smaller max-peers numbers, thus saves memory\n   and CPU resources\n * removed sh-status from v9\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBYCfKSabsdXACqiTMRAg8YAJ0VTDDBw3VgS925jAK9UzK3Kxcl6wCfVI3i\nhiBAabXDJyyZP0ay49ijzQI=\n=upN7\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBYCfKSabsdXACqiTMRAg8YAJ0VTDDBw3VgS925jAK9UzK3Kxcl6wCfVI3i\nhiBAabXDJyyZP0ay49ijzQI=\n=upN7\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ec72a4ef618a2049639bb4f2f49709b0bbf8b111\ntype commit\ntag v8.9.9\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1477046917 +0200\n\n8.9.9\n--------\n * fix --skip-disk/--skip-net when used with more than one resource\n * events2 of v8.4: Fake peer-node-ids to make it in-line with  v9\n * fix drbdadm crashes in set-gi and new-current-uuid\n * new peer_device option (--bitmap=no) to indicate that for this peer\n   no bitmap slot should be allocated in the meta-data; This is used\n   by all peers of a (configured) diskless node; saves bitmap-slots,\n   thus allows you to use smaller max-peers numbers, thus saves memory\n   and CPU resources\n * removed sh-status from v9\n"
+  }
+}

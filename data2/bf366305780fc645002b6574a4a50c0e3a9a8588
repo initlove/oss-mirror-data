@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODQ1NzUzOTg6YmYzNjYzMDU3ODBmYzY0NTAwMmI2NTc0YTRhNTBjMGUzYTlhODU4OA==",
+  "sha": "bf366305780fc645002b6574a4a50c0e3a9a8588",
+  "url": "https://api.github.com/repos/containernetworking/plugins/git/tags/bf366305780fc645002b6574a4a50c0e3a9a8588",
+  "tagger": {
+    "name": "Stefan Junker",
+    "email": "mail@stefanjunker.de",
+    "date": "2016-05-27T14:04:14Z"
+  },
+  "object": {
+    "sha": "35f3a090b2f7ebe32daf0c6a73eb060c669e2128",
+    "type": "commit",
+    "url": "https://api.github.com/repos/containernetworking/plugins/git/commits/35f3a090b2f7ebe32daf0c6a73eb060c669e2128"
+  },
+  "tag": "v0.3.0-rc3",
+  "message": "Changes since rc2:\n\nThis revision Fixes a bug where IPAM allocations couldn't be cleaned up due to\nmissing network namespace on the runtime side.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXSFQtAAoJEP+oGHcX11IIK9wH/2JrOPbPMB5StZ74k0Q5u4Jo\n4YFbwERQYuV3ajCn6XG5mYeSzIGiScuNlI/JAc/5HUVcZoWzEmOnddS1RKmaAKCq\npXxAqG4dwfCYZKgkVAVJS3OXhKIoinAxQMq+I/PAiH+39ll6AByVT8+NgXfx7r99\nlce0s/j6TGZw1JjmjwfKyAA640O0J6fmDpoZ8UR4JNN77PfZGytsULgRmnfnZnqk\nxQBul5O38t/coRlWb8uKQDEiTJKzXmIa/7Hmc8KpxCYcQ0xrALqKFaNYDwUsnGoV\nPV9xJQ3fh/FpYNPj7dfgZsdhn8hMQmcjCTOG5WdMOwEWJh/x2+6I6n369MAlZr4=\n=wA/n\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "expired_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXSFQtAAoJEP+oGHcX11IIK9wH/2JrOPbPMB5StZ74k0Q5u4Jo\n4YFbwERQYuV3ajCn6XG5mYeSzIGiScuNlI/JAc/5HUVcZoWzEmOnddS1RKmaAKCq\npXxAqG4dwfCYZKgkVAVJS3OXhKIoinAxQMq+I/PAiH+39ll6AByVT8+NgXfx7r99\nlce0s/j6TGZw1JjmjwfKyAA640O0J6fmDpoZ8UR4JNN77PfZGytsULgRmnfnZnqk\nxQBul5O38t/coRlWb8uKQDEiTJKzXmIa/7Hmc8KpxCYcQ0xrALqKFaNYDwUsnGoV\nPV9xJQ3fh/FpYNPj7dfgZsdhn8hMQmcjCTOG5WdMOwEWJh/x2+6I6n369MAlZr4=\n=wA/n\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 35f3a090b2f7ebe32daf0c6a73eb060c669e2128\ntype commit\ntag v0.3.0-rc3\ntagger Stefan Junker <mail@stefanjunker.de> 1464357854 +0200\n\nChanges since rc2:\n\nThis revision Fixes a bug where IPAM allocations couldn't be cleaned up due to\nmissing network namespace on the runtime side.\n"
+  }
+}

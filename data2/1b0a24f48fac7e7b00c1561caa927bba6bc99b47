@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTI1MzE2OjFiMGEyNGY0OGZhYzdlN2IwMGMxNTYxY2FhOTI3YmJhNmJjOTliNDc=",
+  "sha": "1b0a24f48fac7e7b00c1561caa927bba6bc99b47",
+  "url": "https://api.github.com/repos/mozilla/bleach/git/tags/1b0a24f48fac7e7b00c1561caa927bba6bc99b47",
+  "tagger": {
+    "name": "Will Kahn-Greene",
+    "email": "willkg@mozilla.com",
+    "date": "2018-10-09T14:10:46Z"
+  },
+  "object": {
+    "sha": "32edf71d9ea11d98e0625a37413f36394e53d01a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mozilla/bleach/git/commits/32edf71d9ea11d98e0625a37413f36394e53d01a"
+  },
+  "tag": "v3.0.1",
+  "message": "Version 3.0.1 (October 9th, 2018)\n\n**Security fixes**\n\nNone\n\n**Backwards incompatible changes**\n\nNone\n\n**Features**\n\n* Support Python 3.7. It supported Python 3.7 just fine, but we added 3.7 to\n  the list of Python environments we test so this is now officially supported.\n  (#377)\n\n**Bug fixes**\n\n* Fix ``list`` object has no attribute ``lower`` in ``clean``. (#398)\n* Fix ``abbr`` getting escaped in ``linkify``. (#400)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzY3I6/E2Vh8o9nPoGL3RpvBm7BEFAlu8tvMACgkQGL3RpvBm\n7BHaWAf+Nvgrd9HJhw/pstVE9DD8+aTuYf8CihSt9BfuVWo3S7B7IixXfhQH3QZR\nl9YDGH3tSTc1SP1+lUsXVcgSc86wFUITysm4OXyUamm8y+HbrSiYV11ubip2Ju2x\nTm2vkwFKGL5vgLi1jbQsAG9fUy/DHVfR3iOOmc6ExoWLpfRsaGB2fdXD6FwnaK+w\nYQK45JvHtDiEcaP00VJZkdjFWoUdS+AUhJMwRYVNzj/JWL1VRWQooQneWeU3vwi8\nxnuUg4MWLFcOhJEmyHUA6bJrhUWElMQgNbgYMr9p5oWoiec3fYBkUMKqGdeMWUgd\nM+dcANof0hZHwaaOqzRaJBlHzudfXA==\n=5yDX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzY3I6/E2Vh8o9nPoGL3RpvBm7BEFAlu8tvMACgkQGL3RpvBm\n7BHaWAf+Nvgrd9HJhw/pstVE9DD8+aTuYf8CihSt9BfuVWo3S7B7IixXfhQH3QZR\nl9YDGH3tSTc1SP1+lUsXVcgSc86wFUITysm4OXyUamm8y+HbrSiYV11ubip2Ju2x\nTm2vkwFKGL5vgLi1jbQsAG9fUy/DHVfR3iOOmc6ExoWLpfRsaGB2fdXD6FwnaK+w\nYQK45JvHtDiEcaP00VJZkdjFWoUdS+AUhJMwRYVNzj/JWL1VRWQooQneWeU3vwi8\nxnuUg4MWLFcOhJEmyHUA6bJrhUWElMQgNbgYMr9p5oWoiec3fYBkUMKqGdeMWUgd\nM+dcANof0hZHwaaOqzRaJBlHzudfXA==\n=5yDX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 32edf71d9ea11d98e0625a37413f36394e53d01a\ntype commit\ntag v3.0.1\ntagger Will Kahn-Greene <willkg@mozilla.com> 1539094246 -0400\n\nVersion 3.0.1 (October 9th, 2018)\n\n**Security fixes**\n\nNone\n\n**Backwards incompatible changes**\n\nNone\n\n**Features**\n\n* Support Python 3.7. It supported Python 3.7 just fine, but we added 3.7 to\n  the list of Python environments we test so this is now officially supported.\n  (#377)\n\n**Bug fixes**\n\n* Fix ``list`` object has no attribute ``lower`` in ``clean``. (#398)\n* Fix ``abbr`` getting escaped in ``linkify``. (#400)\n"
+  }
+}

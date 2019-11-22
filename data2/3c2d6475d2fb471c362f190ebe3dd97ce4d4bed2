@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTgxNTQ0MDE6M2MyZDY0NzVkMmZiNDcxYzM2MmYxOTBlYmUzZGQ5N2NlNGQ0YmVkMg==",
+  "sha": "3c2d6475d2fb471c362f190ebe3dd97ce4d4bed2",
+  "url": "https://api.github.com/repos/Netflix/dyno/git/tags/3c2d6475d2fb471c362f190ebe3dd97ce4d4bed2",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-03-28T21:09:43Z"
+  },
+  "object": {
+    "sha": "04d31f9a8dcfeacbd6856321ab45c5881def67ab",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/dyno/git/commits/04d31f9a8dcfeacbd6856321ab45c5881def67ab"
+  },
+  "tag": "v1.4.0-rc.1",
+  "message": "Release of 1.4.0-rc.1\n\n- 04d31f9a8dcfeacbd6856321ab45c5881def67ab: Merge pull request #103 from jcacciatore/bugfix-illegal-result\n- 9e250f7b46ac44a752a1a81a397471263e4e43e8: Modifying the default maxConnsPerHost broke the tests in SimpleAsyncConnectionPoolImplTest b/c the ConnectionFactory in the test returned a single mock instance.\n- 3b14fe30ca62f2a7b9e350be9d1bd9c7aa6828c5: Merge branch 'master' into bugfix-illegal-result\n- ee8e43ea588f9447366251c2c3e88c98d8f07107: Clients were seeing illegal values for operations, such as \"OK\" as a return value on a GET operation. This occurred when a socket exception was thrown by jedis and the dyno client re-used the connection. I modified the code such that when this occurs, the connection is closed. Separately, a new connection is primed and added to the host pool as other connections are returned to the pool so as not to block the current request on which this happens.\n- f5dc8848f8ae6cdf95dd5f6b0890721d638c2380: Merge pull request #100 from jcacciatore/master\n- b332c5bab2d55164c1d2b2c53e486de46fe55b2e: Forgot to remove debug log message in previous commit.\n- e0ab27eafc5d490bb5f54ceb8b3ea4d73be2d2fc: Reduced logging when Dynomite node(s) are down\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

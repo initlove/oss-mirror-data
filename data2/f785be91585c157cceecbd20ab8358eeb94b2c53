@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzU4ODIxNzI6Zjc4NWJlOTE1ODVjMTU3Y2NlZWNiZDIwYWI4MzU4ZWViOTRiMmM1Mw==",
+  "sha": "f785be91585c157cceecbd20ab8358eeb94b2c53",
+  "url": "https://api.github.com/repos/Netflix/conductor/git/tags/f785be91585c157cceecbd20ab8358eeb94b2c53",
+  "tagger": {
+    "name": "apau",
+    "email": "apau@netflix.com",
+    "date": "2019-04-29T21:11:41Z"
+  },
+  "object": {
+    "sha": "78fae0ed9ddea22891f9eebb96a2ec0b2783dca0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/conductor/git/commits/78fae0ed9ddea22891f9eebb96a2ec0b2783dca0"
+  },
+  "tag": "v2.10.2",
+  "message": "- add asyncComplete option to EVENT and HTTP tasks\n- add terminate ability to failed workflows that are not restartable\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6YzU3ZWMwNGUzNzQxNjk1ZTAyZDdhZTY3MWRmMmZlODZhMmVmMTdjYw==",
+  "sha": "c57ec04e3741695e02d7ae671df2fe86a2ef17cc",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/c57ec04e3741695e02d7ae671df2fe86a2ef17cc",
+  "tagger": {
+    "name": "Stephen J Day",
+    "email": "stephen.day@docker.com",
+    "date": "2015-03-07T02:49:48Z"
+  },
+  "object": {
+    "sha": "ddde6b436338f549e67406ae1d84950e77d60feb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/ddde6b436338f549e67406ae1d84950e77d60feb"
+  },
+  "tag": "v2.0.0-alpha.3",
+  "message": "v2.0.0-alpha.3: Immutable manifest references, logging\n\nThe primary features in this preview are immutable manifest references and\ncontext aware logging. A new README and a documentation outline are accompanied\nby several stability improvements, as well.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJU+mfxAAoJEPtfaykF1+zzqRgQAIg6AkgR9BHwWLwslTTi2r0N\nFwOi/VZg8i+gwAZRWjRY+PZgqXdAr977lkTLEN4vOo+2uRu0DLjMvgm3pt47hlww\nD/m9GZrGoF0sojfHEkHTmX/29lpDlTObKdLeCSaYzFymJO7rwoORNlXPOrfNaDBg\nHAXwtV8xBdBnYx4f9VSbOAUvPKxy9e6uzq+tmMnqDsKtu1AUi06SlRlZVjgnq5xe\nG3UkuHzNGK6XlQwrnMF37+quxW/2GqGMWK0vugFPTY1rpNgee3C3U96B2cJtWaAN\n31Nzmqp/C7IWa+nCUWwrZILTtwtlZUuH0DOAk8jIj9DNUk2GlI+uyzOCs7il0zY0\n7N15VuegAS4lYSr3Z4/p0J/slk99dRqEXegYLbJLrsbCF6Ro0I0almjonwoOQj5O\nPHyjTAZlZCO4Xx+TKfagwDZ+GtLveSTKJ/rECvDbsXycjfLP3X6BdLk0nfUBcFL9\n0z78gX1yJUWUdFKr7S2qNyooPYwYRoF1+MR8hu4+czFtjsoC4MT1B+HCzuSIVs7/\ngfKF2NzTlzSaRGildXdYiAITw0BBBghOZ5LY2TEZwZeebxyK0BcCebLf/tUwM3kV\nfQF5a9BJ5iPfpwaYQ+M3Qd1iLR7/KOB8WDBtqwFqTx7M67RqP6odkaCrAIgMH4tS\nXSNNRR+h4StS4dExwlt0\n=HwLL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJU+mfxAAoJEPtfaykF1+zzqRgQAIg6AkgR9BHwWLwslTTi2r0N\nFwOi/VZg8i+gwAZRWjRY+PZgqXdAr977lkTLEN4vOo+2uRu0DLjMvgm3pt47hlww\nD/m9GZrGoF0sojfHEkHTmX/29lpDlTObKdLeCSaYzFymJO7rwoORNlXPOrfNaDBg\nHAXwtV8xBdBnYx4f9VSbOAUvPKxy9e6uzq+tmMnqDsKtu1AUi06SlRlZVjgnq5xe\nG3UkuHzNGK6XlQwrnMF37+quxW/2GqGMWK0vugFPTY1rpNgee3C3U96B2cJtWaAN\n31Nzmqp/C7IWa+nCUWwrZILTtwtlZUuH0DOAk8jIj9DNUk2GlI+uyzOCs7il0zY0\n7N15VuegAS4lYSr3Z4/p0J/slk99dRqEXegYLbJLrsbCF6Ro0I0almjonwoOQj5O\nPHyjTAZlZCO4Xx+TKfagwDZ+GtLveSTKJ/rECvDbsXycjfLP3X6BdLk0nfUBcFL9\n0z78gX1yJUWUdFKr7S2qNyooPYwYRoF1+MR8hu4+czFtjsoC4MT1B+HCzuSIVs7/\ngfKF2NzTlzSaRGildXdYiAITw0BBBghOZ5LY2TEZwZeebxyK0BcCebLf/tUwM3kV\nfQF5a9BJ5iPfpwaYQ+M3Qd1iLR7/KOB8WDBtqwFqTx7M67RqP6odkaCrAIgMH4tS\nXSNNRR+h4StS4dExwlt0\n=HwLL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ddde6b436338f549e67406ae1d84950e77d60feb\ntype commit\ntag v2.0.0-alpha.3\ntagger Stephen J Day <stephen.day@docker.com> 1425696588 -0800\n\nv2.0.0-alpha.3: Immutable manifest references, logging\n\nThe primary features in this preview are immutable manifest references and\ncontext aware logging. A new README and a documentation outline are accompanied\nby several stability improvements, as well.\n"
+  }
+}

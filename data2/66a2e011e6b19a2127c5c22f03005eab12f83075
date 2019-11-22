@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMDUxOjY2YTJlMDExZTZiMTlhMjEyN2M1YzIyZjAzMDA1ZWFiMTJmODMwNzU=",
+  "sha": "66a2e011e6b19a2127c5c22f03005eab12f83075",
+  "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/tags/66a2e011e6b19a2127c5c22f03005eab12f83075",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2016-07-14T07:59:38Z"
+  },
+  "object": {
+    "sha": "7ea0389343845f8336793f9163f71e31133be6af",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/commits/7ea0389343845f8336793f9163f71e31133be6af"
+  },
+  "tag": "v8.9.7",
+  "message": "8.9.7\n--------\n * allow to pass peer device options on the drbdadm command-line\n * fix drbdadm net-options by not passing the transport\n   (the transport of a connection can not be changed while the connection is\n    online)\n * options passed on the drbdadm command-line now overrule settings from\n   the configuration file when calling drbdsetup\n * new resource option max-io-depth (v9 only)\n * allow partial adjust by --skip-disk and/or --skip-net\n * support for a new meta-data flag that helps resize operations\n * workaround for sysfs entries and del_gendisk and add_disk;\n   in case drbdsetup sees those sysfs entries it exits immediately,\n   that prevents half initialized drbd devices that can not be removed\n * drbdadm resize waits until new new size is user visible\n * support for the reload operation in the OCF resource agent\n * drbdadm's parser now reports too long strings with a meaningful\n   error message\n * increased the size of the uniqueness hash-table, to support up to\n   to 1000 resources\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBXh0ZzabsdXACqiTMRAiwFAKCPFOJROZs/5skVxitCnxYkeF9UXACeOaOe\nVOsJWWWl0U+vcbEyVMY1Kkk=\n=P/ty\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBXh0ZzabsdXACqiTMRAiwFAKCPFOJROZs/5skVxitCnxYkeF9UXACeOaOe\nVOsJWWWl0U+vcbEyVMY1Kkk=\n=P/ty\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7ea0389343845f8336793f9163f71e31133be6af\ntype commit\ntag v8.9.7\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1468483178 +0200\n\n8.9.7\n--------\n * allow to pass peer device options on the drbdadm command-line\n * fix drbdadm net-options by not passing the transport\n   (the transport of a connection can not be changed while the connection is\n    online)\n * options passed on the drbdadm command-line now overrule settings from\n   the configuration file when calling drbdsetup\n * new resource option max-io-depth (v9 only)\n * allow partial adjust by --skip-disk and/or --skip-net\n * support for a new meta-data flag that helps resize operations\n * workaround for sysfs entries and del_gendisk and add_disk;\n   in case drbdsetup sees those sysfs entries it exits immediately,\n   that prevents half initialized drbd devices that can not be removed\n * drbdadm resize waits until new new size is user visible\n * support for the reload operation in the OCF resource agent\n * drbdadm's parser now reports too long strings with a meaningful\n   error message\n * increased the size of the uniqueness hash-table, to support up to\n   to 1000 resources\n"
+  }
+}

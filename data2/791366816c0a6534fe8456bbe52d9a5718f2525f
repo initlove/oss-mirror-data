@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTgxNTQ0MDE6NzkxMzY2ODE2YzBhNjUzNGZlODQ1NmJiZTUyZDlhNTcxOGYyNTI1Zg==",
+  "sha": "791366816c0a6534fe8456bbe52d9a5718f2525f",
+  "url": "https://api.github.com/repos/Netflix/dyno/git/tags/791366816c0a6534fe8456bbe52d9a5718f2525f",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-03-30T18:32:49Z"
+  },
+  "object": {
+    "sha": "da41b8b1529591840b60240fd92e0b05fe155853",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/dyno/git/commits/da41b8b1529591840b60240fd92e0b05fe155853"
+  },
+  "tag": "v1.4.0",
+  "message": "Release of 1.4.0\n\n- da41b8b1529591840b60240fd92e0b05fe155853: Merge pull request #101 from Netflix/updateGradle\n- 5ed12236ce8d7c1db6d3109ac05119388459a0eb: Merge branch 'master' into updateGradle\n- 04d31f9a8dcfeacbd6856321ab45c5881def67ab: Merge pull request #103 from jcacciatore/bugfix-illegal-result\n- 9e250f7b46ac44a752a1a81a397471263e4e43e8: Modifying the default maxConnsPerHost broke the tests in SimpleAsyncConnectionPoolImplTest b/c the ConnectionFactory in the test returned a single mock instance.\n- 3b14fe30ca62f2a7b9e350be9d1bd9c7aa6828c5: Merge branch 'master' into bugfix-illegal-result\n- ee8e43ea588f9447366251c2c3e88c98d8f07107: Clients were seeing illegal values for operations, such as \"OK\" as a return value on a GET operation. This occurred when a socket exception was thrown by jedis and the dyno client re-used the connection. I modified the code such that when this occurs, the connection is closed. Separately, a new connection is primed and added to the host pool as other connections are returned to the pool so as not to block the current request on which this happens.\n- c3ffd4a16e8dea771c96be79ddabc188d2d48c48: gradle updates 2.2.1 -> 2.6\n- 7e3bef6096e3573a4481156a513f8373e51fb041: update netflix oss plugin\n- 83c59b799dbbf083dc6444f24ef1ce73b3787c5f: gradle updates 2.2.1 -> 2.10\n- f5dc8848f8ae6cdf95dd5f6b0890721d638c2380: Merge pull request #100 from jcacciatore/master\n- b332c5bab2d55164c1d2b2c53e486de46fe55b2e: Forgot to remove debug log message in previous commit.\n- e0ab27eafc5d490bb5f54ceb8b3ea4d73be2d2fc: Reduced logging when Dynomite node(s) are down\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

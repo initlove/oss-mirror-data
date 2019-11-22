@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzYyNTE4MjY6ZTVkMmVkZTEyZWVjYWQ5NDk0ZjlkZGVmMzEyYTIzYjA5NjM2ZTg5ZA==",
+  "sha": "e5d2ede12eecad9494f9ddef312a23b09636e89d",
+  "url": "https://api.github.com/repos/supasate/connected-react-router/git/tags/e5d2ede12eecad9494f9ddef312a23b09636e89d",
+  "tagger": {
+    "name": "Supasate Choochaisri",
+    "email": "supasate.c@gmail.com",
+    "date": "2019-02-10T13:28:44Z"
+  },
+  "object": {
+    "sha": "0f3432c960baced0aca6f8aa9d7f7dceb0716b34",
+    "type": "commit",
+    "url": "https://api.github.com/repos/supasate/connected-react-router/git/commits/0f3432c960baced0aca6f8aa9d7f7dceb0716b34"
+  },
+  "tag": "v6.3.0",
+  "message": "v6.3.0\n\nEnhancements\n------------\n- Add onLocationChanged method typtings (@goszczynskip in #248)\n- Add optinoal context prop type definition (@Autarc in #245)\n- Improve return types of action creators by adding generic args type (@salguerooo in #243)\n\nFix\n---\n- Use immutable routerMiddleware for immutable example (@Armour in #249)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDpjMTY2NThkZDk0MzIxYTg2MzgzN2YzODRlYTg1MmFmYTA4NDk2NjJi",
+  "sha": "c16658dd94321a863837f384ea852afa0849662b",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/c16658dd94321a863837f384ea852afa0849662b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-04-24T18:21:12Z"
+  },
+  "object": {
+    "sha": "bc76abef28b34723abdbd29881553a1af94b024b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/bc76abef28b34723abdbd29881553a1af94b024b"
+  },
+  "tag": "12.0.1",
+  "message": "cinder 12.0.1 release\n\nmeta:version: 12.0.1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Eric Harney <eharney@redhat.com>\nmeta:release:Commit: Eric Harney <eharney@redhat.com>\nmeta:release:Change-Id: Ia2964350ba6354615bcb653c80311b4d806ddd1e\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: melissaml <ma.lei@99cloud.net>\nmeta:release:Code-Review+1: Jay Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Code-Review+1: Anne Bertucio <annebertucio@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa33WYAAoJEMNs3LTfAMaMoW0H/jPhPclrAj49e5GfHio3DDtw\nUo32RMlfIcAxREp0zr03W8Hly+d9UIa0pnejraJUBpxErBEpF+dOPWPqbV1Fj88y\nj3pgeClbQBlFC7ZCihlTtFecrdj7tiOa8kNnp3TkYQiWzUAcfJmcsaqDrclisx36\naeyAA1OYsBd4HAS/ccDSXrUayusT68vy35cmvFgQxKGYsZCoZqtiq2XHxTRSVrhP\noLABxeHkjK312dQukA3/2NRHFRq6UF7zync7YGZOMvSk1isTeIKgqDFawSnygwuv\nQxVWbiW43rTCPwaMNYh+CfVkiXDUB0ngC3fWdQFeBDP7L0VthWnOg0aG2zPyMOg=\n=h50y\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa33WYAAoJEMNs3LTfAMaMoW0H/jPhPclrAj49e5GfHio3DDtw\nUo32RMlfIcAxREp0zr03W8Hly+d9UIa0pnejraJUBpxErBEpF+dOPWPqbV1Fj88y\nj3pgeClbQBlFC7ZCihlTtFecrdj7tiOa8kNnp3TkYQiWzUAcfJmcsaqDrclisx36\naeyAA1OYsBd4HAS/ccDSXrUayusT68vy35cmvFgQxKGYsZCoZqtiq2XHxTRSVrhP\noLABxeHkjK312dQukA3/2NRHFRq6UF7zync7YGZOMvSk1isTeIKgqDFawSnygwuv\nQxVWbiW43rTCPwaMNYh+CfVkiXDUB0ngC3fWdQFeBDP7L0VthWnOg0aG2zPyMOg=\n=h50y\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bc76abef28b34723abdbd29881553a1af94b024b\ntype commit\ntag 12.0.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1524594072 +0000\n\ncinder 12.0.1 release\n\nmeta:version: 12.0.1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Eric Harney <eharney@redhat.com>\nmeta:release:Commit: Eric Harney <eharney@redhat.com>\nmeta:release:Change-Id: Ia2964350ba6354615bcb653c80311b4d806ddd1e\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: melissaml <ma.lei@99cloud.net>\nmeta:release:Code-Review+1: Jay Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Code-Review+1: Anne Bertucio <annebertucio@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

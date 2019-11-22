@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY0MjczNTpkZDRlZDg1NGZhZTQ4OWQ1OGI1NTc1YjU5OTI4OTk3MWQzY2JkMGI0",
+  "sha": "dd4ed854fae489d58b5575b599289971d3cbd0b4",
+  "url": "https://api.github.com/repos/openstack/ceilometer/git/tags/dd4ed854fae489d58b5575b599289971d3cbd0b4",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-07-26T13:32:23Z"
+  },
+  "object": {
+    "sha": "327648f0d24c9f8326057175db6f1634389a1775",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ceilometer/git/commits/327648f0d24c9f8326057175db6f1634389a1775"
+  },
+  "tag": "7.1.0",
+  "message": "ceilometer 7.1.0 release\n\nmeta:version: 7.1.0\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Mehdi Abaakouk <sileht@sileht.net>\nmeta:release:Commit: Mehdi Abaakouk <sileht@sileht.net>\nmeta:release:Change-Id: I8f4eedf445fc1a276ae245be1307ac982f59085c\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZeJnnAAoJEOtsyhSD+nTsEj0H/Ah5lPThqYBISIuPXoba7Io9\neksJmeLzoznllBqu22+THLT9ju+TQVMxbGRV8dMaAPcCStO97NX7Ngi69aGkojij\nrTX20MAm/wp//Mlf3Qbzqkl2Avp66IM+6pZQ3vRtLzw7iROp52M4+KPmlrp3WMFP\naYCjpPhqfqw9viFIfohROvhDumiKdi9xhuzS9hbGr4E6nwWMUSzBI+zI0rkumv0v\niWBM6DNG5Ku5YnCNpAnR9VyyAmGZldPbf7XVXnyy8dyrSZHdSZ3pudoAGglR8Lwr\n+Ksm2YQPzweh77mHLG509QODrFytqiC6zLHwaPSww9ldAIybdJH5FUMrOc5IF2M=\n=UDTn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZeJnnAAoJEOtsyhSD+nTsEj0H/Ah5lPThqYBISIuPXoba7Io9\neksJmeLzoznllBqu22+THLT9ju+TQVMxbGRV8dMaAPcCStO97NX7Ngi69aGkojij\nrTX20MAm/wp//Mlf3Qbzqkl2Avp66IM+6pZQ3vRtLzw7iROp52M4+KPmlrp3WMFP\naYCjpPhqfqw9viFIfohROvhDumiKdi9xhuzS9hbGr4E6nwWMUSzBI+zI0rkumv0v\niWBM6DNG5Ku5YnCNpAnR9VyyAmGZldPbf7XVXnyy8dyrSZHdSZ3pudoAGglR8Lwr\n+Ksm2YQPzweh77mHLG509QODrFytqiC6zLHwaPSww9ldAIybdJH5FUMrOc5IF2M=\n=UDTn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 327648f0d24c9f8326057175db6f1634389a1775\ntype commit\ntag 7.1.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1501075943 +0000\n\nceilometer 7.1.0 release\n\nmeta:version: 7.1.0\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Mehdi Abaakouk <sileht@sileht.net>\nmeta:release:Commit: Mehdi Abaakouk <sileht@sileht.net>\nmeta:release:Change-Id: I8f4eedf445fc1a276ae245be1307ac982f59085c\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

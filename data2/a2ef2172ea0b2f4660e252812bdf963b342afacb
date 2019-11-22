@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc1NTQ4MDI6YTJlZjIxNzJlYTBiMmY0NjYwZTI1MjgxMmJkZjk2M2IzNDJhZmFjYg==",
+  "sha": "a2ef2172ea0b2f4660e252812bdf963b342afacb",
+  "url": "https://api.github.com/repos/openstack/castellan/git/tags/a2ef2172ea0b2f4660e252812bdf963b342afacb",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-08-21T19:57:02Z"
+  },
+  "object": {
+    "sha": "a99da51d83bd43ea4c6584a99906d4d325c499de",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/castellan/git/commits/a99da51d83bd43ea4c6584a99906d4d325c499de"
+  },
+  "tag": "0.19.0",
+  "message": "castellan 0.19.0 release\n\nmeta:version: 0.19.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Ida50e4359bfee903c25cef8ae4ba672c0a0e5d7d\nmeta:release:Code-Review+1: Ade Lee <alee@redhat.com>\nmeta:release:Code-Review+1: ChangBo Guo(gcb) <glongwave@gmail.com>\nmeta:release:Code-Review+1: Dave McCowan <dmccowan@cisco.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Matthew Thode <mthode@mthode.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbfG6OAAoJEMNs3LTfAMaM33EIAIV1bSBIbcoVFllk1MvQtcbE\nIKhWXJ4kXoRzKVXaKKrF12olQVnamC9dUqSXuxYoZdOTz7CTVELS3Q3dH/R7Wer4\nk8nZIqRcBBI3HbfDE7vJQQ7hno2td4IRRugSxF2LU/BDJ6NCArxIZlUTvDHeDrHf\ncwQ3eXm1lbVZZM4SSu9Fetfg+P1uim3O7wgw96k510Wu8/kCcwhxMDGtl0XS71C8\ntZd/youDfucEyG0x+SBicXpG+KZO2LLnnsY34fJM8yPuRvzxPalZH0tG4YJtd3WX\njcqMf//+Mv80dddOWqbJ4J2n8/e5ucjRGDWDyIF5WJ+1OrSEAvhqD+RZoW5Bm7E=\n=6Ffy\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbfG6OAAoJEMNs3LTfAMaM33EIAIV1bSBIbcoVFllk1MvQtcbE\nIKhWXJ4kXoRzKVXaKKrF12olQVnamC9dUqSXuxYoZdOTz7CTVELS3Q3dH/R7Wer4\nk8nZIqRcBBI3HbfDE7vJQQ7hno2td4IRRugSxF2LU/BDJ6NCArxIZlUTvDHeDrHf\ncwQ3eXm1lbVZZM4SSu9Fetfg+P1uim3O7wgw96k510Wu8/kCcwhxMDGtl0XS71C8\ntZd/youDfucEyG0x+SBicXpG+KZO2LLnnsY34fJM8yPuRvzxPalZH0tG4YJtd3WX\njcqMf//+Mv80dddOWqbJ4J2n8/e5ucjRGDWDyIF5WJ+1OrSEAvhqD+RZoW5Bm7E=\n=6Ffy\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a99da51d83bd43ea4c6584a99906d4d325c499de\ntype commit\ntag 0.19.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1534881422 +0000\n\ncastellan 0.19.0 release\n\nmeta:version: 0.19.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Ida50e4359bfee903c25cef8ae4ba672c0a0e5d7d\nmeta:release:Code-Review+1: Ade Lee <alee@redhat.com>\nmeta:release:Code-Review+1: ChangBo Guo(gcb) <glongwave@gmail.com>\nmeta:release:Code-Review+1: Dave McCowan <dmccowan@cisco.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Matthew Thode <mthode@mthode.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

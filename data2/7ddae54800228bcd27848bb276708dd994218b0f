@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTI1MzE2OjdkZGFlNTQ4MDAyMjhiY2QyNzg0OGJiMjc2NzA4ZGQ5OTQyMThiMGY=",
+  "sha": "7ddae54800228bcd27848bb276708dd994218b0f",
+  "url": "https://api.github.com/repos/mozilla/bleach/git/tags/7ddae54800228bcd27848bb276708dd994218b0f",
+  "tagger": {
+    "name": "Will Kahn-Greene",
+    "email": "willkg@mozilla.com",
+    "date": "2018-10-03T16:53:23Z"
+  },
+  "object": {
+    "sha": "344df3acd1a52953a6006e9a7e066eabd614d28f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mozilla/bleach/git/commits/344df3acd1a52953a6006e9a7e066eabd614d28f"
+  },
+  "tag": "v3.0.0",
+  "message": "Version 3.0.0 (October 3rd, 2018)\n\n**Security fixes**\n\nNone\n\n**Backwards incompatible changes**\n\n* A bunch of functions were moved from one module to another.\n\n  These were moved from ``bleach.sanitizer`` to ``bleach.html5lib_shim``:\n\n  * ``convert_entity``\n  * ``convert_entities``\n  * ``match_entity``\n  * ``next_possible_entity``\n  * ``BleachHTMLSerializer``\n  * ``BleachHTMLTokenizer``\n  * ``BleachHTMLParser``\n\n  These functions and classes weren't documented and aren't part of the\n  public API, but people read code and might be using them so we're\n  considering it an incompatible API change.\n\n  If you're using them, you'll need to update your code.\n\n**Features**\n\n* Bleach no longer depends on html5lib. html5lib==1.0.1 is now vendored into\n  Bleach. You can remove it from your requirements file if none of your other\n  requirements require html5lib.\n\n  This means Bleach will now work fine with other libraries that depend on\n  html5lib regardless of what version of html5lib they require. (#386)\n\n**Bug fixes**\n\n* Fixed tags getting added when using clean or linkify. This was a\n  long-standing regression from the Bleach 2.0 rewrite. (#280, #392)\n\n* Fixed ``<isindex>`` getting replaced with a string. Now it gets escaped or\n  stripped depending on whether it's in the allowed tags or not. (#279)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzY3I6/E2Vh8o9nPoGL3RpvBm7BEFAlu09BQACgkQGL3RpvBm\n7BFV5wgAoqlj88AwlONcNrLyTUm6M1wxB/J2tZcye3DW3KSyCVKaVQg2euUhiDbV\nwhDK+1OOAAriI3Dvoi8gMHCNGfyVIOCFpE8D65q84t/zUFSTzWors+nbY7SYwqpf\n4H36wepocBPUGfRnOysArF3MvPgtHofHFqAKUWb9z4ei1fwb9XN2CGazfOw7sNGY\ndTJ3sfXSC/BhkotiBXv+MBgdkVhVuHEzZkzl1Nk+aso7/DPG3cQFqO+SM0+2ZVUi\ntANI/RPQILOv+rY/xNzbcYB5UGcCc5ea7izq9cdeRkZZnM2eiRXFR9u7q3oW+SxR\nYTI8+OxE4lDvAcgQddSbrDRdh/J1hQ==\n=Q+hz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzY3I6/E2Vh8o9nPoGL3RpvBm7BEFAlu09BQACgkQGL3RpvBm\n7BFV5wgAoqlj88AwlONcNrLyTUm6M1wxB/J2tZcye3DW3KSyCVKaVQg2euUhiDbV\nwhDK+1OOAAriI3Dvoi8gMHCNGfyVIOCFpE8D65q84t/zUFSTzWors+nbY7SYwqpf\n4H36wepocBPUGfRnOysArF3MvPgtHofHFqAKUWb9z4ei1fwb9XN2CGazfOw7sNGY\ndTJ3sfXSC/BhkotiBXv+MBgdkVhVuHEzZkzl1Nk+aso7/DPG3cQFqO+SM0+2ZVUi\ntANI/RPQILOv+rY/xNzbcYB5UGcCc5ea7izq9cdeRkZZnM2eiRXFR9u7q3oW+SxR\nYTI8+OxE4lDvAcgQddSbrDRdh/J1hQ==\n=Q+hz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 344df3acd1a52953a6006e9a7e066eabd614d28f\ntype commit\ntag v3.0.0\ntagger Will Kahn-Greene <willkg@mozilla.com> 1538585603 -0400\n\nVersion 3.0.0 (October 3rd, 2018)\n\n**Security fixes**\n\nNone\n\n**Backwards incompatible changes**\n\n* A bunch of functions were moved from one module to another.\n\n  These were moved from ``bleach.sanitizer`` to ``bleach.html5lib_shim``:\n\n  * ``convert_entity``\n  * ``convert_entities``\n  * ``match_entity``\n  * ``next_possible_entity``\n  * ``BleachHTMLSerializer``\n  * ``BleachHTMLTokenizer``\n  * ``BleachHTMLParser``\n\n  These functions and classes weren't documented and aren't part of the\n  public API, but people read code and might be using them so we're\n  considering it an incompatible API change.\n\n  If you're using them, you'll need to update your code.\n\n**Features**\n\n* Bleach no longer depends on html5lib. html5lib==1.0.1 is now vendored into\n  Bleach. You can remove it from your requirements file if none of your other\n  requirements require html5lib.\n\n  This means Bleach will now work fine with other libraries that depend on\n  html5lib regardless of what version of html5lib they require. (#386)\n\n**Bug fixes**\n\n* Fixed tags getting added when using clean or linkify. This was a\n  long-standing regression from the Bleach 2.0 rewrite. (#280, #392)\n\n* Fixed ``<isindex>`` getting replaced with a string. Now it gets escaped or\n  stripped depending on whether it's in the allowed tags or not. (#279)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDo0NDViMzhhYTIzZTQ3NTM3MDU1NTYyNzBlNDUxODNkMGUxMmYyYWQx",
+  "sha": "445b38aa23e4753705556270e45183d0e12f2ad1",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/445b38aa23e4753705556270e45183d0e12f2ad1",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-02-02T04:27:59Z"
+  },
+  "object": {
+    "sha": "79ad4598aa0c949f8ec54359d41ddd94b7c90719",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/79ad4598aa0c949f8ec54359d41ddd94b7c90719"
+  },
+  "tag": "9.1.2",
+  "message": "cinder 9.1.2 release\n\nmeta:version: 9.1.2\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Eric Harney <eharney@redhat.com>\nmeta:release:Commit: Eric Harney <eharney@redhat.com>\nmeta:release:Change-Id: I24be5c48597fc615157713f67c05a01532199f88\nmeta:release:Code-Review+1: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYkrVPAAoJELkGmxM1cAzckEEIAKpIvqt6pLr20vWFu7gbgYch\nxzjdbITdpvDuwLzVeF9yacB624N4TsA0DRXGtL3SAiw/gtYnE3LcHMZF5HFrdhhe\nm6fTvNEaI0GTynValNWqbCFNdXskfIlfrfvbp3oo6R7pOsmOLBGDgeG+2h0MJrwI\nhtn0WZFDDxVqkUsEB37/W+Gp5DJipU48ASyHd1Yx+p7xNcY8q2PgIx3mpdZef37b\nZ34Qp8e5oJM8rbiTwK341EoTJmOumcGUMSM5HJVPFreRusjlf69CDApMCZqb1uHT\ne621HcsPIGm42zm4hVjyaRiIqHfgG55kohDLYAe+qFlxiQdfTPRRXycGw69cA4E=\n=3sIz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYkrVPAAoJELkGmxM1cAzckEEIAKpIvqt6pLr20vWFu7gbgYch\nxzjdbITdpvDuwLzVeF9yacB624N4TsA0DRXGtL3SAiw/gtYnE3LcHMZF5HFrdhhe\nm6fTvNEaI0GTynValNWqbCFNdXskfIlfrfvbp3oo6R7pOsmOLBGDgeG+2h0MJrwI\nhtn0WZFDDxVqkUsEB37/W+Gp5DJipU48ASyHd1Yx+p7xNcY8q2PgIx3mpdZef37b\nZ34Qp8e5oJM8rbiTwK341EoTJmOumcGUMSM5HJVPFreRusjlf69CDApMCZqb1uHT\ne621HcsPIGm42zm4hVjyaRiIqHfgG55kohDLYAe+qFlxiQdfTPRRXycGw69cA4E=\n=3sIz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 79ad4598aa0c949f8ec54359d41ddd94b7c90719\ntype commit\ntag 9.1.2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1486009679 +0000\n\ncinder 9.1.2 release\n\nmeta:version: 9.1.2\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Eric Harney <eharney@redhat.com>\nmeta:release:Commit: Eric Harney <eharney@redhat.com>\nmeta:release:Change-Id: I24be5c48597fc615157713f67c05a01532199f88\nmeta:release:Code-Review+1: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMDUxOmVlOGRkZjRkNzBjMWZkYjE4NjVhNDRiMmIxYzUyOGU3ZjI1OTEwMGM=",
+  "sha": "ee8ddf4d70c1fdb1865a44b2b1c528e7f259100c",
+  "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/tags/ee8ddf4d70c1fdb1865a44b2b1c528e7f259100c",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2015-04-07T15:43:39Z"
+  },
+  "object": {
+    "sha": "de9236084d57a09160b366e5fdf5b481c5cc163d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/commits/de9236084d57a09160b366e5fdf5b481c5cc163d"
+  },
+  "tag": "v8.9.2",
+  "message": "8.9.2\n--------\n  * change systemd unit file: basically just call the init script\n  * make some previously hardcoded timeouts configurable\n  * drbdadm: New command peer-device-options\n  * drbd 9: Move max_buffers to net_conf\n  * drbd 9: Log errors to syslog if stderr is not available\n  * init script: fixes for stacked resources\n  * fix regression corner cases in bitmap size calculation\n  * allow create-md to initialize peer-max-bio-size to 1M\n  * drbd 9: make transport selectable\n  * fix aggregating drbdsetup / drbdmeta exit statii\n  * some documentation fixes (content and build)\n  * added direct-connect command\n  * incompatible drbd-9 metadata format change. use: node_id as index for\n    peer_md instead of the bitmap_index\n  * drbdadm/meta/usage_cnt: ensure output is visible\n  * drbdsetup: fix arguments for all commands expecting a peer_device\n  * exit codes: redefine E_USAGE to 1 (not 3)\n  * some build changes\n  * init script: on start, first try to load the module\n  * drbdsetup events2: Improve how timestamps are assigned\n  * udev rules (symlinks in /dev/by-res and by-disk) got fixed\n  * Fixed upper limit for drbd-8.4 activity log entries\n  * many fixes to drbdadm adjust and proxy commands for drbd-9\n  * rhcs_fence: Do not invoke fence agents in parallel, rewrite in bash\n  * drbdsetup events2 is now also available in drbd-8.4 (backported from drbd-9)\n  * reorganized the repository have common code for drbd-9, drbd-8.4\n    and drbd-8.3 only once\n  * Fix drbd.ocf for resources without volume 0\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBVI/tXabsdXACqiTMRAm0IAKDA4qx7el/s9isuHAlzkY40A0OZWwCePxwi\nHqPcIJSh0jsRfdH5UTYOv9U=\n=TR0i\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBVI/tXabsdXACqiTMRAm0IAKDA4qx7el/s9isuHAlzkY40A0OZWwCePxwi\nHqPcIJSh0jsRfdH5UTYOv9U=\n=TR0i\n-----END PGP SIGNATURE-----\n",
+    "payload": "object de9236084d57a09160b366e5fdf5b481c5cc163d\ntype commit\ntag v8.9.2\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1428421419 +0200\n\n8.9.2\n--------\n  * change systemd unit file: basically just call the init script\n  * make some previously hardcoded timeouts configurable\n  * drbdadm: New command peer-device-options\n  * drbd 9: Move max_buffers to net_conf\n  * drbd 9: Log errors to syslog if stderr is not available\n  * init script: fixes for stacked resources\n  * fix regression corner cases in bitmap size calculation\n  * allow create-md to initialize peer-max-bio-size to 1M\n  * drbd 9: make transport selectable\n  * fix aggregating drbdsetup / drbdmeta exit statii\n  * some documentation fixes (content and build)\n  * added direct-connect command\n  * incompatible drbd-9 metadata format change. use: node_id as index for\n    peer_md instead of the bitmap_index\n  * drbdadm/meta/usage_cnt: ensure output is visible\n  * drbdsetup: fix arguments for all commands expecting a peer_device\n  * exit codes: redefine E_USAGE to 1 (not 3)\n  * some build changes\n  * init script: on start, first try to load the module\n  * drbdsetup events2: Improve how timestamps are assigned\n  * udev rules (symlinks in /dev/by-res and by-disk) got fixed\n  * Fixed upper limit for drbd-8.4 activity log entries\n  * many fixes to drbdadm adjust and proxy commands for drbd-9\n  * rhcs_fence: Do not invoke fence agents in parallel, rewrite in bash\n  * drbdsetup events2 is now also available in drbd-8.4 (backported from drbd-9)\n  * reorganized the repository have common code for drbd-9, drbd-8.4\n    and drbd-8.3 only once\n  * Fix drbd.ocf for resources without volume 0\n"
+  }
+}

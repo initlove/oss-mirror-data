@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzYyNTE4MjY6YTZkMDE5NDViMDUxOGFhYzFmYjAzMGYwNDY2ZmQwYjJiZDUwMGY3YQ==",
+  "sha": "a6d01945b0518aac1fb030f0466fd0b2bd500f7a",
+  "url": "https://api.github.com/repos/supasate/connected-react-router/git/tags/a6d01945b0518aac1fb030f0466fd0b2bd500f7a",
+  "tagger": {
+    "name": "Supasate Choochaisri",
+    "email": "supasate.c@gmail.com",
+    "date": "2019-01-12T14:38:06Z"
+  },
+  "object": {
+    "sha": "ec3c263ca32786bb8520b9d247db3c3f59a6a5d8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/supasate/connected-react-router/git/commits/ec3c263ca32786bb8520b9d247db3c3f59a6a5d8"
+  },
+  "tag": "v6.2.0",
+  "message": "v6.2.0\n\nFixes\n---\n- Move store and history subscription back to constructor (@supasate in #227)\n- Return immutable location object in reducer (@foodforarabbit in #226)\n\nEnhancements\n------------\n- Create selectors to retrieve search and hash (@antgonzales in #203)\n- Add getter Typescript type support for getAction, getSearch, and getHash (@antgonzales in #203)\n\nDoc\n==\n- Refactor examples to use configureStore to align with README (@supasate in #228)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

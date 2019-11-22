@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6MDE3N2ZkZmRmNTcyNjZhNmZhZmYyOTNiOTVmOGMzN2M0MThiOWNhNw==",
+  "sha": "0177fdfdf57266a6faff293b95f8c37c418b9ca7",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/0177fdfdf57266a6faff293b95f8c37c418b9ca7",
+  "tagger": {
+    "name": "Stephen J Day",
+    "email": "stephen.day@docker.com",
+    "date": "2015-02-05T03:27:13Z"
+  },
+  "object": {
+    "sha": "9b9ea5579715e916fd6ac9ee8123ebd61cc2da66",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/9b9ea5579715e916fd6ac9ee8123ebd61cc2da66"
+  },
+  "tag": "v2.0.0-alpha.2",
+  "message": "v2.0.0-alpha.2: Notifications and stability improvements\n\nThis third alpha release includes support for webhook notifications. Several\nstability improvements are included that address common errors. A debug server\nwith pprof and expvar can now be enabled.\n\nThe build system has been improved, as well.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJU0uPgAAoJEPtfaykF1+zzZJgP/j1IqUAqQayPg472LP91cHvM\nniDO09xumb2ZrWu29WB3vb8sgFC6bLFZl0K9yZiSTJgN+ElV0yj0R06fYiWoj9TH\n3OimSG7ex0uPoQ94Qjh9EBGUUggMSsefiAgl+tTYANfzAwpwKA7MxgXvi0XQYxrY\njHkZP4PVQpfwYYYd9ycoiF+73a/EMB9EE6yi57HO0pvuKDfTuMjamNAIxNRwlRtn\nBxRCW7LZo03nEszT9fbmlKiHXMybrr2IHr0n1E9/rue7jJfXhYjDoXN6fAUpkPDX\n/ktfwyMU+6B0b6iaByYqaPPTVqOmqZ99RKiw4ctz6fL6wS+FVb4NblxGKHIwl0Bz\nxzapNcnyMHMSzDb52GV2zPAAaDGT6Ct0a9CVDb1D26KBaQa+fQVPCZAflMitCXE1\nBfPK1lLT8B5xb+G6rZqsOt0xbhmFTPhPZQSbZNryScYNLejHpHFdmWz4eGCO/fub\nDm1TEoqLEQlXIjLDTD/TnKh6/feJYOXQmjZdA6l5ghb/JBoU0ffQeafE5To2pzjC\nFg+tPrvjFbnshjzTI3YvrbA0MscQsnV5p3cEhPitL/EauezJOaRFcATe2M65KoBJ\ncOrZfwmuy+MyLZaH5ZoyMJ7YJv8HC2O9iV+SZjkd8a60jU4R4KidVEqzF5AP6XSC\nyhPDXEqdOMoP8wpS1Lk0\n=64vR\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJU0uPgAAoJEPtfaykF1+zzZJgP/j1IqUAqQayPg472LP91cHvM\nniDO09xumb2ZrWu29WB3vb8sgFC6bLFZl0K9yZiSTJgN+ElV0yj0R06fYiWoj9TH\n3OimSG7ex0uPoQ94Qjh9EBGUUggMSsefiAgl+tTYANfzAwpwKA7MxgXvi0XQYxrY\njHkZP4PVQpfwYYYd9ycoiF+73a/EMB9EE6yi57HO0pvuKDfTuMjamNAIxNRwlRtn\nBxRCW7LZo03nEszT9fbmlKiHXMybrr2IHr0n1E9/rue7jJfXhYjDoXN6fAUpkPDX\n/ktfwyMU+6B0b6iaByYqaPPTVqOmqZ99RKiw4ctz6fL6wS+FVb4NblxGKHIwl0Bz\nxzapNcnyMHMSzDb52GV2zPAAaDGT6Ct0a9CVDb1D26KBaQa+fQVPCZAflMitCXE1\nBfPK1lLT8B5xb+G6rZqsOt0xbhmFTPhPZQSbZNryScYNLejHpHFdmWz4eGCO/fub\nDm1TEoqLEQlXIjLDTD/TnKh6/feJYOXQmjZdA6l5ghb/JBoU0ffQeafE5To2pzjC\nFg+tPrvjFbnshjzTI3YvrbA0MscQsnV5p3cEhPitL/EauezJOaRFcATe2M65KoBJ\ncOrZfwmuy+MyLZaH5ZoyMJ7YJv8HC2O9iV+SZjkd8a60jU4R4KidVEqzF5AP6XSC\nyhPDXEqdOMoP8wpS1Lk0\n=64vR\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9b9ea5579715e916fd6ac9ee8123ebd61cc2da66\ntype commit\ntag v2.0.0-alpha.2\ntagger Stephen J Day <stephen.day@docker.com> 1423106833 -0800\n\nv2.0.0-alpha.2: Notifications and stability improvements\n\nThis third alpha release includes support for webhook notifications. Several\nstability improvements are included that address common errors. A debug server\nwith pprof and expvar can now be enabled.\n\nThe build system has been improved, as well.\n"
+  }
+}

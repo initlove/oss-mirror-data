@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzYyNTE4MjY6ODBkYWRhMDU3MzMxZWJhOWMwMTVkZjI1NmFjMzlmOGZmMjBlOGNlZA==",
+  "sha": "80dada057331eba9c015df256ac39f8ff20e8ced",
+  "url": "https://api.github.com/repos/supasate/connected-react-router/git/tags/80dada057331eba9c015df256ac39f8ff20e8ced",
+  "tagger": {
+    "name": "Supasate Choochaisri",
+    "email": "supasate.c@gmail.com",
+    "date": "2018-12-27T20:32:42Z"
+  },
+  "object": {
+    "sha": "27bb9d510ef2f9b90dc624fef93fc697a43a4d03",
+    "type": "commit",
+    "url": "https://api.github.com/repos/supasate/connected-react-router/git/commits/27bb9d510ef2f9b90dc624fef93fc697a43a4d03"
+  },
+  "tag": "v6.1.0",
+  "message": "v6.1.0\n\nFixes\n----\n- Move onLocationChanged to componentDidMount to avoid side-effect in constructor (#217)\n- Prevent double-rendering on initilization (#218)\n- Prevent ConnectedRouter from re-rendering on every redux store update (#208, #216)\n\nThese fixes are significantly contributed by @Annatsu, @SergeyPoluektov, @jakewies, @firec0der, @madsmadsen, and @supasate\n\nFeature\n-------\n- Output ESM build, and make module tree-shakeable (@unindented in #202)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

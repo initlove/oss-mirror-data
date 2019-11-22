@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzYyNTE4MjY6ZTIxYzczNTc1NTkxODAzMTU0YTdmYWRmNGI2MmYzYjM4MTY5YmQ4Zg==",
+  "sha": "e21c73575591803154a7fadf4b62f3b38169bd8f",
+  "url": "https://api.github.com/repos/supasate/connected-react-router/git/tags/e21c73575591803154a7fadf4b62f3b38169bd8f",
+  "tagger": {
+    "name": "Supasate Choochaisri",
+    "email": "supasate.c@gmail.com",
+    "date": "2018-12-09T09:57:19Z"
+  },
+  "object": {
+    "sha": "66215b121ebee82f36baec74a552cd3149c6e33e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/supasate/connected-react-router/git/commits/66215b121ebee82f36baec74a552cd3149c6e33e"
+  },
+  "tag": "v6.0.0",
+  "message": "v6.0.0\n\nBreaking Change\n---------------\n- Support React Router v6 with the new Context API (@supasate in #191)\n- Require React v16.4 and React Redux v6.0 or later\n\nEnhancement\n----------\n- Throw helpful error when router reducer not mounted under \"router\" key (@mattvague in #175)\n- TypeScript: Remove a duplicate LocationChangeAction interface (@lazarljubenovic in #180)\n- TypeScript: Be more specific on action creators' return type (@lazarljubenovic in #181)\n- TypeScript: Create and export types for routerActions so they can be imported and used in definitions (@afholderman in #189)\n\nDocs\n---\n- Add example for push state using react-redux with connect (@wgao19 in #179)\n\nMisc\n----\n- Add Code of Conduct (@supasate in #182)\n- Remove unused variables from the examples folder (@Rhuansantos  in #190)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY0MjczNTo2Yzc2NTY2YmIzMzE1NjFlMmJiNzJjNjhhOThmOTY3NmIzYTNhOTJl",
+  "sha": "6c76566bb331561e2bb72c68a98f9676b3a3a92e",
+  "url": "https://api.github.com/repos/openstack/ceilometer/git/tags/6c76566bb331561e2bb72c68a98f9676b3a3a92e",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-06-14T14:41:23Z"
+  },
+  "object": {
+    "sha": "0e315fd30a12c7fd012d98c6ebfc2ce2fdfb9cb9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ceilometer/git/commits/0e315fd30a12c7fd012d98c6ebfc2ce2fdfb9cb9"
+  },
+  "tag": "8.1.5",
+  "message": "ceilometer 8.1.5 release\n\nmeta:version: 8.1.5\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Julien Danjou <julien@danjou.info>\nmeta:release:Change-Id: I9269f99f7958c31acdc3738917e4f892fd679f77\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbIn6TAAoJEMNs3LTfAMaMPt0H/i4pHnfPfQt4x3BkAxIrKuXo\nT5EHz7Smdq+HOH+R9ZSC2S4irQ978c5Jawu2PQllJ3DVilqTtLcNZPX6AV97j37g\n9+YqJHPXGdK2lMF+WApqMLHG4ZvUSjkk4ownoExPCcZfRVJDAgjvuVOjpZwhScVh\nxzBicrYF/6iMmeCN0NhDK2hFpmMZedamoRAZf+FJaALdYq6FLvTjj0neZfFJPA7y\nObL12mXsDkIfsf62GpsDK6Ww9MWIORZvZKIO8NhWV8qsz2gyCG+3vkFns0VfBaHK\nJh9zGAEJQSArTFh1kWifcVmJo8GA8nWjPhm7etYkqcmzU3FwttcI6fvBud4Tzp8=\n=wGuP\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbIn6TAAoJEMNs3LTfAMaMPt0H/i4pHnfPfQt4x3BkAxIrKuXo\nT5EHz7Smdq+HOH+R9ZSC2S4irQ978c5Jawu2PQllJ3DVilqTtLcNZPX6AV97j37g\n9+YqJHPXGdK2lMF+WApqMLHG4ZvUSjkk4ownoExPCcZfRVJDAgjvuVOjpZwhScVh\nxzBicrYF/6iMmeCN0NhDK2hFpmMZedamoRAZf+FJaALdYq6FLvTjj0neZfFJPA7y\nObL12mXsDkIfsf62GpsDK6Ww9MWIORZvZKIO8NhWV8qsz2gyCG+3vkFns0VfBaHK\nJh9zGAEJQSArTFh1kWifcVmJo8GA8nWjPhm7etYkqcmzU3FwttcI6fvBud4Tzp8=\n=wGuP\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0e315fd30a12c7fd012d98c6ebfc2ce2fdfb9cb9\ntype commit\ntag 8.1.5\ntagger OpenStack Release Bot <infra-root@openstack.org> 1528987283 +0000\n\nceilometer 8.1.5 release\n\nmeta:version: 8.1.5\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Julien Danjou <julien@danjou.info>\nmeta:release:Change-Id: I9269f99f7958c31acdc3738917e4f892fd679f77\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

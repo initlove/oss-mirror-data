@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzU0NDkwNDg6NzZhMTU2N2M1ODgzZWRmYmUzM2IwMWNjNGY5MzFjMmM1MTcyYjNiMQ==",
+  "sha": "76a1567c5883edfbe33b01cc4f931c2c5172b3b1",
+  "url": "https://api.github.com/repos/aantron/better-enums/git/tags/76a1567c5883edfbe33b01cc4f931c2c5172b3b1",
+  "tagger": {
+    "name": "Anton Bachin",
+    "email": "antonbachin@yahoo.com",
+    "date": "2015-10-06T20:20:05Z"
+  },
+  "object": {
+    "sha": "d99bae7284426f814e84a041ab4f8e97c86013a5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/aantron/better-enums/git/commits/d99bae7284426f814e84a041ab4f8e97c86013a5"
+  },
+  "tag": "0.11.0",
+  "message": "Version 0.11.0.\n\n- Interface-breaking change: renamed ENUM to BETTER_ENUM.\n- Added ability to change default constructor with a\n  BETTER_ENUM_DEFAULT_CONSTRUCTOR(Enum) macro. The default default\n  constructor is (and was) private, to prevent its use.\n- Implemented C++17 enum reflection proposal N4428.\n- Added bidirectional maps between enums and other types (requires\n  C++14).\n- Eliminated support for non-integral underlying types.\n- Eliminated some potential name clashes of internal names with user\n  enumerands.\n- Added testing on GCC 5.2 and Clang 3.7.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6ODU3MjI4M2ZmN2NiNzllODAwYTRlZWY3OGRkOGY3NDhmNzhjM2I2YQ==",
+  "sha": "8572283ff7cb79e800a4eef78dd8f748f78c3b6a",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/8572283ff7cb79e800a4eef78dd8f748f78c3b6a",
+  "tagger": {
+    "name": "Stephen J Day",
+    "email": "stephen.day@docker.com",
+    "date": "2015-04-10T23:58:11Z"
+  },
+  "object": {
+    "sha": "90af0f9b7a8783d9664a8624208b403e7ab55b9a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/90af0f9b7a8783d9664a8624208b403e7ab55b9a"
+  },
+  "tag": "v2.0.0-rc.3",
+  "message": "v2.0.0-rc.3: Driver tracing, documentation, and bugfixes\n\nThe main addition in this release candidate is around logging storage driver\ncalls with performance data and ensuring that log messages have nanosecond\ngranularity timestamps. Other bugfixes affect upload resource cleanup.\n\nWith this candidate, the documentation has undergone a large amount of\nrefactoring, including additions with various production setups.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVKGS4AAoJEPtfaykF1+zz5mMQAJuL0ENPnAemRRz7hKzQSXHa\nXGuVdxc0HVA4M+0P/O9+2t5UG+28cw4xRhKnNbhowwDPtd1MTkgWDr7gHEvxVLyY\nCbhM1hDV8keb/FMp+8swK2AVZTpN4ZqIa8KnhjugSLraXoqQJfTY8HZ5ffp1oBSK\n3t6JOivENyJRYBnOvc8aWNVleg84P6ofIZ+OkJNpJLzWwezSVBmraDbsNR2im4Ai\nI1XnperSoh1qs2qKDHbU1BJKjMA6HeH8ms4GDkw1DIA4fXBXnkD49FDNdQekL24Q\nfIumaaKbt1W4rbRoASIZb5l57NdzpmxjL1cIAHRdXAqSaLiUsdSRwMN9vlLgJ5A2\ndyK6KYccdjBCfe1oQ6b9cQYqE434EUR0Q/EC4fYePtQeQ+FoU2+O5KuEXeXF7DMx\nlsT5sPtdsdhQaLhjw2UTTwXxVuxHxYlUrjewja9TgCUSFifFrWETjzVMHGCjozN0\ns707/djzBTi0q+Syct0Xnw0JuVhRxjwgDVbkcm/FblUNan/BJcorWwf7wJPrBrld\nvUdFIpVl5pVRHrg4bv65APkKEVUx6Uxv0jOGMQ/A1fPqoJqYyCWdMIjglmNMqfnR\nfM5sdsWyLfv0dvjUYgpgYC9HzuTm9XeNsYhNOJ1iJQ4PFfivh/0a+rH/7bLaFiuR\nGuzfy8oC78PyeHmJ2tvI\n=VoIT\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVKGS4AAoJEPtfaykF1+zz5mMQAJuL0ENPnAemRRz7hKzQSXHa\nXGuVdxc0HVA4M+0P/O9+2t5UG+28cw4xRhKnNbhowwDPtd1MTkgWDr7gHEvxVLyY\nCbhM1hDV8keb/FMp+8swK2AVZTpN4ZqIa8KnhjugSLraXoqQJfTY8HZ5ffp1oBSK\n3t6JOivENyJRYBnOvc8aWNVleg84P6ofIZ+OkJNpJLzWwezSVBmraDbsNR2im4Ai\nI1XnperSoh1qs2qKDHbU1BJKjMA6HeH8ms4GDkw1DIA4fXBXnkD49FDNdQekL24Q\nfIumaaKbt1W4rbRoASIZb5l57NdzpmxjL1cIAHRdXAqSaLiUsdSRwMN9vlLgJ5A2\ndyK6KYccdjBCfe1oQ6b9cQYqE434EUR0Q/EC4fYePtQeQ+FoU2+O5KuEXeXF7DMx\nlsT5sPtdsdhQaLhjw2UTTwXxVuxHxYlUrjewja9TgCUSFifFrWETjzVMHGCjozN0\ns707/djzBTi0q+Syct0Xnw0JuVhRxjwgDVbkcm/FblUNan/BJcorWwf7wJPrBrld\nvUdFIpVl5pVRHrg4bv65APkKEVUx6Uxv0jOGMQ/A1fPqoJqYyCWdMIjglmNMqfnR\nfM5sdsWyLfv0dvjUYgpgYC9HzuTm9XeNsYhNOJ1iJQ4PFfivh/0a+rH/7bLaFiuR\nGuzfy8oC78PyeHmJ2tvI\n=VoIT\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 90af0f9b7a8783d9664a8624208b403e7ab55b9a\ntype commit\ntag v2.0.0-rc.3\ntagger Stephen J Day <stephen.day@docker.com> 1428710291 -0700\n\nv2.0.0-rc.3: Driver tracing, documentation, and bugfixes\n\nThe main addition in this release candidate is around logging storage driver\ncalls with performance data and ensuring that log messages have nanosecond\ngranularity timestamps. Other bugfixes affect upload resource cleanup.\n\nWith this candidate, the documentation has undergone a large amount of\nrefactoring, including additions with various production setups.\n"
+  }
+}

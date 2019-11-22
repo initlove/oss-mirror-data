@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTUyOTM6ODQ3NDViMTU2NGVmMjlkMzA4YTU4YTk2NDI5Y2Q3NGFiMjZkZGNiYw==",
+  "sha": "84745b1564ef29d308a58a96429cd74ab26ddcbc",
+  "url": "https://api.github.com/repos/codahale/bcrypt-ruby/git/tags/84745b1564ef29d308a58a96429cd74ab26ddcbc",
+  "tagger": {
+    "name": "Coda Hale",
+    "email": "coda.hale@gmail.com",
+    "date": "2008-05-08T00:37:11Z"
+  },
+  "object": {
+    "sha": "e66116dc37379b6bc8f21bd749a81b00a19ff6ee",
+    "type": "commit",
+    "url": "https://api.github.com/repos/codahale/bcrypt-ruby/git/commits/e66116dc37379b6bc8f21bd749a81b00a19ff6ee"
+  },
+  "tag": "rel_2_0_3",
+  "message": "2.0.3  May 07 2008\n - Made exception classes descend from StandardError, not Exception [Dan42]\n - Changed BCrypt::Engine.hash to BCrypt::Engine.hash_secret to avoid Merb\n   sorting issues. [Lee Pope]\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.6 (GNU/Linux)\n\niD8DBQBIIktBH/vcp1kHk1URAqtOAJ4lJYJQh5PR8sQziJO9RCqYM8vNVACgiGsN\nD+p5LGPaQANigGbeBCvjU2M=\n=YWaG\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.6 (GNU/Linux)\n\niD8DBQBIIktBH/vcp1kHk1URAqtOAJ4lJYJQh5PR8sQziJO9RCqYM8vNVACgiGsN\nD+p5LGPaQANigGbeBCvjU2M=\n=YWaG\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e66116dc37379b6bc8f21bd749a81b00a19ff6ee\ntype commit\ntag rel_2_0_3\ntagger Coda Hale <coda.hale@gmail.com> 1210207031 -0700\n\n2.0.3  May 07 2008\n - Made exception classes descend from StandardError, not Exception [Dan42]\n - Changed BCrypt::Engine.hash to BCrypt::Engine.hash_secret to avoid Merb\n   sorting issues. [Lee Pope]\n"
+  }
+}

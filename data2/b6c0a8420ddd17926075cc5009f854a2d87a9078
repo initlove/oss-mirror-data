@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY0MjczNTpiNmMwYTg0MjBkZGQxNzkyNjA3NWNjNTAwOWY4NTRhMmQ4N2E5MDc4",
+  "sha": "b6c0a8420ddd17926075cc5009f854a2d87a9078",
+  "url": "https://api.github.com/repos/openstack/ceilometer/git/tags/b6c0a8420ddd17926075cc5009f854a2d87a9078",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-28T10:59:42Z"
+  },
+  "object": {
+    "sha": "f8e7d5252deec7781e4a09fb7ef92561c14c4b1c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ceilometer/git/commits/f8e7d5252deec7781e4a09fb7ef92561c14c4b1c"
+  },
+  "tag": "queens-em",
+  "message": "ceilometer queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I6f2d6ac988651120587c643b6f50749b87e254f0\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl22yh4ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2MvXC/45iw8jEJdp75a73SlLr2NZ\njJiFhk0ZOv5vXL8vEej5Fbz+q8orgzRmvYgJgpxsDK/5z2WmLkWvJVId1jvGx5T1\n4pHfPEU/aLjo5MYZyv2hJP3TVKD38/bsC+Lku1Qdv+DPZ6V1eiTFw7us2VAhzmZF\nwzLS0M5yq70UCM4nPfPDaZfvpmA646op0cZ1eHO+NqPQmOZXhcbEXbfsUOz4HOJo\nRTchQURVdpjy72pkAQe2DHJyXiSWD3lN4zVt2pPXH3cdlTkTo1F3qcy9wpZJtqWb\n2wmTbpyYdk0HkHw62NOu79JK6oBSndZ+jtuhiDCcgCpDLjKSgclYXHAKmDdKfCoa\nNwc36SJa6b6kXZ+4/pbf7KdojIScYg/TfvQ5YCdPiqpFVzUGJRcBk3BjhuRT/MBZ\n63m1iyofpk7SJyWmQ60pLUFD6gHMqZOLtrTVONcDq6TsvRJhNSsYxcntqdBx+qMm\nRqSd3XbP1DCKAHykPlTlpieReRv7gU0gAOwn/r1e6lM=\n=iENX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl22yh4ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2MvXC/45iw8jEJdp75a73SlLr2NZ\njJiFhk0ZOv5vXL8vEej5Fbz+q8orgzRmvYgJgpxsDK/5z2WmLkWvJVId1jvGx5T1\n4pHfPEU/aLjo5MYZyv2hJP3TVKD38/bsC+Lku1Qdv+DPZ6V1eiTFw7us2VAhzmZF\nwzLS0M5yq70UCM4nPfPDaZfvpmA646op0cZ1eHO+NqPQmOZXhcbEXbfsUOz4HOJo\nRTchQURVdpjy72pkAQe2DHJyXiSWD3lN4zVt2pPXH3cdlTkTo1F3qcy9wpZJtqWb\n2wmTbpyYdk0HkHw62NOu79JK6oBSndZ+jtuhiDCcgCpDLjKSgclYXHAKmDdKfCoa\nNwc36SJa6b6kXZ+4/pbf7KdojIScYg/TfvQ5YCdPiqpFVzUGJRcBk3BjhuRT/MBZ\n63m1iyofpk7SJyWmQ60pLUFD6gHMqZOLtrTVONcDq6TsvRJhNSsYxcntqdBx+qMm\nRqSd3XbP1DCKAHykPlTlpieReRv7gU0gAOwn/r1e6lM=\n=iENX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f8e7d5252deec7781e4a09fb7ef92561c14c4b1c\ntype commit\ntag queens-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572260382 +0000\n\nceilometer queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I6f2d6ac988651120587c643b6f50749b87e254f0\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

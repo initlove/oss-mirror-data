@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6NzJkNWI2NWM2Njg2ZTljYWRiZTFkN2YxNGM2NTYwZGJmNTJiZDVhNw==",
+  "sha": "72d5b65c6686e9cadbe1d7f14c6560dbf52bd5a7",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/72d5b65c6686e9cadbe1d7f14c6560dbf52bd5a7",
+  "tagger": {
+    "name": "Richard Scothern",
+    "email": "richard.scothern@docker.com",
+    "date": "2016-05-04T17:46:36Z"
+  },
+  "object": {
+    "sha": "93d76247f2b527941761f2f8004db406eea0a56f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/93d76247f2b527941761f2f8004db406eea0a56f"
+  },
+  "tag": "v2.4.1-rc.0",
+  "message": "Docker Registry v2.4.1\n\nBug fixes:\n\n93d7624 Preserve author information in schema1 manifests\nba672e8 When a blob upload is committed prevent writing out hashstate in the subsequent close.\n96230de Add a test with a missing _manifests directory\nc0d3813 Move garbage collect code into storage package\n011b7e4 Ensure GC continues marking if _manifests is nonexistent\n0a1fcf9 Fix wording for dry-run flag in useage message for garbage collector.\ned02e88 Sorting completed parts by part number for a better accordance with the S3 spec\nfd5a404 Add blobWrtiter.Close() call into blobWriter.Commit()\n3f538ca add cn-north-1 to valid check\n3330cc5 wait for DLO segments to show up when Close()ing the writer\n775d096 Use correct media type for config blob in schema2 manifest\n64a9727 Only check validity of S3 region if not using custom endpoint\ndafb59f Ensure we log io.Copy errors and bytes copied/total in uploads\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXKjWHAAoJEPfQDq9vNVAKJXEIAKS8hxOEUsshdkwThVZXVlYU\n4PejnWx7XFZONL30ioSXRmKI0BB6+FdytnREbeWYbiNbjCvF6j5nvNuMSYU11xxq\nFlkGpC0Jvyuv4HTXBnp3vS6IwFNGcS3HV2hx/QGFLdbrAOjT7bQEQTTI0PhH7Q1h\nay8dC1dGk+G/5bDcqw6odRzympMUQCDiuJ69+IurQveTNZtlZxCj3XSZrf1Y0zzZ\n7PXbgYnw6QRyKET70LvFiyL/72qIFKJclVJPbj1+0TtdLzcsd6Ra5yW9tDNYoKO7\no57hkm5VvcMJX3kmVnj5tStzJQiFnlIt06Co5CT/AvUA875J23/ThMEdhMCxmfE=\n=CwOQ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXKjWHAAoJEPfQDq9vNVAKJXEIAKS8hxOEUsshdkwThVZXVlYU\n4PejnWx7XFZONL30ioSXRmKI0BB6+FdytnREbeWYbiNbjCvF6j5nvNuMSYU11xxq\nFlkGpC0Jvyuv4HTXBnp3vS6IwFNGcS3HV2hx/QGFLdbrAOjT7bQEQTTI0PhH7Q1h\nay8dC1dGk+G/5bDcqw6odRzympMUQCDiuJ69+IurQveTNZtlZxCj3XSZrf1Y0zzZ\n7PXbgYnw6QRyKET70LvFiyL/72qIFKJclVJPbj1+0TtdLzcsd6Ra5yW9tDNYoKO7\no57hkm5VvcMJX3kmVnj5tStzJQiFnlIt06Co5CT/AvUA875J23/ThMEdhMCxmfE=\n=CwOQ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 93d76247f2b527941761f2f8004db406eea0a56f\ntype commit\ntag v2.4.1-rc.0\ntagger Richard Scothern <richard.scothern@docker.com> 1462383996 -0700\n\nDocker Registry v2.4.1\n\nBug fixes:\n\n93d7624 Preserve author information in schema1 manifests\nba672e8 When a blob upload is committed prevent writing out hashstate in the subsequent close.\n96230de Add a test with a missing _manifests directory\nc0d3813 Move garbage collect code into storage package\n011b7e4 Ensure GC continues marking if _manifests is nonexistent\n0a1fcf9 Fix wording for dry-run flag in useage message for garbage collector.\ned02e88 Sorting completed parts by part number for a better accordance with the S3 spec\nfd5a404 Add blobWrtiter.Close() call into blobWriter.Commit()\n3f538ca add cn-north-1 to valid check\n3330cc5 wait for DLO segments to show up when Close()ing the writer\n775d096 Use correct media type for config blob in schema2 manifest\n64a9727 Only check validity of S3 region if not using custom endpoint\ndafb59f Ensure we log io.Copy errors and bytes copied/total in uploads\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDo1Njc3OThjN2NjNzdmNTUxYWM4NWU5MzAwOTI4MzI3ZWViNjUwNTlh",
+  "sha": "567798c7cc77f551ac85e9300928327eeb65059a",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/567798c7cc77f551ac85e9300928327eeb65059a",
+  "tagger": {
+    "name": "Thierry Carrez",
+    "email": "thierry@openstack.org",
+    "date": "2016-03-17T08:34:09Z"
+  },
+  "object": {
+    "sha": "fd5817881ad1ec4a0a961ec512140e732d500d88",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/fd5817881ad1ec4a0a961ec512140e732d500d88"
+  },
+  "tag": "8.0.0.0rc1",
+  "message": "cinder 8.0.0.0rc1 release candidate\n\nmeta:version: 8.0.0.0rc1\nmeta:series: mitaka\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJW6mwBAAoJEFB6+JAlsQQjuyYP/RNi8MJ7dQQjK2LloqczS1bx\n++Vd5k9A184/1HFqJekxz/SZcm2a5nRRxm/ocXEUP4bDmUxs9RDk/Pu8EOVZr0hU\nl40PyXERZA3Z41YHhr4viGksO3Jq7C7elF8DKmzf3BSDaXA1N2kgbqOmb4qQHis3\nTSdKaqDC3Dh2bts4Xzy+1GDHYqT/ZP1YLR9q+k1ZMmKp0E/P8SwUc5c7M4lSEVkj\nOB7D1JGL+acoqDXuE5efshTOYhe95i1Wp8/NzDUgqy6MOZWYNpeTekXG3lRq5vNn\nSCEEKT0+Fbrvq0Iahe/PvAkCT4SfEUcgQUCIxcwVVxcoVWMMPplytO8JKjOc+124\nO5A7o7lel3ziZRYcMgYkgUzu9U6R760EvczOZkWSlt3uoX4R9CPnKaNBP5NuaVtL\nlZ/5hN18Qx9H7vdHYb2frA+XR9AMe56YUBWpjUWKnoXSeQXWFlfZKtNootqzHKaH\nMTjUMtOVarKtHA+lorkhG1e44k/GL96G6RLxz1a/oUjLCRXbnWxPs/Js6kZVfRWv\nZhGpIR6XFhI+eTzWQtTlrRFqFlWJvii8wr7fSe3aaqVLfCV/L430PnZgNtFzv1xF\ny4hW/43+C+cAgNglNWId4+V18N4mTH+QjBCPyFlO7OuvjuxWHpj/x1i3i79R2o/J\nVAJZdkttgN+IcrDqBXuo\n=e7WX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJW6mwBAAoJEFB6+JAlsQQjuyYP/RNi8MJ7dQQjK2LloqczS1bx\n++Vd5k9A184/1HFqJekxz/SZcm2a5nRRxm/ocXEUP4bDmUxs9RDk/Pu8EOVZr0hU\nl40PyXERZA3Z41YHhr4viGksO3Jq7C7elF8DKmzf3BSDaXA1N2kgbqOmb4qQHis3\nTSdKaqDC3Dh2bts4Xzy+1GDHYqT/ZP1YLR9q+k1ZMmKp0E/P8SwUc5c7M4lSEVkj\nOB7D1JGL+acoqDXuE5efshTOYhe95i1Wp8/NzDUgqy6MOZWYNpeTekXG3lRq5vNn\nSCEEKT0+Fbrvq0Iahe/PvAkCT4SfEUcgQUCIxcwVVxcoVWMMPplytO8JKjOc+124\nO5A7o7lel3ziZRYcMgYkgUzu9U6R760EvczOZkWSlt3uoX4R9CPnKaNBP5NuaVtL\nlZ/5hN18Qx9H7vdHYb2frA+XR9AMe56YUBWpjUWKnoXSeQXWFlfZKtNootqzHKaH\nMTjUMtOVarKtHA+lorkhG1e44k/GL96G6RLxz1a/oUjLCRXbnWxPs/Js6kZVfRWv\nZhGpIR6XFhI+eTzWQtTlrRFqFlWJvii8wr7fSe3aaqVLfCV/L430PnZgNtFzv1xF\ny4hW/43+C+cAgNglNWId4+V18N4mTH+QjBCPyFlO7OuvjuxWHpj/x1i3i79R2o/J\nVAJZdkttgN+IcrDqBXuo\n=e7WX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object fd5817881ad1ec4a0a961ec512140e732d500d88\ntype commit\ntag 8.0.0.0rc1\ntagger Thierry Carrez <thierry@openstack.org> 1458203649 +0100\n\ncinder 8.0.0.0rc1 release candidate\n\nmeta:version: 8.0.0.0rc1\nmeta:series: mitaka\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n"
+  }
+}

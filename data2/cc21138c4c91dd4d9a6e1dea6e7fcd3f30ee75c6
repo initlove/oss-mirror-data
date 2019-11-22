@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTgxNTQ0MDE6Y2MyMTEzOGM0YzkxZGQ0ZDlhNmUxZGVhNmU3ZmNkM2YzMGVlNzVjNg==",
+  "sha": "cc21138c4c91dd4d9a6e1dea6e7fcd3f30ee75c6",
+  "url": "https://api.github.com/repos/Netflix/dyno/git/tags/cc21138c4c91dd4d9a6e1dea6e7fcd3f30ee75c6",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-01-15T01:36:28Z"
+  },
+  "object": {
+    "sha": "55cd8b620dc6ea8d03c3aaf2ecbfdf69808b28d0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/dyno/git/commits/55cd8b620dc6ea8d03c3aaf2ecbfdf69808b28d0"
+  },
+  "tag": "v1.3.0",
+  "message": "Release of 1.3.0\n\n- 55cd8b620dc6ea8d03c3aaf2ecbfdf69808b28d0: Merge pull request #98 from jcacciatore/master\n- 3c9f1a723e4e325d656060c497e4f1f7c65d4a63: Modified compression threshold setting so that it's specified in bytes rather than kilobytes.\n- 973958d9217135ea5982afdc0888ba15c2f5c87a: Merge pull request #97 from jcacciatore/master\n- ae521e18a13c2f6c3fb005be53f9f15150d02ff3: Added support for pattern matching in SCAN operator.  Also changed the name of CursorBasedIterator to CursorBasedResult to avoid confusion of iterator semantics\n- d676d1d53095b9cad282752a8d3df2dfc2d52896: Merge pull request #96 from jcacciatore/feature-scan\n- 1f4147503873d0f2fba8f446021efdf998d7d89b: Initial implementation of SCAN operation. Removed hscan(String, int); since it is deprecated there is no point in adding it.\n- c7b3f19bc891b206c60741b5afa5d204b1612930: adding OSSMETADATA for NetflixOSS tracking\n- a1812b3e3c786b37c7aea4efb11bb0aa180e9652: Compression for HSCAN\n- 96adb560340a35cda29bcc87beda6ea3fccf3549: Updates on comments for operations not called in a pipeline\n- 1797ea2fc0b3e905a372f4a71292b3043978f4e6: HSCAN, ZSCAN and SSCAN added\n- d31e631bf8a7b53969e89c6b0c37ddcdef42a430: Merge pull request #93 from jcacciatore/feature-compression\n- 6f3b6dc5fffb2c42e3b6b5504a452edeae3dc2ec: Fixing unit test failure in CI environment. Need to relax connection timeout to avoid intermittent failures.\n- 02fc2533442c7bc60f952e34ccb853a13449e74c: Added documentation around compression behavior.\n- 49ea8c87e23ada8010d044a6b0453f78f107c823: Enable compression for a subset of DynoJedisPipeline operations\n- c63ce1f42b345566f8acee5cfb5bb68e2f6df802: Enabled configurable compression + decompression of values with DynoJedisClient for String and Hash commands. Set and List commands are not supported since this would break sort operations.\n- 5d09e7ef43b336c85418bd1583f28197af657d06: Merge pull request #92 from Netflix/rename\n- 92617eb69378ab0afb10e72eafa163a5114ba893: added Dyno features in README\n- 9b7789e7f6366c1598626d751aa8f482e17a2359: moving to container based infra with sudo:false\n- ec122b05a60a692e95b5ca700c5c969df343efa8: travis files\n- 6776529cf024028394ef1d723e6401ef69cc5ac8: modified readme for travis\n- 3f212a2497dbb5c50be2255719fb45af280ffe05: Merge pull request #91 from Netflix/rename\n- 51fd54666053c39f5e688d365c7cb04786baf880: updates for build\n- 84f68d1361a6d4a1c1fbffa6a332628a7b62b49d: added comments about not supported pipeline commands by 2.7.3 and removed overrides\n- 1196f96eb383f3c2f32bfe0fe571a05113b96335: added comments about not supported pipeline commands by 2.7.3 and removed overrides\n- 84b30f852301908adc93ee743696332ac44ecb5a: updated support for jedis 2.7.3\n- cb924f5f0f8e8e3c499c71716271f1e872e40518: pipeline incrbyfloat\n- 9212f143d2ddcff45e7cd7bf3600e8dc0d6ca613: fixed a double missing\n- f95f588e7580eb5aed7b77dc7af230ce16e238af: updated Jedis pipeline to include hincrbyfloat\n- 966511845f62c88c1fec8592b77d61cf4459f252: support for rename key commands: rename and renamenx\n- 5b47e075c7eaf62a1cc09b9caffb1559bf3e8c4f: Merge pull request #90 from Netflix/hincrby\n- a5b1b9522c1cf9096374b198702e2abf2635085d: added hincrbyfloat\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

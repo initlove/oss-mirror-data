@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDpjNzAyNmE5ZDA5NTNlZDZlZDU3MWRkZDc5ZTUzMjIxMDU5NzgwZGY3",
+  "sha": "c7026a9d0953ed6ed571ddd79e53221059780df7",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/c7026a9d0953ed6ed571ddd79e53221059780df7",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-10-02T16:01:31Z"
+  },
+  "object": {
+    "sha": "2dc52153215bb6a37532a959c5c98239be21bb56",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/2dc52153215bb6a37532a959c5c98239be21bb56"
+  },
+  "tag": "10.0.8",
+  "message": "cinder 10.0.8 release\n\nmeta:version: 10.0.8\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jay S. Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Commit: Jay S. Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Change-Id: Ie23ca0e090169890b0aaa7f7987fe4f271edc7e4\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbs5ZbAAoJEBpUEUgFTp44zQYL/jYi5sMdDrsqrzNCLiH3Ozkv\n2dcyqIb/OOjjZW3c+rURPwLxEjOTQPicbmC4ju50BrC4UWGshKEX5jepB9qpMUuE\n7FbGsZ2rx9rg5d6MZ31FXce0ydKEUeWBcnjq9BZBkoCXXebPirgiWEOfyUFZFvBx\nJrhrvt9vh6XQbr5aiAAmxgBJe6VobYA/nDyKNwoCMPuhUJfNK7hCefzh3dWsNl88\nhusoxKiK2CXNpEnxpQY2V5oRH+se8O3Pn6QQXxieH8Q0cW9Wf2TPgdpRCTonf6ql\nhwDsg50626kLFa4DHT2FA5FmBkxt8XyBJKbl1UU9PeVMYgP2Y6o23BrQDZDChdZL\ngsAotyi5AWzw6uovfaplIMLo9qFyypfljG8S7s9SSTSB2HYzoOyq9GyrQKbeEZYV\n9DJgqxkjlPGh0YDTqjqoIDmRwVIxOtZfUfuHHNuE7sJbKSiKdA9SunnDqNhhqDjJ\nnjOo+Do+cPcsqM3EhvsaOyYXXvxqWXgsdlLyZ9QSuw==\n=1Uo+\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbs5ZbAAoJEBpUEUgFTp44zQYL/jYi5sMdDrsqrzNCLiH3Ozkv\n2dcyqIb/OOjjZW3c+rURPwLxEjOTQPicbmC4ju50BrC4UWGshKEX5jepB9qpMUuE\n7FbGsZ2rx9rg5d6MZ31FXce0ydKEUeWBcnjq9BZBkoCXXebPirgiWEOfyUFZFvBx\nJrhrvt9vh6XQbr5aiAAmxgBJe6VobYA/nDyKNwoCMPuhUJfNK7hCefzh3dWsNl88\nhusoxKiK2CXNpEnxpQY2V5oRH+se8O3Pn6QQXxieH8Q0cW9Wf2TPgdpRCTonf6ql\nhwDsg50626kLFa4DHT2FA5FmBkxt8XyBJKbl1UU9PeVMYgP2Y6o23BrQDZDChdZL\ngsAotyi5AWzw6uovfaplIMLo9qFyypfljG8S7s9SSTSB2HYzoOyq9GyrQKbeEZYV\n9DJgqxkjlPGh0YDTqjqoIDmRwVIxOtZfUfuHHNuE7sJbKSiKdA9SunnDqNhhqDjJ\nnjOo+Do+cPcsqM3EhvsaOyYXXvxqWXgsdlLyZ9QSuw==\n=1Uo+\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2dc52153215bb6a37532a959c5c98239be21bb56\ntype commit\ntag 10.0.8\ntagger OpenStack Release Bot <infra-root@openstack.org> 1538496091 +0000\n\ncinder 10.0.8 release\n\nmeta:version: 10.0.8\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jay S. Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Commit: Jay S. Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Change-Id: Ie23ca0e090169890b0aaa7f7987fe4f271edc7e4\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

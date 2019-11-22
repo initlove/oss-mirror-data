@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6NmIwYjA1ZjJhNjZmYmM1N2ZkZWYyMjM2OGJmMjM1OTE3NWFiOWNhYw==",
+  "sha": "6b0b05f2a66fbc57fdef22368bf2359175ab9cac",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/6b0b05f2a66fbc57fdef22368bf2359175ab9cac",
+  "tagger": {
+    "name": "Richard Scothern",
+    "email": "richard.scothern@gmail.com",
+    "date": "2016-01-19T19:20:04Z"
+  },
+  "object": {
+    "sha": "47a064d4195a9b56133891bbb13620c3ac83a827",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/47a064d4195a9b56133891bbb13620c3ac83a827"
+  },
+  "tag": "v2.3.0-rc.0",
+  "message": "A bug is fixed where the incorrect content type for Schema 1 manifests was\nreturned.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWnozKAAoJEPfQDq9vNVAKAwcH+QFEroWdkN3Aohz1nwiDmBUq\nqtoLaIdvVgoEH1EEnfpGoiJnoaRUpgh0X77WBTQimrJWfW8snCuLxRkTKXeQIcxN\nNYH9g69haTaIUqid8YFt0fgHRoD2Gq8aKI3GI6G9VY0wkhIToEEw0sAhUYQX7oh7\nVGDJ+Yld+hPxUrc9jtvjmBtFwBJCLHnw5Kqe1NycBr8GJbX3aUcNJpgEtcKkjWDz\nl33GdxMv6dqCoQqwL+p5Q4+QmptiAF2SU2ayMOfNrYNxsOY5s3zaXLc+qh+37BNu\nUNNT5/J5096GSRNquRCp1a3TD0FGaZci84/Qn4JYGAAC2q2AaY52WxE07QHS0ck=\n=3RN0\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWnozKAAoJEPfQDq9vNVAKAwcH+QFEroWdkN3Aohz1nwiDmBUq\nqtoLaIdvVgoEH1EEnfpGoiJnoaRUpgh0X77WBTQimrJWfW8snCuLxRkTKXeQIcxN\nNYH9g69haTaIUqid8YFt0fgHRoD2Gq8aKI3GI6G9VY0wkhIToEEw0sAhUYQX7oh7\nVGDJ+Yld+hPxUrc9jtvjmBtFwBJCLHnw5Kqe1NycBr8GJbX3aUcNJpgEtcKkjWDz\nl33GdxMv6dqCoQqwL+p5Q4+QmptiAF2SU2ayMOfNrYNxsOY5s3zaXLc+qh+37BNu\nUNNT5/J5096GSRNquRCp1a3TD0FGaZci84/Qn4JYGAAC2q2AaY52WxE07QHS0ck=\n=3RN0\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 47a064d4195a9b56133891bbb13620c3ac83a827\ntype commit\ntag v2.3.0-rc.0\ntagger Richard Scothern <richard.scothern@gmail.com> 1453231204 -0800\n\nA bug is fixed where the incorrect content type for Schema 1 manifests was\nreturned.\n"
+  }
+}

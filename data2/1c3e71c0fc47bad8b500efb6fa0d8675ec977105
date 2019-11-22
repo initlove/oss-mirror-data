@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzM3NDM1OTk6MWMzZTcxYzBmYzQ3YmFkOGI1MDBlZmI2ZmEwZDg2NzVlYzk3NzEwNQ==",
+  "sha": "1c3e71c0fc47bad8b500efb6fa0d8675ec977105",
+  "url": "https://api.github.com/repos/anb0s/eclox/git/tags/1c3e71c0fc47bad8b500efb6fa0d8675ec977105",
+  "tagger": {
+    "name": "Andre Bossert",
+    "email": "anb0s@anbos.de",
+    "date": "2016-06-05T09:36:48Z"
+  },
+  "object": {
+    "sha": "306a8482da81a991dee421c723670251c663cf34",
+    "type": "commit",
+    "url": "https://api.github.com/repos/anb0s/eclox/git/commits/306a8482da81a991dee421c723670251c663cf34"
+  },
+  "tag": "eclox-0.10.2",
+  "message": "version 0.10.2 for test\n- added support of eclipse variables to resolve doxygen path\n- added support of GRAPHVIZ_PATH variable - passed to enviroment\n- moved and improved dialog code to CustomDoxygenDialog\n- improved thread handling, added show command in console / title",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

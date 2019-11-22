@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI4MjEzMDM6YzFmNzg3OTQ2NjIwMGYwZjZmNTQ2Y2Q4NzFjYzIwYzY3ZDNmZDliMw==",
+  "sha": "c1f7879466200f0f6f546cd871cc20c67d3fd9b3",
+  "url": "https://api.github.com/repos/coreos/go-systemd/git/tags/c1f7879466200f0f6f546cd871cc20c67d3fd9b3",
+  "tagger": {
+    "name": "Brandon Philips",
+    "email": "brandon.philips@coreos.com",
+    "date": "2015-11-05T13:22:11Z"
+  },
+  "object": {
+    "sha": "b4a58d95188dd092ae20072bac14cece0e67c388",
+    "type": "commit",
+    "url": "https://api.github.com/repos/coreos/go-systemd/git/commits/b4a58d95188dd092ae20072bac14cece0e67c388"
+  },
+  "tag": "v4",
+  "message": "- add dbus.NewSystemdConnection() for connecting directly to systemd.\n- add github.com/coreos/go-systemd/sdjournal package for low-level access to\njournal\n- add activation.TLSListeners for socket activation of TLS sockets\n- stable ordering of unit serialization\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJWO1gJAAoJEBVDQyYFQt80hvsP/0+5u/KfEBq8oFL1sufHLJ5Z\nkombo3f5pUkfrpOiPAHOFpht8GEqwg3PQH7kamq2MA1C7yRRZUcPkvWFv8zt1Tg6\n6q2C5zz8IDB4yV5YVP68zsvftHVIyvWshZn+wf3w0l8hoBzZvrUdQY4673SV6GqC\nqPKJbTYS7eo/S744sMvgEzCjL0bjP+SehBkbh+71h0/t8gd1Q1D4V4mgfVysrar4\ng+Sjl1i4XPQW3ZThRy/oOyBFuydydsnMpulgIbr8h96CBxOrg9/L2VTocshw/szE\natLtIBvWcx2Ijjnsq8G3hjKF/an0HRa08kUER0wVLh/IBxWfFiHc1EWH/0iQxyn3\ngdE8mcjUngjJPv0uWirQLvcSDfi8rFHHBOzGDjlFWM7dUn6IGd2ugvUOxT4f8fD4\n0TW1zkYbp2BgIdzFTpgt8dZ69c5dfwfd0Ah6WJO8iyM6oSQTk3a6/aRNzU2S/gyM\nXdlGCk/7Hob9qLfXZEOo+9db/A+MBuvkPfI3xQS4I9pmLb1CPn46HpaudfQToHwS\nR2+p9U0/4j6JDVgwU/Keg1XvjwxWEW+9J/Qy/VkQ7CyodeD7+BVmFuBJcfnwIUap\nowX2JJR+jEwq9z6DaTH4Met3j/X9V2pJrO/n+nOCdVD/yf/P/3vVbjOGXQ5NUikB\n/GsacpLvUyPVAJlTB7p4\n=+Sqr\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJWO1gJAAoJEBVDQyYFQt80hvsP/0+5u/KfEBq8oFL1sufHLJ5Z\nkombo3f5pUkfrpOiPAHOFpht8GEqwg3PQH7kamq2MA1C7yRRZUcPkvWFv8zt1Tg6\n6q2C5zz8IDB4yV5YVP68zsvftHVIyvWshZn+wf3w0l8hoBzZvrUdQY4673SV6GqC\nqPKJbTYS7eo/S744sMvgEzCjL0bjP+SehBkbh+71h0/t8gd1Q1D4V4mgfVysrar4\ng+Sjl1i4XPQW3ZThRy/oOyBFuydydsnMpulgIbr8h96CBxOrg9/L2VTocshw/szE\natLtIBvWcx2Ijjnsq8G3hjKF/an0HRa08kUER0wVLh/IBxWfFiHc1EWH/0iQxyn3\ngdE8mcjUngjJPv0uWirQLvcSDfi8rFHHBOzGDjlFWM7dUn6IGd2ugvUOxT4f8fD4\n0TW1zkYbp2BgIdzFTpgt8dZ69c5dfwfd0Ah6WJO8iyM6oSQTk3a6/aRNzU2S/gyM\nXdlGCk/7Hob9qLfXZEOo+9db/A+MBuvkPfI3xQS4I9pmLb1CPn46HpaudfQToHwS\nR2+p9U0/4j6JDVgwU/Keg1XvjwxWEW+9J/Qy/VkQ7CyodeD7+BVmFuBJcfnwIUap\nowX2JJR+jEwq9z6DaTH4Met3j/X9V2pJrO/n+nOCdVD/yf/P/3vVbjOGXQ5NUikB\n/GsacpLvUyPVAJlTB7p4\n=+Sqr\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b4a58d95188dd092ae20072bac14cece0e67c388\ntype commit\ntag v4\ntagger Brandon Philips <brandon.philips@coreos.com> 1446729731 +0100\n\n- add dbus.NewSystemdConnection() for connecting directly to systemd.\n- add github.com/coreos/go-systemd/sdjournal package for low-level access to\njournal\n- add activation.TLSListeners for socket activation of TLS sockets\n- stable ordering of unit serialization\n"
+  }
+}

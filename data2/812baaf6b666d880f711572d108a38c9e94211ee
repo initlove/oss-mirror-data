@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI4MjEzMDM6ODEyYmFhZjZiNjY2ZDg4MGY3MTE1NzJkMTA4YTM4YzllOTQyMTFlZQ==",
+  "sha": "812baaf6b666d880f711572d108a38c9e94211ee",
+  "url": "https://api.github.com/repos/coreos/go-systemd/git/tags/812baaf6b666d880f711572d108a38c9e94211ee",
+  "tagger": {
+    "name": "Luca Bruno",
+    "email": "luca.bruno@coreos.com",
+    "date": "2016-10-24T14:23:40Z"
+  },
+  "object": {
+    "sha": "61c7ee68bddeb1e66b491c3e1045c4f72b2cd6e3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/coreos/go-systemd/git/commits/61c7ee68bddeb1e66b491c3e1045c4f72b2cd6e3"
+  },
+  "tag": "v13",
+  "message": "go-systemd v13\n\nSummary of changes in this release:\n * dbus: add additional tests for dbus methods\n * sdjournal: add GetUniqueValues\n * sdjournal: fix return values type\n * dbus/properties: add service type\n * doc: syntax highlight activation in README\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJYDhmyAAoJEKmDSiJSB45OqQ0P/RwzM18BgimR9QK1hCr2nCfq\nxQPM69enWSNXJuRodpFrBP1IIAXQAbUNdITqWtFBHMrDSD/z6VRlxeEQtCZsQMxs\nH66IxRa+GPHVLgBeToVSEU3DpD8I5zpg9wwLZLu3WjdpNbFQQBvX/drAIFwy9KhK\ngdkTwVQ4JPVupWKZ9xqMWfhNMi2E0hQCnW2k3x1OcGcn3iUUsWTtzFNNVWM3Ktv4\nmQCLsTXmjJKWx3N3BBlolT1ovnZO7qodTgRlyNR+8MQx+0FPMK1LU7Qb/l6mT2+W\nqO9sF2ZmdR4DZ/LrcolCY4N4M5rvpJGwlemxxj7QsPQbg2wlYsE0Ljn+uWeFld3A\nJqckhOtUH6GK3jLHJPTOszMLwI8kp8l0jr+DNOcUjbeVEzUXgdD4Z9Er0tH7u4Xb\nHISTdOAQJkz0ACjyvzqWGr/32g/8wXAc0FzE6coPvZSDOh2J+xEsSLqBxve1B0Gm\nARpD0hIZ9GWxqA7RYdOI5jMkKx95ziacdB46iwUAMUHgPIR3RDP3ENn5N9NIcjQ6\nUcgXbZJf5ghJKXOPgsY0rtJSUZ4vse1oSWe4HHZ1OzSoFMebIeoTIdZ81ycAE/PC\nyF5FB+NXqKEMbLjLaSqoi/KZk+m0mWPqZ659ngI3nR7rMJNLyCcZKoFTEy1tQFua\nLAVlcxrmqLBxAo5WqbnG\n=02Wq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJYDhmyAAoJEKmDSiJSB45OqQ0P/RwzM18BgimR9QK1hCr2nCfq\nxQPM69enWSNXJuRodpFrBP1IIAXQAbUNdITqWtFBHMrDSD/z6VRlxeEQtCZsQMxs\nH66IxRa+GPHVLgBeToVSEU3DpD8I5zpg9wwLZLu3WjdpNbFQQBvX/drAIFwy9KhK\ngdkTwVQ4JPVupWKZ9xqMWfhNMi2E0hQCnW2k3x1OcGcn3iUUsWTtzFNNVWM3Ktv4\nmQCLsTXmjJKWx3N3BBlolT1ovnZO7qodTgRlyNR+8MQx+0FPMK1LU7Qb/l6mT2+W\nqO9sF2ZmdR4DZ/LrcolCY4N4M5rvpJGwlemxxj7QsPQbg2wlYsE0Ljn+uWeFld3A\nJqckhOtUH6GK3jLHJPTOszMLwI8kp8l0jr+DNOcUjbeVEzUXgdD4Z9Er0tH7u4Xb\nHISTdOAQJkz0ACjyvzqWGr/32g/8wXAc0FzE6coPvZSDOh2J+xEsSLqBxve1B0Gm\nARpD0hIZ9GWxqA7RYdOI5jMkKx95ziacdB46iwUAMUHgPIR3RDP3ENn5N9NIcjQ6\nUcgXbZJf5ghJKXOPgsY0rtJSUZ4vse1oSWe4HHZ1OzSoFMebIeoTIdZ81ycAE/PC\nyF5FB+NXqKEMbLjLaSqoi/KZk+m0mWPqZ659ngI3nR7rMJNLyCcZKoFTEy1tQFua\nLAVlcxrmqLBxAo5WqbnG\n=02Wq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 61c7ee68bddeb1e66b491c3e1045c4f72b2cd6e3\ntype commit\ntag v13\ntagger Luca Bruno <luca.bruno@coreos.com> 1477319020 +0000\n\ngo-systemd v13\n\nSummary of changes in this release:\n * dbus: add additional tests for dbus methods\n * sdjournal: add GetUniqueValues\n * sdjournal: fix return values type\n * dbus/properties: add service type\n * doc: syntax highlight activation in README\n"
+  }
+}

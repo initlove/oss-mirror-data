@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI4MjEzMDM6MTFkYzQxODZlNDNhMTJiYzFkOTliZjM1ZjQxOWFmY2VkNWMxZDU1Yw==",
+  "sha": "11dc4186e43a12bc1d99bf35f419afced5c1d55c",
+  "url": "https://api.github.com/repos/coreos/go-systemd/git/tags/11dc4186e43a12bc1d99bf35f419afced5c1d55c",
+  "tagger": {
+    "name": "Brandon Philips",
+    "email": "brandon@ifup.co",
+    "date": "2014-05-21T18:14:39Z"
+  },
+  "object": {
+    "sha": "f743bc15d6bddd23662280b4ad20f7c874cdd5ad",
+    "type": "commit",
+    "url": "https://api.github.com/repos/coreos/go-systemd/git/commits/f743bc15d6bddd23662280b4ad20f7c874cdd5ad"
+  },
+  "tag": "v2",
+  "message": "v2\n\n- Add login1 package\n- Introduce dbus.LinkUnitFiles and dbus.DisableUnitFiles\n- Avoid double close in some cases\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.15 (Darwin)\n\niQIcBAABAgAGBQJTfO1gAAoJEBVDQyYFQt80k1oP/2v/NcSJCXZxj63sfVKh7Da0\nYYEGLdko+pwMom6oEKlluGIFm46V8xXHiCoGSAqP9Jgo5QlMF18gf/rPTPphP4Qy\nUgwNdIs6OIWjGzWYZR9Q/KTrq9Llni6oPQ4D+9KHTbMBMcOcalrrS5uvMrPuuF4R\n8JIsIMy1fwKb+aT59U7W5hT1t79e9a7Udi5xa9RbUKChh78CbsJC+Sydd3H0QKjN\nyfXSSHk3QbaC52JV/GjweETs+0mNItQ0s3L4LtlBLdi4gdLiafKo5SUkPwYf1Vdl\nleqs/s9ms5/V3MtbPRtrhBG3thgKxZJABw5tixgujuB+qgroS9iKmfteqAX9mp4w\nKgnpU+zwoZ00m8mXo8qJa41eQzeklJVQCq2x42qZinBXBCQt2stuA7QKGwDis1gx\nWSvxSiBCO5o3BkpuxyTFQbPKz1hE2HraWnGO3ndDmK4wnBGpQikPNJzMJXjis7wH\neoHYjpFr1zhknH+DTUlcqZW9Ugp+IztaDQoYjADFX7OqvK4Nsmb4eO9Y9jGbCroU\nAu179cctHrj3bBUueMjNIGX9CLfrU9290rnvmB+OJXBArc33MJ+0G5O/ahzsde2R\nYNt4G3578P9RVJWUFybGcrTZX9Qcv1LFxXrkhLqO/vMLSxxv4yKqAfd+oHxqYGkr\ntALDAJY69S68wqMyMox9\n=vlLi\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.15 (Darwin)\n\niQIcBAABAgAGBQJTfO1gAAoJEBVDQyYFQt80k1oP/2v/NcSJCXZxj63sfVKh7Da0\nYYEGLdko+pwMom6oEKlluGIFm46V8xXHiCoGSAqP9Jgo5QlMF18gf/rPTPphP4Qy\nUgwNdIs6OIWjGzWYZR9Q/KTrq9Llni6oPQ4D+9KHTbMBMcOcalrrS5uvMrPuuF4R\n8JIsIMy1fwKb+aT59U7W5hT1t79e9a7Udi5xa9RbUKChh78CbsJC+Sydd3H0QKjN\nyfXSSHk3QbaC52JV/GjweETs+0mNItQ0s3L4LtlBLdi4gdLiafKo5SUkPwYf1Vdl\nleqs/s9ms5/V3MtbPRtrhBG3thgKxZJABw5tixgujuB+qgroS9iKmfteqAX9mp4w\nKgnpU+zwoZ00m8mXo8qJa41eQzeklJVQCq2x42qZinBXBCQt2stuA7QKGwDis1gx\nWSvxSiBCO5o3BkpuxyTFQbPKz1hE2HraWnGO3ndDmK4wnBGpQikPNJzMJXjis7wH\neoHYjpFr1zhknH+DTUlcqZW9Ugp+IztaDQoYjADFX7OqvK4Nsmb4eO9Y9jGbCroU\nAu179cctHrj3bBUueMjNIGX9CLfrU9290rnvmB+OJXBArc33MJ+0G5O/ahzsde2R\nYNt4G3578P9RVJWUFybGcrTZX9Qcv1LFxXrkhLqO/vMLSxxv4yKqAfd+oHxqYGkr\ntALDAJY69S68wqMyMox9\n=vlLi\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f743bc15d6bddd23662280b4ad20f7c874cdd5ad\ntype commit\ntag v2\ntagger Brandon Philips <brandon@ifup.co> 1400696079 -0700\n\nv2\n\n- Add login1 package\n- Introduce dbus.LinkUnitFiles and dbus.DisableUnitFiles\n- Avoid double close in some cases\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY0MjczNToxYWFmOWY3YjJhYjU3NWYzNjE1NTNjNWRhODc5MjY4MDMzMGYxZGM2",
+  "sha": "1aaf9f7b2ab575f361553c5da8792680330f1dc6",
+  "url": "https://api.github.com/repos/openstack/ceilometer/git/tags/1aaf9f7b2ab575f361553c5da8792680330f1dc6",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-01-09T15:54:36Z"
+  },
+  "object": {
+    "sha": "f1689396845f3e551cb94d4f8e14ff0a3be884aa",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ceilometer/git/commits/f1689396845f3e551cb94d4f8e14ff0a3be884aa"
+  },
+  "tag": "9.0.4",
+  "message": "ceilometer 9.0.4 release\n\nmeta:version: 9.0.4\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: gord chung <gord@live.ca>\nmeta:release:Commit: gord chung <gord@live.ca>\nmeta:release:Change-Id: I84249994dc22ae9563496eeead2d86efc3be8171\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaVOW8AAoJEEIeZHKBH5qB8x0H/R/dzytGm+qLg/veo28SrCtI\nx3uDeJYW/rlbsLzD9vyjK/e+xBm0N8XWJ/gFL1ViFHtgX9xLW4tnCbOdRbJi6osl\npEkycLDRhIJIoMEOLujFKQCTx5vWY+iwJO4tKqr+5Vy1GLRHglQmKM4xDq4X0oTD\nz5GgGDRwW0H2q6X/teaIY8t2xglpNLsXMlLlhceCJvheH6/EFACm0n61GIa+EssH\nKx3t1MtUMhRj5EDXSrRi3tS2WEejQjLuNPwXk2GXKGqwr1+NwxKiOYcM+XiB1bRM\nWL+4/lGPq4ssZQQeUfIAIgx4TplphWP4wOFKHzMdSij2rI/QkG7WbFbrf0dQojU=\n=xLoO\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaVOW8AAoJEEIeZHKBH5qB8x0H/R/dzytGm+qLg/veo28SrCtI\nx3uDeJYW/rlbsLzD9vyjK/e+xBm0N8XWJ/gFL1ViFHtgX9xLW4tnCbOdRbJi6osl\npEkycLDRhIJIoMEOLujFKQCTx5vWY+iwJO4tKqr+5Vy1GLRHglQmKM4xDq4X0oTD\nz5GgGDRwW0H2q6X/teaIY8t2xglpNLsXMlLlhceCJvheH6/EFACm0n61GIa+EssH\nKx3t1MtUMhRj5EDXSrRi3tS2WEejQjLuNPwXk2GXKGqwr1+NwxKiOYcM+XiB1bRM\nWL+4/lGPq4ssZQQeUfIAIgx4TplphWP4wOFKHzMdSij2rI/QkG7WbFbrf0dQojU=\n=xLoO\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f1689396845f3e551cb94d4f8e14ff0a3be884aa\ntype commit\ntag 9.0.4\ntagger OpenStack Release Bot <infra-root@openstack.org> 1515513276 +0000\n\nceilometer 9.0.4 release\n\nmeta:version: 9.0.4\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: gord chung <gord@live.ca>\nmeta:release:Commit: gord chung <gord@live.ca>\nmeta:release:Change-Id: I84249994dc22ae9563496eeead2d86efc3be8171\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

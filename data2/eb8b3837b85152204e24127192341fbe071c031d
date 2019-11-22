@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzYyNTE4MjY6ZWI4YjM4MzdiODUxNTIyMDRlMjQxMjcxOTIzNDFmYmUwNzFjMDMxZA==",
+  "sha": "eb8b3837b85152204e24127192341fbe071c031d",
+  "url": "https://api.github.com/repos/supasate/connected-react-router/git/tags/eb8b3837b85152204e24127192341fbe071c031d",
+  "tagger": {
+    "name": "Supasate Choochaisri",
+    "email": "supasate.c@gmail.com",
+    "date": "2019-04-14T22:36:53Z"
+  },
+  "object": {
+    "sha": "273112d533acce98bcbfaa8798e854d2ad518e97",
+    "type": "commit",
+    "url": "https://api.github.com/repos/supasate/connected-react-router/git/commits/273112d533acce98bcbfaa8798e854d2ad518e97"
+  },
+  "tag": "v6.4.0",
+  "message": "v6.4.0\n\nEnchancements\n------------\n- Add support for react-router@5.0.0 (@cmfcmf in #273)\n\nFixes\n--\n- Upgrade jest to fix travis error (@supasate)\n- [TypeScript] add isFirstRendering property to RouterState interface (@TetsuyaNegishi in #276)\n- Fix code format (@siosio34 in #289)\n- Move prop-types from peerDependencies into dependencies (@cmfcmf in #281)\n\nDocumentation\n-------------\n- Note on removing BrowserRouter and NativeRouter (@AJamesPhillipsin in #277)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

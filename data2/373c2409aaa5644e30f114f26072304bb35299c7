@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDozNzNjMjQwOWFhYTU2NDRlMzBmMTE0ZjI2MDcyMzA0YmIzNTI5OWM3",
+  "sha": "373c2409aaa5644e30f114f26072304bb35299c7",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/373c2409aaa5644e30f114f26072304bb35299c7",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-04T08:51:47Z"
+  },
+  "object": {
+    "sha": "47726fb3ad104698327e40efb94b088d311ce543",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/47726fb3ad104698327e40efb94b088d311ce543"
+  },
+  "tag": "14.0.2",
+  "message": "cinder 14.0.2 release\n\nmeta:version: 14.0.2\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: If95ba4c49dd6e6baddf7a4aaf9fa6d506540cc49\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2XCCMZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2IuhDACVw/4obEk0UwBYq9iHcbFN\nUD74vR7YDLGlShogv+tw/Fu2lykqNAdYz6/PnJTenXJjwLXB+T9jvPAmPPMyF1u+\nbkKTG4KyL3Kh1DSNqI7Vo8Uz6HJFTY2bb6/sdciJHMolWQbAabtiYd7OnfT3v6YD\nRlgvvXv9azVG6zdd2xSHKeb3V3C7G7uVNhkwbVuLrax5ZjwmNN51XBFM6HY5s+KQ\nkXj1mi4qLKJWom6XlQPDyBydDy0eVZIFGhyHaamLtIjcDHkJMEmo5kBwG5O9kMr/\ngPxAQmyGWiAi9k+fM9o+LswpWd3DPrqXG5qIXSkURJmqnQ/FEevMJ/qa14R6e6J4\nclGHExhosa1sNyR9cOQR4By88Z0nbBzlT073orWpzIpJEo0hXKER8G9DCwCP8NZ/\nwkLiwJyn6ZOSo8g1H2Vs4S6vo8ikAx7e1aqW7wFHQWniN9A8/F3t4MXw6LvizMdT\ngqXZrUf6hE5VTH4sxJmHHN5cGe2GE2WWQ+JN8TnpG44=\n=Hbqs\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2XCCMZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2IuhDACVw/4obEk0UwBYq9iHcbFN\nUD74vR7YDLGlShogv+tw/Fu2lykqNAdYz6/PnJTenXJjwLXB+T9jvPAmPPMyF1u+\nbkKTG4KyL3Kh1DSNqI7Vo8Uz6HJFTY2bb6/sdciJHMolWQbAabtiYd7OnfT3v6YD\nRlgvvXv9azVG6zdd2xSHKeb3V3C7G7uVNhkwbVuLrax5ZjwmNN51XBFM6HY5s+KQ\nkXj1mi4qLKJWom6XlQPDyBydDy0eVZIFGhyHaamLtIjcDHkJMEmo5kBwG5O9kMr/\ngPxAQmyGWiAi9k+fM9o+LswpWd3DPrqXG5qIXSkURJmqnQ/FEevMJ/qa14R6e6J4\nclGHExhosa1sNyR9cOQR4By88Z0nbBzlT073orWpzIpJEo0hXKER8G9DCwCP8NZ/\nwkLiwJyn6ZOSo8g1H2Vs4S6vo8ikAx7e1aqW7wFHQWniN9A8/F3t4MXw6LvizMdT\ngqXZrUf6hE5VTH4sxJmHHN5cGe2GE2WWQ+JN8TnpG44=\n=Hbqs\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 47726fb3ad104698327e40efb94b088d311ce543\ntype commit\ntag 14.0.2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1570179107 +0000\n\ncinder 14.0.2 release\n\nmeta:version: 14.0.2\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: If95ba4c49dd6e6baddf7a4aaf9fa6d506540cc49\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\n"
+  }
+}

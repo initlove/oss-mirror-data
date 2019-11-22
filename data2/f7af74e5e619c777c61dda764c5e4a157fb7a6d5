@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc1NTQ4MDI6ZjdhZjc0ZTVlNjE5Yzc3N2M2MWRkYTc2NGM1ZTRhMTU3ZmI3YTZkNQ==",
+  "sha": "f7af74e5e619c777c61dda764c5e4a157fb7a6d5",
+  "url": "https://api.github.com/repos/openstack/castellan/git/tags/f7af74e5e619c777c61dda764c5e4a157fb7a6d5",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-07-10T20:09:00Z"
+  },
+  "object": {
+    "sha": "54b1b52533efa255852f342342b2fdc33b5c3a4e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/castellan/git/commits/54b1b52533efa255852f342342b2fdc33b5c3a4e"
+  },
+  "tag": "0.11.1",
+  "message": "castellan 0.11.1 release\n\nmeta:version: 0.11.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: I7f5c51c16b586e1a0057613c380e5cdd7f920841\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZY97cAAoJEOtsyhSD+nTsvyQH/jWt31NmPFMX1lKe7jOwUKwn\nXI1rJLUaicylmAQDmwKrg+HycmsM7zryitSwI7J/ZILBO89rzXWcd7g0XPJgCdXG\nc+sVov2+zdFvmog8CuF6mdbMRgW9njmZBRqjLVwjCVhn5OXRkmuxX9aTSK95KDOo\nzcMDJCgbQ67wPuCRojw1zoHir/rFtPcJaAAa7zQ1shz5BJk8RVBcpe1R+hFxz03A\nkU6YQNudReB/eVGKJRojgpjjDQ2UJF7NGDl1Alvt5CnTVkWNeNWC0QqCue8kSwxK\nwzUliyGEaGGL4I05uA/UJxC9A+UEd0ZfTcqTI8zAuduotcqHw04KpEfPGoe16r8=\n=kw7I\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZY97cAAoJEOtsyhSD+nTsvyQH/jWt31NmPFMX1lKe7jOwUKwn\nXI1rJLUaicylmAQDmwKrg+HycmsM7zryitSwI7J/ZILBO89rzXWcd7g0XPJgCdXG\nc+sVov2+zdFvmog8CuF6mdbMRgW9njmZBRqjLVwjCVhn5OXRkmuxX9aTSK95KDOo\nzcMDJCgbQ67wPuCRojw1zoHir/rFtPcJaAAa7zQ1shz5BJk8RVBcpe1R+hFxz03A\nkU6YQNudReB/eVGKJRojgpjjDQ2UJF7NGDl1Alvt5CnTVkWNeNWC0QqCue8kSwxK\nwzUliyGEaGGL4I05uA/UJxC9A+UEd0ZfTcqTI8zAuduotcqHw04KpEfPGoe16r8=\n=kw7I\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 54b1b52533efa255852f342342b2fdc33b5c3a4e\ntype commit\ntag 0.11.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1499717340 +0000\n\ncastellan 0.11.1 release\n\nmeta:version: 0.11.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: I7f5c51c16b586e1a0057613c380e5cdd7f920841\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

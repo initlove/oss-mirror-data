@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6MzdiOWNlNTY4NzY0YzE4NjMwY2EzZGZmMTEzNzBkYzQzYjc5NmIxMg==",
+  "sha": "37b9ce568764c18630ca3dff11370dc43b796b12",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/37b9ce568764c18630ca3dff11370dc43b796b12",
+  "tagger": {
+    "name": "Stephen J Day",
+    "email": "stephen.day@docker.com",
+    "date": "2015-04-16T06:36:04Z"
+  },
+  "object": {
+    "sha": "c5183a446bfe2284b3e564058ce3a0becd3d0ccf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/c5183a446bfe2284b3e564058ce3a0becd3d0ccf"
+  },
+  "tag": "v2.0.0-rc.4",
+  "message": "v2.0.0-rc.4: Optional resumable digest, logging adjustments, documentation\n\nA build flag is now avialable to disable resumable digest support. This allows\ninstallations that cannot use the forked crypto library to revert to using Go's\nstdlib. Several fixes have been made to contextual logging output, including\nensuring accurate http response status, authorized user name and correct output\nof the version.\n\nThe documentation continues to be shaped and massaged.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVL1jzAAoJEPtfaykF1+zzHl4P/3tM0Hp40wI4/NaUKhCAhsAR\nSRfDKHB65fklxOIR3h9aD3whFqE2+qyODk5D4sBCPQ6xi8XyYO1U7oJbe3jnor7p\nOY5E61PKY8cXtSDAW9dLUphv1u71uL+Q6Ga8IwjsYDlndyEFfo0EwBTtR7zjA3AO\nev3fhCBFkMn/10CjDUQfNN/IU/PI7JIYjBPJmBMF3k3Rg3MtFNunYU1XVCvVtqTG\n0L9FItQo9DPU9WoSf2TgfqTWm2bSI7NIHXMzL6JQj+tuKnjANqRpm1J1j0kqi8os\nQe4jjI3HDdGlN6gyzFjrf9QPTs6VsfuTnI6iEl+WsDkS6rDaholTA/z7GUBGMnMj\n4YxF0J98I6e/ywFfFezzTOT86L49FYYGIMHqLU9KUeyM5xWHR9Zv1yK8XvSsdfTG\nQPiqr4Ht13xs/QayUiTweNH8WJ/ld4VZQQxCjRRzrb4YDwPk60H7r5huWKxSfuTQ\nXAY0w8Z/IaIwe/qCo0PqHtaN7Gupbo5PWnafKlHU9Oip8O8gPANTGzuarTbj5epq\nOMC33uFs4OCnUa5hpTDp/hdBzxuz69z5adefb20Za103bx3w5pzV+0mrGwIThjv4\nEmGX5Rcnjq5AFAQPBDDPIF9UvKijANO5g95T0V82yVaGS6BzBEMhnyRz2c2CIbWi\necrJYQpsfzjucJUtk185\n=VZdC\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVL1jzAAoJEPtfaykF1+zzHl4P/3tM0Hp40wI4/NaUKhCAhsAR\nSRfDKHB65fklxOIR3h9aD3whFqE2+qyODk5D4sBCPQ6xi8XyYO1U7oJbe3jnor7p\nOY5E61PKY8cXtSDAW9dLUphv1u71uL+Q6Ga8IwjsYDlndyEFfo0EwBTtR7zjA3AO\nev3fhCBFkMn/10CjDUQfNN/IU/PI7JIYjBPJmBMF3k3Rg3MtFNunYU1XVCvVtqTG\n0L9FItQo9DPU9WoSf2TgfqTWm2bSI7NIHXMzL6JQj+tuKnjANqRpm1J1j0kqi8os\nQe4jjI3HDdGlN6gyzFjrf9QPTs6VsfuTnI6iEl+WsDkS6rDaholTA/z7GUBGMnMj\n4YxF0J98I6e/ywFfFezzTOT86L49FYYGIMHqLU9KUeyM5xWHR9Zv1yK8XvSsdfTG\nQPiqr4Ht13xs/QayUiTweNH8WJ/ld4VZQQxCjRRzrb4YDwPk60H7r5huWKxSfuTQ\nXAY0w8Z/IaIwe/qCo0PqHtaN7Gupbo5PWnafKlHU9Oip8O8gPANTGzuarTbj5epq\nOMC33uFs4OCnUa5hpTDp/hdBzxuz69z5adefb20Za103bx3w5pzV+0mrGwIThjv4\nEmGX5Rcnjq5AFAQPBDDPIF9UvKijANO5g95T0V82yVaGS6BzBEMhnyRz2c2CIbWi\necrJYQpsfzjucJUtk185\n=VZdC\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c5183a446bfe2284b3e564058ce3a0becd3d0ccf\ntype commit\ntag v2.0.0-rc.4\ntagger Stephen J Day <stephen.day@docker.com> 1429166164 -0700\n\nv2.0.0-rc.4: Optional resumable digest, logging adjustments, documentation\n\nA build flag is now avialable to disable resumable digest support. This allows\ninstallations that cannot use the forked crypto library to revert to using Go's\nstdlib. Several fixes have been made to contextual logging output, including\nensuring accurate http response status, authorized user name and correct output\nof the version.\n\nThe documentation continues to be shaped and massaged.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6OWVjNzhlN2NkNTM3MzFiYzUwNTJlOTEzMDZhZDg5ZjY2MTcxZDU0Yw==",
+  "sha": "9ec78e7cd53731bc5052e91306ad89f66171d54c",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/9ec78e7cd53731bc5052e91306ad89f66171d54c",
+  "tagger": {
+    "name": "Richard Scothern",
+    "email": "richard.scothern@gmail.com",
+    "date": "2016-01-11T22:52:41Z"
+  },
+  "object": {
+    "sha": "39ff320b8297a6bfcbdf5ecb53dc83b22a4c19c2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/39ff320b8297a6bfcbdf5ecb53dc83b22a4c19c2"
+  },
+  "tag": "v2.3.0-alpha",
+  "message": "Docker Registry v2.3 alpha release with support for multiple architectures\nand cross repository blob mounting.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWlDJWAAoJEPfQDq9vNVAK3iYH/1RGyQU3nS8lOVJQNPTiyy1x\nglyRpnMYBk1vakwzk4Ues47D14l0c0UgG+KXTfYotupfx9dfYyqP6Hu30UMu7fj9\nQ3zgici5nSCdD1bFlGoZefKOz9MUskM+ntl1aIRD7WgH/H6x/N1bTt3Iv7/a57Rq\nop6YoGM0nUOmMhuu5tac8DL7adSjSL02yz4DCrMu5jlyBJLAG7t8y3gFibQdPzMv\nUXSDJItFRaY89TsIBJDIv/KRlaF38huqW1We11/FS5rNd5ubxvHM1nC6F+igeg+t\nwwPoxUe4qLFtgyjH+n6B3ZSBDtUk5nWlFbBtLrt8pAt6F3BeAs1HH+p6Rdfu5wM=\n=LC59\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWlDJWAAoJEPfQDq9vNVAK3iYH/1RGyQU3nS8lOVJQNPTiyy1x\nglyRpnMYBk1vakwzk4Ues47D14l0c0UgG+KXTfYotupfx9dfYyqP6Hu30UMu7fj9\nQ3zgici5nSCdD1bFlGoZefKOz9MUskM+ntl1aIRD7WgH/H6x/N1bTt3Iv7/a57Rq\nop6YoGM0nUOmMhuu5tac8DL7adSjSL02yz4DCrMu5jlyBJLAG7t8y3gFibQdPzMv\nUXSDJItFRaY89TsIBJDIv/KRlaF38huqW1We11/FS5rNd5ubxvHM1nC6F+igeg+t\nwwPoxUe4qLFtgyjH+n6B3ZSBDtUk5nWlFbBtLrt8pAt6F3BeAs1HH+p6Rdfu5wM=\n=LC59\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 39ff320b8297a6bfcbdf5ecb53dc83b22a4c19c2\ntype commit\ntag v2.3.0-alpha\ntagger Richard Scothern <richard.scothern@gmail.com> 1452552761 -0800\n\nDocker Registry v2.3 alpha release with support for multiple architectures\nand cross repository blob mounting.\n"
+  }
+}

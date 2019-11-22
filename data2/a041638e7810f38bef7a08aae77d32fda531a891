@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMDUxOmEwNDE2MzhlNzgxMGYzOGJlZjdhMDhhYWU3N2QzMmZkYTUzMWE4OTE=",
+  "sha": "a041638e7810f38bef7a08aae77d32fda531a891",
+  "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/tags/a041638e7810f38bef7a08aae77d32fda531a891",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2017-03-31T14:22:21Z"
+  },
+  "object": {
+    "sha": "404da098170218efb53954665996b284e3b2513e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/commits/404da098170218efb53954665996b284e3b2513e"
+  },
+  "tag": "v8.9.11",
+  "message": "8.9.11\n--------\n * better integration of drbd-proxy in drbd9 scenarios\n * OCF resource agent and crm-fence-peer for drbd9\n * introduce quorum support\n * expose information if node is intentionally diskless\n * do not set peer-device-options twice\n * various JSON output fixes\n * udev fixes for newer ubuntu releases\n * set bitmap to 0 on metadata creation\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAljeZi0ACgkQabsdXACqiTN4mQCgqRR9XhvF2oQ0/D96PE0Vxi/h\n+YAAn0KC3qPODRgFSgOFtv0EhnIkBh93\n=ptHT\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAljeZi0ACgkQabsdXACqiTN4mQCgqRR9XhvF2oQ0/D96PE0Vxi/h\n+YAAn0KC3qPODRgFSgOFtv0EhnIkBh93\n=ptHT\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 404da098170218efb53954665996b284e3b2513e\ntype commit\ntag v8.9.11\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1490970141 +0200\n\n8.9.11\n--------\n * better integration of drbd-proxy in drbd9 scenarios\n * OCF resource agent and crm-fence-peer for drbd9\n * introduce quorum support\n * expose information if node is intentionally diskless\n * do not set peer-device-options twice\n * various JSON output fixes\n * udev fixes for newer ubuntu releases\n * set bitmap to 0 on metadata creation\n"
+  }
+}

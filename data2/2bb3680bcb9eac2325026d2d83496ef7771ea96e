@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDoyYmIzNjgwYmNiOWVhYzIzMjUwMjZkMmQ4MzQ5NmVmNzc3MWVhOTZl",
+  "sha": "2bb3680bcb9eac2325026d2d83496ef7771ea96e",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/2bb3680bcb9eac2325026d2d83496ef7771ea96e",
+  "tagger": {
+    "name": "Thierry Carrez",
+    "email": "thierry@openstack.org",
+    "date": "2016-09-02T07:28:16Z"
+  },
+  "object": {
+    "sha": "b4ef69d8ff08bb670ecb2514768a0fd2d05d5a20",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/b4ef69d8ff08bb670ecb2514768a0fd2d05d5a20"
+  },
+  "tag": "9.0.0.0b3",
+  "message": "cinder 9.0.0.0b3 development milestone\n\nmeta:version: 9.0.0.0b3\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: development milestone\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Commit: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Change-Id: Ib711796b983a997ba9a879cb9758b3ad435f5194\nmeta:release:Code-Review+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXySoRAAoJEFB6+JAlsQQjoLUQAL/zDahvGxL+/Dx8oi0df+Tu\nn5M3x8h7rnSNDlBiOQi/4khjTi1hUKgO8u86xTK1moAASvE5rw/cT/JFErl3Tn7Q\n/vpXFCK2TwHQ1wjQC/6tIQ9NOmRwiK1s5DMSMi8yW+qSgXmhfyuNp3IaG5FW1Mvi\nqmPWSQ+ZzBm5ntSAwvu6oF2RcdIfFOMDnQ3KJDeZI7QBjTLNzPME/llak/7sjz/o\nUKvk7auLozuBpDvyuk2aKfI5bEqxpRi+UA+zkatHHialqyizjHOMLi15KaetBzve\neE4uj+PEd1jYH3dfyaXAXHvyhx7QgwK8yC3ONWmldhZykO2u4zVWq9nf0xO8VdBM\nfCSB3qmJGpIe8ZfnH/6nDI89DMl+Z/pXHq+Qtgb6uvLEHs9aS901YaQRPs7KeWen\nZ6hbhl3RPSVrGl+BmSRdmYihMW5BWbUTfPq77hR2bpFhoIi82NqzAd0gU3dE3UYp\nmbxDgKPgqQZc3mlD7XfHzOEB64ZdwYBQecOC6fvMOa/UIClXMIkr03+mD2FGLaju\nKZe5Ba8myMkITdIOyE3AH0YguaJ/SePoQJQBU2et+NrLzs3KSQbSncyPRsYvrxnF\nP0Qgs1QJWbpQJUuh+raNanMI/5cUXQ7ubAMxBZbJxh/k/lC6PI+yfUgVVdBT5tLA\n2fbDtPj+TRa+cRQkuDqI\n=tuP+\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXySoRAAoJEFB6+JAlsQQjoLUQAL/zDahvGxL+/Dx8oi0df+Tu\nn5M3x8h7rnSNDlBiOQi/4khjTi1hUKgO8u86xTK1moAASvE5rw/cT/JFErl3Tn7Q\n/vpXFCK2TwHQ1wjQC/6tIQ9NOmRwiK1s5DMSMi8yW+qSgXmhfyuNp3IaG5FW1Mvi\nqmPWSQ+ZzBm5ntSAwvu6oF2RcdIfFOMDnQ3KJDeZI7QBjTLNzPME/llak/7sjz/o\nUKvk7auLozuBpDvyuk2aKfI5bEqxpRi+UA+zkatHHialqyizjHOMLi15KaetBzve\neE4uj+PEd1jYH3dfyaXAXHvyhx7QgwK8yC3ONWmldhZykO2u4zVWq9nf0xO8VdBM\nfCSB3qmJGpIe8ZfnH/6nDI89DMl+Z/pXHq+Qtgb6uvLEHs9aS901YaQRPs7KeWen\nZ6hbhl3RPSVrGl+BmSRdmYihMW5BWbUTfPq77hR2bpFhoIi82NqzAd0gU3dE3UYp\nmbxDgKPgqQZc3mlD7XfHzOEB64ZdwYBQecOC6fvMOa/UIClXMIkr03+mD2FGLaju\nKZe5Ba8myMkITdIOyE3AH0YguaJ/SePoQJQBU2et+NrLzs3KSQbSncyPRsYvrxnF\nP0Qgs1QJWbpQJUuh+raNanMI/5cUXQ7ubAMxBZbJxh/k/lC6PI+yfUgVVdBT5tLA\n2fbDtPj+TRa+cRQkuDqI\n=tuP+\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b4ef69d8ff08bb670ecb2514768a0fd2d05d5a20\ntype commit\ntag 9.0.0.0b3\ntagger Thierry Carrez <thierry@openstack.org> 1472801296 +0200\n\ncinder 9.0.0.0b3 development milestone\n\nmeta:version: 9.0.0.0b3\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: development milestone\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Commit: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Change-Id: Ib711796b983a997ba9a879cb9758b3ad435f5194\nmeta:release:Code-Review+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

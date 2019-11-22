@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMDUxOjVlYjFlZTNmOWI1MWU3ZmE0ZjFkNDNkMDg5MmUwYzQwYTIyNjRiNDQ=",
+  "sha": "5eb1ee3f9b51e7fa4f1d43d0892e0c40a2264b44",
+  "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/tags/5eb1ee3f9b51e7fa4f1d43d0892e0c40a2264b44",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2015-09-18T14:37:43Z"
+  },
+  "object": {
+    "sha": "45af4453583f22674c7eb2def9fafc20c54e62e0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/commits/45af4453583f22674c7eb2def9fafc20c54e62e0"
+  },
+  "tag": "v8.9.4",
+  "message": "8.9.4\n--------\n  * Add an autoconf switch for building without man pages\n  * Fix compatibility with the musl C library\n  * Introduce the concept of paths within a connection to the config file;\n    add support for paths to drbdadm adjust\n  * Allow multiple connection-mesh statements within one resource\n  * Document peer-device-options on the drbd-9.0 man pages\n  * increase the lower boundary for al-extents from 7 to 67; drbdadm clamps\n    al-extents to 67 implicitly if you configures something lower than 67\n  * Document the events2 command on the drbd-8.4 man page\n  * Fix environment variables for handlers\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBV/CHgabsdXACqiTMRAqW8AJ9EKt3UcCmWVe/WSUkflMnZ9b7XQwCfQEWW\njiA6qiRsDN50D6FMLtlLvlk=\n=1Hja\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBV/CHgabsdXACqiTMRAqW8AJ9EKt3UcCmWVe/WSUkflMnZ9b7XQwCfQEWW\njiA6qiRsDN50D6FMLtlLvlk=\n=1Hja\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 45af4453583f22674c7eb2def9fafc20c54e62e0\ntype commit\ntag v8.9.4\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1442587063 +0200\n\n8.9.4\n--------\n  * Add an autoconf switch for building without man pages\n  * Fix compatibility with the musl C library\n  * Introduce the concept of paths within a connection to the config file;\n    add support for paths to drbdadm adjust\n  * Allow multiple connection-mesh statements within one resource\n  * Document peer-device-options on the drbd-9.0 man pages\n  * increase the lower boundary for al-extents from 7 to 67; drbdadm clamps\n    al-extents to 67 implicitly if you configures something lower than 67\n  * Document the events2 command on the drbd-8.4 man page\n  * Fix environment variables for handlers\n"
+  }
+}

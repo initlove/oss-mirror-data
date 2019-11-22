@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI4MjEzMDM6N2RlOWVkZGZkYjM2NjhlZmIwMzJjNGU4MTdjYTY1Y2RkYjAxODE0MA==",
+  "sha": "7de9eddfdb3668efb032c4e817ca65cddb018140",
+  "url": "https://api.github.com/repos/coreos/go-systemd/git/tags/7de9eddfdb3668efb032c4e817ca65cddb018140",
+  "tagger": {
+    "name": "Luca Bruno",
+    "email": "luca.bruno@coreos.com",
+    "date": "2016-07-22T17:15:01Z"
+  },
+  "object": {
+    "sha": "d6c05a1dcbb5ac02b7653da4d99e5db340c20778",
+    "type": "commit",
+    "url": "https://api.github.com/repos/coreos/go-systemd/git/commits/d6c05a1dcbb5ac02b7653da4d99e5db340c20778"
+  },
+  "tag": "v11",
+  "message": "go-systemd v11\n\nBreaking changes:\n * daemon: improve SdNotify errors signaling\n   (changed return type)\n\nOther changes in this release:\n * sdjournal: fix an implicit seek to head\n * sdjournal: add GetDataBytes() and GetDataValueBytes() to Journal\n * multiple testsuite fixes\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXklYbAAoJEKmDSiJSB45OddsP/3Zy30vhrtTnF6AFj5olNPYx\nKtXe4CO4/8wBKhAaB10AWo3lEyKCdndm30qh7KbCclS9rlgDk9bovqvBqG0QVYWs\nKnT9kJYpYNY6e4VdL/WDj6jQ9QBUTXpOREsYwVZyGg46P0srIiOCMRClAwljLaJW\nJ/cY95CX3uv+ZP284ZWF5IsqInWM9J5G8DC/Cl/nhUM7KyeebibaDHNQbfx98/nk\ndt0tTfHc57IlNOoBsD6M18DNZLALV2mOCuxpxindAsbHXhA+fsypomzJ1bHPI+mX\nPPR9wwbVCojknFXGQbdbP6WO7rE+i3uAQvugMi68jZ/xLehnFSAry8h3zoBExiwA\nK6BjX26Cu/ydGGSYreUsasOHz/OnWkDlHSir8aRrW6tZP4M8r9yiAbI9xI2rD1Ss\ny6aI2HD3quh53W/t5/wF+mIuKoTumIbHfKhdUOq9nBpuP58y/EWAAfquO6/kgVro\na7L24kB/zkK4Irj+KcBUX/x2o45DC2/vxSWkwPGKWJ/wKnzF1oSYZbAnEW58fMXL\n1m+BoIenY34k3jsYm3TxCN9xuldvzq1Bw1scndrzVCMfaZaokMLXT5Wz2xQUsOKI\ngPiCOtRuT2WCaNsEqHZ2M57B3lG/vGrix1LwgTzSMjSM2JBKVn1hpExz1+KMXXHV\nxogq5pkDlvEHlifY6rDi\n=yb9U\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXklYbAAoJEKmDSiJSB45OddsP/3Zy30vhrtTnF6AFj5olNPYx\nKtXe4CO4/8wBKhAaB10AWo3lEyKCdndm30qh7KbCclS9rlgDk9bovqvBqG0QVYWs\nKnT9kJYpYNY6e4VdL/WDj6jQ9QBUTXpOREsYwVZyGg46P0srIiOCMRClAwljLaJW\nJ/cY95CX3uv+ZP284ZWF5IsqInWM9J5G8DC/Cl/nhUM7KyeebibaDHNQbfx98/nk\ndt0tTfHc57IlNOoBsD6M18DNZLALV2mOCuxpxindAsbHXhA+fsypomzJ1bHPI+mX\nPPR9wwbVCojknFXGQbdbP6WO7rE+i3uAQvugMi68jZ/xLehnFSAry8h3zoBExiwA\nK6BjX26Cu/ydGGSYreUsasOHz/OnWkDlHSir8aRrW6tZP4M8r9yiAbI9xI2rD1Ss\ny6aI2HD3quh53W/t5/wF+mIuKoTumIbHfKhdUOq9nBpuP58y/EWAAfquO6/kgVro\na7L24kB/zkK4Irj+KcBUX/x2o45DC2/vxSWkwPGKWJ/wKnzF1oSYZbAnEW58fMXL\n1m+BoIenY34k3jsYm3TxCN9xuldvzq1Bw1scndrzVCMfaZaokMLXT5Wz2xQUsOKI\ngPiCOtRuT2WCaNsEqHZ2M57B3lG/vGrix1LwgTzSMjSM2JBKVn1hpExz1+KMXXHV\nxogq5pkDlvEHlifY6rDi\n=yb9U\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d6c05a1dcbb5ac02b7653da4d99e5db340c20778\ntype commit\ntag v11\ntagger Luca Bruno <luca.bruno@coreos.com> 1469207701 +0000\n\ngo-systemd v11\n\nBreaking changes:\n * daemon: improve SdNotify errors signaling\n   (changed return type)\n\nOther changes in this release:\n * sdjournal: fix an implicit seek to head\n * sdjournal: add GetDataBytes() and GetDataValueBytes() to Journal\n * multiple testsuite fixes\n"
+  }
+}

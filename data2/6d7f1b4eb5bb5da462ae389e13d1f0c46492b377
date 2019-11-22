@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6NmQ3ZjFiNGViNWJiNWRhNDYyYWUzODllMTNkMWYwYzQ2NDkyYjM3Nw==",
+  "sha": "6d7f1b4eb5bb5da462ae389e13d1f0c46492b377",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/6d7f1b4eb5bb5da462ae389e13d1f0c46492b377",
+  "tagger": {
+    "name": "Derek McGowan",
+    "email": "derek@mcgstyle.net",
+    "date": "2017-03-21T18:49:45Z"
+  },
+  "object": {
+    "sha": "74278cdaa6f5fd10e3b1995aebe62c98cad634f1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/74278cdaa6f5fd10e3b1995aebe62c98cad634f1"
+  },
+  "tag": "v2.6.1-rc.1",
+  "message": "Docker Registry 2.6.1-rc.1\n\nRegistry\n- Fix `Forwarded` header handling, revert use of `X-Forwarded-Port`\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJY0XYTAAoJEPWMXQpEBazbKpAQAKeRWi+FL+7U8gWHfVZVTS9v\nNhA5ELllfqVjs6Ty139b+jvjy5d0YspqtzotzIIE4gzYCLkXwtusWdQ5jXzSgrEW\nzvC0x6Z/IOGF4NbLQi5YAlx8hjyEF57YGhagKX8Ryz/e53dqbEt8tnKd2C75x/Bj\nnOfXyiLpOj0EQLalBdDSevsU5HXYNTSCxMmtNJEy31Q2snXbgOQLJrsI4Dwlh4o1\nspSr7xh/UyJqiVTAx9E1lb8dP49jfbf6quMkrus9xpZCcZSw+Ee7u0l0XKSC/8UJ\nHV3t0NtMlP7M9m2COcv1Y+z1MBAF670AQ8YkfgAs1y1KpHbn0zrR3YJ19iGsnEZD\nLmQ/vZ45urtsYrMCqxwVz21npUELWzWOMv7mBui8DFhJid//hpMlsVrLEo/fatRI\nbNeJfB1/b2oUNMAZ8LT3Dt5SgQ5FZ8rUezwWKZV0RvZh+dzcj0uNs0zw6q+gBs6t\nF4hZ/NR3tUixVDSUxFWSyQgyNfoI5OuvevuJPAyZ6d9TlbZ8AHw+Stsmnx6jQLOv\nyAsTf0VieElaHQ7P25pnwlG2oFOYm7m3YfLT5J1L46B0MRt87y/moi3u4oQ3puLq\npvZkncmhg56nISp4kpd2ionLj2wMKG8TaKxK51T+y5slhjz0BddrI3kZC4K4DzxD\nKdYQ0K+QcRjZTmkBSWHB\n=MXaM\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJY0XYTAAoJEPWMXQpEBazbKpAQAKeRWi+FL+7U8gWHfVZVTS9v\nNhA5ELllfqVjs6Ty139b+jvjy5d0YspqtzotzIIE4gzYCLkXwtusWdQ5jXzSgrEW\nzvC0x6Z/IOGF4NbLQi5YAlx8hjyEF57YGhagKX8Ryz/e53dqbEt8tnKd2C75x/Bj\nnOfXyiLpOj0EQLalBdDSevsU5HXYNTSCxMmtNJEy31Q2snXbgOQLJrsI4Dwlh4o1\nspSr7xh/UyJqiVTAx9E1lb8dP49jfbf6quMkrus9xpZCcZSw+Ee7u0l0XKSC/8UJ\nHV3t0NtMlP7M9m2COcv1Y+z1MBAF670AQ8YkfgAs1y1KpHbn0zrR3YJ19iGsnEZD\nLmQ/vZ45urtsYrMCqxwVz21npUELWzWOMv7mBui8DFhJid//hpMlsVrLEo/fatRI\nbNeJfB1/b2oUNMAZ8LT3Dt5SgQ5FZ8rUezwWKZV0RvZh+dzcj0uNs0zw6q+gBs6t\nF4hZ/NR3tUixVDSUxFWSyQgyNfoI5OuvevuJPAyZ6d9TlbZ8AHw+Stsmnx6jQLOv\nyAsTf0VieElaHQ7P25pnwlG2oFOYm7m3YfLT5J1L46B0MRt87y/moi3u4oQ3puLq\npvZkncmhg56nISp4kpd2ionLj2wMKG8TaKxK51T+y5slhjz0BddrI3kZC4K4DzxD\nKdYQ0K+QcRjZTmkBSWHB\n=MXaM\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 74278cdaa6f5fd10e3b1995aebe62c98cad634f1\ntype commit\ntag v2.6.1-rc.1\ntagger Derek McGowan <derek@mcgstyle.net> 1490122185 -0700\n\nDocker Registry 2.6.1-rc.1\n\nRegistry\n- Fix `Forwarded` header handling, revert use of `X-Forwarded-Port`\n"
+  }
+}

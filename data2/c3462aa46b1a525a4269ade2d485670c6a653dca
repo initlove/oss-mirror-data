@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDpjMzQ2MmFhNDZiMWE1MjVhNDI2OWFkZTJkNDg1NjcwYzZhNjUzZGNh",
+  "sha": "c3462aa46b1a525a4269ade2d485670c6a653dca",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/c3462aa46b1a525a4269ade2d485670c6a653dca",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-25T17:46:17Z"
+  },
+  "object": {
+    "sha": "772897cad777716e55216f59d0e11ec191b31c80",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/772897cad777716e55216f59d0e11ec191b31c80"
+  },
+  "tag": "queens-em",
+  "message": "cinder queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I4610e8ebc7778cc32d81fc920c72861967954c0e\nmeta:release:Code-Review+1: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2zNOkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JiEDADPBWnUl23xTXo9tibtOlQR\nHXILOQOeqem0/QMmriB2ZOmqa92v3BKckao35HIPFQOKEuNL/dAxLs6HELzY/3op\nDAEh6H70ACvbTNkQ0Wr2ABpJLgYcn1X6pbIk92D11eSBdDpyXtzAlntdlPx3h3wF\niGiUDw1MfLUbftkF0liWDNMdFW2mCHgejLjnTfNNxhA/ao8MosbRoV54daDhNrBX\nP2tO7pJKj3XNqLHL3C8k5zVf3ZHec2WUThWsjRLkOPs/L5jAOGHmIw9+3hRpGMb3\ns7Z8CTNuNB8vlhXlBF0A3rNSgFrD2ixebHFX69CYmtrGMv13UbbyuWUlCX7IxdnP\nrlfut0dhTGTxBntrJ8CIVO0mOVwOgQnYD+jLpdhu7hNOv8BCQrj0YSbNybOUZerv\nI6Hp8ZzUQmq0ihaZmIc+DdGOxV1tdxrCuOvkfvo1CzJiHIeHY+tFWApk7tCvMb1v\n79ikqxnvFs1Wz8Zjtko4wv/M3Qev+UR1iaDnp2V5pUQ=\n=fZr9\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2zNOkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JiEDADPBWnUl23xTXo9tibtOlQR\nHXILOQOeqem0/QMmriB2ZOmqa92v3BKckao35HIPFQOKEuNL/dAxLs6HELzY/3op\nDAEh6H70ACvbTNkQ0Wr2ABpJLgYcn1X6pbIk92D11eSBdDpyXtzAlntdlPx3h3wF\niGiUDw1MfLUbftkF0liWDNMdFW2mCHgejLjnTfNNxhA/ao8MosbRoV54daDhNrBX\nP2tO7pJKj3XNqLHL3C8k5zVf3ZHec2WUThWsjRLkOPs/L5jAOGHmIw9+3hRpGMb3\ns7Z8CTNuNB8vlhXlBF0A3rNSgFrD2ixebHFX69CYmtrGMv13UbbyuWUlCX7IxdnP\nrlfut0dhTGTxBntrJ8CIVO0mOVwOgQnYD+jLpdhu7hNOv8BCQrj0YSbNybOUZerv\nI6Hp8ZzUQmq0ihaZmIc+DdGOxV1tdxrCuOvkfvo1CzJiHIeHY+tFWApk7tCvMb1v\n79ikqxnvFs1Wz8Zjtko4wv/M3Qev+UR1iaDnp2V5pUQ=\n=fZr9\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 772897cad777716e55216f59d0e11ec191b31c80\ntype commit\ntag queens-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572025577 +0000\n\ncinder queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I4610e8ebc7778cc32d81fc920c72861967954c0e\nmeta:release:Code-Review+1: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

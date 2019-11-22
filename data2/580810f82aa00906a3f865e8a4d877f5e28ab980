@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6NTgwODEwZjgyYWEwMDkwNmEzZjg2NWU4YTRkODc3ZjVlMjhhYjk4MA==",
+  "sha": "580810f82aa00906a3f865e8a4d877f5e28ab980",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/580810f82aa00906a3f865e8a4d877f5e28ab980",
+  "tagger": {
+    "name": "Stephen J Day",
+    "email": "stephen.day@docker.com",
+    "date": "2017-07-20T21:13:26Z"
+  },
+  "object": {
+    "sha": "48294d928ced5dd9b378f7fd7c6f5da3ff3f2c89",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/48294d928ced5dd9b378f7fd7c6f5da3ff3f2c89"
+  },
+  "tag": "v2.6.2",
+  "message": "Docker Registry 2.6.2\n\nThis release is a special security release to address an issue allowing\nan attacker to force arbitrarily-sized memory allocations in a registry\ninstance through the manifest endpoint. The problem has been mitigated\nby limiting the size of reads for image manifest content.\n\nDetails for mitigation are in 29fa466d\n\nCVE-2017-11468 has been assigned for this issue.\n\nChangelog\n\n48294d92 Merge pull request #2343 from stevvooe/prepare-2.6.2\n04ce6865 release: prepare for 2.6.2 release\nc829241c Merge pull request #2341 from stevvooe/limit-payload-size-26\n29fa466d registry/{storage,handlers}: limit content sizes\n42ea75ca Merge pull request #2284 from mstanleyjones/release/2.6\ned2b6867 Put architecture.md back into distribution repo\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJZcR4oAAoJEGez3thO3II/eCEP/1LntisaEk7uqF4qoIeVJUQc\nz7St/jDTmpij06evUZnjPKLr8+yMuFeWWovrfGNCRu1q1y/y4xEWDY61NrJwUoEO\nvrg2hvLWCgOkmXudq1zeKMg114rOBue+LZagSY9F+GTCDJy88acvfPLlplfsFk5h\nauSW6FrgsE8cxOEqgvcl0ntbe2SvQVHnCN4ufjtRFWpbI1sTZPgodfF/drv3RCkA\nPxKt1nrVbTovzp7TZuzPgid6cw2dTlMH9biGE4fGvG9Te2aaHP5lR5cQzsbGjwKS\n2xMKhie11Bb7aCkISlAND7NeQp0ienb0dab+UB6i9Ys0rfVriy4GSV4p0WCzxggJ\nvo5IPu3JM6stegDhDGeOgmOxtJWvDJywjzGFdWAMHcUa8Rd5Fit9AFjGw/jCuusy\nb4TD1D4J6DkeHewByebL+k8uPKmrdYdF7tOz7uHaSWA6iIh9GCSjgHMkNLJvj0x2\noc0z9pMumhMGZVzil2SnPQjzkZcZLJuAqcs8XLItMe0aOFupfsFxsivK7piy+9NF\n5rWS3PscGeP4UrlLE9zCAopX3SH2o9Fo78OF99WAP6Y2ckvCigT6i3Xs0+aLym8I\n1Frq2UEIMVHtb4OH1QwWfhod+Tlrd9gq3XXqlJrKNQm1VGpe8WrN0RvuUnRoz14f\n220fDFN/pCKPiTbNbaIk\n=Dz6h\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJZcR4oAAoJEGez3thO3II/eCEP/1LntisaEk7uqF4qoIeVJUQc\nz7St/jDTmpij06evUZnjPKLr8+yMuFeWWovrfGNCRu1q1y/y4xEWDY61NrJwUoEO\nvrg2hvLWCgOkmXudq1zeKMg114rOBue+LZagSY9F+GTCDJy88acvfPLlplfsFk5h\nauSW6FrgsE8cxOEqgvcl0ntbe2SvQVHnCN4ufjtRFWpbI1sTZPgodfF/drv3RCkA\nPxKt1nrVbTovzp7TZuzPgid6cw2dTlMH9biGE4fGvG9Te2aaHP5lR5cQzsbGjwKS\n2xMKhie11Bb7aCkISlAND7NeQp0ienb0dab+UB6i9Ys0rfVriy4GSV4p0WCzxggJ\nvo5IPu3JM6stegDhDGeOgmOxtJWvDJywjzGFdWAMHcUa8Rd5Fit9AFjGw/jCuusy\nb4TD1D4J6DkeHewByebL+k8uPKmrdYdF7tOz7uHaSWA6iIh9GCSjgHMkNLJvj0x2\noc0z9pMumhMGZVzil2SnPQjzkZcZLJuAqcs8XLItMe0aOFupfsFxsivK7piy+9NF\n5rWS3PscGeP4UrlLE9zCAopX3SH2o9Fo78OF99WAP6Y2ckvCigT6i3Xs0+aLym8I\n1Frq2UEIMVHtb4OH1QwWfhod+Tlrd9gq3XXqlJrKNQm1VGpe8WrN0RvuUnRoz14f\n220fDFN/pCKPiTbNbaIk\n=Dz6h\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 48294d928ced5dd9b378f7fd7c6f5da3ff3f2c89\ntype commit\ntag v2.6.2\ntagger Stephen J Day <stephen.day@docker.com> 1500585206 -0700\n\nDocker Registry 2.6.2\n\nThis release is a special security release to address an issue allowing\nan attacker to force arbitrarily-sized memory allocations in a registry\ninstance through the manifest endpoint. The problem has been mitigated\nby limiting the size of reads for image manifest content.\n\nDetails for mitigation are in 29fa466d\n\nCVE-2017-11468 has been assigned for this issue.\n\nChangelog\n\n48294d92 Merge pull request #2343 from stevvooe/prepare-2.6.2\n04ce6865 release: prepare for 2.6.2 release\nc829241c Merge pull request #2341 from stevvooe/limit-payload-size-26\n29fa466d registry/{storage,handlers}: limit content sizes\n42ea75ca Merge pull request #2284 from mstanleyjones/release/2.6\ned2b6867 Put architecture.md back into distribution repo\n"
+  }
+}

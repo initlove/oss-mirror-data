@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6MmI0NTdjMGJkNGZhNjZiMjFlOWM3NDQyYjkyYzkxYWI3ZTU3M2NhMA==",
+  "sha": "2b457c0bd4fa66b21e9c7442b92c91ab7e573ca0",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/2b457c0bd4fa66b21e9c7442b92c91ab7e573ca0",
+  "tagger": {
+    "name": "Richard Scothern",
+    "email": "richard.scothern@gmail.com",
+    "date": "2016-03-08T19:19:37Z"
+  },
+  "object": {
+    "sha": "36936218c2e6a4527fc99a5c04126bb1f4c7d55c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/36936218c2e6a4527fc99a5c04126bb1f4c7d55c"
+  },
+  "tag": "v2.3.1",
+  "message": "Bug fixes:\n\nAllow uppercase characters in hostnames … 34c3acf\nFix schema1 manifest etag and docker content digest header … d7eb5d1\nAdd option to disable signatures … d1c1730\nTo avoid any network use unless necessary, delay establishing authori… … 740ed69\nExtend authChallenger interface to remove type cast. … 16445b6\nEnable proxying registries to downgrade fetched manifests to Schema 1. … 3693621\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJW3yXiAAoJEPfQDq9vNVAKbRkH/jYqXD6p/wckQAemKPoEoUX0\n1YyGjBW5T0X+7M8uhOVI32nJkuhGWxueCbC3yqsSCg3KawkXMFbmKqp5G054MNIa\n20/bWkWsZmUdyXDA+6rktUiVqRnECu8mAvUVJRSh7V135irZBmBaJqZ4W/Nd305j\npItzheRi4WED9QpD3y19c+Zr93N4dfEsvj1oKXp7SkCtGZ75TUeAAERjiIrTE5FY\nOSzYUEvpg45ONVy3QDeW/xIlv2VPnVaXEIihc8tsPcogddat7ozvw0iOzrhqlh6G\n2mrpf5/LlwkzYCb5CiMiGqJGbnFAhSwoKqbC0uczzwOR/tE1b5HPFCzrS5QRICI=\n=4bkp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJW3yXiAAoJEPfQDq9vNVAKbRkH/jYqXD6p/wckQAemKPoEoUX0\n1YyGjBW5T0X+7M8uhOVI32nJkuhGWxueCbC3yqsSCg3KawkXMFbmKqp5G054MNIa\n20/bWkWsZmUdyXDA+6rktUiVqRnECu8mAvUVJRSh7V135irZBmBaJqZ4W/Nd305j\npItzheRi4WED9QpD3y19c+Zr93N4dfEsvj1oKXp7SkCtGZ75TUeAAERjiIrTE5FY\nOSzYUEvpg45ONVy3QDeW/xIlv2VPnVaXEIihc8tsPcogddat7ozvw0iOzrhqlh6G\n2mrpf5/LlwkzYCb5CiMiGqJGbnFAhSwoKqbC0uczzwOR/tE1b5HPFCzrS5QRICI=\n=4bkp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 36936218c2e6a4527fc99a5c04126bb1f4c7d55c\ntype commit\ntag v2.3.1\ntagger Richard Scothern <richard.scothern@gmail.com> 1457464777 -0800\n\nBug fixes:\n\nAllow uppercase characters in hostnames … 34c3acf\nFix schema1 manifest etag and docker content digest header … d7eb5d1\nAdd option to disable signatures … d1c1730\nTo avoid any network use unless necessary, delay establishing authori… … 740ed69\nExtend authChallenger interface to remove type cast. … 16445b6\nEnable proxying registries to downgrade fetched manifests to Schema 1. … 3693621\n"
+  }
+}

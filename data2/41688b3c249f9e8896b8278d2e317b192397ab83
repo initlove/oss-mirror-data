@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc1NTQ4MDI6NDE2ODhiM2MyNDlmOWU4ODk2YjgyNzhkMmUzMTdiMTkyMzk3YWI4Mw==",
+  "sha": "41688b3c249f9e8896b8278d2e317b192397ab83",
+  "url": "https://api.github.com/repos/openstack/castellan/git/tags/41688b3c249f9e8896b8278d2e317b192397ab83",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-05-15T04:11:34Z"
+  },
+  "object": {
+    "sha": "6336a59b9b5f373efa653e6fcce8ea1c964fdbae",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/castellan/git/commits/6336a59b9b5f373efa653e6fcce8ea1c964fdbae"
+  },
+  "tag": "0.18.0",
+  "message": "castellan 0.18.0 release\n\nmeta:version: 0.18.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I1ad8057682e860d2f3b5b037c7f1b63e86bed9be\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa+l32AAoJEMNs3LTfAMaMAyQH/1juTo+RWqtS2CXPAJDSSgQS\nw582+G8wmT1Oww3LGU7gvVrvgpNCpGqpnkecFREIhjLT6CtdXGhU+Ujt+mFxow8y\nDZSQNUN6b1uvZnqE4tJE2mpwsn84EgRWToWsgXWMRuhyWpl+A8nRY5KK/IH5TYYz\nDHk5LEVL+XnxJdJJ+LMiuKhQmtEbhSN8w3TiTVEu4XZmdXeHzD9CU5pnDrDl8beD\nWM6omHzlVHkD9OxWGsD8WpPsniXwtemFWPDo4/6F3csMiQhQsernHSzmbp3FP4Mm\n6LFeGKLhRlGx+Cg1aDOTypGbNssQroOF3WefVnSkxnb+caiDkRFT4ZTIpOsid1k=\n=DdcO\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa+l32AAoJEMNs3LTfAMaMAyQH/1juTo+RWqtS2CXPAJDSSgQS\nw582+G8wmT1Oww3LGU7gvVrvgpNCpGqpnkecFREIhjLT6CtdXGhU+Ujt+mFxow8y\nDZSQNUN6b1uvZnqE4tJE2mpwsn84EgRWToWsgXWMRuhyWpl+A8nRY5KK/IH5TYYz\nDHk5LEVL+XnxJdJJ+LMiuKhQmtEbhSN8w3TiTVEu4XZmdXeHzD9CU5pnDrDl8beD\nWM6omHzlVHkD9OxWGsD8WpPsniXwtemFWPDo4/6F3csMiQhQsernHSzmbp3FP4Mm\n6LFeGKLhRlGx+Cg1aDOTypGbNssQroOF3WefVnSkxnb+caiDkRFT4ZTIpOsid1k=\n=DdcO\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6336a59b9b5f373efa653e6fcce8ea1c964fdbae\ntype commit\ntag 0.18.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1526357494 +0000\n\ncastellan 0.18.0 release\n\nmeta:version: 0.18.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I1ad8057682e860d2f3b5b037c7f1b63e86bed9be\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

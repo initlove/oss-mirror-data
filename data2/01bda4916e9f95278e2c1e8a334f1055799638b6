@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI4MjEzMDM6MDFiZGE0OTE2ZTlmOTUyNzhlMmMxZThhMzM0ZjEwNTU3OTk2MzhiNg==",
+  "sha": "01bda4916e9f95278e2c1e8a334f1055799638b6",
+  "url": "https://api.github.com/repos/coreos/go-systemd/git/tags/01bda4916e9f95278e2c1e8a334f1055799638b6",
+  "tagger": {
+    "name": "Luca Bruno",
+    "email": "luca.bruno@coreos.com",
+    "date": "2016-05-26T15:14:51Z"
+  },
+  "object": {
+    "sha": "b9b5f5970662ce700ab6ee41f56186e5b131490c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/coreos/go-systemd/git/commits/b9b5f5970662ce700ab6ee41f56186e5b131490c"
+  },
+  "tag": "v8",
+  "message": "go-systemd v8\n\nSummary of changes in this release:\n * sdjournal: add support for cursors (get, seek, test)\n * sdjournal: export SYSLOG_IDENTIFIER\n * dbus: expose NewConnection method\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXRxNGAAoJEKmDSiJSB45OtcEP/3xISSkAcTVsiwVoEN8ZRirl\nqs5rpyT3NMSrLSCiEASpTf7fHUo/UOOdBNnak9+dtJvszTZRUanonws3ysKDb3iN\n+oxE/DO89NqeQf4koUSyp5M9oeyTvt8Ionr6hrsSe1szAtNbpMq6JE/MNtqxrX8C\nI4G6o0c0aCW++yLDmCNo67Xhpa5EOX34Sl9M8H5jbvdMPdqdk3rHcbufeW1fJqzs\nSm2UkXwSQMY274vTBMUk9JJ5I65ZoLBYyPK6e0OJJtt8DCXbjAmVLE5KwuNP/UHO\nI3R/ELI2QIIIm6LlrGfy6yuhixvfhpj5zOnww9DkqwTSaA2tGOvkv6wKD6Be/fKq\nYkJjgYbMY3l22ughkuSfQHHhTu0j1A8l0k1UVsmRWCmZsj9ZRCp/89MTmfp2TkE4\ndRr8BkcdTciD5OdpphXCTnpXooN7wMI746IoSI8bR2G3zPsz+ye1Mav73EOW4da5\nw7qgQUhoU0n70EOfOsmNCNWIjfnXWv1c0hKnSMuxlpUQAee1vI7dk655csZe4p7/\nOLCsTuLGoeHGV+hbE4r9892qSdjrBujkd1kFU2jHXDiftQuUjTUy60o4cGbNgKwe\np6EQuYhn1J1mq+rZggR2j6T032mCb9wforvFNqxHPHgTeqdqks90p4rGgAbwuEwu\nmcvqfGlWY9r5XqHnehCT\n=VziW\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXRxNGAAoJEKmDSiJSB45OtcEP/3xISSkAcTVsiwVoEN8ZRirl\nqs5rpyT3NMSrLSCiEASpTf7fHUo/UOOdBNnak9+dtJvszTZRUanonws3ysKDb3iN\n+oxE/DO89NqeQf4koUSyp5M9oeyTvt8Ionr6hrsSe1szAtNbpMq6JE/MNtqxrX8C\nI4G6o0c0aCW++yLDmCNo67Xhpa5EOX34Sl9M8H5jbvdMPdqdk3rHcbufeW1fJqzs\nSm2UkXwSQMY274vTBMUk9JJ5I65ZoLBYyPK6e0OJJtt8DCXbjAmVLE5KwuNP/UHO\nI3R/ELI2QIIIm6LlrGfy6yuhixvfhpj5zOnww9DkqwTSaA2tGOvkv6wKD6Be/fKq\nYkJjgYbMY3l22ughkuSfQHHhTu0j1A8l0k1UVsmRWCmZsj9ZRCp/89MTmfp2TkE4\ndRr8BkcdTciD5OdpphXCTnpXooN7wMI746IoSI8bR2G3zPsz+ye1Mav73EOW4da5\nw7qgQUhoU0n70EOfOsmNCNWIjfnXWv1c0hKnSMuxlpUQAee1vI7dk655csZe4p7/\nOLCsTuLGoeHGV+hbE4r9892qSdjrBujkd1kFU2jHXDiftQuUjTUy60o4cGbNgKwe\np6EQuYhn1J1mq+rZggR2j6T032mCb9wforvFNqxHPHgTeqdqks90p4rGgAbwuEwu\nmcvqfGlWY9r5XqHnehCT\n=VziW\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b9b5f5970662ce700ab6ee41f56186e5b131490c\ntype commit\ntag v8\ntagger Luca Bruno <luca.bruno@coreos.com> 1464275691 +0200\n\ngo-systemd v8\n\nSummary of changes in this release:\n * sdjournal: add support for cursors (get, seek, test)\n * sdjournal: export SYSLOG_IDENTIFIER\n * dbus: expose NewConnection method\n"
+  }
+}

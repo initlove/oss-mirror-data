@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDplNTc5NTM0NDQxZDdlZGQwOTk4OTdjNjc1OGE5ZmIzNmFjMmU3NGM1",
+  "sha": "e579534441d7edd099897c6758a9fb36ac2e74c5",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/e579534441d7edd099897c6758a9fb36ac2e74c5",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-02-28T14:30:44Z"
+  },
+  "object": {
+    "sha": "0e623cc42733bffe997a9bc2a771f16c800481ae",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/0e623cc42733bffe997a9bc2a771f16c800481ae"
+  },
+  "tag": "11.2.0",
+  "message": "cinder 11.2.0 release\n\nmeta:version: 11.2.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: I4b15c36a9dbe1f6c61254896fc1990347194c384\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcd/CUAAoJEBpUEUgFTp44uGMMAJPAsoAbksmBddkojPQsUxm2\n/UlsiRyENntoIPtDb511KTFpnXMkHb39ZbAzJmnMSrCYLsCZaqdmo1PER5vce1ym\n0vux1Lqqrvn0+Wuxw+h5Nf9wP8KRIF+0/r7wpTm3SIYX0CgyJD6zfA/9zPb2xUjU\nqHa3KOxJQAGxbAWQLXXJpYi07bd1ZxULxaVjvqCsQjjdxFmE8NdvEtbausY2nc8e\nZY9biR450NS1r3i0GGC7sPUq7fF2MFOzA2d7l9v27wxw9xo2mzz/E7Q3DO45AiXo\nKj1YsIL6YQHHzClNGrDXTGB/2jWv3K/Db/slB+H38PvgcSyHrqWM0FWsV23+46wO\nP6BfbJdo5EKOlOeNgiGptmR6npE8sRcjcmRxXTu1JPP2LtvkQk75AuX0RIpICxId\nffrZn3q7OHTqucGG2Apz76xMDYFaJHRCY1YcutZzF59JWWLJYCXFgN0RwiOMoFmp\nVqKIRWrqQA2cQufU3HDIEDzCh903QeayFJjc7CUMkA==\n=W27J\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcd/CUAAoJEBpUEUgFTp44uGMMAJPAsoAbksmBddkojPQsUxm2\n/UlsiRyENntoIPtDb511KTFpnXMkHb39ZbAzJmnMSrCYLsCZaqdmo1PER5vce1ym\n0vux1Lqqrvn0+Wuxw+h5Nf9wP8KRIF+0/r7wpTm3SIYX0CgyJD6zfA/9zPb2xUjU\nqHa3KOxJQAGxbAWQLXXJpYi07bd1ZxULxaVjvqCsQjjdxFmE8NdvEtbausY2nc8e\nZY9biR450NS1r3i0GGC7sPUq7fF2MFOzA2d7l9v27wxw9xo2mzz/E7Q3DO45AiXo\nKj1YsIL6YQHHzClNGrDXTGB/2jWv3K/Db/slB+H38PvgcSyHrqWM0FWsV23+46wO\nP6BfbJdo5EKOlOeNgiGptmR6npE8sRcjcmRxXTu1JPP2LtvkQk75AuX0RIpICxId\nffrZn3q7OHTqucGG2Apz76xMDYFaJHRCY1YcutZzF59JWWLJYCXFgN0RwiOMoFmp\nVqKIRWrqQA2cQufU3HDIEDzCh903QeayFJjc7CUMkA==\n=W27J\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0e623cc42733bffe997a9bc2a771f16c800481ae\ntype commit\ntag 11.2.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1551364244 +0000\n\ncinder 11.2.0 release\n\nmeta:version: 11.2.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: I4b15c36a9dbe1f6c61254896fc1990347194c384\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

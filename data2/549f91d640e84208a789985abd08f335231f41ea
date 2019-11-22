@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTI1MzE2OjU0OWY5MWQ2NDBlODQyMDhhNzg5OTg1YWJkMDhmMzM1MjMxZjQxZWE=",
+  "sha": "549f91d640e84208a789985abd08f335231f41ea",
+  "url": "https://api.github.com/repos/mozilla/bleach/git/tags/549f91d640e84208a789985abd08f335231f41ea",
+  "tagger": {
+    "name": "Will Kahn-Greene",
+    "email": "willkg@mozilla.com",
+    "date": "2018-10-11T14:58:38Z"
+  },
+  "object": {
+    "sha": "e0b280bca52200f5d306a0fbda02dbbdd2e656ee",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mozilla/bleach/git/commits/e0b280bca52200f5d306a0fbda02dbbdd2e656ee"
+  },
+  "tag": "v3.0.2",
+  "message": "Version 3.0.2 (October 11th, 2018)\n\n**Security fixes**\n\nNone\n\n**Backwards incompatible changes**\n\nNone\n\n**Features**\n\nNone\n\n**Bug fixes**\n\n* Merge ``Characters`` tokens after sanitizing them. This fixes issues in the\n  ``LinkifyFilter`` where it was only linkifying parts of urls. (#374)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzY3I6/E2Vh8o9nPoGL3RpvBm7BEFAlu/ZSsACgkQGL3RpvBm\n7BHjbQgAplC+8SSc0BO/FnYlE0kZSbUQqkIYy50XUzNtZwSF6G6kus09+InFieqx\nm9Gspowjfk8jCv2cLXPwXzpCIPl2N7m7C/HAkYsPt/XKg8/iZfeA3V2sl8I0lbS0\nNXooOXD3wpLXOQSktgKRcWU17Uuq99p2PDawZurE4b+qEACH1gxDlxqJ7Mh0nV92\no4UBCUDmvwXGLtL7fcchHisrwQ4G/539+HWG1wDxUTzyS4s+PwyXzhLj6r+YrMST\nJIzTavZR28agvXHI8yAgjgQb2yrKq0+hHIpHkHZ1wvNBIFxOzmFsHL8kcHAMov8a\nezzgu2f1mu8xhFEQd9eVNVDMkclpBA==\n=7G2a\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzY3I6/E2Vh8o9nPoGL3RpvBm7BEFAlu/ZSsACgkQGL3RpvBm\n7BHjbQgAplC+8SSc0BO/FnYlE0kZSbUQqkIYy50XUzNtZwSF6G6kus09+InFieqx\nm9Gspowjfk8jCv2cLXPwXzpCIPl2N7m7C/HAkYsPt/XKg8/iZfeA3V2sl8I0lbS0\nNXooOXD3wpLXOQSktgKRcWU17Uuq99p2PDawZurE4b+qEACH1gxDlxqJ7Mh0nV92\no4UBCUDmvwXGLtL7fcchHisrwQ4G/539+HWG1wDxUTzyS4s+PwyXzhLj6r+YrMST\nJIzTavZR28agvXHI8yAgjgQb2yrKq0+hHIpHkHZ1wvNBIFxOzmFsHL8kcHAMov8a\nezzgu2f1mu8xhFEQd9eVNVDMkclpBA==\n=7G2a\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e0b280bca52200f5d306a0fbda02dbbdd2e656ee\ntype commit\ntag v3.0.2\ntagger Will Kahn-Greene <willkg@mozilla.com> 1539269918 -0400\n\nVersion 3.0.2 (October 11th, 2018)\n\n**Security fixes**\n\nNone\n\n**Backwards incompatible changes**\n\nNone\n\n**Features**\n\nNone\n\n**Bug fixes**\n\n* Merge ``Characters`` tokens after sanitizing them. This fixes issues in the\n  ``LinkifyFilter`` where it was only linkifying parts of urls. (#374)\n"
+  }
+}

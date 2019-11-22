@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMDUxOmFkYmQ1NjQzNWEyOWIzMGU4MDI4MTE3OTk1YmI1ODIxOWQ4ODQxY2M=",
+  "sha": "adbd56435a29b30e8028117995bb58219d8841cc",
+  "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/tags/adbd56435a29b30e8028117995bb58219d8841cc",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2016-12-23T13:29:06Z"
+  },
+  "object": {
+    "sha": "54df7406bd33851eb5fdde48362754bfd71e0500",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/commits/54df7406bd33851eb5fdde48362754bfd71e0500"
+  },
+  "tag": "v8.9.10",
+  "message": "8.9.10\n--------\n * new drbdmon tool, which provides a compact overview about resources.\n   In contrast to drbdsetup status it provides live monitoring.\n   This requires a C++11 compiler.\n * drbdadm parser got substantially faster for thousands of resources\n * send SIGKILL to childs if parent (drbdadm) dies.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBYXSavabsdXACqiTMRAtUjAJ46p6fEUHKgiWh8gGW/LgJk9db5pQCePSWJ\nz5qn19c6wSuXEu8R/r0PExo=\n=mtjn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBYXSavabsdXACqiTMRAtUjAJ46p6fEUHKgiWh8gGW/LgJk9db5pQCePSWJ\nz5qn19c6wSuXEu8R/r0PExo=\n=mtjn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 54df7406bd33851eb5fdde48362754bfd71e0500\ntype commit\ntag v8.9.10\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1482499746 +0100\n\n8.9.10\n--------\n * new drbdmon tool, which provides a compact overview about resources.\n   In contrast to drbdsetup status it provides live monitoring.\n   This requires a C++11 compiler.\n * drbdadm parser got substantially faster for thousands of resources\n * send SIGKILL to childs if parent (drbdadm) dies.\n"
+  }
+}

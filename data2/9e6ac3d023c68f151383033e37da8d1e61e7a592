@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODQ1NzUzOTg6OWU2YWMzZDAyM2M2OGYxNTEzODMwMzNlMzdkYThkMWU2MWU3YTU5Mg==",
+  "sha": "9e6ac3d023c68f151383033e37da8d1e61e7a592",
+  "url": "https://api.github.com/repos/containernetworking/plugins/git/tags/9e6ac3d023c68f151383033e37da8d1e61e7a592",
+  "tagger": {
+    "name": "Stefan Junker",
+    "email": "mail@stefanjunker.de",
+    "date": "2016-05-26T12:23:11Z"
+  },
+  "object": {
+    "sha": "6f63d9d7077097b13dc317f749421316b6f91f86",
+    "type": "commit",
+    "url": "https://api.github.com/repos/containernetworking/plugins/git/commits/6f63d9d7077097b13dc317f749421316b6f91f86"
+  },
+  "tag": "v0.3.0-rc2",
+  "message": "Changes since rc1:\n\n- Allow PROCFS in addition to NSFS for NS files\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXRurNAAoJEP+oGHcX11IIdSoIALeicuIrpnqWM6dN/JX6Qby+\nLRid/616DbkV2NYgMY+kH2ox60JCWkkF0WdVS8AGPizILNq1jRXW3ZcC0JctjDgn\nR23/hp4jzH20PnUCdTzY52yqyPycmJP0uaG1ybZMLjl+bHL1aNIGq1HEf52Od0tQ\nQTn7ZFnhNeh0lvXf24h127DY6mzLX35ZFgsBru8sI0D5kbFDFy+nEtjYq3/ssAVr\npmfgKwVmPnBiEbMSTHZYRgYAF+0TGZTJRAJHkbjvr78DBiToBuByMTr0AxKi0aGs\ndcrwxJnbBXwToXzvvhTH4gBtcJj6zWDPxjX7yd3YL5pxbj9cQ6/NjEpelCgmmgM=\n=43C2\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "expired_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXRurNAAoJEP+oGHcX11IIdSoIALeicuIrpnqWM6dN/JX6Qby+\nLRid/616DbkV2NYgMY+kH2ox60JCWkkF0WdVS8AGPizILNq1jRXW3ZcC0JctjDgn\nR23/hp4jzH20PnUCdTzY52yqyPycmJP0uaG1ybZMLjl+bHL1aNIGq1HEf52Od0tQ\nQTn7ZFnhNeh0lvXf24h127DY6mzLX35ZFgsBru8sI0D5kbFDFy+nEtjYq3/ssAVr\npmfgKwVmPnBiEbMSTHZYRgYAF+0TGZTJRAJHkbjvr78DBiToBuByMTr0AxKi0aGs\ndcrwxJnbBXwToXzvvhTH4gBtcJj6zWDPxjX7yd3YL5pxbj9cQ6/NjEpelCgmmgM=\n=43C2\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6f63d9d7077097b13dc317f749421316b6f91f86\ntype commit\ntag v0.3.0-rc2\ntagger Stefan Junker <mail@stefanjunker.de> 1464265391 +0200\n\nChanges since rc1:\n\n- Allow PROCFS in addition to NSFS for NS files\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY0MjczNTowNzRmNjNiZDYyYzdkZTIwNjYxODI5M2ZmYWY2OGVhYzFhNDk3M2Ix",
+  "sha": "074f63bd62c7de206618293ffaf68eac1a4973b1",
+  "url": "https://api.github.com/repos/openstack/ceilometer/git/tags/074f63bd62c7de206618293ffaf68eac1a4973b1",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-21T10:20:05Z"
+  },
+  "object": {
+    "sha": "062e02c612d1fdd8c40b9209319b32e04489c163",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ceilometer/git/commits/062e02c612d1fdd8c40b9209319b32e04489c163"
+  },
+  "tag": "12.0.0.0rc1",
+  "message": "ceilometer 12.0.0.0rc1 release candidate\n\nmeta:version: 12.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I4709cd93ef6537d777661aa76dd5474eb5c6742a\nmeta:release:Code-Review+1: Trinh Nguyen <dangtrinhnt@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Julien Danjou <julien@danjou.info>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyTZVUZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eODnPC/9b//9m3qmfbuUaml5BzBZX\nLBLUsaxrEouTNklyDmAYDSt1bWiO6iwBCnpWfNlgzb9iMUrCHqWgic7tO7ywmgp9\nFwNzJhL5jFOKkaM0CNghiu+GkgkF9f9JVSXmD0IgtyDv3b77szCzy3vHiwQJ++Ol\nxG0zmlOn+LlTVjG6u6adAgc+wMavSbvdxl5C+OFfENEzddzhskxHjkYqZSrQ8Ndg\nnbaORHbY+sSZAiV2MYTQzijyFjK8rIGKqP/9/7M0LDWtiRrBzZgPnX1Hsll0Sbvw\nmFCcvAqLAKOn3ClRMSPgkKR7hog69bfaxoQ2P+NKIGDIUmK8iX2Sx59JHkVrpKpT\nFOw1RsvYvUBV6jeU6G+bWhz3GL8LfymCtterjKfw3CnioIOqpVfFxiqX9eJZUcTq\n0a0xu3of8EVcxRzxUyfoyjdriNkNmSpVbgHwaW0p4ba8iJlGO5VbvgOBc1vGqEOI\nKKmHfwv+8Uf0cLstjR9jdmWAzTvPSyGf+WknqqJPVrE=\n=dXX2\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyTZVUZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eODnPC/9b//9m3qmfbuUaml5BzBZX\nLBLUsaxrEouTNklyDmAYDSt1bWiO6iwBCnpWfNlgzb9iMUrCHqWgic7tO7ywmgp9\nFwNzJhL5jFOKkaM0CNghiu+GkgkF9f9JVSXmD0IgtyDv3b77szCzy3vHiwQJ++Ol\nxG0zmlOn+LlTVjG6u6adAgc+wMavSbvdxl5C+OFfENEzddzhskxHjkYqZSrQ8Ndg\nnbaORHbY+sSZAiV2MYTQzijyFjK8rIGKqP/9/7M0LDWtiRrBzZgPnX1Hsll0Sbvw\nmFCcvAqLAKOn3ClRMSPgkKR7hog69bfaxoQ2P+NKIGDIUmK8iX2Sx59JHkVrpKpT\nFOw1RsvYvUBV6jeU6G+bWhz3GL8LfymCtterjKfw3CnioIOqpVfFxiqX9eJZUcTq\n0a0xu3of8EVcxRzxUyfoyjdriNkNmSpVbgHwaW0p4ba8iJlGO5VbvgOBc1vGqEOI\nKKmHfwv+8Uf0cLstjR9jdmWAzTvPSyGf+WknqqJPVrE=\n=dXX2\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 062e02c612d1fdd8c40b9209319b32e04489c163\ntype commit\ntag 12.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1553163605 +0000\n\nceilometer 12.0.0.0rc1 release candidate\n\nmeta:version: 12.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I4709cd93ef6537d777661aa76dd5474eb5c6742a\nmeta:release:Code-Review+1: Trinh Nguyen <dangtrinhnt@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Julien Danjou <julien@danjou.info>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

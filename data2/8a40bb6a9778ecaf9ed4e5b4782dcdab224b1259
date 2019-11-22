@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDo4YTQwYmI2YTk3NzhlY2FmOWVkNGU1YjQ3ODJkY2RhYjIyNGIxMjU5",
+  "sha": "8a40bb6a9778ecaf9ed4e5b4782dcdab224b1259",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/8a40bb6a9778ecaf9ed4e5b4782dcdab224b1259",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-08-28T00:18:28Z"
+  },
+  "object": {
+    "sha": "78d093b864e46dc847e507342c7b1f7d01233fea",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/78d093b864e46dc847e507342c7b1f7d01233fea"
+  },
+  "tag": "10.0.5",
+  "message": "cinder 10.0.5 release\n\nmeta:version: 10.0.5\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Eric Harney <eharney@redhat.com>\nmeta:release:Commit: Eric Harney <eharney@redhat.com>\nmeta:release:Change-Id: I18ee392bd5a329445b0c53d4a9aff58dcdf6abc7\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZo2FUAAoJEOtsyhSD+nTs/6gIAIZnIkNz6NF0GixLN/AEEh2J\n7QbvW676NKB1hObnAP01i2Gnnh2rlmYAydzefQamG18GLPWBNBZu0qlYJac0wU+h\n9QYv7pzVmT77GEeh/Q1vARVwn2u5rRwpqUKEnyox9XLcuhR28aqwuwbg3hpXCKn9\n+I3XAINLit4662OQZFnVQijEAcWCiQYz0dWmQyrOElpX9dXwI7IgLnBnPBcrY+bH\no2R0iq7wMxCWDiYdpV0UYC6dUBOaV7HAc52RBht4ep8pg41Tegx54huILU+diVez\nzYpn5at0T8/MOyEbCI58AhmKouzXLafeUHq93ZmTXdKqBy+OXN8++BVXh34g+FU=\n=Vd/c\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZo2FUAAoJEOtsyhSD+nTs/6gIAIZnIkNz6NF0GixLN/AEEh2J\n7QbvW676NKB1hObnAP01i2Gnnh2rlmYAydzefQamG18GLPWBNBZu0qlYJac0wU+h\n9QYv7pzVmT77GEeh/Q1vARVwn2u5rRwpqUKEnyox9XLcuhR28aqwuwbg3hpXCKn9\n+I3XAINLit4662OQZFnVQijEAcWCiQYz0dWmQyrOElpX9dXwI7IgLnBnPBcrY+bH\no2R0iq7wMxCWDiYdpV0UYC6dUBOaV7HAc52RBht4ep8pg41Tegx54huILU+diVez\nzYpn5at0T8/MOyEbCI58AhmKouzXLafeUHq93ZmTXdKqBy+OXN8++BVXh34g+FU=\n=Vd/c\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 78d093b864e46dc847e507342c7b1f7d01233fea\ntype commit\ntag 10.0.5\ntagger OpenStack Release Bot <infra-root@openstack.org> 1503879508 +0000\n\ncinder 10.0.5 release\n\nmeta:version: 10.0.5\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Eric Harney <eharney@redhat.com>\nmeta:release:Commit: Eric Harney <eharney@redhat.com>\nmeta:release:Change-Id: I18ee392bd5a329445b0c53d4a9aff58dcdf6abc7\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

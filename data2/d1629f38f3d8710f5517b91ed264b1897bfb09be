@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjA2NTM5MzQ6ZDE2MjlmMzhmM2Q4NzEwZjU1MTdiOTFlZDI2NGIxODk3YmZiMDliZQ==",
+  "sha": "d1629f38f3d8710f5517b91ed264b1897bfb09be",
+  "url": "https://api.github.com/repos/google/cadvisor/git/tags/d1629f38f3d8710f5517b91ed264b1897bfb09be",
+  "tagger": {
+    "name": "Vishnu Kannan",
+    "email": "vishnuk@google.com",
+    "date": "2015-08-25T22:55:06Z"
+  },
+  "object": {
+    "sha": "f99e491a989bd3b1b9565c55c556138d7e3c2ac5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/google/cadvisor/git/commits/f99e491a989bd3b1b9565c55c556138d7e3c2ac5"
+  },
+  "tag": "0.16.0.1",
+  "message": "Support for network stats with docker versions >= v1.7\nSupport for network stats when running in host network namespace.\nAvoid caching docker version for Machine Info.\nUpdate to go 1.5\nFix cpu consumption issues\nCustom metrics support.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

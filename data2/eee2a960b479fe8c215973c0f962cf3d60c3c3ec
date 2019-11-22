@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM0ODQ2MjU6ZWVlMmE5NjBiNDc5ZmU4YzIxNTk3M2MwZjk2MmNmM2Q2MGMzYzNlYw==",
+  "sha": "eee2a960b479fe8c215973c0f962cf3d60c3c3ec",
+  "url": "https://api.github.com/repos/Netflix/dynomite/git/tags/eee2a960b479fe8c215973c0f962cf3d60c3c3ec",
+  "tagger": {
+    "name": "Shailesh Birari",
+    "email": "sbirari@netflix.com",
+    "date": "2015-08-25T21:21:16Z"
+  },
+  "object": {
+    "sha": "6068a446ae47902c1738d4a41d179fe659c6dc28",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/dynomite/git/commits/6068a446ae47902c1738d4a41d179fe659c6dc28"
+  },
+  "tag": "0.5.0",
+  "message": "This release adds the following:\n    o Consistency facility for reads and writes.\n    o Support for KEYS, SCAN, HSCAN, inline PING, QUIT.\n    o Fixes issues with Dnode request response mismatches.\n    o Support Cluster_describe command on the stats port to get the cluster\n      topology information.\n    o Reports Redis per operation counters on the stats port.\n    o Ability to add data stores beyond redis and memcache via the yml file.\n      Note: YML files for Dynomite version  <= 0.4 should be updated to a new\n      version to have data_store field.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

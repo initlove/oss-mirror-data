@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6MTI4Y2YyNzIwNmYyMzc3ZDZmMTZkNmRmNmJkNjNlYWExYjQxZGQ4YQ==",
+  "sha": "128cf27206f2377d6f16d6df6bd63eaa1b41dd8a",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/128cf27206f2377d6f16d6df6bd63eaa1b41dd8a",
+  "tagger": {
+    "name": "Richard Scothern",
+    "email": "richard.scothern@docker.com",
+    "date": "2016-05-10T10:33:53Z"
+  },
+  "object": {
+    "sha": "03efb43768979f4d2ea5187bef995656441829e5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/03efb43768979f4d2ea5187bef995656441829e5"
+  },
+  "tag": "v2.4.1-rc.2",
+  "message": "Bug fix:\n\n431e46 GCS: FileWriter.Size: return offset + buffer size for Writers that are not closed\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXMbk+AAoJEPfQDq9vNVAK/qQH+wZVcRZdNxhrsUhWtvMU/jzN\n+sQoq54IZ3FZNpAu3H9KV1fH9+3nL9u1UoGHDEB7gVoOduE50ZI2mUnHol9efuyW\nDZ63hETJMDQwDjfKe5nSU0wpf71Du9PI1ThRJdZW3XSiD+FV4924vqQ8bL5sTT/t\nR9I2iiaqkrPecm0eGExuMypxwGh6abmhAVmOWVdVOh3bJ5dkzxi0zj7UxgtfDbr4\nUBA/gFrmn3YVL27Ny7cg2ih8p+RFYU0+fLfKkM5SneUUgYxuZEhC1Klv4AeF/kob\nsYks4LyTntCtRRfkJb3mkyj87V5EL/WvL5bpd/JOyd6rC3KzjvX4KGIkHCKmJzw=\n=Jeu9\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXMbk+AAoJEPfQDq9vNVAK/qQH+wZVcRZdNxhrsUhWtvMU/jzN\n+sQoq54IZ3FZNpAu3H9KV1fH9+3nL9u1UoGHDEB7gVoOduE50ZI2mUnHol9efuyW\nDZ63hETJMDQwDjfKe5nSU0wpf71Du9PI1ThRJdZW3XSiD+FV4924vqQ8bL5sTT/t\nR9I2iiaqkrPecm0eGExuMypxwGh6abmhAVmOWVdVOh3bJ5dkzxi0zj7UxgtfDbr4\nUBA/gFrmn3YVL27Ny7cg2ih8p+RFYU0+fLfKkM5SneUUgYxuZEhC1Klv4AeF/kob\nsYks4LyTntCtRRfkJb3mkyj87V5EL/WvL5bpd/JOyd6rC3KzjvX4KGIkHCKmJzw=\n=Jeu9\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 03efb43768979f4d2ea5187bef995656441829e5\ntype commit\ntag v2.4.1-rc.2\ntagger Richard Scothern <richard.scothern@docker.com> 1462876433 +0100\n\nBug fix:\n\n431e46 GCS: FileWriter.Size: return offset + buffer size for Writers that are not closed\n"
+  }
+}

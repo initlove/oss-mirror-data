@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI4MjEzMDM6YjI5ODI2MWRiYWM2MzE1MGNmMGE1YTM5NmVhOGUwZjBhODhmOTVkZg==",
+  "sha": "b298261dbac63150cf0a5a396ea8e0f0a88f95df",
+  "url": "https://api.github.com/repos/coreos/go-systemd/git/tags/b298261dbac63150cf0a5a396ea8e0f0a88f95df",
+  "tagger": {
+    "name": "Luca Bruno",
+    "email": "luca.bruno@coreos.com",
+    "date": "2016-06-23T21:47:00Z"
+  },
+  "object": {
+    "sha": "b32b8467dbea18858bfebf65c1a6a761090f2c31",
+    "type": "commit",
+    "url": "https://api.github.com/repos/coreos/go-systemd/git/commits/b32b8467dbea18858bfebf65c1a6a761090f2c31"
+  },
+  "tag": "v10",
+  "message": "go-systemd v10\n\nSummary of changes in this release:\n * sdjournal: fix incomplete reads in JournalReader.Read()\n * sdjournal: break the loop if error happens during Write()\n * sdjournal: fix Writer call\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXbFnPAAoJEKmDSiJSB45OZ28QAMba4qZcBjuwdhGsHCTrifsQ\nSv7cAKJEmZ1dGPUAQM8XxXpi+E1lSjGOPtlOkWLA2dtY4agJXUx198pYM2Xe/X5P\nQNa0uNvRf24DDHqJW9Z+sb/EFhBIwEYjocyG7mnAivngzEUKZKU9LHWLAfTQrwIw\npA0UqoWIBBytsnZi/ZanXG1svrnffUaQ4FDB3MKfnUp7J/HWXM03KBIlGqB9n3WU\njxw/hDNPUl5r7qTZfvNPssmocGpE6It+kdAQcs9N/Si2n1ieKMzqFWfs6nksbN0V\n/cCvs1BMyldP7mby414f9JTcCxqFdypKisKk0w5WlAefZAjZySJRKcNC6liKQRea\n0ppmNnMpvPI6/wseHo7qIo7NpBm6Hd5vuIyqPNbnR9hs2LZRdfylRUiykJAl4DU1\nD2RKqGtlkZYgw5n7ggKXlGKH77gaEMij2M6fuJe9/X2j3m06Q+kGlwk6JBVbMaBL\n8TTS4GP0rpVxKWPLJ7eujWfV9oio54Ucxt8s7fVVYLjwQZivKaUuSKCvc+G/+q07\n94/hxohBZ+OzbZ4EZpEhcxXeXImB6cxAShA2yiVqrHCTqt6XMXx74sS/ToA/gHHJ\n7dMuK+bcYWZC3ZdJBhwBqICHJWw2dgc2V0rTi+fKdlfzgWeEDG5RHfZI4/3SM1Fj\neuHP9+9liRYsIR1vn+xs\n=5ZQz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXbFnPAAoJEKmDSiJSB45OZ28QAMba4qZcBjuwdhGsHCTrifsQ\nSv7cAKJEmZ1dGPUAQM8XxXpi+E1lSjGOPtlOkWLA2dtY4agJXUx198pYM2Xe/X5P\nQNa0uNvRf24DDHqJW9Z+sb/EFhBIwEYjocyG7mnAivngzEUKZKU9LHWLAfTQrwIw\npA0UqoWIBBytsnZi/ZanXG1svrnffUaQ4FDB3MKfnUp7J/HWXM03KBIlGqB9n3WU\njxw/hDNPUl5r7qTZfvNPssmocGpE6It+kdAQcs9N/Si2n1ieKMzqFWfs6nksbN0V\n/cCvs1BMyldP7mby414f9JTcCxqFdypKisKk0w5WlAefZAjZySJRKcNC6liKQRea\n0ppmNnMpvPI6/wseHo7qIo7NpBm6Hd5vuIyqPNbnR9hs2LZRdfylRUiykJAl4DU1\nD2RKqGtlkZYgw5n7ggKXlGKH77gaEMij2M6fuJe9/X2j3m06Q+kGlwk6JBVbMaBL\n8TTS4GP0rpVxKWPLJ7eujWfV9oio54Ucxt8s7fVVYLjwQZivKaUuSKCvc+G/+q07\n94/hxohBZ+OzbZ4EZpEhcxXeXImB6cxAShA2yiVqrHCTqt6XMXx74sS/ToA/gHHJ\n7dMuK+bcYWZC3ZdJBhwBqICHJWw2dgc2V0rTi+fKdlfzgWeEDG5RHfZI4/3SM1Fj\neuHP9+9liRYsIR1vn+xs\n=5ZQz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b32b8467dbea18858bfebf65c1a6a761090f2c31\ntype commit\ntag v10\ntagger Luca Bruno <luca.bruno@coreos.com> 1466718420 +0200\n\ngo-systemd v10\n\nSummary of changes in this release:\n * sdjournal: fix incomplete reads in JournalReader.Read()\n * sdjournal: break the loop if error happens during Write()\n * sdjournal: fix Writer call\n"
+  }
+}

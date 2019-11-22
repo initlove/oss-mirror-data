@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY0MjczNTozYmVlZjNlNGI5OTU0NmZmMDJjYzgzYjU3MTkyMDA3ZGZlOTI1NjNl",
+  "sha": "3beef3e4b99546ff02cc83b57192007dfe92563e",
+  "url": "https://api.github.com/repos/openstack/ceilometer/git/tags/3beef3e4b99546ff02cc83b57192007dfe92563e",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-09-13T13:36:31Z"
+  },
+  "object": {
+    "sha": "09afee9a8fd665097f912defc844bb80e54fc23d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ceilometer/git/commits/09afee9a8fd665097f912defc844bb80e54fc23d"
+  },
+  "tag": "5.0.5",
+  "message": "ceilometer 5.0.5 release\n\nmeta:version: 5.0.5\nmeta:diff-start: -\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Mehdi Abaakouk <sileht@sileht.net>\nmeta:release:Commit: Mehdi Abaakouk <sileht@sileht.net>\nmeta:release:Change-Id: I0fa26dc9c4158785c96f5f4a09f0b7db4822f9ec\nmeta:release:Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX2ADfAAoJENljH+rwzGInCfQIAKNiczsZ7NvaLnKyNhXQ0dA6\nhUXnz1u3ICITjqT5EkktJVS+3c/mcnWq0FHLW+usL766DX5vbdBMPBTFEYj0wcZ1\nFaWC17qKsByjjDktshx6a77MYK+09Y0mIbGM77wXroPMRMrn2AvoN1pf7V3e9D8S\nhetKfOBaaYcYaQfNW9nE97WWlrNeZ3Lrq1ZLJ5lQ/eMxu+uF6RjCYXcyE3aef+qF\n18kjTdxaS8eni1c1wjAXs/JF65XxJYkc2mKvSU3y3vruAzfkhM5E5Z7H0CayberT\nku2R083GbAFyv3aAqHdicIfbALVJUqA/0Lpfc1slG/5LDY1GbJ7wkqijdaYcNT4=\n=Onzg\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX2ADfAAoJENljH+rwzGInCfQIAKNiczsZ7NvaLnKyNhXQ0dA6\nhUXnz1u3ICITjqT5EkktJVS+3c/mcnWq0FHLW+usL766DX5vbdBMPBTFEYj0wcZ1\nFaWC17qKsByjjDktshx6a77MYK+09Y0mIbGM77wXroPMRMrn2AvoN1pf7V3e9D8S\nhetKfOBaaYcYaQfNW9nE97WWlrNeZ3Lrq1ZLJ5lQ/eMxu+uF6RjCYXcyE3aef+qF\n18kjTdxaS8eni1c1wjAXs/JF65XxJYkc2mKvSU3y3vruAzfkhM5E5Z7H0CayberT\nku2R083GbAFyv3aAqHdicIfbALVJUqA/0Lpfc1slG/5LDY1GbJ7wkqijdaYcNT4=\n=Onzg\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 09afee9a8fd665097f912defc844bb80e54fc23d\ntype commit\ntag 5.0.5\ntagger OpenStack Release Bot <infra-root@openstack.org> 1473773791 +0000\n\nceilometer 5.0.5 release\n\nmeta:version: 5.0.5\nmeta:diff-start: -\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Mehdi Abaakouk <sileht@sileht.net>\nmeta:release:Commit: Mehdi Abaakouk <sileht@sileht.net>\nmeta:release:Change-Id: I0fa26dc9c4158785c96f5f4a09f0b7db4822f9ec\nmeta:release:Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

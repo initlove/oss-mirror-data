@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzU0NDkwNDg6Mjc5NmY3NjBlYTdmOTU5N2MwM2M2NGVlZDUyZGFmNTg2N2E5N2IzMw==",
+  "sha": "2796f760ea7f9597c03c64eed52daf5867a97b33",
+  "url": "https://api.github.com/repos/aantron/better-enums/git/tags/2796f760ea7f9597c03c64eed52daf5867a97b33",
+  "tagger": {
+    "name": "Anton Bachin",
+    "email": "antonbachin@yahoo.com",
+    "date": "2015-06-05T18:03:13Z"
+  },
+  "object": {
+    "sha": "b24d155b7b6e4f9938a3bbb7f04cfde525008e4f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/aantron/better-enums/git/commits/b24d155b7b6e4f9938a3bbb7f04cfde525008e4f"
+  },
+  "tag": "0.9.0",
+  "message": "Version 0.9.0.\n\nThis release is meant to be the first \"complete\" release of the\nlibrary. Major changes include:\n\n- Support for C++98 and Microsoft Visual C++.\n- Switch to standard C++ only (for C++11, C++98 usage requires variadic\n  macros). No more weak symbols.\n- Ability to do everything at compile time, including trimming\n  initializers. This makes _to_string constexpr.\n- Non-throwing versions of conversion functions.\n- The library is now a single header file.\n\nThere are some interface-breaking changes:\n\n- to_string and to_integral are now prefixed with underscores. Not\n  having them prefixed before was an oversight.\n- Built-in range properties have been removed. They can be easily\n  computed by the user, if needed, as shown in the documentation.\n- _names, _values, and _name are now functions instead of values. This\n  is a result of how weak symbols were eliminated.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

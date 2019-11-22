@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDpmNzNmMWFjNWYyYWI4NmIyMjdkMmFmZWI0MWQzMGRhNjFjYWIwNGIx",
+  "sha": "f73f1ac5f2ab86b227d2afeb41d30da61cab04b1",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/f73f1ac5f2ab86b227d2afeb41d30da61cab04b1",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-09-29T00:21:47Z"
+  },
+  "object": {
+    "sha": "ab9518112137f3141739e873b19cdc0085963bc7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/ab9518112137f3141739e873b19cdc0085963bc7"
+  },
+  "tag": "9.0.0.0rc2",
+  "message": "cinder 9.0.0.0rc2 release candidate\n\nmeta:version: 9.0.0.0rc2\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Commit: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Change-Id: Ia3e7edd214c83aa51752755cc9417abb6ed3a869\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX7F6bAAoJENljH+rwzGInUsMH/3COKYQR+yYugTMU/MmxUr1L\nh5Tk1ewGQThQ8mKJHAV1Hq8TjYQGpTZRRz7uD4fWNkjvYDBLkZTR68gKG+Vu0qLG\n5qSf/4dJki4I0jbYAUgV5tVo95u4TpIepp4TMMIL9Q/e9jhg7eqi91lmfvFFLOxd\n/rJsG1kmYqc/yQhl0JmxAjUPklvtOfaY+fPhBMic5/QquJffVt/iqoGc5M38QpKD\n/BbgNZKMnvYNgG/LOIvv1e60eIKL4ZJDbqrkz3Mi7y1n3tBXtKvNfi399srvWoUH\nqdlurVXIgN1TienfDXXOk8LFRNOPII1ogJBL19821Be86do2g0Rg/OP6t9EllP0=\n=9kwC\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX7F6bAAoJENljH+rwzGInUsMH/3COKYQR+yYugTMU/MmxUr1L\nh5Tk1ewGQThQ8mKJHAV1Hq8TjYQGpTZRRz7uD4fWNkjvYDBLkZTR68gKG+Vu0qLG\n5qSf/4dJki4I0jbYAUgV5tVo95u4TpIepp4TMMIL9Q/e9jhg7eqi91lmfvFFLOxd\n/rJsG1kmYqc/yQhl0JmxAjUPklvtOfaY+fPhBMic5/QquJffVt/iqoGc5M38QpKD\n/BbgNZKMnvYNgG/LOIvv1e60eIKL4ZJDbqrkz3Mi7y1n3tBXtKvNfi399srvWoUH\nqdlurVXIgN1TienfDXXOk8LFRNOPII1ogJBL19821Be86do2g0Rg/OP6t9EllP0=\n=9kwC\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ab9518112137f3141739e873b19cdc0085963bc7\ntype commit\ntag 9.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1475108507 +0000\n\ncinder 9.0.0.0rc2 release candidate\n\nmeta:version: 9.0.0.0rc2\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Commit: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Change-Id: Ia3e7edd214c83aa51752755cc9417abb6ed3a869\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n"
+  }
+}

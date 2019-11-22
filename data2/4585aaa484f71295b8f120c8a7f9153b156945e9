@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDo0NTg1YWFhNDg0ZjcxMjk1YjhmMTIwYzhhN2Y5MTUzYjE1Njk0NWU5",
+  "sha": "4585aaa484f71295b8f120c8a7f9153b156945e9",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/4585aaa484f71295b8f120c8a7f9153b156945e9",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-04-19T16:28:50Z"
+  },
+  "object": {
+    "sha": "c937656c138e995f6e41f96a02db7aed1dc74722",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/c937656c138e995f6e41f96a02db7aed1dc74722"
+  },
+  "tag": "7.0.2",
+  "message": "cinder 7.0.2 release\n\nmeta:version: 7.0.2\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXFlzCAAoJEDttBqDEKEN6RAsH/2RHiT4lA4QnPEwVtJASbjRI\n9D0AtZHaTrK6RRl0P2LVwvU3WZJ7ixY7fRGUQ1nzKSj7tszxlyQabm784GFrQY1B\nxb4b8qGm7aolm21tsUeQHgLaRu9TtknhFY23AyN3rjFNcm8zFrWrrFIjfZx8sFgx\n/vZuZX1OE1XqixQx5zS/AuZFGUQuE6Ivi5mxdo/nrZ6q+vaxPleyXHeCpdGlzggw\nkWLI784uYRA9TzlNsUpAwOW89Hqv1Hkq1sBbHcoZkEjFKIPRzww8GIKpKIF/wjap\n9YgnXgm2g2bd4jChbOGRr/3zHcEpQsSpHw+VuowCbWYlfw2K6EbjlkWFGU4i2fI=\n=ZbIL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXFlzCAAoJEDttBqDEKEN6RAsH/2RHiT4lA4QnPEwVtJASbjRI\n9D0AtZHaTrK6RRl0P2LVwvU3WZJ7ixY7fRGUQ1nzKSj7tszxlyQabm784GFrQY1B\nxb4b8qGm7aolm21tsUeQHgLaRu9TtknhFY23AyN3rjFNcm8zFrWrrFIjfZx8sFgx\n/vZuZX1OE1XqixQx5zS/AuZFGUQuE6Ivi5mxdo/nrZ6q+vaxPleyXHeCpdGlzggw\nkWLI784uYRA9TzlNsUpAwOW89Hqv1Hkq1sBbHcoZkEjFKIPRzww8GIKpKIF/wjap\n9YgnXgm2g2bd4jChbOGRr/3zHcEpQsSpHw+VuowCbWYlfw2K6EbjlkWFGU4i2fI=\n=ZbIL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c937656c138e995f6e41f96a02db7aed1dc74722\ntype commit\ntag 7.0.2\ntagger Doug Hellmann <doug@doughellmann.com> 1461083330 -0400\n\ncinder 7.0.2 release\n\nmeta:version: 7.0.2\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n"
+  }
+}

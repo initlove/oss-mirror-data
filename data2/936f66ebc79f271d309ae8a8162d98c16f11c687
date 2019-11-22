@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDo5MzZmNjZlYmM3OWYyNzFkMzA5YWU4YTgxNjJkOThjMTZmMTFjNjg3",
+  "sha": "936f66ebc79f271d309ae8a8162d98c16f11c687",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/936f66ebc79f271d309ae8a8162d98c16f11c687",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-02-17T04:34:14Z"
+  },
+  "object": {
+    "sha": "20fba8389185c166cd879b797ed3548898601c9a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/20fba8389185c166cd879b797ed3548898601c9a"
+  },
+  "tag": "10.0.0.0rc2",
+  "message": "cinder 10.0.0.0rc2 release candidate\n\nmeta:version: 10.0.0.0rc2\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Commit: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Change-Id: I1f668256b27060b698f6b0848f6f5138f920db2b\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYpn1GAAoJELkGmxM1cAzcwLoH/R2w5JTNQ6+oAdmoNUFkBwaj\n3VrnQiHFAhnjt5mdVzHHhGLAkvzJN/DAsS3bhunglOtRPlUKsCpSXtRj9L5LOsak\nJT21bIT2XEpIOgsFiPm3GHXfFqLMtxlZgSBKHN0eRKfMlXOT1jMpuNil58YekfOS\nq3pXQgJ9JJ48Ft9oV+cpkxxRUxcxWUfxmz9w2PpLytCMuT0YyyOW/ZrRtmZewGx7\nSchrGXbHymXxuvHTy/4SiEmDQLAbw9plhGnIMTUIVhhN2NNXPkInmJxsQfCZ53bJ\n/vwZTjxyTA0Erkmo66cC6NOUFkyhhfWvKRmaDGKj8istnNjj5wXy4LqXXH8NbiQ=\n=GIOL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYpn1GAAoJELkGmxM1cAzcwLoH/R2w5JTNQ6+oAdmoNUFkBwaj\n3VrnQiHFAhnjt5mdVzHHhGLAkvzJN/DAsS3bhunglOtRPlUKsCpSXtRj9L5LOsak\nJT21bIT2XEpIOgsFiPm3GHXfFqLMtxlZgSBKHN0eRKfMlXOT1jMpuNil58YekfOS\nq3pXQgJ9JJ48Ft9oV+cpkxxRUxcxWUfxmz9w2PpLytCMuT0YyyOW/ZrRtmZewGx7\nSchrGXbHymXxuvHTy/4SiEmDQLAbw9plhGnIMTUIVhhN2NNXPkInmJxsQfCZ53bJ\n/vwZTjxyTA0Erkmo66cC6NOUFkyhhfWvKRmaDGKj8istnNjj5wXy4LqXXH8NbiQ=\n=GIOL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 20fba8389185c166cd879b797ed3548898601c9a\ntype commit\ntag 10.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1487306054 +0000\n\ncinder 10.0.0.0rc2 release candidate\n\nmeta:version: 10.0.0.0rc2\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Commit: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Change-Id: I1f668256b27060b698f6b0848f6f5138f920db2b\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

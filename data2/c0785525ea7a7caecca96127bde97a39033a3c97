@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMDUxOmMwNzg1NTI1ZWE3YTdjYWVjY2E5NjEyN2JkZTk3YTM5MDMzYTNjOTc=",
+  "sha": "c0785525ea7a7caecca96127bde97a39033a3c97",
+  "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/tags/c0785525ea7a7caecca96127bde97a39033a3c97",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2016-09-06T15:40:32Z"
+  },
+  "object": {
+    "sha": "c0fb2d367b8be5e9f53919f88a8c344dc8c61fe9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/commits/c0fb2d367b8be5e9f53919f88a8c344dc8c61fe9"
+  },
+  "tag": "v8.9.8",
+  "message": "8.9.8\n--------\n * fix a lot of regressions from allowing to pass command options\n   on the drbdadm adjust commandline. (filtering of backend options)\n * wait-for-* return success if there are no peers\n * naturally align 64 bit attributes in gennetlink packets\n * improve systemd unit-file to wait for network-online.target\n * return success for a resize to the same size even if a resync\n   does not allow as resize at this point in time\n * improve sh-nop with --config-to-test with new --config-to-exclude\n   and correct exit code\n * implemented --json for drbdsetup status\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBXzuODabsdXACqiTMRAhjEAJ9+fawrvFwgrJnS1kKzuA2KOwoVpgCgq00T\n//FwacbjVJCgShw+dJuZGCw=\n=IoES\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBXzuODabsdXACqiTMRAhjEAJ9+fawrvFwgrJnS1kKzuA2KOwoVpgCgq00T\n//FwacbjVJCgShw+dJuZGCw=\n=IoES\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c0fb2d367b8be5e9f53919f88a8c344dc8c61fe9\ntype commit\ntag v8.9.8\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1473176432 +0200\n\n8.9.8\n--------\n * fix a lot of regressions from allowing to pass command options\n   on the drbdadm adjust commandline. (filtering of backend options)\n * wait-for-* return success if there are no peers\n * naturally align 64 bit attributes in gennetlink packets\n * improve systemd unit-file to wait for network-online.target\n * return success for a resize to the same size even if a resync\n   does not allow as resize at this point in time\n * improve sh-nop with --config-to-test with new --config-to-exclude\n   and correct exit code\n * implemented --json for drbdsetup status\n"
+  }
+}

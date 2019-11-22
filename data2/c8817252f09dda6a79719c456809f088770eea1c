@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI4MjEzMDM6Yzg4MTcyNTJmMDlkZGE2YTc5NzE5YzQ1NjgwOWYwODg3NzBlZWExYw==",
+  "sha": "c8817252f09dda6a79719c456809f088770eea1c",
+  "url": "https://api.github.com/repos/coreos/go-systemd/git/tags/c8817252f09dda6a79719c456809f088770eea1c",
+  "tagger": {
+    "name": "Luca Bruno",
+    "email": "luca.bruno@coreos.com",
+    "date": "2016-06-07T16:04:18Z"
+  },
+  "object": {
+    "sha": "6dc8b843c670f2027cc26b164935635840a40526",
+    "type": "commit",
+    "url": "https://api.github.com/repos/coreos/go-systemd/git/commits/6dc8b843c670f2027cc26b164935635840a40526"
+  },
+  "tag": "v9",
+  "message": "go-systemd v9\n\nSummary of changes in this release:\n * dbus: add support for new ListUnits* methods\n * sdjournal: export all fields IDs\n * sdjournal: add GetEntry method to retrieve all fields\n * sdjournal: don't close libsystemd on Close()\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXVvFwAAoJEKmDSiJSB45OtZ0P/2Gv+w5NlBDyIGY8U8YQnHn3\nfNkOpg/1y7W3FSVw0CeGBORFFzjAaUyzrGB0xsFSWF/O0d2xcPTZMoLOSds7w1mN\nmWVS252obc/FAlIFgOcGZqnBs0ITEpXi+5F4vmaFKzVZ+HASBVrtDyLDVc1smPFP\nfclJTSxx9Opdzd2bVAFUUo0K/Wwf59+vx1DZ9wSKtQtpx+diSAMHak3K7fkqzxFV\nveT7aMXdUItMq/1oHcJIT467y4UnMUMDDGS/lNc8j6bQPTbcdGEspBGwfAZFam6g\nlsISViPWEutR28+aqKZqvpOWJBCHJ3OlBB7dwXb/qRpf2pUWmu5Q+5FWwQsCy/VL\nXAXW8B1wvnEFgZMZRDoa5Kj7mhWuMNVUL5UgCIK+jCpcVNYLc+5bpeHEvLx0zeoe\nEPSNsAva0Wu01AaSQ6EiD4l+lwt5KvgyE0Gg1qUcdS/uKyZzO2uxPIkGoC/VNlXh\nhA2G/pfvpeRHrFVxCIsp1oLVJwm82PwxElNjmTUUG/2cGwOlqZ66cTiA1011bst6\na6gDySuHZ4oJPTQmFVUbxTcIxXwETIcZMf+Rks6gs+0dSJ9mW61i8Ha76oGPUfvP\n+WJQQkwJjsy+59sYkgecu/szgVuqsruASo/eGdTb3KkCEKlqw0ClZaVvZhMMgrb/\niLZjlcePR82tZPYoMD+P\n=tVys\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXVvFwAAoJEKmDSiJSB45OtZ0P/2Gv+w5NlBDyIGY8U8YQnHn3\nfNkOpg/1y7W3FSVw0CeGBORFFzjAaUyzrGB0xsFSWF/O0d2xcPTZMoLOSds7w1mN\nmWVS252obc/FAlIFgOcGZqnBs0ITEpXi+5F4vmaFKzVZ+HASBVrtDyLDVc1smPFP\nfclJTSxx9Opdzd2bVAFUUo0K/Wwf59+vx1DZ9wSKtQtpx+diSAMHak3K7fkqzxFV\nveT7aMXdUItMq/1oHcJIT467y4UnMUMDDGS/lNc8j6bQPTbcdGEspBGwfAZFam6g\nlsISViPWEutR28+aqKZqvpOWJBCHJ3OlBB7dwXb/qRpf2pUWmu5Q+5FWwQsCy/VL\nXAXW8B1wvnEFgZMZRDoa5Kj7mhWuMNVUL5UgCIK+jCpcVNYLc+5bpeHEvLx0zeoe\nEPSNsAva0Wu01AaSQ6EiD4l+lwt5KvgyE0Gg1qUcdS/uKyZzO2uxPIkGoC/VNlXh\nhA2G/pfvpeRHrFVxCIsp1oLVJwm82PwxElNjmTUUG/2cGwOlqZ66cTiA1011bst6\na6gDySuHZ4oJPTQmFVUbxTcIxXwETIcZMf+Rks6gs+0dSJ9mW61i8Ha76oGPUfvP\n+WJQQkwJjsy+59sYkgecu/szgVuqsruASo/eGdTb3KkCEKlqw0ClZaVvZhMMgrb/\niLZjlcePR82tZPYoMD+P\n=tVys\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6dc8b843c670f2027cc26b164935635840a40526\ntype commit\ntag v9\ntagger Luca Bruno <luca.bruno@coreos.com> 1465315458 +0200\n\ngo-systemd v9\n\nSummary of changes in this release:\n * dbus: add support for new ListUnits* methods\n * sdjournal: export all fields IDs\n * sdjournal: add GetEntry method to retrieve all fields\n * sdjournal: don't close libsystemd on Close()\n"
+  }
+}

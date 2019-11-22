@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDo1ODNiZjQwMmVjMjVlNjBhODY3ZjJhMWM0Yzg4NWY5ZTE2Njk3ZTg4",
+  "sha": "583bf402ec25e60a867f2a1c4c885f9e16697e88",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/583bf402ec25e60a867f2a1c4c885f9e16697e88",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-07-27T21:02:46Z"
+  },
+  "object": {
+    "sha": "8414a58ad47802e3d68aec327c274d7689af9faf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/8414a58ad47802e3d68aec327c274d7689af9faf"
+  },
+  "tag": "11.0.0.0b3",
+  "message": "cinder 11.0.0.0b3 development milestone\n\nmeta:version: 11.0.0.0b3\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I34af253edac2835d9dd5af085f2bbaad7a702aeb\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZelT2AAoJEOtsyhSD+nTs8pQH/1h8x0zxH+0bSBUgWTPTn8h6\nOW/WJX0Ok2RjrErYJ7Acy5SciF7G0nv9kguh/OXOP6mqYugiQ8I2/cdfrAtNrOxw\nXguhPmbc2VCNRU8xbdh928i57VT2r6TeTu08SSVYqP0UQboPHvHJvZf5JsCnLZhI\nM5kecI9/rxDTDqb0JH02goAoGppzX8efCIkv0qQG3CQcirJSzwwka7YQ9djiGioK\nIKtZ9ZKQDhmFH6tUOKAw2+wAY1+hkAQvCMrzwo2POS6sgHQjN7wnc9NExIIUfFMf\nID5fHljIGrSynGSbbQvXSmQ9VQEG2S7HoJqsoHM+lM631DDQLRE7TgnJ4quRH+E=\n=ULVp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZelT2AAoJEOtsyhSD+nTs8pQH/1h8x0zxH+0bSBUgWTPTn8h6\nOW/WJX0Ok2RjrErYJ7Acy5SciF7G0nv9kguh/OXOP6mqYugiQ8I2/cdfrAtNrOxw\nXguhPmbc2VCNRU8xbdh928i57VT2r6TeTu08SSVYqP0UQboPHvHJvZf5JsCnLZhI\nM5kecI9/rxDTDqb0JH02goAoGppzX8efCIkv0qQG3CQcirJSzwwka7YQ9djiGioK\nIKtZ9ZKQDhmFH6tUOKAw2+wAY1+hkAQvCMrzwo2POS6sgHQjN7wnc9NExIIUfFMf\nID5fHljIGrSynGSbbQvXSmQ9VQEG2S7HoJqsoHM+lM631DDQLRE7TgnJ4quRH+E=\n=ULVp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8414a58ad47802e3d68aec327c274d7689af9faf\ntype commit\ntag 11.0.0.0b3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1501189366 +0000\n\ncinder 11.0.0.0b3 development milestone\n\nmeta:version: 11.0.0.0b3\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I34af253edac2835d9dd5af085f2bbaad7a702aeb\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

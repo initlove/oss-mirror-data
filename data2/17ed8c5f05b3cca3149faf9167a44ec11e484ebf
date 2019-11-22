@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNjQzMDUxOjE3ZWQ4YzVmMDViM2NjYTMxNDlmYWY5MTY3YTQ0ZWMxMWU0ODRlYmY=",
+  "sha": "17ed8c5f05b3cca3149faf9167a44ec11e484ebf",
+  "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/tags/17ed8c5f05b3cca3149faf9167a44ec11e484ebf",
+  "tagger": {
+    "name": "Philipp Reisner",
+    "email": "philipp.reisner@linbit.com",
+    "date": "2014-08-06T14:40:05Z"
+  },
+  "object": {
+    "sha": "87039e4993dc682232ec6365900ace657e060c73",
+    "type": "commit",
+    "url": "https://api.github.com/repos/LINBIT/drbd-utils/git/commits/87039e4993dc682232ec6365900ace657e060c73"
+  },
+  "tag": "v8.9.1",
+  "message": "8.9.1\n--------\n  * add DRBD systemd service\n  * new configuration options socket-check-timeout and csums-after-crash-only\n  * update xen block-drbd helper: allow for type \"phy\"\n  * update udev rules and move from /etc/ to /lib/\n  * fix various regressions/fallout from the kernel/userland package split,\n    re-add scripts drbddisk and drbdupper,\n    re-add \"become-on-primary\" feature to init script\n  * crm-fence-peer.sh: improve detection of \"clean down\"\n  * updated fencing scripts stonith_admin-fence-peer.sh and rhcs_fence\n  * improved \"proxy\" configuration section parsing\n  * added manpage for drbd-overview, minor review of man pages\n  * build: various changes in configure.ac, makefiles, debian/* and spec file\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBT4j5RabsdXACqiTMRArsRAJ0U8G1H7uEA8qYRrYIMoBngFgFMzQCggjdU\njArHU6KVY41ixvl4ZpKcUqs=\n=CM1u\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niD8DBQBT4j5RabsdXACqiTMRArsRAJ0U8G1H7uEA8qYRrYIMoBngFgFMzQCggjdU\njArHU6KVY41ixvl4ZpKcUqs=\n=CM1u\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 87039e4993dc682232ec6365900ace657e060c73\ntype commit\ntag v8.9.1\ntagger Philipp Reisner <philipp.reisner@linbit.com> 1407336005 +0200\n\n8.9.1\n--------\n  * add DRBD systemd service\n  * new configuration options socket-check-timeout and csums-after-crash-only\n  * update xen block-drbd helper: allow for type \"phy\"\n  * update udev rules and move from /etc/ to /lib/\n  * fix various regressions/fallout from the kernel/userland package split,\n    re-add scripts drbddisk and drbdupper,\n    re-add \"become-on-primary\" feature to init script\n  * crm-fence-peer.sh: improve detection of \"clean down\"\n  * updated fencing scripts stonith_admin-fence-peer.sh and rhcs_fence\n  * improved \"proxy\" configuration section parsing\n  * added manpage for drbd-overview, minor review of man pages\n  * build: various changes in configure.ac, makefiles, debian/* and spec file\n"
+  }
+}

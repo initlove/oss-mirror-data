@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY0MjczNTplNmIyYWRlNzM4ZDY0MDk0YmJmZTc0Y2I3MTcwYzI5YjUxODJhMTky",
+  "sha": "e6b2ade738d64094bbfe74cb7170c29b5182a192",
+  "url": "https://api.github.com/repos/openstack/ceilometer/git/tags/e6b2ade738d64094bbfe74cb7170c29b5182a192",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-10-15T21:59:26Z"
+  },
+  "object": {
+    "sha": "018ff32fe0200a041297c386eb8b381f1bec0e71",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ceilometer/git/commits/018ff32fe0200a041297c386eb8b381f1bec0e71"
+  },
+  "tag": "11.0.1",
+  "message": "ceilometer 11.0.1 release\n\nmeta:version: 11.0.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Tobias Urdin <tobias.urdin@binero.se>\nmeta:release:Commit: Tobias Urdin <tobias.urdin@binero.se>\nmeta:release:Change-Id: I6c1ce8fefec1060a2feb320e8d8577a767005d90\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Julien Danjou <julien@danjou.info>\nmeta:release:Code-Review+1: zhongshengping <chdzsp@163.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbxQ2+AAoJEBpUEUgFTp44FB0L/1aHzGsCUluf/ptzVQ/Mb6xt\nVT9pgzxXuSCpEafBwOJ2BTJ8zZwYdFr5Kp3KiTGV7nwr0FOBbMGkCZCIM4SLP8p2\n0tkekhakIvRFHEbK6YEpc+2f0hV2+YQtvWHKk/sRSLEjSe+O1d8zHL26KnzHIEZj\nvXO6lwBsNToaqSWhwTZxkswr0PnMjioV4BdzcLwRQem4QMu883NIFtpUfQOjwFbD\nUUivha0EPiOOBbKICBcX7m3A3CPkxYI0w0Oehjvg9vGkU0vdBv+ghaUubd1YETom\nWijDs+HBZChrXgZDCGn7wLErCJWPgK1dCB3ka/il1nBOb1LqgEgm42pgZK1+P3Yj\nEqiBM9TUvjoH7SYE7KTP9Ruqmr5nd7+SG6v+2gfXV5rcbJcGbVKUqKBJ1+plVA4n\nG4HqKRi9emuMcItZ5wwKkF6MQuuG3QqG2pTFRxkxofcEjy8rhUXzh8FGItY/d8fZ\nfBDzB5NvUWGbrLJA7eiB9+t2BZwm1XHSL6szp9pcDg==\n=dz4W\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbxQ2+AAoJEBpUEUgFTp44FB0L/1aHzGsCUluf/ptzVQ/Mb6xt\nVT9pgzxXuSCpEafBwOJ2BTJ8zZwYdFr5Kp3KiTGV7nwr0FOBbMGkCZCIM4SLP8p2\n0tkekhakIvRFHEbK6YEpc+2f0hV2+YQtvWHKk/sRSLEjSe+O1d8zHL26KnzHIEZj\nvXO6lwBsNToaqSWhwTZxkswr0PnMjioV4BdzcLwRQem4QMu883NIFtpUfQOjwFbD\nUUivha0EPiOOBbKICBcX7m3A3CPkxYI0w0Oehjvg9vGkU0vdBv+ghaUubd1YETom\nWijDs+HBZChrXgZDCGn7wLErCJWPgK1dCB3ka/il1nBOb1LqgEgm42pgZK1+P3Yj\nEqiBM9TUvjoH7SYE7KTP9Ruqmr5nd7+SG6v+2gfXV5rcbJcGbVKUqKBJ1+plVA4n\nG4HqKRi9emuMcItZ5wwKkF6MQuuG3QqG2pTFRxkxofcEjy8rhUXzh8FGItY/d8fZ\nfBDzB5NvUWGbrLJA7eiB9+t2BZwm1XHSL6szp9pcDg==\n=dz4W\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 018ff32fe0200a041297c386eb8b381f1bec0e71\ntype commit\ntag 11.0.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1539640766 +0000\n\nceilometer 11.0.1 release\n\nmeta:version: 11.0.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Tobias Urdin <tobias.urdin@binero.se>\nmeta:release:Commit: Tobias Urdin <tobias.urdin@binero.se>\nmeta:release:Change-Id: I6c1ce8fefec1060a2feb320e8d8577a767005d90\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Julien Danjou <julien@danjou.info>\nmeta:release:Code-Review+1: zhongshengping <chdzsp@163.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

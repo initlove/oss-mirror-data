@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzYyNTE4MjY6OGUyODliM2NmNmZmOGU3NzRmMzJiYWRjZmZjMWM2NGMzZmQ0MTNiMw==",
+  "sha": "8e289b3cf6ff8e774f32badcffc1c64c3fd413b3",
+  "url": "https://api.github.com/repos/supasate/connected-react-router/git/tags/8e289b3cf6ff8e774f32badcffc1c64c3fd413b3",
+  "tagger": {
+    "name": "Supasate Choochaisri",
+    "email": "supasate@fb.com",
+    "date": "2018-08-12T02:51:06Z"
+  },
+  "object": {
+    "sha": "f3438f8cb6d8868fe566e16d2156d1613c07b067",
+    "type": "commit",
+    "url": "https://api.github.com/repos/supasate/connected-react-router/git/commits/f3438f8cb6d8868fe566e16d2156d1613c07b067"
+  },
+  "tag": "v4.4",
+  "message": "v4.4.0\n\nFeature\n---\n- Dispatch location change action for initial location (@brian-lives-outdoors @96)\n- Add selectors (getLocation, getAction, createMatchSelector) (@josepot in #98)\n- [TypeScript] Add RouterAction (@brian-lives-outdoors in #95).\n- [TypeScript] Expose an enum for RouterState.action (@tleverett in #106).\n\nEnhancement\n---\n- [TypeScript] Use Location type from `history` (@VincentLanglet in #87).\n- Move react-router to peerDependency (@gustavovnicius in #93).\n- Add FAQ on server-side rendering (@cereallarceny in #105).\n\nFix\n---\n- Update Redux peer dependency to Redux v4 (@brneto in #75).\n- Update dependency in a TypeScript example (@tsekityam in #90).\n- Fix 404 links in Readme (@abenhamdine and @luish in #82, #87, and #94).\n- Fix typos in FAQ (@Armour and @meesvandongen in #100 and #101).\n- Improve grammar in README and FAQ (@jbasilio in #112)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

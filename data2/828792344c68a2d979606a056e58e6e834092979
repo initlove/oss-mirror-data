@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkzNzQ1MzQ6ODI4NzkyMzQ0YzY4YTJkOTc5NjA2YTA1NmU1OGU2ZTgzNDA5Mjk3OQ==",
+  "sha": "828792344c68a2d979606a056e58e6e834092979",
+  "url": "https://api.github.com/repos/openstack/debtcollector/git/tags/828792344c68a2d979606a056e58e6e834092979",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-07-10T20:09:02Z"
+  },
+  "object": {
+    "sha": "9d3fbc726fb4bb5699bb6eec2dfeb51cc0e762f0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/debtcollector/git/commits/9d3fbc726fb4bb5699bb6eec2dfeb51cc0e762f0"
+  },
+  "tag": "1.16.0",
+  "message": "debtcollector 1.16.0 release\n\nmeta:version: 1.16.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: I7f5c51c16b586e1a0057613c380e5cdd7f920841\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZY97eAAoJEOtsyhSD+nTshNwH/jkIFGEOhQ6DZla7o84i/2FF\nezQjKHQ8ft9T7StHgmu5odywfOJOFrkl2Ce+/oProaLhnPSJyEpB2eE0wVdnYvrc\nnnlqyapwvQYIEA7IAJlXwKW8d+ZpNlZeyLUATv1AadUAUBiyaJrYVLxO01R7upNh\nWhPw9Q0VcYCu3V3qv/cfg5tiv7lCZE+kDttsut4J6ETq18PXDhxdtm+y4o2EFfD7\nV+d4a8thgNgoQgajbJzTXXfYRA5qxCkEHpGwuAqbB16GjGDuahpLMKb5DpfXem3a\nW2LW74PQvhf5xb1wU7xoQFhidCHx5pEmuIDG/CTytcV4HBxVq/pYejGtcR5RpvY=\n=Lrau\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZY97eAAoJEOtsyhSD+nTshNwH/jkIFGEOhQ6DZla7o84i/2FF\nezQjKHQ8ft9T7StHgmu5odywfOJOFrkl2Ce+/oProaLhnPSJyEpB2eE0wVdnYvrc\nnnlqyapwvQYIEA7IAJlXwKW8d+ZpNlZeyLUATv1AadUAUBiyaJrYVLxO01R7upNh\nWhPw9Q0VcYCu3V3qv/cfg5tiv7lCZE+kDttsut4J6ETq18PXDhxdtm+y4o2EFfD7\nV+d4a8thgNgoQgajbJzTXXfYRA5qxCkEHpGwuAqbB16GjGDuahpLMKb5DpfXem3a\nW2LW74PQvhf5xb1wU7xoQFhidCHx5pEmuIDG/CTytcV4HBxVq/pYejGtcR5RpvY=\n=Lrau\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9d3fbc726fb4bb5699bb6eec2dfeb51cc0e762f0\ntype commit\ntag 1.16.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1499717342 +0000\n\ndebtcollector 1.16.0 release\n\nmeta:version: 1.16.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: I7f5c51c16b586e1a0057613c380e5cdd7f920841\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

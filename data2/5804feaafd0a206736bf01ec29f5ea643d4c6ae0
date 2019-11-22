@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjgzNjYwNTg6NTgwNGZlYWFmZDBhMjA2NzM2YmYwMWVjMjlmNWVhNjQzZDRjNmFlMA==",
+  "sha": "5804feaafd0a206736bf01ec29f5ea643d4c6ae0",
+  "url": "https://api.github.com/repos/docker/distribution/git/tags/5804feaafd0a206736bf01ec29f5ea643d4c6ae0",
+  "tagger": {
+    "name": "Stephen J Day",
+    "email": "stephen.day@docker.com",
+    "date": "2015-04-07T04:04:04Z"
+  },
+  "object": {
+    "sha": "434be18e350e5f4d2a79c5d54ada9e217f7743f1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/docker/distribution/git/commits/434be18e350e5f4d2a79c5d54ada9e217f7743f1"
+  },
+  "tag": "v2.0.0-rc.1",
+  "message": "v2.0.0-rc.1: Documentation, layer caching and bugfixes\n\nThis is an updated release candidate that includes layer info caching and some\nbugfixes for cloudfront support. Documentation has also been heavily updated\nbut is still not complete.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVI1eMAAoJEPtfaykF1+zzD8sP/2bKo4978NxqacuvxoIttqwb\nRRGX7RQpoSW4hR5z5vNaefFGZ57dwAJvLTOaoYc+pPgq6j2bGhT4n+dl0wpJJpGu\njsTIkGhiSmb28GNmBrZwWbINh/Gfg3w+ydFYrQSh6EIr2nE+jojQuuIt4Rb02Qt5\n2BG6fPNKzCfG46A5IiPVCSe6wCd+UX8kADONMJ3xlB81T1FE7rWrUc1C+hggm9BY\n5mkOeO9fgKs97+9FkwcunX2V1Xwx9/EVfMVgqzSWnra5U9L2XtGdiNnvYT2biPe7\nS9gbB8faAWEn9i3ppsqTDNRw9m81P2nT27H8LxL+Whi/YkEoWL6dnBTeY2c4RvFq\n3z/2EVlSNJ88QLIyRMsa6Dqxp1UlF2oukIYyEYCdRHemtsSTArisamOsOzPLwO3v\nXpCF7Goa3eXaA45jpJYVaI/YLx7esOozP0bk3JF2AIQON0n8FxqeAv3LQ9CckFUS\ngPMbAFAq+SVmpFkTVDvUfFvs3uYzbI7JRbAV909Co1W6XM9y4BRiJv6VYaKhO12M\nmDuSLi+ZSONItauELy0Ke9Ql8OOc1fXBOMltSCyXzN+GBphY5394Fm9zWRGJbBjy\nl0akc/z92HpawBvD281s1/Xvk0gA+AU39LS+I9Y1co3VfeZAbPiFwkKGuzP4Lq18\nmhe6wh4JnzuuzSsbF/xM\n=5uj8\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVI1eMAAoJEPtfaykF1+zzD8sP/2bKo4978NxqacuvxoIttqwb\nRRGX7RQpoSW4hR5z5vNaefFGZ57dwAJvLTOaoYc+pPgq6j2bGhT4n+dl0wpJJpGu\njsTIkGhiSmb28GNmBrZwWbINh/Gfg3w+ydFYrQSh6EIr2nE+jojQuuIt4Rb02Qt5\n2BG6fPNKzCfG46A5IiPVCSe6wCd+UX8kADONMJ3xlB81T1FE7rWrUc1C+hggm9BY\n5mkOeO9fgKs97+9FkwcunX2V1Xwx9/EVfMVgqzSWnra5U9L2XtGdiNnvYT2biPe7\nS9gbB8faAWEn9i3ppsqTDNRw9m81P2nT27H8LxL+Whi/YkEoWL6dnBTeY2c4RvFq\n3z/2EVlSNJ88QLIyRMsa6Dqxp1UlF2oukIYyEYCdRHemtsSTArisamOsOzPLwO3v\nXpCF7Goa3eXaA45jpJYVaI/YLx7esOozP0bk3JF2AIQON0n8FxqeAv3LQ9CckFUS\ngPMbAFAq+SVmpFkTVDvUfFvs3uYzbI7JRbAV909Co1W6XM9y4BRiJv6VYaKhO12M\nmDuSLi+ZSONItauELy0Ke9Ql8OOc1fXBOMltSCyXzN+GBphY5394Fm9zWRGJbBjy\nl0akc/z92HpawBvD281s1/Xvk0gA+AU39LS+I9Y1co3VfeZAbPiFwkKGuzP4Lq18\nmhe6wh4JnzuuzSsbF/xM\n=5uj8\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 434be18e350e5f4d2a79c5d54ada9e217f7743f1\ntype commit\ntag v2.0.0-rc.1\ntagger Stephen J Day <stephen.day@docker.com> 1428379444 -0700\n\nv2.0.0-rc.1: Documentation, layer caching and bugfixes\n\nThis is an updated release candidate that includes layer info caching and some\nbugfixes for cloudfront support. Documentation has also been heavily updated\nbut is still not complete.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDo5YzkyNjYwMTFhMmJjY2YwYjQyN2MyMTliYTMxYTYwZjMzYjdjYTRk",
+  "sha": "9c9266011a2bccf0b427c219ba31a60f33b7ca4d",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/9c9266011a2bccf0b427c219ba31a60f33b7ca4d",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-12-03T16:29:00Z"
+  },
+  "object": {
+    "sha": "73baefac2f42a59f66bedcdddbb9debb3f324dff",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/73baefac2f42a59f66bedcdddbb9debb3f324dff"
+  },
+  "tag": "13.0.2",
+  "message": "cinder 13.0.2 release\n\nmeta:version: 13.0.2\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jay S. Bryant <jsbryant@electronicjungle.net>\nmeta:release:Commit: Jay S. Bryant <jsbryant@electronicjungle.net>\nmeta:release:Change-Id: Id92e0e83b74397d612ecc0c6246924bc4f93e152\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcBVnMAAoJEBpUEUgFTp44X0EMALPibUE5Pegv5Lrly2g6Uwq3\nNbXIQl4RnGJLtxGCXRidX8FeCx/qpoTW7hlJZTQ3XGY6ecwiqJq8kaBJc/rl3Hmd\nfYeNsBEiQvTTtlBRcHQNJo51nttdmqnuAzoPQ9NLFmE79iYaCE9LCRe83N9sz8QV\nJXLOI+mWSB28yGWXEqXesfSc25JNCyDgS1aQ9Ib2tfVq6ZxYgWLUzjk4jn9Mztcm\nsBgEMZpY25VLXG1w7gSROumRE/kEbhty4LqoFdRoLecIlLm6DcOSaT9S7EbQ4lC9\nUajD5gTrPfMcOx1wndgggl6ZR1XajL8HnbIyEgrJGAwoq3O9zziqzHer5oDeJ+Ql\nWSFoUg33am9duGKGyMqW04FMNWB8b+QqNhQLkA9OCeZVaVoYNp+0extG90lK/z3M\n7zBM/u1W5BH7xItGLfqb8QCVjWE+eKjLWUnMXjlOJhiD/Z3B0dQwcO9KtqEmKWEh\nDeM6CcNavBOxq8tJ/PDTOIV5Ibsnd4MqLhsBDhak2A==\n=qkv9\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcBVnMAAoJEBpUEUgFTp44X0EMALPibUE5Pegv5Lrly2g6Uwq3\nNbXIQl4RnGJLtxGCXRidX8FeCx/qpoTW7hlJZTQ3XGY6ecwiqJq8kaBJc/rl3Hmd\nfYeNsBEiQvTTtlBRcHQNJo51nttdmqnuAzoPQ9NLFmE79iYaCE9LCRe83N9sz8QV\nJXLOI+mWSB28yGWXEqXesfSc25JNCyDgS1aQ9Ib2tfVq6ZxYgWLUzjk4jn9Mztcm\nsBgEMZpY25VLXG1w7gSROumRE/kEbhty4LqoFdRoLecIlLm6DcOSaT9S7EbQ4lC9\nUajD5gTrPfMcOx1wndgggl6ZR1XajL8HnbIyEgrJGAwoq3O9zziqzHer5oDeJ+Ql\nWSFoUg33am9duGKGyMqW04FMNWB8b+QqNhQLkA9OCeZVaVoYNp+0extG90lK/z3M\n7zBM/u1W5BH7xItGLfqb8QCVjWE+eKjLWUnMXjlOJhiD/Z3B0dQwcO9KtqEmKWEh\nDeM6CcNavBOxq8tJ/PDTOIV5Ibsnd4MqLhsBDhak2A==\n=qkv9\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 73baefac2f42a59f66bedcdddbb9debb3f324dff\ntype commit\ntag 13.0.2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1543854540 +0000\n\ncinder 13.0.2 release\n\nmeta:version: 13.0.2\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jay S. Bryant <jsbryant@electronicjungle.net>\nmeta:release:Commit: Jay S. Bryant <jsbryant@electronicjungle.net>\nmeta:release:Change-Id: Id92e0e83b74397d612ecc0c6246924bc4f93e152\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzYyNTE4MjY6ZTFhODE4NWQyZmQwZmUxMTc5MzVjMWE0NGI4MTk0MzVkNjNmZWYwYw==",
+  "sha": "e1a8185d2fd0fe117935c1a44b819435d63fef0c",
+  "url": "https://api.github.com/repos/supasate/connected-react-router/git/tags/e1a8185d2fd0fe117935c1a44b819435d63fef0c",
+  "tagger": {
+    "name": "Supasate Choochaisri",
+    "email": "supasate.c@gmail.com",
+    "date": "2016-12-23T17:20:45Z"
+  },
+  "object": {
+    "sha": "38651bfdc874f5c945fc11cf4f20ed0cd7779909",
+    "type": "commit",
+    "url": "https://api.github.com/repos/supasate/connected-react-router/git/commits/38651bfdc874f5c945fc11cf4f20ed0cd7779909"
+  },
+  "tag": "v2.0.0-alpha.1",
+  "message": "v2.0.0-alpha.1\n\nBug Fix\n- #7 Time Travel works now (@dictions)\n\nBreaking change\n- Use connectRouter(history)(rootReducer) instead of manually mounting routerReducer.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

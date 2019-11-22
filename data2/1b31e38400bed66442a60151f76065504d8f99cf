@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY0MjczNToxYjMxZTM4NDAwYmVkNjY0NDJhNjAxNTFmNzYwNjU1MDRkOGY5OWNm",
+  "sha": "1b31e38400bed66442a60151f76065504d8f99cf",
+  "url": "https://api.github.com/repos/openstack/ceilometer/git/tags/1b31e38400bed66442a60151f76065504d8f99cf",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-01-25T16:04:57Z"
+  },
+  "object": {
+    "sha": "5a51a3c21881d55ae2c53582f1e11218eaaeb668",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ceilometer/git/commits/5a51a3c21881d55ae2c53582f1e11218eaaeb668"
+  },
+  "tag": "5.0.2",
+  "message": "ceilometer 5.0.2 release\n\nmeta:version: 5.0.2\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWpkepAAoJEDttBqDEKEN6rc4H/1Bncoj2BMGg69UKqtL+cair\naxselRcbxlXx/brF2l8JZJEQSl09/KrHAPww/r8m/CymMlLhn5vMidMixMTfYuqr\nK3jf2A/w6eqVgZyJwoGXFEczpg/hJdALYi0gd/EvGzMdg18bEQ9NkZZW46LIx9dn\n31f3XldXj2LbsiJL0GdiXivJfZgFS2+dlYO5iSCikp8X+mQEyDCUA/03YgKXOlTn\nWCdiGUidY56TXfuMmV+Tde6/RIZPa9jEEHNAhh/2Dokj9E+7SExjDkEjNn7yA2Ur\n7MDZkMSOgunC+gD6zkAbNCn+lq8UycfmspIhaMnH0ExW/lAdUOfWDqmUopk9GmM=\n=2tsv\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWpkepAAoJEDttBqDEKEN6rc4H/1Bncoj2BMGg69UKqtL+cair\naxselRcbxlXx/brF2l8JZJEQSl09/KrHAPww/r8m/CymMlLhn5vMidMixMTfYuqr\nK3jf2A/w6eqVgZyJwoGXFEczpg/hJdALYi0gd/EvGzMdg18bEQ9NkZZW46LIx9dn\n31f3XldXj2LbsiJL0GdiXivJfZgFS2+dlYO5iSCikp8X+mQEyDCUA/03YgKXOlTn\nWCdiGUidY56TXfuMmV+Tde6/RIZPa9jEEHNAhh/2Dokj9E+7SExjDkEjNn7yA2Ur\n7MDZkMSOgunC+gD6zkAbNCn+lq8UycfmspIhaMnH0ExW/lAdUOfWDqmUopk9GmM=\n=2tsv\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5a51a3c21881d55ae2c53582f1e11218eaaeb668\ntype commit\ntag 5.0.2\ntagger Doug Hellmann <doug@doughellmann.com> 1453737897 -0500\n\nceilometer 5.0.2 release\n\nmeta:version: 5.0.2\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\n"
+  }
+}

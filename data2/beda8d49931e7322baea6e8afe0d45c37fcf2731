@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY0MjczNTpiZWRhOGQ0OTkzMWU3MzIyYmFlYTZlOGFmZTBkNDVjMzdmY2YyNzMx",
+  "sha": "beda8d49931e7322baea6e8afe0d45c37fcf2731",
+  "url": "https://api.github.com/repos/openstack/ceilometer/git/tags/beda8d49931e7322baea6e8afe0d45c37fcf2731",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-02-08T02:26:26Z"
+  },
+  "object": {
+    "sha": "46aee0a86424004290249a2d7c37157ab853f994",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ceilometer/git/commits/46aee0a86424004290249a2d7c37157ab853f994"
+  },
+  "tag": "10.0.0",
+  "message": "ceilometer 10.0.0 release\n\nmeta:version: 10.0.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: apolloliu <hanxi.liu@easystack.cn>\nmeta:release:Commit: gord chung <gord@live.ca>\nmeta:release:Change-Id: I868e08defb8f6542156eeaa4a9220a78a3139b50\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJae7VSAAoJEEIeZHKBH5qBTbsIAJQW0dnvzUPfK95YZDLZhNyU\nTzpG7ciRNqPzwIjPqrPWCctpcttClu8t9eKbrQzVyGIaQUP+GAeDS0nK0dZHJ41W\n9c6cBUhMjVV+UW+Mg7oflZUeBXcSGnUqYcRWZMnyD1OJG8RxR/8EKJFDpk/RyqhA\nNa82JgoJfUDiKHKM9l+QF4CKfaLgyLvZ7DJKIpi+GWpszN1NY66gNGs0hzQwWwUI\n9FfUeU8DeBCwp+kKuKYYiqeyKWZCtwl7tVNrNKnH+kiaFaJFdPEpZYidy/ZrZECW\nZx2x6bb3+I4RQWoYVflgUPNOgCzR8M7L4uVE70lU9g/4ecHjwUEMrszD858K2Bg=\n=Xsn2\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJae7VSAAoJEEIeZHKBH5qBTbsIAJQW0dnvzUPfK95YZDLZhNyU\nTzpG7ciRNqPzwIjPqrPWCctpcttClu8t9eKbrQzVyGIaQUP+GAeDS0nK0dZHJ41W\n9c6cBUhMjVV+UW+Mg7oflZUeBXcSGnUqYcRWZMnyD1OJG8RxR/8EKJFDpk/RyqhA\nNa82JgoJfUDiKHKM9l+QF4CKfaLgyLvZ7DJKIpi+GWpszN1NY66gNGs0hzQwWwUI\n9FfUeU8DeBCwp+kKuKYYiqeyKWZCtwl7tVNrNKnH+kiaFaJFdPEpZYidy/ZrZECW\nZx2x6bb3+I4RQWoYVflgUPNOgCzR8M7L4uVE70lU9g/4ecHjwUEMrszD858K2Bg=\n=Xsn2\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 46aee0a86424004290249a2d7c37157ab853f994\ntype commit\ntag 10.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1518056786 +0000\n\nceilometer 10.0.0 release\n\nmeta:version: 10.0.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: apolloliu <hanxi.liu@easystack.cn>\nmeta:release:Commit: gord chung <gord@live.ca>\nmeta:release:Change-Id: I868e08defb8f6542156eeaa4a9220a78a3139b50\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDpkNmUxZDA0NzQxMjcwZWExOGI2YjU0MWQ4MTdjMDYzMDc2YWRlMzY2",
+  "sha": "d6e1d04741270ea18b6b541d817c063076ade366",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/d6e1d04741270ea18b6b541d817c063076ade366",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-02-21T21:14:36Z"
+  },
+  "object": {
+    "sha": "ca9bf2d1c56605a565ffc468bb91fb5d58ef5ce9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/ca9bf2d1c56605a565ffc468bb91fb5d58ef5ce9"
+  },
+  "tag": "12.0.0.0rc2",
+  "message": "cinder 12.0.0.0rc2 release candidate\n\nmeta:version: 12.0.0.0rc2\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@huawei.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@huawei.com>\nmeta:release:Change-Id: I4ea13c029300851f81797faa005fbb2e283e4eda\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJajeE9AAoJEEIeZHKBH5qBt28H/1vsXRG8rCUfEzqttinTchdK\nkAixSkgc9EgMMs4d3R6YV3meciId9gkJBdqGB5Id86aOwKWfdeesJ55AAmGpt2aY\nHkXuO9l5Q5or/E2gqzivh7fv6PFILWlpASWS6liDXC+zaqTnLahsm2WZ7VUn3TnL\nmWVHopchbCpmo8xpUdnNhDAeUbsdgQPUKVt0INEFtJJVQAIhbxeA83fllryZNgW5\nxLijw8/U0lkJNYkow8AQM45WWbiY6cvFdxKWXSDr7wODFPhUWzGitFpQC4mA1tKB\nYSF6yHkul5/oaBiJ8WKAmugmmoJCwSL1RJWz+wjCC5Fr4tYqfm3iFHSU7563l3A=\n=QqWH\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJajeE9AAoJEEIeZHKBH5qBt28H/1vsXRG8rCUfEzqttinTchdK\nkAixSkgc9EgMMs4d3R6YV3meciId9gkJBdqGB5Id86aOwKWfdeesJ55AAmGpt2aY\nHkXuO9l5Q5or/E2gqzivh7fv6PFILWlpASWS6liDXC+zaqTnLahsm2WZ7VUn3TnL\nmWVHopchbCpmo8xpUdnNhDAeUbsdgQPUKVt0INEFtJJVQAIhbxeA83fllryZNgW5\nxLijw8/U0lkJNYkow8AQM45WWbiY6cvFdxKWXSDr7wODFPhUWzGitFpQC4mA1tKB\nYSF6yHkul5/oaBiJ8WKAmugmmoJCwSL1RJWz+wjCC5Fr4tYqfm3iFHSU7563l3A=\n=QqWH\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ca9bf2d1c56605a565ffc468bb91fb5d58ef5ce9\ntype commit\ntag 12.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1519247676 +0000\n\ncinder 12.0.0.0rc2 release candidate\n\nmeta:version: 12.0.0.0rc2\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@huawei.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@huawei.com>\nmeta:release:Change-Id: I4ea13c029300851f81797faa005fbb2e283e4eda\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

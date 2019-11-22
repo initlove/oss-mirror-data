@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY0MjczNTphZTljMzc0MjRjMmE4ODk1YTgxYTk0NzBkODMxNTdhNjhiNzVmMWU2",
+  "sha": "ae9c37424c2a8895a81a9470d83157a68b75f1e6",
+  "url": "https://api.github.com/repos/openstack/ceilometer/git/tags/ae9c37424c2a8895a81a9470d83157a68b75f1e6",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-10T14:36:31Z"
+  },
+  "object": {
+    "sha": "7962947310d784fdfccf03512468ee2eec0c9ffa",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ceilometer/git/commits/7962947310d784fdfccf03512468ee2eec0c9ffa"
+  },
+  "tag": "13.0.0.0rc2",
+  "message": "ceilometer 13.0.0.0rc2 release candidate\n\nmeta:version: 13.0.0.0rc2\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Ia91bfb28391a2495144f37482d466d4426de1111\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2fQe8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2POdC/9cbqOlaU916QF5C5MG8cug\nNrVEC9Q2G5rvqzcZma5Of8f2ivUdhUf4iuIN3FQSlnjz/e3Q5OFLZ+2YAn4o21AT\n6ZIjdHcoXMmTPt7gft/mjaowKjmk5LMMVovLxrdf/DV3ynIZTzGaUvXfZH6wG7rJ\nMrFgMCfZAgV5W6UespstnhwgBQwvY43bjXAKJdk6p/+OqbIrX0DHl7ETLzlwh5/S\nFxBHyp2WFaTNPBSYouIyL03NTb5ICoOEo985L5PG2z0xLRUOUv6qZvmxXTFGiyX5\nDDR4cAi4U6mDz1az9FU9s9nb45T0EcqFhrcZpCWSbbggzNmaXej/Ir2bX9qnfyai\nd93pW35kTKGNjShIYSXk8ESawVSfKMdrrCIV0zv6hwBEa8HyxfVv3zLOE5YvdSH5\ntR/glzI2M/mey3C3K1NVZxrtnmNNYfVCsWgeJ1O2kRHJKOcJs9d/PNxErfHBKBVN\nVJgElFK5YoAGL08EYUwoFjYTw7W6oS6SL2UJ+pmX0AA=\n=1FEN\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2fQe8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2POdC/9cbqOlaU916QF5C5MG8cug\nNrVEC9Q2G5rvqzcZma5Of8f2ivUdhUf4iuIN3FQSlnjz/e3Q5OFLZ+2YAn4o21AT\n6ZIjdHcoXMmTPt7gft/mjaowKjmk5LMMVovLxrdf/DV3ynIZTzGaUvXfZH6wG7rJ\nMrFgMCfZAgV5W6UespstnhwgBQwvY43bjXAKJdk6p/+OqbIrX0DHl7ETLzlwh5/S\nFxBHyp2WFaTNPBSYouIyL03NTb5ICoOEo985L5PG2z0xLRUOUv6qZvmxXTFGiyX5\nDDR4cAi4U6mDz1az9FU9s9nb45T0EcqFhrcZpCWSbbggzNmaXej/Ir2bX9qnfyai\nd93pW35kTKGNjShIYSXk8ESawVSfKMdrrCIV0zv6hwBEa8HyxfVv3zLOE5YvdSH5\ntR/glzI2M/mey3C3K1NVZxrtnmNNYfVCsWgeJ1O2kRHJKOcJs9d/PNxErfHBKBVN\nVJgElFK5YoAGL08EYUwoFjYTw7W6oS6SL2UJ+pmX0AA=\n=1FEN\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7962947310d784fdfccf03512468ee2eec0c9ffa\ntype commit\ntag 13.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1570718191 +0000\n\nceilometer 13.0.0.0rc2 release candidate\n\nmeta:version: 13.0.0.0rc2\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Ia91bfb28391a2495144f37482d466d4426de1111\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

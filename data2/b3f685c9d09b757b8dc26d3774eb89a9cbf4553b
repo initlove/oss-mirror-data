@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjA2NTM5MzQ6YjNmNjg1YzlkMDliNzU3YjhkYzI2ZDM3NzRlYjg5YTljYmY0NTUzYg==",
+  "sha": "b3f685c9d09b757b8dc26d3774eb89a9cbf4553b",
+  "url": "https://api.github.com/repos/google/cadvisor/git/tags/b3f685c9d09b757b8dc26d3774eb89a9cbf4553b",
+  "tagger": {
+    "name": "Vishnu kannan",
+    "email": "vishnuk@google.com",
+    "date": "2015-09-01T19:07:00Z"
+  },
+  "object": {
+    "sha": "cefada41b87c35294533638733c563a349b95f05",
+    "type": "commit",
+    "url": "https://api.github.com/repos/google/cadvisor/git/commits/cefada41b87c35294533638733c563a349b95f05"
+  },
+  "tag": "0.16.0.2",
+  "message": "Revert to using procfs for network stats.\nExpose all network interfaces via prometheus.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJV5fdrAAoJEIlESLtzXhm0230H/3QYEgm5om7D0h0tYEvPjNgE\nEmxgu0h46DJVCrHfU+f00eiUgxcisX8n8hS75eSOfTZS/59SjVDDMw+28kw8tgZw\nom7CpuHsgjvtXKfCgJ3sDuJDqDmo7l3skpZQEFPOgpswiVATqLVvvIxSsUN9QCJ7\n+WLva4iEjUBlYpkW8R/sMMkvO1lyBBOhoFc//seXBmOtmW8g4WEJtvIT4x0OpZLV\nxirM86d4jAxIsmx0SLqoehyhoioaWtJdpmJCunvXPufIPRLWj7ZJ/PTn9f1m9+nL\nmgC8TS4v/h0qoxMNgtbl6Jp7C9GeRmOEBmWek6rarKrplOHGttTl6DiNjguvjLA=\n=qweE\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJV5fdrAAoJEIlESLtzXhm0230H/3QYEgm5om7D0h0tYEvPjNgE\nEmxgu0h46DJVCrHfU+f00eiUgxcisX8n8hS75eSOfTZS/59SjVDDMw+28kw8tgZw\nom7CpuHsgjvtXKfCgJ3sDuJDqDmo7l3skpZQEFPOgpswiVATqLVvvIxSsUN9QCJ7\n+WLva4iEjUBlYpkW8R/sMMkvO1lyBBOhoFc//seXBmOtmW8g4WEJtvIT4x0OpZLV\nxirM86d4jAxIsmx0SLqoehyhoioaWtJdpmJCunvXPufIPRLWj7ZJ/PTn9f1m9+nL\nmgC8TS4v/h0qoxMNgtbl6Jp7C9GeRmOEBmWek6rarKrplOHGttTl6DiNjguvjLA=\n=qweE\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cefada41b87c35294533638733c563a349b95f05\ntype commit\ntag 0.16.0.2\ntagger Vishnu kannan <vishnuk@google.com> 1441134420 -0700\n\nRevert to using procfs for network stats.\nExpose all network interfaces via prometheus.\n"
+  }
+}

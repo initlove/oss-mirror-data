@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTgxNTQ0MDE6ZjFkYmVlNmFhZGVkYTllMjkyODFiMjVjMDcwMDI3MTFjZjgwYTRjZg==",
+  "sha": "f1dbee6aadeda9e29281b25c07002711cf80a4cf",
+  "url": "https://api.github.com/repos/Netflix/dyno/git/tags/f1dbee6aadeda9e29281b25c07002711cf80a4cf",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-05-20T17:06:31Z"
+  },
+  "object": {
+    "sha": "c405da2f093bf6ca99aea2b2bdd080007442db5e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/dyno/git/commits/c405da2f093bf6ca99aea2b2bdd080007442db5e"
+  },
+  "tag": "v1.4.3",
+  "message": "Release of 1.4.3\n\n- c405da2f093bf6ca99aea2b2bdd080007442db5e: Merge pull request #112 from jcacciatore/fix-stale-connections\n- cdae8e66b65fe6bcdd6158af2a290cdc15dc5edc: Fix for issue # 84: Reset connection after max age\n- 49afd636efb2c56eb43b07f407d9563331e6c79e: Merge pull request #110 from jcacciatore/feature-rf2-support\n- 180c4ed0579fbc3d7237ebf82310d9a3c579532c: Merge branch 'master' into feature-rf2-support\n- 98cb97801e27a781f996e99caf5e522405d5f445: Merge pull request #111 from Netflix/loop\n- 8b72f853b81002c9335445abcb099ae6c713d3be: jedispipeline missing bug\n- 3b482d9d0ed41a4ccd6bb595dc79edc779686d21: Cleaned up javadocs and modified the topology object to reflect the initial topology of the cluster. This is done so that failover metrics are properly recorded.\n- c4166f7b4457dab405abbfff5f4b69a3d3fb6bcf: Adding support for replication factor of 2. In doing so also refactored HostSelectionWithFallback.get() which was a non-trivial undertaking to reduce complexity and stay consistent in terms of abstraction level per method.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTI1MzE2Ojc3OGE2MGYzZjAwOTI3MDNiMjY4M2U5MGZlZThkY2JmNmJiYTZjYzk=",
+  "sha": "778a60f3f0092703b2683e90fee8dcbf6bba6cc9",
+  "url": "https://api.github.com/repos/mozilla/bleach/git/tags/778a60f3f0092703b2683e90fee8dcbf6bba6cc9",
+  "tagger": {
+    "name": "Will Kahn-Greene",
+    "email": "willkg@mozilla.com",
+    "date": "2019-01-09T15:10:13Z"
+  },
+  "object": {
+    "sha": "2f210e06baacb1015bdde9896ad465dab0ccc378",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mozilla/bleach/git/commits/2f210e06baacb1015bdde9896ad465dab0ccc378"
+  },
+  "tag": "v3.1.0",
+  "message": "Version 3.1.0 (January 9th, 2019)\n\n**Security fixes**\n\nNone\n\n**Backwards incompatible changes**\n\nNone\n\n**Features**\n\n* Add ``recognized_tags`` argument to the linkify ``Linker`` class. This\n  fixes issues when linkifying on its own and having some tags get escaped.\n  It defaults to a list of HTML5 tags. Thank you, Chad Birch! (#409)\n\n**Bug fixes**\n\n* Add ``six>=1.9`` to requirements. Thank you, Dave Shawley (#416)\n\n* Fix cases where attribute names could have invalid characters in them.\n  (#419)\n\n* Fix problems with ``LinkifyFilter`` not being able to match links\n  across ``&amp;``. (#422)\n\n* Fix ``InputStreamWithMemory`` when the ``BleachHTMLParser`` is\n  parsing ``meta`` tags. (#431)\n\n* Fix doctests. (#357)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzY3I6/E2Vh8o9nPoGL3RpvBm7BEFAlw2DuIACgkQGL3RpvBm\n7BE8qQf/dyku1iFaTEMpcyeTbjwK4+RsCFLhLYA/BCG6r+Kb9s7+hDMDAGZ8JDsI\nR9mgtvkvMLiLjIaS3hRSlirM48QLo0Cu4Ph4wazgtg5Wv0aBzG7vPA9q5AqAerVM\njBtkXdoc9kyusenemfYkNbeDkbjDXVPcf4oEjACn8x3twErHO4hMfLd1oNsjhzMt\nfIrBNWzAwGJbfwcP7XOrsYZm3FKV7DknYar5JAmP9ajePhB3QO0ZlMFYHihuSbHG\ncpHfPmLuMFOHWToyIqfEmBBu5LQYqdiq3oSsogXH475j3p0CdkDBKj2d8f8dGzgi\nqzF0hUomWIClecmi8mG6R8NjZ5ocKQ==\n=NvVq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzY3I6/E2Vh8o9nPoGL3RpvBm7BEFAlw2DuIACgkQGL3RpvBm\n7BE8qQf/dyku1iFaTEMpcyeTbjwK4+RsCFLhLYA/BCG6r+Kb9s7+hDMDAGZ8JDsI\nR9mgtvkvMLiLjIaS3hRSlirM48QLo0Cu4Ph4wazgtg5Wv0aBzG7vPA9q5AqAerVM\njBtkXdoc9kyusenemfYkNbeDkbjDXVPcf4oEjACn8x3twErHO4hMfLd1oNsjhzMt\nfIrBNWzAwGJbfwcP7XOrsYZm3FKV7DknYar5JAmP9ajePhB3QO0ZlMFYHihuSbHG\ncpHfPmLuMFOHWToyIqfEmBBu5LQYqdiq3oSsogXH475j3p0CdkDBKj2d8f8dGzgi\nqzF0hUomWIClecmi8mG6R8NjZ5ocKQ==\n=NvVq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2f210e06baacb1015bdde9896ad465dab0ccc378\ntype commit\ntag v3.1.0\ntagger Will Kahn-Greene <willkg@mozilla.com> 1547046613 -0500\n\nVersion 3.1.0 (January 9th, 2019)\n\n**Security fixes**\n\nNone\n\n**Backwards incompatible changes**\n\nNone\n\n**Features**\n\n* Add ``recognized_tags`` argument to the linkify ``Linker`` class. This\n  fixes issues when linkifying on its own and having some tags get escaped.\n  It defaults to a list of HTML5 tags. Thank you, Chad Birch! (#409)\n\n**Bug fixes**\n\n* Add ``six>=1.9`` to requirements. Thank you, Dave Shawley (#416)\n\n* Fix cases where attribute names could have invalid characters in them.\n  (#419)\n\n* Fix problems with ``LinkifyFilter`` not being able to match links\n  across ``&amp;``. (#422)\n\n* Fix ``InputStreamWithMemory`` when the ``BleachHTMLParser`` is\n  parsing ``meta`` tags. (#431)\n\n* Fix doctests. (#357)\n"
+  }
+}

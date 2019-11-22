@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI4MjEzMDM6MmRkZDM5NTY3NzBjMjgwN2EzOGJiZjVkMGU2N2Q3MmUxNmNkYTU1MQ==",
+  "sha": "2ddd3956770c2807a38bbf5d0e67d72e16cda551",
+  "url": "https://api.github.com/repos/coreos/go-systemd/git/tags/2ddd3956770c2807a38bbf5d0e67d72e16cda551",
+  "tagger": {
+    "name": "Luca Bruno",
+    "email": "luca.bruno@coreos.com",
+    "date": "2016-05-24T16:04:29Z"
+  },
+  "object": {
+    "sha": "1d9051fe7a349daf6dac904c0b277c3520c09368",
+    "type": "commit",
+    "url": "https://api.github.com/repos/coreos/go-systemd/git/commits/1d9051fe7a349daf6dac904c0b277c3520c09368"
+  },
+  "tag": "v7",
+  "message": "go-systemd v7\n\nSummary of changes in this release:\n * sdjournal: added JournalReader.Rewind()\n * sdjournal: added Journal.SeekHead()\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXRHz6AAoJEKmDSiJSB45O+LoQAIDxwma7edBaryKJz/c2bUpd\no63BNjc0x3ntBc/4PmdshioYyHIOwG0mTEpKA6a6nWHSMqFubs4cPp8y+1wg7Enh\nofZ7Gf8aDbYtOUD/cBqj/xID/EaIErqqAyB9rRCVuZI7TbzE6ihPU1alY9obFHEQ\nawzHywNfVnNhtbYLSzG1ah0bZbSoSmhnd7209RyrdkPsOYXGtN8DRwd0bbhDaMyY\n5vBYujgbk0wyBhs9ZNTTVNWwTxFjOeH0eqz2cqVtf+h1cLOb6XMQhMfoibDgLNUi\nwvhu8AhBvR0LEUSipFcH9CD4SYyppVuniJwL/jLbAGt89VEY8CPovabPDD9ZCq3R\nge0osbBnshiKSU5Vt8QZIZhsjYeLCgA+VcoWsKzoYW/ItsiuWVzdXE/1kRvLc6TM\nmpkdiUKB5IM4Xa3YVgUdET5fTfUGt6APbwaef3FS1p0lE4GYbscs/QhQZh2z8/rv\nkfqlbWeexNbvCD0H7YJDoz+Nk1f78AknhiX0p9dAhSqE7OqTRZDZaxHYWGyHtdHM\nOWhxCooeJG8oETTzjW80crALFDmmw6J6Hhueg/WEiPEzzMWKYGmxC0QGXgunsO7w\nZPRjuU22gkuMQ987zACbatflypeFxC24YV0byBWF3TLvUCPdKG7VDgAPTfD/vRWX\nhiP5a741I5Dhjpm7VMUx\n=tsRe\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJXRHz6AAoJEKmDSiJSB45O+LoQAIDxwma7edBaryKJz/c2bUpd\no63BNjc0x3ntBc/4PmdshioYyHIOwG0mTEpKA6a6nWHSMqFubs4cPp8y+1wg7Enh\nofZ7Gf8aDbYtOUD/cBqj/xID/EaIErqqAyB9rRCVuZI7TbzE6ihPU1alY9obFHEQ\nawzHywNfVnNhtbYLSzG1ah0bZbSoSmhnd7209RyrdkPsOYXGtN8DRwd0bbhDaMyY\n5vBYujgbk0wyBhs9ZNTTVNWwTxFjOeH0eqz2cqVtf+h1cLOb6XMQhMfoibDgLNUi\nwvhu8AhBvR0LEUSipFcH9CD4SYyppVuniJwL/jLbAGt89VEY8CPovabPDD9ZCq3R\nge0osbBnshiKSU5Vt8QZIZhsjYeLCgA+VcoWsKzoYW/ItsiuWVzdXE/1kRvLc6TM\nmpkdiUKB5IM4Xa3YVgUdET5fTfUGt6APbwaef3FS1p0lE4GYbscs/QhQZh2z8/rv\nkfqlbWeexNbvCD0H7YJDoz+Nk1f78AknhiX0p9dAhSqE7OqTRZDZaxHYWGyHtdHM\nOWhxCooeJG8oETTzjW80crALFDmmw6J6Hhueg/WEiPEzzMWKYGmxC0QGXgunsO7w\nZPRjuU22gkuMQ987zACbatflypeFxC24YV0byBWF3TLvUCPdKG7VDgAPTfD/vRWX\nhiP5a741I5Dhjpm7VMUx\n=tsRe\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1d9051fe7a349daf6dac904c0b277c3520c09368\ntype commit\ntag v7\ntagger Luca Bruno <luca.bruno@coreos.com> 1464105869 +0200\n\ngo-systemd v7\n\nSummary of changes in this release:\n * sdjournal: added JournalReader.Rewind()\n * sdjournal: added Journal.SeekHead()\n"
+  }
+}

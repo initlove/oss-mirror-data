@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY0MjczNTowNmEzN2E5YTZjZDUxZGQ5MjBlN2Y1ZDIwMjU5N2E0NTA4NTEwMDAy",
+  "sha": "06a37a9a6cd51dd920e7f5d202597a4508510002",
+  "url": "https://api.github.com/repos/openstack/ceilometer/git/tags/06a37a9a6cd51dd920e7f5d202597a4508510002",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-09-16T14:32:41Z"
+  },
+  "object": {
+    "sha": "2cc53a9a9218a9b145c27c2b55a5b36ed4a649d0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ceilometer/git/commits/2cc53a9a9218a9b145c27c2b55a5b36ed4a649d0"
+  },
+  "tag": "7.0.0.0rc1",
+  "message": "ceilometer 7.0.0.0rc1 release candidate\n\nmeta:version: 7.0.0.0rc1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Julien Danjou <julien@danjou.info>\nmeta:release:Change-Id: Id394fd37da5cc86dd4d67bfce80a1095cafae66c\nmeta:release:Code-Review+1: gordon chung <gord@live.ca>\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX3AKJAAoJENljH+rwzGIno5EH/1cWMmFlaTuU6ER9zOU0v6jG\nSQVpGAa0zd90rbJQXb+uAbF2EYuNojhnQMGBKYAMKtaohmkRjk2MRXNANr+f5SeD\naSvfzbMEeFlAQZWN7y1IgtIqYxs4KcDm6gXVtsDZQzXMUIfgItsq7adFaeHm9u0b\nex8wW+lc1PdJZQpJlxpge3cb4BzV37oo/iGuUJpyXMht6UvT1rWJGLrXgRsdZySN\nZ9+Uz2W4UNfOIV9ke4rcE1LMmv6SIIEpUTNFMh6EJtRLvEEi9vzFc5hdIDVHJDjB\nJ1NnfKAtUchx81FVs1BT1U3pAC/WdzWrpggs0hiKEAzZ2lehEHW83cbq5C9OzJY=\n=KG6L\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX3AKJAAoJENljH+rwzGIno5EH/1cWMmFlaTuU6ER9zOU0v6jG\nSQVpGAa0zd90rbJQXb+uAbF2EYuNojhnQMGBKYAMKtaohmkRjk2MRXNANr+f5SeD\naSvfzbMEeFlAQZWN7y1IgtIqYxs4KcDm6gXVtsDZQzXMUIfgItsq7adFaeHm9u0b\nex8wW+lc1PdJZQpJlxpge3cb4BzV37oo/iGuUJpyXMht6UvT1rWJGLrXgRsdZySN\nZ9+Uz2W4UNfOIV9ke4rcE1LMmv6SIIEpUTNFMh6EJtRLvEEi9vzFc5hdIDVHJDjB\nJ1NnfKAtUchx81FVs1BT1U3pAC/WdzWrpggs0hiKEAzZ2lehEHW83cbq5C9OzJY=\n=KG6L\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2cc53a9a9218a9b145c27c2b55a5b36ed4a649d0\ntype commit\ntag 7.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1474036361 +0000\n\nceilometer 7.0.0.0rc1 release candidate\n\nmeta:version: 7.0.0.0rc1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Julien Danjou <julien@danjou.info>\nmeta:release:Change-Id: Id394fd37da5cc86dd4d67bfce80a1095cafae66c\nmeta:release:Code-Review+1: gordon chung <gord@live.ca>\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n"
+  }
+}

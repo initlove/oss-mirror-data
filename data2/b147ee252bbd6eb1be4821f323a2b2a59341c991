@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyOTczNDpiMTQ3ZWUyNTJiYmQ2ZWIxYmU0ODIxZjMyM2EyYjJhNTkzNDFjOTkx",
+  "sha": "b147ee252bbd6eb1be4821f323a2b2a59341c991",
+  "url": "https://api.github.com/repos/openstack/cinder/git/tags/b147ee252bbd6eb1be4821f323a2b2a59341c991",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-02-08T17:25:57Z"
+  },
+  "object": {
+    "sha": "b8a5ff5d7e2db680ba896c6c16753735c5cd6729",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/cinder/git/commits/b8a5ff5d7e2db680ba896c6c16753735c5cd6729"
+  },
+  "tag": "12.0.0.0rc1",
+  "message": "cinder 12.0.0.0rc1 release candidate\n\nmeta:version: 12.0.0.0rc1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jay S. Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Commit: Jay S. Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Change-Id: I20a691456cfaba796498831fac90a8811f6cb128\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJafIglAAoJEEIeZHKBH5qBzz4H/iHj9dyTaBXxrReGLPkXuLR9\nsENvZh/SO65b7UeVLUi7ARSygn9zhfG8xgo8GcHXfrW8nV0L2tPeh9QMzaF6VEqy\nnjF3ji19AG2FoGsq35rcdKOAYjfi8UwMPNF6tEiYegvECejGseDlCFX7KaF5NKw/\nfR8mqlDJwzZSzrA/yf/g0UTOw9g4BbpXDX5fwpL/AcoSzy8IMLGYOPbvmFHt2czu\nhldg4sQ90kxa2tvIMC/y+dRq/4csO+JypYUVT6XXbDGQENL1bdmr8BuAcHHM8yfK\ntbXTSuzaqjdzQD8qi1RO/M/rtAlEFbB0q/mVMIv3sx4FxdwLppBstHbseBn0vgU=\n=1ZAp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJafIglAAoJEEIeZHKBH5qBzz4H/iHj9dyTaBXxrReGLPkXuLR9\nsENvZh/SO65b7UeVLUi7ARSygn9zhfG8xgo8GcHXfrW8nV0L2tPeh9QMzaF6VEqy\nnjF3ji19AG2FoGsq35rcdKOAYjfi8UwMPNF6tEiYegvECejGseDlCFX7KaF5NKw/\nfR8mqlDJwzZSzrA/yf/g0UTOw9g4BbpXDX5fwpL/AcoSzy8IMLGYOPbvmFHt2czu\nhldg4sQ90kxa2tvIMC/y+dRq/4csO+JypYUVT6XXbDGQENL1bdmr8BuAcHHM8yfK\ntbXTSuzaqjdzQD8qi1RO/M/rtAlEFbB0q/mVMIv3sx4FxdwLppBstHbseBn0vgU=\n=1ZAp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b8a5ff5d7e2db680ba896c6c16753735c5cd6729\ntype commit\ntag 12.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1518110757 +0000\n\ncinder 12.0.0.0rc1 release candidate\n\nmeta:version: 12.0.0.0rc1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jay S. Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Commit: Jay S. Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Change-Id: I20a691456cfaba796498831fac90a8811f6cb128\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}
