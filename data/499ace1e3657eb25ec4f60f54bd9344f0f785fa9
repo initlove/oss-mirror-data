@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzA3OTQ4Njg6NDk5YWNlMWUzNjU3ZWIyNWVjNGY2MGY1NGJkOTM0NGYwZjc4NWZhOQ==",
+  "sha": "499ace1e3657eb25ec4f60f54bd9344f0f785fa9",
+  "url": "https://api.github.com/repos/sampotts/plyr/git/tags/499ace1e3657eb25ec4f60f54bd9344f0f785fa9",
+  "tagger": {
+    "name": "Sam Potts",
+    "email": "sam@potts.es",
+    "date": "2018-08-13T14:02:15Z"
+  },
+  "object": {
+    "sha": "b57b7b2153c468d1457f657641a31f36ec61013b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/sampotts/plyr/git/commits/b57b7b2153c468d1457f657641a31f36ec61013b"
+  },
+  "tag": "v3.4.0",
+  "message": "-   Accessibility improvements (see #905)\n-   Improvements to the way the controls work on iOS\n-   Demo code clean up\n-   YouTube quality selection removed due to their poor support for it. As a result, the `qualityrequested` event has been removed\n-   Controls spacing improvements\n-   Fix for pressed property missing with custom controls (Fixes #1062)\n-   Fix #1153: Captions language fallback (thanks @friday)\n-   Fix for setting pressed property of undefined (Fixes #1102)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

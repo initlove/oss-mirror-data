@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6ZDRlYmU1YWViY2I4MzJhZTFmYWNmYzg2NDE2ZGU3OGQ2NzA3NzgzZA==",
+  "sha": "d4ebe5aebcb832ae1facfc86416de78d6707783d",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/d4ebe5aebcb832ae1facfc86416de78d6707783d",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2019-05-03T06:07:39Z"
+  },
+  "object": {
+    "sha": "352dd809dde8648949bb8ead9357dfe03bb8664e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/352dd809dde8648949bb8ead9357dfe03bb8664e"
+  },
+  "tag": "v23.1",
+  "message": "rdma-core-23.1:\n\nUpdates from version 23.0\n * Backport fixes:\n   * ibacm: fix double hint.ai_family assignment in ib_acm_connect_open()\n   * ibacm: acme does not work if server_mode != unix\n   * ibacm: ib_acm_connect() is doing too much\n   * verbs: The ibv_xsrq_pingpong \"-c\" option is broken\n   * suse: Update rdma-core.spec with the latest OBS parser\n   * mlx5: Fix masking service level in mlx5_create_ah\n   * suse: remove %if..%endif guards that do not affect the build result\n   * suse: make sure LTO is disabled\n   * suse: mode udev.md into the right package\n   * suse: use _udevrulesdir macro\n   * cmake: Explicitly convert build type to be STRING\n   * verbs: Don't check IBV_ODP_SUPPORT_RECV in ibv_{xsrq,srq}_pingpong\n   * mlx5: Fix a compiler warning when -Wcast-qual is used\n   * libhns: Bugfix for filtering zero length sge\n   * buildlib: Ensure stanza is properly sorted\n   * ABI Files\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlzL2q0cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZL1ZB/wMeuxEKt8JDuxPrpDh\nlinWJiiKdq8pqiX1otDTasIgEHhTtNhEwM3vYsH2urHoY6QkC+jxtAgsiaT2Y0eY\nD2GKb19vkVd8sPOXMueX26OZjcyYi3xkJUS0ds56+vymugi9dAWddECsY8cOzRSy\noLnT26gUClgB7S5tP1h1gnMjICPz5ciy9ngcSM1pwZyxoTXR9c7Nltgkk0OMd0lI\n31npbazuTnACYpFAxHIVhEEsObh/8TpzYRp3TYFF+Tt7/UIFFGYyYLp1lOUGKNc8\nwQfcKK4cuXhu8OloCnxgrVNOJRc9EECszd5X2nN/OaPqr4LABENnVCwqZuk9Z2L3\nKbKU\n=ymt4\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlzL2q0cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZL1ZB/wMeuxEKt8JDuxPrpDh\nlinWJiiKdq8pqiX1otDTasIgEHhTtNhEwM3vYsH2urHoY6QkC+jxtAgsiaT2Y0eY\nD2GKb19vkVd8sPOXMueX26OZjcyYi3xkJUS0ds56+vymugi9dAWddECsY8cOzRSy\noLnT26gUClgB7S5tP1h1gnMjICPz5ciy9ngcSM1pwZyxoTXR9c7Nltgkk0OMd0lI\n31npbazuTnACYpFAxHIVhEEsObh/8TpzYRp3TYFF+Tt7/UIFFGYyYLp1lOUGKNc8\nwQfcKK4cuXhu8OloCnxgrVNOJRc9EECszd5X2nN/OaPqr4LABENnVCwqZuk9Z2L3\nKbKU\n=ymt4\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 352dd809dde8648949bb8ead9357dfe03bb8664e\ntype commit\ntag v23.1\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1556863659 +0200\n\nrdma-core-23.1:\n\nUpdates from version 23.0\n * Backport fixes:\n   * ibacm: fix double hint.ai_family assignment in ib_acm_connect_open()\n   * ibacm: acme does not work if server_mode != unix\n   * ibacm: ib_acm_connect() is doing too much\n   * verbs: The ibv_xsrq_pingpong \"-c\" option is broken\n   * suse: Update rdma-core.spec with the latest OBS parser\n   * mlx5: Fix masking service level in mlx5_create_ah\n   * suse: remove %if..%endif guards that do not affect the build result\n   * suse: make sure LTO is disabled\n   * suse: mode udev.md into the right package\n   * suse: use _udevrulesdir macro\n   * cmake: Explicitly convert build type to be STRING\n   * verbs: Don't check IBV_ODP_SUPPORT_RECV in ibv_{xsrq,srq}_pingpong\n   * mlx5: Fix a compiler warning when -Wcast-qual is used\n   * libhns: Bugfix for filtering zero length sge\n   * buildlib: Ensure stanza is properly sorted\n   * ABI Files\n"
+  }
+}

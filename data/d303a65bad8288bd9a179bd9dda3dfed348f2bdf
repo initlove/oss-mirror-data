@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6ZDMwM2E2NWJhZDgyODhiZDlhMTc5YmQ5ZGRhM2RmZWQzNDhmMmJkZg==",
+  "sha": "d303a65bad8288bd9a179bd9dda3dfed348f2bdf",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/d303a65bad8288bd9a179bd9dda3dfed348f2bdf",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "NMoreyChaisemartin@suse.com",
+    "date": "2018-01-04T08:33:09Z"
+  },
+  "object": {
+    "sha": "9b91e2e5287160025f6fc0b555c8f0debfaf9b12",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/9b91e2e5287160025f6fc0b555c8f0debfaf9b12"
+  },
+  "tag": "v16.1",
+  "message": "rdma-core-16.1:\n\nUpdates from version 16:\n * Backport fixes:\n   * srp_daemon: Don't create async_ev_thread if only run once\n   * srp_daemon: handle SM lid change\n   * srp_daemon: fix CQ handling\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABAgAGBQJaTebLAAoJEIAb3bglmI9kjNUH+wayraL0L66QVi4VB92bBSzw\nqc7neTTid2H9eOHCigTD4bZLNFfFiuUC5zjjYqBs4DHp5A0M3E3JtDR86ieTrqDZ\nw+WvEalxEgGZir+eTmksIU4ft4v6UD4+VKvK5h3wGansJ4ZoI5EaGt4tvS65j5Bn\n+mZNjHR9wfA3ky0w0Nt1A8WkVqXSWkXOsCYAjMikUUROh4gVvjuZwvrXry06/KLR\nJrFMK/gcPjjnv2B+XS6yb7orORmtwBir6btSmXuDop2cT59W+6adCdME19JVaaNJ\nzSSWSWPGcLcLMfsFxWamyEvYx4q20BRoW0JCCi3QN8sPvvEgYHqQqJhPNLQ0dX4=\n=VsrY\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABAgAGBQJaTebLAAoJEIAb3bglmI9kjNUH+wayraL0L66QVi4VB92bBSzw\nqc7neTTid2H9eOHCigTD4bZLNFfFiuUC5zjjYqBs4DHp5A0M3E3JtDR86ieTrqDZ\nw+WvEalxEgGZir+eTmksIU4ft4v6UD4+VKvK5h3wGansJ4ZoI5EaGt4tvS65j5Bn\n+mZNjHR9wfA3ky0w0Nt1A8WkVqXSWkXOsCYAjMikUUROh4gVvjuZwvrXry06/KLR\nJrFMK/gcPjjnv2B+XS6yb7orORmtwBir6btSmXuDop2cT59W+6adCdME19JVaaNJ\nzSSWSWPGcLcLMfsFxWamyEvYx4q20BRoW0JCCi3QN8sPvvEgYHqQqJhPNLQ0dX4=\n=VsrY\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9b91e2e5287160025f6fc0b555c8f0debfaf9b12\ntype commit\ntag v16.1\ntagger Nicolas Morey-Chaisemartin <NMoreyChaisemartin@suse.com> 1515054789 +0100\n\nrdma-core-16.1:\n\nUpdates from version 16:\n * Backport fixes:\n   * srp_daemon: Don't create async_ev_thread if only run once\n   * srp_daemon: handle SM lid change\n   * srp_daemon: fix CQ handling\n"
+  }
+}

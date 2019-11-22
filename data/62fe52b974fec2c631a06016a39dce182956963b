@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6NjJmZTUyYjk3NGZlYzJjNjMxYTA2MDE2YTM5ZGNlMTgyOTU2OTYzYg==",
+  "sha": "62fe52b974fec2c631a06016a39dce182956963b",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/62fe52b974fec2c631a06016a39dce182956963b",
+  "tagger": {
+    "name": "Brendan Creane",
+    "email": "brendan@tigera.io",
+    "date": "2017-10-25T01:53:47Z"
+  },
+  "object": {
+    "sha": "0aba6bc56f0a8990795e2ae491a13bd22b0c4683",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/0aba6bc56f0a8990795e2ae491a13bd22b0c4683"
+  },
+  "tag": "3.0.0-alpha1-rc1",
+  "message": "Felix version 3.0.0-alpha1-rc1\n\n- Added support for ApplyOnForward flag.\n- Implement named ports index and rule conversion.\n- Implement IP set rendering for IP, port.\n- Implement named port rule rendering.\n- Minor fixes to named port calculations.\n- Combine selectors in more cases, add UT and clean-ups.\n- Bring calc graph diagram up to date.\n- Move calc graph test models to own file.\n- Add named port calc graph FV tests.\n- Add more named ports calc graph FVs.\n- Add calc graph FVs for named port label inheritance.\n- Add UT for named ports on host endpoints.\n- Add some named ports tests with negated ports and selectors.\n- Start adding tests for named port rule rendering.\n- More rule rendering UTs.\n- Add support for selecting source port in FV framework.\n- Add named ports source port tests.\n- Support workload ingress policy for kube-proxy running in ipvs mode.\n- Make topology set-up common across FV tests.\n- Add test that confuses TCP and UDP named ports.\n- Move UDP conntrack clear into Port.CanConnectTo().\n- Rev libcalico-go to pick up resync loop fix.\n- DatastoreType etcdv2 -> etcdv3\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

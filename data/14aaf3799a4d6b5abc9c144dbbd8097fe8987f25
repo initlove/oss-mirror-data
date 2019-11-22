@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzA3OTQ4Njg6MTRhYWYzNzk5YTRkNmI1YWJjOWMxNDRkYmJkODA5N2ZlODk4N2YyNQ==",
+  "sha": "14aaf3799a4d6b5abc9c144dbbd8097fe8987f25",
+  "url": "https://api.github.com/repos/sampotts/plyr/git/tags/14aaf3799a4d6b5abc9c144dbbd8097fe8987f25",
+  "tagger": {
+    "name": "Sam Potts",
+    "email": "sam@potts.es",
+    "date": "2018-04-17T13:54:59Z"
+  },
+  "object": {
+    "sha": "88d766aeae6084dccd1903c2c358b8d1dfdfbce0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/sampotts/plyr/git/commits/88d766aeae6084dccd1903c2c358b8d1dfdfbce0"
+  },
+  "tag": "v3.2.0",
+  "message": "*   Fullscreen fixes (thanks @friday)\n*   Menu fix for if speed not in config\n*   Menu z-index fix (thanks @danielsarin)\n*   i18n fix for missing \"Normal\" string (thanks @danielsarin)\n*   Safer check for active caption (thanks @Antonio-Laguna)\n*   Add custom property fallback (thanks @friday)\n*   Fixed bug for captions with no srclang and labels and improved logic (fixes #875)\n*   Fix for `playing` false positive (fixes #898)\n*   Fix for IE issue with navigator.language (thanks @nicolasthy) (fixes #893)\n*   Fix for Vimeo controls missing on iOS (thanks @verde-io) (fixes #807)\n*   Fix for double vimeo caption rendering (fixes #877)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

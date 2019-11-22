@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6MTRiYmI2MzQ0ODk4MzFmOTE5ODFiMDM2NzliYTA5Y2M5OTJhN2NiOA==",
+  "sha": "14bbb634489831f91981b03679ba09cc992a7cb8",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/14bbb634489831f91981b03679ba09cc992a7cb8",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2018-10-15T09:01:39Z"
+  },
+  "object": {
+    "sha": "273be827a8fcb2f3b12461e5919fb3f520c9278b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/273be827a8fcb2f3b12461e5919fb3f520c9278b"
+  },
+  "tag": "v16.6",
+  "message": "rdma-core-16.6:\n\nUpdates from version 16.5\n * Backport fixes:\n   * travis: Fix travis failures\n   * verbs: If the uverbs module is not loaded allow get_devices to retry init\n   * mlx5: Fix flow tag mask\n   * rxe: fix rxe compilation with newer kernels\n   * Revert \"buildlib: pick leap over tumbleweed\"\n   * buildlib: pick leap over tumbleweed\n   * mlx5: Fix compilation on 32 bit systems when sse3 is on\n   * mlx5: Allocate huge page chunks only when needed\n   * rxe: Do not use _sockaddr in struct rxe_av\n   * rxe: Remove duplicate include\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlvEV3QcHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZFa/CAC6GINT43VNxuyfjDsr\nTtNoCX+u5sBcDTwdtuM50j5VC8Tnj4PLcvBmwHXnxv8W+B7m5ZoxCZg7kZpYj91u\nphzu4pD10aOoEqvNYUFcGI3nl1JJNZC1A1dVak/DibnnEmumgktwkIWGwRNaTYPQ\n7HzoWx33o8p5rHpBxo+kJR0JgYe4Km43KZkMeWTRdSZDNBIgZdX8QKx1lcmmbcCR\n5BpFaSH3S2r5YnMiQrUlaESIZqulPiKnDZ0R1ijykABwyeOslPNTzc/HmmCvzs3a\nnhUMhrrtR2dQ5FZbCO4RUYjwsIc+mnPskbS/WgJJXY665dYEd7t6MA2qxMb8pGjd\n40Ys\n=YdaS\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlvEV3QcHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZFa/CAC6GINT43VNxuyfjDsr\nTtNoCX+u5sBcDTwdtuM50j5VC8Tnj4PLcvBmwHXnxv8W+B7m5ZoxCZg7kZpYj91u\nphzu4pD10aOoEqvNYUFcGI3nl1JJNZC1A1dVak/DibnnEmumgktwkIWGwRNaTYPQ\n7HzoWx33o8p5rHpBxo+kJR0JgYe4Km43KZkMeWTRdSZDNBIgZdX8QKx1lcmmbcCR\n5BpFaSH3S2r5YnMiQrUlaESIZqulPiKnDZ0R1ijykABwyeOslPNTzc/HmmCvzs3a\nnhUMhrrtR2dQ5FZbCO4RUYjwsIc+mnPskbS/WgJJXY665dYEd7t6MA2qxMb8pGjd\n40Ys\n=YdaS\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 273be827a8fcb2f3b12461e5919fb3f520c9278b\ntype commit\ntag v16.6\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1539594099 +0200\n\nrdma-core-16.6:\n\nUpdates from version 16.5\n * Backport fixes:\n   * travis: Fix travis failures\n   * verbs: If the uverbs module is not loaded allow get_devices to retry init\n   * mlx5: Fix flow tag mask\n   * rxe: fix rxe compilation with newer kernels\n   * Revert \"buildlib: pick leap over tumbleweed\"\n   * buildlib: pick leap over tumbleweed\n   * mlx5: Fix compilation on 32 bit systems when sse3 is on\n   * mlx5: Allocate huge page chunks only when needed\n   * rxe: Do not use _sockaddr in struct rxe_av\n   * rxe: Remove duplicate include\n"
+  }
+}

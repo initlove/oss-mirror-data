@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6YWIzODRjYzE3NmUyMjBjZWU3MzZiZTNjMTcyYjFkNzZlZTdjMmEyMA==",
+  "sha": "ab384cc176e220cee736be3c172b1d76ee7c2a20",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/ab384cc176e220cee736be3c172b1d76ee7c2a20",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2019-02-06T07:17:32Z"
+  },
+  "object": {
+    "sha": "4bb6072902fa4e28d11f8c7416a97ff0f19067c3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/4bb6072902fa4e28d11f8c7416a97ff0f19067c3"
+  },
+  "tag": "v19.2",
+  "message": "rdma-core-19.2:\n\nUpdates from version 19.1\n * Backport fixes:\n   * verbs: Fix pingpong buffer validation\n   * verbs: Fix execute_ioctl_fallback() bad flow\n   * verbs: Device memory cannot be on demand in rc_pingpong\n   * mlx5: Fix SL to Ethernet priority conversion\n   * librdmacm: Change server default address to any address.\n   * verbs: Fix incorrect size of destroy_cq write command\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlxaig4cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZHesCACxQ8izQXc4YSx/NuTR\nYLxOk/j9Gn/FzJHgBJxGZBEoCKw0wK/OPQ5ut3O7ABc9fz3pH+gZZ2Hu1xJoSSg5\n/dSM4RbDBGwZV1Fni6S22KJERjHB4+zz86F/I8wY4cafyo0u0Y23AYqWVBWHjCOg\nWcN7jxbrPJUqUormIz2eqXQ6JxkdnF/SGKR0wkO1TmPjlzMxsNAde5Wdd0E7ZymV\nFtIrQ+0eSfacQ1WIGrIR4yU2XQUk5gEKF5bhP8hSuNjQAI78Qleg6ViQNj59HReH\njpakM7hNwBf+mJADI/K9sXvE+KMP4HpbKL5L+GBeLbNMSfUlCsrJNnEwX13LNZXa\n1Auq\n=S9zn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlxaig4cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZHesCACxQ8izQXc4YSx/NuTR\nYLxOk/j9Gn/FzJHgBJxGZBEoCKw0wK/OPQ5ut3O7ABc9fz3pH+gZZ2Hu1xJoSSg5\n/dSM4RbDBGwZV1Fni6S22KJERjHB4+zz86F/I8wY4cafyo0u0Y23AYqWVBWHjCOg\nWcN7jxbrPJUqUormIz2eqXQ6JxkdnF/SGKR0wkO1TmPjlzMxsNAde5Wdd0E7ZymV\nFtIrQ+0eSfacQ1WIGrIR4yU2XQUk5gEKF5bhP8hSuNjQAI78Qleg6ViQNj59HReH\njpakM7hNwBf+mJADI/K9sXvE+KMP4HpbKL5L+GBeLbNMSfUlCsrJNnEwX13LNZXa\n1Auq\n=S9zn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4bb6072902fa4e28d11f8c7416a97ff0f19067c3\ntype commit\ntag v19.2\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1549437452 +0100\n\nrdma-core-19.2:\n\nUpdates from version 19.1\n * Backport fixes:\n   * verbs: Fix pingpong buffer validation\n   * verbs: Fix execute_ioctl_fallback() bad flow\n   * verbs: Device memory cannot be on demand in rc_pingpong\n   * mlx5: Fix SL to Ethernet priority conversion\n   * librdmacm: Change server default address to any address.\n   * verbs: Fix incorrect size of destroy_cq write command\n"
+  }
+}

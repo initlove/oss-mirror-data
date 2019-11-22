@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6NWFjZTNkNjg2NmI0OWNiOTgxYTYyZGY1M2VkYmRhNzdkZWNiOTQ3OQ==",
+  "sha": "5ace3d6866b49cb981a62df53edbda77decb9479",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/5ace3d6866b49cb981a62df53edbda77decb9479",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "davenport.cas@gmail.com",
+    "date": "2018-04-16T17:47:55Z"
+  },
+  "object": {
+    "sha": "808fb2d23cc8300d3b9164c7e001e77c65f855ff",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/808fb2d23cc8300d3b9164c7e001e77c65f855ff"
+  },
+  "tag": "3.0.4",
+  "message": "Felix version 3.0.4\n\n- Pin logrus to v1.0.4\n- Exclude Windows tests from linter\n- Added support for s390x\n- Whitelist failsafe port response traffic in the raw table only\n- Update libcalico-go to latest release-v3.0\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

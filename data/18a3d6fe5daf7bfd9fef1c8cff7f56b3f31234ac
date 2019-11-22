@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6MThhM2Q2ZmU1ZGFmN2JmZDlmZWYxYzhjZmY3ZjU2YjNmMzEyMzRhYw==",
+  "sha": "18a3d6fe5daf7bfd9fef1c8cff7f56b3f31234ac",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/18a3d6fe5daf7bfd9fef1c8cff7f56b3f31234ac",
+  "tagger": {
+    "name": "Brendan Creane",
+    "email": "brendan@tigera.io",
+    "date": "2017-12-20T22:20:49Z"
+  },
+  "object": {
+    "sha": "7f8f06c20a965431e227f52fd2310e383fd21994",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/7f8f06c20a965431e227f52fd2310e383fd21994"
+  },
+  "tag": "2.6.3",
+  "message": "This is a bug-fix release to the Felix 2.6.x series. It includes the following changes:\n\n* Update Typha liveness test - https://github.com/projectcalico/felix/pull/1654\n* Felix now restarts when config is deleted - https://github.com/projectcalico/felix/pull/1645\n* Handle config changes for ClusterGUID, ClusterType, CalicoVersion: https://github.com/projectcalico/felix/pull/1631\n\nThe DockerHub and Quay.io `calico/felix` images have been updated. The `calico/node` image based on this release will follow shortly.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

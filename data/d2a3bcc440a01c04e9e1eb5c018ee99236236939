@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzczMDgyOTpkMmEzYmNjNDQwYTAxYzA0ZTllMWViNWMwMThlZTk5MjM2MjM2OTM5",
+  "sha": "d2a3bcc440a01c04e9e1eb5c018ee99236236939",
+  "url": "https://api.github.com/repos/psycopg/psycopg2/git/tags/d2a3bcc440a01c04e9e1eb5c018ee99236236939",
+  "tagger": {
+    "name": "Federico Di Gregorio",
+    "email": "fog@initd.org",
+    "date": "2011-06-13T16:54:38Z"
+  },
+  "object": {
+    "sha": "f8ff2ccc49ec32614d42ee852f2fd02fd538e6e5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/f8ff2ccc49ec32614d42ee852f2fd02fd538e6e5"
+  },
+  "tag": "2_4_2",
+  "message": "Release 2.4.2\n\n- Added 'set_session()' method and 'autocommit' property to the\n  connection. Added support for read-only sessions and, for PostgreSQL\n  9.1, for the \"repeatable read\" isolation level and the \"deferrable\"\n  transaction property.\n- Psycopg doesn't execute queries at connection time to find the\n  default isolation level.\n- Fixed bug with multithread code potentially causing loss of sync\n  with the server communication or lock of the client (ticket #55).\n- Don't fail import if mx.DateTime module can't be found, even if its\n  support was built (ticket #53).\n- Fixed escape for negative numbers prefixed by minus operator\n  (ticket #57).\n- Fixed refcount issue during copy.  Reported and fixed by Dave\n  Malcolm (ticket #58, Red Hat Bug 711095).\n- Trying to execute concurrent operations on the same connection\n  through concurrent green thread results in an error instead of a\n  deadlock.\n- Fixed detection of pg_config on Window. Report and fix, plus some\n  long needed setup.py cleanup by Steve Lacy: thanks!\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niEYEABECAAYFAk32QOwACgkQvcCgrgZGjeugqwCgm1BZoHCI+Goa+8rR9lABnj5j\nW00AoL71kP8Juz2ncpBLAOvX2BUW1yzb\n=oVgh\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niEYEABECAAYFAk32QOwACgkQvcCgrgZGjeugqwCgm1BZoHCI+Goa+8rR9lABnj5j\nW00AoL71kP8Juz2ncpBLAOvX2BUW1yzb\n=oVgh\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f8ff2ccc49ec32614d42ee852f2fd02fd538e6e5\ntype commit\ntag 2_4_2\ntagger Federico Di Gregorio <fog@initd.org> 1307984078 +0200\n\nRelease 2.4.2\n\n- Added 'set_session()' method and 'autocommit' property to the\n  connection. Added support for read-only sessions and, for PostgreSQL\n  9.1, for the \"repeatable read\" isolation level and the \"deferrable\"\n  transaction property.\n- Psycopg doesn't execute queries at connection time to find the\n  default isolation level.\n- Fixed bug with multithread code potentially causing loss of sync\n  with the server communication or lock of the client (ticket #55).\n- Don't fail import if mx.DateTime module can't be found, even if its\n  support was built (ticket #53).\n- Fixed escape for negative numbers prefixed by minus operator\n  (ticket #57).\n- Fixed refcount issue during copy.  Reported and fixed by Dave\n  Malcolm (ticket #58, Red Hat Bug 711095).\n- Trying to execute concurrent operations on the same connection\n  through concurrent green thread results in an error instead of a\n  deadlock.\n- Fixed detection of pg_config on Window. Report and fix, plus some\n  long needed setup.py cleanup by Steve Lacy: thanks!\n"
+  }
+}

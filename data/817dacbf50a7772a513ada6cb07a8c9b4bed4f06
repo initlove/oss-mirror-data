@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEzMDU5OTg6ODE3ZGFjYmY1MGE3NzcyYTUxM2FkYTZjYjA3YThjOWI0YmVkNGYwNg==",
+  "sha": "817dacbf50a7772a513ada6cb07a8c9b4bed4f06",
+  "url": "https://api.github.com/repos/openstack/python-designateclient/git/tags/817dacbf50a7772a513ada6cb07a8c9b4bed4f06",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-16T09:20:03Z"
+  },
+  "object": {
+    "sha": "093d8d7170cbf6ef8c7a7c0ff2a4dcd7ecd6361b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-designateclient/git/commits/093d8d7170cbf6ef8c7a7c0ff2a4dcd7ecd6361b"
+  },
+  "tag": "3.0.0",
+  "message": "python-designateclient 3.0.0 release\n\nmeta:version: 3.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Erik Olof Gunnar Andersson <eandersson@blizzard.com>\nmeta:release:Commit: Erik Olof Gunnar Andersson <eandersson@blizzard.com>\nmeta:release:Change-Id: Ic1ea8ccd1633bbb6cac3b6c6dd3a832525447a07\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Jens Harbott (frickler) <j.harbott@x-ion.de>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1/U8MZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2K6mDACx5nZCZLcGxNCyeUurL97J\nVoBVKtztK8HDzoPuUn5YHh02fmEiCI4J9xmUso08lMlSH0icr5L2p6p4qEYUwWVa\nLTCfojOrMBW39wmXBHs/2p38ejkrLVR4nSpTCIrMCW9tbvLctYteQurnzUkCxcdv\nk4G0EAentC+phEAxl7NyIblYcJ2hN9phBL9qAeLUPZA1DBcyb2rASOdSctJyfxrD\nF88oB2N1GtfiX1zo9Folbv7OzkD2wyz4q0qVy8dk6gAMTBNtYE45o9Z9G43PnaUo\ns4eaHNcIR/rluiYMiYCyO8z5ogejuHSrvOfUYCalwKsqlS5Xz4nu/HZa9zVxldMC\n28TzqrVPKp1OkSbUB4u7pGvVASJwe6LqPBzNMxwcsaWGLdNkXFDzFgv6aQjLY5kj\n3CVi+AyoLWNphOBJTqtiHrvuD14/F5d8jyZmBK7iXqWvkII67O/gdGugsHt0wZjw\nvUTOJFSJ6rz2qhphOlJilpw6wz9rGeniTExwD/hmGXQ=\n=RYgV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1/U8MZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2K6mDACx5nZCZLcGxNCyeUurL97J\nVoBVKtztK8HDzoPuUn5YHh02fmEiCI4J9xmUso08lMlSH0icr5L2p6p4qEYUwWVa\nLTCfojOrMBW39wmXBHs/2p38ejkrLVR4nSpTCIrMCW9tbvLctYteQurnzUkCxcdv\nk4G0EAentC+phEAxl7NyIblYcJ2hN9phBL9qAeLUPZA1DBcyb2rASOdSctJyfxrD\nF88oB2N1GtfiX1zo9Folbv7OzkD2wyz4q0qVy8dk6gAMTBNtYE45o9Z9G43PnaUo\ns4eaHNcIR/rluiYMiYCyO8z5ogejuHSrvOfUYCalwKsqlS5Xz4nu/HZa9zVxldMC\n28TzqrVPKp1OkSbUB4u7pGvVASJwe6LqPBzNMxwcsaWGLdNkXFDzFgv6aQjLY5kj\n3CVi+AyoLWNphOBJTqtiHrvuD14/F5d8jyZmBK7iXqWvkII67O/gdGugsHt0wZjw\nvUTOJFSJ6rz2qhphOlJilpw6wz9rGeniTExwD/hmGXQ=\n=RYgV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 093d8d7170cbf6ef8c7a7c0ff2a4dcd7ecd6361b\ntype commit\ntag 3.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1568625603 +0000\n\npython-designateclient 3.0.0 release\n\nmeta:version: 3.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Erik Olof Gunnar Andersson <eandersson@blizzard.com>\nmeta:release:Commit: Erik Olof Gunnar Andersson <eandersson@blizzard.com>\nmeta:release:Change-Id: Ic1ea8ccd1633bbb6cac3b6c6dd3a832525447a07\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Jens Harbott (frickler) <j.harbott@x-ion.de>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

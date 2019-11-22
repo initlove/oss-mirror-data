@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6OGI5YmExNzUyYmFlZjBmMmU1OWMyNTc5NzkwMzEwNGViN2Q2YzJiZA==",
+  "sha": "8b9ba1752baef0f2e59c25797903104eb7d6c2bd",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/8b9ba1752baef0f2e59c25797903104eb7d6c2bd",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2019-05-03T06:07:03Z"
+  },
+  "object": {
+    "sha": "1146d93e83acbf5efc21b6b960fed4841214076c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/1146d93e83acbf5efc21b6b960fed4841214076c"
+  },
+  "tag": "v20.3",
+  "message": "rdma-core-20.3:\n\nUpdates from version 20.2\n * Backport fixes:\n   * ibacm: fix double hint.ai_family assignment in ib_acm_connect_open()\n   * ibacm: acme does not work if server_mode != unix\n   * ibacm: ib_acm_connect() is doing too much\n   * verbs: The ibv_xsrq_pingpong \"-c\" option is broken\n   * mlx5: Fix masking service level in mlx5_create_ah\n   * cmake: Explicitly convert build type to be STRING\n   * libhns: Bugfix for filtering zero length sge\n   * buildlib: Ensure stanza is properly sorted\n   * mlx4: Allow loopback when using raw Ethernet QP\n   * travis: Change SuSE package target due to Travis CI failures\n   * cbuild: fix tumbleweed docker image\n   * verbs: Avoid inline send when using device memory in rc_pingpong\n   * mlx5: Use copy loop to read from device memory\n   * libhns: Bugfix for using buffer length\n   * mlx5: Fix incorrect error handling when SQ wqe count is 0\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlzL2okcHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZNoiCACU0gDJ+kpNYdKdjXwk\noolNGOygMtXV0K31SebB0d4lL7UN6DGA62Oi9k9w4iLYrI4eLqwPwqmhj/iJ/ouu\nCG/g5DFHGXaUEW22BesKY/jsBddJnqv7NTiC8/9BBeLErPzLe1BKHeEZGm+XZ6eV\nE2Lof3DV3M6kMslAeSZt8GcaYJ43C2eCf4NalrHUX5mWclJQqwS9SXzqBlqLxQSh\n+CZGRCQdlIe0ClYqpfuM3rt9uye+UpGtcA1Jzyq2d3yWGXWPjAjivB5zCwQAjcTb\nk1TAxS28NYChEN62yYOFVcgW0zL4PBKN8ak5TaqfhhTQaEXSpISGlRZcHkQer5CP\naQCh\n=mhWp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlzL2okcHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZNoiCACU0gDJ+kpNYdKdjXwk\noolNGOygMtXV0K31SebB0d4lL7UN6DGA62Oi9k9w4iLYrI4eLqwPwqmhj/iJ/ouu\nCG/g5DFHGXaUEW22BesKY/jsBddJnqv7NTiC8/9BBeLErPzLe1BKHeEZGm+XZ6eV\nE2Lof3DV3M6kMslAeSZt8GcaYJ43C2eCf4NalrHUX5mWclJQqwS9SXzqBlqLxQSh\n+CZGRCQdlIe0ClYqpfuM3rt9uye+UpGtcA1Jzyq2d3yWGXWPjAjivB5zCwQAjcTb\nk1TAxS28NYChEN62yYOFVcgW0zL4PBKN8ak5TaqfhhTQaEXSpISGlRZcHkQer5CP\naQCh\n=mhWp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1146d93e83acbf5efc21b6b960fed4841214076c\ntype commit\ntag v20.3\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1556863623 +0200\n\nrdma-core-20.3:\n\nUpdates from version 20.2\n * Backport fixes:\n   * ibacm: fix double hint.ai_family assignment in ib_acm_connect_open()\n   * ibacm: acme does not work if server_mode != unix\n   * ibacm: ib_acm_connect() is doing too much\n   * verbs: The ibv_xsrq_pingpong \"-c\" option is broken\n   * mlx5: Fix masking service level in mlx5_create_ah\n   * cmake: Explicitly convert build type to be STRING\n   * libhns: Bugfix for filtering zero length sge\n   * buildlib: Ensure stanza is properly sorted\n   * mlx4: Allow loopback when using raw Ethernet QP\n   * travis: Change SuSE package target due to Travis CI failures\n   * cbuild: fix tumbleweed docker image\n   * verbs: Avoid inline send when using device memory in rc_pingpong\n   * mlx5: Use copy loop to read from device memory\n   * libhns: Bugfix for using buffer length\n   * mlx5: Fix incorrect error handling when SQ wqe count is 0\n"
+  }
+}

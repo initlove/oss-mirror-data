@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzk5MDkyOTg6NjIwZWFmOTQ4NjFmMGE3ODI2ZDE5MGM0N2ZhMDgyNDdhMzQ5MmJiZg==",
+  "sha": "620eaf94861f0a7826d190c47fa08247a3492bbf",
+  "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/tags/620eaf94861f0a7826d190c47fa08247a3492bbf",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2019-05-06T18:08:12Z"
+  },
+  "object": {
+    "sha": "26ae2bc70a41381b1476ca8cfbee837a263e5cfb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/commits/26ae2bc70a41381b1476ca8cfbee837a263e5cfb"
+  },
+  "tag": "v3.7.1",
+  "message": "- a70110ec1a96c62deb252727d031c0818ab92741 Switching image base to debian:9.8-slim (aka stretch-slim).\n- 0715d78c24069b7377bf19b4f3f7db0817bfdeac Handle nil pointers better in migration script\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

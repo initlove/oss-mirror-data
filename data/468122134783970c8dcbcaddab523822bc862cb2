@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDYxMjU2MjU6NDY4MTIyMTM0NzgzOTcwYzhkY2JjYWRkYWI1MjM4MjJiYzg2MmNiMg==",
+  "sha": "468122134783970c8dcbcaddab523822bc862cb2",
+  "url": "https://api.github.com/repos/openstack/python-vitrageclient/git/tags/468122134783970c8dcbcaddab523822bc862cb2",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-01-09T19:15:36Z"
+  },
+  "object": {
+    "sha": "27c198c20ba6e72c483da53ae6e6d3700a2bb4d9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-vitrageclient/git/commits/27c198c20ba6e72c483da53ae6e6d3700a2bb4d9"
+  },
+  "tag": "2.5.0",
+  "message": "python-vitrageclient 2.5.0 release\n\nmeta:version: 2.5.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ifat Afek <ifat.afek@nokia.com>\nmeta:release:Commit: Ifat Afek <ifat.afek@nokia.com>\nmeta:release:Change-Id: Ia9b3626da74953bda42a4a5ebe861b2ca34ffc08\nmeta:release:Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcNkhYAAoJEBpUEUgFTp444IsMAIjfK4P4w1Otb/AW7TeZ8Rc6\nMVuUH8gpZvgPAdJ1i2hVC+YEK3T1IbxX/rppRHHyLPe4se5K3xrictQLrgSORdaq\nvR2A1l2uTCxMSh2Rt/xPW8II3/fYA3CHzYeU5K3JfDwcF5mvtbJI0a/Y3vdpBRDl\nAUdgLxiSLuCgktBtQ+c1TViacjZJYCS6SzeO7LIonBZlc/29y2Kk5Jl2qAnYhV2Y\nAuE/nJiMVYWFdjSLyOtVWkdN5mCnUYY7NGwD4NEEz6kv6C7RTlXqgiyI8LcL63r9\nZgb8j8pSrHzsjg4W9xNdbvUEWd8H/eZklp3z7JMph3dUxoHBfa7hF7fTglW3x5wE\nKx8NFRBoi5FCBnZBH4v3oQTQyiGQZe6+Bb2qwFOLgqjlPtQ/MLE/FV57RCXRED4r\nrQvYpQ1YaGn7uPSrRbcaIJh3xB36hH8sKfrwEfn3i06H7m5MR3QasofdNAJrYwFg\n6H3FnM4sI7mWVXPnJqlmL7ucWXrorOFXizp8CwggQA==\n=Pf91\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcNkhYAAoJEBpUEUgFTp444IsMAIjfK4P4w1Otb/AW7TeZ8Rc6\nMVuUH8gpZvgPAdJ1i2hVC+YEK3T1IbxX/rppRHHyLPe4se5K3xrictQLrgSORdaq\nvR2A1l2uTCxMSh2Rt/xPW8II3/fYA3CHzYeU5K3JfDwcF5mvtbJI0a/Y3vdpBRDl\nAUdgLxiSLuCgktBtQ+c1TViacjZJYCS6SzeO7LIonBZlc/29y2Kk5Jl2qAnYhV2Y\nAuE/nJiMVYWFdjSLyOtVWkdN5mCnUYY7NGwD4NEEz6kv6C7RTlXqgiyI8LcL63r9\nZgb8j8pSrHzsjg4W9xNdbvUEWd8H/eZklp3z7JMph3dUxoHBfa7hF7fTglW3x5wE\nKx8NFRBoi5FCBnZBH4v3oQTQyiGQZe6+Bb2qwFOLgqjlPtQ/MLE/FV57RCXRED4r\nrQvYpQ1YaGn7uPSrRbcaIJh3xB36hH8sKfrwEfn3i06H7m5MR3QasofdNAJrYwFg\n6H3FnM4sI7mWVXPnJqlmL7ucWXrorOFXizp8CwggQA==\n=Pf91\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 27c198c20ba6e72c483da53ae6e6d3700a2bb4d9\ntype commit\ntag 2.5.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1547061336 +0000\n\npython-vitrageclient 2.5.0 release\n\nmeta:version: 2.5.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ifat Afek <ifat.afek@nokia.com>\nmeta:release:Commit: Ifat Afek <ifat.afek@nokia.com>\nmeta:release:Change-Id: Ia9b3626da74953bda42a4a5ebe861b2ca34ffc08\nmeta:release:Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

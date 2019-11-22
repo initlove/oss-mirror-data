@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzk5MDkyOTg6NGM5ZTI0ZDNhOWI1ZWQ2ZWI2MTBjZjI2NDllNTZjNTI4NzM5ZWIxMQ==",
+  "sha": "4c9e24d3a9b5ed6eb610cf2649e56c528739eb11",
+  "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/tags/4c9e24d3a9b5ed6eb610cf2649e56c528739eb11",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2019-02-27T18:31:06Z"
+  },
+  "object": {
+    "sha": "d7cd45a4bfefc552c65682668e9a3136a625812d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/commits/d7cd45a4bfefc552c65682668e9a3136a625812d"
+  },
+  "tag": "v3.1.5",
+  "message": "- 4f87b4eee906aeaab491fc9d2a84020bb22a418d Fix some release stuff on 3.1\n- 8d6c5a26dfdc8faab14113cde1a206bc6f29ccce Timeout specific hanging call\n- 97a7f75b20b4d7908c3d7ed5c87c566891bc910b Fix up manual test script\n- a4b3746f3be143b7a9f9bf5ea82cd1ff6c3cb63c Code review markups\n- 95b9c24a2ec6489e1e59d2ab21ee5d3b00089c9e Include created interface in CNI result\n- 5491fc7493d78d763656187b97578f0aaddc7018 backport release changes to v3.1\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzczMDgyOTpmNDhlY2YxNjE1NWQ2MTkyODNhYjZmNzZhZjYyMTA5MmYzMjNmYWNl",
+  "sha": "f48ecf16155d619283ab6f76af621092f323face",
+  "url": "https://api.github.com/repos/psycopg/psycopg2/git/tags/f48ecf16155d619283ab6f76af621092f323face",
+  "tagger": {
+    "name": "Daniele Varrazzo",
+    "email": "daniele.varrazzo@gmail.com",
+    "date": "2018-06-17T17:28:11Z"
+  },
+  "object": {
+    "sha": "1b07d2e34dc026905c6415fbce8f24d0077170e3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/1b07d2e34dc026905c6415fbce8f24d0077170e3"
+  },
+  "tag": "2_7_5",
+  "message": "Psycopg 2.7.5 released\n\nWhat's new in psycopg 2.7.5\n^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n- Allow non-ascii chars in namedtuple fields (regression introduced fixing\n  :ticket:`#211`).\n- Fixed adaptation of arrays of arrays of nulls (:ticket:`#325`).\n- Fixed building on Solaris 11 and derivatives such as SmartOS and illumos\n  (:ticket:`#677`).\n- Maybe fixed building on MSYS2 (as reported in :ticket:`#658`).\n- Allow string subclasses in connection and other places (:ticket:`#679`).\n- Don't raise an exception closing an unused named cursor (:ticket:`#716`).\n- Wheel package compiled against PostgreSQL 10.4 libpq and OpenSSL 1.0.2o.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbJpplAAoJEGATvTr8+Vfe704H/iq39WEooDhlc20AHgNlCqeG\n3drBR2SeRgZ54UtKN0qXwr9ggWwtKwUuEGJV4gNkYSppwxX6+td+t2uqUr0QZy2W\n6XfFRHcdOdmKXOaTwQ+lgSGvjWKB73s2/N252d3g5D4jQzpgyGl+2S36YAGsPzgC\nqvDwq7x/M7bMpupYZe1u4D8zT0DaL5M+NNVicUuu1cf2xn2pGpxktkPzJbLnlPf0\nCdMxo1er1SM1pN8Ffvh8H7TgnB2TrA30oGz1yiHjLGL4aVxRX3vx68ROpWIZYxN4\nfDPeV7jwm5NAf6ljJuCBpBka/9K8P6Suv4HlKZI4DKifAF8WMi9Wm3C2tq9eluU=\n=IvOU\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbJpplAAoJEGATvTr8+Vfe704H/iq39WEooDhlc20AHgNlCqeG\n3drBR2SeRgZ54UtKN0qXwr9ggWwtKwUuEGJV4gNkYSppwxX6+td+t2uqUr0QZy2W\n6XfFRHcdOdmKXOaTwQ+lgSGvjWKB73s2/N252d3g5D4jQzpgyGl+2S36YAGsPzgC\nqvDwq7x/M7bMpupYZe1u4D8zT0DaL5M+NNVicUuu1cf2xn2pGpxktkPzJbLnlPf0\nCdMxo1er1SM1pN8Ffvh8H7TgnB2TrA30oGz1yiHjLGL4aVxRX3vx68ROpWIZYxN4\nfDPeV7jwm5NAf6ljJuCBpBka/9K8P6Suv4HlKZI4DKifAF8WMi9Wm3C2tq9eluU=\n=IvOU\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1b07d2e34dc026905c6415fbce8f24d0077170e3\ntype commit\ntag 2_7_5\ntagger Daniele Varrazzo <daniele.varrazzo@gmail.com> 1529256491 +0100\n\nPsycopg 2.7.5 released\n\nWhat's new in psycopg 2.7.5\n^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n- Allow non-ascii chars in namedtuple fields (regression introduced fixing\n  :ticket:`#211`).\n- Fixed adaptation of arrays of arrays of nulls (:ticket:`#325`).\n- Fixed building on Solaris 11 and derivatives such as SmartOS and illumos\n  (:ticket:`#677`).\n- Maybe fixed building on MSYS2 (as reported in :ticket:`#658`).\n- Allow string subclasses in connection and other places (:ticket:`#679`).\n- Don't raise an exception closing an unused named cursor (:ticket:`#716`).\n- Wheel package compiled against PostgreSQL 10.4 libpq and OpenSSL 1.0.2o.\n"
+  }
+}

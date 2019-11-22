@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6ZGQ3NzEzOGQyNmVhZWQ3YjI1N2MwYTg0NzlkYjg3MGJmMjc4MjRmNw==",
+  "sha": "dd77138d26eaed7b257c0a8479db870bf27824f7",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/dd77138d26eaed7b257c0a8479db870bf27824f7",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2018-06-11T16:55:33Z"
+  },
+  "object": {
+    "sha": "42d6c123804f2c3bc49840304171b960e098758c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/42d6c123804f2c3bc49840304171b960e098758c"
+  },
+  "tag": "v15.5",
+  "message": "rdma-core-15.5:\n\nUpdates from version 15.4\n * Backport fixes:\n   * buildilb: Fix -msse breakage on ARM builds\n   * buildlib: Use -msse if the compiler does not support target(sse)\n   * suse: do not call %service rules on a template file\n   * mlx5: Convert ah_attr static rate to mlx5 static rate\n   * ccan: Add array_size.h file\n   * iwpmd: Initialize address of sockaddr\n   * mlx5: Fix need_uuar_lock when there are no medium bfregs\n   * verbs: Fix wrong clean up flow in ibv_rc_pingpong\n   * Match kernel ABI to for 4.17 for 32 bit\n   * librdmacm: Set errno correctly if status is positive\n   * verbs: Remove bogus cq_fd\n   * verbs: Fix typo in copying IBV_FLOW_SPEC_UDP/TCP 'val'\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlseqY4cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZNhNB/4ltl0CkPGNltOM5FEN\nN/KetymBQue3ZL9No7XVgzPu8BPRaPNNgG2AEZ9Onexs67kUHVbsG026y6/G2pV6\nQ87GXCWCKj2c8ECbUxleg7ovKX5h2lkCmyIL1qQDohoPyHXlDzE4UZAc4xqlTG4s\nhHSPoYpA9bz1HE3BYn7m6XGLwEw0Mk0Cs+1tU0ElXCgfRxMp1hFw4iBahCDRTYtA\n0FCyjiHiy0jIWSiCz4WwKYin7yRW9415a4BsJm1MERJ+ZJRi0RpdVPmVSfRak3YE\nVf7u9mAOGn4//FnmUHVOTzyxWD7mXrnawv9IUIGZTozKcUnMccCimJzgIS6gSINw\nXjt+\n=b/Bt\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlseqY4cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZNhNB/4ltl0CkPGNltOM5FEN\nN/KetymBQue3ZL9No7XVgzPu8BPRaPNNgG2AEZ9Onexs67kUHVbsG026y6/G2pV6\nQ87GXCWCKj2c8ECbUxleg7ovKX5h2lkCmyIL1qQDohoPyHXlDzE4UZAc4xqlTG4s\nhHSPoYpA9bz1HE3BYn7m6XGLwEw0Mk0Cs+1tU0ElXCgfRxMp1hFw4iBahCDRTYtA\n0FCyjiHiy0jIWSiCz4WwKYin7yRW9415a4BsJm1MERJ+ZJRi0RpdVPmVSfRak3YE\nVf7u9mAOGn4//FnmUHVOTzyxWD7mXrnawv9IUIGZTozKcUnMccCimJzgIS6gSINw\nXjt+\n=b/Bt\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 42d6c123804f2c3bc49840304171b960e098758c\ntype commit\ntag v15.5\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1528736133 +0200\n\nrdma-core-15.5:\n\nUpdates from version 15.4\n * Backport fixes:\n   * buildilb: Fix -msse breakage on ARM builds\n   * buildlib: Use -msse if the compiler does not support target(sse)\n   * suse: do not call %service rules on a template file\n   * mlx5: Convert ah_attr static rate to mlx5 static rate\n   * ccan: Add array_size.h file\n   * iwpmd: Initialize address of sockaddr\n   * mlx5: Fix need_uuar_lock when there are no medium bfregs\n   * verbs: Fix wrong clean up flow in ibv_rc_pingpong\n   * Match kernel ABI to for 4.17 for 32 bit\n   * librdmacm: Set errno correctly if status is positive\n   * verbs: Remove bogus cq_fd\n   * verbs: Fix typo in copying IBV_FLOW_SPEC_UDP/TCP 'val'\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6NDNjMmE3NDhmZWI2ODI1NDEwMDIxZjNlYmZlOGI0Y2Q2NDlmNjliMQ==",
+  "sha": "43c2a748feb6825410021f3ebfe8b4cd649f69b1",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/43c2a748feb6825410021f3ebfe8b4cd649f69b1",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2019-06-29T00:35:56Z"
+  },
+  "object": {
+    "sha": "46549cc51d585f67012e3b5adffe7e2ef577d449",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/46549cc51d585f67012e3b5adffe7e2ef577d449"
+  },
+  "tag": "v3.7.4",
+  "message": "- c84d14311f58dcdf47b9c0bb87bd5b8c5b7f9799 ADd explicit license to BPF program.\n- adcbe0bcb84b593fd6c0a5988843f7d0472170eb Fix XDP test hash.\n- e77096dfd65219e743c6fafe6b398419d846cdf4 Fix that packr can make a non-goimported file.\n- 6fd3f67660c58b14553021e7f2f20042d32fb56e Workaround goimports removing packr-generated import\n- f6e98ef6afe71e750cf4a51cd86689c3691f67c2 Remove disputed contributions\n- 3e219836f17ee04163f9756076159a0598781d3f Fix build and tests\n- 058bc9f6af2fd7bd8431d11611121c9b8d6a0be9 Disallow enabling XDP\n- 46549cc51d585f67012e3b5adffe7e2ef577d449 Drop VXLAN and IPIP packets originating in pods (v3.7) (#2063)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

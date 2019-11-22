@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6YjAyNjAyNDRiYjE5NTliOTJmOGNlMDYxODhhOWE1NTQxNjE4Mjg1OQ==",
+  "sha": "b0260244bb1959b92f8ce06188a9a55416182859",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/b0260244bb1959b92f8ce06188a9a55416182859",
+  "tagger": {
+    "name": "Doug Ledford",
+    "email": "dledford@redhat.com",
+    "date": "2018-02-05T00:42:21Z"
+  },
+  "object": {
+    "sha": "7ebed9d65a53d04dd7e0d1f3d56f104937c956a4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/7ebed9d65a53d04dd7e0d1f3d56f104937c956a4"
+  },
+  "tag": "v17-rc1",
+  "message": "Changes for v17\n\n- Various fixes in srp, libibverbs, librdmacm, libibumad, bnxt_re, ibacm\n- container_of removals\n- srp: handle lid changes\n- verbs: ibv_parent_domain/ibv_thread_domain additions\n- remove obsolete libibcm library\n- mlx5 updates to support parent/thread domains\n- mlx5 BlueFlame enhancements\n- debian/redhat packaging updates\n- travis updates\n- cleanups for verbs, use kernel uapi headers where possible\n- mlx5 additions for timestamp clocks\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJad6rZAAoJELgmozMOVy/dA+cQAJTeLAelI8PwGgxgKYlDopWB\npGYnNjkvuXAJNyWnE7WT1jJ0Zj2FDgatjCpTQ+7iUNNljn/pQHZM1n2zLM5KNQbo\nHUe73bKjRgU8sCnGk6dl9DNnUd/3PKiUTOZ9GRhdm4jTLwOTw1J5GJ/bM0Y0UTQj\nTJ8XbedegiYCV/im+pATaLU5OJlgSq6SZGQ/hr1/9yc0m57fLt0pC/3rifhS3suL\nyaVHlrr73VC1QlX1hdoETkDyd3MaBi+QDZfDhlHrpm4tWt66rhEssJf86Z5xxUFx\noU5LZgrY/CUKH52so5Jh5zgl2/dTA6uNzoTAtfzCPDm0kMrJ9ZqKPjIdtnt1Y1p0\n8NboR7caDm0mufWDSEr+aBtCYwjbcgje3X9aPviVD/8DnH+RPVosilQ6aYOUU2Nc\nxWni0Bzy969m5CH0WNum6QsC4np2MPtsEUzxNxiiGndVdVJq2UULg+sM3qB58Upx\n8xkyfzhK8TgQMYzgfjgXltlwLUaJjjkPhfhhFQURzTDmc3k9wfHdmX5C0bNqlCc4\n2uK1W4oPYswNeHfB2Q4nfyJ3uhDQYoBHNqQBpt/buPitcIG4LQPoqZVgmLyuhdRj\n+JZbAtk8tfBW9qCmGLq+OOTv7KB5N1fllg5pl1NqWgBc6L+x4WIuEWigNic6tfVg\nVIdubpgK2mVIwdf0xDjS\n=oIoB\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJad6rZAAoJELgmozMOVy/dA+cQAJTeLAelI8PwGgxgKYlDopWB\npGYnNjkvuXAJNyWnE7WT1jJ0Zj2FDgatjCpTQ+7iUNNljn/pQHZM1n2zLM5KNQbo\nHUe73bKjRgU8sCnGk6dl9DNnUd/3PKiUTOZ9GRhdm4jTLwOTw1J5GJ/bM0Y0UTQj\nTJ8XbedegiYCV/im+pATaLU5OJlgSq6SZGQ/hr1/9yc0m57fLt0pC/3rifhS3suL\nyaVHlrr73VC1QlX1hdoETkDyd3MaBi+QDZfDhlHrpm4tWt66rhEssJf86Z5xxUFx\noU5LZgrY/CUKH52so5Jh5zgl2/dTA6uNzoTAtfzCPDm0kMrJ9ZqKPjIdtnt1Y1p0\n8NboR7caDm0mufWDSEr+aBtCYwjbcgje3X9aPviVD/8DnH+RPVosilQ6aYOUU2Nc\nxWni0Bzy969m5CH0WNum6QsC4np2MPtsEUzxNxiiGndVdVJq2UULg+sM3qB58Upx\n8xkyfzhK8TgQMYzgfjgXltlwLUaJjjkPhfhhFQURzTDmc3k9wfHdmX5C0bNqlCc4\n2uK1W4oPYswNeHfB2Q4nfyJ3uhDQYoBHNqQBpt/buPitcIG4LQPoqZVgmLyuhdRj\n+JZbAtk8tfBW9qCmGLq+OOTv7KB5N1fllg5pl1NqWgBc6L+x4WIuEWigNic6tfVg\nVIdubpgK2mVIwdf0xDjS\n=oIoB\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7ebed9d65a53d04dd7e0d1f3d56f104937c956a4\ntype commit\ntag v17-rc1\ntagger Doug Ledford <dledford@redhat.com> 1517791341 -0500\n\nChanges for v17\n\n- Various fixes in srp, libibverbs, librdmacm, libibumad, bnxt_re, ibacm\n- container_of removals\n- srp: handle lid changes\n- verbs: ibv_parent_domain/ibv_thread_domain additions\n- remove obsolete libibcm library\n- mlx5 updates to support parent/thread domains\n- mlx5 BlueFlame enhancements\n- debian/redhat packaging updates\n- travis updates\n- cleanups for verbs, use kernel uapi headers where possible\n- mlx5 additions for timestamp clocks\n"
+  }
+}

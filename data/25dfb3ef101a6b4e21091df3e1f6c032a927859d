@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTI3ODQxMzk6MjVkZmIzZWYxMDFhNmI0ZTIxMDkxZGYzZTFmNmMwMzJhOTI3ODU5ZA==",
+  "sha": "25dfb3ef101a6b4e21091df3e1f6c032a927859d",
+  "url": "https://api.github.com/repos/openstack/python-karborclient/git/tags/25dfb3ef101a6b4e21091df3e1f6c032a927859d",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-29T14:08:12Z"
+  },
+  "object": {
+    "sha": "604007cbd3eaaa8274e6996220572e6b9433f79c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-karborclient/git/commits/604007cbd3eaaa8274e6996220572e6b9433f79c"
+  },
+  "tag": "queens-em",
+  "message": "python-karborclient queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I79a3491b50f4bf6b213c65dc5526d3761d2076c6\nmeta:release:Code-Review+1: Jiao Pengju <jiaopengju@cmss.chinamobile.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl24R8wZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2DKeC/0WYq0FYqKQ1+iQqsbIlRvz\nTk6CwuS88JEAwyxf2ccET5C/dS4gjBMEut4v2PaCAi93vrwWnNkIpeN2JtLJTH8M\nk79jDZ4kNFhsLWHHgcDxcFE3xQveocm2Qr1LBu4F60YlOxVLQBNJXNAVy4XfxVQM\nZ0jhMoccQl+mNH/JcQxnbsNHPH1nVbKkThI0vABOlezNb55BAK2ZadfGsfH/Qxjc\n8/WlxzpBXUZFUVf+5S/ofEdeHq9/UrZR9PXuhH0qmDsDT1FfmAkPnSog2Zl1ZlwB\nVwAXMh4cEJn94yPvLxu5jg0JeSsmbuCrkHkivSJG6USXEghjbBxFR7/zr8ZgT+1O\nCClLlPlM281ZaAwLQ1DHJo7hB0zHcubvoSlzmXWVN8PYDGD0RxfnD8T1aEgfH+VC\n5neSJHEgPrHDYhUrWUxuzdu4araIi1vHziLHYIVirLTWYvqVa693Y5+lPgR9MK2s\nEcEYDlcgo8XfZbLJ6xL2oS36prj6LOAIN3EbYfbkTN4=\n=ijTA\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl24R8wZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2DKeC/0WYq0FYqKQ1+iQqsbIlRvz\nTk6CwuS88JEAwyxf2ccET5C/dS4gjBMEut4v2PaCAi93vrwWnNkIpeN2JtLJTH8M\nk79jDZ4kNFhsLWHHgcDxcFE3xQveocm2Qr1LBu4F60YlOxVLQBNJXNAVy4XfxVQM\nZ0jhMoccQl+mNH/JcQxnbsNHPH1nVbKkThI0vABOlezNb55BAK2ZadfGsfH/Qxjc\n8/WlxzpBXUZFUVf+5S/ofEdeHq9/UrZR9PXuhH0qmDsDT1FfmAkPnSog2Zl1ZlwB\nVwAXMh4cEJn94yPvLxu5jg0JeSsmbuCrkHkivSJG6USXEghjbBxFR7/zr8ZgT+1O\nCClLlPlM281ZaAwLQ1DHJo7hB0zHcubvoSlzmXWVN8PYDGD0RxfnD8T1aEgfH+VC\n5neSJHEgPrHDYhUrWUxuzdu4araIi1vHziLHYIVirLTWYvqVa693Y5+lPgR9MK2s\nEcEYDlcgo8XfZbLJ6xL2oS36prj6LOAIN3EbYfbkTN4=\n=ijTA\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 604007cbd3eaaa8274e6996220572e6b9433f79c\ntype commit\ntag queens-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572358092 +0000\n\npython-karborclient queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I79a3491b50f4bf6b213c65dc5526d3761d2076c6\nmeta:release:Code-Review+1: Jiao Pengju <jiaopengju@cmss.chinamobile.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

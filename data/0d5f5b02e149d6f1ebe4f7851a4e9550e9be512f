@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6MGQ1ZjViMDJlMTQ5ZDZmMWViZTRmNzg1MWE0ZTk1NTBlOWJlNTEyZg==",
+  "sha": "0d5f5b02e149d6f1ebe4f7851a4e9550e9be512f",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/0d5f5b02e149d6f1ebe4f7851a4e9550e9be512f",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2019-02-06T07:17:50Z"
+  },
+  "object": {
+    "sha": "ce7e567d5760484865ed4c664feac5bebc191674",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/ce7e567d5760484865ed4c664feac5bebc191674"
+  },
+  "tag": "v21.1",
+  "message": "rdma-core-21.1:\n\nUpdates from version 21.0\n * Backport fixes:\n   * libhns: Bugfix for allocating and freeing sq db buffer\n   * verbs: Fix pingpong buffer validation\n   * verbs: Fix execute_ioctl_fallback() bad flow\n   * verbs: Device memory cannot be on demand in rc_pingpong\n   * mlx5: Fix SL to Ethernet priority conversion\n   * ABI Files\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlxaih8cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZHWrB/9ByOwXo1g9fA4YU8Gc\nDiUBmaxLeDhkm8vdSQ4m8zFunNvAHFfwBWkXNPhA+qXiUPeLEmJBvBwLT6heI/n5\naC6GS7qHwvgGcpbNbHxKOqj6YNmJuczAiUrDAHLK31/dAh0vTPV4f/BwMFrj6Q8k\nidnJS6N5IUDmDwnLfd7WgFm+7fMHCEumXA20LSLN/HUXb0nEBMFiEvaR5YfeV/iI\ns7nV6QVfVnw3IYXcuX3uvadM3h941pNjuf+L5O+Uxtbk9jZx6Gho+dwQ0KPptyLs\n2VWkFyta++kq1DGmTTOSHfunErZj0EmVIXYwdhwOwzOOT467CgjNjcPaPHd+zkmc\nBy8b\n=FiFp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlxaih8cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZHWrB/9ByOwXo1g9fA4YU8Gc\nDiUBmaxLeDhkm8vdSQ4m8zFunNvAHFfwBWkXNPhA+qXiUPeLEmJBvBwLT6heI/n5\naC6GS7qHwvgGcpbNbHxKOqj6YNmJuczAiUrDAHLK31/dAh0vTPV4f/BwMFrj6Q8k\nidnJS6N5IUDmDwnLfd7WgFm+7fMHCEumXA20LSLN/HUXb0nEBMFiEvaR5YfeV/iI\ns7nV6QVfVnw3IYXcuX3uvadM3h941pNjuf+L5O+Uxtbk9jZx6Gho+dwQ0KPptyLs\n2VWkFyta++kq1DGmTTOSHfunErZj0EmVIXYwdhwOwzOOT467CgjNjcPaPHd+zkmc\nBy8b\n=FiFp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ce7e567d5760484865ed4c664feac5bebc191674\ntype commit\ntag v21.1\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1549437470 +0100\n\nrdma-core-21.1:\n\nUpdates from version 21.0\n * Backport fixes:\n   * libhns: Bugfix for allocating and freeing sq db buffer\n   * verbs: Fix pingpong buffer validation\n   * verbs: Fix execute_ioctl_fallback() bad flow\n   * verbs: Device memory cannot be on demand in rc_pingpong\n   * mlx5: Fix SL to Ethernet priority conversion\n   * ABI Files\n"
+  }
+}

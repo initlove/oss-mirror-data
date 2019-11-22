@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzk5MDkyOTg6MmI2YjhkZGQ2YmE2OTFiNTgwMTI2MDgyODk5MTU3YjkyMGEzZDg5Mw==",
+  "sha": "2b6b8ddd6ba691b580126082899157b920a3d893",
+  "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/tags/2b6b8ddd6ba691b580126082899157b920a3d893",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2019-07-01T17:41:42Z"
+  },
+  "object": {
+    "sha": "0061f44a3f5f8f86ef0df75d7dcde0f8685ec639",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/commits/0061f44a3f5f8f86ef0df75d7dcde0f8685ec639"
+  },
+  "tag": "v3.8.0",
+  "message": "- 53b053ed2d49dcd82ac5f3631460a79faa4476fc Handle nil pointers better in migration script\n- 17cd234b76477c336a94642f127a4375857b9e56 Update Makefile, adding -C option to curl to ensure download will wont fail\n- 7dabbb346942a12738c2e542eb263861f73a3a80 Automated libcalico pin update\n- 5c52bb2548c921cd553b31fa8dcfb6dcd0c6957a Retry on IPv6 listing\n- a2d75c36f7b7ed777e46332e02fff8a51b12e862 Switching image base to debian:9.8-slim (aka stretch-slim).\n- a9d1b07d35ca2e8ff9811bbd46e334607dbf156e Automated libcalico pin update\n- ad6482825d51b499c51b61dc8d4d1e8d2036eeef Always rebuild when DEV_BUILD=true\n- 721cd1259032196e4bfbaf3562a0abcc3734fb18 Increase K8s version to 1.14.1\n- 9e23402af6f7ce756e512cad8e352e7bf0d72321 Automated libcalico pin update\n- 2be0144246f3df3385d273cb376ad9d7e3564c3e Add bandwidth plugin and update cni plugins to v0.8.0\n- 333d52715ef435234a228786b4ea5fc91930f2f7 Switched ordering\n- d727da757dcfe48eb2fa52ea4e31fcf4e958edb0 deleted comments, requested changes\n- 83a6f3cb917dda0184512037f94c27e96c3012b3 Fix upgrade-ipam lockin wrong directory\n- f5f8b82823719a3a174385a6c95771bb6f22eb50 Automated libcalico pin update\n- 191591ba805d9ce5fc4907b09be4312d089bdc74 Add etcd SRV discovery support\n- e4681ecdafe3073a270921200297205b43559073 Automated libcalico pin update\n- a9f727cf20985a9ddd51d0033a47c58ebbbde171 Handle migrating an IP that is already migrated\n- 0061f44a3f5f8f86ef0df75d7dcde0f8685ec639 Automated libcalico pin update\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

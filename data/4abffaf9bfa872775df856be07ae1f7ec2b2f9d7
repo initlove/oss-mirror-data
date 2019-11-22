@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTI3ODQxMzk6NGFiZmZhZjliZmE4NzI3NzVkZjg1NmJlMDdhZTFmN2VjMmIyZjlkNw==",
+  "sha": "4abffaf9bfa872775df856be07ae1f7ec2b2f9d7",
+  "url": "https://api.github.com/repos/openstack/python-karborclient/git/tags/4abffaf9bfa872775df856be07ae1f7ec2b2f9d7",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-19T15:36:12Z"
+  },
+  "object": {
+    "sha": "4571dcb49231a1b23f53029e0b2715497f9cb6ed",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-karborclient/git/commits/4571dcb49231a1b23f53029e0b2715497f9cb6ed"
+  },
+  "tag": "1.3.0",
+  "message": "python-karborclient 1.3.0 release\n\nmeta:version: 1.3.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: Ie090a4d079f22b8536a21c3a90c708a8c3034ba8\nmeta:release:Code-Review+1: Jiao Pengju <jiaopengju@cmss.chinamobile.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1awewZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2DqqC/9gsdxGP62XBWMqt+jmxy8l\n1XV+jf4/2UnAwxe+QnwUjPT6qZ9vHzKsfuKRTsnB/yq1E6u516d3UOx9RJ2+pyRW\ngYYmQOELweo08HKsjw3gHxDoDGollvDz9LDNChnrJD/CoH96RVvQDJPZzIxg4DFe\nIpg7WzcPNwv37DTL2AMIcAlb25AdmEVJDRSokposoRQEXtB2KVBFJYKA3Lu0/pXr\nIQ+4WJnFvZm1cupQwbpiDmAXIqar9kb71YQKUxU/FkK/+2z9dae0gCia5+4HPUl3\nQlRD7pIqIsIG8h5Agrc0jrsrzKs/hFXOXIyMwJKzKkmIkjfMv22yRKm8WEX42QqA\nrJiQijTuqaqbYWL3e+wY5Li80fZCQ4fZudBGSy5IOgP+RO8P4Xm2cI/i2kUSicyU\njnJEkD7Ygh3RwkigffYCDKWvrTYtxp4oOYZLxiKyv+qXZmDSoonc/F+KO1sCFQ5F\nZPIFhVmm/1k2AYpSWZDNNPMi2xtqJNANvEI5ncUh9Cg=\n=P+mE\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1awewZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2DqqC/9gsdxGP62XBWMqt+jmxy8l\n1XV+jf4/2UnAwxe+QnwUjPT6qZ9vHzKsfuKRTsnB/yq1E6u516d3UOx9RJ2+pyRW\ngYYmQOELweo08HKsjw3gHxDoDGollvDz9LDNChnrJD/CoH96RVvQDJPZzIxg4DFe\nIpg7WzcPNwv37DTL2AMIcAlb25AdmEVJDRSokposoRQEXtB2KVBFJYKA3Lu0/pXr\nIQ+4WJnFvZm1cupQwbpiDmAXIqar9kb71YQKUxU/FkK/+2z9dae0gCia5+4HPUl3\nQlRD7pIqIsIG8h5Agrc0jrsrzKs/hFXOXIyMwJKzKkmIkjfMv22yRKm8WEX42QqA\nrJiQijTuqaqbYWL3e+wY5Li80fZCQ4fZudBGSy5IOgP+RO8P4Xm2cI/i2kUSicyU\njnJEkD7Ygh3RwkigffYCDKWvrTYtxp4oOYZLxiKyv+qXZmDSoonc/F+KO1sCFQ5F\nZPIFhVmm/1k2AYpSWZDNNPMi2xtqJNANvEI5ncUh9Cg=\n=P+mE\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4571dcb49231a1b23f53029e0b2715497f9cb6ed\ntype commit\ntag 1.3.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1566228972 +0000\n\npython-karborclient 1.3.0 release\n\nmeta:version: 1.3.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: Ie090a4d079f22b8536a21c3a90c708a8c3034ba8\nmeta:release:Code-Review+1: Jiao Pengju <jiaopengju@cmss.chinamobile.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

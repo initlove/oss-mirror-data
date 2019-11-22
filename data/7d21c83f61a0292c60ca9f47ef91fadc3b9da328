@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzA3OTQ4Njg6N2QyMWM4M2Y2MWEwMjkyYzYwY2E5ZjQ3ZWY5MWZhZGMzYjlkYTMyOA==",
+  "sha": "7d21c83f61a0292c60ca9f47ef91fadc3b9da328",
+  "url": "https://api.github.com/repos/sampotts/plyr/git/tags/7d21c83f61a0292c60ca9f47ef91fadc3b9da328",
+  "tagger": {
+    "name": "Sam Potts",
+    "email": "sam@potts.es",
+    "date": "2019-04-25T02:15:12Z"
+  },
+  "object": {
+    "sha": "0694e586502f7ce85ce7858b67d515403b48c87e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/sampotts/plyr/git/commits/0694e586502f7ce85ce7858b67d515403b48c87e"
+  },
+  "tag": "v3.5.4",
+  "message": "-   Added: Set download URL via new setter\n-   Improvement: The order of the `controls` option now effects the order in the DOM - i.e. you can re-order the controls - Note: this may break any custom CSS you have setup. Please see the changes in the PR to the default SASS\n-   Fixed issue with empty controls and preview thumbs\n-   Fixed issue with setGutter call (from Sentry)\n-   Fixed issue with initial selected speed not working\n-   Added notes on `autoplay` config option and browser compatibility\n-   Fixed issue with ads volume not matching current content volume\n-   Fixed race condition where ads were loading during source change\n-   Improvement: Automatic aspect ratio for YouTube is now supported, meaning all aspect ratios are set based on media content - Note: we're now using a different API to get YouTube video metadata so you may need to adjust any CSPs you have setup\n-   Fix for menu in the Shadow DOM (thanks @emielbeinema)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

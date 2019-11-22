@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzczMDgyOTo2YmE4NDAxZWUxZjA5MTEyNTY3MGM0ZWEwOTE2ZGU0ZjcwNTE4MDMy",
+  "sha": "6ba8401ee1f091125670c4ea0916de4f70518032",
+  "url": "https://api.github.com/repos/psycopg/psycopg2/git/tags/6ba8401ee1f091125670c4ea0916de4f70518032",
+  "tagger": {
+    "name": "Daniele Varrazzo",
+    "email": "daniele.varrazzo@gmail.com",
+    "date": "2019-06-13T23:25:15Z"
+  },
+  "object": {
+    "sha": "bc65c636aef14ccdb89f8abec1f28a677c1ff0b4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/bc65c636aef14ccdb89f8abec1f28a677c1ff0b4"
+  },
+  "tag": "2_8_3",
+  "message": "Psycopg 2.8.3 released\n\nWhat's new in psycopg 2.8.3\n---------------------------\n\n- Added *interval_status* parameter to\n  `~psycopg2.extras.ReplicationCursor.start_replication()` method and other\n  facilities to send automatic replication keepalives at periodic intervals\n  (:ticket:`#913`).\n- Fixed namedtuples caching introduced in 2.8 (:ticket:`#928`).\n-----BEGIN PGP SIGNATURE-----\n\niQFPBAABCgA5FiEEitYJlWzxiZQY4ZqFYBO9Ovz5V94FAl0C25MbHGRhbmllbGUu\ndmFycmF6em9AZ21haWwuY29tAAoJEGATvTr8+Vfe9iQH/1iz+Q4utsj46x8Za5dv\nJB7GakH0fhdrcXUxfSzdO6TbVQOTr/xT2XjPnXog8aAX9E79mxfVEdPi3DxvbavX\naY3wNGBbkOkevbkbetDozyYrAKZ2MNFiYorbsdfeafPIUO6qNjMd2Qak6onGCjKH\nhDfwkimuNsjQp0Gu1pBUtlJsqBSF9+jT9tGG70arOAUXO7jZZm+8DLtx/dTJYdeO\nABtNeegc10uQSLFyLGuYCnnVBkSTglZiO3DqGpje+fZF6HYarxsCUfhPv3hIXMbh\n5r4q42bXq8YmF+YluzSqctHebiha+QkSNpRk2BQ48B6GRfBtKNS61zm/NH4EI06c\nG2U=\n=wtg4\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFPBAABCgA5FiEEitYJlWzxiZQY4ZqFYBO9Ovz5V94FAl0C25MbHGRhbmllbGUu\ndmFycmF6em9AZ21haWwuY29tAAoJEGATvTr8+Vfe9iQH/1iz+Q4utsj46x8Za5dv\nJB7GakH0fhdrcXUxfSzdO6TbVQOTr/xT2XjPnXog8aAX9E79mxfVEdPi3DxvbavX\naY3wNGBbkOkevbkbetDozyYrAKZ2MNFiYorbsdfeafPIUO6qNjMd2Qak6onGCjKH\nhDfwkimuNsjQp0Gu1pBUtlJsqBSF9+jT9tGG70arOAUXO7jZZm+8DLtx/dTJYdeO\nABtNeegc10uQSLFyLGuYCnnVBkSTglZiO3DqGpje+fZF6HYarxsCUfhPv3hIXMbh\n5r4q42bXq8YmF+YluzSqctHebiha+QkSNpRk2BQ48B6GRfBtKNS61zm/NH4EI06c\nG2U=\n=wtg4\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bc65c636aef14ccdb89f8abec1f28a677c1ff0b4\ntype commit\ntag 2_8_3\ntagger Daniele Varrazzo <daniele.varrazzo@gmail.com> 1560468315 +0100\n\nPsycopg 2.8.3 released\n\nWhat's new in psycopg 2.8.3\n---------------------------\n\n- Added *interval_status* parameter to\n  `~psycopg2.extras.ReplicationCursor.start_replication()` method and other\n  facilities to send automatic replication keepalives at periodic intervals\n  (:ticket:`#913`).\n- Fixed namedtuples caching introduced in 2.8 (:ticket:`#928`).\n"
+  }
+}

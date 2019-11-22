@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzczMDgyOTpkNmJhZDgxYmZkNmQ2MzE5MzNkZjI1Zjg2ODBjYWVmOGJjOWRkYzk2",
+  "sha": "d6bad81bfd6d631933df25f8680caef8bc9ddc96",
+  "url": "https://api.github.com/repos/psycopg/psycopg2/git/tags/d6bad81bfd6d631933df25f8680caef8bc9ddc96",
+  "tagger": {
+    "name": "Daniele Varrazzo",
+    "email": "daniele.varrazzo@gmail.com",
+    "date": "2013-04-07T16:44:04Z"
+  },
+  "object": {
+    "sha": "80e105c74d1846b036eccf14adad8dbc95dce39c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/80e105c74d1846b036eccf14adad8dbc95dce39c"
+  },
+  "tag": "2_5",
+  "message": "Psycopg 2.5 released\n\nNew features:\n\n- Added JSON adaptation.\n- Added support for PostgreSQL 9.2 range types .\n- 'connection' and 'cursor' objects can be used in \"with\" statements\n  as context managers as specified by a recent DBAPI  extension.\n- Added 'Diagnostics' object to get extended info from a database error.\n  Many thanks to Matthew Woodcraft for the implementation (ticket #149).\n- Added 'connection.cursor_factory' attribute to customize the default\n  object returned by 'cursor()'.\n- Added support for backward scrollable cursors. Thanks to Jon Nelson\n  for the initial patch (ticket #108).\n- Added a simple way to customize casting of composite types into\n  Python objects other than namedtuples.  Many thanks to Ronan Dunklau\n  and Tobias Oberstein for the feature development.\n- 'connection.reset()' implemented using 'DISCARD ALL' on server\n  versions supporting it.\n\nBug fixes:\n\n- Properly cleanup memory of broken connections (ticket #148).\n- Fixed bad interaction of 'setup.py' with other dependencies in\n  Distribute projects on Python 3 (ticket #153).\n\nOther changes:\n\n- Added support for Python 3.3.\n- Dropped support for Python 2.4. Please use Psycopg 2.4.x if you\n  need it.\n- 'errorcodes' map updated to PostgreSQL 9.2.\n- Dropped Zope adapter from source repository. ZPsycopgDA now has its\n  own project at <http://github.com/psycopg/ZPsycopgDA>.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJRYaKFAAoJEGATvTr8+Vfe4eQIAI4J3SL/eJ4zS9eXLNgLc9Kt\nuhgIXMN4MCHc8n1VjZJ3pvqUAKzIfJyS/cYQEynjywVkELdT2IlDb84UiHj+jhoM\ny70CLDRP5G4QZsdWgfoqWpzOeFpbQU7t6mdz+4A5g2huhaF7oOt9miymnnO7ulsd\nHD+AQAdJevXyAmA9zxKzlADfoTJ8Q/Xm6kZFZJGfM7w2dOcs9N0iWmjnvHzTsGAu\nD5LIYOTurxHT7fWmn+thiy6Hb88p4SymyNYsdNr9dzdJyr2H7+o3KoCvzFAXzIsv\n7NStx3WUbeLyU0nMF6Cyj5B5gKSXMWE48FaQ3en0JWc1j5OC5CIA+8jlIwU4dt4=\n=WwFF\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJRYaKFAAoJEGATvTr8+Vfe4eQIAI4J3SL/eJ4zS9eXLNgLc9Kt\nuhgIXMN4MCHc8n1VjZJ3pvqUAKzIfJyS/cYQEynjywVkELdT2IlDb84UiHj+jhoM\ny70CLDRP5G4QZsdWgfoqWpzOeFpbQU7t6mdz+4A5g2huhaF7oOt9miymnnO7ulsd\nHD+AQAdJevXyAmA9zxKzlADfoTJ8Q/Xm6kZFZJGfM7w2dOcs9N0iWmjnvHzTsGAu\nD5LIYOTurxHT7fWmn+thiy6Hb88p4SymyNYsdNr9dzdJyr2H7+o3KoCvzFAXzIsv\n7NStx3WUbeLyU0nMF6Cyj5B5gKSXMWE48FaQ3en0JWc1j5OC5CIA+8jlIwU4dt4=\n=WwFF\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 80e105c74d1846b036eccf14adad8dbc95dce39c\ntype commit\ntag 2_5\ntagger Daniele Varrazzo <daniele.varrazzo@gmail.com> 1365353044 +0100\n\nPsycopg 2.5 released\n\nNew features:\n\n- Added JSON adaptation.\n- Added support for PostgreSQL 9.2 range types .\n- 'connection' and 'cursor' objects can be used in \"with\" statements\n  as context managers as specified by a recent DBAPI  extension.\n- Added 'Diagnostics' object to get extended info from a database error.\n  Many thanks to Matthew Woodcraft for the implementation (ticket #149).\n- Added 'connection.cursor_factory' attribute to customize the default\n  object returned by 'cursor()'.\n- Added support for backward scrollable cursors. Thanks to Jon Nelson\n  for the initial patch (ticket #108).\n- Added a simple way to customize casting of composite types into\n  Python objects other than namedtuples.  Many thanks to Ronan Dunklau\n  and Tobias Oberstein for the feature development.\n- 'connection.reset()' implemented using 'DISCARD ALL' on server\n  versions supporting it.\n\nBug fixes:\n\n- Properly cleanup memory of broken connections (ticket #148).\n- Fixed bad interaction of 'setup.py' with other dependencies in\n  Distribute projects on Python 3 (ticket #153).\n\nOther changes:\n\n- Added support for Python 3.3.\n- Dropped support for Python 2.4. Please use Psycopg 2.4.x if you\n  need it.\n- 'errorcodes' map updated to PostgreSQL 9.2.\n- Dropped Zope adapter from source repository. ZPsycopgDA now has its\n  own project at <http://github.com/psycopg/ZPsycopgDA>.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6OWM0YmYzZjY0M2ZjMDBhNWVlZmQ4ZWVlNTE0MWE1NDQ4NmFmMDRkNA==",
+  "sha": "9c4bf3f643fc00a5eefd8eee5141a54486af04d4",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/9c4bf3f643fc00a5eefd8eee5141a54486af04d4",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "NMoreyChaisemartin@suse.com",
+    "date": "2018-02-21T07:56:03Z"
+  },
+  "object": {
+    "sha": "e77f84e38251a7e8541688dffae93890eed45ed0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/e77f84e38251a7e8541688dffae93890eed45ed0"
+  },
+  "tag": "v16.3",
+  "message": "rdma-core-16.3:\n\nUpdates from version 16.2:\n * Backport fixes:\n   * vmw_pvrdma: Drop the extraneous align_next_power2 for sges\n   * vmw_pvrdma: Fix SRQN returned to library\n   * mlx5: Add missing include file in mlx5dv.h\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABAgAGBQJajSYlAAoJEIAb3bglmI9kfH0H/Rlv1mgS8vPFR91qLkQktzF8\ns2aFrDcuKB3xIXOQ63L24c/hjpkGbi/RmSVvUvyYG7vT58Q+rM+B8Chno0h7lZDV\nacBDPhYTyIVeyf3q3QfWeqQHtr2FQD0ms1K/VxqWBnov1XqaylSj3iyQcolyssEP\ni5iOItDuXrkWluIxz8BsMHK8Vrb92CVLIiakH5O6n6lXCU6VkUfHLjd4htUNXKPI\n1aKi5RmyFNp3LmspswqPZa3CiAIdt2spf9DyeFtD329NQYJ9/3SnHg4U+XzrTgjQ\nqI1aj3OqRJkjAimgr+D8OHyl08RiYQ+Fv1/mwFXa+p6CAW9JNBQG8Oz9uv1F/V0=\n=GCUh\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABAgAGBQJajSYlAAoJEIAb3bglmI9kfH0H/Rlv1mgS8vPFR91qLkQktzF8\ns2aFrDcuKB3xIXOQ63L24c/hjpkGbi/RmSVvUvyYG7vT58Q+rM+B8Chno0h7lZDV\nacBDPhYTyIVeyf3q3QfWeqQHtr2FQD0ms1K/VxqWBnov1XqaylSj3iyQcolyssEP\ni5iOItDuXrkWluIxz8BsMHK8Vrb92CVLIiakH5O6n6lXCU6VkUfHLjd4htUNXKPI\n1aKi5RmyFNp3LmspswqPZa3CiAIdt2spf9DyeFtD329NQYJ9/3SnHg4U+XzrTgjQ\nqI1aj3OqRJkjAimgr+D8OHyl08RiYQ+Fv1/mwFXa+p6CAW9JNBQG8Oz9uv1F/V0=\n=GCUh\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e77f84e38251a7e8541688dffae93890eed45ed0\ntype commit\ntag v16.3\ntagger Nicolas Morey-Chaisemartin <NMoreyChaisemartin@suse.com> 1519199763 +0100\n\nrdma-core-16.3:\n\nUpdates from version 16.2:\n * Backport fixes:\n   * vmw_pvrdma: Drop the extraneous align_next_power2 for sges\n   * vmw_pvrdma: Fix SRQN returned to library\n   * mlx5: Add missing include file in mlx5dv.h\n"
+  }
+}

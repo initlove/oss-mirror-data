@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6MjI0YWI2NDI5ODliODdkYWM4NjhkM2RmYmVkNTk0MzI2MTc0OWU0Mg==",
+  "sha": "224ab642989b87dac868d3dfbed5943261749e42",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/224ab642989b87dac868d3dfbed5943261749e42",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2019-02-27T18:12:41Z"
+  },
+  "object": {
+    "sha": "636d6eea33427ff0f57b8381169a6c8429757eb7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/636d6eea33427ff0f57b8381169a6c8429757eb7"
+  },
+  "tag": "v3.1.5",
+  "message": "- e3888c947b5b3a082858cdc96925c138fb478d10 Backporting 'IptablesNATOutgoingInterfaceFilter config param' changes for release v3.1\n- 41ac839ea3b03410f3de1dcb9e2e8f8a3664dbcc libcalico-go and felix pin update for release v3.2\n- 5c07a0a8dacdbb46c40652e267e227f7988e2a1c ci fix\n- f99b454dacb862057939c37ab15dccd382199c02 ci fix\n- 28d0e5a2b26d7bd90f99382e331ab0ca2658e748 ci fix\n- c3373f4ff470175c259566b555d94b13b5e6ea42 review comment\n- 65c8bff6d52a24e42a0b5edf4effc0fed7782cbe Backport release changes to v3.1\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

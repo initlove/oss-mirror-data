@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6MDYxYWMyZjI0OTY4MDYxMWRhMjhmZTIwMTU3MDdkMjZiY2M1MzI4Ng==",
+  "sha": "061ac2f249680611da28fe2015707d26bcc53286",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/061ac2f249680611da28fe2015707d26bcc53286",
+  "tagger": {
+    "name": "Brendan Creane",
+    "email": "brendan@tigera.io",
+    "date": "2017-09-26T18:16:11Z"
+  },
+  "object": {
+    "sha": "64caa62946234549e6a77e622da8a0c66fc9582e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/64caa62946234549e6a77e622da8a0c66fc9582e"
+  },
+  "tag": "2.6.0",
+  "message": "This is a feature release of Calico's per-host agent, Felix.\n\nBy upgrading libcalico-go to v1.7.0, we add support for Kubernetes'\nv1.8.0 NetworkPolicy with Egress rule and IPBlock functionality.\n\nIn addition, libcalico-go now supports a new `Types` field which\nspecifies whether a rule should apply to `ingress`, `egress` or\nboth types of traffic.\n\n- Allow Policy to explicitly govern ingress and/or egress [#1557](https://github.com/projectcalico/felix/pull/1557)\n- Add read/write timeout options for Typha connection. [#1538](https://github.com/projectcalico/felix/pull/1538)\n- Fix OpenStack detection heuristic to ignore 'none'. [#1556](https://github.com/projectcalico/felix/pull/1556)\n- Adding support for ppc64le. [#1516](https://github.com/projectcalico/felix/pull/1516)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

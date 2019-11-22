@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzk5MDkyOTg6MmQ2ZThhMzI2OTVmOTVkNDllMDU0MjA3NGNiZTNkZDMyMDkzYjE1NQ==",
+  "sha": "2d6e8a32695f95d49e0542074cbe3dd32093b155",
+  "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/tags/2d6e8a32695f95d49e0542074cbe3dd32093b155",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "davenport.cas@gmail.com",
+    "date": "2018-11-09T21:44:26Z"
+  },
+  "object": {
+    "sha": "723e4f6be4b1991ed22a78fbe0be0de0998fc151",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/commits/723e4f6be4b1991ed22a78fbe0be0de0998fc151"
+  },
+  "tag": "v3.1.4",
+  "message": "- 29a00019162e120552f5eeefd8de1b118c03d0a0 Store GenerateName metadata.\n- 12d429c63c0ecaa79b1cee7a9346bd53f21597de Update libcalico-go pin.\n- 20498b2c0c6abf93051f150d5f207b102ef791d2 Keep netlink pinned.\n- eff26e3b7c1b53b3816238063447a427c274b43d Add cross-compile and multi-arch push support\n- 43f2b67cb10f5e9deffb9ad676734ae7f4803ec6 Tag amd64 builds with latest for CI\n- c1e0744a66324b2d4403feb8f95c23b5c422110a Add GCR images to standard tag/push targets\n- dd1b93b30f9d935729910636e7f7b9176dc5e066 Clean up Makefile\n- 30407cdf5f66fd143206b0a7aecc0b71c281904d Replicate all semaphore activities in ci and cd targets\n- 83e8063256a377f3936d7caf73aa4525a7a6f440 Bump gobuild and etcd versions\n- 6bbe3322f8e9d788f357ceef68d3297aff506459 Makefile: Only push images to GCR on release\n- 98093d30002c1a1854a3fcf2db51413219855f7f Makefile: Fix typos in container names\n- 7278c3786bcb79baa2eaf22859059a815ef839db Stop logging client config\n- 20ab1bfe0a750c02b208987f5371e51fb8c56505 update libcalico\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

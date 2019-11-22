@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6MWVlZGEzZGYxYjQ2NjhjOTY5YmEwMDQ4YzQzOWRjM2NmYzhlOGFlMQ==",
+  "sha": "1eeda3df1b4668c969ba0048c439dc3cfc8e8ae1",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/1eeda3df1b4668c969ba0048c439dc3cfc8e8ae1",
+  "tagger": {
+    "name": "Neil Jerram",
+    "email": "neil@tigera.io",
+    "date": "2016-12-07T02:11:25Z"
+  },
+  "object": {
+    "sha": "706bb9c92fd51a09954f4f5f430af033a58e84fc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/706bb9c92fd51a09954f4f5f430af033a58e84fc"
+  },
+  "tag": "2.0.0-rc4",
+  "message": "Felix version 2.0.0-rc4\n\n- Record Deb/RPM packaging for Felix 2.0.0-rc3\n- If an interface is down, make sure we remove its routes.\n- Make rule generation tolerate missing IP version for ICMP.\n- Skip rules that have CIDRs for different IP versions.\n- Use libcalico-go v1.0.0-rc4\n- Use realpath instead of readlink -f\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

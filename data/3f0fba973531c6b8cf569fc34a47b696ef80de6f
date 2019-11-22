@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzI1OTc2MTk6M2YwZmJhOTczNTMxYzZiOGNmNTY5ZmMzNGE0N2I2OTZlZjgwZGU2Zg==",
+  "sha": "3f0fba973531c6b8cf569fc34a47b696ef80de6f",
+  "url": "https://api.github.com/repos/openstack/python-senlinclient/git/tags/3f0fba973531c6b8cf569fc34a47b696ef80de6f",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-30T14:53:54Z"
+  },
+  "object": {
+    "sha": "e6cdf2dac8493bead57d683cd407599803434ce8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-senlinclient/git/commits/e6cdf2dac8493bead57d683cd407599803434ce8"
+  },
+  "tag": "queens-em",
+  "message": "python-senlinclient queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Idc4be156a4742baaf1e514dbf4c1c47eed31d754\nmeta:release:Code-Review+1: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl25pAIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHLAtC/0Ubvb9LogbOLY0XLgyiXwb\nVky4O25Ciztccf6pVxYxXYNLXZ+6CCfsPqjcbgoAFC9cR8gy0Ji5CD43P5oS9fn+\nd6gus876BpslN8EzHVfLeMXVGdXvImYst1DPovefHedy2DFowld8V5l9tznynCtp\nDSnkxyYJlpmB2JhHVX6o4SxF3+y7cK5lpGr8KPfwH6aYMM2LFCfKmpBDRHQylnWg\n7kpCpYMBCrXuUARlRpT9cEEIR4WAhYG2XRFvODM0C4mLL81Km8+XrgKf9YpwYbx2\ni5IsjlWKPlRPwca93sFWwaRDqgefpwDV21asDDyprhVgon48VxBHS97FMafjdNXX\nZVlTqFz3i/H5JCwLKoGsyanID9tuw3YsSCVuwFeDJyH3ky3itfRELFTMMAkDxWUR\nsErPaPjbpiEwbxY8kiYdiYsvjVAW9hXQ8GIpfkl1B04w5coZWTg/Lw09oQ5T98xM\nfpzX0+wso0cYs+D+EfHhOdWYmOdstbKu/WQxYaG5JSY=\n=xvm6\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl25pAIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHLAtC/0Ubvb9LogbOLY0XLgyiXwb\nVky4O25Ciztccf6pVxYxXYNLXZ+6CCfsPqjcbgoAFC9cR8gy0Ji5CD43P5oS9fn+\nd6gus876BpslN8EzHVfLeMXVGdXvImYst1DPovefHedy2DFowld8V5l9tznynCtp\nDSnkxyYJlpmB2JhHVX6o4SxF3+y7cK5lpGr8KPfwH6aYMM2LFCfKmpBDRHQylnWg\n7kpCpYMBCrXuUARlRpT9cEEIR4WAhYG2XRFvODM0C4mLL81Km8+XrgKf9YpwYbx2\ni5IsjlWKPlRPwca93sFWwaRDqgefpwDV21asDDyprhVgon48VxBHS97FMafjdNXX\nZVlTqFz3i/H5JCwLKoGsyanID9tuw3YsSCVuwFeDJyH3ky3itfRELFTMMAkDxWUR\nsErPaPjbpiEwbxY8kiYdiYsvjVAW9hXQ8GIpfkl1B04w5coZWTg/Lw09oQ5T98xM\nfpzX0+wso0cYs+D+EfHhOdWYmOdstbKu/WQxYaG5JSY=\n=xvm6\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e6cdf2dac8493bead57d683cd407599803434ce8\ntype commit\ntag queens-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572447234 +0000\n\npython-senlinclient queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Idc4be156a4742baaf1e514dbf4c1c47eed31d754\nmeta:release:Code-Review+1: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

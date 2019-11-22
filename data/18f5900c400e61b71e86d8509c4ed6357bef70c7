@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6MThmNTkwMGM0MDBlNjFiNzFlODZkODUwOWM0ZWQ2MzU3YmVmNzBjNw==",
+  "sha": "18f5900c400e61b71e86d8509c4ed6357bef70c7",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/18f5900c400e61b71e86d8509c4ed6357bef70c7",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2018-06-11T16:56:40Z"
+  },
+  "object": {
+    "sha": "1f4780139d626c9d5cdd8386edf76a1c0043741e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/1f4780139d626c9d5cdd8386edf76a1c0043741e"
+  },
+  "tag": "v18.1",
+  "message": "rdma-core-18.1:\n\nUpdates from version 18.0\n * Backport fixes:\n   * buildilb: Fix -msse breakage on ARM builds\n   * buildlib: Use -msse if the compiler does not support target(sse)\n   * suse: do not call %service rules on a template file\n   * mlx5: Convert ah_attr static rate to mlx5 static rate\n   * ccan: Add array_size.h file\n   * iwpmd: Initialize address of sockaddr\n   * mlx5: Fix bug in disabling lock on extended CQ\n   * mlx5: Fix need_uuar_lock when there are no medium bfregs\n   * Fixup travis builds\n   * debian: Use versioned Breaks & Replaces for ibverbs-providers\n   * debian: Run wrap-and-sort\n   * verbs: Fix spelling mistakes in ibv_create_flow_action.3\n   * Fix bad whatis entries in man pages\n   * debian: Let libibverbs1 18 break ibverbs-providers 17\n   * Do not install mlx5 kernel headers if mlx5 is not built\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlseqc8cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZMF3CAC/NBBmpglHzH7LSyGA\nzU6oLWv3fiZc7ovl5QqtG6IS3kJysrpI50eEnn0JuuPKszsA8ADXrvRur7wPqlPj\nJqlpXWLXXXglWrOlD+kN9KNhrhx3IqgRNb1p73yLhlhCUtexLKGf68e0k4lcrBaS\nC3RsGOptnwdry/NhuUwgUFvbamCKJ4xi2kCJN5760VMfxpK+9M732VENTy+AizcB\nvcqaT9mRSzrdGdnZFaKOKp4kB6O+PU21lhmrzaxY+x7Kj62tUn0sQTnUgMQTT6tI\nF6mJV40c+lI90wAsGMD7XzLJEz1uM042ZiFrm9oyf6n7eTJc22zl2jVQQ4tBpd+C\n7RZs\n=qs0j\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlseqc8cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZMF3CAC/NBBmpglHzH7LSyGA\nzU6oLWv3fiZc7ovl5QqtG6IS3kJysrpI50eEnn0JuuPKszsA8ADXrvRur7wPqlPj\nJqlpXWLXXXglWrOlD+kN9KNhrhx3IqgRNb1p73yLhlhCUtexLKGf68e0k4lcrBaS\nC3RsGOptnwdry/NhuUwgUFvbamCKJ4xi2kCJN5760VMfxpK+9M732VENTy+AizcB\nvcqaT9mRSzrdGdnZFaKOKp4kB6O+PU21lhmrzaxY+x7Kj62tUn0sQTnUgMQTT6tI\nF6mJV40c+lI90wAsGMD7XzLJEz1uM042ZiFrm9oyf6n7eTJc22zl2jVQQ4tBpd+C\n7RZs\n=qs0j\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1f4780139d626c9d5cdd8386edf76a1c0043741e\ntype commit\ntag v18.1\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1528736200 +0200\n\nrdma-core-18.1:\n\nUpdates from version 18.0\n * Backport fixes:\n   * buildilb: Fix -msse breakage on ARM builds\n   * buildlib: Use -msse if the compiler does not support target(sse)\n   * suse: do not call %service rules on a template file\n   * mlx5: Convert ah_attr static rate to mlx5 static rate\n   * ccan: Add array_size.h file\n   * iwpmd: Initialize address of sockaddr\n   * mlx5: Fix bug in disabling lock on extended CQ\n   * mlx5: Fix need_uuar_lock when there are no medium bfregs\n   * Fixup travis builds\n   * debian: Use versioned Breaks & Replaces for ibverbs-providers\n   * debian: Run wrap-and-sort\n   * verbs: Fix spelling mistakes in ibv_create_flow_action.3\n   * Fix bad whatis entries in man pages\n   * debian: Let libibverbs1 18 break ibverbs-providers 17\n   * Do not install mlx5 kernel headers if mlx5 is not built\n"
+  }
+}

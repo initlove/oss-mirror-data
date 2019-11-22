@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEzMDU5OTg6NDA0ODU4NGU1ZWU3YjFjNjQ3Y2ZlZjNmYWQ0ODUzZWQ4YTNjZDllZg==",
+  "sha": "4048584e5ee7b1c647cfef3fad4853ed8a3cd9ef",
+  "url": "https://api.github.com/repos/openstack/python-designateclient/git/tags/4048584e5ee7b1c647cfef3fad4853ed8a3cd9ef",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-01-26T20:28:26Z"
+  },
+  "object": {
+    "sha": "92004a58a5ab5ddd89d3f797f16dca8abd76c9ed",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-designateclient/git/commits/92004a58a5ab5ddd89d3f797f16dca8abd76c9ed"
+  },
+  "tag": "2.5.0",
+  "message": "python-designateclient 2.5.0 release\n\nmeta:version: 2.5.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Graham Hayes <graham.hayes@hpe.com>\nmeta:release:Commit: Graham Hayes <graham.hayes@hpe.com>\nmeta:release:Change-Id: Ic7d4ff2fcd2a54265e84898d789541c51812cfc9\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYilvqAAoJELkGmxM1cAzcv0oH/ibhtuMC2vQUH9aqVOYURR7M\nopjjn8q2cKPLAMWXObaSppTOe+TO8Uu3zJEy8f52bLKP/m3nImwQd5vqRdNvluGw\n0EuLwPf2pS1KaRDE/ez8j+LRICXoFa+3jTk0Ptfl7tn58CklHWWruA7V7HpWCJAi\nGLJYZNIeFQ0YlF4tjmRoloNiXM0zpkeeIFJ6l3RBqPfpxuiU+dLO9UQtlvGDP8ED\n9+j8sbH7adDB0maYTgDiXB3wFG6GeSpO1oUrWeEhkDft3nWpFF0v4VBs7d6YZK4e\nziS9TMprLIrTLcEY2F8vSXw4LR4CCL7REpRY6nxRirf9WcDi4VJi16NuuWYUbRI=\n=rA8x\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYilvqAAoJELkGmxM1cAzcv0oH/ibhtuMC2vQUH9aqVOYURR7M\nopjjn8q2cKPLAMWXObaSppTOe+TO8Uu3zJEy8f52bLKP/m3nImwQd5vqRdNvluGw\n0EuLwPf2pS1KaRDE/ez8j+LRICXoFa+3jTk0Ptfl7tn58CklHWWruA7V7HpWCJAi\nGLJYZNIeFQ0YlF4tjmRoloNiXM0zpkeeIFJ6l3RBqPfpxuiU+dLO9UQtlvGDP8ED\n9+j8sbH7adDB0maYTgDiXB3wFG6GeSpO1oUrWeEhkDft3nWpFF0v4VBs7d6YZK4e\nziS9TMprLIrTLcEY2F8vSXw4LR4CCL7REpRY6nxRirf9WcDi4VJi16NuuWYUbRI=\n=rA8x\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 92004a58a5ab5ddd89d3f797f16dca8abd76c9ed\ntype commit\ntag 2.5.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1485462506 +0000\n\npython-designateclient 2.5.0 release\n\nmeta:version: 2.5.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Graham Hayes <graham.hayes@hpe.com>\nmeta:release:Commit: Graham Hayes <graham.hayes@hpe.com>\nmeta:release:Change-Id: Ic7d4ff2fcd2a54265e84898d789541c51812cfc9\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

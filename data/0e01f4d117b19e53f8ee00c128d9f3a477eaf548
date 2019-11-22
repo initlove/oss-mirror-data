@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA0NTgzNjI6MGUwMWY0ZDExN2IxOWU1M2Y4ZWUwMGMxMjhkOWYzYTQ3N2VhZjU0OA==",
+  "sha": "0e01f4d117b19e53f8ee00c128d9f3a477eaf548",
+  "url": "https://api.github.com/repos/rsyslog/rsyslog/git/tags/0e01f4d117b19e53f8ee00c128d9f3a477eaf548",
+  "tagger": {
+    "name": "Rainer Gerhards",
+    "email": "rgerhards@adiscon.com",
+    "date": "2008-12-04T13:43:32Z"
+  },
+  "object": {
+    "sha": "afdccceefa30306cf720a27efd5a29bcc5a916c9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rsyslog/rsyslog/git/commits/afdccceefa30306cf720a27efd5a29bcc5a916c9"
+  },
+  "tag": "v3.20.2",
+  "message": "v3.20.2 (v3-stable)\n\nThis is effectively a re-release of 3.20.1 because of one fix\nthat was missing. Unfortunately, I needed to increase the version\nnumber as few downloads already had happend when I noticed the\nissue.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

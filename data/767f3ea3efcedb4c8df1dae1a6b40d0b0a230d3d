@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODQwNjA3MzY6NzY3ZjNlYTNlZmNlZGI0YzhkZjFkYWUxYTZiNDBkMGIwYTIzMGQzZA==",
+  "sha": "767f3ea3efcedb4c8df1dae1a6b40d0b0a230d3d",
+  "url": "https://api.github.com/repos/openstack/ovsdbapp/git/tags/767f3ea3efcedb4c8df1dae1a6b40d0b0a230d3d",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-01-29T21:26:13Z"
+  },
+  "object": {
+    "sha": "bc06517ba37037cc21699c5e34a18b21379ea9f0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ovsdbapp/git/commits/bc06517ba37037cc21699c5e34a18b21379ea9f0"
+  },
+  "tag": "0.15.0",
+  "message": "ovsdbapp 0.15.0 release\n\nmeta:version: 0.15.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Terry Wilson <twilson@redhat.com>\nmeta:release:Commit: Terry Wilson <twilson@redhat.com>\nmeta:release:Change-Id: I9d3801b3b7f73c37945c3e32985728608a3efe0a\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@huawei.com>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcUMT1AAoJEBpUEUgFTp44Fx4L/3FtIuYx4Vo+DwcVNqVhwonA\niheUTzEIu7IlpHnePNOD3mhz4eFgNZoQqYN/irnMQcdkI1kGyY7g8zUfoyyv7Fp9\nyhmd+4Kc2zGQzM1ZKkhpUxve7fjfOHJhD19qzNB0jAsj+NSoTtQVMIg0zC++j0Ys\nvhlhUfyjRoj2hWJXoNWywec81wJENzFIAAy/B6t8mTCWb95hpr3S2Bby3HVTk25a\nPpl2p64YV1NOarjF+LcQhXQ+OfkI442q62Pq6OGf3gv2x80XxePOkNdyM/Zi7l6P\nYzAXH3Z2TjgjWsZRdAIhDvFFRGBOurMwAVJ9NAwHkto597MZnVhhXduPsh2GLraN\nn5QPQ/MU0xtU9zcYVPngeCAUG7MVGE60/dBblv+HLvqmcmEhvXeZuBIK3IiyLGsw\nLg8bpW/RVUTRyR3my4cUJqT+Cxps5d3yMsgIY8WXjMtXH4YkrFrPWOtT3e4xc9xJ\n5TlcEtjHLj2Ze6P4vbbVavhjrSYm3XM90bgMhvVS7A==\n=f94y\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcUMT1AAoJEBpUEUgFTp44Fx4L/3FtIuYx4Vo+DwcVNqVhwonA\niheUTzEIu7IlpHnePNOD3mhz4eFgNZoQqYN/irnMQcdkI1kGyY7g8zUfoyyv7Fp9\nyhmd+4Kc2zGQzM1ZKkhpUxve7fjfOHJhD19qzNB0jAsj+NSoTtQVMIg0zC++j0Ys\nvhlhUfyjRoj2hWJXoNWywec81wJENzFIAAy/B6t8mTCWb95hpr3S2Bby3HVTk25a\nPpl2p64YV1NOarjF+LcQhXQ+OfkI442q62Pq6OGf3gv2x80XxePOkNdyM/Zi7l6P\nYzAXH3Z2TjgjWsZRdAIhDvFFRGBOurMwAVJ9NAwHkto597MZnVhhXduPsh2GLraN\nn5QPQ/MU0xtU9zcYVPngeCAUG7MVGE60/dBblv+HLvqmcmEhvXeZuBIK3IiyLGsw\nLg8bpW/RVUTRyR3my4cUJqT+Cxps5d3yMsgIY8WXjMtXH4YkrFrPWOtT3e4xc9xJ\n5TlcEtjHLj2Ze6P4vbbVavhjrSYm3XM90bgMhvVS7A==\n=f94y\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bc06517ba37037cc21699c5e34a18b21379ea9f0\ntype commit\ntag 0.15.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1548797173 +0000\n\novsdbapp 0.15.0 release\n\nmeta:version: 0.15.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Terry Wilson <twilson@redhat.com>\nmeta:release:Commit: Terry Wilson <twilson@redhat.com>\nmeta:release:Change-Id: I9d3801b3b7f73c37945c3e32985728608a3efe0a\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@huawei.com>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

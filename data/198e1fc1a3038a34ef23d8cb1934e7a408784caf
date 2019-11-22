@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6MTk4ZTFmYzFhMzAzOGEzNGVmMjNkOGNiMTkzNGU3YTQwODc4NGNhZg==",
+  "sha": "198e1fc1a3038a34ef23d8cb1934e7a408784caf",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/198e1fc1a3038a34ef23d8cb1934e7a408784caf",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "davenport.cas@gmail.com",
+    "date": "2018-04-06T17:25:35Z"
+  },
+  "object": {
+    "sha": "dba3279377fd6ec7baf0ee560bcaec685f25fa86",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/dba3279377fd6ec7baf0ee560bcaec685f25fa86"
+  },
+  "tag": "3.1.0",
+  "message": "Felix version 3.1.0\n\n- Merge pull request #1726 from nwoodmsft/master\n- Rearrange the etcd/felix support code\n- Switch HostEndpoint tests to run with KDD\n- FVs: Cleanup HostEndpoints for KDD\n- FV: fix interfaceName trimming in test-workload\n- Add stats for policy and profile counts.\n- Make slow test failures obvious\n- Update libcalico-go to latest release-v3.1\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

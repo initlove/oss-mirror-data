@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODQwNjA3MzY6OGUwMjE1YTg3NWNjOGUyMGE3YjgyYjMwZDY2NTE2YzRkOWNmY2NhMg==",
+  "sha": "8e0215a875cc8e20a7b82b30d66516c4d9cfcca2",
+  "url": "https://api.github.com/repos/openstack/ovsdbapp/git/tags/8e0215a875cc8e20a7b82b30d66516c4d9cfcca2",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-22T19:55:21Z"
+  },
+  "object": {
+    "sha": "f8776cfc9ef9a72be3b23c10e6afc47e1b4862fb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ovsdbapp/git/commits/f8776cfc9ef9a72be3b23c10e6afc47e1b4862fb"
+  },
+  "tag": "0.10.5",
+  "message": "ovsdbapp 0.10.5 release\n\nmeta:version: 0.10.5\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Terry Wilson <twilson@redhat.com>\nmeta:release:Commit: Terry Wilson <twilson@redhat.com>\nmeta:release:Change-Id: I757b0c9954d803a34e1db5abc21ef0a926b827f4\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2vXqkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2PeOC/48bKnEu871j3BjVIg3U7D2\nctcXRVHdyepytI0868L13mOhzk+DY7Zj/sBnElJ8wTPO2dCa750XCfvykKdPbXPJ\nsZqb+ptrPhNhktKck+zKhJfrQIakpBJ1FDqoxKmdTrLUZKkfciMFdKeF6LJcIXgC\nY72z525ZFgOLrrkL1gp/TrWsXZ9zU3TZBYqjUIyMs+Al1ztF9wEMiNECBVf+sMvM\nXUUFwx4VOBEvcllpFhuY+/xgtymxLot3iSIRaRCfiioUqrVz2jd8EXQ9W6ifvxJw\n5UOPcztvDp1rU1879RfXR0RIk8IgHbdLGIYz6GbvQ9QP3fB4vQf/W6LDzRmDRbKM\nvPFOgloNtwe/iNn96pfCE6u8VxVG0IZBxjBa0XtfdKjGQ/uDdnUb7wHh+v3S4ADa\njex+UwpNytZR4NAY4W39317ny/UZ2dgA7myNo7AE09PBncmvlib9IFGlKdqbf/EB\nqaf6S3M36QMuXa7GVREQ8OLnrL8sQITM348KDdkCpQc=\n=ZWwl\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2vXqkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2PeOC/48bKnEu871j3BjVIg3U7D2\nctcXRVHdyepytI0868L13mOhzk+DY7Zj/sBnElJ8wTPO2dCa750XCfvykKdPbXPJ\nsZqb+ptrPhNhktKck+zKhJfrQIakpBJ1FDqoxKmdTrLUZKkfciMFdKeF6LJcIXgC\nY72z525ZFgOLrrkL1gp/TrWsXZ9zU3TZBYqjUIyMs+Al1ztF9wEMiNECBVf+sMvM\nXUUFwx4VOBEvcllpFhuY+/xgtymxLot3iSIRaRCfiioUqrVz2jd8EXQ9W6ifvxJw\n5UOPcztvDp1rU1879RfXR0RIk8IgHbdLGIYz6GbvQ9QP3fB4vQf/W6LDzRmDRbKM\nvPFOgloNtwe/iNn96pfCE6u8VxVG0IZBxjBa0XtfdKjGQ/uDdnUb7wHh+v3S4ADa\njex+UwpNytZR4NAY4W39317ny/UZ2dgA7myNo7AE09PBncmvlib9IFGlKdqbf/EB\nqaf6S3M36QMuXa7GVREQ8OLnrL8sQITM348KDdkCpQc=\n=ZWwl\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f8776cfc9ef9a72be3b23c10e6afc47e1b4862fb\ntype commit\ntag 0.10.5\ntagger OpenStack Release Bot <infra-root@openstack.org> 1571774121 +0000\n\novsdbapp 0.10.5 release\n\nmeta:version: 0.10.5\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Terry Wilson <twilson@redhat.com>\nmeta:release:Commit: Terry Wilson <twilson@redhat.com>\nmeta:release:Change-Id: I757b0c9954d803a34e1db5abc21ef0a926b827f4\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

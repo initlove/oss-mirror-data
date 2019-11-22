@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzczMDgyOTowOTRhNTRhOWNhNjk2NjkyYzdiZDFjNDcyZjEwN2UwMzM4ODQ0NzJh",
+  "sha": "094a54a9ca696692c7bd1c472f107e033884472a",
+  "url": "https://api.github.com/repos/psycopg/psycopg2/git/tags/094a54a9ca696692c7bd1c472f107e033884472a",
+  "tagger": {
+    "name": "Federico Di Gregorio",
+    "email": "fog@initd.org",
+    "date": "2011-12-19T10:30:51Z"
+  },
+  "object": {
+    "sha": "0bc49147d1a9360cd82ad913d25828852151929c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/0bc49147d1a9360cd82ad913d25828852151929c"
+  },
+  "tag": "2_4_4",
+  "message": "Release 2.4.4\n\n  - 'register_composite()' also works with the types implicitly defined\n    after a table row, not only with the ones created by 'CREATE TYPE'.\n  - Values for the isolation level symbolic constants restored to what\n    they were before release 2.4.2 to avoid breaking apps using the\n    values instead of the constants.\n  - Named DictCursor/RealDictCursor honour itersize (ticket #80).\n  - Fixed rollback on error on Zope (ticket #73).\n  - Raise 'DatabaseError' instead of 'Error' with empty libpq errors,\n    consistently with other disconnection-related errors: regression\n    introduced in release 2.4.1 (ticket #82).\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niEYEABECAAYFAk7vEn0ACgkQvcCgrgZGjetRJACeNw6cghxgNzZAeOLv9jVvNBT0\nuVAAoKdQCqAfyeyKruqT9Ckg+C5EWQSU\n=TkOq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niEYEABECAAYFAk7vEn0ACgkQvcCgrgZGjetRJACeNw6cghxgNzZAeOLv9jVvNBT0\nuVAAoKdQCqAfyeyKruqT9Ckg+C5EWQSU\n=TkOq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0bc49147d1a9360cd82ad913d25828852151929c\ntype commit\ntag 2_4_4\ntagger Federico Di Gregorio <fog@initd.org> 1324290651 +0100\n\nRelease 2.4.4\n\n  - 'register_composite()' also works with the types implicitly defined\n    after a table row, not only with the ones created by 'CREATE TYPE'.\n  - Values for the isolation level symbolic constants restored to what\n    they were before release 2.4.2 to avoid breaking apps using the\n    values instead of the constants.\n  - Named DictCursor/RealDictCursor honour itersize (ticket #80).\n  - Fixed rollback on error on Zope (ticket #73).\n  - Raise 'DatabaseError' instead of 'Error' with empty libpq errors,\n    consistently with other disconnection-related errors: regression\n    introduced in release 2.4.1 (ticket #82).\n"
+  }
+}

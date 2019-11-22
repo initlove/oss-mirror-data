@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzk5MDkyOTg6OWE0OWY2Y2UzMTdhYzZjYjE1N2Q4ODYzNDQxOThmMzUzOGE1ZTliMw==",
+  "sha": "9a49f6ce317ac6cb157d886344198f3538a5e9b3",
+  "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/tags/9a49f6ce317ac6cb157d886344198f3538a5e9b3",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@tigera.io",
+    "date": "2018-12-10T11:30:31Z"
+  },
+  "object": {
+    "sha": "98039093f0daeb0b6faa502e39ffb767b1560361",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/commits/98039093f0daeb0b6faa502e39ffb767b1560361"
+  },
+  "tag": "v3.4.0",
+  "message": "- 6a31b102a55436ee0dca15f690cc7dc9e80b77f7 Support update-libcalico on branches other than master\n- 6fef469abf670574464dcbbf6f593d294927f109 Rev CNI dependencies to recent master.\n- a26e2e260a5d2469b4402e78056d05777c1a001d make update-libcalico\n- df1265efde608923ac6d70d10fb04c00ca8571a8 Support interop with Azure CNI IPAM plugin.\n- c4fdedb06ad61bab2388baa0f4b0ab46fee46350 Actually, there's more to this...\n- 398af9283d34817220aab379cdb64380f4fe2b41 Some code cleanup and bug fixes\n- 3b7e1c90ba964916912f4ab377ac6b153fd798f1 Rename CleanUpIPAM -> DeleteIPAM\n- bdea3921760e682ad3f201e71efa0407f688640b Adjust package structure\n- e3e57bfae4c12b4461056dc66c6bd956feef83f6 Don't interpret glide WARN as a problem\n- 6a3ec5087d266cb950b6aea40a83866faadefdee Use atomic file writes\n- b9546e7c091e27277d6dfbc868ede9ea101ae838 Stop logging client config and env vars\n- 4f7fd3fdee7d65bcc88adfffd559f7c3ecb0c05f Add basic tests for azure package\n- 2108df1bbbe230871370818ddf8f49157b938116 Update libcalico-go to f571cb71cd7fa1b773beee7413157b361452e247\n- d2933dc7b39221eb179ed3337701c04081ce5dd8 Code review markups\n- 303cb5a501de9b88b3b72aeadb0f26e510131068 Run glide up twice if first time fails\n- ba78be2bea7a1d045150e78c0a809e13c4a534b4 Automated libcalico pin update\n- 6aade2778bb17d6a00242dd594d7010d5d38369d Support DEl on non-existant Azure endpoint\n- 57386b07b3688f913ca416fc83fd1bf67cdc00d4 Don't log cni net config\n- 39b7fc4d3a656fce830060a7721aecc5256848c1 Remove logging of stdin data\n- 53c6db33de2557e074a010ca166e4caf2c82ef0a Update libcalico-go to 8153e730454a49e9f7de54dab96d34f35775264f\n- d9b02cd3a6e8f9b51265993f7e58b173a0470782 Adding MTU tests in reference to projectcalico/calico #2200\n- c97868b52ad973755ce0c83729f56ec4215c1a7e Make CNI plugin importable; standardise package structure.\n- 8df04c383cd406b3ad0c867969e073df35f6d79d Fix up inconsistent indentation.\n- 7b51b13348043c4221df292df247c951acc144c9 Changing DetermineNodename to return when priority name is found\n- 4ceb17f02be9f1c577dae84eefae7451af22a7da Automated libcalico pin update\n- dd1c9fea6a75bff7fed12875e1ec075337dff887 Automated libcalico pin update\n- acbcb7d0d6c5261f7ce5d88757c4a88ccd8c15eb Try using ghr for github release publishing\n- 08d5072cd88b1ffe69d47fcdb355a1c4832d1614 Automated libcalico pin update\n- fdf7f2380d55b115e1ca49e89c6d2f6a5664147c Automated libcalico pin update\n- 3171dfe753f94b7ccdb7211825ad6ddbec82af77 Specify GitHub organization in release-publish\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

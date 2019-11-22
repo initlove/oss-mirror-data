@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ3NDpiMTQwNDRhNjAwYjNhZmYwZmU4NjFkYzIzODI2NGM4NmVlMDQ2YWI0",
+  "sha": "b14044a600b3aff0fe861dc238264c86ee046ab4",
+  "url": "https://api.github.com/repos/pypa/virtualenv/git/tags/b14044a600b3aff0fe861dc238264c86ee046ab4",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2015-05-22T04:05:13Z"
+  },
+  "object": {
+    "sha": "f07c175204647f95a89a5fd66c0c87a522c02cfa",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/virtualenv/git/commits/f07c175204647f95a89a5fd66c0c87a522c02cfa"
+  },
+  "tag": "13.0.0",
+  "message": "Released v13.0.0\n\n* Automatically install wheel when creating a new virutalenv. This can be\n  disabled by using the ``--no-wheel`` option.\n* Don't trust the current directory as a location to discover files to install\n  packages from.\n* Upgrade setuptools to 16.0.\n* Upgrade pip to 7.0.0.\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJVXqsKAAoJEG48vOkzctz6Z5cP/itAHiJvcveu9DyasyLJgQcP\n17PgBhdYyRXQ0i2pJfrWQ2gIPFtHFYDuSwGx1bKWk/Zvkw+r/yXf/y/et8WCqwe5\niInovbXMmOau4HwF4z/qGuA7ZNTs5nvBX3LbEA6tNVZ5yrUEU4+SGC7FThKtoyDp\nbG6eRUPxHdxW9/rRvElqL/4R6lAwx3gUAVhXEpyLHb0vcGVThKiOwiejEjBqNb63\nlqYwUXX0Ew94O7jiBoMP7Qm3S3ACOPJcK1fONlO4QVt/99K0Yb5gJduICn1sNURB\n+/Syz2BmKzW8uVK4hizkI8SVMpTAVmF4HoFnH7WQpzWdLwHhSptVRLAib2RFknZ/\nmsN/GpEkpFlPGu0LJc3HLdapgzoVkPTembLxAkd1r8vydDtl/hIPuSw9D61HwiJS\nkxfxPJHZ8d9+y/dxdabkFxIoqJvdSx0PZrFnaxJiNkhhzePCQHVudCV2l9oT4tlG\nYITteicGyyQQEJiB3JfRmCWFvKt1AWopmkej+la0gwesSbJli+tiJ5HDmUMqtQWu\nZwOt2fY3rrTJi8oV3ftjvGAOeTqfbz5+OvKU0mFznf0yUEWOW9wsz0rEpBF6DS5t\n+0kEuIcqfTRdD/ILpFvXIdvSL183l3zRnWmXV9gSAnvt1OXvxGQuDV6WeKFDG4kw\nJbv5WgI+BKUoW3iw0HmY\n=abvR\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJVXqsKAAoJEG48vOkzctz6Z5cP/itAHiJvcveu9DyasyLJgQcP\n17PgBhdYyRXQ0i2pJfrWQ2gIPFtHFYDuSwGx1bKWk/Zvkw+r/yXf/y/et8WCqwe5\niInovbXMmOau4HwF4z/qGuA7ZNTs5nvBX3LbEA6tNVZ5yrUEU4+SGC7FThKtoyDp\nbG6eRUPxHdxW9/rRvElqL/4R6lAwx3gUAVhXEpyLHb0vcGVThKiOwiejEjBqNb63\nlqYwUXX0Ew94O7jiBoMP7Qm3S3ACOPJcK1fONlO4QVt/99K0Yb5gJduICn1sNURB\n+/Syz2BmKzW8uVK4hizkI8SVMpTAVmF4HoFnH7WQpzWdLwHhSptVRLAib2RFknZ/\nmsN/GpEkpFlPGu0LJc3HLdapgzoVkPTembLxAkd1r8vydDtl/hIPuSw9D61HwiJS\nkxfxPJHZ8d9+y/dxdabkFxIoqJvdSx0PZrFnaxJiNkhhzePCQHVudCV2l9oT4tlG\nYITteicGyyQQEJiB3JfRmCWFvKt1AWopmkej+la0gwesSbJli+tiJ5HDmUMqtQWu\nZwOt2fY3rrTJi8oV3ftjvGAOeTqfbz5+OvKU0mFznf0yUEWOW9wsz0rEpBF6DS5t\n+0kEuIcqfTRdD/ILpFvXIdvSL183l3zRnWmXV9gSAnvt1OXvxGQuDV6WeKFDG4kw\nJbv5WgI+BKUoW3iw0HmY\n=abvR\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f07c175204647f95a89a5fd66c0c87a522c02cfa\ntype commit\ntag 13.0.0\ntagger Donald Stufft <donald@stufft.io> 1432267513 -0400\n\nReleased v13.0.0\n\n* Automatically install wheel when creating a new virutalenv. This can be\n  disabled by using the ``--no-wheel`` option.\n* Don't trust the current directory as a location to discover files to install\n  packages from.\n* Upgrade setuptools to 16.0.\n* Upgrade pip to 7.0.0.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI4MzMzMDU6YTA3NTQzODg4YTE2MGI4MGNmYWRhOTBjZjc4OGE2ZGU0NjZlNzA0OA==",
+  "sha": "a07543888a160b80cfada90cf788a6de466e7048",
+  "url": "https://api.github.com/repos/openstack/python-zaqarclient/git/tags/a07543888a160b80cfada90cf788a6de466e7048",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-05T20:47:43Z"
+  },
+  "object": {
+    "sha": "9038bf6ba93c24c9a61447dfcb14e436f1267066",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-zaqarclient/git/commits/9038bf6ba93c24c9a61447dfcb14e436f1267066"
+  },
+  "tag": "1.12.0",
+  "message": "python-zaqarclient 1.12.0 release\n\nmeta:version: 1.12.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Dirk Mueller <dirk@dmllr.de>\nmeta:release:Commit: Dirk Mueller <dirk@dmllr.de>\nmeta:release:Change-Id: Ib8ad62d07a2f14f5b481a2f14cc43de3905800cc\nmeta:release:Code-Review+1: Matthew Thode <mthode@mthode.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1xdG8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OzZDADOWf7JpQrOZOiOKAi9Xavz\n9okdO8kiSNKXR5wRCtpNR9WzeVHt4ugImGea3F/Tr7Gl2YRXJ6O2OZgiuY/TPCKd\nxRVYzg2yD9t//dBAVbEVt7DJhe0FHyJXhB/K1bZPJtLGaJNs9DXHU8jDESU19GjL\nD5F/tnrZCiTmHS1JFNAiiVEN0GZbXEUdkzQClkssajMsjl/33yXQYFhiviXpbQpN\n1pQ/3GMS1aIbTib3PSqFtmh7Ww5MvF2MbaD3DBmSuk4vk/0XiitmG92KSDRgdbx5\n7acpi00/vGLWd13tEcmWQFwtIeJX/UIUdSsZFavW2GcDn3KSZEip6s/NwgDjlc56\nM37OfbcIlSKk9Am1dMV8xIkuToMl6fE6VeyjXLDBH595964mtsF3lXisfmlWJTPf\nZQpv6RBjiCF0OZqdftYWZt4e9nLpoCUTeXvBC/ClcBouesUceMU6JPlYV+BuH9sU\nhgabeBxYKXzt0ibOXFtgWWBMrdNm7+HpKULjPzlTBq8=\n=oW8L\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1xdG8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OzZDADOWf7JpQrOZOiOKAi9Xavz\n9okdO8kiSNKXR5wRCtpNR9WzeVHt4ugImGea3F/Tr7Gl2YRXJ6O2OZgiuY/TPCKd\nxRVYzg2yD9t//dBAVbEVt7DJhe0FHyJXhB/K1bZPJtLGaJNs9DXHU8jDESU19GjL\nD5F/tnrZCiTmHS1JFNAiiVEN0GZbXEUdkzQClkssajMsjl/33yXQYFhiviXpbQpN\n1pQ/3GMS1aIbTib3PSqFtmh7Ww5MvF2MbaD3DBmSuk4vk/0XiitmG92KSDRgdbx5\n7acpi00/vGLWd13tEcmWQFwtIeJX/UIUdSsZFavW2GcDn3KSZEip6s/NwgDjlc56\nM37OfbcIlSKk9Am1dMV8xIkuToMl6fE6VeyjXLDBH595964mtsF3lXisfmlWJTPf\nZQpv6RBjiCF0OZqdftYWZt4e9nLpoCUTeXvBC/ClcBouesUceMU6JPlYV+BuH9sU\nhgabeBxYKXzt0ibOXFtgWWBMrdNm7+HpKULjPzlTBq8=\n=oW8L\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9038bf6ba93c24c9a61447dfcb14e436f1267066\ntype commit\ntag 1.12.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1567716463 +0000\n\npython-zaqarclient 1.12.0 release\n\nmeta:version: 1.12.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Dirk Mueller <dirk@dmllr.de>\nmeta:release:Commit: Dirk Mueller <dirk@dmllr.de>\nmeta:release:Change-Id: Ib8ad62d07a2f14f5b481a2f14cc43de3905800cc\nmeta:release:Code-Review+1: Matthew Thode <mthode@mthode.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

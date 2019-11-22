@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6YTU2ZjhhOTQ3ZTcwYTk5MjYwMzg1NzVjNDkxMmRiMjI2ZDA5YTM5Nw==",
+  "sha": "a56f8a947e70a9926038575c4912db226d09a397",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/a56f8a947e70a9926038575c4912db226d09a397",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@tigera.io",
+    "date": "2017-05-16T09:45:13Z"
+  },
+  "object": {
+    "sha": "9c92a9624d11d2ed68484d488c42a0b0d67d88aa",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/9c92a9624d11d2ed68484d488c42a0b0d67d88aa"
+  },
+  "tag": "2.2.2",
+  "message": "Felix version 2.2.2\n\n- Pin libcalico-go to v1.2.2 to pick up memory leak fix (#1457).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

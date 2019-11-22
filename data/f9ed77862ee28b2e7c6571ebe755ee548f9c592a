@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6ZjllZDc3ODYyZWUyOGIyZTdjNjU3MWViZTc1NWVlNTQ4ZjljNTkyYQ==",
+  "sha": "f9ed77862ee28b2e7c6571ebe755ee548f9c592a",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/f9ed77862ee28b2e7c6571ebe755ee548f9c592a",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2019-09-26T12:01:50Z"
+  },
+  "object": {
+    "sha": "38b0dbfac67f2ba81ddf3a0982da1710fa5d55fe",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/38b0dbfac67f2ba81ddf3a0982da1710fa5d55fe"
+  },
+  "tag": "v20.4",
+  "message": "rdma-core-20.4:\n\nUpdates from version 20.3\n * Backport fixes:\n   * cbuild: Fix packaging of SuSE leap\n   * cbuild: extend CLI to pass --with[out] options to rpmbuild\n   * cbuild: fix python path for leap\n   * buildlib: update SUSE validation targets\n   * travis: fix aarch64 extraction\n   * ccam: Properly enable ilog32() calculations\n   * suse: fix dracut support\n   * libhns: Bugfix for flush cqe in case multi-process\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAl2MqLAcHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZPKHCACZTMuf4mi9m+nA4Jpn\nWXS3sHr6O+JnHtilbjftK634cDIeu3IIpDmrE8oYUY0x1pU4mSYA/nlZ3B/kFmRM\nTUjyswSnIi4Dck4wPJySmDFjs/Qbr+bwj6lVBtO61I6Pbu1VRsDGngUuIiSsE6H/\n90t+azFI6evtif/ch59yKpn8iMX1P/40zvaeerWGbVlMt2U1NG199m4fiwqkqG3N\nltled2m0XWwj018Xv3ofhhcBOODcj61JWL7Bikyi1U4XFTr8piCMy7TV6DioZT2Y\n164J11n0BOoQZcIDDS+qeYInGwBeWGj2Ps4Vky3jj96okEyb5NN4Sb8D6BlNM6y1\nqpVG\n=nZEn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAl2MqLAcHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZPKHCACZTMuf4mi9m+nA4Jpn\nWXS3sHr6O+JnHtilbjftK634cDIeu3IIpDmrE8oYUY0x1pU4mSYA/nlZ3B/kFmRM\nTUjyswSnIi4Dck4wPJySmDFjs/Qbr+bwj6lVBtO61I6Pbu1VRsDGngUuIiSsE6H/\n90t+azFI6evtif/ch59yKpn8iMX1P/40zvaeerWGbVlMt2U1NG199m4fiwqkqG3N\nltled2m0XWwj018Xv3ofhhcBOODcj61JWL7Bikyi1U4XFTr8piCMy7TV6DioZT2Y\n164J11n0BOoQZcIDDS+qeYInGwBeWGj2Ps4Vky3jj96okEyb5NN4Sb8D6BlNM6y1\nqpVG\n=nZEn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 38b0dbfac67f2ba81ddf3a0982da1710fa5d55fe\ntype commit\ntag v20.4\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1569499310 +0200\n\nrdma-core-20.4:\n\nUpdates from version 20.3\n * Backport fixes:\n   * cbuild: Fix packaging of SuSE leap\n   * cbuild: extend CLI to pass --with[out] options to rpmbuild\n   * cbuild: fix python path for leap\n   * buildlib: update SUSE validation targets\n   * travis: fix aarch64 extraction\n   * ccam: Properly enable ilog32() calculations\n   * suse: fix dracut support\n   * libhns: Bugfix for flush cqe in case multi-process\n"
+  }
+}

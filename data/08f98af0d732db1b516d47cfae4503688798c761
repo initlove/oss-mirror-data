@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6MDhmOThhZjBkNzMyZGIxYjUxNmQ0N2NmYWU0NTAzNjg4Nzk4Yzc2MQ==",
+  "sha": "08f98af0d732db1b516d47cfae4503688798c761",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/08f98af0d732db1b516d47cfae4503688798c761",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@tigera.io",
+    "date": "2017-02-02T18:14:03Z"
+  },
+  "object": {
+    "sha": "99fd1a11addcb78124808d563e162fda8b64de83",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/99fd1a11addcb78124808d563e162fda8b64de83"
+  },
+  "tag": "2.1.0-rc2",
+  "message": "Felix version 2.1.0-rc2\n\nChanges since 2.1.0-rc1:\n\n- Add extra prometheus metrics (#1304)\n- Switch to goimports for formatting code (#1305)\n- Add gometalinter and fix a couple of bugs it spotted. (#1306)\n- Increase timeout when doing async calc graph test. (#1312)\n- Pass chain insert mode down to iptables.Table.\n- Implement periodic refresh of route table. (#1313)\n- Explicitly ACCEPT packets that are allowed by host policy. (#1318)\n- Remove flags that are unused in golang dataplane driver. (#1321)\n- Plumb through Ipv6Support flag and ReportingIntervalSecs. (#1320)\n- Add automated check of dependency licenses.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6YzJlZGJmN2YzNDUwMTM5ODk0YTViMzY2NTUyMGI4OWNkMDRmMGIzOQ==",
+  "sha": "c2edbf7f3450139894a5b3665520b89cd04f0b39",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/c2edbf7f3450139894a5b3665520b89cd04f0b39",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@tigera.io",
+    "date": "2017-08-22T08:38:02Z"
+  },
+  "object": {
+    "sha": "daa250caf64ac7f121c62aae8d9c0d4303ee145e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/daa250caf64ac7f121c62aae8d9c0d4303ee145e"
+  },
+  "tag": "2.5.0",
+  "message": "Felix version 2.5.0\n\n- Test fix: use local crd manifest file instead of pulling from libcalico-go repository See: #1530\n- Fix deb and RPM changelogs to include 2.2.x releases.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

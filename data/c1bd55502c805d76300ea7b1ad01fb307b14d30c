@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzk5MDkyOTg6YzFiZDU1NTAyYzgwNWQ3NjMwMGVhN2IxYWQwMWZiMzA3YjE0ZDMwYw==",
+  "sha": "c1bd55502c805d76300ea7b1ad01fb307b14d30c",
+  "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/tags/c1bd55502c805d76300ea7b1ad01fb307b14d30c",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "davenport.cas@gmail.com",
+    "date": "2018-11-09T00:58:17Z"
+  },
+  "object": {
+    "sha": "009fe51b88373e5165be72f8a16e6f4484ced95d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/commits/009fe51b88373e5165be72f8a16e6f4484ced95d"
+  },
+  "tag": "v3.2.4",
+  "message": "- fd1023e080a85c001daa7321002bf59338fa365a Update libcalico-go to 9d3859e1544309049df51602b484031ee201e31a\n- 791d32e8f588e21b68fdc1a73c0abbeb1582f45d Stop logging client config and env vars\n- 06451e57db80402b7098c5513e3d3c3dab6d834e Don't log cni net config\n- 6ca66ffca21e6a70a163106c1f2c16327d0c4868 Remove stdindata logs\n- 42feee37076faf0338a3fef3560dc399102b6c71 Update libcalico-go to 00179b9410d8f5191e2bc9e3df04d40ff90efa6d\n- 3e7ae4740358c2088d5a5f72dd54ad2d20a9022a Pin to correct release-v3.2 branch\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

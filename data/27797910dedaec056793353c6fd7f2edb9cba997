@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6Mjc3OTc5MTBkZWRhZWMwNTY3OTMzNTNjNmZkN2YyZWRiOWNiYTk5Nw==",
+  "sha": "27797910dedaec056793353c6fd7f2edb9cba997",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/27797910dedaec056793353c6fd7f2edb9cba997",
+  "tagger": {
+    "name": "Brendan Creane",
+    "email": "brendan@tigera.io",
+    "date": "2017-12-21T20:50:38Z"
+  },
+  "object": {
+    "sha": "0fc6d7fee7fd254dd78f6910b60c068f48569dfe",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/0fc6d7fee7fd254dd78f6910b60c068f48569dfe"
+  },
+  "tag": "3.0.0",
+  "message": "This is a feature release of Felix, Calico's per-host agent.\n\nThis Felix release is part of the broader Calico 3.0.0 release, which includes releases of all the other Calico components. Those releases will follow shortly.\n\n- Enable Calico-Felix for Windows - https://github.com/projectcalico/felix/pull/1638\n- Always return a slice from GetPIDs - https://github.com/projectcalico/felix/pull/1664\n- Avoid reconnecting just to check the ready flag - https://github.com/projectcalico/felix/pull/1661\n- Report health before datastore is ready - https://github.com/projectcalico/felix/pull/1652\n- Fix that felix didn't restart when config was deleted - https://github.com/projectcalico/felix/pull/1645\n- Fix config batcher - unset dirty flag after flush: https://github.com/projectcalico/felix/pull/1634\n- Explicitly allow IPIP packets from/to Calico hosts - https://github.com/projectcalico/felix/pull/1558\n- Make it optional to auto-remove containers and add support for restarting stopped ones - https://github.com/projectcalico/felix/pull/1571\n- Fix that the allow action override options didn't apply in all cases -  https://github.com/projectcalico/felix/pull/1628\n\nTo get this release:\n\n- For Kubernetes/Docker/etc, the updated calico/node image will be released shortly.\n\n- For Host Protection AKA \"bare-metal support\"\n  - the calico-felix static binary described in the installation instructions is attached.\n    - the stand-alone calico/felix:2.6.0 container image is available on DockerHub and Quay.io.\n    - For OpenStack (or Host Protection/bare-metal), .debs for Ubuntu Trusty and Xenial are available in our calico-2.6 PPA; there is more information in the installation instructions.\n\n    - For OpenStack (or Host Protection/bare-metal), .rpms targeting RHEL7 are available in our calico-2.6 repo as described in the installation instructions.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

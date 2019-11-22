@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6NDRlZmQzNGQwZTgwMzYzMWFkOWNiYzllYTJlMmIzN2FjMDg1ZDdiYg==",
+  "sha": "44efd34d0e803631ad9cbc9ea2e2b37ac085d7bb",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/44efd34d0e803631ad9cbc9ea2e2b37ac085d7bb",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2019-02-06T07:18:04Z"
+  },
+  "object": {
+    "sha": "2b42a75b60aacd6773d7198b4ef4f0e4aa0ceb86",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/2b42a75b60aacd6773d7198b4ef4f0e4aa0ceb86"
+  },
+  "tag": "v22.1",
+  "message": "rdma-core-22.1:\n\nUpdates from version 22.0\n * Backport fixes:\n   * ibacm: Print correct pkey\n   * libhns: Bugfix for allocating and freeing sq db buffer\n   * verbs: Fix pingpong buffer validation\n   * ABI Files\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlxaii4cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZGl2B/4jg2fpgIvPleHuqD5+\nyeWLXmsyIn/pPuUgPfC1enM0ch3dTPfeX2Q/+auc2a6LsU8B3X/gSPort4wV3kFU\niKfr4+mfoG/+O3Uad/nQjmXg/RNLKmmYGXsl3N4SlNDmNZwpxCc1QGFzZEtqCppz\nIy/ppWMeTA1ZQ7VrOIporU/KIX5AiL3K0byKt+22CVfMcE/T1H3RnQbHqGa7da/0\njoh40WXRwsLGjSZcNzqyGtvA3VWwUWEG8a0k0A+Wn9satSNdoyzCM+UGzhFDDJFw\nfxkq/tZakheRm5iwkrJpof+MoBRvWnPP31SgTEX52thElcC5XT5HCq3gLe2KL0+L\nE/xR\n=2xiT\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlxaii4cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZGl2B/4jg2fpgIvPleHuqD5+\nyeWLXmsyIn/pPuUgPfC1enM0ch3dTPfeX2Q/+auc2a6LsU8B3X/gSPort4wV3kFU\niKfr4+mfoG/+O3Uad/nQjmXg/RNLKmmYGXsl3N4SlNDmNZwpxCc1QGFzZEtqCppz\nIy/ppWMeTA1ZQ7VrOIporU/KIX5AiL3K0byKt+22CVfMcE/T1H3RnQbHqGa7da/0\njoh40WXRwsLGjSZcNzqyGtvA3VWwUWEG8a0k0A+Wn9satSNdoyzCM+UGzhFDDJFw\nfxkq/tZakheRm5iwkrJpof+MoBRvWnPP31SgTEX52thElcC5XT5HCq3gLe2KL0+L\nE/xR\n=2xiT\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2b42a75b60aacd6773d7198b4ef4f0e4aa0ceb86\ntype commit\ntag v22.1\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1549437484 +0100\n\nrdma-core-22.1:\n\nUpdates from version 22.0\n * Backport fixes:\n   * ibacm: Print correct pkey\n   * libhns: Bugfix for allocating and freeing sq db buffer\n   * verbs: Fix pingpong buffer validation\n   * ABI Files\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6MWVjNGJhOTg1Nzg0ZGU2ODhjODljNjQzOGNmYjVjYjZkMjVkZjFhOQ==",
+  "sha": "1ec4ba985784de688c89c6438cfb5cb6d25df1a9",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/1ec4ba985784de688c89c6438cfb5cb6d25df1a9",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@tigera.io",
+    "date": "2017-06-12T14:58:39Z"
+  },
+  "object": {
+    "sha": "85f9ffffe7a61cff18e2751199d3a0511962b024",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/85f9ffffe7a61cff18e2751199d3a0511962b024"
+  },
+  "tag": "2.3.0",
+  "message": "Felix version 2.3.0\n\nThis is a feature release of Felix, Calico's per-host agent.\n\nThe headline feature in this release is a significant increase in scale when using the\nKubernetes datastore driver by introducing support for a new daemon, Typha. Typha\nconnects to the Kubernetes API server and fans out updates to a number of Felixes.\nBy having only a handful of Typha instances connected to the API server instead of\nmany Felixes, we place a lot less load on the API server.  In addition, Typha is able\nto squash unimportant updates form the API server, significantly reducing the\nnumber of mesages each Felix has to handle.\n\nTypha is disabled by default. The documentation for how to configure Typha and Felix\ntogether will follow as part of the wider Calico 2.3.0 meta-release.\n\nThis release also contains a number of minor enhancements:\n\n- Performance: Scan iptables-save output incrementally when calculating hashes.\n- Performance: Disable WithFields logging in the ipsets resync parse loop.\n- Performance: Disable some WithField calls in the inner iptables resync loop.\n- Allow the iptables post-write check interval to be set.\n- Improve diagnostics around ipset restore failures\n- Log ip6tables-save stderr if it fails\n- Convert interval config parameters to time.Duration for increased precision.\n- Rev libcalico-go to v1.4.4 and Typha to v0.2.2.\n- Make JUST_A_MINUTE the default, as it's more useful for devs\n\nThe k8sfv functional tests also got a number of enhancements:\n\n- Update imports for recent client-go/apimachinery moves\n- Check Felix does not die before end of test\n- mechanism for only running quick tests\n- fix client authorization to API server 1.6\n- Ensure that ip6_tables module is loaded\n- put Typha in the loop.\n\nThe DockerHub and Quay.io `calico/felix` images have been updated.  The `calico/node` image\nbased on this release will follow shortly.\n\nSince we're targetting Kubernetes for this release, we haven't yet updated the OpenStack\ndebs and RPMs, those should follow in a few days.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

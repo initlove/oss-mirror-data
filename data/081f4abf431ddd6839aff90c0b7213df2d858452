@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzczMDgyOTowODFmNGFiZjQzMWRkZDY4MzlhZmY5MGMwYjcyMTNkZjJkODU4NDUy",
+  "sha": "081f4abf431ddd6839aff90c0b7213df2d858452",
+  "url": "https://api.github.com/repos/psycopg/psycopg2/git/tags/081f4abf431ddd6839aff90c0b7213df2d858452",
+  "tagger": {
+    "name": "Daniele Varrazzo",
+    "email": "daniele.varrazzo@gmail.com",
+    "date": "2013-06-23T01:09:30Z"
+  },
+  "object": {
+    "sha": "68d5d070fe6b701910dfccbf5c41fc23196d3f41",
+    "type": "commit",
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/68d5d070fe6b701910dfccbf5c41fc23196d3f41"
+  },
+  "tag": "2_5_1",
+  "message": "Psycopg 2.5.1 released\n\n- Fixed build on Solaris 10 and 11 where the round() function is already\n  declared (ticket #146).\n- Fixed comparison of 'Range' with non-range objects (ticket #164).\n  Thanks to Chris Withers for the patch.\n- Fixed double-free on connection dealloc (ticket #166). Thanks to\n  Gangadharan S.A. for the report and fix suggestion.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJRxksxAAoJEGATvTr8+VfenFgH/1W+3PrIgPIaPUGJWmyzPYGV\nSfsIe9XlmeG5hRyus+GOoGqcOhDAzJ5JSdgq1EZJXJhoiKnil6fc50ysB6bl17H+\njNymh3819e1X6TKhSN/J1R8ABlanDR4aTIh8zxLi6aHB8kOymkXb07VLl1TA9E6d\nzmbPgYAFoogtRy1cwk520Og1jAcVWhDD3DXeAl2lPLqMet133+qLSpZix8/ZFQq8\nKJyy40nYcjxB7FRWeA2Vo0+Zd+1TXzhMemCD6bnB/1IAGM/YzXDNFYquYVl9knUX\nZWAPO5hHMsJVjkx9kPw3w+GLORMKyiCSz6XUf+/Rxd+HPFb18IICMwQ23IUJCrs=\n=TZ0b\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJRxksxAAoJEGATvTr8+VfenFgH/1W+3PrIgPIaPUGJWmyzPYGV\nSfsIe9XlmeG5hRyus+GOoGqcOhDAzJ5JSdgq1EZJXJhoiKnil6fc50ysB6bl17H+\njNymh3819e1X6TKhSN/J1R8ABlanDR4aTIh8zxLi6aHB8kOymkXb07VLl1TA9E6d\nzmbPgYAFoogtRy1cwk520Og1jAcVWhDD3DXeAl2lPLqMet133+qLSpZix8/ZFQq8\nKJyy40nYcjxB7FRWeA2Vo0+Zd+1TXzhMemCD6bnB/1IAGM/YzXDNFYquYVl9knUX\nZWAPO5hHMsJVjkx9kPw3w+GLORMKyiCSz6XUf+/Rxd+HPFb18IICMwQ23IUJCrs=\n=TZ0b\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 68d5d070fe6b701910dfccbf5c41fc23196d3f41\ntype commit\ntag 2_5_1\ntagger Daniele Varrazzo <daniele.varrazzo@gmail.com> 1371949770 +0100\n\nPsycopg 2.5.1 released\n\n- Fixed build on Solaris 10 and 11 where the round() function is already\n  declared (ticket #146).\n- Fixed comparison of 'Range' with non-range objects (ticket #164).\n  Thanks to Chris Withers for the patch.\n- Fixed double-free on connection dealloc (ticket #166). Thanks to\n  Gangadharan S.A. for the report and fix suggestion.\n"
+  }
+}

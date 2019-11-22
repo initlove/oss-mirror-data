@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjIzNzQ5NDg6NzA3MTkxMmRmMjNlMGYzZjhhOTcxNzZhYzc3OGViOTY0ZWE4ZjVjZA==",
+  "sha": "7071912df23e0f3f8a97176ac778eb964ea8f5cd",
+  "url": "https://api.github.com/repos/openstack/python-zunclient/git/tags/7071912df23e0f3f8a97176ac778eb964ea8f5cd",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-07T10:32:27Z"
+  },
+  "object": {
+    "sha": "55cdb633f42c56585ff95605217aa63b87882ec6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-zunclient/git/commits/55cdb633f42c56585ff95605217aa63b87882ec6"
+  },
+  "tag": "3.3.0",
+  "message": "python-zunclient 3.3.0 release\n\nmeta:version: 3.3.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Hongbin Lu <hongbin034@gmail.com>\nmeta:release:Commit: Hongbin Lu <hongbin034@gmail.com>\nmeta:release:Change-Id: I55a675bd61f4b19283be47cec7833935ed940e5d\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcgPM7AAoJEBpUEUgFTp44eqIL/RXtPGrE+5Q+5BiNRguMgB1G\npoYs7eEfhwIr/R9ol9PFaejyjNaVocvOoC8LHhLII+/teVW8RzyCeUihivWNgbYI\npS5HUwlD3tUbSbfy+LZwYIbBJU1UzmcDdWGb3bYe7AleN1B2/ib914kcvay1jW2l\nHLgVB4dOlnk7RW7eSFOOt4845iKN52DMIbMk5o64EPlvyIz0ZgEENDny5dgX2idZ\nM703XDpPU9trmeGWAokgw3oMkeokCokk8Fd13UhRjt+gCbAjBWS786Syk76yqwk6\n41eaAKc+TRvsIVDwiJIapZd6AkTHGiVPyU2mDMjcWHe57mwl1yOkGd6CDBHVDGa6\n4tIdZYYJKVTCb4VVGhh3yqMAT79AyKZhM5+hpW9tAIdXCq9dkuOOu9Vtp52NnK8u\nI04wdqP7K3YhhiM9VfX1c7pVIHMVP9TxuSZnFhQMDjWACdJrOaHsFVgcG9tZ53QX\n9vuvzyDWxime/OJb1xQT/JZBRSpiYkplpELYsafvDw==\n=LEb/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcgPM7AAoJEBpUEUgFTp44eqIL/RXtPGrE+5Q+5BiNRguMgB1G\npoYs7eEfhwIr/R9ol9PFaejyjNaVocvOoC8LHhLII+/teVW8RzyCeUihivWNgbYI\npS5HUwlD3tUbSbfy+LZwYIbBJU1UzmcDdWGb3bYe7AleN1B2/ib914kcvay1jW2l\nHLgVB4dOlnk7RW7eSFOOt4845iKN52DMIbMk5o64EPlvyIz0ZgEENDny5dgX2idZ\nM703XDpPU9trmeGWAokgw3oMkeokCokk8Fd13UhRjt+gCbAjBWS786Syk76yqwk6\n41eaAKc+TRvsIVDwiJIapZd6AkTHGiVPyU2mDMjcWHe57mwl1yOkGd6CDBHVDGa6\n4tIdZYYJKVTCb4VVGhh3yqMAT79AyKZhM5+hpW9tAIdXCq9dkuOOu9Vtp52NnK8u\nI04wdqP7K3YhhiM9VfX1c7pVIHMVP9TxuSZnFhQMDjWACdJrOaHsFVgcG9tZ53QX\n9vuvzyDWxime/OJb1xQT/JZBRSpiYkplpELYsafvDw==\n=LEb/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 55cdb633f42c56585ff95605217aa63b87882ec6\ntype commit\ntag 3.3.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1551954747 +0000\n\npython-zunclient 3.3.0 release\n\nmeta:version: 3.3.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Hongbin Lu <hongbin034@gmail.com>\nmeta:release:Commit: Hongbin Lu <hongbin034@gmail.com>\nmeta:release:Change-Id: I55a675bd61f4b19283be47cec7833935ed940e5d\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

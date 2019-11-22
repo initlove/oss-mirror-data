@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzczMDgyOTpjOGVlMTc2NDQ2NmFjMzViODY5NDhiYjY1MGI2MDllMjBiYjc0MGNm",
+  "sha": "c8ee1764466ac35b86948bb650b609e20bb740cf",
+  "url": "https://api.github.com/repos/psycopg/psycopg2/git/tags/c8ee1764466ac35b86948bb650b609e20bb740cf",
+  "tagger": {
+    "name": "Daniele Varrazzo",
+    "email": "daniele.varrazzo@gmail.com",
+    "date": "2019-04-06T19:18:59Z"
+  },
+  "object": {
+    "sha": "15d684134f0972dc25bed904f48b11b7a972a7ab",
+    "type": "commit",
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/15d684134f0972dc25bed904f48b11b7a972a7ab"
+  },
+  "tag": "2_8_1",
+  "message": "Psycopg 2.8.1 released\n\nWhat's new in psycopg 2.8.1\n---------------------------\n\n- Fixed `RealDictRow` modifiability (:ticket:`#886`).\n- Fixed \"there's no async cursor\" error polling a connection with no cursor\n  (:ticket:`#887`).\n-----BEGIN PGP SIGNATURE-----\n\niQFPBAABCgA5FiEEitYJlWzxiZQY4ZqFYBO9Ovz5V94FAlyo+8YbHGRhbmllbGUu\ndmFycmF6em9AZ21haWwuY29tAAoJEGATvTr8+VfeTUUH/3BxjdXHdypYjiizLBFz\nVYzIAaXoXjOYnfVdNdkZh63Ng6Nbg992mhSIRMW4poAyxwyjWzrID5eGf7Jozmix\nEunoKXlY2aR5kS0gKe9NTmGgTKbReZNUibJ/416xt4mDq9h2v3e7RPI+T9OBjxKU\njFCLyCIch6SX9KZgEJO5KkDg8LRvC5kZ6A7ZwekSaP3DWJF8yysgoKgQjKhjnwlg\nMULhnq2hSJ+47SPesW1VjnACSacdVSY1VnJZ3+Q9hxzgn7RDgLvZwR8mCuk86Lwk\nh3FwXKiqN+/uyg2rlKo/rtEHaoajQrbe9Rj4FYJcga4M2i9SJ3gdSYpm05HKcLgc\nEOs=\n=I4tc\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFPBAABCgA5FiEEitYJlWzxiZQY4ZqFYBO9Ovz5V94FAlyo+8YbHGRhbmllbGUu\ndmFycmF6em9AZ21haWwuY29tAAoJEGATvTr8+VfeTUUH/3BxjdXHdypYjiizLBFz\nVYzIAaXoXjOYnfVdNdkZh63Ng6Nbg992mhSIRMW4poAyxwyjWzrID5eGf7Jozmix\nEunoKXlY2aR5kS0gKe9NTmGgTKbReZNUibJ/416xt4mDq9h2v3e7RPI+T9OBjxKU\njFCLyCIch6SX9KZgEJO5KkDg8LRvC5kZ6A7ZwekSaP3DWJF8yysgoKgQjKhjnwlg\nMULhnq2hSJ+47SPesW1VjnACSacdVSY1VnJZ3+Q9hxzgn7RDgLvZwR8mCuk86Lwk\nh3FwXKiqN+/uyg2rlKo/rtEHaoajQrbe9Rj4FYJcga4M2i9SJ3gdSYpm05HKcLgc\nEOs=\n=I4tc\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 15d684134f0972dc25bed904f48b11b7a972a7ab\ntype commit\ntag 2_8_1\ntagger Daniele Varrazzo <daniele.varrazzo@gmail.com> 1554578339 +0100\n\nPsycopg 2.8.1 released\n\nWhat's new in psycopg 2.8.1\n---------------------------\n\n- Fixed `RealDictRow` modifiability (:ticket:`#886`).\n- Fixed \"there's no async cursor\" error polling a connection with no cursor\n  (:ticket:`#887`).\n"
+  }
+}

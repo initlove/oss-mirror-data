@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzczMDgyOTozMDEzMTVhMTc4YzgxMzQ2MDIzODQ3ZjJkM2I2Njg5YTA2NmU1MjUw",
+  "sha": "301315a178c81346023847f2d3b6689a066e5250",
+  "url": "https://api.github.com/repos/psycopg/psycopg2/git/tags/301315a178c81346023847f2d3b6689a066e5250",
+  "tagger": {
+    "name": "Daniele Varrazzo",
+    "email": "daniele.varrazzo@gmail.com",
+    "date": "2015-02-09T09:47:33Z"
+  },
+  "object": {
+    "sha": "5efe7131ff86ba5adf08ead91393f4910e863f1e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/5efe7131ff86ba5adf08ead91393f4910e863f1e"
+  },
+  "tag": "2_6",
+  "message": "Psycopg 2.6 is now\n\nNew features:\n\n- Added support for large objects larger than 2GB. Many thanks to Blake Rouse\n  and the MAAS Team for the feature development.\n- Python `time` objects with a tzinfo specified and PostgreSQL :sql:`timetz`\n  data are converted into each other (:ticket:`#272`).\n\nBug fixes:\n\n- Json apapter's `!str()` returns the adapted content instead of the `!repr()`\n  (:ticket:`#191`).\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJU2IJTAAoJEGATvTr8+VfenDMH/22h9X3uPEwqSWfarX5WcEk/\nM5SUz/LDy1STz1d0xn/T8BG7kYociWFMYfFdg30JuM78uBqKz5sjDve3Lic8RfnR\n/4SDiiTt0slzwJ+5aleJvqFijV/diCBTedEYSjaBVo+l/6A8RPB5H4MBlRJg+Vf7\nGSfiL+fQ8U8U6qbq8rXdwAIk3wJ56FQVcQmwxdyQkqMlthIkN0Dj4UGpAxbfdeF9\nHb09sm+icddX1w0huEEVhPw4lyfDZgPCWtCGVDvoGH4jHTLtkr1w7N4V1ZOW+nSu\nFK5lRCu7kTBYIn1wpRha3bs02Fr2zWSb0aBREGPLmxRomp4urdaVnhZWIf++83w=\n=GmgL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJU2IJTAAoJEGATvTr8+VfenDMH/22h9X3uPEwqSWfarX5WcEk/\nM5SUz/LDy1STz1d0xn/T8BG7kYociWFMYfFdg30JuM78uBqKz5sjDve3Lic8RfnR\n/4SDiiTt0slzwJ+5aleJvqFijV/diCBTedEYSjaBVo+l/6A8RPB5H4MBlRJg+Vf7\nGSfiL+fQ8U8U6qbq8rXdwAIk3wJ56FQVcQmwxdyQkqMlthIkN0Dj4UGpAxbfdeF9\nHb09sm+icddX1w0huEEVhPw4lyfDZgPCWtCGVDvoGH4jHTLtkr1w7N4V1ZOW+nSu\nFK5lRCu7kTBYIn1wpRha3bs02Fr2zWSb0aBREGPLmxRomp4urdaVnhZWIf++83w=\n=GmgL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5efe7131ff86ba5adf08ead91393f4910e863f1e\ntype commit\ntag 2_6\ntagger Daniele Varrazzo <daniele.varrazzo@gmail.com> 1423475253 +0000\n\nPsycopg 2.6 is now\n\nNew features:\n\n- Added support for large objects larger than 2GB. Many thanks to Blake Rouse\n  and the MAAS Team for the feature development.\n- Python `time` objects with a tzinfo specified and PostgreSQL :sql:`timetz`\n  data are converted into each other (:ticket:`#272`).\n\nBug fixes:\n\n- Json apapter's `!str()` returns the adapted content instead of the `!repr()`\n  (:ticket:`#191`).\n"
+  }
+}

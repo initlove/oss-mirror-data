@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6ZDI2MTEyZDhhZTk1MTI5ZTVlMjRjMGZkMjdhNDQ4YjMyOGQ5NDRiNw==",
+  "sha": "d26112d8ae95129e5e24c0fd27a448b328d944b7",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/d26112d8ae95129e5e24c0fd27a448b328d944b7",
+  "tagger": {
+    "name": "Stephen Schlie",
+    "email": "heschlie@gmail.com",
+    "date": "2017-12-16T00:24:36Z"
+  },
+  "object": {
+    "sha": "9f6c9eab75ed0bca3f602680ab0f20de3b9b5cc5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/9f6c9eab75ed0bca3f602680ab0f20de3b9b5cc5"
+  },
+  "tag": "2.6.3-rc2",
+  "message": "Felix version 2.6.3-rc2\n\n- Backport fix for felix failure to restart. (#1646)\n- Backport liveness check changes (#1653)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

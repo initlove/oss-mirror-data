@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzA3OTQ4Njg6YmU4NmYzODcxMzMzNzA1ZjcyZWVmNjIyYWU0ZjFjN2NlYjZiZTk3Mw==",
+  "sha": "be86f3871333705f72eef622ae4f1c7ceb6be973",
+  "url": "https://api.github.com/repos/sampotts/plyr/git/tags/be86f3871333705f72eef622ae4f1c7ceb6be973",
+  "tagger": {
+    "name": "Sam Potts",
+    "email": "sam@potts.es",
+    "date": "2019-02-18T14:25:56Z"
+  },
+  "object": {
+    "sha": "80990c98c81fcbd494bc4a14522167d9bd88341a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/sampotts/plyr/git/commits/80990c98c81fcbd494bc4a14522167d9bd88341a"
+  },
+  "tag": "v3.5.0",
+  "message": "-   Preview seek/scrubbing thumbnails (thanks @jamesoflol)\n-   Fixes for proxy listeners (thanks @gurupras)\n-   Fix for buffer progress transition on WebKit (thanks @samuelgozi)\n-   Fix for error when mime type not specified (fixes #1274)\n-   Support YouTube noCookie (thanks Omar Khatib)\n-   Add Angular plugin reference (thanks @smnbbrv)\n-   Use `Math.trunc` instead of `parseInt` (thanks @taion)\n-   Many fixes for fullscreen in embedded players with non 16:9 screens or videos\n-   Added 'force' fallback option for fullscreen\n-   [RangeTouch](https://rangetouch.com) is now bundled with Plyr as a dependency to fix the scrubber on touch devices\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

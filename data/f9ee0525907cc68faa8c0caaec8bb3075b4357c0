@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODQwNjA3MzY6ZjllZTA1MjU5MDdjYzY4ZmFhOGMwY2FhZWM4YmIzMDc1YjQzNTdjMA==",
+  "sha": "f9ee0525907cc68faa8c0caaec8bb3075b4357c0",
+  "url": "https://api.github.com/repos/openstack/ovsdbapp/git/tags/f9ee0525907cc68faa8c0caaec8bb3075b4357c0",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-06-13T19:29:56Z"
+  },
+  "object": {
+    "sha": "edfec42757af6dd15a333f363c4eb78e8c90ce00",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ovsdbapp/git/commits/edfec42757af6dd15a333f363c4eb78e8c90ce00"
+  },
+  "tag": "0.16.0",
+  "message": "ovsdbapp 0.16.0 release\n\nmeta:version: 0.16.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Change-Id: I4f5d4bd34bc5f761693c771109581ffd96953d0d\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@verizonmedia.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0CpDQZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OPJDACDYg6fJ55Aun0CbgiAR7Es\nxnGOlI+I2zbvhuMhYz9WdaJ0naGwJnBjS0ceN8eONwaf4oMNQyK65kbOU6QJkCU0\nBDYxqwSau+EkxOJjPShCDUZClYpkPZ4C1ukjoJjSleu8Bzm4EfRfoJFqzOQQ0jJ0\nA/hYeUMnXhnGMSCdntAvaMdqMvXllHGDESCScrirNQchrfDHYxck5WILZ53FiXLy\n2UVjI1avevXMyDLrYi9xqc6bZNWMAkM4Vm4SO4eHmbqYdO4WYqtObWtOv5oZS5QO\nPbV6O72KkpZNXVoM2n1aKQnVTwO8TF256BDUBWXsbBZPg4Jbsbd+XVAfbSlweFVf\nb+9sJX0+IYkbWTQ/vjRiWRygA/XUipsa7MyVZwySMFkyEhy72XiXh6lu/00fSuVn\nWs/g+Nz2ce8rOP1fYzWRHxJJ3TcYMVb47bv5SboXta4zXmRZT6lKPE7rv+cRbyG4\nsuDT4k6GiMpHgknqXnOASVZemgKv8zqC5NckYgcxz3I=\n=phMV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0CpDQZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OPJDACDYg6fJ55Aun0CbgiAR7Es\nxnGOlI+I2zbvhuMhYz9WdaJ0naGwJnBjS0ceN8eONwaf4oMNQyK65kbOU6QJkCU0\nBDYxqwSau+EkxOJjPShCDUZClYpkPZ4C1ukjoJjSleu8Bzm4EfRfoJFqzOQQ0jJ0\nA/hYeUMnXhnGMSCdntAvaMdqMvXllHGDESCScrirNQchrfDHYxck5WILZ53FiXLy\n2UVjI1avevXMyDLrYi9xqc6bZNWMAkM4Vm4SO4eHmbqYdO4WYqtObWtOv5oZS5QO\nPbV6O72KkpZNXVoM2n1aKQnVTwO8TF256BDUBWXsbBZPg4Jbsbd+XVAfbSlweFVf\nb+9sJX0+IYkbWTQ/vjRiWRygA/XUipsa7MyVZwySMFkyEhy72XiXh6lu/00fSuVn\nWs/g+Nz2ce8rOP1fYzWRHxJJ3TcYMVb47bv5SboXta4zXmRZT6lKPE7rv+cRbyG4\nsuDT4k6GiMpHgknqXnOASVZemgKv8zqC5NckYgcxz3I=\n=phMV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object edfec42757af6dd15a333f363c4eb78e8c90ce00\ntype commit\ntag 0.16.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1560454196 +0000\n\novsdbapp 0.16.0 release\n\nmeta:version: 0.16.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Change-Id: I4f5d4bd34bc5f761693c771109581ffd96953d0d\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@verizonmedia.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

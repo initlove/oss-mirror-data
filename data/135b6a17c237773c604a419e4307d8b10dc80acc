@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzczMDgyOToxMzViNmExN2MyMzc3NzNjNjA0YTQxOWU0MzA3ZDhiMTBkYzgwYWNj",
+  "sha": "135b6a17c237773c604a419e4307d8b10dc80acc",
+  "url": "https://api.github.com/repos/psycopg/psycopg2/git/tags/135b6a17c237773c604a419e4307d8b10dc80acc",
+  "tagger": {
+    "name": "Daniele Varrazzo",
+    "email": "daniele.varrazzo@gmail.com",
+    "date": "2016-07-07T02:10:55Z"
+  },
+  "object": {
+    "sha": "1690fbace1bf498abd5a4c4f68bfaab609bc3587",
+    "type": "commit",
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/1690fbace1bf498abd5a4c4f68bfaab609bc3587"
+  },
+  "tag": "2_6_2",
+  "message": "Psycopg 2.6.2 released\n\n- Fixed inconsistent state in externally closed connections\n  (:tickets:`#263, #311, #443`).\n- Report the server response status on errors (such as :ticket:`#281`).\n- Raise `!NotSupportedError` on unhandled server response status\n  (:ticket:`#352`).\n- Allow overriding string adapter encoding with no connection (:ticket:`#331`).\n- The `~psycopg2.extras.wait_select` callback allows interrupting a\n  long-running query in an interactive shell using :kbd:`Ctrl-C`\n  (:ticket:`#333`).\n- Fixed `!PersistentConnectionPool` on Python 3 (:ticket:`#348`).\n- Fixed segfault on `repr()` of an unitialized connection (:ticket:`#361`).\n- Allow adapting bytes using `~psycopg2.extensions.QuotedString` on Python 3\n  (:ticket:`#365`).\n- Added support for setuptools/wheel (:ticket:`#370`).\n- Fix build on Windows with Python 3.5, VS 2015 (:ticket:`#380`).\n- Fixed `!errorcodes.lookup` initialization thread-safety (:ticket:`#382`).\n- Fixed `!read()` exception propagation in copy_from (:ticket:`#412`).\n- Fixed possible NULL TZ decref  (:ticket:`#424`).\n- `~psycopg2.errorcodes` map updated to PostgreSQL 9.5.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXfbpfAAoJEGATvTr8+VfeXoUIAI6FHiliPJmhGpnZtb5xOweV\nT/wV+Npt2/E2BmHPzVj/JrRGLjuo8rEYtuGzf3gRz/Jc0ObbkyaqUdmpJ05Bqfa5\n4r2czPDMCpC/IBfC78HuDHtPwbap5jIigrVXVy/+VYcA4SPKLtiGWdy00YxGKZxW\n2XFFtXQbYQO3OCHHpt65XPzQpoebVNEd0dBLUqX9NyM9sEFt9eEMzM9GP3HDRI8u\neZlzBm1Qoxuwz9CCKnhgae68cbBmxAbpWl6gk81WoaK/6nklStB7jY6zV6pg4NOG\nnENN6+Sc+9QflE/HdkAb1fA4dmUTG+ScIuQWgy8zHuH2jzPl0zsnkTsjtXjhiZg=\n=Ktn3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXfbpfAAoJEGATvTr8+VfeXoUIAI6FHiliPJmhGpnZtb5xOweV\nT/wV+Npt2/E2BmHPzVj/JrRGLjuo8rEYtuGzf3gRz/Jc0ObbkyaqUdmpJ05Bqfa5\n4r2czPDMCpC/IBfC78HuDHtPwbap5jIigrVXVy/+VYcA4SPKLtiGWdy00YxGKZxW\n2XFFtXQbYQO3OCHHpt65XPzQpoebVNEd0dBLUqX9NyM9sEFt9eEMzM9GP3HDRI8u\neZlzBm1Qoxuwz9CCKnhgae68cbBmxAbpWl6gk81WoaK/6nklStB7jY6zV6pg4NOG\nnENN6+Sc+9QflE/HdkAb1fA4dmUTG+ScIuQWgy8zHuH2jzPl0zsnkTsjtXjhiZg=\n=Ktn3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1690fbace1bf498abd5a4c4f68bfaab609bc3587\ntype commit\ntag 2_6_2\ntagger Daniele Varrazzo <daniele.varrazzo@gmail.com> 1467857455 +0100\n\nPsycopg 2.6.2 released\n\n- Fixed inconsistent state in externally closed connections\n  (:tickets:`#263, #311, #443`).\n- Report the server response status on errors (such as :ticket:`#281`).\n- Raise `!NotSupportedError` on unhandled server response status\n  (:ticket:`#352`).\n- Allow overriding string adapter encoding with no connection (:ticket:`#331`).\n- The `~psycopg2.extras.wait_select` callback allows interrupting a\n  long-running query in an interactive shell using :kbd:`Ctrl-C`\n  (:ticket:`#333`).\n- Fixed `!PersistentConnectionPool` on Python 3 (:ticket:`#348`).\n- Fixed segfault on `repr()` of an unitialized connection (:ticket:`#361`).\n- Allow adapting bytes using `~psycopg2.extensions.QuotedString` on Python 3\n  (:ticket:`#365`).\n- Added support for setuptools/wheel (:ticket:`#370`).\n- Fix build on Windows with Python 3.5, VS 2015 (:ticket:`#380`).\n- Fixed `!errorcodes.lookup` initialization thread-safety (:ticket:`#382`).\n- Fixed `!read()` exception propagation in copy_from (:ticket:`#412`).\n- Fixed possible NULL TZ decref  (:ticket:`#424`).\n- `~psycopg2.errorcodes` map updated to PostgreSQL 9.5.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6OTE3M2ExODhkZGZlYzhhYTYxYmYxZjM2ZWU2OGJlNWI2MjhlOWFjYQ==",
+  "sha": "9173a188ddfec8aa61bf1f36ee68be5b628e9aca",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/9173a188ddfec8aa61bf1f36ee68be5b628e9aca",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2017-08-07T22:34:22Z"
+  },
+  "object": {
+    "sha": "bc72231932710821cab866e81f0f3eefa276ef40",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/bc72231932710821cab866e81f0f3eefa276ef40"
+  },
+  "tag": "2.4.1",
+  "message": "Felix version 2.4.1\n\n- Update the import for logrus to use lowercasing\n- Switched log.Printf to log.Infof.\n- Update libcalico to v1.5.2\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

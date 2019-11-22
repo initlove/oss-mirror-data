@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6ZjE2ZDBmNjNmNjM2MmUyYTI2N2YzZWFkMDk2MDJhMmJmNmFmNDAzYQ==",
+  "sha": "f16d0f63f6362e2a267f3ead09602a2bf6af403a",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/f16d0f63f6362e2a267f3ead09602a2bf6af403a",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "davenport.cas@gmail.com",
+    "date": "2018-09-21T21:55:02Z"
+  },
+  "object": {
+    "sha": "76b186847fc7ca4b84d580c503cd599575a078da",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/76b186847fc7ca4b84d580c503cd599575a078da"
+  },
+  "tag": "v3.2.2",
+  "message": "- 2fd2cb976ce91bb98553a5e898f2f4a902a6d054 Stop pushing release images since no-one is consuming them.\n- 06328c74fb94a36edd8cff1c7c92cc05e19ececb Add support for multi-arch manifest, with default arch on quay.io\n- 69ca863321f9da1aeb102b46624699235b704c55 Makefile: Update release to include all arches\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

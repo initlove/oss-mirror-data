@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzczMDgyOTo4NGQxY2E4OThkYzYzZmIxMWNiNjhhM2Q1ODc1MTU4MjBlZDhiMjRk",
+  "sha": "84d1ca898dc63fb11cb68a3d587515820ed8b24d",
+  "url": "https://api.github.com/repos/psycopg/psycopg2/git/tags/84d1ca898dc63fb11cb68a3d587515820ed8b24d",
+  "tagger": {
+    "name": "Federico Di Gregorio",
+    "email": "fog@initd.org",
+    "date": "2011-05-11T07:59:19Z"
+  },
+  "object": {
+    "sha": "ab685c2fc0a04651041957af7419a1ecfeeb9e53",
+    "type": "commit",
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/ab685c2fc0a04651041957af7419a1ecfeeb9e53"
+  },
+  "tag": "2_4_1",
+  "message": "Release 2.4.1\n\n- Use own parser for bytea output, not requiring anymore the libpq 9.0\n  to parse the hex format.\n- Don't fail connection if the client encoding is a non-normalized\n  variant. Issue reported by Peter Eisentraut.\n- Correctly detect an empty query sent to the backend (ticket #46).\n- Fixed a SystemError clobbering libpq errors raised without SQLSTATE.\n  Bug vivisectioned by Eric Snow.\n- Fixed interaction between NamedTuple and server-side cursors.\n- Allow to specify --static-libpq on setup.py command line instead of\n  just in 'setup.cfg'. Patch provided by Matthew Ryan (ticket #48).\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niEYEABECAAYFAk3KQe8ACgkQvcCgrgZGjeu0yACeNCI3edKY0sk8je0Z331Jad9A\n/cwAoJmzZ1zNh3hT0RF//7OX361VVOWQ\n=yXKI\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niEYEABECAAYFAk3KQe8ACgkQvcCgrgZGjeu0yACeNCI3edKY0sk8je0Z331Jad9A\n/cwAoJmzZ1zNh3hT0RF//7OX361VVOWQ\n=yXKI\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ab685c2fc0a04651041957af7419a1ecfeeb9e53\ntype commit\ntag 2_4_1\ntagger Federico Di Gregorio <fog@initd.org> 1305100759 +0200\n\nRelease 2.4.1\n\n- Use own parser for bytea output, not requiring anymore the libpq 9.0\n  to parse the hex format.\n- Don't fail connection if the client encoding is a non-normalized\n  variant. Issue reported by Peter Eisentraut.\n- Correctly detect an empty query sent to the backend (ticket #46).\n- Fixed a SystemError clobbering libpq errors raised without SQLSTATE.\n  Bug vivisectioned by Eric Snow.\n- Fixed interaction between NamedTuple and server-side cursors.\n- Allow to specify --static-libpq on setup.py command line instead of\n  just in 'setup.cfg'. Patch provided by Matthew Ryan (ticket #48).\n"
+  }
+}

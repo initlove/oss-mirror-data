@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQwNjU2OjM1MWRhYmMyMDY1NTgwZWZjYWVkMjAwNmYzZGY1NmYwZjg1OTYzNTc=",
+  "sha": "351dabc2065580efcaed2006f3df56f0f8596357",
+  "url": "https://api.github.com/repos/jonas/tig/git/tags/351dabc2065580efcaed2006f3df56f0f8596357",
+  "tagger": {
+    "name": "Jonas Fonseca",
+    "email": "fonseca@diku.dk",
+    "date": "2012-01-02T16:05:28Z"
+  },
+  "object": {
+    "sha": "cc3ca7c749f943f00a3011f923df4d663a068ebf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/jonas/tig/git/commits/cc3ca7c749f943f00a3011f923df4d663a068ebf"
+  },
+  "tag": "Master_repository_has_moved_to_github",
+  "message": "The master repository has been moved to git://github.com/jonas/tig.git.\nPlease update your .git/config or run:\n\n  $ git remote set-url origin git://github.com/jonas/tig.git\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niEYEABECAAYFAk8B1d8ACgkQJfQykjqsXHfwXwCfdY40+y+ELmNY64f8q9712g48\n5CoAnjXvfvmKFHknzuCKEowXc2KxVLLa\n=VJ41\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niEYEABECAAYFAk8B1d8ACgkQJfQykjqsXHfwXwCfdY40+y+ELmNY64f8q9712g48\n5CoAnjXvfvmKFHknzuCKEowXc2KxVLLa\n=VJ41\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cc3ca7c749f943f00a3011f923df4d663a068ebf\ntype commit\ntag Master_repository_has_moved_to_github\ntagger Jonas Fonseca <fonseca@diku.dk> 1325520328 -0500\n\nThe master repository has been moved to git://github.com/jonas/tig.git.\nPlease update your .git/config or run:\n\n  $ git remote set-url origin git://github.com/jonas/tig.git\n"
+  }
+}

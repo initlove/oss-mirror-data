@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzk5MDkyOTg6MjhjZWY1MTY4ZGRjNjM5YmZhMDU0ZmM4YmRhYjZlNjIyMGZkNTU4NA==",
+  "sha": "28cef5168ddc639bfa054fc8bdab6e6220fd5584",
+  "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/tags/28cef5168ddc639bfa054fc8bdab6e6220fd5584",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "davenport.cas@gmail.com",
+    "date": "2018-09-21T20:51:41Z"
+  },
+  "object": {
+    "sha": "22a72b56e7e1789e14575271cbb0c80e6bfa4bcb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/commits/22a72b56e7e1789e14575271cbb0c80e6bfa4bcb"
+  },
+  "tag": "v3.2.2",
+  "message": "- 6859f8c822aa527c975433be358f6d5850999542 Fixup GCR names\n- f7f07595634a1674983da09813bd2c54fd5656db Makefile: Update release to include all arches\n- 6297af6a68e9a73d74e32a0e2e9bf23908c07152 Build all arches during release\n- a41817bf8c8d1d34c0ce7fc70772e01256886d01 Add support for multi-arch manifest, with default arch on quay.io\n- 14c43052839138ea9d4b5f51121cba6148c89c92 Fix version regex to cover 'release-vX.Y' as well as SHA-1s\n- b86cd9fba75ba261cd4d111a8edd3b93832c7129 Timeout specific hanging call\n- 31b892a0e26ff2417ceca349decb4f23fc202ef4 Fix up manual test script\n- 7436e42d3e6acbbb7bff57ff20e00419d99eeb39 Code review markups\n- 1b85289b5f8629c18bafffb921d31ab22b538532 Add option to program default routes\n- 90d00a0efdad21097ae17c8aaf5ac1452744e640 Include created interface in CNI result\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

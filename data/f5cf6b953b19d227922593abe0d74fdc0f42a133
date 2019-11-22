@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODQwNjA3MzY6ZjVjZjZiOTUzYjE5ZDIyNzkyMjU5M2FiZTBkNzRmZGMwZjQyYTEzMw==",
+  "sha": "f5cf6b953b19d227922593abe0d74fdc0f42a133",
+  "url": "https://api.github.com/repos/openstack/ovsdbapp/git/tags/f5cf6b953b19d227922593abe0d74fdc0f42a133",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-05-16T15:46:19Z"
+  },
+  "object": {
+    "sha": "fd64d41ea6f208a5752fbcd45952a04633ee1392",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ovsdbapp/git/commits/fd64d41ea6f208a5752fbcd45952a04633ee1392"
+  },
+  "tag": "0.10.1",
+  "message": "ovsdbapp 0.10.1 release\n\nmeta:version: 0.10.1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Miguel Angel Ajo Pelayo <majopela@redhat.com>\nmeta:release:Commit: Miguel Angel Ajo <mangelajo@redhat.com>\nmeta:release:Change-Id: I927e9f8581c014986921872b11bf2787cf2e28bf\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa/FJLAAoJEMNs3LTfAMaMg4wH/RYc8ngWC2k1hcpwx+7ccXPw\nbIwBGMPTdwTxinHqSiEderosCzJQfWTn+N3QJgWebjOWDjhmCPd8U3dO+NxVdvWU\nJVjBVZUWELI5+G0Viv3MWXgpgqJV724UV2afb9wCb+9tPtxEediQw9c5SdG/op0B\nUhk+eHdMhEsI7HFYk/FGPuEXjQUHvY0McIvXd2+MzastfuZ/WtoNwYtYNCFL5XK/\n/OOy8hxQ2Uc9SnC9WP/gvbn5/hU/5MQrqYtNXaQwh72wsOijPH+hxq2yUTIAand7\nAugwy/zA5nvqepdvLMVBzyW6w2JQmnx/3evPmFigzTBJoprwE4f4Q5cJHpR/cOk=\n=zIig\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa/FJLAAoJEMNs3LTfAMaMg4wH/RYc8ngWC2k1hcpwx+7ccXPw\nbIwBGMPTdwTxinHqSiEderosCzJQfWTn+N3QJgWebjOWDjhmCPd8U3dO+NxVdvWU\nJVjBVZUWELI5+G0Viv3MWXgpgqJV724UV2afb9wCb+9tPtxEediQw9c5SdG/op0B\nUhk+eHdMhEsI7HFYk/FGPuEXjQUHvY0McIvXd2+MzastfuZ/WtoNwYtYNCFL5XK/\n/OOy8hxQ2Uc9SnC9WP/gvbn5/hU/5MQrqYtNXaQwh72wsOijPH+hxq2yUTIAand7\nAugwy/zA5nvqepdvLMVBzyW6w2JQmnx/3evPmFigzTBJoprwE4f4Q5cJHpR/cOk=\n=zIig\n-----END PGP SIGNATURE-----\n",
+    "payload": "object fd64d41ea6f208a5752fbcd45952a04633ee1392\ntype commit\ntag 0.10.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1526485579 +0000\n\novsdbapp 0.10.1 release\n\nmeta:version: 0.10.1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Miguel Angel Ajo Pelayo <majopela@redhat.com>\nmeta:release:Commit: Miguel Angel Ajo <mangelajo@redhat.com>\nmeta:release:Change-Id: I927e9f8581c014986921872b11bf2787cf2e28bf\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

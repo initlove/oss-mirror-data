@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6NjFlZGFkY2UzYzUxNzUwNmNiMjc2NWQwZjczZTM5MWIxMzhhNGYyZA==",
+  "sha": "61edadce3c517506cb2765d0f73e391b138a4f2d",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/61edadce3c517506cb2765d0f73e391b138a4f2d",
+  "tagger": {
+    "name": "Leon Romanovsky",
+    "email": "leon@kernel.org",
+    "date": "2017-03-16T08:55:10Z"
+  },
+  "object": {
+    "sha": "2c696047cbacbaaa8a4c0871c678c26dbb1e6f92",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/2c696047cbacbaaa8a4c0871c678c26dbb1e6f92"
+  },
+  "tag": "v13-rc4",
+  "message": "rdma-core-13-rc4\n\nUpdates from version 12:\n\n- Minor improvements to qedr provider\n- Add libpvrdma provider for VMWare rdma virt devices\n- Improved RoCE AH creation\n- Packet Pacing support\n- Various github build system improvements\n- Updates to Debian and Red Hat packaging\n- Timestamp support in mlx4 provider\n- Make the libibverbs/provider interface private\n- Clean up headers for improved multi-arch support\n- Add Verbs Direct support for mlx5 provider\n- Implement new, more specific multi-arch barrier methods\n- Update all providers to the modern registration method and remove\n  ibv_register_driver entirely\n- Switch the code to use gcc endian conversion functions\n- Fix an endianness issue in srp_daemon\n- Implement a new release mechanism that should create more distro\n  friendly tarballs based on the common release tagging format\n- Updates to make it possible to run sparse on rdma-core\n- Fixes found by running sparse on rdma-core\n- Fixes to travis tarball upload script\n- Fix to broken cmake test\n-----BEGIN PGP SIGNATURE-----\n\niQJEBAABCAAuFiEEkhr/r4Op1/04yqaB5GN7iDZyWKcFAljKUvYQHGxlb25Aa2Vy\nbmVsLm9yZwAKCRDkY3uINnJYp1kCEACV2WQ++SBBZgkimsFFdf+rhbsnZZXgoV9G\n+iQfgsdZ2VwOPnXAlkGu4OOwi2JgRkYlnPxFc4A5LjFOCxJDs4WLDEJgFxIDLwyM\n2z9qHgu+d03IaTDNHC7ijbOZ4z/KhmRg1W/YyLBSD7MGBBDdo/ZB8tB0oriufhJ+\npwh8J9xxCKYlwrG+P5YveJObGQI7o1jpc+T2AalrJwR4a420WDzypi7/YameBNYk\nsOI67X7aknAevNB+FbTPqGq5f//0J4QY6nkhfKQ0Yj0x4b3JB3fInxSgl18qLTHl\nYcyOvcDhUqp+8WFpbvo7/aaXVwfZQXeirReadz0oGllbtaH3G7fIrX2mbr6uWK/h\nlH6DqM34ZEFOjo8FPj3wotnxh8W7T4DoyqkzKHk0fI23juEZrTvI/Tr3FyodHAAz\nZErgupoqY6bO5Dex9+hDWLYZTxBya0+pwWeYys0nDxjwa45CJhbhCIp3KDNkniFS\n/sS0O0Kt86rvQC1KUtlbY5/069iprKB4SDih+4RxrLrnyiK5EdtguTzClul+BaLs\ndKVplxakQ7uzMrJ62W9J86xzFVfMGbpztvpm/4SVt5SmIYTfHBzR45ryVxJDNBdr\nCigQIpTPb8Teh7iNRAvehnlTuQNzKSFOmtvx2dKHUtZ2ETX/vXkB1yYAggs5yZ/d\nqdHEVkUeKA==\n=9wry\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQJEBAABCAAuFiEEkhr/r4Op1/04yqaB5GN7iDZyWKcFAljKUvYQHGxlb25Aa2Vy\nbmVsLm9yZwAKCRDkY3uINnJYp1kCEACV2WQ++SBBZgkimsFFdf+rhbsnZZXgoV9G\n+iQfgsdZ2VwOPnXAlkGu4OOwi2JgRkYlnPxFc4A5LjFOCxJDs4WLDEJgFxIDLwyM\n2z9qHgu+d03IaTDNHC7ijbOZ4z/KhmRg1W/YyLBSD7MGBBDdo/ZB8tB0oriufhJ+\npwh8J9xxCKYlwrG+P5YveJObGQI7o1jpc+T2AalrJwR4a420WDzypi7/YameBNYk\nsOI67X7aknAevNB+FbTPqGq5f//0J4QY6nkhfKQ0Yj0x4b3JB3fInxSgl18qLTHl\nYcyOvcDhUqp+8WFpbvo7/aaXVwfZQXeirReadz0oGllbtaH3G7fIrX2mbr6uWK/h\nlH6DqM34ZEFOjo8FPj3wotnxh8W7T4DoyqkzKHk0fI23juEZrTvI/Tr3FyodHAAz\nZErgupoqY6bO5Dex9+hDWLYZTxBya0+pwWeYys0nDxjwa45CJhbhCIp3KDNkniFS\n/sS0O0Kt86rvQC1KUtlbY5/069iprKB4SDih+4RxrLrnyiK5EdtguTzClul+BaLs\ndKVplxakQ7uzMrJ62W9J86xzFVfMGbpztvpm/4SVt5SmIYTfHBzR45ryVxJDNBdr\nCigQIpTPb8Teh7iNRAvehnlTuQNzKSFOmtvx2dKHUtZ2ETX/vXkB1yYAggs5yZ/d\nqdHEVkUeKA==\n=9wry\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2c696047cbacbaaa8a4c0871c678c26dbb1e6f92\ntype commit\ntag v13-rc4\ntagger Leon Romanovsky <leon@kernel.org> 1489654510 +0200\n\nrdma-core-13-rc4\n\nUpdates from version 12:\n\n- Minor improvements to qedr provider\n- Add libpvrdma provider for VMWare rdma virt devices\n- Improved RoCE AH creation\n- Packet Pacing support\n- Various github build system improvements\n- Updates to Debian and Red Hat packaging\n- Timestamp support in mlx4 provider\n- Make the libibverbs/provider interface private\n- Clean up headers for improved multi-arch support\n- Add Verbs Direct support for mlx5 provider\n- Implement new, more specific multi-arch barrier methods\n- Update all providers to the modern registration method and remove\n  ibv_register_driver entirely\n- Switch the code to use gcc endian conversion functions\n- Fix an endianness issue in srp_daemon\n- Implement a new release mechanism that should create more distro\n  friendly tarballs based on the common release tagging format\n- Updates to make it possible to run sparse on rdma-core\n- Fixes found by running sparse on rdma-core\n- Fixes to travis tarball upload script\n- Fix to broken cmake test\n"
+  }
+}

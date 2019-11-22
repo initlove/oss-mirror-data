@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6ZjA4MDk4ZDRlMzc2ZjYzNTFjMDFlY2E0OTFhYzY3OTM5NzcxNDE0Mw==",
+  "sha": "f08098d4e376f6351c01eca491ac679397714143",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/f08098d4e376f6351c01eca491ac679397714143",
+  "tagger": {
+    "name": "Neil Jerram",
+    "email": "neil@tigera.io",
+    "date": "2017-07-24T20:07:07Z"
+  },
+  "object": {
+    "sha": "9092045143cde9e27dc75d9547117f8abe29df9c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/9092045143cde9e27dc75d9547117f8abe29df9c"
+  },
+  "tag": "2.4.0-rc1",
+  "message": "Felix version 2.4.0-rc1\n\n- Skip recalculation of selector matches if selector hasn't changed (#1482).\n- Use updated Typha client API (#1484).\n- Improve testing and test coverage (#1486, #1494, #1496, #1497).\n- Make test suites produce junit reports (#1488).\n- Allow selection of policy allow action (#1492).\n- Implement liveness and readiness endpoints for Felix (#1489).\n- Improve Calico version reporting (#1499).\n- Streamline conntrack state deletions (#1500, #1498).\n- Add release note to PR template (#1502).\n- Add support for multiple CIDRs in a match rule (#1483, #1505).\n- Support using a lock to coordinate iptables programming with other\n  software (#1491, #1504).\n- Move logutils functionality to libcalico-go (#1503).\n- Add pre-DNAT policy support (#1506).\n- Update glide pin for logrus (#1509).\n- Allow for time fuzziness in route table UT (#1510).\n- Update to Typha v0.3.0 (#1512).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

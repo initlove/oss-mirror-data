@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTI3ODQxMzk6NDFkN2I3M2Y1NWY4OTU2MzNlNTU4YmExMjlhNTY2YjdkZDZkMWQ2ZA==",
+  "sha": "41d7b73f55f895633e558ba129a566b7dd6d1d6d",
+  "url": "https://api.github.com/repos/openstack/python-karborclient/git/tags/41d7b73f55f895633e558ba129a566b7dd6d1d6d",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-01-11T18:07:50Z"
+  },
+  "object": {
+    "sha": "3216f64d14167c0330e9b96606f19d113007e303",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-karborclient/git/commits/3216f64d14167c0330e9b96606f19d113007e303"
+  },
+  "tag": "1.2.0",
+  "message": "python-karborclient 1.2.0 release\n\nmeta:version: 1.2.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Jiao Pengju <jiaopengju@cmss.chinamobile.com>\nmeta:release:Commit: Jiao Pengju <jiaopengju@cmss.chinamobile.com>\nmeta:release:Change-Id: I1011d85f36729603cdd1f9887211a2d70eee64d6\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcONt2AAoJEBpUEUgFTp44SuQL/jZc0LmiTSb1QlNAcdaZKRw9\nXx+PQChiuRAQGLwpuuM1V1P3ZUTSFg46Hxwq73+P72LIgD8ZaJW7BdPlpWWH0yfT\nhkaA4KVHrtTP4UBz0zfT+qIVT3FuL2MDUl7lvgKZc/OGtNi7xy7Q5yhBWK2/kaKI\nij5/tNRDBvhgFX3JsB16Kgt1Ygu9IDbgUrzqiLoVNIxKNTQb+qG2DPzZMLKzqjIk\n7TYKQYYGqx0xCNIPwr3IM92bT8S1VXXOmtAOlS2f8UkIZ4bzSa0xeM1Plr3Vo+le\nq9evsbdle9Sz96cY8yep5NMSsZRJFHdKGia2nBAn14qPjLHqKcQ201CIknI8sttZ\n10vO/WSD/wE41iALoax0gSB8tFDG5Y1NU/j9ftGvkg2so5+26phlI9MlfIxhTQpw\nCh3giPOaQQ+7PUIsN1JUJ57JZWX/RJqzh742P9agR1k5IbxLO8Th7JW1zC6RtFUN\n5y/s7BNs91H9CSh0A19iTZHmb+nXlk8H6Sby2tDDMA==\n=M7Yi\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcONt2AAoJEBpUEUgFTp44SuQL/jZc0LmiTSb1QlNAcdaZKRw9\nXx+PQChiuRAQGLwpuuM1V1P3ZUTSFg46Hxwq73+P72LIgD8ZaJW7BdPlpWWH0yfT\nhkaA4KVHrtTP4UBz0zfT+qIVT3FuL2MDUl7lvgKZc/OGtNi7xy7Q5yhBWK2/kaKI\nij5/tNRDBvhgFX3JsB16Kgt1Ygu9IDbgUrzqiLoVNIxKNTQb+qG2DPzZMLKzqjIk\n7TYKQYYGqx0xCNIPwr3IM92bT8S1VXXOmtAOlS2f8UkIZ4bzSa0xeM1Plr3Vo+le\nq9evsbdle9Sz96cY8yep5NMSsZRJFHdKGia2nBAn14qPjLHqKcQ201CIknI8sttZ\n10vO/WSD/wE41iALoax0gSB8tFDG5Y1NU/j9ftGvkg2so5+26phlI9MlfIxhTQpw\nCh3giPOaQQ+7PUIsN1JUJ57JZWX/RJqzh742P9agR1k5IbxLO8Th7JW1zC6RtFUN\n5y/s7BNs91H9CSh0A19iTZHmb+nXlk8H6Sby2tDDMA==\n=M7Yi\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3216f64d14167c0330e9b96606f19d113007e303\ntype commit\ntag 1.2.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1547230070 +0000\n\npython-karborclient 1.2.0 release\n\nmeta:version: 1.2.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Jiao Pengju <jiaopengju@cmss.chinamobile.com>\nmeta:release:Commit: Jiao Pengju <jiaopengju@cmss.chinamobile.com>\nmeta:release:Change-Id: I1011d85f36729603cdd1f9887211a2d70eee64d6\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

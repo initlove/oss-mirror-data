@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6Y2U2ZDY0Yjc2NTdlZTIzMzlhNTY4ZGQ5MjE1MGM4M2Y2ODAxOGQzMA==",
+  "sha": "ce6d64b7657ee2339a568dd92150c83f68018d30",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/ce6d64b7657ee2339a568dd92150c83f68018d30",
+  "tagger": {
+    "name": "Neil Jerram",
+    "email": "neil@tigera.io",
+    "date": "2016-11-30T18:36:40Z"
+  },
+  "object": {
+    "sha": "0d90955e91097fa0cbae9af0b477c264e8660b46",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/0d90955e91097fa0cbae9af0b477c264e8660b46"
+  },
+  "tag": "2.0.0-rc1",
+  "message": "- Improve early logging configuration (fixes #1156)\n  - Default to logging errors.\n  - Provide an override environment variable that allows early logging\n    to be turned off or increased. (FELIX_EARLYLOGSEVERITYSCREEN)\n- Allow access to floating IPs from the Calico host as well as from\n  further afield.\n- Fix that clusterType was being defaulted when clusterGUID was missing.\n- Incorporate latest libcalico-go improvements (v1.0.0-rc1)\n- Update for current logrus API (fixes #1162)\n- Improve release process for Felix\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6N2I4YWI5ZmVjZjgxODUzYjgyODE2MTFiYjI1NDE4NTU3ODkyODBjMQ==",
+  "sha": "7b8ab9fecf81853b8281611bb2541855789280c1",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/7b8ab9fecf81853b8281611bb2541855789280c1",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "davenport.cas@gmail.com",
+    "date": "2018-08-23T23:11:27Z"
+  },
+  "object": {
+    "sha": "a648f64414e34f76da351f52ad46938685ab33b8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/a648f64414e34f76da351f52ad46938685ab33b8"
+  },
+  "tag": "v3.2.1",
+  "message": "- a6afb709aba345c56dc4db64d719e889688a81e0 Debian/RPM packaging for Felix v3.2.0\n- 2c820bebb14f8c817d0ff261977b1759566d9b88 Remove glibc from amd64 image.\n- 2b248d3778aba3fb3fe1b41df0bdb43b9d79bc3d Fix our Go build cache to work with Go 1.10's new cache.\n- 4eba2768a582727c76eeecc0b5780c30713822b7 Clarify ifacemonitor_test logging\n- 62741b49e9335559f0b5392bf0f14d53bd303325 UT when resync spots that a link has been deleted\n- a538fc9484cf24a1562727b50ca649e131b75ea9 Clear caches when resync spots a link as having disappeared\n- 0c1ce452e8358cd16271dba18023267d7c6d0dca Code review markups\n- 0c7a912dd3911404afdcc6f3deac1d86e1833971 Fix ifacemonitor UT flake\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

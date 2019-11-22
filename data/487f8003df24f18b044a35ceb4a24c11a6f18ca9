@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6NDg3ZjgwMDNkZjI0ZjE4YjA0NGEzNWNlYjRhMjRjMTFhNmYxOGNhOQ==",
+  "sha": "487f8003df24f18b044a35ceb4a24c11a6f18ca9",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/487f8003df24f18b044a35ceb4a24c11a6f18ca9",
+  "tagger": {
+    "name": "Doug Ledford",
+    "email": "dledford@redhat.com",
+    "date": "2017-01-11T19:14:48Z"
+  },
+  "object": {
+    "sha": "8a77a3009fadc3183f4565f7bb6eaa96a384ed95",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/8a77a3009fadc3183f4565f7bb6eaa96a384ed95"
+  },
+  "tag": "rdma-core-12-rc4",
+  "message": "Updates:\n\n- More minor spec file fixups\n- Remove atexit() destructors\n- Don't copy uninitialized data to kernel commands\n- Add IN_PLACE flag to build for running build from build dir\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJYdoRZAAoJELgmozMOVy/dJToP/ifEaMxYXBr83zKhdeeHz6ua\nhQXiTnum3f6gML6SUlebB9ZMhL8LtR/sv9KngIS1G19pj+X+17ElcUFxhjgd07pk\nYw9OdDZOL1C1x2mFIfDwPM/tMDtIIZYwdFQwxK98K0+s5CAYh4T8MPWw3ItOQQOF\nOPGw9xtS6wJzzYC09O7l6mlc/RMdoIXI+NO+iUSdy8hoW6iYBRx4ww8YoSV3iXDl\nybTSUqCecy2I1/8Fp7xaTlOj/cowOQZyvGCZC7LAmvSPXNQT6D0+yuogKPdlUzFw\nO98Px5HMwlQWbI6faox0u4uTovqARvuVbfxJGtvC337WxuPq0kQGTZOV0bccXQS3\nz8MGR3RUHG0vA7CZ2ulG/x/VEwwJjzFMHR8Hkg+7Wn9XnHi9xp88sOFhz1WgfkkP\nh2R7xmDuhcC6jHk7WArPj1FX578+sHTwkgvw64N51nLkqcD/sAgkTiwyagHVLxb3\n/ERjevynzsBS20aMETJTKiS5Yw/YdKG7NISI7LuWeCHexmVCekLnzpSHnmYsqko+\nd4o96A31JRUM0CKDMUn8OZoy0Iby1E5I64TSJdepCLjtnBcX4yQGuZk4afkXFVAA\nVI2xvWGkLvpNs7a1k0YG7dX1WS7V6LlA0XHZhdwaOlCrAuJncYOGFnnDiwfss4YF\ncrvg91rORd9KeV5Xz13j\n=se8s\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJYdoRZAAoJELgmozMOVy/dJToP/ifEaMxYXBr83zKhdeeHz6ua\nhQXiTnum3f6gML6SUlebB9ZMhL8LtR/sv9KngIS1G19pj+X+17ElcUFxhjgd07pk\nYw9OdDZOL1C1x2mFIfDwPM/tMDtIIZYwdFQwxK98K0+s5CAYh4T8MPWw3ItOQQOF\nOPGw9xtS6wJzzYC09O7l6mlc/RMdoIXI+NO+iUSdy8hoW6iYBRx4ww8YoSV3iXDl\nybTSUqCecy2I1/8Fp7xaTlOj/cowOQZyvGCZC7LAmvSPXNQT6D0+yuogKPdlUzFw\nO98Px5HMwlQWbI6faox0u4uTovqARvuVbfxJGtvC337WxuPq0kQGTZOV0bccXQS3\nz8MGR3RUHG0vA7CZ2ulG/x/VEwwJjzFMHR8Hkg+7Wn9XnHi9xp88sOFhz1WgfkkP\nh2R7xmDuhcC6jHk7WArPj1FX578+sHTwkgvw64N51nLkqcD/sAgkTiwyagHVLxb3\n/ERjevynzsBS20aMETJTKiS5Yw/YdKG7NISI7LuWeCHexmVCekLnzpSHnmYsqko+\nd4o96A31JRUM0CKDMUn8OZoy0Iby1E5I64TSJdepCLjtnBcX4yQGuZk4afkXFVAA\nVI2xvWGkLvpNs7a1k0YG7dX1WS7V6LlA0XHZhdwaOlCrAuJncYOGFnnDiwfss4YF\ncrvg91rORd9KeV5Xz13j\n=se8s\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8a77a3009fadc3183f4565f7bb6eaa96a384ed95\ntype commit\ntag rdma-core-12-rc4\ntagger Doug Ledford <dledford@redhat.com> 1484162088 -0500\n\nUpdates:\n\n- More minor spec file fixups\n- Remove atexit() destructors\n- Don't copy uninitialized data to kernel commands\n- Add IN_PLACE flag to build for running build from build dir\n"
+  }
+}

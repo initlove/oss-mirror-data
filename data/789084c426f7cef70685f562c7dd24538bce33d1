@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODY2NzU4NjQ6Nzg5MDg0YzQyNmY3Y2VmNzA2ODVmNTYyYzdkZDI0NTM4YmNlMzNkMQ==",
+  "sha": "789084c426f7cef70685f562c7dd24538bce33d1",
+  "url": "https://api.github.com/repos/openstack/osc-placement/git/tags/789084c426f7cef70685f562c7dd24538bce33d1",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-05T23:49:22Z"
+  },
+  "object": {
+    "sha": "8bbca01dbddb1eb374d708553ccaddb4f130116e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/osc-placement/git/commits/8bbca01dbddb1eb374d708553ccaddb4f130116e"
+  },
+  "tag": "1.7.0",
+  "message": "osc-placement 1.7.0 release\n\nmeta:version: 1.7.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: Ic0de7b7a05fefc930d507d150689dfe3cf07c598\nmeta:release:Code-Review+1: Chris Dent <cdent@anticdent.org>\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1xnwIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2COBC/49QH3ray9bxdJV+0vfZPN+\nfrwstz5PywZTiotO4wXmfy4l2eDHUshaL4BowadIm9dHwsXxXwT/+GDtvk5WTLXI\nzozcDM4417aWDUJXcqYA/0S78z4hDzJBgZUg991Qp772ilvGQV4C+rxlKS0pS40c\nrOp22Gu8Obo7h7qS5OSaY1qCk7J+DoBZgD+SxpM+vPLhHPoymTuO4ojZ9731oa5a\nm1auwhg5vPcAkUrtyZJVr/xTQEz4ZexC5AQqfoFRf/n2I9no38sIRMwiMlSdr3V8\ngqHIddfNWTX5NgwZeSvdTWjrCJ4WGxBSzB60G1Re8z+aVH3Za60pc1WI4RNW1PMx\n+R5vLY5ykTXotYAxtnbfF+YaAnDuWJnoJ/iIY7JAuspYgEmN4Bs8c3o7VUtCJGyH\nZnLGdavuVTPvmS07uyrGt+eetOTCahnc/Q3UccWW5yPDs3wNFDb5dIwnVCBD6QAO\nA5gM/DkQVLneCd6E3bqBWdWyCzWarYe7u1Jij4LKEH4=\n=FRyM\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1xnwIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2COBC/49QH3ray9bxdJV+0vfZPN+\nfrwstz5PywZTiotO4wXmfy4l2eDHUshaL4BowadIm9dHwsXxXwT/+GDtvk5WTLXI\nzozcDM4417aWDUJXcqYA/0S78z4hDzJBgZUg991Qp772ilvGQV4C+rxlKS0pS40c\nrOp22Gu8Obo7h7qS5OSaY1qCk7J+DoBZgD+SxpM+vPLhHPoymTuO4ojZ9731oa5a\nm1auwhg5vPcAkUrtyZJVr/xTQEz4ZexC5AQqfoFRf/n2I9no38sIRMwiMlSdr3V8\ngqHIddfNWTX5NgwZeSvdTWjrCJ4WGxBSzB60G1Re8z+aVH3Za60pc1WI4RNW1PMx\n+R5vLY5ykTXotYAxtnbfF+YaAnDuWJnoJ/iIY7JAuspYgEmN4Bs8c3o7VUtCJGyH\nZnLGdavuVTPvmS07uyrGt+eetOTCahnc/Q3UccWW5yPDs3wNFDb5dIwnVCBD6QAO\nA5gM/DkQVLneCd6E3bqBWdWyCzWarYe7u1Jij4LKEH4=\n=FRyM\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8bbca01dbddb1eb374d708553ccaddb4f130116e\ntype commit\ntag 1.7.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1567727362 +0000\n\nosc-placement 1.7.0 release\n\nmeta:version: 1.7.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: Ic0de7b7a05fefc930d507d150689dfe3cf07c598\nmeta:release:Code-Review+1: Chris Dent <cdent@anticdent.org>\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

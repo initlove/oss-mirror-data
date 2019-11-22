@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6Yjc4NjcwNjY3ZWU4MWMwMjJmOGFiNGQ5Zjg1NGE1YzVkYjhmODgwMA==",
+  "sha": "b78670667ee81c022f8ab4d9f854a5c5db8f8800",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/b78670667ee81c022f8ab4d9f854a5c5db8f8800",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "NMoreyChaisemartin@suse.com",
+    "date": "2018-03-13T14:27:51Z"
+  },
+  "object": {
+    "sha": "7641d50dbbad112b39c89a48266e49f94e423950",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/7641d50dbbad112b39c89a48266e49f94e423950"
+  },
+  "tag": "v15.4",
+  "message": "rdma-core-15.4:\n\nUpdates from version 15.3:\n * Backport fixes:\n   * cxgb4: add new device pci ids.\n   * mlx5: Fix referencing uninitialized var in create_qp error flow\n   * Ensure all public headers compile in C++ mode\n   * providers/i40iw: Skip CQEs for destroyed QP\n   * ibacm: Support FDR and EDR rates\n   * mlx5: Add missing include file in mlx5dv.h\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABAgAGBQJap9/yAAoJEIAb3bglmI9kj8sH/0/g/4pfJdKAjiZtGb6vkYru\nTRXDuONpEt1pa2re9FgcA431XUNcTKiogED28VpsiQIsju3U2+N1HgQk5sB9k/M7\n5G3aPI2BztXyWoSA6WA8LufL3vmJZ/GMm3mDugn7HlzfceVQ0JAjl67gkO8NsLla\nSzsSB6JEsr7o4Fw9iyFuq55dux5j0fj8xFHTlR0fkicdaPMUdcjG6pNUgQEGfqqc\n4DV9jUDUsfUVGHTaMXGguqg7RkNJtJaZr3U19j+SNOf4B4oUaaCWJNN0RR27V3uy\nxURVJD2xNow3145gCvy4Fx0l6LyAln0RarzngNNAv1MINERAaVQbulwcXCwMSIs=\n=/dnu\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABAgAGBQJap9/yAAoJEIAb3bglmI9kj8sH/0/g/4pfJdKAjiZtGb6vkYru\nTRXDuONpEt1pa2re9FgcA431XUNcTKiogED28VpsiQIsju3U2+N1HgQk5sB9k/M7\n5G3aPI2BztXyWoSA6WA8LufL3vmJZ/GMm3mDugn7HlzfceVQ0JAjl67gkO8NsLla\nSzsSB6JEsr7o4Fw9iyFuq55dux5j0fj8xFHTlR0fkicdaPMUdcjG6pNUgQEGfqqc\n4DV9jUDUsfUVGHTaMXGguqg7RkNJtJaZr3U19j+SNOf4B4oUaaCWJNN0RR27V3uy\nxURVJD2xNow3145gCvy4Fx0l6LyAln0RarzngNNAv1MINERAaVQbulwcXCwMSIs=\n=/dnu\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7641d50dbbad112b39c89a48266e49f94e423950\ntype commit\ntag v15.4\ntagger Nicolas Morey-Chaisemartin <NMoreyChaisemartin@suse.com> 1520951271 +0100\n\nrdma-core-15.4:\n\nUpdates from version 15.3:\n * Backport fixes:\n   * cxgb4: add new device pci ids.\n   * mlx5: Fix referencing uninitialized var in create_qp error flow\n   * Ensure all public headers compile in C++ mode\n   * providers/i40iw: Skip CQEs for destroyed QP\n   * ibacm: Support FDR and EDR rates\n   * mlx5: Add missing include file in mlx5dv.h\n"
+  }
+}

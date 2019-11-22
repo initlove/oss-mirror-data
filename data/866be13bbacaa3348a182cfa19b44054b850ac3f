@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6ODY2YmUxM2JiYWNhYTMzNDhhMTgyY2ZhMTliNDQwNTRiODUwYWMzZg==",
+  "sha": "866be13bbacaa3348a182cfa19b44054b850ac3f",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/866be13bbacaa3348a182cfa19b44054b850ac3f",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@tigera.io",
+    "date": "2017-03-16T13:53:21Z"
+  },
+  "object": {
+    "sha": "fb5b330c0d9ba138fab0db103cd12c85a83b3f44",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/fb5b330c0d9ba138fab0db103cd12c85a83b3f44"
+  },
+  "tag": "2.1.0-rc9",
+  "message": "Felix version 2.1.0-rc9\n\n- Rev libcalico-go to v1.1.3.  Fixes a cleanup bug in the Kubernetes datastore driver.\n  (https://github.com/projectcalico/libcalico-go/issues/368).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

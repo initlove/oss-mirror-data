@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzM2NjkzNDpjNjkzMmM2MzNhZjgyNTgyM2Q5MDQ5Y2FmY2EwZjBlZWJjMmUyMjYy",
+  "sha": "c6932c633af825823d9049cafca0f0eebc2e2262",
+  "url": "https://api.github.com/repos/dvarrazzo/py-setproctitle/git/tags/c6932c633af825823d9049cafca0f0eebc2e2262",
+  "tagger": {
+    "name": "Daniele Varrazzo",
+    "email": "daniele.varrazzo@gmail.com",
+    "date": "2016-05-11T16:35:11Z"
+  },
+  "object": {
+    "sha": "d6a43b14470d806984d03079164ba05cebb997d0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/dvarrazzo/py-setproctitle/git/commits/d6a43b14470d806984d03079164ba05cebb997d0"
+  },
+  "tag": "version-1.1.10",
+  "message": "version 1.1.10 released\n\n- Fixed building with certain ``prctl.h`` implementations (issue #44).\n- Use ``setuptools`` if available (issue #48).\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXM19NAAoJEGATvTr8+VfeaOkH/RoDQQ/6VNXoNzvfzLM3mzpH\nqf5ivu5PldCRxPygO0vynWBOrYVzSXQz+dxZilO4WO+WPYZaRuIg1iaao44EyI8Y\n6XHJRw7AhAw4kyEgm470GuDIeix32egX7Zli1+5cb6m/1VVo5D27o4MUPpqcXGGY\nGzExNUnY0tpKfYeKYcje0TL2pW4KaCPQ53Ea0WAMR/6LnrozhPto6FXIINPrPT1m\nR7PRrCgSA1GaY+SNvLUkBXobprZwJ8KGKZKZE981LQZTLdrm7GmJPLb8D7tEK8Ym\nWoo2QjJtiEadiN7ClXcv6u+1xMTBqDPlC6hLVDJM64FNLwW4lMlteZtl4qbM1b8=\n=p1Xe\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXM19NAAoJEGATvTr8+VfeaOkH/RoDQQ/6VNXoNzvfzLM3mzpH\nqf5ivu5PldCRxPygO0vynWBOrYVzSXQz+dxZilO4WO+WPYZaRuIg1iaao44EyI8Y\n6XHJRw7AhAw4kyEgm470GuDIeix32egX7Zli1+5cb6m/1VVo5D27o4MUPpqcXGGY\nGzExNUnY0tpKfYeKYcje0TL2pW4KaCPQ53Ea0WAMR/6LnrozhPto6FXIINPrPT1m\nR7PRrCgSA1GaY+SNvLUkBXobprZwJ8KGKZKZE981LQZTLdrm7GmJPLb8D7tEK8Ym\nWoo2QjJtiEadiN7ClXcv6u+1xMTBqDPlC6hLVDJM64FNLwW4lMlteZtl4qbM1b8=\n=p1Xe\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d6a43b14470d806984d03079164ba05cebb997d0\ntype commit\ntag version-1.1.10\ntagger Daniele Varrazzo <daniele.varrazzo@gmail.com> 1462984511 +0100\n\nversion 1.1.10 released\n\n- Fixed building with certain ``prctl.h`` implementations (issue #44).\n- Use ``setuptools`` if available (issue #48).\n"
+  }
+}

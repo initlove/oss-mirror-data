@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6NWI0ZDllNDFkNDRmZGRiOTA3ZmRiNjRkMTIwNThkMjliZDBiNWZmZg==",
+  "sha": "5b4d9e41d44fddb907fdb64d12058d29bd0b5fff",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/5b4d9e41d44fddb907fdb64d12058d29bd0b5fff",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2017-07-28T00:08:25Z"
+  },
+  "object": {
+    "sha": "b7e630e22783b96c3769cbadf019f656762acc6a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/b7e630e22783b96c3769cbadf019f656762acc6a"
+  },
+  "tag": "2.4.0-rc2",
+  "message": "Felix version 2.4.0-rc2\n\n- Only report ready after first apply() completes.\n- Add a grace period before deleting routes.\n- Leave interfaces in the route cleanup grace period dirty, and add tests\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

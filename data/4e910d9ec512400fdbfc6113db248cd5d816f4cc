@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzA3OTQ4Njg6NGU5MTBkOWVjNTEyNDAwZmRiZmM2MTEzZGIyNDhjZDVkODE2ZjRjYw==",
+  "sha": "4e910d9ec512400fdbfc6113db248cd5d816f4cc",
+  "url": "https://api.github.com/repos/sampotts/plyr/git/tags/4e910d9ec512400fdbfc6113db248cd5d816f4cc",
+  "tagger": {
+    "name": "Sam Potts",
+    "email": "sam@potts.es",
+    "date": "2019-04-12T08:44:31Z"
+  },
+  "object": {
+    "sha": "2bd08cdc28bf55b7f7a169b02eb288d7b197b8d6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/sampotts/plyr/git/commits/2bd08cdc28bf55b7f7a169b02eb288d7b197b8d6"
+  },
+  "tag": "v3.5.3",
+  "message": "-   Improved the usage of the `ratio` config option; it now works as expected and for all video types. The default has not changed, it is to dynamically, where possible (except YouTube where 16:9 is used) determine the ratio from the media source so this is not a breaking change.\n-   Added new `ratio` getter and setter\n-   Fix: Properly clear all timeouts on destroy\n-   Fix: Allow absolute paths in preview thumbnails\n-   Improvement: Allow optional hours and ms in VTT parser in preview thumbnails\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

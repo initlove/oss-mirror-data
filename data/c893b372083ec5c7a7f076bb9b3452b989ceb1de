@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6Yzg5M2IzNzIwODNlYzVjN2E3ZjA3NmJiOWIzNDUyYjk4OWNlYjFkZQ==",
+  "sha": "c893b372083ec5c7a7f076bb9b3452b989ceb1de",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/c893b372083ec5c7a7f076bb9b3452b989ceb1de",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2019-02-06T07:16:58Z"
+  },
+  "object": {
+    "sha": "afddedaa79a8ef2cd32069a818b47e21ecb315ee",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/afddedaa79a8ef2cd32069a818b47e21ecb315ee"
+  },
+  "tag": "v15.7",
+  "message": "rdma-core-15.7:\n\nUpdates from version 15.6\n * Backport fixes:\n   * mlx5: Fix SL to Ethernet priority conversion\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlxaie0cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZECWB/0cIwXQQUrBN6QvmzM2\naqWeXH18gFDZR6/FOla684OmJ/pZ5AwjIhP8/vVldmaHyMBTXKMARCOFGatCpHNN\nQM+X32xFKjLCgQo/1v1b/gNd7evaWStMVtuhN4NzJunqP17P8GxKo2I04kb/CQfP\n2E3duVmELgEOQhl0xZAsqPNF7vtjiezFRiu4QNh3deWHXnHprsW9ywvRc5qES+y9\n3P5ldWlEuJ+XIsGhu95EsUQXdO68vOh41eGUtn+c/gpZ+RhKjoz0jf7AZiQR5gxh\nJ2JoaNFLfd9WoJ2TZG4dw01pEZEMNnwfcRBjUPuky3A4uS3jus34qj2dRH1Z6ikY\njCSQ\n=XqLh\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlxaie0cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZECWB/0cIwXQQUrBN6QvmzM2\naqWeXH18gFDZR6/FOla684OmJ/pZ5AwjIhP8/vVldmaHyMBTXKMARCOFGatCpHNN\nQM+X32xFKjLCgQo/1v1b/gNd7evaWStMVtuhN4NzJunqP17P8GxKo2I04kb/CQfP\n2E3duVmELgEOQhl0xZAsqPNF7vtjiezFRiu4QNh3deWHXnHprsW9ywvRc5qES+y9\n3P5ldWlEuJ+XIsGhu95EsUQXdO68vOh41eGUtn+c/gpZ+RhKjoz0jf7AZiQR5gxh\nJ2JoaNFLfd9WoJ2TZG4dw01pEZEMNnwfcRBjUPuky3A4uS3jus34qj2dRH1Z6ikY\njCSQ\n=XqLh\n-----END PGP SIGNATURE-----\n",
+    "payload": "object afddedaa79a8ef2cd32069a818b47e21ecb315ee\ntype commit\ntag v15.7\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1549437418 +0100\n\nrdma-core-15.7:\n\nUpdates from version 15.6\n * Backport fixes:\n   * mlx5: Fix SL to Ethernet priority conversion\n"
+  }
+}

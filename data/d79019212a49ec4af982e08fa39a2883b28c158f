@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzczMDgyOTpkNzkwMTkyMTJhNDllYzRhZjk4MmUwOGZhMzlhMjg4M2IyOGMxNThm",
+  "sha": "d79019212a49ec4af982e08fa39a2883b28c158f",
+  "url": "https://api.github.com/repos/psycopg/psycopg2/git/tags/d79019212a49ec4af982e08fa39a2883b28c158f",
+  "tagger": {
+    "name": "Daniele Varrazzo",
+    "email": "daniele.varrazzo@gmail.com",
+    "date": "2014-01-07T12:03:19Z"
+  },
+  "object": {
+    "sha": "4f1e4a03d1fe01d566f8c7eb830175e5fe0bccc7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/4f1e4a03d1fe01d566f8c7eb830175e5fe0bccc7"
+  },
+  "tag": "2_5_2",
+  "message": "Psycopg 2.5.2 released\n\n- Fixed segfault pickling the exception raised on connection error\n  ticket #170.\n- Meaningful connection errors report a meaningful message, thanks to\n  Alexey Borzenkov (ticket #173).\n- Manually creating 'lobject' with the wrong parameter doesn't segfault\n  (ticket #187).\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJSy+1rAAoJEGATvTr8+VfeFBoIAI3OMOFoHfkCQ33gJlx5cYEx\nDfwUYYbTm9CXYkku4KI+mZYWTuz8bodqhBeZPFLA/R5z5pd0OSEsLLvkydcpUcLX\nXBUvunKniqxUf7MIlV8HnGchifMl5tEZPpOyEMqii1GE0HZhP0Mga4CUOp91M6wc\n1HPcTeNM8Sfox2bmuANFgvS/p5ZKxOuRFXROTMhrobAb7wBLNzybV0ZEQisNekOK\neSZXwUa7TudhljQq4jr/E4xjbbJfqqVsZJTLwMyynCMcdHoPF5mfZhmu/w42A3D6\n8EGpqI+znk2tqOFpwJtSkDEhbOMPfEaXKQ1tJ5OPuGhaBPpr4ts+NPAhNb7YzjA=\n=Flpn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJSy+1rAAoJEGATvTr8+VfeFBoIAI3OMOFoHfkCQ33gJlx5cYEx\nDfwUYYbTm9CXYkku4KI+mZYWTuz8bodqhBeZPFLA/R5z5pd0OSEsLLvkydcpUcLX\nXBUvunKniqxUf7MIlV8HnGchifMl5tEZPpOyEMqii1GE0HZhP0Mga4CUOp91M6wc\n1HPcTeNM8Sfox2bmuANFgvS/p5ZKxOuRFXROTMhrobAb7wBLNzybV0ZEQisNekOK\neSZXwUa7TudhljQq4jr/E4xjbbJfqqVsZJTLwMyynCMcdHoPF5mfZhmu/w42A3D6\n8EGpqI+znk2tqOFpwJtSkDEhbOMPfEaXKQ1tJ5OPuGhaBPpr4ts+NPAhNb7YzjA=\n=Flpn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4f1e4a03d1fe01d566f8c7eb830175e5fe0bccc7\ntype commit\ntag 2_5_2\ntagger Daniele Varrazzo <daniele.varrazzo@gmail.com> 1389096199 +0000\n\nPsycopg 2.5.2 released\n\n- Fixed segfault pickling the exception raised on connection error\n  ticket #170.\n- Meaningful connection errors report a meaningful message, thanks to\n  Alexey Borzenkov (ticket #173).\n- Manually creating 'lobject' with the wrong parameter doesn't segfault\n  (ticket #187).\n"
+  }
+}

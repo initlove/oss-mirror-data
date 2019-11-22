@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTI3MTU5NDI6ODc5YTk3OGVlODRjM2FjMmY4YjI2NWIxNDIzN2FmZmRjNjA1ZjMwZg==",
+  "sha": "879a978ee84c3ac2f8b265b14237affdc605f30f",
+  "url": "https://api.github.com/repos/openstack/python-qinlingclient/git/tags/879a978ee84c3ac2f8b265b14237affdc605f30f",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-07-24T23:41:04Z"
+  },
+  "object": {
+    "sha": "01cde229deff04955720d82ee671d57c50b2b5f3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-qinlingclient/git/commits/01cde229deff04955720d82ee671d57c50b2b5f3"
+  },
+  "tag": "3.0.0",
+  "message": "python-qinlingclient 3.0.0 release\n\nmeta:version: 3.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Commit: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Change-Id: I373947d8de4004224b19c440c8de40d8f231307d\nmeta:release:Code-Review+1: Gaëtan Trellu <gaetan.trellu@incloudus.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl047JAZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OKNDADnSJxIL5kzY4s/ex0OvsS+\njX6jJzxrj+AsKi7D58dzdp3W8EA2eXqANYlCYmzQSqAopSKCIoWKAtPYi0SVGudx\nmjvSXAIn6kfHMYPSRmTK/vJ+mutG+stPU/FxiZRoeUH+H/UmIxatjVcky4/0pVc4\n4dHHdygcA3xaRKLupWJ0qWrRLi8/NgNyXRHvOCzUqoiruMxYxvsLSZVaMefwvN75\n7vCHLjOoUbJa272XLyhByy3LbXyy84WQ4kRXhFmQ1G7ZbL7HNWuAMiytqpyvDMGr\nDStEGNiW/dJfQCJJ2MggT4lPd8cEBTTB09K73VOoH9jvqXY/O40M7Ylvj1iUIj+e\ndpWrRLdfflCS+upbHIyK6813+q12c4Fe5zCkKnQGTZnklTNC5GZ4GIm5ew5eabtX\n82DR3kw4HcL04CDArqtX34Kx/sehjfSvO1Ia4YtukbWcJtcwtWo4xBiPAAEG9umj\n/m/WMiilj2gTUZRgtuRSGl1OcYej+7tfI4woV5LgxyU=\n=HAI4\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl047JAZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OKNDADnSJxIL5kzY4s/ex0OvsS+\njX6jJzxrj+AsKi7D58dzdp3W8EA2eXqANYlCYmzQSqAopSKCIoWKAtPYi0SVGudx\nmjvSXAIn6kfHMYPSRmTK/vJ+mutG+stPU/FxiZRoeUH+H/UmIxatjVcky4/0pVc4\n4dHHdygcA3xaRKLupWJ0qWrRLi8/NgNyXRHvOCzUqoiruMxYxvsLSZVaMefwvN75\n7vCHLjOoUbJa272XLyhByy3LbXyy84WQ4kRXhFmQ1G7ZbL7HNWuAMiytqpyvDMGr\nDStEGNiW/dJfQCJJ2MggT4lPd8cEBTTB09K73VOoH9jvqXY/O40M7Ylvj1iUIj+e\ndpWrRLdfflCS+upbHIyK6813+q12c4Fe5zCkKnQGTZnklTNC5GZ4GIm5ew5eabtX\n82DR3kw4HcL04CDArqtX34Kx/sehjfSvO1Ia4YtukbWcJtcwtWo4xBiPAAEG9umj\n/m/WMiilj2gTUZRgtuRSGl1OcYej+7tfI4woV5LgxyU=\n=HAI4\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 01cde229deff04955720d82ee671d57c50b2b5f3\ntype commit\ntag 3.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1564011664 +0000\n\npython-qinlingclient 3.0.0 release\n\nmeta:version: 3.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Commit: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Change-Id: I373947d8de4004224b19c440c8de40d8f231307d\nmeta:release:Code-Review+1: Gaëtan Trellu <gaetan.trellu@incloudus.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

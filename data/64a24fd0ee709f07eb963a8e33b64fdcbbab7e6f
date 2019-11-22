@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6NjRhMjRmZDBlZTcwOWYwN2ViOTYzYThlMzNiNjRmZGNiYmFiN2U2Zg==",
+  "sha": "64a24fd0ee709f07eb963a8e33b64fdcbbab7e6f",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/64a24fd0ee709f07eb963a8e33b64fdcbbab7e6f",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2019-05-03T06:06:36Z"
+  },
+  "object": {
+    "sha": "714cf1d6084e8fcabc0eb3fb62175251c0ca7f7f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/714cf1d6084e8fcabc0eb3fb62175251c0ca7f7f"
+  },
+  "tag": "v16.8",
+  "message": "rdma-core-16.8:\n\nUpdates from version 16.7\n * Backport fixes:\n   * mlx5: Fix masking service level in mlx5_create_ah\n   * cmake: Explicitly convert build type to be STRING\n   * libhns: Bugfix for filtering zero length sge\n   * buildlib: Ensure stanza is properly sorted\n   * mlx4: Allow loopback when using raw Ethernet QP\n   * travis: Change SuSE package target due to Travis CI failures\n   * cbuild: fix tumbleweed docker image\n   * libhns: Bugfix for using buffer length\n   * mlx5: Fix incorrect error handling when SQ wqe count is 0\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlzL2m4cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZL1xB/9xEJtqXS6lbl+D8jkA\n9nJCrTNAZPy+4EZ7i/u9uHlRWTifsHNu0PT0b+8ED6b3bYjREk3660/Y3LVhhr49\nAY2ZEdqUvBb0SyLNwJKzjmV+gIepQ1QMz2ku+M2px82YhC/5vEpy1n2jFGU8uVi1\noL2w1VisGsUorQuROlxph3/3FsCCEaxJqahpvfTCdq1RX7gR/co4u8vknNtD1mpo\nf+uXOImFViqMwmP/dRKqD6pmJmFBQc62lGpmLvqZB2UXpFf8i/iEpCkk1gcz7wR7\nM5hWPdx5+Gfwz8eiM0sKEGQhXDH/Yovw2glMRQz6SbVABhmBP//c1kCO27NwX28c\n3ciw\n=faJY\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlzL2m4cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZL1xB/9xEJtqXS6lbl+D8jkA\n9nJCrTNAZPy+4EZ7i/u9uHlRWTifsHNu0PT0b+8ED6b3bYjREk3660/Y3LVhhr49\nAY2ZEdqUvBb0SyLNwJKzjmV+gIepQ1QMz2ku+M2px82YhC/5vEpy1n2jFGU8uVi1\noL2w1VisGsUorQuROlxph3/3FsCCEaxJqahpvfTCdq1RX7gR/co4u8vknNtD1mpo\nf+uXOImFViqMwmP/dRKqD6pmJmFBQc62lGpmLvqZB2UXpFf8i/iEpCkk1gcz7wR7\nM5hWPdx5+Gfwz8eiM0sKEGQhXDH/Yovw2glMRQz6SbVABhmBP//c1kCO27NwX28c\n3ciw\n=faJY\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 714cf1d6084e8fcabc0eb3fb62175251c0ca7f7f\ntype commit\ntag v16.8\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1556863596 +0200\n\nrdma-core-16.8:\n\nUpdates from version 16.7\n * Backport fixes:\n   * mlx5: Fix masking service level in mlx5_create_ah\n   * cmake: Explicitly convert build type to be STRING\n   * libhns: Bugfix for filtering zero length sge\n   * buildlib: Ensure stanza is properly sorted\n   * mlx4: Allow loopback when using raw Ethernet QP\n   * travis: Change SuSE package target due to Travis CI failures\n   * cbuild: fix tumbleweed docker image\n   * libhns: Bugfix for using buffer length\n   * mlx5: Fix incorrect error handling when SQ wqe count is 0\n"
+  }
+}

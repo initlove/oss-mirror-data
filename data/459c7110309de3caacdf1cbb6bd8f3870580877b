@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6NDU5YzcxMTAzMDlkZTNjYWFjZGYxY2JiNmJkOGYzODcwNTgwODc3Yg==",
+  "sha": "459c7110309de3caacdf1cbb6bd8f3870580877b",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/459c7110309de3caacdf1cbb6bd8f3870580877b",
+  "tagger": {
+    "name": "Rob Brockbank",
+    "email": "rob@tigera.io",
+    "date": "2016-12-14T04:41:55Z"
+  },
+  "object": {
+    "sha": "f4ddd9b282f30c31cb207631defec7235d421c5f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/f4ddd9b282f30c31cb207631defec7235d421c5f"
+  },
+  "tag": "2.0.0-rc7",
+  "message": "Felix version 2.0.0-rc7\n\n- Have usage reporting thread drain stats channel even during startup delay.\n- Update to use libcalico-go 1.0.0-rc6 (includes more permissive label keys)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

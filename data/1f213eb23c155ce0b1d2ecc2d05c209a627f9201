@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzczMDgyOToxZjIxM2ViMjNjMTU1Y2UwYjFkMmVjYzJkMDVjMjA5YTYyN2Y5MjAx",
+  "sha": "1f213eb23c155ce0b1d2ecc2d05c209a627f9201",
+  "url": "https://api.github.com/repos/psycopg/psycopg2/git/tags/1f213eb23c155ce0b1d2ecc2d05c209a627f9201",
+  "tagger": {
+    "name": "Daniele Varrazzo",
+    "email": "daniele.varrazzo@gmail.com",
+    "date": "2017-07-22T11:27:16Z"
+  },
+  "object": {
+    "sha": "cfa0509d7e0616aded28ae6c9d679550b0bff16a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/cfa0509d7e0616aded28ae6c9d679550b0bff16a"
+  },
+  "tag": "2_7_2",
+  "message": "What's new in psycopg 2.7.2\n^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n- Fixed inconsistent state in externally closed connections\n  (:tickets:`#263, #311, #443`). Was fixed in 2.6.2 but not included in\n  2.7 by mistake.\n- Fixed Python exceptions propagation in green callback (:ticket:`#410`).\n- Don't display the password in `connection.dsn` when the connection\n  string is specified as an URI (:ticket:`#528`).\n- Return objects with timezone parsing \"infinity\" :sql:`timestamptz`\n  (:ticket:`#536`).\n- Dropped dependency on VC9 runtime on Windows binary packages\n  (:ticket:`#541`).\n- Fixed segfault in `~connection.lobject()` when *mode*\\=\\ `!None`\n  (:ticket:`#544`).\n- Fixed `~connection.lobject()` keyword argument *lobject_factory*\n  (:ticket:`#545`).\n- Fixed `~psycopg2.extras.ReplicationCursor.consume_stream()`\n  *keepalive_interval* argument (:ticket:`#547`).\n- Maybe fixed random import error on Python 3.6 in multiprocess\n  environment (:ticket:`#550`).\n- Fixed random `!SystemError` upon receiving abort signal (:ticket:`#551`).\n- Accept `~psycopg2.sql.Composable` objects in\n  `~psycopg2.extras.ReplicationCursor.start_replication_expert()`\n  (:ticket:`554`).\n- Parse intervals returned as microseconds from Redshift (:ticket:`#558`).\n- Added `~psycopg2.extras.Json` `!prepare()` method to consider connection\n  params when adapting (:ticket:`#562`).\n- `~psycopg2.errorcodes` map updated to PostgreSQL 10 beta 1.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZczaXAAoJEGATvTr8+VfeHs8H/1Fr8pNcVfnCIL/P1OSakPF6\nm1J8aF7b+o4kmLPhiICJ9lmjrgPqiOY33s3DHA9BI6Wr7m2qH6yqgZbDtGjfVQ6v\nJDS2UBx7S8SIBNQgEfeyPCFh2dXCtFPNwKmz6LVNj3+gXKAM5e6M0w//82AMaq8j\nN4l25RPT2I88aGHE9wc2xZQeqZCadZiFWcNyIOaKH6Ns8jBkkdalbO8AsWQaAKFd\nUNg6Zbog7yvrDUdjrhG/h8Rox9HLdjjj8yENW2kI9dUWnJIe8rCoQopUqzsAMSl7\nQNKyWKYk+V2ZTY30c9YUp40Ws8PpgzLotXzuH1PmeWhXZSJpfHb0+9zqf6chVhQ=\n=95dz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZczaXAAoJEGATvTr8+VfeHs8H/1Fr8pNcVfnCIL/P1OSakPF6\nm1J8aF7b+o4kmLPhiICJ9lmjrgPqiOY33s3DHA9BI6Wr7m2qH6yqgZbDtGjfVQ6v\nJDS2UBx7S8SIBNQgEfeyPCFh2dXCtFPNwKmz6LVNj3+gXKAM5e6M0w//82AMaq8j\nN4l25RPT2I88aGHE9wc2xZQeqZCadZiFWcNyIOaKH6Ns8jBkkdalbO8AsWQaAKFd\nUNg6Zbog7yvrDUdjrhG/h8Rox9HLdjjj8yENW2kI9dUWnJIe8rCoQopUqzsAMSl7\nQNKyWKYk+V2ZTY30c9YUp40Ws8PpgzLotXzuH1PmeWhXZSJpfHb0+9zqf6chVhQ=\n=95dz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cfa0509d7e0616aded28ae6c9d679550b0bff16a\ntype commit\ntag 2_7_2\ntagger Daniele Varrazzo <daniele.varrazzo@gmail.com> 1500722836 +0100\n\nWhat's new in psycopg 2.7.2\n^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n- Fixed inconsistent state in externally closed connections\n  (:tickets:`#263, #311, #443`). Was fixed in 2.6.2 but not included in\n  2.7 by mistake.\n- Fixed Python exceptions propagation in green callback (:ticket:`#410`).\n- Don't display the password in `connection.dsn` when the connection\n  string is specified as an URI (:ticket:`#528`).\n- Return objects with timezone parsing \"infinity\" :sql:`timestamptz`\n  (:ticket:`#536`).\n- Dropped dependency on VC9 runtime on Windows binary packages\n  (:ticket:`#541`).\n- Fixed segfault in `~connection.lobject()` when *mode*\\=\\ `!None`\n  (:ticket:`#544`).\n- Fixed `~connection.lobject()` keyword argument *lobject_factory*\n  (:ticket:`#545`).\n- Fixed `~psycopg2.extras.ReplicationCursor.consume_stream()`\n  *keepalive_interval* argument (:ticket:`#547`).\n- Maybe fixed random import error on Python 3.6 in multiprocess\n  environment (:ticket:`#550`).\n- Fixed random `!SystemError` upon receiving abort signal (:ticket:`#551`).\n- Accept `~psycopg2.sql.Composable` objects in\n  `~psycopg2.extras.ReplicationCursor.start_replication_expert()`\n  (:ticket:`554`).\n- Parse intervals returned as microseconds from Redshift (:ticket:`#558`).\n- Added `~psycopg2.extras.Json` `!prepare()` method to consider connection\n  params when adapting (:ticket:`#562`).\n- `~psycopg2.errorcodes` map updated to PostgreSQL 10 beta 1.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6MzllMjdmMjYxMDFiMzczZTI3ZDhlNjYxMTRjMzFiOTcyMTM3Y2Y5ZA==",
+  "sha": "39e27f26101b373e27d8e66114c31b972137cf9d",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/39e27f26101b373e27d8e66114c31b972137cf9d",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@tigera.io",
+    "date": "2017-02-17T15:53:27Z"
+  },
+  "object": {
+    "sha": "281f6554f80568793b5657f2fce4311c807c292a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/281f6554f80568793b5657f2fce4311c807c292a"
+  },
+  "tag": "2.1.0-rc5",
+  "message": "Felix version 2.1.0-rc5\n\n- Change chain name prefix from \"cali\" to \"cali-\" to avoid conflict with DHCP agent. (#1336)\n- Remove unused policy rendering code and simplify. (#1337)\n- Decouple stats collector from usage reporter (#1353).\n- Add log to indicate end of initial sync. (#1350)\n- Ignore removal of non-Calico chain. Fixes spammy warning logs. (#1352)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

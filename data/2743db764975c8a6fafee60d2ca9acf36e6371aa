@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6Mjc0M2RiNzY0OTc1YzhhNmZhZmVlNjBkMmNhOWFjZjM2ZTYzNzFhYQ==",
+  "sha": "2743db764975c8a6fafee60d2ca9acf36e6371aa",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/2743db764975c8a6fafee60d2ca9acf36e6371aa",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@tigera.io",
+    "date": "2017-03-01T17:29:58Z"
+  },
+  "object": {
+    "sha": "1975720524fc9447cec6f76492342e19aa2e14b9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/1975720524fc9447cec6f76492342e19aa2e14b9"
+  },
+  "tag": "2.1.0-rc6",
+  "message": "Felix version 2.1.0-rc6\n\n- Build the felix RPMS on EL6 as well (#1327)\n- Disable interfaces that are admin down. (#1354)\n- Throttle dataplane updates and opportunistically batch. (#1356)\n- Fix IP address parsing to use net.IP.To4() instead of len(). (#1358)\n- Rev calico/go-build container to v0.4 to pick up patch to runtime.\n- Implement bulk updates to ipsets. (Improves performance.)\n- Implement periodic resyncs of IP sets. (Works around #1347)\n- Add prometheus metrics for exec calls.\n- Rev libcalico-go to 1.1.1. (Includes minor fixes.)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

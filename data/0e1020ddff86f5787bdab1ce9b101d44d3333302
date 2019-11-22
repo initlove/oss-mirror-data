@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzczMDgyOTowZTEwMjBkZGZmODZmNTc4N2JkYWIxY2U5YjEwMWQ0NGQzMzMzMzAy",
+  "sha": "0e1020ddff86f5787bdab1ce9b101d44d3333302",
+  "url": "https://api.github.com/repos/psycopg/psycopg2/git/tags/0e1020ddff86f5787bdab1ce9b101d44d3333302",
+  "tagger": {
+    "name": "Daniele Varrazzo",
+    "email": "daniele.varrazzo@gmail.com",
+    "date": "2014-08-30T17:28:21Z"
+  },
+  "object": {
+    "sha": "00cafbe85bb82d85cbfe0f062a73c562433b5bc8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/00cafbe85bb82d85cbfe0f062a73c562433b5bc8"
+  },
+  "tag": "2_5_4",
+  "message": "Psycopg 2.5.4 released\n\n- Added :sql:`jsonb` support for PostgreSQL 9.4 (:ticket:`#226`).\n- Fixed segfault if COPY statements are passed to `~cursor.execute()` instead\n  of using the proper methods (:ticket:`#219`).\n- Force conversion of pool arguments to integer to avoid potentially unbounded\n  pools (:ticket:`#220`).\n- Cursors :sql:`WITH HOLD` don't begin a new transaction upon move/fetch/close\n  (:ticket:`#228`).\n- Cursors :sql:`WITH HOLD` can be used in autocommit (:ticket:`#229`).\n- `~cursor.callproc()` doesn't silently ignore an argument without a length.\n- Fixed memory leak with large objects (:ticket:`#256`).\n- Make sure the internal ``_psycopg.so`` module can be imported stand-alone (to\n  allow modules juggling such as the one described in :ticket:`#201`).\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJUAgnWAAoJEGATvTr8+VfeSvwH/jKCWF8RgKo53nafoJf9zHZr\n/lgZOOqOxFhuWaaXqW1A+QYStCedEXd2xDhKp8wM22oY48JeS7CD0hifzlBKxRW5\nn69mUozPx7XYczwVGI8yzGe5iiqBiQd9wsxsrAc7niO38xirEOhQmOqqfS04k/oV\nREyXF1NrCxY9ynCyehFXFqH+kS9/l2umMOe3EzZNsaY+d+1M80UXNHybpMyaaqc+\nkCz+c9exDoNd9fzJIxT1H4/m6qRih65OAU3lOcd5wC+1cTr0Sr6PY4lwKM6c61Ec\nYKE5qcdi76mLpoVzk4LV/Heh2fmf7qpPY5atLSf0Z28Uc1vTgdB2WSpo/C9OQNo=\n=Sabb\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJUAgnWAAoJEGATvTr8+VfeSvwH/jKCWF8RgKo53nafoJf9zHZr\n/lgZOOqOxFhuWaaXqW1A+QYStCedEXd2xDhKp8wM22oY48JeS7CD0hifzlBKxRW5\nn69mUozPx7XYczwVGI8yzGe5iiqBiQd9wsxsrAc7niO38xirEOhQmOqqfS04k/oV\nREyXF1NrCxY9ynCyehFXFqH+kS9/l2umMOe3EzZNsaY+d+1M80UXNHybpMyaaqc+\nkCz+c9exDoNd9fzJIxT1H4/m6qRih65OAU3lOcd5wC+1cTr0Sr6PY4lwKM6c61Ec\nYKE5qcdi76mLpoVzk4LV/Heh2fmf7qpPY5atLSf0Z28Uc1vTgdB2WSpo/C9OQNo=\n=Sabb\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 00cafbe85bb82d85cbfe0f062a73c562433b5bc8\ntype commit\ntag 2_5_4\ntagger Daniele Varrazzo <daniele.varrazzo@gmail.com> 1409419701 +0100\n\nPsycopg 2.5.4 released\n\n- Added :sql:`jsonb` support for PostgreSQL 9.4 (:ticket:`#226`).\n- Fixed segfault if COPY statements are passed to `~cursor.execute()` instead\n  of using the proper methods (:ticket:`#219`).\n- Force conversion of pool arguments to integer to avoid potentially unbounded\n  pools (:ticket:`#220`).\n- Cursors :sql:`WITH HOLD` don't begin a new transaction upon move/fetch/close\n  (:ticket:`#228`).\n- Cursors :sql:`WITH HOLD` can be used in autocommit (:ticket:`#229`).\n- `~cursor.callproc()` doesn't silently ignore an argument without a length.\n- Fixed memory leak with large objects (:ticket:`#256`).\n- Make sure the internal ``_psycopg.so`` module can be imported stand-alone (to\n  allow modules juggling such as the one described in :ticket:`#201`).\n"
+  }
+}

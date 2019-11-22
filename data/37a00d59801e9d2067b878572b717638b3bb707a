@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6MzdhMDBkNTk4MDFlOWQyMDY3Yjg3ODU3MmI3MTc2MzhiM2JiNzA3YQ==",
+  "sha": "37a00d59801e9d2067b878572b717638b3bb707a",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/37a00d59801e9d2067b878572b717638b3bb707a",
+  "tagger": {
+    "name": "Doug Ledford",
+    "email": "dledford@redhat.com",
+    "date": "2017-08-22T15:51:49Z"
+  },
+  "object": {
+    "sha": "49211a63fc61e02840a402fe85afd8843a148273",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/49211a63fc61e02840a402fe85afd8843a148273"
+  },
+  "tag": "v15-rc3",
+  "message": "rdma-core-v15-rc3\n\nUpdates from rdma-core version 14:\n\n- Add flow steering drop action\n- mmio_flush_write fixes\n- Fixes for uclibc\n- Add common mmio accessor routines and remove per provider mmio\n  routines\n- qedr fixes\n- Lots of fixes for debian packaging\n- Copyright fixes\n- Properly conflict with infiniband-diags\n- Add direct verbs support to mlx4 provider\n- Improvement to Travis CI checking\n- Enforce kernel coding style in rdma-core\n- Add initial verbs hotplug support\n- Sparse annotations\n- Systemd updates for srp_daemon and iwpmd\n- Red Hat packaging fixes\n- Properly make the entire rdma-core support udev hotplug activation\n- Packaging fixes related to the joining of packages and globs that are\n  no longer valid\n- Minor fixes to mlx5 and srq ping-pong\n- Fix for s390 mmio access\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJZnFNOAAoJELgmozMOVy/dFVAQAJT1XgGVoAl11G+uM+AVpU8s\nYWo7aZ7NaIPL+7pPjzm2IAWEcfk9haT6Gp0SNEULNwfAeikG4E6BnreZJrkzDnLt\no8tcqtyzBDInRyE5B4RkorJh35TO7aDqn7xvwTdV9VHuUILbcaTFcWhg0akayqs1\n66anYoFQhBaOPyYj91eZ/sNBBwjXU63Xrb1aHGpsWiAXsFV/1os6WiHHEQi2nqhS\nR/0pU3Hzx5rHPV+GcQt4HKX046WtWqBmMsVnTgHQglM2ZyaBX3WiGsBjP23B86L5\nJPaM5Obp2rYvledCZu3uh5cxLPl54Lgjt6PZFgieZWHgCg8pK1JoZzhmvrjw26B3\nZ/ZMbUEdAU7i08emODYOmCqwT+zaqs5AVPKR3HhTeGINrjHDxbGdEZX+gEcgRUde\nIDBheVGwT34YoXIw+ShJ2OR+1tXFBajMSnE1kdvVDbsuoeLi3+xhjgci0LHd6osh\nCUX7IGUEfsDeRMs/NOs34Nre3PfLLGucHhGBcuddgvHnb7HXmsLPV3RUe2lWoE0i\ntFuEq4dFWY+c10aVfaX4lRHE5mTs9pTYYhrGORWmUfyf3SzZZS1QRjljG+sLWwWW\n45jO/8KbaM4Xkh8bvmNYE0zQr7yjivODKoLgNXlJVFnoAx2LNMyiQMKtLgxeu9mY\njtVivRFcK28ELk+cIg4K\n=1GVN\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJZnFNOAAoJELgmozMOVy/dFVAQAJT1XgGVoAl11G+uM+AVpU8s\nYWo7aZ7NaIPL+7pPjzm2IAWEcfk9haT6Gp0SNEULNwfAeikG4E6BnreZJrkzDnLt\no8tcqtyzBDInRyE5B4RkorJh35TO7aDqn7xvwTdV9VHuUILbcaTFcWhg0akayqs1\n66anYoFQhBaOPyYj91eZ/sNBBwjXU63Xrb1aHGpsWiAXsFV/1os6WiHHEQi2nqhS\nR/0pU3Hzx5rHPV+GcQt4HKX046WtWqBmMsVnTgHQglM2ZyaBX3WiGsBjP23B86L5\nJPaM5Obp2rYvledCZu3uh5cxLPl54Lgjt6PZFgieZWHgCg8pK1JoZzhmvrjw26B3\nZ/ZMbUEdAU7i08emODYOmCqwT+zaqs5AVPKR3HhTeGINrjHDxbGdEZX+gEcgRUde\nIDBheVGwT34YoXIw+ShJ2OR+1tXFBajMSnE1kdvVDbsuoeLi3+xhjgci0LHd6osh\nCUX7IGUEfsDeRMs/NOs34Nre3PfLLGucHhGBcuddgvHnb7HXmsLPV3RUe2lWoE0i\ntFuEq4dFWY+c10aVfaX4lRHE5mTs9pTYYhrGORWmUfyf3SzZZS1QRjljG+sLWwWW\n45jO/8KbaM4Xkh8bvmNYE0zQr7yjivODKoLgNXlJVFnoAx2LNMyiQMKtLgxeu9mY\njtVivRFcK28ELk+cIg4K\n=1GVN\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 49211a63fc61e02840a402fe85afd8843a148273\ntype commit\ntag v15-rc3\ntagger Doug Ledford <dledford@redhat.com> 1503417109 -0400\n\nrdma-core-v15-rc3\n\nUpdates from rdma-core version 14:\n\n- Add flow steering drop action\n- mmio_flush_write fixes\n- Fixes for uclibc\n- Add common mmio accessor routines and remove per provider mmio\n  routines\n- qedr fixes\n- Lots of fixes for debian packaging\n- Copyright fixes\n- Properly conflict with infiniband-diags\n- Add direct verbs support to mlx4 provider\n- Improvement to Travis CI checking\n- Enforce kernel coding style in rdma-core\n- Add initial verbs hotplug support\n- Sparse annotations\n- Systemd updates for srp_daemon and iwpmd\n- Red Hat packaging fixes\n- Properly make the entire rdma-core support udev hotplug activation\n- Packaging fixes related to the joining of packages and globs that are\n  no longer valid\n- Minor fixes to mlx5 and srq ping-pong\n- Fix for s390 mmio access\n"
+  }
+}

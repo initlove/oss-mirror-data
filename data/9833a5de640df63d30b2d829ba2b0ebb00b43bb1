@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6OTgzM2E1ZGU2NDBkZjYzZDMwYjJkODI5YmEyYjBlYmIwMGI0M2JiMQ==",
+  "sha": "9833a5de640df63d30b2d829ba2b0ebb00b43bb1",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/9833a5de640df63d30b2d829ba2b0ebb00b43bb1",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2018-10-15T09:01:44Z"
+  },
+  "object": {
+    "sha": "e46ad263d8de31fcd0c96001ed33563c6ae875d5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/e46ad263d8de31fcd0c96001ed33563c6ae875d5"
+  },
+  "tag": "v17.3",
+  "message": "rdma-core-17.3:\n\nUpdates from version 17.2\n * Backport fixes:\n   * travis: Fix travis failures\n   * verbs: If the uverbs module is not loaded allow get_devices to retry init\n   * mlx5: Fix flow tag mask\n   * mlx5: Fix compilation on 32 bit systems when sse3 is on\n   * mlx5: Allocate huge page chunks only when needed\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlvEV3kcHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZDmaB/0Xmb2hXvvy+K+kMu6B\nxuG1KQgDeYt1i9f+W2Vaun/HdYjcQ5D5vuDG0VnTZ92BFT2mQ++vNoeUU0YNXMVQ\ny3Le/R7tVblEKJWDI3TJIzxGaZPPVSP1O8S0mVOxhLZOOHvTYO9pAVcV4Vb2CdZ6\n45DnwEv0ldOsyHLAm0VP/4lSY76FySGHCL+wsfkn3YVSyKZVBtvvoV84eNmJLwf1\ndYijTGe6Z6GE/ckU4HnAeR2fC6S2sruOTi+9P0K4MFwRagUGPuVVEPbn8PHcu4S8\njokDkSdZaH8cmtqMNKU8JP8eOipebdHJVwavvmkw2Q21hVcQAWjsA0NOfsWLR56p\nnP0C\n=8dW+\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlvEV3kcHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZDmaB/0Xmb2hXvvy+K+kMu6B\nxuG1KQgDeYt1i9f+W2Vaun/HdYjcQ5D5vuDG0VnTZ92BFT2mQ++vNoeUU0YNXMVQ\ny3Le/R7tVblEKJWDI3TJIzxGaZPPVSP1O8S0mVOxhLZOOHvTYO9pAVcV4Vb2CdZ6\n45DnwEv0ldOsyHLAm0VP/4lSY76FySGHCL+wsfkn3YVSyKZVBtvvoV84eNmJLwf1\ndYijTGe6Z6GE/ckU4HnAeR2fC6S2sruOTi+9P0K4MFwRagUGPuVVEPbn8PHcu4S8\njokDkSdZaH8cmtqMNKU8JP8eOipebdHJVwavvmkw2Q21hVcQAWjsA0NOfsWLR56p\nnP0C\n=8dW+\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e46ad263d8de31fcd0c96001ed33563c6ae875d5\ntype commit\ntag v17.3\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1539594104 +0200\n\nrdma-core-17.3:\n\nUpdates from version 17.2\n * Backport fixes:\n   * travis: Fix travis failures\n   * verbs: If the uverbs module is not loaded allow get_devices to retry init\n   * mlx5: Fix flow tag mask\n   * mlx5: Fix compilation on 32 bit systems when sse3 is on\n   * mlx5: Allocate huge page chunks only when needed\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI4MzMzMDU6MzE5ZDlmNzNjZmQ2ZjRiNWFhMWIyMTJkODVhMzg1ZGYxNzkzMWExOQ==",
+  "sha": "319d9f73cfd6f4b5aa1b212d85a385df17931a19",
+  "url": "https://api.github.com/repos/openstack/python-zaqarclient/git/tags/319d9f73cfd6f4b5aa1b212d85a385df17931a19",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-30T14:53:06Z"
+  },
+  "object": {
+    "sha": "c1689bf02c03f3598a54dc972d8a128ecd4294ad",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-zaqarclient/git/commits/c1689bf02c03f3598a54dc972d8a128ecd4294ad"
+  },
+  "tag": "queens-em",
+  "message": "python-zaqarclient queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Iebcf3e8f5385b85e0f754a8b4093a58193315bca\nmeta:release:Code-Review+1: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl25o9IZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHMluDAC64J/CJjgEGTgqBrr8w1U3\n1DhRDu6MMLk6p/R/QDLq/zw/pSSf7QfUrQE4hXx1ONhVOZrIiKjyVewc8tBe9Huh\nVzNlF4DL6fHnNfIK2LkQ94fNc0DYhsosSpPnGh4VQaW0G8aM4vmriB06pYXeSfZz\noT87YR2jCgQXmopL9DVDjumCM3qR7t+C7o7uN6FZ766WsPVVveQ8Sr2jadh7rhyn\nUZhgmITuVd/mybgV3D6PzIJiejmuqk1aFRx5Dt5a4BOYgiGUTTafQjvfOgCwexE+\ndzZcj/6k0DfE7tL7IDoRrrwLbjlZMW6qJNs5liSTwdyhnnyHkvpibO3FI5XH1XmL\nXBeZwRDFFNPpf+JJQiDjkCtHurHTA+iNRmJR7xMUo4wM1HCTXD8au+rfvrAzll19\nSjdRgejYFmJ4zqrxiNWRZ9Y1GziMq4NaknA6N3t5jzWfMG2TJLE1vMOa1zJjndjg\nBekTUlBnBjXWjlRAFfs8fp+Vnaogb4ICX8HZvh/BUZ0=\n=wHpR\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl25o9IZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHMluDAC64J/CJjgEGTgqBrr8w1U3\n1DhRDu6MMLk6p/R/QDLq/zw/pSSf7QfUrQE4hXx1ONhVOZrIiKjyVewc8tBe9Huh\nVzNlF4DL6fHnNfIK2LkQ94fNc0DYhsosSpPnGh4VQaW0G8aM4vmriB06pYXeSfZz\noT87YR2jCgQXmopL9DVDjumCM3qR7t+C7o7uN6FZ766WsPVVveQ8Sr2jadh7rhyn\nUZhgmITuVd/mybgV3D6PzIJiejmuqk1aFRx5Dt5a4BOYgiGUTTafQjvfOgCwexE+\ndzZcj/6k0DfE7tL7IDoRrrwLbjlZMW6qJNs5liSTwdyhnnyHkvpibO3FI5XH1XmL\nXBeZwRDFFNPpf+JJQiDjkCtHurHTA+iNRmJR7xMUo4wM1HCTXD8au+rfvrAzll19\nSjdRgejYFmJ4zqrxiNWRZ9Y1GziMq4NaknA6N3t5jzWfMG2TJLE1vMOa1zJjndjg\nBekTUlBnBjXWjlRAFfs8fp+Vnaogb4ICX8HZvh/BUZ0=\n=wHpR\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c1689bf02c03f3598a54dc972d8a128ecd4294ad\ntype commit\ntag queens-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572447186 +0000\n\npython-zaqarclient queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Iebcf3e8f5385b85e0f754a8b4093a58193315bca\nmeta:release:Code-Review+1: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

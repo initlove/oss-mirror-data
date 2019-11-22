@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6ODA4NWUxOGEzZTcyMjA0MWQ2NjRkMWZkNWIxZjRlOTVjMDg2NTk2Nw==",
+  "sha": "8085e18a3e722041d664d1fd5b1f4e95c0865967",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/8085e18a3e722041d664d1fd5b1f4e95c0865967",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2019-09-26T12:02:06Z"
+  },
+  "object": {
+    "sha": "afe9e163d65ef705a019c63eb782090f66f89235",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/afe9e163d65ef705a019c63eb782090f66f89235"
+  },
+  "tag": "v23.2",
+  "message": "rdma-core-23.2:\n\nUpdates from version 23.1\n * Backport fixes:\n   * travis: fix aarch64 extraction\n   * ccam: Properly enable ilog32() calculations\n   * RDMA/hns: Bugfix for identify the last srq sge\n   * suse: fix dracut support\n   * mlx5: Fix man page of mlx5dv_create_flow_action_modify_header()\n   * libhns: Bugfix for flush cqe in case multi-process\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAl2MqL8cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZAXFB/49K+Ih6CjvDUPyO57O\n9mOFjyJS/LEvzR/TR7PZtXqRQKPjRvrmZhiIPk9rvEghgOdCuY/a3s4HROLamI74\nj166a38KKOa+toqQBczhOzJ+3caDMAst3eK1f+e2Onx28MuEx16BL9TJ1YGwS8m4\nc5TAIJsKyjVi46XyG99LkOz277+1vbWY5MolZCqnjoA2yErEpuBVFUAW/HSJaO0j\ntvQ9/SSVUbUYFUF4+B/hpF/b+QXsNf7ianwQJFz9N/ULxuIsNsOOeyD6CsKdJJWp\noa5q9cliMaZk2xUGNdUKrj4q9lF9GEAQc9UNf7sOF3Mzv41en7vQ8u+WRARaPYe5\nQydj\n=s9b3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAl2MqL8cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZAXFB/49K+Ih6CjvDUPyO57O\n9mOFjyJS/LEvzR/TR7PZtXqRQKPjRvrmZhiIPk9rvEghgOdCuY/a3s4HROLamI74\nj166a38KKOa+toqQBczhOzJ+3caDMAst3eK1f+e2Onx28MuEx16BL9TJ1YGwS8m4\nc5TAIJsKyjVi46XyG99LkOz277+1vbWY5MolZCqnjoA2yErEpuBVFUAW/HSJaO0j\ntvQ9/SSVUbUYFUF4+B/hpF/b+QXsNf7ianwQJFz9N/ULxuIsNsOOeyD6CsKdJJWp\noa5q9cliMaZk2xUGNdUKrj4q9lF9GEAQc9UNf7sOF3Mzv41en7vQ8u+WRARaPYe5\nQydj\n=s9b3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object afe9e163d65ef705a019c63eb782090f66f89235\ntype commit\ntag v23.2\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1569499326 +0200\n\nrdma-core-23.2:\n\nUpdates from version 23.1\n * Backport fixes:\n   * travis: fix aarch64 extraction\n   * ccam: Properly enable ilog32() calculations\n   * RDMA/hns: Bugfix for identify the last srq sge\n   * suse: fix dracut support\n   * mlx5: Fix man page of mlx5dv_create_flow_action_modify_header()\n   * libhns: Bugfix for flush cqe in case multi-process\n"
+  }
+}

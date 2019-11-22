@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6YWNhNzJkZjBmMGE1NjdlYWE0YTU0NDQxYjA4Njg3YzNhNGZjYzMxMQ==",
+  "sha": "aca72df0f0a567eaa4a54441b08687c3a4fcc311",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/aca72df0f0a567eaa4a54441b08687c3a4fcc311",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@tigera.io",
+    "date": "2017-04-13T10:58:16Z"
+  },
+  "object": {
+    "sha": "638cfce1d601d4f4d317d751d0265d62120b681c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/638cfce1d601d4f4d317d751d0265d62120b681c"
+  },
+  "tag": "2.2.0-rc1",
+  "message": "Felix version 2.2.0-rc1\n\n- Fix felix_cluster_* metrics not being updated.\n- Buffer the signal channel. (#1416)\n- Dump memory profile on receipt of SIGUSR1 (#1415)\n- Add support for failsafe UDP ports and allow DNS/DHCP by default. (#1412)\n- Rev libcalico-go to v1.2.0 for occupancy reduction. (#1419)\n- Move log writing to background threads to improve robustness if\n  stdout/stderr blocks. (#1389)\n- Felix is now built with Go v1.8.1 (#1417).\n- Move conntrack rules to per-interface chains to avoid matching\n  non-Calico packets. (#1424)\n- Add option to disable ctstate=INVALID rules for some corner cases/experiments.\n- Fix for spurious ERRORs around missing interfaces.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

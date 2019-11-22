@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ3NDoyOGYwMTcwZGUyODc5YWNjNGFhODJkYTc2Yzg4YTI4NzliZWYzNTA2",
+  "sha": "28f0170de2879acc4aa82da76c88a2879bef3506",
+  "url": "https://api.github.com/repos/pypa/virtualenv/git/tags/28f0170de2879acc4aa82da76c88a2879bef3506",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2016-03-06T01:14:00Z"
+  },
+  "object": {
+    "sha": "388081d7fc615cd4b4bf87ab635173c50b86637f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/virtualenv/git/commits/388081d7fc615cd4b4bf87ab635173c50b86637f"
+  },
+  "tag": "15.0.0",
+  "message": "Released v15.0.0\n\n* Remove the `virtualenv-N.N` script from the package; this can no longer be correctly created from a wheel installation.\n  Resolves :issue:`851`, :issue:`692`\n\n* Remove accidental runtime dependency on pip by extracting certificate in the\n  subprocess.\n\n* Upgrade setuptools 20.2.2.\n\n* Upgrade pip to 8.1.0.\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJW24RtAAoJEG48vOkzctz6cJwP/R8rU+3NcM7dns8qIEyfFV5w\nHmaQ791IzJBXaUSd7nSAm62s0mTRgCHqpguEuT4YWBHaR46T3b1401lnVnsRlcO7\nBsWCuoVCon1GxncqvH290Dq5WbAjTeraaZT/xT++k797t6tUEoBpZ1zlppWQAnSF\nkGvvWnGRd9nbFBHcfpt9liy4J72sklGzJpJzV4eTDulomocAAAkyr92Jm33SHF71\n1hNtS3kFs2JaqFkAwrqo4+pdmdXxYPSJC9STvTo+8g40Iqt70NiYto24zmH9orG6\nP+IK0CpPdMW07+OnEfs1WACjYhb02Yq/PqKUV0jOuhLUZ4aaAAadqH9kfk2dxrWb\n9LI8AwQOARi9CAm3f4xoyusseFn5CeJpA1sv398y3UO1gBawrHWt4GLEKODWZ5Be\nbIVP7QJMpD6RNw+Jk9X/vpCd+Gh1Z5auabiiv5o/zxw42yjDdrcR9BJCw4XF17CX\ndgVU70CwjztspUsMQ8wWTVwDas0JCK14ENdkH+F+QDWYOPVuxgXj5t+74eMYIssg\n2V4eHD4N6wyh8ysyDv4O+HEZ6niY+XklWtY8nBU9fIuFes/kFWsChtfCRI5sd48p\n59xNyzve1C8aDzYe7OHGJWH1B+ZEBYq8Hk+kwY+MiJj1lmEmhBYMt3cgDICSCZxi\ny/4NdbNK5Nc7lHALYeAx\n=RPMj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJW24RtAAoJEG48vOkzctz6cJwP/R8rU+3NcM7dns8qIEyfFV5w\nHmaQ791IzJBXaUSd7nSAm62s0mTRgCHqpguEuT4YWBHaR46T3b1401lnVnsRlcO7\nBsWCuoVCon1GxncqvH290Dq5WbAjTeraaZT/xT++k797t6tUEoBpZ1zlppWQAnSF\nkGvvWnGRd9nbFBHcfpt9liy4J72sklGzJpJzV4eTDulomocAAAkyr92Jm33SHF71\n1hNtS3kFs2JaqFkAwrqo4+pdmdXxYPSJC9STvTo+8g40Iqt70NiYto24zmH9orG6\nP+IK0CpPdMW07+OnEfs1WACjYhb02Yq/PqKUV0jOuhLUZ4aaAAadqH9kfk2dxrWb\n9LI8AwQOARi9CAm3f4xoyusseFn5CeJpA1sv398y3UO1gBawrHWt4GLEKODWZ5Be\nbIVP7QJMpD6RNw+Jk9X/vpCd+Gh1Z5auabiiv5o/zxw42yjDdrcR9BJCw4XF17CX\ndgVU70CwjztspUsMQ8wWTVwDas0JCK14ENdkH+F+QDWYOPVuxgXj5t+74eMYIssg\n2V4eHD4N6wyh8ysyDv4O+HEZ6niY+XklWtY8nBU9fIuFes/kFWsChtfCRI5sd48p\n59xNyzve1C8aDzYe7OHGJWH1B+ZEBYq8Hk+kwY+MiJj1lmEmhBYMt3cgDICSCZxi\ny/4NdbNK5Nc7lHALYeAx\n=RPMj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 388081d7fc615cd4b4bf87ab635173c50b86637f\ntype commit\ntag 15.0.0\ntagger Donald Stufft <donald@stufft.io> 1457226840 -0500\n\nReleased v15.0.0\n\n* Remove the `virtualenv-N.N` script from the package; this can no longer be correctly created from a wheel installation.\n  Resolves :issue:`851`, :issue:`692`\n\n* Remove accidental runtime dependency on pip by extracting certificate in the\n  subprocess.\n\n* Upgrade setuptools 20.2.2.\n\n* Upgrade pip to 8.1.0.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6NDdlYTE3MGVlNzhmNzdmMzcyNjllZWE2NzU3NzhkODUwYmNjNTJkMA==",
+  "sha": "47ea170ee78f77f37269eea675778d850bcc52d0",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/47ea170ee78f77f37269eea675778d850bcc52d0",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "davenport.cas@gmail.com",
+    "date": "2018-11-09T00:50:51Z"
+  },
+  "object": {
+    "sha": "49e6694c16b10e4ab4cfc324f0457ce915f53b32",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/49e6694c16b10e4ab4cfc324f0457ce915f53b32"
+  },
+  "tag": "v3.2.4",
+  "message": "- 9983add7cda40ba349045adbb9e88ec775a21ded Merge pull request #1901 from fasaxc/snat-fully-random\n- 0594764de114b0bd141fe0dd9525fc53463c99e4 Merge pull request #1903 from fasaxc/use-iptables-lock\n- d534a754f296649f25011a4529a0afab69015337 Merge pull request #1905 from fasaxc/use-iptables-lock\n- 10e448e3628ef27e20e211d50bf9d5a84cc2a9a0 Pin prometheus, which had floated to incompatible version.\n- ef24be652e35f69a306ca29d82caf8031e1e7784 Adjust iptables feature detection FV to match Alpine v3.7\n- a3fae175790694a1514ef5d1cd12e1ae2646d77b Update typha to 68239307c245f957495ea35d314ecca7e10c51ea\n- 473cc05b537eadc9c8871faf4041b045c5bd6186 Update typha to cc5c21d7ddf3067bab60dd538bca0c99b745684c\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

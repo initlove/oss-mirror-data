@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6ODBmYmZjOWIyNTViNzc1YTgxNGZlNmE5ZTE4YTZhOTc2YmJkZDE1Yg==",
+  "sha": "80fbfc9b255b775a814fe6a9e18a6a976bbdd15b",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/80fbfc9b255b775a814fe6a9e18a6a976bbdd15b",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@tigera.io",
+    "date": "2016-12-09T13:56:54Z"
+  },
+  "object": {
+    "sha": "eaf4bde4d9e2f73eca7ff320116c63d055ce3d8b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/eaf4bde4d9e2f73eca7ff320116c63d055ce3d8b"
+  },
+  "tag": "2.0.0-rc5",
+  "message": "Felix version 2.0.0-rc5\n\n- Felix 2.0.0-rc4 Deb/RPM packaging\n- Avoid repeating 'Felix <version>' in Deb/RPM changelogs\n- Fix nil pointer deref in policy sorter.\n- Reduce length of usage reporting keys.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

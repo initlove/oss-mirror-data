@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ3NDo1YTgxYWMwMTYzYjk2MGY4MWQ1NTQ5MTA0NDM0NmQ1ODAyY2FlZDUw",
+  "sha": "5a81ac0163b960f81d55491044346d5802caed50",
+  "url": "https://api.github.com/repos/pypa/virtualenv/git/tags/5a81ac0163b960f81d55491044346d5802caed50",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2013-08-08T01:05:41Z"
+  },
+  "object": {
+    "sha": "b8e43e724112ef26bd057df296cc66baabe2e032",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/virtualenv/git/commits/b8e43e724112ef26bd057df296cc66baabe2e032"
+  },
+  "tag": "1.10.1",
+  "message": "Released 1.10.1\n\n* **New Signing Key** Release 1.10.1 is using a different key than normal with\n  fingerprint: 7C6B 7C5D 5E2B 6356 A926 F04F 6E3C BCE9 3372 DCFA\n* Upgraded pip to v1.4.1\n* Upgraded setuptools to v0.9.8\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\n\niQIcBAABAgAGBQJSAu8NAAoJEG48vOkzctz6R+oP/2FBj5u7e96ne/NNl8H+xbHh\npIzr/Kq50LJtARtZXMsnCn4ROH/iqMVNvAMMZIzOtfpNj/n+4yzJnVP9kBmKKy8m\nRWSdxffe9/ZPo4C4ytoZ4K1/RRJ9TGTFUMA7PVz7zqcEnVWVCqV9hlm5BfqOQfqv\na9YnNJ9pvEQ7asVfkRlzGX8nYFpsEm5jyrgqIYZdJZl38s24wBM+ZNGoCIINwXBp\nxAYdsMC2mGDQO5DS+RZUX42+BeoRLjVc2qXmK+wpEUc7JhvAgQhE+grRlXWakgCP\nq5N16ozJ1Bzc6WesK69Po6fUL+srnsjk15fMgv9wLftG2Q6HK9962gw3jsP4vc3n\nEIoHL1HqxzlbtM7U+7Gl9/D7y+85QDcLLMuqe80NxbyHr7ganOAGj4CMrF7vthUz\nWjAf/g/bmGt0BAvC6QuzLJsW2jQksDWF5fUN4FCw88sx0xlc4HB0bcYgU6GJOiiC\niMjN3bmcFPp70gaVqNXULW+SBRnCpCgYieeZpN96OlddyEVVAxG846zpiSPrvdwp\nbl+VxivPO8wd0DUJv1UjmAMTaHEonvQqqH8t6/9JdWqbwOgWs9/uEzacW+kMaIKZ\nsTTkgs+Z9WXoUfS97kRQoyAjh+t3KrbuZihKr8pAU+pEamhQq4YVfJpZzrpsxadC\nADgoNq+RozBhUUpDalJa\n=5FW0\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\n\niQIcBAABAgAGBQJSAu8NAAoJEG48vOkzctz6R+oP/2FBj5u7e96ne/NNl8H+xbHh\npIzr/Kq50LJtARtZXMsnCn4ROH/iqMVNvAMMZIzOtfpNj/n+4yzJnVP9kBmKKy8m\nRWSdxffe9/ZPo4C4ytoZ4K1/RRJ9TGTFUMA7PVz7zqcEnVWVCqV9hlm5BfqOQfqv\na9YnNJ9pvEQ7asVfkRlzGX8nYFpsEm5jyrgqIYZdJZl38s24wBM+ZNGoCIINwXBp\nxAYdsMC2mGDQO5DS+RZUX42+BeoRLjVc2qXmK+wpEUc7JhvAgQhE+grRlXWakgCP\nq5N16ozJ1Bzc6WesK69Po6fUL+srnsjk15fMgv9wLftG2Q6HK9962gw3jsP4vc3n\nEIoHL1HqxzlbtM7U+7Gl9/D7y+85QDcLLMuqe80NxbyHr7ganOAGj4CMrF7vthUz\nWjAf/g/bmGt0BAvC6QuzLJsW2jQksDWF5fUN4FCw88sx0xlc4HB0bcYgU6GJOiiC\niMjN3bmcFPp70gaVqNXULW+SBRnCpCgYieeZpN96OlddyEVVAxG846zpiSPrvdwp\nbl+VxivPO8wd0DUJv1UjmAMTaHEonvQqqH8t6/9JdWqbwOgWs9/uEzacW+kMaIKZ\nsTTkgs+Z9WXoUfS97kRQoyAjh+t3KrbuZihKr8pAU+pEamhQq4YVfJpZzrpsxadC\nADgoNq+RozBhUUpDalJa\n=5FW0\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b8e43e724112ef26bd057df296cc66baabe2e032\ntype commit\ntag 1.10.1\ntagger Donald Stufft <donald@stufft.io> 1375923941 -0400\n\nReleased 1.10.1\n\n* **New Signing Key** Release 1.10.1 is using a different key than normal with\n  fingerprint: 7C6B 7C5D 5E2B 6356 A926 F04F 6E3C BCE9 3372 DCFA\n* Upgraded pip to v1.4.1\n* Upgraded setuptools to v0.9.8\n"
+  }
+}

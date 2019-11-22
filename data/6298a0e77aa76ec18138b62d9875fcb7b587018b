@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzA3OTQ4Njg6NjI5OGEwZTc3YWE3NmVjMTgxMzhiNjJkOTg3NWZjYjdiNTg3MDE4Yg==",
+  "sha": "6298a0e77aa76ec18138b62d9875fcb7b587018b",
+  "url": "https://api.github.com/repos/sampotts/plyr/git/tags/6298a0e77aa76ec18138b62d9875fcb7b587018b",
+  "tagger": {
+    "name": "Sam Potts",
+    "email": "sam@potts.es",
+    "date": "2018-05-05T14:50:14Z"
+  },
+  "object": {
+    "sha": "5aece6fa06d767b8a9be65399cbb53354535bca4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/sampotts/plyr/git/commits/5aece6fa06d767b8a9be65399cbb53354535bca4"
+  },
+  "tag": "v3.3.0",
+  "message": "*   Now using a custom poster image element to hide the YouTube play button and give more control over when the poster image shows\n*   Renamed `showPosterOnEnd` to `resetOnEnd` as it makes more sense and now works for all players and does not reload media\n*   Fix for same domain SVG URLs (raised by Jochem in Slack)\n*   [`URL`](https://developer.mozilla.org/en-US/docs/Web/API/Window/URL) is polyfill now required\n*   Added pause className (fixes #941)\n*   Button height set in CSS (auto) (fixes #928)\n*   Don't autoplay cloned original media (fixes #936)\n*   Return to the home menu pane after selecting an option\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

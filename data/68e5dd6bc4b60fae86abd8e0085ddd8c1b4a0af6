@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6NjhlNWRkNmJjNGI2MGZhZTg2YWJkOGUwMDg1ZGRkOGMxYjRhMGFmNg==",
+  "sha": "68e5dd6bc4b60fae86abd8e0085ddd8c1b4a0af6",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/68e5dd6bc4b60fae86abd8e0085ddd8c1b4a0af6",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2019-06-03T10:16:06Z"
+  },
+  "object": {
+    "sha": "3965dd1bafd14a64238293dbbf7c2185e3ff5345",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/3965dd1bafd14a64238293dbbf7c2185e3ff5345"
+  },
+  "tag": "v16.9",
+  "message": "rdma-core-16.9:\n\nUpdates from version 16.8\n * Backport fixes:\n   * suse: fix dracut support\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlz0828cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZN+WB/46696PluSH0YF+DoDM\ndSAAMdDCDOSWo1VfMTUcE6iuPAoL2HC7hfAXVJYUvkEHzY8oECM7fqc2S4WBlx+h\n4e5EJcBECr7ebYN2F9T3CETvntaslibVRVDiIfojRyM+RePl8Gh7Oj5aL5Yfuz5z\n+TkakKsGDGm7fJ29JRyePu/CAKeIuu/MRAfnCtIX2XjP15wRsTIxqmruxp0U22em\n4rrlalJql6Loh8uQWjarAQ7I5hCVBoyGvN3xWh65rK2V4QOQBmSko7NaNmUGxc20\nBOj3h7Kf262a7iC18vua4RUmUBLF1Jxv6PBrHJiPItXJ80DQnt+/8zKvpXiVIM0t\n6TOc\n=sKyC\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlz0828cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZN+WB/46696PluSH0YF+DoDM\ndSAAMdDCDOSWo1VfMTUcE6iuPAoL2HC7hfAXVJYUvkEHzY8oECM7fqc2S4WBlx+h\n4e5EJcBECr7ebYN2F9T3CETvntaslibVRVDiIfojRyM+RePl8Gh7Oj5aL5Yfuz5z\n+TkakKsGDGm7fJ29JRyePu/CAKeIuu/MRAfnCtIX2XjP15wRsTIxqmruxp0U22em\n4rrlalJql6Loh8uQWjarAQ7I5hCVBoyGvN3xWh65rK2V4QOQBmSko7NaNmUGxc20\nBOj3h7Kf262a7iC18vua4RUmUBLF1Jxv6PBrHJiPItXJ80DQnt+/8zKvpXiVIM0t\n6TOc\n=sKyC\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3965dd1bafd14a64238293dbbf7c2185e3ff5345\ntype commit\ntag v16.9\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1559556966 +0200\n\nrdma-core-16.9:\n\nUpdates from version 16.8\n * Backport fixes:\n   * suse: fix dracut support\n"
+  }
+}

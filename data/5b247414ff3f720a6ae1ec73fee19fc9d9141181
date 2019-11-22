@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjIzNzQ5NDg6NWIyNDc0MTRmZjNmNzIwYTZhZTFlYzczZmVlMTlmYzlkOTE0MTE4MQ==",
+  "sha": "5b247414ff3f720a6ae1ec73fee19fc9d9141181",
+  "url": "https://api.github.com/repos/openstack/python-zunclient/git/tags/5b247414ff3f720a6ae1ec73fee19fc9d9141181",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-11-01T10:53:10Z"
+  },
+  "object": {
+    "sha": "3a3f4535b9ad510bcc5ff09f4909035107b1eecb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-zunclient/git/commits/3a3f4535b9ad510bcc5ff09f4909035107b1eecb"
+  },
+  "tag": "0.5.0",
+  "message": "python-zunclient 0.5.0 release\n\nmeta:version: 0.5.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Hongbin Lu <hongbin034@gmail.com>\nmeta:release:Commit: Hongbin Lu <hongbin034@gmail.com>\nmeta:release:Change-Id: Ia653eef666f08872e9b64827be281d9478b4f257\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZ+aeWAAoJEEIeZHKBH5qBVh8IAJ+mGC9Z8WnTvVC/tRctpe4C\n3TpoNJgqNUNaxJNL28XZFHGwLGxyYxjhGdks9rsOnI2Saxnw7wJlilHCxGq185dD\nFHR75dFi1GOx/hXezaTFrJs7yTAOn1XlOhFzd+7sVqkvwKsFWKP7NjCTaU/9E5yr\nfs5GXs4Zj//p/EZrGgV0HNkRNAkTxq3SQMKMWLP7OB/4gVL7taaLKFDxPKPWjZUo\n75l1fd7znUvCdH3wZmuLZCnkkbw4zwbu58v5JiQjJBawjiNe9hWC+IP79h1f8Qrc\n/r5kez868LpON8Cb+5PAI4FPS5zVY+QbvkYPClBfIqXGAySiB2eMUCI9X3jSsdw=\n=I9Du\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZ+aeWAAoJEEIeZHKBH5qBVh8IAJ+mGC9Z8WnTvVC/tRctpe4C\n3TpoNJgqNUNaxJNL28XZFHGwLGxyYxjhGdks9rsOnI2Saxnw7wJlilHCxGq185dD\nFHR75dFi1GOx/hXezaTFrJs7yTAOn1XlOhFzd+7sVqkvwKsFWKP7NjCTaU/9E5yr\nfs5GXs4Zj//p/EZrGgV0HNkRNAkTxq3SQMKMWLP7OB/4gVL7taaLKFDxPKPWjZUo\n75l1fd7znUvCdH3wZmuLZCnkkbw4zwbu58v5JiQjJBawjiNe9hWC+IP79h1f8Qrc\n/r5kez868LpON8Cb+5PAI4FPS5zVY+QbvkYPClBfIqXGAySiB2eMUCI9X3jSsdw=\n=I9Du\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3a3f4535b9ad510bcc5ff09f4909035107b1eecb\ntype commit\ntag 0.5.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1509533590 +0000\n\npython-zunclient 0.5.0 release\n\nmeta:version: 0.5.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Hongbin Lu <hongbin034@gmail.com>\nmeta:release:Commit: Hongbin Lu <hongbin034@gmail.com>\nmeta:release:Change-Id: Ia653eef666f08872e9b64827be281d9478b4f257\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

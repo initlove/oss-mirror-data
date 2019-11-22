@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6NTQwZDExNmU2MjIxZjY3NjExNjE5ZWVmNWYwNDcyNzk5YWU4NjU4MQ==",
+  "sha": "540d116e6221f67611619eef5f0472799ae86581",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/540d116e6221f67611619eef5f0472799ae86581",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "davenport.cas@gmail.com",
+    "date": "2018-10-19T21:30:43Z"
+  },
+  "object": {
+    "sha": "b3d311d397d9e7455070201fc5e3148f04551749",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/b3d311d397d9e7455070201fc5e3148f04551749"
+  },
+  "tag": "v3.3.0",
+  "message": "- 318c558f5085a61c2d7ab3b2a0db51012c600417 Import binder package from pod2daemon\n- a6afb709aba345c56dc4db64d719e889688a81e0 Debian/RPM packaging for Felix v3.2.0\n- f40422a418a1f0770fad1cee0b8dfe497246e42f Makefile: Update release to include all arches\n- 2e6ddc65a32c43871f44edb726f8b06a86af12a9 Remove glibc to fix build breakage.\n- 5504ee34c2558234e9fa74cf3eb5793386d7a614 Fix our Go build cache to work with Go 1.10's new cache.\n- 0b523865b87771a0eefe54210c873ef158ef00ed Automated Typha pin update\n- 6785f032e764f4f590bd826854b475e7875b174f Makefile: Stop uploading to coveralls\n- 03c34d31d9e3f30ce60849ff304c8e909f267bf2 Automated Typha pin update\n- 78a00e0cff96c3e3a3d4724c9af4e3f1c895d242 Clarify ifacemonitor_test logging\n- 47921d62f24d4a4dd4d05df3caf8a285e3c7e82f UT when resync spots that a link has been deleted\n- 6adc27150b7ea959cf0bf7f1a6561f50db4a6233 Clear caches when resync spots a link as having disappeared\n- 15d74454c09fdbada673b6014a68db9c975b8e1a Automated Typha pin update\n- 4199045e2e42098f8061748b07fc6986b5ed3c77 Code review markups\n- 0db5b5758ad11f645ae3fcc23f9b789d5314e165 Fix ifacemonitor UT flake\n- 26b9883d49c7f9abe9c6221f052fafa56d31a166 Automated Typha pin update\n- 2dc975e2334fbd4e974f5fead9d6ffeb6eefdff4 Add support for multi-arch manifest, with default arch on quay.io\n- fc6563957ed0d6c6678e2365d6856b59a25ca392 Automated Typha pin update\n- 107d342982e67124a0ad4d276712a124ed795183 Automated Typha pin update\n- b256f10f56b255ff4309a8a4d81ba3fd9bf022f3 Automated Typha pin update\n- 6cfc1744f62155c73a18309594a0f60091952b13 Stop pushing release images since no-one is consuming them.\n- 7e9bfe10c40a933ef1517ae22ed85f9bf83b95b9 Enable test reports for all tests and save reports with different filenames\n- 1f0fa43e8e10a90ffb7861e32296178327abd6cd Makefile: Bump K8s to v1.11.3\n- 71e035d2683ed71d2b352f19fd21833a030f5dec Add CODEOWNERS file\n- 721e0a6465eee47a42733ae653241b1c03571159 Fix version regex to cover 'release-vX.Y' as well as SHA-1s\n- 9eca4c47ecaa6a93424905bcda83183d92f48637 make update-typha\n- c61d1c7dac5b9c836d171af65fdbe817f77b8842 Automated Typha pin update\n- 0a5277f1396f4042ec0cb4e21ba0767bb929be8d Fix release targets\n- bb9db03cf4f1a30b5c6073b62069aade0ba155b8 Automated Typha pin update\n- aa252e1e7c59174a83f2fcffe937c1119ef0d021 Automated Typha pin update\n- f0156cfbed945618130351b23de90f108e2dbd00 Automated Typha pin update\n- 2ce3051f453aca2bce445bbfa90f50d6c45ea732 Automated Typha pin update\n- 7d8a076112f2cd08134af7a76f57821b7f1a232d Allow build from local libcalico-go\n- 58352e76ea89b8b9395974094f6d6c93868cf24e Automated Typha pin update\n- 1396cf55fcdd60b39eaa2e9f6560a2836537253e Add Typha to LOCAL_BUILD_MOUNTS\n- b25610bc01aef33712ea05c30f1d242b8a67de6c Add SNAT fully-random flag.\n- 9f9ef44576d20950bb71409e0ad24b7b8d1ffc57 Detect kernel version too when enabling --fully-random.\n- b0032bbbf26b83050a04f9b5324cda3d534e26e0 Add support for MASQ fully-random.\n- 2739c44ce5443fefd0d596abc2424d6bc842a2cb Code review markups.\n- 5fdfdb3c67254bac164984542714c74e5e5cc086 Add FV to cehck that we use --random-fully.\n- 69207978a928f113246a487d0341497f37269ca9 Fix license warning.\n- 7f02607e1a7abdc33effcf45a16fd95d21531635 Add support for iptables-restore's xtables lock.\n- 492187b10ad3dd42db9ffbd9ca3c39e72b68d77e Rework feature detection, extract out as its own struct.\n- f8d10909c83a6b690a8077c101b3baf6dc6cf7bc Automated Typha pin update\n- 4bd70a0584990e7a9a0a7b2b871fc878d0082aad Code review markups.\n- a97d8c2457a28588be94d220e35f03c37b6f03ca Add retries to iptables commands in fv tests\n- 86b39c279c0741c22d99fed6fa5b4e35d29b3195 Add more logging around version detection.\n- 14a8b313427e073da49d00a066d1b01207a8dc26 Automated Typha pin update\n- 341a42614c39f7ab4eb9fbb911870219cf92232f Fix time allowed for step of k8s infrastructure set up\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

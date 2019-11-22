@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODQwNjA3MzY6NTM0MTMxMzc2MTA2MjU4OTJiNTEwOGYwNDc2M2JiMTRhNTQ5NmMwZg==",
+  "sha": "53413137610625892b5108f04763bb14a5496c0f",
+  "url": "https://api.github.com/repos/openstack/ovsdbapp/git/tags/53413137610625892b5108f04763bb14a5496c0f",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-29T09:49:48Z"
+  },
+  "object": {
+    "sha": "74b52bb3491a9c4f6ec40e15d74652fc415269e0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ovsdbapp/git/commits/74b52bb3491a9c4f6ec40e15d74652fc415269e0"
+  },
+  "tag": "0.17.0",
+  "message": "ovsdbapp 0.17.0 release\n\nmeta:version: 0.17.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Lucas Alvares Gomes <lucasagomes@gmail.com>\nmeta:release:Commit: Lucas Alvares Gomes <lucasagomes@gmail.com>\nmeta:release:Change-Id: I0b2199c097b6d42b9a2eb032b49c92ff84ba5c1d\nmeta:release:Code-Review+1: Terry Wilson <twilson@redhat.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1nn7wZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2AsXDACda8bUtL0UM/8GJW/3rJYn\nJd3IwFF+w8UVyyFYvAGdUIQnL1fVaa8ckvI/PBzLibqbyCV37ZGKVVOdBBXr4TgF\nweB7HvKwXCyxKdtUFCK8LGsA+oKFSrAap136aQSzzd7P/ioUZkAl6vjd6/jTq32C\njQkirMZHH90GL824Trr7QeIRfstBPMrRO3vsSUPdEfOWu4N2PASnafm6N1Sm6cWv\nRl04GyFHnj4EFO+Vw2h0D6SLkjidpHd5v/0wJ8hp9eakFanwY9nmnv7tIJNM9M6e\n4o9mdCP3/3qyX6jvzO1zJj6UUZX7KIg/E/AscFLP25FFL3lxjJqI7flmDNesCpQs\nSzkTBywrd0y2SMM10T1I/+Nyl6ED3k2nu6UMpDCPwXgXNK77kzFPC7Ii/frge/oB\ngxYAtRtGCfHorrNVXsQTf4U09XveWRiVtoS5rrlr260Oao0PWceKJbGOfJWYPd8K\nCyAdj5W4D8CM+Rdz+0lQJRgvMOJy/zIQtHM4EiMBpvY=\n=hDHC\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1nn7wZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2AsXDACda8bUtL0UM/8GJW/3rJYn\nJd3IwFF+w8UVyyFYvAGdUIQnL1fVaa8ckvI/PBzLibqbyCV37ZGKVVOdBBXr4TgF\nweB7HvKwXCyxKdtUFCK8LGsA+oKFSrAap136aQSzzd7P/ioUZkAl6vjd6/jTq32C\njQkirMZHH90GL824Trr7QeIRfstBPMrRO3vsSUPdEfOWu4N2PASnafm6N1Sm6cWv\nRl04GyFHnj4EFO+Vw2h0D6SLkjidpHd5v/0wJ8hp9eakFanwY9nmnv7tIJNM9M6e\n4o9mdCP3/3qyX6jvzO1zJj6UUZX7KIg/E/AscFLP25FFL3lxjJqI7flmDNesCpQs\nSzkTBywrd0y2SMM10T1I/+Nyl6ED3k2nu6UMpDCPwXgXNK77kzFPC7Ii/frge/oB\ngxYAtRtGCfHorrNVXsQTf4U09XveWRiVtoS5rrlr260Oao0PWceKJbGOfJWYPd8K\nCyAdj5W4D8CM+Rdz+0lQJRgvMOJy/zIQtHM4EiMBpvY=\n=hDHC\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 74b52bb3491a9c4f6ec40e15d74652fc415269e0\ntype commit\ntag 0.17.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1567072188 +0000\n\novsdbapp 0.17.0 release\n\nmeta:version: 0.17.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Lucas Alvares Gomes <lucasagomes@gmail.com>\nmeta:release:Commit: Lucas Alvares Gomes <lucasagomes@gmail.com>\nmeta:release:Change-Id: I0b2199c097b6d42b9a2eb032b49c92ff84ba5c1d\nmeta:release:Code-Review+1: Terry Wilson <twilson@redhat.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzA3OTQ4Njg6ZGQ5OWJhNGUwNjljNTIwMzE4ZmViYWExZWJiZGM2ZTBlNjUxMTQxOQ==",
+  "sha": "dd99ba4e069c520318febaa1ebbdc6e0e6511419",
+  "url": "https://api.github.com/repos/sampotts/plyr/git/tags/dd99ba4e069c520318febaa1ebbdc6e0e6511419",
+  "tagger": {
+    "name": "Sam Potts",
+    "email": "me@sampotts.me",
+    "date": "2016-03-07T11:28:51Z"
+  },
+  "object": {
+    "sha": "87d174ac2c3c07f9b022d7ed5d0542cff5edae86",
+    "type": "commit",
+    "url": "https://api.github.com/repos/sampotts/plyr/git/commits/87d174ac2c3c07f9b022d7ed5d0542cff5edae86"
+  },
+  "tag": "v1.5.17",
+  "message": "- Expose YouTube and Vimeo API (docs update required) (Fixes #176)\n- Auto set title based on YouTube getVideoData() title property\n- Bug fix for Vimeo API change (Uncaught TypeError: Cannot read property 'value' of undefined) due to a change their end\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

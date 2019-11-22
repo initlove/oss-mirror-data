@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6ZDUxZGI5ZjcxNWQ4OWRhNTJhMjFiYjVjN2M5ZWNiMWVmYjA1NTc2Mg==",
+  "sha": "d51db9f715d89da52a21bb5c7c9ecb1efb055762",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/d51db9f715d89da52a21bb5c7c9ecb1efb055762",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@tigera.io",
+    "date": "2017-05-04T17:16:38Z"
+  },
+  "object": {
+    "sha": "410fa0bd6801ce05458864d18d02a667dbdbc19c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/410fa0bd6801ce05458864d18d02a667dbdbc19c"
+  },
+  "tag": "2.2.0-rc4",
+  "message": "Felix version 2.2.0-rc4\n\n- Rev go-build to v0.6 to pick up go 1.8.1 (#1446).\n- Squash duplicate host IP updates to avoid churning dataplane (#1445).\n- Disable node polling if IPIP is disabled (#1448).\n- Improvements to Kubernetes-based FV framework.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

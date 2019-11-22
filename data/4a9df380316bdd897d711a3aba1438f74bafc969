@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzczMDgyOTo0YTlkZjM4MDMxNmJkZDg5N2Q3MTFhM2FiYTE0MzhmNzRiYWZjOTY5",
+  "sha": "4a9df380316bdd897d711a3aba1438f74bafc969",
+  "url": "https://api.github.com/repos/psycopg/psycopg2/git/tags/4a9df380316bdd897d711a3aba1438f74bafc969",
+  "tagger": {
+    "name": "Federico Di Gregorio",
+    "email": "fog@initd.org",
+    "date": "2012-03-29T08:21:05Z"
+  },
+  "object": {
+    "sha": "d7c8c1c49ab695a804c7033d288ed3952cb7517c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/d7c8c1c49ab695a804c7033d288ed3952cb7517c"
+  },
+  "tag": "2_4_5",
+  "message": "Release 2.4.5\n\n- The close() methods on connections and cursors don't raise exceptions\n  if called on already closed objects.\n- Fixed fetchmany() with no argument in cursor subclasses\n  (ticket #84).\n- Use lo_creat() instead of lo_create() when possible for better\n  interaction with pgpool-II (ticket #88).\n- Error and its subclasses are picklable, useful for multiprocessing\n  interaction (ticket #90).\n- Better efficiency and formatting of timezone offset objects thanks\n  to Menno Smits (tickets #94, #95).\n- Fixed 'rownumber' during iteration on cursor subclasses.\n  Regression introduced in 2.4.4 (ticket #100).\n- Added support for 'inet' arrays.\n- Fixed 'commit()' concurrency problem (ticket #103).\n- Codebase cleaned up using the GCC Python plugin's static analysis\n  tool, which has revealed several unchecked return values, possible\n  NULL dereferences, reference counting problems. Many thanks to David\n  Malcolm for the useful tool and the assistance provided using it.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (GNU/Linux)\n\niEYEABECAAYFAk90G5YACgkQvcCgrgZGjesCdQCffFok6URrAXOSAhkfA19fkPQg\nusMAoIKZhEGqQ/OwJJ7uup7gPeW6fhX7\n=iD2g\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (GNU/Linux)\n\niEYEABECAAYFAk90G5YACgkQvcCgrgZGjesCdQCffFok6URrAXOSAhkfA19fkPQg\nusMAoIKZhEGqQ/OwJJ7uup7gPeW6fhX7\n=iD2g\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d7c8c1c49ab695a804c7033d288ed3952cb7517c\ntype commit\ntag 2_4_5\ntagger Federico Di Gregorio <fog@initd.org> 1333009265 +0200\n\nRelease 2.4.5\n\n- The close() methods on connections and cursors don't raise exceptions\n  if called on already closed objects.\n- Fixed fetchmany() with no argument in cursor subclasses\n  (ticket #84).\n- Use lo_creat() instead of lo_create() when possible for better\n  interaction with pgpool-II (ticket #88).\n- Error and its subclasses are picklable, useful for multiprocessing\n  interaction (ticket #90).\n- Better efficiency and formatting of timezone offset objects thanks\n  to Menno Smits (tickets #94, #95).\n- Fixed 'rownumber' during iteration on cursor subclasses.\n  Regression introduced in 2.4.4 (ticket #100).\n- Added support for 'inet' arrays.\n- Fixed 'commit()' concurrency problem (ticket #103).\n- Codebase cleaned up using the GCC Python plugin's static analysis\n  tool, which has revealed several unchecked return values, possible\n  NULL dereferences, reference counting problems. Many thanks to David\n  Malcolm for the useful tool and the assistance provided using it.\n"
+  }
+}

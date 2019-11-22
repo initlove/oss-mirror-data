@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6MTc3MmE2ZjAxODZhOGQ3YWJhOWI3OTMzM2Q3ZTA4MWYzY2U5YWZmNg==",
+  "sha": "1772a6f0186a8d7aba9b79333d7e081f3ce9aff6",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/1772a6f0186a8d7aba9b79333d7e081f3ce9aff6",
+  "tagger": {
+    "name": "Doug Ledford",
+    "email": "dledford@redhat.com",
+    "date": "2017-05-04T23:52:54Z"
+  },
+  "object": {
+    "sha": "5f217bcfc21341d877de0ea394882d1252b8db0f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/5f217bcfc21341d877de0ea394882d1252b8db0f"
+  },
+  "tag": "v14-rc1",
+  "message": "Version 14-rc1\n\nUpdates since version 13\n\n- Various packaging updates for Debian and Red Hat\n- libqedr provider fixes\n- addition of libbnxt_re provider\n- man page additions for librdmacm\n- sparse fixes\n- fix for srp_daemon and certain subnet managers\n- aarch64 build fixes\n- support for more types of flow specs\n- clean up srp_daemon's use of mad packets, use libibumad instead of\n  self coding needed items\n- mlx5 CQE compression support\n- scatter FCS support for raw ETH QPs\n- cvlan support\n- report raw packets caps during query device\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJZC8DGAAoJELgmozMOVy/d2k0P/iLFIKan3yE4G+HaVS6umoAs\nJN01cFWPuMK3kW3KYcFFwy13CSl11KVUUIYBIj1SMECvSe4XogtfkDRCdXYnM3BJ\nsI8X96YWCI/TXi96hIAS1r0k3sM8w3xXOfETMlUC+fgifjVPRGeIr2b+w4qNmHSM\njcMH+1UvMLdoZrxEzg8O22WYEK56Q/yPpEzHZZUeMaogkrF40xEBD5j0C99UdQ18\nqHUPs60F6L3oQCWOjgxlbl84GKiU8VWgRn7+DJDh0eYR2LIaQVXMwGUesU+gLV4j\nV4nnr5H/w5TZmcb6JmeyaNJ5VuQfCQGcK+GczLFb+h3UoNAaCs6xlohqqdvpFFvx\nEXMJ5g5EaXqHanzSGNP+pgu3XiCtxvSn387ILnWqPj0M5PvQPKl9DX+sXDrHjGwp\n99+N3iuVVfrrpCq210v4IGVkQVS1tguxy/z+cyEETmL5wcr1QDqeka0Rc0YxrPdh\n/a29MJDx7dN4WZGqcxt78FGf/+4R7IGtOUy/QArEf3NDVWhjqg4F1X4KwE4nDudF\nypTm0/C1kotq1AwoWNYNYGkxyrYCHWQ40m5OzkCBuQflHNGvpYAYo2TW8zTv8ssS\n7a1bYfZaSK5KbX0v7BKbfF8JCkwPyCK5fTQrekT50Cg9unK04xewDnLk51x4GrV6\nwuu46i49lFD0LAYsv9R1\n=79D3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJZC8DGAAoJELgmozMOVy/d2k0P/iLFIKan3yE4G+HaVS6umoAs\nJN01cFWPuMK3kW3KYcFFwy13CSl11KVUUIYBIj1SMECvSe4XogtfkDRCdXYnM3BJ\nsI8X96YWCI/TXi96hIAS1r0k3sM8w3xXOfETMlUC+fgifjVPRGeIr2b+w4qNmHSM\njcMH+1UvMLdoZrxEzg8O22WYEK56Q/yPpEzHZZUeMaogkrF40xEBD5j0C99UdQ18\nqHUPs60F6L3oQCWOjgxlbl84GKiU8VWgRn7+DJDh0eYR2LIaQVXMwGUesU+gLV4j\nV4nnr5H/w5TZmcb6JmeyaNJ5VuQfCQGcK+GczLFb+h3UoNAaCs6xlohqqdvpFFvx\nEXMJ5g5EaXqHanzSGNP+pgu3XiCtxvSn387ILnWqPj0M5PvQPKl9DX+sXDrHjGwp\n99+N3iuVVfrrpCq210v4IGVkQVS1tguxy/z+cyEETmL5wcr1QDqeka0Rc0YxrPdh\n/a29MJDx7dN4WZGqcxt78FGf/+4R7IGtOUy/QArEf3NDVWhjqg4F1X4KwE4nDudF\nypTm0/C1kotq1AwoWNYNYGkxyrYCHWQ40m5OzkCBuQflHNGvpYAYo2TW8zTv8ssS\n7a1bYfZaSK5KbX0v7BKbfF8JCkwPyCK5fTQrekT50Cg9unK04xewDnLk51x4GrV6\nwuu46i49lFD0LAYsv9R1\n=79D3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5f217bcfc21341d877de0ea394882d1252b8db0f\ntype commit\ntag v14-rc1\ntagger Doug Ledford <dledford@redhat.com> 1493941974 -0400\n\nVersion 14-rc1\n\nUpdates since version 13\n\n- Various packaging updates for Debian and Red Hat\n- libqedr provider fixes\n- addition of libbnxt_re provider\n- man page additions for librdmacm\n- sparse fixes\n- fix for srp_daemon and certain subnet managers\n- aarch64 build fixes\n- support for more types of flow specs\n- clean up srp_daemon's use of mad packets, use libibumad instead of\n  self coding needed items\n- mlx5 CQE compression support\n- scatter FCS support for raw ETH QPs\n- cvlan support\n- report raw packets caps during query device\n"
+  }
+}

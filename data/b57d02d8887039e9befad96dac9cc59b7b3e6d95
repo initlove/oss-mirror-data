@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjIzNzQ5NDg6YjU3ZDAyZDg4ODcwMzllOWJlZmFkOTZkYWM5Y2M1OWI3YjNlNmQ5NQ==",
+  "sha": "b57d02d8887039e9befad96dac9cc59b7b3e6d95",
+  "url": "https://api.github.com/repos/openstack/python-zunclient/git/tags/b57d02d8887039e9befad96dac9cc59b7b3e6d95",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-19T15:37:16Z"
+  },
+  "object": {
+    "sha": "1f3a345c52f20587ede9c928ca5aa1fabae3123c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-zunclient/git/commits/1f3a345c52f20587ede9c928ca5aa1fabae3123c"
+  },
+  "tag": "3.4.0",
+  "message": "python-zunclient 3.4.0 release\n\nmeta:version: 3.4.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: Ib098cc2cfad404f9ec0f60efd9e223e83067522d\nmeta:release:Code-Review+1: feng.shengqin <feng.shengqin@zte.com.cn>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Hongbin Lu <hongbin.lu@huawei.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1awiwZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2Gw7DADVqGlcbM8+Nxpvzze9bp7E\nUnZlLiFCqY2UGuhfBTJ4ab8lR6yFjHPtQ17fu20EUkXFUWVOFqhU047Bm2nno/dz\ntjo3cAZlppJ+iVJWeZeUANKdDnNQkBVP4KoxoYIi6khyAskeGq7Sr3B8vnjUunzb\nz1NEam0Md5nTDOGnw21KoYigWT5cYcCO0icN4tEQqoaG/r1kALakGDFASqRVvS8Y\nu4hKrMtAQaI53KIOHfX8xSgOiNNQGwYDUUAGCGoFwqV2OvCqXTgQlJF2PQWt8xzW\nXALrYD0hrJ8qZuijgOjA7lrenHA7okm7u7EuARKCdTMtXGbwmPN186TazGJRVFle\nY4Xkw92ju0NzsP72RHa6/aP1UUu48BVRZSCsWAiypL1VSzyVt/P6YpYUBqSzz0tc\nEaO8Mx84rqxLZjkVRosfZ76iOLT8MB/GSZVZ5OZpWZVtKBmKjXi0FzOjhJzzb3WX\nSVibhiuIDHw1loqyo6wqgnAih1meyIoSOJUdJ455hPE=\n=Htet\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1awiwZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2Gw7DADVqGlcbM8+Nxpvzze9bp7E\nUnZlLiFCqY2UGuhfBTJ4ab8lR6yFjHPtQ17fu20EUkXFUWVOFqhU047Bm2nno/dz\ntjo3cAZlppJ+iVJWeZeUANKdDnNQkBVP4KoxoYIi6khyAskeGq7Sr3B8vnjUunzb\nz1NEam0Md5nTDOGnw21KoYigWT5cYcCO0icN4tEQqoaG/r1kALakGDFASqRVvS8Y\nu4hKrMtAQaI53KIOHfX8xSgOiNNQGwYDUUAGCGoFwqV2OvCqXTgQlJF2PQWt8xzW\nXALrYD0hrJ8qZuijgOjA7lrenHA7okm7u7EuARKCdTMtXGbwmPN186TazGJRVFle\nY4Xkw92ju0NzsP72RHa6/aP1UUu48BVRZSCsWAiypL1VSzyVt/P6YpYUBqSzz0tc\nEaO8Mx84rqxLZjkVRosfZ76iOLT8MB/GSZVZ5OZpWZVtKBmKjXi0FzOjhJzzb3WX\nSVibhiuIDHw1loqyo6wqgnAih1meyIoSOJUdJ455hPE=\n=Htet\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1f3a345c52f20587ede9c928ca5aa1fabae3123c\ntype commit\ntag 3.4.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1566229036 +0000\n\npython-zunclient 3.4.0 release\n\nmeta:version: 3.4.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: Ib098cc2cfad404f9ec0f60efd9e223e83067522d\nmeta:release:Code-Review+1: feng.shengqin <feng.shengqin@zte.com.cn>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Hongbin Lu <hongbin.lu@huawei.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

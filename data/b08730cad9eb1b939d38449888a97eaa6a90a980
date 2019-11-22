@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA4MDUxOmIwODczMGNhZDllYjFiOTM5ZDM4NDQ5ODg4YTk3ZWFhNmE5MGE5ODA=",
+  "sha": "b08730cad9eb1b939d38449888a97eaa6a90a980",
+  "url": "https://api.github.com/repos/mongodb/mongo-python-driver/git/tags/b08730cad9eb1b939d38449888a97eaa6a90a980",
+  "tagger": {
+    "name": "Mike Dirolf",
+    "email": "mike@10gen.com",
+    "date": "2009-02-17T16:40:09Z"
+  },
+  "object": {
+    "sha": "4362fafd2401dd713eead23eb4b8530c40b751ab",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mongodb/mongo-python-driver/git/commits/4362fafd2401dd713eead23eb4b8530c40b751ab"
+  },
+  "tag": "0.7",
+  "message": "connection pooling, fail on insert instead of query when using non utf-8 strings\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.9 (Darwin)\n\niEYEABECAAYFAkma6GkACgkQdXAQMQ0Brk8HJwCgjTGn1qfEbPby4uIKdltkXzPo\nbWoAni+ypfSv9SY+KlKK0TCnSm5K6hkw\n=a7fz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.9 (Darwin)\n\niEYEABECAAYFAkma6GkACgkQdXAQMQ0Brk8HJwCgjTGn1qfEbPby4uIKdltkXzPo\nbWoAni+ypfSv9SY+KlKK0TCnSm5K6hkw\n=a7fz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4362fafd2401dd713eead23eb4b8530c40b751ab\ntype commit\ntag 0.7\ntagger Mike Dirolf <mike@10gen.com> 1234888809 -0500\n\nconnection pooling, fail on insert instead of query when using non utf-8 strings\n"
+  }
+}

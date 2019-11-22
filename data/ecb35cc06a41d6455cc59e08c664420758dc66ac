@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6ZWNiMzVjYzA2YTQxZDY0NTVjYzU5ZTA4YzY2NDQyMDc1OGRjNjZhYw==",
+  "sha": "ecb35cc06a41d6455cc59e08c664420758dc66ac",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/ecb35cc06a41d6455cc59e08c664420758dc66ac",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@tigera.io",
+    "date": "2017-02-07T14:39:54Z"
+  },
+  "object": {
+    "sha": "f774d700fb6c80bf24cd62fa5dc47950c72eea90",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/f774d700fb6c80bf24cd62fa5dc47950c72eea90"
+  },
+  "tag": "2.1.0-rc3",
+  "message": "Felix version 2.1.0-rc3\n\nChanges since 2.1.0-rc2:\n\n- Implement loose RPF startup check. (#1322)\n- Add coverage reporting target for golang. (#1323)\n- Handle interfaces being renamed in interface monitor. (#1329)\n- Aggressively re-check iptables after an update. (#1326)\n- Rev libcalico-go to v1.1.0-rc1.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

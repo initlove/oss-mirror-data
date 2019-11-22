@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODY2NzU4NjQ6ZDE4OWYxNWI0YjNhMTZiZTY5MjcwMDc2OGQxMGJkMTFmOGUzYmRmMw==",
+  "sha": "d189f15b4b3a16be692700768d10bd11f8e3bdf3",
+  "url": "https://api.github.com/repos/openstack/osc-placement/git/tags/d189f15b4b3a16be692700768d10bd11f8e3bdf3",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-16T14:26:23Z"
+  },
+  "object": {
+    "sha": "bb001133b277e85afba1827f75927ec6d04df683",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/osc-placement/git/commits/bb001133b277e85afba1827f75927ec6d04df683"
+  },
+  "tag": "1.6.0",
+  "message": "osc-placement 1.6.0 release\n\nmeta:version: 1.6.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: I0ee032f305c2f8969077f995bcff4e1610346448\nmeta:release:Code-Review+1: Eric Fried <openstack@fried.cc>\nmeta:release:Code-Review+1: Chris Dent <cdent@anticdent.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1WvQ8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2ATTC/9MwCr1HfrJvyCm/TzT8lQk\nWAjl9QZJVruF2068lqhXAmSP8gsHnqpxXop5f2F66a9qegZfAsphz0d8nATQv07l\nsUnAwV51XNHLFf0f28j7Pe8DlUAHcWcn6qybuFWfc3x09BCfNWH2dHXpk9tnVYBA\n5gNiRUmB6t5Vl2a9MXmWZS2dPGhpL71WNIPhdCAGpf4wiYp8TTOIUxFFeepJ8Fu8\nAM/2j/YCm6KfGNnTLNuqiwdyrcaEj22tjk80+BsmIyrlPUMSirca6xLLPZLnMNPO\nzmFkmkZEQt2yaoZDAq8QOpgw5Lfbq5mxLuchuIo83dLRZr/qJqnYkPkmGYen7J9w\nKC5epAhuYb9fOtKGqw5fUwdxmPKSOJq3ysCiSjy0wHvWdO3JIy4K5aI6n39ftNCM\nDwNgeiIMz4bJiUHrav+7/ajrYJpP/GByGAZVSryLxD2Af7b4RC4lxOTiWFAt27+X\njvsaY8+Bpnry4syV2P62KYD5EYR8eWBvYiF0YX50/1c=\n=6nAL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1WvQ8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2ATTC/9MwCr1HfrJvyCm/TzT8lQk\nWAjl9QZJVruF2068lqhXAmSP8gsHnqpxXop5f2F66a9qegZfAsphz0d8nATQv07l\nsUnAwV51XNHLFf0f28j7Pe8DlUAHcWcn6qybuFWfc3x09BCfNWH2dHXpk9tnVYBA\n5gNiRUmB6t5Vl2a9MXmWZS2dPGhpL71WNIPhdCAGpf4wiYp8TTOIUxFFeepJ8Fu8\nAM/2j/YCm6KfGNnTLNuqiwdyrcaEj22tjk80+BsmIyrlPUMSirca6xLLPZLnMNPO\nzmFkmkZEQt2yaoZDAq8QOpgw5Lfbq5mxLuchuIo83dLRZr/qJqnYkPkmGYen7J9w\nKC5epAhuYb9fOtKGqw5fUwdxmPKSOJq3ysCiSjy0wHvWdO3JIy4K5aI6n39ftNCM\nDwNgeiIMz4bJiUHrav+7/ajrYJpP/GByGAZVSryLxD2Af7b4RC4lxOTiWFAt27+X\njvsaY8+Bpnry4syV2P62KYD5EYR8eWBvYiF0YX50/1c=\n=6nAL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bb001133b277e85afba1827f75927ec6d04df683\ntype commit\ntag 1.6.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1565965583 +0000\n\nosc-placement 1.6.0 release\n\nmeta:version: 1.6.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: I0ee032f305c2f8969077f995bcff4e1610346448\nmeta:release:Code-Review+1: Eric Fried <openstack@fried.cc>\nmeta:release:Code-Review+1: Chris Dent <cdent@anticdent.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

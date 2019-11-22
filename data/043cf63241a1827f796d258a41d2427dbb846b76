@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6MDQzY2Y2MzI0MWExODI3Zjc5NmQyNThhNDFkMjQyN2RiYjg0NmI3Ng==",
+  "sha": "043cf63241a1827f796d258a41d2427dbb846b76",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/043cf63241a1827f796d258a41d2427dbb846b76",
+  "tagger": {
+    "name": "Rob Brockbank",
+    "email": "rob@tigera.io",
+    "date": "2017-05-09T16:41:49Z"
+  },
+  "object": {
+    "sha": "bc4d54dbe047c513c9a47ad5c89ff29be1128a2c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/bc4d54dbe047c513c9a47ad5c89ff29be1128a2c"
+  },
+  "tag": "2.2.0-rc5",
+  "message": "Felix version 2.2.0-rc5\n\n- Make the Felix log level configurable\n- Rev go-build to v0.6 to pick up go 1.8.1.\n- Squash duplicate host IP updates to avoid churning dataplane.\n- Disable node polling if IPIP is disabled.\n- Rev libcalico-go to v1.2.1.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

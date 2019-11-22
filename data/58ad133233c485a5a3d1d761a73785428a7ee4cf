@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDYxMjU2MjU6NThhZDEzMzIzM2M0ODVhNWEzZDFkNzYxYTczNzg1NDI4YTdlZTRjZg==",
+  "sha": "58ad133233c485a5a3d1d761a73785428a7ee4cf",
+  "url": "https://api.github.com/repos/openstack/python-vitrageclient/git/tags/58ad133233c485a5a3d1d761a73785428a7ee4cf",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-28T11:06:11Z"
+  },
+  "object": {
+    "sha": "d6bd2be30abccf02208e277bdb191701eeeb3dfe",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-vitrageclient/git/commits/d6bd2be30abccf02208e277bdb191701eeeb3dfe"
+  },
+  "tag": "queens-em",
+  "message": "python-vitrageclient queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: If6122c9e5154e4db33917b335df2b8500bff5718\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+1: Eyal <eyal.bar-ilan@nokia.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl22y6MZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2BcJC/4qYnAYOTn2h+HzHRDjdMJD\nBZw1U+OCLbbrpGj6xdL+jC4HJSSX5H18WyNcLEujP4lG7MJIy2GmBWiNwtKTWl7g\ndiGfkIITA3UrUxdHqkJcfyBzW2xA4haVV+8BgcxWvSmMbff1FVgA/Y/q91aveAeP\nuLH6i1b6x9nOu5Domg/ThsE1aabBXm4T3TAlRsm0ZMPVwFXw+Fx6CL5VcAplKjf1\nEZXzXLtbb6vp+MJdPE/C3+SdwvuafkInr856ZmXHq8LnYPS18424Zv42TVW/VYyf\ng0ISB9XxJz+ktMvnFDIMlJsL0BsoUq3owI0iG/3RHtrN3G5Jtcn68+sQgZBCidx/\nCZK6+upJ0kqeoGtR7twr265+9NY3h/IsR2a00O6GtMVSFdP5syu9g+Xy0c9bC0kC\ntzV7FZGQKTCs8qEpwp1P/ISWWSNSIwbhHhx5SvOX0QD6GLeDLL53uh0/69eO0Hcx\n+gOkzFcNdMY9OiS/9IqwXb2fnVmNTrItOsRAgfRkOcw=\n=BHqV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl22y6MZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2BcJC/4qYnAYOTn2h+HzHRDjdMJD\nBZw1U+OCLbbrpGj6xdL+jC4HJSSX5H18WyNcLEujP4lG7MJIy2GmBWiNwtKTWl7g\ndiGfkIITA3UrUxdHqkJcfyBzW2xA4haVV+8BgcxWvSmMbff1FVgA/Y/q91aveAeP\nuLH6i1b6x9nOu5Domg/ThsE1aabBXm4T3TAlRsm0ZMPVwFXw+Fx6CL5VcAplKjf1\nEZXzXLtbb6vp+MJdPE/C3+SdwvuafkInr856ZmXHq8LnYPS18424Zv42TVW/VYyf\ng0ISB9XxJz+ktMvnFDIMlJsL0BsoUq3owI0iG/3RHtrN3G5Jtcn68+sQgZBCidx/\nCZK6+upJ0kqeoGtR7twr265+9NY3h/IsR2a00O6GtMVSFdP5syu9g+Xy0c9bC0kC\ntzV7FZGQKTCs8qEpwp1P/ISWWSNSIwbhHhx5SvOX0QD6GLeDLL53uh0/69eO0Hcx\n+gOkzFcNdMY9OiS/9IqwXb2fnVmNTrItOsRAgfRkOcw=\n=BHqV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d6bd2be30abccf02208e277bdb191701eeeb3dfe\ntype commit\ntag queens-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572260771 +0000\n\npython-vitrageclient queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: If6122c9e5154e4db33917b335df2b8500bff5718\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+1: Eyal <eyal.bar-ilan@nokia.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

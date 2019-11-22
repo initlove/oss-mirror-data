@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6MGM0MjEwYzMwODVhYmI1MDg3OGQzNjIzNTkwMjNmNTBkMWUyMGZiMQ==",
+  "sha": "0c4210c3085abb50878d362359023f50d1e20fb1",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/0c4210c3085abb50878d362359023f50d1e20fb1",
+  "tagger": {
+    "name": "Neil Jerram",
+    "email": "neil@tigera.io",
+    "date": "2017-03-29T16:51:29Z"
+  },
+  "object": {
+    "sha": "ff29d69f152a0d09b6b673e2f96d457354d18ff1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/ff29d69f152a0d09b6b673e2f96d457354d18ff1"
+  },
+  "tag": "2.1.1",
+  "message": "Felix version 2.1.1\n\n- Seed Go's RNG.\n- Fix felix.go imports.\n- Rev libcalico-go to 1.1.4, to pick up pod deletion fix (libcalico-go\n  #375) when using the Kubernetes datastore driver.\n- Ensure IP forwarding is enabled on the interfaces we control.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

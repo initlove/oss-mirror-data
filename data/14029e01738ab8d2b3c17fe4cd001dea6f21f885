@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzk5MDkyOTg6MTQwMjllMDE3MzhhYjhkMmIzYzE3ZmU0Y2QwMDFkZWE2ZjIxZjg4NQ==",
+  "sha": "14029e01738ab8d2b3c17fe4cd001dea6f21f885",
+  "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/tags/14029e01738ab8d2b3c17fe4cd001dea6f21f885",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "davenport.cas@gmail.com",
+    "date": "2019-01-09T23:52:14Z"
+  },
+  "object": {
+    "sha": "d2fc87ac4a11790b7466287809896c2a73fab5a6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/commits/d2fc87ac4a11790b7466287809896c2a73fab5a6"
+  },
+  "tag": "v3.5.0-beta.0",
+  "message": "- 665e54f6aed2a413bb754bb9ff475108cec79874 Update GOBUILD to v0.20\n- e646d95602dec3efcb6cdd90857498ca0ce08166 Automated libcalico pin update\n- 828df4c2239af85a04c51c2931578bc7dba0f6cb Automated libcalico pin update\n- 4c9619874b5e8b972cbd122d90dd4d7555715237 Switch from fmt.Fprintf to logger.Info.\n- d7c7cdc60900954e8025bef4c3335dd2b3cd2c05 Specify GitHub organization in release-publish\n- 1ce7b2b4947c7945483b7c73014ccd667e6bad18 Automated libcalico pin update\n- bfba4f3708996bf502c68a461f75728fd2246045 set proxy_delay before set proxy_arp to avoid kernel panic\n- e075941dbfc4813780cd8459c30a69443f8ce8c0 Add foss checks to makefile\n- bcd7c25dfb0a0d17d23da5bd3c902a2100183f36 Automated libcalico pin update\n- 25f8b496e87f6cb971d0478afbab73d09028a56c Update libcalico to include IPPool node selector\n- b131d97b2b27e4b55dcf96ec6344029320dc441f Create a Node object in the FV tests\n- c6d5614ef8d5398cba2d6ed1a057ce8846f7cf09 Automated libcalico pin update\n- afb427915ebdbf6cd012c87b7bd9794d9aa27041 Support error level logging\n- d2fc87ac4a11790b7466287809896c2a73fab5a6 Automated libcalico pin update\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

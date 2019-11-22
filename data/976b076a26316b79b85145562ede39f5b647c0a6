@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzczMDgyOTo5NzZiMDc2YTI2MzE2Yjc5Yjg1MTQ1NTYyZWRlMzlmNWI2NDdjMGE2",
+  "sha": "976b076a26316b79b85145562ede39f5b647c0a6",
+  "url": "https://api.github.com/repos/psycopg/psycopg2/git/tags/976b076a26316b79b85145562ede39f5b647c0a6",
+  "tagger": {
+    "name": "Daniele Varrazzo",
+    "email": "daniele.varrazzo@gmail.com",
+    "date": "2017-08-25T14:15:13Z"
+  },
+  "object": {
+    "sha": "c45e219387455a845741a72aab4195b452a4c6e0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/c45e219387455a845741a72aab4195b452a4c6e0"
+  },
+  "tag": "2_7_3_1",
+  "message": "Psycopg 2.7.3.1 released\n\nWhat's new in psycopg 2.7.3.1\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n- Dropped libresolv from wheel package to avoid incompatibility with\n  glibc 2.26 (wheels ticket #2)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZoDEbAAoJEGATvTr8+Vfemw4H/0n/a8wUMEboA83VA+6lygpA\nkV3WWPU0bjZOV3a+aOWNwgTCW9b3mvVy2RcH8EvkXGFDQV2ghQytfdalkgK1oe8T\nHUdHITZNDoJvUZIST4QJ02EvRmQjV9LhyOtzX4NcKa85aA4pweAqxZtxmKVOVug4\n4DJgMO/qyU53dyJKPw9sRDrQhACgyBT3Y2/tXlfrNGIR30PwsQZQJAsj0dRKJVhQ\nihXJxRtyoKtfc8P9dBDLQs+593VPUmnip9auCGlDZm1EOnaqythpQoHK8yXl8rCL\nFX4u04bAmPDsB30x4XLExg8Cx6OvbKNndrVTJlVR6Fz6b1M0oORLNpKkgZnwi88=\n=9nfG\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZoDEbAAoJEGATvTr8+Vfemw4H/0n/a8wUMEboA83VA+6lygpA\nkV3WWPU0bjZOV3a+aOWNwgTCW9b3mvVy2RcH8EvkXGFDQV2ghQytfdalkgK1oe8T\nHUdHITZNDoJvUZIST4QJ02EvRmQjV9LhyOtzX4NcKa85aA4pweAqxZtxmKVOVug4\n4DJgMO/qyU53dyJKPw9sRDrQhACgyBT3Y2/tXlfrNGIR30PwsQZQJAsj0dRKJVhQ\nihXJxRtyoKtfc8P9dBDLQs+593VPUmnip9auCGlDZm1EOnaqythpQoHK8yXl8rCL\nFX4u04bAmPDsB30x4XLExg8Cx6OvbKNndrVTJlVR6Fz6b1M0oORLNpKkgZnwi88=\n=9nfG\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c45e219387455a845741a72aab4195b452a4c6e0\ntype commit\ntag 2_7_3_1\ntagger Daniele Varrazzo <daniele.varrazzo@gmail.com> 1503670513 +0100\n\nPsycopg 2.7.3.1 released\n\nWhat's new in psycopg 2.7.3.1\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n- Dropped libresolv from wheel package to avoid incompatibility with\n  glibc 2.26 (wheels ticket #2)\n"
+  }
+}

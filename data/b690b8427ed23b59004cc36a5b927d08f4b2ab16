@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6YjY5MGI4NDI3ZWQyM2I1OTAwNGNjMzZhNWI5MjdkMDhmNGIyYWIxNg==",
+  "sha": "b690b8427ed23b59004cc36a5b927d08f4b2ab16",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/b690b8427ed23b59004cc36a5b927d08f4b2ab16",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2019-06-12T01:17:26Z"
+  },
+  "object": {
+    "sha": "dee587e683498068d3bf4ea3923fdbf25a994d96",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/dee587e683498068d3bf4ea3923fdbf25a994d96"
+  },
+  "tag": "v3.7.3",
+  "message": "- 46157bf2e92a6818113de7f3596c6b8e0f35e626 Fix slow leak in endpoint_mgr\n- fc613f189da72c58a11552091a9fe8a666d65787 Improve calc graph test infra: - avoid adding empty state to end of tests since it makes single-state async tests meaningless - improve injector diags - add env vars to quickly disable test expansion and async tests.\n- 8116d9ed793dcbbda83855c26bfac0c2497a18ab Fix that routes were not re-sent if node IPs changed.\n- ad4f6f9c45eac479da25ea77420f2d2d819a45f1 Update libcalico-go to 8898b03e9d624b38f903a530ffc40f8a39a433d9\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

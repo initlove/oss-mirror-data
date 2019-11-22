@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6YmZhY2ZmMjk0NzFlNGQ0NjAzNDEyNTVmNDk3Y2YxMDc4NDljOTAxYw==",
+  "sha": "bfacff29471e4d460341255f497cf107849c901c",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/bfacff29471e4d460341255f497cf107849c901c",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "NMoreyChaisemartin@suse.com",
+    "date": "2018-02-01T08:43:31Z"
+  },
+  "object": {
+    "sha": "b3685b31b91515d3e886769d1e76644f400e75a4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/b3685b31b91515d3e886769d1e76644f400e75a4"
+  },
+  "tag": "v15.3",
+  "message": "rdma-core-15.3:\n\nUpdates from version 15.2:\n  * Backport fixes:\n    * iwpmd: fix double mutex unlock\n    * libbnxt_re: Fix lat test failure in event mode\n    * libbnxt_re: Update and sort device pci-id table\n    * cbuild: Support distros that only ship python3\n    * libbnxt_re: Display FW version using ibv_devinfo\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABAgAGBQJactNQAAoJEIAb3bglmI9k+IUH/An5KayMXGChyFI4X+QXlRpe\nJD2SxeP5MTGBkfLMKgPJq/vdkWVNCy1HWf3/nnNTiV1rn0r0PzLJJc0g9u38168Y\n1KwV9bEo4k0irSeB9ozynZoM8u7EI0W7Frg4RVrUN/BskG/F32NjEZN2azf7cnX2\nvCE7E0AYlrLMne4gQHDk7LT90JlcpbJAsS3yXliZ1t/y3u5gGMenXUmlwby0Hpih\nakz4Onwao16spJByZgaslYaTABnsfLinkuAx1r48PFnWq1HGRUOyrkKqoYxdsrV7\nbz/jasrB2T4Mt4kuhv8uGDlM81fFtGRFC8OLKsZjWoU7Q0hbeI36JwxZK+CeBAI=\n=N01y\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABAgAGBQJactNQAAoJEIAb3bglmI9k+IUH/An5KayMXGChyFI4X+QXlRpe\nJD2SxeP5MTGBkfLMKgPJq/vdkWVNCy1HWf3/nnNTiV1rn0r0PzLJJc0g9u38168Y\n1KwV9bEo4k0irSeB9ozynZoM8u7EI0W7Frg4RVrUN/BskG/F32NjEZN2azf7cnX2\nvCE7E0AYlrLMne4gQHDk7LT90JlcpbJAsS3yXliZ1t/y3u5gGMenXUmlwby0Hpih\nakz4Onwao16spJByZgaslYaTABnsfLinkuAx1r48PFnWq1HGRUOyrkKqoYxdsrV7\nbz/jasrB2T4Mt4kuhv8uGDlM81fFtGRFC8OLKsZjWoU7Q0hbeI36JwxZK+CeBAI=\n=N01y\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b3685b31b91515d3e886769d1e76644f400e75a4\ntype commit\ntag v15.3\ntagger Nicolas Morey-Chaisemartin <NMoreyChaisemartin@suse.com> 1517474611 +0100\n\nrdma-core-15.3:\n\nUpdates from version 15.2:\n  * Backport fixes:\n    * iwpmd: fix double mutex unlock\n    * libbnxt_re: Fix lat test failure in event mode\n    * libbnxt_re: Update and sort device pci-id table\n    * cbuild: Support distros that only ship python3\n    * libbnxt_re: Display FW version using ibv_devinfo\n"
+  }
+}

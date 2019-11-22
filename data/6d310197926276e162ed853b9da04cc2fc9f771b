@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6NmQzMTAxOTc5MjYyNzZlMTYyZWQ4NTNiOWRhMDRjYzJmYzlmNzcxYg==",
+  "sha": "6d310197926276e162ed853b9da04cc2fc9f771b",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/6d310197926276e162ed853b9da04cc2fc9f771b",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2018-10-15T09:01:59Z"
+  },
+  "object": {
+    "sha": "222fa83a789cd24a1e0900389587d47812fba086",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/222fa83a789cd24a1e0900389587d47812fba086"
+  },
+  "tag": "v20.1",
+  "message": "rdma-core-20.1:\n\nUpdates from version 20.0\n * Backport fixes:\n   * travis: Fix travis failures\n   * pkg-config: Move Libs.private to after Libs\n   * verbs: If the uverbs module is not loaded allow get_devices to retry init\n   * mlx5: Fix flow tag mask\n   * ABI Files\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlvEV4kcHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZJ+sCACNvGn4HqqKL0AO0LS1\ncxBYbuF7MCpPj2kHdIX/X7SMc2MnYYhtUU9aIQuYd+maSec/+ro5xUDmbUm5hJ/Y\n0X1LsRET/6vM51ryFZedYVzfXjRKDtiG3CycFHSWd8qQAIfvXO+/1Bc+7m1s4oau\n4qA7wvJESKqTRQTn65R7Kl253IUyZJEf3fCboN956KRKlxgxTcidoYLHSGfJwEqK\nsaZcYByLuq1WG7XP5Du+MpmsWRs4rRxVVxDAYg1FeBxG9rUKlER2tPSEl4GAAnpS\nyKjfHxyDxyk4NUMeMWQ9u5NAxFrDko9zJiFXjCwB37Vc8GamEogP0cwbCWdxSd/n\n6Gdn\n=0kMY\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlvEV4kcHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZJ+sCACNvGn4HqqKL0AO0LS1\ncxBYbuF7MCpPj2kHdIX/X7SMc2MnYYhtUU9aIQuYd+maSec/+ro5xUDmbUm5hJ/Y\n0X1LsRET/6vM51ryFZedYVzfXjRKDtiG3CycFHSWd8qQAIfvXO+/1Bc+7m1s4oau\n4qA7wvJESKqTRQTn65R7Kl253IUyZJEf3fCboN956KRKlxgxTcidoYLHSGfJwEqK\nsaZcYByLuq1WG7XP5Du+MpmsWRs4rRxVVxDAYg1FeBxG9rUKlER2tPSEl4GAAnpS\nyKjfHxyDxyk4NUMeMWQ9u5NAxFrDko9zJiFXjCwB37Vc8GamEogP0cwbCWdxSd/n\n6Gdn\n=0kMY\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 222fa83a789cd24a1e0900389587d47812fba086\ntype commit\ntag v20.1\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1539594119 +0200\n\nrdma-core-20.1:\n\nUpdates from version 20.0\n * Backport fixes:\n   * travis: Fix travis failures\n   * pkg-config: Move Libs.private to after Libs\n   * verbs: If the uverbs module is not loaded allow get_devices to retry init\n   * mlx5: Fix flow tag mask\n   * ABI Files\n"
+  }
+}

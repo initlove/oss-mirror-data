@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6OTg5ZWNiZmM4MGE0N2QxOTQyNzdjOTdjN2MwOWY1OGQzNmMzZDg3OQ==",
+  "sha": "989ecbfc80a47d194277c97c7c09f58d36c3d879",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/989ecbfc80a47d194277c97c7c09f58d36c3d879",
+  "tagger": {
+    "name": "Doug Ledford",
+    "email": "dledford@redhat.com",
+    "date": "2017-01-11T19:16:25Z"
+  },
+  "object": {
+    "sha": "fc645ff22e54361f809acc38d8f8e40035eda517",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/fc645ff22e54361f809acc38d8f8e40035eda517"
+  },
+  "tag": "rdma-core-12-rc5",
+  "message": "Minor additions:\n\n- Updated build to work on 32bit arm by disabling providers that require\n  coherent DMA as 32bit arm doesn't provide such\n- Updates to resolve build issues on Debian\n- Updates to redhat specific build scripts\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJYdoSKAAoJELgmozMOVy/dUUoP/1Gxr8brVASu9SXS/H6+kpTm\nL8rqPqncsHuynbn1EnkETm9kaP8X8murqvjB3Etx/EUYGbBLK4nEA1DLFqEYd21H\nPi/2xUaNj9AjNiJ+pQ83kopZE/6EvFnxb6QD2WAKDmBr0zXJdiDMvDzYjj3jCi3Y\nFmXro/V9Eom09Aql1Lo86EHy58BBSNTltxXqxUAJgUVaRd2T8Wfe08JSJJyDkfYi\nIhLkSWf9qpKwrqkbn0f5gSozPbLz89BZr3ucrHCHHfWQPvj4+4F3CZExblGjqQ8j\nxVBCfyImtxj4Ks6WQFBRVEugJMsfcL9ql++FxWVxQHjFO1PRbOvXNHELr4TULxBW\nfFNSN+qW2DhByJzOm2D2j93ReJHAQm/rWRhmGj2TJ+3MumcE+WSao985oe7kSXIO\nHcDvversVR2bBhpnky9mjXWec8LyY3tJjxUjXWcCDOVSvzbAvhGdRiW8wKMR2fEW\nCq0in+aA84IOuBBedplcG/M6zpRaSMOhKHaoOQp+CBZHJrutl2gnHyvrkrQ3pAxF\nLFo+SLkYKvqknSJdPBE3RvmO3Meueb45phDL5sz0t/EgCwB8O+Tonrg6ME0TeQQX\nAq6PmNZApBJaKeawOvIUBZCdybC1IYACLpSpVq4sxC1qCRL95y56y9tS1x5lZNRv\nyiVQZEAYw/72kex8tiLg\n=qWiM\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJYdoSKAAoJELgmozMOVy/dUUoP/1Gxr8brVASu9SXS/H6+kpTm\nL8rqPqncsHuynbn1EnkETm9kaP8X8murqvjB3Etx/EUYGbBLK4nEA1DLFqEYd21H\nPi/2xUaNj9AjNiJ+pQ83kopZE/6EvFnxb6QD2WAKDmBr0zXJdiDMvDzYjj3jCi3Y\nFmXro/V9Eom09Aql1Lo86EHy58BBSNTltxXqxUAJgUVaRd2T8Wfe08JSJJyDkfYi\nIhLkSWf9qpKwrqkbn0f5gSozPbLz89BZr3ucrHCHHfWQPvj4+4F3CZExblGjqQ8j\nxVBCfyImtxj4Ks6WQFBRVEugJMsfcL9ql++FxWVxQHjFO1PRbOvXNHELr4TULxBW\nfFNSN+qW2DhByJzOm2D2j93ReJHAQm/rWRhmGj2TJ+3MumcE+WSao985oe7kSXIO\nHcDvversVR2bBhpnky9mjXWec8LyY3tJjxUjXWcCDOVSvzbAvhGdRiW8wKMR2fEW\nCq0in+aA84IOuBBedplcG/M6zpRaSMOhKHaoOQp+CBZHJrutl2gnHyvrkrQ3pAxF\nLFo+SLkYKvqknSJdPBE3RvmO3Meueb45phDL5sz0t/EgCwB8O+Tonrg6ME0TeQQX\nAq6PmNZApBJaKeawOvIUBZCdybC1IYACLpSpVq4sxC1qCRL95y56y9tS1x5lZNRv\nyiVQZEAYw/72kex8tiLg\n=qWiM\n-----END PGP SIGNATURE-----\n",
+    "payload": "object fc645ff22e54361f809acc38d8f8e40035eda517\ntype commit\ntag rdma-core-12-rc5\ntagger Doug Ledford <dledford@redhat.com> 1484162185 -0500\n\nMinor additions:\n\n- Updated build to work on 32bit arm by disabling providers that require\n  coherent DMA as 32bit arm doesn't provide such\n- Updates to resolve build issues on Debian\n- Updates to redhat specific build scripts\n"
+  }
+}

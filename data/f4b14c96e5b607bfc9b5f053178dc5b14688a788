@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6ZjRiMTRjOTZlNWI2MDdiZmM5YjVmMDUzMTc4ZGM1YjE0Njg4YTc4OA==",
+  "sha": "f4b14c96e5b607bfc9b5f053178dc5b14688a788",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/f4b14c96e5b607bfc9b5f053178dc5b14688a788",
+  "tagger": {
+    "name": "Brendan Creane",
+    "email": "brendan@tigera.io",
+    "date": "2017-11-18T00:00:04Z"
+  },
+  "object": {
+    "sha": "c92d13804273dfa430cbdd15b106e02af231c0a0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/c92d13804273dfa430cbdd15b106e02af231c0a0"
+  },
+  "tag": "3.0.0-beta1",
+  "message": "Felix version 3.0.0-beta1\n\n- Improve the performance of dockerd during iptables_lock_test.\n- Allow override of etcd image in FVs\n- Rev go-build to v0.9 to pick up go 1.9.2.\n- Remove monotime dependency.\n- Adjust timeouts and parallel executions in FVs.\n- Update libcalico to get namespace selector support\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

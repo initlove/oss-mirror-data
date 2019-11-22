@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDYxMjU2MjU6ZTExNzZiYTNkZmQ5NTgzZjc5ZTMzZTQ3MWEyNzU4NTU4ZTNjMTkyZQ==",
+  "sha": "e1176ba3dfd9583f79e33e471a2758558e3c192e",
+  "url": "https://api.github.com/repos/openstack/python-vitrageclient/git/tags/e1176ba3dfd9583f79e33e471a2758558e3c192e",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-07T19:23:50Z"
+  },
+  "object": {
+    "sha": "5d6673e343a47fc4cf90e53b2e6e9fa37d7f601c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-vitrageclient/git/commits/5d6673e343a47fc4cf90e53b2e6e9fa37d7f601c"
+  },
+  "tag": "2.7.0",
+  "message": "python-vitrageclient 2.7.0 release\n\nmeta:version: 2.7.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ifat Afek <ifat.afek@nokia.com>\nmeta:release:Commit: Ifat Afek <ifat.afek@nokia.com>\nmeta:release:Change-Id: I1b185ac76104a033c706bcc2cf52578f25919c16\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcgW/GAAoJEBpUEUgFTp44hdUMAKqx+2yjLag3xTG1FHjHVtyi\n4TTkDvkv8uAoOKP9PVrywylweV9nWiE91KTfmIndcmb68Ar5JSC2KB5YIPX1+nUf\nh3JZepRHU0aM8hY32NL3Sds1zcfw8QcU37i5rcrWQ1IQdpOWsaiNRwKeCnHAMjKX\nuiWpqrPW7quBCrUmkVXl4LV11mqLk89WiMVuAHadbQi3k+4aM9kLg7cmO9dPNRal\nWbDwRQU7EdbXq7/NI5CZwAXpffDRRRqh0psq4+5I9O6xcXVFcRP+IGRiabaHsLdp\nJokyVZTUjEoyc4hVa5LeNj5sAKLp0T4U5LTin0Ch6cexMBcY3A2qWaCC8cHCdBMx\nAjmSluP5PD6vtQYeQEf/v5hAD0qhTG1Zr3SWfeG05WiBZuKKeA+Azr40kktIvLrj\nUUG2iIiuFeDofWL2QyM6hWPeOXsekMLS37+3seoKDuzyUmZWF0dyHX0MjxnxKnRL\nXICNczYlTV7to8xsfQXO6lyTUf/NBaLEp6fcoRg8SQ==\n=L5tZ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcgW/GAAoJEBpUEUgFTp44hdUMAKqx+2yjLag3xTG1FHjHVtyi\n4TTkDvkv8uAoOKP9PVrywylweV9nWiE91KTfmIndcmb68Ar5JSC2KB5YIPX1+nUf\nh3JZepRHU0aM8hY32NL3Sds1zcfw8QcU37i5rcrWQ1IQdpOWsaiNRwKeCnHAMjKX\nuiWpqrPW7quBCrUmkVXl4LV11mqLk89WiMVuAHadbQi3k+4aM9kLg7cmO9dPNRal\nWbDwRQU7EdbXq7/NI5CZwAXpffDRRRqh0psq4+5I9O6xcXVFcRP+IGRiabaHsLdp\nJokyVZTUjEoyc4hVa5LeNj5sAKLp0T4U5LTin0Ch6cexMBcY3A2qWaCC8cHCdBMx\nAjmSluP5PD6vtQYeQEf/v5hAD0qhTG1Zr3SWfeG05WiBZuKKeA+Azr40kktIvLrj\nUUG2iIiuFeDofWL2QyM6hWPeOXsekMLS37+3seoKDuzyUmZWF0dyHX0MjxnxKnRL\nXICNczYlTV7to8xsfQXO6lyTUf/NBaLEp6fcoRg8SQ==\n=L5tZ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5d6673e343a47fc4cf90e53b2e6e9fa37d7f601c\ntype commit\ntag 2.7.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1551986630 +0000\n\npython-vitrageclient 2.7.0 release\n\nmeta:version: 2.7.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ifat Afek <ifat.afek@nokia.com>\nmeta:release:Commit: Ifat Afek <ifat.afek@nokia.com>\nmeta:release:Change-Id: I1b185ac76104a033c706bcc2cf52578f25919c16\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

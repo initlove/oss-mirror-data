@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6OTQ0M2VhYWI3NTE4YzdiZDE5N2RmOTg1MGE3OTBiOGVjNzJlYzIwOA==",
+  "sha": "9443eaab7518c7bd197df9850a790b8ec72ec208",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/9443eaab7518c7bd197df9850a790b8ec72ec208",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2019-02-06T07:17:16Z"
+  },
+  "object": {
+    "sha": "346da4ab04bd145edb9168012eec7243566fbde0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/346da4ab04bd145edb9168012eec7243566fbde0"
+  },
+  "tag": "v17.4",
+  "message": "rdma-core-17.4:\n\nUpdates from version 17.3\n * Backport fixes:\n   * verbs: Fix pingpong buffer validation\n   * mlx5: Fix SL to Ethernet priority conversion\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlxaif4cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZPi/CACktrc27TxF/LmYVPwG\nAONWvX0W/o6GJ8XxvuxG8qW3GFtvdflHAMiyZT9KdwoYppSki6Nn+dNEa3FQJFbz\nmhW4e7Li+GXzqX5jPJ/saFzkHZNcPEAsJMrX+jPOx5VE6UsiYTyVQ7Qokr7zwBx8\nS7qLg4nSAguxFP/ESPAPh3L1LXtyz7OBvvroX34L0audNnuU+Ej9h87NtFvfl+3z\n5HudvkO1sF3H04rutbJNECAa7ku2sc8Rky7rZj6Zxi73l4qy+B6EfsXiQzt3BQ9e\nzZwOW5A093L5r0sT2+ARO/oTUImz9j1U7YDZW5z6wBuoN7P/sHf74kdWuxaiVuwJ\nxF3+\n=mY6w\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlxaif4cHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZPi/CACktrc27TxF/LmYVPwG\nAONWvX0W/o6GJ8XxvuxG8qW3GFtvdflHAMiyZT9KdwoYppSki6Nn+dNEa3FQJFbz\nmhW4e7Li+GXzqX5jPJ/saFzkHZNcPEAsJMrX+jPOx5VE6UsiYTyVQ7Qokr7zwBx8\nS7qLg4nSAguxFP/ESPAPh3L1LXtyz7OBvvroX34L0audNnuU+Ej9h87NtFvfl+3z\n5HudvkO1sF3H04rutbJNECAa7ku2sc8Rky7rZj6Zxi73l4qy+B6EfsXiQzt3BQ9e\nzZwOW5A093L5r0sT2+ARO/oTUImz9j1U7YDZW5z6wBuoN7P/sHf74kdWuxaiVuwJ\nxF3+\n=mY6w\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 346da4ab04bd145edb9168012eec7243566fbde0\ntype commit\ntag v17.4\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1549437436 +0100\n\nrdma-core-17.4:\n\nUpdates from version 17.3\n * Backport fixes:\n   * verbs: Fix pingpong buffer validation\n   * mlx5: Fix SL to Ethernet priority conversion\n"
+  }
+}

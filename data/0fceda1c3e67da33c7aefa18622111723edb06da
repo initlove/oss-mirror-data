@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6MGZjZWRhMWMzZTY3ZGEzM2M3YWVmYTE4NjIyMTExNzIzZWRiMDZkYQ==",
+  "sha": "0fceda1c3e67da33c7aefa18622111723edb06da",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/0fceda1c3e67da33c7aefa18622111723edb06da",
+  "tagger": {
+    "name": "Neil Jerram",
+    "email": "neil@tigera.io",
+    "date": "2016-12-05T14:51:54Z"
+  },
+  "object": {
+    "sha": "6bdd08659efed0eb8621cfa1086dda60fe63b13a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/6bdd08659efed0eb8621cfa1086dda60fe63b13a"
+  },
+  "tag": "2.0.0-rc3",
+  "message": "Felix version 2.0.0-rc3\n\n- Add 5 minutes to initial usage reporting delay\n- Record Felix 2.0.0-rc2 packaging\n- Clean up some minor release process niggles\n- Add a make patch-script target\n- Update to current libcalico-go master\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6YzAwMGQxYjc3NWMzNTY4MDJjNGZkY2NjZWY5OWUxMzc3Nzg2OGRkZQ==",
+  "sha": "c000d1b775c356802c4fdcccef99e13777868dde",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/c000d1b775c356802c4fdcccef99e13777868dde",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@tigera.io",
+    "date": "2017-05-09T17:22:17Z"
+  },
+  "object": {
+    "sha": "bc4d54dbe047c513c9a47ad5c89ff29be1128a2c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/bc4d54dbe047c513c9a47ad5c89ff29be1128a2c"
+  },
+  "tag": "2.2.0",
+  "message": "Felix version 2.2.0\n\n- Rev libcalico-go to v1.2.1 for occupancy reduction and bug fixes.\n- Buffer the signal channel. (#1416)\n- Dump memory profile on receipt of SIGUSR1 (#1415)\n- Add support for failsafe UDP ports and allow DNS/DHCP by default. (#1412)\n- Felix is now built with Go v1.8.1 (#1446).\n- Move log writing to background threads to improve robustness if stdout/stderr blocks. (#1389)\n- Move conntrack rules to per-interface chains to avoid matching\n  non-Calico packets. (#1424)\n- Squash duplicate host IP updates to avoid churning dataplane (#1445).\n- Disable node polling if IPIP is disabled (#1448).\n- Improvements to Kubernetes-based FV framework.\n- Add option to disable ctstate=INVALID rules for some corner cases/experiments.\n- Fix for spurious ERRORs around missing interfaces.\n- Fix felix_cluster_* metrics not being updated.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

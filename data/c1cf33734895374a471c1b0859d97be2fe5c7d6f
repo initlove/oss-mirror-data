@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6YzFjZjMzNzM0ODk1Mzc0YTQ3MWMxYjA4NTlkOTdiZTJmZTVjN2Q2Zg==",
+  "sha": "c1cf33734895374a471c1b0859d97be2fe5c7d6f",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/c1cf33734895374a471c1b0859d97be2fe5c7d6f",
+  "tagger": {
+    "name": "Brendan Creane",
+    "email": "brendan@tigera.io",
+    "date": "2017-12-15T00:29:18Z"
+  },
+  "object": {
+    "sha": "6c7aa56983f0f2f1bdbe71f1f209bec5c149a0a6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/6c7aa56983f0f2f1bdbe71f1f209bec5c149a0a6"
+  },
+  "tag": "2.6.3-rc1",
+  "message": "Felix version 2.6.3-rc1\n\n- Handle config changes for ClusterGUID, ClusterType, CalicoVersion. - https://github.com/projectcalico/felix/pull/1641\n- Backport fix for felix failure to restart. - https://github.com/projectcalico/felix/pull/1646\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

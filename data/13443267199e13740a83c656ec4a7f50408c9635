@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6MTM0NDMyNjcxOTllMTM3NDBhODNjNjU2ZWM0YTdmNTA0MDhjOTYzNQ==",
+  "sha": "13443267199e13740a83c656ec4a7f50408c9635",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/13443267199e13740a83c656ec4a7f50408c9635",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2019-02-06T07:17:39Z"
+  },
+  "object": {
+    "sha": "f29e37ea266fa8a9758d21a8e16436ad6aab9925",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/f29e37ea266fa8a9758d21a8e16436ad6aab9925"
+  },
+  "tag": "v20.2",
+  "message": "rdma-core-20.2:\n\nUpdates from version 20.1\n * Backport fixes:\n   * libhns: Bugfix for allocating and freeing sq db buffer\n   * verbs: Fix pingpong buffer validation\n   * verbs: Fix execute_ioctl_fallback() bad flow\n   * verbs: Device memory cannot be on demand in rc_pingpong\n   * mlx5: Fix SL to Ethernet priority conversion\n   * librdmacm: Change server default address to any address.\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlxaihccHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZAX1B/496tfyovWX/63pE8/F\n3tpZJR+JKtRlQX2UW9lxB1pBlAUa5w0MpeXmm5dQ4ontRP5Cqbt0hkgfv+i7Anq9\nOkyvTjiDmeNnqO8u5TAhjlPHI6EkgUrjwbFWfZsesUTHFBuNUQuZZ6zXg+TWl/j2\nVcvgGEjPQA6LaB0mmVuvo3jGEBZPOJBZxlxLZprzL91jXwiOMQRKQUm1qGiuKX0u\nXWkQEh08bTZ0BbtEaugmHgfBgGtfQlkI4AJW4bXZ7JwsXzvREIqgvi9PLsup8PDm\nB6/tOViJSy6np9G3haZ6AHrS6NEEHt5ua2LN8xsBWIl7edkFvTAOYbD2zd2xM7Dp\nv73g\n=pu3J\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlxaihccHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZAX1B/496tfyovWX/63pE8/F\n3tpZJR+JKtRlQX2UW9lxB1pBlAUa5w0MpeXmm5dQ4ontRP5Cqbt0hkgfv+i7Anq9\nOkyvTjiDmeNnqO8u5TAhjlPHI6EkgUrjwbFWfZsesUTHFBuNUQuZZ6zXg+TWl/j2\nVcvgGEjPQA6LaB0mmVuvo3jGEBZPOJBZxlxLZprzL91jXwiOMQRKQUm1qGiuKX0u\nXWkQEh08bTZ0BbtEaugmHgfBgGtfQlkI4AJW4bXZ7JwsXzvREIqgvi9PLsup8PDm\nB6/tOViJSy6np9G3haZ6AHrS6NEEHt5ua2LN8xsBWIl7edkFvTAOYbD2zd2xM7Dp\nv73g\n=pu3J\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f29e37ea266fa8a9758d21a8e16436ad6aab9925\ntype commit\ntag v20.2\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1549437459 +0100\n\nrdma-core-20.2:\n\nUpdates from version 20.1\n * Backport fixes:\n   * libhns: Bugfix for allocating and freeing sq db buffer\n   * verbs: Fix pingpong buffer validation\n   * verbs: Fix execute_ioctl_fallback() bad flow\n   * verbs: Device memory cannot be on demand in rc_pingpong\n   * mlx5: Fix SL to Ethernet priority conversion\n   * librdmacm: Change server default address to any address.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6YTA1ODk4M2UzMDEzYmNmOTUwNzlkZWVmMTZiOGI0NWFmZjFiYzZiZg==",
+  "sha": "a058983e3013bcf95079deef16b8b45aff1bc6bf",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/a058983e3013bcf95079deef16b8b45aff1bc6bf",
+  "tagger": {
+    "name": "Doug Ledford",
+    "email": "dledford@redhat.com",
+    "date": "2017-03-14T17:03:35Z"
+  },
+  "object": {
+    "sha": "d8c3ec40d5ca51ca3279184962d08fab6fc696ef",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/d8c3ec40d5ca51ca3279184962d08fab6fc696ef"
+  },
+  "tag": "v13-rc1",
+  "message": "rdma-core-13-rc1\n\nUpdates from version 12:\n\n- Minor improvements to qedr provider\n- Add libpvrdma provider for VMWare rdma virt devices\n- Improved RoCE AH creation\n- Packet Pacing support\n- Various github build system improvements\n- Updates to Debian and Red Hat packaging\n- Timestamp support in mlx4 provider\n- Make the libibverbs/provider interface private\n- Clean up headers for improved multi-arch support\n- Add Verbs Direct support for mlx5 provider\n- Implement new, more specific multi-arch barrier methods\n- Update all providers to the modern registration method and remove\n  ibv_register_driver entirely\n- Switch the code to use gcc endian conversion functions\n- Fix an endianness issue in srp_daemon\n- Implement a new release mechanism that should create more distro\n  friendly tarballs based on the common release tagging format\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJYyCJ3AAoJELgmozMOVy/doS4QAIbQc3kdxxaNd28MRf8PFYNi\nfKqUcieS2JkDfLgW9Nf33eJBhzMHk5WfYDGT7/bptzy3MIZDz0d3zg94D2juxbnY\nNwWn4Ou2QC1K9odH1sGOdwmER2Ut0Up+ypGUylPdtgwflwOWM0rXtDz6CykS/Sn9\n8j47Fxmt3wFjKJsVnXCp/BfhubMGpg14qg2xnlt02qHyJlSwNSnBW9fw4bg/Fatu\nshSGuku+/b1fp+mxhU+ca5A0IqzmzHC7ZIrTf6T0jw5cNCYX9C4fXbcyX2iS2WQl\nD9ze9+DWTMeil+nhDCoadvBNzYTc+NjG/HuDziD/zORa87413ql7rNry9Sfkb5Ph\nwFINI1HqxYIq3zCSK5xLtPY5tcNh39wc7I79AfdM3a9KPmp/HRTgi7e4KFZyagGI\n2e+a84PDy/zuU7LxZllDa+HYWUhX/sNWlmyMnMNWL3N830kO77pRgmp6U9yeQSDF\n3ApGVNWAt2bZPKTSGFiaxbZQPr6sEB6plS1BehCVFf5eWbH32959qs7y3pOqAt5S\nmgj3UXg7HPaXJ7hXCO9ircocY1mpGFvMhPFIpx5mGi9QsxrQQXghFQsfb3flK3Zp\n3AFX/iKW581NjtI3vHgS3z5HNxkDYh9FNcMRqFWXd0valX/TRk9FkuvtbB33KyDL\n+qbNfPE5uXN2KP4FsC5i\n=Sbow\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJYyCJ3AAoJELgmozMOVy/doS4QAIbQc3kdxxaNd28MRf8PFYNi\nfKqUcieS2JkDfLgW9Nf33eJBhzMHk5WfYDGT7/bptzy3MIZDz0d3zg94D2juxbnY\nNwWn4Ou2QC1K9odH1sGOdwmER2Ut0Up+ypGUylPdtgwflwOWM0rXtDz6CykS/Sn9\n8j47Fxmt3wFjKJsVnXCp/BfhubMGpg14qg2xnlt02qHyJlSwNSnBW9fw4bg/Fatu\nshSGuku+/b1fp+mxhU+ca5A0IqzmzHC7ZIrTf6T0jw5cNCYX9C4fXbcyX2iS2WQl\nD9ze9+DWTMeil+nhDCoadvBNzYTc+NjG/HuDziD/zORa87413ql7rNry9Sfkb5Ph\nwFINI1HqxYIq3zCSK5xLtPY5tcNh39wc7I79AfdM3a9KPmp/HRTgi7e4KFZyagGI\n2e+a84PDy/zuU7LxZllDa+HYWUhX/sNWlmyMnMNWL3N830kO77pRgmp6U9yeQSDF\n3ApGVNWAt2bZPKTSGFiaxbZQPr6sEB6plS1BehCVFf5eWbH32959qs7y3pOqAt5S\nmgj3UXg7HPaXJ7hXCO9ircocY1mpGFvMhPFIpx5mGi9QsxrQQXghFQsfb3flK3Zp\n3AFX/iKW581NjtI3vHgS3z5HNxkDYh9FNcMRqFWXd0valX/TRk9FkuvtbB33KyDL\n+qbNfPE5uXN2KP4FsC5i\n=Sbow\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d8c3ec40d5ca51ca3279184962d08fab6fc696ef\ntype commit\ntag v13-rc1\ntagger Doug Ledford <dledford@redhat.com> 1489511015 -0400\n\nrdma-core-13-rc1\n\nUpdates from version 12:\n\n- Minor improvements to qedr provider\n- Add libpvrdma provider for VMWare rdma virt devices\n- Improved RoCE AH creation\n- Packet Pacing support\n- Various github build system improvements\n- Updates to Debian and Red Hat packaging\n- Timestamp support in mlx4 provider\n- Make the libibverbs/provider interface private\n- Clean up headers for improved multi-arch support\n- Add Verbs Direct support for mlx5 provider\n- Implement new, more specific multi-arch barrier methods\n- Update all providers to the modern registration method and remove\n  ibv_register_driver entirely\n- Switch the code to use gcc endian conversion functions\n- Fix an endianness issue in srp_daemon\n- Implement a new release mechanism that should create more distro\n  friendly tarballs based on the common release tagging format\n"
+  }
+}

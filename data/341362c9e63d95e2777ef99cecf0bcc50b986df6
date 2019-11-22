@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6MzQxMzYyYzllNjNkOTVlMjc3N2VmOTljZWNmMGJjYzUwYjk4NmRmNg==",
+  "sha": "341362c9e63d95e2777ef99cecf0bcc50b986df6",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/341362c9e63d95e2777ef99cecf0bcc50b986df6",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "davenport.cas@gmail.com",
+    "date": "2018-02-23T23:25:56Z"
+  },
+  "object": {
+    "sha": "21894138c411bafe8f7fa419fd5a5b9b4163d056",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/21894138c411bafe8f7fa419fd5a5b9b4163d056"
+  },
+  "tag": "3.0.3",
+  "message": "Felix version 3.0.3\n\n- Backport: Add FV test that silently cuts the etcd connection.\n- Update libcalico-go to release-v3.0\n- Fix mismatched type in test\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

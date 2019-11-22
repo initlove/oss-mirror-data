@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6MTJjMmM1MjRhOTY3M2VmZTI3ZWUwY2FlN2VjN2YyMzkxYjRlZTM5Yg==",
+  "sha": "12c2c524a9673efe27ee0cae7ec7f2391b4ee39b",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/12c2c524a9673efe27ee0cae7ec7f2391b4ee39b",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2019-03-09T18:23:11Z"
+  },
+  "object": {
+    "sha": "1a2024cd36f98ef5c1f96154a7dcac278b8f47c4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/1a2024cd36f98ef5c1f96154a7dcac278b8f47c4"
+  },
+  "tag": "v3.6.0",
+  "message": "- a023e41ddf97a257c2a0ec4552a9b9005c51be0c Automated Typha pin update\n- 0a64d6835658a84d06a9cb323475a3b03c8b0882 Automated Typha pin update\n- 40d0c250e68e6bddfa75587bd1dbb98d1d04e97f Automated Typha pin update\n- fa077e0e4157d1584b012098365b0563faa2ca67 Automated Typha pin update\n- c754ad867e368dd6ad703b2aee3b9180f49d373a Automated Typha pin update\n- 6bb70678d8923e7699614f59d7f6c47ea0f2da37 make update-typha\n- 9d81cf72c4758c93e0fc4af4276e75d21083c27f Add region into status reporting\n- 410cf2c8b0cc82db7efcba31130c59e288ec3e74 Test status reporting with non-empty region\n- 0e67214b0ee4fe25da0cf2c07b54d1484e738069 Leave host endpoint reporting as it was, without region field\n- b3da733f56d12bd0a56e037cfe288c27381f5157 Avoid ambiguous meaning for empty Region field\n- 27b6606b3880ecf5e9bd1820b9e297d552a66aa3 Validate OpenstackRegion value as a DNS label\n- e129bd3d7e363c39400f3714063738fd802cbdfb Markups\n- 10d1a77774b9c8af137ab47d8bb1a8122c25ae27 Automated Typha pin update\n- 5607d59f858fe1b8fd7f0d8f30a2d0a4b566bfe4 make update-typha\n- b5b6d1eae3521725a3c468a3595cdae49c5089cf Adapt for OpenstackRegion not being 'local' now\n- c5e0f3f3e5141590156470798b96c5560e6b713b Automated Typha pin update\n- 2575ad7bae5af27b4b8d419fdfebf6ef0903b973 Automated Typha pin update\n- d34febb1f1089b94f39618d850eb30ce7ea77694 Automated Typha pin update\n- 5211c86a4152ef11411abb7b5eb675a79ece6eb8 Automated Typha pin update\n- 1a247f8ca8fe72661af0a48e79f8307139b92683 IptablesNATOutgoingInterfaceFilter config param added\n- 3cd6edf82421d98a9c64f7d0bdbe07038e62ac9c Automated Typha pin update\n- 0d4bca8726bd2c265ef6a1189122975d525a8b76 implementation of the new param added\n- cffcf9a264f564091a0cd938b0956820e7abfca8 fix for make ut failures\n- f40aeebc93396082f376d923a3c415d58240535f Automated Typha pin update\n- 5ad046a819de4222c93613cb33e1220933823836 review comments addressed\n- afffb2afeafde1ac6672fd41c21844bbd32a6f8d test cases added\n- f2261298f953e386a293b20ee9bc5a1031dfc605 import statements fixed\n- f1b3aec16e027f819c7f9dc7d80dbd4810322f5f glide updates\n- 75508fac5ceb4388ce40f9d7ecb4248d3a87b4d9 glide updates\n- 57a46901b19f461a59b72c180708930f41b7da4f glide updates\n- 345bbd15df7a21fa951ce2eef76153edea20b5bb linter fix\n- dba5c0dafafa4f3db9cb5e05cdb9155b4837cb4d Update libcalico-go to 725f193eca997939e4f67d04fc5586f25803a980\n- 1fa25acb336e3db691031af5eaa368ede43d8dc9 KDD: explicitly set the IPIP tunnel address in the FVs.\n- d2ba40d62f52008a9cd269e0192e5520e44dbded Inherit libcalico-go pin from typha.\n- c0de0d1ca734dd16b7630a72b86c163d5920f20c Automated Typha pin update\n- f58b7c612213c32fe0d1056eab51aa87a132a4ce Squash spammy status report not supported log.  Expected on KDD.\n- bd23d3ac63ee13ac1029cfaf5c0d19e326b35f20 Automated Typha pin update\n- a5cfa12584a9c4b092106d81717191616b00ea89 Patch libcalico-go to 3a28a07c805c23f3c2f1dc60bafcee50051bf7cb\n- 1a2024cd36f98ef5c1f96154a7dcac278b8f47c4 Automated Typha pin update\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

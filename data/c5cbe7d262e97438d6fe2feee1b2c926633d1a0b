@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEzMDU5OTg6YzVjYmU3ZDI2MmU5NzQzOGQ2ZmUyZmVlZTFiMmM5MjY2MzNkMWEwYg==",
+  "sha": "c5cbe7d262e97438d6fe2feee1b2c926633d1a0b",
+  "url": "https://api.github.com/repos/openstack/python-designateclient/git/tags/c5cbe7d262e97438d6fe2feee1b2c926633d1a0b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-08T16:00:11Z"
+  },
+  "object": {
+    "sha": "5c9bbbfac8f03be416b268798045b5814c3fbe06",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-designateclient/git/commits/5c9bbbfac8f03be416b268798045b5814c3fbe06"
+  },
+  "tag": "2.12.0",
+  "message": "python-designateclient 2.12.0 release\n\nmeta:version: 2.12.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Dirk Mueller <dirk@dmllr.de>\nmeta:release:Commit: Dirk Mueller <dirk@dmllr.de>\nmeta:release:Change-Id: I4019cfff92b0174721177aaa175c3ef4da2dffaa\nmeta:release:Code-Review+1: Graham Hayes <gr@ham.ie>\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1MRwsZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2HlfC/9lk4C4Jw7GUJkUxM/OujiV\nBYW3fh/yiJNMcvOAQsDYZ1vV40jB6tt5KPW6YSyPaDMDq9mRXYEFt7FEX84h4O2b\nt7blwK9wWwRcnkqnMVQajgjMaosTTAskNWpsdHzwVgyoqYNL/GK2gzdCrB2+qNO8\nrZNLH2n01jF/4vrol6v9Bk10RQuier4pKENGa7nviuYQQLGcjllQw1CCL7OBlgYc\n2XsXwPlCcQzDf8TBJ8doVni30cKgI43blctQ45FH2EH0DVUlk7FTSP2T+D63K7ZQ\nzpr5yx3yAm6Ts1Y/p0GJqNwl0sEY8hHqXJ8CGGGuWk33GkPxsJ3uWWytR3LV9gIv\nqVleaeP+BZRAi2OadhDuSskr18ljynMIMU6kgKC7UpOW927jNSudMgUF9r23fUpz\n/VrY9RRRCwRJeezPqHl/sRz8LR5njCWUwPDJ62VitWqOsXC1NYEmdPo6MijCwdVp\nHcwUW8H1qV3NqlFumyqmGtaGyOJJVGnil/ntrbwefKo=\n=xFEb\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1MRwsZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2HlfC/9lk4C4Jw7GUJkUxM/OujiV\nBYW3fh/yiJNMcvOAQsDYZ1vV40jB6tt5KPW6YSyPaDMDq9mRXYEFt7FEX84h4O2b\nt7blwK9wWwRcnkqnMVQajgjMaosTTAskNWpsdHzwVgyoqYNL/GK2gzdCrB2+qNO8\nrZNLH2n01jF/4vrol6v9Bk10RQuier4pKENGa7nviuYQQLGcjllQw1CCL7OBlgYc\n2XsXwPlCcQzDf8TBJ8doVni30cKgI43blctQ45FH2EH0DVUlk7FTSP2T+D63K7ZQ\nzpr5yx3yAm6Ts1Y/p0GJqNwl0sEY8hHqXJ8CGGGuWk33GkPxsJ3uWWytR3LV9gIv\nqVleaeP+BZRAi2OadhDuSskr18ljynMIMU6kgKC7UpOW927jNSudMgUF9r23fUpz\n/VrY9RRRCwRJeezPqHl/sRz8LR5njCWUwPDJ62VitWqOsXC1NYEmdPo6MijCwdVp\nHcwUW8H1qV3NqlFumyqmGtaGyOJJVGnil/ntrbwefKo=\n=xFEb\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5c9bbbfac8f03be416b268798045b5814c3fbe06\ntype commit\ntag 2.12.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1565280011 +0000\n\npython-designateclient 2.12.0 release\n\nmeta:version: 2.12.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Dirk Mueller <dirk@dmllr.de>\nmeta:release:Commit: Dirk Mueller <dirk@dmllr.de>\nmeta:release:Change-Id: I4019cfff92b0174721177aaa175c3ef4da2dffaa\nmeta:release:Code-Review+1: Graham Hayes <gr@ham.ie>\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

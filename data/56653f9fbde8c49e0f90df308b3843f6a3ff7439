@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6NTY2NTNmOWZiZGU4YzQ5ZTBmOTBkZjMwOGIzODQzZjZhM2ZmNzQzOQ==",
+  "sha": "56653f9fbde8c49e0f90df308b3843f6a3ff7439",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/56653f9fbde8c49e0f90df308b3843f6a3ff7439",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2019-09-26T12:02:15Z"
+  },
+  "object": {
+    "sha": "1841d48eec9d845daef961ac21795e5493a376ff",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/1841d48eec9d845daef961ac21795e5493a376ff"
+  },
+  "tag": "v25.1",
+  "message": "rdma-core-25.1:\n\nUpdates from version 25.0\n * Backport fixes:\n   * suse: provide libibmad-devel\n   * suse: add perl dependency for infiniband-diags\n   * suse: fix dependency to rst2man\n   * suse: Fix name for libefa RPM\n   * ccam: Properly enable ilog32() calculations\n   * siw: Change user mmapped CQ notifications flags to 32bit.\n   * travis: fix aarch64 extraction\n   * cxgb4: fix chipversion initialization\n   * kernel-boot: Set default prefix for RDMA devices with unknown protocol\n   * rdmacm: Fix missing libraries on centos6 build\n   * ABI Files\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAl2MqMkcHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZEDGB/0YmyMTu31vuGgglXXz\nM0LJr7nXNzBpPPcDaVox14L9mhRkcg6voBeciIu6EWfVAIGb4/e9uBmWe2Nsh8NX\nas9qFdlaHpduSrp8Q+a/kVyZR13Y119QLR03cV9kMqLXcPtEetKThSeqVSzqX6ff\np7aHNVxPJjyxUm4dj122yev7illdPuG486DAsojkiAi09srAanIphaImAIsZEvJ7\njFb2hJJRG8S0/+WvabFtUAWBDNHKp174JoH4daiBP+FBsgvAmCr2Fs8X5jQapF+Z\nBcSG1f1RVxOfI2aknh+SYjUVAlOXfjxUJCAgfu86iV9e2BA450eozKLD8sPMA9Gw\n1UOa\n=Uqmv\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAl2MqMkcHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZEDGB/0YmyMTu31vuGgglXXz\nM0LJr7nXNzBpPPcDaVox14L9mhRkcg6voBeciIu6EWfVAIGb4/e9uBmWe2Nsh8NX\nas9qFdlaHpduSrp8Q+a/kVyZR13Y119QLR03cV9kMqLXcPtEetKThSeqVSzqX6ff\np7aHNVxPJjyxUm4dj122yev7illdPuG486DAsojkiAi09srAanIphaImAIsZEvJ7\njFb2hJJRG8S0/+WvabFtUAWBDNHKp174JoH4daiBP+FBsgvAmCr2Fs8X5jQapF+Z\nBcSG1f1RVxOfI2aknh+SYjUVAlOXfjxUJCAgfu86iV9e2BA450eozKLD8sPMA9Gw\n1UOa\n=Uqmv\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1841d48eec9d845daef961ac21795e5493a376ff\ntype commit\ntag v25.1\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1569499335 +0200\n\nrdma-core-25.1:\n\nUpdates from version 25.0\n * Backport fixes:\n   * suse: provide libibmad-devel\n   * suse: add perl dependency for infiniband-diags\n   * suse: fix dependency to rst2man\n   * suse: Fix name for libefa RPM\n   * ccam: Properly enable ilog32() calculations\n   * siw: Change user mmapped CQ notifications flags to 32bit.\n   * travis: fix aarch64 extraction\n   * cxgb4: fix chipversion initialization\n   * kernel-boot: Set default prefix for RDMA devices with unknown protocol\n   * rdmacm: Fix missing libraries on centos6 build\n   * ABI Files\n"
+  }
+}

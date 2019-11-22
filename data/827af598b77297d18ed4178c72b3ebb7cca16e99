@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDYxMjU2MjU6ODI3YWY1OThiNzcyOTdkMThlZDQxNzhjNzJiM2ViYjdjY2ExNmU5OQ==",
+  "sha": "827af598b77297d18ed4178c72b3ebb7cca16e99",
+  "url": "https://api.github.com/repos/openstack/python-vitrageclient/git/tags/827af598b77297d18ed4178c72b3ebb7cca16e99",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-04-16T18:55:37Z"
+  },
+  "object": {
+    "sha": "157ef21a5070d4dadb26977aff76a6b3dd9e32b1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-vitrageclient/git/commits/157ef21a5070d4dadb26977aff76a6b3dd9e32b1"
+  },
+  "tag": "1.4.1",
+  "message": "python-vitrageclient 1.4.1 release\n\nmeta:version: 1.4.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Change-Id: I3a3e3a51992f9171e5fa874c11f40c7ffedda4b3\nmeta:release:Code-Review+1: Ifat Afek <ifat.afek@nokia.com>\nmeta:release:Code-Review+1: Eyal <eyal.bar-ilan@nokia.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly2JSkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOGHaC/9hs9Lz86GjvFa2XDas8877\ncD7/WgugPxlw7Mho1bYq0YUDh/NshMOlVFeXmXgCg4hC6hz6yATcaCI5XSIMrgg4\nlIvMrPInXzpU/235CCHtfChgymL5l+pWnvgaC6744gYMQPKMzI9nxPw4J12k+jJ+\nH8xQR1oV/jYY8M9wuzgG01MOWdl20YU6/cMAXIx91oiJF73yRezgnFlG3fkSx7A4\nu456sf5Vim+RBX9ScnylEsZQgWbKUA6Bdiap04gndjTc8MTaIAP9V3kIHMue8btU\nq9kZo6X0f3OSwBZR9CoQTPATYj7ERX1ndDIJ8JtjOkES/3JWJL9kodrL9Lv2e6xI\nQgZumm2N65xxcfT7W1ID/fTrEbzCe+5X8nt0bYoCISUHvuwZP6CVkqMFeFD1QxDq\nW61a9Cj+FPqm4V3/GLm+dPsHlLJABnWwPkgnlkL0K0a/lBZtmsTWarg1Gwe7Qiec\n9ES7E/TXA0hLdynGpwrVQCYTomxJ+HDjXzQJ992/mi0=\n=yoMU\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly2JSkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOGHaC/9hs9Lz86GjvFa2XDas8877\ncD7/WgugPxlw7Mho1bYq0YUDh/NshMOlVFeXmXgCg4hC6hz6yATcaCI5XSIMrgg4\nlIvMrPInXzpU/235CCHtfChgymL5l+pWnvgaC6744gYMQPKMzI9nxPw4J12k+jJ+\nH8xQR1oV/jYY8M9wuzgG01MOWdl20YU6/cMAXIx91oiJF73yRezgnFlG3fkSx7A4\nu456sf5Vim+RBX9ScnylEsZQgWbKUA6Bdiap04gndjTc8MTaIAP9V3kIHMue8btU\nq9kZo6X0f3OSwBZR9CoQTPATYj7ERX1ndDIJ8JtjOkES/3JWJL9kodrL9Lv2e6xI\nQgZumm2N65xxcfT7W1ID/fTrEbzCe+5X8nt0bYoCISUHvuwZP6CVkqMFeFD1QxDq\nW61a9Cj+FPqm4V3/GLm+dPsHlLJABnWwPkgnlkL0K0a/lBZtmsTWarg1Gwe7Qiec\n9ES7E/TXA0hLdynGpwrVQCYTomxJ+HDjXzQJ992/mi0=\n=yoMU\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 157ef21a5070d4dadb26977aff76a6b3dd9e32b1\ntype commit\ntag 1.4.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1555440937 +0000\n\npython-vitrageclient 1.4.1 release\n\nmeta:version: 1.4.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Change-Id: I3a3e3a51992f9171e5fa874c11f40c7ffedda4b3\nmeta:release:Code-Review+1: Ifat Afek <ifat.afek@nokia.com>\nmeta:release:Code-Review+1: Eyal <eyal.bar-ilan@nokia.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6M2QxNjk4ZDI2MjM5ZDc1NTQ5YjhlYTJhMTlhMzIyZjBjNTNiOGEyZA==",
+  "sha": "3d1698d26239d75549b8ea2a19a322f0c53b8a2d",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/3d1698d26239d75549b8ea2a19a322f0c53b8a2d",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "davenport.cas@gmail.com",
+    "date": "2018-11-09T17:16:22Z"
+  },
+  "object": {
+    "sha": "1f407f8202e4754f45a54f4048b958b7ea310795",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/1f407f8202e4754f45a54f4048b958b7ea310795"
+  },
+  "tag": "3.0.8",
+  "message": "Felix version 3.0.8\n\n- Allow hep-forwarded traffic by default\n- Configure model FV hosts to drop forwarded traffic by default\n- Default-deny hep-forwarded traffic when there are applicable policies\n- Update the URL of alpine glibc signing key\n- Update libcalico and typha\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

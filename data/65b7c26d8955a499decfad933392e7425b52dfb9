@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzI1OTc2MTk6NjViN2MyNmQ4OTU1YTQ5OWRlY2ZhZDkzMzM5MmU3NDI1YjUyZGZiOQ==",
+  "sha": "65b7c26d8955a499decfad933392e7425b52dfb9",
+  "url": "https://api.github.com/repos/openstack/python-senlinclient/git/tags/65b7c26d8955a499decfad933392e7425b52dfb9",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-02-28T14:17:37Z"
+  },
+  "object": {
+    "sha": "aeb47baf7da6b0430b37003cac7881f81f7d0a2e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-senlinclient/git/commits/aeb47baf7da6b0430b37003cac7881f81f7d0a2e"
+  },
+  "tag": "1.10.0",
+  "message": "python-senlinclient 1.10.0 release\n\nmeta:version: 1.10.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Duc Truong <dtruong@blizzard.com>\nmeta:release:Commit: Duc Truong <dtruong@blizzard.com>\nmeta:release:Change-Id: I6fb26da9742e31704ff2858bc2e3e3dc1a84d75c\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcd+2BAAoJEBpUEUgFTp44zEEMAJ5Q8ysv/NFD4OtsyyWmo6vd\nmNK4T+3IogoedMuWrZ/UnWGuovfbXJDRgRjgux5jJ9grc5M6RXpeO2wSovg2CrE/\nLUhnfFVmsy8d0CxDkWcwJXJGV9I2B3I7OeyLhZugL1ugFuC8UP0XOGxZFTwj8vk3\njz6fG92pNucZ3GOwETB9+FPYdRygmx0cRvAX1nSmOq0XAg1mvjt16aud6ofaVT4+\nBBW+Kf25H2Gc7LK+Ycx4UHQCqC1pLkxf9Mhzf0uAT49QqlnvFHLdOmTNeTNvuyjB\nuWVTR6HP1FzFhV+2Z7VWjtPTghUorrqmJaIAmASQmLdsxx8gpN6pxB88quvNx1Wj\n5aDiPk9Wusdb2hZhxmAlniWlBqb2k4znLTrQ80Ke6Hkb/WBFN6/BH7Z+60+rKz59\nz+LcZaZ3bq6+WUdRdTqJ6QOVsxFwJ1hZYwGQhcdbBgHi9cTXqtsEoQD/5IAAZx97\nhyEgf4rdmCMxIsbbGfNwM3dW94CSDV9bZa6SrvtNlQ==\n=vMWY\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcd+2BAAoJEBpUEUgFTp44zEEMAJ5Q8ysv/NFD4OtsyyWmo6vd\nmNK4T+3IogoedMuWrZ/UnWGuovfbXJDRgRjgux5jJ9grc5M6RXpeO2wSovg2CrE/\nLUhnfFVmsy8d0CxDkWcwJXJGV9I2B3I7OeyLhZugL1ugFuC8UP0XOGxZFTwj8vk3\njz6fG92pNucZ3GOwETB9+FPYdRygmx0cRvAX1nSmOq0XAg1mvjt16aud6ofaVT4+\nBBW+Kf25H2Gc7LK+Ycx4UHQCqC1pLkxf9Mhzf0uAT49QqlnvFHLdOmTNeTNvuyjB\nuWVTR6HP1FzFhV+2Z7VWjtPTghUorrqmJaIAmASQmLdsxx8gpN6pxB88quvNx1Wj\n5aDiPk9Wusdb2hZhxmAlniWlBqb2k4znLTrQ80Ke6Hkb/WBFN6/BH7Z+60+rKz59\nz+LcZaZ3bq6+WUdRdTqJ6QOVsxFwJ1hZYwGQhcdbBgHi9cTXqtsEoQD/5IAAZx97\nhyEgf4rdmCMxIsbbGfNwM3dW94CSDV9bZa6SrvtNlQ==\n=vMWY\n-----END PGP SIGNATURE-----\n",
+    "payload": "object aeb47baf7da6b0430b37003cac7881f81f7d0a2e\ntype commit\ntag 1.10.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1551363457 +0000\n\npython-senlinclient 1.10.0 release\n\nmeta:version: 1.10.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Duc Truong <dtruong@blizzard.com>\nmeta:release:Commit: Duc Truong <dtruong@blizzard.com>\nmeta:release:Change-Id: I6fb26da9742e31704ff2858bc2e3e3dc1a84d75c\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

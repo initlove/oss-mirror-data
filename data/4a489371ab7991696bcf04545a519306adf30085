@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6NGE0ODkzNzFhYjc5OTE2OTZiY2YwNDU0NWE1MTkzMDZhZGYzMDA4NQ==",
+  "sha": "4a489371ab7991696bcf04545a519306adf30085",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/4a489371ab7991696bcf04545a519306adf30085",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2019-05-03T06:07:17Z"
+  },
+  "object": {
+    "sha": "29f8897a8ee75aa5a5062d8f8e85a02871ce3409",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/29f8897a8ee75aa5a5062d8f8e85a02871ce3409"
+  },
+  "tag": "v21.2",
+  "message": "rdma-core-21.2:\n\nUpdates from version 21.1\n * Backport fixes:\n   * ibacm: fix double hint.ai_family assignment in ib_acm_connect_open()\n   * ibacm: acme does not work if server_mode != unix\n   * ibacm: ib_acm_connect() is doing too much\n   * verbs: The ibv_xsrq_pingpong \"-c\" option is broken\n   * mlx5: Fix masking service level in mlx5_create_ah\n   * cmake: Explicitly convert build type to be STRING\n   * libhns: Bugfix for filtering zero length sge\n   * buildlib: Ensure stanza is properly sorted\n   * mlx4: Allow loopback when using raw Ethernet QP\n   * cbuild: Fix packaging of SuSE leap\n   * cbuild: fix python path for leap\n   * travis: Change SuSE package target due to Travis CI failures\n   * verbs: Avoid inline send when using device memory in rc_pingpong\n   * mlx5: Use copy loop to read from device memory\n   * libhns: Bugfix for using buffer length\n   * mlx5: Fix incorrect error handling when SQ wqe count is 0\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlzL2pccHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZEayCACTIn1Qf6zML6RczWYJ\ngc43nqanLiOIar0wxgp9kTI11DOUSWzW3Qi8VQ/lUfZvBLByfobChH2PDhnd5p4+\nUDjhttTFc6VgCCzNsAcDDFl4a1aq9w7gAzBZolKyKIN2u0GdSfPPgVt1Lrqa8EGq\nwhoQc3+q+vyqGCkpthu+aS7iC7aeGlMzYbV4P3/00L8UsyoGCGXDW8g8hbnFEyU6\nJbwBmWVQRXvaGXJ2NS8O3TQ4zsuNuURfVJK1+9YQ+ZtZCwV9RmS1FTLxYys5edk+\nCRtWmjz2dgCcBXSkaf2mUD+uf4LPHV2W6b7qW4djvDq5r8hP/qnDpt7A5DUbhvEA\nQrIC\n=ZVFd\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlzL2pccHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZEayCACTIn1Qf6zML6RczWYJ\ngc43nqanLiOIar0wxgp9kTI11DOUSWzW3Qi8VQ/lUfZvBLByfobChH2PDhnd5p4+\nUDjhttTFc6VgCCzNsAcDDFl4a1aq9w7gAzBZolKyKIN2u0GdSfPPgVt1Lrqa8EGq\nwhoQc3+q+vyqGCkpthu+aS7iC7aeGlMzYbV4P3/00L8UsyoGCGXDW8g8hbnFEyU6\nJbwBmWVQRXvaGXJ2NS8O3TQ4zsuNuURfVJK1+9YQ+ZtZCwV9RmS1FTLxYys5edk+\nCRtWmjz2dgCcBXSkaf2mUD+uf4LPHV2W6b7qW4djvDq5r8hP/qnDpt7A5DUbhvEA\nQrIC\n=ZVFd\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 29f8897a8ee75aa5a5062d8f8e85a02871ce3409\ntype commit\ntag v21.2\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1556863637 +0200\n\nrdma-core-21.2:\n\nUpdates from version 21.1\n * Backport fixes:\n   * ibacm: fix double hint.ai_family assignment in ib_acm_connect_open()\n   * ibacm: acme does not work if server_mode != unix\n   * ibacm: ib_acm_connect() is doing too much\n   * verbs: The ibv_xsrq_pingpong \"-c\" option is broken\n   * mlx5: Fix masking service level in mlx5_create_ah\n   * cmake: Explicitly convert build type to be STRING\n   * libhns: Bugfix for filtering zero length sge\n   * buildlib: Ensure stanza is properly sorted\n   * mlx4: Allow loopback when using raw Ethernet QP\n   * cbuild: Fix packaging of SuSE leap\n   * cbuild: fix python path for leap\n   * travis: Change SuSE package target due to Travis CI failures\n   * verbs: Avoid inline send when using device memory in rc_pingpong\n   * mlx5: Use copy loop to read from device memory\n   * libhns: Bugfix for using buffer length\n   * mlx5: Fix incorrect error handling when SQ wqe count is 0\n"
+  }
+}

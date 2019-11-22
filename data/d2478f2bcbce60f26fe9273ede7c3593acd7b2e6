@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6ZDI0NzhmMmJjYmNlNjBmMjZmZTkyNzNlZGU3YzM1OTNhY2Q3YjJlNg==",
+  "sha": "d2478f2bcbce60f26fe9273ede7c3593acd7b2e6",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/d2478f2bcbce60f26fe9273ede7c3593acd7b2e6",
+  "tagger": {
+    "name": "Doug Ledford",
+    "email": "dledford@redhat.com",
+    "date": "2017-08-21T13:09:25Z"
+  },
+  "object": {
+    "sha": "7d7f03e9f57e24ac6909c2a12de74050efb2128b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/7d7f03e9f57e24ac6909c2a12de74050efb2128b"
+  },
+  "tag": "v15-rc2",
+  "message": "rdma-core-15-rc2\n\nUpdates from rdma-core version 14:\n\n- Add flow steering drop action\n- mmio_flush_write fixes\n- Fixes for uclibc\n- Add common mmio accessor routines and remove per provider mmio\n  routines\n- qedr fixes\n- Lots of fixes for debian packaging\n- Copyright fixes\n- Properly conflict with infiniband-diags\n- Add direct verbs support to mlx4 provider\n- Improvement to Travis CI checking\n- Enforce kernel coding style in rdma-core\n- Add initial verbs hotplug support\n- Sparse annotations\n- Systemd updates for srp_daemon and iwpmd\n- Red Hat packaging fixes\n- Properly make the entire rdma-core support udev hotplug activation\n- Packaging fixes related to the joining of packages and globs that are\n  no longer valid\n- Minor fixes to mlx5 and srq ping-pong\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJZmtuKAAoJELgmozMOVy/dm94P/AqtxPUhwppMM4H8FhZ/j7Xi\nh3pCNnEUyQ3pgnUFb6xSq1rcSKPtLNPw8LTLSPSyH2+fWrMZa4zBGh8n8mN5qyqb\nXrQWhW0NVFqktnLwAco46z9xlFn+dhJou1mxZHlYHWDeITO7yupuLM006MHepHrS\ncg4owp+8IFiUc81i92LEsDZQuCz7+FsfdKJLcc1zfYs0JbGkj4arr2yr5K6RQeDw\nKF/e1wO/if4OLnBaeoXpoFAkct7S2nGS5+kUHioQEegep7OXRNyGtiYOpx0805tW\ns0FKTj30VgvTC7NvJQBh/tmNKzEuJDfNeBLqmJyoSUMEpHJ+hvqbMXcTchj8YWxe\nHlQPMcTR4gntDMyeim7xmY/VN5/VEjcVBDsq1tNwSr4ALO/514Y63vqZx+l+jupD\nAhLHWUJNbC5C9F1XqNK8M5GFMJ7JqXcVZaCpkYljP7AR/aNUQ1QS5hyXc7ZGBjOY\n9nkd0PVY42NSGhCnEqSkMsW4v37lsS9zTaIIWzFkM4UCKDkMU7SB0nnAcNNpPy6G\nCZEtWWJMMW2WTxQnha13i9uGWSl/AkNDEP3lZfA3DZdIT1f1p5eq6+8O7+khXv92\npLT4buv/TPH3a+ga2ejTzI/zusIjKa0QSIM9PD519XUrq+b/modK+j34RQ6qP+By\ng7Fhhy/q78efWqF6UBOn\n=h+pH\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJZmtuKAAoJELgmozMOVy/dm94P/AqtxPUhwppMM4H8FhZ/j7Xi\nh3pCNnEUyQ3pgnUFb6xSq1rcSKPtLNPw8LTLSPSyH2+fWrMZa4zBGh8n8mN5qyqb\nXrQWhW0NVFqktnLwAco46z9xlFn+dhJou1mxZHlYHWDeITO7yupuLM006MHepHrS\ncg4owp+8IFiUc81i92LEsDZQuCz7+FsfdKJLcc1zfYs0JbGkj4arr2yr5K6RQeDw\nKF/e1wO/if4OLnBaeoXpoFAkct7S2nGS5+kUHioQEegep7OXRNyGtiYOpx0805tW\ns0FKTj30VgvTC7NvJQBh/tmNKzEuJDfNeBLqmJyoSUMEpHJ+hvqbMXcTchj8YWxe\nHlQPMcTR4gntDMyeim7xmY/VN5/VEjcVBDsq1tNwSr4ALO/514Y63vqZx+l+jupD\nAhLHWUJNbC5C9F1XqNK8M5GFMJ7JqXcVZaCpkYljP7AR/aNUQ1QS5hyXc7ZGBjOY\n9nkd0PVY42NSGhCnEqSkMsW4v37lsS9zTaIIWzFkM4UCKDkMU7SB0nnAcNNpPy6G\nCZEtWWJMMW2WTxQnha13i9uGWSl/AkNDEP3lZfA3DZdIT1f1p5eq6+8O7+khXv92\npLT4buv/TPH3a+ga2ejTzI/zusIjKa0QSIM9PD519XUrq+b/modK+j34RQ6qP+By\ng7Fhhy/q78efWqF6UBOn\n=h+pH\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7d7f03e9f57e24ac6909c2a12de74050efb2128b\ntype commit\ntag v15-rc2\ntagger Doug Ledford <dledford@redhat.com> 1503320965 -0400\n\nrdma-core-15-rc2\n\nUpdates from rdma-core version 14:\n\n- Add flow steering drop action\n- mmio_flush_write fixes\n- Fixes for uclibc\n- Add common mmio accessor routines and remove per provider mmio\n  routines\n- qedr fixes\n- Lots of fixes for debian packaging\n- Copyright fixes\n- Properly conflict with infiniband-diags\n- Add direct verbs support to mlx4 provider\n- Improvement to Travis CI checking\n- Enforce kernel coding style in rdma-core\n- Add initial verbs hotplug support\n- Sparse annotations\n- Systemd updates for srp_daemon and iwpmd\n- Red Hat packaging fixes\n- Properly make the entire rdma-core support udev hotplug activation\n- Packaging fixes related to the joining of packages and globs that are\n  no longer valid\n- Minor fixes to mlx5 and srq ping-pong\n"
+  }
+}

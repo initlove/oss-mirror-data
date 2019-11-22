@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6OWYyYjA3OWNkYTlkZmU1OWI5NDM2ZmQyMGY2OGFhYWRjNGExODBhNw==",
+  "sha": "9f2b079cda9dfe59b9436fd20f68aaadc4a180a7",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/9f2b079cda9dfe59b9436fd20f68aaadc4a180a7",
+  "tagger": {
+    "name": "Rob Brockbank",
+    "email": "rob@tigera.io",
+    "date": "2017-04-24T17:08:33Z"
+  },
+  "object": {
+    "sha": "4c93b24083abebd11bd22f3a5c0b472bc82450f4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/4c93b24083abebd11bd22f3a5c0b472bc82450f4"
+  },
+  "tag": "2.1.2",
+  "message": "Felix version 2.1.2\n\n- Move conntrack rules to per-interface chains.\n- Add option to disable ctstate=INVALID rules.\n- Move established rule to top for performance.\n- Rev libcalico-go to v1.1.5 (fixes selector match w/ KDD)\n- Fix felix_cluster_* metrics when usage reporting disabled\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

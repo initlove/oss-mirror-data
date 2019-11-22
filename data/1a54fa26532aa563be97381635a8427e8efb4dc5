@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6MWE1NGZhMjY1MzJhYTU2M2JlOTczODE2MzVhODQyN2U4ZWZiNGRjNQ==",
+  "sha": "1a54fa26532aa563be97381635a8427e8efb4dc5",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/1a54fa26532aa563be97381635a8427e8efb4dc5",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2019-06-03T10:16:28Z"
+  },
+  "object": {
+    "sha": "49915713cc7161a83025a1b4d055a440ff3c70ce",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/49915713cc7161a83025a1b4d055a440ff3c70ce"
+  },
+  "tag": "v22.3",
+  "message": "rdma-core-22.3:\n\nUpdates from version 22.2\n * Backport fixes:\n   * suse: fix dracut support\n   * mlx5: Fix man page of mlx5dv_create_flow_action_modify_header()\n   * libhns: Bugfix for flush cqe in case multi-process\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlz086kcHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZHacB/0QknxWV8i7+ecfokzO\nQkHrqOKMCov1Za1LHN6dTPBoIz8O/cByGH/Qz+NSL7WKrOBHRkNv7MIm24vhJfH8\nF5ZFf7rHaAWLqWDMdqNkyK+VYZszEeMejqog5mD0UCpJnZBx6dJzmvmD6fk0a5wi\ngmmk/S0NzseP9qg6Z8AM7c3r/dbB79MGSUj/xg1d1bZaVJHiply9/zL+6ysMDPic\n4ArumN02tRmlB8peoybq6vtq4LPxNyAo+K29sb2glO3y1Skdkmv+2Urdhg3UOsDV\nnzUwJjIK2GrAcaOGLVpbSwm8lVpGNyj2xAGNCcWOq13/4c29aDzZlsiPoaZutdXK\nOA/6\n=dX/n\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlz086kcHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZHacB/0QknxWV8i7+ecfokzO\nQkHrqOKMCov1Za1LHN6dTPBoIz8O/cByGH/Qz+NSL7WKrOBHRkNv7MIm24vhJfH8\nF5ZFf7rHaAWLqWDMdqNkyK+VYZszEeMejqog5mD0UCpJnZBx6dJzmvmD6fk0a5wi\ngmmk/S0NzseP9qg6Z8AM7c3r/dbB79MGSUj/xg1d1bZaVJHiply9/zL+6ysMDPic\n4ArumN02tRmlB8peoybq6vtq4LPxNyAo+K29sb2glO3y1Skdkmv+2Urdhg3UOsDV\nnzUwJjIK2GrAcaOGLVpbSwm8lVpGNyj2xAGNCcWOq13/4c29aDzZlsiPoaZutdXK\nOA/6\n=dX/n\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 49915713cc7161a83025a1b4d055a440ff3c70ce\ntype commit\ntag v22.3\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1559556988 +0200\n\nrdma-core-22.3:\n\nUpdates from version 22.2\n * Backport fixes:\n   * suse: fix dracut support\n   * mlx5: Fix man page of mlx5dv_create_flow_action_modify_header()\n   * libhns: Bugfix for flush cqe in case multi-process\n"
+  }
+}

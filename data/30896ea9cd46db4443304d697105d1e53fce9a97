@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6MzA4OTZlYTljZDQ2ZGI0NDQzMzA0ZDY5NzEwNWQxZTUzZmNlOWE5Nw==",
+  "sha": "30896ea9cd46db4443304d697105d1e53fce9a97",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/30896ea9cd46db4443304d697105d1e53fce9a97",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2019-09-26T12:02:10Z"
+  },
+  "object": {
+    "sha": "72897a623cd31df724b55f0a58b9774cb818dfa8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/72897a623cd31df724b55f0a58b9774cb818dfa8"
+  },
+  "tag": "v24.1",
+  "message": "rdma-core-24.1:\n\nUpdates from version 24.0\n * Backport fixes:\n   * suse: Fix name for libefa RPM\n   * ccam: Properly enable ilog32() calculations\n   * travis: fix aarch64 extraction\n   * kernel-boot: Set default prefix for RDMA devices with unknown protocol\n   * kernel-boot: Fix garbage name due to wrong usage of netlink API\n   * mlx5: Fix mlx5_ifc metadata fields spelling\n   * mlx5: Fix bucket allocation check\n   * mlx5: Allow matching of source QP regardless the source port\n   * mlx5: Set the proper flags upon dr_fill_data_segs\n   * RDMA/hns: Bugfix for identify the last srq sge\n   * kernel-boot: Reset buffer before refill\n   * suse: fix dracut support\n   * ABI Files\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAl2MqMQcHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZG94B/49Bnjhe2ZDQAo3H64m\nUxUGf40XQpnLc4XAaWPGCYUUrP0hfVbCZiWY2eOaJ1tWur/GbYGV663i79vF1lEh\nOyTCaQWv7EtrnpynaKCGh85Vfmfz1TitDmUCwLmw8VVW7npiBpCwxiJknCBkEC80\nKbfYA+JOumBAcoO7pmTxdxUdYJlsQ0XDjZQRsm4pcjoi+qSgfuQzPvkb4vVrjlRe\nooRxwFKORkALN4MGpCZhuv2yObyVs5z0wGIYMm0bhBEksY2CykLmbeHLQtaHHesc\nqFapLAuQqewObkL66Qqib68XsroOECnFkmOxhxb+iHWBpEETTR8sEL1/KceK6WRQ\nnTEg\n=9bZ7\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAl2MqMQcHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZG94B/49Bnjhe2ZDQAo3H64m\nUxUGf40XQpnLc4XAaWPGCYUUrP0hfVbCZiWY2eOaJ1tWur/GbYGV663i79vF1lEh\nOyTCaQWv7EtrnpynaKCGh85Vfmfz1TitDmUCwLmw8VVW7npiBpCwxiJknCBkEC80\nKbfYA+JOumBAcoO7pmTxdxUdYJlsQ0XDjZQRsm4pcjoi+qSgfuQzPvkb4vVrjlRe\nooRxwFKORkALN4MGpCZhuv2yObyVs5z0wGIYMm0bhBEksY2CykLmbeHLQtaHHesc\nqFapLAuQqewObkL66Qqib68XsroOECnFkmOxhxb+iHWBpEETTR8sEL1/KceK6WRQ\nnTEg\n=9bZ7\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 72897a623cd31df724b55f0a58b9774cb818dfa8\ntype commit\ntag v24.1\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1569499330 +0200\n\nrdma-core-24.1:\n\nUpdates from version 24.0\n * Backport fixes:\n   * suse: Fix name for libefa RPM\n   * ccam: Properly enable ilog32() calculations\n   * travis: fix aarch64 extraction\n   * kernel-boot: Set default prefix for RDMA devices with unknown protocol\n   * kernel-boot: Fix garbage name due to wrong usage of netlink API\n   * mlx5: Fix mlx5_ifc metadata fields spelling\n   * mlx5: Fix bucket allocation check\n   * mlx5: Allow matching of source QP regardless the source port\n   * mlx5: Set the proper flags upon dr_fill_data_segs\n   * RDMA/hns: Bugfix for identify the last srq sge\n   * kernel-boot: Reset buffer before refill\n   * suse: fix dracut support\n   * ABI Files\n"
+  }
+}

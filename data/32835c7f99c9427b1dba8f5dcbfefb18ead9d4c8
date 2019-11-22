@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzA3OTQ4Njg6MzI4MzVjN2Y5OWM5NDI3YjFkYmE4ZjVkY2JmZWZiMThlYWQ5ZDRjOA==",
+  "sha": "32835c7f99c9427b1dba8f5dcbfefb18ead9d4c8",
+  "url": "https://api.github.com/repos/sampotts/plyr/git/tags/32835c7f99c9427b1dba8f5dcbfefb18ead9d4c8",
+  "tagger": {
+    "name": "Sam Potts",
+    "email": "me@sampotts.me",
+    "date": "2016-08-22T03:00:59Z"
+  },
+  "object": {
+    "sha": "86b2f61b566188f24f45b5ef36febae2f1d11d49",
+    "type": "commit",
+    "url": "https://api.github.com/repos/sampotts/plyr/git/commits/86b2f61b566188f24f45b5ef36febae2f1d11d49"
+  },
+  "tag": "v2.0.0",
+  "message": "This version contains several potential ***breaking changes***:\n\n- `setup()` has been reverted to pre v1.8.0 behaviour; meaning it will return the *instance* rather than the *element*. This is because the reference to the instance is no longer added to the original element (see below).\n- The reference to the `plyr` instance is now added to the media element rather than original container. This is because if a container with multiple children was passed to `setup()` the references to all instances would have been added to the container, creating issues. I would recommend using the return value from `setup()` or the new `get()` method to access the instance.\n- Players will always be wrapped in their own div now - this makes `setup()` and `destroy()` cleaner. This *may* break any custom styling based on DOM position.\n- Players no longer seek to 0 on 'ended' - this is to fix a bug with Microsoft Edge as it triggers 'ended' on media change for whatever reason. They'll never change ;-)\n\nAnd some other changes and bug fixes:\n\n- New `get()` method on the global plyr object to get all instances inside a container\n- New API methods:\n\t- `getOriginal()` to get the original, *unmodified* element plyr was setup on (`<video>`, `<audio>` or empty `<div>` for YouTube and Vimeo)\n\t- `getContainer()` to get the players outer wrapper element\n\t- `getMedia()` to get the players media element (`<video>`, `<audio>` or empty `<div>` for YouTube and Vimeo)\n\t- `getEmbed()` to access the YouTube or Vimeo API directly\n\t- `getType()` to get the type of the player\n\t- `isReady()` to determine if an instance has completed setup and necessary APIs are loaded (for YouTube / Vimeo)\n\t- `on()` to provide an easy way to listen to events\n\t- `stop()` to, you guessed it, stop the player\n- `destroy()` now works correctly for YouTube and Vimeo (fixes #272)\n- New `destroyed` event when `destroy()` has completed (original element is passed as event.target)\n- Default volume is now 10 (max) rather than 5\n- Sprite is only loaded once (fixes #259)\n- Fixes for Vimeo post message bugs on source change or destroy (fixes #318)\n- Save caption state in storage (fixes #311)\n- Added keyboard shortcuts to the current focused player (with `keyboardShortcuts` boolean option to disable) (fixes #309)\n- Fix for captions bug (fixes #332)\n- Change to AMD (fixes #298)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

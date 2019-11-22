@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzk5MDkyOTg6ZjUxMTJiZDE1NDk4OWJlMTM0MjNmZWFhMjI3NjI3Y2E1Zjk3Njg4Yg==",
+  "sha": "f5112bd154989be13423feaa227627ca5f97688b",
+  "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/tags/f5112bd154989be13423feaa227627ca5f97688b",
+  "tagger": {
+    "name": "Neil Jerram",
+    "email": "neil@tigera.io",
+    "date": "2019-04-30T15:33:54Z"
+  },
+  "object": {
+    "sha": "1587db142367a154ac8c500ca33bb1204c42a53b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/commits/1587db142367a154ac8c500ca33bb1204c42a53b"
+  },
+  "tag": "v3.7.0",
+  "message": "- 7af656197ec3963f7bd99ebc4979b88f8ae59c51 Automated libcalico pin update\n- 88a6501463a9cf365581a466ace65b8950a74ba5 Automated libcalico pin update\n- bb93a48a41c69787070283027b2c09389574882a Automated libcalico pin update\n- 37685c97a0e52051f508de16274c58468f87fb4b Automated libcalico pin update\n- 733c7518439a6303909c9cfe5cb0b05f11ff8c99 Automated libcalico pin update\n- 88fd6869d6d3950df5e1cedabc4aa5cabc28255b Automated libcalico pin update\n- dd5869349df7dffe3aaf657aac278b6a8fe4a567 Automated libcalico pin update\n- 339e441abf80bc04023b8de6a3eb84563b491a75 Fix nil nodespec in migration code\n- 5c29000ab547cd112b6340c1a5deaa16f2011ebe Switching Dockerfile base from alpine:3.8 to debian:9.8-slim; fixing shell problems in install-cni.sh using shellcheck static analysis tool; change maintainer to Casey.\n- 5887d22e62a1cb701ba29d619c5c1e1078307dbd Automated libcalico pin update\n- f78affba49ce057a1801034051af80597166fe42 Rev CNI version to 0.7.5\n- d4be6d6867f47d1a3af905a8243cc6c0b585f51d Automated libcalico pin update\n- 224cc9995121101a98942b372a040ee85fa2f28d Add missing continue in retry loop.\n- b0f2467ff1f8542d4c26caeb7f59640e2ebae3ee Automated libcalico pin update\n- 9d973d348f970274d918365134d75e9cae1452b0 Automated libcalico pin update\n- 67551a1864462968f8c780dc44ebafb24fc2c75e Automated libcalico pin update\n- 3e4aaf516d085cf590b7839ed1c8b44792dee3e6 Update libcalico-go to 43c1da882b70aba9d0325e7de4393439ef202550\n- 78cab7c0e659cd7482a6d028b956fa369936ba1d Bumping base image up to debian:buster-slim to be consistent with calico/node.\n- 762967d01c1d45a4f53c8fa5e2e895d38c08a419 Automated libcalico pin update\n- d5f7e01049ab83a245586d85361014db68d04307 Update libcalico-go to 43d572414857cc6f4d7242d9a23422cbc552f84a\n- 853aeb8e6335fd91c190f0f8e2fac0010ba599d0 Retry on IPv6 listing\n- 30ff208d479e30d2e9240970adbf284948fb711f Update libcalico-go to 6860ff2cfd923a870ff7a76563ce825d6e47adb8\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

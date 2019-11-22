@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzI1OTc2MTk6NjQ4YzhmMjY0MjhiZWViNjBjMGJiNDRhNjEzODM0M2Y1YmEzNTNhZQ==",
+  "sha": "648c8f26428beeb60c0bb44a6138343f5ba353ae",
+  "url": "https://api.github.com/repos/openstack/python-senlinclient/git/tags/648c8f26428beeb60c0bb44a6138343f5ba353ae",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-22T23:43:10Z"
+  },
+  "object": {
+    "sha": "c23edfc387133f75b8f21d233fc7399e01a709d5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-senlinclient/git/commits/c23edfc387133f75b8f21d233fc7399e01a709d5"
+  },
+  "tag": "1.11.0",
+  "message": "python-senlinclient 1.11.0 release\n\nmeta:version: 1.11.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: If660f12a1b6674a25f9c922f4f5939b636d63d7c\nmeta:release:Code-Review+1: XueFeng Liu <liu.xuefeng1@zte.com.cn>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1fKI4ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2CpuC/0QEz3F7D3MjSqueobe99oV\nti8bvdZm6zDlRDRFjgQAUbrh70Icc+eNbx7YseV04zQ0n+y+LbsbbUnE10aPFLX2\n3iud6FdGMGEhbOQHpyyJKZPozcq10LZBUsj73YQgyMhPZwqi9GJBWzm3F07OvfuN\ndfKOTGl2pzYBOcvmvpFmK8EPAwK3ZTFdyl44lcatHFyE0371m3Ae6JV3UaJitm0U\n/1Dq+mNq1m3S/XbpxTGKx3OPTWH8ALVhWXfxaKYUBbyVf2D9Cj3GfQaOnxRNOGTU\nAr7gbUcwCHYSb6Jvyd3CGItLD0mEVfgL7w+Bb6PqNhvqancNWhhk3BT2vAZjm7bU\nJFrdS6Btq1ySJXV9ppPAcPaWWvIwYJLMaUSxGRGitybWB09HhIlKJjHwQi/2kdxF\naGV+z2j/kuZmHtuK5jbtOtzsOVNgq2Pnpzdmx8WHsyqV04C4shXcab0TTcUub8Pu\nb7UwS+1Pj4XTHHhrQB9q8Ep8q2TMjOYJXN7lI5V5j7w=\n=HeEu\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1fKI4ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2CpuC/0QEz3F7D3MjSqueobe99oV\nti8bvdZm6zDlRDRFjgQAUbrh70Icc+eNbx7YseV04zQ0n+y+LbsbbUnE10aPFLX2\n3iud6FdGMGEhbOQHpyyJKZPozcq10LZBUsj73YQgyMhPZwqi9GJBWzm3F07OvfuN\ndfKOTGl2pzYBOcvmvpFmK8EPAwK3ZTFdyl44lcatHFyE0371m3Ae6JV3UaJitm0U\n/1Dq+mNq1m3S/XbpxTGKx3OPTWH8ALVhWXfxaKYUBbyVf2D9Cj3GfQaOnxRNOGTU\nAr7gbUcwCHYSb6Jvyd3CGItLD0mEVfgL7w+Bb6PqNhvqancNWhhk3BT2vAZjm7bU\nJFrdS6Btq1ySJXV9ppPAcPaWWvIwYJLMaUSxGRGitybWB09HhIlKJjHwQi/2kdxF\naGV+z2j/kuZmHtuK5jbtOtzsOVNgq2Pnpzdmx8WHsyqV04C4shXcab0TTcUub8Pu\nb7UwS+1Pj4XTHHhrQB9q8Ep8q2TMjOYJXN7lI5V5j7w=\n=HeEu\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c23edfc387133f75b8f21d233fc7399e01a709d5\ntype commit\ntag 1.11.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1566517390 +0000\n\npython-senlinclient 1.11.0 release\n\nmeta:version: 1.11.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: If660f12a1b6674a25f9c922f4f5939b636d63d7c\nmeta:release:Code-Review+1: XueFeng Liu <liu.xuefeng1@zte.com.cn>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

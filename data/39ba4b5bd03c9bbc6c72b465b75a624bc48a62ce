@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6MzliYTRiNWJkMDNjOWJiYzZjNzJiNDY1Yjc1YTYyNGJjNDhhNjJjZQ==",
+  "sha": "39ba4b5bd03c9bbc6c72b465b75a624bc48a62ce",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/39ba4b5bd03c9bbc6c72b465b75a624bc48a62ce",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@tigera.io",
+    "date": "2018-12-10T11:17:28Z"
+  },
+  "object": {
+    "sha": "b5be3a179526293754184f42167f98f041643a60",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/b5be3a179526293754184f42167f98f041643a60"
+  },
+  "tag": "v3.4.0",
+  "message": "- 3efcb1ef9d7189269d3f7a8d3bc28c6bacb7ee92 Remove need for every test to error-check getInfra()\n- e4198c8d3e3543098a826e48577d6c8915b00985 Remove need for every test to error-check AddDefaultAllow\n- 885c2f9f4878e711e42f3b61f9ebe49166499e50 Fix time allowed for step of k8s infrastructure set up\n- f0cff524cc38b976759f7a6eb33d6ebb19ae50b8 Automated Typha pin update\n- 7d8ff9e1c1ef9cea4b57a8e7ceaa0f4ed26b5232 Automated Typha pin update\n- 01381786f5a668204c8886f6fb118569ab86473f Pre-DNAT policy for all-interfaces host endpoints\n- f32e7c3a0e7ee5bc6319b781c572923a7d0c7f7c Add test for host * endpoint\n- 560fa81435bc4aa74234bdb0be0ba3bf7dde39fe Fix: do HEP processing even when coming from local workload\n- 37307131d047ab1a00f894b5d094f0fabd085583 Change cali-fh-* -> cali-fh-any-interface-at-all\n- 5a98235e0502ed2ccdc65694a1c8297147d6d8ed Add test with both pre-DNAT and workload egress policy\n- aed794da414afe07961424ff6f9b7a4eca8799b7 Add host endpoint named port FV test.\n- edf4763e7e40fd868788ebbc82f0feec9218282f Fix README typo.\n- eb083e70fb1091137be6c90ed1e6278e1044b0e2 Automated Typha pin update\n- f759fe292746e4d633a49ec295ab2d26c566cdf0 Stop including detailed commit messages in package changelog\n- b5e52a33352268953b967d5c01cdb545b8872e84 In version handling, strip initial 'v' only\n- b602536e5fc559318691589ab91e10ff46b8ca6f Delete historical packaging changelogs\n- a92365f6375a9152cf4258b0fdf54e620cba3bf6 Avoid changing tracked files; ignore generated packaging\n- 7a1454c1f33ba42f37fa21b53beb41ff68c8a63e Automated Typha pin update\n- 7334deb906193047717fa05bb514d2eb679413c0 Don't interpret glide WARN as a problem\n- 8c2ca5a277f9086c9e6a956f2565fe45f708cea4 Automated Typha pin update\n- 1b3147cca714c561b55d7438f83de5c3887846d8 Automated Typha pin update\n- d2a3800f4ff9183bef687c8e35a857a3afff2c92 Rev typha\n- 724a2c89b049cc6ef047ed6125ae5b0c2961fc72 Support typha updates on branches\n- 04d1ebf8210427d599f5a7f50865b90e0cfe1c49 Automated Typha pin update\n- 594e5151028aaf5b193a1a05615d109be47d096e Automated Typha pin update\n- bb58505d292d102babffdc0c4b57d9bf38d78d11 Automate pushing release binaries\n- b37bad6cb76160ec8a8cdb951c7e8e9407fb59a8 Automated Typha pin update\n- f2972737fd65f49c39a5bd5a67001b2cae2cc8c6 Automated Typha pin update\n- 112afba81ed195dd31002a9ce2ae6b080b7663e5 Specify GitHub organization in release-publish\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

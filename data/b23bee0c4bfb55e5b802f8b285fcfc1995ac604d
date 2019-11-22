@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6YjIzYmVlMGM0YmZiNTVlNWI4MDJmOGIyODVmY2ZjMTk5NWFjNjA0ZA==",
+  "sha": "b23bee0c4bfb55e5b802f8b285fcfc1995ac604d",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/b23bee0c4bfb55e5b802f8b285fcfc1995ac604d",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@tigera.io",
+    "date": "2017-11-28T09:21:34Z"
+  },
+  "object": {
+    "sha": "51f5b51fcc2e41a99b594fc21de72116bfb85d8e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/51f5b51fcc2e41a99b594fc21de72116bfb85d8e"
+  },
+  "tag": "2.6.2",
+  "message": "Felix version 2.6.2\n\n- Rev libcalico-go to pick up resync fix\n- Fix config batcher: unset dirty flag after flush.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

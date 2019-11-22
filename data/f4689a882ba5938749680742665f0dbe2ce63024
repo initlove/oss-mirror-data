@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA0NTgzNjI6ZjQ2ODlhODgyYmE1OTM4NzQ5NjgwNzQyNjY1ZjBkYmUyY2U2MzAyNA==",
+  "sha": "f4689a882ba5938749680742665f0dbe2ce63024",
+  "url": "https://api.github.com/repos/rsyslog/rsyslog/git/tags/f4689a882ba5938749680742665f0dbe2ce63024",
+  "tagger": {
+    "name": "Rainer Gerhards",
+    "email": "rgerhards@adiscon.com",
+    "date": "2013-07-05T08:35:55Z"
+  },
+  "object": {
+    "sha": "57574deb1bf6780092542212e3157f4a8238591f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rsyslog/rsyslog/git/commits/57574deb1bf6780092542212e3157f4a8238591f"
+  },
+  "tag": "v1.1.5",
+  "message": "v1.1.5\n\nThis is the last 1.1 release before epoll support is added. It may be used as\na temporary fallback if problems with epoll support surface (but this can\nalso be disable by modifying the #ifdef's, what requires a build from\nsource)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

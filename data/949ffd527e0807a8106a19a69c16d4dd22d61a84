@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6OTQ5ZmZkNTI3ZTA4MDdhODEwNmExOWE2OWMxNmQ0ZGQyMmQ2MWE4NA==",
+  "sha": "949ffd527e0807a8106a19a69c16d4dd22d61a84",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/949ffd527e0807a8106a19a69c16d4dd22d61a84",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2019-09-26T12:02:01Z"
+  },
+  "object": {
+    "sha": "3fabe55fe8e97c862f826b702c20f1f1f9476521",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/3fabe55fe8e97c862f826b702c20f1f1f9476521"
+  },
+  "tag": "v22.4",
+  "message": "rdma-core-22.4:\n\nUpdates from version 22.3\n * Backport fixes:\n   * travis: fix aarch64 extraction\n   * ccam: Properly enable ilog32() calculations\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAl2MqLscHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZHg9B/9/hgao8ue9caaBYdRh\nD8GuAFb1H/ZlJxx6TVNAwpsnxIcktrM2pZsXrURNzJ6TnV2wdjQOn8d07A2zKmwv\nHcvoKT25JFvN6lLrFvRlYvMyUJXviVMbh+PdzQ2NZ4ra3iPGk2SYVnL5yC06k9iY\n34mQ9cgwjq2/Y7xJ885/zlO4uB4H6n6kh8RLFVXseSS/yf3XxEwXFBW18+vjjiqL\nVu979emNogR8OdXF3SR+FKGW5I7tgnYl8vpJ+FPxGA+h9UFac4UpaGBIjdk2vIqA\n7WYqceYqew35315Pqi9EJyLXAUDrOHzNcUSYG5KtT62MeCAOXxCLBjqGGHHwc06X\nWdaf\n=Dzin\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAl2MqLscHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZHg9B/9/hgao8ue9caaBYdRh\nD8GuAFb1H/ZlJxx6TVNAwpsnxIcktrM2pZsXrURNzJ6TnV2wdjQOn8d07A2zKmwv\nHcvoKT25JFvN6lLrFvRlYvMyUJXviVMbh+PdzQ2NZ4ra3iPGk2SYVnL5yC06k9iY\n34mQ9cgwjq2/Y7xJ885/zlO4uB4H6n6kh8RLFVXseSS/yf3XxEwXFBW18+vjjiqL\nVu979emNogR8OdXF3SR+FKGW5I7tgnYl8vpJ+FPxGA+h9UFac4UpaGBIjdk2vIqA\n7WYqceYqew35315Pqi9EJyLXAUDrOHzNcUSYG5KtT62MeCAOXxCLBjqGGHHwc06X\nWdaf\n=Dzin\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3fabe55fe8e97c862f826b702c20f1f1f9476521\ntype commit\ntag v22.4\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1569499321 +0200\n\nrdma-core-22.4:\n\nUpdates from version 22.3\n * Backport fixes:\n   * travis: fix aarch64 extraction\n   * ccam: Properly enable ilog32() calculations\n"
+  }
+}

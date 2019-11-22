@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6OGJjNzE5MzZiMTkxNGNmZTIzM2FmNTAxMmYzMGU4MjhlNTJiOGNjMw==",
+  "sha": "8bc71936b1914cfe233af5012f30e828e52b8cc3",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/8bc71936b1914cfe233af5012f30e828e52b8cc3",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@cantab.net",
+    "date": "2016-12-13T10:53:55Z"
+  },
+  "object": {
+    "sha": "93ebd9f484a4d53dcd27976311a1f584f8e1453b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/93ebd9f484a4d53dcd27976311a1f584f8e1453b"
+  },
+  "tag": "2.0.0-rc6",
+  "message": "Felix version 2.0.0-rc6\n\n- Have usage reporting thread drain stats channel even during startup delay.\n- Rev libcalico-go to 1.0.0-rc5.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

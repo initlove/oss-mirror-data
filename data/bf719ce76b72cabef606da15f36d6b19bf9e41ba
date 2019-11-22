@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzk5MDkyOTg6YmY3MTljZTc2YjcyY2FiZWY2MDZkYTE1ZjM2ZDZiMTliZjllNDFiYQ==",
+  "sha": "bf719ce76b72cabef606da15f36d6b19bf9e41ba",
+  "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/tags/bf719ce76b72cabef606da15f36d6b19bf9e41ba",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2019-09-11T01:45:29Z"
+  },
+  "object": {
+    "sha": "5213bfb8e554b486d59d54462b480cc356e13ad2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/commits/5213bfb8e554b486d59d54462b480cc356e13ad2"
+  },
+  "tag": "v3.9.0",
+  "message": "- c51809908172fb45cc10511e550aff5a60644461 Automated libcalico pin update\n- 54874554e7b594b837888d239303b49a0a66b05a Automated libcalico pin update\n- 678b70ac8814bbe230cb630ae497fdf4f07b4cf8 Automated libcalico pin update\n- abc89d3c5b61cdaf0167bdcfa81a7a6ee8dc81f7 Automated libcalico pin update\n- 17f0b8e4267e7e2f7238992151079b57634eaa1c Added retry on node update in upgrade-ipam after assigning ipip-tunnel-addr\n- e179bae22e02dcc0c6e439f646ce6a32356eb697 Automated libcalico pin update\n- 63068b74dd6839b0052da7b7f34069143bb8f1a8 Automated libcalico pin update\n- 93e21c159f2e07c1429175ab7ac4d90f9f789e87 Automated libcalico pin update\n- 8b0e9d61f95a477bf009519e6b78bcd92f6d5bc0 Automated libcalico pin update\n- 86609c107a7addad925f7d917c48b98870053d72 Use debian 10 base image\n- fbca1e0ab5d5d2b24a90716aed19b1c826ec26c9 Automated libcalico pin update\n- 156bcaf408fdaa64c1baabba4925c4f6aaf3467e Automated libcalico pin update\n- 416585637558478a4235874727df7f51e101d269 Automated libcalico pin update\n- 6c4fa14187547d879c15f4b0f9868e4704c2ee58 switch cni-plugin to go modules (bulk of the changes)\n- d2de7a1ff15f9923ea11d14738aad7c5862c9353 switch cni-plugin to go modules (crds.yaml, static-checks)\n- fdd58eebb0e3e3070d6b410f99761bf9ffe04ae7 Automated libcalico pin update\n- 94b5db7e6d2d7d4f2cdab6d574427f797f6c3f53 Update OSS semaphore jobs that depend on glide\n- db081695779d8ae99d812109da81211ca5122b2a Automated libcalico pin update\n- 07c44a53d6d366a0e8e79e8b59b73194edfecd45 Makefile: go commands must run insde docker\n- 6eedf49a77eecad0a01dbc5bf1d0edb55211cd6d Pass in user.name and user.email instead of --author in git-commit, and define GOPATH for go modules cachine when it is not specified by the environment\n- 27b3cca70185feb23eb77005ce1f491c9db4f0a6 Fix git-commit issue\n- 556cdd479e724833cbfc22fd6518c63ddae8e2b0 Only setup git user if in CI\n- f8c85cf6b84bafa8d8645c198824c99f9888f153 Remove invalid arguments to git-commit\n- e64b97592fc6d69aec2ae91481f7aed09ad54e64 Re-enable golangci-lint (#777)\n- 4a21b406f413fb931f8def562417f94c57f01e97 Update libcalico-go to 18c0a7f471bb226506eed343181ec5a5d91bc810\n- 9d7b2ae17e8342b30acde140b8e6a35ab57089d3 Clean up go.sum file\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

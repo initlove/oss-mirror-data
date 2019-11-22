@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6OGZhYTM1YTE1YjM0YmRlY2ZlYzg5ZWVhMDIzNzhhZjA5MDJjMGQ2MQ==",
+  "sha": "8faa35a15b34bdecfec89eea02378af0902c0d61",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/8faa35a15b34bdecfec89eea02378af0902c0d61",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2019-02-23T01:26:09Z"
+  },
+  "object": {
+    "sha": "609b455aa574b17805aba64cd81864fba07aa0a1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/609b455aa574b17805aba64cd81864fba07aa0a1"
+  },
+  "tag": "v3.2.5",
+  "message": "- dd6883ef603d3e97bc489268ffa9ad5f689f5e5e Automate pushing release binaries\n- 6932933ea5a082f299932d13a558573e7c7c051c Specify GitHub organization in release-publish\n- d8075767f9953e812236c72a4a07f5ef78bb53ce Backporting 'IptablesNATOutgoingInterfaceFilter config param' changes for release v3.2\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

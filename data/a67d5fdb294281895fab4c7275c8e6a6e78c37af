@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDYxMjU2MjU6YTY3ZDVmZGIyOTQyODE4OTVmYWI0YzcyNzVjOGU2YTZlNzhjMzdhZg==",
+  "sha": "a67d5fdb294281895fab4c7275c8e6a6e78c37af",
+  "url": "https://api.github.com/repos/openstack/python-vitrageclient/git/tags/a67d5fdb294281895fab4c7275c8e6a6e78c37af",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-09T15:07:36Z"
+  },
+  "object": {
+    "sha": "e50c885f670bae722e1f2a9e86e60d6de80ce9c6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-vitrageclient/git/commits/e50c885f670bae722e1f2a9e86e60d6de80ce9c6"
+  },
+  "tag": "3.0.0",
+  "message": "python-vitrageclient 3.0.0 release\n\nmeta:version: 3.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Eyal <eyal.bar-ilan@nokia.com>\nmeta:release:Commit: Eyal <eyal.bar-ilan@nokia.com>\nmeta:release:Change-Id: I05346253e4abd635e2033e82db5587b72e6dbd43\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1NjDgZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2BEGDADH/ff1Ny4DLBktEVsH659O\nE/0e1q7wYansnoIj/jmAl1DHtYH3My7sXiDiEGz5lyrefp459D2HTHy0xViPX6KG\ndLs5dGc7fLJ6LgeuRRPn6SGMISKoqnB7MVaptD3+xB9+2BPvRTGs0GLMhK0MRuYr\nUb3iv/CcTUaJPEDtJvhhv/7g3DEZQlyG9LOOpqJ2u21WE6uYMqWHvHbTsuNXXq2C\nmLvh+pKyUzOe+jifitCzm7VCUFbcxVLXCpDo807Ov1RHqBSmxgLsA9vNi8FFPNDJ\nZyXhdhe7v3x/Ktx9qEXJA5nTIxw7npT/ZnNCx3nBnVU9atHgg+rCbfgO5wmhc/I9\nChl/EPn9jE0d4mB0zo3zhVuybx1rPp0KIUs348I0Pmz3CJ0EjlqoKYRwyX5j/2tq\nnjve354P+cWWPOEZKGNjKT7scRgrvI9fF94NjntPnnSrNOYwfa/23xj2PMVnyUNY\ni/L8Jr/khAwhdKrzx0o/+6AI5VyreOfCrSVGKf9pGfk=\n=gJiq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1NjDgZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2BEGDADH/ff1Ny4DLBktEVsH659O\nE/0e1q7wYansnoIj/jmAl1DHtYH3My7sXiDiEGz5lyrefp459D2HTHy0xViPX6KG\ndLs5dGc7fLJ6LgeuRRPn6SGMISKoqnB7MVaptD3+xB9+2BPvRTGs0GLMhK0MRuYr\nUb3iv/CcTUaJPEDtJvhhv/7g3DEZQlyG9LOOpqJ2u21WE6uYMqWHvHbTsuNXXq2C\nmLvh+pKyUzOe+jifitCzm7VCUFbcxVLXCpDo807Ov1RHqBSmxgLsA9vNi8FFPNDJ\nZyXhdhe7v3x/Ktx9qEXJA5nTIxw7npT/ZnNCx3nBnVU9atHgg+rCbfgO5wmhc/I9\nChl/EPn9jE0d4mB0zo3zhVuybx1rPp0KIUs348I0Pmz3CJ0EjlqoKYRwyX5j/2tq\nnjve354P+cWWPOEZKGNjKT7scRgrvI9fF94NjntPnnSrNOYwfa/23xj2PMVnyUNY\ni/L8Jr/khAwhdKrzx0o/+6AI5VyreOfCrSVGKf9pGfk=\n=gJiq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e50c885f670bae722e1f2a9e86e60d6de80ce9c6\ntype commit\ntag 3.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1565363256 +0000\n\npython-vitrageclient 3.0.0 release\n\nmeta:version: 3.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Eyal <eyal.bar-ilan@nokia.com>\nmeta:release:Commit: Eyal <eyal.bar-ilan@nokia.com>\nmeta:release:Change-Id: I05346253e4abd635e2033e82db5587b72e6dbd43\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

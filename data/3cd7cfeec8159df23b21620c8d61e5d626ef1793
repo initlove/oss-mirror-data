@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ3NDozY2Q3Y2ZlZWM4MTU5ZGYyM2IyMTYyMGM4ZDYxZTVkNjI2ZWYxNzkz",
+  "sha": "3cd7cfeec8159df23b21620c8d61e5d626ef1793",
+  "url": "https://api.github.com/repos/pypa/virtualenv/git/tags/3cd7cfeec8159df23b21620c8d61e5d626ef1793",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2018-05-16T23:34:42Z"
+  },
+  "object": {
+    "sha": "7a9a89890a4e0aa22389e647cf867f0d1b4bf65e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/virtualenv/git/commits/7a9a89890a4e0aa22389e647cf867f0d1b4bf65e"
+  },
+  "tag": "16.0.0",
+  "message": "Released v16.0.0\n\n* Drop support for Python 2.6.\n* Upgrade pip to 10.0.1.\n* Upgrade setuptools to 39.1.0.\n* Upgrade wheel to 0.31.1.\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIzBAABCgAdFiEEfGt8XV4rY1apJvBPbjy86TNy3PoFAlr8wCIACgkQbjy86TNy\n3PpwbBAAlnmQAD4+ib1005A1UUt5T/p+D2DQ4P1X4vgGULWqRxEcYEVNW6Syx0Xx\nWQELXK7nP7NAiZjYphqpSjXe4+zYYyaC3jBY61cQzW2djpUu0x9h9BMkLDePxpCS\nTVqbW1TkR/3XVdZp4LoBLVRUxhHJnDvXq7O8jU1V1jqWUzdB49eBd8YfeXhT6j8G\nUzKfNgP85uruZzeAEIlEuWNSxWuT6LRgQhIMKc8nmj26XzsMK7CtTfg0O5yr7bfr\n2SZ49CXlMCLFoDf+7N8gj/9SWxgE21XR0NXW45EhdA6rmcYxWnPuOC77O20AgySs\nn/SKw24JojsvJ8LK/vl7A7d6Wifvxuj8iyLS/EqGfwE6c2F4IiJrPnXxUZOGPJLk\nKuL/Z2eL/lUsv4pEwIIH7CeOa5IEQPI34lqHdM76voCV35/4/P9TMbGAbrK4vGXK\nFGblv8C1emgnpNtCd3WTGOmhJD2qW43GV49AKYrg+PTCdMp/hoE6YpDQNgNihuKL\nxV7Xui9oDYChh61H1ZiPSCljai452f6BFHbNo2Fn8tXA6SHuoX4l/tfbo+4Sefrj\nMB07UcheJ0h2QVFnw5i6QgcnGcpiqBwqKGwRspywTsOhxgB7gb9z/XLyvM/q89cN\nYGCtva5jVPiIfydkQStOd47vv9Eo1TUJP4DePDPA6Q5RufN35T0=\n=ak3P\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIzBAABCgAdFiEEfGt8XV4rY1apJvBPbjy86TNy3PoFAlr8wCIACgkQbjy86TNy\n3PpwbBAAlnmQAD4+ib1005A1UUt5T/p+D2DQ4P1X4vgGULWqRxEcYEVNW6Syx0Xx\nWQELXK7nP7NAiZjYphqpSjXe4+zYYyaC3jBY61cQzW2djpUu0x9h9BMkLDePxpCS\nTVqbW1TkR/3XVdZp4LoBLVRUxhHJnDvXq7O8jU1V1jqWUzdB49eBd8YfeXhT6j8G\nUzKfNgP85uruZzeAEIlEuWNSxWuT6LRgQhIMKc8nmj26XzsMK7CtTfg0O5yr7bfr\n2SZ49CXlMCLFoDf+7N8gj/9SWxgE21XR0NXW45EhdA6rmcYxWnPuOC77O20AgySs\nn/SKw24JojsvJ8LK/vl7A7d6Wifvxuj8iyLS/EqGfwE6c2F4IiJrPnXxUZOGPJLk\nKuL/Z2eL/lUsv4pEwIIH7CeOa5IEQPI34lqHdM76voCV35/4/P9TMbGAbrK4vGXK\nFGblv8C1emgnpNtCd3WTGOmhJD2qW43GV49AKYrg+PTCdMp/hoE6YpDQNgNihuKL\nxV7Xui9oDYChh61H1ZiPSCljai452f6BFHbNo2Fn8tXA6SHuoX4l/tfbo+4Sefrj\nMB07UcheJ0h2QVFnw5i6QgcnGcpiqBwqKGwRspywTsOhxgB7gb9z/XLyvM/q89cN\nYGCtva5jVPiIfydkQStOd47vv9Eo1TUJP4DePDPA6Q5RufN35T0=\n=ak3P\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7a9a89890a4e0aa22389e647cf867f0d1b4bf65e\ntype commit\ntag 16.0.0\ntagger Donald Stufft <donald@stufft.io> 1526513682 -0400\n\nReleased v16.0.0\n\n* Drop support for Python 2.6.\n* Upgrade pip to 10.0.1.\n* Upgrade setuptools to 39.1.0.\n* Upgrade wheel to 0.31.1.\n"
+  }
+}

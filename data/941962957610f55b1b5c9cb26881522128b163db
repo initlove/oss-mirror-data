@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNDI4MzE6OTQxOTYyOTU3NjEwZjU1YjFiNWM5Y2IyNjg4MTUyMjEyOGIxNjNkYg==",
+  "sha": "941962957610f55b1b5c9cb26881522128b163db",
+  "url": "https://api.github.com/repos/projectcalico/felix/git/tags/941962957610f55b1b5c9cb26881522128b163db",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@tigera.io",
+    "date": "2017-08-30T10:45:22Z"
+  },
+  "object": {
+    "sha": "53553b4f7ff80d193e8550ee3b31704da5349d42",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/felix/git/commits/53553b4f7ff80d193e8550ee3b31704da5349d42"
+  },
+  "tag": "2.5.1",
+  "message": "Felix version 2.5.1\n\n- Record 2.5.0 deb/RPM changelogs.\n- Add timeouts to Typha/Felix connection to detect silent TCP drops. (#1537, #1538)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

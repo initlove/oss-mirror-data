@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjIzNzQ5NDg6NDIxZDE1NjVhYjg3MGNkNWZhYWJjMzI4NWQxZGMzNjYzNTFmZDIyOQ==",
+  "sha": "421d1565ab870cd5faabc3285d1dc366351fd229",
+  "url": "https://api.github.com/repos/openstack/python-zunclient/git/tags/421d1565ab870cd5faabc3285d1dc366351fd229",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-28T15:13:39Z"
+  },
+  "object": {
+    "sha": "ca5fbb575a612dd3b09466709763afd6240a7bfc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-zunclient/git/commits/ca5fbb575a612dd3b09466709763afd6240a7bfc"
+  },
+  "tag": "3.6.0",
+  "message": "python-zunclient 3.6.0 release\n\nmeta:version: 3.6.0\nmeta:diff-start: -\nmeta:series: ussuri\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Eric Fried <openstack@fried.cc>\nmeta:release:Commit: Eric Fried <openstack@fried.cc>\nmeta:release:Change-Id: Ib121130f198d3f4cbd76b73e3202562470fca1dc\nmeta:release:Code-Review+1: chenker <chen.ke14@zte.com.cn>\nmeta:release:Code-Review+1: Hongbin Lu <hongbin034@gmail.com>\nmeta:release:Code-Review+1: licanwei <li.canwei2@zte.com.cn>\nmeta:release:Code-Review+1: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl23BaMZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2DJCC/wPcV1+AZAvvQGfbo57dYuJ\nlsgknA25e5oiGTkqemIQwLfNaNkv+cuprtkOqL0xUQgqzaskrkSoQRhD1cwhMX7F\nYliTFejfkSQE7SvQ3//iazgOw/3l5xYMItTIzbXVFQphjpW6jpmVAbGLuB9W5mlq\ngFG5DK9mLY2MMzfa8u8Z15bQKIgGnQectMRFeuikniqJ1tjK06kDAEWRNbeJ50o3\n7ZE6w7q1gzg4Bs/n7ikUQf/0RI37sQyFpz6Kh9qX/7A1diCWI2dSM1mkj7y9m4zM\nXHjiZDgRZQmMMawvYk+az7S67P35qcwmMfb1g/154ABzpNY5fiw3E08t8nyz+SK/\nOXkaZO18BOY9PbEVBGXRCD9vNHUg+ue1Mzs5S7qAcScRrGpigS+n0ln5DsSUpnRA\ndCCED/br1fGt8AM9QMTOhsbTi5Kk7RT4KTAoF9CR4jSDbOkyjNkASHuAtr1y8Xjb\n6lCHAdRgjKS8VMTAl2h3xNKbIpSR1tTSRNeswCL+iG0=\n=ZFjZ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl23BaMZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2DJCC/wPcV1+AZAvvQGfbo57dYuJ\nlsgknA25e5oiGTkqemIQwLfNaNkv+cuprtkOqL0xUQgqzaskrkSoQRhD1cwhMX7F\nYliTFejfkSQE7SvQ3//iazgOw/3l5xYMItTIzbXVFQphjpW6jpmVAbGLuB9W5mlq\ngFG5DK9mLY2MMzfa8u8Z15bQKIgGnQectMRFeuikniqJ1tjK06kDAEWRNbeJ50o3\n7ZE6w7q1gzg4Bs/n7ikUQf/0RI37sQyFpz6Kh9qX/7A1diCWI2dSM1mkj7y9m4zM\nXHjiZDgRZQmMMawvYk+az7S67P35qcwmMfb1g/154ABzpNY5fiw3E08t8nyz+SK/\nOXkaZO18BOY9PbEVBGXRCD9vNHUg+ue1Mzs5S7qAcScRrGpigS+n0ln5DsSUpnRA\ndCCED/br1fGt8AM9QMTOhsbTi5Kk7RT4KTAoF9CR4jSDbOkyjNkASHuAtr1y8Xjb\n6lCHAdRgjKS8VMTAl2h3xNKbIpSR1tTSRNeswCL+iG0=\n=ZFjZ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ca5fbb575a612dd3b09466709763afd6240a7bfc\ntype commit\ntag 3.6.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572275619 +0000\n\npython-zunclient 3.6.0 release\n\nmeta:version: 3.6.0\nmeta:diff-start: -\nmeta:series: ussuri\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Eric Fried <openstack@fried.cc>\nmeta:release:Commit: Eric Fried <openstack@fried.cc>\nmeta:release:Change-Id: Ib121130f198d3f4cbd76b73e3202562470fca1dc\nmeta:release:Code-Review+1: chenker <chen.ke14@zte.com.cn>\nmeta:release:Code-Review+1: Hongbin Lu <hongbin034@gmail.com>\nmeta:release:Code-Review+1: licanwei <li.canwei2@zte.com.cn>\nmeta:release:Code-Review+1: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzk5MDkyOTg6OWRkYjk0NTI0MzM2OGQ5MzE2N2Q1NmU2MGUyMjVlZTFkYzJmZTU1Ng==",
+  "sha": "9ddb945243368d93167d56e60e225ee1dc2fe556",
+  "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/tags/9ddb945243368d93167d56e60e225ee1dc2fe556",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2019-09-26T17:55:31Z"
+  },
+  "object": {
+    "sha": "cf6862d4959a8ac0c1561bda3a939b446bb0c892",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/cni-plugin/git/commits/cf6862d4959a8ac0c1561bda3a939b446bb0c892"
+  },
+  "tag": "v3.9.1",
+  "message": "- 82a2f4c40485825018fa38899dcd540721a87db8 Add crds.yaml to .gitignore\n- 8f01597ac30793a8182d171dfe903e157a76d237 Fix CI builds (mkdir bin/arch)\n- d298d578d0dfab2f78240f657405c69d173c679b Add assertion that CI builds do not result in dirty state\n- c7a02dc20101b9c2ec2d2f69504cb4e180bd20c7 Assert not dirty when pushing images\n- 4f807748aaf4f5be0f4add16ea599806a77980e7 Add go.sum updates\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

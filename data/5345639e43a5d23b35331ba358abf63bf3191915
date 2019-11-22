@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzA3OTQ4Njg6NTM0NTYzOWU0M2E1ZDIzYjM1MzMxYmEzNThhYmY2M2JmMzE5MTkxNQ==",
+  "sha": "5345639e43a5d23b35331ba358abf63bf3191915",
+  "url": "https://api.github.com/repos/sampotts/plyr/git/tags/5345639e43a5d23b35331ba358abf63bf3191915",
+  "tagger": {
+    "name": "Sam Potts",
+    "email": "me@sampotts.me",
+    "date": "2016-10-23T02:48:18Z"
+  },
+  "object": {
+    "sha": "a509a5e1bc6a1ada4e56e326f01396292821bf27",
+    "type": "commit",
+    "url": "https://api.github.com/repos/sampotts/plyr/git/commits/a509a5e1bc6a1ada4e56e326f01396292821bf27"
+  },
+  "tag": "v2.0.8",
+  "message": "- Added `isPaused()` API method (thanks to @darrena092)\n- Allowed `.on()` API method to be chainable (thanks to @gurupras) (fixes #357)\n- Improved the \"awful\" rendering of captions on small screens in fullscreen mode (fixes #390)\n- Fix for Firefox VTT compatibility (thanks to @magourex)\n- Fix for Firefox Developer Edition blank video due to `-webkit-mask-image` issue (fixes #392)\n- Added Issue and PR templates with the aim of reducing duplicate or duff issues\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

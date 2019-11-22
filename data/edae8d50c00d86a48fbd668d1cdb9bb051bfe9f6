@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6ZWRhZThkNTBjMDBkODZhNDhmYmQ2NjhkMWNkYjliYjA1MWJmZTlmNg==",
+  "sha": "edae8d50c00d86a48fbd668d1cdb9bb051bfe9f6",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/edae8d50c00d86a48fbd668d1cdb9bb051bfe9f6",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "NMoreyChaisemartin@suse.com",
+    "date": "2018-03-13T14:28:13Z"
+  },
+  "object": {
+    "sha": "9cb939b92bea70bf0bca28fd996d2019c79c5cb3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/9cb939b92bea70bf0bca28fd996d2019c79c5cb3"
+  },
+  "tag": "v16.4",
+  "message": "rdma-core-16.4:\n\nUpdates from version 16.3:\n * Backport fixes:\n   * cxgb4: add new device pci ids.\n   * mlx5: Fix referencing uninitialized var in create_qp error flow\n   * Ensure all public headers compile in C++ mode\n   * providers/i40iw: Skip CQEs for destroyed QP\n   * ibacm: Support FDR and EDR rates\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABAgAGBQJap+ABAAoJEIAb3bglmI9k2bUIAL8EPqdzMygdN24Rzsveit9F\nhazf1axs+3EpC0/TE1G8BvOqBO2EmGUGRbdPTDsz0z6MSMxUtMe+HCFRvOOLhmbI\nxvzg2gr64ktHMK1lntB2lsvfYRMcjRPC26E0HrCSYjYIih+F48YWIkRdpQavT8O4\nBCcwzZ6qIQNJt2Mbtz1VI/p6soAfDmdCQbfPgCmN6GNZD1qQmouPjV0E+qxa0A5p\nmnp3oXeEcWsleOP+J7cMvsAIpqBU2QXdefF57NHJrFTq8QW+aDTZhpscChWq0QGG\nQ7cB3bFO3DLJV78JehTprCRQ+Cmnc2kPyfDye16T3LQEPU6cpGNvWhZoC3dVctA=\n=VH9O\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABAgAGBQJap+ABAAoJEIAb3bglmI9k2bUIAL8EPqdzMygdN24Rzsveit9F\nhazf1axs+3EpC0/TE1G8BvOqBO2EmGUGRbdPTDsz0z6MSMxUtMe+HCFRvOOLhmbI\nxvzg2gr64ktHMK1lntB2lsvfYRMcjRPC26E0HrCSYjYIih+F48YWIkRdpQavT8O4\nBCcwzZ6qIQNJt2Mbtz1VI/p6soAfDmdCQbfPgCmN6GNZD1qQmouPjV0E+qxa0A5p\nmnp3oXeEcWsleOP+J7cMvsAIpqBU2QXdefF57NHJrFTq8QW+aDTZhpscChWq0QGG\nQ7cB3bFO3DLJV78JehTprCRQ+Cmnc2kPyfDye16T3LQEPU6cpGNvWhZoC3dVctA=\n=VH9O\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9cb939b92bea70bf0bca28fd996d2019c79c5cb3\ntype commit\ntag v16.4\ntagger Nicolas Morey-Chaisemartin <NMoreyChaisemartin@suse.com> 1520951293 +0100\n\nrdma-core-16.4:\n\nUpdates from version 16.3:\n * Backport fixes:\n   * cxgb4: add new device pci ids.\n   * mlx5: Fix referencing uninitialized var in create_qp error flow\n   * Ensure all public headers compile in C++ mode\n   * providers/i40iw: Skip CQEs for destroyed QP\n   * ibacm: Support FDR and EDR rates\n"
+  }
+}

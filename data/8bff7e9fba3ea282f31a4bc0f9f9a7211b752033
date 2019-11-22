@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzA3OTQ4Njg6OGJmZjdlOWZiYTNlYTI4MmYzMWE0YmMwZjlmOWE3MjExYjc1MjAzMw==",
+  "sha": "8bff7e9fba3ea282f31a4bc0f9f9a7211b752033",
+  "url": "https://api.github.com/repos/sampotts/plyr/git/tags/8bff7e9fba3ea282f31a4bc0f9f9a7211b752033",
+  "tagger": {
+    "name": "Sam Potts",
+    "email": "me@sampotts.me",
+    "date": "2016-07-21T11:25:48Z"
+  },
+  "object": {
+    "sha": "57ad124ce837e1c5cde5663d32ea7c172dc59b26",
+    "type": "commit",
+    "url": "https://api.github.com/repos/sampotts/plyr/git/commits/57ad124ce837e1c5cde5663d32ea7c172dc59b26"
+  },
+  "tag": "v1.8.9",
+  "message": "- Fix for fullscreen not being defined (Fixes #295)\n- Fix for multiline captions (Fixes #314)\n- Clean up of type checks and fix for `restart()` (Fixes #315)\n- Fix for `MEDIA_ERR_SRC_NOT_SUPPORTED` when calling `.source()` API method\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

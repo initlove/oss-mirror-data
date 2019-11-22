@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6ZTc0NDhhODg5ZTVjMzZlNWY2ZGJiMjg5YjIxZjBlYTgwNzk5MWI4Mw==",
+  "sha": "e7448a889e5c36e5f6dbb289b21f0ea807991b83",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/e7448a889e5c36e5f6dbb289b21f0ea807991b83",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "NMoreyChaisemartin@suse.com",
+    "date": "2017-11-28T10:17:49Z"
+  },
+  "object": {
+    "sha": "6ade95efedf3099cacf05928ae7aa874f9e5c61d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/6ade95efedf3099cacf05928ae7aa874f9e5c61d"
+  },
+  "tag": "v15.1",
+  "message": "rdma-core-15.1\n\nUpdates from version 15:\n * Backport CI checks on centos/SUSE from master\n * Stable ABI auto checks\n * Backport fixes:\n   * verbs: Do not block QP attr_masks used by older kernels\n   * libibumad/umad.c: In get_port, ignore sysfs rate file errors\n   * bnxt_re/lib: fix the memory barrier call during poll-cq\n   * bnxt_re/lib: increment psn in case of 0 length packets\n   * libqedr: fix inline data copy\n   * verbs: Fix declaration of C++ include file in C-block\n   * verbs: Fix C++ compilation break\n   * verbs: fix compilation error with ICC\n   * hns: Fix create QP structure layout\n   * ibacm: Incorrect list used for subnet list causes a segfault\n   * ibacm: Incorrect usage of BE byte order of MLID attach/detach_mcast()\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABAgAGBQJaHTgyAAoJEIAb3bglmI9k65oH/RGnAKB8xZLQ38f2DhyD1a3G\nTBlPY8Koh8LoQWNTWu7Q1dprW5ePivf6AtA1XfoM7rTboHzbr6uOZxaJXFrBwa0u\ne2Ec1qkRtBcUNLYhuafYQ8O1RvXmO4xtZt/VImMFSQ7/mvAwlFcW8OZswdzUtV0a\n0Izt5UWPd8ZixfMeHbNTw74LE1v+/LybXT6D2994yr1ZrLyayHtgh7dR2iI6ryv6\ntz2kcbEo17qgdB7T4EX3vWLm1g+M1bSQaWEz7X8km/f6ugXyV35Ju26qb8IlDxmY\n6YBDbLRUCDu1g82HGOJUOrDvbx+KUMY1W5EAtnupb05ijW66U0c9uEUFk4wc+/M=\n=5JJn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABAgAGBQJaHTgyAAoJEIAb3bglmI9k65oH/RGnAKB8xZLQ38f2DhyD1a3G\nTBlPY8Koh8LoQWNTWu7Q1dprW5ePivf6AtA1XfoM7rTboHzbr6uOZxaJXFrBwa0u\ne2Ec1qkRtBcUNLYhuafYQ8O1RvXmO4xtZt/VImMFSQ7/mvAwlFcW8OZswdzUtV0a\n0Izt5UWPd8ZixfMeHbNTw74LE1v+/LybXT6D2994yr1ZrLyayHtgh7dR2iI6ryv6\ntz2kcbEo17qgdB7T4EX3vWLm1g+M1bSQaWEz7X8km/f6ugXyV35Ju26qb8IlDxmY\n6YBDbLRUCDu1g82HGOJUOrDvbx+KUMY1W5EAtnupb05ijW66U0c9uEUFk4wc+/M=\n=5JJn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6ade95efedf3099cacf05928ae7aa874f9e5c61d\ntype commit\ntag v15.1\ntagger Nicolas Morey-Chaisemartin <NMoreyChaisemartin@suse.com> 1511864269 +0100\n\nrdma-core-15.1\n\nUpdates from version 15:\n * Backport CI checks on centos/SUSE from master\n * Stable ABI auto checks\n * Backport fixes:\n   * verbs: Do not block QP attr_masks used by older kernels\n   * libibumad/umad.c: In get_port, ignore sysfs rate file errors\n   * bnxt_re/lib: fix the memory barrier call during poll-cq\n   * bnxt_re/lib: increment psn in case of 0 length packets\n   * libqedr: fix inline data copy\n   * verbs: Fix declaration of C++ include file in C-block\n   * verbs: Fix C++ compilation break\n   * verbs: fix compilation error with ICC\n   * hns: Fix create QP structure layout\n   * ibacm: Incorrect list used for subnet list causes a segfault\n   * ibacm: Incorrect usage of BE byte order of MLID attach/detach_mcast()\n"
+  }
+}

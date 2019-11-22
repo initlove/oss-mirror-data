@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzczMDgyOToxZWRjZWU5ZWY5MDE2ODk2ZmQwNmM2YTcwYjY1OTgzODk5YzNhZGIw",
+  "sha": "1edcee9ef9016896fd06c6a70b65983899c3adb0",
+  "url": "https://api.github.com/repos/psycopg/psycopg2/git/tags/1edcee9ef9016896fd06c6a70b65983899c3adb0",
+  "tagger": {
+    "name": "Daniele Varrazzo",
+    "email": "daniele.varrazzo@gmail.com",
+    "date": "2015-06-15T09:44:09Z"
+  },
+  "object": {
+    "sha": "e707c3f657108bb9a538e509853de6a77de45f69",
+    "type": "commit",
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/e707c3f657108bb9a538e509853de6a77de45f69"
+  },
+  "tag": "2_6_1",
+  "message": "Psycopg 2.6.1 released\n\n- Lists consisting of only `None` are escaped correctly (:ticket:`#285`).\n- Fixed deadlock in multithread programs using OpenSSL (:ticket:`#290`).\n- Correctly unlock the connection after error in flush (:ticket:`#294`).\n- Fixed ``MinTimeLoggingCursor.callproc()`` (:ticket:`#309`).\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJVfp6VAAoJEGATvTr8+VfealYH/1hcilNVgDzL/nTxUN0+/Zzl\n+Cc+Z6afc697MJcZwpNsGiQvZKRevuN06qCsLy+BLI7sqZNOYrGeJyrP3jgU9kbI\nFTJ/vUh2kAhIVhCZgNu2Zmp6suWMh+O8LxMECwHQbEQSSRVeUYbbFJ/jbJSp3wk5\naM3+HaNpBXS4r/+iroFE8dogqea3LHhAdg14gmN6yvXOlgh8Ia3cVkRmhp+maiVb\nEFH6+ZH0fbJGg/o2wbpve81HNFzm7/xyfq2j6kf/ADXlxiT306hamHAncAPnSlV1\nGog87blgxfeKiMMIWPst9eVpELoomTFhGfKSacF/6A25NPQXKdxjmVb/TTHf1rY=\n=zSkX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJVfp6VAAoJEGATvTr8+VfealYH/1hcilNVgDzL/nTxUN0+/Zzl\n+Cc+Z6afc697MJcZwpNsGiQvZKRevuN06qCsLy+BLI7sqZNOYrGeJyrP3jgU9kbI\nFTJ/vUh2kAhIVhCZgNu2Zmp6suWMh+O8LxMECwHQbEQSSRVeUYbbFJ/jbJSp3wk5\naM3+HaNpBXS4r/+iroFE8dogqea3LHhAdg14gmN6yvXOlgh8Ia3cVkRmhp+maiVb\nEFH6+ZH0fbJGg/o2wbpve81HNFzm7/xyfq2j6kf/ADXlxiT306hamHAncAPnSlV1\nGog87blgxfeKiMMIWPst9eVpELoomTFhGfKSacF/6A25NPQXKdxjmVb/TTHf1rY=\n=zSkX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e707c3f657108bb9a538e509853de6a77de45f69\ntype commit\ntag 2_6_1\ntagger Daniele Varrazzo <daniele.varrazzo@gmail.com> 1434361449 +0100\n\nPsycopg 2.6.1 released\n\n- Lists consisting of only `None` are escaped correctly (:ticket:`#285`).\n- Fixed deadlock in multithread programs using OpenSSL (:ticket:`#290`).\n- Correctly unlock the connection after error in flush (:ticket:`#294`).\n- Fixed ``MinTimeLoggingCursor.callproc()`` (:ticket:`#309`).\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzczMDgyOTpjMjQ5NzA5N2E3ZTI1ZmUyZWFlOTI1YmU3NjgzYjE3MmQ1M2RiMzQ4",
+  "sha": "c2497097a7e25fe2eae925be7683b172d53db348",
+  "url": "https://api.github.com/repos/psycopg/psycopg2/git/tags/c2497097a7e25fe2eae925be7683b172d53db348",
+  "tagger": {
+    "name": "Daniele Varrazzo",
+    "email": "daniele.varrazzo@gmail.com",
+    "date": "2019-04-14T17:17:05Z"
+  },
+  "object": {
+    "sha": "324cded1661995cc006e04e2c5e6b00e61ab74ba",
+    "type": "commit",
+    "url": "https://api.github.com/repos/psycopg/psycopg2/git/commits/324cded1661995cc006e04e2c5e6b00e61ab74ba"
+  },
+  "tag": "2_8_2",
+  "message": "Psycopg 2.8.2 released\n\nWhat's new in psycopg 2.8.2\n---------------------------\n\n- Fixed `~psycopg2.extras.RealDictCursor` when there are repeated columns\n  (:ticket:`#884`).\n- Binary packages built with openssl 1.1.1b. Should fix concurrency problems\n  (:tickets:`#543, #836`).\n-----BEGIN PGP SIGNATURE-----\n\niQFPBAABCgA5FiEEitYJlWzxiZQY4ZqFYBO9Ovz5V94FAlyza3cbHGRhbmllbGUu\ndmFycmF6em9AZ21haWwuY29tAAoJEGATvTr8+Vfes2UH/3N+GNpIOtu8L9f9WSW8\ntk+o2qS39Oj132VdXD59+rKt0orM/NpMJRjPc9wELNRvODNCvoIyF4NI0TFH8GRj\nIPeH+cWRwajgxAiAmlG7k/01AAAVo6E5O2eezpW8uEkC16crw4GTt/hfl1x9yQqj\nlkbFTyfUDcmNQMdE5t41tzWIXQEf+RJ3DucAju2qkQSh1cdlDD2fULggCwQawOEa\nYMi+FdKc/TqLWv3BS6wZkg0qObD0+/tQwF8sBd9On7pmaQKW1Qi/atLbHdNlXKsr\nA5tXmXf05Tg8VVJoD1zMijGN0yr5FqAOrv2zTR8tubE5PbU+Zj9NSDBarOTZgOfK\n1oc=\n=2C/o\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFPBAABCgA5FiEEitYJlWzxiZQY4ZqFYBO9Ovz5V94FAlyza3cbHGRhbmllbGUu\ndmFycmF6em9AZ21haWwuY29tAAoJEGATvTr8+Vfes2UH/3N+GNpIOtu8L9f9WSW8\ntk+o2qS39Oj132VdXD59+rKt0orM/NpMJRjPc9wELNRvODNCvoIyF4NI0TFH8GRj\nIPeH+cWRwajgxAiAmlG7k/01AAAVo6E5O2eezpW8uEkC16crw4GTt/hfl1x9yQqj\nlkbFTyfUDcmNQMdE5t41tzWIXQEf+RJ3DucAju2qkQSh1cdlDD2fULggCwQawOEa\nYMi+FdKc/TqLWv3BS6wZkg0qObD0+/tQwF8sBd9On7pmaQKW1Qi/atLbHdNlXKsr\nA5tXmXf05Tg8VVJoD1zMijGN0yr5FqAOrv2zTR8tubE5PbU+Zj9NSDBarOTZgOfK\n1oc=\n=2C/o\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 324cded1661995cc006e04e2c5e6b00e61ab74ba\ntype commit\ntag 2_8_2\ntagger Daniele Varrazzo <daniele.varrazzo@gmail.com> 1555262225 +0100\n\nPsycopg 2.8.2 released\n\nWhat's new in psycopg 2.8.2\n---------------------------\n\n- Fixed `~psycopg2.extras.RealDictCursor` when there are repeated columns\n  (:ticket:`#884`).\n- Binary packages built with openssl 1.1.1b. Should fix concurrency problems\n  (:tickets:`#543, #836`).\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODQwNjA3MzY6NTM4OTdkZDliMjA0MTllOThmYmZjYjMzMGNhM2U1NTIzMGY2MjYyNA==",
+  "sha": "53897dd9b20419e98fbfcb330ca3e55230f62624",
+  "url": "https://api.github.com/repos/openstack/ovsdbapp/git/tags/53897dd9b20419e98fbfcb330ca3e55230f62624",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-09-25T21:07:48Z"
+  },
+  "object": {
+    "sha": "64342ba52cc3e80b91ea0c845c349d2ce386f4ae",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ovsdbapp/git/commits/64342ba52cc3e80b91ea0c845c349d2ce386f4ae"
+  },
+  "tag": "0.13.0",
+  "message": "ovsdbapp 0.13.0 release\n\nmeta:version: 0.13.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Lucas Alvares Gomes <lucasagomes@gmail.com>\nmeta:release:Commit: Lucas Alvares Gomes <lucasagomes@gmail.com>\nmeta:release:Change-Id: I7c411ad58e10285d026d87a4e4f7b584d923695b\nmeta:release:Code-Review+1: Jakub Libosvar <libosvar@redhat.com>\nmeta:release:Code-Review+1: Daniel Alvarez <dalvarez@redhat.com>\nmeta:release:Code-Review+1: Terry Wilson <twilson@redhat.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbqqOkAAoJEBpUEUgFTp44x6ML/1VyWzWc+0lidDe9VB3hor3j\nBv0o891oMsopwQTDuhHqO4fDsbnEdFl7G8jaoltPvn5XP7gIcKKn3jEwXxJhiDa/\nB17W99R8XTpG9KD9PooDhQRnkQ+ckf3PpDhFRw4AIlWj+VMlC9KBDOuEks3sM9qD\nuHBxUG5BwUoAJY7bBpjuLKwRPWUy+p0zT7E65pTajmxvODh+ssbEj8gXNrvTxWbY\n2tkM3hc316Qjng3brLf07sgv6D2MuCCqvtekC3atoxe/g5VbDyjnpZ3axYAmc41q\n1ouA3io8j90hc8hg7hI1CAfVB0b2SoJt+b8e8bw8vyti4uV9NFU6pT/GiixhTrP/\nvZ7ONja8O3tuzZEsK16pQQFpyxE4Epsmi/F/1xCUr1dvPIWalvIX5p+jRfGvYB9x\nuGfXsQo++FVWxvObbcxGJGVhpjzDeXSyIkmwe9zW+B1tAtAStRIKdvpRea+lOorM\nE5OGDi2XbDOeMXNX1sWKTNsPiEu4w9xXWZAriAEU1g==\n=UcnR\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbqqOkAAoJEBpUEUgFTp44x6ML/1VyWzWc+0lidDe9VB3hor3j\nBv0o891oMsopwQTDuhHqO4fDsbnEdFl7G8jaoltPvn5XP7gIcKKn3jEwXxJhiDa/\nB17W99R8XTpG9KD9PooDhQRnkQ+ckf3PpDhFRw4AIlWj+VMlC9KBDOuEks3sM9qD\nuHBxUG5BwUoAJY7bBpjuLKwRPWUy+p0zT7E65pTajmxvODh+ssbEj8gXNrvTxWbY\n2tkM3hc316Qjng3brLf07sgv6D2MuCCqvtekC3atoxe/g5VbDyjnpZ3axYAmc41q\n1ouA3io8j90hc8hg7hI1CAfVB0b2SoJt+b8e8bw8vyti4uV9NFU6pT/GiixhTrP/\nvZ7ONja8O3tuzZEsK16pQQFpyxE4Epsmi/F/1xCUr1dvPIWalvIX5p+jRfGvYB9x\nuGfXsQo++FVWxvObbcxGJGVhpjzDeXSyIkmwe9zW+B1tAtAStRIKdvpRea+lOorM\nE5OGDi2XbDOeMXNX1sWKTNsPiEu4w9xXWZAriAEU1g==\n=UcnR\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 64342ba52cc3e80b91ea0c845c349d2ce386f4ae\ntype commit\ntag 0.13.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1537909668 +0000\n\novsdbapp 0.13.0 release\n\nmeta:version: 0.13.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Lucas Alvares Gomes <lucasagomes@gmail.com>\nmeta:release:Commit: Lucas Alvares Gomes <lucasagomes@gmail.com>\nmeta:release:Change-Id: I7c411ad58e10285d026d87a4e4f7b584d923695b\nmeta:release:Code-Review+1: Jakub Libosvar <libosvar@redhat.com>\nmeta:release:Code-Review+1: Daniel Alvarez <dalvarez@redhat.com>\nmeta:release:Code-Review+1: Terry Wilson <twilson@redhat.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

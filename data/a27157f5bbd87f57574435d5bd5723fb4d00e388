@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6YTI3MTU3ZjViYmQ4N2Y1NzU3NDQzNWQ1YmQ1NzIzZmI0ZDAwZTM4OA==",
+  "sha": "a27157f5bbd87f57574435d5bd5723fb4d00e388",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/a27157f5bbd87f57574435d5bd5723fb4d00e388",
+  "tagger": {
+    "name": "Nicolas Morey-Chaisemartin",
+    "email": "nmoreychaisemartin@suse.com",
+    "date": "2018-06-11T16:56:15Z"
+  },
+  "object": {
+    "sha": "2fd0ffc5be880da1f4f329bd8ab89803ad5da61f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/2fd0ffc5be880da1f4f329bd8ab89803ad5da61f"
+  },
+  "tag": "v17.2",
+  "message": "rdma-core-17.2:\n\nUpdates from version 17.1\n * Backport fixes:\n   * buildilb: Fix -msse breakage on ARM builds\n   * buildlib: Use -msse if the compiler does not support target(sse)\n   * suse: do not call %service rules on a template file\n   * Fixup travis builds\n   * mlx5: Convert ah_attr static rate to mlx5 static rate\n   * ccan: Add array_size.h file\n   * iwpmd: Initialize address of sockaddr\n   * mlx5: Fix bug in disabling lock on extended CQ\n   * mlx5: Fix need_uuar_lock when there are no medium bfregs\n   * verbs: Fix wrong clean up flow in ibv_rc_pingpong\n   * Match kernel ABI to for 4.17 for 32 bit\n   * verbs: Fix size of verbs_ex_private allocation\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlseqbccHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZE/tB/0QBUzl5UGhyG6DSfEP\n0u8FSYkpmUIibI1Atk7c96TobGQniuZ36HzjmNBxSjg6zULqztKi9DLXEgwiKCIM\nqALClNUkoLs4m88H+vQ+p4wNVqv9eo9U1XvSGoLeNBK3ExvwPWLzMVjMGltwMj06\nlGGy6n241lJreyieAVoB+yEU0ZbyBdb4/eTnG+i1E9H6OJAQ+npCQy4wlhjC8+tz\n7r16gJZid2aVes+DdGLZ5I12i4otDNEg06XMwoP7QyxchfMhaYUcCVkf7Hu/ThJf\nkMkhlfO19yB/dIjoD1Xuysg4zJ3ZLPsMb3G25aUiwEdjjuZQDbDqmSdBwH72a8NN\nF0RQ\n=AQo5\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEQtJThcGhwCuLGxxvgBvduCWYj2QFAlseqbccHG5tb3JleWNo\nYWlzZW1hcnRpbkBzdXNlLmNvbQAKCRCAG924JZiPZE/tB/0QBUzl5UGhyG6DSfEP\n0u8FSYkpmUIibI1Atk7c96TobGQniuZ36HzjmNBxSjg6zULqztKi9DLXEgwiKCIM\nqALClNUkoLs4m88H+vQ+p4wNVqv9eo9U1XvSGoLeNBK3ExvwPWLzMVjMGltwMj06\nlGGy6n241lJreyieAVoB+yEU0ZbyBdb4/eTnG+i1E9H6OJAQ+npCQy4wlhjC8+tz\n7r16gJZid2aVes+DdGLZ5I12i4otDNEg06XMwoP7QyxchfMhaYUcCVkf7Hu/ThJf\nkMkhlfO19yB/dIjoD1Xuysg4zJ3ZLPsMb3G25aUiwEdjjuZQDbDqmSdBwH72a8NN\nF0RQ\n=AQo5\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2fd0ffc5be880da1f4f329bd8ab89803ad5da61f\ntype commit\ntag v17.2\ntagger Nicolas Morey-Chaisemartin <nmoreychaisemartin@suse.com> 1528736175 +0200\n\nrdma-core-17.2:\n\nUpdates from version 17.1\n * Backport fixes:\n   * buildilb: Fix -msse breakage on ARM builds\n   * buildlib: Use -msse if the compiler does not support target(sse)\n   * suse: do not call %service rules on a template file\n   * Fixup travis builds\n   * mlx5: Convert ah_attr static rate to mlx5 static rate\n   * ccan: Add array_size.h file\n   * iwpmd: Initialize address of sockaddr\n   * mlx5: Fix bug in disabling lock on extended CQ\n   * mlx5: Fix need_uuar_lock when there are no medium bfregs\n   * verbs: Fix wrong clean up flow in ibv_rc_pingpong\n   * Match kernel ABI to for 4.17 for 32 bit\n   * verbs: Fix size of verbs_ex_private allocation\n"
+  }
+}

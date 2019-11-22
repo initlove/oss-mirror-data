@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjg0NTYyMjY6MDAwZDhmMzk3YTI3MGYxOTFiNzZlYWQ3ZTE3OGMwNmI1ZDZhNDBjOA==",
+  "sha": "000d8f397a270f191b76ead7e178c06b5d6a40c8",
+  "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/tags/000d8f397a270f191b76ead7e178c06b5d6a40c8",
+  "tagger": {
+    "name": "Leon Romanovsky",
+    "email": "leon@kernel.org",
+    "date": "2017-05-30T04:00:59Z"
+  },
+  "object": {
+    "sha": "b2f6a3699b2a4bb1478e919b29e9a39307457e48",
+    "type": "commit",
+    "url": "https://api.github.com/repos/linux-rdma/rdma-core/git/commits/b2f6a3699b2a4bb1478e919b29e9a39307457e48"
+  },
+  "tag": "v14",
+  "message": "rdma-core-14\n\nUpdates from version 13:\n\n- AARCH64 compilations are checked now as part of travis build\n- Sparse checks were added to travis\n- Introduction of bnxt_re driver\n- Multiple fixes to Debian package\n- Rework srp_daemon's systemd integration\n- Various fixes in qedr, mlx4, mlx5, bnxrt_re and rxe drivers\n- New supported PCI ID were added to mlx5\n- Addition of manual pages for cmtime and udpong programs\n- Multiple fixes of spelling types and documentation clarifications\n- Sparse fixes\n- rping gained ability to bind to source IP address\n- Various improvements in cmake and cbuild infrastructures\n- Add support for flow tag, CVLAN and VXLAN specifications\n- Provide ability to pass private data to create CQ\n- Exposure various device capabilities to user applications\n-----BEGIN PGP SIGNATURE-----\n\niQJEBAABCAAuFiEEkhr/r4Op1/04yqaB5GN7iDZyWKcFAlks+PQQHGxlb25Aa2Vy\nbmVsLm9yZwAKCRDkY3uINnJYp00IEADKo12/Can6FvsMIAt7is8bqsZJ6UV6u/cA\niDKhfZmcdMixXOdpEDetsm3+wmUsWoS2Fu06LIJu76MG12nSMGGBk5UmZR5/cSEN\nRLW2J3Gmx0LWAmBm1NIvEu6sUcwDUSZOyXi4YtK0DqfIU7KZkycyvNph/rgnmU3i\nM3pFi6jL1jsah6aBTtmg6NNT5nmZK50SomUE233mwOmciVgmBK2Zrnoyh5aJ+O/H\nRdDsVRYVwJ1FnG6wmn20TT/WflQFtiWQtuRwfG/duxWcrmqraUafHfCIMd3ZwIWa\nlm/QuMa0UPaVbAVQTVmEHgnJJs5opNIt1788DZGnMHw0ESXOKV/vxw8d9qCHLFK8\nk/tCqIrIYArPxK0386PMtB/T51zJU8Gsq25tUzKCo62Q8znV285XmQyTKLd1Fs+n\nI7Ha5XLYx/A3NA2eWH6AjeSFApMuH7qU//5diCKTSicsE8XyO5SlQC9GEUFjY56t\nTtuegnFnz+JS5hw0z0AXrc6xgPkvUjJXPibqgSVNGkYtH/5KO+vrUt+uKMznE9ts\nMpRfxeQ/c0LQTRLUoKg4kZj3xd2zysrSbMGr1QyYYCLve2sMQhFjdjn+v+GveAqZ\nZs0LQJ68WHkDLjCfaAxpuakPGLF/zIqK1BetWWkQ6jfcVGNIaWo6egoPiu51jrzS\ngMe7ELNKMA==\n=FRcV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQJEBAABCAAuFiEEkhr/r4Op1/04yqaB5GN7iDZyWKcFAlks+PQQHGxlb25Aa2Vy\nbmVsLm9yZwAKCRDkY3uINnJYp00IEADKo12/Can6FvsMIAt7is8bqsZJ6UV6u/cA\niDKhfZmcdMixXOdpEDetsm3+wmUsWoS2Fu06LIJu76MG12nSMGGBk5UmZR5/cSEN\nRLW2J3Gmx0LWAmBm1NIvEu6sUcwDUSZOyXi4YtK0DqfIU7KZkycyvNph/rgnmU3i\nM3pFi6jL1jsah6aBTtmg6NNT5nmZK50SomUE233mwOmciVgmBK2Zrnoyh5aJ+O/H\nRdDsVRYVwJ1FnG6wmn20TT/WflQFtiWQtuRwfG/duxWcrmqraUafHfCIMd3ZwIWa\nlm/QuMa0UPaVbAVQTVmEHgnJJs5opNIt1788DZGnMHw0ESXOKV/vxw8d9qCHLFK8\nk/tCqIrIYArPxK0386PMtB/T51zJU8Gsq25tUzKCo62Q8znV285XmQyTKLd1Fs+n\nI7Ha5XLYx/A3NA2eWH6AjeSFApMuH7qU//5diCKTSicsE8XyO5SlQC9GEUFjY56t\nTtuegnFnz+JS5hw0z0AXrc6xgPkvUjJXPibqgSVNGkYtH/5KO+vrUt+uKMznE9ts\nMpRfxeQ/c0LQTRLUoKg4kZj3xd2zysrSbMGr1QyYYCLve2sMQhFjdjn+v+GveAqZ\nZs0LQJ68WHkDLjCfaAxpuakPGLF/zIqK1BetWWkQ6jfcVGNIaWo6egoPiu51jrzS\ngMe7ELNKMA==\n=FRcV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b2f6a3699b2a4bb1478e919b29e9a39307457e48\ntype commit\ntag v14\ntagger Leon Romanovsky <leon@kernel.org> 1496116859 +0300\n\nrdma-core-14\n\nUpdates from version 13:\n\n- AARCH64 compilations are checked now as part of travis build\n- Sparse checks were added to travis\n- Introduction of bnxt_re driver\n- Multiple fixes to Debian package\n- Rework srp_daemon's systemd integration\n- Various fixes in qedr, mlx4, mlx5, bnxrt_re and rxe drivers\n- New supported PCI ID were added to mlx5\n- Addition of manual pages for cmtime and udpong programs\n- Multiple fixes of spelling types and documentation clarifications\n- Sparse fixes\n- rping gained ability to bind to source IP address\n- Various improvements in cmake and cbuild infrastructures\n- Add support for flow tag, CVLAN and VXLAN specifications\n- Provide ability to pass private data to create CQ\n- Exposure various device capabilities to user applications\n"
+  }
+}

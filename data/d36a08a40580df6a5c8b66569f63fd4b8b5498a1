@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzA3OTQ4Njg6ZDM2YTA4YTQwNTgwZGY2YTVjOGI2NjU2OWY2M2ZkNGI4YjU0OThhMQ==",
+  "sha": "d36a08a40580df6a5c8b66569f63fd4b8b5498a1",
+  "url": "https://api.github.com/repos/sampotts/plyr/git/tags/d36a08a40580df6a5c8b66569f63fd4b8b5498a1",
+  "tagger": {
+    "name": "Sam",
+    "email": "me@sampotts.me",
+    "date": "2016-06-07T11:35:09Z"
+  },
+  "object": {
+    "sha": "1a745e1eaa027425ba645adcb648d0ba1aa64885",
+    "type": "commit",
+    "url": "https://api.github.com/repos/sampotts/plyr/git/commits/1a745e1eaa027425ba645adcb648d0ba1aa64885"
+  },
+  "tag": "v1.7.0",
+  "message": "- SASS cleanup (fixes #265)\n- Docs tidy up to help quick start (fixes #253)\n- Fix for issues with data attribute options passing (fixes #257)\n- Removed the requirement for a wrapper div to setup Plyr and removed the dependency on the `plyr` classname as a JS hook. By default it will now look for `<video>`, `<audio>` and `[data-type]` elements. If you are just calling `setup()` with a `<div class=\"plyr\">` you may want to give it a good test after upgrading. You can probably remove the wrapper div. The reason behind this is to make setup easier for newcomers and prevent the styling being used on unsupported players (because the plyr classname was used as a CSS and JS hook - which isn't ideal)\n- Renamed the 'docs' folder to `demo` to avoid confusion. The readme is the docs after all.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}
