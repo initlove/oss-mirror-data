@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6YTI4YjQ4YjYwYjc4ZTFhY2M1MGY0ZGEwMzJiMWQwYzE4MGVlMmMzMw==",
+  "sha": "a28b48b60b78e1acc50f4da032b1d0c180ee2c33",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/a28b48b60b78e1acc50f4da032b1d0c180ee2c33",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2016-05-19T00:21:52Z"
+  },
+  "object": {
+    "sha": "f853407809e00b889c5887adb16ffb2d85fab34f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/f853407809e00b889c5887adb16ffb2d85fab34f"
+  },
+  "tag": "v0.4.25",
+  "message": "v0.4.25\n\n- New loop.get_exception_handler method\n  (will be in asyncio in Python 3.5.2)\n\n- New loop.create_future() method\n  (will be in asyncio in Python 3.5.2)\n\n- Bump libuv version: v1.9.0 -> v1.9.1\n\n- Transport.write is faster now, sequential write\n  calls can be up to 3x faster.\n\n- Transport.writelines uses zero-copy now.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

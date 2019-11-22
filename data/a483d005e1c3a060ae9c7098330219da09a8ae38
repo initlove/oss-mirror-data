@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6YTQ4M2QwMDVlMWMzYTA2MGFlOWM3MDk4MzMwMjE5ZGEwOWE4YWUzOA==",
+  "sha": "a483d005e1c3a060ae9c7098330219da09a8ae38",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/a483d005e1c3a060ae9c7098330219da09a8ae38",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2016-10-05T18:27:27Z"
+  },
+  "object": {
+    "sha": "b87c5e3504464ff3e5f46c1df10a92e5bf5cef46",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/b87c5e3504464ff3e5f46c1df10a92e5bf5cef46"
+  },
+  "tag": "v0.5.4",
+  "message": "v0.5.4\n\n- Fix ARCHFLAGS handling in setup.py\n\n- Signal handling was rewritten from scratch. Now it's\n  done in the exact same way as in asyncio (using\n  signal.set_wakeup_fd instead of libuv signal handles).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

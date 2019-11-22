@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6YWM2NzJiOGQ3NjZiNTBjOGE4MDMxMDA2OTkyOWZjODhlOWZiOGFhNg==",
+  "sha": "ac672b8d766b50c8a80310069929fc88e9fb8aa6",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/ac672b8d766b50c8a80310069929fc88e9fb8aa6",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2016-07-04T23:24:05Z"
+  },
+  "object": {
+    "sha": "ca0f1ef363d1e18b4853c5ecf5be91a8fdf4b2f4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/ca0f1ef363d1e18b4853c5ecf5be91a8fdf4b2f4"
+  },
+  "tag": "v0.4.32",
+  "message": "v0.4.32\n\n- Add slow_callback_duration property to loop\n- Ingnore CancelledError in transport.connect\n- Fix UVPoll handler crash\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

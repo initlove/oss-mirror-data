@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6YTM2OTdmOGEzNmZkMWNkMmY0OTgxZDA2MjVkYmY3MTIwZmNkY2Q2NA==",
+  "sha": "a3697f8a36fd1cd2f4981d0625dbf7120fcdcd64",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/a3697f8a36fd1cd2f4981d0625dbf7120fcdcd64",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2016-05-14T20:47:47Z"
+  },
+  "object": {
+    "sha": "fa5ab570503b9da2f50e1b1bd8378fa32ab72f5f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/fa5ab570503b9da2f50e1b1bd8378fa32ab72f5f"
+  },
+  "tag": "v0.4.22",
+  "message": "v0.4.22\n\n- sock_sendall & sock_recv are 40-50% faster now;\n\n- use libuv.uv_try_write function for streams\n  instead of socket.h/send.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

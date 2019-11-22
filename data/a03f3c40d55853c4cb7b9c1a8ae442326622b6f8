@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6YTAzZjNjNDBkNTU4NTNjNGNiN2I5YzFhOGFlNDQyMzI2NjIyYjZmOA==",
+  "sha": "a03f3c40d55853c4cb7b9c1a8ae442326622b6f8",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/a03f3c40d55853c4cb7b9c1a8ae442326622b6f8",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2018-10-31T21:20:23Z"
+  },
+  "object": {
+    "sha": "5220d32841e6e4db352a2d7aa0241cb9ce58492e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/5220d32841e6e4db352a2d7aa0241cb9ce58492e"
+  },
+  "tag": "v0.12.0rc1",
+  "message": "v0.12.0rc1\n\nNew Features\n\n* New SSL implementation. (#176)\n  (by @fantix in 9cba7493 for #158)\n\n* New `uvloop.install()` helper function.\n  (by @1st1 in a3d8d401)\n\nBug Fixes\n\n* All bug fixes from `0.11.0`—`0.11.3` are included in\n  this release.\n\n* Don't log `ssl.CertificateError`.\n  (by @fantix in 848e4785 for #195, #199)\n\nBuild\n\n* Use Cython `0.29`.\n\n* Upgrade libuv to `v1.23.0`.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

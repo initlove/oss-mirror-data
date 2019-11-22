@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQxMzkzMjphODc1ZjA5MGYyZmM3Njg5ZGM2YmRmZGNlMDUyMzcwZjk2OTI0MzQ1",
+  "sha": "a875f090f2fc7689dc6bdfdce052370f96924345",
+  "url": "https://api.github.com/repos/john-kurkowski/tldextract/git/tags/a875f090f2fc7689dc6bdfdce052370f96924345",
+  "tagger": {
+    "name": "John Kurkowski",
+    "email": "john.kurkowski@gmail.com",
+    "date": "2014-10-14T03:20:17Z"
+  },
+  "object": {
+    "sha": "09e1b34870ad73247e4303440c2e5c9c464e8241",
+    "type": "commit",
+    "url": "https://api.github.com/repos/john-kurkowski/tldextract/git/commits/09e1b34870ad73247e4303440c2e5c9c464e8241"
+  },
+  "tag": "1.5.1",
+  "message": "1.5.1\n\n* Missing setuptools dependency\n* Avoid u'' literal for Python 3.0 - 3.2 compatibility. Tests will still fail though.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

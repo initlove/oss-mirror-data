@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6Y2JiOGY5MWYyYTFjMzFiZDhkOGJmOTkxZDY1NGI3M2MyMTI1MmZmYQ==",
+  "sha": "cbb8f91f2a1c31bd8d8bf991d654b73c21252ffa",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/cbb8f91f2a1c31bd8d8bf991d654b73c21252ffa",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2016-11-28T16:22:46Z"
+  },
+  "object": {
+    "sha": "8d3568115e712c8b3d731525a4c06ff1b344a234",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/8d3568115e712c8b3d731525a4c06ff1b344a234"
+  },
+  "tag": "v0.6.6",
+  "message": "v0.6.6\n\n* create_connection and create_server can now accept UNIX\n  sockets (as asyncio in 3.6);\n\n* libuv version bump to v0.10.1;\n\n* on linux, immediately remove FDs from epoll after call\n  to remove_reader/remove_writer.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

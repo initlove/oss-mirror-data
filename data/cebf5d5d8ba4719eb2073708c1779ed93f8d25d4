@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDExMjYzMzI6Y2ViZjVkNWQ4YmE0NzE5ZWIyMDczNzA4YzE3NzllZDkzZjhkMjVkNA==",
+  "sha": "cebf5d5d8ba4719eb2073708c1779ed93f8d25d4",
+  "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/tags/cebf5d5d8ba4719eb2073708c1779ed93f8d25d4",
+  "tagger": {
+    "name": "William Roberts",
+    "email": "william.c.roberts@intel.com",
+    "date": "2019-10-02T13:48:47Z"
+  },
+  "object": {
+    "sha": "26d63c1d4324c6442a9add2fb7c9b7f5871702bd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/commits/26d63c1d4324c6442a9add2fb7c9b7f5871702bd"
+  },
+  "tag": "3.2.1-rc1",
+  "message": "3.2.1-rc1 - 2019-10-02\n\n* Fix invalid memcpy when extracting ECDSA plain signatures.\n* Fix resource leak on FILE * in hashing routine.\n* Correct PCR logic to prevent memory corruption bug.\n* errata handler fix.\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEW0grjj4Z2nyXjh0BbeLpB44fUMEFAl2UqtcACgkQbeLpB44f\nUME00g//U7IdxGFH+mXyy24yZP3Mqlmijm6AD56bbJgYkKKdJWhyXUqz+N3+t9Rk\nTH+CxVlpmrB1D2qzTxjFhjauILZ0VB+PZqfOhmBwgIXH8QyVgs6tRePbWCPQLb15\ngsXZLCD7ECFo0Bjq1+xeAfdIm6R5PIgEeabrPFdkVY+qncm5ST76vJ6BOj+VRBnS\nR8V78jpz/kATuogI80eCoaw41/IrgnlQIgmcJBMW8piPkO38Bk7wp/Q+9q8YUhyT\n8cP+uOGIwJS4ra8SaLp4pejOL4iyflsGyi6FbtlRqTgrrsOvoKQJ2LP4nnmqitfW\nYz0aNeYZjeRs82oogUNfl37/kbiJgh8OoWS+WMebewM6ynBybDS3So4RpGhrFDMV\nOst+znFWDTW+mFFNNj4qgpyKt1NCvX/ps/pSJK4WkrgXdJHcwgOF9MiVqY3+wAv8\nJRUGDi1Can0ttpQ0G0gtX/AQnjhYttYnHhSTQcX74xJb6bHvROOrZbaHw8D3sko8\nUQOCKsoupjN0Ncni4HPimAf30fFvoY6UN5FeGCVaULtVbzzXVwfxPyYGbjbvdPpk\ntxYctvReNkE5e3RxQqGVDER0isTsySA4TgA+tJvo3sYzfxy/K1HAQHC9JNTgJeYr\nkbBwnC3np71aorxvrIbhngDeegHwVymdzSoB7JE9qBXb3OahgjU=\n=PPdL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEW0grjj4Z2nyXjh0BbeLpB44fUMEFAl2UqtcACgkQbeLpB44f\nUME00g//U7IdxGFH+mXyy24yZP3Mqlmijm6AD56bbJgYkKKdJWhyXUqz+N3+t9Rk\nTH+CxVlpmrB1D2qzTxjFhjauILZ0VB+PZqfOhmBwgIXH8QyVgs6tRePbWCPQLb15\ngsXZLCD7ECFo0Bjq1+xeAfdIm6R5PIgEeabrPFdkVY+qncm5ST76vJ6BOj+VRBnS\nR8V78jpz/kATuogI80eCoaw41/IrgnlQIgmcJBMW8piPkO38Bk7wp/Q+9q8YUhyT\n8cP+uOGIwJS4ra8SaLp4pejOL4iyflsGyi6FbtlRqTgrrsOvoKQJ2LP4nnmqitfW\nYz0aNeYZjeRs82oogUNfl37/kbiJgh8OoWS+WMebewM6ynBybDS3So4RpGhrFDMV\nOst+znFWDTW+mFFNNj4qgpyKt1NCvX/ps/pSJK4WkrgXdJHcwgOF9MiVqY3+wAv8\nJRUGDi1Can0ttpQ0G0gtX/AQnjhYttYnHhSTQcX74xJb6bHvROOrZbaHw8D3sko8\nUQOCKsoupjN0Ncni4HPimAf30fFvoY6UN5FeGCVaULtVbzzXVwfxPyYGbjbvdPpk\ntxYctvReNkE5e3RxQqGVDER0isTsySA4TgA+tJvo3sYzfxy/K1HAQHC9JNTgJeYr\nkbBwnC3np71aorxvrIbhngDeegHwVymdzSoB7JE9qBXb3OahgjU=\n=PPdL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 26d63c1d4324c6442a9add2fb7c9b7f5871702bd\ntype commit\ntag 3.2.1-rc1\ntagger William Roberts <william.c.roberts@intel.com> 1570024127 -0500\n\n3.2.1-rc1 - 2019-10-02\n\n* Fix invalid memcpy when extracting ECDSA plain signatures.\n* Fix resource leak on FILE * in hashing routine.\n* Correct PCR logic to prevent memory corruption bug.\n* errata handler fix.\n"
+  }
+}

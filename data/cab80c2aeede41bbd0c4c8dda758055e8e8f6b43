@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDExMjYzMzI6Y2FiODBjMmFlZWRlNDFiYmQwYzRjOGRkYTc1ODA1NWU4ZThmNmI0Mw==",
+  "sha": "cab80c2aeede41bbd0c4c8dda758055e8e8f6b43",
+  "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/tags/cab80c2aeede41bbd0c4c8dda758055e8e8f6b43",
+  "tagger": {
+    "name": "Javier Martinez Canillas",
+    "email": "javierm@redhat.com",
+    "date": "2018-04-30T09:52:36Z"
+  },
+  "object": {
+    "sha": "2bf8f1cf2db6c26bd9e741263434aeac1239af8e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/commits/2bf8f1cf2db6c26bd9e741263434aeac1239af8e"
+  },
+  "tag": "3.0.4",
+  "message": "3.0.4 - 2018-05-30\n  * Fix save and load for TPM2B_PRIVATE object.\n  * Use a default buffer size for tpm2_nv{read,write} if the TPM reports a 0 size.\n  * Fix --verbose and --version options crossover.\n  * Generate man pages from markdown and include them in the distribution tarball.\n  * Print usage summary if tools are executed with no options or man page can't be displayed.\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEE117XqiTlDNZFxvRXx1HlkNY/PWkFAlrm53EACgkQx1HlkNY/\nPWny9RAAj5Ip0XHuAYDxeB0wWJSg6CucizppFlfWR40WhP1FORHNOTSqZPq0/oSX\n3U+ENQWu7p8PKjwXMTM7A6sHOPV5ZRxBxMnoNiDzYzf/e+QPhjpdsk++2MIGPpW0\nxdurxKvTCezHs3MrJyTh1vGZV9SvPhPDkwBDdCrQTpA2TSLa/JalYNNdR9woJvlL\neCLch8C07pRzvl3aJ2mk27phdcm0anricC+38WUN5cVhG8xuvGG5NPFxiIujfMhm\nKn3E75dIVRGstSoLalqveWaRs6YftisYY48kIf0EgRUAiw5L86H2MT/b9ozr3nlg\nQYCYpEEElZEZjex3iP7RIQGVvLZApvbV48dwg3+Bl1AGlp1wA2IGVkAevO9alqwf\njbj/HThHbo30Lvfea2JSTi4HjGsUALBvkQ98sga2/fihtAeEbIk0OKEwmqeElauZ\n/352zHxCYK8aISOggaD/PEpVLFunc4eNVDfuViJrsxi/JMljNBALzt6yg+UC5tTI\nvF8+sN4HiGRo1PnNes7e4mMYXIS5w7l+R0wNpbitzzRrTkHwdLl+Vvtphu6jSm9+\nk0PLJffYIHeemlYRuYBmvFZaPRZl1ttoVcCDq5WMFSxuhZnSN4al/wCyLZbF4OgS\nS9BM0TlpBvszzO+/Haxo6EzbQxTlfh7vTDSwBLcKhRqXmxcjmgo=\n=f17r\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEE117XqiTlDNZFxvRXx1HlkNY/PWkFAlrm53EACgkQx1HlkNY/\nPWny9RAAj5Ip0XHuAYDxeB0wWJSg6CucizppFlfWR40WhP1FORHNOTSqZPq0/oSX\n3U+ENQWu7p8PKjwXMTM7A6sHOPV5ZRxBxMnoNiDzYzf/e+QPhjpdsk++2MIGPpW0\nxdurxKvTCezHs3MrJyTh1vGZV9SvPhPDkwBDdCrQTpA2TSLa/JalYNNdR9woJvlL\neCLch8C07pRzvl3aJ2mk27phdcm0anricC+38WUN5cVhG8xuvGG5NPFxiIujfMhm\nKn3E75dIVRGstSoLalqveWaRs6YftisYY48kIf0EgRUAiw5L86H2MT/b9ozr3nlg\nQYCYpEEElZEZjex3iP7RIQGVvLZApvbV48dwg3+Bl1AGlp1wA2IGVkAevO9alqwf\njbj/HThHbo30Lvfea2JSTi4HjGsUALBvkQ98sga2/fihtAeEbIk0OKEwmqeElauZ\n/352zHxCYK8aISOggaD/PEpVLFunc4eNVDfuViJrsxi/JMljNBALzt6yg+UC5tTI\nvF8+sN4HiGRo1PnNes7e4mMYXIS5w7l+R0wNpbitzzRrTkHwdLl+Vvtphu6jSm9+\nk0PLJffYIHeemlYRuYBmvFZaPRZl1ttoVcCDq5WMFSxuhZnSN4al/wCyLZbF4OgS\nS9BM0TlpBvszzO+/Haxo6EzbQxTlfh7vTDSwBLcKhRqXmxcjmgo=\n=f17r\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2bf8f1cf2db6c26bd9e741263434aeac1239af8e\ntype commit\ntag 3.0.4\ntagger Javier Martinez Canillas <javierm@redhat.com> 1525081956 +0200\n\n3.0.4 - 2018-05-30\n  * Fix save and load for TPM2B_PRIVATE object.\n  * Use a default buffer size for tpm2_nv{read,write} if the TPM reports a 0 size.\n  * Fix --verbose and --version options crossover.\n  * Generate man pages from markdown and include them in the distribution tarball.\n  * Print usage summary if tools are executed with no options or man page can't be displayed.\n"
+  }
+}
