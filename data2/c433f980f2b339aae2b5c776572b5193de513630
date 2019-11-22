@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6YzQzM2Y5ODBmMmIzMzlhYWUyYjVjNzc2NTcyYjUxOTNkZTUxMzYzMA==",
+  "sha": "c433f980f2b339aae2b5c776572b5193de513630",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/c433f980f2b339aae2b5c776572b5193de513630",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2017-01-23T17:06:46Z"
+  },
+  "object": {
+    "sha": "aaede51980c4de550bb1c33afaaab18e6cf6da65",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/aaede51980c4de550bb1c33afaaab18e6cf6da65"
+  },
+  "tag": "v0.5.16",
+  "message": "Release v0.5.16 contains the following changes:\n* Fix Compilation warning with enable-qat_small_pkt_offload flag\n* Removed unused label 'end' from sendPoll_ns\n* Fix brackets near initiliaziation of epoll_data_t\n* Remove unused variable 'status' from get_next_inst()\n* Fix printf format since variable 'i' is long\n* Update the year in all Copyright information\n* Use the correct format string to print unsigned int variables\n* Enable compilation warnings by default (-Wall)\n* Add documentation to better describe the threshold value used for small packet offload.\n* Fix the NULL check for temp_pub_key\n* Use only one polling thread with multiple instances\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzU5ODE6MTFiZTQ1N2M3M2JkOWE3NDE5YjU2YTA1YzQzZjhlMjhlMmRmMjA0Mg==",
+  "sha": "11be457c73bd9a7419b56a05c43f8e28e2df2042",
+  "url": "https://api.github.com/repos/gpg/libassuan/git/tags/11be457c73bd9a7419b56a05c43f8e28e2df2042",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2013-06-24T05:13:33Z"
+  },
+  "object": {
+    "sha": "cf1e6f64c83194a42012cc786a0da2814be72883",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libassuan/git/commits/cf1e6f64c83194a42012cc786a0da2814be72883"
+  },
+  "tag": "libassuan-2.1.1",
+  "message": "Release 2.1.1.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2.1.0-beta212 (GNU/Linux)\n\niQEcBAABCAAGBQJRx9WEAAoJECSbOdJPJeO2S1cH/ikuG76OpAfFqED4N8mTYOVs\nq5F1IXFOxPFmwNY365UolyEb/p7t70DYM2WUBkIwMO+pn9IscIZDsDTc3ttXreT0\nC/DtX/W7CLgpUwj6QLbacd3Mrw3z01hSmFLxjzTJyXHQqBycddeeIb9VGzy+IUWw\nPBnyVuefwj8szbz8zgaS1InE20cUDVJ275J3mX5t94mwvBLJux5F4r9/BJUOf55k\nPwqjPPFGCNaKduMPnuFMBBixUvz0kY+6sAxfZirQncdqupH4S42qA6TTeuG4XcpU\nnKflpmn0rITsl81WD+Ftshqfys/N+YqXhV0Y3mixXQpAl281+ZWC6k8COobgsIk=\n=tU7M\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2.1.0-beta212 (GNU/Linux)\n\niQEcBAABCAAGBQJRx9WEAAoJECSbOdJPJeO2S1cH/ikuG76OpAfFqED4N8mTYOVs\nq5F1IXFOxPFmwNY365UolyEb/p7t70DYM2WUBkIwMO+pn9IscIZDsDTc3ttXreT0\nC/DtX/W7CLgpUwj6QLbacd3Mrw3z01hSmFLxjzTJyXHQqBycddeeIb9VGzy+IUWw\nPBnyVuefwj8szbz8zgaS1InE20cUDVJ275J3mX5t94mwvBLJux5F4r9/BJUOf55k\nPwqjPPFGCNaKduMPnuFMBBixUvz0kY+6sAxfZirQncdqupH4S42qA6TTeuG4XcpU\nnKflpmn0rITsl81WD+Ftshqfys/N+YqXhV0Y3mixXQpAl281+ZWC6k8COobgsIk=\n=tU7M\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cf1e6f64c83194a42012cc786a0da2814be72883\ntype commit\ntag libassuan-2.1.1\ntagger Werner Koch <wk@gnupg.org> 1372050813 +0200\n\nRelease 2.1.1.\n"
+  }
+}

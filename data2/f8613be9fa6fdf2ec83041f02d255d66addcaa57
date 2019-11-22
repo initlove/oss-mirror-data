@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6Zjg2MTNiZTlmYTZmZGYyZWM4MzA0MWYwMmQyNTVkNjZhZGRjYWE1Nw==",
+  "sha": "f8613be9fa6fdf2ec83041f02d255d66addcaa57",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/f8613be9fa6fdf2ec83041f02d255d66addcaa57",
+  "tagger": {
+    "name": "Yicheng Qin",
+    "email": "qycqycqycqycqyc@gmail.com",
+    "date": "2015-02-27T06:01:46Z"
+  },
+  "object": {
+    "sha": "1a2c6d3f2fbcb047712bfa3234bff5b9d07bdc57",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/1a2c6d3f2fbcb047712bfa3234bff5b9d07bdc57"
+  },
+  "tag": "v2.0.4",
+  "message": "v2.0.4 - jed version\n\n- fix build issue on windows\n- fix variable shadowing\n- add document about running etcd in docker\n- fix the bug that etcd fails to be killed when its pid equals to 1\n- fix the bug that etcd cluster recovers to old status\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJU8AulAAoJEOdQvf2jMxAzZTYQAJlMB3a5KoP3KHTijNi0uSPo\na+K2mwdEabMTGcHlDtornDJhupeu1ULJQBEOoKug6c6qCd24hrbN0Wgz7R84mcIk\n2qiwbrEOaUlLG1F2mZGYSQTWOMAMHcgGrFGAv9czkQGCKBalzlcsEd28EaXQGqDl\noBz7ou4JCeMsPM8KJC8tt7mueU+z+3IRqz0Q3cWbhdVzvAYrGnOGh3lElFnQUlk6\nKpSuUJWcaIUFqAhgjWRJHtVCxptYzUpx9g/j2JBPGQYYxfrIwPqXZz3apKUeck9a\nko//9nPwZlwcDunFG8pMkgNCqT3DufULv1cv8qK1sGKceTCdIe6zKBequWcQ2sGf\nHOiEp5pZ2v8xgYrsC02zY/Ejxrh22gu8kWT/1Oe7rQ8k72jHYO5Iiin0EEBtw4pA\nal1XjW0Z5Be4PRUZYHgbcIV47g33zZM31H9blPfYlfmvKDEJoTyKzpJLLnIbwfRm\n6dhD4pfuHF25YZUS68LlO+rp41TdUIlzRMCP1pXg5jzrmiXa0d1r0h4Zr+Yarmfh\nYJpemljRO3V7xTUND4Pq618a1y0MB/AV3Esfw5hekz6WcbtoaraP6D9u8nBjOCVB\nlcqGf0oeBv5lUhRgBIu67NZWNMpS17W0z3yFrmWeX+T8I6PFcLG4NMCVv/9d8ASq\nrf44FPkvHqHD32mO7Evz\n=HGYL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJU8AulAAoJEOdQvf2jMxAzZTYQAJlMB3a5KoP3KHTijNi0uSPo\na+K2mwdEabMTGcHlDtornDJhupeu1ULJQBEOoKug6c6qCd24hrbN0Wgz7R84mcIk\n2qiwbrEOaUlLG1F2mZGYSQTWOMAMHcgGrFGAv9czkQGCKBalzlcsEd28EaXQGqDl\noBz7ou4JCeMsPM8KJC8tt7mueU+z+3IRqz0Q3cWbhdVzvAYrGnOGh3lElFnQUlk6\nKpSuUJWcaIUFqAhgjWRJHtVCxptYzUpx9g/j2JBPGQYYxfrIwPqXZz3apKUeck9a\nko//9nPwZlwcDunFG8pMkgNCqT3DufULv1cv8qK1sGKceTCdIe6zKBequWcQ2sGf\nHOiEp5pZ2v8xgYrsC02zY/Ejxrh22gu8kWT/1Oe7rQ8k72jHYO5Iiin0EEBtw4pA\nal1XjW0Z5Be4PRUZYHgbcIV47g33zZM31H9blPfYlfmvKDEJoTyKzpJLLnIbwfRm\n6dhD4pfuHF25YZUS68LlO+rp41TdUIlzRMCP1pXg5jzrmiXa0d1r0h4Zr+Yarmfh\nYJpemljRO3V7xTUND4Pq618a1y0MB/AV3Esfw5hekz6WcbtoaraP6D9u8nBjOCVB\nlcqGf0oeBv5lUhRgBIu67NZWNMpS17W0z3yFrmWeX+T8I6PFcLG4NMCVv/9d8ASq\nrf44FPkvHqHD32mO7Evz\n=HGYL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1a2c6d3f2fbcb047712bfa3234bff5b9d07bdc57\ntype commit\ntag v2.0.4\ntagger Yicheng Qin <qycqycqycqycqyc@gmail.com> 1425016906 -0800\n\nv2.0.4 - jed version\n\n- fix build issue on windows\n- fix variable shadowing\n- add document about running etcd in docker\n- fix the bug that etcd fails to be killed when its pid equals to 1\n- fix the bug that etcd cluster recovers to old status\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTg0OTgxOmEwOWU0NWJmNjlhYjYyZTZlOGNkYWZhZGQwYmU3MDVjMmYxMGY4MzY=",
+  "sha": "a09e45bf69ab62e6e8cdafadd0be705c2f10f836",
+  "url": "https://api.github.com/repos/memcached/memcached/git/tags/a09e45bf69ab62e6e8cdafadd0be705c2f10f836",
+  "tagger": {
+    "name": "Dustin Sallings",
+    "email": "dustin@spy.net",
+    "date": "2009-03-03T08:04:24Z"
+  },
+  "object": {
+    "sha": "c0d2ef211da90d4c88b1a3f42e5591602d9aa42e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/memcached/memcached/git/commits/c0d2ef211da90d4c88b1a3f42e5591602d9aa42e"
+  },
+  "tag": "1.2.3",
+  "message": "Release 1.2.3\n\n* Solaris portability fixes from Trond Norbye\n\n* Properly document evictions statistic value\n\n* Flesh out tests for unix domain sockets and binary data.\n\n* Update rpm spec file to run tests\n\n* Fix compilation bug on freebsd 6.x (and maybe others)\n\n* Update RPM spec file per redhat bugzilla #238994\n\n* Move unistd.h to memcached.h to get rid of warnings\n\n* Add string.h to thread.c to get correctly prototyped strerror()\n\n* Add fedora/redhat style init script and RPM spec file\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

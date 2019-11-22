@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTg0OTgxOmJlOGJjNTA0YmNjZGYxNTJkZDMzNTY0NmJiNWNkNGY2MmIzZGRiYTg=",
+  "sha": "be8bc504bccdf152dd335646bb5cd4f62b3ddba8",
+  "url": "https://api.github.com/repos/memcached/memcached/git/tags/be8bc504bccdf152dd335646bb5cd4f62b3ddba8",
+  "tagger": {
+    "name": "dormando",
+    "email": "dormando@rydia.net",
+    "date": "2009-08-26T10:27:54Z"
+  },
+  "object": {
+    "sha": "483e82adc89c984cbe040857d9cf43fc725883cd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/memcached/memcached/git/commits/483e82adc89c984cbe040857d9cf43fc725883cd"
+  },
+  "tag": "1.4.1-rc1",
+  "message": "                    Memcached 1.4.1-rc1 Release Notes\n                    =============================\n\nDate: 2009-08-26 Wed\n\nTable of Contents\n=================\n1 Download\n2 Overview\n3 Fixes\n    3.1 Criticial Fixes\n    3.2 Non-critical Fixes\n4 New Features\n5 Contributors\n\n1 Download\n~~~~~~~~~~~\n\nDownload Link:\n\n[http://memcached.googlecode.com/files/memcached-1.4.1-rc1.tar.gz]\n\n2 Overview\n~~~~~~~~~~~\n\nThis is a maintenance release consisting primarily of bug fixes.\n\n3 Fixes\n~~~~~~~~\n\n3.1 Criticial Fixes\n====================\n\n  * Boundary condition during pipelined decoding caused crash (bug72)\n  * Bad initialization during buffer realloc (bug77)\n  * Buffer overrun in stats_prefix_find (bug79)\n  * Memory corruption from negative and invalid item lengths (bug70)\n\n3.2 Non-critical Fixes\n=======================\n\n  * Update flush stats for binary flushes (bug71)\n  * Build fixes for OpenBSD\n  * Build fixes for Solaris/gcc\n  * Cleanup warnings brought to us by OpenBSD (sprintf, etc...)\n  * Lots of fixes with the test tools\n  * Various documentation cleanups\n\n4 New Features\n~~~~~~~~~~~~~~~\n\n  * stats slabs returns the number of requested bytes as mem_requested\n  * memcached can bind to ephemeral ports (used for testing)\n\n5 Contributors\n~~~~~~~~~~~~~~~\n\nThe following people contributed to this release since 1.4.0.\n\nNote that this is based on who contributed changes, not how they were\ndone.  In many cases, a code snippet on the mailing list or a bug\nreport ended up as a commit with your name on it.\n\nNote that this is just a summary of how many changes each person made\nwhich doesn't necessarily reflect how significant each change was.\nFor details on what led up into a branch, either grab the git repo and\nlook at the output of `git log 1.4.0..1.4.1-rc1` or use a web view.\n\n  * Repo list:  [http://code.google.com/p/memcached/wiki/DevelopmentRepos]\n  * Web View: [http://github.com/memcached/memcached/commits/1.4.1-rc1]\n\n    16  Dustin Sallings\n     8  Trond Norbye\n     2  dormando\n     1  Mat Hostetter\n     1  Matt Ingenthron\n     1  Monty Taylor\n     1  Steve Yen\n     1  Adam Thomason\n     1  Cosimo Streppone\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

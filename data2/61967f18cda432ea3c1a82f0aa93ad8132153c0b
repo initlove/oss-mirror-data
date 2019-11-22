@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAxNzQyOjYxOTY3ZjE4Y2RhNDMyZWEzYzFhODJmMGFhOTNhZDgxMzIxNTNjMGI=",
+  "sha": "61967f18cda432ea3c1a82f0aa93ad8132153c0b",
+  "url": "https://api.github.com/repos/tornadoweb/tornado/git/tags/61967f18cda432ea3c1a82f0aa93ad8132153c0b",
+  "tagger": {
+    "name": "Ben Darnell",
+    "email": "ben@bendarnell.com",
+    "date": "2010-08-13T17:56:56Z"
+  },
+  "object": {
+    "sha": "2b5064b7ed962603ade0db0c8e21846a9879e30e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tornadoweb/tornado/git/commits/2b5064b7ed962603ade0db0c8e21846a9879e30e"
+  },
+  "tag": "v1.0.1",
+  "message": "This release fixes a bug with RequestHandler.get_secure_cookie, which would\nin some circumstances allow an attacker to tamper with data stored in the\ncookie.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

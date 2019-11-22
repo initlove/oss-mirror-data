@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6OGQ5MmVkODZiZmQ2MTgyYWEwODJkMDU3M2Q3NjY0ZGYwYjc2YjBjZQ==",
+  "sha": "8d92ed86bfd6182aa082d0573d7664df0b76b0ce",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/8d92ed86bfd6182aa082d0573d7664df0b76b0ce",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2018-04-24T11:02:08Z"
+  },
+  "object": {
+    "sha": "e4f9270cc6261982233c5adb6d693783b3b90316",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/e4f9270cc6261982233c5adb6d693783b3b90316"
+  },
+  "tag": "v0.5.36",
+  "message": "Release v0.5.36 contains the following changes:\n* Tidy up verifyResult so it is not used after cleanup.\n* Add setting of PERL5LIB to README.md of QAT Engine.\n* Store instances as thread local within the QAT engine to reduce locking.\n* Optimize the 'last block' decryption with AESNI in qat chained cipher mode.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

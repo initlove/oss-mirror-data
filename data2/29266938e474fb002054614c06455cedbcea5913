@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY4ODQyNTc6MjkyNjY5MzhlNDc0ZmIwMDIwNTQ2MTRjMDY0NTVjZWRiY2VhNTkxMw==",
+  "sha": "29266938e474fb002054614c06455cedbcea5913",
+  "url": "https://api.github.com/repos/openstack/python-magnumclient/git/tags/29266938e474fb002054614c06455cedbcea5913",
+  "tagger": {
+    "name": "Adrian Otto",
+    "email": "adrian.otto@rackspace.com",
+    "date": "2015-11-24T07:19:05Z"
+  },
+  "object": {
+    "sha": "dd68430d43c5826cd5be0b564c056c486adfc937",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-magnumclient/git/commits/dd68430d43c5826cd5be0b564c056c486adfc937"
+  },
+  "tag": "1.1.0",
+  "message": "Mitaka Milestone 1 Release\n\nBugs closed:\n\n1501892 magnum pod-show does not work\n1368661 Unit tests sometimes fail because of stale pyc files\n1409020 not all metavar's are consistent\n1514347 \"container-create\" doesn't work without \"image\"\n1442457 Bug: Double Authentication\n1454853 Bump up to newer hacking\n1465086 tox doesn't work under proxy\n1487634 Remove developers name from tests\n1495385 Update help message for coe service related command\n1514737 shell args test for container create is skipped\n1515109 v1 shell command should split up\n1516830 DS_Store should be ignored\n1295356 ERROR: 'Namespace' object has no attribute 'func'\n1456360 Missing Dependency\n1487580 Rename service-* commands to coe-service-*\n1496805 unit test failures with python 3.4\n1498228 Implement magnum client functionality for 'magnum service-list'\n1514732 python-magnumclient should have an unversioned client\n1514733 python-magnumclient should suppport keystone session auth\n1518143 Unit of '--docker-volume-size' of baymodel-create is not shown in help\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2.0.14 (GNU/Linux)\n\niQEcBAABAgAGBQJWVA/JAAoJEHcGupuh7IB/W2gH/jPSYDIu8DoCzwNDwJbed7xs\nx65yQAOykSTRyG//xq0lWwB5dgNpadBFyIMl8M4NcXElOqC4wy0F+K/wcRor5zvV\ncVvfaiKARTBp+V4fN9G2eRKvikfiFTNUnt/2IdvlyZGXNhXAkOK7erOGJxe72rSc\ne61dfSgaRrpVpA4bAJ6rJwXUIkm7ATSg+giz5nSbeimJtaUE3cBpEBeoslj71PXI\nrV9HJio4s4Nlw2MNV+aLhkKHHrtV3U+Da8ncS0KGUDpMp0GDxIZrnI7S/OZxBEYf\n5s7b8w6SLUnAiplRmJ/KpNrIImuCeulRWiXYM+8rbsFeWgKXaVfLs5dEbNAGxOo=\n=PJlt\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2.0.14 (GNU/Linux)\n\niQEcBAABAgAGBQJWVA/JAAoJEHcGupuh7IB/W2gH/jPSYDIu8DoCzwNDwJbed7xs\nx65yQAOykSTRyG//xq0lWwB5dgNpadBFyIMl8M4NcXElOqC4wy0F+K/wcRor5zvV\ncVvfaiKARTBp+V4fN9G2eRKvikfiFTNUnt/2IdvlyZGXNhXAkOK7erOGJxe72rSc\ne61dfSgaRrpVpA4bAJ6rJwXUIkm7ATSg+giz5nSbeimJtaUE3cBpEBeoslj71PXI\nrV9HJio4s4Nlw2MNV+aLhkKHHrtV3U+Da8ncS0KGUDpMp0GDxIZrnI7S/OZxBEYf\n5s7b8w6SLUnAiplRmJ/KpNrIImuCeulRWiXYM+8rbsFeWgKXaVfLs5dEbNAGxOo=\n=PJlt\n-----END PGP SIGNATURE-----\n",
+    "payload": "object dd68430d43c5826cd5be0b564c056c486adfc937\ntype commit\ntag 1.1.0\ntagger Adrian Otto <adrian.otto@rackspace.com> 1448349545 +0000\n\nMitaka Milestone 1 Release\n\nBugs closed:\n\n1501892 magnum pod-show does not work\n1368661 Unit tests sometimes fail because of stale pyc files\n1409020 not all metavar's are consistent\n1514347 \"container-create\" doesn't work without \"image\"\n1442457 Bug: Double Authentication\n1454853 Bump up to newer hacking\n1465086 tox doesn't work under proxy\n1487634 Remove developers name from tests\n1495385 Update help message for coe service related command\n1514737 shell args test for container create is skipped\n1515109 v1 shell command should split up\n1516830 DS_Store should be ignored\n1295356 ERROR: 'Namespace' object has no attribute 'func'\n1456360 Missing Dependency\n1487580 Rename service-* commands to coe-service-*\n1496805 unit test failures with python 3.4\n1498228 Implement magnum client functionality for 'magnum service-list'\n1514732 python-magnumclient should have an unversioned client\n1514733 python-magnumclient should suppport keystone session auth\n1518143 Unit of '--docker-volume-size' of baymodel-create is not shown in help\n"
+  }
+}

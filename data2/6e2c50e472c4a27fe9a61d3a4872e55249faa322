@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY5ODcwNDk6NmUyYzUwZTQ3MmM0YTI3ZmU5YTYxZDNhNDg3MmU1NTI0OWZhYTMyMg==",
+  "sha": "6e2c50e472c4a27fe9a61d3a4872e55249faa322",
+  "url": "https://api.github.com/repos/zcash/zcash/git/tags/6e2c50e472c4a27fe9a61d3a4872e55249faa322",
+  "tagger": {
+    "name": "Jack Grigg",
+    "email": "jack@z.cash",
+    "date": "2017-06-22T04:42:56Z"
+  },
+  "object": {
+    "sha": "d52ac0d498fb003f35c0419315fe7c91b1ad00bc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/zcash/zcash/git/commits/d52ac0d498fb003f35c0419315fe7c91b1ad00bc"
+  },
+  "tag": "v1.0.10",
+  "message": "Zcash v1.0.10 release\n\nThis release reduces the amount of information leakage when unshielding notes,\nimproves the performance of reindexing and block downloading, and adds a config\nparameter to reject transactions from the mempool by number of transparent\ninputs (a short-term fix that will be replaced in future by a more comprehensive\nmechanism).\n\nFor complete changes, see doc/release-notes/release-notes-1.0.10.md\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJZS0wuAAoJEGZdvNKE99r/03MP/R0EuUWkHv4d5b+t8ZrxdUFO\nTik6qiqS7ajBt+q2LZO0x+VdqSnaUgLdAkStLXoq/ElRzEq0qDKihaJG+WT/w5e6\nS+tVMh671jbA1dlWJazJ1kAqT4FDNW+t1i5QES+i7Q6zWZdZvc4HJrfUDKRyid8O\nqL1jq8XBw4TrkC3ROFPRiECnPEw2McsEccshBBP8EEf28EfcBGWOrBhzjQE9gQzd\nyK0H+mNDcxKKL3zyx/VQ1e61YASAPwbz7RYO1FJiPdFcafj4078wiiZsl9nbb0Fw\nnDKmVH9u1NcqWO5YnH4Wo8l35ZFilufanukPNzZGUYM0Ms/q4THjK2TdI+n64h9A\nXuQmdcdFip1Lvmr0BZbtTm6Zk7d7hFNFc0hJ7bDxK+LELQgcY1i4tXByk51Agr9W\nCJdfsue/EY7WRWVhzQpoIqdlMX6PTh/7P0gir1QaYUnuaJpTk8EN8PAlmh1wJju0\nboUZjOGCy+kMYHJw3nfykxi7n5PixtxtYcK7p3VkKeY1TYoR4Pujxk6Zg/EOmFCH\nKppFor5j97dBBB5adus173dRH6IHP0HbwNBOwngWIXqS81TtacveBN/GrKBupgFZ\nihZzigikOTbBSBLpvejQuuAzmjGHVIZG2t6KqwFjaVIA4aqpAMZt7xqlFLJhqViW\nlnFyu2Zqe1KdaMR0KF+K\n=MuHf\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJZS0wuAAoJEGZdvNKE99r/03MP/R0EuUWkHv4d5b+t8ZrxdUFO\nTik6qiqS7ajBt+q2LZO0x+VdqSnaUgLdAkStLXoq/ElRzEq0qDKihaJG+WT/w5e6\nS+tVMh671jbA1dlWJazJ1kAqT4FDNW+t1i5QES+i7Q6zWZdZvc4HJrfUDKRyid8O\nqL1jq8XBw4TrkC3ROFPRiECnPEw2McsEccshBBP8EEf28EfcBGWOrBhzjQE9gQzd\nyK0H+mNDcxKKL3zyx/VQ1e61YASAPwbz7RYO1FJiPdFcafj4078wiiZsl9nbb0Fw\nnDKmVH9u1NcqWO5YnH4Wo8l35ZFilufanukPNzZGUYM0Ms/q4THjK2TdI+n64h9A\nXuQmdcdFip1Lvmr0BZbtTm6Zk7d7hFNFc0hJ7bDxK+LELQgcY1i4tXByk51Agr9W\nCJdfsue/EY7WRWVhzQpoIqdlMX6PTh/7P0gir1QaYUnuaJpTk8EN8PAlmh1wJju0\nboUZjOGCy+kMYHJw3nfykxi7n5PixtxtYcK7p3VkKeY1TYoR4Pujxk6Zg/EOmFCH\nKppFor5j97dBBB5adus173dRH6IHP0HbwNBOwngWIXqS81TtacveBN/GrKBupgFZ\nihZzigikOTbBSBLpvejQuuAzmjGHVIZG2t6KqwFjaVIA4aqpAMZt7xqlFLJhqViW\nlnFyu2Zqe1KdaMR0KF+K\n=MuHf\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d52ac0d498fb003f35c0419315fe7c91b1ad00bc\ntype commit\ntag v1.0.10\ntagger Jack Grigg <jack@z.cash> 1498106576 +1200\n\nZcash v1.0.10 release\n\nThis release reduces the amount of information leakage when unshielding notes,\nimproves the performance of reindexing and block downloading, and adds a config\nparameter to reject transactions from the mempool by number of transparent\ninputs (a short-term fix that will be replaced in future by a more comprehensive\nmechanism).\n\nFor complete changes, see doc/release-notes/release-notes-1.0.10.md\n"
+  }
+}

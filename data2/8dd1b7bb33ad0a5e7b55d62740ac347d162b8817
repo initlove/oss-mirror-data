@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTo4ZGQxYjdiYjMzYWQwYTVlN2I1NWQ2Mjc0MGFjMzQ3ZDE2MmI4ODE3",
+  "sha": "8dd1b7bb33ad0a5e7b55d62740ac347d162b8817",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/8dd1b7bb33ad0a5e7b55d62740ac347d162b8817",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-01-02T11:46:35Z"
+  },
+  "object": {
+    "sha": "2ffed00236071aece0a79813b98c36f302ff1f9d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/2ffed00236071aece0a79813b98c36f302ff1f9d"
+  },
+  "tag": "6.0.5",
+  "message": "Version 6.0.5\n\n### Bug fixes\n\nFix TypeScript type for `Parser.extend` and add `allowAwaitOutsideFunction` to options type.\n\nDon't treat `let` as a keyword when the next token is `{` on the next line.\n\nFix bug that broke checking for parentheses around an object pattern in a destructuring assignment when `preserveParens` was on.\n\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlwspMMACgkQcD8b7W0z\nrh6GSAf7BsuadzhTbTWaFr0AUU3r8QUvDriSE1KXzPbLts0BFQ14b+AzQ1H6yEmi\nORlQr4o+kWSScnK0LP0YNwkmnkTqR/pRt7V545A74FR5vbHDcg+Z0F3XdhaO6opQ\nbHbkq2AbvRYgfvHuNarSA4NZV4/1LmEtwhRccx608IL030gVzra8PGXQJnz8ajRg\nwWA2mxIo2phR172mgzkCZFkQklTlPgW76KD44BNyHx8TpHCkoqpcoTQVTFmu39c5\nvCljJqGs6nXBlVY+jUe6wfJKH6Lcr1drz85NxxrQqV7ZwwdxI7/OiBiWivZRNtw3\nHG+R63/mj2T5BS52Zn8SQMDVpAHptQ==\n=3SQE\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlwspMMACgkQcD8b7W0z\nrh6GSAf7BsuadzhTbTWaFr0AUU3r8QUvDriSE1KXzPbLts0BFQ14b+AzQ1H6yEmi\nORlQr4o+kWSScnK0LP0YNwkmnkTqR/pRt7V545A74FR5vbHDcg+Z0F3XdhaO6opQ\nbHbkq2AbvRYgfvHuNarSA4NZV4/1LmEtwhRccx608IL030gVzra8PGXQJnz8ajRg\nwWA2mxIo2phR172mgzkCZFkQklTlPgW76KD44BNyHx8TpHCkoqpcoTQVTFmu39c5\nvCljJqGs6nXBlVY+jUe6wfJKH6Lcr1drz85NxxrQqV7ZwwdxI7/OiBiWivZRNtw3\nHG+R63/mj2T5BS52Zn8SQMDVpAHptQ==\n=3SQE\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2ffed00236071aece0a79813b98c36f302ff1f9d\ntype commit\ntag 6.0.5\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1546429595 +0100\n\nVersion 6.0.5\n\n### Bug fixes\n\nFix TypeScript type for `Parser.extend` and add `allowAwaitOutsideFunction` to options type.\n\nDon't treat `let` as a keyword when the next token is `{` on the next line.\n\nFix bug that broke checking for parentheses around an object pattern in a destructuring assignment when `preserveParens` was on.\n\n"
+  }
+}

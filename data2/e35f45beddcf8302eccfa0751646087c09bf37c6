@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY2MjMzMzA6ZTM1ZjQ1YmVkZGNmODMwMmVjY2ZhMDc1MTY0NjA4N2MwOWJmMzdjNg==",
+  "sha": "e35f45beddcf8302eccfa0751646087c09bf37c6",
+  "url": "https://api.github.com/repos/SAP/PyRFC/git/tags/e35f45beddcf8302eccfa0751646087c09bf37c6",
+  "tagger": {
+    "name": "d037732",
+    "email": "srdjan.boskovic@sap.com",
+    "date": "2016-12-23T10:45:15Z"
+  },
+  "object": {
+    "sha": "f9d57f8b68dee87679c103656e1c82ab6c89a58b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/SAP/PyRFC/git/commits/f9d57f8b68dee87679c103656e1c82ab6c89a58b"
+  },
+  "tag": "1.9.5",
+  "message": "Release 1.9.5\n\n    - dtime configuration flag, default False. When set to True, python datetime objects are returned for ABAP DATS and TIMS types, instead of strings.\n      As input parameters, both strings are dates are accepted.\n    - Wheels and eggs\n    - pytest\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

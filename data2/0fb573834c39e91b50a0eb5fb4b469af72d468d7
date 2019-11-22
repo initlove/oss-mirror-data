@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OjBmYjU3MzgzNGMzOWU5MWI1MGEwZWI1ZmI0YjQ2OWFmNzJkNDY4ZDc=",
+  "sha": "0fb573834c39e91b50a0eb5fb4b469af72d468d7",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/0fb573834c39e91b50a0eb5fb4b469af72d468d7",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "spam@schillmania.com",
+    "date": "2017-06-07T01:37:16Z"
+  },
+  "object": {
+    "sha": "f432aa9ed96a0f9022e72fc4a1b977ba0643ed71",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/f432aa9ed96a0f9022e72fc4a1b977ba0643ed71"
+  },
+  "tag": "V2.97a.20170601",
+  "message": "V2.97a.20170601 - IE \"Edge\" 14 fix, onError() and setPlaybackRate() for sound objects, eslint code modernization (maintaining back-compat to IE 6) and more. See GitHub commits.\n\nBug fixes\n\n- Internet Explorer \"Edge\" 14 fix, try ... catchcode> due to navigator.plugins access now throwing an exception. See PR #150.\n\nAPI Updates\n\n- Sound objects finally have an onError() event callback for load failures (and network/decode/playback for HTML5.) See SMSound.onError() for details.\n\n- setPlaybackRate() (HTML5-only), accepting values between 0.5 and 4. See SMSound.setPlaybackRate() for details.\n\nBar UI Updates\n\n- Touch events added for playback / progress track. Touch, drag and release to scrub through time.\n\n- whileplaying callback added to player on object. SMSound object also now provided to callback.\n\nMiscellaneous\n\n- Large eslint modernization, stylistic and formatting updates to SM2 core and most demo JavaScript, whilst maintaining ES5 compatibility back to IE 6.\n\n- FLAC support check added to audioFormats. SM2 will always check for MIME/file extension support if not already known, but FLAC support has been added to Chrome 56. See Issue 148.\n\n- De-cruftication and removal of many legacy -o-, -ms- and -webkit- -specific CSS prefixes.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

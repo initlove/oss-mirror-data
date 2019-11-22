@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY5ODcwNDk6NmIxYjU5ZGNjNWE2YmUxMjgxM2E3NTM3NTFlY2Q3MGE5MmNiZWJiNg==",
+  "sha": "6b1b59dcc5a6be12813a753751ecd70a92cbebb6",
+  "url": "https://api.github.com/repos/zcash/zcash/git/tags/6b1b59dcc5a6be12813a753751ecd70a92cbebb6",
+  "tagger": {
+    "name": "Jack Grigg",
+    "email": "jack@z.cash",
+    "date": "2016-10-05T03:49:35Z"
+  },
+  "object": {
+    "sha": "17b23ffe20385dfe1292af8ab487f1eafd58fb39",
+    "type": "commit",
+    "url": "https://api.github.com/repos/zcash/zcash/git/commits/17b23ffe20385dfe1292af8ab487f1eafd58fb39"
+  },
+  "tag": "v1.0.0-beta2",
+  "message": "Zcash v1.0.0-beta2\nThis version contains a number of audit mitigations, reliability improvements\nand bug fixes. It also updates the address prefixes to the new two-byte format.\n\nFor an overview of the release, see the blog post:\nhttps://z.cash/blog/new-beta-release-audit-mitigations-and-bug-fixes.html\n\nFor complete changes, see doc/release-notes/release-notes-1.0.0-beta2.md\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJX9HqDAAoJEGppFNr76gDaC+oP/2dZw5sZ/nsKyVpN24dSP1Cv\nrccHziaoA61X/7p7IfMPykfcWp/mn2UN8UjjeVM76Nk0j9ACPbErVrHGk37NI5vD\njbr7S0EGe5J5ycpv2qPsj42vXCmCafZj1imca8gHmlQBBqUVs899NSlY/EGFgnlC\nzMdJjCIVpq/LJgOj/8KnZ7gDT5jdgLpMLOfv08kwjlPCQ786IQmlxcHCUqGYBEbz\nqwPArsyTyth5rUU3iI14J1pus2MBzN22OyMNP0WAOujaF8QpvCatckRFzIVO+d36\npDZi0VPebVuBgSnQTjk5cdDngTmN6Boihbge6WJzzP56lCsniNNQOruU5o2hKQlM\nukTSy2O7Jf4bbfck4Mo/9oMklCAIRBme+XoPHTuzy9a0I5t7E2T0ociCtvNWVpjJ\nbz6Yg5xYlkPcHyUso/OJcjEC9GG6Wc7K8rlfrHFfULqHmjj/nOjSMQ+m1Wpz65Dp\nh8KHPq3W9ivG5jABH5h3VngxMwfChz37PuOmlinpV833QgeXxwqSOa/LuxWF57v1\nEice5yfMh4A0zDFppVe71tWNLnuZ5mkc7Ll5BJlmDEgv71EcIYUQuXvrIvHnbF7k\nvkpUI+XtdYejv4UteFGPOnDFjHUkGVbu/XlMEPd9/2yeXdK7AVDgziT9H1YIWDSL\nltRXm01Ru+vYeEr9A9se\n=hwis\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJX9HqDAAoJEGppFNr76gDaC+oP/2dZw5sZ/nsKyVpN24dSP1Cv\nrccHziaoA61X/7p7IfMPykfcWp/mn2UN8UjjeVM76Nk0j9ACPbErVrHGk37NI5vD\njbr7S0EGe5J5ycpv2qPsj42vXCmCafZj1imca8gHmlQBBqUVs899NSlY/EGFgnlC\nzMdJjCIVpq/LJgOj/8KnZ7gDT5jdgLpMLOfv08kwjlPCQ786IQmlxcHCUqGYBEbz\nqwPArsyTyth5rUU3iI14J1pus2MBzN22OyMNP0WAOujaF8QpvCatckRFzIVO+d36\npDZi0VPebVuBgSnQTjk5cdDngTmN6Boihbge6WJzzP56lCsniNNQOruU5o2hKQlM\nukTSy2O7Jf4bbfck4Mo/9oMklCAIRBme+XoPHTuzy9a0I5t7E2T0ociCtvNWVpjJ\nbz6Yg5xYlkPcHyUso/OJcjEC9GG6Wc7K8rlfrHFfULqHmjj/nOjSMQ+m1Wpz65Dp\nh8KHPq3W9ivG5jABH5h3VngxMwfChz37PuOmlinpV833QgeXxwqSOa/LuxWF57v1\nEice5yfMh4A0zDFppVe71tWNLnuZ5mkc7Ll5BJlmDEgv71EcIYUQuXvrIvHnbF7k\nvkpUI+XtdYejv4UteFGPOnDFjHUkGVbu/XlMEPd9/2yeXdK7AVDgziT9H1YIWDSL\nltRXm01Ru+vYeEr9A9se\n=hwis\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 17b23ffe20385dfe1292af8ab487f1eafd58fb39\ntype commit\ntag v1.0.0-beta2\ntagger Jack Grigg <jack@z.cash> 1475639375 -0500\n\nZcash v1.0.0-beta2\nThis version contains a number of audit mitigations, reliability improvements\nand bug fixes. It also updates the address prefixes to the new two-byte format.\n\nFor an overview of the release, see the blog post:\nhttps://z.cash/blog/new-beta-release-audit-mitigations-and-bug-fixes.html\n\nFor complete changes, see doc/release-notes/release-notes-1.0.0-beta2.md\n"
+  }
+}

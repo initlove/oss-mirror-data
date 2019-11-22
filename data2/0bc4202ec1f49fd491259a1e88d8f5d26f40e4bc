@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6MGJjNDIwMmVjMWY0OWZkNDkxMjU5YTFlODhkOGY1ZDI2ZjQwZTRiYw==",
+  "sha": "0bc4202ec1f49fd491259a1e88d8f5d26f40e4bc",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/0bc4202ec1f49fd491259a1e88d8f5d26f40e4bc",
+  "tagger": {
+    "name": "Yicheng Qin",
+    "email": "qycqycqycqycqyc@gmail.com",
+    "date": "2015-03-31T21:10:43Z"
+  },
+  "object": {
+    "sha": "9fa3bea5a22265151f0d5063ce38a79c5b5d0271",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/9fa3bea5a22265151f0d5063ce38a79c5b5d0271"
+  },
+  "tag": "v0.4.9",
+  "message": "- revert allow_legacy related stuffs\n- introduce /v2/migration/snapshot endpoint\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVGw1dAAoJEOdQvf2jMxAzqqwQAK2+maz6g+g6CDiplUswnmBu\nLbEctq0BLkvfk6q7PLeFU7aKyL3dH6aK12mxB0n7FKIqJXW8YfohpzsU3MYIHx5x\nzhIc5k1wBVvkHRb2FB6xy+F8vTCb1ARvGq10PDFoCiosPIsvpOeMFi5FhDUDOKJI\nV4PMN2mavRGFJNdwpRo2Anr24OhYiXGwzBZkrD25EqAlksof7SUSt58LHWl5gxKW\nl5PByyGk54PdbFPfAXPmLZ5y9pS5YjvPc//hV0Cv1UM9MaXprZ3JZJZwD4kJv4ez\nHQIir6VKBtVNY1RxguBlRMrmzoK+arWJryaSlN5bMf37qvtIq+gfZAEFkQjhwJ+b\ncfj1kYVAH3Fv6OPWFS9a4pI87mCGz36aoFpSonVtVWmR0dpSuiGvfnnOcyRpddxl\nzCyKGZPL2smLrox8oEvETkAP0+3t5C0FZICSIruF/jX+2B1hFev7wrj5byKPAbG1\nigJxWvwsVZ3VDjB4DBftIHsxQcHE76NapuOwUmv+pGJqpKr6z/1KVFlYKpYF6/Lc\nSA+LCuq4C5zenBRsy4+wvxVYGLi8S2bcOrVKuW8Jgw+DyCo+DQL8dEGebyU87JdT\nHpM+1HblzCmGYVi+Jfs/fcE+RwoXtWGZLXrOR2pmh8adtaxdboHj5MUdvCPdSS8q\nEVYm755gntIo2X+nJkjP\n=yPoB\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVGw1dAAoJEOdQvf2jMxAzqqwQAK2+maz6g+g6CDiplUswnmBu\nLbEctq0BLkvfk6q7PLeFU7aKyL3dH6aK12mxB0n7FKIqJXW8YfohpzsU3MYIHx5x\nzhIc5k1wBVvkHRb2FB6xy+F8vTCb1ARvGq10PDFoCiosPIsvpOeMFi5FhDUDOKJI\nV4PMN2mavRGFJNdwpRo2Anr24OhYiXGwzBZkrD25EqAlksof7SUSt58LHWl5gxKW\nl5PByyGk54PdbFPfAXPmLZ5y9pS5YjvPc//hV0Cv1UM9MaXprZ3JZJZwD4kJv4ez\nHQIir6VKBtVNY1RxguBlRMrmzoK+arWJryaSlN5bMf37qvtIq+gfZAEFkQjhwJ+b\ncfj1kYVAH3Fv6OPWFS9a4pI87mCGz36aoFpSonVtVWmR0dpSuiGvfnnOcyRpddxl\nzCyKGZPL2smLrox8oEvETkAP0+3t5C0FZICSIruF/jX+2B1hFev7wrj5byKPAbG1\nigJxWvwsVZ3VDjB4DBftIHsxQcHE76NapuOwUmv+pGJqpKr6z/1KVFlYKpYF6/Lc\nSA+LCuq4C5zenBRsy4+wvxVYGLi8S2bcOrVKuW8Jgw+DyCo+DQL8dEGebyU87JdT\nHpM+1HblzCmGYVi+Jfs/fcE+RwoXtWGZLXrOR2pmh8adtaxdboHj5MUdvCPdSS8q\nEVYm755gntIo2X+nJkjP\n=yPoB\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9fa3bea5a22265151f0d5063ce38a79c5b5d0271\ntype commit\ntag v0.4.9\ntagger Yicheng Qin <qycqycqycqycqyc@gmail.com> 1427836243 -0700\n\n- revert allow_legacy related stuffs\n- introduce /v2/migration/snapshot endpoint\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAxNzQyOjI0NjNhNWM4ODdlNGE1OTE4MmM1ODg2N2VkYjdlN2EwNDZhMDk0Mjg=",
+  "sha": "2463a5c887e4a59182c58867edb7e7a046a09428",
+  "url": "https://api.github.com/repos/tornadoweb/tornado/git/tags/2463a5c887e4a59182c58867edb7e7a046a09428",
+  "tagger": {
+    "name": "Ben Darnell",
+    "email": "ben@bendarnell.com",
+    "date": "2019-03-23T16:37:57Z"
+  },
+  "object": {
+    "sha": "442a8124a4373f7140bbdd8f9db9ce4346290f9d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tornadoweb/tornado/git/commits/442a8124a4373f7140bbdd8f9db9ce4346290f9d"
+  },
+  "tag": "v6.0.2",
+  "message": "What's new in Tornado 6.0.2\n\nMar 23, 2019\n------------\n\nBug fixes\n~~~~~~~~~\n\n- `.WebSocketHandler.set_nodelay` works again.\n- Accessing ``HTTPResponse.body`` now returns an empty byte string\n  instead of raising ``ValueError`` for error responses that don't\n  have a body (it returned None in this case in Tornado 5).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

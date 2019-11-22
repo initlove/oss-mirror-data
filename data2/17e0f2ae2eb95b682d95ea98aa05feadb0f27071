@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDk0MTg2NzoxN2UwZjJhZTJlYjk1YjY4MmQ5NWVhOThhYTA1ZmVhZGIwZjI3MDcx",
+  "sha": "17e0f2ae2eb95b682d95ea98aa05feadb0f27071",
+  "url": "https://api.github.com/repos/Netflix/governator/git/tags/17e0f2ae2eb95b682d95ea98aa05feadb0f27071",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-03-01T00:00:17Z"
+  },
+  "object": {
+    "sha": "b9515cad8c8eaf3e2d5b48234a52508400bb964d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/governator/git/commits/b9515cad8c8eaf3e2d5b48234a52508400bb964d"
+  },
+  "tag": "v1.12.9",
+  "message": "Release of 1.12.9\n\n- b9515cad8c8eaf3e2d5b48234a52508400bb964d: Merge pull request #277 from elandau/jersey\n- 43b8492c1257e44cdf58e32406c6d361f9ce98a1: Cleanup documentation\n- cf5226b7c2d1b541b5dbcf11a0adda6937c00c0f: Fix documentation\n- d47111d3a00d40cdfee7683a0f2a8b930214c271: Fix unit tests and make jetty a test dependency\n- f05971602aaabd8d85c85b919695a37def4ab905: Removing GovernatorJerseyServletModule.\n- e5fb0e1a5b220b6b25b6d5e26bc9574b8eb7c746: Update servlet-api to 3.0.1\n- 3838a48994f70a7d2b99c605989d4e3e7efd1c54: Make ResourceConfig injectable instead of just the properties\n- 6346a2aaea38976ee9661771b7e12507154cb33e: Enhancements to Jersey-Guice integration 1.  Configure Jersey via property bindings (instead of statically in JerseyServletModule) 2.  Auto create all singleton resources\n- 9170d348257abb3d14420b788d0b8d2c611ef757: Merge pull request #276 from elandau/api_cleanup\n- 0a85629a3257b0f9c1f6adbcd2f2d4156953d65c: Revert \"jersey\"\n- d139d240c602c6f2016f154f709f8e395ee974f8: Revert \"Initial commit of governator-jersey enhancements to jersey-guice integration\"\n- 22908793e3e9d2848cd029ca582c38ab63be8139: Initial commit of governator-jersey enhancements to jersey-guice integration\n- 1c07cef75183541d022f0c9edda7967781d570a8: jersey\n- 673e76d17b0a11283adee0c14fb3ada16fc58ff3: Merge branch 'master' of https://github.com/Netflix/governator into api_cleanup\n- 025b0acf5acec999a08a06b032c3ac14ebd98c18: Use ProvisionListener instead of TypeListener so @PreDestroy and @PostConstruct on object returned by @Provides methods are called.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

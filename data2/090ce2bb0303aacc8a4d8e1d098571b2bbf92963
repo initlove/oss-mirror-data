@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTowOTBjZTJiYjAzMDNhYWNjOGE0ZDhlMWQwOTg1NzFiMmJiZjkyOTYz",
+  "sha": "090ce2bb0303aacc8a4d8e1d098571b2bbf92963",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/090ce2bb0303aacc8a4d8e1d098571b2bbf92963",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2016-04-18T08:15:30Z"
+  },
+  "object": {
+    "sha": "3c5ef61cc55dc887cbb807fa8d6917d6af85af51",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/3c5ef61cc55dc887cbb807fa8d6917d6af85af51"
+  },
+  "tag": "3.1.0",
+  "message": "Bug fixes\n=========\n\nFix issue where the loose parser created invalid TemplateElement nodes\nfor unclosed template literals.\n\nProperly tokenize the division operator directly after a function\nexpression.\n\nAllow trailing comma in destructuring arrays.\n\nNew features\n============\n\nThe walker now allows defining handlers for `CatchClause` nodes.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXFJfKAAoJEHA/G+1tM64eqLMH/0dDxlDaYdra9cEEjwcdyiUK\nOhPnF8JNm3dYv4mXJMnza2w8CLMxnBHkqZw/9hjQP7Y9WbBuNMmC3Un0bETQe1uR\nRNHkez9kWNEQL+5kmw96E/KD1j6YPItno1xCfb8F+KElhbe1vWObIeaVdMIE2FH4\nvaGd3iLo+ooJa2YAzL0YzKZjQerIb4ySoolcP7wuD3fUaDfkSJDfg2WpIBY1ku7v\nYwlC4wIBhF3en4QO+VySPfHt4eQLlBxfxeu92S2TlSIDCRsFknnbx1a//VGGmIua\n8rBQt/XCPE4LChK+FKNyNbJ1R+hdphxc9B3tCqHS37mDkQoPcc0AwQFQ22ifORI=\n=Bh2f\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXFJfKAAoJEHA/G+1tM64eqLMH/0dDxlDaYdra9cEEjwcdyiUK\nOhPnF8JNm3dYv4mXJMnza2w8CLMxnBHkqZw/9hjQP7Y9WbBuNMmC3Un0bETQe1uR\nRNHkez9kWNEQL+5kmw96E/KD1j6YPItno1xCfb8F+KElhbe1vWObIeaVdMIE2FH4\nvaGd3iLo+ooJa2YAzL0YzKZjQerIb4ySoolcP7wuD3fUaDfkSJDfg2WpIBY1ku7v\nYwlC4wIBhF3en4QO+VySPfHt4eQLlBxfxeu92S2TlSIDCRsFknnbx1a//VGGmIua\n8rBQt/XCPE4LChK+FKNyNbJ1R+hdphxc9B3tCqHS37mDkQoPcc0AwQFQ22ifORI=\n=Bh2f\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3c5ef61cc55dc887cbb807fa8d6917d6af85af51\ntype commit\ntag 3.1.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1460967330 +0200\n\nBug fixes\n=========\n\nFix issue where the loose parser created invalid TemplateElement nodes\nfor unclosed template literals.\n\nProperly tokenize the division operator directly after a function\nexpression.\n\nAllow trailing comma in destructuring arrays.\n\nNew features\n============\n\nThe walker now allows defining handlers for `CatchClause` nodes.\n"
+  }
+}

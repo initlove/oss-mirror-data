@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAxNzQyOjUwYWY2Y2NkZWU4YTA3YWQ2NTI4MjI3MjQ4NGM4OTllNDMyNzJhZTA=",
+  "sha": "50af6ccdee8a07ad65282272484c899e43272ae0",
+  "url": "https://api.github.com/repos/tornadoweb/tornado/git/tags/50af6ccdee8a07ad65282272484c899e43272ae0",
+  "tagger": {
+    "name": "Ben Darnell",
+    "email": "ben@bendarnell.com",
+    "date": "2012-11-25T02:28:09Z"
+  },
+  "object": {
+    "sha": "169ac4ef4983058eadc72d7dc4860e8acb2c8109",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tornadoweb/tornado/git/commits/169ac4ef4983058eadc72d7dc4860e8acb2c8109"
+  },
+  "tag": "v2.4.1",
+  "message": "What's new in Tornado 2.4.1\n===========================\n\nNov 24, 2012\n------------\n\nBug fixes\n~~~~~~~~~\n\n* Fixed a memory leak in `tornado.stack_context` that was especially likely\n  with long-running ``@gen.engine`` functions.\n* `tornado.auth.TwitterMixin` now works on Python 3.\n* Fixed a bug in which `IOStream.read_until_close` with a streaming callback\n  would sometimes pass the last chunk of data to the final callback instead\n  of the streaming callback.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

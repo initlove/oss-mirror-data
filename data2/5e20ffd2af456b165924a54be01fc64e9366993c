@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTo1ZTIwZmZkMmFmNDU2YjE2NTkyNGE1NGJlMDFmYzY0ZTkzNjY5OTNj",
+  "sha": "5e20ffd2af456b165924a54be01fc64e9366993c",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/5e20ffd2af456b165924a54be01fc64e9366993c",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2016-07-25T21:24:33Z"
+  },
+  "object": {
+    "sha": "693c5fe9257c3e114a7097dc9196d6e484e52809",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/693c5fe9257c3e114a7097dc9196d6e484e52809"
+  },
+  "tag": "3.3.0",
+  "message": "Version 3.3.0\n\n### Bug fixes\n\nFix bug in tokenizing of regexp operator after a function declaration.\n\nFix parser crash when parsing an array pattern with a hole.\n\n### New features\n\nImplement check against complex argument lists in functions that\nenable strict mode in ES7.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXloOiAAoJEHA/G+1tM64eeTYH/1S6hvbJEIHhdfuSAJ1JJ5sG\nr9StjvZHCHTFVjUy++VlYIxNqdE1HT6SED5TogzXZkNtu56jBuhfGi2OJMqiE0rZ\nseiVSfsRldXiYyTy2New17mzbjEVuVA7yWyCxz85eu39FhKK00A26F4sezlyf593\nvv6LokfeOFXktsqC5/T7gBv5e8mCeS4CYW0n5gXTDEpV2f4zNwe/ks8lJuUz1364\nh6stPm0Ps4G0T4xp1wlhaO3F2Wg03aIS0pgk23pgoWbNb5yGFWCOH5fo1jQ2zKb0\nvtew9/J5ZjEMAJViIaoLBpiDMDpc4vrT0FDZaJlIPcLn/lnDbEC8WZULk6RzgqQ=\n=Ei+O\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXloOiAAoJEHA/G+1tM64eeTYH/1S6hvbJEIHhdfuSAJ1JJ5sG\nr9StjvZHCHTFVjUy++VlYIxNqdE1HT6SED5TogzXZkNtu56jBuhfGi2OJMqiE0rZ\nseiVSfsRldXiYyTy2New17mzbjEVuVA7yWyCxz85eu39FhKK00A26F4sezlyf593\nvv6LokfeOFXktsqC5/T7gBv5e8mCeS4CYW0n5gXTDEpV2f4zNwe/ks8lJuUz1364\nh6stPm0Ps4G0T4xp1wlhaO3F2Wg03aIS0pgk23pgoWbNb5yGFWCOH5fo1jQ2zKb0\nvtew9/J5ZjEMAJViIaoLBpiDMDpc4vrT0FDZaJlIPcLn/lnDbEC8WZULk6RzgqQ=\n=Ei+O\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 693c5fe9257c3e114a7097dc9196d6e484e52809\ntype commit\ntag 3.3.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1469481873 +0200\n\nVersion 3.3.0\n\n### Bug fixes\n\nFix bug in tokenizing of regexp operator after a function declaration.\n\nFix parser crash when parsing an array pattern with a hole.\n\n### New features\n\nImplement check against complex argument lists in functions that\nenable strict mode in ES7.\n"
+  }
+}

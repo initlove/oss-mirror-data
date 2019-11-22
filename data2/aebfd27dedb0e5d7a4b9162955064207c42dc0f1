@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzU5ODE6YWViZmQyN2RlZGIwZTVkN2E0YjkxNjI5NTUwNjQyMDdjNDJkYzBmMQ==",
+  "sha": "aebfd27dedb0e5d7a4b9162955064207c42dc0f1",
+  "url": "https://api.github.com/repos/gpg/libassuan/git/tags/aebfd27dedb0e5d7a4b9162955064207c42dc0f1",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2015-08-28T12:49:55Z"
+  },
+  "object": {
+    "sha": "cdb1e6484d6f094f8e795bfec5b314ec524a90f8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libassuan/git/commits/cdb1e6484d6f094f8e795bfec5b314ec524a90f8"
+  },
+  "tag": "libassuan-2.3.0",
+  "message": "Fixes problem with assuan_inquire and sentitive data in buffers.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJV4FjzAAoJECSbOdJPJeO2oboH/iWiBG7Qj8dH1qq2II4ChHu6\n9glXBLi04QwRvaS8gGZM1ned16JWDBa6Qp0dFiAmO0JaQDNmZg7U2YfMU0ZtYL6Z\nU40dZ4z3nCdGgOoR0XxjCgYGVmBJqFZ3FI+71kOXBvXCRmOYQj/nTdioU65kjfjg\n8+4rrpwg5cSmO34cbj9PEiqPt2kOq4+Arl/3/oQWqK5CYGdpziqNxP1CB1T+G/to\n+nXVxsIHiNUPjRINhK0qAAS/qIpllh4KXg/s1FkTx9+BBeXukES7bpfbhDKhUnve\npeWx3XylpGYepLzZ3zZtDq4jA3vUjhOOW+mjcdQSQTFbsksuKPfbp1gVmJX19Vw=\n=WhE7\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJV4FjzAAoJECSbOdJPJeO2oboH/iWiBG7Qj8dH1qq2II4ChHu6\n9glXBLi04QwRvaS8gGZM1ned16JWDBa6Qp0dFiAmO0JaQDNmZg7U2YfMU0ZtYL6Z\nU40dZ4z3nCdGgOoR0XxjCgYGVmBJqFZ3FI+71kOXBvXCRmOYQj/nTdioU65kjfjg\n8+4rrpwg5cSmO34cbj9PEiqPt2kOq4+Arl/3/oQWqK5CYGdpziqNxP1CB1T+G/to\n+nXVxsIHiNUPjRINhK0qAAS/qIpllh4KXg/s1FkTx9+BBeXukES7bpfbhDKhUnve\npeWx3XylpGYepLzZ3zZtDq4jA3vUjhOOW+mjcdQSQTFbsksuKPfbp1gVmJX19Vw=\n=WhE7\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cdb1e6484d6f094f8e795bfec5b314ec524a90f8\ntype commit\ntag libassuan-2.3.0\ntagger Werner Koch <wk@gnupg.org> 1440766195 +0200\n\nFixes problem with assuan_inquire and sentitive data in buffers.\n"
+  }
+}

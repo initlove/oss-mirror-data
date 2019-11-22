@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NjE2ZjVkYmQ2YzAyZTRhMjRiOGQ3ZjhhNGQ4YzBiZjJkY2EyZmRjNw==",
+  "sha": "616f5dbd6c02e4a24b8d7f8a4d8c0bf2dca2fdc7",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/616f5dbd6c02e4a24b8d7f8a4d8c0bf2dca2fdc7",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-06-20T00:00:32Z"
+  },
+  "object": {
+    "sha": "a72120190a8ffdbcd3d6ad2a2e6ceecd2087111e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/a72120190a8ffdbcd3d6ad2a2e6ceecd2087111e"
+  },
+  "tag": "v0.7.12",
+  "message": "2012.06.19, Version 0.7.12 (unstable)\n\n* npm: Upgrade to 1.1.30\n- Improved 'npm init'\n- Fix the 'cb never called' error from 'oudated' and 'update'\n- Add --save-bundle|-B config\n- Fix isaacs/npm#2465: Make npm script and windows shims cygwin-aware\n- Fix isaacs/npm#2452 Use --save(-dev|-optional) in npm rm\n- `logstream` option to replace removed `logfd` (Rod Vagg)\n- Read default descriptions from README.md files\n\n* Shims to support deprecated ev_* and eio_* methods (Ben Noordhuis)\n\n* #3118 net.Socket: Delay pause/resume until after connect (isaacs)\n\n* #3465 Add ./configure --no-ifaddrs flag (isaacs)\n\n* child_process: add .stdin stream to forks (Fedor Indutny)\n\n* build: fix `make install DESTDIR=/path` (Ben Noordhuis)\n\n* tls: fix off-by-one error in renegotiation check (Ben Noordhuis)\n\n* crypto: Fix diffie-hellman key generation UTF-8 errors (Fedor Indutny)\n\n* node: change the constructor name of process from EventEmitter to process (Andreas Madsen)\n\n* net: Prevent property access throws during close (Reid Burke)\n\n* querystring: improved speed and code cleanup (Felix Böhm)\n\n* sunos: fix assertion errors breaking fs.watch() (Fedor Indutny)\n\n* unix: stat: detect sub-second changes (Ben Noordhuis)\n\n* add stat() based file watcher (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJP4RKgAAoJELCniwpsSBz2cFwH/ic8FQjRfw8nwmjn18IkL7Qk\n1flVC5AcYh+XnNdUoHqamdnccNmgfUa5C+pD7E9z/UedVylV+ZLtRC/xUrqHVy5l\nDkL/zxMDgPBPRsaNOWRbQ+Ltfnf9MN2Om8SQUGFqwxm9LQYm8LiY0p3Zm5P5LIVm\nsL9DAWJHjk8MLmXb7BEBa2JZf1JQi7h7gEblFRGi/AqEF62wIhMhsH3E/oNI9GDB\nElXWpVVd5xasnWI/CBfYm0Xy5eox+2eVWU9uK6MNPQVTmQo9d9axxYrqf5T/QOAx\nouOAMxEu0V56BaoxU6u7nWz+i6YKqrmdjZhSRgMI0Uhp7RBnQQRh+X7ittV9lG8=\n=igfZ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJP4RKgAAoJELCniwpsSBz2cFwH/ic8FQjRfw8nwmjn18IkL7Qk\n1flVC5AcYh+XnNdUoHqamdnccNmgfUa5C+pD7E9z/UedVylV+ZLtRC/xUrqHVy5l\nDkL/zxMDgPBPRsaNOWRbQ+Ltfnf9MN2Om8SQUGFqwxm9LQYm8LiY0p3Zm5P5LIVm\nsL9DAWJHjk8MLmXb7BEBa2JZf1JQi7h7gEblFRGi/AqEF62wIhMhsH3E/oNI9GDB\nElXWpVVd5xasnWI/CBfYm0Xy5eox+2eVWU9uK6MNPQVTmQo9d9axxYrqf5T/QOAx\nouOAMxEu0V56BaoxU6u7nWz+i6YKqrmdjZhSRgMI0Uhp7RBnQQRh+X7ittV9lG8=\n=igfZ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a72120190a8ffdbcd3d6ad2a2e6ceecd2087111e\ntype commit\ntag v0.7.12\ntagger isaacs <i@izs.me> 1340150432 -0700\n\n2012.06.19, Version 0.7.12 (unstable)\n\n* npm: Upgrade to 1.1.30\n- Improved 'npm init'\n- Fix the 'cb never called' error from 'oudated' and 'update'\n- Add --save-bundle|-B config\n- Fix isaacs/npm#2465: Make npm script and windows shims cygwin-aware\n- Fix isaacs/npm#2452 Use --save(-dev|-optional) in npm rm\n- `logstream` option to replace removed `logfd` (Rod Vagg)\n- Read default descriptions from README.md files\n\n* Shims to support deprecated ev_* and eio_* methods (Ben Noordhuis)\n\n* #3118 net.Socket: Delay pause/resume until after connect (isaacs)\n\n* #3465 Add ./configure --no-ifaddrs flag (isaacs)\n\n* child_process: add .stdin stream to forks (Fedor Indutny)\n\n* build: fix `make install DESTDIR=/path` (Ben Noordhuis)\n\n* tls: fix off-by-one error in renegotiation check (Ben Noordhuis)\n\n* crypto: Fix diffie-hellman key generation UTF-8 errors (Fedor Indutny)\n\n* node: change the constructor name of process from EventEmitter to process (Andreas Madsen)\n\n* net: Prevent property access throws during close (Reid Burke)\n\n* querystring: improved speed and code cleanup (Felix Böhm)\n\n* sunos: fix assertion errors breaking fs.watch() (Fedor Indutny)\n\n* unix: stat: detect sub-second changes (Ben Noordhuis)\n\n* add stat() based file watcher (Ben Noordhuis)\n"
+  }
+}

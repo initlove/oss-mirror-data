@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzgyMTA2MTU6M2Y1NjM0ZDI1YWVjMzhiODA1ZDkzOTJjNWMwODE4ZTZkMWM0NjM3NQ==",
+  "sha": "3f5634d25aec38b805d9392c5c0818e6d1c46375",
+  "url": "https://api.github.com/repos/openstack/aodh/git/tags/3f5634d25aec38b805d9392c5c0818e6d1c46375",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-22T16:41:36Z"
+  },
+  "object": {
+    "sha": "1b552dd82565157c123925adecd12fc279cbbee0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/aodh/git/commits/1b552dd82565157c123925adecd12fc279cbbee0"
+  },
+  "tag": "8.0.0.0rc1",
+  "message": "aodh 8.0.0.0rc1 release candidate\n\nmeta:version: 8.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Ifa7138de12d0b191d9f9662bc41362850273fc33\nmeta:release:Code-Review+1: Trinh Nguyen <dangtrinhnt@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyVEEAZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eODT2C/9G0dFAgsF1mcXZGobsA+vp\n0rMjy339DbgSnFLj5qj2l0enk+Yx5CaQgzsnYRBcoHJwxT0d3bznItjVTO4UcCdy\nYoVDO2JNHFbXXI8y5kTOO8ry9HlM0T8x6hGwMv37VN8GyEcgHgfaH60bDJmkI6qM\nE42XxrF0YcddmGiG7ii6cDuBup7MK8iphu7FkWdV4zUPRU2yHT9779WC0oWcMexY\nnAxuO21Q1PNGAreW9IaGO+kHkS7jE3H51k3WKs5ksMQJTCM873cGEWr3s7t9G92Y\nZFZ1f5xPltzkth7m781uwlkPsiWBV8rvzjCJVJs6ErmoiiI4otzxJ5yB3WS1HDVw\n4hcdhDVx+U68Nsv2NYkHMJw1fi/lgSiI4Zb7XzSNHYuyXg5/R5POM5sQpGjJxvRf\nhBcqaBIU1OevbX5up0mjiW0SuhG3nyePZq3EbzOKV6bsDHBIM54CH+mXGgw+imVR\nYyNNHoLJcLC29jrP8Ahf5fH9N/oZZskigZ/LbWd2unE=\n=numl\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyVEEAZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eODT2C/9G0dFAgsF1mcXZGobsA+vp\n0rMjy339DbgSnFLj5qj2l0enk+Yx5CaQgzsnYRBcoHJwxT0d3bznItjVTO4UcCdy\nYoVDO2JNHFbXXI8y5kTOO8ry9HlM0T8x6hGwMv37VN8GyEcgHgfaH60bDJmkI6qM\nE42XxrF0YcddmGiG7ii6cDuBup7MK8iphu7FkWdV4zUPRU2yHT9779WC0oWcMexY\nnAxuO21Q1PNGAreW9IaGO+kHkS7jE3H51k3WKs5ksMQJTCM873cGEWr3s7t9G92Y\nZFZ1f5xPltzkth7m781uwlkPsiWBV8rvzjCJVJs6ErmoiiI4otzxJ5yB3WS1HDVw\n4hcdhDVx+U68Nsv2NYkHMJw1fi/lgSiI4Zb7XzSNHYuyXg5/R5POM5sQpGjJxvRf\nhBcqaBIU1OevbX5up0mjiW0SuhG3nyePZq3EbzOKV6bsDHBIM54CH+mXGgw+imVR\nYyNNHoLJcLC29jrP8Ahf5fH9N/oZZskigZ/LbWd2unE=\n=numl\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1b552dd82565157c123925adecd12fc279cbbee0\ntype commit\ntag 8.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1553272896 +0000\n\naodh 8.0.0.0rc1 release candidate\n\nmeta:version: 8.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Ifa7138de12d0b191d9f9662bc41362850273fc33\nmeta:release:Code-Review+1: Trinh Nguyen <dangtrinhnt@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

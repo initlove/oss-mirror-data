@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OjdkMDIzZTM0MjRjMDljNzZkMDgyNGRmNzFkZjFkZDdjMDY0MGQ2ZTg=",
+  "sha": "7d023e3424c09c76d0824df71df1dd7c0640d6e8",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/7d023e3424c09c76d0824df71df1dd7c0640d6e8",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "spam@schillmania.com",
+    "date": "2012-05-14T05:05:20Z"
+  },
+  "object": {
+    "sha": "7365ee8de4f145ce52b028a61550a230269fa955",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/7365ee8de4f145ce52b028a61550a230269fa955"
+  },
+  "tag": "V2.97a.20120513",
+  "message": "V2.97a.20120513 - Fixes for Android 2.3 playback, onPosition() in HTML5, Flash 9 double-play edge case. Minor new Flash 9-specific features.\n\n    Bug fixes\n\n        Android 2.3 playback fix (some sounds started only after 2+ play attempts due to Android not liking load() immediately followed by play()?)\n\n        onPosition() fix for HTML5 playback, items were mistakenly being removed.\n\n        Fix RTMP stream duration reporting via onmetadata() (wrong value was being returned, previously.)\n\n        Fix for Flash 9 double-play edge case found with pause() + setPosition() calls.\n\n        JSLINT validation per 04-15-2012 edition rules, mostly removal of multiple return statements within if ... else blocks and inverted loop tricks.\n\n    API updates\n\n        Enabled waveform/eq/spectrum data features for MovieStar (H.264/NetStream content.)\n\n        Added oncaptiondata() callback for caption data from Flash 9 (NetStream/RTMP-only, similar to onmetadata(). Contributor: GitHub user karma.)\n\n        Added SMSound.onplayerror(), presently for Flash 9 (non-MovieStar/NetStream) which can detect lack of available sound hardware or 32-channel ceiling as reasons for playback failure.\n\n        Added oncaptiondata() callback for caption data from Flash 9 (NetStream/RTMP-only, similar to onmetadata().)\n\n    Miscellaneous\n\n        Scaling added to 360 UI (via GitHub user tomasdev)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

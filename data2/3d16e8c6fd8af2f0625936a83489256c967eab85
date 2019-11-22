@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6M2QxNmU4YzZmZDhhZjJmMDYyNTkzNmE4MzQ4OTI1NmM5NjdlYWI4NQ==",
+  "sha": "3d16e8c6fd8af2f0625936a83489256c967eab85",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/3d16e8c6fd8af2f0625936a83489256c967eab85",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-04-15T09:10:52Z"
+  },
+  "object": {
+    "sha": "311d7dee19034ff1c6bc9098c36973b8d687eaba",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/311d7dee19034ff1c6bc9098c36973b8d687eaba"
+  },
+  "tag": "v0.1.91",
+  "message": "2010.04.15, Version 0.1.91\n\n  * Add incoming.httpVersion\n\n  * Object.prototype problem with C-Ares binding\n\n  * REPL can be run from multiple different streams. (Matt Ranney)\n\n  * After V8 heap is compact, don't use a timer every 2 seconds.\n\n  * Improve nextTick implementation.\n\n  * Add primative support for Upgrading HTTP connections.\n    (See commit log for docs 760bba5)\n\n  * Add timeout and maxBuffer options to child_process.exec\n\n  * Fix bugs.\n\n  * Upgrade V8 to 2.2.3.1\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

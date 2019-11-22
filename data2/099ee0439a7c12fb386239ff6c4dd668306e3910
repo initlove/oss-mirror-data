@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6MDk5ZWUwNDM5YTdjMTJmYjM4NjIzOWZmNmM0ZGQ2NjgzMDZlMzkxMA==",
+  "sha": "099ee0439a7c12fb386239ff6c4dd668306e3910",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/099ee0439a7c12fb386239ff6c4dd668306e3910",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2017-06-28T10:00:15Z"
+  },
+  "object": {
+    "sha": "1da74a41e845cb5cad30b90c1c1faa9342ec6814",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/1da74a41e845cb5cad30b90c1c1faa9342ec6814"
+  },
+  "tag": "v0.5.25",
+  "message": "Release v0.5.25 contains the following changes:\n* Remove square brackets in Cy0CoreAffinity assignment.\n* Add a message to the configure to show whether the glibc being used supports AVX-512 optimisations.\n* Re-org e_qat.c into multiple files\n* Fix race caused by unexpected resume of paused async job\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

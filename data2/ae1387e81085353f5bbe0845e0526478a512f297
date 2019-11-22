@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA4MDUxOmFlMTM4N2U4MTA4NTM1M2Y1YmJlMDg0NWUwNTI2NDc4YTUxMmYyOTc=",
+  "sha": "ae1387e81085353f5bbe0845e0526478a512f297",
+  "url": "https://api.github.com/repos/mongodb/mongo-python-driver/git/tags/ae1387e81085353f5bbe0845e0526478a512f297",
+  "tagger": {
+    "name": "Mike Dirolf",
+    "email": "mike@10gen.com",
+    "date": "2009-02-09T22:44:24Z"
+  },
+  "object": {
+    "sha": "749fd7fd1cf60dcada3e3b3602648f8c29269785",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mongodb/mongo-python-driver/git/commits/749fd7fd1cf60dcada3e3b3602648f8c29269785"
+  },
+  "tag": "0.5.3pre",
+  "message": "fallback to python if c extension doesn't build\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.9 (Darwin)\n\niEYEABECAAYFAkmQscgACgkQdXAQMQ0Brk/rFQCgrlGuMAOH9mK7wgXmCtq6JVxk\ndKUAnAyDi6CSSPF/skyyJRTAYV5aS80k\n=3/9+\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.9 (Darwin)\n\niEYEABECAAYFAkmQscgACgkQdXAQMQ0Brk/rFQCgrlGuMAOH9mK7wgXmCtq6JVxk\ndKUAnAyDi6CSSPF/skyyJRTAYV5aS80k\n=3/9+\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 749fd7fd1cf60dcada3e3b3602648f8c29269785\ntype commit\ntag 0.5.3pre\ntagger Mike Dirolf <mike@10gen.com> 1234219464 -0500\n\nfallback to python if c extension doesn't build\n"
+  }
+}

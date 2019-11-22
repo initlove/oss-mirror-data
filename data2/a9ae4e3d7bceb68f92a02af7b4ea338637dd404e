@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6YTlhZTRlM2Q3YmNlYjY4ZjkyYTAyYWY3YjRlYTMzODYzN2RkNDA0ZQ==",
+  "sha": "a9ae4e3d7bceb68f92a02af7b4ea338637dd404e",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/a9ae4e3d7bceb68f92a02af7b4ea338637dd404e",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2017-09-04T13:19:13Z"
+  },
+  "object": {
+    "sha": "d9369b95eb19fa43794bbc04e8e1dd611b2c98fa",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/d9369b95eb19fa43794bbc04e8e1dd611b2c98fa"
+  },
+  "tag": "v0.5.29",
+  "message": "Release v0.5.29 contains the following changes:\n* Modify usage of the timer poll function to reduce CPU usage when system idle.\n* Change chained ciphers to be defined as custom.\n* Changes to conditionally compile out qat_parseconf files with upstream flag.\n* Fix issue with opdata  memory initialization.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

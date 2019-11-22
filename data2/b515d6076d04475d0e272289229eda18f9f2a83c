@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6YjUxNWQ2MDc2ZDA0NDc1ZDBlMjcyMjg5MjI5ZWRhMThmOWYyYTgzYw==",
+  "sha": "b515d6076d04475d0e272289229eda18f9f2a83c",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/b515d6076d04475d0e272289229eda18f9f2a83c",
+  "tagger": {
+    "name": "Yicheng Qin",
+    "email": "qycqycqycqycqyc@gmail.com",
+    "date": "2015-09-03T20:36:12Z"
+  },
+  "object": {
+    "sha": "30801de468675f271c0e47917268d4edae413ff4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/30801de468675f271c0e47917268d4edae413ff4"
+  },
+  "tag": "v2.1.3",
+  "message": "- when invalid TLS files are provided etcd logs a helpful error message and shuts down cleanly\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJV6K9SAAoJEOdQvf2jMxAzSncQAKaDpyeD6CiXIxSSw0vDSXQf\nv+JRFFHLRIFpxpy4kzXErg7Wvhl7P5uf5pOfNf3DiK3/lkJQH/K0EWva3wGC3edm\n6/6uOtaUhCT/WbjR6DTntkYVTH7F+EiWxpTKQFA9cLvpjcdnRrLuNPHeknVOU9ID\n2adf4cNSoP+SzdsWAZ+F6y6GYT7E4pWLXaMEtL2PvNye34CXHdQpMYlk6AieUUMv\nzBmOtFjeny4S+StOz9hwJun3/u8vrw97POsfrpuBw3gGWjE/Olc6M4n4BOvFm1AP\necvbRCYKq8hbwtIRgoknwDkUhPUyLuXDlx/Ve9BQfofFUqXvmGzqcT+px0BAPdrT\nqwbCmTbE1NstJ/qOtkv7khbfzHpF5EcGXXxkwd1xgdyWQOwKZg7342tDBKD99Wk4\nl5MGO9bTHLusdMLGkPf+1NZb7yni8bcDBlLW1RvNhPqXKJbFUDTacuenkVVpCSSG\nw9e6dObUGwn6IwLhQhK7fPicYNPU6pQRkvWg38Vi34A4PkwlrnnMnViSBQiQ7gsQ\nkx7xgrPM7L7fyGyrVoBEpIHeQ1tQmLN9SVz5RQaVAVejp14prJ4zyDkAybXN0w9N\n+HF/wk3C9X7H5bDSgBguDuwAWsbruDF1Kw5tjOD+weTaV7y6XKP9HXxXF5yZiMwZ\ni0ev/WO2werHJ20LZqUL\n=UDoi\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJV6K9SAAoJEOdQvf2jMxAzSncQAKaDpyeD6CiXIxSSw0vDSXQf\nv+JRFFHLRIFpxpy4kzXErg7Wvhl7P5uf5pOfNf3DiK3/lkJQH/K0EWva3wGC3edm\n6/6uOtaUhCT/WbjR6DTntkYVTH7F+EiWxpTKQFA9cLvpjcdnRrLuNPHeknVOU9ID\n2adf4cNSoP+SzdsWAZ+F6y6GYT7E4pWLXaMEtL2PvNye34CXHdQpMYlk6AieUUMv\nzBmOtFjeny4S+StOz9hwJun3/u8vrw97POsfrpuBw3gGWjE/Olc6M4n4BOvFm1AP\necvbRCYKq8hbwtIRgoknwDkUhPUyLuXDlx/Ve9BQfofFUqXvmGzqcT+px0BAPdrT\nqwbCmTbE1NstJ/qOtkv7khbfzHpF5EcGXXxkwd1xgdyWQOwKZg7342tDBKD99Wk4\nl5MGO9bTHLusdMLGkPf+1NZb7yni8bcDBlLW1RvNhPqXKJbFUDTacuenkVVpCSSG\nw9e6dObUGwn6IwLhQhK7fPicYNPU6pQRkvWg38Vi34A4PkwlrnnMnViSBQiQ7gsQ\nkx7xgrPM7L7fyGyrVoBEpIHeQ1tQmLN9SVz5RQaVAVejp14prJ4zyDkAybXN0w9N\n+HF/wk3C9X7H5bDSgBguDuwAWsbruDF1Kw5tjOD+weTaV7y6XKP9HXxXF5yZiMwZ\ni0ev/WO2werHJ20LZqUL\n=UDoi\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 30801de468675f271c0e47917268d4edae413ff4\ntype commit\ntag v2.1.3\ntagger Yicheng Qin <qycqycqycqycqyc@gmail.com> 1441312572 -0700\n\n- when invalid TLS files are provided etcd logs a helpful error message and shuts down cleanly\n"
+  }
+}

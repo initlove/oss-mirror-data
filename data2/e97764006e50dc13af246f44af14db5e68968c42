@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDk0MTg2NzplOTc3NjQwMDZlNTBkYzEzYWYyNDZmNDRhZjE0ZGI1ZTY4OTY4YzQy",
+  "sha": "e97764006e50dc13af246f44af14db5e68968c42",
+  "url": "https://api.github.com/repos/Netflix/governator/git/tags/e97764006e50dc13af246f44af14db5e68968c42",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-05-23T00:17:35Z"
+  },
+  "object": {
+    "sha": "b40678ae697394bfe12d47f01e44fad8ce3949f0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/governator/git/commits/b40678ae697394bfe12d47f01e44fad8ce3949f0"
+  },
+  "tag": "v1.7.0-rc.1",
+  "message": "Release of 1.7.0-rc.1\n\n- b40678ae697394bfe12d47f01e44fad8ce3949f0: Merge pull request #205 from elandau/nextgen\n- 80f89aeb11a697441031133281e12f51b4d315d1: Fix broken unit test\n- 4ad39e97a1e1750c84dbc111f2a604fde1e9bc8a: Merge pull request #204 from elandau/nextgen\n- d1e9442af63c86b6855054aac72fc3a6dea1a25e: Propagate exception in GrapherAction\n- 1e0c3cdcfc59fcd0c32d801edd4da2a2be1768fc: Merge pull request #203 from yunspace/guice-servlet4\n- 420b89b8d1be2e560b4768ba51f4ce5cd2ec905d: updated guide-servlet version to 4.0\n- 0c3e1dc54b40e74aca644db52dce0130e045083f: Merge pull request #202 from elandau/nextgen\n- c500064089802f50be6aae50cca2e841097dbbed: Disable test that calls System.exit\n- c121230dbf0835ec7e6323860324213486290322: Merge pull request #201 from elandau/nextgen\n- 32cb11769338728cd528865682d489145bfd4f96: Update minor version to 1.6.0\n- 982324806fd97f47d972dc11259d6be9f181c83f: Merge pull request #200 from elandau/guice4\n- 280e22a273b90b3f2617c5725f173fce819684a9: Merge pull request #199 from elandau/nextgen\n- 9cc7db7b7f15cd046a9d9aa0820ba18ad53364e5: Minor cleanup\n- c8731ef45f256b5c3b274b0ff950bce90c9946df: Update to Guice4.  This will also force update Guava from 14.0.1 to 16.0.1, asm from 3.2 to 5.0, xbean-finder from 3.11.1 to 4.2\n- 7b872d850dd8f5b44608e254dec1797d6141fa0c: Automatically add LifecycleModule to all injectors created by Governator\n- 1e251f5d714961a0a0c311e7886e6e4c609d5089: Add service loader support via a builder\n- 006e8733960da0d319d58b90c853afb03424befe: Module to link a shutdown hook with LifecycleManager\n- b497b9503fdaa71e1677fdfc475571dce014f279: Add support for post injector creation notification via LifecycleListener.\n- 9bbdf9ead1e7be9899394be5e0fd9250f5422881: Simplify API and make it more intuitive by tracking LifecycleManager internally using the new Governator utility class\n- 1c2d190206ed4b893d526e1b31a14ab547e5b0ee: Guard against double shutdown.  Externally provided LifecycleManager so lifecycle can be shutdown if injector fails to create.\n- 49d8a627e924c58c4bfdb28b3fdf618193c6166b: Change tests to use testing (instead of JUnit).  Change mode in which LifecycleModule adds the LifecycleListener so it can be attached to an externally provided LifecycleManager.\n- a25e19eee343ce557d0d5d02d348497a13eb1835: Move guice dependent classes to com.netflix.governator.guice.\n- 00430c961d8a2ed400a62a764a9edd101e3fedbf: Documentation cleanup\n- acc89fe253ceb3c8acd4eafd5b4d978f108d333f: First pass at a much simpler implementation of Governator's lifecycle management support for @PostConstruct and @PreDestroy\n- 646f23fca553bae965430cda9fc20ed8c1d40f27: Merge pull request #198 from elandau/master\n- 2659dc263353cb46524d8fb5fb19e3bb7aad4ea3: Fix build.  Convert changlelog and readme to markdown.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODoxMmViMWYxNWQ4ZDRjYjdjZWU4NWIzOTkxZmU0NmUyMTg3ODRmNmZi",
+  "sha": "12eb1f15d8d4cb7cee85b3991fe46e218784f6fb",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/12eb1f15d8d4cb7cee85b3991fe46e218784f6fb",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-09-28T17:34:58Z"
+  },
+  "object": {
+    "sha": "4ec663e4fb63c4df5e77743b2031f389bf885f0c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/4ec663e4fb63c4df5e77743b2031f389bf885f0c"
+  },
+  "tag": "v1.5.6",
+  "message": "Release of 1.5.6\n\n- 4ec663e4fb63c4df5e77743b2031f389bf885f0c: Merge pull request #1368 from mattrjacobs/upgrade-jmh\n- 082ac5b60328a6a026c7b0ce78479862651806db: Upgrade jmh to 1.14.1\n- 02b8be7475acdb2913a1fee93bb753add753658f: Merge pull request #1365 from mattrjacobs/upgrade-nebula-and-gradle\n- 14df0f4c1fac1f9f1e88ae20767a1e2bb69c2cc6: Upgrade to Gradle 3.1 / Nebula 3.4.0\n- 9433411079378848ac822251fe7a5d877fa81386: Merge pull request #1364 from mattrjacobs/fix-backwards-incompatbility-for-appengine\n- cdd4dc03b2c6b694362bb54cf001a6c8815b20ff: Merge pull request #1363 from mattrjacobs/fix-semaphore-only-groups-from-showing-up-in-threadpool-output\n- ddbf1bbb5726792143bcbd5eee60df44e6ed7b57: Re-add PlatformSpecific.isAppEngine() for backwards-compatibility\n- 04f33ad452a92cd4d42853a5f351bdd588a72ff0: Filter out all thread pool objects from thread pool metric streams which have not executed a command\n- d31ec7d8e871bf35b473127d6112bc0cd31f0f99: Merge pull request #1360 from mattrjacobs/convert-command-construction-jmh-test-to-singleshot\n- 62edc4a445b2a43777cda8217a277cec3fdee9d4: jmh test is more accurate when measuring the first command construction\n- f16c08f5ba6e9a55535e4d67fd3663cf832d4d1e: Merge pull request #1356 from cadef/platformspecific_gae_flexible\n- 023cd42eb2ef5a69d766c605e1a4376633ae8cfd: Update PlatformSpecific to only detect App Engine Standard Environment\n- a0e233aeb3cbe2b218d24c82618c63cf7d38483b: Merge pull request #1353 from mattrjacobs/upgrade-rx-1-2\n- eaec273bc48baa16da8accd9ec25a512f3d9973c: Upgrade to RxJava 1.2.0\n- 8738d1c2a5a9abe839011fa5f500617aafb5781b: Merge pull request #1351 from mattrjacobs/remove-histogram-object-pool\n- cc8f9737d34ea16da47e3b5ff5f41b04241724a3: REmoev object-pooling from CachedValuesHistogram\n- d838f4d1ba65ce55755ab1c73f74c980f04572bf: Merge pull request #1336 from kennedyoliveira/feature/dashboard_improviments\n- fe83e4957ca83b3a651016246f1c04408fe00ac5: Merge pull request #1320 from zsoltm/1.5.4.collapse-observable\n- e9cf47bec1aba4c062085e93b547d721ebea9db4: added reactive collapser example\n- 695ee06542c6dedbd1c700b497f3b1b5f50fdefe: review: removed unnecessary generics\n- cbecc005a244a42f363e710d396c6c094ffcc206: review items: unnecessary checks; numeric constant instead of loop var\n- b4d129e8cab3d2282d0bfd24836e45a28f9d43f4: Merge pull request #1341 from dmgcodevil/iss1328\n- 13b4cde2a21a7e181e020ca8a0927033321cbcbc: iss1328: improved error messages\n- c3a2282bb6630291ac6bc133034a21d8b590c791: iss1328: fix\n- 12ad3e049f1bfa520cc39dd8a28806955fa0147d: Merge pull request #1340 from mattrjacobs/refactor-user-defined-fallback\n- ce1caab677b33cac0cedc92c9ae5762f4d36a522: Made the user-defined fallback calculation more general\n- 417b2490dba57e8ac19892c946f6eb3cc55f9e2e: Add remove button for streams\n- 86760bdc9c7f977bbf9d64596ad0fa92afe69376: Improving dashboard eureka integration - Refactoring code - Grouping instances by services - Added a new group for the first instance of each server - Updating url on chaning stream type - Update title for with application name\n- 5ca732a4ae90cc003c0fde16a4a1223555247724: Update CHANGELOG with v1.5.5\n- 94ff54dce96913705d461833827563f2bd667cda: implemented basic Javanica collapsible Observer support\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

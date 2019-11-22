@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODc4NTk5MDg6MzEyMzI5MWQ2ZWIzY2NkNWQ2MjZmZjgyOWEwNjZhMTZlMTFjNGYxYw==",
+  "sha": "3123291d6eb3ccd5d626ff829a066a16e11c4f1c",
+  "url": "https://api.github.com/repos/micrometer-metrics/micrometer/git/tags/3123291d6eb3ccd5d626ff829a066a16e11c4f1c",
+  "tagger": {
+    "name": "Jon Schneider",
+    "email": "jschneider@pivotal.io",
+    "date": "2018-02-27T14:06:53Z"
+  },
+  "object": {
+    "sha": "59e8bfd9cb51e84922b203646aff05cf7318c1c1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micrometer-metrics/micrometer/git/commits/59e8bfd9cb51e84922b203646aff05cf7318c1c1"
+  },
+  "tag": "v1.0.1",
+  "message": "Release of 1.0.1\n\n- 59e8bfd9cb51e84922b203646aff05cf7318c1c1: Restructure new relic events (fixes #476)\n- 657f3d72ff150e8d61a0877a757c7968f4ae8883: Custom sink for StatsD lines (fixes #475)\n- ac766913fe1d0cacb40d7cbf61e12490f42e2da5: Disable datadog test that fails on CircleCI\n- c09eac195287dd53c7a95548300d9f8fea780968: Polish imports\n- f4e20836e4d4fae7449a71b790603224d1707369: Fix port on Datadog test for CircleCI?\n- d0e0d88ebc168b29d6a7e432ef245730d109bc87: Add extra newline at the end of Wavefront proxy write\n- d28afebc3b9da13db8e4c60230ac362b7784f172: Encode metric name which is being used in URL for Datadog (fixes #463)\n- b477cb0bf2a0e646069038428271613a6b77ad28: Add slf4j dependencies to registry implementations that depend on it (fixes #473)\n- 0f06799a4eb28aee164f4947cdc8bcfbc82cf901: Removed dependency on commons-lang\n- f8cac084d2335afd84ad4d42e39c4eba6ae8dd73: Merge branch 'influx-registry-improvements' of git://github.com/alebar/micrometer into alebar-influx-registry-improvements\n- 60d41a5b70587f6f59168e2c01a63a9e35e952ee: Fixes around null gauges for Graphite\n- 3dfef305f36199b343d6a2d4ec99d9b4f52af160: License header\n- f46af2e0af7a0ea0636a68718d62b0042c212070: Test proving how to register TimedThreadPoolTaskExecutor without eagerly instantiating MeterRegistry (fixes #459)\n- 1e0065225df905366dfda62cbb5f2accedd8ed39: Fix reporting of null gauges and zero-count function timers to Dropwizard-based registries (fixes #452)\n- 932aefea0fc0651ea1f443047725e531e80bac6b: Change default Wavefront proxy port to 2878\n- 61c8bee327706086c1ebc7c306e526d961d4c657: Polish\n- 1a3f10ff16c182860012155c95ac36b294d408d3: Influx: checking if retention policy is empty\n- c3d430a42c5da00452dfc2c46da0a90867cdb67a: same log level for all 'failed to send metrics' messages\n- 961cbfba43d092d67cc9f09d8f9140ffe901e384: fix checkstyle: removed unused imports (#466)\n- e4b20a609e0f0bed75dffa659bc85742cff982e4: Add Boot 1.5 Statsd Etsy sample\n- d1edf7d907d88f30bd8f26cebdafb1ded18945e5: Fixed statsd registry breakdown when multiple threads are recording metrics (fixes #462)\n- 7df5e6529faa5a45668562ad947aa50cc07a5843: Only create Influx database if it doesn't already exist\n- 9b10a71ff1dd543f6183e23a2677598ba6d5eb5d: Add NullGaugeSample\n- 9bad61aec1139afeba221a2a8d1d9a7e2d8ccabe: Influx: createDatabaseIfNecessary catching Throwable (fixes #379)\n- 4226e9621db2cf22b8df9d69e175f0789242883f: License header\n- 93220266e4fbca4c1b7bb0462856568816c3f22e: Specify urlTemplate is nullable (fixes #453)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YzdiYWZjODI4YWQwZTA3NDZmNWU2N2RkNTdkNWZlNGZiY2ZmMGZkOA==",
+  "sha": "c7bafc828ad0e0746f5e67dd57d5fe4fbcff0fd8",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/c7bafc828ad0e0746f5e67dd57d5fe4fbcff0fd8",
+  "tagger": {
+    "name": "Ben Noordhuis",
+    "email": "info@bnoordhuis.nl",
+    "date": "2011-11-18T23:19:41Z"
+  },
+  "object": {
+    "sha": "a4402f0b2e410b19375a1d5c5fb7fe7f66f3c7f8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/a4402f0b2e410b19375a1d5c5fb7fe7f66f3c7f8"
+  },
+  "tag": "v0.6.2",
+  "message": "2011.11.18, Version 0.6.2 (stable)\n\n * doc improvements (Artur Adib, Trevor Burnham, Ryan Emery, Trent Mick)\n\n * timers: remember extra setTimeout() arguments when timeout==0\n\n * punycode: use Mathias Bynens's punycode library, it's more compliant\n\n * repl: improved tab completion (Ryan Emery)\n\n * buffer: fix range checks in .writeInt() functions (Lukasz Walukiewicz)\n\n * tls: make cipher list configurable\n\n * addons: make Buffer and ObjectWrap visible to Windows add-ons (Bert Belder)\n\n * crypto: add PKCS#1 a.k.a RSA public key verification support\n\n * windows: fix stdout writes when redirected to nul\n\n * sunos: fix build on Solaris and Illumos\n\n * Upgrade V8 to 3.6.6.8\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

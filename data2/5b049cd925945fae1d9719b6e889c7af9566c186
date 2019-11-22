@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NWIwNDljZDkyNTk0NWZhZTFkOTcxOWI2ZTg4OWM3YWY5NTY2YzE4Ng==",
+  "sha": "5b049cd925945fae1d9719b6e889c7af9566c186",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/5b049cd925945fae1d9719b6e889c7af9566c186",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-08-21T21:11:09Z"
+  },
+  "object": {
+    "sha": "04018d4b3938fd30ba14822e79195e4af2be36f6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/04018d4b3938fd30ba14822e79195e4af2be36f6"
+  },
+  "tag": "v0.11.6",
+  "message": "2013.08.21, Version 0.11.6 (Unstable)\n\n* uv: Upgrade to v0.11.8\n\n* v8: upgrade v8 to 3.20.14.1\n\n* build: disable SSLv2 by default (Ben Noordhuis)\n\n* build: don't auto-destroy existing configuration (Ben Noordhuis)\n\n* crypto: add TLS 1.1 and 1.2 to secureProtocol list (Matthias Bartelmeß)\n\n* crypto: fix memory leak in randomBytes() error path (Ben Noordhuis)\n\n* dgram: don't call into js when send cb is omitted (Ben Noordhuis)\n\n* dgram: fix regression in string argument handling (Ben Noordhuis)\n\n* domains: performance improvements (Trevor Norris)\n\n* events: EventEmitter = require('events') (Jake Verbaten)\n\n* http: Add write()/end() callbacks (isaacs)\n\n* http: Consistent 'finish' event semantics (isaacs)\n\n* http: Prefer 'binary' over 'ascii' (isaacs)\n\n* http: Support legacy agent.addRequest API (isaacs)\n\n* http: Write hex/base64 chunks properly (isaacs)\n\n* http: add agent.maxFreeSockets option (isaacs)\n\n* http: provide access to raw headers/trailers (isaacs)\n\n* http: removed headers stay removed (James Halliday)\n\n* http,timers: improve callback performance (Ben Noordhuis)\n\n* net: family option in net.connect (Vsevolod Strukchinsky)\n\n* readline: pause stdin before turning off terminal raw mode (Daniel Chatfield)\n\n* smalloc: allow different external array types (Trevor Norris)\n\n* smalloc: expose ExternalArraySize (Trevor Norris)\n\n* stream: Short-circuit buffer pushes when flowing (isaacs)\n\n* tls: handle errors on socket before releasing it (Fedor Indutny)\n\n* util: fix isPrimitive check (Trevor Norris)\n\n* util: isObject should always return boolean (Trevor Norris)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlIVLO0ACgkQfTP/nQJGQG1E0gCgi4ABGVUkWBmkFr7l2OpiF+5T\nOTEAoKsl9Y7Bhs3Dr8iNRpDG6LkH7w+7\n=I/GN\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlIVLO0ACgkQfTP/nQJGQG1E0gCgi4ABGVUkWBmkFr7l2OpiF+5T\nOTEAoKsl9Y7Bhs3Dr8iNRpDG6LkH7w+7\n=I/GN\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 04018d4b3938fd30ba14822e79195e4af2be36f6\ntype commit\ntag v0.11.6\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1377119469 -0700\n\n2013.08.21, Version 0.11.6 (Unstable)\n\n* uv: Upgrade to v0.11.8\n\n* v8: upgrade v8 to 3.20.14.1\n\n* build: disable SSLv2 by default (Ben Noordhuis)\n\n* build: don't auto-destroy existing configuration (Ben Noordhuis)\n\n* crypto: add TLS 1.1 and 1.2 to secureProtocol list (Matthias Bartelmeß)\n\n* crypto: fix memory leak in randomBytes() error path (Ben Noordhuis)\n\n* dgram: don't call into js when send cb is omitted (Ben Noordhuis)\n\n* dgram: fix regression in string argument handling (Ben Noordhuis)\n\n* domains: performance improvements (Trevor Norris)\n\n* events: EventEmitter = require('events') (Jake Verbaten)\n\n* http: Add write()/end() callbacks (isaacs)\n\n* http: Consistent 'finish' event semantics (isaacs)\n\n* http: Prefer 'binary' over 'ascii' (isaacs)\n\n* http: Support legacy agent.addRequest API (isaacs)\n\n* http: Write hex/base64 chunks properly (isaacs)\n\n* http: add agent.maxFreeSockets option (isaacs)\n\n* http: provide access to raw headers/trailers (isaacs)\n\n* http: removed headers stay removed (James Halliday)\n\n* http,timers: improve callback performance (Ben Noordhuis)\n\n* net: family option in net.connect (Vsevolod Strukchinsky)\n\n* readline: pause stdin before turning off terminal raw mode (Daniel Chatfield)\n\n* smalloc: allow different external array types (Trevor Norris)\n\n* smalloc: expose ExternalArraySize (Trevor Norris)\n\n* stream: Short-circuit buffer pushes when flowing (isaacs)\n\n* tls: handle errors on socket before releasing it (Fedor Indutny)\n\n* util: fix isPrimitive check (Trevor Norris)\n\n* util: isObject should always return boolean (Trevor Norris)\n"
+  }
+}

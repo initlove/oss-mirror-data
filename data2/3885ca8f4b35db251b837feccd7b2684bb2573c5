@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6Mzg4NWNhOGY0YjM1ZGIyNTFiODM3ZmVjY2Q3YjI2ODRiYjI1NzNjNQ==",
+  "sha": "3885ca8f4b35db251b837feccd7b2684bb2573c5",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/3885ca8f4b35db251b837feccd7b2684bb2573c5",
+  "tagger": {
+    "name": "Yicheng Qin",
+    "email": "qycqycqycqycqyc@gmail.com",
+    "date": "2015-06-17T04:32:32Z"
+  },
+  "object": {
+    "sha": "5686c33e4b27e905a15ecbe8702dcfc3c270ca76",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/5686c33e4b27e905a15ecbe8702dcfc3c270ca76"
+  },
+  "tag": "v2.0.12",
+  "message": "- [GH 2323] Improve raft stability by making peer communication timeouts configurable\n- [GH 2650] Improve error messages when the etcdctl cluster-health command cannot gather cluster health\n- [GH 2877] etcd can now recover after bootstrap related errors\n- [GH 2884] Improve performance under high load by reusing network connections when running in proxy mode\n- [GH 2902] etcd no longer sends invalid requests to the active etcd cluster members when running in proxy mode.\n- [GH 2916] The etcd build script now works outside of a git repository, but the version info in the resulting binary will not contain a valid Git SHA.\n- [GH 2947] The -advertise-client-urls flag is no longer required when running in proxy mode\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVgPi6AAoJEOdQvf2jMxAzuC8QAK56Zq8g/NSldU5HGjv1x4wR\n60yjte/mrv398rOwJm3F9JpVGJnAsLHp17oNf8t73IzfO5S0k/sL3jiLfXkCRfjM\npDKku5x3frm+QxuXg97FPxjREy0BJU9vLmkDTvE6zEkZ8v5vxjqJhRfP1CcxUt5I\nuOIopdFtB067XllQnjdv6CJ7gxo0MaG3BS2y3NuMwqRjEKwR8lvnnauNZ0UhXFM3\ngFhwHfma5BascRu+o+ntuTDwV3goFK9YSZtI5IvAS49K76NdtC3uZYa+lwyBa/YF\nJwhGma9T4gl9qZltlV3pp9toTx6Ln2tNt0ExAEV43rcG7lKTJcEWSAu6iGVddQRq\ndGIvscOwJiPg3StOkDZnMwx+IsEiKc0YG6hvydQwBqviLH4FSXX64TcIzhbiKfbn\neaWX8J/HCijRamknw6yrZhKyTtoCHgNpiYAB8MmzaC5bzoh24H09kT9dyneekPLB\noUvhqbcEg+wXlKGJkyRizUuZG7YiPN9VoH9cFEeEoNOdkYH4AYlVboyCtFyeB5jb\nf+MKtYgNIhRWcQPOwtb9Z6stu4zXxXqTwguMhMv4FLBb5yso457h03ldTqc4wNOS\nceSVXhmkdzWFJScrtNTUqSHEVlbd3t2rr7RTkKRM8wOhg7EFw2DQu1hAvq3RBtJ1\nnIAcxEa0TkcNsP6hFlko\n=LKM3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVgPi6AAoJEOdQvf2jMxAzuC8QAK56Zq8g/NSldU5HGjv1x4wR\n60yjte/mrv398rOwJm3F9JpVGJnAsLHp17oNf8t73IzfO5S0k/sL3jiLfXkCRfjM\npDKku5x3frm+QxuXg97FPxjREy0BJU9vLmkDTvE6zEkZ8v5vxjqJhRfP1CcxUt5I\nuOIopdFtB067XllQnjdv6CJ7gxo0MaG3BS2y3NuMwqRjEKwR8lvnnauNZ0UhXFM3\ngFhwHfma5BascRu+o+ntuTDwV3goFK9YSZtI5IvAS49K76NdtC3uZYa+lwyBa/YF\nJwhGma9T4gl9qZltlV3pp9toTx6Ln2tNt0ExAEV43rcG7lKTJcEWSAu6iGVddQRq\ndGIvscOwJiPg3StOkDZnMwx+IsEiKc0YG6hvydQwBqviLH4FSXX64TcIzhbiKfbn\neaWX8J/HCijRamknw6yrZhKyTtoCHgNpiYAB8MmzaC5bzoh24H09kT9dyneekPLB\noUvhqbcEg+wXlKGJkyRizUuZG7YiPN9VoH9cFEeEoNOdkYH4AYlVboyCtFyeB5jb\nf+MKtYgNIhRWcQPOwtb9Z6stu4zXxXqTwguMhMv4FLBb5yso457h03ldTqc4wNOS\nceSVXhmkdzWFJScrtNTUqSHEVlbd3t2rr7RTkKRM8wOhg7EFw2DQu1hAvq3RBtJ1\nnIAcxEa0TkcNsP6hFlko\n=LKM3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5686c33e4b27e905a15ecbe8702dcfc3c270ca76\ntype commit\ntag v2.0.12\ntagger Yicheng Qin <qycqycqycqycqyc@gmail.com> 1434515552 -0700\n\n- [GH 2323] Improve raft stability by making peer communication timeouts configurable\n- [GH 2650] Improve error messages when the etcdctl cluster-health command cannot gather cluster health\n- [GH 2877] etcd can now recover after bootstrap related errors\n- [GH 2884] Improve performance under high load by reusing network connections when running in proxy mode\n- [GH 2902] etcd no longer sends invalid requests to the active etcd cluster members when running in proxy mode.\n- [GH 2916] The etcd build script now works outside of a git repository, but the version info in the resulting binary will not contain a valid Git SHA.\n- [GH 2947] The -advertise-client-urls flag is no longer required when running in proxy mode\n"
+  }
+}

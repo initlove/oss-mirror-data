@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTo0YWQxYzU2ZTYwM2NmOWVhYTU3ZTI0NTI2YTVjODA4Njk4Yzc2ZmVl",
+  "sha": "4ad1c56e603cf9eaa57e24526a5c808698c76fee",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/4ad1c56e603cf9eaa57e24526a5c808698c76fee",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2016-09-08T08:10:50Z"
+  },
+  "object": {
+    "sha": "cb95800519f8cd264d46840a84451296ac5e53b6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/cb95800519f8cd264d46840a84451296ac5e53b6"
+  },
+  "tag": "4.0.1",
+  "message": "Release 4.0.1\n\n### Bug fixes\n\nFix false positives in duplicated export name errors.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJX0R0WAAoJEHA/G+1tM64effAH/0mSv8u4VX7MXmBRiuDy1C73\nlD3O5QcM2VoLwOEm9B/LrV0MfIZ/HTF5iZ33rFmM++vlkl+JmHFh/1miJd+Nee3H\nxo15Wu0SPs1xpKnAkclpBEoof1dY+q9wylzZ62B3UVu4Yq0aGRNIshHsV02BEzN9\nHCRiIq5INYlobwqarY9PqhKSXVE3WgXgU3772CNscrYrMaNtYpmc5ms9EqVhRXHj\nW2T+XXFWekOCz1nBxFI00J+Rmh/LKGvwNM+C6Ov0AsjJdGa+r+qhtIQl9g84OmUh\no1JIC3rxX8NKYIVAr9eoGwfDiB9tCvKQqelmnoEdWkiMABMg8FoO8bofk/uz5b0=\n=oKzq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJX0R0WAAoJEHA/G+1tM64effAH/0mSv8u4VX7MXmBRiuDy1C73\nlD3O5QcM2VoLwOEm9B/LrV0MfIZ/HTF5iZ33rFmM++vlkl+JmHFh/1miJd+Nee3H\nxo15Wu0SPs1xpKnAkclpBEoof1dY+q9wylzZ62B3UVu4Yq0aGRNIshHsV02BEzN9\nHCRiIq5INYlobwqarY9PqhKSXVE3WgXgU3772CNscrYrMaNtYpmc5ms9EqVhRXHj\nW2T+XXFWekOCz1nBxFI00J+Rmh/LKGvwNM+C6Ov0AsjJdGa+r+qhtIQl9g84OmUh\no1JIC3rxX8NKYIVAr9eoGwfDiB9tCvKQqelmnoEdWkiMABMg8FoO8bofk/uz5b0=\n=oKzq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cb95800519f8cd264d46840a84451296ac5e53b6\ntype commit\ntag 4.0.1\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1473322250 +0200\n\nRelease 4.0.1\n\n### Bug fixes\n\nFix false positives in duplicated export name errors.\n"
+  }
+}

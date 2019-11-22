@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODQzMjIyOmY5OGI2NDNiODYxN2JmMWRhYmNjZDYyOTNhNzk2ZTExNzdhM2M3M2Q=",
+  "sha": "f98b643b8617bf1dabccd6293a796e1177a3c73d",
+  "url": "https://api.github.com/repos/scikit-learn/scikit-learn/git/tags/f98b643b8617bf1dabccd6293a796e1177a3c73d",
+  "tagger": {
+    "name": "Yaroslav Halchenko",
+    "email": "debian@onerussian.com",
+    "date": "2010-05-03T18:16:21Z"
+  },
+  "object": {
+    "sha": "8216797c4b1abca9dafd8de9d65472d32450b389",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scikit-learn/scikit-learn/git/commits/8216797c4b1abca9dafd8de9d65472d32450b389"
+  },
+  "tag": "debian/0.3-1",
+  "message": "Debian packaging for 0.3\n\nI've decided to use quilt and abandon debian-release merge branch\napproach. So from now on tags will be done in debian branch which would not\ncarry any upstream sources\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.10 (GNU/Linux)\n\niEYEABECAAYFAkvfEvgACgkQjRFFY3XAJMhq4ACfbu1QGxiHbMm2hWcTkQyFoSPU\nee0Ani2bPto/ztQMNfeEeImTgpJAxWjD\n=KMjr\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "not_signing_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.10 (GNU/Linux)\n\niEYEABECAAYFAkvfEvgACgkQjRFFY3XAJMhq4ACfbu1QGxiHbMm2hWcTkQyFoSPU\nee0Ani2bPto/ztQMNfeEeImTgpJAxWjD\n=KMjr\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8216797c4b1abca9dafd8de9d65472d32450b389\ntype commit\ntag debian/0.3-1\ntagger Yaroslav Halchenko <debian@onerussian.com> 1272910581 -0400\n\nDebian packaging for 0.3\n\nI've decided to use quilt and abandon debian-release merge branch\napproach. So from now on tags will be done in debian branch which would not\ncarry any upstream sources\n"
+  }
+}

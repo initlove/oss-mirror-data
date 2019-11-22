@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTpkMDY2ZGNmOGFkMDIxNTMxMGEzZTcxYjRjZGJlYzcwMDBlMGFjYmJj",
+  "sha": "d066dcf8ad0215310a3e71b4cdbec7000e0acbbc",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/d066dcf8ad0215310a3e71b4cdbec7000e0acbbc",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-02-08T09:06:43Z"
+  },
+  "object": {
+    "sha": "637151d8966558d36d7ed37f0f97e37141c300d7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/637151d8966558d36d7ed37f0f97e37141c300d7"
+  },
+  "tag": "6.1.0",
+  "message": "Version 6.1.0\n\n### Bug fixes\n\nFix scope checking when redefining a `var` as a lexical binding.\n\n### New features\n\nSplit up `parseSubscripts` to use an internal `parseSubscript` method to make it easier to extend with plugins.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlxdRrsACgkQcD8b7W0z\nrh4ijwf/f+E9OZpNDV8onp7obk6jwPylc5gLf5Rde16krBe5Ek/yfhNnB5nGyakU\nYVN6nDdkT1sYzVWNLt62edKJ8Vlc8ynsY696KNzvdoE0w5DW4hwChntVLnSt/Gn2\njXH8410JrlDG3X7qvPmIYxP0N3mlsrqDlJmBgJ2bPeKqggOvjEsBs4f3G4+ZOVS2\nQQP15+TnEK2HNhZPsfR4D570I7qN/1zuqBt3OPEvrM+gAC50XL+/cx7NWIK55Iac\nbvkz7zqSBKNM7Vz6BY1GHEhBK+FNn0Lz/rt3PYXW0QdLdwxXuodblMnOV8/I/Ln2\nGKI8Ll0eCTylMVhe+AuPjyoId+Ma8g==\n=oMfX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlxdRrsACgkQcD8b7W0z\nrh4ijwf/f+E9OZpNDV8onp7obk6jwPylc5gLf5Rde16krBe5Ek/yfhNnB5nGyakU\nYVN6nDdkT1sYzVWNLt62edKJ8Vlc8ynsY696KNzvdoE0w5DW4hwChntVLnSt/Gn2\njXH8410JrlDG3X7qvPmIYxP0N3mlsrqDlJmBgJ2bPeKqggOvjEsBs4f3G4+ZOVS2\nQQP15+TnEK2HNhZPsfR4D570I7qN/1zuqBt3OPEvrM+gAC50XL+/cx7NWIK55Iac\nbvkz7zqSBKNM7Vz6BY1GHEhBK+FNn0Lz/rt3PYXW0QdLdwxXuodblMnOV8/I/Ln2\nGKI8Ll0eCTylMVhe+AuPjyoId+Ma8g==\n=oMfX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 637151d8966558d36d7ed37f0f97e37141c300d7\ntype commit\ntag 6.1.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1549616803 +0100\n\nVersion 6.1.0\n\n### Bug fixes\n\nFix scope checking when redefining a `var` as a lexical binding.\n\n### New features\n\nSplit up `parseSubscripts` to use an internal `parseSubscript` method to make it easier to extend with plugins.\n"
+  }
+}

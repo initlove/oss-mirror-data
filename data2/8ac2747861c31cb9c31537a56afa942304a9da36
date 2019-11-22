@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDk0MTg2Nzo4YWMyNzQ3ODYxYzMxY2I5YzMxNTM3YTU2YWZhOTQyMzA0YTlkYTM2",
+  "sha": "8ac2747861c31cb9c31537a56afa942304a9da36",
+  "url": "https://api.github.com/repos/Netflix/governator/git/tags/8ac2747861c31cb9c31537a56afa942304a9da36",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-09-10T04:27:04Z"
+  },
+  "object": {
+    "sha": "5ef4ab7dbd69840a382c21428b654a7cb6bed789",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/governator/git/commits/5ef4ab7dbd69840a382c21428b654a7cb6bed789"
+  },
+  "tag": "v1.10.0",
+  "message": "Release of 1.10.0\n\n- 5ef4ab7dbd69840a382c21428b654a7cb6bed789: Merge pull request #239 from elandau/nextgen\n- 17c31e4a9cb610f191c44becc3144661d3c7661b: Merge branch 'master' of https://github.com/Netflix/governator into nextgen\n- e40b2e5cda84263c5be2a036ce48daebff6dffeb: Greatly simplify Governator by getting rid of bootstrap modules Get rid of @Bootstrap annotation OverrideModule annotation no longer includes a module name to override since all override modules get added to the same override layer regardless of module being overridden\n- c8d8ed85ca2a59470ba80e4444c23a94e4ef8f01: Simplify GovernatorConfiguration to include the core modules so that it can now track the entire injector configuration\n- 562b4548817398cf1e43dc20b65392ed80ea4eaf: Merge pull request #237 from bondj/duplicatemessages\n- b68f53a6f7d372ab1a23a20ea99f233a3bbbde55: Remove duplicate message\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

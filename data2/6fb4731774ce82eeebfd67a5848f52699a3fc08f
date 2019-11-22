@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDI5MTM4Nzo2ZmI0NzMxNzc0Y2U4MmVlZWJmZDY3YTU4NDhmNTI2OTlhM2ZjMDhm",
+  "sha": "6fb4731774ce82eeebfd67a5848f52699a3fc08f",
+  "url": "https://api.github.com/repos/Netflix/archaius/git/tags/6fb4731774ce82eeebfd67a5848f52699a3fc08f",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-04-15T19:33:40Z"
+  },
+  "object": {
+    "sha": "fa46f642516bd6974ca409557dcc5030eabe5ad3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/archaius/git/commits/fa46f642516bd6974ca409557dcc5030eabe5ad3"
+  },
+  "tag": "v2.0.5",
+  "message": "Release of 2.0.5\n\n- fa46f642516bd6974ca409557dcc5030eabe5ad3: Merge pull request #408 from twicksell/visibilityChanges\n- f73c42ddb264e47ebf1cd387e70dc5f049a7299c: make MethodInvoker interface public open visibility to methods on DefaultPropertyFactory for extension expose Config object backing ConfigProxyFactory\n- 25a18b838dda8f623429038d67ff2bf49d815d81: Merge pull request #404 from qiangdavidliu/origin/2.x\n- c69e0c10fe29f982cba7bcb0feaa87b6f0fe16ff: nebula 2.2.10 to speed up builds\n- 183f52f471184d135f2489939e47a0d4504daf41: Merge pull request #400 from howardyuan/2.x\n- f04dd936df39e4f25749bc96214ce6f01b62a48c: Further address code review comments and make the initial load always retry infinitely\n- f6e77568bcbcddc5b8d579b863e41247bba76ae7: Providing the syncInit parameter so we can change it using configuration setting\n- 42922b136f3de6d2a5dcffca6c258e0e42828850: finish merge from Netflix/2.x\n- 9411561289f7b4263776b60c57dd70ee24835fb2: Addressing code review comments. When syncInit is false, only retry limited amount of times\n- 0f165f6ea65d38017efc65cf11ecd9da8be5fc60: Enforce max number of retries when doing the initial dynamic configuration loading.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

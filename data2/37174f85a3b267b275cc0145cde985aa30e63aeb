@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODozNzE3NGY4NWEzYjI2N2IyNzVjYzAxNDVjZGU5ODVhYTMwZTYzYWVi",
+  "sha": "37174f85a3b267b275cc0145cde985aa30e63aeb",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/37174f85a3b267b275cc0145cde985aa30e63aeb",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-04-06T21:34:40Z"
+  },
+  "object": {
+    "sha": "750a72bb24b11947fba8de7144b1d9ba46b3d37b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/750a72bb24b11947fba8de7144b1d9ba46b3d37b"
+  },
+  "tag": "v1.4.4",
+  "message": "Release of 1.4.4\n\n- 750a72bb24b11947fba8de7144b1d9ba46b3d37b: Merge pull request #743 from mattrjacobs/update-timeout-javadoc\n- 51063b92c8e7da26a63010630b4fadc6cea77456: Also update the HystrixCommandProperties.Setter\n- bbd7d22eeab500c4a0f8b0eb5098a64fcd5f515e: Add @deprecated Javadoc to getExecutionIsolationThreadTimeoutInMilliseconds()\n- 263bb0a768b8212ba43ad4cb0b2ecaa7d2abd24f: Merge pull request #742 from mattrjacobs/add-timeout-disable-flag\n- bf374c999cf0b34f9dc9089e545515c9ee92d96d: Add ability to disable timeout per-command and wire it in\n- 8e0bcf63bba7869a4e3e217882a92cf464800221: Merge pull request #741 from mattrjacobs/error-handling-bugfix\n- e8cd0f81422c6a84e2d464971d811f2f5d347c8c: Properly check for all unrecoverable types of errors\n- 8ac35b99acad43534c0d18e3a58da9ec5fe43615: Merge pull request #735 from dmgcodevil/master\n- a22afb22bae6a6c0b0967a0dcbbbc7fdda5e3aa5: Merge pull request #739 from mattrjacobs/some-errors-should-not-trigger-fallback\n- 302fa7068f3de64c68ee1585763d752a699bbf90: Treat some java.lang.Errors as unrecoverable and immediately propagate\n- 5c001760e18e348aae4e5d52fa35453b21f57ecf: Merge pull request #738 from mattrjacobs/filter-semaphore-only-pools-from-metrics-stream\n- e24e5623846ecc24984c1271b81ae41aa63e38bb: Filter out thread pools from metrics stream that have had no commands executed on them\n- eb4002e1f72bc249c37373c3cfd00686f9227b55: Merge branch 'master' of github.com:dmgcodevil/Hystrix\n- a614fdf9e2f3ad4e178db8253cd6a79be10bb417: #689: revert to java 6\n- 3f1b9078e07dc06ddf4c3a961570b8f6b88bbd24: Update README.md\n- eecfdc059a0378b637fe3b6adae39ef86b121965: Update README.md\n- e44494f6b38845fca4833dcfc79a3d819bcc21a3: Update README.md\n- ba90b6c30a6970a589c2312b45f0f69939dc3287: #689: code style\n- bf9da0e1b954468e059ccca11971a52c0e7ce480: #733: added tests for async generic method\n- 533661cad121cae845e7cc8d8fb1d3f4ce852722: #689: fixed tests\n- 45df1580291c16cdb97e87bcbb8fcf5157f55256: #689: removed unnecessary functionality\n- d2fb9503a68c8a3ec0237ec06b8e9838d496d909: Merge pull request #732 from mattrjacobs/comment-out-flaky-fallback-rejection-test\n- e66f5155d17abfa2781dfa326676ca1812761e43: Fixing unit test comment-out\n- 4b63ed4a65d417d0ba8b77c45a10e060c99e372d: COmment out flaky fallback rejection test\n- eb04f8c8ed048205563c27d8194008dd2248a9f3: Merge branch 'master' of https://github.com/Netflix/Hystrix\n- b190d600b9e0ba06726ad6a2f0f76eed2ab8084b: #689: BatchHystrixCommand has no sence and doesn't collapse requests\n- 4d0432e6f711a6ed93a6231378dc064025a7e449: Update README.md\n- f76c177f84725c0bab17dc6bd0a05abcf83d9f43: Update CHANGELOG.md\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

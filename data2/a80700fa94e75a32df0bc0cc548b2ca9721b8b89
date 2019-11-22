@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YTgwNzAwZmE5NGU3NWEzMmRmMGJjMGNjNTQ4YjJjYTk3MjFiOGI4OQ==",
+  "sha": "a80700fa94e75a32df0bc0cc548b2ca9721b8b89",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/a80700fa94e75a32df0bc0cc548b2ca9721b8b89",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-10-18T21:50:10Z"
+  },
+  "object": {
+    "sha": "6d391bbbe18217ce20c15c3da2bad71ef836922c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/6d391bbbe18217ce20c15c3da2bad71ef836922c"
+  },
+  "tag": "v0.8.26",
+  "message": "2013.10.13, Version 0.8.26 (maintenance)\n\n* v8: Upgrade to 3.11.10.26\n\n* crypto: clear openssl error stack when handled (Ben Noordhuis)\n\n* crypto: clear errors from verify failure (Timothy J Fontaine)\n\n* crypto: fix memory leak in LoadPKCS12 (Fedor Indutny)\n\n* http: provide backpressure for pipeline flood (isaacs)\n\n* http_parser: expose pause/resume method for parser (Timothy J Fontaine)\n\n* readline: pause stdin before turning off terminal raw mode (Daniel Chatfield)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlJhrRIACgkQfTP/nQJGQG3KWQCgoQYtuATId/OuTJN3aFteJHpM\nl0QAoN3lXt1zvYC/imd3I6uiJ9iqsFFZ\n=+UNK\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlJhrRIACgkQfTP/nQJGQG3KWQCgoQYtuATId/OuTJN3aFteJHpM\nl0QAoN3lXt1zvYC/imd3I6uiJ9iqsFFZ\n=+UNK\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6d391bbbe18217ce20c15c3da2bad71ef836922c\ntype commit\ntag v0.8.26\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1382133010 -0700\n\n2013.10.13, Version 0.8.26 (maintenance)\n\n* v8: Upgrade to 3.11.10.26\n\n* crypto: clear openssl error stack when handled (Ben Noordhuis)\n\n* crypto: clear errors from verify failure (Timothy J Fontaine)\n\n* crypto: fix memory leak in LoadPKCS12 (Fedor Indutny)\n\n* http: provide backpressure for pipeline flood (isaacs)\n\n* http_parser: expose pause/resume method for parser (Timothy J Fontaine)\n\n* readline: pause stdin before turning off terminal raw mode (Daniel Chatfield)\n"
+  }
+}

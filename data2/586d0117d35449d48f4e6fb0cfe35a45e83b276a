@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NTg2ZDAxMTdkMzU0NDlkNDhmNGU2ZmIwY2ZlMzVhNDVlODNiMjc2YQ==",
+  "sha": "586d0117d35449d48f4e6fb0cfe35a45e83b276a",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/586d0117d35449d48f4e6fb0cfe35a45e83b276a",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-04-11T18:00:57Z"
+  },
+  "object": {
+    "sha": "9712aa9f76073c30850b20a188b1ed12ffb74d17",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/9712aa9f76073c30850b20a188b1ed12ffb74d17"
+  },
+  "tag": "v0.10.4",
+  "message": "2013.04.11, Version 0.10.4 (Stable)\n\n* uv: Upgrade to 0.10.4\n\n* npm: Upgrade to 1.2.18\n\n* v8: Avoid excessive memory growth in JSON.parse (Fedor Indutny)\n\n* child_process, cluster: fix O(n*m) scan of cmd string (Ben Noordhuis)\n\n* net: fix socket.bytesWritten Buffers support (Fedor Indutny)\n\n* buffer: fix offset checks (Łukasz Walukiewicz)\n\n* stream: call write cb before finish event (isaacs)\n\n* http: Support write(data, 'hex') (isaacs)\n\n* crypto: dh secret should be left-padded (Fedor Indutny)\n\n* process: expose NODE_MODULE_VERSION in process.versions (Rod Vagg)\n\n* crypto: fix constructor call in crypto streams (Andreas Madsen)\n\n* net: account for encoding in .byteLength (Fedor Indutny)\n\n* net: fix buffer iteration in bytesWritten (Fedor Indutny)\n\n* crypto: zero is not an error if writing 0 bytes (Fedor Indutny)\n\n* tls: Re-enable check of CN-ID in cert verification (Tobias Müllerleile)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRZvpZAAoJELCniwpsSBz21igH/iFjOBDlfIDFrOCRgjxZ6XQV\nSZ1Sh2jE/QpuuMpvQlNqNe8RksFkn8rw+7QG+upROn8810GZXHiPEz7rU0vCuF9F\ngSQa9v8LHGfmKJOjMw53ATlTdSdfC1SEIH/Ibl9l+gDnvV9YB29J+hsRhdES8yxi\ng6mbybukBTJ4lsWtYrnrrnsd/cDzRuEOOxSO9rDvNF8FqWjuZjfWU3wSAPr03rvP\nLYaFm8vD+arHiJg2ahsVm+DIcev8t2EYikhBJ3G2zS8HQLkDuQntF3q7R9/48qmJ\newv+6RjYQoun1rITD6rucXgDadRb3KzhLsAdwsSvSBUHtEmK4Rh5hS7/4erGmSY=\n=csxW\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRZvpZAAoJELCniwpsSBz21igH/iFjOBDlfIDFrOCRgjxZ6XQV\nSZ1Sh2jE/QpuuMpvQlNqNe8RksFkn8rw+7QG+upROn8810GZXHiPEz7rU0vCuF9F\ngSQa9v8LHGfmKJOjMw53ATlTdSdfC1SEIH/Ibl9l+gDnvV9YB29J+hsRhdES8yxi\ng6mbybukBTJ4lsWtYrnrrnsd/cDzRuEOOxSO9rDvNF8FqWjuZjfWU3wSAPr03rvP\nLYaFm8vD+arHiJg2ahsVm+DIcev8t2EYikhBJ3G2zS8HQLkDuQntF3q7R9/48qmJ\newv+6RjYQoun1rITD6rucXgDadRb3KzhLsAdwsSvSBUHtEmK4Rh5hS7/4erGmSY=\n=csxW\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9712aa9f76073c30850b20a188b1ed12ffb74d17\ntype commit\ntag v0.10.4\ntagger isaacs <i@izs.me> 1365703257 -0700\n\n2013.04.11, Version 0.10.4 (Stable)\n\n* uv: Upgrade to 0.10.4\n\n* npm: Upgrade to 1.2.18\n\n* v8: Avoid excessive memory growth in JSON.parse (Fedor Indutny)\n\n* child_process, cluster: fix O(n*m) scan of cmd string (Ben Noordhuis)\n\n* net: fix socket.bytesWritten Buffers support (Fedor Indutny)\n\n* buffer: fix offset checks (Łukasz Walukiewicz)\n\n* stream: call write cb before finish event (isaacs)\n\n* http: Support write(data, 'hex') (isaacs)\n\n* crypto: dh secret should be left-padded (Fedor Indutny)\n\n* process: expose NODE_MODULE_VERSION in process.versions (Rod Vagg)\n\n* crypto: fix constructor call in crypto streams (Andreas Madsen)\n\n* net: account for encoding in .byteLength (Fedor Indutny)\n\n* net: fix buffer iteration in bytesWritten (Fedor Indutny)\n\n* crypto: zero is not an error if writing 0 bytes (Fedor Indutny)\n\n* tls: Re-enable check of CN-ID in cert verification (Tobias Müllerleile)\n"
+  }
+}

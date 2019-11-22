@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ODQzNmRmYzg2YjcxYmExNWE2MjIxNjgyZTgwOTA0MGY1ZTY1YzJlMw==",
+  "sha": "8436dfc86b71ba15a6221682e809040f5e65c2e3",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/8436dfc86b71ba15a6221682e809040f5e65c2e3",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-05-21T09:56:58Z"
+  },
+  "object": {
+    "sha": "9514a4d5476225e8c8310ce5acae2857033bcaaa",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/9514a4d5476225e8c8310ce5acae2857033bcaaa"
+  },
+  "tag": "v0.1.96",
+  "message": "2010.05.21, Version 0.1.96\n\n* Thrown errors in http and socket call back get bubbled up.\n\n* Add fs.fsync (Andrew Johnston)\n\n* Bugfix: signal unregistering (Jonas Pfenniger)\n\n* Added better error messages for async and sync fs calls with paths\n  (TJ Holowaychuk)\n\n* Support arrays and strings in buffer constructor.\n  (Felix Geisendörfer)\n\n* Fix errno reporting in DNS exceptions.\n\n* Support buffers in fs.WriteStream.write.\n\n* Bugfix: Safely decode a utf8 streams that are broken on a multbyte\n  character (http and net). (Felix Geisendörfer)\n\n* Make Buffer's C++ constructor public.\n\n* Deprecate sys.p()\n\n* FIX path.dirname('/tmp') => '/'. (Jonathan Rentzsch)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

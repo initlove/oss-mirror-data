@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YWZlYjZlMTM3MzcyZTk3ZTI3OGE5ZWNiZjBjOTc3YTA1MTNkMDMzNA==",
+  "sha": "afeb6e137372e97e278a9ecbf0c977a0513d0334",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/afeb6e137372e97e278a9ecbf0c977a0513d0334",
+  "tagger": {
+    "name": "Julien Gilli",
+    "email": "julien.gilli@joyent.com",
+    "date": "2015-01-30T17:05:15Z"
+  },
+  "object": {
+    "sha": "8e42e5a0731040075e14cec087eea86729f2dc53",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/8e42e5a0731040075e14cec087eea86729f2dc53"
+  },
+  "tag": "v0.11.16",
+  "message": "2015.01.29, Version 0.11.16 (Unstable)\n\n* openssl: Upgrade to 1.0.1l\n\n* npm: Upgrade to 2.3.0\n\n* url: revert support of `path` for url.format\" (Julien Gilli)\n\n* assert: use util.inspect() to create error messages (cjihrig)\n\n* net: throw on invalid socket timeouts (cjihrig)\n\n* url: fix parsing of ssh urls (Evan Lucas)\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJUy7nLAAoJEFCjBR+IjGKNqpMP+wSNPnq1mNqdr47MGrhdiNkc\n/xsSUz+NFI1E26m4CiKVWLcpgvajUBfqb9lngM5JqSBbLpb4CEACDao/3SRApmC0\nhuVAylHLc/4ruAvztEBrcK+jDamjtxyNOdDx7T9LRzhX3oS6+drGHT8ajzeQVxdM\njPtNfLTlDfkWKCBojtW1rMOKGogOGiYiMjMw2MipcW+GSoip1AV4akXZGgeImcyC\nWQ8yEeIcRpFLepEXFTnfufLC/UfQBBQSAq0yL5lZjriRgf19pUguKZELcERmyZzq\nc30W+C8BOuCrDih/T7jJjKJfV+HWiXnCTQfeAALmZRXlZHa4uCXULcJ/ew18YfjV\nxS1PTgOY93+TL/cVqwofIItCOTeVY+DyTarBueUhrTiRIjrHugX+YAsogfXfprpD\nT7wMFZ5sQLVtXqxAz1Ym6uq44nRmYMKvHMPUZdwXKowF2x3q5MSYZwIE1QpDDX1F\nFD6gHq+Ne720RPfDtlL8JNB5Ex9ewhnhgxA5cP92CxX3T5cXRVs9c7C29N3kFkSw\n3KXY2qfaOFxK/JTQS3WesB8TF5MxHT/CTCRgmmJzDXLftRkAc7/oDmIXE4ySGcii\nhqOeZqrKTzdZDjH0SQNL297+qCypOmRUbHUb6V4tOOmM2yCwJHNcn7xLDm1BFOwz\n4gp+86AxHmwvNsqH9Mj6\n=tcZ2\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJUy7nLAAoJEFCjBR+IjGKNqpMP+wSNPnq1mNqdr47MGrhdiNkc\n/xsSUz+NFI1E26m4CiKVWLcpgvajUBfqb9lngM5JqSBbLpb4CEACDao/3SRApmC0\nhuVAylHLc/4ruAvztEBrcK+jDamjtxyNOdDx7T9LRzhX3oS6+drGHT8ajzeQVxdM\njPtNfLTlDfkWKCBojtW1rMOKGogOGiYiMjMw2MipcW+GSoip1AV4akXZGgeImcyC\nWQ8yEeIcRpFLepEXFTnfufLC/UfQBBQSAq0yL5lZjriRgf19pUguKZELcERmyZzq\nc30W+C8BOuCrDih/T7jJjKJfV+HWiXnCTQfeAALmZRXlZHa4uCXULcJ/ew18YfjV\nxS1PTgOY93+TL/cVqwofIItCOTeVY+DyTarBueUhrTiRIjrHugX+YAsogfXfprpD\nT7wMFZ5sQLVtXqxAz1Ym6uq44nRmYMKvHMPUZdwXKowF2x3q5MSYZwIE1QpDDX1F\nFD6gHq+Ne720RPfDtlL8JNB5Ex9ewhnhgxA5cP92CxX3T5cXRVs9c7C29N3kFkSw\n3KXY2qfaOFxK/JTQS3WesB8TF5MxHT/CTCRgmmJzDXLftRkAc7/oDmIXE4ySGcii\nhqOeZqrKTzdZDjH0SQNL297+qCypOmRUbHUb6V4tOOmM2yCwJHNcn7xLDm1BFOwz\n4gp+86AxHmwvNsqH9Mj6\n=tcZ2\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8e42e5a0731040075e14cec087eea86729f2dc53\ntype commit\ntag v0.11.16\ntagger Julien Gilli <julien.gilli@joyent.com> 1422637515 -0800\n\n2015.01.29, Version 0.11.16 (Unstable)\n\n* openssl: Upgrade to 1.0.1l\n\n* npm: Upgrade to 2.3.0\n\n* url: revert support of `path` for url.format\" (Julien Gilli)\n\n* assert: use util.inspect() to create error messages (cjihrig)\n\n* net: throw on invalid socket timeouts (cjihrig)\n\n* url: fix parsing of ssh urls (Evan Lucas)\n"
+  }
+}

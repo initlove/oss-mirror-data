@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDk0MTg2Nzo2NWI4MDg1ODNjYWVjNThkZWI5YmRkMDIyOTEwMWU5NTU2YWM4OWFj",
+  "sha": "65b808583caec58deb9bdd0229101e9556ac89ac",
+  "url": "https://api.github.com/repos/Netflix/governator/git/tags/65b808583caec58deb9bdd0229101e9556ac89ac",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-10-01T17:59:23Z"
+  },
+  "object": {
+    "sha": "4319e749adfe4a20bd7e3a2db3a47269d2ab0a8b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/governator/git/commits/4319e749adfe4a20bd7e3a2db3a47269d2ab0a8b"
+  },
+  "tag": "v1.10.3",
+  "message": "Release of 1.10.3\n\n- 4319e749adfe4a20bd7e3a2db3a47269d2ab0a8b: Merge pull request #247 from elandau/nextgen\n- 2a89e646298014b6b8d26a3c3d11c5120c46f43d: Fail when duplicate items found during class path scanning\n- 789d559df76fea8410a5fb6ddc32897be0775e0d: Merge pull request #246 from elandau/nextgen\n- aaef873f25ff5f69843e58f4512fdc40a1b45284: Fix use of slf4j api in ClasspathScanner\n- f0027758c96a19e39174ef540c02d637811b3361: Merge pull request #245 from elandau/nextgen\n- efc7165b3a13da4962d6760f6cfe70f3bf9b6137: Log class path scanning errors instead of failing.\n- 8d992c0670ceea4feaa8a46bddda74ac54b9c04a: Merge pull request #243 from elandau/nextgen\n- 276d48d08054d7c87a034f2b241f05f7829192f9: servlet-api should be a provided dependency\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODpmMWNkMjYzN2UwNzM1YjMyMjJmYTE2MDgzNjBjZDQwOTdiN2YyNmY4",
+  "sha": "f1cd2637e0735b3222fa1608360cd4097b7f26f8",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/f1cd2637e0735b3222fa1608360cd4097b7f26f8",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-09-10T03:38:48Z"
+  },
+  "object": {
+    "sha": "0e184029fffb2bb3815f923dc67dcafd28ca0ce4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/0e184029fffb2bb3815f923dc67dcafd28ca0ce4"
+  },
+  "tag": "v1.4.15",
+  "message": "Release of 1.4.15\n\n- 0e184029fffb2bb3815f923dc67dcafd28ca0ce4: Merge pull request #890 from mattrjacobs/multiple-responses-per-collapser-arg\n- b21f8ca470568b7c49d4be390f86301c0578a4b6: Merge pull request #892 from mattrjacobs/cache-setter-in-multithreaded-jmh-test\n- 32c2a2dded106ee54ad5239fec5af1876ed338cc: Cache HystrixCommand.Setter over benchmark duration in MultiThreadedMetricsTest\n- 465dfabd4f49622b03056d31945a41d751efb993: Merge pull request #891 from mattrjacobs/add-request-context-to-jmh-command-tests\n- a3ff151209097afc9e9a4834562873e38e702e73: Added requestContext to all JMH tests, so that command flow uses (and benchmarks) them\n- f88bb263476768be513d605bee073de79a4a7654: Modify ObservableCollapser JMH test to allow multiple response per argument\n- 9726e5e0a600073b549b6bd44dcab794779cf1ad: Allowing Collapsers to return multiple values per request argument.  Addresses #865\n- 970348b7e435092df6da8770a7edd1e7e9473c75: Merge pull request #889 from mattrjacobs/request-batch-unsafe-subscribe\n- 2684332d9221a7a7ff963c51488ed51c6093c179: RequestBatch can use unsafeSubscribe with an empty Susbcriber instead of paying cost of subscribe()\n- 317eaa9aa8247d5523e6cdcb35c6110a62729500: Merge pull request #887 from mattrjacobs/single-collapser-request-cache-lookup\n- 7bbee326878b7139d3717764b25101f56118067b: In HystrixCollapser, only check if request cache is enabled once\n- ace52c6285fdecef4f124bed154fe334d5e70ab1: Merge pull request #885 from mattrjacobs/single-lookup-of-request-cache\n- 34652b9ae3a730dfc7aa53f931c5f69a296f5df1: Only lookup if the request cache is enabled once per command invocation * This helps performance and eliminates chance that start/end of command see this value differently\n- c6ff67f8f173406f3924501aeb63d400a9c9b62b: Merge pull request #883 from mattrjacobs/add-jmh-collapser-benchmarks\n- c4d6fd33146be38b358c7443df34dfbeb15bce0d: Added JMH test for HystrixObservableCollapser\n- 82c689acab8c895de1e6a68fd519a708412b9fdc: Add JMH test for HystrixCollapser\n- 0e92136728ce9f20f2e40fd09ff0c0e128d6411d: Merge pull request #876 from mattrjacobs/fix-racy-request-log\n- 81cdd4512d0e08d8b52e9d8b7f1b49d1707d08c0: Fixed #847 by adding BAD_REQUEST to the HystrixRequestLog\n- a98f3de0543c40aaaabb83c396c8b44e4b529f46: Merge pull request #861 from mattrjacobs/1.4.x\n- dbc431911790a677687f750b960b0b0bdd64f645: apply osgi gradle plugin so the we can use javanica in a OSGi Enviroment\n- 0d899c01297b3ebfba6d1da6913c43db9253ffbf: Merge pull request #856 from mattrjacobs/add-missing-licenses\n- 50d2a37528d44fba03d93e8e95b647716554e6ab: Added missing license headers\n- 30a662916345e1c54d3e799b8ea0bd0e0d398dd0: Merge pull request #855 from mattrjacobs/constructor-allocation\n- 265388d9d9466c62d1cdc01fd5b30e4d15ac7223: Saving an allocation when using the convenience constructors for HystrixCommand\n- 297c86820f4373e5c0560b235cdb677cc147c293: Updated jmh config to version 1.10.3 and to include GC measurements\n- 56cb89557715fa4e674216570b7381f788168899: Merge pull request #853 from mattrjacobs/travis-container\n- 5b7bd0ac93dd5225727c18fdf6611fc5992f0e16: Merge pull request #848 from mattrjacobs/request-log-race\n- 41898f6175b62455948a709960da669994f8cddc: Added Travis config so it can run in a container\n- 052ef9ff791bb6b5f50f301287abb3fc7cbb5f94: Update CHANGELOG.md\n- 580a1c959fed24f1deedfc7ed379e9df6a1cca19: Better test for Request Log race\n- 3d2fc218eb8e78bfa627e2df916ad8370e850a11: Unit test demonstrating racy HystrixRequestLog\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDk0MTg2Nzo4YmI3ODBjNGJhYWMzZDNjMTFlNDRlOWJkN2ZlOWE0ZTkzNWE3MmJh",
+  "sha": "8bb780c4baac3d3c11e44e9bd7fe9a4e935a72ba",
+  "url": "https://api.github.com/repos/Netflix/governator/git/tags/8bb780c4baac3d3c11e44e9bd7fe9a4e935a72ba",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-07-10T03:10:39Z"
+  },
+  "object": {
+    "sha": "f902830329c1a3758d3ee64df5a60ee3b84571e9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/governator/git/commits/f902830329c1a3758d3ee64df5a60ee3b84571e9"
+  },
+  "tag": "v1.7.6-rc.5",
+  "message": "Release of 1.7.6-rc.5\n\n- f902830329c1a3758d3ee64df5a60ee3b84571e9: Merge pull request #221 from elandau/nextgen\n- 0937248e854c7402f7adee4bbf30f4a021b1dd46: Fix Jetty shutdown on injector creation failure Log provision report on injector creation failure\n- bb3f9adffbd225c3de8c24654198af8d0598aa06: Merge pull request #220 from elandau/nextgen\n- 184dbd625ea67080a495bad9668ad7493be46f3e: Removed files\n- c632bd23cd7fbc24276299c288fab9343c49cb68: Simplify all AutoModuleBuilder functionality and merge with the Governator class.  Introduce the concept of GovernatorConfiguration for dealing with the bootstrap aspects of auto module loading.\n- cb6e46bc3c0c1da63b236115d791486acc5d90aa: Merge pull request #219 from elandau/nextgen\n- db7f916409944a65ebbf34ae63637674bc332803: Create separate class path scanner for conditional modules only\n- 86e30afac2e72817001b9c9eac5e6d2cd7483231: Make all LifecycleManager methods public.  Fix double notification of LifecycleProvisionListener.  Simplify dependencies.\n- 9f4cbce7b54eabd945c4a6ed2fb206f49c1069cc: Merge pull request #218 from elandau/nextgen\n- 8ddb699c006d7f4e07db3e4dc2ebb21074de03f7: Remove call to System.exit which breaks unit tests\n- f195483ed256389cdd76df16dc5e6ed68a1b687c: Merge pull request #217 from elandau/nextgen\n- 5c1e09bf0d2d92c24da0793785b4be36dd297640: Moved files\n- 806de48fc97fb857bce75265e6f93a446205fc50: Code cleanup.  Documentation. Fix unit test\n- 8398ab958c253dd8df89af003aeee7bdd198fa76: Avoid static initialization whenever Class.forName is called\n- 7df38aa9b84e400f5f2cac67115fd1f5f60328e3: Utility class to create various ModuelListProviders\n- 70869c1df7118b318c791cfda3aeb89c728eb390: ModuleProvider using Guava's ClassPath scanner for module discovery to be used with AutoModuleBuilder\n- b5b9a84b4811a97f41658abc65d67bcfde1741ed: Disable auto loading modules by package or name using the property names governator.module.disabled.<classname>=true\n- eb2e0cf1c8179b65ea727e2b25fb6f6d62be8eae: Further simplification of bootstrap modules in AutoModuleBuilder to specifically include only modules that have the @Bootstrap annotation\n- b222b7daa83a4aebe3a7bef6c8e1df0e46005de8: Simplify the AutoModuleBuilder bootstrap phase\n- ff900c55d853a5041f4b8b06a5597b8a6db4e2fc: Merge pull request #216 from elandau/nextgen\n- e51823d5d07f291963b383b29eef6ce9611312e1: Fix bugs with mismatched conditional annotations Add support for matchAll to ConditionOnProfile Add support for conditional modules based on bindings\n- b0aa975b8b245717385321707e08f1fbe2ef82d6: LifecycleListeners are now lazily added to LifecycleManager when they are instantiated instead of binding as a Multibinder.  Listener's need to be registered directly.  Governator will auto-add any LifecycleListener that is added.\n- 75b019cd2b1edf33bf29c70440f12039abd337d9: Create new governator-core subproject to hold all the new governator API without any of the legacy code/dependencies\n- d8157e349b7f7455f20bed80eede9a15f25e8533: Fix bootstrap module processing in AutoModuleBuilder to not trigger any access to the main module before the bootstrap injector has been created to prevent unwanted static initialization blocks from being executed. Filter out any ServiceLoader loaded module that does not target a profile Add contains for : ConditionalOnBinding, ConditionalOnClass, ConditionalOnEnvironment, ConditionalOnMissingBinding, ConditionOnMissingClass, ConditionalOnMissingModule, ConditionOnModule, ConditionOnSystem\n- 73c872c989be37f9fb5f66c2c8b6a4afeacbbca1: Add conditions to check if running in Junit, TestNG or MacOS\n- 35bf8563d34b43e7c670b79d9b7e3201c58f3978: First pass at profile and condition based automatic module loading\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

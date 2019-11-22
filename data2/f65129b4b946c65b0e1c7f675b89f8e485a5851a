@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZjY1MTI5YjRiOTQ2YzY1YjBlMWM3ZjY3NWI4OWY4ZTQ4NWE1ODUxYQ==",
+  "sha": "f65129b4b946c65b0e1c7f675b89f8e485a5851a",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/f65129b4b946c65b0e1c7f675b89f8e485a5851a",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-04-30T20:10:04Z"
+  },
+  "object": {
+    "sha": "a1d193963ddc80a27da5da01b59751e14e33d1d6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/a1d193963ddc80a27da5da01b59751e14e33d1d6"
+  },
+  "tag": "v0.6.16",
+  "message": "2012.04.30 Version 0.6.16 (stable)\n\n* Upgrade V8 to 3.6.6.25\n\n* Upgrade npm to 1.1.19\n\n* Windows: add mappings for UV_ENOENT (Bert Belder)\n\n* linux: add IN_MOVE_SELF to inotify event mask (Ben Noordhuis)\n\n* unix: call pipe handle connection cb on accept() error (Ben Noordhuis)\n\n* unix: handle EWOULDBLOCK (Ben Noordhuis)\n\n* map EWOULDBLOCK to UV_EAGAIN (Ben Noordhuis)\n\n* Map ENOMEM to UV_ENOMEM (isaacs)\n\n* Child process: support the `gid` and `uid` options (Bert Belder)\n\n* test: cluster: add worker death event test (Ben Noordhuis)\n\n* typo in node_http_parser (isaacs)\n\n* http_parser: Eat CRLF between requests, even on connection:close. (Ben Noordhuis)\n\n* don't check return value of unsetenv (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPnvGcAAoJELCniwpsSBz2HEYH/1UhEaDa3JY3vbLDQS6AedbP\ng8vul+b9QNjYH03NPB727GCUIev9/5gwiAZEZJDeFiLXWByiLPg3yl5PEbrzjsty\nJWs38pzAq4JRZY6oIP0IY+5sriZO1fwSJaEGhdhyVYbVR+zvfE7jjSUMcYSbPefo\nZ0eO1b9EUugUFeHXl0jucIMHmkLm/Uh7OPub2KClI5pGXqz8N+XZMpaogCGSdiGu\n5xBGxVWo0w8+ZGbTZWwkNyIZG7BJtrHHhlpHEi6uF/E7IQ66QrOvbnhZrK8x5dbN\nmv1XbV5KnCGfLsFl0MnbgEl7XOa5fIDLp6TaXryfg2rfKAGkYpL7dynhdSwxEbw=\n=x2Jm\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPnvGcAAoJELCniwpsSBz2HEYH/1UhEaDa3JY3vbLDQS6AedbP\ng8vul+b9QNjYH03NPB727GCUIev9/5gwiAZEZJDeFiLXWByiLPg3yl5PEbrzjsty\nJWs38pzAq4JRZY6oIP0IY+5sriZO1fwSJaEGhdhyVYbVR+zvfE7jjSUMcYSbPefo\nZ0eO1b9EUugUFeHXl0jucIMHmkLm/Uh7OPub2KClI5pGXqz8N+XZMpaogCGSdiGu\n5xBGxVWo0w8+ZGbTZWwkNyIZG7BJtrHHhlpHEi6uF/E7IQ66QrOvbnhZrK8x5dbN\nmv1XbV5KnCGfLsFl0MnbgEl7XOa5fIDLp6TaXryfg2rfKAGkYpL7dynhdSwxEbw=\n=x2Jm\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a1d193963ddc80a27da5da01b59751e14e33d1d6\ntype commit\ntag v0.6.16\ntagger isaacs <i@izs.me> 1335816604 -0700\n\n2012.04.30 Version 0.6.16 (stable)\n\n* Upgrade V8 to 3.6.6.25\n\n* Upgrade npm to 1.1.19\n\n* Windows: add mappings for UV_ENOENT (Bert Belder)\n\n* linux: add IN_MOVE_SELF to inotify event mask (Ben Noordhuis)\n\n* unix: call pipe handle connection cb on accept() error (Ben Noordhuis)\n\n* unix: handle EWOULDBLOCK (Ben Noordhuis)\n\n* map EWOULDBLOCK to UV_EAGAIN (Ben Noordhuis)\n\n* Map ENOMEM to UV_ENOMEM (isaacs)\n\n* Child process: support the `gid` and `uid` options (Bert Belder)\n\n* test: cluster: add worker death event test (Ben Noordhuis)\n\n* typo in node_http_parser (isaacs)\n\n* http_parser: Eat CRLF between requests, even on connection:close. (Ben Noordhuis)\n\n* don't check return value of unsetenv (Ben Noordhuis)\n"
+  }
+}

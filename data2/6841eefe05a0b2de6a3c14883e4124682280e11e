@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzU5ODE6Njg0MWVlZmUwNWEwYjJkZTZhM2MxNDg4M2U0MTI0NjgyMjgwZTExZQ==",
+  "sha": "6841eefe05a0b2de6a3c14883e4124682280e11e",
+  "url": "https://api.github.com/repos/gpg/libassuan/git/tags/6841eefe05a0b2de6a3c14883e4124682280e11e",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2017-12-07T13:11:26Z"
+  },
+  "object": {
+    "sha": "ec92ef4ee3df1fdca7db19f691f64a2f96dcfc71",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libassuan/git/commits/ec92ef4ee3df1fdca7db19f691f64a2f96dcfc71"
+  },
+  "tag": "libassuan-2.5.0",
+  "message": "Now with new function to better cope with init order pecularities in GnuPG.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlopPf4ACgkQJJs50k8l\n47bBrAf+Pod+PKATsiSwrBpTQNC6YAyJSpwDIt8IClM1NH059oVRnoPG7l/6uwhC\nxZYgx73KynoDkh8RNE4rEzW11vcO/Q9TabLg4AukfEnfdhQ1TdxWnzL2g1O+71Rd\nUnoox42hEg/VdNKBUG/nsL5gXND2wecZoHUqsaYTuu16Rmn75EOuNucjNeWhBaCz\n5+XohIdAljXeGQnwkx2IZJx+bvd5oGpEgUhRzmCiofBpvooK807w42YqDG3nEENJ\nb7mLJaPHrmAF7niGMlWMsnxkfbv+VAc07z4MGjJt/oxLs7KgTweI6KSlLJRXoR3h\nZ1gde2lmaRYoxGZk0/mSLoWjRpUwfg==\n=dxD6\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlopPf4ACgkQJJs50k8l\n47bBrAf+Pod+PKATsiSwrBpTQNC6YAyJSpwDIt8IClM1NH059oVRnoPG7l/6uwhC\nxZYgx73KynoDkh8RNE4rEzW11vcO/Q9TabLg4AukfEnfdhQ1TdxWnzL2g1O+71Rd\nUnoox42hEg/VdNKBUG/nsL5gXND2wecZoHUqsaYTuu16Rmn75EOuNucjNeWhBaCz\n5+XohIdAljXeGQnwkx2IZJx+bvd5oGpEgUhRzmCiofBpvooK807w42YqDG3nEENJ\nb7mLJaPHrmAF7niGMlWMsnxkfbv+VAc07z4MGjJt/oxLs7KgTweI6KSlLJRXoR3h\nZ1gde2lmaRYoxGZk0/mSLoWjRpUwfg==\n=dxD6\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ec92ef4ee3df1fdca7db19f691f64a2f96dcfc71\ntype commit\ntag libassuan-2.5.0\ntagger Werner Koch <wk@gnupg.org> 1512652286 +0100\n\nNow with new function to better cope with init order pecularities in GnuPG.\n"
+  }
+}

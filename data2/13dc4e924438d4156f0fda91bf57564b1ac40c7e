@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OToxM2RjNGU5MjQ0MzhkNDE1NmYwZmRhOTFiZjU3NTY0YjFhYzQwYzdl",
+  "sha": "13dc4e924438d4156f0fda91bf57564b1ac40c7e",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/13dc4e924438d4156f0fda91bf57564b1ac40c7e",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-03-06T11:27:22Z"
+  },
+  "object": {
+    "sha": "28a0cf42bf57f6d949bce2f238921b5dab3ad3a3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/28a0cf42bf57f6d949bce2f238921b5dab3ad3a3"
+  },
+  "tag": "5.5.1",
+  "message": "Version 5.5.1\n\n### Bug fixes\n\nFix regression in walker causing property values in object patterns to\nbe walked as expressions.\n\nFix misleading error message for octal escapes in template strings.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlqeey4ACgkQcD8b7W0z\nrh6CTggA08L6Jgs/7EknQPs5X3NcqiZy6oq/AGP7Br7VvuWL82VxO3Z2h2tDMZ8P\nOBdyncu794CHvcEFlwoZmHyrM2ufZAAjTVLov0Tq1+PAI4sOf9veC7Ala4iA/fYJ\nA4DqI9t+uHk3M0yDA8Y8aVhD5kvOnWLQWxJTcI9pX/Y6XfkTEE2MAEUQgp8ChxiF\noOtxOT6UxEyE3LhXXgGjr+3dnMtADIHRNYAc8opGHBNVxmjFPQ0kYPjAtJ1+MMRW\nKvpZtp5sdvd3RNuEICcyrquHoO1qQXGSKM1o45dk8hBCz+XHVZUt2/j6mGCOcLIb\n9mfxxmVjPStUZWSYi/QE0vlZXP9TuA==\n=lwlG\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlqeey4ACgkQcD8b7W0z\nrh6CTggA08L6Jgs/7EknQPs5X3NcqiZy6oq/AGP7Br7VvuWL82VxO3Z2h2tDMZ8P\nOBdyncu794CHvcEFlwoZmHyrM2ufZAAjTVLov0Tq1+PAI4sOf9veC7Ala4iA/fYJ\nA4DqI9t+uHk3M0yDA8Y8aVhD5kvOnWLQWxJTcI9pX/Y6XfkTEE2MAEUQgp8ChxiF\noOtxOT6UxEyE3LhXXgGjr+3dnMtADIHRNYAc8opGHBNVxmjFPQ0kYPjAtJ1+MMRW\nKvpZtp5sdvd3RNuEICcyrquHoO1qQXGSKM1o45dk8hBCz+XHVZUt2/j6mGCOcLIb\n9mfxxmVjPStUZWSYi/QE0vlZXP9TuA==\n=lwlG\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 28a0cf42bf57f6d949bce2f238921b5dab3ad3a3\ntype commit\ntag 5.5.1\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1520335642 +0100\n\nVersion 5.5.1\n\n### Bug fixes\n\nFix regression in walker causing property values in object patterns to\nbe walked as expressions.\n\nFix misleading error message for octal escapes in template strings.\n"
+  }
+}

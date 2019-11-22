@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MTExMWMyYTcwOTUyNDkzOTgwMzRkY2JlMTJkZThhZWU3MjU1OTQwYg==",
+  "sha": "1111c2a7095249398034dcbe12de8aee7255940b",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/1111c2a7095249398034dcbe12de8aee7255940b",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-10-25T20:50:20Z"
+  },
+  "object": {
+    "sha": "b00527fcf05c3d9fb5d5d790f9472906a59fe218",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/b00527fcf05c3d9fb5d5d790f9472906a59fe218"
+  },
+  "tag": "v0.8.14",
+  "message": "2012.10.25, Version 0.8.14 (Stable)\n\n* events: Don't clobber pre-existing _events obj in EE ctor (isaacs)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQiaYMAAoJELCniwpsSBz23QsIAIlDSaggBv5Xdz9rR91+Sgpu\nOmBYDNCq+ECGhACpQmxbs70UAGTvCPj29P+1x95k9jM+42I5m22xdDmEeh1GPfVJ\nGE0KnDznuGvuDWUq+HzTSOtS0E6DgilygIyhqucSlF07FiTlZrJypMwmSQrnr6yw\nDvpj13dTjiY/KmdcPdb15u+/VA1x4Kh2kNBLUCkvETOmILILIferdX6t404jpW6t\nukOqxeUdS1LtHhzOCr1quIof6yeUCmQJyUlCw2LXQC4yBE62DaQ8ZI44MRwTxH2K\n/Ji0m4wkNwZVjy8I4oUWnYxATGivZzyNlw6Gh2rmRc9g6GjjLswS/6JGxfjpG3A=\n=95yL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQiaYMAAoJELCniwpsSBz23QsIAIlDSaggBv5Xdz9rR91+Sgpu\nOmBYDNCq+ECGhACpQmxbs70UAGTvCPj29P+1x95k9jM+42I5m22xdDmEeh1GPfVJ\nGE0KnDznuGvuDWUq+HzTSOtS0E6DgilygIyhqucSlF07FiTlZrJypMwmSQrnr6yw\nDvpj13dTjiY/KmdcPdb15u+/VA1x4Kh2kNBLUCkvETOmILILIferdX6t404jpW6t\nukOqxeUdS1LtHhzOCr1quIof6yeUCmQJyUlCw2LXQC4yBE62DaQ8ZI44MRwTxH2K\n/Ji0m4wkNwZVjy8I4oUWnYxATGivZzyNlw6Gh2rmRc9g6GjjLswS/6JGxfjpG3A=\n=95yL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b00527fcf05c3d9fb5d5d790f9472906a59fe218\ntype commit\ntag v0.8.14\ntagger isaacs <i@izs.me> 1351198220 -0700\n\n2012.10.25, Version 0.8.14 (Stable)\n\n* events: Don't clobber pre-existing _events obj in EE ctor (isaacs)\n"
+  }
+}

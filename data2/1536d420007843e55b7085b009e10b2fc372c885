@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDk0MTg2NzoxNTM2ZDQyMDAwNzg0M2U1NWI3MDg1YjAwOWUxMGIyZmMzNzJjODg1",
+  "sha": "1536d420007843e55b7085b009e10b2fc372c885",
+  "url": "https://api.github.com/repos/Netflix/governator/git/tags/1536d420007843e55b7085b009e10b2fc372c885",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-05-03T23:46:41Z"
+  },
+  "object": {
+    "sha": "9003042185753915bbfbca93cd97117475262da5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/governator/git/commits/9003042185753915bbfbca93cd97117475262da5"
+  },
+  "tag": "v1.12.12",
+  "message": "Release of 1.12.12\n\n- 9003042185753915bbfbca93cd97117475262da5: Merge pull request #291 from elandau/module_order\n- 0d8ad37fccbae3d4e2b5152fa3b10ce57fd06ed3: Documentation\n- 82567502b1c6bffe1dfc01949bd7a048ff0aa283: Install LifecycleModule first so @PostConstruct support is added early\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

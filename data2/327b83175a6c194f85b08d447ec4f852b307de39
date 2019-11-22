@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MzI3YjgzMTc1YTZjMTk0Zjg1YjA4ZDQ0N2VjNGY4NTJiMzA3ZGUzOQ==",
+  "sha": "327b83175a6c194f85b08d447ec4f852b307de39",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/327b83175a6c194f85b08d447ec4f852b307de39",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-02-08T00:44:13Z"
+  },
+  "object": {
+    "sha": "99059aad8d654acda4abcfaa68df182b50f2ec90",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/99059aad8d654acda4abcfaa68df182b50f2ec90"
+  },
+  "tag": "v0.7.3",
+  "message": "2012.02.07, Version 0.7.3 (unstable)\n\n* Upgrade V8 to 3.9.2\n\n* Revert support for isolates. (Ben Noordhuis)\n\n* cluster: Cleanup docs, event handling, and process.disconnect (Andreas Madsen)\n\n* gyp_addon: link with node.lib on Windows (Nathan Rajlich)\n\n* http: fix case where http-parser is freed twice (koichik)\n\n* Windows: disable RTTI and exceptions (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPMcVlAAoJELCniwpsSBz2fscH/Rov8wfrr+R4nAN8UAsYHHcp\nsAOiJJCAhSHMrSBHlxl/Og6jiyMVonkuhWaNFcpo2mH1GrQi2VFhWr89k2kjBlp5\n/Rpt5QJqETTM5oOvczsQa9ex1fdWe94gZSt7UfXhY9/IgNq1cszARLDrlpdzpKst\noyjlMvthJpO8jrxR4uJjZxNgccQV3mRFWJTbRR8kFSv8gIJm/ePV4ojET+IydLAX\nDeLq05FIv7/KizBPC9WvA2DXcplO2I0xnyjtG6qBiPtnE220UZ1744vsYRCarcFw\nlYh7g+YKnMWeunU0qrsoXFkQXhBHi92obJB3no/nm3KZeaHpI6C4Z7IyU2uglxk=\n=gK7R\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPMcVlAAoJELCniwpsSBz2fscH/Rov8wfrr+R4nAN8UAsYHHcp\nsAOiJJCAhSHMrSBHlxl/Og6jiyMVonkuhWaNFcpo2mH1GrQi2VFhWr89k2kjBlp5\n/Rpt5QJqETTM5oOvczsQa9ex1fdWe94gZSt7UfXhY9/IgNq1cszARLDrlpdzpKst\noyjlMvthJpO8jrxR4uJjZxNgccQV3mRFWJTbRR8kFSv8gIJm/ePV4ojET+IydLAX\nDeLq05FIv7/KizBPC9WvA2DXcplO2I0xnyjtG6qBiPtnE220UZ1744vsYRCarcFw\nlYh7g+YKnMWeunU0qrsoXFkQXhBHi92obJB3no/nm3KZeaHpI6C4Z7IyU2uglxk=\n=gK7R\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 99059aad8d654acda4abcfaa68df182b50f2ec90\ntype commit\ntag v0.7.3\ntagger isaacs <i@izs.me> 1328661853 -0800\n\n2012.02.07, Version 0.7.3 (unstable)\n\n* Upgrade V8 to 3.9.2\n\n* Revert support for isolates. (Ben Noordhuis)\n\n* cluster: Cleanup docs, event handling, and process.disconnect (Andreas Madsen)\n\n* gyp_addon: link with node.lib on Windows (Nathan Rajlich)\n\n* http: fix case where http-parser is freed twice (koichik)\n\n* Windows: disable RTTI and exceptions (Bert Belder)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6MmQ5YWI5YTFjNTY5N2M3MjZlZTc1MTUxOTlhOWZmNzIzMTFjNjE5Yw==",
+  "sha": "2d9ab9a1c5697c726ee7515199a9ff72311c619c",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/2d9ab9a1c5697c726ee7515199a9ff72311c619c",
+  "tagger": {
+    "name": "Brandon Philips",
+    "email": "brandon@ifup.co",
+    "date": "2014-12-18T18:27:46Z"
+  },
+  "object": {
+    "sha": "221abdcb3b755b36d1e7d70149f6de3450351619",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/221abdcb3b755b36d1e7d70149f6de3450351619"
+  },
+  "tag": "v2.0.0-rc.1",
+  "message": "v2.0.0-rc.1\n\n- Documentation fixes preparing for rc\n- etcdctl now has env variables for x509 certs\n- Testing fixes for speed and reliability\n\nThanks to everyone who helped with this release: Barak Michener, Brandon\nPhilips, Jonathan Boulle, José Luis Salvador Rufo, Kelsey Hightower, Vipin\nJain, Xiang Li, Yicheng Qin, lisael\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUkxz9AAoJEBVDQyYFQt80mREP+wa0bxn1APcbDHTkfZwrLcz8\nqAULq75MhUQ/3pmbhPY1u5nJN18f9tqzmP7pGrekEA5P3+7BH3NotwxXM8NHOB3H\npY5+BjsW0BiByrMx8IJkfZJPYTDLc4+ePlXGene1SYMiOPIOkPCBKLTMHfM3OVys\nxGcpyv5nzayQYzojc4GcFhcTrXZq3iWhwF/zsnHanKMEzs3HOg6iLJgV73Rwjlto\nMgYm/67shyFMK6FNCu5cgRUC6ryW9U+tEPGuAQpBJChPaiPUQZzPGPnyqgd/OLbA\nYzKmeSvl6hi9qDlsot8f0P1BW0YbVDMaEBD5dlErc8Dw6pIr37X2twa+JyZye3GN\nB/6NDym82wnfFvbXwZpBrKo3UaQcae5qNFxmI5P6XvlhENu/9udQrTzL4USNTWPT\nI2rwzITjB1zhqHDAgWwI6gq5LMO3UyFDKaf1yc00ZpEO4Lz+UmgWKF36TZFe1jFf\n0rgroepiETO2N0V29FClroFqfUwkV/Ky79WiomucVE4EiAUAFyzkRxCINlTO1sgG\nSkTf5pFvBDebkbh6XmUQHQQZCkh0eR7o8FyBwJjlUnFQuflmholUuxZgpOSBkJe4\neK392oVfYTjf3kcLvcUfDIBlBjCfbGbij5ASbyt9/pUcBFLDkwZCk8KpWhibKfaj\nrnZxTjhzwYK/2bVD0rAA\n=wuea\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUkxz9AAoJEBVDQyYFQt80mREP+wa0bxn1APcbDHTkfZwrLcz8\nqAULq75MhUQ/3pmbhPY1u5nJN18f9tqzmP7pGrekEA5P3+7BH3NotwxXM8NHOB3H\npY5+BjsW0BiByrMx8IJkfZJPYTDLc4+ePlXGene1SYMiOPIOkPCBKLTMHfM3OVys\nxGcpyv5nzayQYzojc4GcFhcTrXZq3iWhwF/zsnHanKMEzs3HOg6iLJgV73Rwjlto\nMgYm/67shyFMK6FNCu5cgRUC6ryW9U+tEPGuAQpBJChPaiPUQZzPGPnyqgd/OLbA\nYzKmeSvl6hi9qDlsot8f0P1BW0YbVDMaEBD5dlErc8Dw6pIr37X2twa+JyZye3GN\nB/6NDym82wnfFvbXwZpBrKo3UaQcae5qNFxmI5P6XvlhENu/9udQrTzL4USNTWPT\nI2rwzITjB1zhqHDAgWwI6gq5LMO3UyFDKaf1yc00ZpEO4Lz+UmgWKF36TZFe1jFf\n0rgroepiETO2N0V29FClroFqfUwkV/Ky79WiomucVE4EiAUAFyzkRxCINlTO1sgG\nSkTf5pFvBDebkbh6XmUQHQQZCkh0eR7o8FyBwJjlUnFQuflmholUuxZgpOSBkJe4\neK392oVfYTjf3kcLvcUfDIBlBjCfbGbij5ASbyt9/pUcBFLDkwZCk8KpWhibKfaj\nrnZxTjhzwYK/2bVD0rAA\n=wuea\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 221abdcb3b755b36d1e7d70149f6de3450351619\ntype commit\ntag v2.0.0-rc.1\ntagger Brandon Philips <brandon@ifup.co> 1418927266 -0800\n\nv2.0.0-rc.1\n\n- Documentation fixes preparing for rc\n- etcdctl now has env variables for x509 certs\n- Testing fixes for speed and reliability\n\nThanks to everyone who helped with this release: Barak Michener, Brandon\nPhilips, Jonathan Boulle, José Luis Salvador Rufo, Kelsey Hightower, Vipin\nJain, Xiang Li, Yicheng Qin, lisael\n"
+  }
+}

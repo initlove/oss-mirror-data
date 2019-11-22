@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODo5NjdkOGFhMjUyYTJjMTNmMDI2YWI0ZWI4OGFjNzk2MTNkNDVlOTky",
+  "sha": "967d8aa252a2c13f026ab4eb88ac79613d45e992",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/967d8aa252a2c13f026ab4eb88ac79613d45e992",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-05-14T16:35:12Z"
+  },
+  "object": {
+    "sha": "9f64774dbf9b0181bfe0cf901e7a2d59477dedc6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/9f64774dbf9b0181bfe0cf901e7a2d59477dedc6"
+  },
+  "tag": "v1.5.3-rc.1",
+  "message": "Release of 1.5.3-rc.1\n\n- 9f64774dbf9b0181bfe0cf901e7a2d59477dedc6: Merge pull request #1206 from mattrjacobs/add-subscribe-on-to-jmh-test\n- f61542a8e41604ea49bc4626e3e1d000eb15bc26: Added subscribeOn to HystrixObservableCommand in JMH test to make it async\n- ee47e400998aca0c8d3c7578c65dde8b33339dd4: Merge pull request #1204 from mattrjacobs/add-cancelled-state\n- 77e9860c51498cc8e7d44fb69d18ae9de8e366d2: Fix memory leak where TimerReference was not getting cleared on lost-race request-cache insert\n- 4c911fb3981cde03da4c8fcc271c7d09cd6c6512: Turned Atomic** variables into volatiles when possible\n- 0e4e0040bd701a123ed4b92189744c830e212b87: Fix to handling of case when 2 commands attempt to put an Observable in the request-cache and the loser needs to get cleaned up (unsubscribed)\n- 6d444046f5b2eb3fe8e8410099c1ecf79dce01b9: Made early unsubscription unit test more robust\n- d885372c6ad77a32cb0edbfd0333a0fa8bcf3285: Support early cancellation of HystrixCommands\n- dafbded9beb309bd959270d1523be6febaf77bfa: Merge pull request #1198 from mattrjacobs/unsubscribe-from-hystrix-observable-command\n- 899a08412cf93afe5eed05385e819b6072f0d3d5: Adding back accidentally-removed assertions\n- 5ce99c1e2489dc6a7f673d24b54b01d47c57cca0: Add unit tests for unsubscribe cases, and add handling in AbstractCommand\n- 8938a959fa055a8686e67212f0f0d300beb0c746: Merge pull request #1194 from caarlos0/junit-usage\n- 61ddeae86ba95a381813cedabc95da96bd0b034f: Merge pull request #1193 from caarlos0/context-rule\n- 18fab29c234a68ebb23465f53b517e0f0e10044b: improved tests readbility a bit\n- ff019e7804cec61fd5e7b95bd749f42e61d3b1d8: more tests using HystrixRequestContext rule\n- 94a88af77f0cb71e51d1cba46ceff0c1a61b4866: Merge pull request #1181 from nluchs/master\n- f59728aa85551387608618a336bec0896790799a: Merge pull request #1184 from caarlos0/context-rule\n- 16e1af148019867db76b860cfef03176c636a98f: migrating all hystrix-javanica tests to hystrix-junit\n- bd2a6ee5f8d4e63adbe707c2adbcfceb66b6355a: Merge pull request #1147 from caarlos0/junit\n- e68b4c539ec6deb5af3b6b51251c39d55990beb7: Deprecate getter and setter for unused collapsingEnabled property in Collapser Setter.\n- 9d64acc238338bb4255126d899c1df90dc381c45: Add v1.4.26 to CHANGELOG.md\n- 2903bc357064b480fd3029e3d6dca0347821dc9f: Update CHANGELOG.md\n- 3ee6006306223e843de70525544c11eab844dfd7: Update settings.gradle\n- 82600518cca0fe2d3ce81ff6c26bd81f2f76d780: better tests\n- fbb6e13c24352e25c67926a20ea3d4bddfab4799: Proposal: HystrixRequestContext junit rule\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

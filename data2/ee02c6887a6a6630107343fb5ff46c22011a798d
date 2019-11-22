@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzUyMDY5NzI6ZWUwMmM2ODg3YTZhNjYzMDEwNzM0M2ZiNWZmNDZjMjIwMTFhNzk4ZA==",
+  "sha": "ee02c6887a6a6630107343fb5ff46c22011a798d",
+  "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/tags/ee02c6887a6a6630107343fb5ff46c22011a798d",
+  "tagger": {
+    "name": "stratiocommit",
+    "email": "asistemas@stratio.com",
+    "date": "2016-11-10T17:45:13Z"
+  },
+  "object": {
+    "sha": "f352b87bbd3e9535f88b04fb298d146d70555493",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/commits/f352b87bbd3e9535f88b04fb298d146d70555493"
+  },
+  "tag": "3.0.9.1",
+  "message": " * Add support for geospatial shapes in bounding box search\n\n * Add support for geospatial shapes in distance search\n\n * Improve performance of needs before write calculation\n\n * Fix conflict between Lucene and SASI Snowball stemmer version \\(_216\\)\n\n * Upgrade all JSON serializers to FasterXML Jackson 2.8.6\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDk0MTg2NzplYWQ4MzYzZWY2NTVhYzhhNzVlMmRkMGIyZDUyMzc0NmY1Y2FkNGY0",
+  "sha": "ead8363ef655ac8a75e2dd0b2d523746f5cad4f4",
+  "url": "https://api.github.com/repos/Netflix/governator/git/tags/ead8363ef655ac8a75e2dd0b2d523746f5cad4f4",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-09-18T21:38:46Z"
+  },
+  "object": {
+    "sha": "7c9492cd926426d46f6adf3cf7db612ab090fe74",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/governator/git/commits/7c9492cd926426d46f6adf3cf7db612ab090fe74"
+  },
+  "tag": "v1.10.2",
+  "message": "Release of 1.10.2\n\n- 7c9492cd926426d46f6adf3cf7db612ab090fe74: Merge pull request #241 from elandau/nextgen\n- 0d1730f5ce877b8eeff1a9aa5637799bc88317be: Always log final bindings as debug instead of making it a 'feature'\n- d5e314e2f47ffaf44733f63bdbf5f09124b713ef: Add template method initialize() to DefaultGovernatorConfiguration builder Add feature to print all bindings immediately before the injector is created\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

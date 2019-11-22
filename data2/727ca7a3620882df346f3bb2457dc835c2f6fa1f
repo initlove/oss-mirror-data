@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODo3MjdjYTdhMzYyMDg4MmRmMzQ2ZjNiYjI0NTdkYzgzNWMyZjZmYTFm",
+  "sha": "727ca7a3620882df346f3bb2457dc835c2f6fa1f",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/727ca7a3620882df346f3bb2457dc835c2f6fa1f",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-03-16T22:33:17Z"
+  },
+  "object": {
+    "sha": "6f55c0aa1bf8a657606dabe4ed3836e90181e77c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/6f55c0aa1bf8a657606dabe4ed3836e90181e77c"
+  },
+  "tag": "v1.4.25",
+  "message": "Release of 1.4.25\n\n- 6f55c0aa1bf8a657606dabe4ed3836e90181e77c: Merge pull request #1114 from anuragw/1.4.x\n- ee6c90ac937f5e8a27fa17fdfb78cf333ad983cd: #1109 Rolling back request parameter support for setting queueSize\n- 1410bee12e9555453e16fbbe9f27eafefd48fa4c: #1109 Make default metric listener queue size configurable by property hystrix.stream.defaultMetricListenerQueueSize (still defaults to 1000 if unspecified)\n- a88b30bf099e07e367da786b4bca5f664d9e16a8: #1109 MetricJsonListener queue size can be configured by passing additional queueSize=<int> parameter in stream query\n- 56295635de3b86a2c5d0b99a3cca41a006e35075: Merge pull request #1121 from mattrjacobs/1.4.x-nonstatic-timeout-exception\n- b5252407219d7dcf6b32ecee8e689e0999eab0f8: Making the HystrixTimeoutException instance per-command, not static\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

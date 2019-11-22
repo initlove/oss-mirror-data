@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OmEyYzdjM2Q0YWZjZTczNWU2MDNhNjMzZjdiM2E2NzVkYTFlZmYyYjI=",
+  "sha": "a2c7c3d4afce735e603a633f7b3a675da1eff2b2",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/a2c7c3d4afce735e603a633f7b3a675da1eff2b2",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "sm2@schillmania.com",
+    "date": "2011-04-24T16:14:50Z"
+  },
+  "object": {
+    "sha": "b65c9d099948c9f2f48cc4daa6d9c9f5fb35efb5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/b65c9d099948c9f2f48cc4daa6d9c9f5fb35efb5"
+  },
+  "tag": "V2.97a.20110424",
+  "message": "V2.97a.20110424 - Minor HTML5 tweaks, option inheritance fixes, improved build.xml file\n\nHTML5 bulletproofing, Audio(null) argument fix for iOS + Opera, load() vs. createSound() and setVolume()/setPan() options/inheritance correction\n\n    Bug fixes\n        HTML5: new Audio(null) fix for differences between iOS (which would try to load null) and Opera 9.64, which would throw a WRONG_ARGUMENTS_ERR if null was not passed.\n        HTML5: Restrict internal volume value range to 0..1, avoid DOM exceptions.\n        HTML5: load{url:x}) improvements for desktop, better old vs. new URL comparison.\n        HTML5, iOS 4.2/4.3+, SM2 Muxtape/inline/link demos: onfinish()->unload()->playNext() was breaking on newer iOS versions, \"play through\" affected. Removing unload() for iOS fixed issue.\n        Flash object/embed pluginspage/codebase attribute now uses http:// when being used from file:// (offline), and http/https-agnostic //macromedia.com syntax to avoid SSL mixed-content warnings.\n        Fix setVolume() / setPan() to properly update SMSound.options (when not \"instance-only\"), so settings are retained for future play() calls. Bug was that original volume/pan were incorrectly restored after the first instance completed.\n\n    Miscellaneous\n\n        New and improved (nearly platform-independent) build.xml file, thanks to github user \"dolmen\". A .build.properties file is now needed, defining \"mxmlc\", \"mtasc\", and \"closure-compiler.jar\" paths. e.g.:\n\n        <!-- .build.properties file in SM2 root -->\n        mxmlc=/Applications/flexsdk/bin/mxmlc\n        mtasc=/Applications/mtasc/mtasc\n        closure-compiler.jar=${user.home}/compiler.jar\n\n        Running ant from the SM2 root will build the no-debug and minified versions of the script, as well as the SWF files.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

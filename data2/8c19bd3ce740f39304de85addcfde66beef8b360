@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6OGMxOWJkM2NlNzQwZjM5MzA0ZGU4NWFkZGNmZGU2NmJlZWY4YjM2MA==",
+  "sha": "8c19bd3ce740f39304de85addcfde66beef8b360",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/8c19bd3ce740f39304de85addcfde66beef8b360",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-05-01T22:29:35Z"
+  },
+  "object": {
+    "sha": "cb7911f78ae96ef7a540df992cc1359ba9636e86",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/cb7911f78ae96ef7a540df992cc1359ba9636e86"
+  },
+  "tag": "v0.10.27",
+  "message": "2014.05.01, Version 0.10.27 (Stable)\n\n* npm: upgrade to v1.4.8\n\n* openssl: upgrade to 1.0.1g\n\n* uv: update to v0.10.27\n\n* dns: fix certain txt entries (Fedor Indutny)\n\n* assert: Ensure reflexivity of deepEqual (Mike Pennisi)\n\n* child_process: fix deadlock when sending handles (Fedor Indutny)\n\n* child_process: fix sending handle twice (Fedor Indutny)\n\n* crypto: do not lowercase cipher/hash names (Fedor Indutny)\n\n* dtrace: workaround linker bug on FreeBSD (Fedor Indutny)\n\n* http: do not emit EOF non-readable socket (Fedor Indutny)\n\n* http: invoke createConnection when no agent (Nathan Rajlich)\n\n* stream: remove useless check (Brian White)\n\n* timer: don't reschedule timer bucket in a domain (Greg Brail)\n\n* url: treat  the same as / (isaacs)\n\n* util: format as Error if instanceof Error (Rod Vagg)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlNiys8ACgkQfTP/nQJGQG0KnQCfVZFe4p/soaI3hVh22SVgPy/x\nUvQAoLx+LZOGYgI35Q2Xigpveuu4y47V\n=dp1t\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlNiys8ACgkQfTP/nQJGQG0KnQCfVZFe4p/soaI3hVh22SVgPy/x\nUvQAoLx+LZOGYgI35Q2Xigpveuu4y47V\n=dp1t\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cb7911f78ae96ef7a540df992cc1359ba9636e86\ntype commit\ntag v0.10.27\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1398983375 -0700\n\n2014.05.01, Version 0.10.27 (Stable)\n\n* npm: upgrade to v1.4.8\n\n* openssl: upgrade to 1.0.1g\n\n* uv: update to v0.10.27\n\n* dns: fix certain txt entries (Fedor Indutny)\n\n* assert: Ensure reflexivity of deepEqual (Mike Pennisi)\n\n* child_process: fix deadlock when sending handles (Fedor Indutny)\n\n* child_process: fix sending handle twice (Fedor Indutny)\n\n* crypto: do not lowercase cipher/hash names (Fedor Indutny)\n\n* dtrace: workaround linker bug on FreeBSD (Fedor Indutny)\n\n* http: do not emit EOF non-readable socket (Fedor Indutny)\n\n* http: invoke createConnection when no agent (Nathan Rajlich)\n\n* stream: remove useless check (Brian White)\n\n* timer: don't reschedule timer bucket in a domain (Greg Brail)\n\n* url: treat  the same as / (isaacs)\n\n* util: format as Error if instanceof Error (Rod Vagg)\n"
+  }
+}

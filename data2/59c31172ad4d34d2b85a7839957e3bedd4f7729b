@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOjU5YzMxMTcyYWQ0ZDM0ZDJiODVhNzgzOTk1N2UzYmVkZDRmNzcyOWI=",
+  "sha": "59c31172ad4d34d2b85a7839957e3bedd4f7729b",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/59c31172ad4d34d2b85a7839957e3bedd4f7729b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-12T21:06:41Z"
+  },
+  "object": {
+    "sha": "72f9aa720f9137a35d55b9f96e2220d2d0e5588d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/72f9aa720f9137a35d55b9f96e2220d2d0e5588d"
+  },
+  "tag": "18.2.2",
+  "message": "nova 18.2.2 release\n\nmeta:version: 18.2.2\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I9235dc792c28c1c8ab9307c5e586ce01bd7dc085\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Andriy Shevchenko <huang.zhiping@99cloud.net>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1R1OEZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2EEODADmqzqSC7TJDoiU0smUwqHf\n1H804WYOtFtby3YrCRA96W/PUNPS+AC9dTs/cnbri+LsjWf5s5u/ZldwZuteioQ8\nB7I5kzx4ctaibc8fb78TvcpUeJGY/P/6NuSuJIQOgjHpDNbrkwrWEy9S/5CRlDSm\nlS9nQeD2Or8xM5YlL1R7LWcpInrAb3uLJ8zUE4jsf+EtXMakEt1FBRWmeLWqq2WJ\nc+7prcDGM5XU1615SkU2hycfdCrSa67I1kldsik0kf18QyuoFFQ6xhs3BznTE5AF\ntsF6hEHLm4T/UjhE/OPTfgFUXjeO7+CcqKY5a7ChQKRZhDJi21suDSpSIK3JG7vf\nCie0FbBK7nBdu7ojxyApTz8DOr5uCfnf8o4Z47ilJ+eaiG5zjTIiCh6g+7/mjS4A\nzKqizlHYpYIsAOyyDVX8XYwgx5DT1yJGwfgK59F61TdkfXqbn8ItgzHK6vH3bwId\n2xZGurxRKRrTJq5meCB4vOP2ov2yml5MqB++Jkpe3wY=\n=3S5I\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1R1OEZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2EEODADmqzqSC7TJDoiU0smUwqHf\n1H804WYOtFtby3YrCRA96W/PUNPS+AC9dTs/cnbri+LsjWf5s5u/ZldwZuteioQ8\nB7I5kzx4ctaibc8fb78TvcpUeJGY/P/6NuSuJIQOgjHpDNbrkwrWEy9S/5CRlDSm\nlS9nQeD2Or8xM5YlL1R7LWcpInrAb3uLJ8zUE4jsf+EtXMakEt1FBRWmeLWqq2WJ\nc+7prcDGM5XU1615SkU2hycfdCrSa67I1kldsik0kf18QyuoFFQ6xhs3BznTE5AF\ntsF6hEHLm4T/UjhE/OPTfgFUXjeO7+CcqKY5a7ChQKRZhDJi21suDSpSIK3JG7vf\nCie0FbBK7nBdu7ojxyApTz8DOr5uCfnf8o4Z47ilJ+eaiG5zjTIiCh6g+7/mjS4A\nzKqizlHYpYIsAOyyDVX8XYwgx5DT1yJGwfgK59F61TdkfXqbn8ItgzHK6vH3bwId\n2xZGurxRKRrTJq5meCB4vOP2ov2yml5MqB++Jkpe3wY=\n=3S5I\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 72f9aa720f9137a35d55b9f96e2220d2d0e5588d\ntype commit\ntag 18.2.2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1565644001 +0000\n\nnova 18.2.2 release\n\nmeta:version: 18.2.2\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I9235dc792c28c1c8ab9307c5e586ce01bd7dc085\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Andriy Shevchenko <huang.zhiping@99cloud.net>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

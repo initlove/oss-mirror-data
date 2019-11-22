@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OToyNTU0MDI5YzJhNmQ2MzU4YjU4OWMwN2I1ZjEwOGI0ZjRjOWEzYjdj",
+  "sha": "2554029c2a6d6358b589c07b5f108b4f4c9a3b7c",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/2554029c2a6d6358b589c07b5f108b4f4c9a3b7c",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-02-07T08:58:54Z"
+  },
+  "object": {
+    "sha": "e975ebdd4898362e4b4242a6503e2582acd32f95",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/e975ebdd4898362e4b4242a6503e2582acd32f95"
+  },
+  "tag": "4.0.10",
+  "message": "Version 4.0.10\n\n### Bug fixes\n\nDon't expect semicolons after default-exported functions or classes,\neven when they are expressions.\n\nCheck for use of `'use strict'` directives in non-simple parameter\nfunctions, even when already in strict mode.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAliZjFsACgkQcD8b7W0z\nrh7awAgAq6Mzwxho2LMb5p0rf0+FWHqCcOjwjPW2u65h61CEhbZk2oomrCn5XFas\nKs/u6FiGxvZiudjImNv4j2V02kNlOV6cOIlIa3kvECyyMy3WpxZ/M88aurR9JhHY\nkBfqxFL4kw8I7E1ql7HJdSFcNTcUNgtujoWf0rFMNh8Shl8LK4+xTDtagD+goZoW\n3JSoIm0BgLqR9S4cF0ISWXLpoGK59Ghe/1PpDW1CKWFLijyHhTJOPvdUp0dx6vDo\nJSv+5AymWWl2G2PfiQK3WDBbedG6uUm+W5hhQDJ31O7R4eU4ZjgWpYHHMv1/3Ia0\nbNEnXtMbmy2aiU0GMeW31hybU90yXw==\n=Av8b\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAliZjFsACgkQcD8b7W0z\nrh7awAgAq6Mzwxho2LMb5p0rf0+FWHqCcOjwjPW2u65h61CEhbZk2oomrCn5XFas\nKs/u6FiGxvZiudjImNv4j2V02kNlOV6cOIlIa3kvECyyMy3WpxZ/M88aurR9JhHY\nkBfqxFL4kw8I7E1ql7HJdSFcNTcUNgtujoWf0rFMNh8Shl8LK4+xTDtagD+goZoW\n3JSoIm0BgLqR9S4cF0ISWXLpoGK59Ghe/1PpDW1CKWFLijyHhTJOPvdUp0dx6vDo\nJSv+5AymWWl2G2PfiQK3WDBbedG6uUm+W5hhQDJ31O7R4eU4ZjgWpYHHMv1/3Ia0\nbNEnXtMbmy2aiU0GMeW31hybU90yXw==\n=Av8b\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e975ebdd4898362e4b4242a6503e2582acd32f95\ntype commit\ntag 4.0.10\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1486457934 +0100\n\nVersion 4.0.10\n\n### Bug fixes\n\nDon't expect semicolons after default-exported functions or classes,\neven when they are expressions.\n\nCheck for use of `'use strict'` directives in non-simple parameter\nfunctions, even when already in strict mode.\n"
+  }
+}

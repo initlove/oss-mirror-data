@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOjMzZjA4NzU5ODhmYjVjZGU1NGFkMDMwMjA3NmZmYWJhZDk0MmEzODY=",
+  "sha": "33f0875988fb5cde54ad0302076ffabad942a386",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/33f0875988fb5cde54ad0302076ffabad942a386",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-06-08T21:34:59Z"
+  },
+  "object": {
+    "sha": "ebbbcc6b110be9599f7c4ffbefc1ff8f1945c874",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/ebbbcc6b110be9599f7c4ffbefc1ff8f1945c874"
+  },
+  "tag": "12.0.4",
+  "message": "nova 12.0.4 release\n\nmeta:version: 12.0.4\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Commit: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Change-Id: I02941c22b35dc3dad2ec0caaeb5a009184107427\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXWI+DAAoJEDttBqDEKEN6UcAH/23VR+2724N2+j2g69bzic2V\n50CzLg7c/2BTK+lTR88/SyXW6GV5/i5E+eipXDXB1tIepRuWiTb+7+C0Ea3TyOAC\nnTr27N/+kkSOR9VpeISovrY5iNP4+j6UrqhamxZkoU0Z+3eGL0ASvSdnnSpyZKwI\nDp7DtFiLaVvtEuxYaLuOAy9/Ck33Kysa19v7xmwIQbrl2qvS7x+7oT+cZS4DrSJK\nf0BR1zARvoi6xmrZNoT84Dn4vuuk8DM1Qo+wNpHT/ZFuLqVnYy+u9iVyrMPh+TBQ\nl0GMszrwT0YvXMZ9DZEWI5Z2qZX/9DJt5Sxgg9Cef98d1G0jktCRAaPZI7wo2Fk=\n=39Rh\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXWI+DAAoJEDttBqDEKEN6UcAH/23VR+2724N2+j2g69bzic2V\n50CzLg7c/2BTK+lTR88/SyXW6GV5/i5E+eipXDXB1tIepRuWiTb+7+C0Ea3TyOAC\nnTr27N/+kkSOR9VpeISovrY5iNP4+j6UrqhamxZkoU0Z+3eGL0ASvSdnnSpyZKwI\nDp7DtFiLaVvtEuxYaLuOAy9/Ck33Kysa19v7xmwIQbrl2qvS7x+7oT+cZS4DrSJK\nf0BR1zARvoi6xmrZNoT84Dn4vuuk8DM1Qo+wNpHT/ZFuLqVnYy+u9iVyrMPh+TBQ\nl0GMszrwT0YvXMZ9DZEWI5Z2qZX/9DJt5Sxgg9Cef98d1G0jktCRAaPZI7wo2Fk=\n=39Rh\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ebbbcc6b110be9599f7c4ffbefc1ff8f1945c874\ntype commit\ntag 12.0.4\ntagger Doug Hellmann <doug@doughellmann.com> 1465421699 -0400\n\nnova 12.0.4 release\n\nmeta:version: 12.0.4\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Commit: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Change-Id: I02941c22b35dc3dad2ec0caaeb5a009184107427\n"
+  }
+}

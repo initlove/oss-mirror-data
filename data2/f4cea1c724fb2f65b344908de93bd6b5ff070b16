@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY4ODQyNTc6ZjRjZWExYzcyNGZiMmY2NWIzNDQ5MDhkZTkzYmQ2YjVmZjA3MGIxNg==",
+  "sha": "f4cea1c724fb2f65b344908de93bd6b5ff070b16",
+  "url": "https://api.github.com/repos/openstack/python-magnumclient/git/tags/f4cea1c724fb2f65b344908de93bd6b5ff070b16",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-21T21:08:10Z"
+  },
+  "object": {
+    "sha": "93acc927beb6cb6b1c1236c1ad6bb58ed9109bc2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-magnumclient/git/commits/93acc927beb6cb6b1c1236c1ad6bb58ed9109bc2"
+  },
+  "tag": "2.15.0",
+  "message": "python-magnumclient 2.15.0 release\n\nmeta:version: 2.15.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Feilong Wang <flwang@catalyst.net.nz>\nmeta:release:Commit: Feilong Wang <flwang@catalyst.net.nz>\nmeta:release:Change-Id: I483f8ac8c5ae6f06adefd65069658b874c7bce3e\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1dsroZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2MyFDACXNYhLj+FOwnXVCNCn1PxH\nchp2rfui00Y3jmVCZFWI70+9qm/+nWC6795t9yrfFbf3YutUjgAKVBLmSGT50f7q\nURrzsYk0/+ZGsrFqyO2MlaX3EUNpB9Glta/zF7sLjDqt3AQyK01kB1rIYf+TlEjH\nZUep1sBj9yKnsc/Q/5AHpygWrjPbNs6jiLkJ9AO5FCUf4ygI76vMSBIYndo9jmjD\np0eN6ex1TUXs46xtiFiuas8VDJvVhKREouSuHwpieW2V3uIJ/xXuCjH6b0c7fQJX\nostXWZsZCKkaSAQV3RRh3YbM6cgl/P/bLhRxnxNvwuiKuxY84rb/SclCwkTD1unr\nmsT4KRzy51KFkkrPT0q3e4S5AT8LN82jZxdBcsuQkSGaNzaYFcb4AJuQ6s28GQy7\n4PQ2il3AEDNrJaYO3QDink61q9kHcYpjPUzXbQ86l31cSnBwLK58GqtnwABgwdba\nANGU3Nv4j/PCEcgeUSXjiU2EbfkuyEec/Z6XFeb4dwA=\n=2mrc\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1dsroZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2MyFDACXNYhLj+FOwnXVCNCn1PxH\nchp2rfui00Y3jmVCZFWI70+9qm/+nWC6795t9yrfFbf3YutUjgAKVBLmSGT50f7q\nURrzsYk0/+ZGsrFqyO2MlaX3EUNpB9Glta/zF7sLjDqt3AQyK01kB1rIYf+TlEjH\nZUep1sBj9yKnsc/Q/5AHpygWrjPbNs6jiLkJ9AO5FCUf4ygI76vMSBIYndo9jmjD\np0eN6ex1TUXs46xtiFiuas8VDJvVhKREouSuHwpieW2V3uIJ/xXuCjH6b0c7fQJX\nostXWZsZCKkaSAQV3RRh3YbM6cgl/P/bLhRxnxNvwuiKuxY84rb/SclCwkTD1unr\nmsT4KRzy51KFkkrPT0q3e4S5AT8LN82jZxdBcsuQkSGaNzaYFcb4AJuQ6s28GQy7\n4PQ2il3AEDNrJaYO3QDink61q9kHcYpjPUzXbQ86l31cSnBwLK58GqtnwABgwdba\nANGU3Nv4j/PCEcgeUSXjiU2EbfkuyEec/Z6XFeb4dwA=\n=2mrc\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 93acc927beb6cb6b1c1236c1ad6bb58ed9109bc2\ntype commit\ntag 2.15.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1566421690 +0000\n\npython-magnumclient 2.15.0 release\n\nmeta:version: 2.15.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Feilong Wang <flwang@catalyst.net.nz>\nmeta:release:Commit: Feilong Wang <flwang@catalyst.net.nz>\nmeta:release:Change-Id: I483f8ac8c5ae6f06adefd65069658b874c7bce3e\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

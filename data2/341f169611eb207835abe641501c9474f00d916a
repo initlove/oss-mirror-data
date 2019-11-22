@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6MzQxZjE2OTYxMWViMjA3ODM1YWJlNjQxNTAxYzk0NzRmMDBkOTE2YQ==",
+  "sha": "341f169611eb207835abe641501c9474f00d916a",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/341f169611eb207835abe641501c9474f00d916a",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2018-09-05T13:23:37Z"
+  },
+  "object": {
+    "sha": "6027cff10fc4e8f9f8871872b772e0a564e19459",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/6027cff10fc4e8f9f8871872b772e0a564e19459"
+  },
+  "tag": "v0.5.38",
+  "message": "Release v0.5.38 contains the following changes:\n* Fix compilation warnings when compiling the QAT engine with the 'disable-qat_ecdh' flag set.\n* Add some common debug and warning statements for build validation.\n* Remove erroneous FIPS related call.\n* Add missing autogen.sh step to documentation example.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

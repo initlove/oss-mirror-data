@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAxNzQyOmQyYzM2Y2FhYThjZTg0ODA2YmI0ZTY5ZDA4MTViMTg5ZmI5OGFiYjI=",
+  "sha": "d2c36caaa8ce84806bb4e69d0815b189fb98abb2",
+  "url": "https://api.github.com/repos/tornadoweb/tornado/git/tags/d2c36caaa8ce84806bb4e69d0815b189fb98abb2",
+  "tagger": {
+    "name": "Ben Darnell",
+    "email": "ben@bendarnell.com",
+    "date": "2018-03-18T15:39:45Z"
+  },
+  "object": {
+    "sha": "b758925a1f07f28f7b2c3308eb45dadb0015f7ba",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tornadoweb/tornado/git/commits/b758925a1f07f28f7b2c3308eb45dadb0015f7ba"
+  },
+  "tag": "v5.0.1",
+  "message": "What's new in Tornado 5.0.1\n\nMar 18, 2018\n------------\n\nBug fix\n~~~~~~~\n\n- This release restores support for versions of Python 3.4 prior to\n  3.4.4. This is important for compatibility with Debian Jessie which\n  has 3.4.2 as its version of Python 3.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

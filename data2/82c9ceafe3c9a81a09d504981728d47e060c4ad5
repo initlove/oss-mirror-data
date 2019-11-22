@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6ODJjOWNlYWZlM2M5YTgxYTA5ZDUwNDk4MTcyOGQ0N2UwNjBjNGFkNQ==",
+  "sha": "82c9ceafe3c9a81a09d504981728d47e060c4ad5",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/82c9ceafe3c9a81a09d504981728d47e060c4ad5",
+  "tagger": {
+    "name": "Yicheng Qin",
+    "email": "qycqycqycqycqyc@gmail.com",
+    "date": "2015-03-31T21:30:25Z"
+  },
+  "object": {
+    "sha": "86e616c6e974828fc9119c1eb0f6439577a9ce0b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/86e616c6e974828fc9119c1eb0f6439577a9ce0b"
+  },
+  "tag": "v2.0.8",
+  "message": "- add 'etcdctl import' command to import the migration snap generated in v0.4.8 etcd to 2.0 etcd cluster\n- etcdctl takes an additional 2379, which is the IANA port of etcd client URL, as the default port\n- etcd no longer builds debugging tools into bin/ directory\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVGxK3AAoJEOdQvf2jMxAzNNMP/1JthO89SCdsu9l92yH4xkaM\n1WgH1tW7tCDdraoz/pw+i3zTZy23qu+SK3HU/DDEYedPA+canOPDJVCXn6Ez6W3l\npOIEp+orbfyII0D75jPZObJCkaKoe6sNHZyGti5dFkfzc6T+6Lq1dBk7sHoF0+rO\nQoWgqiW77LwHmN24xqOMeG6nFxkSIndZ12R/7eylBrEXujSnIIN9CFNxSwBzettf\nNePSeAeH9TH80ndUP80PY88+EdC49WfbxnovqM7izIRMiZkbnKlP5MbijvECIi1f\nkZp8XQZbIaGWDgKf7B5HZrW07kC+QUKy/D5RLx7JS1ij4DCTmVKyjn4art7V8QUT\ndC6o+oaDMjA7SmE6m1zUFuIwWTX0o0o4+O9m1dKCAddV1ITFALP3QStpYm548LYU\nEHe8IXNzLc8Xgjk8ZzRI9EsEqLI8pR54FJzZZZ6wCQLRlsPipu+7wqiSslIVKHKW\nnH6ZH4/GLmjvOLlBA8wZlKBzmK8Pq3EwtX92g4Psihe72vlafwpP1zlEiG62frxr\nxkSX+VGVgxUnS9iBii6NYpspV9CoFz9gVVVFC/oaJBor3Ef/aGivL9o4he2g5dmX\niK9H/+o+mA+HAnZTRMgQQaYv9pSYI3WXV8lMaEohnZEnA5Gn0XCRRrl6FQKWoBhO\nesu5Rcnkl/WLImsaGy47\n=hJRO\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVGxK3AAoJEOdQvf2jMxAzNNMP/1JthO89SCdsu9l92yH4xkaM\n1WgH1tW7tCDdraoz/pw+i3zTZy23qu+SK3HU/DDEYedPA+canOPDJVCXn6Ez6W3l\npOIEp+orbfyII0D75jPZObJCkaKoe6sNHZyGti5dFkfzc6T+6Lq1dBk7sHoF0+rO\nQoWgqiW77LwHmN24xqOMeG6nFxkSIndZ12R/7eylBrEXujSnIIN9CFNxSwBzettf\nNePSeAeH9TH80ndUP80PY88+EdC49WfbxnovqM7izIRMiZkbnKlP5MbijvECIi1f\nkZp8XQZbIaGWDgKf7B5HZrW07kC+QUKy/D5RLx7JS1ij4DCTmVKyjn4art7V8QUT\ndC6o+oaDMjA7SmE6m1zUFuIwWTX0o0o4+O9m1dKCAddV1ITFALP3QStpYm548LYU\nEHe8IXNzLc8Xgjk8ZzRI9EsEqLI8pR54FJzZZZ6wCQLRlsPipu+7wqiSslIVKHKW\nnH6ZH4/GLmjvOLlBA8wZlKBzmK8Pq3EwtX92g4Psihe72vlafwpP1zlEiG62frxr\nxkSX+VGVgxUnS9iBii6NYpspV9CoFz9gVVVFC/oaJBor3Ef/aGivL9o4he2g5dmX\niK9H/+o+mA+HAnZTRMgQQaYv9pSYI3WXV8lMaEohnZEnA5Gn0XCRRrl6FQKWoBhO\nesu5Rcnkl/WLImsaGy47\n=hJRO\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 86e616c6e974828fc9119c1eb0f6439577a9ce0b\ntype commit\ntag v2.0.8\ntagger Yicheng Qin <qycqycqycqycqyc@gmail.com> 1427837425 -0700\n\n- add 'etcdctl import' command to import the migration snap generated in v0.4.8 etcd to 2.0 etcd cluster\n- etcdctl takes an additional 2379, which is the IANA port of etcd client URL, as the default port\n- etcd no longer builds debugging tools into bin/ directory\n"
+  }
+}

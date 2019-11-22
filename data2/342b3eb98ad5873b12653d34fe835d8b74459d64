@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6MzQyYjNlYjk4YWQ1ODczYjEyNjUzZDM0ZmU4MzVkOGI3NDQ1OWQ2NA==",
+  "sha": "342b3eb98ad5873b12653d34fe835d8b74459d64",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/342b3eb98ad5873b12653d34fe835d8b74459d64",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2016-11-16T17:22:55Z"
+  },
+  "object": {
+    "sha": "00af43a4289f45d350e1a6dbcf2bfc597947a982",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/00af43a4289f45d350e1a6dbcf2bfc597947a982"
+  },
+  "tag": "v0.5.12",
+  "message": "Release v0.5.12 contains the following changes:\n* Add missing padding check for cbc decrypt.\n* Fix issue with memory initialization in rsa\n* Remove re-initialization of variables in qat_engine_finish()\n* Correct iv position for decrypting padding\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

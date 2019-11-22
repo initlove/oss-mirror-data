@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODo0ZjE3MWFiYTNlYWNhNjBkNWVmZjQ4OTQ1NDQzNDg5NTJkNTk5NGNi",
+  "sha": "4f171aba3eaca60d5eff4894544348952d5994cb",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/4f171aba3eaca60d5eff4894544348952d5994cb",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-05-21T03:56:30Z"
+  },
+  "object": {
+    "sha": "cb72b9433bf735384aae545631fd8bff39fd096b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/cb72b9433bf735384aae545631fd8bff39fd096b"
+  },
+  "tag": "v1.4.8",
+  "message": "Release of 1.4.8\n\n- cb72b9433bf735384aae545631fd8bff39fd096b: Merge pull request #797 from mattrjacobs/take-histogram-off-multithreaded-read-path\n- d66dae4768034a83c14bac6c6e0e85bb6968b27f: Move all reads of Histograms to a single-threaded path.  Either cache the commonly-accessed summaries at construction, or  support arbitrary calculations via a synchronized path\n- 3246e46f18ee533db1a0c9dca6881ae7c8cb9ed8: Merge pull request #794 from manuelbernhardt/patch-1\n- 9e1eb947b4c8e7082d893f54f240bfd21efeabe4: Monitoring stream on keypress\n- 9002320880c12c4f52452e05e1d5ef1a8a44316d: Merge pull request #787 from motortalk/reject-stream-servlet-request-when-destroyed\n- 5c2375ace70cef3c00cea9e63993472089fd587f: added copyright header\n- bc3e75fe5359420c62e3e45e54204a9711851b65: Reject requests after servlet shutdown (fixes #786)\n- dc06181e7d5e978b953910fd50c8e93ab72e6886: Merge pull request #785 from beckje01/updateMetrics\n- 92c4fb00313f5e98b879fd7e33083438b3bf964e: Update metrics to the latest version\n- b5e7459657172133268de46b474db902343abad6: Update CHANGELOG.md\n- b11f787ebfe2bcc83d1f601626dd2c626822fa9e: Update CHANGELOG.md\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

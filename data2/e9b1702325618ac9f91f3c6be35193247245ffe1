@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZTliMTcwMjMyNTYxOGFjOWY5MWYzYzZiZTM1MTkzMjQ3MjQ1ZmZlMQ==",
+  "sha": "e9b1702325618ac9f91f3c6be35193247245ffe1",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/e9b1702325618ac9f91f3c6be35193247245ffe1",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-03-26T08:48:30Z"
+  },
+  "object": {
+    "sha": "25122b986a90ba0982697b7abcb0158c302a1019",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/25122b986a90ba0982697b7abcb0158c302a1019"
+  },
+  "tag": "v0.4.4",
+  "message": "2011.03.26, Version 0.4.4 (stable)\n\n* CryptoStream.end shouldn't throw if not writable GH-820\n\n* Drop out if connection destroyed before connect() GH-819\n\n* expose https.Agent\n\n* Correctly setsid in tty.open GH-815\n\n* Bug fix for failed buffer construction\n\n* Added support for removing .once listeners (GH-806)\n\n* Upgrade V8 to 3.1.8.5\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzU5ODE6NzM0MjM0NGViZTkyMTc0ZjVkOGU0ZGYxZTI2Y2M1NmI3MzVjMWQ2YQ==",
+  "sha": "7342344ebe92174f5d8e4df1e26cc56b735c1d6a",
+  "url": "https://api.github.com/repos/gpg/libassuan/git/tags/7342344ebe92174f5d8e4df1e26cc56b735c1d6a",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2015-05-12T11:47:38Z"
+  },
+  "object": {
+    "sha": "1f0896c86b0d6b02a71b90f122bf3fa90e75fb9d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libassuan/git/commits/1f0896c86b0d6b02a71b90f122bf3fa90e75fb9d"
+  },
+  "tag": "libassuan-2.2.1",
+  "message": "Fix problem with newer mingw versions\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEbBAABCAAGBQJVUehaAAoJECSbOdJPJeO2aXIH9iQF4dWWHzUApZnpVk+PoCNY\npx4KX2m8BAIyk8VYxNkaOCUFiGLKQv2/pfd+dcaBaw2CHeusyM3NH488Hvp+7NER\nYlgqsORXFmVrNtV7SRMpxikpBwfBChLYGgBLxwWdEKBWaG1MdLMfRKHf5JkrLqOY\nHvYWWIrMkRsteELnAyvspxpEW4k0Cy43LWHsdRGd1IkXXtvKKJ5wZzpPBHHPKttt\n2OCLKJvswrOr1vR0J1CWQD+3N6hyFZSeY/0VkQTQz0Md3Bkl1k88IVgQ2LuVu9Nf\n7oZJ+aSR18jydcYCwVBJxni392qKqyjXUhhIxP4UjxetD/N+Q0n3+aygig9RLA==\n=GWRf\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEbBAABCAAGBQJVUehaAAoJECSbOdJPJeO2aXIH9iQF4dWWHzUApZnpVk+PoCNY\npx4KX2m8BAIyk8VYxNkaOCUFiGLKQv2/pfd+dcaBaw2CHeusyM3NH488Hvp+7NER\nYlgqsORXFmVrNtV7SRMpxikpBwfBChLYGgBLxwWdEKBWaG1MdLMfRKHf5JkrLqOY\nHvYWWIrMkRsteELnAyvspxpEW4k0Cy43LWHsdRGd1IkXXtvKKJ5wZzpPBHHPKttt\n2OCLKJvswrOr1vR0J1CWQD+3N6hyFZSeY/0VkQTQz0Md3Bkl1k88IVgQ2LuVu9Nf\n7oZJ+aSR18jydcYCwVBJxni392qKqyjXUhhIxP4UjxetD/N+Q0n3+aygig9RLA==\n=GWRf\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1f0896c86b0d6b02a71b90f122bf3fa90e75fb9d\ntype commit\ntag libassuan-2.2.1\ntagger Werner Koch <wk@gnupg.org> 1431431258 +0200\n\nFix problem with newer mingw versions\n"
+  }
+}

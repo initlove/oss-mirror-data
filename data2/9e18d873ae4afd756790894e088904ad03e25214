@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6OWUxOGQ4NzNhZTRhZmQ3NTY3OTA4OTRlMDg4OTA0YWQwM2UyNTIxNA==",
+  "sha": "9e18d873ae4afd756790894e088904ad03e25214",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/9e18d873ae4afd756790894e088904ad03e25214",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-06-18T18:12:49Z"
+  },
+  "object": {
+    "sha": "a088cf4f930d3928c97d239adf950ab43e7794aa",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/a088cf4f930d3928c97d239adf950ab43e7794aa"
+  },
+  "tag": "v0.10.12",
+  "message": "2013.06.18, Version 0.10.12 (Stable)\n\n* npm: Upgrade to 1.2.32\n\n* readline: make `ctrl + L` clear the screen (Yuan Chuan)\n\n* v8: add setVariableValue debugger command (Ben Noordhuis)\n\n* net: Do not destroy socket mid-write (isaacs)\n\n* v8: fix build for mips32r2 architecture (Andrei Sedoi)\n\n* configure: fix cross-compilation host_arch_cc() (Andrei Sedoi)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRwKMhAAoJELCniwpsSBz2uksH/Amwi/Vkpz9F2PYznMql1yMA\nPa/jzmLb8e8JOrAy8KGZNn8cdMkRaCK38H/KKFtwxhtnERhkF7fk0cf8xhc3sOX/\nxSiIJjkVvr6/ELoR8EJRis21X/vUzTLUmoi7RZyWW1CQfbCwkWDHQfNvDTbsll2k\nmlHZ8f3cGhlr235Tj8OSeGp4q4WPJ1hcSAdTfqozWCHq5au5SFZ3WDIByqk7KTeS\nTqR6pwWedxB94bZOVFy31bPnggS3XsmsTY87SSC9rRr0xihaN6Cgl5l2xcO/gcBI\nMQ+UysZDXTJD1v9HzpBE6B7J4yvI4Io2Py0TZF/KDKbKg7EIy5Hr/7CBmMNBnZs=\n=lFy9\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRwKMhAAoJELCniwpsSBz2uksH/Amwi/Vkpz9F2PYznMql1yMA\nPa/jzmLb8e8JOrAy8KGZNn8cdMkRaCK38H/KKFtwxhtnERhkF7fk0cf8xhc3sOX/\nxSiIJjkVvr6/ELoR8EJRis21X/vUzTLUmoi7RZyWW1CQfbCwkWDHQfNvDTbsll2k\nmlHZ8f3cGhlr235Tj8OSeGp4q4WPJ1hcSAdTfqozWCHq5au5SFZ3WDIByqk7KTeS\nTqR6pwWedxB94bZOVFy31bPnggS3XsmsTY87SSC9rRr0xihaN6Cgl5l2xcO/gcBI\nMQ+UysZDXTJD1v9HzpBE6B7J4yvI4Io2Py0TZF/KDKbKg7EIy5Hr/7CBmMNBnZs=\n=lFy9\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a088cf4f930d3928c97d239adf950ab43e7794aa\ntype commit\ntag v0.10.12\ntagger isaacs <i@izs.me> 1371579169 -0700\n\n2013.06.18, Version 0.10.12 (Stable)\n\n* npm: Upgrade to 1.2.32\n\n* readline: make `ctrl + L` clear the screen (Yuan Chuan)\n\n* v8: add setVariableValue debugger command (Ben Noordhuis)\n\n* net: Do not destroy socket mid-write (isaacs)\n\n* v8: fix build for mips32r2 architecture (Andrei Sedoi)\n\n* configure: fix cross-compilation host_arch_cc() (Andrei Sedoi)\n"
+  }
+}

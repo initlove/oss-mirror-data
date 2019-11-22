@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODo3MGI5MGVhYWVlMjE3M2Q2MzBiMmMxYTcyNGQ5NDVhMzdkZDZlYjA1",
+  "sha": "70b90eaaee2173d630b2c1a724d945a37dd6eb05",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/70b90eaaee2173d630b2c1a724d945a37dd6eb05",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-05-31T07:45:02Z"
+  },
+  "object": {
+    "sha": "0a1acee069a933663ae4cdf57a155d3dcfb3ecb2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/0a1acee069a933663ae4cdf57a155d3dcfb3ecb2"
+  },
+  "tag": "v1.4.10",
+  "message": "Release of 1.4.10\n\n- 0a1acee069a933663ae4cdf57a155d3dcfb3ecb2: Merge pull request #804 from mattrjacobs/merge-rollback-hdr-histogram\n- 7facd209bdb3ff49742c69e1b3f8605809c2854f: Fixing merge conflict on jmh tests\n- da0aada6ec7b92a7bea1992d5b1a7b4ea8dc0ef1: Merge branch 'rollback-hdr-histogram' into merge-rollback-hdr-histogram\n- ae7aedda84f3e6ef21f202f75cf4cadaf21b5a81: Rollback the HdrHistogram changes\n- e68ed4247147ed2056228e0cfa5f95f98653aad8: Merge pull request #803 from mattrjacobs/add-jmh-rolling-number\n- 4616fb08dd3fba9b66f63c63d006e4fe5b9b3439: Fix method names in jmh tests\n- 6188fc97d820ae10a3cd91195d31f358adf70c3f: Add HystrixRollingNumber JMH benchmark\n- 726466ddbc741745e0d02b4f55a8c447c01a93a2: Merge pull request #801 from mattrjacobs/remove-rolling-percentile-dynamic-reconfig\n- 0cb731d041006a9b85d6da4eeec8540254ef9b03: Merge pull request #791 from mattrjacobs/replace-long-adder-max-updater-with-atomic-long\n- f1106aed68a6c4408aeccef5ad8b052cf3ba4b24: Fixing unit test construction of HystrixRollingPercentile\n- 3ec7797b2201a9c5557cbc135bdeb224eda109cf: Remove all dynamic property lookups from HystrixRollingPercentile\n- fbf0740d617fffed913f1195068528a22ed384e1: Merge pull request #800 from mattrjacobs/jmh-rolling-data-structures\n- ab55455e16d317da8698dd29ca876ecac0b98279: Cleanup the JMH test\n- 0505eaf253609c6f84b304884fddc47cbc4cade6: Add JMH benchmarks for HystrixRollingPercentile reads/writes\n- 8f41389147dd3bb6935fae66bcd4bdafb0c0f70b: Update CHANGELOG.md\n- 49bd481df0e84ee435e91ae99ec81dd0fb1bacbd: Switching HystrixRollingNumber impl from LongAdder/LongMaxUpdater to AtomicLong\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

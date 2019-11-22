@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAxNzQyOjk5ZDIxNDhmMDk5ZjZmZTNlZTRhYjYwN2JhNWEzM2YzM2Y1NjFlOTc=",
+  "sha": "99d2148f099f6fe3ee4ab607ba5a33f33f561e97",
+  "url": "https://api.github.com/repos/tornadoweb/tornado/git/tags/99d2148f099f6fe3ee4ab607ba5a33f33f561e97",
+  "tagger": {
+    "name": "A. Jesse Jiryu Davis",
+    "email": "jesse@mongodb.com",
+    "date": "2016-09-30T22:45:01Z"
+  },
+  "object": {
+    "sha": "c0f99bac0aeda25529e5c3df90034d4b2fa311fd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tornadoweb/tornado/git/commits/c0f99bac0aeda25529e5c3df90034d4b2fa311fd"
+  },
+  "tag": "v4.4.2",
+  "message": "What's new in Tornado 4.4.2\n===========================\n\nOct 1, 2016\n------------\n\nSecurity fixes\n~~~~~~~~~~~~~~\n\n* A difference in cookie parsing between Tornado and web browsers\n  (especially when combined with Google Analytics) could allow an\n  attacker to set arbitrary cookies and bypass XSRF protection. The\n  cookie parser has been rewritten to fix this attack.\n\nBackwards-compatibility notes\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n* Cookies containing certain special characters (in particular semicolon\n  and square brackets) are now parsed differently.\n* If the cookie header contains a combination of valid and invalid cookies,\n  the valid ones will be returned (older versions of Tornado would reject the\n  entire header for a single invalid cookie).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6OTJiMDA5OThkZWE2OGNkMzFkYzdjMmY5YWRjNDUzM2E2YjU0ZjMwYw==",
+  "sha": "92b00998dea68cd31dc7c2f9adc4533a6b54f30c",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/92b00998dea68cd31dc7c2f9adc4533a6b54f30c",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-05-14T21:32:56Z"
+  },
+  "object": {
+    "sha": "5deb1672f2b5794f8be19498a425ea4dc0b0711f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/5deb1672f2b5794f8be19498a425ea4dc0b0711f"
+  },
+  "tag": "v0.10.6",
+  "message": "2013.05.14, Version 0.10.6 (Stable)\n\n* module: Deprecate require.extensions (isaacs)\n\n* stream: make Readable.wrap support objectMode, empty streams (Daniel Moore)\n\n* child_process: fix handle delivery (Ben Noordhuis)\n\n* crypto: Fix performance regression (isaacs)\n\n* src: DRY string encoding/decoding (isaacs)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRkq2IAAoJELCniwpsSBz2WkAH/jpUkxH/EAc5LvT21slo6nZt\nEHdbLrl0o5HLdoJ2Kgl3lojC6Hm5oQEXMbytj4ScV7T+up3Bu/+hKXwcjEAjnH9r\nn9O2wHZeadILbqpy2iVXQSvEXIRwBF8TWpiVztn0BOU/wM405RY1buHzZsnJAu/Z\nh/fEBUNNLwSXX5JniT9sB6MY4TC08a9UXjYFZLFeDO+cjaozp+MFmGlFu9XvR6i2\nQoNs1J2bIodgdApA4Gl05+HGCyxw5IGYCx4iZHwvLvuDRRJNHM7M89mHt3azX7rh\nYU2vVukvoA/0tkngXXd3UNtOxqjcaIqfjKIZ58yXUzLPymGxti3UHSeJi6oROvc=\n=aVlD\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRkq2IAAoJELCniwpsSBz2WkAH/jpUkxH/EAc5LvT21slo6nZt\nEHdbLrl0o5HLdoJ2Kgl3lojC6Hm5oQEXMbytj4ScV7T+up3Bu/+hKXwcjEAjnH9r\nn9O2wHZeadILbqpy2iVXQSvEXIRwBF8TWpiVztn0BOU/wM405RY1buHzZsnJAu/Z\nh/fEBUNNLwSXX5JniT9sB6MY4TC08a9UXjYFZLFeDO+cjaozp+MFmGlFu9XvR6i2\nQoNs1J2bIodgdApA4Gl05+HGCyxw5IGYCx4iZHwvLvuDRRJNHM7M89mHt3azX7rh\nYU2vVukvoA/0tkngXXd3UNtOxqjcaIqfjKIZ58yXUzLPymGxti3UHSeJi6oROvc=\n=aVlD\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5deb1672f2b5794f8be19498a425ea4dc0b0711f\ntype commit\ntag v0.10.6\ntagger isaacs <i@izs.me> 1368567176 -0700\n\n2013.05.14, Version 0.10.6 (Stable)\n\n* module: Deprecate require.extensions (isaacs)\n\n* stream: make Readable.wrap support objectMode, empty streams (Daniel Moore)\n\n* child_process: fix handle delivery (Ben Noordhuis)\n\n* crypto: Fix performance regression (isaacs)\n\n* src: DRY string encoding/decoding (isaacs)\n"
+  }
+}

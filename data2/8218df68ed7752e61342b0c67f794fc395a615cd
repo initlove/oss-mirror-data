@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6ODIxOGRmNjhlZDc3NTJlNjEzNDJiMGM2N2Y3OTRmYzM5NWE2MTVjZA==",
+  "sha": "8218df68ed7752e61342b0c67f794fc395a615cd",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/8218df68ed7752e61342b0c67f794fc395a615cd",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2016-09-02T11:04:31Z"
+  },
+  "object": {
+    "sha": "9f121737eab141f1449fc1b5f80c335d7e20f1d7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/9f121737eab141f1449fc1b5f80c335d7e20f1d7"
+  },
+  "tag": "v0.5.7",
+  "message": "Release v0.5.7 contains the following changes:\n* Tidy up of debug messages in the memory driver test app.\n* Add EPOLLET flag when adding fd to epoll to support upstream driver\n* Correct calculations of available slab space in qae_mem_utils.c\n* Tidy up parsing for LimitDevAccess setting\n* Documentation update for release of OpenSSL_1_1_0\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

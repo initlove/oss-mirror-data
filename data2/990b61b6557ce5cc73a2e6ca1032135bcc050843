@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTo5OTBiNjFiNjU1N2NlNWNjNzNhMmU2Y2ExMDMyMTM1YmNjMDUwODQz",
+  "sha": "990b61b6557ce5cc73a2e6ca1032135bcc050843",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/990b61b6557ce5cc73a2e6ca1032135bcc050843",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-07-05T15:12:51Z"
+  },
+  "object": {
+    "sha": "17bb365a8cae1e002c03671eb3726ea3506e5c23",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/17bb365a8cae1e002c03671eb3726ea3506e5c23"
+  },
+  "tag": "5.1.0",
+  "message": "Version 5.1.0\n\n### Bug fixes\n\nFix tokenizing of regexps in an object-desctructuring `for`/`of` loop and after `yield`.\n\nParse zero-prefixed numbers with non-octal digits as decimal.\n\nAllow object/array patterns in rest parameters.\n\nDon't error when `yield` is used as a property name.\n\nAllow `async` as a shorthand object property.\n\nMake the ES module version of the loose parser actually work.\n\n### New features\n\nImplement the [template literal revision proposal](https://github.com/tc39/proposal-template-literal-revision) for ES9.\n\nNew walker functions `full` and `fullAncestor`.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlldAgMACgkQcD8b7W0z\nrh6sfwgAwn20ZKJHypvNPTQ4kijuDbIdiCcjb/q+5nkHav3G9rK0GK7NwQzpkn2E\nLMsi+sS5gQTnpmc/8BCc5dE2gVUWVEsS5M3gwYHiX2Qu8ynJo4rc8ze8AaJzMJdI\nh/H/3hg836WFOlE7bHENdKVbDHUbaTiW3y8/VwhRKvhp3MWg9M+4FQ0xAIAXhcWT\nMpA0yrA8Z7uv+tgvzy8KWedgROId0uMAw2QKyeh7skvY7PtNTJzEbxeueGGVbolJ\nini68naXICI7RqiK8f61+TNZDypyFpNiua3xZL7nlQGHayH9B0k8dUmqGkCjaKtb\nwWZYOWuwsWM0SDOq9EpWr7fnz2a1xA==\n=E5lm\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlldAgMACgkQcD8b7W0z\nrh6sfwgAwn20ZKJHypvNPTQ4kijuDbIdiCcjb/q+5nkHav3G9rK0GK7NwQzpkn2E\nLMsi+sS5gQTnpmc/8BCc5dE2gVUWVEsS5M3gwYHiX2Qu8ynJo4rc8ze8AaJzMJdI\nh/H/3hg836WFOlE7bHENdKVbDHUbaTiW3y8/VwhRKvhp3MWg9M+4FQ0xAIAXhcWT\nMpA0yrA8Z7uv+tgvzy8KWedgROId0uMAw2QKyeh7skvY7PtNTJzEbxeueGGVbolJ\nini68naXICI7RqiK8f61+TNZDypyFpNiua3xZL7nlQGHayH9B0k8dUmqGkCjaKtb\nwWZYOWuwsWM0SDOq9EpWr7fnz2a1xA==\n=E5lm\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 17bb365a8cae1e002c03671eb3726ea3506e5c23\ntype commit\ntag 5.1.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1499267571 +0200\n\nVersion 5.1.0\n\n### Bug fixes\n\nFix tokenizing of regexps in an object-desctructuring `for`/`of` loop and after `yield`.\n\nParse zero-prefixed numbers with non-octal digits as decimal.\n\nAllow object/array patterns in rest parameters.\n\nDon't error when `yield` is used as a property name.\n\nAllow `async` as a shorthand object property.\n\nMake the ES module version of the loose parser actually work.\n\n### New features\n\nImplement the [template literal revision proposal](https://github.com/tc39/proposal-template-literal-revision) for ES9.\n\nNew walker functions `full` and `fullAncestor`.\n"
+  }
+}

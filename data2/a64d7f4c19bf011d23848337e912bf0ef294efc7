@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDk0MTg2NzphNjRkN2Y0YzE5YmYwMTFkMjM4NDgzMzdlOTEyYmYwZWYyOTRlZmM3",
+  "sha": "a64d7f4c19bf011d23848337e912bf0ef294efc7",
+  "url": "https://api.github.com/repos/Netflix/governator/git/tags/a64d7f4c19bf011d23848337e912bf0ef294efc7",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-01-30T08:06:59Z"
+  },
+  "object": {
+    "sha": "a794a27bb01fbb76ea3e2323c21654efeb2a9236",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/governator/git/commits/a794a27bb01fbb76ea3e2323c21654efeb2a9236"
+  },
+  "tag": "v1.12.5",
+  "message": "Release of 1.12.5\n\n- a794a27bb01fbb76ea3e2323c21654efeb2a9236: Merge pull request #269 from elandau/api_cleanup\n- a32b18b883463783fe74d93d13862a613beaa85f: don't use Mockito, for now\n- 0170177ae2ae7adfdcbd3b974b989aac37b9d0e7: Fix jetty shutdown stopping the injector\n- 12089152452cb2889a3515de6b62d250cf88a012: Properly shutdown jetty server when the shutdown signal is fire\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

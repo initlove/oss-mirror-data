@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6ZDBjOGUwOTQ1Yjc0NzBkYTg1YTliZGU3MDVkYmYyZjIzNGEwYzQyYQ==",
+  "sha": "d0c8e0945b7470da85a9bde705dbf2f234a0c42a",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/d0c8e0945b7470da85a9bde705dbf2f234a0c42a",
+  "tagger": {
+    "name": "Andrea Grandi",
+    "email": "andrea.grandi@intel.com",
+    "date": "2016-12-21T08:17:09Z"
+  },
+  "object": {
+    "sha": "055b4c190771558a0406b3fea8aa8b1720c57526",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/055b4c190771558a0406b3fea8aa8b1720c57526"
+  },
+  "tag": "v0.5.14",
+  "message": "Release v0.5.14 contains the following changes:\n* Add debug output with engine initialization variables\n* Remove config file parsing when the upstream driver is used\n* Improve documentation of small packets offload\n* Improve explanation of engine configuration using openssl.cnf\n* Ignore .tmp_versions in every folder of the repository\n* Add missing NULL Check at PRF ctrl function\n* Fix the values of the configuration global variables after forking\n* Fix return value of qat_engine_finish\n* Refactor chained cipher implementation and Add support for openssl pipelining\n* Fix compilation error with disable-qat_ciphers flag\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

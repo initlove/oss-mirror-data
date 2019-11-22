@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZDkwZDQ2ZmMyYTIxYzg4NjBiYjY5MjM4N2FlOTRjYTYyY2U0NGZmYw==",
+  "sha": "d90d46fc2a21c8860bb692387ae94ca62ce44ffc",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/d90d46fc2a21c8860bb692387ae94ca62ce44ffc",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-04-09T17:33:44Z"
+  },
+  "object": {
+    "sha": "f160a45b254e591eb33716311c92be533c6d86c4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/f160a45b254e591eb33716311c92be533c6d86c4"
+  },
+  "tag": "v0.6.15",
+  "message": "2012.04.09 Version 0.6.15 (stable)\n\n* Update npm to 1.1.16\n\n* Show licenses in binary installers.\n\n* unix: add uv_fs_read64, uv_fs_write64 and uv_fs_ftruncate64 (Ben Noordhuis)\n\n* add 64bit offset fs functions (Igor Zinkovsky)\n\n* windows: don't report ENOTSOCK when attempting to bind an udp handle twice (Bert Belder)\n\n* windows: backport pipe-connect-to-file fixes from master (Bert Belder)\n\n* windows: never call fs event callbacks after closing the watcher (Bert Belder)\n\n* fs.readFile: don't make the callback before the fd is closed (Bert Belder)\n\n* windows: use 64bit offsets for uv_fs apis (Igor Zinkovsky)\n\n* Fix #2061: segmentation fault on OS X due to stat size mismatch (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPgx14AAoJELCniwpsSBz2glAIAIdHNTxsDHqcJkRTK+s5G0tU\nzP0nKv9USNdRKBttm20Hy4t0UcFAfCpJcwnbH/kPnbH04blXY6J5fFfYgtJ40eM4\nGFrIb/Pq9C6yKLQ7PmFSCP7C5E2sNK1NfFHQpt0D2+IouIAGbv35+T9S2YEUtbt5\n7+a5m0vi6u0BDpiO86tZNipvvcs1TKuAfenDXhMhlhXXtnj6UAX+VnPpOlNIFUGz\nIDlBS8P0ie1ziYD3v31alm7p6NAgcZMnvttTsUDzr+w6Pk82A3tMpLPFYBbvPKEr\nqor8BUQbTamEA3XpkWY5JaY4Wo0daZ1N3uG8sfjXjtCerCBQwyRCpXg+NlMdM2I=\n=aYwE\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPgx14AAoJELCniwpsSBz2glAIAIdHNTxsDHqcJkRTK+s5G0tU\nzP0nKv9USNdRKBttm20Hy4t0UcFAfCpJcwnbH/kPnbH04blXY6J5fFfYgtJ40eM4\nGFrIb/Pq9C6yKLQ7PmFSCP7C5E2sNK1NfFHQpt0D2+IouIAGbv35+T9S2YEUtbt5\n7+a5m0vi6u0BDpiO86tZNipvvcs1TKuAfenDXhMhlhXXtnj6UAX+VnPpOlNIFUGz\nIDlBS8P0ie1ziYD3v31alm7p6NAgcZMnvttTsUDzr+w6Pk82A3tMpLPFYBbvPKEr\nqor8BUQbTamEA3XpkWY5JaY4Wo0daZ1N3uG8sfjXjtCerCBQwyRCpXg+NlMdM2I=\n=aYwE\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f160a45b254e591eb33716311c92be533c6d86c4\ntype commit\ntag v0.6.15\ntagger isaacs <i@izs.me> 1333992824 -0700\n\n2012.04.09 Version 0.6.15 (stable)\n\n* Update npm to 1.1.16\n\n* Show licenses in binary installers.\n\n* unix: add uv_fs_read64, uv_fs_write64 and uv_fs_ftruncate64 (Ben Noordhuis)\n\n* add 64bit offset fs functions (Igor Zinkovsky)\n\n* windows: don't report ENOTSOCK when attempting to bind an udp handle twice (Bert Belder)\n\n* windows: backport pipe-connect-to-file fixes from master (Bert Belder)\n\n* windows: never call fs event callbacks after closing the watcher (Bert Belder)\n\n* fs.readFile: don't make the callback before the fd is closed (Bert Belder)\n\n* windows: use 64bit offsets for uv_fs apis (Igor Zinkovsky)\n\n* Fix #2061: segmentation fault on OS X due to stat size mismatch (Ben Noordhuis)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOmMzYWJlZjkyNWQwZTg2NDI1ZDhmNTM4YmNjNzVkMWQ2YTIxMzRkMjQ=",
+  "sha": "c3abef925d0e86425d8f538bcc75d1d6a2134d24",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/c3abef925d0e86425d8f538bcc75d1d6a2134d24",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-04-25T09:23:44Z"
+  },
+  "object": {
+    "sha": "bf0a0697734b204e9c64df834895d46382a2cc3c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/bf0a0697734b204e9c64df834895d46382a2cc3c"
+  },
+  "tag": "17.0.3",
+  "message": "nova 17.0.3 release\n\nmeta:version: 17.0.3\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: melanie witt <melwittt@gmail.com>\nmeta:release:Commit: melanie witt <melwittt@gmail.com>\nmeta:release:Change-Id: I10eace38656bc323741ec4c6f3e7a77c46ec4e03\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+1: melissaml <ma.lei@99cloud.net>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa4EkgAAoJEMNs3LTfAMaMZykIALlCbU392/8IejxytDpI8nNW\nOvnY3RrvxsWDSQN3FxSG1/yC4/Mcz/P+kbj5d+rnd39F6nZ7GBrbFdSa5RtfeD/k\niioCqOwe3zqYRD4DWkWmsarBMF6XntNPHtdz7YFAh5HBo0z6qKrX68KItfzJqPoN\ngLW05z+oVoXxzs4sxchjRasnMqNfhG1M/FezvW/g7SwDDSb7o6r+THT2UHwFkNA3\npfS3j3L24H02e101v84mIHI8trR+2dNcucxQXU+tMypnhahdwv6HK/RZ59mcPnki\nG7N4Bzy0r2h5nLgxLO8wIsQBeiJFPvuYOkL4orCof18r35KTU1mOu0Fhs97eI+Y=\n=ZDX8\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa4EkgAAoJEMNs3LTfAMaMZykIALlCbU392/8IejxytDpI8nNW\nOvnY3RrvxsWDSQN3FxSG1/yC4/Mcz/P+kbj5d+rnd39F6nZ7GBrbFdSa5RtfeD/k\niioCqOwe3zqYRD4DWkWmsarBMF6XntNPHtdz7YFAh5HBo0z6qKrX68KItfzJqPoN\ngLW05z+oVoXxzs4sxchjRasnMqNfhG1M/FezvW/g7SwDDSb7o6r+THT2UHwFkNA3\npfS3j3L24H02e101v84mIHI8trR+2dNcucxQXU+tMypnhahdwv6HK/RZ59mcPnki\nG7N4Bzy0r2h5nLgxLO8wIsQBeiJFPvuYOkL4orCof18r35KTU1mOu0Fhs97eI+Y=\n=ZDX8\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bf0a0697734b204e9c64df834895d46382a2cc3c\ntype commit\ntag 17.0.3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1524648224 +0000\n\nnova 17.0.3 release\n\nmeta:version: 17.0.3\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: melanie witt <melwittt@gmail.com>\nmeta:release:Commit: melanie witt <melwittt@gmail.com>\nmeta:release:Change-Id: I10eace38656bc323741ec4c6f3e7a77c46ec4e03\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+1: melissaml <ma.lei@99cloud.net>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

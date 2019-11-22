@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjE0OTA1OTg6ZjFiMWUwZDdmNzQ2YjVjNzllYjRkOWE0NjBmZWRlYjgxZDc4Y2FkZQ==",
+  "sha": "f1b1e0d7f746b5c79eb4d9a460fedeb81d78cade",
+  "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/tags/f1b1e0d7f746b5c79eb4d9a460fedeb81d78cade",
+  "tagger": {
+    "name": "Adrien Crivelli",
+    "email": "adrien.crivelli@gmail.com",
+    "date": "2019-01-02T04:44:16Z"
+  },
+  "object": {
+    "sha": "bf00f0cc5f55c354018f9a9ef15e6e3e1a229051",
+    "type": "commit",
+    "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/commits/bf00f0cc5f55c354018f9a9ef15e6e3e1a229051"
+  },
+  "tag": "1.6.0",
+  "message": "1.6.0\n\n### Added\n\n- Refactored Matrix Functions to use external Matrix library\n- Possibility to specify custom colors of values for pie and donut charts - [#768](https://github.com/PHPOffice/PhpSpreadsheet/pull/768)\n\n### Fixed\n\n- Improve XLSX parsing speed if no readFilter is applied - [#772](https://github.com/PHPOffice/PhpSpreadsheet/issues/772)\n- Fix column names if read filter calls in XLSX reader skip columns - [#777](https://github.com/PHPOffice/PhpSpreadsheet/pull/777)\n- Fix LOOKUP function which was breaking on edge cases - [#796](https://github.com/PHPOffice/PhpSpreadsheet/issues/796)\n- Fix VLOOKUP with exact matches - [#809](https://github.com/PHPOffice/PhpSpreadsheet/pull/809)\n- Support COUNTIFS multiple arguments - [#830](https://github.com/PHPOffice/PhpSpreadsheet/pull/830)\n- Change `libxml_disable_entity_loader()` as shortly as possible - [#819](https://github.com/PHPOffice/PhpSpreadsheet/pull/819)\n- Improved memory usage and performance when loading large spreadsheets - [#822](https://github.com/PHPOffice/PhpSpreadsheet/pull/822)\n- Improved performance when loading large spreadsheets - [#825](https://github.com/PHPOffice/PhpSpreadsheet/pull/825)\n- Improved performance when loading large spreadsheets - [#824](https://github.com/PHPOffice/PhpSpreadsheet/pull/824)\n- Fix color from CSS when reading from HTML - [#831](https://github.com/PHPOffice/PhpSpreadsheet/pull/831)\n- Fix infinite loop when reading invalid ODS files - [#832](https://github.com/PHPOffice/PhpSpreadsheet/pull/832)\n- Fix time format for duration is incorrect - [#666](https://github.com/PHPOffice/PhpSpreadsheet/pull/666)\n- Fix iconv unsupported `//IGNORE//TRANSLIT` on IBM i - [#791](https://github.com/PHPOffice/PhpSpreadsheet/issues/791)\n\n### Changed\n\n- `master` is the new default branch, `develop` does not exist anymore\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

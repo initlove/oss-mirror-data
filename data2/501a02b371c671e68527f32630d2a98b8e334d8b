@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTM3ODAwOjUwMWEwMmIzNzFjNjcxZTY4NTI3ZjMyNjMwZDJhOThiOGUzMzRkOGI=",
+  "sha": "501a02b371c671e68527f32630d2a98b8e334d8b",
+  "url": "https://api.github.com/repos/dropwizard/metrics/git/tags/501a02b371c671e68527f32630d2a98b8e334d8b",
+  "tagger": {
+    "name": "Coda Hale",
+    "email": "coda.hale@gmail.com",
+    "date": "2011-05-13T19:39:44Z"
+  },
+  "object": {
+    "sha": "8c5206add60615a7b468a76a073ad47884f635cc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/dropwizard/metrics/git/commits/8c5206add60615a7b468a76a073ad47884f635cc"
+  },
+  "tag": "v2.0.0-BETA13",
+  "message": "* Fixed a bug in the intial startup phase of the `JmxReporter`.\n* Added `metrics-ehcache`, for the instrumentation of `Ehcache` instances.\n* Fixed a typo in `metrics-jetty`'s `InstrumentedHandler`.\n* Added name prefixes to `GraphiteReporter`.\n* Added JVM metrics reporting to `GraphiteReporter`.\n* Actually fixed `MetricsServlet`'s links when the servlet has a non-root\n  context path.\n* Now cross-building for Scala 2.9.0.\n* Added `pretty` query parameter for `MetricsServlet` to format the JSON object\n  for human consumption.\n* Added `no-cache` headers to the `MetricsServlet` responses.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

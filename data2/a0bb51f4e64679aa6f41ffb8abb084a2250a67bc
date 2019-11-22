@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTphMGJiNTFmNGU2NDY3OWFhNmY0MWZmYjhhYmIwODRhMjI1MGE2N2Jj",
+  "sha": "a0bb51f4e64679aa6f41ffb8abb084a2250a67bc",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/a0bb51f4e64679aa6f41ffb8abb084a2250a67bc",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-06-01T07:48:31Z"
+  },
+  "object": {
+    "sha": "690cfc78b38ff7f4914dccf3f50b0b95a2bcb550",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/690cfc78b38ff7f4914dccf3f50b0b95a2bcb550"
+  },
+  "tag": "5.6.1",
+  "message": "Version 5.6.1\n\n### Bug fixes\n\nFix regression when passing `null` as fourth argument to `walk.recursive`.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlsQ+lwACgkQcD8b7W0z\nrh5LOggAgcRGKkYK7GvifiG9Dri0UM15Xy2raq60ixKePlUrTG6oYTBnB2gjnQIk\nPdiw1rfH0Ld+WwufAOjorjJae7O8eu7dzRNeKvqa9iKdczU+zVANJHo4bukPUNCE\ntIKuzU1eDlyJ5ClQavNYXihC0CocT9EzTf1whxywd/RCTMX0IiClQtsnvnG3Wxzt\nSP232Xds1C79BH2zZAa9skADNmCCVb2AiDGbWmGP8UI/LtLzkOZ8AFxExQPLSD9l\naRjU5+5XYhftRYTHp5gTHkPfpRXGD4NrT28401kZEj5W5X5l4S2cmelfKresQkK/\ndsW3ggSeza1Vw/02bOl1S0TXP5fU/Q==\n=ko5S\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlsQ+lwACgkQcD8b7W0z\nrh5LOggAgcRGKkYK7GvifiG9Dri0UM15Xy2raq60ixKePlUrTG6oYTBnB2gjnQIk\nPdiw1rfH0Ld+WwufAOjorjJae7O8eu7dzRNeKvqa9iKdczU+zVANJHo4bukPUNCE\ntIKuzU1eDlyJ5ClQavNYXihC0CocT9EzTf1whxywd/RCTMX0IiClQtsnvnG3Wxzt\nSP232Xds1C79BH2zZAa9skADNmCCVb2AiDGbWmGP8UI/LtLzkOZ8AFxExQPLSD9l\naRjU5+5XYhftRYTHp5gTHkPfpRXGD4NrT28401kZEj5W5X5l4S2cmelfKresQkK/\ndsW3ggSeza1Vw/02bOl1S0TXP5fU/Q==\n=ko5S\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 690cfc78b38ff7f4914dccf3f50b0b95a2bcb550\ntype commit\ntag 5.6.1\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1527839311 +0200\n\nVersion 5.6.1\n\n### Bug fixes\n\nFix regression when passing `null` as fourth argument to `walk.recursive`.\n"
+  }
+}

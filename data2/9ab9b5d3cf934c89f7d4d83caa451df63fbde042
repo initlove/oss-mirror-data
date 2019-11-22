@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6OWFiOWI1ZDNjZjkzNGM4OWY3ZDRkODNjYWE0NTFkZjYzZmJkZTA0Mg==",
+  "sha": "9ab9b5d3cf934c89f7d4d83caa451df63fbde042",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/9ab9b5d3cf934c89f7d4d83caa451df63fbde042",
+  "tagger": {
+    "name": "Yicheng Qin",
+    "email": "qycqycqycqycqyc@gmail.com",
+    "date": "2015-07-21T17:27:44Z"
+  },
+  "object": {
+    "sha": "ca540b23dc9b225ec9c00754e6493281afe60f8b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/ca540b23dc9b225ec9c00754e6493281afe60f8b"
+  },
+  "tag": "v2.1.0",
+  "message": "Main changes:\n\n- add the authentication feature to the v2 API, providing users, roles and basic authentication\n- provide more stable transportation between etcd members\n- introduce functional testing framework\n- provide leveled logging\n- introduce metrics feature\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVroGNAAoJEOdQvf2jMxAz6jsP/i66gY6A6QtyI4UqLtOYswBR\nijk4QI54LzsVMBiteI2AhFm4KFGmuGptKl8NU7fDeXZ9OKeOAqihODGFC1Bnbro1\nLfgGz5ig2nU/SHcKOIWowmydnlou1zm1AkUIoCbqfDKpYGSVlwVrQ9OvOGmSKw1a\nw38N3gzSqyApPIxvqXB7ZoFKkTBPKpfA/7cEqiJsXO6zWJHV6/U1QQMos9seDLw6\nE0tHukTzwVVWmKGka/gWeRixos1JlQ6yuXsp+c24/m4P97r2tLjfb092D+aBD1Jm\nGrdTEy5tvDp7eOslxLHvwWhYMGWI6zPWTbC4BTs5nSDg8cD/6SMrEQOvTw36f6xa\nrk/6hFeww7UEuxLdQOBUkO6ohn8Q2syHLV3PITEBigB3AhDMv6YxZcw+oFAjBxY9\nrqulF3T8tJwrBZoyuNE0wmOK7Rzu7PmQtDPVQ2XRDWbTZXi/QuuwUkltm3TQdawI\nI4ctHf6CQqzJdLsc+rW3R6Hev64McJLOOnu2svUIv+YhSOW7ZqaF0Drmm9vB5Ik6\nMCBpNo9HPZSrrP2KzPmGP9yeyxlQ+ZejX8ZUNpzd0b1pusJlICX13oXLtd3chnYe\n1Nex5YV6O2NZbOzq7b9oQUMAx8DK9pyo/XP5HH0cP3XxpD+JSH5Iak93D6sFPO43\nKbfXGkgyONx1V9ytJrh3\n=MKyd\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVroGNAAoJEOdQvf2jMxAz6jsP/i66gY6A6QtyI4UqLtOYswBR\nijk4QI54LzsVMBiteI2AhFm4KFGmuGptKl8NU7fDeXZ9OKeOAqihODGFC1Bnbro1\nLfgGz5ig2nU/SHcKOIWowmydnlou1zm1AkUIoCbqfDKpYGSVlwVrQ9OvOGmSKw1a\nw38N3gzSqyApPIxvqXB7ZoFKkTBPKpfA/7cEqiJsXO6zWJHV6/U1QQMos9seDLw6\nE0tHukTzwVVWmKGka/gWeRixos1JlQ6yuXsp+c24/m4P97r2tLjfb092D+aBD1Jm\nGrdTEy5tvDp7eOslxLHvwWhYMGWI6zPWTbC4BTs5nSDg8cD/6SMrEQOvTw36f6xa\nrk/6hFeww7UEuxLdQOBUkO6ohn8Q2syHLV3PITEBigB3AhDMv6YxZcw+oFAjBxY9\nrqulF3T8tJwrBZoyuNE0wmOK7Rzu7PmQtDPVQ2XRDWbTZXi/QuuwUkltm3TQdawI\nI4ctHf6CQqzJdLsc+rW3R6Hev64McJLOOnu2svUIv+YhSOW7ZqaF0Drmm9vB5Ik6\nMCBpNo9HPZSrrP2KzPmGP9yeyxlQ+ZejX8ZUNpzd0b1pusJlICX13oXLtd3chnYe\n1Nex5YV6O2NZbOzq7b9oQUMAx8DK9pyo/XP5HH0cP3XxpD+JSH5Iak93D6sFPO43\nKbfXGkgyONx1V9ytJrh3\n=MKyd\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ca540b23dc9b225ec9c00754e6493281afe60f8b\ntype commit\ntag v2.1.0\ntagger Yicheng Qin <qycqycqycqycqyc@gmail.com> 1437499664 -0700\n\nMain changes:\n\n- add the authentication feature to the v2 API, providing users, roles and basic authentication\n- provide more stable transportation between etcd members\n- introduce functional testing framework\n- provide leveled logging\n- introduce metrics feature\n"
+  }
+}

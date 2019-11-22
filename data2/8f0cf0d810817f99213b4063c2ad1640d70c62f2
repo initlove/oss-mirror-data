@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTo4ZjBjZjBkODEwODE3Zjk5MjEzYjQwNjNjMmFkMTY0MGQ3MGM2MmYy",
+  "sha": "8f0cf0d810817f99213b4063c2ad1640d70c62f2",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/8f0cf0d810817f99213b4063c2ad1640d70c62f2",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-08-13T07:55:01Z"
+  },
+  "object": {
+    "sha": "8c076c466cd04fc00b87db89c3a8b86ac5da7574",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/8c076c466cd04fc00b87db89c3a8b86ac5da7574"
+  },
+  "tag": "7.0.0",
+  "message": "Version 7.0.0\n\n### Breaking changes\n\nChanges the node format for dynamic imports to use the `ImportExpression` node type, as defined in [ESTree](https://github.com/estree/estree/blob/master/es2020.md#importexpression).\n\nMakes 10 (ES2019) the default value for the `ecmaVersion` option.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAl1SbNsACgkQcD8b7W0z\nrh5bSwf8DoOb0ce7AKx3PtgD7/0vHQQCMqJOrmXiv0FSpuh+O6qRMJ3JAXjVkNTX\nvlP7Ts/TIVTfNf+2fs+P+nEzu65mkhS0rbiuEI1ws36vIEDtjEHxvhR3kS/yQU0q\nD6jMQlFDo9wZ93BZVbub2hDJzr89GVgZrkI+dk9sxJqOonj8YCH2YCaRxVY4smiU\nKvw121TPUQ15N8vjiQyNkZnp8nvP7al0H5tBLUGcoE80c7PxBMiFe6iB6QjEwMup\n27bhIz0Zc0qOTSp1HNCMqwj+QDeBIfG9spQG9BagTG4JVR69Ek4mtIQjF6egr7hi\n/0LUNA2NsEiJ3WH8C+pOo1wNevLW6A==\n=JRqW\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAl1SbNsACgkQcD8b7W0z\nrh5bSwf8DoOb0ce7AKx3PtgD7/0vHQQCMqJOrmXiv0FSpuh+O6qRMJ3JAXjVkNTX\nvlP7Ts/TIVTfNf+2fs+P+nEzu65mkhS0rbiuEI1ws36vIEDtjEHxvhR3kS/yQU0q\nD6jMQlFDo9wZ93BZVbub2hDJzr89GVgZrkI+dk9sxJqOonj8YCH2YCaRxVY4smiU\nKvw121TPUQ15N8vjiQyNkZnp8nvP7al0H5tBLUGcoE80c7PxBMiFe6iB6QjEwMup\n27bhIz0Zc0qOTSp1HNCMqwj+QDeBIfG9spQG9BagTG4JVR69Ek4mtIQjF6egr7hi\n/0LUNA2NsEiJ3WH8C+pOo1wNevLW6A==\n=JRqW\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8c076c466cd04fc00b87db89c3a8b86ac5da7574\ntype commit\ntag 7.0.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1565682901 +0200\n\nVersion 7.0.0\n\n### Breaking changes\n\nChanges the node format for dynamic imports to use the `ImportExpression` node type, as defined in [ESTree](https://github.com/estree/estree/blob/master/es2020.md#importexpression).\n\nMakes 10 (ES2019) the default value for the `ecmaVersion` option.\n"
+  }
+}

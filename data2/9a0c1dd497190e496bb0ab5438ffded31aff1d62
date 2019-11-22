@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6OWEwYzFkZDQ5NzE5MGU0OTZiYjBhYjU0MzhmZmRlZDMxYWZmMWQ2Mg==",
+  "sha": "9a0c1dd497190e496bb0ab5438ffded31aff1d62",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/9a0c1dd497190e496bb0ab5438ffded31aff1d62",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-10-18T22:37:09Z"
+  },
+  "object": {
+    "sha": "e2da042844a830fafb8031f6c477eb4f96195210",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/e2da042844a830fafb8031f6c477eb4f96195210"
+  },
+  "tag": "v0.10.21",
+  "message": "2013.10.18, Version 0.10.21 (Stable)\n\n* uv: Upgrade to v0.10.18\n\n* crypto: clear errors from verify failure (Timothy J Fontaine)\n\n* dtrace: interpret two byte strings (Dave Pacheco)\n\n* fs: fix fs.truncate() file content zeroing bug (Ben Noordhuis)\n\n* http: provide backpressure for pipeline flood (isaacs)\n\n* tls: fix premature connection termination (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlJhuBUACgkQfTP/nQJGQG1qJACg3r2xTq64rL1z9eRbCEPGbMfP\nRzgAoO4dEkZjSmVtG6vsd9Lvj99Qorvn\n=VDGw\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlJhuBUACgkQfTP/nQJGQG1qJACg3r2xTq64rL1z9eRbCEPGbMfP\nRzgAoO4dEkZjSmVtG6vsd9Lvj99Qorvn\n=VDGw\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e2da042844a830fafb8031f6c477eb4f96195210\ntype commit\ntag v0.10.21\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1382135829 -0700\n\n2013.10.18, Version 0.10.21 (Stable)\n\n* uv: Upgrade to v0.10.18\n\n* crypto: clear errors from verify failure (Timothy J Fontaine)\n\n* dtrace: interpret two byte strings (Dave Pacheco)\n\n* fs: fix fs.truncate() file content zeroing bug (Ben Noordhuis)\n\n* http: provide backpressure for pipeline flood (isaacs)\n\n* tls: fix premature connection termination (Ben Noordhuis)\n"
+  }
+}

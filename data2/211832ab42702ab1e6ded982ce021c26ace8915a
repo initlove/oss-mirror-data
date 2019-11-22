@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOjIxMTgzMmFiNDI3MDJhYjFlNmRlZDk4MmNlMDIxYzI2YWNlODkxNWE=",
+  "sha": "211832ab42702ab1e6ded982ce021c26ace8915a",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/211832ab42702ab1e6ded982ce021c26ace8915a",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-08-24T17:24:38Z"
+  },
+  "object": {
+    "sha": "5bff489231c16e62f081267a5b433745dba12ded",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/5bff489231c16e62f081267a5b433745dba12ded"
+  },
+  "tag": "18.0.0.0rc3",
+  "message": "nova 18.0.0.0rc3 release candidate\n\nmeta:version: 18.0.0.0rc3\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: melanie witt <melwittt@gmail.com>\nmeta:release:Commit: melanie witt <melwittt@gmail.com>\nmeta:release:Change-Id: Ifccefe04a00df3882ff0e77dc2a21ae3902eb844\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbgD9WAAoJEMNs3LTfAMaMH0wH/i4Hm9ttv18pYAtg8HDrYEz7\nLC3oq4UamtzuaIf/fkbpMJHFSetTnwpoZpkfydddTEYRNKIQ2k0YNSGrTAc32LZa\nj8VA7U0F2okXKW/javKjdCYL2TIyBWZ+ONHs+t6KhncTRvNw/2GDZccN5tg43dpe\nLEZGGEHDPP7NXGX3BcZNETCzHwSyE1qz+zbD6oYj7LT+vCp87U0StD3Gqpv832nu\nGJyvlxCbWyXlzRDU69yx4groYCpMW4NicOKlJJ516P0B9GnXFLBodQiv9yWL39ic\nEWtycjN7Q4MFjddIGf9ikjKXY4c/hOwC4dsyMitrtIBMovhQLGr+479dng5n8mw=\n=GBgj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbgD9WAAoJEMNs3LTfAMaMH0wH/i4Hm9ttv18pYAtg8HDrYEz7\nLC3oq4UamtzuaIf/fkbpMJHFSetTnwpoZpkfydddTEYRNKIQ2k0YNSGrTAc32LZa\nj8VA7U0F2okXKW/javKjdCYL2TIyBWZ+ONHs+t6KhncTRvNw/2GDZccN5tg43dpe\nLEZGGEHDPP7NXGX3BcZNETCzHwSyE1qz+zbD6oYj7LT+vCp87U0StD3Gqpv832nu\nGJyvlxCbWyXlzRDU69yx4groYCpMW4NicOKlJJ516P0B9GnXFLBodQiv9yWL39ic\nEWtycjN7Q4MFjddIGf9ikjKXY4c/hOwC4dsyMitrtIBMovhQLGr+479dng5n8mw=\n=GBgj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5bff489231c16e62f081267a5b433745dba12ded\ntype commit\ntag 18.0.0.0rc3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1535131478 +0000\n\nnova 18.0.0.0rc3 release candidate\n\nmeta:version: 18.0.0.0rc3\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: melanie witt <melwittt@gmail.com>\nmeta:release:Commit: melanie witt <melwittt@gmail.com>\nmeta:release:Change-Id: Ifccefe04a00df3882ff0e77dc2a21ae3902eb844\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YmRjYjY0N2M2MzAwOTUxMjFmZjk1MTRhN2EwZjIyODYzM2RkODhhNg==",
+  "sha": "bdcb647c630095121ff9514a7a0f228633dd88a6",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/bdcb647c630095121ff9514a7a0f228633dd88a6",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-07-31T18:37:01Z"
+  },
+  "object": {
+    "sha": "643a21c09761fa252f7769676abe6495a01f4b39",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/643a21c09761fa252f7769676abe6495a01f4b39"
+  },
+  "tag": "v0.8.28",
+  "message": "2014.07.31, Version 0.8.28 (maintenance)\n\n* v8: Interrupts must not mask stack overflow. (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlPajM0ACgkQfTP/nQJGQG3iHQCfQt+Gym4axgbK6RP3V7qHqRg3\nP6cAnRljfeqkcIsjHtM/z5R1iS/+o55G\n=ZyaT\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlPajM0ACgkQfTP/nQJGQG3iHQCfQt+Gym4axgbK6RP3V7qHqRg3\nP6cAnRljfeqkcIsjHtM/z5R1iS/+o55G\n=ZyaT\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 643a21c09761fa252f7769676abe6495a01f4b39\ntype commit\ntag v0.8.28\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1406831821 -0700\n\n2014.07.31, Version 0.8.28 (maintenance)\n\n* v8: Interrupts must not mask stack overflow. (Fedor Indutny)\n"
+  }
+}

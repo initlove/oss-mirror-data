@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDk0MTg2Nzo5ZGZhYzg5MWE3NDg1MzIzMGM0YWRjZDAzMzRmNzg0YTI0MTk0OWMy",
+  "sha": "9dfac891a74853230c4adcd0334f784a241949c2",
+  "url": "https://api.github.com/repos/Netflix/governator/git/tags/9dfac891a74853230c4adcd0334f784a241949c2",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-06-05T22:15:50Z"
+  },
+  "object": {
+    "sha": "8e0f57783d5a54b2f5fed00bee34a4a8cfdc0e0e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/governator/git/commits/8e0f57783d5a54b2f5fed00bee34a4a8cfdc0e0e"
+  },
+  "tag": "v1.7.5",
+  "message": "Release of 1.7.5\n\n- 8e0f57783d5a54b2f5fed00bee34a4a8cfdc0e0e: Merge pull request #215 from elandau/nextgen\n- 7d850acedde758293d45d1326ea2154dd4883e34: Initial documentation\n- e1d2be71b63bbb6a59847f82546ad03e484f6336: Merge pull request #214 from elandau/nextgen\n- 0ffc62b667f3046bdf5460b42d119e481de60bd7: Remove onStarting from LifecycleManager this it's invocation is inherently inconsistent.  Make sure LifecycleModule() can be installed multiple times.\n- c8e97926bf717f023429fd8ef417595459505686: Minor cleanup to initialize of LifecycleProvisionListener\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MGNlMzM3NzExZWNkZDAzNzg3OTcyYzNhZDNhZjg5NDM3YzQ1MzRhNA==",
+  "sha": "0ce337711ecdd03787972c3ad3af89437c4534a4",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/0ce337711ecdd03787972c3ad3af89437c4534a4",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-06-16T15:33:11Z"
+  },
+  "object": {
+    "sha": "a69205346b09eb3fd21e9530a75868b92102e039",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/a69205346b09eb3fd21e9530a75868b92102e039"
+  },
+  "tag": "v0.8.27",
+  "message": "2014.06.09, Version 0.8.27 (maintenance)\n\n* openssl: update to 1.0.0m (CVE-2014-0224)\n\n* utf8: Prevent Node from sending invalid UTF-8 (Felix Geisendörfer)\n  - *NOTE* this introduces a breaking change, previously you could construct\ninvalid UTF-8 and invoke an error in a client that was expecting valid\nUTF-8, now unmatched surrogate pairs are replaced with the unknown UTF-8\ncharacter. To restore the old functionality simply have NODE_INVALID_UTF8\nenvironment variable set.\n\n* tls: fix pool usage race (Fedor Indutny)\n\n* fs: close file if fstat() fails in readFile() (cjihrig)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlOfDjcACgkQfTP/nQJGQG1w2QCg2PvDLn6MBfRZ0JgilFfheS1I\n3jsAoNR+KCje4Li2ZrvUvo8JUpQ0EAcm\n=AWvz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlOfDjcACgkQfTP/nQJGQG1w2QCg2PvDLn6MBfRZ0JgilFfheS1I\n3jsAoNR+KCje4Li2ZrvUvo8JUpQ0EAcm\n=AWvz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a69205346b09eb3fd21e9530a75868b92102e039\ntype commit\ntag v0.8.27\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1402932791 -0500\n\n2014.06.09, Version 0.8.27 (maintenance)\n\n* openssl: update to 1.0.0m (CVE-2014-0224)\n\n* utf8: Prevent Node from sending invalid UTF-8 (Felix Geisendörfer)\n  - *NOTE* this introduces a breaking change, previously you could construct\ninvalid UTF-8 and invoke an error in a client that was expecting valid\nUTF-8, now unmatched surrogate pairs are replaced with the unknown UTF-8\ncharacter. To restore the old functionality simply have NODE_INVALID_UTF8\nenvironment variable set.\n\n* tls: fix pool usage race (Fedor Indutny)\n\n* fs: close file if fstat() fails in readFile() (cjihrig)\n"
+  }
+}

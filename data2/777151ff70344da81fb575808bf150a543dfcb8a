@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6Nzc3MTUxZmY3MDM0NGRhODFmYjU3NTgwOGJmMTUwYTU0M2RmY2I4YQ==",
+  "sha": "777151ff70344da81fb575808bf150a543dfcb8a",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/777151ff70344da81fb575808bf150a543dfcb8a",
+  "tagger": {
+    "name": "Yicheng Qin",
+    "email": "qycqycqycqycqyc@gmail.com",
+    "date": "2015-05-15T22:14:28Z"
+  },
+  "object": {
+    "sha": "0678329cd64a64d7478eae6c35ed0bea0346da86",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/0678329cd64a64d7478eae6c35ed0bea0346da86"
+  },
+  "tag": "v2.0.11",
+  "message": "- [GH2689] fix the bug that newly joined member may panic\n- [GH2705] fix the bug that stats may be updated before it is initialized\n- [GH2749] fix the typo in the string representation of raftLog\n- [GH2743] fix connection leak in proxy mode\n- [GH2751 GH2811] support filelock for solaris and plan9\n- [GH2756] improve the reliability of `etcdctl member remove`\n- [GH2758] improve the disaster recovery guide\n- [GH2761] demand users to set -advertise-client-urls explicitly for better usage\n- [GH2560] print out more version informantion\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVVnWNAAoJEOdQvf2jMxAzUUsP/0LiSgkdz0m+QuOUg0oiu0w4\nFMHjNCx7VBt0kq8l6dQBv87gYaB+XRr72/gTWpk5BuXwIMl3FdfeOOaUpq+v8F67\nfbYRylZ+uUKdarunSgvW5QDGk6gn/NQlCSeqJTPur7NB5ZaUksiC8gEFc/MFzK/i\nlkOA0yVMd21GaHwLXfLudC9vqOWHm5/QJlMtfYlbMNHmo7z6ovn3SurwTxot9mv3\nTZe/D2XaEhkaegMt2IgvgpHQoITOULCjyWz5q11Niyx8MGkNTAv0CHR3MUofc4wm\nHn8dEZt/ZeBAEmrTBCGS+f9RA2r+jPwNXTIn/gQTzKOh7l/cSAJNMqJMjQ8bsrdh\n0+pwN//jPar1SFzSAuT8iEgRdQbllWb9KpSgU1jXP2TlocqNq/8dGfqYsuN/cyls\n7plto0wgwt6jkO6FJh8euaKtssjvLFcp8m4bxyYGyFlGB/Liz46nMniQg6eaJ0g2\nJxXE4SA5Ql4OMi+kACCXP8EafyRMXZjbvnMRLry2a+zlKnPighcoFRCbA8AKvgiy\n8eer5OOl+YPMXbp2yaia6Ida9baYCzykH8ixLkMYzUr7H3bWil5BP1WaO2C3e+Wi\n1lVrJJQuiZuFDXjcIxlJ6Yp6FV68vm2y7D0q8ic+6OhgeBUzIHRTl4C60cyUVU9a\n+ZkT5LuX9mDvfobOhpsq\n=lvTv\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVVnWNAAoJEOdQvf2jMxAzUUsP/0LiSgkdz0m+QuOUg0oiu0w4\nFMHjNCx7VBt0kq8l6dQBv87gYaB+XRr72/gTWpk5BuXwIMl3FdfeOOaUpq+v8F67\nfbYRylZ+uUKdarunSgvW5QDGk6gn/NQlCSeqJTPur7NB5ZaUksiC8gEFc/MFzK/i\nlkOA0yVMd21GaHwLXfLudC9vqOWHm5/QJlMtfYlbMNHmo7z6ovn3SurwTxot9mv3\nTZe/D2XaEhkaegMt2IgvgpHQoITOULCjyWz5q11Niyx8MGkNTAv0CHR3MUofc4wm\nHn8dEZt/ZeBAEmrTBCGS+f9RA2r+jPwNXTIn/gQTzKOh7l/cSAJNMqJMjQ8bsrdh\n0+pwN//jPar1SFzSAuT8iEgRdQbllWb9KpSgU1jXP2TlocqNq/8dGfqYsuN/cyls\n7plto0wgwt6jkO6FJh8euaKtssjvLFcp8m4bxyYGyFlGB/Liz46nMniQg6eaJ0g2\nJxXE4SA5Ql4OMi+kACCXP8EafyRMXZjbvnMRLry2a+zlKnPighcoFRCbA8AKvgiy\n8eer5OOl+YPMXbp2yaia6Ida9baYCzykH8ixLkMYzUr7H3bWil5BP1WaO2C3e+Wi\n1lVrJJQuiZuFDXjcIxlJ6Yp6FV68vm2y7D0q8ic+6OhgeBUzIHRTl4C60cyUVU9a\n+ZkT5LuX9mDvfobOhpsq\n=lvTv\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0678329cd64a64d7478eae6c35ed0bea0346da86\ntype commit\ntag v2.0.11\ntagger Yicheng Qin <qycqycqycqycqyc@gmail.com> 1431728068 -0700\n\n- [GH2689] fix the bug that newly joined member may panic\n- [GH2705] fix the bug that stats may be updated before it is initialized\n- [GH2749] fix the typo in the string representation of raftLog\n- [GH2743] fix connection leak in proxy mode\n- [GH2751 GH2811] support filelock for solaris and plan9\n- [GH2756] improve the reliability of `etcdctl member remove`\n- [GH2758] improve the disaster recovery guide\n- [GH2761] demand users to set -advertise-client-urls explicitly for better usage\n- [GH2560] print out more version informantion\n"
+  }
+}

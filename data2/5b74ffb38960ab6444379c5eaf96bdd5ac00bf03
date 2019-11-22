@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAxNzQyOjViNzRmZmIzODk2MGFiNjQ0NDM3OWM1ZWFmOTZiZGQ1YWMwMGJmMDM=",
+  "sha": "5b74ffb38960ab6444379c5eaf96bdd5ac00bf03",
+  "url": "https://api.github.com/repos/tornadoweb/tornado/git/tags/5b74ffb38960ab6444379c5eaf96bdd5ac00bf03",
+  "tagger": {
+    "name": "Ben Darnell",
+    "email": "bdarnell@beaker.local",
+    "date": "2010-07-22T23:56:38Z"
+  },
+  "object": {
+    "sha": "eb5b3d8df7a305ac1ffa0a12c813e5d7ee4d6cd3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tornadoweb/tornado/git/commits/eb5b3d8df7a305ac1ffa0a12c813e5d7ee4d6cd3"
+  },
+  "tag": "v1.0.0",
+  "message": "We are pleased to announce the release of Tornado 1.0, available from http://github.com/downloads/facebook/tornado/tornado-1.0.tar.gz.  There have been many changes since version 0.2; here are some of the highlights:\n\nNew features:\n* Improved support for running other WSGI applications in a Tornado server (tested with Django and CherryPy)\n* Improved performance on Mac OS X and BSD (kqueue-based IOLoop), and experimental support for win32\n* Rewritten AsyncHTTPClient available as tornado.httpclient.AsyncHTTPClient2 (this will become the default in a future release)\n* Support for standard .mo files in addition to .csv in the locale module\n* Pre-forking support for running multiple Tornado processes at once (see HTTPServer.start())\n* SSL and gzip support in HTTPServer\n* reverse_url() function refers to urls from the Application config by name from templates and RequestHandlers\n* RequestHandler.on_connection_close() callback is called when the client has closed the connection (subject to limitations of the underlying network stack, any proxies, etc)\n* Static files can now be served somewhere other than /static/ via the static_url_prefix application setting\n* URL regexes can now use named groups (\"(?P<name>)\") to pass arguments to get()/post() via keyword instead of position\n* HTTP header dictionary-like objects now support multiple values for the same header via the get_all() and add() methods.\n* Several new options in the httpclient module, including prepare_curl_callback and header_callback\n* Improved logging configuration in tornado.options.\n* UIModule.html_body() can be used to return html to be inserted at the end of the document body.\n\nBackwards-incompatible changes:\n* RequestHandler.get_error_html() now receives the exception object as a keyword argument if the error was caused by an uncaught exception.\n* Secure cookies are now more secure, but incompatible with cookies set by Tornado 0.2.  To read cookies set by older versions of Tornado, pass include_name=False to RequestHandler.get_secure_cookie()\n* Parameters passed to RequestHandler.get/post() by extraction from the path now have %-escapes decoded, for consistency with the processing that was already done with other query parameters.\n\nMany thanks to everyone who contributed patches, bug reports, and feedback that went into this release!\n\n-Ben\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

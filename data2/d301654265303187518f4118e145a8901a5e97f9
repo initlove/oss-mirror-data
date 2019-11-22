@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTpkMzAxNjU0MjY1MzAzMTg3NTE4ZjQxMThlMTQ1YTg5MDFhNWU5N2Y5",
+  "sha": "d301654265303187518f4118e145a8901a5e97f9",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/d301654265303187518f4118e145a8901a5e97f9",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2016-09-11T19:33:02Z"
+  },
+  "object": {
+    "sha": "9e804620b73746ab4b8f182f3c674df24c4ec4da",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/9e804620b73746ab4b8f182f3c674df24c4ec4da"
+  },
+  "tag": "4.0.2",
+  "message": "Version 4.0.2\n\n### Bug fixes\n\nDon't ignore period or 'e' characters after octal numbers.\n\nFix broken parsing for call expressions in default parameter values\nof arrow functions.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJX1bF8AAoJEHA/G+1tM64eZnEH/092P/U5kJgoEjHVT6c0RUwg\nGvJIigOGELUmSiYfT3qFnisaHHD6xGUZwNZjqAdQ5P2qyY8er54lVj5ZgghomLub\n8mZAnV79IfsNbJCVIyDP05os7ukUFeaVgkWn7n331MpDElzbmSo7cuLuAjJ3g6ny\nMLJ5temrrINWEzSnCp5ZBxt6gLm2Y73ACtp1CwyjL9K3qVA69KHJUPffVTwhbBPx\nus5hzg0t7xzU6YQuIH3OxJiDnetsxT9OCj7W4uUDXlKQE2TpMe0UleS7JMtZWOqg\ntQoFwcfyrUOT5II3S/om5TCTU2FRDIgvXOGaKZLrENMenHJOz5+60v/QD8/80xU=\n=Lk/X\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJX1bF8AAoJEHA/G+1tM64eZnEH/092P/U5kJgoEjHVT6c0RUwg\nGvJIigOGELUmSiYfT3qFnisaHHD6xGUZwNZjqAdQ5P2qyY8er54lVj5ZgghomLub\n8mZAnV79IfsNbJCVIyDP05os7ukUFeaVgkWn7n331MpDElzbmSo7cuLuAjJ3g6ny\nMLJ5temrrINWEzSnCp5ZBxt6gLm2Y73ACtp1CwyjL9K3qVA69KHJUPffVTwhbBPx\nus5hzg0t7xzU6YQuIH3OxJiDnetsxT9OCj7W4uUDXlKQE2TpMe0UleS7JMtZWOqg\ntQoFwcfyrUOT5II3S/om5TCTU2FRDIgvXOGaKZLrENMenHJOz5+60v/QD8/80xU=\n=Lk/X\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9e804620b73746ab4b8f182f3c674df24c4ec4da\ntype commit\ntag 4.0.2\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1473622382 +0200\n\nVersion 4.0.2\n\n### Bug fixes\n\nDon't ignore period or 'e' characters after octal numbers.\n\nFix broken parsing for call expressions in default parameter values\nof arrow functions.\n"
+  }
+}

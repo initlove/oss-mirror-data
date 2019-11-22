@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAxNzQyOjBkYWNhMDQ0NzM4YjdkY2QwY2FhYmVkMDhkNWI1YTFhZjIyODg3ZWI=",
+  "sha": "0daca044738b7dcd0caabed08d5b5a1af22887eb",
+  "url": "https://api.github.com/repos/tornadoweb/tornado/git/tags/0daca044738b7dcd0caabed08d5b5a1af22887eb",
+  "tagger": {
+    "name": "Ben Darnell",
+    "email": "ben@bendarnell.com",
+    "date": "2019-06-23T22:22:48Z"
+  },
+  "object": {
+    "sha": "a36d05d1ef6527c56aaea2a749972845e64ef206",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tornadoweb/tornado/git/commits/a36d05d1ef6527c56aaea2a749972845e64ef206"
+  },
+  "tag": "v6.0.3",
+  "message": "What's new in Tornado 6.0.3\n\nJun 22, 2019\n------------\n\nBug fixes\n~~~~~~~~~\n\n- `.gen.with_timeout` always treats ``asyncio.CancelledError`` as a\n  ``quiet_exception`` (this improves compatibility with Python 3.8,\n  which changed ``CancelledError`` to a ``BaseException``).\n- ``IOStream`` now checks for closed streams earlier, avoiding\n  spurious logged errors in some situations (mainly with websockets).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

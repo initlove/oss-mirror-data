@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODowZjk3NjhjNzA1MDBmMTA0MWExYWNmNmY1ZTU5YWI2YzY4NjAxY2Fm",
+  "sha": "0f9768c70500f1041a1acf6f5e59ab6c68601caf",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/0f9768c70500f1041a1acf6f5e59ab6c68601caf",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-10-14T21:26:15Z"
+  },
+  "object": {
+    "sha": "64b65c3521091d7e820ac4aaec68059c61cf7cd1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/64b65c3521091d7e820ac4aaec68059c61cf7cd1"
+  },
+  "tag": "v1.4.18",
+  "message": "Release of 1.4.18\n\n- 64b65c3521091d7e820ac4aaec68059c61cf7cd1: Merge pull request #934 from mattrjacobs/backport-pr-919\n- 1ea453754f96aa6b40bea6b10d04b1b35c225e37: Fix JS formatting\n- d88055524521fe7c991e792fea39431807202c21: Remove duplicate EventSource\n- baeeb240f08e584bc8ffb43992286805514a7c8e: Merge pull request #931 from mattrjacobs/make-timeout-exception-public\n- 70615dc0c7e6e8bd14b4dc406b2c4d985b05ec75: Make HystrixTimeoutException public so that user-defined execution methods may return it\n- 93fe1306c25f061d1e27567c4ec94dccd5a5bc2d: Merge pull request #930 from mattrjacobs/backport-pr-928\n- 0604df80284aee92a718403d362c9ae3d7cef95b: Support collapser metrics in HystrixMetricPublisher implementations\n- 3fd69e7e02b039950b57b099a82620f9c2606d2b: Merge pull request #927 from chrisgray/chrisgray/dashboard_iscircuitbreakeropen\n- ff5d4cf67493f099c901977b5e078c0f8cdfd256: [hystrix-dashboard] isCircuitBreakerOpen is a normally a boolean from the HystrixStream servlet, however these replace() operations assume that it is a string. There are certain instances where Turbine does not return back a String when isCircuitBreakerOpen is aggregated. This enforces the boolean to be a string first, regardless of what Turbine may/may not do.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

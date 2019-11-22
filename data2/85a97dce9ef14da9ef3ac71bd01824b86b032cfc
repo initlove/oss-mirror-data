@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6ODVhOTdkY2U5ZWYxNGRhOWVmM2FjNzFiZDAxODI0Yjg2YjAzMmNmYw==",
+  "sha": "85a97dce9ef14da9ef3ac71bd01824b86b032cfc",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/85a97dce9ef14da9ef3ac71bd01824b86b032cfc",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2017-04-03T12:03:32Z"
+  },
+  "object": {
+    "sha": "86bcf029b40d888193f249e7e91a70bc85e7d7dc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/86bcf029b40d888193f249e7e91a70bc85e7d7dc"
+  },
+  "tag": "v0.5.21",
+  "message": "Release v0.5.21 contains the following changes:\n* Remove error raised when LimitDevAccess cannot be found in Driver Config File.\n* Add missing ENGINE_free's to correctly release the structural references.\n* Add slot size optimisations within qae_mem_utils.c\n* Tidy up of PRF data structures and allocations\n* Bug fix for rounding error in qat_ciphers.c sometimes allocating additional storage that is not required.\n* Further changes to effect fix for rounding error in qat_ciphers.c.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

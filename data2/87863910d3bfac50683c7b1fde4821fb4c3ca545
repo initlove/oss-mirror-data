@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjE0OTA1OTg6ODc4NjM5MTBkM2JmYWM1MDY4M2M3YjFmZGU0ODIxZmI0YzNjYTU0NQ==",
+  "sha": "87863910d3bfac50683c7b1fde4821fb4c3ca545",
+  "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/tags/87863910d3bfac50683c7b1fde4821fb4c3ca545",
+  "tagger": {
+    "name": "Adrien Crivelli",
+    "email": "adrien.crivelli@gmail.com",
+    "date": "2018-01-28T12:38:00Z"
+  },
+  "object": {
+    "sha": "a2771e562e3a17c0d512d2009e38fd628beece90",
+    "type": "commit",
+    "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/commits/a2771e562e3a17c0d512d2009e38fd628beece90"
+  },
+  "tag": "1.1.0",
+  "message": "1.1.0\n\n- Support for PHP 7.2\n- Support cell comments in HTML writer and reader - [#308](https://github.com/PHPOffice/PhpSpreadsheet/issues/308)\n- Option to stop at a conditional styling, if it matches (only XLSX format) - [#292](https://github.com/PHPOffice/PhpSpreadsheet/pull/292)\n- Support for line width for data series when rendering Xlsx - [#329](https://github.com/PHPOffice/PhpSpreadsheet/pull/329)\n\n- Better auto-detection of CSV separators - [#305](https://github.com/PHPOffice/PhpSpreadsheet/issues/305)\n- Support for shape style ending with `;` - [#304](https://github.com/PHPOffice/PhpSpreadsheet/issues/304)\n- Freeze Panes takes wrong coordinates for XLSX - [#322](https://github.com/PHPOffice/PhpSpreadsheet/issues/322)\n- `COLUMNS` and `ROWS` functions crashed in some cases - [#336](https://github.com/PHPOffice/PhpSpreadsheet/issues/336)\n- Support XML file without styles - [#331](https://github.com/PHPOffice/PhpSpreadsheet/pull/331)\n- Cell coordinates which are already a range cause an exception [#319](https://github.com/PHPOffice/PhpSpreadsheet/issues/319)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

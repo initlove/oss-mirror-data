@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6ZDMyMzI3OGI5YWM5NWQ5N2NkMjBkZWM0NDJlYWQyZWYxMWYzYjA3Yw==",
+  "sha": "d323278b9ac95d97cd20dec442ead2ef11f3b07c",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/d323278b9ac95d97cd20dec442ead2ef11f3b07c",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2017-12-20T17:49:41Z"
+  },
+  "object": {
+    "sha": "9153bf3b85d94943bf7ded91fd4466a6d20faf5a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/9153bf3b85d94943bf7ded91fd4466a6d20faf5a"
+  },
+  "tag": "v0.5.32",
+  "message": "Release v0.5.32 contains the following changes:\n* Remove temporary variables that were not required.\n* Fix punctuation\n* Remove duplicate range check conditions\n* Fix issue that prevents you overriding CFLAGS at the make command line.\n* README.md corrections and updates.\n* Fix crash in signal code after forking.\n* Add c2xxx config files for single accelerator variant.\n* Add example config files for dh89xxcc single accelerator variant.\n* Add missing NULL Checks to qae_mem_utils.c\n* Fix optimisation issue in function 'qat_crypto_callbackFn'.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

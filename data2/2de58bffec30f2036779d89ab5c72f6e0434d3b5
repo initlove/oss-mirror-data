@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MmRlNThiZmZlYzMwZjIwMzY3NzlkODlhYjVjNzJmNmUwNDM0ZDNiNQ==",
+  "sha": "2de58bffec30f2036779d89ab5c72f6e0434d3b5",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/2de58bffec30f2036779d89ab5c72f6e0434d3b5",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-03-06T01:56:01Z"
+  },
+  "object": {
+    "sha": "39b63dfe1737d46a8c8818c92773ef181fd174b3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/39b63dfe1737d46a8c8818c92773ef181fd174b3"
+  },
+  "tag": "v0.1.31",
+  "message": "2010.03.05, Version 0.1.31\n\n  * API: - Move process.watchFile into fs module\n         - Move process.inherits to sys\n\n  * Improve Solaris port\n\n  * tcp.Connection.prototype.write now returns boolean to indicate if\n    argument was flushed to the kernel buffer.\n\n  * Added fs.link, fs.symlink, fs.readlink, fs.realpath\n    (Rasmus Andersson)\n\n  * Add setgid,getgid (James Duncan)\n\n  * Improve sys.inspect (Benjamin Thomas)\n\n  * Allow passing env to child process (Isaac Schlueter)\n\n  * fs.createWriteStream, fs.createReadStream (Felix Geisendörfer)\n\n  * Add INI parser (Rob Ellis)\n\n  * Bugfix: fs.readFile handling encoding (Jacek Becela)\n\n  * Upgrade V8 to 2.1.2\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTo2MGIxZDQyYmFjNWI1MjEwOTFmMDI4MzNhZDRkNGViMTA3NTdkMTc4",
+  "sha": "60b1d42bac5b521091f02833ad4d4eb10757d178",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/60b1d42bac5b521091f02833ad4d4eb10757d178",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-08-12T09:41:13Z"
+  },
+  "object": {
+    "sha": "ac6decb94a3aa4eee99230fdaf5883dfaafe8479",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/ac6decb94a3aa4eee99230fdaf5883dfaafe8479"
+  },
+  "tag": "6.3.0",
+  "message": "Version 6.3.0\n\n### New features\n\n`sourceType: \"module\"` can now be used even when `ecmaVersion` is less than 6, to parse module-style code that otherwise conforms to an older standard.-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAl1RNEUACgkQcD8b7W0z\nrh7qUQgAyfIH1YD7gTTs5sdLDECvytTNFdkUuqzkzncsT6cCR5rdZ6+UlM4g/mJH\nVmteQtJcAzYbe7yMWGcZ8yGzV/CC/IzGH40M6TIN65KnkTTHLdyEmV7vzt3vSlDt\nuPp7cd/6mB3caDnPIWC3gQq3y4a8mySlqyiGiu0wh2uKFkTIigV65lJiciws1SS4\nSI+tiiZ0NxBNv1kx4hrltMTQZdkAJ1leZdJcqaar+QIc6aAG/YNv/jjZJyw9WcRz\nQDRhzNdCXX8iYdR2h6sXWOWpjY7N6yasG3TGD0U5kgXzrRhus3EoB0Fg+afq1Imd\noOfb/+kQIiCZYFCB0O8tAudFvtHaPQ==\n=KtQS\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

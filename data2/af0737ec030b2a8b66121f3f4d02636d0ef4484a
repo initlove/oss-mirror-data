@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEzMzE3MTA6YWYwNzM3ZWMwMzBiMmE4YjY2MTIxZjNmNGQwMjYzNmQwZWY0NDg0YQ==",
+  "sha": "af0737ec030b2a8b66121f3f4d02636d0ef4484a",
+  "url": "https://api.github.com/repos/AdolfVonKleist/Phonetisaurus/git/tags/af0737ec030b2a8b66121f3f4d02636d0ef4484a",
+  "tagger": {
+    "name": "Josef Novak",
+    "email": "josef.robert.novak@gmail.com",
+    "date": "2017-09-17T17:37:01Z"
+  },
+  "object": {
+    "sha": "f01a3649586eb0cddfc86aaa073686311ecd0eed",
+    "type": "commit",
+    "url": "https://api.github.com/repos/AdolfVonKleist/Phonetisaurus/git/commits/f01a3649586eb0cddfc86aaa073686311ecd0eed"
+  },
+  "tag": "kaldi",
+  "message": "Tag the current head for integration with kaldi scripts.\nWe'll track and update this going forward so we can tie\nthe kaldi scripts to single, stable reference location\nso that updates to this repo won't break things there going\nforward, and we can update the tag to the next stable\nrelease in the future.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

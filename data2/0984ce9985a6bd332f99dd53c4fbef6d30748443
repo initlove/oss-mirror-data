@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MDk4NGNlOTk4NWE2YmQzMzJmOTlkZDUzYzRmYmVmNmQzMDc0ODQ0Mw==",
+  "sha": "0984ce9985a6bd332f99dd53c4fbef6d30748443",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/0984ce9985a6bd332f99dd53c4fbef6d30748443",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-09-27T17:20:28Z"
+  },
+  "object": {
+    "sha": "e1f39468fa580c1e4cb15fac621f87944ee625dc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/e1f39468fa580c1e4cb15fac621f87944ee625dc"
+  },
+  "tag": "v0.8.11",
+  "message": "2012.09.27, Version 0.8.11 (Stable)\n\n* fs: Fix stat() size reporting for large files (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQZIrcAAoJELCniwpsSBz2HIAH/i8WwKxOhh738pf7ON23PHug\nv8Sosg/3s59Puyo+Sq433S3XPSzLELOpXSczCR/d+8uZR/A4PUAdCU5QG33w25Dl\nri/H8O4gxysInAiNodjbW+1FnSdmLKUdPqO2A9xL5fv9+ynnRKsxJffgRWisLjxk\nvFKfH+7FXLjTICV/+PCn9wjyoxhn9HFRIH6zplB40dz7AjugKgw3eWUocK93rjNV\nxq3gFa29xniDhcG2c/ccl8sgpU+BZbkxo6dW6M8a6kkNSpezAejWThZZDe/6MDpQ\nl1CuzBYaF/3YoD9mHbBiqCRlZlD80V7m/3M6TVJm4SfmNS/6ai1/fr6cEKA+NsA=\n=CTwl\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQZIrcAAoJELCniwpsSBz2HIAH/i8WwKxOhh738pf7ON23PHug\nv8Sosg/3s59Puyo+Sq433S3XPSzLELOpXSczCR/d+8uZR/A4PUAdCU5QG33w25Dl\nri/H8O4gxysInAiNodjbW+1FnSdmLKUdPqO2A9xL5fv9+ynnRKsxJffgRWisLjxk\nvFKfH+7FXLjTICV/+PCn9wjyoxhn9HFRIH6zplB40dz7AjugKgw3eWUocK93rjNV\nxq3gFa29xniDhcG2c/ccl8sgpU+BZbkxo6dW6M8a6kkNSpezAejWThZZDe/6MDpQ\nl1CuzBYaF/3YoD9mHbBiqCRlZlD80V7m/3M6TVJm4SfmNS/6ai1/fr6cEKA+NsA=\n=CTwl\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e1f39468fa580c1e4cb15fac621f87944ee625dc\ntype commit\ntag v0.8.11\ntagger isaacs <i@izs.me> 1348766428 -0700\n\n2012.09.27, Version 0.8.11 (Stable)\n\n* fs: Fix stat() size reporting for large files (Ben Noordhuis)\n"
+  }
+}

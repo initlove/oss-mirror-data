@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODo4YmY0MTY0ZDAwYjdhYTMzMjY4NjU4ZTRkODVhMTVmNWE3Mzg2Mjdh",
+  "sha": "8bf4164d00b7aa33268658e4d85a15f5a738627a",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/8bf4164d00b7aa33268658e4d85a15f5a738627a",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-04-28T21:41:04Z"
+  },
+  "object": {
+    "sha": "62ae14ab23445a01716d653e9cb5626e9a6a255c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/62ae14ab23445a01716d653e9cb5626e9a6a255c"
+  },
+  "tag": "v1.4.6",
+  "message": "Release of 1.4.6\n\n- 62ae14ab23445a01716d653e9cb5626e9a6a255c: Merge pull request #772 from mattrjacobs/handle-hook-errors\n- 969911e8288c20ff9ef7dc73b3c655e6ecb3a541: Merge pull request #773 from mattrjacobs/reorder-metrics-stream\n- bf7b364d04af9ec9693a022a847d0ea656d54b5d: Moved new metric to end of JSON for metrics stream\n- 60c9297f61a3386007b3556e38dcba6dec9513b9: Handle hook failures more gracefully\n- 08f48c02a737fd5940e29b7e6659781abab09b4d: Add try-catch to all hook executions\n- 5b4b4495051cecc01bb36ef6e2fa22db565377da: Merge pull request #770 from mattrjacobs/circuit-forced-open-by-properties-queried-properly\n- 0afc56cd19843bb59b242d2eb143cd010fef8cc4: Fixed result of AbstractCommand.isCircuitBreakerOpen() in light of forced-open/closed properties\n- ce32295ed07b3aed9aa470d7223057be375eea6d: Currently-failing unit test demonstrating that HystrixCommand.isCircuitBreakerOpen() does not check if a circuit is forced open\n- 26932921c1686e8f68d00e5ab5d1d1ef9807f123: Merge pull request #769 from mattrjacobs/add-threadpool-to-metrics-stream-output\n- c17ff4f65a3f19513809f56e00cce2928ad11594: Add threadpool to hystrix-metrics-event-stream for each command\n- 5bb931afba51ea8144a1112d7585a5579f2b2d1b: Merge pull request #767 from mattrjacobs/add-multithreaded-jmh-benchmarks\n- b5ca485c42797b5e3fcc0a0d02f7cdb9dac98305: Upgrade to jmh 1.9 and profile gc as well\n- d7413178d01c0b3989ec10edeb942120fa876c27: Added multi-threaded test that also reads metrics uring command execution\n- fb8ba097b7d15be3f6db39175ff7e099352cb15a: Update CHANGELOG.md\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOmNhNGViMjE2ZmU1YTJhN2M2ZWYwM2UyN2QyN2QzY2M4ZTRlYzBkZWQ=",
+  "sha": "ca4eb216fe5a2a7c6ef03e27d27d3cc8e4ec0ded",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/ca4eb216fe5a2a7c6ef03e27d27d3cc8e4ec0ded",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-11-12T11:30:35Z"
+  },
+  "object": {
+    "sha": "c9f2e603d754660e5122992a1bcc28376ce699dc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/c9f2e603d754660e5122992a1bcc28376ce699dc"
+  },
+  "tag": "20.0.1",
+  "message": "nova 20.0.1 release\n\nmeta:version: 20.0.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I09c637830bb7b768544a90b7cab75c184d7020b0\nmeta:release:Code-Review+1: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl3Kl9sZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHPFNDACt12pT4PMPIZ+QWNlegRWA\nFwQa2ddjotgn/S+JVszxjGKDcruRcd5zYfPgE6yxe57F7DzWwMstyqyaOiplzO7E\ny3jXHnzFgv8i0Bpv5UnWQl874OaUCBlDWGq845O+JzC+XWsLw6arcKppaDLKoSc8\nLdMzbmz06rTGc+ZuOy6KLBnlbeOWY78l0K1JJshndvll0fcG50VZbWbP+2uyhg1f\nCa8gPPTRCvU0Vl61NK3fidyl70pBQnxJbCL+rP43JisVrn/JzgKC0QbUe3vZOUjx\nWCkbppkrY+VfSw7oChRokb+SvdKMEKhvemtboMCFVJpxchyn2bw2mZl/JhFy/MrS\nGQJNQ6ISCpZqtk/HdH8xxJ+Phh7zc32ipM2JdZ6P5BtMbRMFZ1Rgw6CzoczCszsb\nToGUZ/RQhNSE5GOqI39MdOPsMJPJ/DhnMbBHZQhZTRKLP3dZiMqs5P+awlazz/2W\nWon6iVQr+rJMfpEkr8EsBKzVmzn7u4X7sGhnBpk/xuU=\n=E7FF\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl3Kl9sZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHPFNDACt12pT4PMPIZ+QWNlegRWA\nFwQa2ddjotgn/S+JVszxjGKDcruRcd5zYfPgE6yxe57F7DzWwMstyqyaOiplzO7E\ny3jXHnzFgv8i0Bpv5UnWQl874OaUCBlDWGq845O+JzC+XWsLw6arcKppaDLKoSc8\nLdMzbmz06rTGc+ZuOy6KLBnlbeOWY78l0K1JJshndvll0fcG50VZbWbP+2uyhg1f\nCa8gPPTRCvU0Vl61NK3fidyl70pBQnxJbCL+rP43JisVrn/JzgKC0QbUe3vZOUjx\nWCkbppkrY+VfSw7oChRokb+SvdKMEKhvemtboMCFVJpxchyn2bw2mZl/JhFy/MrS\nGQJNQ6ISCpZqtk/HdH8xxJ+Phh7zc32ipM2JdZ6P5BtMbRMFZ1Rgw6CzoczCszsb\nToGUZ/RQhNSE5GOqI39MdOPsMJPJ/DhnMbBHZQhZTRKLP3dZiMqs5P+awlazz/2W\nWon6iVQr+rJMfpEkr8EsBKzVmzn7u4X7sGhnBpk/xuU=\n=E7FF\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c9f2e603d754660e5122992a1bcc28376ce699dc\ntype commit\ntag 20.0.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1573558235 +0000\n\nnova 20.0.1 release\n\nmeta:version: 20.0.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I09c637830bb7b768544a90b7cab75c184d7020b0\nmeta:release:Code-Review+1: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

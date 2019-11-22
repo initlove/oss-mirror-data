@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzUyMDY5NzI6M2Y4M2YzNzRjYmRjYzc3Y2M1NTg4ODQ5NmE1MDI0YWNlOTc3ZWVmOA==",
+  "sha": "3f83f374cbdcc77cc55888496a5024ace977eef8",
+  "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/tags/3f83f374cbdcc77cc55888496a5024ace977eef8",
+  "tagger": {
+    "name": "stratiocommit",
+    "email": "asistemas@stratio.com",
+    "date": "2015-11-27T13:16:57Z"
+  },
+  "object": {
+    "sha": "f112f9d7492e884dd5b23b0b56069dad768ba911",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/commits/f112f9d7492e884dd5b23b0b56069dad768ba911"
+  },
+  "tag": "2.2.3.1",
+  "message": " - Add support for CQL tuples\n\n - Add quoted field names to query builder\n\n - Fix mapping on columns with multiple mappers\n\n - Fix coordinator sorting to be based on mapper's base type\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

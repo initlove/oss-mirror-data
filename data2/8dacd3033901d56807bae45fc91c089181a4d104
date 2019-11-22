@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6OGRhY2QzMDMzOTAxZDU2ODA3YmFlNDVmYzkxYzA4OTE4MWE0ZDEwNA==",
+  "sha": "8dacd3033901d56807bae45fc91c089181a4d104",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/8dacd3033901d56807bae45fc91c089181a4d104",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-09-17T00:54:29Z"
+  },
+  "object": {
+    "sha": "558241166c4f3c516e5a448e676db0b57119212f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/558241166c4f3c516e5a448e676db0b57119212f"
+  },
+  "tag": "v0.5.7",
+  "message": "2011.09.16, Version 0.5.7 (unstable)\n\n* Upgrade V8 to 3.6.4\n\n* Improve Windows compatibility\n\n* Documentation improvements\n\n* Debugger and REPL improvements (Fedor Indutny)\n\n* Add legacy API support: net.Stream(fd), process.stdout.writable,\n  process.stdout.fd\n\n* Fix mkdir EEXIST handling (isaacs)\n\n* Use net_uv instead of net_legacy for stdio\n\n* Do not load readline from util.inspect\n\n* #1673 Fix bug related to V8 context with accessors (Fedor Indutny)\n\n* #1634 util: Fix inspection for Error (koichik)\n\n* #1645 fs: Add positioned file writing feature to fs.WriteStream (Thomas\n  Shinnick)\n\n* #1637 fs: Unguarded fs.watchFile cache statWatchers checking fixed (Thomas\n  Shinnick)\n\n* #1695 Forward customFds to ChildProcess.spawn\n\n* #1707 Fix hasOwnProperty security problem in querystring (isaacs)\n\n* #1719 Drain OpenSSL error queue\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

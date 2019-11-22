@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6OTNkODkyNjkyMDcwMTc5MDUyOTQ0YzI4MDA3ZDk3Mzg2OTc5ZWI5Nw==",
+  "sha": "93d892692070179052944c28007d97386979eb97",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/93d892692070179052944c28007d97386979eb97",
+  "tagger": {
+    "name": "root",
+    "email": "root@wgclpixa00388425.ir.intel.com",
+    "date": "2017-04-28T14:30:14Z"
+  },
+  "object": {
+    "sha": "29aaf2bae2963e63fbba03428d7c929c764d4447",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/29aaf2bae2963e63fbba03428d7c929c764d4447"
+  },
+  "tag": "v0.5.22",
+  "message": "Release v0.5.22 contains the following changes:\n* Correct DH debug logging output\n* Remove non terminal errors from polling loops\n* Fix to return correct instance if using external polling.\n* Fix error in example Intel Quickassist Driver config files\n* Correct name of usdm memory driver\n* Make eventfd non blocking\n* Reinstate checks for memory driver and accelerator\n* Fix incorrect size of devmasks array\n* Change to error reporting during static load\n* Move setting verification of digests\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

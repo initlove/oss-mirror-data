@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YTk0NTNiYTYwNGQxOWQ3NDU4ZjVlZDg4MTNlMjE5MTZkMzk0NjM3Mg==",
+  "sha": "a9453ba604d19d7458f5ed8813e21916d3946372",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/a9453ba604d19d7458f5ed8813e21916d3946372",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-01-07T01:34:12Z"
+  },
+  "object": {
+    "sha": "d5a189acef14a851287ee555f7a39431fe276e1c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/d5a189acef14a851287ee555f7a39431fe276e1c"
+  },
+  "tag": "v0.6.7",
+  "message": "2012.01.06, Version 0.6.7 (stable)\n\n* V8 hash collision fix (Breaks MIPS) (Bert Belder, Erik Corry)\n\n* Upgrade V8 to 3.6.6.15\n\n* Upgrade npm to 1.1.0-beta-10 (isaacs)\n\n* many doc updates (Ben Noordhuis, Jeremy Martin, koichik, Dave Irvine,\n  Seong-Rak Choi, Shannen, Adam Malcontenti-Wilson, koichik)\n\n* Fix segfault in node_http_parser.cc\n\n* dgram, timers: fix memory leaks (Ben Noordhuis, Yoshihiro Kukuchi)\n\n* repl: fix repl.start not passing the `ignoreUndefined` arg (Damon Oehlman)\n\n* #1980: Socket.pause null reference when called on a closed Stream (koichik)\n\n* #2263: XMLHttpRequest piped in a writable file stream hang (koichik)\n\n* #2069: http resource leak (koichik)\n\n* buffer.readInt global pollution fix (Phil Sung)\n\n* timers: fix performance regression (Ben Noordhuis)\n\n* #2308, #2246: node swallows openssl error on request (koichik)\n\n* #2114: timers: remove _idleTimeout from item in .unenroll() (James Hartig)\n\n* #2379: debugger: Request backtrace w/o refs (Fedor Indutny)\n\n* simple DTrace ustack helper (Dave Pacheco)\n\n* crypto: rewrite HexDecode without snprintf (Roman Shtylman)\n\n* crypto: don't ignore DH init errors (Ben Noordhuis)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

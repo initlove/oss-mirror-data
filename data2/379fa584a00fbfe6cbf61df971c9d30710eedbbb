@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OjM3OWZhNTg0YTAwZmJmZTZjYmY2MWRmOTcxYzlkMzA3MTBlZWRiYmI=",
+  "sha": "379fa584a00fbfe6cbf61df971c9d30710eedbbb",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/379fa584a00fbfe6cbf61df971c9d30710eedbbb",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "spam@schillmania.com",
+    "date": "2013-03-24T17:11:36Z"
+  },
+  "object": {
+    "sha": "5096148d6ee85704ab0f3d91489bd515dea50ddf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/5096148d6ee85704ab0f3d91489bd515dea50ddf"
+  },
+  "tag": "V2.97a.20130324",
+  "message": "V2.97a.20130324 - Fix for playlist/event chaining when using flashVersion = 8 with Flash Player 11.6.602.171. HTML5 iOS load() fix. Added Opus to audio formats.\n\nBug fixes\n\n    Flash Player 11.6.602.171, released by Adobe on 02/26/2013, introduced an issue with SM2's default Flash 8 (flashVersion: 8) API-based JS/Flash interaction, where SM2 methods called from callbacks such as onfinish() would not work. This primarily broke methods used for playing sounds in sequence, serially loading a series of sounds and so on. (See discussion for more.)\n\n    Note that this does not affect cases where soundManager.setup({ flashVersion: 9}) is being used; however, SM2 does use flashVersion: 8 by default.\n\n    Specifically, Flash-initiated events (such as a sound finishing) make Flash -> JS calls to the SM2 API, which subsequently call user-specified event handlers. If the user-specified SM2 onfinish() handler immediately calls a SM2 method like play() that makes a JS -> Flash call, this call either silently fails or is blocked. Other JS + Flash libraries that use similar callback patterns may also be affected, if their SWF is built targeting the Flash 8 API.\n\n    Suspecting a timing or recursion/stack issue, it was found that introducing a setTimeout(callback, 0) to user-specified SM2 callbacks like onfinish() restored sequential/playlist functionality.\n\n    Flash Player 11.6.602.180, relased by Adobe on 3/12/2013, exhibits the same behaviour. To avoid additional hacks, SM2 applies this to all Flash 8-based API callbacks regardless of what version of Flash Player is installed. No regressions are anticipated as a result of this change.\n\n    Alternately, this issue can be avoided by using soundManager.setup({ flashVersion: 9 }) as the Flash 9-based API does not appear to have this problem.\n\n    HTML5: Fix for iOS load() case when using an auto-load and looping pattern (related discussion).\n\nAPI Updates\n\n    HTML5: Added check for Opus (OGG-based audio codec, audio/opus).\n\nMiscellaneous\n\n    Added documentation for Serving To Clients, and Mobile Device Limitations.\n\n    Minor SM2 homepage + documentation CSS tweaks (design)\n\n    This SM2 release is tagged \"Mahalo Edition\" to say thank-you, and because some SM2 work was done while on vacation in Hawai'i. Also, some new demo sound recordings from the beach on Kaua'i were added.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

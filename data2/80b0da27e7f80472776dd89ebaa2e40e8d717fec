@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ODBiMGRhMjdlN2Y4MDQ3Mjc3NmRkODllYmFhMmU0MGU4ZDcxN2ZlYw==",
+  "sha": "80b0da27e7f80472776dd89ebaa2e40e8d717fec",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/80b0da27e7f80472776dd89ebaa2e40e8d717fec",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-08-07T19:00:48Z"
+  },
+  "object": {
+    "sha": "0544a586ca6b6b900a42e164033dbf350765700a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/0544a586ca6b6b900a42e164033dbf350765700a"
+  },
+  "tag": "v0.8.6",
+  "message": "2012.08.07, Version 0.8.6 (Stable)\n\n* npm: Upgrade to v1.1.48\n\n* Add 'make binary' to build binary tarballs for all Unixes (Nathan Rajlich)\n\n* zlib: Emit 'close' on destroy(). (Dominic Tarr)\n\n* child_process: Fix stdout=null when stdio=['pipe'] (Tyler Neylon)\n\n* installer: prevent ETXTBSY errors (Ben Noordhuis)\n\n* installer: honor --without-npm, default install path (Ben Noordhuis)\n\n* net: make pause work with connecting sockets (Bert Belder)\n\n* installer: fix cross-compile installs (Ben Noordhuis)\n\n* net: fix .listen({fd:0}) (Ben Noordhuis)\n\n* windows: map WSANO_DATA to UV_ENOENT (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQIWXgAAoJELCniwpsSBz2Ux4H/iGKL0ASD3zyHMEJQfhv7lhe\n9RDcHGMGZ+kQJd+3+5MiCt0QmgBWvcijrDgE8J+cpEoa6D+Fp5eDinNwqGPk+iSV\nG/oRFqaFH2KAytWEe7mfrkysvEvMSlx1YSf6e82lePoaceO5Pgi9N60fNnxaHd43\n3NnXa0e3IJS1V2aQnvt/XEYgezafyU4OZWnXHMBYSUIZ1BhVbrsq8tW1RODKGs9Y\n9246tbG55GgGfgofCvEH+9PkS50W3yze2si1fVkIMmQHaP2hK7WOX5lAtAeyll6Z\nThxEDZnZlcQajGOsyeGhsFPMcTE1zDfu2atD9qVkfjcO2d/p5VMqAbLvB1K+LT0=\n=TooA\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQIWXgAAoJELCniwpsSBz2Ux4H/iGKL0ASD3zyHMEJQfhv7lhe\n9RDcHGMGZ+kQJd+3+5MiCt0QmgBWvcijrDgE8J+cpEoa6D+Fp5eDinNwqGPk+iSV\nG/oRFqaFH2KAytWEe7mfrkysvEvMSlx1YSf6e82lePoaceO5Pgi9N60fNnxaHd43\n3NnXa0e3IJS1V2aQnvt/XEYgezafyU4OZWnXHMBYSUIZ1BhVbrsq8tW1RODKGs9Y\n9246tbG55GgGfgofCvEH+9PkS50W3yze2si1fVkIMmQHaP2hK7WOX5lAtAeyll6Z\nThxEDZnZlcQajGOsyeGhsFPMcTE1zDfu2atD9qVkfjcO2d/p5VMqAbLvB1K+LT0=\n=TooA\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0544a586ca6b6b900a42e164033dbf350765700a\ntype commit\ntag v0.8.6\ntagger isaacs <i@izs.me> 1344366048 -0700\n\n2012.08.07, Version 0.8.6 (Stable)\n\n* npm: Upgrade to v1.1.48\n\n* Add 'make binary' to build binary tarballs for all Unixes (Nathan Rajlich)\n\n* zlib: Emit 'close' on destroy(). (Dominic Tarr)\n\n* child_process: Fix stdout=null when stdio=['pipe'] (Tyler Neylon)\n\n* installer: prevent ETXTBSY errors (Ben Noordhuis)\n\n* installer: honor --without-npm, default install path (Ben Noordhuis)\n\n* net: make pause work with connecting sockets (Bert Belder)\n\n* installer: fix cross-compile installs (Ben Noordhuis)\n\n* net: fix .listen({fd:0}) (Ben Noordhuis)\n\n* windows: map WSANO_DATA to UV_ENOENT (Bert Belder)\n"
+  }
+}

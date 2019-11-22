@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY4MDczMzpjNTA1ZmI5YWU0YjRmYjJjODAwNTkxN2U2NTk0OGQzM2Q0ZjE5NjMw",
+  "sha": "c505fb9ae4b4fb2c8005917e65948d33d4f19630",
+  "url": "https://api.github.com/repos/java-native-access/jna/git/tags/c505fb9ae4b4fb2c8005917e65948d33d4f19630",
+  "tagger": {
+    "name": "dblock",
+    "email": "dblock@dblock.org",
+    "date": "2008-06-24T02:07:39Z"
+  },
+  "object": {
+    "sha": "a251bf938697a12cb281b41fd99b86515d77e16a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/java-native-access/jna/git/commits/a251bf938697a12cb281b41fd99b86515d77e16a"
+  },
+  "tag": "3.0.3",
+  "message": "Fix native library for sunos-x86\ntagged by Timothy Wall on Tue, 24 Jun 2008 02:07:39 +0000\ndiff --git a/jnalib/dist/jna.jar b/jnalib/dist/jna.jar\nindex 5c669af..3f89c8f 100644\nBinary files a/jnalib/dist/jna.jar and b/jnalib/dist/jna.jar differ\ndiff --git a/jnalib/dist/sunos-x86.jar b/jnalib/dist/sunos-x86.jar\nindex 75326ac..34b2826 100644\nBinary files a/jnalib/dist/sunos-x86.jar and b/jnalib/dist/sunos-x86.jar differ\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

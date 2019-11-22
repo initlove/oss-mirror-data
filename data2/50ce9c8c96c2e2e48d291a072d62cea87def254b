@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NTBjZTljOGM5NmMyZTJlNDhkMjkxYTA3MmQ2MmNlYTg3ZGVmMjU0Yg==",
+  "sha": "50ce9c8c96c2e2e48d291a072d62cea87def254b",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/50ce9c8c96c2e2e48d291a072d62cea87def254b",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-04-09T00:36:28Z"
+  },
+  "object": {
+    "sha": "c67f8d0500fe15637a623eb759d2ad7eb9fb3b0b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/c67f8d0500fe15637a623eb759d2ad7eb9fb3b0b"
+  },
+  "tag": "v0.8.23",
+  "message": "2013.04.09, Version 0.8.23 (maintenance)\n\n* npm: Upgrade to v1.2.18\n\n* http: Avoid EE warning on ECONNREFUSED handling (isaacs)\n\n* tls: Re-enable check of CN-ID in cert verification (Tobias Müllerleile)\n\n* child_process: fix sending utf-8 to child process (Ben Noordhuis)\n\n* crypto: check key type in GetPeerCertificate() (Ben Noordhuis)\n\n* win/openssl: mark assembled object files as seh safe (Bert Belder)\n\n* windows/msi: fix msi build issue with WiX 3.7/3.8 (Raymond Feng)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRY2KMAAoJELCniwpsSBz24H4IAJ4W16CtNxigjk/UjmuZ2lD9\nGyu9IjJ3HYzQrHjGF0Xh54itcPVSPu+7naWZdkgZHHROLz3lrMFA7LZeKpPKqUYw\nRj+8+moFvzvTxs4eNVQFi9h+R+ZJ7fWA28BBOCVF3mWAsaaOr8OO4ri7LuGbpeZ7\ncfarpSZxZQvMstWhqB1jJ+3CRDsIU/PBHrIA9Cg8sK5FSK6nxSDeMlKR/MI0kIxF\nmLnLWsmGoSTrFdtBbtmJKSqO2mQDByywP4jjeRVrgxJki28Q0qxTE+NEgEVYBDzm\n/bh/v85XLIS3/0YHatAZvdO0FCJ6Hv5nfDJCnC/gPTF+ixzmdowTqDOTqWK/XQg=\n=9D+O\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRY2KMAAoJELCniwpsSBz24H4IAJ4W16CtNxigjk/UjmuZ2lD9\nGyu9IjJ3HYzQrHjGF0Xh54itcPVSPu+7naWZdkgZHHROLz3lrMFA7LZeKpPKqUYw\nRj+8+moFvzvTxs4eNVQFi9h+R+ZJ7fWA28BBOCVF3mWAsaaOr8OO4ri7LuGbpeZ7\ncfarpSZxZQvMstWhqB1jJ+3CRDsIU/PBHrIA9Cg8sK5FSK6nxSDeMlKR/MI0kIxF\nmLnLWsmGoSTrFdtBbtmJKSqO2mQDByywP4jjeRVrgxJki28Q0qxTE+NEgEVYBDzm\n/bh/v85XLIS3/0YHatAZvdO0FCJ6Hv5nfDJCnC/gPTF+ixzmdowTqDOTqWK/XQg=\n=9D+O\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c67f8d0500fe15637a623eb759d2ad7eb9fb3b0b\ntype commit\ntag v0.8.23\ntagger isaacs <i@izs.me> 1365467788 -0700\n\n2013.04.09, Version 0.8.23 (maintenance)\n\n* npm: Upgrade to v1.2.18\n\n* http: Avoid EE warning on ECONNREFUSED handling (isaacs)\n\n* tls: Re-enable check of CN-ID in cert verification (Tobias Müllerleile)\n\n* child_process: fix sending utf-8 to child process (Ben Noordhuis)\n\n* crypto: check key type in GetPeerCertificate() (Ben Noordhuis)\n\n* win/openssl: mark assembled object files as seh safe (Bert Belder)\n\n* windows/msi: fix msi build issue with WiX 3.7/3.8 (Raymond Feng)\n"
+  }
+}

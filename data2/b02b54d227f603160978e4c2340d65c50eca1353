@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0MDExNzk6YjAyYjU0ZDIyN2Y2MDMxNjA5NzhlNGMyMzQwZDY1YzUwZWNhMTM1Mw==",
+  "sha": "b02b54d227f603160978e4c2340d65c50eca1353",
+  "url": "https://api.github.com/repos/ReactiveX/RxNetty/git/tags/b02b54d227f603160978e4c2340d65c50eca1353",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-01-17T08:08:03Z"
+  },
+  "object": {
+    "sha": "a7c618aa405880574b484c766c0a5366cc76c31e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/ReactiveX/RxNetty/git/commits/a7c618aa405880574b484c766c0a5366cc76c31e"
+  },
+  "tag": "v0.4.5-rc.2",
+  "message": "Release of 0.4.5-rc.2\n\n- a7c618aa405880574b484c766c0a5366cc76c31e: Merge pull request #315 from NiteshKant/0.x\n- 4f8a41d9d3dfa327f40266eaf76e3680e2a6f772: Fixing test name.\n- e546c28de9791c54922308189a79b0053e52efaf: Now creating ObservableConnection only when SSL succeeds (if configured)\n- 157ee94a4f796dd0e5bb09d204a906ca1b8985a1: Client SSL test\n- c8582de381be9f1c9ba7350658b7e4eb049f8f9f: Fixes connection leak for SSL failures.\n- b544e0229ff37cc46626bcd46cf4bc6737b91f88: Merge pull request #313 from daschl/conditional-schedule\n- 3954a542bccae27ab4ad7f513e577f645a53f7d5: Only trigger the timeoutScheduler when not yet subscribed.\n- 06e5cd5940f5772afc28c4ff87dbbf118bb105bb: Merge pull request #302 from dmuino/spectator\n- 1bfa5da095f4fd19f76319ae57f851244e1f9793: Merge pull request #310 from NiteshKant/0.x\n- d230bbce404cb33b986e379fd9be99d81412c45e: Merge branch '0.x' of https://github.com/ReactiveX/RxNetty into 0.x\n- b28fb82c7500ed368c56e43a5e0dde0d0a343b3d: Mark connection as disposed before close.\n- d269c9cabff7b84503485501675dfbcf86cd97bb: Fixing race conditions in UnicastContentSubject.\n- aa64cc8f66a48906713f2a71cb426ff159caf4b6: Merge pull request #308 from tbak/0.x\n- e7b9c761c98258d3e1adcc732e3b3e14f6fa017b: Use ephemeral ports in rxnetty-examples unit tests.\n- 20d74414289d99114c75ba0567002aee0068368e: Merge pull request #291 from NiteshKant/0.x\n- b58ae30decf469244c9e6e5293cc99336493cdd1: Merge pull request #293 from david-at-aws/0.x\n- 3fa154326b426ba3e7ac36e0fcbd189369c2c0ae: Merge pull request #294 from ReactiveX/bump-to-2.2\n- 8c3fac99d6902c998049de155f10ae6150b75a05: Add bindings for spectator\n- 342717a48ab696c5f7f91070713f28122654e10b: Merge pull request #297 from benjchristensen/examples-java-8\n- 3962ca62fe3cdec2c860084f50c086d6a8eb6518: Fix Unit Tests\n- bf36f3319d031a47375cc00f39eb05d5d3142c9a: Revert Test Code\n- 4d179e77e9410f5ff2a6cf77f5340cab0b707016: Java 8: WebSockets\n- 0aa61d192016a5c44c998c36bbf9c3f43e748ac7: Updating READMEs with Updated Code\n- 1a0447623dbac4fecff4ed08f8947c18d7a34b65: Java 8: Hello World\n- 51ce9febad18a474e6d6e937c1715b831e20467b: Simplify and Cleanup\n- f67a41286621665a933053acc298617d4b1edf8b: Java 8: HTTP Chunk\n- 9530232e9920becc7840e6fe027c9efb9d07f0ed: Text Encoding\n- 261b112c9b0d1b2d09331741fff3241b2af1790e: RxJavaString for File Handling\n- 5c20e3363d0d2faab09542ad8f6f21e5ed709762: Java 8\n- 3d5da250ded628aff974b8b9a99fed7352368110: Merge pull request #296 from manuelp/0.x\n- bd7ffe6fd9b706695afe7455657bd6eaa0950679: Fixed another typo.\n- 64696034aa33f312900da268b0d76465da04d8cb: Fixed small typo\n- 86344277803380648d338ac2c6751a8f435915c0: Bump to 2.2\n- 45094d10ef3e9adc9778f5e88bc451ebb1de20c9: Fix for stack overflow in CompositeHttpClient.shutdown().\n- b9a6e66c059cdbf3a0f21fb81c8e26d5cedfd450: Merge branch '0.x' of https://github.com/ReactiveX/RxNetty into 0.x\n- 091540f19894493bca0ce2129593238e89702d6f: Fixing close & finish order in HttpConnectionHandler.\n- 90412ddb5ea11062d47399fe6c42287c863ead81: io.reactivex:rxjava:1.0.+\n- 37bafed8cb3a0757d1f20a0d25e5b63660885e97: Updating CHANGES.md for 0.4.1\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

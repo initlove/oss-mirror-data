@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTM3ODAwOjNjN2I2YTJmYWE1NTZjNzI2NDBmNjhmY2M0ODc3NzU3MjZjNzRjODc=",
+  "sha": "3c7b6a2faa556c72640f68fcc487775726c74c87",
+  "url": "https://api.github.com/repos/dropwizard/metrics/git/tags/3c7b6a2faa556c72640f68fcc487775726c74c87",
+  "tagger": {
+    "name": "Coda Hale",
+    "email": "coda.hale@gmail.com",
+    "date": "2011-05-10T01:17:31Z"
+  },
+  "object": {
+    "sha": "fadb435a75dcb885d2ff84d1672ca1abada49a24",
+    "type": "commit",
+    "url": "https://api.github.com/repos/dropwizard/metrics/git/commits/fadb435a75dcb885d2ff84d1672ca1abada49a24"
+  },
+  "tag": "v2.0.0-BETA12",
+  "message": "* Upgraded to Jackson 1.7.6.\n* Added a new instrumented Log4J appender.\n* Added a new instrumented Logback appender. Thanks to Bruce Mitchener\n  (@waywardmonkeys) for the patch.\n* Added a new reporter for the [Graphite](http://graphite.wikidot.com)\n  aggregation system. Thanks to Mahesh Tiyyagura (@tmahesh) for the patch.\n* Added scoped metric names.\n* Added Scala 2.9.0.RC{2,3,4} as build targets.\n* Added meters to Jetty handler for the percent of responses which have `4xx` or\n  `5xx` status codes.\n* Changed the Servlet API to be a `provided` dependency. Thanks to Mårten\n  Gustafson (@chids) for the patch.\n* Separated project into modules:\n  * `metrics-core`: A dependency-less project with all the core metrics.\n  * `metrics-graphite`: A reporter for the [Graphite](http://graphite.wikidot.com)\n    aggregation system.\n  * `metrics-guice`: Guice AOP support.\n  * `metrics-jetty`: An instrumented Jetty handler.\n  * `metrics-log4j`: An instrumented Log4J appender.\n  * `metrics-logback`: An instrumented Logback appender.\n  * `metrics-servlet`: The Metrics servlet with context listener.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

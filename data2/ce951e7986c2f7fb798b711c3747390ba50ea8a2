@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6Y2U5NTFlNzk4NmMyZjdmYjc5OGI3MTFjMzc0NzM5MGJhNTBlYThhMg==",
+  "sha": "ce951e7986c2f7fb798b711c3747390ba50ea8a2",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/ce951e7986c2f7fb798b711c3747390ba50ea8a2",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-08-02T07:18:47Z"
+  },
+  "object": {
+    "sha": "4585330afef44ddfb6a4054bd9b0f190b352628b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/4585330afef44ddfb6a4054bd9b0f190b352628b"
+  },
+  "tag": "v0.5.3",
+  "message": "2011.08.01, Version 0.5.3 (unstable)\n\n* Fix crypto encryption/decryption with Base64. (SAWADA Tadashi)\n\n* #243 Add an optional length argument to Buffer.write() (koichik)\n\n* #657 convert nonbuffer data to string in fs.writeFile/Sync\n  (Daniel Pihlström)\n\n* Add process.features, remove process.useUV (Ben Noordhuis)\n\n* #324 Fix crypto hmac to accept binary keys + add test cases from rfc 2202\n  and 4231 (Stefan Bühler)\n\n* Add Socket::bytesRead, Socket::bytesWritten (Alexander Uvarov)\n\n* #572 Don't print result of --eval in CLI (Ben Noordhuis)\n\n* #1223 Fix http.ClientRequest crashes if end() was called twice (koichik)\n\n* #1383 Emit 'close' after all connections have closed (Felix Geisendörfer)\n\n* Add sprintf-like util.format() function (Ben Noordhuis)\n\n* Add support for TLS SNI (Fedor Indutny)\n\n* New http agent implementation. Off by default the command line flag\n  --use-http2 will enable it. \"make test-http2\" will run the tests\n\tfor the new implementation. (Mikeal Rogers)\n\n* Revert AMD compatibility. (isaacs)\n\n* Windows: improvements, child_process support.\n\n* Remove pkg-config file.\n\n* Fix startup time regressions.\n\n* doc improvements\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

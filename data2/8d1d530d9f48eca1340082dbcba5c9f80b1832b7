@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6OGQxZDUzMGQ5ZjQ4ZWNhMTM0MDA4MmRiY2JhNWM5ZjgwYjE4MzJiNw==",
+  "sha": "8d1d530d9f48eca1340082dbcba5c9f80b1832b7",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/8d1d530d9f48eca1340082dbcba5c9f80b1832b7",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-12-31T05:00:31Z"
+  },
+  "object": {
+    "sha": "6f8d78d84b53c9c59546e5e32a32db0a321c4796",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/6f8d78d84b53c9c59546e5e32a32db0a321c4796"
+  },
+  "tag": "v0.2.6",
+  "message": "2010.12.30, Version 0.2.6\n\n* Make sure raw mode is disabled when exiting a terminal-based REPL.\n  (Brian White)\n\n* Fix OpenSSL SSL_library_init function check on OpenBSD.\n  (Brian White)\n\n* Fix test-http-allow-req-after-204-res.js\n\n* Fix length of arguments emitted by EventEmitter (Jeremy Martin)\n\n* Fix unhandled ECONNABORTED (Theo Schlossnagle)\n\n* Default to gcc for V8 build on Solaris (Trent Mick)\n\n* Fix various memory leaks (Tom Hughes)\n\n* Apple's threaded write()s bug (Jorge Chamorro Bieling)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

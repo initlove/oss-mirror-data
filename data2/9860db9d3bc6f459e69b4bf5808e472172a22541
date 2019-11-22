@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ3NDo5ODYwZGI5ZDNiYzZmNDU5ZTY5YjRiZjU4MDhlNDcyMTcyYTIyNTQx",
+  "sha": "9860db9d3bc6f459e69b4bf5808e472172a22541",
+  "url": "https://api.github.com/repos/pypa/virtualenv/git/tags/9860db9d3bc6f459e69b4bf5808e472172a22541",
+  "tagger": {
+    "name": "Matthew Iversen",
+    "email": "teh.ivo@gmail.com",
+    "date": "2016-01-31T21:59:52Z"
+  },
+  "object": {
+    "sha": "4aeb4f40fff73e2462400f42a11cd82870ec4f54",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/virtualenv/git/commits/4aeb4f40fff73e2462400f42a11cd82870ec4f54"
+  },
+  "tag": "14.0.4",
+  "message": "Released v14.0.4\n\n* Upgrade setuptools to 19.6.2\n\n* Revert ac4ea65; only correct drive letter case.\n  Fixes :issue:`856`, :issue:`815`\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJWroQfAAoJEMBG6Kh0UilzvVsQAIIsl2ZtHFgUnWcAJqDX7K4V\nRzjUFXrzTz8rkjaOX7adjjGEBW7I1+1gi3xfUqRSuNPC+g5640/cIm/u32dNf1sW\nm9zUSpfJHLjFJuOJMQ3Ux3DF3jLDY+vzkgu4lYw8dr9h4rYAILpHjBflZyQvuW1d\nyXFjujeg7RAfhsIyLesIpEcR8yeTVXCPYySFgvQKCou6rW75qt2qwMmoa788Zjh3\nYlOeDESXIE682BWV9o+g0BK3rDqTsoiwxdGFa2bN8QlfEwGeRao3ALBFgZGYq+e2\ndsmkcRV2IWKsAYizCqlrMiDz2aHOIX/gSEBcKeb+bzHgKDRk604xGWBJWTysqJpq\nHE2awEh9CvaYVhcpEixZBd8Njrv85AVLogezRjHI37jS+qDssLZmDNgIz7wN1fvc\niQ/LcrqQdaWf/pWYDnKFmJ9OVNH0RFIXHPRwHYiNp+fwb+qmyOuZEU9T9cBTdN+A\nSoFGh4/447eNos1JkkB0V6epe5b4b5l4BRUO+OM22vO4um/RtGzgWeP8HQA7LSu9\nkHBvth07dBClXw61j18IikVtSLM3taTVrT62CC/AWhLdMVIgznNuP/71IB19JMQW\nJwonwLCxv7YF7mp7UqPfxKy7YFLcKl+EhIZiokInAOHspyzoP5S4EF6Na4uGa2FC\nWisZMaTni0hwhvDeLtof\n=am27\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJWroQfAAoJEMBG6Kh0UilzvVsQAIIsl2ZtHFgUnWcAJqDX7K4V\nRzjUFXrzTz8rkjaOX7adjjGEBW7I1+1gi3xfUqRSuNPC+g5640/cIm/u32dNf1sW\nm9zUSpfJHLjFJuOJMQ3Ux3DF3jLDY+vzkgu4lYw8dr9h4rYAILpHjBflZyQvuW1d\nyXFjujeg7RAfhsIyLesIpEcR8yeTVXCPYySFgvQKCou6rW75qt2qwMmoa788Zjh3\nYlOeDESXIE682BWV9o+g0BK3rDqTsoiwxdGFa2bN8QlfEwGeRao3ALBFgZGYq+e2\ndsmkcRV2IWKsAYizCqlrMiDz2aHOIX/gSEBcKeb+bzHgKDRk604xGWBJWTysqJpq\nHE2awEh9CvaYVhcpEixZBd8Njrv85AVLogezRjHI37jS+qDssLZmDNgIz7wN1fvc\niQ/LcrqQdaWf/pWYDnKFmJ9OVNH0RFIXHPRwHYiNp+fwb+qmyOuZEU9T9cBTdN+A\nSoFGh4/447eNos1JkkB0V6epe5b4b5l4BRUO+OM22vO4um/RtGzgWeP8HQA7LSu9\nkHBvth07dBClXw61j18IikVtSLM3taTVrT62CC/AWhLdMVIgznNuP/71IB19JMQW\nJwonwLCxv7YF7mp7UqPfxKy7YFLcKl+EhIZiokInAOHspyzoP5S4EF6Na4uGa2FC\nWisZMaTni0hwhvDeLtof\n=am27\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4aeb4f40fff73e2462400f42a11cd82870ec4f54\ntype commit\ntag 14.0.4\ntagger Matthew Iversen <teh.ivo@gmail.com> 1454277592 +1100\n\nReleased v14.0.4\n\n* Upgrade setuptools to 19.6.2\n\n* Revert ac4ea65; only correct drive letter case.\n  Fixes :issue:`856`, :issue:`815`\n"
+  }
+}

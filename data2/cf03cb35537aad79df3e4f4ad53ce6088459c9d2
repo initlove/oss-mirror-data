@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOmNmMDNjYjM1NTM3YWFkNzlkZjNlNGY0YWQ1M2NlNjA4ODQ1OWM5ZDI=",
+  "sha": "cf03cb35537aad79df3e4f4ad53ce6088459c9d2",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/cf03cb35537aad79df3e4f4ad53ce6088459c9d2",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-02-22T18:27:55Z"
+  },
+  "object": {
+    "sha": "a4a53bfa31e22bf1c377dca539ee1c7c7c05847c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/a4a53bfa31e22bf1c377dca539ee1c7c7c05847c"
+  },
+  "tag": "17.0.0.0rc3",
+  "message": "nova 17.0.0.0rc3 release candidate\n\nmeta:version: 17.0.0.0rc3\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: melanie witt <melwittt@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: Ifa9dd69033f5ca7f478474f39f0197f1a0c2fc52\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJajwurAAoJEEIeZHKBH5qB4YAH/3XBeUSRDBX/DI+5aJs4rKma\nDac0RPuOHAMvo81lRMuHgLP0lTt/xRARV13gakS8jzEKXY6hXysoVy8ieRCsnSQR\nXVEKUHgI0xT1/ZpPDiD9xzyeB1/uH4Qb2EZe4COK6iDCtoakNwDX9ofZxax2mVNw\nXTSZ90qIQ39ADf86Nyp+ZOfcbWLmxSdFoNSALvjA/J5AqQFqHZUowTC4DxY7YJN5\n8nDNojD4uN+GChlCMMSoNHpBBZe/zQPBwAN1Lo/o2VwzwNAQTVLFFoFZr0nHJ4Ai\nOOsLmQ8JVvkywXEKvLQR2pZH36+MlXNnhv8odaKZ3a6p8/NJadOpy2dPcT6ftDo=\n=V2Kh\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJajwurAAoJEEIeZHKBH5qB4YAH/3XBeUSRDBX/DI+5aJs4rKma\nDac0RPuOHAMvo81lRMuHgLP0lTt/xRARV13gakS8jzEKXY6hXysoVy8ieRCsnSQR\nXVEKUHgI0xT1/ZpPDiD9xzyeB1/uH4Qb2EZe4COK6iDCtoakNwDX9ofZxax2mVNw\nXTSZ90qIQ39ADf86Nyp+ZOfcbWLmxSdFoNSALvjA/J5AqQFqHZUowTC4DxY7YJN5\n8nDNojD4uN+GChlCMMSoNHpBBZe/zQPBwAN1Lo/o2VwzwNAQTVLFFoFZr0nHJ4Ai\nOOsLmQ8JVvkywXEKvLQR2pZH36+MlXNnhv8odaKZ3a6p8/NJadOpy2dPcT6ftDo=\n=V2Kh\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a4a53bfa31e22bf1c377dca539ee1c7c7c05847c\ntype commit\ntag 17.0.0.0rc3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1519324075 +0000\n\nnova 17.0.0.0rc3 release candidate\n\nmeta:version: 17.0.0.0rc3\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: melanie witt <melwittt@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: Ifa9dd69033f5ca7f478474f39f0197f1a0c2fc52\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

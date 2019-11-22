@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6ZGQ1YWNjN2Q2M2NjZDQ5ZGQ5OWZiMjlkYTEwMzEzNDU0NzdlMTAyYQ==",
+  "sha": "dd5acc7d63ccd49dd99fb29da1031345477e102a",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/dd5acc7d63ccd49dd99fb29da1031345477e102a",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2016-11-01T11:23:45Z"
+  },
+  "object": {
+    "sha": "a18dcb5ed1c48c3ffae6ccb8e01fa5202d3d65b0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/a18dcb5ed1c48c3ffae6ccb8e01fa5202d3d65b0"
+  },
+  "tag": "v0.5.11",
+  "message": "Release v0.5.11 contains the following changes:\n* Fix warning message\n* Add new ctrl message to set epoll timeout\n* Fix issue with the behaviour of stopInstance during error conditions\n* Add new feature to do cipher operation for small packets using CPU\n* Fix array indexing error and compilation warning\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

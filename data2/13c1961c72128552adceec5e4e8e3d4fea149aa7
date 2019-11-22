@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OToxM2MxOTYxYzcyMTI4NTUyYWRjZWVjNWU0ZThlM2Q0ZmVhMTQ5YWE3",
+  "sha": "13c1961c72128552adceec5e4e8e3d4fea149aa7",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/13c1961c72128552adceec5e4e8e3d4fea149aa7",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-02-27T07:45:19Z"
+  },
+  "object": {
+    "sha": "5364b99d85cb7cdead682ee940c51671a1e91026",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/5364b99d85cb7cdead682ee940c51671a1e91026"
+  },
+  "tag": "5.5.0",
+  "message": "Version 5.5.0\n\n### Bug fixes\n\nSupport object spread in the AST walker.\n\n### New features\n\nThe identifier character categorization is now based on Unicode version 10.\n\nAcorn will not validate the content of regular expressions, including new ES9 features.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlqVDLAACgkQcD8b7W0z\nrh62Rwf7BNO7v6MXCNQkoBuFWjakjq5s3B7S9VI7nR7nTUfuY+K3j16u+j8hsgf2\nJa8pfk5zDMsMZQ2rUVCa132jr8/E2W3EzwsD3AHvE4mXKacNz+CLXIXfqgTnSc8u\n/rMxcmGo+M0YQ0dAN8XdrEVsmvUETzE2/TMgk62EWtNb4+x3abIuSVgK4PoT2RbI\njBiWPffIzpKEQD6oy8IQEtpL9OYI8899oY9pBp89k66bFwbPKKG1Y9zuEu0PWCw2\nbgvRbj0ohE7w0K+R4kUl4sUqbfddsoFdgdN8hFyO0c1n6bzFapHH5IHSDa4roHBs\nQnbzpPb407qv2gGyXkXnl1A1C1ki4w==\n=2/Q4\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlqVDLAACgkQcD8b7W0z\nrh62Rwf7BNO7v6MXCNQkoBuFWjakjq5s3B7S9VI7nR7nTUfuY+K3j16u+j8hsgf2\nJa8pfk5zDMsMZQ2rUVCa132jr8/E2W3EzwsD3AHvE4mXKacNz+CLXIXfqgTnSc8u\n/rMxcmGo+M0YQ0dAN8XdrEVsmvUETzE2/TMgk62EWtNb4+x3abIuSVgK4PoT2RbI\njBiWPffIzpKEQD6oy8IQEtpL9OYI8899oY9pBp89k66bFwbPKKG1Y9zuEu0PWCw2\nbgvRbj0ohE7w0K+R4kUl4sUqbfddsoFdgdN8hFyO0c1n6bzFapHH5IHSDa4roHBs\nQnbzpPb407qv2gGyXkXnl1A1C1ki4w==\n=2/Q4\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5364b99d85cb7cdead682ee940c51671a1e91026\ntype commit\ntag 5.5.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1519717519 +0100\n\nVersion 5.5.0\n\n### Bug fixes\n\nSupport object spread in the AST walker.\n\n### New features\n\nThe identifier character categorization is now based on Unicode version 10.\n\nAcorn will not validate the content of regular expressions, including new ES9 features.\n"
+  }
+}

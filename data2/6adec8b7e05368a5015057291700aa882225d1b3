@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTo2YWRlYzhiN2UwNTM2OGE1MDE1MDU3MjkxNzAwYWE4ODIyMjVkMWIz",
+  "sha": "6adec8b7e05368a5015057291700aa882225d1b3",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/6adec8b7e05368a5015057291700aa882225d1b3",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2016-09-07T08:18:02Z"
+  },
+  "object": {
+    "sha": "44f09254214f9fa9820af95817d38739a6c51cd0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/44f09254214f9fa9820af95817d38739a6c51cd0"
+  },
+  "tag": "4.0.0",
+  "message": "Release 4.0.0\n\n### Breaking changes\n\nThe default `ecmaVersion` option value is now 7.\n\nA number of internal method signatures changed, so plugins might need\nto be updated.\n\n### Bug fixes\n\nThe parser now raises errors on duplicated export names.\n\n`arguments` and `eval` can now be used in shorthand properties.\n\nDuplicate parameter names in non-simple argument lists now always\nproduce an error.\n\n### New features\n\nThe `ecmaVersion` option now also accepts year-style version numbers\n(2015, etc).\n\nSupport for `async`/`await` syntax when `ecmaVersion` is >= 8.\n\nSupport for trailing commas in call expressions when `ecmaVersion` is\n>= 8.\n\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXz81PAAoJEHA/G+1tM64eVkIIALWEOiuxWMqgENGgm1DlB5D6\nCzHy3StLtgMO2l0UQKV6FHHU0uGcM79fXaaHgB+q0zFnjMJEKc19FmCVMn+wPLQb\nmosnjDLjGaKRoQdnpaByyfeZlzu23aJAX/azbdj2CWUfb00GdHuhAaoYMnvCt0DH\n/N1iS3axbu0LtMeJsD9zxVQWpFO5FIRSNUX9kaUXLM4cJwFX1TWULToDLc3pBKYH\nsJUb5zWBF9E1oNny2JDqyL/r5Bmd2XgfhVU6Wk8cMw/MPJKv3cxXDnqkP1VEr/9R\nS2tMWCBd2659pLuKvBJkFXLqz+mcZ60L+ATYj12xWE5YgsUH8PlKPTnyEji12SI=\n=Ikif\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXz81PAAoJEHA/G+1tM64eVkIIALWEOiuxWMqgENGgm1DlB5D6\nCzHy3StLtgMO2l0UQKV6FHHU0uGcM79fXaaHgB+q0zFnjMJEKc19FmCVMn+wPLQb\nmosnjDLjGaKRoQdnpaByyfeZlzu23aJAX/azbdj2CWUfb00GdHuhAaoYMnvCt0DH\n/N1iS3axbu0LtMeJsD9zxVQWpFO5FIRSNUX9kaUXLM4cJwFX1TWULToDLc3pBKYH\nsJUb5zWBF9E1oNny2JDqyL/r5Bmd2XgfhVU6Wk8cMw/MPJKv3cxXDnqkP1VEr/9R\nS2tMWCBd2659pLuKvBJkFXLqz+mcZ60L+ATYj12xWE5YgsUH8PlKPTnyEji12SI=\n=Ikif\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 44f09254214f9fa9820af95817d38739a6c51cd0\ntype commit\ntag 4.0.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1473236282 +0200\n\nRelease 4.0.0\n\n### Breaking changes\n\nThe default `ecmaVersion` option value is now 7.\n\nA number of internal method signatures changed, so plugins might need\nto be updated.\n\n### Bug fixes\n\nThe parser now raises errors on duplicated export names.\n\n`arguments` and `eval` can now be used in shorthand properties.\n\nDuplicate parameter names in non-simple argument lists now always\nproduce an error.\n\n### New features\n\nThe `ecmaVersion` option now also accepts year-style version numbers\n(2015, etc).\n\nSupport for `async`/`await` syntax when `ecmaVersion` is >= 8.\n\nSupport for trailing commas in call expressions when `ecmaVersion` is\n>= 8.\n\n"
+  }
+}

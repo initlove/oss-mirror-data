@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6Nzk2ZGQ0Y2VjYTZiMWE2YjljYjI3MzZjNWE0ZTA1M2ExMzZmZWE5NA==",
+  "sha": "796dd4ceca6b1a6b9cb2736c5a4e053a136fea94",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/796dd4ceca6b1a6b9cb2736c5a4e053a136fea94",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-07-25T20:36:03Z"
+  },
+  "object": {
+    "sha": "fdf57f811f9683a4ec49a74dc7226517e32e6c9d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/fdf57f811f9683a4ec49a74dc7226517e32e6c9d"
+  },
+  "tag": "v0.10.14",
+  "message": "2013.07.25, Version 0.10.14 (Stable)\n\n* uv: Upgrade to v0.10.13\n\n* npm: Upgrade to v1.3.5\n\n* os: Don't report negative times in cpu info (Ben Noordhuis)\n\n* fs: Handle large UID and GID (Ben Noordhuis)\n\n* url: Fix edge-case when protocol is non-lowercase (Shuan Wang)\n\n* doc: Streams API Doc Rewrite (isaacs)\n\n* node: call MakeDomainCallback in all domain cases (Trevor Norris)\n\n* crypto: fix memory leak in LoadPKCS12 (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlHxjDMACgkQfTP/nQJGQG2P9wCeMuRi1ExH594+jTtLLFcwJ87z\nm1QAniWQ2UkgQXjdmv1qtZMHwSP8za9e\n=YxLS\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlHxjDMACgkQfTP/nQJGQG2P9wCeMuRi1ExH594+jTtLLFcwJ87z\nm1QAniWQ2UkgQXjdmv1qtZMHwSP8za9e\n=YxLS\n-----END PGP SIGNATURE-----\n",
+    "payload": "object fdf57f811f9683a4ec49a74dc7226517e32e6c9d\ntype commit\ntag v0.10.14\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1374784563 -0700\n\n2013.07.25, Version 0.10.14 (Stable)\n\n* uv: Upgrade to v0.10.13\n\n* npm: Upgrade to v1.3.5\n\n* os: Don't report negative times in cpu info (Ben Noordhuis)\n\n* fs: Handle large UID and GID (Ben Noordhuis)\n\n* url: Fix edge-case when protocol is non-lowercase (Shuan Wang)\n\n* doc: Streams API Doc Rewrite (isaacs)\n\n* node: call MakeDomainCallback in all domain cases (Trevor Norris)\n\n* crypto: fix memory leak in LoadPKCS12 (Fedor Indutny)\n"
+  }
+}

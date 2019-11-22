@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MGI0N2NjZDM2ZmQ4ZmRhM2UwMDU4MjViYThiYmYyYmVkMGE4ZjJjMw==",
+  "sha": "0b47ccd36fd8fda3e005825ba8bbf2bed0a8f2c3",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/0b47ccd36fd8fda3e005825ba8bbf2bed0a8f2c3",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-04-14T04:20:27Z"
+  },
+  "object": {
+    "sha": "58002d56bc79410c5ff397fc0e1ffec0665db38a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/58002d56bc79410c5ff397fc0e1ffec0665db38a"
+  },
+  "tag": "v0.4.6",
+  "message": "2011.04.13, Version 0.4.6 (stable)\n\n* Don't error on ENOTCONN from shutdown() #670\n\n* Auto completion of built-in debugger suggests prefix match rather than\n\tpartial match. (koichik)\n\n* circular reference in vm modules. #822 (Jakub Lekstan)\n\n* http response.readable should be false after 'end' #867 (Abe Fettig)\n\n* Implemenet os.cpus() and os.uptime() on Solaris (Scott McWhirter)\n\n* fs.ReadStream: Allow omission of end option for range reads #801\n\t(Felix Geisendörfer)\n\n* Buffer.write() with UCS-2 should not be write partial char\n\t#916 (koichik)\n\n* Pass secureProtocol through on tls.Server creation (Theo Schlossnagle)\n\n* TLS use RC4-SHA by default\n\n* Don't strangely drop out of event loop on HTTPS client uploads #892\n\n* Doc improvements\n\n* Upgrade v8 to 3.1.8.10\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

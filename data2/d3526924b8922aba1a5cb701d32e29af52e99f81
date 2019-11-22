@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZDM1MjY5MjRiODkyMmFiYTFhNWNiNzAxZDMyZTI5YWY1MmU5OWY4MQ==",
+  "sha": "d3526924b8922aba1a5cb701d32e29af52e99f81",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/d3526924b8922aba1a5cb701d32e29af52e99f81",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-07-03T07:10:37Z"
+  },
+  "object": {
+    "sha": "a6b8586e947f9c3ced180fe68c233d0c252add8b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/a6b8586e947f9c3ced180fe68c233d0c252add8b"
+  },
+  "tag": "v0.1.100",
+  "message": "2010.07.03, Version 0.1.100\n\n* process.execPath (Marshall Culpepper)\n\n* sys.pump (Mikeal Rogers)\n\n* Remove ini and mjsunit libraries.\n\n* Introduce console.log() and friends.\n\n* Switch order of arguments for Buffer.write (Blake Mizerany)\n\n* On overlapping buffers use memmove (Matt Ranney)\n\n* Resolve .local domains with getaddrinfo()\n\n* Upgrade http-parser, V8 to 2.2.21\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

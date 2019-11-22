@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6MGExNmJiNGFiOTljMTg4MTlmY2JiYWVkNjcxNDE2NzdlOTJjNjNmMw==",
+  "sha": "0a16bb4ab99c18819fcbbaed67141677e92c63f3",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/0a16bb4ab99c18819fcbbaed67141677e92c63f3",
+  "tagger": {
+    "name": "Brandon Philips",
+    "email": "brandon@ifup.co",
+    "date": "2014-12-13T00:28:32Z"
+  },
+  "object": {
+    "sha": "3794f6ab88c12be98c9181c30ebbf3b7204fbeec",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/3794f6ab88c12be98c9181c30ebbf3b7204fbeec"
+  },
+  "tag": "v0.5.0-alpha.5",
+  "message": "v0.5.0-alpha.5\n\n- extract storage interface in raft package\n- print out more logs about raft and etcdserver behaviors\n- support purging old WAL and snapshot files automatically\n- optimize state machine processing in good path\n- fix restore snapshot bug in raft\n- fix the bug that may read empty state from WAL\n- document how to change peer urls\n- document the way to migrate member\n- add external etcd-lock(implemented by ravigadde) link to the tool doc\n\nThank you to: Barak Michener, Ben Darnell, Brandon Philips, Brian Waldon, Johan\nEuphrosine, ravigadde, Rob Szumski, Veres Lajos, Xiang Li, Yicheng Qin\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUi4hSAAoJEBVDQyYFQt80c2kP+wS+bXmT9orywPlLYkBR5rh7\nK9aZeEZdBesT5pEZg8FmYnj1CrD6ZvTa5RkRqN/oE/RDibRa7Ea2fI69OTC1iGux\n8YfTF0ruu51KRvYcWagmW4VpptL7yuYbT3zpVGkFP1hnkKwP8CDAf5UNUM22f92v\nDiEI9vjmqinCZ+ZHaNViy3K+wLLfyXxtoJr5vmRTOBBECbmJwMUNWYRHYtNtXWtl\n0iL2LPZqhEm54qHaTYC8uzDkvV4RRCv7B5wAic/tmQpKCjWYlqfygJebhxwYhMPL\n4bPqyQVLHShqPJYYfnuaPRgDKBaHter6cl66Vh6B4eXXFiUg6rALbRghPmZwQ7xD\nSgrzWDM+s/rpTfmrAx3uN2JXdZytUNWRYdV0uqc/pQSOZVVxWPco1mquctxa+TEV\nTKS24GAZ1aPrlwCOLCY1d+sRhjlpOHi5AShzgwNm96WO8sTbdTxe/RkjgXPiJ90w\nLTejymjTjNMJbul64x6pmVnB75whte4fg+FIxUlr5H35otnNPFnyR8ZsxBlDZJ75\n65+o1Og6TxtJeicQvyEfLjpLV4otmRxd/QfaPPAerOYjjtqfVKtn9Td2KnLb892U\nQCOGJhELdKyg9f8ZhFnA2QCYyMZfPGAfIW/H1v1qytYDll0QZ+ztazQJ5nWuZhei\no2hQhsmrAK7HqZenFkW+\n=MZWL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUi4hSAAoJEBVDQyYFQt80c2kP+wS+bXmT9orywPlLYkBR5rh7\nK9aZeEZdBesT5pEZg8FmYnj1CrD6ZvTa5RkRqN/oE/RDibRa7Ea2fI69OTC1iGux\n8YfTF0ruu51KRvYcWagmW4VpptL7yuYbT3zpVGkFP1hnkKwP8CDAf5UNUM22f92v\nDiEI9vjmqinCZ+ZHaNViy3K+wLLfyXxtoJr5vmRTOBBECbmJwMUNWYRHYtNtXWtl\n0iL2LPZqhEm54qHaTYC8uzDkvV4RRCv7B5wAic/tmQpKCjWYlqfygJebhxwYhMPL\n4bPqyQVLHShqPJYYfnuaPRgDKBaHter6cl66Vh6B4eXXFiUg6rALbRghPmZwQ7xD\nSgrzWDM+s/rpTfmrAx3uN2JXdZytUNWRYdV0uqc/pQSOZVVxWPco1mquctxa+TEV\nTKS24GAZ1aPrlwCOLCY1d+sRhjlpOHi5AShzgwNm96WO8sTbdTxe/RkjgXPiJ90w\nLTejymjTjNMJbul64x6pmVnB75whte4fg+FIxUlr5H35otnNPFnyR8ZsxBlDZJ75\n65+o1Og6TxtJeicQvyEfLjpLV4otmRxd/QfaPPAerOYjjtqfVKtn9Td2KnLb892U\nQCOGJhELdKyg9f8ZhFnA2QCYyMZfPGAfIW/H1v1qytYDll0QZ+ztazQJ5nWuZhei\no2hQhsmrAK7HqZenFkW+\n=MZWL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3794f6ab88c12be98c9181c30ebbf3b7204fbeec\ntype commit\ntag v0.5.0-alpha.5\ntagger Brandon Philips <brandon@ifup.co> 1418430512 -0800\n\nv0.5.0-alpha.5\n\n- extract storage interface in raft package\n- print out more logs about raft and etcdserver behaviors\n- support purging old WAL and snapshot files automatically\n- optimize state machine processing in good path\n- fix restore snapshot bug in raft\n- fix the bug that may read empty state from WAL\n- document how to change peer urls\n- document the way to migrate member\n- add external etcd-lock(implemented by ravigadde) link to the tool doc\n\nThank you to: Barak Michener, Ben Darnell, Brandon Philips, Brian Waldon, Johan\nEuphrosine, ravigadde, Rob Szumski, Veres Lajos, Xiang Li, Yicheng Qin\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzUyMDY5NzI6ZDA3NzIyNjU3Y2Q0ZWI1YTA4ZDZkYjE1NTYyYTg3Mjg4Y2UyNzRhMw==",
+  "sha": "d07722657cd4eb5a08d6db15562a87288ce274a3",
+  "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/tags/d07722657cd4eb5a08d6db15562a87288ce274a3",
+  "tagger": {
+    "name": "stratiocommit",
+    "email": "asistemas@stratio.com",
+    "date": "2016-03-04T16:23:54Z"
+  },
+  "object": {
+    "sha": "41ccb69f7d4f8d112dd58378f395ea0a4701f140",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/commits/41ccb69f7d4f8d112dd58378f395ea0a4701f140"
+  },
+  "tag": "2.2.5.2",
+  "message": " Merged from 2.2.4.4:\n\n * Add indexing of WKT geographical shapes (point, linestring, polygon and their multipart)\n\n * Add search by WKT geographical shapes (point, linestring, polygon and their multipart)\n\n * Add API for search-time transformation of WKT geographical shapes\n\n * Add API for index-time transformation of WKT geographical shapes\n\n * Add transformation for getting the buffer around a geographical shape\n\n * Add transformation for getting the centroid of a geographical shape\n\n * Add transformation for getting the difference between two geographical shapes\n\n * Add transformation for getting the intersection between two geographical shapes\n\n * Add transformation for getting the union between two geographical shapes\n\n * Fix geo distance parsing of nautical miles\n\n * Remove Sphinx documentation module\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

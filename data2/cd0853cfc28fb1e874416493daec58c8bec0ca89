@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6Y2QwODUzY2ZjMjhmYjFlODc0NDE2NDkzZGFlYzU4YzhiZWMwY2E4OQ==",
+  "sha": "cd0853cfc28fb1e874416493daec58c8bec0ca89",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/cd0853cfc28fb1e874416493daec58c8bec0ca89",
+  "tagger": {
+    "name": "Yicheng Qin",
+    "email": "qycqycqycqycqyc@gmail.com",
+    "date": "2015-11-19T22:32:41Z"
+  },
+  "object": {
+    "sha": "b4bddf685b26b4aa70e939445044bdeac822d042",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/b4bddf685b26b4aa70e939445044bdeac822d042"
+  },
+  "tag": "v2.2.2",
+  "message": "- fix health check result in `etcdctl cluster-health`\n- generate v5 ugorji/go/codec unmarshal code in client package\n- fix unset SYSLOG_IDENTIFIER when etcd is logging to the journal\n- improve logging when discovery procedure fails\n- fix various data races detected by race detector\n- fix rejecting to modify pre-defined guest role\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWTk40AAoJEIVWrETMIvEvwI8IAJXvCGotCDW2Gvh26TUBWn5b\nUh5NxlPQJwubL6+yndOVP4XCKRx6+UpK8YE6vZpX0oBksBl+qHnJdCYbK9rEObaq\n25XrdCWxwySEhqbIfialPZA5nmoBMjwB1D1JoneeAU/jk4JeaKE4Nl7lScT97uzt\n2U4txOtMSVhBKeP0RzKcx4x/gjVvFRyccOgPd7KLXUDW2yBTj0GfN+qWbT/9XoV+\nSECTAh7rq0ZbGt0cmd9y8PMffkYN33938LKb/Mde4nyI6B+8q4Ju6L7fXiVZq3SA\n3HZk3ST4sLa0UVrvS2fA4+2pgbSMdEjgS2NAgzZ7FS4Bkj5kaQlfRj5A1qv8we0=\n=k4o1\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWTk40AAoJEIVWrETMIvEvwI8IAJXvCGotCDW2Gvh26TUBWn5b\nUh5NxlPQJwubL6+yndOVP4XCKRx6+UpK8YE6vZpX0oBksBl+qHnJdCYbK9rEObaq\n25XrdCWxwySEhqbIfialPZA5nmoBMjwB1D1JoneeAU/jk4JeaKE4Nl7lScT97uzt\n2U4txOtMSVhBKeP0RzKcx4x/gjVvFRyccOgPd7KLXUDW2yBTj0GfN+qWbT/9XoV+\nSECTAh7rq0ZbGt0cmd9y8PMffkYN33938LKb/Mde4nyI6B+8q4Ju6L7fXiVZq3SA\n3HZk3ST4sLa0UVrvS2fA4+2pgbSMdEjgS2NAgzZ7FS4Bkj5kaQlfRj5A1qv8we0=\n=k4o1\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b4bddf685b26b4aa70e939445044bdeac822d042\ntype commit\ntag v2.2.2\ntagger Yicheng Qin <qycqycqycqycqyc@gmail.com> 1447972361 -0800\n\n- fix health check result in `etcdctl cluster-health`\n- generate v5 ugorji/go/codec unmarshal code in client package\n- fix unset SYSLOG_IDENTIFIER when etcd is logging to the journal\n- improve logging when discovery procedure fails\n- fix various data races detected by race detector\n- fix rejecting to modify pre-defined guest role\n"
+  }
+}

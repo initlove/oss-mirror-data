@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZWUyOTlmOWIzYmU3ZTM3YTQ1NWI1NzVkZTMxODYyNGY1NDVjZTA3Yg==",
+  "sha": "ee299f9b3be7e37a455b575de318624f545ce07b",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/ee299f9b3be7e37a455b575de318624f545ce07b",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-05-13T23:24:58Z"
+  },
+  "object": {
+    "sha": "0914d33842976c2c870df06573b68f9192a1fb7a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/0914d33842976c2c870df06573b68f9192a1fb7a"
+  },
+  "tag": "v0.1.95",
+  "message": "2010.05.13, Version 0.1.95\n\n* Change GC idle notify so that it runs alongside setInterval\n\n* Install node_buffer.h on make install\n\n* fs.readFile returns Buffer by default (Tim Caswell)\n\n* Fix error reporting in child_process callbacks\n\n* Better logic for testing if an argument is a port\n\n* Improve error reporting (single line \"node.js:176:9\" errors)\n\n* Bugfix: Some http responses being truncated (appeared in 0.1.94)\n\n* Fix long standing net idle timeout bugs. Enable 2 minute timeout\n  by default in HTTP servers.\n\n* Add fs.fstat (Ben Noordhuis)\n\n* Upgrade to V8 2.2.9\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

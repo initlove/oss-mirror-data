@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTg0OTgxOmZkNTVlMjRmYTdkNDAzOGQ3ZDU4ZjcxYzA0NDA4MTUxMDE5YjYyYjg=",
+  "sha": "fd55e24fa7d4038d7d58f71c04408151019b62b8",
+  "url": "https://api.github.com/repos/memcached/memcached/git/tags/fd55e24fa7d4038d7d58f71c04408151019b62b8",
+  "tagger": {
+    "name": "Dustin Sallings",
+    "email": "dustin@spy.net",
+    "date": "2009-03-03T07:32:16Z"
+  },
+  "object": {
+    "sha": "fe912509075a38300a559a4fd0ec9a4d78dd7018",
+    "type": "commit",
+    "url": "https://api.github.com/repos/memcached/memcached/git/commits/fe912509075a38300a559a4fd0ec9a4d78dd7018"
+  },
+  "tag": "1.2.6",
+  "message": "Release 1.2.6\n\n* Add support for newer automake (Facebook)\n\n* DTrace support for Solaris/etc (Trond Norbye)\n\n* LRU tests (Steve Yen)\n\n* Handle negative length items properly (Dormando)\n\n* Don't leave stale data after failed set attempts (Dormando)\n\n* Fix refcount leaks, which would result in OOM's on all sets\n  (Dormando)\n\n* Fix buffer overruns (Dustin Sallings, Tomash Brechko)\n\n* Fix memory corruption with CAS (Dustin Sallings)\n\n* Fix -k to work with -d. (reported by Gary Zhu)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

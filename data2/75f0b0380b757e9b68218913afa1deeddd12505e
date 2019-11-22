@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NzVmMGIwMzgwYjc1N2U5YjY4MjE4OTEzYWZhMWRlZWRkZDEyNTA1ZQ==",
+  "sha": "75f0b0380b757e9b68218913afa1deeddd12505e",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/75f0b0380b757e9b68218913afa1deeddd12505e",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-10-02T13:06:09Z"
+  },
+  "object": {
+    "sha": "dc103ae020ecd6182aa2adb482ac72ea944130ee",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/dc103ae020ecd6182aa2adb482ac72ea944130ee"
+  },
+  "tag": "v0.2.3",
+  "message": "2010.10.02, Version 0.2.3\n\n* Fix require in REPL (bug introduced in v0.2.2)\n\n* Pass correct message in client HTTP upgrade event.\n  (Fedor Indutny)\n\n* Show function names in sys.inspect (Jorge Chamorro Bieling)\n\n* In HTTP, close connection on the \"connection:close\" header.\n  (Mikeal Rogers)\n\n* fs.ReadStream bug fixes (Tj Holowaychuk, Evan Larkin, Marco Rogers)\n\n* Fix zero length buffer bug for http res.end()\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

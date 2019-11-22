@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODo2MTNlYmEwNTE2Y2JmY2Y0YjI1NGFhNWUyYzUxZjRmNzIzY2M3NTRm",
+  "sha": "613eba0516cbfcf4b254aa5e2c51f4f723cc754f",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/613eba0516cbfcf4b254aa5e2c51f4f723cc754f",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-03-27T17:44:13Z"
+  },
+  "object": {
+    "sha": "2cf6b97422b2f337d73cfa0d076f22cce58dd14a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/2cf6b97422b2f337d73cfa0d076f22cce58dd14a"
+  },
+  "tag": "v1.4.3",
+  "message": "Release of 1.4.3\n\n- 2cf6b97422b2f337d73cfa0d076f22cce58dd14a: Merge pull request #731 from mattrjacobs/revert-to-java-6\n- 31e92dcba4bd93fc4fa4892509170583028bb206: Revert back to JDK6\n- 7983885ff4b6f9853c9c7c7d0feee15b47184146: Merge pull request #728 from mattrjacobs/add-semaphore-rejected-to-dashboard\n- d0e40ee83b6d602865376227faf571bd41e39945: Add semaphore-rejected metric to commands in Hystrix dashboard\n- 1484e70dc189870d82c5e49af9d02c4ae0abb176: Merge pull request #711 from eirslett/feature/use-archaius-for-plugin-lookup\n- 712fef322c2e46cbce217801e2a1d3207538f2f2: Merge pull request #671 from hanskr/AJP_chunked_fix\n- 0bca7809610ab662c1502048ecf9ba7e8fdb16a2: Update CHANGELOG.md\n- 1bf1b83017b5746902082d58171732166dfc358c: Update CHANGELOG.md\n- 82b8e6cf05618dd3ad5e83212df6a1209ccf7344: Load configuration from hystrix-plugins.properties as well\n- 07460fba3d51e5b32c3d512b2cf149976316a2dd: Use Archaius for Hystrix plugin setup\n- ede26ab46c48a1776f927b0e4c839d1b15a662a1: Don't pass on the Transfer-Encoding header when streaming, it messes up AJP/mod_JK somehow.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

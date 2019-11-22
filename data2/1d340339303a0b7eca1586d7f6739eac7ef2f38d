@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MWQzNDAzMzkzMDNhMGI3ZWNhMTU4NmQ3ZjY3MzllYWM3ZWYyZjM4ZA==",
+  "sha": "1d340339303a0b7eca1586d7f6739eac7ef2f38d",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/1d340339303a0b7eca1586d7f6739eac7ef2f38d",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2009-12-22T19:31:54Z"
+  },
+  "object": {
+    "sha": "f91e347eeeeac1a8bd6a7b462df0321b60f3affc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/f91e347eeeeac1a8bd6a7b462df0321b60f3affc"
+  },
+  "tag": "v0.1.23",
+  "message": "2009.12.22, Version 0.1.23\n\n  * Bugfix: require(\"../blah\") issues (isaacs)\n\n  * Bugfix: posix.cat (Jonas Pfenniger)\n\n  * Do not pause request for multipart parsing (Felix Geisendörfer)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MGZlNDRkNTJmZTc1ZjE1MWJjZWI1OTUzNDM5NDY1OGFhZTZhYzMyOA==",
+  "sha": "0fe44d52fe75f151bceb59534394658aae6ac328",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/0fe44d52fe75f151bceb59534394658aae6ac328",
+  "tagger": {
+    "name": "Ryan",
+    "email": "ry@tinyclouds.org",
+    "date": "2009-06-30T13:18:50Z"
+  },
+  "object": {
+    "sha": "813b53938b40484f63e7324c030e33711f26a149",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/813b53938b40484f63e7324c030e33711f26a149"
+  },
+  "tag": "v0.1.0",
+  "message": "2009.06.30, Version 0.1.0\n\n  * Update documentation, use asciidoc.\n\n  * EventEmitter and Promise interfaces. (Breaks previous API.)\n\n  * Remove node.Process constructor in favor of node.createProcess\n\n  * Add -m32 flags for compiling on x64 platforms.\n    (Thanks to Andr�s B�rth�zi)\n\n  * Upgrade v8 to 1.2.10 and libev to 3.6\n\n  * Bugfix: Timer::RepeatSetter wasn't working.\n\n  * Bugfix: Spawning many processes in a loop\n    (reported by Felix Geisendoerfer)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

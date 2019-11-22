@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MDc3NDI4N2VmODhhYTBiZTVhZjEyNWFjYWE0NTkzNjg0MDE4NTNmNA==",
+  "sha": "0774287ef88aa0be5af125acaa459368401853f4",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/0774287ef88aa0be5af125acaa459368401853f4",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-07-19T17:13:50Z"
+  },
+  "object": {
+    "sha": "60bf2d6cb33e4ce55604f73889ab840a9de8bdab",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/60bf2d6cb33e4ce55604f73889ab840a9de8bdab"
+  },
+  "tag": "v0.8.3",
+  "message": "2012.07.19, Version 0.8.3 (Stable)\n\n* V8: upgrade to 3.11.10.15\n\n* npm: Upgrade to 1.1.43\n\n* net: fix net.Server.listen({fd:x}) error reporting (Ben Noordhuis)\n\n* net: fix bogus errno reporting (Ben Noordhuis)\n\n* build: Move npm shebang logic into an npm script (isaacs)\n\n* build: fix add-on loading on freebsd (Ben Noordhuis)\n\n* build: disable unsafe optimizations (Ben Noordhuis)\n\n* build: fix spurious mksnapshot crashes for good (Ben Noordhuis)\n\n* build: speed up genv8constants (Dave Pacheco)\n\n* fs: make unwatchFile() remove a specific listener (Ben Noordhuis)\n\n* domain: Remove first arg from intercepted fn (Toshihiro Nakamura)\n\n* domain: Fix memory leak on error (isaacs)\n\n* events: Fix memory leak from removeAllListeners (Nathan Rajlich)\n\n* zlib: Fix memory leak in Unzip class. (isaacs)\n\n* crypto: Fix memory leak in DecipherUpdate() (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQCEBOAAoJELCniwpsSBz2sgMH+wSe2X4NlXM7YUx0Ix3z6D1C\nw1X4V+DW1L56jQvk66qkQStiApsIk13fXN3LxfCFZ/kwUr5lyPfJRuu3GVJa2Fwd\nMJmmOEYXjxp5Vc5xApSR5ZulnIlr/763cKjPCrOKkCoXpe4iXOCHL+wRohwM4okX\nQ9M+oNLWbkyOTAVQQj9z7eewcdxSGNG9CeacOfHx3/Y/lEmQssRl4yFxoanBXGh+\nZT7aRvqHbA4286wGpJTtHjlJoYHh7oeUEY56QTrh99wWy9Hvit7EUdjCc3ZzGb95\nKU0kfRIuoOxTIb90gwwjKG1NnDmbx8rM8sEHvu4NxXP0kBDDBxLKI4804kZXWKs=\n=AZJX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQCEBOAAoJELCniwpsSBz2sgMH+wSe2X4NlXM7YUx0Ix3z6D1C\nw1X4V+DW1L56jQvk66qkQStiApsIk13fXN3LxfCFZ/kwUr5lyPfJRuu3GVJa2Fwd\nMJmmOEYXjxp5Vc5xApSR5ZulnIlr/763cKjPCrOKkCoXpe4iXOCHL+wRohwM4okX\nQ9M+oNLWbkyOTAVQQj9z7eewcdxSGNG9CeacOfHx3/Y/lEmQssRl4yFxoanBXGh+\nZT7aRvqHbA4286wGpJTtHjlJoYHh7oeUEY56QTrh99wWy9Hvit7EUdjCc3ZzGb95\nKU0kfRIuoOxTIb90gwwjKG1NnDmbx8rM8sEHvu4NxXP0kBDDBxLKI4804kZXWKs=\n=AZJX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 60bf2d6cb33e4ce55604f73889ab840a9de8bdab\ntype commit\ntag v0.8.3\ntagger isaacs <i@izs.me> 1342718030 -0700\n\n2012.07.19, Version 0.8.3 (Stable)\n\n* V8: upgrade to 3.11.10.15\n\n* npm: Upgrade to 1.1.43\n\n* net: fix net.Server.listen({fd:x}) error reporting (Ben Noordhuis)\n\n* net: fix bogus errno reporting (Ben Noordhuis)\n\n* build: Move npm shebang logic into an npm script (isaacs)\n\n* build: fix add-on loading on freebsd (Ben Noordhuis)\n\n* build: disable unsafe optimizations (Ben Noordhuis)\n\n* build: fix spurious mksnapshot crashes for good (Ben Noordhuis)\n\n* build: speed up genv8constants (Dave Pacheco)\n\n* fs: make unwatchFile() remove a specific listener (Ben Noordhuis)\n\n* domain: Remove first arg from intercepted fn (Toshihiro Nakamura)\n\n* domain: Fix memory leak on error (isaacs)\n\n* events: Fix memory leak from removeAllListeners (Nathan Rajlich)\n\n* zlib: Fix memory leak in Unzip class. (isaacs)\n\n* crypto: Fix memory leak in DecipherUpdate() (Ben Noordhuis)\n"
+  }
+}

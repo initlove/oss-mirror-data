@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTowYTIxNGQ1NGU4MWRlYmQ5OTBhMjIyYjY0ZjM3N2ZjMjcwZGExMjgx",
+  "sha": "0a214d54e81debd990a222b64f377fc270da1281",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/0a214d54e81debd990a222b64f377fc270da1281",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-01-30T08:44:03Z"
+  },
+  "object": {
+    "sha": "cf4f9692cc8ebaba8e5cae5d8423c15eff8731f0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/cf4f9692cc8ebaba8e5cae5d8423c15eff8731f0"
+  },
+  "tag": "6.0.6",
+  "message": "Version 6.0.6\n\n### Bug fixes\n\nThe content of class declarations and expressions is now always parsed in strict mode.\n\nDon't allow `let` or `const` to bind the variable name `let`.\n\nTreat class declarations as lexical.\n\nDon't allow a generator function declaration as the sole body of an `if` or `else`.\n\nIgnore `\"use strict\"` when after an empty statement.\n\nAllow string line continuations with special line terminator characters.\n\nTreat `for` bodies as part of the `for` scope when checking for conflicting bindings.\n\nFix bug with parsing `yield` in a `for` loop initializer.\n\nImplement special cases around scope checking for functions.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlxRY+QACgkQcD8b7W0z\nrh721AgApOpUMxf5/GOZ4W56tmuiFkD80SG/lZ9Mx+RppeJE7vKxwrvW5PCMlf8z\nfLCgAEKihMuc/xv0EBP0xF17VDdb5F17W11PPsRNvJfNi9n0BcCBTm/2cPWXHz+R\nWfolpLuYvKnwCsmjKNqJAfNiTK0Am5bdqC7zDsvel51hmSbwh27Q2ChIG6Jgdm00\ncdT6JNGNfjVmWZRIXkTxWgQ3SSB2CC+Nvinn3frGgqJMENLSDp/p6CDYER41SaIg\nkk4jjElFRoyVHR3WhD9ml4MjbipDVDB+shmu0vLrow6sF+yi2ujK2LdT/TikmCTd\nB+0LNmnXQENeFYSuyJbQHWtX0kErfA==\n=SyBY\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlxRY+QACgkQcD8b7W0z\nrh721AgApOpUMxf5/GOZ4W56tmuiFkD80SG/lZ9Mx+RppeJE7vKxwrvW5PCMlf8z\nfLCgAEKihMuc/xv0EBP0xF17VDdb5F17W11PPsRNvJfNi9n0BcCBTm/2cPWXHz+R\nWfolpLuYvKnwCsmjKNqJAfNiTK0Am5bdqC7zDsvel51hmSbwh27Q2ChIG6Jgdm00\ncdT6JNGNfjVmWZRIXkTxWgQ3SSB2CC+Nvinn3frGgqJMENLSDp/p6CDYER41SaIg\nkk4jjElFRoyVHR3WhD9ml4MjbipDVDB+shmu0vLrow6sF+yi2ujK2LdT/TikmCTd\nB+0LNmnXQENeFYSuyJbQHWtX0kErfA==\n=SyBY\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cf4f9692cc8ebaba8e5cae5d8423c15eff8731f0\ntype commit\ntag 6.0.6\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1548837843 +0100\n\nVersion 6.0.6\n\n### Bug fixes\n\nThe content of class declarations and expressions is now always parsed in strict mode.\n\nDon't allow `let` or `const` to bind the variable name `let`.\n\nTreat class declarations as lexical.\n\nDon't allow a generator function declaration as the sole body of an `if` or `else`.\n\nIgnore `\"use strict\"` when after an empty statement.\n\nAllow string line continuations with special line terminator characters.\n\nTreat `for` bodies as part of the `for` scope when checking for conflicting bindings.\n\nFix bug with parsing `yield` in a `for` loop initializer.\n\nImplement special cases around scope checking for functions.\n"
+  }
+}

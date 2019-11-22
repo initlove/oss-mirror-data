@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTpiOWQ1M2U1NGFiZjllN2MzNjlkMmIyY2RkNDBhNDU0NDY1OTE3MGFi",
+  "sha": "b9d53e54abf9e7c369d2b2cdd40a4544659170ab",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/b9d53e54abf9e7c369d2b2cdd40a4544659170ab",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-09-24T06:33:42Z"
+  },
+  "object": {
+    "sha": "ea851e8cedb691dcc312fb6f1f0d813747a378ef",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/ea851e8cedb691dcc312fb6f1f0d813747a378ef"
+  },
+  "tag": "7.1.0",
+  "message": "Version 7.1.0\n\n### Bug fixes\n\nDisallow trailing object literal commas when ecmaVersion is less than 5.\n\n### New features\n\nAdd a static `acorn` property to the `Parser` class that contains the entire module interface, to allow plugins to access the instance of the library that they are acting on.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAl2JuM0ACgkQcD8b7W0z\nrh7RaQf9FBtdBotzGySiX++LdWLg1wYCVGKj626bagJRTGbm8dwIO0kr/30sk0l8\ns8ela6/kgyCZLjEty1Fdk01tWlssjbUbjBZIoQdkPxUackGmkpLL9PxmfIqhnCCY\nfkX2FwTB3aTQ9pKSvrO2bCbrYRpidF6mrCZl+ONm30ZuK7v0gnP+iCAqrHdDncfC\nwdy6e1C6cgPhaEqwc8rN8h9FabAwGI9dC0jurn3d5V6zBuWFqkDaiKPF75sbF3wQ\n3rvRLBhK/dy7Goy6flvoNnYVTLnv7UTyE4jGYxHqwpNxcZZgCpdeM4wBRjHPE0m4\n5OdHqdzmTBbMrPegCDJiawSmX7R1eg==\n=IEC4\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAl2JuM0ACgkQcD8b7W0z\nrh7RaQf9FBtdBotzGySiX++LdWLg1wYCVGKj626bagJRTGbm8dwIO0kr/30sk0l8\ns8ela6/kgyCZLjEty1Fdk01tWlssjbUbjBZIoQdkPxUackGmkpLL9PxmfIqhnCCY\nfkX2FwTB3aTQ9pKSvrO2bCbrYRpidF6mrCZl+ONm30ZuK7v0gnP+iCAqrHdDncfC\nwdy6e1C6cgPhaEqwc8rN8h9FabAwGI9dC0jurn3d5V6zBuWFqkDaiKPF75sbF3wQ\n3rvRLBhK/dy7Goy6flvoNnYVTLnv7UTyE4jGYxHqwpNxcZZgCpdeM4wBRjHPE0m4\n5OdHqdzmTBbMrPegCDJiawSmX7R1eg==\n=IEC4\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ea851e8cedb691dcc312fb6f1f0d813747a378ef\ntype commit\ntag 7.1.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1569306822 +0200\n\nVersion 7.1.0\n\n### Bug fixes\n\nDisallow trailing object literal commas when ecmaVersion is less than 5.\n\n### New features\n\nAdd a static `acorn` property to the `Parser` class that contains the entire module interface, to allow plugins to access the instance of the library that they are acting on.\n"
+  }
+}

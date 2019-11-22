@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OToyNTJjNWNhNDU1MjcyMmVkNjdiNTgxMjAzMTk3MDYzZmY4NGZhNjcy",
+  "sha": "252c5ca4552722ed67b581203197063ff84fa672",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/252c5ca4552722ed67b581203197063ff84fa672",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-09-04T08:07:26Z"
+  },
+  "object": {
+    "sha": "9ae70b727426c2f9e9b5aec6cdaaed3657b5ea3a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/9ae70b727426c2f9e9b5aec6cdaaed3657b5ea3a"
+  },
+  "tag": "5.1.2",
+  "message": "Version 5.1.2\n\n### Bug fixes\n\nDisable parsing of legacy HTML-style comments in modules.\n\nFix parsing of async methods whose names are keywords.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlmtCcoACgkQcD8b7W0z\nrh4HAgf/fBbjCT9TB01Mkzwj1Inw+JS24MxA+xJ6THGnzu8L5m/YAiMbxXAgINAN\nfHxCg85w2ZRbhz6XGaBgA4JJ+7MZ171Gcn4XRYRtc2/PvAMw7biDdvupt5ULBmRr\n+tQlTj9ZVzemA63HL8wnwgmpGqcZIaGuEmKfXYyi0hrV+EEAxEgh4Wqjw3Kf/LIH\nquzUlvKpz/++Qvh6svK87sxvs0+DnZqIvB6yhPHvrczqaB590hpdLm3tUMqJZ+Bu\nWSuN0eu2jsTxqDKjqxsIiP5EX9mvxZ+Rq3QpqwIOjxcuqb2eT+hPDksDL9ISbIv7\nohc+VXfSZnRwmDiToBeNhUZSmli3gA==\n=uC1O\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlmtCcoACgkQcD8b7W0z\nrh4HAgf/fBbjCT9TB01Mkzwj1Inw+JS24MxA+xJ6THGnzu8L5m/YAiMbxXAgINAN\nfHxCg85w2ZRbhz6XGaBgA4JJ+7MZ171Gcn4XRYRtc2/PvAMw7biDdvupt5ULBmRr\n+tQlTj9ZVzemA63HL8wnwgmpGqcZIaGuEmKfXYyi0hrV+EEAxEgh4Wqjw3Kf/LIH\nquzUlvKpz/++Qvh6svK87sxvs0+DnZqIvB6yhPHvrczqaB590hpdLm3tUMqJZ+Bu\nWSuN0eu2jsTxqDKjqxsIiP5EX9mvxZ+Rq3QpqwIOjxcuqb2eT+hPDksDL9ISbIv7\nohc+VXfSZnRwmDiToBeNhUZSmli3gA==\n=uC1O\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9ae70b727426c2f9e9b5aec6cdaaed3657b5ea3a\ntype commit\ntag 5.1.2\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1504512446 +0200\n\nVersion 5.1.2\n\n### Bug fixes\n\nDisable parsing of legacy HTML-style comments in modules.\n\nFix parsing of async methods whose names are keywords.\n"
+  }
+}

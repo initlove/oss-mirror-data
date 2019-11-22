@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOmY5Yzk2YzY3M2RmYTU2Njg0OTBmMjM3ZGZlNmFkZWNjNTA1ZWQ5YjQ=",
+  "sha": "f9c96c673dfa5668490f237dfe6adecc505ed9b4",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/f9c96c673dfa5668490f237dfe6adecc505ed9b4",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-11-06T06:00:54Z"
+  },
+  "object": {
+    "sha": "16d5bb74d7f74fa44637d89292012092202e8e36",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/16d5bb74d7f74fa44637d89292012092202e8e36"
+  },
+  "tag": "18.0.3",
+  "message": "nova 18.0.3 release\n\nmeta:version: 18.0.3\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I872e0541ec11ecbbfbbd9f99fb570c48b0b5033e\nmeta:release:Code-Review+1: melanie witt <melwittt@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJb4S4WAAoJEBpUEUgFTp44j48L/iKuHJ/e35OWxpEGWJQneRGx\nUqAJeLjLIB7mH5t/V1OxCZIVdwfpb3vJ23+utXh7PzraIGAk06l/98cHgoSFEK1U\nBb7Rpl5lhqeLIG3qy2Ec6CNdCkzK6j2RTINb4ryzwnrCjxDN4G/cdd6mRKgFNQB0\nU0zfJCA1Vb6KWAbyiOlAub8vP3+dncOhgF/LnHYmQeQo8rzSsvQ+ciHMJzyxkiYe\nZ8RkyYNt84q/w1Qk1RhwPxnv7nFXOgs7iLVGDuYmSnO63wwoZV45OxsBBoTEOzw5\nM82tp1DQ3cEkdkisLgbunFtZ5ORwxz1bsD2bCGMmMK5hAiIYQeVwur8Tmv90SoLI\nbJY5bJ4t8qti8OlHpSVep3KDZSNwZgHO6UF+mBrhFVL2oFWDLGbO5KihtnInAntz\ntv5K5yx/ziZtzpdN5JKAcGt33cOx3maVRbu41f68IH7lJ3Ju//D/MPgi9rJHoSSG\nWdObJowtVjMKiw7Oz/LfZlfbUT5XGCXtLQa9kFs8JA==\n=7MfY\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJb4S4WAAoJEBpUEUgFTp44j48L/iKuHJ/e35OWxpEGWJQneRGx\nUqAJeLjLIB7mH5t/V1OxCZIVdwfpb3vJ23+utXh7PzraIGAk06l/98cHgoSFEK1U\nBb7Rpl5lhqeLIG3qy2Ec6CNdCkzK6j2RTINb4ryzwnrCjxDN4G/cdd6mRKgFNQB0\nU0zfJCA1Vb6KWAbyiOlAub8vP3+dncOhgF/LnHYmQeQo8rzSsvQ+ciHMJzyxkiYe\nZ8RkyYNt84q/w1Qk1RhwPxnv7nFXOgs7iLVGDuYmSnO63wwoZV45OxsBBoTEOzw5\nM82tp1DQ3cEkdkisLgbunFtZ5ORwxz1bsD2bCGMmMK5hAiIYQeVwur8Tmv90SoLI\nbJY5bJ4t8qti8OlHpSVep3KDZSNwZgHO6UF+mBrhFVL2oFWDLGbO5KihtnInAntz\ntv5K5yx/ziZtzpdN5JKAcGt33cOx3maVRbu41f68IH7lJ3Ju//D/MPgi9rJHoSSG\nWdObJowtVjMKiw7Oz/LfZlfbUT5XGCXtLQa9kFs8JA==\n=7MfY\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 16d5bb74d7f74fa44637d89292012092202e8e36\ntype commit\ntag 18.0.3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1541484054 +0000\n\nnova 18.0.3 release\n\nmeta:version: 18.0.3\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I872e0541ec11ecbbfbbd9f99fb570c48b0b5033e\nmeta:release:Code-Review+1: melanie witt <melwittt@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

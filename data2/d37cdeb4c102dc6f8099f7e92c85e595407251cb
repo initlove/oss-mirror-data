@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTpkMzdjZGViNGMxMDJkYzZmODA5OWY3ZTkyYzg1ZTU5NTQwNzI1MWNi",
+  "sha": "d37cdeb4c102dc6f8099f7e92c85e595407251cb",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/d37cdeb4c102dc6f8099f7e92c85e595407251cb",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-02-04T09:40:05Z"
+  },
+  "object": {
+    "sha": "600e770988b7dee1c872acd483150dcc1247fc49",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/600e770988b7dee1c872acd483150dcc1247fc49"
+  },
+  "tag": "6.0.7",
+  "message": "Version 6.0.7\n\n### Bug fixes\n\nCheck that exported bindings are defined.\n\nDon't treat `\\u180e` as a whitespace character.\n\nCheck for duplicate parameter names in methods.\n\nDon't allow shorthand properties when they are generators or async methods.\n\nForbid binding `await` in async arrow function's parameter list.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlxYCH8ACgkQcD8b7W0z\nrh6XYgf9FZ9SJugTdrbo/B5Ob1Yzj+aDUU/ypz/sfJDuQquYWojNWWq40A5g7ace\nAlGTtmKT2stB6A5VXdPbiuNrVz2V3HcJXp4Rb3c3/LalO5du96GXogyADbrx1ZLr\nfQovaQSBTRNWVhbT0r4y+N8keSv2jyVr/gYXtnCt3lC3lp4/PbHy3VSIwfLzZ6ml\nNAdqbljHP2Ix/FXEUIUVtHRutnmDcxKTp+RCr44SQEfBIRZc9EguSEUHuRI18awH\nFw8j/3apwflK4cEdyLaXAN3V22f1jC8ROdOvj3FbjWc5DtK8U3id3bkvl+156iUx\n1yU/fvq4ZQj4IwBxv+Uwr0dK+4Sw2g==\n=vG6k\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlxYCH8ACgkQcD8b7W0z\nrh6XYgf9FZ9SJugTdrbo/B5Ob1Yzj+aDUU/ypz/sfJDuQquYWojNWWq40A5g7ace\nAlGTtmKT2stB6A5VXdPbiuNrVz2V3HcJXp4Rb3c3/LalO5du96GXogyADbrx1ZLr\nfQovaQSBTRNWVhbT0r4y+N8keSv2jyVr/gYXtnCt3lC3lp4/PbHy3VSIwfLzZ6ml\nNAdqbljHP2Ix/FXEUIUVtHRutnmDcxKTp+RCr44SQEfBIRZc9EguSEUHuRI18awH\nFw8j/3apwflK4cEdyLaXAN3V22f1jC8ROdOvj3FbjWc5DtK8U3id3bkvl+156iUx\n1yU/fvq4ZQj4IwBxv+Uwr0dK+4Sw2g==\n=vG6k\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 600e770988b7dee1c872acd483150dcc1247fc49\ntype commit\ntag 6.0.7\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1549273205 +0100\n\nVersion 6.0.7\n\n### Bug fixes\n\nCheck that exported bindings are defined.\n\nDon't treat `\\u180e` as a whitespace character.\n\nCheck for duplicate parameter names in methods.\n\nDon't allow shorthand properties when they are generators or async methods.\n\nForbid binding `await` in async arrow function's parameter list.\n"
+  }
+}

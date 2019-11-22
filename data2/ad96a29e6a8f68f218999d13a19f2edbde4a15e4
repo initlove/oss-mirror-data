@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOmFkOTZhMjllNmE4ZjY4ZjIxODk5OWQxM2ExOWYyZWRiZGU0YTE1ZTQ=",
+  "sha": "ad96a29e6a8f68f218999d13a19f2edbde4a15e4",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/ad96a29e6a8f68f218999d13a19f2edbde4a15e4",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-02-16T05:57:07Z"
+  },
+  "object": {
+    "sha": "e708799c04371f050700227786d8a40e95229ddf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/e708799c04371f050700227786d8a40e95229ddf"
+  },
+  "tag": "17.0.0.0rc2",
+  "message": "nova 17.0.0.0rc2 release candidate\n\nmeta:version: 17.0.0.0rc2\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Change-Id: I6c5c79aeeea0fe556bfb154fa34b0eacea9359da\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJahnKzAAoJEEIeZHKBH5qB5nIH/3JUPEbmoxAv7lJc8KH/6iz8\nYevFxBZFn21EObMQ1fwPPy5hd2C4qsyTqhfFDXDFMGrkeNHJB5LCjnFbKBIshA/5\nAyGXaBu/VBM9TMB6qXlxv27+m0d6S/0A6G/XvqMEOjL2jYNyLFb+2jf34DxhLXUW\nJdR+BqbHQmFNMOkZ/LEfSS5bWlWg7ldcyu6mbNjB82ANxSY0TmXXU97c5ypLLibh\nr9yTqu967hNaqIVL9ZzagiU5S1vcCUhyTWh3BnFhc4qapELNu0EJ9dUS45Ur3q5b\noJ9RXScyAr4RFynUUFiLgQuUU1MZYegLiPrHZtaLxtkUnlLZYIjgphwAef2mlro=\n=DGS/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJahnKzAAoJEEIeZHKBH5qB5nIH/3JUPEbmoxAv7lJc8KH/6iz8\nYevFxBZFn21EObMQ1fwPPy5hd2C4qsyTqhfFDXDFMGrkeNHJB5LCjnFbKBIshA/5\nAyGXaBu/VBM9TMB6qXlxv27+m0d6S/0A6G/XvqMEOjL2jYNyLFb+2jf34DxhLXUW\nJdR+BqbHQmFNMOkZ/LEfSS5bWlWg7ldcyu6mbNjB82ANxSY0TmXXU97c5ypLLibh\nr9yTqu967hNaqIVL9ZzagiU5S1vcCUhyTWh3BnFhc4qapELNu0EJ9dUS45Ur3q5b\noJ9RXScyAr4RFynUUFiLgQuUU1MZYegLiPrHZtaLxtkUnlLZYIjgphwAef2mlro=\n=DGS/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e708799c04371f050700227786d8a40e95229ddf\ntype commit\ntag 17.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1518760627 +0000\n\nnova 17.0.0.0rc2 release candidate\n\nmeta:version: 17.0.0.0rc2\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Change-Id: I6c5c79aeeea0fe556bfb154fa34b0eacea9359da\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

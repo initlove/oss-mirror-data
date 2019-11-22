@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY4ODQyNTc6NDI5OThmOGJlYzZjZTg0MGM2ODdlZTIyNzdlMzI3YTExNThmYzA0Yw==",
+  "sha": "42998f8bec6ce840c687ee2277e327a1158fc04c",
+  "url": "https://api.github.com/repos/openstack/python-magnumclient/git/tags/42998f8bec6ce840c687ee2277e327a1158fc04c",
+  "tagger": {
+    "name": "Adrian Otto",
+    "email": "adrian.otto@rackspace.com",
+    "date": "2016-03-18T19:04:12Z"
+  },
+  "object": {
+    "sha": "c991639a6b24c34350945d653c2620b7d9c42d10",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-magnumclient/git/commits/c991639a6b24c34350945d653c2620b7d9c42d10"
+  },
+  "tag": "2.0.0",
+  "message": "Mitaka release for python-magnumclient\n\n1519167 test_shell_args.py is redundant\n1519199 Typo in help message in '--name' of baymodel-create\n1519510 remove py26 support\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2.0.14 (GNU/Linux)\n\niQEcBAABAgAGBQJW7FHPAAoJEHcGupuh7IB/VVgH/1PU0GiddGONqQbvdblXPCca\nVncS9AvGn7vEVc1hAUC+V1qYL4SfdF/YBuePxMMJHSoCcLNAq+RdImO12muf+A2L\n0jPI9P8Xpzpuw+gaP/1CsJ3CJEWnziHtAprW04RRQ9jzzXPIw9M1189vGdaAmAch\nVYJVohqY/QnG7dGIYnYVtuNUuuIXgxYxs5Gp3sGvMYjE4iXxpAouQ1u2ElfXxwQK\njS7n7X34lFFYBHrqVjCr7WCk5OoQTYB34f5i6YNgc2gMij8nAtKkZFZUEhHAyAhl\nmBqleUEVwb807KGHHgsuf9VdDzBoTYCCVr98Vy0yJwkaSvR8GUU23IgbPi1cXYg=\n=r2xt\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2.0.14 (GNU/Linux)\n\niQEcBAABAgAGBQJW7FHPAAoJEHcGupuh7IB/VVgH/1PU0GiddGONqQbvdblXPCca\nVncS9AvGn7vEVc1hAUC+V1qYL4SfdF/YBuePxMMJHSoCcLNAq+RdImO12muf+A2L\n0jPI9P8Xpzpuw+gaP/1CsJ3CJEWnziHtAprW04RRQ9jzzXPIw9M1189vGdaAmAch\nVYJVohqY/QnG7dGIYnYVtuNUuuIXgxYxs5Gp3sGvMYjE4iXxpAouQ1u2ElfXxwQK\njS7n7X34lFFYBHrqVjCr7WCk5OoQTYB34f5i6YNgc2gMij8nAtKkZFZUEhHAyAhl\nmBqleUEVwb807KGHHgsuf9VdDzBoTYCCVr98Vy0yJwkaSvR8GUU23IgbPi1cXYg=\n=r2xt\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c991639a6b24c34350945d653c2620b7d9c42d10\ntype commit\ntag 2.0.0\ntagger Adrian Otto <adrian.otto@rackspace.com> 1458327852 +0000\n\nMitaka release for python-magnumclient\n\n1519167 test_shell_args.py is redundant\n1519199 Typo in help message in '--name' of baymodel-create\n1519510 remove py26 support\n"
+  }
+}

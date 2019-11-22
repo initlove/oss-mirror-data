@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6Nzk2ZTVkOWUwZjBjMjg4YzEwMWEwY2ZjZWUyNjQ4NDljMmQzOWM5YQ==",
+  "sha": "796e5d9e0f0c288c101a0cfcee264849c2d39c9a",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/796e5d9e0f0c288c101a0cfcee264849c2d39c9a",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-10-12T15:53:38Z"
+  },
+  "object": {
+    "sha": "38c72d4e29574dec5205bcf23c2a85efe65331a4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/38c72d4e29574dec5205bcf23c2a85efe65331a4"
+  },
+  "tag": "v0.8.12",
+  "message": "2012.10.12, Version 0.8.12 (Stable)\n\n* npm: Upgrade to 1.1.63\n\n* crypto: Reduce stability index to 2-Unstable (isaacs)\n\n* windows: fix handle leak in uv_fs_utime (Bert Belder)\n\n* windows: fix application crashed popup in debug version (Bert Belder)\n\n* buffer: report proper retained size in profiler (Ben Noordhuis)\n\n* buffer: fix byteLength with UTF-16LE (koichik)\n\n* repl: make \"end of input\" JSON.parse() errors throw in the REPL (Nathan Rajlich)\n\n* repl: make invalid RegExp modifiers throw in the REPL (Nathan Rajlich)\n\n* http: handle multiple Proxy-Authenticate values (Willi Eggeling)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQeD0CAAoJELCniwpsSBz2VMMH/ixcN6sV1Gm0RNhs5jiZ91hI\nR04yV8GoyknuxvDf2rnLnfu4FamNtp6Zm2wbL5gdJiyLK1tkQpsX9f4fn9vCg+/Y\nZoIKi0XGeo2sSJh0bsyOT8PQmMCz/EPOD4eTaeE0Qp6gpSgVH6BUyZpBA5rd04u2\nr17JICwdQ6YrCEUcjGXAtRlaMHcZhqqrQjkDkBAUTd1EM3P55EiQe6UQbRhkwVKK\n9/9KtUeA2BHqUQlJvw3AUAsKLbQa6h21Bj/tG8fVtkv9vjPR0tzT1aAJiFv2xYQz\nWdyxmCppHs5kXFvDa+cemxhfBoLqFFUlGmiFEUhsO4gY0/XSRW3GwdsslH3Net4=\n=2KxL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQeD0CAAoJELCniwpsSBz2VMMH/ixcN6sV1Gm0RNhs5jiZ91hI\nR04yV8GoyknuxvDf2rnLnfu4FamNtp6Zm2wbL5gdJiyLK1tkQpsX9f4fn9vCg+/Y\nZoIKi0XGeo2sSJh0bsyOT8PQmMCz/EPOD4eTaeE0Qp6gpSgVH6BUyZpBA5rd04u2\nr17JICwdQ6YrCEUcjGXAtRlaMHcZhqqrQjkDkBAUTd1EM3P55EiQe6UQbRhkwVKK\n9/9KtUeA2BHqUQlJvw3AUAsKLbQa6h21Bj/tG8fVtkv9vjPR0tzT1aAJiFv2xYQz\nWdyxmCppHs5kXFvDa+cemxhfBoLqFFUlGmiFEUhsO4gY0/XSRW3GwdsslH3Net4=\n=2KxL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 38c72d4e29574dec5205bcf23c2a85efe65331a4\ntype commit\ntag v0.8.12\ntagger isaacs <i@izs.me> 1350057218 -0700\n\n2012.10.12, Version 0.8.12 (Stable)\n\n* npm: Upgrade to 1.1.63\n\n* crypto: Reduce stability index to 2-Unstable (isaacs)\n\n* windows: fix handle leak in uv_fs_utime (Bert Belder)\n\n* windows: fix application crashed popup in debug version (Bert Belder)\n\n* buffer: report proper retained size in profiler (Ben Noordhuis)\n\n* buffer: fix byteLength with UTF-16LE (koichik)\n\n* repl: make \"end of input\" JSON.parse() errors throw in the REPL (Nathan Rajlich)\n\n* repl: make invalid RegExp modifiers throw in the REPL (Nathan Rajlich)\n\n* http: handle multiple Proxy-Authenticate values (Willi Eggeling)\n"
+  }
+}

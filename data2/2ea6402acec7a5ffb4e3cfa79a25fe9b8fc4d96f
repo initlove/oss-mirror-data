@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6MmVhNjQwMmFjZWM3YTVmZmI0ZTNjZmE3OWEyNWZlOWI4ZmM0ZDk2Zg==",
+  "sha": "2ea6402acec7a5ffb4e3cfa79a25fe9b8fc4d96f",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/2ea6402acec7a5ffb4e3cfa79a25fe9b8fc4d96f",
+  "tagger": {
+    "name": "Yicheng Qin",
+    "email": "qycqycqycqycqyc@gmail.com",
+    "date": "2015-09-10T17:04:27Z"
+  },
+  "object": {
+    "sha": "e4561dd8cfb1163fb51afceca9c78aa89398e731",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/e4561dd8cfb1163fb51afceca9c78aa89398e731"
+  },
+  "tag": "v2.2.0",
+  "message": "- New etcd client\n- Experimental v3 API and new storage demo\n- Active cluster health checking\n- Improved documentation\n- v2 API change\n- Default GOMAXPROCS changes with Go 1.5\n- Support Dedicated WAL Directory\n- Introduce flag `--endpoint` in etcdctl\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJV8bhfAAoJEOdQvf2jMxAztBwP/j3p87wtWVfWUhXuxIsXETof\nrsqRa3QwS+Ado8ujDCaMVZbJ0iISr3WLIuufZzu7CoBUCX0cBEmX7hoZKXUXL8FO\nxskZ7NDHbaqPigyPA+GBZ67+vlbzRyUZAuA4Px6iIbBSHYBxLswvlL0ocXQrLcaB\n/6akqVR9iDW/EZ7F6UnEvEozEXMlomnN79/SX5IC0aHW09pmcgN/mgxm7A0FaJlu\n0AArjHExd9q4gGSFCaJ6jHAci63YK4ukslj5WWhk7gQIqpvgYW2Nfd/broHv8U4e\np38fjKj+XxAggNLk6MxVKi6SrqqCOms7L0j5Ub8FW9yMsDohz85pP7N31J2M+b58\np+a+pyVNQVsYg1LW1k2UZhjLcOcZrYMODdj2ClDndJL4o0lrMPI+Qg+BEX+Nzl/e\n3iSrEWps0vyNSO/ywvYvHnhuT1ecP7yQi54Pe93zw5R35zmG1vh4owrONHZXpTxY\nULSHKQMKpc0kX1nbXV36RHN+fsemKkL6Gjyjpsdv6spVTAC+uini1bPrkHgwGktP\nMCHitnQeGsR34S6JgY0BGhs8qsEKeL8Coz+SCCdnJmJJYz8GqtlE+LlJiNbFxdHs\nfmWsAm3vKZ7gyLlejjFJ/kNE05Cs/V96eY8ZEu77WAacQbhrVQxE4f9iW3Uz1X4k\nGJxpjke1KV4m0YHbPL8D\n=u+8Q\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJV8bhfAAoJEOdQvf2jMxAztBwP/j3p87wtWVfWUhXuxIsXETof\nrsqRa3QwS+Ado8ujDCaMVZbJ0iISr3WLIuufZzu7CoBUCX0cBEmX7hoZKXUXL8FO\nxskZ7NDHbaqPigyPA+GBZ67+vlbzRyUZAuA4Px6iIbBSHYBxLswvlL0ocXQrLcaB\n/6akqVR9iDW/EZ7F6UnEvEozEXMlomnN79/SX5IC0aHW09pmcgN/mgxm7A0FaJlu\n0AArjHExd9q4gGSFCaJ6jHAci63YK4ukslj5WWhk7gQIqpvgYW2Nfd/broHv8U4e\np38fjKj+XxAggNLk6MxVKi6SrqqCOms7L0j5Ub8FW9yMsDohz85pP7N31J2M+b58\np+a+pyVNQVsYg1LW1k2UZhjLcOcZrYMODdj2ClDndJL4o0lrMPI+Qg+BEX+Nzl/e\n3iSrEWps0vyNSO/ywvYvHnhuT1ecP7yQi54Pe93zw5R35zmG1vh4owrONHZXpTxY\nULSHKQMKpc0kX1nbXV36RHN+fsemKkL6Gjyjpsdv6spVTAC+uini1bPrkHgwGktP\nMCHitnQeGsR34S6JgY0BGhs8qsEKeL8Coz+SCCdnJmJJYz8GqtlE+LlJiNbFxdHs\nfmWsAm3vKZ7gyLlejjFJ/kNE05Cs/V96eY8ZEu77WAacQbhrVQxE4f9iW3Uz1X4k\nGJxpjke1KV4m0YHbPL8D\n=u+8Q\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e4561dd8cfb1163fb51afceca9c78aa89398e731\ntype commit\ntag v2.2.0\ntagger Yicheng Qin <qycqycqycqycqyc@gmail.com> 1441904667 -0700\n\n- New etcd client\n- Experimental v3 API and new storage demo\n- Active cluster health checking\n- Improved documentation\n- v2 API change\n- Default GOMAXPROCS changes with Go 1.5\n- Support Dedicated WAL Directory\n- Introduce flag `--endpoint` in etcdctl\n"
+  }
+}

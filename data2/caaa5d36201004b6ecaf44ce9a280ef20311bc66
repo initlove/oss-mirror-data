@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6Y2FhYTVkMzYyMDEwMDRiNmVjYWY0NGNlOWEyODBlZjIwMzExYmM2Ng==",
+  "sha": "caaa5d36201004b6ecaf44ce9a280ef20311bc66",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/caaa5d36201004b6ecaf44ce9a280ef20311bc66",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-04-19T16:13:13Z"
+  },
+  "object": {
+    "sha": "4babd2b46ebf9fbea2c9946af5cfae25a33b2b22",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/4babd2b46ebf9fbea2c9946af5cfae25a33b2b22"
+  },
+  "tag": "v0.11.1",
+  "message": "2013.04.19, Version 0.11.1 (Unstable)\n\n* V8: upgrade to 3.18.0\n\n* uv: Upgrade to v0.11.1\n\n* http: split into multiple separate modules (Timothy J Fontaine)\n\n* http: escape unsafe characters in request path (Ben Noordhuis)\n\n* url: Escape all unwise characters (isaacs)\n\n* build: depend on v8 postmortem-metadata if enabled (Paddy Byers)\n\n* etw: update prototypes to match dtrace provider (Timothy J Fontaine)\n\n* buffer: change output of Buffer.prototype.toJSON() (David Braun)\n\n* dtrace: actually use the _handle.fd value (Timothy J Fontaine)\n\n* dtrace: pass more arguments to probes (Dave Pacheco)\n\n* build: allow building with dtrace on osx (Dave Pacheco)\n\n* zlib: allow passing options to convenience methods (Kyle Robinson Young)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRcW0ZAAoJELCniwpsSBz2AZoH/11me3NxIZmOby0sVyMgD4xs\nWF/LtUE1CXMTG/ebrbsR7ZDicFoMAe6/5+WmHxt0LOiOgQ8NHa+REY/cZYAtG0bT\nVl6tkXPe4/sbI5nF+D1Vkg4HnmKKpJK6cIiQVyMPakaqxggCrHxIfAwj5ZAV17Eo\n8GE5yQ6pAphAQKmQGPmTcrTMhQ0htD3J8sYzWRWTS/cgzDsfcP+wcN9sKx8aE9uG\nuvppjNulQtnEes+ShRkVLQnef5upVSKLx9g3qC10gWWM/IhQhj74Kb6gNzRdkZ4x\ncX4gVTNDIJnY0RpUMnimFGz4IN3O+g6XzzbGK0U+mmBkabLsSEmuAQRMQLvWWz8=\n=SXaa\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRcW0ZAAoJELCniwpsSBz2AZoH/11me3NxIZmOby0sVyMgD4xs\nWF/LtUE1CXMTG/ebrbsR7ZDicFoMAe6/5+WmHxt0LOiOgQ8NHa+REY/cZYAtG0bT\nVl6tkXPe4/sbI5nF+D1Vkg4HnmKKpJK6cIiQVyMPakaqxggCrHxIfAwj5ZAV17Eo\n8GE5yQ6pAphAQKmQGPmTcrTMhQ0htD3J8sYzWRWTS/cgzDsfcP+wcN9sKx8aE9uG\nuvppjNulQtnEes+ShRkVLQnef5upVSKLx9g3qC10gWWM/IhQhj74Kb6gNzRdkZ4x\ncX4gVTNDIJnY0RpUMnimFGz4IN3O+g6XzzbGK0U+mmBkabLsSEmuAQRMQLvWWz8=\n=SXaa\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4babd2b46ebf9fbea2c9946af5cfae25a33b2b22\ntype commit\ntag v0.11.1\ntagger isaacs <i@izs.me> 1366387993 -0700\n\n2013.04.19, Version 0.11.1 (Unstable)\n\n* V8: upgrade to 3.18.0\n\n* uv: Upgrade to v0.11.1\n\n* http: split into multiple separate modules (Timothy J Fontaine)\n\n* http: escape unsafe characters in request path (Ben Noordhuis)\n\n* url: Escape all unwise characters (isaacs)\n\n* build: depend on v8 postmortem-metadata if enabled (Paddy Byers)\n\n* etw: update prototypes to match dtrace provider (Timothy J Fontaine)\n\n* buffer: change output of Buffer.prototype.toJSON() (David Braun)\n\n* dtrace: actually use the _handle.fd value (Timothy J Fontaine)\n\n* dtrace: pass more arguments to probes (Dave Pacheco)\n\n* build: allow building with dtrace on osx (Dave Pacheco)\n\n* zlib: allow passing options to convenience methods (Kyle Robinson Young)\n"
+  }
+}

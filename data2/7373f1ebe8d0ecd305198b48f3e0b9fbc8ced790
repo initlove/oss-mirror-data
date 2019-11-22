@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6NzM3M2YxZWJlOGQwZWNkMzA1MTk4YjQ4ZjNlMGI5ZmJjOGNlZDc5MA==",
+  "sha": "7373f1ebe8d0ecd305198b48f3e0b9fbc8ced790",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/7373f1ebe8d0ecd305198b48f3e0b9fbc8ced790",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2018-10-12T10:36:43Z"
+  },
+  "object": {
+    "sha": "5070ca211749fd1703dbff1431e3c83d4b6856d6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/5070ca211749fd1703dbff1431e3c83d4b6856d6"
+  },
+  "tag": "v0.5.39",
+  "message": "Release v0.5.39 contains the following changes:\n* Add additional security compiler flags.\n* Correction of an incorrect configure option.\n* Enable QAT engine to be built against OpenSSL packages, for example, of a Debian-based distribution.\n* Modify configure options to make OpenSSL master/1.1.1 build the default.\n* Fix several formatting issues in README.md markup.\n* Add ability to disable auto engine init on fork.\n* Added more detail in the README.md on the use of the --enable-openssl_install_build_arch_path option to the build configure command.\n* Update README.md for OpenSSL 1.1.1\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

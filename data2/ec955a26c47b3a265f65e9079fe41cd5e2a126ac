@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZWM5NTVhMjZjNDdiM2EyNjVmNjVlOTA3OWZlNDFjZDVlMmExMjZhYw==",
+  "sha": "ec955a26c47b3a265f65e9079fe41cd5e2a126ac",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/ec955a26c47b3a265f65e9079fe41cd5e2a126ac",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-09-30T20:59:50Z"
+  },
+  "object": {
+    "sha": "7cc17a0cea1d25188c103745a7d0c24375e3a609",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/7cc17a0cea1d25188c103745a7d0c24375e3a609"
+  },
+  "tag": "v0.5.8",
+  "message": "2011.09.30, Version 0.5.8 (unstable)\n\n* zlib bindings (isaacs)\n\n* Windows supports TTY ANSI escape codes (Bert Belder)\n\n* Debugger improvements (Fedor Indutny)\n\n* crypto: look up SSL errors with ERR_print_errors() (Ben Noordhuis)\n\n* dns callbacks go through MakeCallback now\n\n* Raise an error when a malformed package.json file is found. (Ben Leslie)\n\n* buffers: handle bad length argument in constructor (Ben Noordhuis)\n\n* #1726, unref process.stdout\n\n* Doc improvements (Ben Noordhuis, Fedor Indutny, koichik)\n\n* Upgrade libuv to fe18438\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

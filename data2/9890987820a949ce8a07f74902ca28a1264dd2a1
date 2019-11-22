@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzU5ODE6OTg5MDk4NzgyMGE5NDljZThhMDdmNzQ5MDJjYTI4YTEyNjRkZDJhMQ==",
+  "sha": "9890987820a949ce8a07f74902ca28a1264dd2a1",
+  "url": "https://api.github.com/repos/gpg/libassuan/git/tags/9890987820a949ce8a07f74902ca28a1264dd2a1",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2017-12-01T14:30:55Z"
+  },
+  "object": {
+    "sha": "a70eaa8a3347660cf2f66ada0fa82cf991a1d7a0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libassuan/git/commits/a70eaa8a3347660cf2f66ada0fa82cf991a1d7a0"
+  },
+  "tag": "libassuan-2.4.5",
+  "message": "Fixing a hang on Windows\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlohZ58ACgkQJJs50k8l\n47bEdQf/edbqZfQcUUE8w1A3995bH8juFywi/CLlyofDy5fYf6N0c7dHzNZ19tv8\nHMWrkFy0astKdrdiniwGYmBP5ikeLSxaLTBCxmHHua4ebTcQKdPDvKS9uPia70aK\ndCBFuJ9wZWwE2AxsRanzOyGSX9jSyN7bFXstqNa+Z8a6SEGB2u+8AJookHwU1MkG\niq93vy9Bfn+uc01Mf0z/8OEnV52/pvo7tJGaiUayiUh2Avr8S5nLR4JyKxC/6cLl\nOyGiJlzu49ceNrvgl7swBOrIhVZjrHx91tX/Z8pUs/GqABoIwpahAeLWYRDzztOJ\n7tG5S0kEQzyCJbNA2RfyV8ePW5aZug==\n=tPZg\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlohZ58ACgkQJJs50k8l\n47bEdQf/edbqZfQcUUE8w1A3995bH8juFywi/CLlyofDy5fYf6N0c7dHzNZ19tv8\nHMWrkFy0astKdrdiniwGYmBP5ikeLSxaLTBCxmHHua4ebTcQKdPDvKS9uPia70aK\ndCBFuJ9wZWwE2AxsRanzOyGSX9jSyN7bFXstqNa+Z8a6SEGB2u+8AJookHwU1MkG\niq93vy9Bfn+uc01Mf0z/8OEnV52/pvo7tJGaiUayiUh2Avr8S5nLR4JyKxC/6cLl\nOyGiJlzu49ceNrvgl7swBOrIhVZjrHx91tX/Z8pUs/GqABoIwpahAeLWYRDzztOJ\n7tG5S0kEQzyCJbNA2RfyV8ePW5aZug==\n=tPZg\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a70eaa8a3347660cf2f66ada0fa82cf991a1d7a0\ntype commit\ntag libassuan-2.4.5\ntagger Werner Koch <wk@gnupg.org> 1512138655 +0100\n\nFixing a hang on Windows\n"
+  }
+}

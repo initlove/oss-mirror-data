@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OmNiNDQ3MDA1YzBjNTY3ZDE0MDJlNDVjYzZmNDVjOTgwYmQyMzdhY2M=",
+  "sha": "cb447005c0c567d1402e45cc6f45c980bd237acc",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/cb447005c0c567d1402e45cc6f45c980bd237acc",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "sm2@schillmania.com",
+    "date": "2011-01-02T00:59:02Z"
+  },
+  "object": {
+    "sha": "f87d0d2e624f6c0773ef29e5b8db0bfb56f6a4c1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/f87d0d2e624f6c0773ef29e5b8db0bfb56f6a4c1"
+  },
+  "tag": "V2.97a.20110101",
+  "message": "V2.97a.20110101 - Simplified onready() behaviour (see potential onready() regression note), new ontimeout() handler, Webkit + MovieStar 30-second-pause fix\n\nonready() is now called only for SM2 init success (makes default case easier, no need for \"supported\" check) - new ontimeout() is called only for failure case, ie., flash blocked/missing. Special Webkit/MovieStar won't-resume-after-30-seconds-paused fix. soundManager.supported() renamed to soundManager.ok() (old method aliased for the time being.)\n\n    Bug fixes\n\n        Special bad case, Webkit/Flash+MovieStar (AAC/MPEG4/RTMP-only, not MP3): sounds don't resume after being paused for 30+ seconds(?), but setPosition() with current position gets things going again after a resume() attempt. Reported via 8tracks dudes.\n\n    API Updates\n\n        In previous releases, the soundManager.onready() queue would be processed for both OK and failure cases. The onready() queue is now processed only if successful initialisation occurs, making old \"supported\" checks within the onready() handlers redundant.\n\n        Potential regression note: Old error case handling within onready() will never execute as a result of this change. Update your code to use the new explicit soundManager.ontimeout() handler instead.\n\n        Old onready() method\n\n        soundManager.onready(function(){\n          if (soundManager.supported()) {\n            // OK, play sound etc.\n          } else {\n            // SM2 could not start; message user?\n          }\n        });\n\n        New onready() / ontimeout() method\n\n        soundManager.onready(function(){\n          // OK, play sound etc.\n        });\n\n        soundManager.ontimeout(function(){\n          // SM2 could not start; message user?\n        });\n\n        New soundManager.ontimeout(myFunction) method, for asynchronous queueing of init failure handlers. Fired only when SoundManager 2 is unable to initialise (usually due to blocked/missing flash, or flash security error.) Queue behaviour is the same style as onready().\n\n    Miscellaneous\n\n        Code cleanup: Took the unsupported \"jsAMP\" demo (2007 prototype) out back and shot it.\n        360° UI demo: New \"allowMultiple\" config option, let 2+ sounds play at once etc. (Default: false, one at a time.)\n        360° UI, canvas visualization demo: Minor layout, UI, code tweaks\n        API/docs/demos reference and use updated onready()/ontimeout() methods.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

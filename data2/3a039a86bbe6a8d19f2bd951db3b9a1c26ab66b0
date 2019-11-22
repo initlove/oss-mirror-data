@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAxNzQyOjNhMDM5YTg2YmJlNmE4ZDE5ZjJiZDk1MWRiM2I5YTFjMjZhYjY2YjA=",
+  "sha": "3a039a86bbe6a8d19f2bd951db3b9a1c26ab66b0",
+  "url": "https://api.github.com/repos/tornadoweb/tornado/git/tags/3a039a86bbe6a8d19f2bd951db3b9a1c26ab66b0",
+  "tagger": {
+    "name": "Ben Darnell",
+    "email": "ben@bendarnell.com",
+    "date": "2014-05-06T02:35:51Z"
+  },
+  "object": {
+    "sha": "989693186242844e3f94955a91d452b220320ad0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tornadoweb/tornado/git/commits/989693186242844e3f94955a91d452b220320ad0"
+  },
+  "tag": "v3.2.1",
+  "message": "What's new in Tornado 3.2.1\n===========================\n\nMay 5, 2014\n-----------\n\nSecurity fixes\n~~~~~~~~~~~~~~\n\n* The signed-value format used by `.RequestHandler.set_secure_cookie`\n  and `.RequestHandler.get_secure_cookie` has changed to be more secure.\n  **This is a disruptive change**.  The ``secure_cookie`` functions\n  take new ``version`` parameters to support transitions between cookie\n  formats.\n* The new cookie format fixes a vulnerability that may be present in\n  applications that use multiple cookies where the name of one cookie\n  is a prefix of the name of another.\n* To minimize disruption, cookies in the older format will be accepted\n  by default until they expire.  Applications that may be vulnerable\n  can reject all cookies in the older format by passing ``min_version=2``\n  to `.RequestHandler.get_secure_cookie`.\n\nBackwards-compatibility notes\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n* Signed cookies issued by `.RequestHandler.set_secure_cookie` in Tornado\n  3.2.1 cannot be read by older releases.  If you need to run 3.2.1\n  in parallel with older releases, you can pass ``version=1`` to\n  `.RequestHandler.set_secure_cookie` to issue cookies that are\n  backwards-compatible (but have a known weakness, so this option\n  should only be used for a transitional period).\n\nOther changes\n~~~~~~~~~~~~~\n\n* The C extension used to speed up the websocket module now compiles\n  correctly on Windows with MSVC and 64-bit mode.  The fallback to\n  the pure-Python alternative now works correctly on Mac OS X machines\n  with no C compiler installed.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

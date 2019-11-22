@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA4MDUxOjNiZDEzNzJhMjkyY2RiNjUwMTNhNjY1ZGE1MjI0NDA1NGQ0OGE3Y2E=",
+  "sha": "3bd1372a292cdb65013a665da52244054d48a7ca",
+  "url": "https://api.github.com/repos/mongodb/mongo-python-driver/git/tags/3bd1372a292cdb65013a665da52244054d48a7ca",
+  "tagger": {
+    "name": "Mike Dirolf",
+    "email": "mike@10gen.com",
+    "date": "2009-02-06T21:10:46Z"
+  },
+  "object": {
+    "sha": "0c9c4e725233cfaf989232b3c9b3c6a20bef8aff",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mongodb/mongo-python-driver/git/commits/0c9c4e725233cfaf989232b3c9b3c6a20bef8aff"
+  },
+  "tag": "0.5.2pre",
+  "message": "plug memory leaks in c extension\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.9 (Darwin)\n\niEYEABECAAYFAkmMp1YACgkQdXAQMQ0Brk93qQCfcZLzYeFw6QHl5/GpjaQMLOXu\nqeIAn3VB75xpQ5lhgSdll7YF7KzEuvnR\n=wOOI\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.9 (Darwin)\n\niEYEABECAAYFAkmMp1YACgkQdXAQMQ0Brk93qQCfcZLzYeFw6QHl5/GpjaQMLOXu\nqeIAn3VB75xpQ5lhgSdll7YF7KzEuvnR\n=wOOI\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0c9c4e725233cfaf989232b3c9b3c6a20bef8aff\ntype commit\ntag 0.5.2pre\ntagger Mike Dirolf <mike@10gen.com> 1233954646 -0500\n\nplug memory leaks in c extension\n"
+  }
+}

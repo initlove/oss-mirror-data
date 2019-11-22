@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OjZlYjBlMzcyYzhjZmIxODk4NjA2MTg0OTNkYmY1Y2FlOTdjOWNlODQ=",
+  "sha": "6eb0e372c8cfb189860618493dbf5cae97c9ce84",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/6eb0e372c8cfb189860618493dbf5cae97c9ce84",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "sm2@schillmania.com",
+    "date": "2010-08-22T01:57:15Z"
+  },
+  "object": {
+    "sha": "8c128fe8cbb50868ee0aaecdcad8c9c2169c7cb4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/8c128fe8cbb50868ee0aaecdcad8c9c2169c7cb4"
+  },
+  "tag": "V2.96a.20100822",
+  "message": "V2.96a.20100822 - HTML5 audio support no longer \"alpha\", Safari 5.0.1/SL HTML5 audio issues continue, iPad/iPhone \"play through\", Flash tweak for Android\n\nuseHTML5Audio feature now considered beta-worthy, though disabled by default to be safe (with the exception of iPhone + iPad.) iPhone/iPad will now play a sequence of sounds, user interaction only required to start first one. Flash on-screen positioning tweak for Android devices that run Flash. Safari 5.0.1 on Snow Leopard exhibits same buggy HTML5 audio issue, disabled by default; Apple have been notified. IE 9 \"Platform Preview 4\" has <audio> but no Audio() support (yet?) See bug #586311 (may require connect.microsoft.com / Windows Live ID, login first etc.)\n\n* Bug fixes\n\n  o HTML5 Audio() still broken in Safari 5.0.1 on Snow Leopard (10.6.3, 10.6.4), where sounds intermittently fail to load and play. Apple are aware of the regression. Related bug: #32519. Include sm2-ignorebadua in URL on SM2 pages to ignore this check and verify broken behaviour, etc.\n\n  o Tweaks for experimental RTMP feature re: handling of paused state, tracking of position and onfinish() firing early.\n\n  o Bumped SWF z-index to 5000 for Safari 5, SoundCloud-reported bug-and-fix for Safari 5-specific bad redraw issues, and occasional crash case referencing WebCore::RenderLayer::paintLayer\n\n* API Updates\n\n  o iPhone/iOS 4 and iPad can now play a sequence of sounds (once the user starts sound initially), provided onfinish() is used to create/play the next sound. Example: Muxtape-style UI on homepage will play through list without further interaction once a user plays something in the list.\n\n* Miscellaneous\n\n  o Special case for getting SM2 working more reliably on HTC Android + Flash 10.1, where flash does not load until on-screen (ie., in view.) If off-screen, Flash is repositioned at left/top 0px in order to load (including scroll/resize if needed), then events released and movie is repositioned off-screen. If movie is in the DOM already eg. as in useFlashBlock cases, flashLoadTimeout is set to 0 to allow infinite wait (eg., SM2 will not timeout with an error, and will simply load when the flash is scrolled into view.)\n\n  o Documentation: Clarified createSound() behaviour if an existing sound ID is given (returns sound object \"as-is\", ignores any options passed.)\n\n  o Page-player demo updated to use canPlayLink() instead of canPlayURL, more flexible link/type handling.\n\n  o Homepage and documentation UI/layout and language tweaks, a few new \"as seen on the internets\" icons etc.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

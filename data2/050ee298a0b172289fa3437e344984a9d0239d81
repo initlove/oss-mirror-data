@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAxNzQyOjA1MGVlMjk4YTBiMTcyMjg5ZmEzNDM3ZTM0NDk4NGE5ZDAyMzlkODE=",
+  "sha": "050ee298a0b172289fa3437e344984a9d0239d81",
+  "url": "https://api.github.com/repos/tornadoweb/tornado/git/tags/050ee298a0b172289fa3437e344984a9d0239d81",
+  "tagger": {
+    "name": "Ben Darnell",
+    "email": "ben@bendarnell.com",
+    "date": "2017-08-27T18:51:11Z"
+  },
+  "object": {
+    "sha": "810c341d2488c11813995dd2beadab7ba00ff44d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tornadoweb/tornado/git/commits/810c341d2488c11813995dd2beadab7ba00ff44d"
+  },
+  "tag": "v4.5.2",
+  "message": "What's new in Tornado 4.5.2\n\nAug 27, 2017\n------------\n\nBug Fixes\n~~~~~~~~~\n\n- Tornado now sets the ``FD_CLOEXEC`` flag on all file descriptors it creates. This prevents hanging client connections and resource leaks when the `tornado.autoreload` module (or ``Application(debug=True)``) is used.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

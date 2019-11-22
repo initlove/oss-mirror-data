@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6M2Q1NTlkN2YxZDAzODRkZjY1MDkxMmY5MTJjY2ZiOTAwYTdiODIzOA==",
+  "sha": "3d559d7f1d0384df650912f912ccfb900a7b8238",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/3d559d7f1d0384df650912f912ccfb900a7b8238",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2016-09-16T12:31:42Z"
+  },
+  "object": {
+    "sha": "d142a370a92bc0736e2da111329c5975f1c7c81d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/d142a370a92bc0736e2da111329c5975f1c7c81d"
+  },
+  "tag": "v0.5.8",
+  "message": "Release v0.5.8 contains the following changes:\n* Support 'fork' feature with pthread_atfork prepare handler\n* Removed 'make depend' and incorporated in 'make' for consistent behaviour\n* Update of Autotools based installer and documentation to reduce the number of paths that need to be specified on a configure\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

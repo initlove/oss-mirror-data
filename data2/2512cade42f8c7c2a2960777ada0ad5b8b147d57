@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OToyNTEyY2FkZTQyZjhjN2MyYTI5NjA3NzdhZGEwYWQ1YjhiMTQ3ZDU3",
+  "sha": "2512cade42f8c7c2a2960777ada0ad5b8b147d57",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/2512cade42f8c7c2a2960777ada0ad5b8b147d57",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-09-14T07:18:12Z"
+  },
+  "object": {
+    "sha": "999c242fff107951b5199182402f065e6cdcbdfa",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/999c242fff107951b5199182402f065e6cdcbdfa"
+  },
+  "tag": "6.0.0",
+  "message": "Version 6.0.0\n\n### Bug fixes\n\nBetter handle variable-redefinition checks for catch bindings and functions directly under if statements.\n\nForbid `new.target` in top-level arrow functions.\n\nFix issue with parsing a regexp after `yield` in some contexts.\n\n### New features\n\nThe package now comes with TypeScript definitions.\n\n### Breaking changes\n\nThe default value of the `ecmaVersion` option is now 9 (2018).\n\nPlugins work differently, and will have to be rewritten to work with this version.\n\nThe loose parser and walker have been moved into separate packages (`acorn-loose` and `acorn-walk`).\n\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlubYMQACgkQcD8b7W0z\nrh6Bogf/YhoY43OOVdEu1nS/sIJwNpufEcHaBmBkZy1kJtDBWdte6TQ6w/PB9Yek\ntcdVctBEeQLst1CT8YPAU/lldqYhVmdQpAFN8jePsvtdzdneg99qN11to2egmL+X\nDF75XtQD52LgCalRIGbTathar4PnQjYlKznx79MN2HV6B7YtBEwWyyN6jzz3jhQW\nXerMx3Z0ljZyaiUcbxvbz5xGlDArQw6+TlCgyTtMQlFM1HeoyzESVVBwFOEMRs6p\nlSFlAQ6JJn1auAnBS6NZlh2f/IZvXscbJwQzMJA9c+WDvpabgnHfO0+vRZkvk3PO\neacxv/MQeQBBVurh8AFg8hwpJRLqug==\n=t3cW\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlubYMQACgkQcD8b7W0z\nrh6Bogf/YhoY43OOVdEu1nS/sIJwNpufEcHaBmBkZy1kJtDBWdte6TQ6w/PB9Yek\ntcdVctBEeQLst1CT8YPAU/lldqYhVmdQpAFN8jePsvtdzdneg99qN11to2egmL+X\nDF75XtQD52LgCalRIGbTathar4PnQjYlKznx79MN2HV6B7YtBEwWyyN6jzz3jhQW\nXerMx3Z0ljZyaiUcbxvbz5xGlDArQw6+TlCgyTtMQlFM1HeoyzESVVBwFOEMRs6p\nlSFlAQ6JJn1auAnBS6NZlh2f/IZvXscbJwQzMJA9c+WDvpabgnHfO0+vRZkvk3PO\neacxv/MQeQBBVurh8AFg8hwpJRLqug==\n=t3cW\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 999c242fff107951b5199182402f065e6cdcbdfa\ntype commit\ntag 6.0.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1536909492 +0200\n\nVersion 6.0.0\n\n### Bug fixes\n\nBetter handle variable-redefinition checks for catch bindings and functions directly under if statements.\n\nForbid `new.target` in top-level arrow functions.\n\nFix issue with parsing a regexp after `yield` in some contexts.\n\n### New features\n\nThe package now comes with TypeScript definitions.\n\n### Breaking changes\n\nThe default value of the `ecmaVersion` option is now 9 (2018).\n\nPlugins work differently, and will have to be rewritten to work with this version.\n\nThe loose parser and walker have been moved into separate packages (`acorn-loose` and `acorn-walk`).\n\n"
+  }
+}

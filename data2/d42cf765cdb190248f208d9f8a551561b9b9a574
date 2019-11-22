@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI5NTYxMjpkNDJjZjc2NWNkYjE5MDI0OGYyMDhkOWY4YTU1MTU2MWI5YjlhNTc0",
+  "sha": "d42cf765cdb190248f208d9f8a551561b9b9a574",
+  "url": "https://api.github.com/repos/flot/flot/git/tags/d42cf765cdb190248f208d9f8a551561b9b9a574",
+  "tagger": {
+    "name": "Jonathan Meyer",
+    "email": "jonathan.meyer@ni.com",
+    "date": "2019-10-14T18:50:13Z"
+  },
+  "object": {
+    "sha": "3e64b3b1eb61e6813eb2527908b399e2f2954879",
+    "type": "commit",
+    "url": "https://api.github.com/repos/flot/flot/git/commits/3e64b3b1eb61e6813eb2527908b399e2f2954879"
+  },
+  "tag": "v3.2.11",
+  "message": "3.2.11 Fixing issue with selection plugin being used with in conjunction with other plugins using drag events, where we couldn't properly disable the selection plugin drag handlers from the drag handlers of a separate plugin.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY4ODQyNTc6YzcwMjI4MTczNTA0YzdkMDhhODE1NTk4M2YyYzBiODI5Y2JiN2RkNw==",
+  "sha": "c70228173504c7d08a8155983f2c0b829cbb7dd7",
+  "url": "https://api.github.com/repos/openstack/python-magnumclient/git/tags/c70228173504c7d08a8155983f2c0b829cbb7dd7",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-29T16:07:21Z"
+  },
+  "object": {
+    "sha": "40327b75edcab608e9c9d9ac0993855de088926b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-magnumclient/git/commits/40327b75edcab608e9c9d9ac0993855de088926b"
+  },
+  "tag": "queens-em",
+  "message": "python-magnumclient queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I2c63556951ae5da6be91922f6f59843befe34900\nmeta:release:Code-Review+1: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Code-Review+1: Spyros Trigazis <strigazi@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl24Y7kZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2FKjC/0UK9WTE9uhX93+psYpDmxa\ndZj7iYl7tMl+9yxopDY5xeUP3P/bpuZIFbQyvGeBoUBZ7tvgsIlkhAitlqpHt5BC\n9L/smod+oxVwvN4jVzv4WrfQwb2551NgX7X+6oc9lk0tqC12FHHdRCuF9DXqXVUG\nMiJZ6AcjBaJk7U9ULEsXlPPc7Bpvrw3n/kzSDoJk6awrLLIiJEoiNUYVbb+M3APT\ncWX8Ss7fi7o0kZmG7aX71PUpcJeEsn2BVtWpfHwpPvq7S4wZ9TW6/hkoq7c8x+s6\ng3tnOQf2J+qUZF+pZU+A4jSdXgGQv5PLiDe7ajkdqnrHaChx/kZFDb4TxwVKlDMo\n6OinJ7xZ0V9aOUXFuREe9bAa6A38nTXXvuns3Y3slplC3pOc6TIDAKtS2dk3oIZ4\n0y4xjdre7eR5twUxuDQNX9wIYVNTxmWP7K31zMP1i7LEUYn3/n3tumuQFbyDrUSu\nGTDCKjcDutrgDJNr8kKqPjNOjuUqmN1GvJPWA6d8Wts=\n=4yxN\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl24Y7kZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2FKjC/0UK9WTE9uhX93+psYpDmxa\ndZj7iYl7tMl+9yxopDY5xeUP3P/bpuZIFbQyvGeBoUBZ7tvgsIlkhAitlqpHt5BC\n9L/smod+oxVwvN4jVzv4WrfQwb2551NgX7X+6oc9lk0tqC12FHHdRCuF9DXqXVUG\nMiJZ6AcjBaJk7U9ULEsXlPPc7Bpvrw3n/kzSDoJk6awrLLIiJEoiNUYVbb+M3APT\ncWX8Ss7fi7o0kZmG7aX71PUpcJeEsn2BVtWpfHwpPvq7S4wZ9TW6/hkoq7c8x+s6\ng3tnOQf2J+qUZF+pZU+A4jSdXgGQv5PLiDe7ajkdqnrHaChx/kZFDb4TxwVKlDMo\n6OinJ7xZ0V9aOUXFuREe9bAa6A38nTXXvuns3Y3slplC3pOc6TIDAKtS2dk3oIZ4\n0y4xjdre7eR5twUxuDQNX9wIYVNTxmWP7K31zMP1i7LEUYn3/n3tumuQFbyDrUSu\nGTDCKjcDutrgDJNr8kKqPjNOjuUqmN1GvJPWA6d8Wts=\n=4yxN\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 40327b75edcab608e9c9d9ac0993855de088926b\ntype commit\ntag queens-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572365241 +0000\n\npython-magnumclient queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I2c63556951ae5da6be91922f6f59843befe34900\nmeta:release:Code-Review+1: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Code-Review+1: Spyros Trigazis <strigazi@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

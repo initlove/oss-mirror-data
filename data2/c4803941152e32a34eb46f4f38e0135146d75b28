@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YzQ4MDM5NDExNTJlMzJhMzRlYjQ2ZjRmMzhlMDEzNTE0NmQ3NWIyOA==",
+  "sha": "c4803941152e32a34eb46f4f38e0135146d75b28",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/c4803941152e32a34eb46f4f38e0135146d75b28",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-03-11T15:48:49Z"
+  },
+  "object": {
+    "sha": "163ca274230fce536afe76c64676c332693ad7c1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/163ca274230fce536afe76c64676c332693ad7c1"
+  },
+  "tag": "v0.10.0",
+  "message": "2013.03.11, Version 0.10.0 (Stable)\n\n* npm: Upgrade to 1.2.14\n\n* core: Append filename properly in dlopen on windows (isaacs)\n\n* zlib: Manage flush flags appropriately (isaacs)\n\n* domains: Handle errors thrown in nested error handlers (isaacs)\n\n* buffer: Strip high bits when converting to ascii (Ben Noordhuis)\n\n* win/msi: Enable modify and repair (Bert Belder)\n\n* win/msi: Add feature selection for various node parts (Bert Belder)\n\n* win/msi: use consistent registry key paths (Bert Belder)\n\n* child_process: support sending dgram socket (Andreas Madsen)\n\n* fs: Raise EISDIR on Windows when calling fs.read/write on a dir (isaacs)\n\n* unix: fix strict aliasing warnings, macro-ify functions (Ben Noordhuis)\n\n* unix: honor UV_THREADPOOL_SIZE environment var (Ben Noordhuis)\n\n* win/tty: fix typo in color attributes enumeration (Bert Belder)\n\n* win/tty: don't touch insert mode or quick edit mode (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRPfzhAAoJELCniwpsSBz2nwgH/0ycV2fqYHIClABu2+XWcvPS\nEByhTGy/hiKBN2hxp4rWmwlUpbASNrWy08fmCixFrLgdrYQxRZqqBYTZku0+qYu7\n4uE8s6agHJz+lREEFB7Gz6hlsSywGbXRTArYTfzvB7g3JNpzADDIhiimZtZ4Wjy7\nl4nIdwinLNYVfD53F9gfQ0iNBIO3nbyQU3QepXE0gSyjcTmc7t25QG0SalR5SLM0\nf86lfNvAVJxVY3np6WcvpFihlvE0d2OnmXZEHgblMsysdRROagspUFTx9Ec7WmRu\nDH4/fi4iycNOT8EbjFX+ud6w7witnXQ0HS2nNocChKiKT5i3vjCLCzOCwXNoNsM=\n=JBn8\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRPfzhAAoJELCniwpsSBz2nwgH/0ycV2fqYHIClABu2+XWcvPS\nEByhTGy/hiKBN2hxp4rWmwlUpbASNrWy08fmCixFrLgdrYQxRZqqBYTZku0+qYu7\n4uE8s6agHJz+lREEFB7Gz6hlsSywGbXRTArYTfzvB7g3JNpzADDIhiimZtZ4Wjy7\nl4nIdwinLNYVfD53F9gfQ0iNBIO3nbyQU3QepXE0gSyjcTmc7t25QG0SalR5SLM0\nf86lfNvAVJxVY3np6WcvpFihlvE0d2OnmXZEHgblMsysdRROagspUFTx9Ec7WmRu\nDH4/fi4iycNOT8EbjFX+ud6w7witnXQ0HS2nNocChKiKT5i3vjCLCzOCwXNoNsM=\n=JBn8\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 163ca274230fce536afe76c64676c332693ad7c1\ntype commit\ntag v0.10.0\ntagger isaacs <i@izs.me> 1363016929 -0700\n\n2013.03.11, Version 0.10.0 (Stable)\n\n* npm: Upgrade to 1.2.14\n\n* core: Append filename properly in dlopen on windows (isaacs)\n\n* zlib: Manage flush flags appropriately (isaacs)\n\n* domains: Handle errors thrown in nested error handlers (isaacs)\n\n* buffer: Strip high bits when converting to ascii (Ben Noordhuis)\n\n* win/msi: Enable modify and repair (Bert Belder)\n\n* win/msi: Add feature selection for various node parts (Bert Belder)\n\n* win/msi: use consistent registry key paths (Bert Belder)\n\n* child_process: support sending dgram socket (Andreas Madsen)\n\n* fs: Raise EISDIR on Windows when calling fs.read/write on a dir (isaacs)\n\n* unix: fix strict aliasing warnings, macro-ify functions (Ben Noordhuis)\n\n* unix: honor UV_THREADPOOL_SIZE environment var (Ben Noordhuis)\n\n* win/tty: fix typo in color attributes enumeration (Bert Belder)\n\n* win/tty: don't touch insert mode or quick edit mode (Bert Belder)\n"
+  }
+}

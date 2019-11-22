@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzUyMDY5NzI6Yzc0OWExODA4ZWU0MDdjOTMyNDUyZGJjZjQ5NWQyYjk5MmZiZGM4Yw==",
+  "sha": "c749a1808ee407c932452dbcf495d2b992fbdc8c",
+  "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/tags/c749a1808ee407c932452dbcf495d2b992fbdc8c",
+  "tagger": {
+    "name": "stratiocommit",
+    "email": "asistemas@stratio.com",
+    "date": "2016-11-11T12:48:40Z"
+  },
+  "object": {
+    "sha": "be049360e6599effe4d0d9e2f57d1aa4ae5be807",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/commits/be049360e6599effe4d0d9e2f57d1aa4ae5be807"
+  },
+  "tag": "3.9.2",
+  "message": " * Add support for geospatial shapes in bounding box search\n\n * Add support for geospatial shapes in distance search\n\n * Improve performance of needs before write calculation\n\n * Show error message when unsupported PER PARTITION LIMIT option is used\n\n * Upgrade all JSON serializers to FasterXML Jackson 2.8.6\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

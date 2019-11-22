@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OjRiNmNhZjliZjZmNGMyNjk2YmEwMGFhMWMwMzJhN2VjYTYyZjg0NTc=",
+  "sha": "4b6caf9bf6f4c2696ba00aa1c032a7eca62f8457",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/4b6caf9bf6f4c2696ba00aa1c032a7eca62f8457",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "spam@schillmania.com",
+    "date": "2012-11-06T00:59:45Z"
+  },
+  "object": {
+    "sha": "8fe89edf1c800182d2ba49850256005b44cd326e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/8fe89edf1c800182d2ba49850256005b44cd326e"
+  },
+  "tag": "V2.97a.20121104",
+  "message": "V2.97a.20121104 - HTML5 + iOS load fixes, Windows 8 App Store compatibility tweak, code pattern improvements.\n\n    Bug fixes\n\n        Fix HTML5 unload() -> play() case (re-use of same object without assigning new URL).\n\n        More global (iOS) HTML5 object unload() / play() re-use tweaks, improved handling of re-use and empty / load() cases\n\n        HTML5: Ensure instanceOptions are set after play() call results in load(). Noted instanceOptions not being set from within whileplaying().\n\n        Fix call signature for Flash 8 load method, was tying usePolicyFile (enables remote crossdomain.xml request for ID3/waveform data on 3rd-party domains) to precence of whileloading() due to driver error. Derp. :D\n\n        Windows 8 Store Apps (IE 10/\"MSAppHost\" in UA) don't support Flash or ActiveX, except for (at time of writing), three special ActiveX controls. Thus, new window.ActiveXObject('ShockwaveFlash.ShockwaveFlash') seems to work without error. However, an error is thrown if an <object> with a Flash ActiveX CLSID is appended to the DOM. http://msdn.microsoft.com/en-us/library/windows/apps/hh465143.aspx\n\n    Miscellaneous\n\n        Death to underscores! Removed legacy pattern of var _foo = ... for most private internals.\n\n        Better typeof x === 'undefined' -> x === undefined pattern per newer jslint rules.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

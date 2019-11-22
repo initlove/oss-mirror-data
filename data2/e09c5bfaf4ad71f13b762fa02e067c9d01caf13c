@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZTA5YzViZmFmNGFkNzFmMTNiNzYyZmEwMmUwNjdjOWQwMWNhZjEzYw==",
+  "sha": "e09c5bfaf4ad71f13b762fa02e067c9d01caf13c",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/e09c5bfaf4ad71f13b762fa02e067c9d01caf13c",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-03-13T02:50:56Z"
+  },
+  "object": {
+    "sha": "61c801413544a50000faa7f58376e9b33ba6254f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/61c801413544a50000faa7f58376e9b33ba6254f"
+  },
+  "tag": "v0.1.32",
+  "message": "2010.03.12, Version 0.1.32\n\n  * Optimize event emitter for single listener\n\n  * Add process.evalcx, require.registerExtension (Tim Smart)\n\n  * Replace --cflags with --vars\n\n  * Fix bugs in fs.create*Stream (Felix Geisendörfer)\n\n  * Deprecate process.mixin, process.unloop\n\n  * Remove the 'Error: (no message)' exceptions, print stack\n    trace instead\n\n  * INI parser bug fixes (Isaac Schlueter)\n\n  * FreeBSD fixes (Vanilla Hsu)\n\n  * Upgrade to V8 2.1.3, WAF 1.5.14a, libev\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

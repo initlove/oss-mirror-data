@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YmEyMzU5Mjg4NmM0Nzc2OTE2YjEyYWQ5YzYwODRiNjUyODE4YTJiZA==",
+  "sha": "ba23592886c4776916b12ad9c6084b652818a2bd",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/ba23592886c4776916b12ad9c6084b652818a2bd",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-02-19T00:40:19Z"
+  },
+  "object": {
+    "sha": "cc56c62ed879ad4f93b1fdab3235c43e60f48b7e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/cc56c62ed879ad4f93b1fdab3235c43e60f48b7e"
+  },
+  "tag": "v0.10.26",
+  "message": "2014.02.18, Version 0.10.26 (Stable)\n\n* uv: Upgrade to v0.10.25 (Timothy J Fontaine)\n\n* npm: upgrade to 1.4.3 (isaacs)\n\n* v8: support compiling with VS2013 (Fedor Indutny)\n\n* cares: backport TXT parsing fix (Fedor Indutny)\n\n* crypto: throw on SignFinal failure (Fedor Indutny)\n\n* crypto: update root certificates (Ben Noordhuis)\n\n* debugger: Fix breakpoint not showing after restart (Farid Neshat)\n\n* fs: make unwatchFile() insensitive to path (iamdoron)\n\n* net: do not re-emit stream errors (Fedor Indutny)\n\n* net: make Socket destroy() re-entrance safe (Jun Ma)\n\n* net: reset `endEmitted` on reconnect (Fedor Indutny)\n\n* node: do not close stdio implicitly (Fedor Indutny)\n\n* zlib: avoid assertion in close (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlMD/XMACgkQfTP/nQJGQG2WbACfb0QuWDNhNZJY+l8m2LQvLRO3\nokwAoNfLyBK/hmAy/8yg3dulO3FKlPoQ\n=0yt6\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlMD/XMACgkQfTP/nQJGQG2WbACfb0QuWDNhNZJY+l8m2LQvLRO3\nokwAoNfLyBK/hmAy/8yg3dulO3FKlPoQ\n=0yt6\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cc56c62ed879ad4f93b1fdab3235c43e60f48b7e\ntype commit\ntag v0.10.26\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1392770419 -0800\n\n2014.02.18, Version 0.10.26 (Stable)\n\n* uv: Upgrade to v0.10.25 (Timothy J Fontaine)\n\n* npm: upgrade to 1.4.3 (isaacs)\n\n* v8: support compiling with VS2013 (Fedor Indutny)\n\n* cares: backport TXT parsing fix (Fedor Indutny)\n\n* crypto: throw on SignFinal failure (Fedor Indutny)\n\n* crypto: update root certificates (Ben Noordhuis)\n\n* debugger: Fix breakpoint not showing after restart (Farid Neshat)\n\n* fs: make unwatchFile() insensitive to path (iamdoron)\n\n* net: do not re-emit stream errors (Fedor Indutny)\n\n* net: make Socket destroy() re-entrance safe (Jun Ma)\n\n* net: reset `endEmitted` on reconnect (Fedor Indutny)\n\n* node: do not close stdio implicitly (Fedor Indutny)\n\n* zlib: avoid assertion in close (Fedor Indutny)\n"
+  }
+}

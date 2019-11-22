@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6OTUwYTA0ODA1YWFmZDc0MzRkY2EyYWFhYjRiNzlmOWZiYmI2ZTZkYw==",
+  "sha": "950a04805aafd7434dca2aaab4b79f9fbbb6e6dc",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/950a04805aafd7434dca2aaab4b79f9fbbb6e6dc",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-05-21T02:42:36Z"
+  },
+  "object": {
+    "sha": "7dd22c26e4365698dc3efddf138c4d399cb912c8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/7dd22c26e4365698dc3efddf138c4d399cb912c8"
+  },
+  "tag": "v0.4.8",
+  "message": "2011.05.20, Version 0.4.8 (stable)\n\n* #974 Properly report traceless errors (isaacs)\n\n* #983 Better JSON.parse error detection in REPL (isaacs)\n\n* #836 Agent socket errors bubble up to req only if req exists\n\n* #1041 Fix event listener leak check timing (koichik)\n\n*\t#1038 Fix dns.resolve() with 'PTR' throws Error: Unknown type \"PTR\"\n  (koichik)\n\n* #1073 Share SSL context between server connections (Fedor Indutny)\n\n* Disable compression with OpenSSL. Improves memory perf.\n\n* Implement os.totalmem() and os.freemem() for SunOS (Alexandre Marangone)\n\n* Fix a special characters in URL regression (isaacs)\n\n* Fix idle timeouts in HTTPS (Felix Geisendörfer)\n\n* SlowBuffer.write() with 'ucs2' throws ReferenceError. (koichik)\n\n* http.ServerRequest 'close' sometimes gets an error argument\n  (Felix Geisendörfer)\n\n* Doc improvements\n\n* cleartextstream.destroy() should close(2) the socket. Previously was being\n\tmapped to a shutdown(2) syscall.\n\n* No longer compile out asserts and debug statements in normal build.\n\n* Debugger improvements.\n\n* Upgrade V8 to 3.1.8.16.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

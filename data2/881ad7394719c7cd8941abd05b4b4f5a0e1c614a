@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzUyMDY5NzI6ODgxYWQ3Mzk0NzE5YzdjZDg5NDFhYmQwNWI0YjRmNWEwZTFjNjE0YQ==",
+  "sha": "881ad7394719c7cd8941abd05b4b4f5a0e1c614a",
+  "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/tags/881ad7394719c7cd8941abd05b4b4f5a0e1c614a",
+  "tagger": {
+    "name": "stratiocommit",
+    "email": "asistemas@stratio.com",
+    "date": "2016-06-17T23:56:42Z"
+  },
+  "object": {
+    "sha": "69a28c77dfd039ffd0482d96224e86a2b940044b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/commits/69a28c77dfd039ffd0482d96224e86a2b940044b"
+  },
+  "tag": "3.6.0",
+  "message": " * Upgrade to Apache Cassandra 3.6\n\n Merged from 3.0.6:\n\n * Fix clustering query collisions in Lucene's query cache\n\n * Fix deletion of columns with frozen type (UDT, tuples and frozen collections)\n\n * Add support for CQL paging over sorted searches\n\n * Add support for sorted searches using IN operator\n\n * Add support for indexing columns with TTL\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

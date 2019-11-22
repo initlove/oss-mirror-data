@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTo3ZmE5YzkyY2M0MGNhZWUwZGEyZmVjYjhhMjE5ZmVlMzU1MzkxYTZl",
+  "sha": "7fa9c92cc40caee0da2fecb8a219fee355391a6e",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/7fa9c92cc40caee0da2fecb8a219fee355391a6e",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-05-31T08:36:30Z"
+  },
+  "object": {
+    "sha": "6e4192ffeb554ee21b938de5ab445d18d320b54a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/6e4192ffeb554ee21b938de5ab445d18d320b54a"
+  },
+  "tag": "5.6.0",
+  "message": "Version 5.6.0\n\n### Bug fixes\n\nFix a bug in the walker that caused a crash when walking an object pattern spread.\n\n### New features\n\nAllow U+2028 and U+2029 in string when ECMAVersion >= 10.\n\nAllow binding-less catch statements when ECMAVersion >= 10.\n\nAdd `allowAwaitOutsideFunction` option for parsing top-level `await`.\n\n## 5.5.3 (2018-03-08)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlsPtBwACgkQcD8b7W0z\nrh7cTQf/RWg8dAXzI9MZHac91UMESASjFV7ckXen7QLbcAkab8ZV7zn+D5IaHEV/\nJ9XBZO9nvStapElyYPqnplVRjfc0APadr+aT5qxtqMTmK8VVQRxAITFlfS16jHSi\nM+il6F0UQ3TqUjqftbw7MQG/LbD18zgrPgS9zZw7OrHjPhH2DLX+aJzWG+7Eve5X\n8r9EReG1R6EtukgoGzIGJ425lUw+9+Y5NElOfTXdUxf9KDd85BGZMXhMRYGFE0v/\nPKTjXDQhGX5Nnr7NNW9uBHW8jGLBqBWdiPn5eEnOnA34qr1UK9hq2iSFQ2W7ftPD\nXuIzVMu5H3dl1OP+VzoZFDYU++bctA==\n=4LPz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlsPtBwACgkQcD8b7W0z\nrh7cTQf/RWg8dAXzI9MZHac91UMESASjFV7ckXen7QLbcAkab8ZV7zn+D5IaHEV/\nJ9XBZO9nvStapElyYPqnplVRjfc0APadr+aT5qxtqMTmK8VVQRxAITFlfS16jHSi\nM+il6F0UQ3TqUjqftbw7MQG/LbD18zgrPgS9zZw7OrHjPhH2DLX+aJzWG+7Eve5X\n8r9EReG1R6EtukgoGzIGJ425lUw+9+Y5NElOfTXdUxf9KDd85BGZMXhMRYGFE0v/\nPKTjXDQhGX5Nnr7NNW9uBHW8jGLBqBWdiPn5eEnOnA34qr1UK9hq2iSFQ2W7ftPD\nXuIzVMu5H3dl1OP+VzoZFDYU++bctA==\n=4LPz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6e4192ffeb554ee21b938de5ab445d18d320b54a\ntype commit\ntag 5.6.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1527755790 +0200\n\nVersion 5.6.0\n\n### Bug fixes\n\nFix a bug in the walker that caused a crash when walking an object pattern spread.\n\n### New features\n\nAllow U+2028 and U+2029 in string when ECMAVersion >= 10.\n\nAllow binding-less catch statements when ECMAVersion >= 10.\n\nAdd `allowAwaitOutsideFunction` option for parsing top-level `await`.\n\n## 5.5.3 (2018-03-08)\n"
+  }
+}

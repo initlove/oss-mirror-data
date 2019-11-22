@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU3ODc3MjM6Zjk2ZGJkMWJkMmNmNjZiYzc0ZGIwMTFlMzQ3YWU1OGUyNDQ0MzhkNg==",
+  "sha": "f96dbd1bd2cf66bc74db011e347ae58e244438d6",
+  "url": "https://api.github.com/repos/mycolorway/simditor/git/tags/f96dbd1bd2cf66bc74db011e347ae58e244438d6",
+  "tagger": {
+    "name": "Biallo",
+    "email": "bialloworld@gmail.com",
+    "date": "2017-11-15T07:11:04Z"
+  },
+  "object": {
+    "sha": "0075596b78e0a31ecbb672085dc71926e7fd5265",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mycolorway/simditor/git/commits/0075596b78e0a31ecbb672085dc71926e7fd5265"
+  },
+  "tag": "v2.3.7",
+  "message": "- FIX: 修复搜狗浏览器下文字颜色、大小功能报错的问题\n- CHG: 编辑器没有 focus 时，也可以使用 toolbar\n- FIX: 从粘贴内容中去除 style 标签\n- FIX: 在编辑器 focus 的情况下切换浏览器 tab，再切回编辑器页面，直接点击「引用」、「缩进」等功能出错\n- CHG: 当设置 tabIndent 为 false 时，toolbar 的「缩进」按钮中不显示快捷键\n- CHG: 避免被第三方插件影响样式\n- CHG: handle URI like blob:https://tower.im/xx-xxx-xx in pasting\n- FIX: webkit input[accept=image/*] 响应慢的问题\n- 一些小的调整\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6M2VlMzUwM2Y1N2YxM2UwMWQ0ODU1NGZhZTQ3MDc5ZjE1ZGY0ZTM3Yg==",
+  "sha": "3ee3503f57f13e01d48554fae47079f15df4e37b",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/3ee3503f57f13e01d48554fae47079f15df4e37b",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2009-12-06T17:00:08Z"
+  },
+  "object": {
+    "sha": "c6affb64f96a403a14d20035e7fbd6d0ce089db5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/c6affb64f96a403a14d20035e7fbd6d0ce089db5"
+  },
+  "tag": "v0.1.21",
+  "message": "2009.12.06, Version 0.1.21\n\n  * Feature: Add HTTP client TLS support (Rhys Jones)\n\n  * Bugfix: use --jobs=1 with WAF\n\n  * Bugfix: Don't use chunked encoding for 1.0 requests\n\n  * Bugfix: Duplicated header weren't handled correctly\n\n  * Improve sys.inspect (Xavier Shay)\n\n  * Upgrade v8 to 2.0.3\n\n  * Use CommonJS assert API (Felix Geisendörfer, Karl Guertin)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

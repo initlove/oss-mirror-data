@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY4MDczMzozNGQxZDg5MTVmMjZjMjY2MmM3YTUyN2JlMmM0Mzk4N2UwNWZmMjcz",
+  "sha": "34d1d8915f26c2662c7a527be2c43987e05ff273",
+  "url": "https://api.github.com/repos/java-native-access/jna/git/tags/34d1d8915f26c2662c7a527be2c43987e05ff273",
+  "tagger": {
+    "name": "dblock",
+    "email": "dblock@dblock.org",
+    "date": "2008-09-17T18:21:48Z"
+  },
+  "object": {
+    "sha": "9629d0bd4ef35d525abfc1eb999206d5fb325730",
+    "type": "commit",
+    "url": "https://api.github.com/repos/java-native-access/jna/git/commits/9629d0bd4ef35d525abfc1eb999206d5fb325730"
+  },
+  "tag": "3.0.6",
+  "message": "add omitted win64 target\ntagged by Timothy Wall on Wed, 17 Sep 2008 18:21:48 +0000\ndiff --git a/jnalib/build.xml b/jnalib/build.xml\nindex 2d29e66..a37e159 100644\n--- a/jnalib/build.xml\n+++ b/jnalib/build.xml\n@@ -253,6 +253,7 @@\n     <echo>Invalidating native code, new checksum is </echo>\n     <copy file=/out-of-date.jar tofile=/darwin.jar overwrite=true/>\n     <copy file=/out-of-date.jar tofile=/win32-x86.jar overwrite=true/>\n+    <copy file=/out-of-date.jar tofile=/win32-amd64.jar overwrite=true/>\n     <copy file=/out-of-date.jar tofile=/linux-i386.jar overwrite=true/>\n     <copy file=/out-of-date.jar tofile=/linux-amd64.jar overwrite=true/>\n     <copy file=/out-of-date.jar tofile=/freebsd-i386.jar overwrite=true/>\n@@ -553,6 +554,9 @@\n       <zipfileset src=/openbsd-i386.jar\n                   includes=*jnidispatch*\n                   prefix=com/sun/jna/openbsd-i386/>\n+      <zipfileset src=/win32-amd64.jar\n+                  includes=*jnidispatch*\n+                  prefix=com/sun/jna/win32-amd64/>\n     </jar>\n     <copy todir=>\n       <fileset dir=>\ndiff --git a/jnalib/dist/jna.jar b/jnalib/dist/jna.jar\nindex 5ce0593..cadfa54 100644\nBinary files a/jnalib/dist/jna.jar and b/jnalib/dist/jna.jar differ\ndiff --git a/jnalib/dist/src-full.zip b/jnalib/dist/src-full.zip\nindex 0b19d4b..9292408 100644\nBinary files a/jnalib/dist/src-full.zip and b/jnalib/dist/src-full.zip differ\ndiff --git a/jnalib/dist/src.zip b/jnalib/dist/src.zip\nindex 310fde3..8518663 100755\nBinary files a/jnalib/dist/src.zip and b/jnalib/dist/src.zip differ\ndiff --git a/jnalib/jna.jar b/jnalib/jna.jar\ndeleted file mode 100644\nindex cadfa54..0000000\nBinary files a/jnalib/jna.jar and /dev/null differ\ndiff --git a/jnalib/src-full.zip b/jnalib/src-full.zip\ndeleted file mode 100644\nindex 9292408..0000000\nBinary files a/jnalib/src-full.zip and /dev/null differ\ndiff --git a/jnalib/src.zip b/jnalib/src.zip\ndeleted file mode 100755\nindex 8518663..0000000\nBinary files a/jnalib/src.zip and /dev/null differ\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

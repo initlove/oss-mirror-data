@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MzQ2ODUyMTI1YjM3Yjc1MjQ5NDBmOGNmNDVlMmEwM2VhYTdkZWRiNg==",
+  "sha": "346852125b37b7524940f8cf45e2a03eaa7dedb6",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/346852125b37b7524940f8cf45e2a03eaa7dedb6",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-05-06T17:39:36Z"
+  },
+  "object": {
+    "sha": "f711d5343b29d1e72e87107315708e40951a7826",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/f711d5343b29d1e72e87107315708e40951a7826"
+  },
+  "tag": "v0.1.94",
+  "message": "2010.05.06, Version 0.1.94\n\n* Look in /usr/local/lib/node for modules, so that there's a way\n  to install modules globally (Issac Schlueter)\n\n* SSL improvements (Rhys Jones, Paulo Matias)\n\n* Added c-ares headers for linux-arm (Jonathan Knezek)\n\n* Add symbols to release build\n\n* HTTP upgrade improvements, docs (Micheil Smith)\n\n* HTTP server emits 'clientError' instead of printing message\n\n* Bugfix: Don't emit 'error' twice from http.Client\n\n* Bugfix: Ignore SIGPIPE\n\n* Bugfix: destroy() instead of end() http connection at end of\n  pipeline\n\n* Bugfix: http.Client may be prematurely released back to the\n  free pool.  (Thomas Lee)\n\n* Upgrade V8 to 2.2.8\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

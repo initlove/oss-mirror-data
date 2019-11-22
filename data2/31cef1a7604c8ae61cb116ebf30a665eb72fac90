@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAxNzQyOjMxY2VmMWE3NjA0YzhhZTYxY2IxMTZlYmYzMGE2NjVlYjcyZmFjOTA=",
+  "sha": "31cef1a7604c8ae61cb116ebf30a665eb72fac90",
+  "url": "https://api.github.com/repos/tornadoweb/tornado/git/tags/31cef1a7604c8ae61cb116ebf30a665eb72fac90",
+  "tagger": {
+    "name": "Ben Darnell",
+    "email": "ben@bendarnell.com",
+    "date": "2013-04-09T03:27:16Z"
+  },
+  "object": {
+    "sha": "e55590878524d4f47c8c75f38061587faf51d4c5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tornadoweb/tornado/git/commits/e55590878524d4f47c8c75f38061587faf51d4c5"
+  },
+  "tag": "v3.0.1",
+  "message": "What's new in Tornado 3.0.1\n===========================\n\nApr 8, 2013\n-----------\n\n* The interface of `tornado.auth.FacebookGraphMixin` is now consistent\n  with its documentation and the rest of the module.  The\n  ``get_authenticated_user`` and ``facebook_request`` methods return a\n  ``Future`` and the ``callback`` argument is optional.\n* The `tornado.testing.gen_test` decorator will no longer be recognized\n  as a (broken) test by ``nose``.\n* Work around a bug in Ubuntu 13.04 betas involving an incomplete backport\n  of the `ssl.match_hostname` function.\n* `tornado.websocket.websocket_connect` now fails cleanly when it attempts\n  to connect to a non-websocket url.\n* `tornado.testing.LogTrapTestCase` once again works with byte strings\n  on Python 2.\n* The ``request`` attribute of `tornado.httpclient.HTTPResponse` is\n  now always an `~tornado.httpclient.HTTPRequest`, never a ``_RequestProxy``.\n* Exceptions raised by the `tornado.gen` module now have better messages\n  when tuples are used as callback keys.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

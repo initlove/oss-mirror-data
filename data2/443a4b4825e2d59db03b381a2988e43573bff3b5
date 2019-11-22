@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODo0NDNhNGI0ODI1ZTJkNTlkYjAzYjM4MWEyOTg4ZTQzNTczYmZmM2I1",
+  "sha": "443a4b4825e2d59db03b381a2988e43573bff3b5",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/443a4b4825e2d59db03b381a2988e43573bff3b5",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-10-06T20:23:54Z"
+  },
+  "object": {
+    "sha": "c66a54846ddebee754c772471d1ae7eb6d3c3542",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/c66a54846ddebee754c772471d1ae7eb6d3c3542"
+  },
+  "tag": "v1.4.17",
+  "message": "Release of 1.4.17\n\n- c66a54846ddebee754c772471d1ae7eb6d3c3542: Merge pull request #924 from mattrjacobs/backport-pr-921\n- 7c5003dddea138b0d3e035029fd53c627b7017ae: fix(title-xss): escaping text acquired from parameters to avoid any xss attacks\n- c5eb45b31eb5fce074268b122afec84713809a72: Merge pull request #923 from mattrjacobs/rx-1-0-14\n- cba647101b5c84dc6f1f327dddf41b83ed6ae719: Upgrade to RxJava 1.0.14\n- d03de7d49c27a11a2267be491931746f571776c4: Merge pull request #922 from mattrjacobs/add-debug-tag-to-servo-rolling-counter\n- 8a6b3bb6a3d165135fa5e08b21be8678d3f013b1: Add DEBUG tag to Servo rolling counter and made it a GaugeMetric\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

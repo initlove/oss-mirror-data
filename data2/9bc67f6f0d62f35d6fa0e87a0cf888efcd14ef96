@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OjliYzY3ZjZmMGQ2MmYzNWQ2ZmEwZTg3YTBjZjg4OGVmY2QxNGVmOTY=",
+  "sha": "9bc67f6f0d62f35d6fa0e87a0cf888efcd14ef96",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/9bc67f6f0d62f35d6fa0e87a0cf888efcd14ef96",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "sm2@schillmania.com",
+    "date": "2010-06-07T06:44:43Z"
+  },
+  "object": {
+    "sha": "f505b4cc92543c21a7df01b0a19250ad5707d8ff",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/f505b4cc92543c21a7df01b0a19250ad5707d8ff"
+  },
+  "tag": "V2.96a.20100606",
+  "message": "V2.96a.20100606: Added experimental RTMP support via kjvarga's fork at http://github.com/kjvarga/SoundManager2/ while maintaining existing NetStream-based behaviour for non-RTMP MPEG4 audio, etc. Uses new serverUrl: parameter for FMS (I used Red5 for dev/testing,) eg. soundManager.createSound({id:'rtmpTest',serverUrl:'rtmp://localhost/oflaDemo',url:'oh-alberta.mp3'}).play();\n\nNew SMSound option for createSound(), load(), play(): 'type', for specifying MIME type alongside URL to help with detecting playability. eg. soundManager.createSound({id:'foo', url:'/player.php?stream=1', type:'audio/mp3'}).play(); and so on. Hat tip: sylvinus.org\n\nNew SMSound.onposition() for time-based events\n\nRemoved Base64 HTML5 Audio() tests, redundant as numerous MIME (audio/mpeg, audio/mp3 etc.) checks seem to cover it.\n\nUpdated MPC (drum machine) demo from 2006-era design, modernizing the CSS a bit.\n\nsoundManager.html5.usingFlash reflecting _needsFlash property\n\nnullURL = 'about:blank' tweak for unloading (flash 8.) May have finally fixed that dumb stream closing error on unload/destroy.\n\nSet soundManager.didFlashBlock *before* firing onready()/onerror() listeners\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTM3ODAwOjM2M2E2NTNkMTlkOTY0MWU3NWI2NjFmOWY4NWI1NzQ0YmI2MWZiYTY=",
+  "sha": "363a653d19d9641e75b661f9f85b5744bb61fba6",
+  "url": "https://api.github.com/repos/dropwizard/metrics/git/tags/363a653d19d9641e75b661f9f85b5744bb61fba6",
+  "tagger": {
+    "name": "Coda Hale",
+    "email": "coda.hale@gmail.com",
+    "date": "2011-07-05T21:54:49Z"
+  },
+  "object": {
+    "sha": "85a7a4fc15cabb0b2b68e1106d8de9bbad0442c2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/dropwizard/metrics/git/commits/85a7a4fc15cabb0b2b68e1106d8de9bbad0442c2"
+  },
+  "tag": "v2.0.0-BETA14",
+  "message": "* Moved to Maven for a build system and extracted the Scala façade to a\n  `metrics-scala` module which is now the only cross-built module. All other\n  modules dropped the Scala version suffix in their `artifactId`s.\n* Fixed non-heap metric name in `GraphiteReporter`.\n* Fixed stability error in `GraphiteReporter` when dealing with unavilable\n  servers.\n* Fixed error with anonymous, instrumented classes.\n* Fixed error in `MetricsServlet` when a gauge throws an exception.\n* Fixed error with bogus GC run times.\n* Link to the pretty JSON output from the `MetricsServlet` menu page.\n* Fixed potential race condition in histograms' variance calculations.\n* Fixed memory pool reporting for the G1 collector.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

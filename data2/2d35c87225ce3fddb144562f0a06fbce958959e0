@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6MmQzNWM4NzIyNWNlM2ZkZGIxNDQ1NjJmMGEwNmZiY2U5NTg5NTllMA==",
+  "sha": "2d35c87225ce3fddb144562f0a06fbce958959e0",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/2d35c87225ce3fddb144562f0a06fbce958959e0",
+  "tagger": {
+    "name": "Brandon Philips",
+    "email": "brandon@ifup.co",
+    "date": "2015-01-28T07:09:16Z"
+  },
+  "object": {
+    "sha": "b606078e9312e7dbb461bbbfc50e322471cdb63c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/b606078e9312e7dbb461bbbfc50e322471cdb63c"
+  },
+  "tag": "v2.0.0",
+  "message": "v2.0.0\n\n- fully support and document DNS discovery using flag `--discovery-srv`\n- additional tests for all packages\n- fix the message flood from leader to follower when follower is unhealthy\n- support scaling from two member clusters to single member clusters (not a recommended configuration)\n- remove out of date documentation about the 0.4 releases\n- use tls information internally when finding cluster membership\n- WAL migration starts the term at 1 instead of 0\n- add debug tool etcd-dump-logs\n- update all documents to fit the v2.0 changes\n- add `-heartbeat-interval` and `-election-timeout` flags\n\nThank you to: 周春寅, efrecon, Yicheng Qin, Xiang Li, Shota Fukumori (sora_h),\nRob Szumski, Peter Suschlik, Peter Lemenkov, Matthew Williams, Kelsey\nHightower, Jörg Thalheim, Jurriaan Mous, Jonathan Boulle, Brian Waldon, Brandon\nPhilips, Ben Darnell, Barak Michener, Andrew Bonventre, Alban Crequy\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUyItBAAoJEBVDQyYFQt80axAQAJBRXjDB3yN6PFd07w4IGI3a\n1+0ZcwBOstryFIYCMZBcX2GI7VPTeNBUscoF7LDDOXarZqau+SiKY07UXlBosORT\nqc4DfIRLI391PshdYe9Vo4NeX2IFXnmPQi8TujhsQs2geSZEDs78N6Wn2wGoGPBa\n5yQf9IL62IF1YUlRiQerSEwCd1V+5runFY/oDCHiuXQL0kW5S7m4hE/qrypEUzuZ\nzXAsgxSHGwbc4JIMHHLIAs3maczM3UjL65LJmthYjrfNpjmYn4Sbj+TwuG3nrSc+\ne4nZ5b7u+QqXUnAHoGeNB3bN/E/JMZ1EScRNaYATgZLNA7jC7KvxYFn3oVbeqFIv\nULuFpNwwzGXIqj0p4LYhwOjnwqW5cXy6omoaT16DCxSqESy2IEuA8k78gEhozalH\nzbrS08QMmh+3GD6UTFlS0y0Mdn/hl5YYRkYT5+iAZD9RLJOY95jwoeYZzDxxAPfF\nR+G9GdwHvi6a8sfYyrRd/RSSCZ9UKFkGG4NwSggupX6/GxFswNx5pRtYQ45crw5Q\nRO3NxDJ0/qtoxRimeV3Nw9VRKVGaXE471PlRpu2bcrIA8q8yyF9mrXjO1oax21vh\n6E2scTFYe7UVV5qvPGWQVTC13i2i5tIVzsgA1OiGrSDV1V9MegoWf60YtDMkY3QV\n1t18xgqAaJIhE0XOY5Fb\n=rsAm\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUyItBAAoJEBVDQyYFQt80axAQAJBRXjDB3yN6PFd07w4IGI3a\n1+0ZcwBOstryFIYCMZBcX2GI7VPTeNBUscoF7LDDOXarZqau+SiKY07UXlBosORT\nqc4DfIRLI391PshdYe9Vo4NeX2IFXnmPQi8TujhsQs2geSZEDs78N6Wn2wGoGPBa\n5yQf9IL62IF1YUlRiQerSEwCd1V+5runFY/oDCHiuXQL0kW5S7m4hE/qrypEUzuZ\nzXAsgxSHGwbc4JIMHHLIAs3maczM3UjL65LJmthYjrfNpjmYn4Sbj+TwuG3nrSc+\ne4nZ5b7u+QqXUnAHoGeNB3bN/E/JMZ1EScRNaYATgZLNA7jC7KvxYFn3oVbeqFIv\nULuFpNwwzGXIqj0p4LYhwOjnwqW5cXy6omoaT16DCxSqESy2IEuA8k78gEhozalH\nzbrS08QMmh+3GD6UTFlS0y0Mdn/hl5YYRkYT5+iAZD9RLJOY95jwoeYZzDxxAPfF\nR+G9GdwHvi6a8sfYyrRd/RSSCZ9UKFkGG4NwSggupX6/GxFswNx5pRtYQ45crw5Q\nRO3NxDJ0/qtoxRimeV3Nw9VRKVGaXE471PlRpu2bcrIA8q8yyF9mrXjO1oax21vh\n6E2scTFYe7UVV5qvPGWQVTC13i2i5tIVzsgA1OiGrSDV1V9MegoWf60YtDMkY3QV\n1t18xgqAaJIhE0XOY5Fb\n=rsAm\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b606078e9312e7dbb461bbbfc50e322471cdb63c\ntype commit\ntag v2.0.0\ntagger Brandon Philips <brandon@ifup.co> 1422428956 -0800\n\nv2.0.0\n\n- fully support and document DNS discovery using flag `--discovery-srv`\n- additional tests for all packages\n- fix the message flood from leader to follower when follower is unhealthy\n- support scaling from two member clusters to single member clusters (not a recommended configuration)\n- remove out of date documentation about the 0.4 releases\n- use tls information internally when finding cluster membership\n- WAL migration starts the term at 1 instead of 0\n- add debug tool etcd-dump-logs\n- update all documents to fit the v2.0 changes\n- add `-heartbeat-interval` and `-election-timeout` flags\n\nThank you to: 周春寅, efrecon, Yicheng Qin, Xiang Li, Shota Fukumori (sora_h),\nRob Szumski, Peter Suschlik, Peter Lemenkov, Matthew Williams, Kelsey\nHightower, Jörg Thalheim, Jurriaan Mous, Jonathan Boulle, Brian Waldon, Brandon\nPhilips, Ben Darnell, Barak Michener, Andrew Bonventre, Alban Crequy\n"
+  }
+}

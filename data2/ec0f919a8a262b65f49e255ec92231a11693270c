@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOmVjMGY5MTlhOGEyNjJiNjVmNDllMjU1ZWM5MjIzMWExMTY5MzI3MGM=",
+  "sha": "ec0f919a8a262b65f49e255ec92231a11693270c",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/ec0f919a8a262b65f49e255ec92231a11693270c",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-10-12T03:48:16Z"
+  },
+  "object": {
+    "sha": "e08cc356b0fb78163657f7a6e99572039fd58543",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/e08cc356b0fb78163657f7a6e99572039fd58543"
+  },
+  "tag": "14.0.1",
+  "message": "nova 14.0.1 release\n\nmeta:version: 14.0.1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Commit: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Change-Id: I13960b04ff5c5f466e1f55e480c0d1d471d05ac4\nmeta:release:Code-Review+1: Dan Smith <dms@danplanet.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX/bKAAAoJENljH+rwzGInVtwIAL04idewGQGPyMspYq45/8NW\ngo1Xs4F3VfwqScFv1KVi7++Pq5YSbBdrS6vhXoH5G3okPotqqswhDJ5GgPpGv1ht\njz0Bp4wuTqMHBHDw/XoS/atvE0IKA9bIRZNvCGBOZ/TVlI3GDg54/0+9OAPSQnYt\nfoHE78paE8J8SfX0ooYEZ0a2UdyC3s5JOtsLfyuo/zGz/MOR+ys0z7wQCS9OsT0D\nSlu95mAQbpgAKQxzyWi8kpiSNgIg6C6lZUsqhkGZnoR0FHjE7pd2lz97Nk/dI+4H\nui6p5k5xe+/BR3zxDcFrU3d8JmtLlhp6/tHOLymHrftpZt3KawmeHhIGKidVV2Y=\n=WtQJ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX/bKAAAoJENljH+rwzGInVtwIAL04idewGQGPyMspYq45/8NW\ngo1Xs4F3VfwqScFv1KVi7++Pq5YSbBdrS6vhXoH5G3okPotqqswhDJ5GgPpGv1ht\njz0Bp4wuTqMHBHDw/XoS/atvE0IKA9bIRZNvCGBOZ/TVlI3GDg54/0+9OAPSQnYt\nfoHE78paE8J8SfX0ooYEZ0a2UdyC3s5JOtsLfyuo/zGz/MOR+ys0z7wQCS9OsT0D\nSlu95mAQbpgAKQxzyWi8kpiSNgIg6C6lZUsqhkGZnoR0FHjE7pd2lz97Nk/dI+4H\nui6p5k5xe+/BR3zxDcFrU3d8JmtLlhp6/tHOLymHrftpZt3KawmeHhIGKidVV2Y=\n=WtQJ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e08cc356b0fb78163657f7a6e99572039fd58543\ntype commit\ntag 14.0.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1476244096 +0000\n\nnova 14.0.1 release\n\nmeta:version: 14.0.1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Commit: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Change-Id: I13960b04ff5c5f466e1f55e480c0d1d471d05ac4\nmeta:release:Code-Review+1: Dan Smith <dms@danplanet.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

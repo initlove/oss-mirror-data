@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODc4NTk5MDg6NDM5NDAzM2U5MWI3YmEyOWNjODFkY2NjNTRiMDZjNjY0YTJjODAwZA==",
+  "sha": "4394033e91b7ba29cc81dccc54b06c664a2c800d",
+  "url": "https://api.github.com/repos/micrometer-metrics/micrometer/git/tags/4394033e91b7ba29cc81dccc54b06c664a2c800d",
+  "tagger": {
+    "name": "Jon Schneider",
+    "email": "jschneider@pivotal.io",
+    "date": "2018-05-09T01:08:38Z"
+  },
+  "object": {
+    "sha": "3762968d6af8fddcb874f8cec94c5283534aadd7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micrometer-metrics/micrometer/git/commits/3762968d6af8fddcb874f8cec94c5283534aadd7"
+  },
+  "tag": "v1.0.4",
+  "message": "Release of 1.0.4\n\n- 3762968d6af8fddcb874f8cec94c5283534aadd7: spring-release 0.19.1\n- ad0aeaac5925184c4ba4dd2729fdd59f07f515ab: Add task tree plugin\n- 69f5531203c997c7b2c56190c9a9ed30b953a4a7: Upgrade to spring-release 0.19.0, polish\n- ffe9d82c52a8e6129f895ac6513aaca350c0758d: Guard against in JSON special characters in all implementations (issue #589)\n- 35ccf7d42a928c197a9cef1d9c4f38cd43249f38: Fix negative cache miss metric for Hazelcast (fixes #586)\n- 26c2b54f965f6c4ec29eccd7fe65c9b6b49a9006: Upgrade io.spring.release and spring.lock\n- 8ea9afabaf90f61d84f6eb6c855e34cc5dff3d09: Upgrade to Gradle Wrapper 4.7\n- 6c6adbe9b1902dd286ffc2f8a6ae0809c1d0b287: Run snapshot publishing on 1.0.x branch\n- a1cbe090db53e4323bf477fab3f329635945967f: Polish\n- 231afe4d30426e01b56a592e578c124f52eb2207: Allow choice of base convention on naming conventions with sanitization rules (fixes #590)\n- b9779db39193e4c02e8942d8cfd89e23590f2cb5: Escape JSON special characters when publishing to Datadog (fixes #589)\n- 8bbef3ee10a5cc258f984d5592bd66ccb339b8e0: Improve performance of meter registration (fixes #585)\n- 60da3f80162b231e00834243b8ce8af5f9a2d47f: Call shutdown on PauseDetector in AbstractTimer#close (fixes #579)\n- b48991cbe0edc23cc35fe61bce3cbb7615954e2c: Gradle 4.7, io.spring.release 0.17.2\n- d876dc47ebe1727040f72aa0d4c42129c17b0abf: Add descriptive text to MeterNotFoundException, additional helpers in Search and RequiredSearch (fixes #588)\n- d49315726d8bca58cb702605a72a59e8d4e15c31: Deprecate StatsdConfig.queueSize()\n- e3511b62c9adbbdffd10149a9217a3148816f039: Preserve order of tagsAsPrefix on Graphite (fixes #561)\n- 5f614d6d8d7a482f04c4fd2be7a243c7171bc0ef: Preconfigure Atlas registry to rename tags that conflict with reserved names (fixes #544)\n- 1ae3ad07b6bfae623d641d82eb191e6998825caa: better performance of creating web mvc tags\n- 5d4aa10d514fdf837611dff57fad567d467f9835: Restore AbstractTimer constructor (fixes #541)\n- dd42b93d601ba12bb770402f19aa42902832f25a: Prometheus timer and summary use time window when percentiles are enabled (fixes #562)\n- 6278e5282a9d8d7c9339f47c208ff90821ed2700: Composite meters that increment only do so once for each registry instance in the hierarchy (fixes ##546)\n- ce64562093e05eef11fa11440ea5f9946446a8f3: Make percentile precision nullable on Timer and DistributionSummary builders\n- 1a61c2ba2e34b9d30438e063fc77e3dd27ab08a4: Fixed: Pass percentile precision to child Timer and DistributionSummary\n- e7da55772c1b051ffe05b91d43e17b1226ec34eb: Don't ship NaN values to influx\n- 26588f9b6755852120b8d937faba10dab6a176d5: Apply accept/distribution statistic config filters only if meter doesn't already exist (fixes #551)\n- bae567af2bb206671db549ccc493e34fedd2d929: Added check for empty values in PropertiesMeterFilter for lookup (fixes #547)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDI5MTM4NzoxZWFhZmI0OGJhOTFlOWVlYTUwMTdiOGQ1MGQ3M2M3ZDMzYzMyNTE3",
+  "sha": "1eaafb48ba91e9eea5017b8d50d73c7d33c32517",
+  "url": "https://api.github.com/repos/Netflix/archaius/git/tags/1eaafb48ba91e9eea5017b8d50d73c7d33c32517",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-03-30T02:49:09Z"
+  },
+  "object": {
+    "sha": "ba1c126e798bcd2b149c1eea02b22208229a55d1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/archaius/git/commits/ba1c126e798bcd2b149c1eea02b22208229a55d1"
+  },
+  "tag": "v2.0.3",
+  "message": "Release of 2.0.3\n\n- ba1c126e798bcd2b149c1eea02b22208229a55d1: Merge pull request #398 from elandau/bridge_fix\n- a99c27d4337559f7fb56682be97160bf70c46576: Force getString() to do a .toString() since all the dynamic configuration classes depend on properties being stored as strings\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

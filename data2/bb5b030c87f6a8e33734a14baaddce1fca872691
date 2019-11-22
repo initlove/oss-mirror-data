@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODg3ODk1NzA6YmI1YjAzMGM4N2Y2YThlMzM3MzRhMTRiYWFkZGNlMWZjYTg3MjY5MQ==",
+  "sha": "bb5b030c87f6a8e33734a14baaddce1fca872691",
+  "url": "https://api.github.com/repos/gdraheim/zziplib/git/tags/bb5b030c87f6a8e33734a14baaddce1fca872691",
+  "tagger": {
+    "name": "Guido Draheim",
+    "email": "guidod@gmx.de",
+    "date": "2018-03-17T12:47:24Z"
+  },
+  "object": {
+    "sha": "9d82e19c7f654722f9e37deaa9eb91c25ad544ec",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gdraheim/zziplib/git/commits/9d82e19c7f654722f9e37deaa9eb91c25ad544ec"
+  },
+  "tag": "v0.13.69",
+  "message": "* fix a number of CVEs reported with special *.zip PoC files\n* man-pages are generated with new dbk2man.py - docbook xmlto is optional now\n* completing some doc strings while checking the new man-pages to look good\n* allow the zziptests.py testsuite to run with an installed /bin path\n* try to fix some issues on testing with non-installed binaries on non-linux platfors\n* update autotools to allow compiling on some newer Mac / Win machines\n* a zip-program is still required for testing, but some errors are gone when not there\n* complete the approximation of fnmatch for the test binaries (on platforms without)\n* allow windows __mmap.h to be simpler, helping with some problems on MingW\n* integrate 'fopen(\"wb\")' from TexLive to be more portable across\n* more portability as well for helpers like strnlen being used in the sources\n* update doc refs to point to github instead of sf.net\n* update the sf.net pages to have a prominent hint on newer github.com location\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

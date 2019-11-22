@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTo1ZTY1OTI3MGFkNzJhNzExZWU4ZDAyYWFkMTIwZTAyYjc4Yzk5M2Jh",
+  "sha": "5e659270ad72a711ee8d02aad120e02b78c993ba",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/5e659270ad72a711ee8d02aad120e02b78c993ba",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-10-29T16:37:10Z"
+  },
+  "object": {
+    "sha": "9924efe268e899665daeeaded9bf452ff1cb510b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/9924efe268e899665daeeaded9bf452ff1cb510b"
+  },
+  "tag": "5.2.1",
+  "message": "Version 5.2.1\n\n### Bug fixes\n\nFix a token context corruption bug.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAln2A8AACgkQcD8b7W0z\nrh5D8ggAjNk8SXNQJ16pRF4+Hsoa/3ig2KSsl4GbQ3kSrzuNhIZrG0UE9QK6UGow\nOvwfwXOg/fl04ZazPtIsJy6++cwCGBWhQNj84hFe/CcfjRDZWRLQAk/xwEmxDXwE\niVT7nGsA9FErJpzVHgWE87MhTZq4TCwxypaEwWjoGEP047j6pyOaelY0lFHLxOqB\n/D4uRpim/QrFmhlwTV1BhoYHr4a3xQ3nAIf1Pp+xTrdtpIoNqfoBMq4YOdRRHxcl\nkZh4Ec2zhqQGR4jTRY5rOtRZ2DTgQmrp/4byvcqFu0koJ7EvNwGXpaVt/4L01JTV\n1/mGzkH3RDfmlTDEiKen96QzI9uoSw==\n=amdk\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAln2A8AACgkQcD8b7W0z\nrh5D8ggAjNk8SXNQJ16pRF4+Hsoa/3ig2KSsl4GbQ3kSrzuNhIZrG0UE9QK6UGow\nOvwfwXOg/fl04ZazPtIsJy6++cwCGBWhQNj84hFe/CcfjRDZWRLQAk/xwEmxDXwE\niVT7nGsA9FErJpzVHgWE87MhTZq4TCwxypaEwWjoGEP047j6pyOaelY0lFHLxOqB\n/D4uRpim/QrFmhlwTV1BhoYHr4a3xQ3nAIf1Pp+xTrdtpIoNqfoBMq4YOdRRHxcl\nkZh4Ec2zhqQGR4jTRY5rOtRZ2DTgQmrp/4byvcqFu0koJ7EvNwGXpaVt/4L01JTV\n1/mGzkH3RDfmlTDEiKen96QzI9uoSw==\n=amdk\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9924efe268e899665daeeaded9bf452ff1cb510b\ntype commit\ntag 5.2.1\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1509295030 +0100\n\nVersion 5.2.1\n\n### Bug fixes\n\nFix a token context corruption bug.\n"
+  }
+}

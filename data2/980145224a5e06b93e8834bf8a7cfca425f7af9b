@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6OTgwMTQ1MjI0YTVlMDZiOTNlODgzNGJmOGE3Y2ZjYTQyNWY3YWY5Yg==",
+  "sha": "980145224a5e06b93e8834bf8a7cfca425f7af9b",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/980145224a5e06b93e8834bf8a7cfca425f7af9b",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-02-17T23:15:25Z"
+  },
+  "object": {
+    "sha": "87d5e5b316a4276bcf881f176971c1a237dcdc7a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/87d5e5b316a4276bcf881f176971c1a237dcdc7a"
+  },
+  "tag": "v0.1.29",
+  "message": "2010.02.17, Version 0.1.29\n\n  * Major API Changes\n    - Remove 'file' module\n    - require('posix') -----------------> require('fs')\n    - fs.cat ---------------------------> fs.readFile\n    - file.write -----------------------> fs.writeFile\n    - TCP 'receive' event --------------> 'data'\n    - TCP 'eof' event ------------------> 'end'\n    - TCP send() -----------------------> write()\n    - HTTP sendBody() ------------------> write()\n    - HTTP finish() --------------------> close()\n    - HTTP 'body' event ----------------> 'data'\n    - HTTP 'complete' event ------------> 'end'\n    - http.Client.prototype.close() (formerly finish()) no longer\n      takes an argument. Add the 'response' listener manually.\n    - Allow strings for the flag argument to fs.open\n      (\"r\", \"r+\", \"w\", \"w+\", \"a\", \"a+\")\n\n  * Added multiple arg support for sys.puts(), print(), etc.\n    (tj@vision-media.ca)\n\n  * sys.inspect(Date) now shows the date value (Mark Hansen)\n\n  * Calculate page size with getpagesize for armel (Jérémy Lal)\n\n  * Bugfix: stderr flushing.\n\n  * Bugfix: Promise late chain (Yuichiro MASUI)\n\n  * Bugfix: wait() on fired promises\n    (Felix Geisendörfer, Jonas Pfenniger)\n\n  * Bugfix: Use InstanceTemplate() instead of PrototypeTemplate() for\n    accessor methods. Was causing a crash with Eclipse debugger.\n    (Zoran Tomicic)\n\n  * Bugfix: Throw from connection.connect if resolving.\n    (Reported by James Golick)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzU0NDA0MDQ6NTYzMWI1YjI5M2UxZGEwNGRmZjNkZWJmMGNmMDhiMDJmNzlmNTA0Zg==",
+  "sha": "5631b5b293e1da04dff3debf0cf08b02f79f504f",
+  "url": "https://api.github.com/repos/aws/aws-sdk-cpp/git/tags/5631b5b293e1da04dff3debf0cf08b02f79f504f",
+  "tagger": {
+    "name": "Marco Magdy",
+    "email": "magmarco@amazon.com",
+    "date": "2017-06-28T00:00:14Z"
+  },
+  "object": {
+    "sha": "ab8a76ec000f4a378cd0db4857fe1f28702593c8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/aws/aws-sdk-cpp/git/commits/ab8a76ec000f4a378cd0db4857fe1f28702593c8"
+  },
+  "tag": "1.1.1",
+  "message": "Fix TransferManager's lifetime management\n\nThis patch introduces a builder function to instantiate TransferManager\nas a shared_ptr. That ensures that other threads can increase\nTransferManager's lifetime until all the callbacks have finished.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

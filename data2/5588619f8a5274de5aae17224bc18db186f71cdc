@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzgyMTA2MTU6NTU4ODYxOWY4YTUyNzRkZTVhYWUxNzIyNGJjMThkYjE4NmY3MWNkYw==",
+  "sha": "5588619f8a5274de5aae17224bc18db186f71cdc",
+  "url": "https://api.github.com/repos/openstack/aodh/git/tags/5588619f8a5274de5aae17224bc18db186f71cdc",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-28T10:59:27Z"
+  },
+  "object": {
+    "sha": "149d3ad2193b4d17df801f82a0a6be62dba564db",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/aodh/git/commits/149d3ad2193b4d17df801f82a0a6be62dba564db"
+  },
+  "tag": "queens-em",
+  "message": "aodh queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I6f2d6ac988651120587c643b6f50749b87e254f0\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl22yg8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2E7hDADoH0bA2GC1s2N7chv1u/Fh\nXglXZ8Tsaqx78lfST3LcJ1QE3mvNy4UD5xa2oIJ2GUkDuGJxNQ52RsVf2dAtACDm\nUYgQ9ZxWglpVuVs1hp1Vi38PsDrl6z9RjQnGCmfCljRq0fzf8FJk/Nc/AxbrhDZR\nyHMfU2GLePf37PtGATc9TT/ilBhwQ+kPdQTA6yw4qgqGwNdLJJ6zx7tr4vdR4fwn\n5Z0c7TFa21lTs2raMRqqFWrKczcROZFiXeje/yBPRP7VyFgi8A/oG7WfUGXFukGC\n8mbAnmUi+KeCb5ar3mJHa1TDxsE7D8bD31zaMw0Q+OLGm7pYXcZB7hYUN4M5Hgmd\ncuoHiMkwxPuU+gf0xY6OGZtXMS9Dy+GQiW0vprZP3RKe1ZerQkO1Hh2f0vZf+9Uo\nbQHn9enambvgNYicit55g/rqGegBobqn+NOni4VmWSTs6dDE7AYvo6jZBV7YKsru\nUUZnmSgGWwWeWmecmkrPwA4M3ls5OQbqkOn+C+f5sxM=\n=aLEW\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl22yg8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2E7hDADoH0bA2GC1s2N7chv1u/Fh\nXglXZ8Tsaqx78lfST3LcJ1QE3mvNy4UD5xa2oIJ2GUkDuGJxNQ52RsVf2dAtACDm\nUYgQ9ZxWglpVuVs1hp1Vi38PsDrl6z9RjQnGCmfCljRq0fzf8FJk/Nc/AxbrhDZR\nyHMfU2GLePf37PtGATc9TT/ilBhwQ+kPdQTA6yw4qgqGwNdLJJ6zx7tr4vdR4fwn\n5Z0c7TFa21lTs2raMRqqFWrKczcROZFiXeje/yBPRP7VyFgi8A/oG7WfUGXFukGC\n8mbAnmUi+KeCb5ar3mJHa1TDxsE7D8bD31zaMw0Q+OLGm7pYXcZB7hYUN4M5Hgmd\ncuoHiMkwxPuU+gf0xY6OGZtXMS9Dy+GQiW0vprZP3RKe1ZerQkO1Hh2f0vZf+9Uo\nbQHn9enambvgNYicit55g/rqGegBobqn+NOni4VmWSTs6dDE7AYvo6jZBV7YKsru\nUUZnmSgGWwWeWmecmkrPwA4M3ls5OQbqkOn+C+f5sxM=\n=aLEW\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 149d3ad2193b4d17df801f82a0a6be62dba564db\ntype commit\ntag queens-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572260367 +0000\n\naodh queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I6f2d6ac988651120587c643b6f50749b87e254f0\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

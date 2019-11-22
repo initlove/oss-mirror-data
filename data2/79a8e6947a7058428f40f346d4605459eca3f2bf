@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDI5MTM4Nzo3OWE4ZTY5NDdhNzA1ODQyOGY0MGYzNDZkNDYwNTQ1OWVjYTNmMmJm",
+  "sha": "79a8e6947a7058428f40f346d4605459eca3f2bf",
+  "url": "https://api.github.com/repos/Netflix/archaius/git/tags/79a8e6947a7058428f40f346d4605459eca3f2bf",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-11-17T18:23:29Z"
+  },
+  "object": {
+    "sha": "f7667c3128c1150c4f1e9b5f17f84cdac1ec4a5d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/archaius/git/commits/f7667c3128c1150c4f1e9b5f17f84cdac1ec4a5d"
+  },
+  "tag": "v0.7.3",
+  "message": "Release of 0.7.3\n\n- f7667c3128c1150c4f1e9b5f17f84cdac1ec4a5d: Merge pull request #365 from tbak/master\n- 9f15da850aca8dab3657347f124d44211c062438: Minor change to trigger yet another build\n- 1e7baebea4e8319bcf0822919ba431dd11907a69: Push MaxPermSize to 512m\n- 95499e6d3e34caaa0004a30594334191efb00c5c: Increase MaxPermSize to 256m\n- 6dced9b71e1d6334f6f64b380e95a15baee50f59: Upgrade scala dependencies to fix Java8 compatiblity issues.\n- cad151c8cc51ffc7be9441149583b582d19ad8ad: Replace findbugs:annotations with findbugs:jsr305\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

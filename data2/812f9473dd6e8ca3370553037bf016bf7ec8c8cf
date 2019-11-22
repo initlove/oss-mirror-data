@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODo4MTJmOTQ3M2RkNmU4Y2EzMzcwNTUzMDM3YmYwMTZiZjdlYzhjOGNm",
+  "sha": "812f9473dd6e8ca3370553037bf016bf7ec8c8cf",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/812f9473dd6e8ca3370553037bf016bf7ec8c8cf",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-03-25T22:10:27Z"
+  },
+  "object": {
+    "sha": "6bf605e11772b38805f194976f0112d1f2a3f89e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/6bf605e11772b38805f194976f0112d1f2a3f89e"
+  },
+  "tag": "v1.4.2",
+  "message": "Release of 1.4.2\n\n- 6bf605e11772b38805f194976f0112d1f2a3f89e: Merge pull request #723 from vitalatron/fix_getDeclaredMethod_to_traverse_superclasses\n- d8b66b8ccaa4f11b3ccd62b15d36b00cf469a8c7: Merge pull request #727 from mattrjacobs/increase-time-alloted-for-fallback-rejection-unit-test\n- 2aed19f020dc3b442740f4597d70c86c917748c3: Up the time before failure in HystrixCommandTest.testFallbackRejectionOccursWithLatentFallback\n- e4b71da4de8ee24f4b965061e7a21fd0d9524ae8: Merge pull request #724 from axiak/check-request-log-enabled\n- 099e9e22d29d7ae81ce5e188dfd3fb8b67972180: Check if the request log is enabled before requiring the context is initialized.\n- c1e6144a69e76541de9ed45ff051fd2d96b6bfb1: fixed AopUtils#getDeclaredMethod to look for method also in superclasses\n- 75f5c3bb53c524f3a69e060d9c266316924340fe: Merge pull request #717 from mattrjacobs/dashboard-error-msg-when-connection-fails\n- 44dc791f334ab18fa5a96b9d2916de26c483343a: Add error message to HTML when connecting to metrics source fails\n- c7b248cdace4b95743951f77c62eeab36f845ea0: Update CHANGELOG.md\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

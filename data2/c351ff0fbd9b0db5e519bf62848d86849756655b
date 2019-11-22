@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YzM1MWZmMGZiZDliMGRiNWU1MTliZjYyODQ4ZDg2ODQ5NzU2NjU1Yg==",
+  "sha": "c351ff0fbd9b0db5e519bf62848d86849756655b",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/c351ff0fbd9b0db5e519bf62848d86849756655b",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-07-06T01:46:39Z"
+  },
+  "object": {
+    "sha": "ae7ed8482ea7e53c59acbdf3cf0e0a0ae9d792cd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/ae7ed8482ea7e53c59acbdf3cf0e0a0ae9d792cd"
+  },
+  "tag": "v0.5.0",
+  "message": "2011.07.05, Version 0.5.0 (unstable)\n\n* New non-default libuv backend to support IOCP on Windows.\n  Use --use-uv to enable.\n\n* deprecate http.cat\n\n* docs improved.\n\n* add child_process.fork\n\n* add fs.utimes() and fs.futimes() support (Ben Noordhuis)\n\n* add process.uptime() (Tom Huges)\n\n* add path.relative (Tony Huang)\n\n* add os.getNetworkInterfaces()\n\n* add remoteAddress and remotePort for client TCP connections\n  (Brian White)\n\n* add secureOptions flag, setting ciphers,\n  SSL_OP_CRYPTOPRO_TLSEXT_BUG to TLS (Theo Schlossnagle)\n\n* add process.arch (Nathan Rajlich)\n\n* add reading/writing of floats and doubles from/to buffers (Brian White)\n\n* Allow script to be read from stdin\n\n* #477 add Buffer::fill method to do memset (Konstantin Käfer)\n\n* #573 Diffie-Hellman support to crypto module (Håvard Stranden)\n\n* #695 add 'hex' encoding to buffer (isaacs)\n\n* #851 Update how REPLServer uses contexts (Ben Weaver)\n\n* #853 add fs.lchow, fs.lchmod, fs.fchmod, fs.fchown (isaacs)\n\n* #889 Allow to remove all EventEmitter listeners at once\n  (Felix Geisendörfer)\n\n* #926 OpenSSL NPN support (Fedor Indutny)\n\n* #955 Change ^C handling in REPL (isaacs)\n\n* #979 add support for Unix Domain Sockets to HTTP (Mark Cavage)\n\n* #1173 #1170 add AMD, asynchronous module definition (isaacs)\n\n* DTrace probes: support X-Forwarded-For (Dave Pacheco)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

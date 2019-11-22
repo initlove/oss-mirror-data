@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOjYxNWQ4YmQ1Njk1N2I3ODBhZjAzYWVlOTk2NTk2Yjc0MWViNWQxYjc=",
+  "sha": "615d8bd56957b780af03aee996596b741eb5d1b7",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/615d8bd56957b780af03aee996596b741eb5d1b7",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-04-20T13:12:17Z"
+  },
+  "object": {
+    "sha": "8a407bd288bb3116e50ea3b29a125caa036204cb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/8a407bd288bb3116e50ea3b29a125caa036204cb"
+  },
+  "tag": "18.0.0.0b1",
+  "message": "nova 18.0.0.0b1 development milestone\n\nmeta:version: 18.0.0.0b1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: melanie witt <melwittt@gmail.com>\nmeta:release:Commit: melanie witt <melwittt@gmail.com>\nmeta:release:Change-Id: Id8e9930e573c29ee51647ceb462a0c61abc521a9\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa2ecxAAoJEMNs3LTfAMaMKKwH/jenCI1+Bipv4Y5Xpu88Je9F\nF1H9Z/Q27TWasqtcuhnIKaV7yuyD3bdrTj0NLo1ReuzEOasMyMkvcIFbEPmw/zCj\nHk5JDMdOA9iNwJTkdw5ok88pbcG71tUXoWbw8KeVuirGf+nAkFh4T1ounQga3Sg0\nOEFFUBfStDb6Cm0TL8qbzsZEwGYx/fSv1Olk4tcQtp3lD9kKIHI92est61tuBsi8\nVhq0IxtH4AZbM8pzT/pyTMUM0imY05qSeZ51u+vm7e5QoBo69VVYj693BxvelWf3\nI9CA+JvBQMG//e+/gdN4Nd2nfAjYj7EPYox3QcT0aPmLzaob+2mL0ebEa9IvBhU=\n=QNyA\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa2ecxAAoJEMNs3LTfAMaMKKwH/jenCI1+Bipv4Y5Xpu88Je9F\nF1H9Z/Q27TWasqtcuhnIKaV7yuyD3bdrTj0NLo1ReuzEOasMyMkvcIFbEPmw/zCj\nHk5JDMdOA9iNwJTkdw5ok88pbcG71tUXoWbw8KeVuirGf+nAkFh4T1ounQga3Sg0\nOEFFUBfStDb6Cm0TL8qbzsZEwGYx/fSv1Olk4tcQtp3lD9kKIHI92est61tuBsi8\nVhq0IxtH4AZbM8pzT/pyTMUM0imY05qSeZ51u+vm7e5QoBo69VVYj693BxvelWf3\nI9CA+JvBQMG//e+/gdN4Nd2nfAjYj7EPYox3QcT0aPmLzaob+2mL0ebEa9IvBhU=\n=QNyA\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8a407bd288bb3116e50ea3b29a125caa036204cb\ntype commit\ntag 18.0.0.0b1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1524229937 +0000\n\nnova 18.0.0.0b1 development milestone\n\nmeta:version: 18.0.0.0b1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: melanie witt <melwittt@gmail.com>\nmeta:release:Commit: melanie witt <melwittt@gmail.com>\nmeta:release:Change-Id: Id8e9930e573c29ee51647ceb462a0c61abc521a9\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

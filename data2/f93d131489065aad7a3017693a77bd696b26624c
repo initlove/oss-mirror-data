@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAxNzQyOmY5M2QxMzE0ODkwNjVhYWQ3YTMwMTc2OTNhNzdiZDY5NmIyNjYyNGM=",
+  "sha": "f93d131489065aad7a3017693a77bd696b26624c",
+  "url": "https://api.github.com/repos/tornadoweb/tornado/git/tags/f93d131489065aad7a3017693a77bd696b26624c",
+  "tagger": {
+    "name": "Ben Darnell",
+    "email": "ben@bendarnell.com",
+    "date": "2011-10-04T17:00:56Z"
+  },
+  "object": {
+    "sha": "fa159286ff3e1b5e625fc42a717c628bf9491938",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tornadoweb/tornado/git/commits/fa159286ff3e1b5e625fc42a717c628bf9491938"
+  },
+  "tag": "v2.1.1",
+  "message": "What's new in Tornado 2.1.1\n===========================\n\nOct 4, 2011\n-----------\n\nBug fixes\n~~~~~~~~~\n\n* Fixed handling of closed connections with the ``epoll`` (i.e. Linux)\n  ``IOLoop``.  Previously, closed connections could be shut down too early,\n  which most often manifested as \"Stream is closed\" exceptions in\n  ``SimpleAsyncHTTPClient``.\n* Fixed a case in which chunked responses could be closed prematurely,\n  leading to truncated output.\n* ``IOStream.connect`` now reports errors more consistently via logging\n  and the close callback (this affects e.g. connections to localhost\n  on FreeBSD).\n* ``IOStream.read_bytes`` again accepts both ``int`` and ``long`` arguments.\n* ``PeriodicCallback`` no longer runs repeatedly when ``IOLoop`` iterations\n  complete faster than the resolution of ``time.time()`` (mainly a problem\n  on Windows).\n\nBackwards-compatibility note\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n* Listening for ``IOLoop.ERROR`` alone is no longer sufficient for detecting\n  closed connections on an otherwise unused socket.  ``IOLoop.ERROR`` must\n  always be used in combination with ``READ`` or ``WRITE``.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

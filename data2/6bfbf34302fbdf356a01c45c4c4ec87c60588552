@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY4ODQyNTc6NmJmYmYzNDMwMmZiZGYzNTZhMDFjNDVjNGM0ZWM4N2M2MDU4ODU1Mg==",
+  "sha": "6bfbf34302fbdf356a01c45c4c4ec87c60588552",
+  "url": "https://api.github.com/repos/openstack/python-magnumclient/git/tags/6bfbf34302fbdf356a01c45c4c4ec87c60588552",
+  "tagger": {
+    "name": "Adrian Otto",
+    "email": "adrian.otto@rackspace.com",
+    "date": "2015-03-10T17:12:42Z"
+  },
+  "object": {
+    "sha": "b63610d2b14c0e454be26ae5380f28aa19f2e656",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-magnumclient/git/commits/b63610d2b14c0e454be26ae5380f28aa19f2e656"
+  },
+  "tag": "0.0.1",
+  "message": "Second release of python-magnumclient, including the following enhancements:\n\n1408667 Client uses underscores for parameters - OpenStack uses dashes\n1409316 Rest operation containers logs uses PUT\n1413438 magnum client object show do not have help info\n1421082 No test for shell\n1421476 magnumclient should support deleting multiple resources in one command\n1422512 allow users to specify the size of docker volume\n1423032 magnum 'bay-create' command should fail when no argument passed\n1423038 magnum 'baymodel-create' command should fail when no argument passed\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2.0.14 (GNU/Linux)\n\niQEcBAABAgAGBQJU/yc1AAoJEHcGupuh7IB/8LgH/0y8Bd/9dy8MinW2/j9Yhn5A\nRokcGHh/UdzE75xJ5zZl7JzIzedowyddWsAFYsczgx2gLwCuzcEEFjRSxzG5YOAs\npus0GKv6INIhJPReaBVHCCPJSO/DNMZi0lcN2sxknRJiYc6NxnC/0V52haIhU++A\nwH7kzUZks68SYNhw4PnGPkPcdeWqQ4wzENGQjYBTRQZpNO1+YD6h3EPfcI2FxmIS\n7NCEGZpwyMBlEKlXeLn331APv7KSQ4Q1VUWHif4TdngeI2bGtDf+3XgF9ZAeR/Vh\nPegiY5K8Vw8A9sV4VpkvgqyZ6twjz7RGXMDyz6wYd8uxOBUXl8Ve3af8dt/Ip7w=\n=qMcu\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2.0.14 (GNU/Linux)\n\niQEcBAABAgAGBQJU/yc1AAoJEHcGupuh7IB/8LgH/0y8Bd/9dy8MinW2/j9Yhn5A\nRokcGHh/UdzE75xJ5zZl7JzIzedowyddWsAFYsczgx2gLwCuzcEEFjRSxzG5YOAs\npus0GKv6INIhJPReaBVHCCPJSO/DNMZi0lcN2sxknRJiYc6NxnC/0V52haIhU++A\nwH7kzUZks68SYNhw4PnGPkPcdeWqQ4wzENGQjYBTRQZpNO1+YD6h3EPfcI2FxmIS\n7NCEGZpwyMBlEKlXeLn331APv7KSQ4Q1VUWHif4TdngeI2bGtDf+3XgF9ZAeR/Vh\nPegiY5K8Vw8A9sV4VpkvgqyZ6twjz7RGXMDyz6wYd8uxOBUXl8Ve3af8dt/Ip7w=\n=qMcu\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b63610d2b14c0e454be26ae5380f28aa19f2e656\ntype commit\ntag 0.0.1\ntagger Adrian Otto <adrian.otto@rackspace.com> 1426007562 +0000\n\nSecond release of python-magnumclient, including the following enhancements:\n\n1408667 Client uses underscores for parameters - OpenStack uses dashes\n1409316 Rest operation containers logs uses PUT\n1413438 magnum client object show do not have help info\n1421082 No test for shell\n1421476 magnumclient should support deleting multiple resources in one command\n1422512 allow users to specify the size of docker volume\n1423032 magnum 'bay-create' command should fail when no argument passed\n1423038 magnum 'baymodel-create' command should fail when no argument passed\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6MGJmMjVkMDk3NjNhNzhhMWJhYzkxYjg3YjRjOGMxMzg4OTNmZDZiZg==",
+  "sha": "0bf25d09763a78a1bac91b87b4c8c138893fd6bf",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/0bf25d09763a78a1bac91b87b4c8c138893fd6bf",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2017-11-10T18:15:09Z"
+  },
+  "object": {
+    "sha": "f6f262f7637152075900f3fb0b3f553b4f92c10c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/f6f262f7637152075900f3fb0b3f553b4f92c10c"
+  },
+  "tag": "v0.5.31",
+  "message": "Release v0.5.31 contains the following changes:\n* Replace RSA padding functions with OpenSSL equivalents.\n* Changes to avoid an error when EVP_EncryptFinal_ex() calls QAT engine function qat_chained_ciphers_do_cipher() with a NULL input buffer pointer.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

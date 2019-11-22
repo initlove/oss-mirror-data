@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTpkMzlhYjU5MzAwYjZlMTNlZTg3NzRjNDRhNTdkNDViNDFlYjI3YWQ5",
+  "sha": "d39ab59300b6e13ee8774c44a57d45b41eb27ad9",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/d39ab59300b6e13ee8774c44a57d45b41eb27ad9",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-02-01T21:29:16Z"
+  },
+  "object": {
+    "sha": "9a3bb727e60587e759797548167328f429a56e33",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/9a3bb727e60587e759797548167328f429a56e33"
+  },
+  "tag": "5.4.0",
+  "message": "Version 5.4.0\n\n### Bug fixes\n\nDisallow duplicate or escaped flags on regular expressions.\n\nDisallow octal escapes in strings in strict mode.\n\n### New features\n\nAdd support for async iteration.\n\nAdd support for object spread and rest.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlpzhsMACgkQcD8b7W0z\nrh4JXwgAp3eo5JVev30buQFfBMdKsM4qi8ZJfyRRQZh5XOpPqOGdwX4jiwkCH719\nkxGvQkGCg2P7nqjJ75w0ehhfST/3zBd5b+g/oqtaIeo5Nxc3vrswQoc14QvMA8UR\nBqjqMjC7rPgFPL2ft0vQCcVnNQ+3MGZ5NcxqpgucBUvDHFbl+/sNGn2gYUtImf+I\nqzu0TKE4IbPoOMUsvS1qHpSdx5FM2P/8uR4sn29GwPNuX/SYgtffy563n7PP3/S1\nXsNn3wazoyeoU3fxOOaEc/42vaK0s8Wfxgnv2OSXE4pAQmvKdGSRLCZQnSsjMYEs\nO/k7VTkKggXoWtZURnJgJREwnWcO8A==\n=lh6F\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlpzhsMACgkQcD8b7W0z\nrh4JXwgAp3eo5JVev30buQFfBMdKsM4qi8ZJfyRRQZh5XOpPqOGdwX4jiwkCH719\nkxGvQkGCg2P7nqjJ75w0ehhfST/3zBd5b+g/oqtaIeo5Nxc3vrswQoc14QvMA8UR\nBqjqMjC7rPgFPL2ft0vQCcVnNQ+3MGZ5NcxqpgucBUvDHFbl+/sNGn2gYUtImf+I\nqzu0TKE4IbPoOMUsvS1qHpSdx5FM2P/8uR4sn29GwPNuX/SYgtffy563n7PP3/S1\nXsNn3wazoyeoU3fxOOaEc/42vaK0s8Wfxgnv2OSXE4pAQmvKdGSRLCZQnSsjMYEs\nO/k7VTkKggXoWtZURnJgJREwnWcO8A==\n=lh6F\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9a3bb727e60587e759797548167328f429a56e33\ntype commit\ntag 5.4.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1517520556 +0100\n\nVersion 5.4.0\n\n### Bug fixes\n\nDisallow duplicate or escaped flags on regular expressions.\n\nDisallow octal escapes in strings in strict mode.\n\n### New features\n\nAdd support for async iteration.\n\nAdd support for object spread and rest.\n"
+  }
+}

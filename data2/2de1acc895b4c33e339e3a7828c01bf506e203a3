@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODoyZGUxYWNjODk1YjRjMzNlMzM5ZTNhNzgyOGMwMWJmNTA2ZTIwM2Ez",
+  "sha": "2de1acc895b4c33e339e3a7828c01bf506e203a3",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/2de1acc895b4c33e339e3a7828c01bf506e203a3",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2017-03-08T20:18:08Z"
+  },
+  "object": {
+    "sha": "4cf7e88d116d6d1505312070990b0ef65f2a1986",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/4cf7e88d116d6d1505312070990b0ef65f2a1986"
+  },
+  "tag": "v1.5.10",
+  "message": "Release of 1.5.10\n\n- 4cf7e88d116d6d1505312070990b0ef65f2a1986: Merge pull request #1489 from LuboVarga/master\n- 8b2de49a16a545561eb4d7343112e72cf74c9aa7: Merge pull request #1481 from dmgcodevil/iss-1458\n- de12cf27ef66e8b94caefd5fd24d1fe301728d5c: Merge pull request #1482 from dmgcodevil/iss1446\n- 998c4a422dabb199e1900cc3cbf8f9583fad2145: Merge pull request #1488 from bltb/spelling\n- 12143faa9eb833bdd475924a933ebfd764d5258d: Added exporting of rollingMaxConcurrentExecutionCount value.\n- aae245bf3022b07d60db144197f3cadf2cbe9907: Minor spelling fixes.\n- 943c10d661e9793c2f980c74962ab55348b212c9: iss1446: added information about the declaring class of the method\n- e9997e055d72ca3da0e79a1f367f2d71ec775061: Update README.md\n- 525653712cf4d99a4804b0d02f4e9d1553f57df2: Update README.md\n- dd91778b24d0d6076c5ac3cd71be9ff50471fadf: iss1446: initial implementation\n- cb2767fe02a1cedf5296d6e45a72b596c5e21b39: iss1458: added sanity checker for the method that detects point cut type by method annotations\n- c674545b76029afe3b069ff9b9c42b0a00490613: Merge pull request #1475 from LuboVarga/master\n- 0db9367d0b12b11a9cf534ced171a9dd835a088d: Just added example usage\n- 7fdda15fa7d1e00bc3bb1e90dcc849dcee52dad4: Merge pull request #1469 from petercla/master\n- c17d4875b0d79f6a6227f6b41952cb18687ca791: Update README.md\n- 519e7c825e322e67521afc856bfbef93a6f5353f: Remove possible NPE\n- fb428cb165ecd7df9df6fea97d265865d0c16b4d: Merge pull request #1453 from tbvh/hyst-1283-test\n- 80af3fc7104995510ce618b495ed92336fdb3e41: Add Javanica test for NotWrapped checked exception\n- deb628dba548c1be431a78c8c5588e27b1ba576a: Add v1.5.9 to CHANGELOG\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

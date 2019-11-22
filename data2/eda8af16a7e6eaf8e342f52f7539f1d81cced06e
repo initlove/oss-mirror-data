@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OmVkYThhZjE2YTdlNmVhZjhlMzQyZjUyZjc1MzlmMWQ4MWNjZWQwNmU=",
+  "sha": "eda8af16a7e6eaf8e342f52f7539f1d81cced06e",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/eda8af16a7e6eaf8e342f52f7539f1d81cced06e",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "sm2@schillmania.com",
+    "date": "2010-05-24T06:04:13Z"
+  },
+  "object": {
+    "sha": "f38d9d6d8df848fede98f5a12bdd543bdf56d6cd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/f38d9d6d8df848fede98f5a12bdd543bdf56d6cd"
+  },
+  "tag": "V2.96a.20100520",
+  "message": "SoundManager V2.96a.20100520: Experimental HTML5 support, lots of code shuffling\nand performance tweaks.\n\n      API Updates\n\n          o New soundManager.useHTML5Audio (disabled by default except for iPad,\n          Palm Pre) - adds experimental HTML5 Audio support, with Flash fallback\n          for MP3/MP4 formats as needed.\n          o Sound looping now works in Flash! eg. mySound.play({loops:3}); - for\n          an example + discussion of how to get near-seamless looping, see\n          Seamless Looping MP3s in Flash (demo video) on Flickr.\n\n      Bug fixes\n\n          o beginDelayedInit() is always used in lazy loading case (eg. via\n          dynamic script tag/XHR etc.,) as some cases where SM2 won't auto-start\n          eg. document.readyState empty for Firefox 3.5.5 (seen on Win32) with\n          an HTML5 DOCTYPE.\n          o SWF is now 8x8 pixels by default, vs. 6x6 pixels (odd fix for HTML5\n          Doctype on Firefox 3.6/win32)\n          o Fixed dumb IE undefined ID bug\n\n      Miscellaneous\n\n          o soundmanager2.swf and soundmanager2_flash9.swf are now \"non-debug\"\n          versions; with debugMode enabled, soundmanager2_debug.swf and\n          soundmanager2_flash9_debug.swf are loaded instead.\n          o New build script for JS + SWFs, see file size table. JS compression\n          now done via Google Closure compiler; new soundmanager-jsmin.js build,\n          debug-enabled but compressed, in addition to build-script-optimized,\n          no-debug, compressed JS (~9 KB with gzip vs. ~90 KB for raw,\n          commented, debug-enabled version.)\n          o Null check fix for unavailable eq/waveform data\n          o Experimental video (flash 9-only) change: Use stage width/height\n          instead of 0/0 when lacking metadata\n          o Page player whileloading() calls now being throttled\n          o Better page player click handling for IE 7\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

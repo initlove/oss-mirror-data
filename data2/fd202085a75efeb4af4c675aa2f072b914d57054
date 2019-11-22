@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OmZkMjAyMDg1YTc1ZWZlYjRhZjRjNjc1YWEyZjA3MmI5MTRkNTcwNTQ=",
+  "sha": "fd202085a75efeb4af4c675aa2f072b914d57054",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/fd202085a75efeb4af4c675aa2f072b914d57054",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "spam@schillmania.com",
+    "date": "2013-12-01T16:47:58Z"
+  },
+  "object": {
+    "sha": "815f62e12c2e73dae177dd7c700b7fe4f85080eb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/815f62e12c2e73dae177dd7c700b7fe4f85080eb"
+  },
+  "tag": "V2.97a.20131201",
+  "message": "V2.97a.20131201 - 100% HTML5 mode by default. Duration fix for Adobe FMS/RTMP server-based streaming. HTML5 unload, multiShot and autoPlay tweaks.\n\n*Bug fixes*\n\nAdobe FMS (RTMP Server) fix: Invoke server-side getStreamLength() call to determine duration. (Red5 and other free RTMP servers use NetStream onMetaData() to pass duration.)\n\nFix html5Unload() by loading a tiny base64-encoded data: URI WAVe file where supported. Elsewhere, use about:blank. This fixes errors in Chrome where the browser attempts to load the url \"null\" (a string.)\n\nD'oh! Fix HTML5 sprite regression where _oncanplay() was not being picked up & fired, sound would not play on first click.\n\nHTML5: Fix double-play bug with autoPlay: true. Correct edge case where onposition() items would sometimes be cleared if called/assigned before play().\n\nontimeout: function(status) {} callback parameter corrections. Fix missing error { type: 'INIT_TIMEOUT' } for missing/404 SWF case, and INIT_FLASHBLOCK for flashblock-specific case.\n\nHTML5: Apply volume to cloned sounds in HTML5 multiShot case.\n\nFixed issue in _processOnPosition where the item in onPositionItems[i] can be undefined mid-loop if the callback that is triggered changes the length of the onPositionItems array, where onPositionItems.length becomes zero and there's an uncaught TypeError when trying to access item.fired the next time around.\n\nFixed mute in HTML5.\n\nFix onload in Firefox 3.6 with no flash (and yes, Firefox 25 is the current release. :D)\n\nCorrect event removal (cloned HTML5 nodes) - onended → ended\n\n*API Updates*\n\nUse 100% HTML5 mode by default, where available. preferFlash: false is now the default setting. Firefox does MP3 on Vista (and newer) via HTML5, and recently (via Firefox Aurora builds) on OS X - the last major hold-out. The vast majority of browsers now support MP3 via HTML5, thus reducing the reliance on Flash.\n\nReboot into 100% HTML5 mode where supported if flash fails after loading, i.e., local/offline/file:// or other edge case.\n\n*Miscellaneous*\n\nFixed canPlayMIME() documentation example.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZTM5YjA0MGFhMzE0YzM2ZjkxNTc4ZDZlN2ZkNDQxM2VlOWI0MzJhYQ==",
+  "sha": "e39b040aa314c36f91578d6e7fd4413ee9b432aa",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/e39b040aa314c36f91578d6e7fd4413ee9b432aa",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-11-26T17:12:33Z"
+  },
+  "object": {
+    "sha": "fdf91afb494a7a2fff2913d817f589c191a2c88f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/fdf91afb494a7a2fff2913d817f589c191a2c88f"
+  },
+  "tag": "v0.8.15",
+  "message": "2012.11.26, Version 0.8.15 (Stable)\n\n* npm: Upgrade to 1.1.66 (isaacs)\n\n* linux: use /proc/cpuinfo for CPU frequency (Ben Noordhuis)\n\n* windows: map WSAESHUTDOWN to UV_EPIPE (Ben Noordhuis)\n\n* windows: map ERROR_GEN_FAILURE to UV_EIO (Bert Belder)\n\n* unix: do not set environ unless one is provided (Charlie McConnell)\n\n* domains: don't crash if domain is set to null (Bert Belder)\n\n* windows: fix the x64 debug build (Bert Belder)\n\n* net, tls: fix connect() resource leak (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQs6MBAAoJELCniwpsSBz2CFkH/1lYLRuGADG8o1oA+7i3fMk3\nv/+vPx8ehdjptBUKNeBpIObwyjqWtxACZ090ljgdW4hSHeo6gs7CGj/WvE4HChIP\nEppHP6N9Tx4llWNczB63UpI2mei93XdVI2azaKZyWW6UiveRMSzPMs5+o4rKg2Hd\nkZ0DJVlrnWdgF/dCW6KFIQP9/Ut7lRbgtAQ/VAb00tUHMvOGR0J6TqBpp1F+p3mo\nKAlCGv8nUqblRbCZO5W/C5ku5QkabVx517zdoq1QKMLW9fTki8RjNwyq3y9yXpNm\n6enTLonNZsAHsyQhz6W1cj2wAZuEPLmFN9d0LnSt3bFjlpHwk9ETo0kluS6pPro=\n=ljBv\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQs6MBAAoJELCniwpsSBz2CFkH/1lYLRuGADG8o1oA+7i3fMk3\nv/+vPx8ehdjptBUKNeBpIObwyjqWtxACZ090ljgdW4hSHeo6gs7CGj/WvE4HChIP\nEppHP6N9Tx4llWNczB63UpI2mei93XdVI2azaKZyWW6UiveRMSzPMs5+o4rKg2Hd\nkZ0DJVlrnWdgF/dCW6KFIQP9/Ut7lRbgtAQ/VAb00tUHMvOGR0J6TqBpp1F+p3mo\nKAlCGv8nUqblRbCZO5W/C5ku5QkabVx517zdoq1QKMLW9fTki8RjNwyq3y9yXpNm\n6enTLonNZsAHsyQhz6W1cj2wAZuEPLmFN9d0LnSt3bFjlpHwk9ETo0kluS6pPro=\n=ljBv\n-----END PGP SIGNATURE-----\n",
+    "payload": "object fdf91afb494a7a2fff2913d817f589c191a2c88f\ntype commit\ntag v0.8.15\ntagger isaacs <i@izs.me> 1353949953 -0800\n\n2012.11.26, Version 0.8.15 (Stable)\n\n* npm: Upgrade to 1.1.66 (isaacs)\n\n* linux: use /proc/cpuinfo for CPU frequency (Ben Noordhuis)\n\n* windows: map WSAESHUTDOWN to UV_EPIPE (Ben Noordhuis)\n\n* windows: map ERROR_GEN_FAILURE to UV_EIO (Bert Belder)\n\n* unix: do not set environ unless one is provided (Charlie McConnell)\n\n* domains: don't crash if domain is set to null (Bert Belder)\n\n* windows: fix the x64 debug build (Bert Belder)\n\n* net, tls: fix connect() resource leak (Ben Noordhuis)\n"
+  }
+}

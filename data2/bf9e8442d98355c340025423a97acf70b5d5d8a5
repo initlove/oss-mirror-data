@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YmY5ZTg0NDJkOTgzNTVjMzQwMDI1NDIzYTk3YWNmNzBiNWQ1ZDhhNQ==",
+  "sha": "bf9e8442d98355c340025423a97acf70b5d5d8a5",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/bf9e8442d98355c340025423a97acf70b5d5d8a5",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-08-07T00:07:00Z"
+  },
+  "object": {
+    "sha": "6f92da2dd106b0c63fde563284f83e08e2a521b5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/6f92da2dd106b0c63fde563284f83e08e2a521b5"
+  },
+  "tag": "v0.11.5",
+  "message": "2013.08.06, Version 0.11.5 (Unstable)\n\n* v8: upgrade to 3.20.11\n\n* uv: upgrade to v0.11.7\n\n* buffer: return offset for end of last write (Trevor Norris)\n\n* build: embed the mdb_v8.so into the binary (Timothy J Fontaine)\n\n* build: fix --without-ssl build (Ben Noordhuis)\n\n* child_process: add 'shell' option to .exec() (Ben Noordhuis)\n\n* dgram: report send errors to cb, don't pass bytes (Ben Noordhuis)\n\n* fs: write strings directly to disk (Trevor Norris)\n\n* https: fix default port (Koichi Kobayashi)\n\n* openssl: use asm for sha, md5, rmd (Fedor Indutny)\n\n* os: add mac address to networkInterfaces() output (Brian White)\n\n* smalloc: introduce smalloc module (Trevor Norris)\n\n* stream: Simplify flowing, passive data listening (streams3) (isaacs)\n\n* tls: asynchronous SNICallback (Fedor Indutny)\n\n* tls: share tls tickets key between cluster workers (Fedor Indutny)\n\n* util: don't throw on circular %j input to format() (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlIBj6QACgkQfTP/nQJGQG0ZOQCg6rvQ/e+CwT8U/VcR1ZzHS1/k\nQ5cAoOuMu+f3iozrW+JlAA5ySLxJxE93\n=m5Pj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlIBj6QACgkQfTP/nQJGQG0ZOQCg6rvQ/e+CwT8U/VcR1ZzHS1/k\nQ5cAoOuMu+f3iozrW+JlAA5ySLxJxE93\n=m5Pj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6f92da2dd106b0c63fde563284f83e08e2a521b5\ntype commit\ntag v0.11.5\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1375834020 -0700\n\n2013.08.06, Version 0.11.5 (Unstable)\n\n* v8: upgrade to 3.20.11\n\n* uv: upgrade to v0.11.7\n\n* buffer: return offset for end of last write (Trevor Norris)\n\n* build: embed the mdb_v8.so into the binary (Timothy J Fontaine)\n\n* build: fix --without-ssl build (Ben Noordhuis)\n\n* child_process: add 'shell' option to .exec() (Ben Noordhuis)\n\n* dgram: report send errors to cb, don't pass bytes (Ben Noordhuis)\n\n* fs: write strings directly to disk (Trevor Norris)\n\n* https: fix default port (Koichi Kobayashi)\n\n* openssl: use asm for sha, md5, rmd (Fedor Indutny)\n\n* os: add mac address to networkInterfaces() output (Brian White)\n\n* smalloc: introduce smalloc module (Trevor Norris)\n\n* stream: Simplify flowing, passive data listening (streams3) (isaacs)\n\n* tls: asynchronous SNICallback (Fedor Indutny)\n\n* tls: share tls tickets key between cluster workers (Fedor Indutny)\n\n* util: don't throw on circular %j input to format() (Ben Noordhuis)\n"
+  }
+}

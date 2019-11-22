@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODc4NTk5MDg6MjU2NWE4MGFiYmJiYzQxN2M5N2M4ZGJlOTU3ZWY3OWExOTRlYTExZA==",
+  "sha": "2565a80abbbbc417c97c8dbe957ef79a194ea11d",
+  "url": "https://api.github.com/repos/micrometer-metrics/micrometer/git/tags/2565a80abbbbc417c97c8dbe957ef79a194ea11d",
+  "tagger": {
+    "name": "Jon Schneider",
+    "email": "jschneider@pivotal.io",
+    "date": "2018-06-12T20:50:52Z"
+  },
+  "object": {
+    "sha": "0aebfd63c6cee9940649bd21aba7794ba36f9f4f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micrometer-metrics/micrometer/git/commits/0aebfd63c6cee9940649bd21aba7794ba36f9f4f"
+  },
+  "tag": "v1.0.5",
+  "message": "Release of 1.0.5\n\n- 0aebfd63c6cee9940649bd21aba7794ba36f9f4f: spring-release 0.20.1\n- 451dec37f31ee44255e4bdf2971b8e52b58e5a8f: Simplify naming convention management in statsd line builders\n- 5f5aaef8c4ce3ad560e5d5841776aea2f32c6faf: License format\n- 7fefb94aefb289669debfa831336ed630699143d: Add tests for Statsd line builders (issue #600)\n- 08386049ca691e1e560487a96eab36bdebfd5772: Cache statsd lines where possible to improve memory performance (fixes #600)\n- c276cdf553bbe358ec465a3f204577de795ffa6a: Sanitize telegraf tag key/values and names (fixes #644)\n- f630f646ac8c2b40bacc536ff4e07491db81acdc: Fix locks\n- 3ec8bf277794f97bc6b1e2150090fe7a6811949c: Fix time unit scale for HistogramSnapshot (fixes #634)\n- 089c9e3e43c900904ed028321f2acd94c23957ee: Make JMX metrics domain configurable in Spring (fixes #642)\n- ef07f35cddbee3a7eb9e63e0eb49f3608908cd62: Don't apply naming convention normalization to influx tag values (fixes #645)\n- 78e375d32ebe664a7f956405b7de906d4adb4812: Avoid uri tag explosion when use of path variable is undetected (fixes #639)\n- 25d5bf25a5349b176c971dfd8fa811f86be0aa08: Use statKeys and statValues in PrometheusMeterRegistry.newMeter()\n- ef0c5e32c3de86de84b698fe1bd14d63fe7a9682: Use Gradle 4.8 dependency locks, update Prometheus to 0.4.0 (fixes #601)\n- 8cdc8800f659ab57b98a7f0f4795699bea202744: Fix wrapper deprecation message\n- d8fd84b25b83885fac38bd03b7c0c44ee628b483: Upgrade to Gradle Wrapper 4.8\n- 0e849db8c0ac077c42d57dff510d13182af9a73b: Pass clock to default graphite reporter\n- 87429f2357b86cb8ce5ce3c264069e5c6315d915: NamingConvention small improvements\n- 35a923c7f55352b9ad2285f4abcddbb49619a448: fix typo\n- 7b2795e375aea96c69bdbdb92f5ec6e18b057de4: Shutdown thread pool while close StepMeterRegistry\n- 0a6988b0228323e800aaa79b7bed2641ccfdcfc1: stops updating metrics when maximumAllowableTags is reached (#603)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

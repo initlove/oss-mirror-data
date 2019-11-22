@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6N2VlZDE4YThjNzJlZjgyMmE0ZDZlYWMyNDY4YTkxMjNkMmZlYmZkMA==",
+  "sha": "7eed18a8c72ef822a4d6eac2468a9123d2febfd0",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/7eed18a8c72ef822a4d6eac2468a9123d2febfd0",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-10-30T15:54:44Z"
+  },
+  "object": {
+    "sha": "f8d86e24f3463c36f7f3f4c3b3ec779e5b6201e1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/f8d86e24f3463c36f7f3f4c3b3ec779e5b6201e1"
+  },
+  "tag": "v0.11.8",
+  "message": "2013.10.30, Version 0.11.8 (Unstable)\n\n* uv: Upgrade to v0.11.14\n\n* v8: upgrade 3.21.18.3\n\n* assert: indicate if exception message is generated (Glen Mailer)\n\n* buffer: add buf.toArrayBuffer() API (Trevor Norris)\n\n* cluster: fix premature 'disconnect' event (Ben Noordhuis)\n\n* crypto: add SPKAC support (Jason Gerfen)\n\n* debugger: count space for line numbers correctly (Alex Kocharin)\n\n* debugger: make busy loops SIGUSR1-interruptible (Ben Noordhuis)\n\n* debugger: repeat last command (Alex Kocharin)\n\n* debugger: show current line, fix for #6150 (Alex Kocharin)\n\n* dgram: send() can accept strings (Trevor Norris)\n\n* dns: rename domain to hostname (Ben Noordhuis)\n\n* dns: set hostname property on error object (Ben Noordhuis)\n\n* dtrace, mdb_v8: support more string, frame types (Dave Pacheco)\n\n* http: add statusMessage (Patrik Stutz)\n\n* http: expose supported methods (Ben Noordhuis)\n\n* http: provide backpressure for pipeline flood (isaacs)\n\n* process: Add exitCode property (isaacs)\n\n* tls: socket.renegotiate(options, callback) (Fedor Indutny)\n\n* util: format as Error if instanceof Error (Rod Vagg)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlJxK8QACgkQfTP/nQJGQG2NfgCgr7jIpvjSDSCW+KXcUzvL9XCe\n7xEAoJpw8RsP++id1urtUNrmy1jixtMd\n=Wubv\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlJxK8QACgkQfTP/nQJGQG2NfgCgr7jIpvjSDSCW+KXcUzvL9XCe\n7xEAoJpw8RsP++id1urtUNrmy1jixtMd\n=Wubv\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f8d86e24f3463c36f7f3f4c3b3ec779e5b6201e1\ntype commit\ntag v0.11.8\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1383148484 -0700\n\n2013.10.30, Version 0.11.8 (Unstable)\n\n* uv: Upgrade to v0.11.14\n\n* v8: upgrade 3.21.18.3\n\n* assert: indicate if exception message is generated (Glen Mailer)\n\n* buffer: add buf.toArrayBuffer() API (Trevor Norris)\n\n* cluster: fix premature 'disconnect' event (Ben Noordhuis)\n\n* crypto: add SPKAC support (Jason Gerfen)\n\n* debugger: count space for line numbers correctly (Alex Kocharin)\n\n* debugger: make busy loops SIGUSR1-interruptible (Ben Noordhuis)\n\n* debugger: repeat last command (Alex Kocharin)\n\n* debugger: show current line, fix for #6150 (Alex Kocharin)\n\n* dgram: send() can accept strings (Trevor Norris)\n\n* dns: rename domain to hostname (Ben Noordhuis)\n\n* dns: set hostname property on error object (Ben Noordhuis)\n\n* dtrace, mdb_v8: support more string, frame types (Dave Pacheco)\n\n* http: add statusMessage (Patrik Stutz)\n\n* http: expose supported methods (Ben Noordhuis)\n\n* http: provide backpressure for pipeline flood (isaacs)\n\n* process: Add exitCode property (isaacs)\n\n* tls: socket.renegotiate(options, callback) (Fedor Indutny)\n\n* util: format as Error if instanceof Error (Rod Vagg)\n"
+  }
+}

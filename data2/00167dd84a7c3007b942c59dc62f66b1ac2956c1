@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6MDAxNjdkZDg0YTdjMzAwN2I5NDJjNTlkYzYyZjY2YjFhYzI5NTZjMQ==",
+  "sha": "00167dd84a7c3007b942c59dc62f66b1ac2956c1",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/00167dd84a7c3007b942c59dc62f66b1ac2956c1",
+  "tagger": {
+    "name": "Yicheng Qin",
+    "email": "qycqycqycqycqyc@gmail.com",
+    "date": "2015-04-07T22:20:44Z"
+  },
+  "object": {
+    "sha": "02697ca725e5c790cc1f9d0918ff22fad84cb4c5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/02697ca725e5c790cc1f9d0918ff22fad84cb4c5"
+  },
+  "tag": "v2.0.9",
+  "message": "- etcd watchers no longer hang under when many watchers watch the same key\n- etcdctl now support import hidden keys from the given snapshot\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVJFhPAAoJEOdQvf2jMxAzwDsQAJ7GxdbrOmt4WJlUFuSPmg/w\nmLX+Dc9nRfCYCFqDLhSMEU5vbp0ATNRz8ufm7iSUIknIig4G1myHVIA/Pc+Aj6th\n7KhQbbDlYfJqDEH/lDBz9qGL1hFnBES+IzdIjdCetWtZcefX+5SPVkOSkDiTEK89\nsuyc1fTTjPBCtQkjqcprdbqENUZhyyLnFg7VPWaVwR4RXg71RrM8dnfXx4ZpuK12\ntcsyLtbtDXZsCOanygxvrf4kJ+3G793+NxYTPFYv7vbBJzQTLVEzsraULHTw0R9s\nJvUJzDPIA9yZcPzXGIwo55lxlWGUzmg0bDspG5LII1NU4KDJNRsE38n4+FR671dJ\nKSi+YuWwfSb+8ZMkhQu0Ev9nUkwpUsiuSHNwxd21GiZqk8iHDV0hHXsfpzt8e+2K\nnOyXW1/Gv5SiItFVkD5NpKhOOLPiEAvO3M52YLj/fBwt3jWbjK4o8t3xk+lEkuxj\nOGhGigQAm4dBznWMmrY02qWFViFFGZnUAU+NTbYpz9DkQpnP2PyYnViuGz3PDgJc\nY1IvbjqGwpZGbI5WM6YiyzDwer3TsYC2jNp8rSV45C3qbu9s3A/b3B44RUuOuSiT\nRM4ZOU0q7TCuESrsbzahb/CWQf+2Y4nLIcm6ObxvDhh8ykQsljG4dtXHmTHdEqcP\nwdFQMV6euLdrReiWbj1d\n=01LF\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVJFhPAAoJEOdQvf2jMxAzwDsQAJ7GxdbrOmt4WJlUFuSPmg/w\nmLX+Dc9nRfCYCFqDLhSMEU5vbp0ATNRz8ufm7iSUIknIig4G1myHVIA/Pc+Aj6th\n7KhQbbDlYfJqDEH/lDBz9qGL1hFnBES+IzdIjdCetWtZcefX+5SPVkOSkDiTEK89\nsuyc1fTTjPBCtQkjqcprdbqENUZhyyLnFg7VPWaVwR4RXg71RrM8dnfXx4ZpuK12\ntcsyLtbtDXZsCOanygxvrf4kJ+3G793+NxYTPFYv7vbBJzQTLVEzsraULHTw0R9s\nJvUJzDPIA9yZcPzXGIwo55lxlWGUzmg0bDspG5LII1NU4KDJNRsE38n4+FR671dJ\nKSi+YuWwfSb+8ZMkhQu0Ev9nUkwpUsiuSHNwxd21GiZqk8iHDV0hHXsfpzt8e+2K\nnOyXW1/Gv5SiItFVkD5NpKhOOLPiEAvO3M52YLj/fBwt3jWbjK4o8t3xk+lEkuxj\nOGhGigQAm4dBznWMmrY02qWFViFFGZnUAU+NTbYpz9DkQpnP2PyYnViuGz3PDgJc\nY1IvbjqGwpZGbI5WM6YiyzDwer3TsYC2jNp8rSV45C3qbu9s3A/b3B44RUuOuSiT\nRM4ZOU0q7TCuESrsbzahb/CWQf+2Y4nLIcm6ObxvDhh8ykQsljG4dtXHmTHdEqcP\nwdFQMV6euLdrReiWbj1d\n=01LF\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 02697ca725e5c790cc1f9d0918ff22fad84cb4c5\ntype commit\ntag v2.0.9\ntagger Yicheng Qin <qycqycqycqycqyc@gmail.com> 1428445244 -0700\n\n- etcd watchers no longer hang under when many watchers watch the same key\n- etcdctl now support import hidden keys from the given snapshot\n"
+  }
+}

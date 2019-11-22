@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ODM3ZWY4ZmFkNDQwZDU4YjgzYjU3YjYzYzk0ZjFlNjVlZDFlYmJjYg==",
+  "sha": "837ef8fad440d58b83b57b63c94f1e65ed1ebbcb",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/837ef8fad440d58b83b57b63c94f1e65ed1ebbcb",
+  "tagger": {
+    "name": "Ryan",
+    "email": "ry@tinyclouds.org",
+    "date": "2009-05-31T12:25:17Z"
+  },
+  "object": {
+    "sha": "4fbe15f065dfcc8de997e5ed32632e5d23ed3e64",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/4fbe15f065dfcc8de997e5ed32632e5d23ed3e64"
+  },
+  "tag": "v0.0.2",
+  "message": " * Bug: Remove unnecessary AdjustAmountOfExternalAllocatedMemory from\n   node.http.\n\n * Bug: Fix Linux ::exit() compile issue.\n\n * Optimization: Remove complex string appending in http's send() method.\n\n * Improve website.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODo2MjNjMTFmYzgyN2I1ODM1MmM3NjIwZGZlYjZjNTk5NmQ5OTljZTQ4",
+  "sha": "623c11fc827b58352c7620dfeb6c5996d999ce48",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/623c11fc827b58352c7620dfeb6c5996d999ce48",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-03-03T21:54:49Z"
+  },
+  "object": {
+    "sha": "19dd71ea6bbaac642462ae50df5ed69008bfb846",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/19dd71ea6bbaac642462ae50df5ed69008bfb846"
+  },
+  "tag": "v1.5.1",
+  "message": "Release of 1.5.1\n\n- 19dd71ea6bbaac642462ae50df5ed69008bfb846: Merge pull request #1118 from mattrjacobs/revert-user-thread-latency-removal\n- a8c3276449efb44fcfa7d7deced8e9ba2a5107e4: Revert \"Deprecate methods to retrieve userThreadLatency, and remove it from standard metrics being published\"\n- 62c39e17aca43fcace3aee3513d6afa772137d7c: Merge pull request #1116 from exys666/fix-underscore-url\n- 1dcd0fddba399bb203ab9a8564a2385917e36df7: Merge pull request #1115 from nyango/nyango-patch-1\n- d4ce53cb59c223f0e802aefc6698272a056fcf3e: Fix underscore.js url\n- 17632fe0676bc392e5e9ba4f9cd4ed7f172d97db: Rename LICENSE in order to be referred to README\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

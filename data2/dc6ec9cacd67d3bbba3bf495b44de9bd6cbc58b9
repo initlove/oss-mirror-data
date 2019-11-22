@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTpkYzZlYzljYWNkNjdkM2JiYmEzYmY0OTViNDRkZTliZDZjYmM1OGI5",
+  "sha": "dc6ec9cacd67d3bbba3bf495b44de9bd6cbc58b9",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/dc6ec9cacd67d3bbba3bf495b44de9bd6cbc58b9",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-03-08T09:20:58Z"
+  },
+  "object": {
+    "sha": "701f36a598ce30dae104cd517f99340c3dceda89",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/701f36a598ce30dae104cd517f99340c3dceda89"
+  },
+  "tag": "5.5.2",
+  "message": "Version 5.5.2\n\n### Bug fixes\n\nA republish of the code in 5.5.1 in an attempt to solve an issue with the file timestamps in the npm package being 0.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlqhAIgACgkQcD8b7W0z\nrh45fwf9FO1dQibtGSLh4AuOX/rIrtSTktm20+DVe9iRSBSQDBoJU0hLefgvuyEn\nu+lKK3TVpjrPvAA+/rC/F6wn8HU65L6fD02OAeGsn/Dfe/W+kSipAkW4iiZRCd3H\nN8a6xnRvVUWUuxHvP6ST75ryKDyBEgA3cPe3egh95v0nuq3d2SsOaQKymuUcWjE9\nj0R00GFltKx2+2LZ80KXmlFJzrOPhZ3PlzzseXm6pxuLz5sj3UI5Y30FpXKrsD6A\nS3ABLUQopPFXBk2OjdpFme8QbnAXaD49Jrb8wrO4JfWP4UPc+HOtK9K2cMDOEOu9\nx2GBAVKyooJvmpTFhrITLVMi2sko2Q==\n=LBpi\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlqhAIgACgkQcD8b7W0z\nrh45fwf9FO1dQibtGSLh4AuOX/rIrtSTktm20+DVe9iRSBSQDBoJU0hLefgvuyEn\nu+lKK3TVpjrPvAA+/rC/F6wn8HU65L6fD02OAeGsn/Dfe/W+kSipAkW4iiZRCd3H\nN8a6xnRvVUWUuxHvP6ST75ryKDyBEgA3cPe3egh95v0nuq3d2SsOaQKymuUcWjE9\nj0R00GFltKx2+2LZ80KXmlFJzrOPhZ3PlzzseXm6pxuLz5sj3UI5Y30FpXKrsD6A\nS3ABLUQopPFXBk2OjdpFme8QbnAXaD49Jrb8wrO4JfWP4UPc+HOtK9K2cMDOEOu9\nx2GBAVKyooJvmpTFhrITLVMi2sko2Q==\n=LBpi\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 701f36a598ce30dae104cd517f99340c3dceda89\ntype commit\ntag 5.5.2\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1520500858 +0100\n\nVersion 5.5.2\n\n### Bug fixes\n\nA republish of the code in 5.5.1 in an attempt to solve an issue with the file timestamps in the npm package being 0.\n"
+  }
+}

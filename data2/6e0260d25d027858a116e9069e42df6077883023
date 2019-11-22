@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6NmUwMjYwZDI1ZDAyNzg1OGExMTZlOTA2OWU0MmRmNjA3Nzg4MzAyMw==",
+  "sha": "6e0260d25d027858a116e9069e42df6077883023",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/6e0260d25d027858a116e9069e42df6077883023",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2019-02-08T14:44:22Z"
+  },
+  "object": {
+    "sha": "336939ce6dce14b17d27ec296d4962d302b9018a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/336939ce6dce14b17d27ec296d4962d302b9018a"
+  },
+  "tag": "v0.5.40",
+  "message": "Release v0.5.40 contains the following changes:\n* Changes to fix issue with input string in SET_CRYPTO_SMALL_PACKET_OFFLOAD_THRESHOLD\n* Implement additional QAT engine API input checking\n* Changes in README.md to update driver validation details\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

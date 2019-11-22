@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTpjN2Y5YWQ2M2UzMTI0MTMwN2Q5ZjFiMmFjYjYzN2FiYzM2OGNmYTcy",
+  "sha": "c7f9ad63e31241307d9f1b2acb637abc368cfa72",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/c7f9ad63e31241307d9f1b2acb637abc368cfa72",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-02-02T09:18:28Z"
+  },
+  "object": {
+    "sha": "662efffd69ab380ed0a692cc390cbc2987d41e14",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/662efffd69ab380ed0a692cc390cbc2987d41e14"
+  },
+  "tag": "5.4.1",
+  "message": "Version 5.4.1\n\n### Bug fixes\n\n5.4.0 somehow accidentally included an old version of walk.js.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlp0LPIACgkQcD8b7W0z\nrh5uCQgAwzpDURQNWw0Q3KWRs+r5PHDkkJUFj8niew/Sun+wDbeuvmmf60Dbn3XM\nNIuHjLiBQsQlJXQh1v0q8HysmJAo2yUgmB9Aa6q5ziU513KrjWWMelb3mYvWBEcF\nO1u78P7/YkzpBumj32fAnMVSMo7wVTjqVPGZJgKIUehD26iIypSIjccJuV4UC1iz\nMgeBuLe1XBFM+MwEsfM7SFzNHlokdtbNFE+8YY4aAds/nfnLLHdJDpfQCNmxnClb\nB15l+U7/boce0lnOJe/Xc/jcZZbU4jNPBfgE7carIDa9RMgiZK1OOVMmhzU4C8mx\n3fwss2e2RETXUHru6nkm4CBMQ8kAsA==\n=gfl4\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlp0LPIACgkQcD8b7W0z\nrh5uCQgAwzpDURQNWw0Q3KWRs+r5PHDkkJUFj8niew/Sun+wDbeuvmmf60Dbn3XM\nNIuHjLiBQsQlJXQh1v0q8HysmJAo2yUgmB9Aa6q5ziU513KrjWWMelb3mYvWBEcF\nO1u78P7/YkzpBumj32fAnMVSMo7wVTjqVPGZJgKIUehD26iIypSIjccJuV4UC1iz\nMgeBuLe1XBFM+MwEsfM7SFzNHlokdtbNFE+8YY4aAds/nfnLLHdJDpfQCNmxnClb\nB15l+U7/boce0lnOJe/Xc/jcZZbU4jNPBfgE7carIDa9RMgiZK1OOVMmhzU4C8mx\n3fwss2e2RETXUHru6nkm4CBMQ8kAsA==\n=gfl4\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 662efffd69ab380ed0a692cc390cbc2987d41e14\ntype commit\ntag 5.4.1\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1517563108 +0100\n\nVersion 5.4.1\n\n### Bug fixes\n\n5.4.0 somehow accidentally included an old version of walk.js.\n"
+  }
+}

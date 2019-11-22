@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTg0OTgxOjlkMGQ4YzkzZjQ0NWU5Y2RkOGMyYmRjNmJiMzgyZmQyYjZhZTlkOGY=",
+  "sha": "9d0d8c93f445e9cdd8c2bdc6bb382fd2b6ae9d8f",
+  "url": "https://api.github.com/repos/memcached/memcached/git/tags/9d0d8c93f445e9cdd8c2bdc6bb382fd2b6ae9d8f",
+  "tagger": {
+    "name": "Dustin Sallings",
+    "email": "dustin@spy.net",
+    "date": "2009-03-03T07:57:27Z"
+  },
+  "object": {
+    "sha": "4113278cc7de91080c278b76eb01bad21585c0c7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/memcached/memcached/git/commits/4113278cc7de91080c278b76eb01bad21585c0c7"
+  },
+  "tag": "1.2.4",
+  "message": "Release 1.2.4\n\n* Fix compilation on panther (JS and Dormando)\n\n* More CAS tests (Chris Goffinet)\n\n* Final fixes for all 1.2.4 features are in, -rc2 sent out.\n\n* Patch series from Tomash Brechko <tomash.brechko@gmail.com>:\n  Minor fixes and optimisations.\n\n* Patches from Chris, Dustin, and Dormando to fix CAS.\n\n* Prepping for 1.2.4 release.\n\n* Adjusted patch from js <ebgssth@gmail.com>: Compile on OS X Panther\n  and earlier.\n\n* Patch from Tomash Brechko <tomash.brechko@gmail.com>: Always send\n  \"SERVER_ERROR out of memory\" when memory exhausted.\n\n* Patch from David Bremner <bremner@unb.ca> that implements\n  a new option \"-a\" which takes an octal permission mask\n  (like chmod) sets the permissions on the unix domain socket\n  (specified by \"-s\").\n\n* Incorporate \"cas\" operation developed by Dustin\n  Sallings <dustin@spy.net> This change allows you\n  to do atomic changes to an existing key.\n\n* Fix for stats.evictions not incrementing\n  when exptime == 0 items are kicked off the cache.\n  from Jean-Francois BUSTARRET <jfbustarret@wat.tv>.\n\n* Fix for do_item_cachedump() which was returning\n  an incorrect timestamp.\n\n* Switch to unsigned 64-bit increment/decrement counters\n  from Evan Miller and Dustin Sallings.\n\n* Add append command support written by Filipe Laborde.\n  Thread safe version plus prepend command from Maxim Dounin\n  <mdounin@mdounin.ru>\n\n* The memcached-tool script can now display stats.  Patch\n  provided by Dan Christian <dchristian@google.com>\n\n* Fix for Unix Domain sockets on FreeBSD\n  FreeBSD's sendmsg() requires msg_name in msghdr structure\n  to be NULL if not used, setting msg_namelen to 0 isn't enough.\n  Patch from Maxim Dounin <mdounin@mdounin.ru>\n\n* Incorporate incrememnt patch from Evan Miller\n  <emiller@imvu.com> to define increment overflow\n  behavior.\n\n* Bring the memcached.1 manpage up to date\n\n* Fix crash when using -P and -d flags on x86_64\n  with latest libevent release.\n\n* Item stats commands weren't thread-safe; wrap them with locks\n  when compiled in multithreaded mode.\n\n* The \"stats items\" command now works again; it broke with the\n  introduction of the powers-of-N chunk size change.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOmZmNTgyMGFiOTI3NjkwYTg0NmFhNWY3NWIwNDdmOTA2ZTllYWMyYWU=",
+  "sha": "ff5820ab927690a846aa5f75b047f906e9eac2ae",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/ff5820ab927690a846aa5f75b047f906e9eac2ae",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-04-14T09:21:51Z"
+  },
+  "object": {
+    "sha": "ae637e70a72166067e09f3bbc3acb54e5d92771e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/ae637e70a72166067e09f3bbc3acb54e5d92771e"
+  },
+  "tag": "16.0.0.0b1",
+  "message": "nova 16.0.0.0b1 development milestone\n\nmeta:version: 16.0.0.0b1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I824270307c0abed74eca328e9f074df487c03cd\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY8JSvAAoJEOtsyhSD+nTs4joH/0BN43PNmR/nZPWLhpkleNAx\ngrzzxmXDJRqdI7ERIZzPtM5GJEs+ovr7pUVcfHNPDukDTtDUCV55XeGN4/g/q7W1\n/2RZkm7n07XSAQXyYbqTW9oJqVnMVDshtJ6ZQDsI2FaoG0Xt5DZCHyn6UN/wszoc\nx0OgEHfnYT1atGvE3TmmFqTevoZU9qAhhFtQxXBVN8vIfMXsjLenWx2ihyHB9X2Q\nygI85K+6OT4Y+D0HXrJuJWz246BLU2/zPnthMeONz0cPi7uBUCi2ljGs8Czs0t1f\nr5zCNodEFRyynaZHdTX6ZwMYzr+lo55pL6u56TCWjGwrxXOGfS+cM5nBw8IZ7zE=\n=gvR9\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY8JSvAAoJEOtsyhSD+nTs4joH/0BN43PNmR/nZPWLhpkleNAx\ngrzzxmXDJRqdI7ERIZzPtM5GJEs+ovr7pUVcfHNPDukDTtDUCV55XeGN4/g/q7W1\n/2RZkm7n07XSAQXyYbqTW9oJqVnMVDshtJ6ZQDsI2FaoG0Xt5DZCHyn6UN/wszoc\nx0OgEHfnYT1atGvE3TmmFqTevoZU9qAhhFtQxXBVN8vIfMXsjLenWx2ihyHB9X2Q\nygI85K+6OT4Y+D0HXrJuJWz246BLU2/zPnthMeONz0cPi7uBUCi2ljGs8Czs0t1f\nr5zCNodEFRyynaZHdTX6ZwMYzr+lo55pL6u56TCWjGwrxXOGfS+cM5nBw8IZ7zE=\n=gvR9\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ae637e70a72166067e09f3bbc3acb54e5d92771e\ntype commit\ntag 16.0.0.0b1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1492161711 +0000\n\nnova 16.0.0.0b1 development milestone\n\nmeta:version: 16.0.0.0b1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I824270307c0abed74eca328e9f074df487c03cd\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

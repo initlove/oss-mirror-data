@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ODcyMzBlNmE1MTA0ZjdhYjY2Zjc4OGU2NzdhM2Q4ZWRlY2NiOWM0OA==",
+  "sha": "87230e6a5104f7ab66f788e677a3d8edeccb9c48",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/87230e6a5104f7ab66f788e677a3d8edeccb9c48",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-06-21T20:56:14Z"
+  },
+  "object": {
+    "sha": "a620b7298f68f68a855306437a3b60b650d61d78",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/a620b7298f68f68a855306437a3b60b650d61d78"
+  },
+  "tag": "v0.1.99",
+  "message": "2010.06.21, Version 0.1.99\n\n* Datagram sockets (Paul Querna)\n\n* fs.writeFile could not handle utf8 (Felix Geisendörfer)\n  and now accepts Buffers (Aaron Heckmann)\n\n* Fix crypto memory leaks.\n\n* A replacement for decodeURIComponent that doesn't throw.\n  (Isaac Schlueter)\n\n* Only concatenate some incoming HTTP headers. (Peter Griess)\n\n* Upgrade V8 to 2.2.18\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

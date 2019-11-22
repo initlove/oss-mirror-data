@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzgyMTA2MTU6N2RhN2E4ZmE1Yjg3YmVmNWY5NWFmZjhiZjQ1YmIxOTIzNGQwNjZlNQ==",
+  "sha": "7da7a8fa5b87bef5f95aff8bf45bb19234d066e5",
+  "url": "https://api.github.com/repos/openstack/aodh/git/tags/7da7a8fa5b87bef5f95aff8bf45bb19234d066e5",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-06-14T13:48:38Z"
+  },
+  "object": {
+    "sha": "149d3ad2193b4d17df801f82a0a6be62dba564db",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/aodh/git/commits/149d3ad2193b4d17df801f82a0a6be62dba564db"
+  },
+  "tag": "6.0.1",
+  "message": "aodh 6.0.1 release\n\nmeta:version: 6.0.1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Julien Danjou <julien@danjou.info>\nmeta:release:Change-Id: I06394e2361eb4bf22cfb2b86a044bb22d5e59732\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbInI2AAoJEMNs3LTfAMaMN60H/3jSg8nFjs+Gcxhj+6OfX+xi\naiz2BH5WoKySGhl5aFwr62+7Anadb1SNrjcW+X0yxj1LjrYtAoLHU+tkQbI9DIWh\nVcCKTRZu/g4pOxxip3G0YyUrxalSIkrFPIYrVzD/kbECJQ17EZC0iKbKmkUOG8En\nu42U4IJrbC4gnD8O+tWE2m2MA28dgVi5yP4oOMctDeZqgEAk5iHDxFnBUNOgoiPy\nvKJ6XFPdn6Ud2IWZRxJ9J+sDLbLIToueJVAhwskmAlC9lAiZCKCYu4lQ4xFrRaiq\n6SqF7hoOcdJW0ErhWnyFV/7zymW8bbG5W54HqpkdKyk0VgTLUMjG2iYDkIIpqN4=\n=DIxN\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbInI2AAoJEMNs3LTfAMaMN60H/3jSg8nFjs+Gcxhj+6OfX+xi\naiz2BH5WoKySGhl5aFwr62+7Anadb1SNrjcW+X0yxj1LjrYtAoLHU+tkQbI9DIWh\nVcCKTRZu/g4pOxxip3G0YyUrxalSIkrFPIYrVzD/kbECJQ17EZC0iKbKmkUOG8En\nu42U4IJrbC4gnD8O+tWE2m2MA28dgVi5yP4oOMctDeZqgEAk5iHDxFnBUNOgoiPy\nvKJ6XFPdn6Ud2IWZRxJ9J+sDLbLIToueJVAhwskmAlC9lAiZCKCYu4lQ4xFrRaiq\n6SqF7hoOcdJW0ErhWnyFV/7zymW8bbG5W54HqpkdKyk0VgTLUMjG2iYDkIIpqN4=\n=DIxN\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 149d3ad2193b4d17df801f82a0a6be62dba564db\ntype commit\ntag 6.0.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1528984118 +0000\n\naodh 6.0.1 release\n\nmeta:version: 6.0.1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Julien Danjou <julien@danjou.info>\nmeta:release:Change-Id: I06394e2361eb4bf22cfb2b86a044bb22d5e59732\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

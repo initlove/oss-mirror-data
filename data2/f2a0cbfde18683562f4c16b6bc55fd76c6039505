@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZjJhMGNiZmRlMTg2ODM1NjJmNGMxNmI2YmM1NWZkNzZjNjAzOTUwNQ==",
+  "sha": "f2a0cbfde18683562f4c16b6bc55fd76c6039505",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/f2a0cbfde18683562f4c16b6bc55fd76c6039505",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-01-18T19:34:28Z"
+  },
+  "object": {
+    "sha": "9e7bebeb8305edd55735a95955a98fdbe47572e5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/9e7bebeb8305edd55735a95955a98fdbe47572e5"
+  },
+  "tag": "v0.9.7",
+  "message": "2013.01.18, Version 0.9.7 (Unstable)\n\n* V8: Upgrade to 3.15.11.7\n\n* npm: Upgrade to 1.2.2\n\n* punycode: Upgrade to 1.2.0 (Mathias Bynens)\n\n* repl: make built-in modules available by default (Felix Böhm)\n\n* windows: add support for '_Total' perf counters (Scott Blomquist)\n\n* cluster: make --prof work for workers (Ben Noordhuis)\n\n* child_process: do not keep list of sent sockets (Fedor Indutny)\n\n* tls: Follow RFC6125 more strictly (Fedor Indutny)\n\n* buffer: floating point read/write improvements (Trevor Norris)\n\n* TypedArrays: Improve dataview perf without endian param (Dean McNamee)\n\n* module: assert require() called with a non-empty string (Felix Böhm, James Campos)\n\n* stdio: Set readable/writable flags properly (isaacs)\n\n* stream: Properly handle large reads from push-streams (isaacs)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQ+aPEAAoJELCniwpsSBz2XVQH/ijSu80L2neUbKttk+2FJga7\nDwSgLmiqCGQwlfc8hDjD4NtirXRKjPeU0q5lL3xNJ0SYUaSuBPgaEkkfQLGo/3xH\nc6NgqxoLcMNfH7t1iFxczsQYU7hc91a/+VJqkfIDK1qZ2JlvjxURO1lgRLA/WPZ9\nBEGI8HVS0xiqaNGVZJhXag5luRo81MtBMzcv/TnHqgFcXnhqvsBrfvYjO0z+Gekd\nX1MufOc0cbUjAlWq6V/9VFeSir5AYb2W5VS4jUscCiZaFrCNf/kKUFpkODu7Etw1\nC36pQEYgCV9wItf9cHndLirhdOgJ9hl08NWq4nYkCnl+1qAtRj7ATggKSOojMuk=\n=dIu8\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQ+aPEAAoJELCniwpsSBz2XVQH/ijSu80L2neUbKttk+2FJga7\nDwSgLmiqCGQwlfc8hDjD4NtirXRKjPeU0q5lL3xNJ0SYUaSuBPgaEkkfQLGo/3xH\nc6NgqxoLcMNfH7t1iFxczsQYU7hc91a/+VJqkfIDK1qZ2JlvjxURO1lgRLA/WPZ9\nBEGI8HVS0xiqaNGVZJhXag5luRo81MtBMzcv/TnHqgFcXnhqvsBrfvYjO0z+Gekd\nX1MufOc0cbUjAlWq6V/9VFeSir5AYb2W5VS4jUscCiZaFrCNf/kKUFpkODu7Etw1\nC36pQEYgCV9wItf9cHndLirhdOgJ9hl08NWq4nYkCnl+1qAtRj7ATggKSOojMuk=\n=dIu8\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9e7bebeb8305edd55735a95955a98fdbe47572e5\ntype commit\ntag v0.9.7\ntagger isaacs <i@izs.me> 1358537668 -0800\n\n2013.01.18, Version 0.9.7 (Unstable)\n\n* V8: Upgrade to 3.15.11.7\n\n* npm: Upgrade to 1.2.2\n\n* punycode: Upgrade to 1.2.0 (Mathias Bynens)\n\n* repl: make built-in modules available by default (Felix Böhm)\n\n* windows: add support for '_Total' perf counters (Scott Blomquist)\n\n* cluster: make --prof work for workers (Ben Noordhuis)\n\n* child_process: do not keep list of sent sockets (Fedor Indutny)\n\n* tls: Follow RFC6125 more strictly (Fedor Indutny)\n\n* buffer: floating point read/write improvements (Trevor Norris)\n\n* TypedArrays: Improve dataview perf without endian param (Dean McNamee)\n\n* module: assert require() called with a non-empty string (Felix Böhm, James Campos)\n\n* stdio: Set readable/writable flags properly (isaacs)\n\n* stream: Properly handle large reads from push-streams (isaacs)\n"
+  }
+}

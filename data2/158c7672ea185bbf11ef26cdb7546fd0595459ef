@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODU1ODIwOjE1OGM3NjcyZWExODViYmYxMWVmMjZjZGI3NTQ2ZmQwNTk1NDU5ZWY=",
+  "sha": "158c7672ea185bbf11ef26cdb7546fd0595459ef",
+  "url": "https://api.github.com/repos/mrjimenez/pupnp/git/tags/158c7672ea185bbf11ef26cdb7546fd0595459ef",
+  "tagger": {
+    "name": "Marcelo Roberto Jimenez",
+    "email": "mroberto@cpti.cetuc.puc-rio.br",
+    "date": "2008-02-03T02:25:36Z"
+  },
+  "object": {
+    "sha": "671c42c392fff9dd7a4609584dfe0efbc833621f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mrjimenez/pupnp/git/commits/671c42c392fff9dd7a4609584dfe0efbc833621f"
+  },
+  "tag": "release-1.6.4",
+  "message": "Fixes unmerged changes from trunk@307 to tags/release-1.6.4. This has happened due to improper handling of ISO-8859-1/UTF-8 by some software in the middle of the process. My fault.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

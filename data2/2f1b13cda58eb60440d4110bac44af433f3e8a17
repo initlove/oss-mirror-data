@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzc3NTY3NjQ6MmYxYjEzY2RhNThlYjYwNDQwZDQxMTBiYWM0NGFmNDMzZjNlOGExNw==",
+  "sha": "2f1b13cda58eb60440d4110bac44af433f3e8a17",
+  "url": "https://api.github.com/repos/matplotlib/cycler/git/tags/2f1b13cda58eb60440d4110bac44af433f3e8a17",
+  "tagger": {
+    "name": "Thomas A Caswell",
+    "email": "tcaswell@gmail.com",
+    "date": "2016-02-16T04:57:06Z"
+  },
+  "object": {
+    "sha": "e18a779489a03df408eb4da98d8e4826ead664b0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/matplotlib/cycler/git/commits/e18a779489a03df408eb4da98d8e4826ead664b0"
+  },
+  "tag": "v0.10.0",
+  "message": "REL: v0.10.0\n\nFeature release for `cycler`.  This release includes a number of new\nfeatures:\n\n - `Cycler` objecst learned to generate an `itertools.cycle` by calling\n   them, a-la a generator.\n - `Cycler` objects learned to change the name of a  key via the\n   new `.change_key(old_key, new_key)` method.\n - `Cycler` objects learned how to compare each other and determine if\n   they are equal or not (`==`).\n - `Cycler` objects learned how to join another `Cycler` to be\n   concatenated into a singel longer `Cycler` via `concat` method of function.\n   `A.concat(B)` or `concat(A, B)`.\n - The `cycler` factory function learned to construct a complex `Cycler`\n   from iterables provided as keyword arguments.\n - `Cycler` objects learn do show their insides with the `by_key` method\n   which returns a dictionary of lists (instead of an iterable of dictionaries).\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJWwqxBAAoJEFf6RUDdTvz3e1cIAJSJ3cKHjAX3zNfR2/SKHJ3Z\nqPHAMbm6u2Vt+WZclYnljZ29/A5Lt/OvzDHbSfG+Y889TuRnk9bO6knBfgUom6Wc\nglVlYj8jtBhnCDdsyi1wF+wSTqP9N2IrmapC8ybHOoXEZjAMkTY7TD3R+OhKrtrL\n3vQg9hEotwc/8UAU/+pPQ1wsMZBtwbuR7jrji3k8B1+ar/9ZnkYsgQOJ7E86GD31\nL7p+PGEBNsTvtkFZ31HHo0T0DM1BE/cjH9B58BjO6xjfSJSmNa5q+kNmgoCc2AZC\nwG+QTZsjRl1qBB1i86AqbdfHac29+tqcyIQ/n/dP3Oc8l2j/p2D1eskQQn3mQ/Q=\n=rs1h\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJWwqxBAAoJEFf6RUDdTvz3e1cIAJSJ3cKHjAX3zNfR2/SKHJ3Z\nqPHAMbm6u2Vt+WZclYnljZ29/A5Lt/OvzDHbSfG+Y889TuRnk9bO6knBfgUom6Wc\nglVlYj8jtBhnCDdsyi1wF+wSTqP9N2IrmapC8ybHOoXEZjAMkTY7TD3R+OhKrtrL\n3vQg9hEotwc/8UAU/+pPQ1wsMZBtwbuR7jrji3k8B1+ar/9ZnkYsgQOJ7E86GD31\nL7p+PGEBNsTvtkFZ31HHo0T0DM1BE/cjH9B58BjO6xjfSJSmNa5q+kNmgoCc2AZC\nwG+QTZsjRl1qBB1i86AqbdfHac29+tqcyIQ/n/dP3Oc8l2j/p2D1eskQQn3mQ/Q=\n=rs1h\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e18a779489a03df408eb4da98d8e4826ead664b0\ntype commit\ntag v0.10.0\ntagger Thomas A Caswell <tcaswell@gmail.com> 1455598626 -0500\n\nREL: v0.10.0\n\nFeature release for `cycler`.  This release includes a number of new\nfeatures:\n\n - `Cycler` objecst learned to generate an `itertools.cycle` by calling\n   them, a-la a generator.\n - `Cycler` objects learned to change the name of a  key via the\n   new `.change_key(old_key, new_key)` method.\n - `Cycler` objects learned how to compare each other and determine if\n   they are equal or not (`==`).\n - `Cycler` objects learned how to join another `Cycler` to be\n   concatenated into a singel longer `Cycler` via `concat` method of function.\n   `A.concat(B)` or `concat(A, B)`.\n - The `cycler` factory function learned to construct a complex `Cycler`\n   from iterables provided as keyword arguments.\n - `Cycler` objects learn do show their insides with the `by_key` method\n   which returns a dictionary of lists (instead of an iterable of dictionaries).\n"
+  }
+}

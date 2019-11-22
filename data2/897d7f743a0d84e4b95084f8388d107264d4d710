@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOjg5N2Q3Zjc0M2EwZDg0ZTRiOTUwODRmODM4OGQxMDcyNjRkNGQ3MTA=",
+  "sha": "897d7f743a0d84e4b95084f8388d107264d4d710",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/897d7f743a0d84e4b95084f8388d107264d4d710",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-03-22T10:13:05Z"
+  },
+  "object": {
+    "sha": "c2c91ce44592fc5dc2aacee1cf7f5b5cfd2e9a0a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/c2c91ce44592fc5dc2aacee1cf7f5b5cfd2e9a0a"
+  },
+  "tag": "14.0.5",
+  "message": "nova 14.0.5 release\n\nmeta:version: 14.0.5\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I7c630aa65dd5adc16cab5aeacad015dded752ca7\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+1: Haïkel Guémar <hguemar@fedoraproject.org>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY0k4xAAoJELkGmxM1cAzckzkIALgKAkm6SA5CpCFBQDyMb0vv\n3ZmcdxBiCdoY20n50sLZriQIdvmdsayQ/YBZfMngCWVMillSkcBn4gq6Lh9pvC+N\n2oyxChlfGb5G/hQfee5f4aOcAUTA7+oiN73xPErPSVmxO1rPc5gmS5pKVabkHFrD\nP+5t7Vmbee+mkA6V+6B4dex0szAG136QZ+3nBTQH09PEIYfyrE5DvCKn+C3vZDkA\n122jpdTqoPP9NhCrFLFpNcqUX/YEH6VgyulYMBhejAhk/Qb4DBQhiyh3oQyH6Yl3\n2/wWbKJjHzz8N3iaLGlNyKD/JF5UK0rSZa/ePP5pKy0UfT3NvZPrcERd5gvhNvI=\n=TzTS\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY0k4xAAoJELkGmxM1cAzckzkIALgKAkm6SA5CpCFBQDyMb0vv\n3ZmcdxBiCdoY20n50sLZriQIdvmdsayQ/YBZfMngCWVMillSkcBn4gq6Lh9pvC+N\n2oyxChlfGb5G/hQfee5f4aOcAUTA7+oiN73xPErPSVmxO1rPc5gmS5pKVabkHFrD\nP+5t7Vmbee+mkA6V+6B4dex0szAG136QZ+3nBTQH09PEIYfyrE5DvCKn+C3vZDkA\n122jpdTqoPP9NhCrFLFpNcqUX/YEH6VgyulYMBhejAhk/Qb4DBQhiyh3oQyH6Yl3\n2/wWbKJjHzz8N3iaLGlNyKD/JF5UK0rSZa/ePP5pKy0UfT3NvZPrcERd5gvhNvI=\n=TzTS\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c2c91ce44592fc5dc2aacee1cf7f5b5cfd2e9a0a\ntype commit\ntag 14.0.5\ntagger OpenStack Release Bot <infra-root@openstack.org> 1490177585 +0000\n\nnova 14.0.5 release\n\nmeta:version: 14.0.5\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I7c630aa65dd5adc16cab5aeacad015dded752ca7\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+1: Haïkel Guémar <hguemar@fedoraproject.org>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

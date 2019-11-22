@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZjU1OTdmOGMzNWQwY2MwYjQzNWVkMjM0YmIxMWM2MmM2MThhMDY4Ng==",
+  "sha": "f5597f8c35d0cc0b435ed234bb11c62c618a0686",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/f5597f8c35d0cc0b435ed234bb11c62c618a0686",
+  "tagger": {
+    "name": "Julien Gilli",
+    "email": "julien.gilli@joyent.com",
+    "date": "2015-06-22T16:45:25Z"
+  },
+  "object": {
+    "sha": "615a35ccd2cb5cba80901862aefe51a940995f44",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/615a35ccd2cb5cba80901862aefe51a940995f44"
+  },
+  "tag": "v0.10.39",
+  "message": "2015.06.18, Version 0.10.39 (Maintenance)\n\n* openssl: upgrade to 1.0.1o (Addressing multiple CVEs)\n\n* install: fix source path for openssl headers (Oguz Bastemur)\n\n* install: make sure opensslconf.h is overwritten (Oguz Bastemur)\n\n* timers: fix timeout when added in timer's callback (Julien Gilli)\n\n* windows: broadcast WM_SETTINGCHANGE after install (Mathias Küsel)\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJViDumAAoJEFCjBR+IjGKNk/8QAILMVNfbw1mkcbP3rG3/Y7qy\nrbvbYzEvnX14cOtu+cBvo4FOZxgWdYr9VAGwuM69UNu3otD/CCfrzJ+6xLMA7Moc\nx5tySqSJetvWvTXAZDhtRALQdNTWcA72nPn0b/BhS+qRpm/qJWeK1/vIE5S97ZhE\n8zmMa/Iy+CkEKUbQas0PIkQ7MOXiehGYXgiLuKkkHsaAM1cOIvE5Zu0ABtXIcvk2\nOompcusXoa4k5VRyPXziYebcmXi4ZpnjExGwetS8YMjA9JzyoFB6iQy8332Y7aWF\nKl+6ukPxdyRlU/4f0qrMHRMNaL5mzFaP7xhc6Qil9ve+polB6nCuxKoQER8kUA5O\nikxGJbedjNEju7yZN/Hov1WRmriE7CUBGylLu7yJxecAWzsXqOFUROL1JrGXArqn\nNMEN8dJAU5aw6K5flhXwKV/Cu1Rz+M5Y2ZbnLGistLKsml0oDXyHoFDV/F29qPXU\nzq9iqk9KTD/5lQcQS1JL9+IeX7IfEXFYORy2PnfkjBpIf7VO2WyPsn0YubhY9D4Z\nWDjo3k32YWQNhki5lkITc1p7SGNLD9/3enhzilx3rYaga/bgoG+X1sStsv2dxJUh\nOcB5Dj9/iBRte+xcISVH6VPc8bMordrRMK72xeu1wRqlQRiV2QBJ4ss0tJ0dN3o3\nQg5fRRHLaIQ3Q5o0cdqy\n=1/Ar\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJViDumAAoJEFCjBR+IjGKNk/8QAILMVNfbw1mkcbP3rG3/Y7qy\nrbvbYzEvnX14cOtu+cBvo4FOZxgWdYr9VAGwuM69UNu3otD/CCfrzJ+6xLMA7Moc\nx5tySqSJetvWvTXAZDhtRALQdNTWcA72nPn0b/BhS+qRpm/qJWeK1/vIE5S97ZhE\n8zmMa/Iy+CkEKUbQas0PIkQ7MOXiehGYXgiLuKkkHsaAM1cOIvE5Zu0ABtXIcvk2\nOompcusXoa4k5VRyPXziYebcmXi4ZpnjExGwetS8YMjA9JzyoFB6iQy8332Y7aWF\nKl+6ukPxdyRlU/4f0qrMHRMNaL5mzFaP7xhc6Qil9ve+polB6nCuxKoQER8kUA5O\nikxGJbedjNEju7yZN/Hov1WRmriE7CUBGylLu7yJxecAWzsXqOFUROL1JrGXArqn\nNMEN8dJAU5aw6K5flhXwKV/Cu1Rz+M5Y2ZbnLGistLKsml0oDXyHoFDV/F29qPXU\nzq9iqk9KTD/5lQcQS1JL9+IeX7IfEXFYORy2PnfkjBpIf7VO2WyPsn0YubhY9D4Z\nWDjo3k32YWQNhki5lkITc1p7SGNLD9/3enhzilx3rYaga/bgoG+X1sStsv2dxJUh\nOcB5Dj9/iBRte+xcISVH6VPc8bMordrRMK72xeu1wRqlQRiV2QBJ4ss0tJ0dN3o3\nQg5fRRHLaIQ3Q5o0cdqy\n=1/Ar\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 615a35ccd2cb5cba80901862aefe51a940995f44\ntype commit\ntag v0.10.39\ntagger Julien Gilli <julien.gilli@joyent.com> 1434991525 -0700\n\n2015.06.18, Version 0.10.39 (Maintenance)\n\n* openssl: upgrade to 1.0.1o (Addressing multiple CVEs)\n\n* install: fix source path for openssl headers (Oguz Bastemur)\n\n* install: make sure opensslconf.h is overwritten (Oguz Bastemur)\n\n* timers: fix timeout when added in timer's callback (Julien Gilli)\n\n* windows: broadcast WM_SETTINGCHANGE after install (Mathias Küsel)\n"
+  }
+}

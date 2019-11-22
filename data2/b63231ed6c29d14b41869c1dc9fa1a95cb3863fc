@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTM3ODAwOmI2MzIzMWVkNmMyOWQxNGI0MTg2OWMxZGM5ZmExYTk1Y2IzODYzZmM=",
+  "sha": "b63231ed6c29d14b41869c1dc9fa1a95cb3863fc",
+  "url": "https://api.github.com/repos/dropwizard/metrics/git/tags/b63231ed6c29d14b41869c1dc9fa1a95cb3863fc",
+  "tagger": {
+    "name": "Coda Hale",
+    "email": "coda.hale@gmail.com",
+    "date": "2011-10-08T00:12:47Z"
+  },
+  "object": {
+    "sha": "72ae2fe2e00e6773c418e23366e9728ea4f4f0a0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/dropwizard/metrics/git/commits/72ae2fe2e00e6773c418e23366e9728ea4f4f0a0"
+  },
+  "tag": "v2.0.0-BETA17",
+  "message": "* Added an option message to successful health check results.\n* Fixed locale issues in `GraphiteReporter`.\n* Added `GangliaReporter`.\n* Added per-HTTP method timers to `InstrumentedHandler` in `metrics-jetty`.\n* Fixed a thread pool leak for meters.\n* Added `#dump(File)` to `HistogramMetric` and `TimerMetric`.\n* Upgraded to Jackson 1.9.x.\n* Upgraded to slf4j 1.6.2.\n* Upgraded to logback 0.9.30.\n* Upgraded to ehcache 2.4.5.\n* Surfaced `Metrics.removeMetric()`.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

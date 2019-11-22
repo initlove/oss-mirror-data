@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTo3MWJiMDVkMmNhYjRkMmFjMTNhMTQ0ZWE0OWNlMDcyODNmNjgwMzNh",
+  "sha": "71bb05d2cab4d2ac13a144ea49ce07283f68033a",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/71bb05d2cab4d2ac13a144ea49ce07283f68033a",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-02-06T10:32:08Z"
+  },
+  "object": {
+    "sha": "c3dbe6d1a99a7eebc624a0458ebc3ad9947e0dd3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/c3dbe6d1a99a7eebc624a0458ebc3ad9947e0dd3"
+  },
+  "tag": "4.0.9",
+  "message": "Version 4.0.9\n\n### Bug fixes\n\nFix incorrect error raised for parenthesized simple assignment\ntargets, so that `(x) = 1` parses again.-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAliYULIACgkQcD8b7W0z\nrh4Ktgf/QVWGPCWL1n4QTRgaSYPRoj8OHBPOMUf6SJnLWk94OLIz8eAZHVi1/x2l\nyw6VjgmvxSSHhFIWjucboE3mNpjRIe1ccSKlMTdeb0f3krOBU0PJ6iGr4U7S08i0\n3Ez7hQJv/z/qHb5BwzSq2FtvzkG0hRn+nU06Wu5fofPhhg2t8VmYEOoWzqZzD3g6\nz0jQ1WQa6QT0bl98j1+pUKeP8x4UMo8rtJPbNMMOHGkoOiQfTlYJd7HmUiDKYhvP\nW3vTR4apVucmH7EZyv2UbqJQMS9v0s3jsHOi3QYhuPZ/Q5jP+nwpp35ZI3A0cxrw\n5KfnO5hMaSCeMBlp4Wnhgpvu3HRyfw==\n=m7M0\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

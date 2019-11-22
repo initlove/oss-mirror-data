@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAxNzQyOjUyYmUxMTIyNTdkZmYxNzc5YTNiZDIxZGE0MTg4N2M5YWNhMzY2OWY=",
+  "sha": "52be112257dff1779a3bd21da41887c9aca3669f",
+  "url": "https://api.github.com/repos/tornadoweb/tornado/git/tags/52be112257dff1779a3bd21da41887c9aca3669f",
+  "tagger": {
+    "name": "Ben Darnell",
+    "email": "ben@bendarnell.com",
+    "date": "2018-04-08T00:31:39Z"
+  },
+  "object": {
+    "sha": "4fb847bf7abaddaa97ae60dd90b61246c5a523cd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tornadoweb/tornado/git/commits/4fb847bf7abaddaa97ae60dd90b61246c5a523cd"
+  },
+  "tag": "v5.0.2",
+  "message": "What's new in Tornado 5.0.1\n\nApr 7, 2018\n-----------\n\nBug fixes\n~~~~~~~~~\n\n- Fixed a memory leak when `.IOLoop` objects are created and destroyed.\n- If `.AsyncTestCase.get_new_ioloop` returns a reference to a\n  preexisting event loop (typically when it has been overridden to\n  return `.IOLoop.current()`), the test's ``tearDown`` method will not\n  close this loop.\n- Fixed a confusing error message when the synchronous `.HTTPClient`\n  fails to initialize because an event loop is already running.\n- `.PeriodicCallback` no longer executes twice in a row due to\n  backwards clock adjustments.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzU0NDA0MDQ6YTkzMWM1MzcwMzI2NDQ5NmRmNzI1YTg4YjkwZjdjODhmOGFhOTUyNg==",
+  "sha": "a931c53703264496df725a88b90f7c88f8aa9526",
+  "url": "https://api.github.com/repos/aws/aws-sdk-cpp/git/tags/a931c53703264496df725a88b90f7c88f8aa9526",
+  "tagger": {
+    "name": "Marco Magdy",
+    "email": "magmarco@amazon.com",
+    "date": "2018-02-19T21:48:51Z"
+  },
+  "object": {
+    "sha": "3ca08e584ee9ad2cd8beebebf2482f0d9226fcdc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/aws/aws-sdk-cpp/git/commits/3ca08e584ee9ad2cd8beebebf2482f0d9226fcdc"
+  },
+  "tag": "1.4.0",
+  "message": "S3 and aws-cpp-sdk-config breaking changes\n\n- Avoid overwriting CopbyObjectResult in S3\n- Remove unused enum values in aws-cpp-sdk-config returned by\nGetResourceConfigHistory\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

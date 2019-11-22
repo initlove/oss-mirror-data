@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6M2IxMTBiMzUyNmNjZTdhOTk0YTJjZDc0NGQ2Nzc0YmZjZWZhMmU2Mg==",
+  "sha": "3b110b3526cce7a994a2cd744d6774bfcefa2e62",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/3b110b3526cce7a994a2cd744d6774bfcefa2e62",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-05-30T18:12:44Z"
+  },
+  "object": {
+    "sha": "878ffdbe6a8eac918ef3a7f13925681c3778060b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/878ffdbe6a8eac918ef3a7f13925681c3778060b"
+  },
+  "tag": "v0.10.9",
+  "message": "2013.05.30, Version 0.10.9 (Stable)\n\n* npm: Upgrade to 1.2.24\n\n* uv: Upgrade to v0.10.9\n\n* repl: fix JSON.parse error check (Brian White)\n\n* tls: proper .destroySoon (Fedor Indutny)\n\n* tls: invoke write cb only after opposite read end (Fedor Indutny)\n\n* tls: ignore .shutdown() syscall error (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRp5acAAoJELCniwpsSBz2cNYH/jfZCQRAFR+aumgeGAUEQV0o\n57bOXpZ4Seqlqu4iDSjYwS3UB1QZuYekW9D6wpOboajeO24b+R459gffcw/PovOC\nJXCr0w6xltjx2a7kM3SKG4KMTymlEZiyYqVeS8tpFwg4KgnwhnLz8ev/nS8meej0\nt4O7Zet5Bq45AIeUDr21iSQokKDDq5Waozmcp29Bvytpb8SQ00Jr27LYmhOJJZex\n6OOzXjki2hMYWYb078wmW3lKnDbifEN1MN0SsLR8hU6n7M/KQBzus1Qxj9xgPY5e\n8pg1i1rlqNC7FveEiFdaO9YMlEistI2ccwex1bZPuDzKKY6r2R38FU/yj19lJi4=\n=Tnc7\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRp5acAAoJELCniwpsSBz2cNYH/jfZCQRAFR+aumgeGAUEQV0o\n57bOXpZ4Seqlqu4iDSjYwS3UB1QZuYekW9D6wpOboajeO24b+R459gffcw/PovOC\nJXCr0w6xltjx2a7kM3SKG4KMTymlEZiyYqVeS8tpFwg4KgnwhnLz8ev/nS8meej0\nt4O7Zet5Bq45AIeUDr21iSQokKDDq5Waozmcp29Bvytpb8SQ00Jr27LYmhOJJZex\n6OOzXjki2hMYWYb078wmW3lKnDbifEN1MN0SsLR8hU6n7M/KQBzus1Qxj9xgPY5e\n8pg1i1rlqNC7FveEiFdaO9YMlEistI2ccwex1bZPuDzKKY6r2R38FU/yj19lJi4=\n=Tnc7\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 878ffdbe6a8eac918ef3a7f13925681c3778060b\ntype commit\ntag v0.10.9\ntagger isaacs <i@izs.me> 1369937564 -0700\n\n2013.05.30, Version 0.10.9 (Stable)\n\n* npm: Upgrade to 1.2.24\n\n* uv: Upgrade to v0.10.9\n\n* repl: fix JSON.parse error check (Brian White)\n\n* tls: proper .destroySoon (Fedor Indutny)\n\n* tls: invoke write cb only after opposite read end (Fedor Indutny)\n\n* tls: ignore .shutdown() syscall error (Fedor Indutny)\n"
+  }
+}

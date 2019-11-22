@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzUyMDY5NzI6YmUyOTk3ZmJhZWViNTI1MDg4Yjc3ZmJkODA3Nzg1MmQ3ZGJkZDdhNg==",
+  "sha": "be2997fbaeeb525088b77fbd8077852d7dbdd7a6",
+  "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/tags/be2997fbaeeb525088b77fbd8077852d7dbdd7a6",
+  "tagger": {
+    "name": "stratiocommit",
+    "email": "asistemas@stratio.com",
+    "date": "2016-02-19T23:16:46Z"
+  },
+  "object": {
+    "sha": "4cbd9f62514948ec502d4b3799651472fdc673e2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/commits/4cbd9f62514948ec502d4b3799651472fdc673e2"
+  },
+  "tag": "3.0.3.0",
+  "message": " * Upgrade to Apache Cassandra 3.0.3\n\n * Force disable paging for top-k searches\n\n * Add search cache (improves paging performance)\n\n * Add token ranges cache (improves search performance)\n\n * Remove support of other partitioners than Murmur3\n\n * Remove Sphinx documentation module\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

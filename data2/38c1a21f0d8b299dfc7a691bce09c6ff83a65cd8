@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OjM4YzFhMjFmMGQ4YjI5OWRmYzdhNjkxYmNlMDljNmZmODNhNjVjZDg=",
+  "sha": "38c1a21f0d8b299dfc7a691bce09c6ff83a65cd8",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/38c1a21f0d8b299dfc7a691bce09c6ff83a65cd8",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "spam@schillmania.com",
+    "date": "2011-10-30T23:20:52Z"
+  },
+  "object": {
+    "sha": "8d9213ea0bc8aa37aec7c9676087423397aa019d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/8d9213ea0bc8aa37aec7c9676087423397aa019d"
+  },
+  "tag": "V2.97a.20111030",
+  "message": "V2.97a.20111030 - HTML5 unload() improvements, Android 2.3 fix and new onsuspend() event\n\nFixes for HTML5 unload() on Webkit (connection was not closing), playback on Android 2.3, and IE 9 \"not implemented\" / unsupported HTML5 case. Addition of onsuspend() HTML5 event, possibly applicable to iOS where stalled events suggest that user action is needed to play or resume audio playback.\n\n    Bug fixes\n\n        HTML5 unload(): Correctly apply about:blank (_emptyURL default) to everyone except Firefox, which allegedly likes ''. Webkit was not actually closing the connection of loading streams, in this case.\n\n        HTML5 audio playback fix for Android 2.3 (Honeycomb), which doesn't seem to like new Audio('foo.mp3') followed by load() -> play(); first request/attempt stalls and eventually fires ended event. Rather odd. (Related discussion.)\n\n        Added try...catch for dumb IE 9 Audio() \"not implemented\" error in Windows server case without \"desktop experience\" installed, means no HTML5 audio/video support. Hat tip: Modernizr issue 224\n\n    API updates\n\n        Added soundManager.noSWFCache (boolean) for easy cache busting - good for dev/testing. SWFs tend to be aggressively cached by browsers, especially in offline cases.\n\n        HTML5 suspend events are now listened for and fired via SMSound option onsuspend(). This event may be the best way to detect when mobile Safari (eg. iOS) is blocking autoplay-style behaviour, and user interaction is required to start or resume playback.\n\n    Miscellaneous\n\n        Fix \"playable MP3 links\" demo for iOS, playing 2nd+ sound now works. Due to single sound object reuse, \"old\" sound must be paused before new one is created. Previously, playing sound 1 -> sound 2 -> sound 1 would fail.\n\n        Tweaked 360player behaviour to support being initialized multiple times (for dynamic content, \"decorating\" new MP3 links etc.)\n\n        Modified soundManager core property documentation to be multi-line, allowing longer comments\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6MjA0YWIzM2Q5ZDcxYmRmZmEzNjEyNzczMTczNzA3YzdjNjFhZmVjMQ==",
+  "sha": "204ab33d9d71bdffa3612773173707c7c61afec1",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/204ab33d9d71bdffa3612773173707c7c61afec1",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2017-08-09T08:04:49Z"
+  },
+  "object": {
+    "sha": "6e514a7236806c5eec484ae5fda6b2cf3a6a14bf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/6e514a7236806c5eec484ae5fda6b2cf3a6a14bf"
+  },
+  "tag": "v0.5.28",
+  "message": "Release v0.5.28 contains the following changes:\n* Update README.md for C62X product range.\n* Fix incorrect path in README.md\n* Remove duplicate macros for likely/unlikely\n* Re-org qat_adjust_thread_affinity function\n* Changes to autoconf files to prevent the warning message 'INCLUDES' is\n  the old name for 'AM_CPPFLAGS' being displayed when running autoconf\n  under FC22.\n* Add capability to log debug to a file.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzgyMTA2MTU6MDlhYTY4MzFhNDE3NDI5NGY2ZTk4OGMyNGVkZDRmOGJlMjU5NjcxMA==",
+  "sha": "09aa6831a4174294f6e988c24edd4f8be2596710",
+  "url": "https://api.github.com/repos/openstack/aodh/git/tags/09aa6831a4174294f6e988c24edd4f8be2596710",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-25T08:45:37Z"
+  },
+  "object": {
+    "sha": "670267b9603684b4019abdd8bc7fd2303a1e66a6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/aodh/git/commits/670267b9603684b4019abdd8bc7fd2303a1e66a6"
+  },
+  "tag": "9.0.0.0rc1",
+  "message": "aodh 9.0.0.0rc1 release candidate\n\nmeta:version: 9.0.0.0rc1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Change-Id: Ibf09b8482459ae81e1d1e6b84e0ee4cc653b655c\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2LKTEZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2A2PDACedDqUe8KUY6opckvYRZoY\nX5KCYPLegVQDepIrSfTRs435k9PYLaXLHyKYLXnfxkklbsktiBGwlItvdWUAi2zW\nDQnmPlUyK4o6yzRBpOjeQg/gfKEj+6/RzrfwMw0cDndgQmbEhktwdCREzVZ/HC0Q\nHGEERHNrwLizKnBDJmSB9Q/3X6wYt/BDu3Zg2P4HCI2f2S2vc0l3/Kpx2vtXjpCK\na2RDCZirbTSCmQz0jT6RSyUVnowxe/vcWjfLEXiQOs8Y2BgjkrlV6hmApnP3DxJN\n8eRdBReOAaO/Zr8dNxE63FsZ93fxeX7nLe4gYSMMopnJzrznePaKWnFu2NFeAp1f\n/tXVG1z/WK513jXowrykMAl0yLqlaOtThfhE4z9UnqDQz7wmw5VcLdr4AvBoCgZL\nrmJxYcmvxxE9DzMAgPjzrZw5Hlu5t97yZceSV3YhXU0DY5Xi20FdF/8S0t1ae+oR\nA67g8tVV4J0nV56f9gQU7a4iJaBepSlhb8hkNVuS548=\n=wUlr\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2LKTEZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2A2PDACedDqUe8KUY6opckvYRZoY\nX5KCYPLegVQDepIrSfTRs435k9PYLaXLHyKYLXnfxkklbsktiBGwlItvdWUAi2zW\nDQnmPlUyK4o6yzRBpOjeQg/gfKEj+6/RzrfwMw0cDndgQmbEhktwdCREzVZ/HC0Q\nHGEERHNrwLizKnBDJmSB9Q/3X6wYt/BDu3Zg2P4HCI2f2S2vc0l3/Kpx2vtXjpCK\na2RDCZirbTSCmQz0jT6RSyUVnowxe/vcWjfLEXiQOs8Y2BgjkrlV6hmApnP3DxJN\n8eRdBReOAaO/Zr8dNxE63FsZ93fxeX7nLe4gYSMMopnJzrznePaKWnFu2NFeAp1f\n/tXVG1z/WK513jXowrykMAl0yLqlaOtThfhE4z9UnqDQz7wmw5VcLdr4AvBoCgZL\nrmJxYcmvxxE9DzMAgPjzrZw5Hlu5t97yZceSV3YhXU0DY5Xi20FdF/8S0t1ae+oR\nA67g8tVV4J0nV56f9gQU7a4iJaBepSlhb8hkNVuS548=\n=wUlr\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 670267b9603684b4019abdd8bc7fd2303a1e66a6\ntype commit\ntag 9.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1569401137 +0000\n\naodh 9.0.0.0rc1 release candidate\n\nmeta:version: 9.0.0.0rc1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Change-Id: Ibf09b8482459ae81e1d1e6b84e0ee4cc653b655c\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6NGM4ZGE3ZTViYTY5MWNkOTNiZjI4NDU0Yzg2NWQ5NmEwNzc5NjBiZg==",
+  "sha": "4c8da7e5ba691cd93bf28454c865d96a077960bf",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/4c8da7e5ba691cd93bf28454c865d96a077960bf",
+  "tagger": {
+    "name": "Yicheng Qin",
+    "email": "qycqycqycqycqyc@gmail.com",
+    "date": "2015-02-13T23:29:23Z"
+  },
+  "object": {
+    "sha": "4d728cc8c488a545a8bdeafd054d9ccc2bfb6876",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/4d728cc8c488a545a8bdeafd054d9ccc2bfb6876"
+  },
+  "tag": "v2.0.3",
+  "message": "- Fix static building of etcd binary\n- Fix the bug of removing user data under /_etcd in migration\n- Fix the bug of saving snapshot panic\n- Fix the bug of recovering transport wrongly\n- Fix the bug of skipping cluster check in discovery bootstrap\n- Add support for graceful shutdown when receives SIGINT and SIGTERM\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJU3ojoAAoJEOdQvf2jMxAzI88P/09NkB85aZloQZUzqN4dBa6/\nyyZ7UsTWrGjJj4aIpI52hwVKIgFFlxOpE93BxG7N3CzcvGC44ioTrM6tkAlPOAQh\nQsCOmGesNENcwh8eWIAR/8XiUVOUB1+eIeOVfmpHYE5jF6b1yKDECaDMBMDMKrWx\n5CgOw5bTbp4xNLX/mR4P6kT2FCJNRXN/SwhXV7jPPg0jNigPvnM4jHDCrOdBWGoL\nqnv2Tlk7kd/i04uQxKdAN8ZM44tXEOnIorYYLJvU4aN1VCwSQ2qBpczFoViFDCeg\nmgAJXAuu/sY1z2ccG45QIqIjIpu5ltKzHbk73454A7aH7YRbuan0xgUO8D5vr3Mw\nFvlU+HayurVLCEaPXwBroRjpRa0DUhmVBgICzVG/B1163i/tZJUbd/jJX7DBAJ/Q\n/3ZtDFQuop+vvn6Fma/xjC7a2wMNu+SlE1AtJl7Yz+ygznRC7dwaIYm4xsOUo4GN\nWgtAo0nmtlVjaAxUr37ROcKljDM4AP6VjHnUIrgxLjckLwvk8kP9yVfzjbAlEPUb\nTrEo5NECnPxwO/kb67sNJeKzpCMHG/tKZ/lJkysKb0Is7piesvsUOJcuEsbLrBJk\n1HBDTdmQJPpJYYSQSthkDy/ekyuPRmy3+i9nhsizodGbb+/mMrs7m028worH1ghK\nCRLeqtI4YWKZ1ZTTQv23\n=vo1M\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJU3ojoAAoJEOdQvf2jMxAzI88P/09NkB85aZloQZUzqN4dBa6/\nyyZ7UsTWrGjJj4aIpI52hwVKIgFFlxOpE93BxG7N3CzcvGC44ioTrM6tkAlPOAQh\nQsCOmGesNENcwh8eWIAR/8XiUVOUB1+eIeOVfmpHYE5jF6b1yKDECaDMBMDMKrWx\n5CgOw5bTbp4xNLX/mR4P6kT2FCJNRXN/SwhXV7jPPg0jNigPvnM4jHDCrOdBWGoL\nqnv2Tlk7kd/i04uQxKdAN8ZM44tXEOnIorYYLJvU4aN1VCwSQ2qBpczFoViFDCeg\nmgAJXAuu/sY1z2ccG45QIqIjIpu5ltKzHbk73454A7aH7YRbuan0xgUO8D5vr3Mw\nFvlU+HayurVLCEaPXwBroRjpRa0DUhmVBgICzVG/B1163i/tZJUbd/jJX7DBAJ/Q\n/3ZtDFQuop+vvn6Fma/xjC7a2wMNu+SlE1AtJl7Yz+ygznRC7dwaIYm4xsOUo4GN\nWgtAo0nmtlVjaAxUr37ROcKljDM4AP6VjHnUIrgxLjckLwvk8kP9yVfzjbAlEPUb\nTrEo5NECnPxwO/kb67sNJeKzpCMHG/tKZ/lJkysKb0Is7piesvsUOJcuEsbLrBJk\n1HBDTdmQJPpJYYSQSthkDy/ekyuPRmy3+i9nhsizodGbb+/mMrs7m028worH1ghK\nCRLeqtI4YWKZ1ZTTQv23\n=vo1M\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4d728cc8c488a545a8bdeafd054d9ccc2bfb6876\ntype commit\ntag v2.0.3\ntagger Yicheng Qin <qycqycqycqycqyc@gmail.com> 1423870163 -0800\n\n- Fix static building of etcd binary\n- Fix the bug of removing user data under /_etcd in migration\n- Fix the bug of saving snapshot panic\n- Fix the bug of recovering transport wrongly\n- Fix the bug of skipping cluster check in discovery bootstrap\n- Add support for graceful shutdown when receives SIGINT and SIGTERM\n"
+  }
+}

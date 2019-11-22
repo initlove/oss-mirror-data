@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODc4NTk5MDg6ZTYwOWYxOGExZTQ4ZmY5ZTMwYzYzMGE0NzIzMTE4ZTljYzY4YTY2Nw==",
+  "sha": "e609f18a1e48ff9e30c630a4723118e9cc68a667",
+  "url": "https://api.github.com/repos/micrometer-metrics/micrometer/git/tags/e609f18a1e48ff9e30c630a4723118e9cc68a667",
+  "tagger": {
+    "name": "Tommy Ludwig",
+    "email": "8924140+shakuzen@users.noreply.github.com",
+    "date": "2019-01-11T07:33:02Z"
+  },
+  "object": {
+    "sha": "508a594edcb00fcdff515534e34e02e44c014307",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micrometer-metrics/micrometer/git/commits/508a594edcb00fcdff515534e34e02e44c014307"
+  },
+  "tag": "v1.1.2",
+  "message": "Release of 1.1.2\n\n- 508a594edcb00fcdff515534e34e02e44c014307: Include comma separator in byte count for Dynatrace payload splitting\n- 9d34a650ff73748f10665640e2202b77e9434c0a: Polish #1147\n- c1fe10f8e9a973286d2d5532812825675e987b25: Split Dynatrace messages if they are too large (#1147)\n- afba71d2af5991e7877bf29a709b0984a5d9b765: Merge branch '1.0.x' into 1.1.x\n- 680f8103436f460a86be840150ed975dc45d7d4d: Limit pattern by name for ObjectName in TomcatMetrics\n- 5c114576e641f84cbba5cc9004d0901b44047631: Polish\n- 176c71d80ecc0493fb5444e93c790a21de9be162: Addresses #878: Reading kafka records-lag metrics with topic and partition name\n- 69b81fd758ed96fda5ead8e98d6681aeae1813eb: Polish\n- 63d7ed51393d24d2ea241f0c6761e14fd005e4f9: #1062 Add outcome tag to default rest template tags provider in spring legacy\n- c69deadf3318a68e75e4ecb0a30f8c01f0682d70: Log Cloudwatch interruptions as a warn\n- 3a562260f76f7ceed8a06a461b6c3a4cbbc6b003: Do not write \"NaN\" function counters to elastic\n- 40867d6660a12fb8165200499207a88298b19f0c: Do not write Infinity double values to elastic meter registry\n- f4a3e6fb6d0d65785e5415b500fe92f63f82614a: Ignore infinity values for function counters on publishing (#1138)\n- 7e68e2ad554ae60fa93b9336fa1d58c6bc6f9d3a: Address potential NPE in TomcatMetricsBinder when Context is null\n- a3408af69586564910bfec7d7e5ff21e683fd7e0: Make checkedForIndexTemplate volatile in ElasticMeterRegistry\n- 8692dd4b9fc25216f76bb853137e57c8cc7636b1: Polish Azure Monitor support\n- 593132c2d99158287aedc584455ae2313395c1ba: Use Double.isFinite()\n- 2537de8beb4b806770d37763c071be4c7c9504ab: Prevent publishing NaN or infinite values to Dynatrace (#1116)\n- 510e9bdcfe2b6fba4d5ca903e9b282cb846c5a81: Prevent publishing infinite values to InfluxDB (#1122)\n- e73018a4dc8df433a09ea03ee18c5cbb2e8d0958: Prevent publishing NaN or infinite values to AppOptics (#1109)\n- 96bd266bd9d29c0a6f925e5b7b1d60f8326d2ab1: Polish KairosDB\n- 0d255538201eb9f9e37a996fad266d61605ac088: Fix a Checkstyle rule violation (unused import)\n- 4709ae27a53838d59fe2c99a8565a67996ee75e0: Merge branch '1.0.x' into 1.1.x\n- 4f00f0f66b9fcd99ab9922f582df19a0e0b3d989: Polish logging registry human readable byte format\n- ab255d2ab1abae6f0efa759492324bb26b83c9c9: Polish logging meter registry\n- ddd5cfc4122acc7cf81d6e825223299f366e14c9: Add access token validation to SignalFxPropertiesConfigAdapter\n- 45b28c18f0acee91bdaed5220d00659153056bf1: Merge branch '1.0.x' into 1.1.x\n- 55917287feaf067361df66f816b0cea3938f535b: Block on pushing metrics to Cloudwatch (fixes #1066).\n- 67314ad9388399e3d8ef25bcbabddc3b4e982f22: Use SessionFactory for public static factory methods and constructor\n- a27bdc1fac39fdc3d33059f88e6caf19405b0826: Polish AppOptics\n- b89dda5e2f619829fa55245d7871242bab62f72a: Fix description and base unit for executor.queued\n- f14111e9c92f20b8494f7e8117929189f3ff9859: Use LoggingRegistryConfig.logInactive()\n- 5d00693cee176aada84ae25ac5b71d58fa63b22f: Exclude libnetty_transport_native_epoll_x86_64.so\n- 7de4e431f687f2b0c73c9734dcc4a8481314714c: Clean up Javadoc warnings\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

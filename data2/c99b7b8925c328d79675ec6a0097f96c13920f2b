@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzU0NDA0MDQ6Yzk5YjdiODkyNWMzMjhkNzk2NzVlYzZhMDA5N2Y5NmMxMzkyMGYyYg==",
+  "sha": "c99b7b8925c328d79675ec6a0097f96c13920f2b",
+  "url": "https://api.github.com/repos/aws/aws-sdk-cpp/git/tags/c99b7b8925c328d79675ec6a0097f96c13920f2b",
+  "tagger": {
+    "name": "Marco Magdy",
+    "email": "magmarco@amazon.com",
+    "date": "2017-09-22T21:06:15Z"
+  },
+  "object": {
+    "sha": "c955a8dc4c46ddb3baede87632e1e11970a7874d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/aws/aws-sdk-cpp/git/commits/c955a8dc4c46ddb3baede87632e1e11970a7874d"
+  },
+  "tag": "1.2.0",
+  "message": "TransferManager breaking change\n\nTo fix TransferManager race condition bugs, we had to introduce a\nbreaking change to its interface.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

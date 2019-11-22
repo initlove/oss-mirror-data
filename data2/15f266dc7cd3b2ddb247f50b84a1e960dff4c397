@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OToxNWYyNjZkYzdjZDNiMmRkYjI0N2Y1MGI4NGExZTk2MGRmZjRjMzk3",
+  "sha": "15f266dc7cd3b2ddb247f50b84a1e960dff4c397",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/15f266dc7cd3b2ddb247f50b84a1e960dff4c397",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-02-27T07:10:41Z"
+  },
+  "object": {
+    "sha": "f164d84661f4f79486c84a4c0d1ca2233614c088",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/f164d84661f4f79486c84a4c0d1ca2233614c088"
+  },
+  "tag": "6.1.1",
+  "message": "Version 6.1.1\n\n### Bug fixes\n\nFix bug that caused parsing default exports of with names to fail.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlx2OAIACgkQcD8b7W0z\nrh7KnAgAi9khs5hkI9uDNI6iApNvfL+oKzmpRJElkJt7YdDNWGIVOjc8B/P4Vkzp\npO2I4LxRP/RNINqSMrOiORWrYwDL+gkniR7TRz16AwbtS3hEodIvMFqXbVAoFxIm\n7Uv+WXmaG+iTq4CAYKtEDan8Dc6tIz41aji13iG/jmrGeao+3PjqZ9LKb5a/zV4F\nBbWe2A4qUm7elwP5A8+R6If+L9JecR15KnnnkLazNJTy9USLNvwAAnYREHN5E19+\nRAakVQD22fHMAR+ldGUsG6raLI5UUjultx54CAfjENxBiUe6ZJT2k2DdSjVdT/jN\nBQcXEvVcCPvpmn3fn7xTYFopuNtogQ==\n=4ppC\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlx2OAIACgkQcD8b7W0z\nrh7KnAgAi9khs5hkI9uDNI6iApNvfL+oKzmpRJElkJt7YdDNWGIVOjc8B/P4Vkzp\npO2I4LxRP/RNINqSMrOiORWrYwDL+gkniR7TRz16AwbtS3hEodIvMFqXbVAoFxIm\n7Uv+WXmaG+iTq4CAYKtEDan8Dc6tIz41aji13iG/jmrGeao+3PjqZ9LKb5a/zV4F\nBbWe2A4qUm7elwP5A8+R6If+L9JecR15KnnnkLazNJTy9USLNvwAAnYREHN5E19+\nRAakVQD22fHMAR+ldGUsG6raLI5UUjultx54CAfjENxBiUe6ZJT2k2DdSjVdT/jN\nBQcXEvVcCPvpmn3fn7xTYFopuNtogQ==\n=4ppC\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f164d84661f4f79486c84a4c0d1ca2233614c088\ntype commit\ntag 6.1.1\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1551251441 +0100\n\nVersion 6.1.1\n\n### Bug fixes\n\nFix bug that caused parsing default exports of with names to fail.\n"
+  }
+}

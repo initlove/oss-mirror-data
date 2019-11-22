@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZTg4NDhlMjcwZWZjNWIzYzU1OWYwOGRjMzg3Y2MzZGU0NWE3YWU2NA==",
+  "sha": "e8848e270efc5b3c559f08dc387cc3de45a7ae64",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/e8848e270efc5b3c559f08dc387cc3de45a7ae64",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-09-16T23:52:42Z"
+  },
+  "object": {
+    "sha": "0fe0d121551593c23a565db8397f85f17bb0f00e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/0fe0d121551593c23a565db8397f85f17bb0f00e"
+  },
+  "tag": "v0.10.32",
+  "message": "2014.09.16, Version 0.10.32 (Stable)\n\n* npm: Update to 1.4.28\n\n* v8: fix a crash introduced by previous release (Fedor Indutny)\n\n* configure: add --openssl-no-asm flag (Fedor Indutny)\n\n* crypto: use domains for any callback-taking method (Chris Dickinson)\n\n* http: do not send `0rnrn` in TE HEAD responses (Fedor Indutny)\n\n* querystring: fix unescape override (Tristan Berger)\n\n* url: Add support for RFC 3490 separators (Mathias Bynens)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlQYzUoACgkQfTP/nQJGQG1YtQCgsmHmt44ExvPFAG3Gp7XuG/+t\n3p0AoJoKMnV/TbrM2yXGNJ4E8kwa8Jwl\n=gbXJ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlQYzUoACgkQfTP/nQJGQG1YtQCgsmHmt44ExvPFAG3Gp7XuG/+t\n3p0AoJoKMnV/TbrM2yXGNJ4E8kwa8Jwl\n=gbXJ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0fe0d121551593c23a565db8397f85f17bb0f00e\ntype commit\ntag v0.10.32\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1410911562 -0700\n\n2014.09.16, Version 0.10.32 (Stable)\n\n* npm: Update to 1.4.28\n\n* v8: fix a crash introduced by previous release (Fedor Indutny)\n\n* configure: add --openssl-no-asm flag (Fedor Indutny)\n\n* crypto: use domains for any callback-taking method (Chris Dickinson)\n\n* http: do not send `0rnrn` in TE HEAD responses (Fedor Indutny)\n\n* querystring: fix unescape override (Tristan Berger)\n\n* url: Add support for RFC 3490 separators (Mathias Bynens)\n"
+  }
+}

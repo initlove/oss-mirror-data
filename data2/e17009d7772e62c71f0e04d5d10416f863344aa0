@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6ZTE3MDA5ZDc3NzJlNjJjNzFmMGUwNGQ1ZDEwNDE2Zjg2MzM0NGFhMA==",
+  "sha": "e17009d7772e62c71f0e04d5d10416f863344aa0",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/e17009d7772e62c71f0e04d5d10416f863344aa0",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2017-03-15T17:51:43Z"
+  },
+  "object": {
+    "sha": "e0eab06c6eb92219afd3bc7efdfd7b2793fd9f4e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/e0eab06c6eb92219afd3bc7efdfd7b2793fd9f4e"
+  },
+  "tag": "v0.5.20",
+  "message": "Release v0.5.20 contains the following changes:\n*) Fix Issue with disable flags in autoconf\n*) Fix for engine async notification fd getting closed too early\n*) Add Unique QATerr messages to qat_ec.c\n*) Allow user to run autogen.sh from any folder\n*) Fix compilation warnings with disable flags\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

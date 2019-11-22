@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6N2M5NTFiMDk3MjY3NjQyOTdjNjhlMWQ4MDQ2MzU3NWRjODk2MDA4MQ==",
+  "sha": "7c951b09726764297c68e1d80463575dc8960081",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/7c951b09726764297c68e1d80463575dc8960081",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-08-16T16:17:49Z"
+  },
+  "object": {
+    "sha": "50b4c905a4425430ae54db4906f88982309e128d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/50b4c905a4425430ae54db4906f88982309e128d"
+  },
+  "tag": "v0.10.16",
+  "message": "2013.08.16, Version 0.10.16 (Stable)\n\n* v8: back-port fix for CVE-2013-2882\n\n* npm: Upgrade to 1.3.8\n\n* crypto: fix assert() on malformed hex input (Ben Noordhuis)\n\n* crypto: fix memory leak in randomBytes() error path (Ben Noordhuis)\n\n* events: fix memory leak, don't leak event names (Ben Noordhuis)\n\n* http: Handle hex/base64 encodings properly (isaacs)\n\n* http: improve chunked res.write(buf) performance (Ben Noordhuis)\n\n* stream: Fix double pipe error emit (Eran Hammer)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.13 (Darwin)\n\niQEcBAABAgAGBQJSDlCtAAoJELCniwpsSBz2FpQIAILcq2n+LYiP9ocGd/7ITAPm\nGwyzboegicSkAc8MCSTv8q/ehBdTLI/GrtkQQs2bE0Zf3AVvvQP0iXOS+zwB+run\nuRGPKkTgPy4Rn95SyrMKF3BAnrgbs4RM+lowU/jT4t2lgvmmSoDsqRLaEYR400rT\nessMXBbAwC4hC61u7Vkttmx9jbqjcWB3+OIVkphhM7/2sXPhMeK5yOYna/Oqc1wD\nhIBtiEX7Bc8XUj/XJ1FDgMRIlqtmUOaCfKq87VEDQlmFUhJELVHPnICiTThkRFqE\nn6K3Jnd8LCtR1AmJQf9Ro09yf8k+p/NY7JbuuHor9UWLvzV60jIv3BuzLqrrpV4=\n=wz73\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.13 (Darwin)\n\niQEcBAABAgAGBQJSDlCtAAoJELCniwpsSBz2FpQIAILcq2n+LYiP9ocGd/7ITAPm\nGwyzboegicSkAc8MCSTv8q/ehBdTLI/GrtkQQs2bE0Zf3AVvvQP0iXOS+zwB+run\nuRGPKkTgPy4Rn95SyrMKF3BAnrgbs4RM+lowU/jT4t2lgvmmSoDsqRLaEYR400rT\nessMXBbAwC4hC61u7Vkttmx9jbqjcWB3+OIVkphhM7/2sXPhMeK5yOYna/Oqc1wD\nhIBtiEX7Bc8XUj/XJ1FDgMRIlqtmUOaCfKq87VEDQlmFUhJELVHPnICiTThkRFqE\nn6K3Jnd8LCtR1AmJQf9Ro09yf8k+p/NY7JbuuHor9UWLvzV60jIv3BuzLqrrpV4=\n=wz73\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 50b4c905a4425430ae54db4906f88982309e128d\ntype commit\ntag v0.10.16\ntagger isaacs <i@izs.me> 1376669869 -0700\n\n2013.08.16, Version 0.10.16 (Stable)\n\n* v8: back-port fix for CVE-2013-2882\n\n* npm: Upgrade to 1.3.8\n\n* crypto: fix assert() on malformed hex input (Ben Noordhuis)\n\n* crypto: fix memory leak in randomBytes() error path (Ben Noordhuis)\n\n* events: fix memory leak, don't leak event names (Ben Noordhuis)\n\n* http: Handle hex/base64 encodings properly (isaacs)\n\n* http: improve chunked res.write(buf) performance (Ben Noordhuis)\n\n* stream: Fix double pipe error emit (Eran Hammer)\n"
+  }
+}

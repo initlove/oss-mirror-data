@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZDUwMjA3MDg0NjY1ODgzYmNkZDFhNjJlY2ExOWU0OWQ2NDA4NjFjMg==",
+  "sha": "d50207084665883bcdd1a62eca19e49d640861c2",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/d50207084665883bcdd1a62eca19e49d640861c2",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-02-01T21:04:11Z"
+  },
+  "object": {
+    "sha": "a3efcd2006614c3835c9395b91ab89c1f260806c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/a3efcd2006614c3835c9395b91ab89c1f260806c"
+  },
+  "tag": "v0.7.2",
+  "message": "2012.02.01, Version 0.7.2 (unstable)\n\n* Update V8 to 3.8.9\n\n* Support for sharing streams across Isolates (Igor Zinkovsky)\n\n* #2636 - Fix case where http_parsers are freed too early (koichik)\n\n* url: Support for IPv6 addresses in URLs (Łukasz Walukiewicz)\n\n* child_process: Add disconnect() method to child processes (Andreas Madsen)\n\n* fs: add O_EXCL support, exclusive open file (Ben Noordhuis)\n\n* fs: more specific error messages (Tj Holowaychuk)\n\n* tty: emit 'unknown' key event if key sequence not found (Dan VerWeire, Nathan Rajlich)\n\n* build: compile release build too if BUILDTYPE=Debug (Ben Noordhuis)\n\n* module: fix --debug-brk on symlinked scripts (Fedor Indutny)\n\n* zlib: fix `Failed to set dictionary` issue (Fedor Indutny)\n\n* waf: predict target arch for OS X (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPKajsAAoJELCniwpsSBz29XsIAKGiG3r2uOlRhL5/HCHdSp9z\ncOHCPscyLIZ9321I4jm86wo8MBuPEf6lPlR9u6iOZXgGWInELSPJYNSk9sUal05K\nlMHckLepYNf5dcJbOg9wWbTLhl9YWyg+pF3GUDp/2krFs9mNt3XB7cM3rBqzHP4E\nQHWzkvKkdQA5BYFuy8TuY0jCHZ6urUf4VFB/TXdzX4LTWgs5Tgr335qVm3Lc2igT\n+u5zcDfXXr2nr8qfuwoOwDL29F89HceMk988yTSg6z9Dg6LIQf8dkIb59vxL082k\nkEXPmS+XE/69INb9joSvvP+NhL4mjWn4FJFqfX9ObwKGgLCxeD7AbXGwU0DntoU=\n=97lG\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPKajsAAoJELCniwpsSBz29XsIAKGiG3r2uOlRhL5/HCHdSp9z\ncOHCPscyLIZ9321I4jm86wo8MBuPEf6lPlR9u6iOZXgGWInELSPJYNSk9sUal05K\nlMHckLepYNf5dcJbOg9wWbTLhl9YWyg+pF3GUDp/2krFs9mNt3XB7cM3rBqzHP4E\nQHWzkvKkdQA5BYFuy8TuY0jCHZ6urUf4VFB/TXdzX4LTWgs5Tgr335qVm3Lc2igT\n+u5zcDfXXr2nr8qfuwoOwDL29F89HceMk988yTSg6z9Dg6LIQf8dkIb59vxL082k\nkEXPmS+XE/69INb9joSvvP+NhL4mjWn4FJFqfX9ObwKGgLCxeD7AbXGwU0DntoU=\n=97lG\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a3efcd2006614c3835c9395b91ab89c1f260806c\ntype commit\ntag v0.7.2\ntagger isaacs <i@izs.me> 1328130251 -0800\n\n2012.02.01, Version 0.7.2 (unstable)\n\n* Update V8 to 3.8.9\n\n* Support for sharing streams across Isolates (Igor Zinkovsky)\n\n* #2636 - Fix case where http_parsers are freed too early (koichik)\n\n* url: Support for IPv6 addresses in URLs (Łukasz Walukiewicz)\n\n* child_process: Add disconnect() method to child processes (Andreas Madsen)\n\n* fs: add O_EXCL support, exclusive open file (Ben Noordhuis)\n\n* fs: more specific error messages (Tj Holowaychuk)\n\n* tty: emit 'unknown' key event if key sequence not found (Dan VerWeire, Nathan Rajlich)\n\n* build: compile release build too if BUILDTYPE=Debug (Ben Noordhuis)\n\n* module: fix --debug-brk on symlinked scripts (Fedor Indutny)\n\n* zlib: fix `Failed to set dictionary` issue (Fedor Indutny)\n\n* waf: predict target arch for OS X (Fedor Indutny)\n"
+  }
+}

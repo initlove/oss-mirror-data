@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTpkYjM2YTU1MTg0Y2RmMWQ5NWM5MjA4ZmRhMmEyZjYyNzJjMDMzM2Vh",
+  "sha": "db36a55184cdf1d95c9208fda2a2f6272c0333ea",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/db36a55184cdf1d95c9208fda2a2f6272c0333ea",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-06-05T06:39:33Z"
+  },
+  "object": {
+    "sha": "3f97744c7f8dafe43e4d9a548f058906bd4f3783",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/3f97744c7f8dafe43e4d9a548f058906bd4f3783"
+  },
+  "tag": "5.6.2",
+  "message": "Version 5.6.2\n\n### Bug fixes\n\nIn the walker, go back to allowing the `baseVisitor` argument to be null to default to the default base everywhere.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlsWMDYACgkQcD8b7W0z\nrh5vkggAn0cOCOXs2DPPwpN6OunfD4HGY36trQGX8f9v9qbOAb7ly8AQPpkX1nyI\nnOFhEo4VdfO8bEwpN3tjbtvoFmc4BgNIwy8nC0eygetq6qyLc8YN3TpEHOb1fx47\nja4Jf0q0KXHyaEoo8cJM9G3E/bVnSZEpCGqDG48r+Q/w4ajKb0QPzt/bBoi1+qpd\nvab2xbq+Lo9xqQWuKlpxQ4qlTTe40WbrfoFfPtVGtwAYPOITuiSsFtHvDzy13chI\nz2Cr1lQTdVvmAt2R4JertkACgm88XSLU0m8sx+Ww//6HgIrPI9oz7kRj7GnrVCiy\nW4S9KmYqIisApusANO0oewJxvDKYAQ==\n=ZfE2\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlsWMDYACgkQcD8b7W0z\nrh5vkggAn0cOCOXs2DPPwpN6OunfD4HGY36trQGX8f9v9qbOAb7ly8AQPpkX1nyI\nnOFhEo4VdfO8bEwpN3tjbtvoFmc4BgNIwy8nC0eygetq6qyLc8YN3TpEHOb1fx47\nja4Jf0q0KXHyaEoo8cJM9G3E/bVnSZEpCGqDG48r+Q/w4ajKb0QPzt/bBoi1+qpd\nvab2xbq+Lo9xqQWuKlpxQ4qlTTe40WbrfoFfPtVGtwAYPOITuiSsFtHvDzy13chI\nz2Cr1lQTdVvmAt2R4JertkACgm88XSLU0m8sx+Ww//6HgIrPI9oz7kRj7GnrVCiy\nW4S9KmYqIisApusANO0oewJxvDKYAQ==\n=ZfE2\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3f97744c7f8dafe43e4d9a548f058906bd4f3783\ntype commit\ntag 5.6.2\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1528180773 +0200\n\nVersion 5.6.2\n\n### Bug fixes\n\nIn the walker, go back to allowing the `baseVisitor` argument to be null to default to the default base everywhere.\n"
+  }
+}

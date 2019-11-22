@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6OWQ3YmFjNTAzZjdlNzk1NmExNGRlODA5NmM2OThkMWEyOTczYzNmMg==",
+  "sha": "9d7bac503f7e7956a14de8096c698d1a2973c3f2",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/9d7bac503f7e7956a14de8096c698d1a2973c3f2",
+  "tagger": {
+    "name": "Ben Noordhuis",
+    "email": "info@bnoordhuis.nl",
+    "date": "2011-12-02T01:31:52Z"
+  },
+  "object": {
+    "sha": "9170077f13e5e5475b23d1d3c2e7f69bfe139727",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/9170077f13e5e5475b23d1d3c2e7f69bfe139727"
+  },
+  "tag": "v0.6.4",
+  "message": "2011.12.02, Version 0.6.4 (stable)\n\n * doc improvements (Kyle Young, Tim Oxley, Roman Shtylman, Mathias Bynens)\n\n * upgrade bundled npm (Isaac Schlueter)\n\n * polish Windows installer (Igor Zinkovsky, Isaac Schlueter)\n\n * punycode: upgrade to v0.2.1 (Mathias Bynens)\n\n * build: add --without-npm flag to configure script\n\n * sys: deprecate module some more, print stack trace if NODE_DEBUG=sys\n\n * cli: add -p switch, prints result of --eval\n\n * #1997: fix Blowfish ECB encryption and decryption (Ingmar Runge)\n\n * #2223: fix socket 'close' event being emitted twice\n\n * #2224: fix RSS memory usage > 4 GB reporting (Russ Bradberry)\n\n * #2225: fix util.inspect() object stringification bug (Nathan Rajlich)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

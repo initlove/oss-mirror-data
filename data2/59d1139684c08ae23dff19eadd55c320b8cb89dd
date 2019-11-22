@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjE0OTA1OTg6NTlkMTEzOTY4NGMwOGFlMjNkZmYxOWVhZGQ1NWMzMjBiOGNiODlkZA==",
+  "sha": "59d1139684c08ae23dff19eadd55c320b8cb89dd",
+  "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/tags/59d1139684c08ae23dff19eadd55c320b8cb89dd",
+  "tagger": {
+    "name": "Adrien Crivelli",
+    "email": "adrien.crivelli@gmail.com",
+    "date": "2018-06-10T06:44:32Z"
+  },
+  "object": {
+    "sha": "2eb342c13da50211fdfea73b513647e22a87e78f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/commits/2eb342c13da50211fdfea73b513647e22a87e78f"
+  },
+  "tag": "1.3.0",
+  "message": "1.3.0\n\n### Added\n\n- Support to read Xlsm templates with form elements, macros, printer settings, protected elements and back compatibility drawing, and save result without losing important elements of document - [#435](https://github.com/PHPOffice/PhpSpreadsheet/issues/435)\n- Expose sheet title maximum length as `Worksheet::SHEET_TITLE_MAXIMUM_LENGTH` - [#482](https://github.com/PHPOffice/PhpSpreadsheet/issues/482)\n- Allow escape character to be set in CSV reader – [#492](https://github.com/PHPOffice/PhpSpreadsheet/issues/492)\n\n### Fixed\n\n- Subtotal 9 in a group that has other subtotals 9 exclude the totals of the other subtotals in the range - [#332](https://github.com/PHPOffice/PhpSpreadsheet/issues/332)\n- `Helper\\Html` support UTF-8 HTML input - [#444](https://github.com/PHPOffice/PhpSpreadsheet/issues/444)\n- Xlsx loaded an extra empty comment for each real comment - [#375](https://github.com/PHPOffice/PhpSpreadsheet/issues/375)\n- Xlsx reader do not read rows and columns filtered out in readFilter at all - [#370](https://github.com/PHPOffice/PhpSpreadsheet/issues/370)\n- Make newer Excel versions properly recalculate formulas on document open - [#456](https://github.com/PHPOffice/PhpSpreadsheet/issues/456)\n- `Coordinate::extractAllCellReferencesInRange()` throws an exception for an invalid range – [#519](https://github.com/PHPOffice/PhpSpreadsheet/issues/519)\n- Fixed parsing of conditionals in COUNTIF functions - [#526](https://github.com/PHPOffice/PhpSpreadsheet/issues/526)\n- Corruption errors for saved Xlsx docs with frozen panes - [#532](https://github.com/PHPOffice/PhpSpreadsheet/issues/532)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

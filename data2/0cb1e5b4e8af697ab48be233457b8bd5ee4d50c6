@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTc0ODc3OjBjYjFlNWI0ZThhZjY5N2FiNDhiZTIzMzQ1N2I4YmQ1ZWU0ZDUwYzY=",
+  "sha": "0cb1e5b4e8af697ab48be233457b8bd5ee4d50c6",
+  "url": "https://api.github.com/repos/aws/aws-sdk-java/git/tags/0cb1e5b4e8af697ab48be233457b8bd5ee4d50c6",
+  "tagger": {
+    "name": "hanshuo",
+    "email": "hanshuo@amazon.com",
+    "date": "2013-12-05T08:13:40Z"
+  },
+  "object": {
+    "sha": "d5ec1bee1e540ddf0a58db7cb01469fe71b062b4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/aws/aws-sdk-java/git/commits/d5ec1bee1e540ddf0a58db7cb01469fe71b062b4"
+  },
+  "tag": "1.6.8",
+  "message": "This release updates the SDK metrics collection feature with a number of enhancements, including per host and per JVM metrics collection. This version also fixes a bug in JSON unmarshaller which could affect AmazonElasticTranscoderClient.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzUyMDY5NzI6YjQ5NmFhMmE2YWY1NjFhNTU2NmVkZTdhZTY4ZWNiZGRmZWQ1OTdiZg==",
+  "sha": "b496aa2a6af561a5566ede7ae68ecbddfed597bf",
+  "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/tags/b496aa2a6af561a5566ede7ae68ecbddfed597bf",
+  "tagger": {
+    "name": "stratiocommit",
+    "email": "asistemas@stratio.com",
+    "date": "2016-08-02T10:58:46Z"
+  },
+  "object": {
+    "sha": "60c316bbc00640011a554ec278c0e25ae9308ee8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/commits/60c316bbc00640011a554ec278c0e25ae9308ee8"
+  },
+  "tag": "3.0.8.1",
+  "message": " * Upgrade query builder JSON serializer to Jackson 2.8.0\n\n * Add geospatial post filtering (ensures accuracy with any tree levels)\n\n * Set default number of indexing threads to number of processors available to the JVM\n\n * Fix mapping of timestamps and dates by their underlying numeric value (#177)\n\n Merged from 2.2.7.1:\n\n * Fix mapper referenced by alias in sortFields\n\n * Pending changelog\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

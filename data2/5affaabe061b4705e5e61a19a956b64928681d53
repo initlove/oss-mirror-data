@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODo1YWZmYWFiZTA2MWI0NzA1ZTVlNjFhMTlhOTU2YjY0OTI4NjgxZDUz",
+  "sha": "5affaabe061b4705e5e61a19a956b64928681d53",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/5affaabe061b4705e5e61a19a956b64928681d53",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-06-11T00:05:53Z"
+  },
+  "object": {
+    "sha": "cc53cb8887dde21b817ea66f1c9d006ac0647c53",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/cc53cb8887dde21b817ea66f1c9d006ac0647c53"
+  },
+  "tag": "v1.4.11",
+  "message": "Release of 1.4.11\n\n- cc53cb8887dde21b817ea66f1c9d006ac0647c53: Merge pull request #814 from mattrjacobs/upgrade-rx-1-0-12\n- 5d6a1b5c1111c087f5879418c15923b0fbcacbb2: Merge pull request #813 from mattrjacobs/log-recoverable-errors\n- 160679722a753655bf7ef5276d1e50bd38d3772c: Upgrade to RxJava 1.0.12\n- 5654a79387000fabe0cfb69b2cf50ba5b2a67ba8: On recoverable java.lang.Error, log something so that application owners are notified, even as Hystrix serves a fallback\n- 793d366aa7fe69e4b595c82d25896b7cd4a7e30e: Merge pull request #812 from killme2008/master\n- bebb4cb48bd2f045aa119fee8a1ec5d9988b1334: Fixed issue #811 :can't define overload functions in hystrix-clj.\n- 817cec254dd3f400920476128ae9928bed173df2: Merge pull request #808 from fhopeman/patch-1\n- 231b821b5df25d4cec07d6cf7e3fda9dcf643709: update readme to latest version\n- f44c5a176bdda7c386cc64a5d9a953c8955c443f: Update CHANGELOG.md\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

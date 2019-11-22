@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YjRmNWRhN2VkZTdiMWNjZTA2NzRmOWY3MGE3YjIyMzkzMzU0YzQ4ZA==",
+  "sha": "b4f5da7ede7b1cce0674f9f70a7b22393354c48d",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/b4f5da7ede7b1cce0674f9f70a7b22393354c48d",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-08-22T19:41:03Z"
+  },
+  "object": {
+    "sha": "a299c97bbc701f4d460e91214d7bfe7a9589d361",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/a299c97bbc701f4d460e91214d7bfe7a9589d361"
+  },
+  "tag": "v0.8.8",
+  "message": "2012.08.22, Version 0.8.8 (Stable)\n\n* V8: upgrade to 3.11.10.19\n\n* npm: upgrade to 1.1.59\n\n* windows: fix uninitialized memory access in uv_update_time() (Bert Belder)\n\n* unix, windows: fix memory corruption in fs-poll.c (Ben Noordhuis)\n\n* unix: fix integer overflow in uv_hrtime (Tim Holy)\n\n* sunos: fix uv_cpu_info() on x86_64 (Ben Noordhuis)\n\n* tls: update default cipher list (Ben Noordhuis)\n\n* unix: Fix llvm and older gcc duplicate symbol warnings (Bert Belder)\n\n* fs: fix use after free in stat watcher (Ben Noordhuis)\n\n* build: Fix using manually compiled gcc on OS X (Nathan Rajlich)\n\n* windows: make junctions work again (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQNTXPAAoJELCniwpsSBz2XZwH/0AZ/i8QaMtjolF8GxZw1aXS\n84jd6uV8y7DrhOnTm28/i5eNWuNzQ8oouLGnAxas0ZuHbeKEiWpXFYombLIzkRMS\nZjVu5+1KDbiea72CAmevqGO6Hm0dnrgX+ccErQ1luHi6L8Fh+j+6SV5s53zSmtII\nSVD4z3Bw3ebGPz2Gp/A7MnIU17EaUjC+azE4OrcZcZqN9ltfXkg95TED5iHZ5PC0\nT1KSHiiPyyZmDN726lFRrZVfgZ9l4Hb+nSn1w2QNborgROs8gGVL8/MPSnq+C5Ta\nnoJB5u41HrEJt7Zg0wPrEMVXS/go7cbGIKnBKvrtlZE3cQwkvBh1H+P2bbgNGTg=\n=MWFE\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQNTXPAAoJELCniwpsSBz2XZwH/0AZ/i8QaMtjolF8GxZw1aXS\n84jd6uV8y7DrhOnTm28/i5eNWuNzQ8oouLGnAxas0ZuHbeKEiWpXFYombLIzkRMS\nZjVu5+1KDbiea72CAmevqGO6Hm0dnrgX+ccErQ1luHi6L8Fh+j+6SV5s53zSmtII\nSVD4z3Bw3ebGPz2Gp/A7MnIU17EaUjC+azE4OrcZcZqN9ltfXkg95TED5iHZ5PC0\nT1KSHiiPyyZmDN726lFRrZVfgZ9l4Hb+nSn1w2QNborgROs8gGVL8/MPSnq+C5Ta\nnoJB5u41HrEJt7Zg0wPrEMVXS/go7cbGIKnBKvrtlZE3cQwkvBh1H+P2bbgNGTg=\n=MWFE\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a299c97bbc701f4d460e91214d7bfe7a9589d361\ntype commit\ntag v0.8.8\ntagger isaacs <i@izs.me> 1345664463 -0700\n\n2012.08.22, Version 0.8.8 (Stable)\n\n* V8: upgrade to 3.11.10.19\n\n* npm: upgrade to 1.1.59\n\n* windows: fix uninitialized memory access in uv_update_time() (Bert Belder)\n\n* unix, windows: fix memory corruption in fs-poll.c (Ben Noordhuis)\n\n* unix: fix integer overflow in uv_hrtime (Tim Holy)\n\n* sunos: fix uv_cpu_info() on x86_64 (Ben Noordhuis)\n\n* tls: update default cipher list (Ben Noordhuis)\n\n* unix: Fix llvm and older gcc duplicate symbol warnings (Bert Belder)\n\n* fs: fix use after free in stat watcher (Ben Noordhuis)\n\n* build: Fix using manually compiled gcc on OS X (Nathan Rajlich)\n\n* windows: make junctions work again (Bert Belder)\n"
+  }
+}

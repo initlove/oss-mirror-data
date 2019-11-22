@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTo2ZDg0ZjM2OWMyODBkZjU2MmJmODU0M2E1NmI2NDgyMTVjYzQ4ZmQz",
+  "sha": "6d84f369c280df562bf8543a56b648215cc48fd3",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/6d84f369c280df562bf8543a56b648215cc48fd3",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-02-02T21:41:36Z"
+  },
+  "object": {
+    "sha": "03a0941815187a68b06cc7549076bcec40df3c7c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/03a0941815187a68b06cc7549076bcec40df3c7c"
+  },
+  "tag": "4.0.5",
+  "message": "Version 4.0.5\n\n### Bug fixes\n\nDisallow parenthesized pattern expressions.\n\nAllow keywords as export names.\n\nDon't allow the `async` keyword to be parenthesized.\n\nProperly raise an error when a keyword contains a character escape.\n\nAllow `\"use strict\"` to appear after other string literal expressions.\n\nDisallow labeled declarations.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAliTp6cACgkQcD8b7W0z\nrh5fYQgAzqmHjKuUkWS5aoKrvPNdWpPTLlbz75NozSEHJSExb6obP+jks4tnytzo\n8k5rOi8xc6x/HwO3ektvbGg5xHLfPZ8wdFOOybsa5z3hWaBaquCtCNv83IiFGkg1\nv7WfxEIspiJmfTfd48PRr6YHHtpfLFA4pTL5OMfkpcJCczREPRtBpyMEFfuir8RD\nTXcbL98jEmMfQIOa1xD2+kZtPAZNI+dpW+XZugggzqHU1vSRjNt6ewCaIOqjqqYQ\nXhKjJSZjwVoXrCJdb3kyRdPSZD0rBUeFqxSiYmqd4ddKgleKy+8hioQ/uKCzSVHK\nnRVskW7j55XVe+dHbXXmUzoP7fciQg==\n=6haQ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAliTp6cACgkQcD8b7W0z\nrh5fYQgAzqmHjKuUkWS5aoKrvPNdWpPTLlbz75NozSEHJSExb6obP+jks4tnytzo\n8k5rOi8xc6x/HwO3ektvbGg5xHLfPZ8wdFOOybsa5z3hWaBaquCtCNv83IiFGkg1\nv7WfxEIspiJmfTfd48PRr6YHHtpfLFA4pTL5OMfkpcJCczREPRtBpyMEFfuir8RD\nTXcbL98jEmMfQIOa1xD2+kZtPAZNI+dpW+XZugggzqHU1vSRjNt6ewCaIOqjqqYQ\nXhKjJSZjwVoXrCJdb3kyRdPSZD0rBUeFqxSiYmqd4ddKgleKy+8hioQ/uKCzSVHK\nnRVskW7j55XVe+dHbXXmUzoP7fciQg==\n=6haQ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 03a0941815187a68b06cc7549076bcec40df3c7c\ntype commit\ntag 4.0.5\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1486071696 +0100\n\nVersion 4.0.5\n\n### Bug fixes\n\nDisallow parenthesized pattern expressions.\n\nAllow keywords as export names.\n\nDon't allow the `async` keyword to be parenthesized.\n\nProperly raise an error when a keyword contains a character escape.\n\nAllow `\"use strict\"` to appear after other string literal expressions.\n\nDisallow labeled declarations.\n"
+  }
+}

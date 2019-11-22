@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzUyMDY5NzI6ZWQwM2RmZjVmMjNlMjIwZTgxMDgyMzQxMGU2YzcxOGQ4ZTcxYjUzMQ==",
+  "sha": "ed03dff5f23e220e810823410e6c718d8e71b531",
+  "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/tags/ed03dff5f23e220e810823410e6c718d8e71b531",
+  "tagger": {
+    "name": "stratiocommit",
+    "email": "asistemas@stratio.com",
+    "date": "2016-04-25T17:09:49Z"
+  },
+  "object": {
+    "sha": "de62e21aef840eec593d83fb3927b20eaec311b8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/commits/de62e21aef840eec593d83fb3927b20eaec311b8"
+  },
+  "tag": "2.2.5.3",
+  "message": " * Add support for indexing time UUID columns with date, date_range and bitemporal mappers\n\n * Fix NPE while mapping geo points with explicitly null latitude/longitude value\n\n Merged from 2.1.8.6:\n\n * Skip schema validation in already created indexes\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

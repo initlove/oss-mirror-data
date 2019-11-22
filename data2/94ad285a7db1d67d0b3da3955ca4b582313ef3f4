@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODo5NGFkMjg1YTdkYjFkNjdkMGIzZGEzOTU1Y2E0YjU4MjMxM2VmM2Y0",
+  "sha": "94ad285a7db1d67d0b3da3955ca4b582313ef3f4",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/94ad285a7db1d67d0b3da3955ca4b582313ef3f4",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-12-21T08:12:42Z"
+  },
+  "object": {
+    "sha": "3c6b1b03c535bf6b8b2d574d0eb62193cea617a6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/3c6b1b03c535bf6b8b2d574d0eb62193cea617a6"
+  },
+  "tag": "v1.5.9",
+  "message": "Release of 1.5.9\n\n- 3c6b1b03c535bf6b8b2d574d0eb62193cea617a6: Merge pull request #1449 from mattrjacobs/single-method-which-ensures-core-less-than-equal-to-maximum\n- 06c0d0f78229a42f036cb88fecb97c466e7c1385: Use method call instead of value reference so that HystrixThreadPoolProperties may be overridden\n- 15f44f34166438586c6ee0a3681733b7164f0650: Add HystrixThreadPoolProperties#actualMaximumSize()\n- 362abc0d06f724c8422a96471e142b3dead6b08f: Publish the value of the maximumSize property\n- 08cefa2922da6db96fa41174b464747edad8a332: Merge pull request #1447 from mattrjacobs/allow-dynamic-update-to-allow-maximum-size-diverge-from-core-size\n- 0c8f7332bb0f271337559aba0eec8dbef4608434: Merge pull request #1435 from ptab/fix-reading-allowMaximumSizeToDivergeFromCoreSize-from-archaius\n- 148e8f101bb41d54a2f8717c5c5ea95505613b6c: Merge pull request #1448 from mattrjacobs/remove-cbor-dependency\n- 0c8cef78562eda21629372872c099b78a318d299: Remove dependency of hystrix-serialization on jackson-cbor by deprecating binary output functionality\n- 0dd3cf55b1e4d608f2588029eb6fc3e05ca3c2b2: Merge pull request #1414 from tbvh/master\n- a37ff8cf14752966ae81c753cb34b162d421d955: Handle coreSize > maximumSize in HystrixThreadPoolConfiguration\n- 9ab65f101b2e2bd37b9320aafceb341320a3dcc6: Refactoring of initial threadpool creation to use allowMaximumSizeToDivergeFromCoreSize\n- e08676e0e9c6bc7b6b0a2f29f1627c4e5bbb89cb: Merge pull request #1445 from mattrjacobs/early-unsubscribe-hook-test\n- 9378b966b2547ff4577f236200e5febcef407d0d: Add `onUnsubscribe` hook to command execution and wire in to command flow\n- 55a5470c4bfce6531924592346d486218847cc15: Add unit test to demonstrate missing onUnsubscribe hook\n- 03d2836d10e0df0d74053d64d0a3343e766e9517: Merge pull request #1443 from mattrjacobs/hystrix-dashboard-switch-jetty-to-gretty\n- b43069b52538540c98fdbd7099ab590a5f0a69cc: Merge pull request #1444 from mattrjacobs/optimize-server-thread-exit\n- 58962fecb96930cc880e6d35ad4bb127b2577e02: Removing accidental println\n- bf6922a32b4980fda0ede4538ec2e3523551083b: Cleaner implementation of server detecting client disconnection in sampling stream\n- 8e95bc68573ab711ef8f905d85fd3c440f9b508f: Change hystrix-dashboard README to refer to gretty:appRun instead of jetty:jettyRun\n- 9f08d391771f98a330d34c50917c1a56c976130c: Switch hystrix-dashboard from using Jetty plugin to Gretty\n- 11ca011d9c5b86425eaddeae4bb9a3c5db81ef9b: Merge pull request #1442 from mattrjacobs/fix-1430\n- 62d9c30e61576a9e1b164ebcb5b340454ccd56be: Fix #1430 by detecting case when client connect/disconnects before metrics start getting emitted\n- 9263593cc82e54dbf559c9bde7dcded7c8187b76: Merge pull request #1441 from mattrjacobs/hystrix-examples-webapp-switch-jetty-to-gretty\n- bc3b773ea1faddcafb9752d4a531b73f373b5591: Use Gretty for running hystrix-examples-webapp\n- b61919d8f5de9a4cf968770d133293a8774269fc: Properly handle default values for allowMaximumSizeToDivergeFromCoreSize when configuring properties using Archaius\n- 03dac0c334d7c6aaca394b7d0e50fff1f876de04: Merge pull request #1412 from michaelcowan/javanica/raise-runtime-exception-for-observable\n- 3f7ad9686528e45f8fe23eed14b459c8180b91d1: Merge pull request #1423 from diver-in-sky/master\n- f6baba084f90033856c4ed5aa8b048739529c015: Write to error log actual dynamicMaxPoolSize from properties if maxPoolSize < corePoolSize\n- 442966ebbda0fa725488478f3e016fe3b5ccb46a: Add v1.5.8 to CHANGELOG\n- 9c357df18c67337469b475326f8ffe7df00314cc: Introduce NotWrappedByHystrix to mark Exceptions that should not be wrapped in HystrixRunetimeException\n- b1280ea137429149a441c9017117a03223bda5d0: Adding documentation for raiseHystrixExceptions\n- 2f04ffad4b747f1b61b3c9ecc46d6e8b2cba2cca: Add Observable support for option to raise HystrixRuntimeException\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

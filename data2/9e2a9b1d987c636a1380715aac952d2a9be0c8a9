@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjYyNjI4NjA6OWUyYTliMWQ5ODdjNjM2YTEzODA3MTVhYWM5NTJkMmE5YmUwYzhhOQ==",
+  "sha": "9e2a9b1d987c636a1380715aac952d2a9be0c8a9",
+  "url": "https://api.github.com/repos/wangfupeng1988/wangEditor/git/tags/9e2a9b1d987c636a1380715aac952d2a9be0c8a9",
+  "tagger": {
+    "name": "wangfupeng",
+    "email": "wangfupeng1988@163.com",
+    "date": "2016-02-25T14:33:09Z"
+  },
+  "object": {
+    "sha": "b722737f5b3415089b731c1ac2e13de5a3c8be1a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/wangfupeng1988/wangEditor/git/commits/b722737f5b3415089b731c1ac2e13de5a3c8be1a"
+  },
+  "tag": "v2.0.8",
+  "message": "1.修复编辑源码之后不触发onchange事件的bug; 2.修复textarea创建编辑器时，使用editor..html('..')复制时，不同步到textarea的bug; 3.window.resize时隐藏droplist和droppanel; 4.修复大尺寸图片拖拽大小时的bug;\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

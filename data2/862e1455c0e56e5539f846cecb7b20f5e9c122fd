@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODc1ODQ3Ojg2MmUxNDU1YzBlNTZlNTUzOWY4NDZjZWNiN2IyMGY1ZTljMTIyZmQ=",
+  "sha": "862e1455c0e56e5539f846cecb7b20f5e9c122fd",
+  "url": "https://api.github.com/repos/Perl-Toolchain-Gang/ExtUtils-MakeMaker/git/tags/862e1455c0e56e5539f846cecb7b20f5e9c122fd",
+  "tagger": {
+    "name": "Yves Orton",
+    "email": "demerphq@gmail.com",
+    "date": "2013-03-18T23:16:12Z"
+  },
+  "object": {
+    "sha": "a1bf24331e92ce7eae98ce9a0078855ae43ae6b4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Perl-Toolchain-Gang/ExtUtils-MakeMaker/git/commits/a1bf24331e92ce7eae98ce9a0078855ae43ae6b4"
+  },
+  "tag": "v6.65_01",
+  "message": "v6.65_01 - Better header and linking, docs, and bugfixes\n\n    New Features\n    * Improvements perlcritic support. (M. Schwern)\n    * Improvements to dynamic linking for gcc (Tobias Leich)\n      [github #43]\n    * Change $(PERL_HDRS) from a hard coded list of headers to\n      reading install directory for available header files. Allows\n      us to work with any version of Perl properly.\n      (Yves Orton, Craig A. Berry) [github #47]\n\n    Doc Fixes\n    * Numerous typo fixes. (Ben Bullock)\n      [github #33] [github #34] [github #35]\n    * Various FAQ and doc improvements (M. Schwern, Ivan Bessarabov)\n      [github #44]\n\n    Bug Fixes\n    * fixes relating to hash ordering (Yves Orton)\n      [github #46] [rt.cpan.org #83441] [rt.perl.org #116857]\n    * fixes to Mksymlists (Ben Bullock, Yves Orton)\n      [github #48] [github #49] [github #51]\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OmE0ZjQwMzNkMDY0NmRkNTU3ZmQ3ZThlZTgzNTE0NWQ2MTIwMTM5NmM=",
+  "sha": "a4f4033d0646dd557fd7e8ee835145d61201396c",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/a4f4033d0646dd557fd7e8ee835145d61201396c",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "sm2@schillmania.com",
+    "date": "2010-12-23T02:33:28Z"
+  },
+  "object": {
+    "sha": "19841a194e64a6a8b66fffb89e766fc0d86040e1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/19841a194e64a6a8b66fffb89e766fc0d86040e1"
+  },
+  "tag": "V2.97a.20101221",
+  "message": "V2.97a.20101221 - HTML5 loading/progress and RTMP tweaks, onready() double-firing fix, hasPriority for mobile flash, Muxtape-style player now AJAX-friendly\n\nImproved HTML5 whileloading() / whileplaying(), unload and event handling. hasPriority for off-screen SWF loading on mobile, replaces old mobileFlash positioning tricks. Effectively re-wrote page player (Muxtape-style) demo to use event delegation + read live DOM, so should not break in AJAX cases. RTMP onplay() / play() / buffering fixes, setPosition() regression fix.\n\nSide reading: \"Probably, Maybe, No\": The State of HTML5 Audio, an article written for 24ways.org touching on some of the current issues and future promise of audio in HTML.\n\n    Bug fixes\n        Double onready()-firing bug (HTML5 and non-flashblock case) fixed.\n        HTML5: Don't request null/about:blank URL with unload(), may hang/JS error in Chrome and IE 9 preview 7.\n        RTMP: Ensure onplay() is called for auto-loading streams when resumed. Don't call play() until connected. play() sets flash pauseOnBufferFull = false (fix for reported \"RTMP not playing audio\" issue.)\n        overHTTP was likely returning incorrect values previously - now fixed.\n        unload() tweak: Ensure position is reset to 0 if unload() fails\n        Flash audio: Log metaDataHandler info if debug enabled, possible duration metaData fix\n        No HTML5 audio for any Safari on OS X Snow Leopard 10.6.[3|4|5] due to underlying bugs causing intermittent audio playback failure; ongoing Apple issue, on their radar. Amusingly, Safari on Windows appears to be fine.\n\n    API Updates\n        Revised HTML5 Audio() events, improved whileloading() / whileplaying() / onload() for Webkit and Firefox 4. Progress/onload are still a bit quirky as HTML5 audio is more about \"non-linear\" loading including range and partial requests, where supported. See related discussion.\n        New soundManager.ok() method, nicer alias for soundManager.supported().\n        Took soundmanager.loadFromXML() (SM1 legacy method) out back and shot it. Last tweak was in 2008, nobody uses it.\n\n    Miscellaneous\n        Flash <object> / <embed>: hasPriority attribute, enables off-screen SWF loading with Flash 10.1+. Removed mobileFlash positioning/repositioning tricks in lieu of this.\n        Effectively re-wrote page-player (Muxtape-style) demo

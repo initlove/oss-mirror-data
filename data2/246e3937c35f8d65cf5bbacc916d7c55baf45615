@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTg0OTgxOjI0NmUzOTM3YzM1ZjhkNjVjZjViYmFjYzkxNmQ3YzU1YmFmNDU2MTU=",
+  "sha": "246e3937c35f8d65cf5bbacc916d7c55baf45615",
+  "url": "https://api.github.com/repos/memcached/memcached/git/tags/246e3937c35f8d65cf5bbacc916d7c55baf45615",
+  "tagger": {
+    "name": "Dustin Sallings",
+    "email": "dustin@spy.net",
+    "date": "2009-03-03T07:50:49Z"
+  },
+  "object": {
+    "sha": "7dcd6a6237cda77a45974f6d3d2390a14fd20bbb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/memcached/memcached/git/commits/7dcd6a6237cda77a45974f6d3d2390a14fd20bbb"
+  },
+  "tag": "1.2.5",
+  "message": "Release 1.2.5\n\n* Add per-item-class tracking of evictions and OOM errors (dormando)\n\n* Optimize item_alloc() a little (dormando)\n\n* Give 'SERVER_ERROR out of memory' errors more context (dormando)\n\n* Enable usage of large memory pages under solaris\n  (Trond.Norbye@Sun.COM)\n\n* Enable UDP by default, clean up server socket code\n  (brian@tangent.org)\n\n* 'noreply' support (Tomash Brechko)\n\n* IPv6 support, and IPv6 multi-interface support (brian@tangent.org)\n\n* Add compiler options for Sun Studio compilers with --enable-threads\n  (Trond.Norbye@Sun.COM)\n\n* Add --enable-64bit for mulitarget platforms (Trond.Norbye@Sun.COM)\n\n* Use gettimeofday(2) instead of time(2).\n\n* Make -k option work (Tomash Brechko)\n\n* Fix chunk slab alignment (Trond.Norbye@Sun.COM)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

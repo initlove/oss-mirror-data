@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY5ODcwNDk6N2M1MmEyNTQ2YjMxMzY5MDg1MTM3ZTcxZDdmMDEwNmQ2NjM4MmFjZg==",
+  "sha": "7c52a2546b31369085137e71d7f0106d66382acf",
+  "url": "https://api.github.com/repos/zcash/zcash/git/tags/7c52a2546b31369085137e71d7f0106d66382acf",
+  "tagger": {
+    "name": "Jack Grigg",
+    "email": "jack@z.cash",
+    "date": "2016-08-26T01:36:01Z"
+  },
+  "object": {
+    "sha": "8b139c24415406897bead307c2a30554e0662e10",
+    "type": "commit",
+    "url": "https://api.github.com/repos/zcash/zcash/git/commits/8b139c24415406897bead307c2a30554e0662e10"
+  },
+  "tag": "v0.11.2.z9",
+  "message": "Zcash v0.11.2.z9\n\nThis version fixes a network protocol bug that prevented many users from\nconnecting to the z8 test network. It also solidifies the consensus protocol; we\ndo not expect to make any other changes to the consensus protocol, except for\npossible security fixes, until after 1.0.\n\nFor an overview of the release, see the blog post:\nhttps://z.cash/blog/new-alpha-release-solidifying-the-consensus-protocol.html\n\nFor complete changes, see doc/release-notes/release-notes-0.11.2.z9.md\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

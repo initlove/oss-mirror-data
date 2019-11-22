@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDk0MTg2NzpiMzQ1YWNmNTQ5MTVkZjdlMWQzM2ZmMDQ5OWNiMDI5MWU1OGFmZWQy",
+  "sha": "b345acf54915df7e1d33ff0499cb0291e58afed2",
+  "url": "https://api.github.com/repos/Netflix/governator/git/tags/b345acf54915df7e1d33ff0499cb0291e58afed2",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-08-11T23:16:55Z"
+  },
+  "object": {
+    "sha": "b72880ea976b453080389e14c83a019b2f5b2845",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/governator/git/commits/b72880ea976b453080389e14c83a019b2f5b2845"
+  },
+  "tag": "v1.9.1",
+  "message": "Release of 1.9.1\n\n- b72880ea976b453080389e14c83a019b2f5b2845: Merge pull request #233 from elandau/nextgen\n- c9daea832d21f03ecdcffd24fd5e856051801eee: Remove bad package import\n- f56acd0f6006717a3036a4606d3f30f1411f6af8: Merge pull request #232 from elandau/nextgen\n- 133cc212205ea554a2c112efe1ea84b1b4c54e14: Fix class path scanning.  Log NoClassDefFoundError exceptions during class path scanning instead of failing completely.\n- 5065c4eb12da6980dba38761f3af307ddf7b7eab: Merge pull request #228 from slaunay/bugfix/reverse-pre-destroy-invocations\n- 16780b5a27dfacbcdc8735d086865b3afe3e8af1: Merge pull request #230 from elandau/nextgen\n- 368f34e1775d896282d27d80967ea43bd67ee4c1: Improve logging when class path scanning fails\n- 75c18ddd859e8412879d4cdb79a0c348d9267ab3: Invoke pre destroy methods in the reverse order of post construct\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6YWJkMTQ0YzE4OTYyMTk4NDQ5NDQ5NDUwZmExMTY0MzhlMWQ0NmU2ZA==",
+  "sha": "abd144c18962198449449450fa116438e1d46e6d",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/abd144c18962198449449450fa116438e1d46e6d",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2017-02-20T12:52:22Z"
+  },
+  "object": {
+    "sha": "7a6cd5c88a75f5a99a2869251f2e16c39ca07ec4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/7a6cd5c88a75f5a99a2869251f2e16c39ca07ec4"
+  },
+  "tag": "v0.5.18",
+  "message": "Release v0.5.18 contains the following changes:\n* Amend DEBUG and WARN macros to add filename,line number and function name.\n* Tidy up elliptical curve code Add missing warns and group allocations and buffer conversions\n* Explain OpenSSL bug with fds in async wait context\n* Changes to enable a child process to initialise the QAT engine at forking.\n* Re-instate engine initialisation code in function get_next_inst().\n* Update logs with unique message that points to precise condition\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

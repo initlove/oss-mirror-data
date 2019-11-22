@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YmRlNmQwNGE0ODIwMmQwNGFjYjY0NTlhNDNiNzQxN2IzMDc0ZjU1Ng==",
+  "sha": "bde6d04a48202d04acb6459a43b7417b3074f556",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/bde6d04a48202d04acb6459a43b7417b3074f556",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-01-28T00:54:09Z"
+  },
+  "object": {
+    "sha": "f19e20d33f57c4d2853aaea7d2724d44f3b0012f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/f19e20d33f57c4d2853aaea7d2724d44f3b0012f"
+  },
+  "tag": "v0.6.9",
+  "message": "2012.01.27, Version 0.6.9 (stable)\n\n* dgram: Bring back missing functionality for Unix (Dan VerWeire, Roman Shtylman, Ben Noordnuis)\n  - Note: Windows UDP support not yet complete.\n\n* http: Fix parser memory leak (koichik)\n\n* zlib: Fix #2365 crashes on invalid input (Nicolas LaCasse)\n\n* module: fix --debug-brk on symlinked scripts (Fedor Indutny)\n\n* Documentation Restyling (Matthew Fitzsimmons)\n\n* Update npm to 1.1.0-3 (isaacs)\n\n* Windows: fix regression in stat() calls to C:\\ (Bert Belder)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

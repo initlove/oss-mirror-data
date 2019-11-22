@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NzYxNmU4Y2Y4ODVkNTViZjc2NjFkYTkzZjMzMTIzY2U5YzY3MWNlYg==",
+  "sha": "7616e8cf885d55bf7661da93f33123ce9c671ceb",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/7616e8cf885d55bf7661da93f33123ce9c671ceb",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-06-15T19:46:31Z"
+  },
+  "object": {
+    "sha": "1f93aa5d5d207e8bd739d365dbf9ad6dbcc69571",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/1f93aa5d5d207e8bd739d365dbf9ad6dbcc69571"
+  },
+  "tag": "v0.7.11",
+  "message": "2012.06.15, Version 0.7.11 (unstable)\n\n* V8: Upgrade to v3.11.10\n\n* npm: Upgrade to 1.1.26\n\n* doc: Improve cross-linking in API docs markdown (Ben Kelly)\n\n* Fix #3425: removeAllListeners should delete array (Reid Burke)\n\n* cluster: don't silently drop messages when the write queue gets big (Bert Belder)\n\n* Add Buffer.concat method (isaacs)\n\n* windows: make symlinks tolerant to forward slashes (Bert Belder)\n\n* build: Add node.d and node.1 to installer (isaacs)\n\n* cluster: rename worker.unqiueID to worker.id (Andreas Madsen)\n\n* Windows: Enable ETW events on Windows for existing DTrace probes. (Igor Zinkovsky)\n\n* test: bundle node-weak in test/gc so that it doesn't need to be downloaded (Nathan Rajlich)\n\n* Make many tests pass on Windows (Bert Belder)\n\n* Fix #3388 Support listening on file descriptors (isaacs)\n\n* Fix #3407 Add os.tmpDir() (isaacs)\n\n* Unbreak the snapshotted build on Windows (Bert Belder)\n\n* Clean up child_process.kill throws (Bert Belder)\n\n* crypto: make cipher/decipher accept buffer args (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJP25EXAAoJELCniwpsSBz2bZYH/2zNnbBybWJ1LgM78TxHxzLx\n2MkHFpryPSICSi3BzhP3LhyYMOGqpKrDfF8KoL9ygqXBHeLuMPFuM3nCIQOfI9cU\nOLVrky6OnZqXyxo8J9KZdz/YEFlUY4WuEck2aExfod0qZUeJ+4ccob77tpIAbtsB\n493JrY/r9uxfLUgHMw3XlG+XwK2XX0sa8f5vhMD5fy0tNPSf/Le8fBUdmd/t4Mhn\nBBfCrxO7UEjpjmDDFQxqUj1LIDCewBedjWVQV4pxa0nl1+CUmCGQ1aX+KMlkzZSl\n7J54zL+eOY4YP3Xq9nANCNITGbh7NqBqofuq4rVZk1Azj9d9sdjXdGL/KAxqkp4=\n=/ZSh\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJP25EXAAoJELCniwpsSBz2bZYH/2zNnbBybWJ1LgM78TxHxzLx\n2MkHFpryPSICSi3BzhP3LhyYMOGqpKrDfF8KoL9ygqXBHeLuMPFuM3nCIQOfI9cU\nOLVrky6OnZqXyxo8J9KZdz/YEFlUY4WuEck2aExfod0qZUeJ+4ccob77tpIAbtsB\n493JrY/r9uxfLUgHMw3XlG+XwK2XX0sa8f5vhMD5fy0tNPSf/Le8fBUdmd/t4Mhn\nBBfCrxO7UEjpjmDDFQxqUj1LIDCewBedjWVQV4pxa0nl1+CUmCGQ1aX+KMlkzZSl\n7J54zL+eOY4YP3Xq9nANCNITGbh7NqBqofuq4rVZk1Azj9d9sdjXdGL/KAxqkp4=\n=/ZSh\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1f93aa5d5d207e8bd739d365dbf9ad6dbcc69571\ntype commit\ntag v0.7.11\ntagger isaacs <i@izs.me> 1339789591 -0700\n\n2012.06.15, Version 0.7.11 (unstable)\n\n* V8: Upgrade to v3.11.10\n\n* npm: Upgrade to 1.1.26\n\n* doc: Improve cross-linking in API docs markdown (Ben Kelly)\n\n* Fix #3425: removeAllListeners should delete array (Reid Burke)\n\n* cluster: don't silently drop messages when the write queue gets big (Bert Belder)\n\n* Add Buffer.concat method (isaacs)\n\n* windows: make symlinks tolerant to forward slashes (Bert Belder)\n\n* build: Add node.d and node.1 to installer (isaacs)\n\n* cluster: rename worker.unqiueID to worker.id (Andreas Madsen)\n\n* Windows: Enable ETW events on Windows for existing DTrace probes. (Igor Zinkovsky)\n\n* test: bundle node-weak in test/gc so that it doesn't need to be downloaded (Nathan Rajlich)\n\n* Make many tests pass on Windows (Bert Belder)\n\n* Fix #3388 Support listening on file descriptors (isaacs)\n\n* Fix #3407 Add os.tmpDir() (isaacs)\n\n* Unbreak the snapshotted build on Windows (Bert Belder)\n\n* Clean up child_process.kill throws (Bert Belder)\n\n* crypto: make cipher/decipher accept buffer args (Ben Noordhuis)\n"
+  }
+}

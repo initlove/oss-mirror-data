@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODo4MjMzZTVhYmQzZTc0Y2E5NWVjNDBiMTI2N2Q3ZTk5ZTIwMzc1ZDBl",
+  "sha": "8233e5abd3e74ca95ec40b1267d7e99e20375d0e",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/8233e5abd3e74ca95ec40b1267d7e99e20375d0e",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-07-26T03:10:35Z"
+  },
+  "object": {
+    "sha": "1866e289dc974bb0e6791b05f85a6890b5d3db23",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/1866e289dc974bb0e6791b05f85a6890b5d3db23"
+  },
+  "tag": "v1.4.13",
+  "message": "Release of 1.4.13\n\n- 1866e289dc974bb0e6791b05f85a6890b5d3db23: Merge pull request #839 from mattrjacobs/fix-js-typo\n- 0d5fe8b68515a11c663bf712964275c64a6fd410: Fix typo in method name\n- 9ca80ab0b01e4ec92d57246d171dc079bed982bf: Merge pull request #838 from mattrjacobs/unit-test-for-command-properties-reset\n- d849fb0f9fada12013dcc86f3546ad8fe87dd874: Reinstated HystrixTest and added unit test for modifying semaphore count\n- b806672d800ceef2605cb34db0e0b066b2e7a47e: Merge pull request #837 from mattrjacobs/rx-13\n- 0dd246fefeb6daf3adb6489a8e210e27facf97a8: Upgrade to RxJava 1.0.13\n- ed5bfe732b2e0e1df1e951885e36962b92b332fa: Merge pull request #830 from jeremybull/dashboard-badrequests-optional\n- bee55d7f782d23bb803a274af15f27cb2ddc5293: Add validation for rollingCountBadRequests\n- 990394e98ba7472b96d90d7246e785d0966ade9a: Update CHANGELOG.md\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

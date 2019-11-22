@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NmFmNjg5NDgyMTUyMmMzNGYwY2VmMWUyNmVkZDVjNDkxNWExNGVkZQ==",
+  "sha": "6af6894821522c34f0cef1e26edd5c4915a14ede",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/6af6894821522c34f0cef1e26edd5c4915a14ede",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-06-25T14:57:03Z"
+  },
+  "object": {
+    "sha": "8b8a7a7f9b41e74e1e810d0330738ad06fc302ec",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/8b8a7a7f9b41e74e1e810d0330738ad06fc302ec"
+  },
+  "tag": "v0.8.0",
+  "message": "2012.06.25, Version 0.8.0 (stable)\n\n* V8: upgrade to v3.11.10.10\n\n* npm: Upgrade to 1.1.32\n\n* Deprecate iowatcher (Ben Noordhuis)\n\n* windows: update icon (Bert Belder)\n\n* http: Hush 'MUST NOT have a body' warnings to debug() (isaacs)\n\n* Move blog.nodejs.org content into repository (isaacs)\n\n* Fix #3503: stdin: resume() on pipe(dest) (isaacs)\n\n* crypto: fix error reporting in SetKey() (Fedor Indutny)\n\n* Add --no-deprecation and --trace-deprecation command-line flags (isaacs)\n\n* fs: fix fs.watchFile() (Ben Noordhuis)\n\n* fs: Fix fs.readfile() on pipes (isaacs)\n\n* Rename GYP variable node_use_system_openssl to be consistent (Ryan Dahl)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJP6Hw/AAoJELCniwpsSBz2Rm8H+weMR/OxLcJMhylRRJdxfcDL\nXd0BOV3Yd5dzu8UvWdswfGF9Mdbl9ZjMUBi/nxz8Ja2F4IhTMU6chGvJF4lzM+7V\nM8xAtqhc82Qo8jZPoVoqFSQrTNNbbXes1DQ3O7A59S9vPqpfGqPoPjJRHQEDfzsT\nZsrh9wBmfoFhCDOTAsD8Bjb0bogl7C30XYaq4je/l8NIjDA/GZZTSML9tp/WwS2B\nHcuWWt5wzw5YRDxaYzRDHJhkoeEYnqnTmzOtEBfdDBb11YeOLscGY1kJId908j3s\nQ9pPXOns1mUhvVChKukkC6MQpW8Dd9pPEPfaD8rGlS11aifSM2oWsJ/xR5TDxjE=\n=1oA9\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJP6Hw/AAoJELCniwpsSBz2Rm8H+weMR/OxLcJMhylRRJdxfcDL\nXd0BOV3Yd5dzu8UvWdswfGF9Mdbl9ZjMUBi/nxz8Ja2F4IhTMU6chGvJF4lzM+7V\nM8xAtqhc82Qo8jZPoVoqFSQrTNNbbXes1DQ3O7A59S9vPqpfGqPoPjJRHQEDfzsT\nZsrh9wBmfoFhCDOTAsD8Bjb0bogl7C30XYaq4je/l8NIjDA/GZZTSML9tp/WwS2B\nHcuWWt5wzw5YRDxaYzRDHJhkoeEYnqnTmzOtEBfdDBb11YeOLscGY1kJId908j3s\nQ9pPXOns1mUhvVChKukkC6MQpW8Dd9pPEPfaD8rGlS11aifSM2oWsJ/xR5TDxjE=\n=1oA9\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8b8a7a7f9b41e74e1e810d0330738ad06fc302ec\ntype commit\ntag v0.8.0\ntagger isaacs <i@izs.me> 1340636223 -0700\n\n2012.06.25, Version 0.8.0 (stable)\n\n* V8: upgrade to v3.11.10.10\n\n* npm: Upgrade to 1.1.32\n\n* Deprecate iowatcher (Ben Noordhuis)\n\n* windows: update icon (Bert Belder)\n\n* http: Hush 'MUST NOT have a body' warnings to debug() (isaacs)\n\n* Move blog.nodejs.org content into repository (isaacs)\n\n* Fix #3503: stdin: resume() on pipe(dest) (isaacs)\n\n* crypto: fix error reporting in SetKey() (Fedor Indutny)\n\n* Add --no-deprecation and --trace-deprecation command-line flags (isaacs)\n\n* fs: fix fs.watchFile() (Ben Noordhuis)\n\n* fs: Fix fs.readfile() on pipes (isaacs)\n\n* Rename GYP variable node_use_system_openssl to be consistent (Ryan Dahl)\n"
+  }
+}

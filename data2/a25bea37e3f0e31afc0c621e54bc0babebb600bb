@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAxNzQyOmEyNWJlYTM3ZTNmMGUzMWFmYzBjNjIxZTU0YmMwYmFiZWJiNjAwYmI=",
+  "sha": "a25bea37e3f0e31afc0c621e54bc0babebb600bb",
+  "url": "https://api.github.com/repos/tornadoweb/tornado/git/tags/a25bea37e3f0e31afc0c621e54bc0babebb600bb",
+  "tagger": {
+    "name": "Ben Darnell",
+    "email": "ben@bendarnell.com",
+    "date": "2016-07-15T14:54:52Z"
+  },
+  "object": {
+    "sha": "79ef301eb05cac82c075198e502d94dad296f6aa",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tornadoweb/tornado/git/commits/79ef301eb05cac82c075198e502d94dad296f6aa"
+  },
+  "tag": "v4.4.0",
+  "message": "What's new in Tornado 4.4\n=========================\n\nJul 15, 2016\n------------\n\nGeneral\n~~~~~~~\n\n* Tornado now requires Python 2.7 or 3.3+; versions 2.6 and 3.2 are no\n  longer supported. Pypy3 is still supported even though its latest\n  release is mainly based on Python 3.2.\n* The `monotonic <https://pypi.python.org/pypi/monotonic>`_ package is\n  now supported as an alternative to `Monotime\n  <https://pypi.python.org/pypi/Monotime>`_ for monotonic clock support\n  on Python 2.\n\n``tornado.curl_httpclient``\n~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n* Failures in ``_curl_setup_request`` no longer cause the\n  ``max_clients`` pool to be exhausted.\n* Non-ascii header values are now handled correctly.\n\n`tornado.gen`\n~~~~~~~~~~~~~\n\n* `.with_timeout` now accepts any yieldable object (except\n  `.YieldPoint`), not just `tornado.concurrent.Future`.\n\n`tornado.httpclient`\n~~~~~~~~~~~~~~~~~~~~\n\n* The errors raised by timeouts now indicate what state the request\n  was in; the error message is no longer simply \"599 Timeout\".\n* Calling `repr` on a `tornado.httpclient.HTTPError` no longer raises\n  an error.\n\n`tornado.httpserver`\n~~~~~~~~~~~~~~~~~~~~\n\n* Int-like enums (including `http.HTTPStatus`) can now be used as\n  status codes.\n* Responses with status code ``204 No Content`` no longer emit a\n  ``Content-Length: 0`` header.\n\n`tornado.ioloop`\n~~~~~~~~~~~~~~~~\n\n* Improved performance when there are large numbers of active timeouts.\n\n`tornado.netutil`\n~~~~~~~~~~~~~~~~~\n\n* All included `.Resolver` implementations raise `IOError` (or a\n  subclass) for any resolution failure.\n\n`tornado.options`\n~~~~~~~~~~~~~~~~~\n\n* Options can now be modified with subscript syntax in addition to\n  attribute syntax.\n* The special variable ``__file__`` is now available inside config files.\n\n``tornado.simple_httpclient``\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n* HTTP/1.0 (not 1.1) responses without a ``Content-Length`` header now\n  work correctly.\n\n`tornado.tcpserver`\n~~~~~~~~~~~~~~~~~~~\n\n* `.TCPServer.bind` now accepts a ``reuse_port`` argument.\n\n`tornado.testing`\n~~~~~~~~~~~~~~~~~\n\n* Test sockets now always use ``127.0.0.1`` instead of ``localhost``.\n  This avoids conflicts when the automatically-assigned port is\n  available on IPv4 but not IPv6, or in unusual network configurations\n  when ``localhost`` has multiple IP addresses.\n\n`tornado.web`\n~~~~~~~~~~~~~\n\n* ``image/svg+xml`` is now on the list of compressible mime types.\n* Fixed an error on Python 3 when compression is used with multiple\n  ``Vary`` headers.\n\n`tornado.websocket`\n~~~~~~~~~~~~~~~~~~~\n\n* ``WebSocketHandler.__init__`` now uses `super`, which improves\n  support for multiple inheritance.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

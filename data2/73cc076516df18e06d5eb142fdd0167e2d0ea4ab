@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAxNzQyOjczY2MwNzY1MTZkZjE4ZTA2ZDVlYjE0MmZkZDAxNjdlMmQwZWE0YWI=",
+  "sha": "73cc076516df18e06d5eb142fdd0167e2d0ea4ab",
+  "url": "https://api.github.com/repos/tornadoweb/tornado/git/tags/73cc076516df18e06d5eb142fdd0167e2d0ea4ab",
+  "tagger": {
+    "name": "Ben Darnell",
+    "email": "ben@bendarnell.com",
+    "date": "2010-09-08T00:05:33Z"
+  },
+  "object": {
+    "sha": "2338348edda61c663fff8a7f6f77cf489bf63de6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tornadoweb/tornado/git/commits/2338348edda61c663fff8a7f6f77cf489bf63de6"
+  },
+  "tag": "v1.1.0",
+  "message": "We are pleased to announce the release of Tornado 1.1, available from\nhttp://github.com/downloads/facebook/tornado/tornado-1.1.tar.gz\n\nChanges in this release:\n* RequestHandler.async_callback and related functions in other classes\n  are no longer needed in most cases (although it's harmless to continue\n  using them).  Uncaught exceptions will now cause the request to be closed\n  even in a callback.  If you're curious how this works, see the new\n  tornado.stack_context module.\n* The new tornado.testing module contains support for unit testing\n  asynchronous IOLoop-based code.\n* AsyncHTTPClient has been rewritten (the new implementation was available as\n  AsyncHTTPClient2 in Tornado 1.0; both names are supported for backwards\n  compatibility).\n* The tornado.auth module has had a number of updates, including support\n  for OAuth 2.0 and the Facebook Graph API, and upgrading Twitter and\n  Google support to OAuth 1.0a.\n* The websocket module is back and supports the latest version (76) of the\n  websocket protocol.  Note that this module's interface is different\n  from the websocket module that appeared in pre-1.0 versions of Tornado.\n* New method RequestHandler.initialize() can be overridden in subclasses\n  to simplify handling arguments from URLSpecs.  The sequence of methods\n  called during initialization is documented at\n  http://tornadoweb.org/documentation#overriding-requesthandler-methods\n* get_argument() and related methods now work on PUT requests in addition\n  to POST.\n* The httpclient module now supports HTTP proxies.\n* When HTTPServer is run in SSL mode, the SSL handshake is now non-blocking.\n* Many smaller bug fixes and documentation updates\n\nBackwards-compatibility notes:\n* While most users of Tornado should not have to deal with the stack_context\n  module directly, users of worker thread pools and similar constructs may\n  need to use stack_context.wrap and/or NullContext to avoid memory leaks.\n* The new AsyncHTTPClient still works with libcurl version 7.16.x, but it\n  performs better when both libcurl and pycurl are at least version 7.18.2.\n* OAuth transactions started under previous versions of the auth module\n  cannot be completed under the new module.  This applies only to the\n  initial authorization process; once an authorized token is issued that\n  token works with either version.\n\nMany thanks to everyone who contributed patches, bug reports, and feedback\nthat went into this release!\n\n-Ben\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

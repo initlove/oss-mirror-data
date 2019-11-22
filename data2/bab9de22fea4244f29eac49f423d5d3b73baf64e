@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODpiYWI5ZGUyMmZlYTQyNDRmMjllYWM0OWY0MjNkNWQzYjczYmFmNjRl",
+  "sha": "bab9de22fea4244f29eac49f423d5d3b73baf64e",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/bab9de22fea4244f29eac49f423d5d3b73baf64e",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-11-10T22:13:13Z"
+  },
+  "object": {
+    "sha": "1f6e9d4172a65b7faf06425afbb627ae603247e8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/1f6e9d4172a65b7faf06425afbb627ae603247e8"
+  },
+  "tag": "v1.5.8",
+  "message": "Release of 1.5.8\n\n- 1f6e9d4172a65b7faf06425afbb627ae603247e8: Merge pull request #1419 from mattrjacobs/never-let-maximum-size-and-core-size-diverge-unless-user-opts-in\n- ef5047d64c9409e68b6b6ff20cbd1afb8ecf0191: When user has not opted in to letting core/maximum threadpools diverge, ensure dynamic updates to coreSize apply to both\n- b7b955b629c2be19f628321094c2008b3974b277: Merge pull request #1415 from starlight36/master\n- 49922d350b1c8c5711ef209fbcb0cf71463d88b4: Fix a little spell mistake in comments.\n- 7598e9a68d81f84de9956758ee1cf0c176d9031f: Add v1.5.7 to CHANGELOG\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

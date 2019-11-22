@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODo2NTUzMzBjYmRkNjJhYjBmZTZiNTcwNTA3YmViYzQxODQxZTJjYjQx",
+  "sha": "655330cbdd62ab0fe6b570507bebc41841e2cb41",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/655330cbdd62ab0fe6b570507bebc41841e2cb41",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-04-20T17:09:55Z"
+  },
+  "object": {
+    "sha": "b58026b2e3830be6386621dd0ea202f27e5b2c6a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/b58026b2e3830be6386621dd0ea202f27e5b2c6a"
+  },
+  "tag": "v1.4.5",
+  "message": "Release of 1.4.5\n\n- b58026b2e3830be6386621dd0ea202f27e5b2c6a: Merge pull request #764 from mattrjacobs/upgrade-rx\n- fa3fd7b5ec4edc64844fb4b59bf0989bdf265157: Upgrade RxJava to 1.0.9\n- be4da472bb13ba3044136138ba34a5717021421c: Merge pull request #763 from mattrjacobs/upgrade-jackson-for-metrics-stream\n- 8867a04dd4735b42a0e9520a28c501262d4481f2: Upgraded Jackson from 1.x to 2.5.2 and split out HystrixMetricsPoller unit test\n- 8c74e001a6bb8ca4e7198a4231f97f9a0a229ec8: Merge pull request #760 from vspglobal/issue-759\n- 5e21deddea3f078fb14c59efc5a38cea1fa02ee5: Merge branch 'issue-759' of github.com:vspglobal/Hystrix into issue-759\n- 3b873c90bec54cce14b990a71337e2b982eeddb8: set threads to daemon as per issue #759\n- 2f0524be6f6b68da790c029bc3a4c67a058f7ac7: set threads to daemon as per #759\n- 1ebba2063a425e70a8182201568a22fbd43d7b9a: Merge pull request #757 from envisia/master\n- 1b6dd89b0d0ee1e078e0a85c25e28c4f4b6f2510: Updated the RxNetty based version of HystrixMetricsStreamHandler     to a newer version of RxNetty (0.4.7) that it has a better Karyon2 support.\n- 2d0ce6b8bd76cb6368f3e38d74cbafa9650d7122: Merge pull request #755 from mattrjacobs/fix-threadpool-setter-javadoc\n- b70911ee934c87961f43ff0534b9fcb227f8ad86: Fixed Javadoc for HystrixThreadPoolProperties.Setter\n- 3ff3ac725cca3d1c73e582ce6f613356c983bfea: Merge pull request #754 from mattrjacobs/only-fire-fallback-hooks-on-user-supplied-fallbacks\n- e595fd024bd6bec5e1c48b440ac4604baf4fe4f5: Only fire onFallbackStart/onFallbackError execution hooks if there is a user-supplied fallback\n- a61e0797be27b59c8030075aaa35ab2374ef4d64: Merge pull request #753 from mattrjacobs/add-timeout-to-dashboard-for-semaphore-cmds\n- b557e17277f435354acdd0174efef7b47b33445e: Add timed-out metrics to dashboard for semaphore commands\n- 71f23be8a765655f9a80109bda3a0170ca29e60f: Merge pull request #750 from mattrjacobs/jmh\n- dc63d3bb425b3d09e7870235c3b1e31a1983883f: Added a first pass at jmh tests for hystrix-core\n- 623111d912eda6956f53fdc1d3d6469a3a8d354c: Merge pull request #748 from mattrjacobs/fix-racy-circuit-breaker-isOpen\n- 9bacb20629ee5d654d20b73439aa4eb07c62dcbd: Fix return value of HystrixCircuitBreakerImpl.isOpen when we lose the race to open a circuit\n- 657e0ec7cb8ec864b40182a093b8613cbbd26876: Merge pull request #746 from mattrjacobs/cmd-props-setter-javadoc\n- bc21c08853758c73dd6e8669fd88dbe9469bc3bb: Better deprecation documentation for HystrixCommandProperties.Setter\n- e4d2dd2121355a1dc24f2602a2d9e8c80c154fa9: Update CHANGELOG.md\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAxNzQyOjI1MmY4MmZiODg2ZWJlMjAzN2I0OGI1NjU0ODRhODhiMGY1MjY5MmY=",
+  "sha": "252f82fb886ebe2037b48b565484a88b0f52692f",
+  "url": "https://api.github.com/repos/tornadoweb/tornado/git/tags/252f82fb886ebe2037b48b565484a88b0f52692f",
+  "tagger": {
+    "name": "Ben Darnell",
+    "email": "ben@bendarnell.com",
+    "date": "2011-06-22T05:28:57Z"
+  },
+  "object": {
+    "sha": "94078a68286abca52854cede8bb52a1cee1d815b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tornadoweb/tornado/git/commits/94078a68286abca52854cede8bb52a1cee1d815b"
+  },
+  "tag": "v2.0.0",
+  "message": "Major changes:\n* Template output is automatically escaped by default; see backwards\n  compatibility note below.\n* The default AsyncHTTPClient implementation is now simple_httpclient.\n* Python 3.2 is now supported.\n\nBackwards compatibility:\n* Template autoescaping is enabled by default.  Applications upgrading from\n  a previous release of Tornado must either disable autoescaping or adapt\n  their templates to work with it.  For most applications, the simplest\n  way to do this is to pass autoescape=None to the Application constructor.\n* Applications that wish to continue using curl_httpclient instead of\n  simple_httpclient may do so by calling\n    AsyncHTTPClient.configure(\"tornado.curl_httpclient.CurlAsyncHTTPClient\")\n  at the beginning of the process.  Users of Python 2.5 will probably want\n  to use curl_httpclient as simple_httpclient only supports ssl on Python 2.6+.\n* Python 3 compatibility involved many changes throughout the codebase,\n  so users are encouraged to test their applications more thoroughly than\n  usual when upgrading to this release.\n\nOther changes in this release:\n* Templates support several new directives:\n  - {% autoescape ...%} to control escaping behavior\n  - {% raw ... %} for unescaped output\n  - {% module ... %} for calling UIModules\n* {% module Template(path, **kwargs) %} may now be used to call another\n  template with an independent namespace\n* All IOStream callbacks are now run directly on the IOLoop via add_callback.\n* HTTPServer now supports IPv6 where available.  To disable, pass\n  family=socket.AF_INET to HTTPServer.bind().\n* HTTPClient now supports IPv6, configurable via allow_ipv6=bool on the\n  HTTPRequest.  allow_ipv6 defaults to false on simple_httpclient and true\n  on curl_httpclient.\n* RequestHandlers can use an encoding other than utf-8 for query parameters\n  by overriding decode_argument()\n* Performance improvements, especially for applications that use a lot of\n  IOLoop timeouts\n* HTTP OPTIONS method no longer requires an XSRF token.\n* JSON output (RequestHandler.write(dict)) now sets Content-Type to\n  application/json\n* Etag computation can now be customized or disabled by overriding\n  RequestHandler.compute_etag\n* USE_SIMPLE_HTTPCLIENT environment variable is no longer supported.\n  Use AsyncHTTPClient.configure instead.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YTEyMzMzNzYxMDdhMWM1YWU0ZDFlZWZkNDg2MzIyNmY4M2Q5MDdhOQ==",
+  "sha": "a1233376107a1c5ae4d1eefd4863226f83d907a9",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/a1233376107a1c5ae4d1eefd4863226f83d907a9",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-04-23T23:39:39Z"
+  },
+  "object": {
+    "sha": "caa828a242f39b6158084ef4376355161c14fe34",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/caa828a242f39b6158084ef4376355161c14fe34"
+  },
+  "tag": "v0.1.92",
+  "message": "2010.04.23, Version 0.1.92\n\n  * OpenSSL support. Still undocumented (see tests). (Rhys Jones)\n\n  * API: Unhandled 'error' events throw.\n\n  * Script class with eval-function-family in binding('evals') plus tests.\n    (Herbert Vojcik)\n\n  * stream.setKeepAlive (Julian Lamb)\n\n  * Bugfix: Force no body on http 204 and 304\n\n  * Upgrade Waf to 1.5.16, V8 to 2.2.4.2\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

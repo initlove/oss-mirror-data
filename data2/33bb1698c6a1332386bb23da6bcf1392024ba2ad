@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTozM2JiMTY5OGM2YTEzMzIzODZiYjIzZGE2YmNmMTM5MjAyNGJhMmFk",
+  "sha": "33bb1698c6a1332386bb23da6bcf1392024ba2ad",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/33bb1698c6a1332386bb23da6bcf1392024ba2ad",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-09-10T09:34:44Z"
+  },
+  "object": {
+    "sha": "910e62bbda199ce7acc5de10d374afa0f6fcf7d6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/910e62bbda199ce7acc5de10d374afa0f6fcf7d6"
+  },
+  "tag": "5.7.3",
+  "message": "Version 5.7.3\n\n### Bug fixes\n\nFix failure to tokenize regexps after expressions like `x.of`.\n\nBetter error message for unterminated template literals.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAluWOsUACgkQcD8b7W0z\nrh4GsAgAxBD5D2nyMEvXTNJNftOUVIlyyWRQAsYedgG5I6iQD3BS4tblD2NDJQRR\nhzeVJVwXKy7VTE4xD5EEb0kE20jfDz1jCXqk5s5jabRtCT9S3KXJE9QN3LV7cmuV\ngMt3KYzvIggq9zfQNtiLHoSHSj5a4WvYfh2VsB5yc0PQaJUV8VRhJzxf1DsWSFoS\nZYPNVEJfNMt8+3MFfb1Ie3gYNkcaywDLNVD8RbIgKumRSmxDzpYoNCnuNOYYm54/\nq3AhdB6HFzw0tFQEvq6n/0EXQC7cS2BaOX2j3anmOnI9NjXJqpMs4P99+2J2KSXv\nf0T+fIsSIm79Xs9JytBN9R0Rqzv6Rw==\n=cnE5\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAluWOsUACgkQcD8b7W0z\nrh4GsAgAxBD5D2nyMEvXTNJNftOUVIlyyWRQAsYedgG5I6iQD3BS4tblD2NDJQRR\nhzeVJVwXKy7VTE4xD5EEb0kE20jfDz1jCXqk5s5jabRtCT9S3KXJE9QN3LV7cmuV\ngMt3KYzvIggq9zfQNtiLHoSHSj5a4WvYfh2VsB5yc0PQaJUV8VRhJzxf1DsWSFoS\nZYPNVEJfNMt8+3MFfb1Ie3gYNkcaywDLNVD8RbIgKumRSmxDzpYoNCnuNOYYm54/\nq3AhdB6HFzw0tFQEvq6n/0EXQC7cS2BaOX2j3anmOnI9NjXJqpMs4P99+2J2KSXv\nf0T+fIsSIm79Xs9JytBN9R0Rqzv6Rw==\n=cnE5\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 910e62bbda199ce7acc5de10d374afa0f6fcf7d6\ntype commit\ntag 5.7.3\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1536572084 +0200\n\nVersion 5.7.3\n\n### Bug fixes\n\nFix failure to tokenize regexps after expressions like `x.of`.\n\nBetter error message for unterminated template literals.\n"
+  }
+}

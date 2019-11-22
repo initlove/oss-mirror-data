@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6MzUxODA0ZjZjMDBkMTA4MTk1ZDk4MTVlYTljMTMwOTg0NTQ4MmNmMw==",
+  "sha": "351804f6c00d108195d9815ea9c1309845482cf3",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/351804f6c00d108195d9815ea9c1309845482cf3",
+  "tagger": {
+    "name": "Brandon Philips",
+    "email": "brandon@ifup.co",
+    "date": "2014-10-31T22:38:41Z"
+  },
+  "object": {
+    "sha": "f35130a0ed0601c4c6ea625569cc7a77a5b7098b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/f35130a0ed0601c4c6ea625569cc7a77a5b7098b"
+  },
+  "tag": "v0.5.0-alpha.1",
+  "message": "etcd v0.5.0-alpha.1\n\n- add etcdctl member {list,add,remove} see https://github.com/coreos/etcd/blob/master/Documentation/0.5/runtime-configuration.md\n- add `etcdctl ls -p` to to emulate `ls -p`\n- attach cluster ID in http headers for client response\n- cleanup the logging of member IDs\n- cleanup the logging of member removal\n- bump the server timeout for requests to a more reasonable value\n- move /v2/admin/members to /v2/members\n- test cases added that matches 1-to-1 to consistency considerations in the raft paper\n- add admin guide. See https://github.com/coreos/etcd/blob/master/Documentation/0.5/admin_guide.md\n- remove etcdctl weak consistency to the exec-watch\n\nThank you to: Yicheng Qin, Xiang Li, Micah Hausler, Pierre Phaneuf, Kelsey Hightower, Jonathan Boulle, Brian “BC” Waldon, Brian Ketelsen, Brandon Philips\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUVA+CAAoJEBVDQyYFQt80NhwQAK4H1ki39uCN7DF6QEN/F7Bd\nXtaJkRUvBKEawJECwCZ+kGlQn4ClFq37ZLlqAoVKlZiRoptYk8w8HI0zdmBV9ZOq\nf+iY7YETuysSxQK8brpNJQ8r1nySD0JjlOPVu9q+BItvAAnqbe0wuZL3ax9K2ouw\n+mr9BiOUg9VxN1BRI6+NojhNNfnb8SFUygsSQkxZltxrIYNiQs5jTgiyD1vAlhZQ\nlFqHaWj+YOMoqlPzvRW4y2E5kHqmITNKggTzCYZ6cti6wBDlLKvnYdqSMFTLnexC\nUpWu8+PPrdbid8wkokWFmqjpuBLrFqPAFPZlB1Rdoi0zeeY9bMBfZuh8spTrlL6A\nM2vCoJpZtpNTDydOj3J9QxEEl5VDwZbkFYhrlOIN4iNritX2Rjz3ogrecWDaoM4g\ncXeh/gkDPlGKJil61YOPSYt1gyiNN0WV5VKBy474vHeu1MSHJlGXkV52knvwWmpV\nqZQ8E0fAnSs/UcHfVHFERUGvQBm9ky/tOQXpzItXQQNiWuoRbFsEG3TLckeuOZSU\n5PkBN93zpxtZFaUZzUyWhRrJbGQPATQ27mXtcN9uZUgXp5flymH8H7aP6yscC3je\nWDgLpgzHiiwrVhyecigYJ4xf1rPo/8L0eRTtnmaQZh200niAcEwhNg1JxMVCe/JD\nHLTnf0veN8hI6fKzpqxc\n=F2JD\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUVA+CAAoJEBVDQyYFQt80NhwQAK4H1ki39uCN7DF6QEN/F7Bd\nXtaJkRUvBKEawJECwCZ+kGlQn4ClFq37ZLlqAoVKlZiRoptYk8w8HI0zdmBV9ZOq\nf+iY7YETuysSxQK8brpNJQ8r1nySD0JjlOPVu9q+BItvAAnqbe0wuZL3ax9K2ouw\n+mr9BiOUg9VxN1BRI6+NojhNNfnb8SFUygsSQkxZltxrIYNiQs5jTgiyD1vAlhZQ\nlFqHaWj+YOMoqlPzvRW4y2E5kHqmITNKggTzCYZ6cti6wBDlLKvnYdqSMFTLnexC\nUpWu8+PPrdbid8wkokWFmqjpuBLrFqPAFPZlB1Rdoi0zeeY9bMBfZuh8spTrlL6A\nM2vCoJpZtpNTDydOj3J9QxEEl5VDwZbkFYhrlOIN4iNritX2Rjz3ogrecWDaoM4g\ncXeh/gkDPlGKJil61YOPSYt1gyiNN0WV5VKBy474vHeu1MSHJlGXkV52knvwWmpV\nqZQ8E0fAnSs/UcHfVHFERUGvQBm9ky/tOQXpzItXQQNiWuoRbFsEG3TLckeuOZSU\n5PkBN93zpxtZFaUZzUyWhRrJbGQPATQ27mXtcN9uZUgXp5flymH8H7aP6yscC3je\nWDgLpgzHiiwrVhyecigYJ4xf1rPo/8L0eRTtnmaQZh200niAcEwhNg1JxMVCe/JD\nHLTnf0veN8hI6fKzpqxc\n=F2JD\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f35130a0ed0601c4c6ea625569cc7a77a5b7098b\ntype commit\ntag v0.5.0-alpha.1\ntagger Brandon Philips <brandon@ifup.co> 1414795121 -0700\n\netcd v0.5.0-alpha.1\n\n- add etcdctl member {list,add,remove} see https://github.com/coreos/etcd/blob/master/Documentation/0.5/runtime-configuration.md\n- add `etcdctl ls -p` to to emulate `ls -p`\n- attach cluster ID in http headers for client response\n- cleanup the logging of member IDs\n- cleanup the logging of member removal\n- bump the server timeout for requests to a more reasonable value\n- move /v2/admin/members to /v2/members\n- test cases added that matches 1-to-1 to consistency considerations in the raft paper\n- add admin guide. See https://github.com/coreos/etcd/blob/master/Documentation/0.5/admin_guide.md\n- remove etcdctl weak consistency to the exec-watch\n\nThank you to: Yicheng Qin, Xiang Li, Micah Hausler, Pierre Phaneuf, Kelsey Hightower, Jonathan Boulle, Brian “BC” Waldon, Brian Ketelsen, Brandon Philips\n"
+  }
+}

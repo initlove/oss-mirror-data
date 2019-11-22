@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MDY1NDZmODJlMWNmY2ZlMThkZmQ3NzBhMTRkZTgxNzQ1ZGE5NGMyNg==",
+  "sha": "06546f82e1cfcfe18dfd770a14de81745da94c26",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/06546f82e1cfcfe18dfd770a14de81745da94c26",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-06-04T21:30:36Z"
+  },
+  "object": {
+    "sha": "25e51c396aa23018603baae2b1d9390f5d9db496",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/25e51c396aa23018603baae2b1d9390f5d9db496"
+  },
+  "tag": "v0.10.10",
+  "message": "2013.06.04, Version 0.10.10 (Stable)\n\n* uv: Upgrade to 0.10.10\n\n* npm: Upgrade to 1.2.25\n\n* url: Properly parse certain oddly formed urls (isaacs)\n\n* stream: unshift('') is a noop (isaacs)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRrlx8AAoJELCniwpsSBz2+RQH/RYND+YoHSt2DOU31Ui4D7bZ\nbbXSoPSZF8jOVSiEwmV1JMldbvpCSsNJ1JBTtqcK46KRIQsM0kkg0RXEaDjQImo9\njZ8N3htdwiCopOW+6IbX8ljcPrARN04QgUGVnGViTv7IxNkrigaFPBrQA04THxMj\nDBEwoQuUUwsPf/WAOQ9ehr15ALJT2s1rSMsfLPwwUnf+bOLijKpJJ6gSCzGP/xJN\nVsgRBLnxMGuj/DhEQylb6i6pfV1/6tSc2iYOXOGoEZfDoNfM4OH3F8Kalsio3+vc\n+XV7z5blxDvTs5o8JGGkZXBdKf4yVd0UkdjAUs7X7FVxv7g1bNMtAwVUhZr7Qdc=\n=sTMk\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRrlx8AAoJELCniwpsSBz2+RQH/RYND+YoHSt2DOU31Ui4D7bZ\nbbXSoPSZF8jOVSiEwmV1JMldbvpCSsNJ1JBTtqcK46KRIQsM0kkg0RXEaDjQImo9\njZ8N3htdwiCopOW+6IbX8ljcPrARN04QgUGVnGViTv7IxNkrigaFPBrQA04THxMj\nDBEwoQuUUwsPf/WAOQ9ehr15ALJT2s1rSMsfLPwwUnf+bOLijKpJJ6gSCzGP/xJN\nVsgRBLnxMGuj/DhEQylb6i6pfV1/6tSc2iYOXOGoEZfDoNfM4OH3F8Kalsio3+vc\n+XV7z5blxDvTs5o8JGGkZXBdKf4yVd0UkdjAUs7X7FVxv7g1bNMtAwVUhZr7Qdc=\n=sTMk\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 25e51c396aa23018603baae2b1d9390f5d9db496\ntype commit\ntag v0.10.10\ntagger isaacs <i@izs.me> 1370381436 -0700\n\n2013.06.04, Version 0.10.10 (Stable)\n\n* uv: Upgrade to 0.10.10\n\n* npm: Upgrade to 1.2.25\n\n* url: Properly parse certain oddly formed urls (isaacs)\n\n* stream: unshift('') is a noop (isaacs)\n"
+  }
+}

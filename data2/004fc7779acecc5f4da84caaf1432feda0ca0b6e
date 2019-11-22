@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTg0OTgxOjAwNGZjNzc3OWFjZWNjNWY0ZGE4NGNhYWYxNDMyZmVkYTBjYTBiNmU=",
+  "sha": "004fc7779acecc5f4da84caaf1432feda0ca0b6e",
+  "url": "https://api.github.com/repos/memcached/memcached/git/tags/004fc7779acecc5f4da84caaf1432feda0ca0b6e",
+  "tagger": {
+    "name": "Dustin Sallings",
+    "email": "dustin@spy.net",
+    "date": "2009-03-03T08:28:30Z"
+  },
+  "object": {
+    "sha": "e753babe38cd5fdb93fffe46d9a8b9b23c6b932e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/memcached/memcached/git/commits/e753babe38cd5fdb93fffe46d9a8b9b23c6b932e"
+  },
+  "tag": "1.2.1",
+  "message": "Release 1.2.1\n\n* Steven Grimm <sgrimm@facebook.com>: Performance improvements:\n\n  Dynamic sizing of hashtable to reduce collisions on very large\n  caches and conserve memory on small caches.\n\n  Only reposition items in the LRU queue once a minute, to reduce\n  overhead of accessing extremely frequently-used items.\n\n  Stop listening for new connections until an existing one closes\n  if we run out of available file descriptors.\n\n  Command parser refactoring: Add a single-pass tokenizer to cut\n  down on string scanning.  Split the command processing into\n  separate functions for easier profiling and better readability.\n  Pass key lengths along with the keys in all API functions that\n  need keys, to avoid needing to call strlen() repeatedly.\n\n* Steve Peters <steve@fisharerojo.org>: OpenBSD has a malloc.h,\n  but warns to use stdlib.h instead\n\n* Iain Wade <iwade@optusnet.com.au>: Fix for UDP responses on non-\"get\"\n commands.\n\n* Steven Grimm <sgrimm@facebook.com>: New faster hash function.\n\n* don't listen on UDP by default; more clear message when UDP port in use\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTphZjU2NjY5M2I2YzhhZTkxODI4M2Y2NzA3YjU3YjFhZDM1MTUwOWY1",
+  "sha": "af566693b6c8ae918283f6707b57b1ad351509f5",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/af566693b6c8ae918283f6707b57b1ad351509f5",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2016-06-07T11:36:56Z"
+  },
+  "object": {
+    "sha": "c7d72884836f92742cb6fcdb01aa42de0c2dd8fc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/c7d72884836f92742cb6fcdb01aa42de0c2dd8fc"
+  },
+  "tag": "3.2.0",
+  "message": "Release 3.2.0\n\n## Bug fixes\n\nImprove handling of lack of unicode regexp support in host\nenvironment.\n\nProperly reject shorthand properties whose name is a keyword.\n\nDon't crash when the loose parser is called without options object.\n\n### New features\n\nVisitors created with `visit.make` now have their base as _prototype_,\nrather than copying properties into a fresh object.\n\nMake it possible to use `visit.ancestor` with a walk state.-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJXVrHoAAoJEHA/G+1tM64ecVQIAJbjz15y/aM715YSq5x6OpdQ\n6PYrNUA01WqYPOqHuDY1c1CF6Q5WlE2y9swPMGFNDncFC/6F0xBt/z9gVbWv6XUJ\nRLn93MiF7xZCUhmVXlFRosi5ny+ntu8QARVkFq8529DyuMpw39y6tslkwXQXpMfc\ntkPbkDZD18UKCIuOr8mK0qIVMlfBFKk57/CdxisLSveq5/pq8O2Y2FZeSzhD7Qtu\n4Idd88LPc7V+AtDp9CIBUdSfcDeVPWdRlAcutxYRuW63Ljob+vq1QRXzk8/c+2y0\nCHd/F05DRCc/lJnc3kd3mXmrNye0AsXhbyKQPEEtwXs6Q58bKs1alm7HH8a7sbs=\n=Qq/r\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

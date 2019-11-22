@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NDdmYTBlMWFmZTU1NGM5OTE3YTBhNTA0MWU0MzZjYTE2MzY2NjJiNA==",
+  "sha": "47fa0e1afe554c9917a0a5041e436ca1636662b4",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/47fa0e1afe554c9917a0a5041e436ca1636662b4",
+  "tagger": {
+    "name": "Ben Noordhuis",
+    "email": "info@bnoordhuis.nl",
+    "date": "2011-08-26T21:24:40Z"
+  },
+  "object": {
+    "sha": "d2d53d4bb262f517a227cc178a1648094ba54c20",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/d2d53d4bb262f517a227cc178a1648094ba54c20"
+  },
+  "tag": "v0.5.5-rc1",
+  "message": "2011.08.26, Version 0.5.5 (unstable)\n\n* typed arrays, implementation from Plesk\n\n* fix IP multicast on SunOS\n\n* fix DNS lookup order: IPv4 first, IPv6 second (--use-uv only)\n\n* remove support for UNIX datagram sockets (--use-uv only)\n\n* UDP support for Windows (Bert Belder)\n\n* #1572 improve tab completion for objects in the REPL (Nathan Rajlich)\n\n* #1563 fix buffer overflow in child_process module (reported by Dean McNamee)\n\n* #1546 fix performance regression in http module (reported by Brian Geffon)\n\n* #1491 add PBKDF2 crypto support (Glen Low)\n\n* #1447 remove deprecated http.cat() function (Mikeal Rogers)\n\n* #1140 fix incorrect dispatch of vm.runInContext's filename argument\n  (Antranig Basman)\n\n* #1140 document vm.runInContext() and vm.createContext() (Antranig Basman)\n\n* #1428 fix os.freemem() on 64 bits freebsd (Artem Zaytsev)\n\n* #1164 make all DNS lookups async, fixes uncatchable exceptions\n  (Koichi Kobayashi)\n\n* fix incorrect ssl shutdown check (Tom Hughes)\n\n* various cmake fixes (Tom Hughes)\n\n* improved documentation (Koichi Kobayashi, Logan Smyth, Fedor Indutny,\n  Mikeal Rogers, Maciej Małecki, Antranig Basman, Mickaël Delahaye)\n\n* upgrade libuv to commit 835782a\n\n* upgrade V8 to 3.5.8\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

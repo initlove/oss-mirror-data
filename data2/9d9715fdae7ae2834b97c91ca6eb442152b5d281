@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAxNzQyOjlkOTcxNWZkYWU3YWUyODM0Yjk3YzkxY2E2ZWI0NDIxNTJiNWQyODE=",
+  "sha": "9d9715fdae7ae2834b97c91ca6eb442152b5d281",
+  "url": "https://api.github.com/repos/tornadoweb/tornado/git/tags/9d9715fdae7ae2834b97c91ca6eb442152b5d281",
+  "tagger": {
+    "name": "Ben Darnell",
+    "email": "ben@bendarnell.com",
+    "date": "2017-04-20T13:32:30Z"
+  },
+  "object": {
+    "sha": "e4f26acdabca32f6cc94a2681fb518dbce132688",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tornadoweb/tornado/git/commits/e4f26acdabca32f6cc94a2681fb518dbce132688"
+  },
+  "tag": "v4.5.1",
+  "message": "What's new in Tornado 4.5\n\nApr 16, 2017\n------------\n\n`tornado.log`\n~~~~~~~~~~~~~\n\n- Improved detection of libraries for colorized logging.\n\n`tornado.httputil`\n~~~~~~~~~~~~~~~~~~\n\n- `.url_concat` once again treats None as equivalent to an empty sequence.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

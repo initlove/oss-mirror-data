@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODc4NTk5MDg6ZDJjZWFkYzEzMDQ2YjRmODdkNzUyYzA2NjI2NDBmZjA1ZmZhN2QwMQ==",
+  "sha": "d2ceadc13046b4f87d752c0662640ff05ffa7d01",
+  "url": "https://api.github.com/repos/micrometer-metrics/micrometer/git/tags/d2ceadc13046b4f87d752c0662640ff05ffa7d01",
+  "tagger": {
+    "name": "Jon Schneider",
+    "email": "jschneider@pivotal.io",
+    "date": "2018-11-29T18:59:21Z"
+  },
+  "object": {
+    "sha": "3e437adcc29f31b966aca07fc110e76aae56cb27",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micrometer-metrics/micrometer/git/commits/3e437adcc29f31b966aca07fc110e76aae56cb27"
+  },
+  "tag": "v1.0.8",
+  "message": "Release of 1.0.8\n\n- 3e437adcc29f31b966aca07fc110e76aae56cb27: Polish\n- 328a8b05fab18e4b76b1b698c5720ca5c662b2ef: Making sure TimedAspect does not disrupt the application flow when there is an exception recording a metric\n- 5494daaee9014e3bf372e87db45d268d416f71e7: Fix that deny filters always take precedence\n- 30f6f48b1dcef65e84f92b7574fac99a9340ec16: Remove logging of metrics line on sout\n- 239da0af72998e5302cfd979bb26f6c9811a586f: Include meter name in exception message\n- 810b26ec07d40d5665da7ecdb4346d4828c78100: Add endpoint-enabled condition to prometheus endpoint\n- 1ad21adec36202a941c48e70042f2d59bdb50c26: Fix telegraf statsd line sanitization\n- a06dc7671c9110f9846992b146db2c6fa9640ead: Use Commons Logging for WebMvcMetricsFilter\n- 31bfa4df2fb7712f24af83b6b2b8216fc4ee162b: Remove an unused import in WavefrontPropertiesConfigAdapter\n- 237a1acaf3c9bcb81eeefc17614c86976c0107db: WavefrontPropertiesConfigAdapter extends StepRegistryPropertiesConfigAdapter (fixes ##929)\n- fe3045bf8f30ca61f9d5f0cf88706c26c22c63dd: Fix spring.aop.auto property reference\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

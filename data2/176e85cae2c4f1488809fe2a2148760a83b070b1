@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MTc2ZTg1Y2FlMmM0ZjE0ODg4MDlmZTJhMjE0ODc2MGE4M2IwNzBiMQ==",
+  "sha": "176e85cae2c4f1488809fe2a2148760a83b070b1",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/176e85cae2c4f1488809fe2a2148760a83b070b1",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-07-12T21:35:03Z"
+  },
+  "object": {
+    "sha": "b5b84197ed037918fd1a26e5cb87cce7c812ca55",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/b5b84197ed037918fd1a26e5cb87cce7c812ca55"
+  },
+  "tag": "v0.11.4",
+  "message": "2013.07.12, Version 0.11.4 (Unstable)\n\n* npm: Upgrade to 1.3.4\n\n* v8: Upgrade to v3.20.2\n\n* c-ares: Upgrade to piscisaureus/cares@805d153\n\n* timers: setImmediate process full queue each turn (Ben Noordhuis)\n\n* http: Add agent.get/request methods (isaacs)\n\n* http: Proper KeepAlive behavior (isaacs)\n\n* configure: fix the --without-ssl option (Nathan Rajlich)\n\n* buffer: propagate originating parent (Trevor Norris)\n\n* tls_wrap: return Error not throw for missing cert (Timothy J Fontaine)\n\n* src: enable native v8 typed arrays (Ben Noordhuis)\n\n* stream: objectMode transform should allow falsey values (Jeff Barczewski)\n\n* slab_allocator: remove SlabAllocator (Trevor Norris)\n\n* crypto: fix memory leak in LoadPKCS12 (Fedor Indutny)\n\n* tls: export TLSSocket (Fedor Indutny)\n\n* zlib: allow changing of level and strategy (Brian White)\n\n* zlib: allow custom flush type for flush() (Brian White)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlHgdocACgkQfTP/nQJGQG1wxgCghyMzMLDOYQcBr97DY6VVRSR3\n7+4AoPHJkp8aMiT3+vkCfv6BzN0DmfQu\n=GMPP\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlHgdocACgkQfTP/nQJGQG1wxgCghyMzMLDOYQcBr97DY6VVRSR3\n7+4AoPHJkp8aMiT3+vkCfv6BzN0DmfQu\n=GMPP\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b5b84197ed037918fd1a26e5cb87cce7c812ca55\ntype commit\ntag v0.11.4\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1373664903 -0700\n\n2013.07.12, Version 0.11.4 (Unstable)\n\n* npm: Upgrade to 1.3.4\n\n* v8: Upgrade to v3.20.2\n\n* c-ares: Upgrade to piscisaureus/cares@805d153\n\n* timers: setImmediate process full queue each turn (Ben Noordhuis)\n\n* http: Add agent.get/request methods (isaacs)\n\n* http: Proper KeepAlive behavior (isaacs)\n\n* configure: fix the --without-ssl option (Nathan Rajlich)\n\n* buffer: propagate originating parent (Trevor Norris)\n\n* tls_wrap: return Error not throw for missing cert (Timothy J Fontaine)\n\n* src: enable native v8 typed arrays (Ben Noordhuis)\n\n* stream: objectMode transform should allow falsey values (Jeff Barczewski)\n\n* slab_allocator: remove SlabAllocator (Trevor Norris)\n\n* crypto: fix memory leak in LoadPKCS12 (Fedor Indutny)\n\n* tls: export TLSSocket (Fedor Indutny)\n\n* zlib: allow changing of level and strategy (Brian White)\n\n* zlib: allow custom flush type for flush() (Brian White)\n"
+  }
+}

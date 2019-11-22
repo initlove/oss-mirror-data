@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODpjYzFjNTIzMWZjNGVkYTBhNjkyNGY0ZDc5YzBkMjhiZDI5MzFjNmQ0",
+  "sha": "cc1c5231fc4eda0a6924f4d79c0d28bd2931c6d4",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/cc1c5231fc4eda0a6924f4d79c0d28bd2931c6d4",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-02-29T21:32:59Z"
+  },
+  "object": {
+    "sha": "b3d74a55cb496427f954628dfe07e59cb965bdf7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/b3d74a55cb496427f954628dfe07e59cb965bdf7"
+  },
+  "tag": "v1.4.24",
+  "message": "Release of 1.4.24\n\n- b3d74a55cb496427f954628dfe07e59cb965bdf7: Merge pull request #1113 from mattrjacobs/backport-closeable-to-14x\n- b6fa398657f23609df1c5d640c04f13cf546fb97: Made HystrixRequestContext Closeable so we can leverage try-with-resources on java 7 and forward\n- ced9f74b395f85cf1ec22ff0469e42ed8b703218: Merge pull request #1112 from mattrjacobs/upgrade-14x-nebula-oss\n- 0d385916cc83c4e6951a54321c9cb2f21239ad6a: Removing println in build.gradle\n- 9ef5b6eab24b77bb39e56f95e0eb93fd353df671: Merge pull request #1110 from mattrjacobs/upgrade-14x-to-rx-1-1-1\n- a0d97f8a06a503b01cd9da9412544be28b383539: Special casing the 2 WAR artifacts to not have POMs rewritten\n- e5978f97fa2fa8c1093b5ab327188ee9a61f2679: Upgrade netflixoss Nebula plugin to 3.2.3\n- 6869ec38517512e76e2cc1c7c78767e94b287f4a: Upgrade to RxJava 1.1.1\n- c7f9cfbdc780667a3a594297382db75a786e005a: Merge pull request #1108 from jhinch/javanica-plugins-concurrency-strategy\n- 6f162a796437c3dac26a1a1fd16d6e539f37f38b: Javanica HystrixRequestCacheManager should use the concurrency strategy from HystrixPlugins, not the default one directly\n- ce6c0b224780925028deedfa0a7e64e6b5886338: Update CHANGELOG.md\n- 0dac15bb3a5409ed4cf5890c5964a4ff75b1f79f: Merge pull request #1049 from mattrjacobs/cleanup-unused-imports\n- c721ad97a996c724313d0f1cf182cdc38ab8f589: Cleanup unused imports from #1032\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OmNhNDkzN2NkODE2MjAyNTM3MTc2MjIxYTVmZDZkODhjMzhjYzJiMTg=",
+  "sha": "ca4937cd816202537176221a5fd6d88c38cc2b18",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/ca4937cd816202537176221a5fd6d88c38cc2b18",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "sm2@schillmania.com",
+    "date": "2011-01-25T03:48:21Z"
+  },
+  "object": {
+    "sha": "8bc4fc4598e0de5e7003921928e6212d2e7e1244",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/8bc4fc4598e0de5e7003921928e6212d2e7e1244"
+  },
+  "tag": "V2.97a.20110123",
+  "message": "V2.97a.20110123 - HTML5 audio improvements for desktop + mobile (iOS), 360° UI demo tweaks\n\nTweaks to HTML5 features, \"mixed-mode\" HTML5 + flash cases, desktop and iOS tweaks. Improved sound re-use and \"play-through\" on iOS (believed previously working, may have regressed with iOS 4.2.1.) Code clean-up and shuffling of homepage, 360° demo (jslinted and improved functionality), load({options}) fix, better handling of broken Safari/Snow Leopard audio case.\n\n    *\n\n      Bug fixes\n          o Fix for soundManager.load({options}) / SMSound.load({options})-specific case (regular load() sans-parameters was fine), where load({onload:...}) would fail if a URL parameter was not specified. load({url:...,onload:...}) was OK. If unspecified, load now takes URL from SMSound.url.\n          o Fixed unload/replay case on iOS: play sound #1, interrupt it by starting sound #2, then play sound #1 again - previously, #1 would fail on replay due to interrupted state since iOS only allows one sound at a time. Should now restart OK. (This applies to the new soundManager.useGlobalHTML5Audio stuff.) Playlist auto-advance looks to be OK as well.\n    *\n\n      API Updates\n          o New (experimental) soundManager.useGlobalHTML5Audio property - if true (default for iOS/mobile), reuses a single Audio() object for loading sound. Helps make playlist / onfinish()->play() work on iOS without user interaction.\n          o New (experimental) soundManager.requireFlash property (default: false.) If true, prevents HTML5-only mode on devices with both HTML5 and Flash. May be useful when HTML5 is enabled (and can play MP3), but Flash is desired to play RTMP content etc. As of this version, will only use Flash for RTMP.\n          o HTML5: Fix for type:'audio/mp3' returning false on canPlay(). Timer update-while-paused tweak.\n          o HTML5: More event listeners, ignore events on destroyed sounds, improved event clean-up, \"seek before load\" fix\n    *\n\n      Miscellaneous\n          o Improved broken Safari/Snow Leopard HTML5 audio situation: HTML5 mode is no longer disabled - and if available, Flash is used to play MP3/MP4 content to work around known playback issues with native HTML5 audio.\n          o (Finally) report \"true\" position of MovieStar (MPEG4/AAC) content while scrubbing a playing/paused sound. Previously did not fire updates while scrubbing. Imperfect on resume due to buffer, but should be negligible and an improvement vs. old behaviour.\n          o 360° player refresh, works with multiple types (eg. small 48x48 square vs. large 256x256 square w/spectrum + EQ visualizations) on the same page now. Can play and seek simultaneously, as well. More configurable. Removed old empty.gif + imageRoot junk. Core JS now appeases the jslint gods.\n          o Code clean-up, removed undocumented/experimental playOnSeek and related methods from a prior fork.\n          o Fresh homepage demo design/layout, should be nicer for new users.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

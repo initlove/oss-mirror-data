@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzUyMDY5NzI6MDk1YmE5ZDgzNTYwOGQwODM5MGQ0YzViNmQxZmNkMmFhMTdjNWU0OQ==",
+  "sha": "095ba9d835608d08390d4c5b6d1fcd2aa17c5e49",
+  "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/tags/095ba9d835608d08390d4c5b6d1fcd2aa17c5e49",
+  "tagger": {
+    "name": "stratiocommit",
+    "email": "asistemas@stratio.com",
+    "date": "2016-05-19T19:24:27Z"
+  },
+  "object": {
+    "sha": "b800a587463704539bab73bddb94f3d34e22b9c4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/commits/b800a587463704539bab73bddb94f3d34e22b9c4"
+  },
+  "tag": "3.0.5.1",
+  "message": " * Upgrade to Apache Lucene 5.5.1\n\n * Add support for old dummy column syntax (Spark compatibility and score retrieval)\n\n * Add option to use doc values in match, contains and range searches\n\n * Add heuristic to build token range queries according to their selectivity\n\n * Add transformation for getting the convex hull of a geographical shape\n\n * Add early termination in inner pagination (improves allow filtering performance)\n\n * Remove indexed/sorted mapping options, all mappers store doc values when possible\n\n * Fix invalid WKT shapes by zero-buffering them\n\n * Fix memory consumption issues with high fetch sizes\n\n * Fix clustering key filtering with better token prefix collation\n\n * Fix deletion of unique component of a collection (#132)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

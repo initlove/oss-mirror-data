@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOjFhYjgyOWQwMDBiZjE2ZTFjMDNjMzhhYTUwY2ZlMzNkMWFkNzk2ZDQ=",
+  "sha": "1ab829d000bf16e1c03c38aa50cfe33d1ad796d4",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/1ab829d000bf16e1c03c38aa50cfe33d1ad796d4",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-08-25T03:50:52Z"
+  },
+  "object": {
+    "sha": "8b162ba21f06272f915070473640d493dd70beec",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/8b162ba21f06272f915070473640d493dd70beec"
+  },
+  "tag": "16.0.0.0rc2",
+  "message": "nova 16.0.0.0rc2 release candidate\n\nmeta:version: 16.0.0.0rc2\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I3e610842b2d40e922d57d82556094d1e2c448a1c\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZn56cAAoJEOtsyhSD+nTswGgIALY6iF1cMs+N3zBuTriZiWlm\n7JCy+czB+rnVCnA2r+nXKGxrzW4u2yRYOSPpwgoHSUSw8Kvi0wYT9kVXivRGkxHa\n1kZh9ppJnvE7tTLIUIg+CNHZ7uAyhsRJDn0qF6uefC8nu+0EPz/L7qn2vq8k43er\nJgCJnjrI+C5grv5EeXyMCwjXCLZEA0abIs3BNES8cTVUDg9+g6OCw/WYXoixsZJT\n4+aDvzQPb/+gASLOOEGfvJDEJVhFYuWlzgXgESNiuClma5fovbrXttuagNZ0RY+t\n4n/JQzoHY1ipzoWrHulhtgH7Mm/A2Og4VTHyFwnJttwH+X1Rd7/xHBmgjZB6sBk=\n=k2vO\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZn56cAAoJEOtsyhSD+nTswGgIALY6iF1cMs+N3zBuTriZiWlm\n7JCy+czB+rnVCnA2r+nXKGxrzW4u2yRYOSPpwgoHSUSw8Kvi0wYT9kVXivRGkxHa\n1kZh9ppJnvE7tTLIUIg+CNHZ7uAyhsRJDn0qF6uefC8nu+0EPz/L7qn2vq8k43er\nJgCJnjrI+C5grv5EeXyMCwjXCLZEA0abIs3BNES8cTVUDg9+g6OCw/WYXoixsZJT\n4+aDvzQPb/+gASLOOEGfvJDEJVhFYuWlzgXgESNiuClma5fovbrXttuagNZ0RY+t\n4n/JQzoHY1ipzoWrHulhtgH7Mm/A2Og4VTHyFwnJttwH+X1Rd7/xHBmgjZB6sBk=\n=k2vO\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8b162ba21f06272f915070473640d493dd70beec\ntype commit\ntag 16.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1503633052 +0000\n\nnova 16.0.0.0rc2 release candidate\n\nmeta:version: 16.0.0.0rc2\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I3e610842b2d40e922d57d82556094d1e2c448a1c\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDk0MTg2NzozNjBiYzBkZTc2MzU3NWRkZWE5ZTA2YmQyMWQ4N2M0MTUxYjgzZmVi",
+  "sha": "360bc0de763575ddea9e06bd21d87c4151b83feb",
+  "url": "https://api.github.com/repos/Netflix/governator/git/tags/360bc0de763575ddea9e06bd21d87c4151b83feb",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-05-28T18:37:42Z"
+  },
+  "object": {
+    "sha": "0177a86b4374c69aa9b3a7031b20c24d550d3018",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/governator/git/commits/0177a86b4374c69aa9b3a7031b20c24d550d3018"
+  },
+  "tag": "v1.7.2",
+  "message": "Release of 1.7.2\n\n- 0177a86b4374c69aa9b3a7031b20c24d550d3018: Merge pull request #209 from qiangdavidliu/master\n- 33ff44aab08ce8856249d1cd64d95af63b269526: Moving governator annotations to governator-annotations module.\n- cccdbbac7e2e6cafac6cbac34a1cbe7262d386c2: Merge pull request #208 from elandau/nextgen\n- 3ef99e1606cce89fcb1ab4a7a4fab14034839a12: Add governator-jetty subproject to easily create a Governated Jetty Server Separate the shutdown signal from LifecycleManager so it's implementation can vary based on container type\n- 3f90686cb67e0ec863c66f7a0bc7ba7a76c450a3: Merge pull request #207 from elandau/nextgen\n- 126bad2906160a3f53106b09fa0969d194b8f05f: Simplify GovernatorServletContextListener\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

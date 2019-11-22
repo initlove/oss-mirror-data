@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODphYWM0MzQ0ZWU1ZjdkN2Q4ODZiMTI2NTE0N2NiYmU0ODNiNWMwNDgw",
+  "sha": "aac4344ee5f7d7d886b1265147cbbe483b5c0480",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/aac4344ee5f7d7d886b1265147cbbe483b5c0480",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-06-21T18:59:12Z"
+  },
+  "object": {
+    "sha": "14a4611402465b37182bdc836cefffb6affef8b2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/14a4611402465b37182bdc836cefffb6affef8b2"
+  },
+  "tag": "v1.4.12",
+  "message": "Release of 1.4.12\n\n- 14a4611402465b37182bdc836cefffb6affef8b2: Merge pull request #826 from mattrjacobs/safely-handle-negative-delay\n- a2b2dc65ad4d71d0d17990308b82e4602f3fcd5b: Safely handle negative input on the delay input to metrics-stream\n- 61152a0a27ab3ad8e0f51d210d149acadbf6841d: Merge pull request #825 from mattrjacobs/remove-bucket-resizing-rolling-number\n- dbd322698b2669ee1962a211fe58e545166b3a29: Only allow bucket configuration to take effect on HystrixRollingNumber creation\n- 75f663d193b2ab18668f5818c99f0815eb442a91: Merge pull request #824 from mattrjacobs/remove-bucket-size-recalculation\n- b33622a5e50c46d7d747440c4913a9121b3b17cc: Make values for HystrixRollingPercentile bucket calculation only affect construction, and never runtime.\n- 97749b78d61a91297a56a716373049f4cf5e1ef0: Merge pull request #823 from fhopeman/master\n- faa146e0bea7ba796a810065f5bc4ec5d834f2c5: fix half hidden mean metric because of container height\n- 0e8fc7ca573f91f4cda4bf089ee20ddec288da87: Merge pull request #818 from mattrjacobs/only-check-max-queue-size-prop-on-thread-pool-init\n- dbf913f4a3562bd00105736adff61b912af707c1: Modify logic to only check the dynamic maxQueueSize property on creation of a threadPool\n- d561dcb2ebb8ac0ea29e517811323933dbf72590: Update CHANGELOG.md\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

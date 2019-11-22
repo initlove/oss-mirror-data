@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzUyMDY5NzI6MGZlNjFkYjNkYzNlOTI3ODZlOTg0ZmFhY2U1ZDcyNzk2NmQyNjMwNg==",
+  "sha": "0fe61db3dc3e92786e984faace5d727966d26306",
+  "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/tags/0fe61db3dc3e92786e984faace5d727966d26306",
+  "tagger": {
+    "name": "stratiocommit",
+    "email": "asistemas@stratio.com",
+    "date": "2016-10-06T16:59:44Z"
+  },
+  "object": {
+    "sha": "cb90786352cb7bb5262cb218dadc17c658d08555",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/commits/cb90786352cb7bb5262cb218dadc17c658d08555"
+  },
+  "tag": "3.7.3",
+  "message": " * Add support for indexing non-frozen UDTs\n\n Merged from 3.0.8.3:\n\n * Optimize clustering key index format \\(breaks backward compatibility\\)\n\n Merged from 3.0.8.2:\n\n * Allow associativity in search-time geospatial transformations\n\n * Simplify naming of builder static methods for creating geospatial transformations\n\n * Fix paged index-sorted queries matching more than 65535 rows\n\n * Fix partition directed queries using dummy column syntax in skinny tables\n\n Merged from 3.0.8.1:\n\n * Upgrade query builder JSON serializer to Jackson 2.8.0\n\n * Add geospatial post filtering \\(ensures accuracy with any tree levels\\)\n\n * Set default number of indexing threads to number of processors available to the JVM\n\n * Fix mapping of timestamps and dates by their underlying numeric value \\(_177\\)\n\n * Fix mapper referenced by alias in sortFields\n\n Merged from 3.0.7.2:\n\n * Modernize search syntax keeping backward compatibility\n\n * Add Lucene-specific CQL tracing\n\n * Fix parsing of data with CQL \\\"date\\\" type \\(_158\\)\n\n * Fix handling of immense term insertion mapping error\n\n * Fix indexing of tables with descending clustering key order \\(_165\\)\n\n Merged from 3.0.7.1:\n\n * Fix clustering query collisions in Lucene's query cache\n\n Merged from 3.0.8.2:\n\n * Optimize clustering key index format \\(breaks backward compatibility\\)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

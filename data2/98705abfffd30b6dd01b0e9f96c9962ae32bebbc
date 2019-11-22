@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOjk4NzA1YWJmZmZkMzBiNmRkMDFiMGU5Zjk2Yzk5NjJhZTMyYmViYmM=",
+  "sha": "98705abfffd30b6dd01b0e9f96c9962ae32bebbc",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/98705abfffd30b6dd01b0e9f96c9962ae32bebbc",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-03-07T14:16:59Z"
+  },
+  "object": {
+    "sha": "aa4edd349dde73739527ab793ff6209fe1907e2c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/aa4edd349dde73739527ab793ff6209fe1907e2c"
+  },
+  "tag": "12.0.2",
+  "message": "nova 12.0.2 release\n\nmeta:version: 12.0.2\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJW3Y1bAAoJEDttBqDEKEN6GLgH/0Sgfarzsl42CJoPsIOwkx45\nOoBq5Im86nfT+87yO5Wimg1qFPhDimqFAzRr5atbKjI4GUfko/E2USHU/KvuSa61\njv3b3KfS9SabBwClZPEA2QrwZK/lIUSO9w2hYwn/au1YjkS+8JyPnnl9+95HzQ5s\nRfJY4cDJQ/Fjn6OuhWZTCab1RwWNj+UpbUjcK/rnQtD44GeZvyzU7mUMgRNa08w4\nsVJ9Bc9lIIUuEtyBx9A9/xu3J3gwBvM0Mc1hmQxSpha3FRl+a0zB6mIpeFOYER5S\nmW/RMNpAoacnmllUH+CH9scZNtfcKloKbdQtLtosPC4xRUqIM8l7YI4HY/Bmmvw=\n=szG5\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJW3Y1bAAoJEDttBqDEKEN6GLgH/0Sgfarzsl42CJoPsIOwkx45\nOoBq5Im86nfT+87yO5Wimg1qFPhDimqFAzRr5atbKjI4GUfko/E2USHU/KvuSa61\njv3b3KfS9SabBwClZPEA2QrwZK/lIUSO9w2hYwn/au1YjkS+8JyPnnl9+95HzQ5s\nRfJY4cDJQ/Fjn6OuhWZTCab1RwWNj+UpbUjcK/rnQtD44GeZvyzU7mUMgRNa08w4\nsVJ9Bc9lIIUuEtyBx9A9/xu3J3gwBvM0Mc1hmQxSpha3FRl+a0zB6mIpeFOYER5S\nmW/RMNpAoacnmllUH+CH9scZNtfcKloKbdQtLtosPC4xRUqIM8l7YI4HY/Bmmvw=\n=szG5\n-----END PGP SIGNATURE-----\n",
+    "payload": "object aa4edd349dde73739527ab793ff6209fe1907e2c\ntype commit\ntag 12.0.2\ntagger Doug Hellmann <doug@doughellmann.com> 1457360219 -0500\n\nnova 12.0.2 release\n\nmeta:version: 12.0.2\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n"
+  }
+}

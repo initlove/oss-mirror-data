@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODpmMzQ0NGFiNDE5NjdkMmE3ODI0YTA3NGJkMTdmZGM4YzZkYjk0YWNj",
+  "sha": "f3444ab41967d2a7824a074bd17fdc8c6db94acc",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/f3444ab41967d2a7824a074bd17fdc8c6db94acc",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-05-01T17:29:03Z"
+  },
+  "object": {
+    "sha": "24d01699e205e3d7ba3f65000c85103c6f6e8e83",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/24d01699e205e3d7ba3f65000c85103c6f6e8e83"
+  },
+  "tag": "v1.4.7",
+  "message": "Release of 1.4.7\n\n- 24d01699e205e3d7ba3f65000c85103c6f6e8e83: Merge pull request #783 from mattrjacobs/upgrade-rx-1-10\n- d263309e389122983c3071cdb58a6c929b33a5c4: Upgrade RxJava to 1.0.10\n- 99e3172a767129fbfd83acda0d2cffb10dcb7976: Merge pull request #781 from mattrjacobs/shorten-collapser-stress-test\n- e73d9c8a009ea24a7833c44239de55364ddb7103: Shorten stress test of HystrixObservableCollapser from 1000 -> 100 to limit OOM problems\n- 57df50b7e862741ca0900d369de4159e969dbecd: Merge pull request #780 from mattrjacobs/allow-hooks-to-throw-safely\n- 56e5664b562458efed0ac6d5bbfe641e02bd9b3d: Incorrect log messages\n- 92ecdac4da0e52cb79f9160c2273bc718d169dee: More precise solution to #771\n- eef7eb3ee8fa7255229701bb61843e863443e290: Revert \"Handle hook failures more gracefully\"\n- 1114a5b47271c0383dd8767560addab10cdacbcb: Revert \"Add try-catch to all hook executions\"\n- 89c25695926ebc3cef69b577540d2f8aa1bc495b: Merge pull request #779 from mattrjacobs/rebased-hdr-histogram\n- e7c9e987a8efcd208ebcfd99167c191d39930783: Merge pull request #778 from mattrjacobs/more-forks-for-jmh\n- a364a3d83f3bf675ad0b459f8e216c4a21acbb1a: Update CHANGELOG.md\n- e3ea42521a3f7f8c1af560f2b5115c82f6b24ebe: Replaced internal data structure of HystrixRollingPercentile with HdrHistogram * Also fixed some incorrect assertions around how percentile was being calculated\n- 2779e89ea9ea18e946604063963a472a2ede4c7d: Added dependency on HdrHistogram 2.1.4\n- b3f6b019cc51e64e3e376e59f6424e09cf42ea8c: Use more forks and less iterations/fork in JMH config\n- b552e667f54d5ef9acdb174cffc60059a743a593: Merge pull request #776 from mattrjacobs/add-bad-request-to-dashboard\n- 892f6a781e67f153b0bf2f7387c87ca0721955c2: Added Bad Request count to Hystrix dashboard\n- 473a531f7135bcd8534d7176494d30047c92fef0: Merge pull request #775 from mattrjacobs/add-counters-for-hystrix-quantities\n- f94ce744f9d57f7194a4133388eae47796662c41: Add HystrixCounters methods to return number of commands/threadpools/groups\n- f5a605f99443db3f331183682760563b92853520: Merge pull request #774 from mattrjacobs/add-concurrent-hystrix-thread-metric\n- dd5fba4edc007a5f42db9e730225671bf10da26f: Added HystrixCounters to hold global metrics on Hystrix behavior\n- 4ca3b230d0b9eaa26b7f0b8e0861f2048610f141: Update CHANGELOG.md\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

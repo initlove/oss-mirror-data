@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NDQ2OTA1MjgwMDI0ZTJlNzlkOGUzYWYzZmE3ZDAzOGRlYjc3Zjc1YQ==",
+  "sha": "446905280024e2e79d8e3af3fa7d038deb77f75a",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/446905280024e2e79d8e3af3fa7d038deb77f75a",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-02-22T09:32:36Z"
+  },
+  "object": {
+    "sha": "bb0d1e65e1671aaeb21fac186b066701da0bc33b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/bb0d1e65e1671aaeb21fac186b066701da0bc33b"
+  },
+  "tag": "v0.1.30",
+  "message": "2010.02.22, Version 0.1.30\n\n  * Major API Changes\n\n    - Promises removed. See\n      http://groups.google.com/group/nodejs/msg/426f3071f3eec16b\n      http://groups.google.com/group/nodejs/msg/df199d233ff17efa\n      The API for fs was\n\n         fs.readdir(\"/usr\").addCallback(function (files) {\n           puts(\"/usr files: \" + files);\n         });\n\n      It is now\n\n         fs.readdir(\"/usr\", function (err, files) {\n           if (err) throw err;\n           puts(\"/usr files: \" + files);\n         });\n\n    - Synchronous fs operations exposed, use with care.\n\n    - tcp.Connection.prototype.readPause() and readResume()\n      renamed to pause() and resume()\n\n    - http.ServerResponse.prototype.sendHeader() renamed to\n      writeHeader(). Now accepts reasonPhrase.\n\n  * Compact garbage on idle.\n\n  * Configurable debug ports, and --debug-brk (Zoran Tomicic)\n\n  * Better command line option parsing (Jeremy Ashkenas)\n\n  * Add fs.chmod (Micheil Smith), fs.lstat (Isaac Z. Schlueter)\n\n  * Fixes to process.mixin (Rasmus Andersson, Benjamin Thomas)\n\n  * Upgrade V8 to 2.1.1\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

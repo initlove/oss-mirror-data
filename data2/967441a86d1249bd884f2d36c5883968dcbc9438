@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTo5Njc0NDFhODZkMTI0OWJkODg0ZjJkMzZjNTg4Mzk2OGRjYmM5NDM4",
+  "sha": "967441a86d1249bd884f2d36c5883968dcbc9438",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/967441a86d1249bd884f2d36c5883968dcbc9438",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-06-15T10:32:04Z"
+  },
+  "object": {
+    "sha": "bc1b6dd93e8dde6311de5714029faef78220a83e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/bc1b6dd93e8dde6311de5714029faef78220a83e"
+  },
+  "tag": "5.7.0",
+  "message": "Version 5.7.0\n\n### Bug fixes\n\nFix crash in walker when walking a binding-less catch node.\n\n### New features\n\nUpgraded to Unicode 11.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlsjlbUACgkQcD8b7W0z\nrh4T7AgAwrw/zyLNM8Bnktbbn+nGCcFMkzuqJ5ZRvoZcjQjHBBc6ENqMurugvRop\nYB/Uovn4st6VxwTDkSJfgrvmICBtWqTangfj0Q1rZ8lMAboRT2n+J4qEHQcGauVW\nb3X4SduqtAuQIeBGq6GHQd7YFjwI4r2DMNcRunGqwqL/cWaiVoGAGsdwgrwlSaG/\nJbieAzVlR+gMpSMPfPMzWq0hKZB47XZv+1COTMlreIKZSWpB52d/QnkD6KbpvAjt\nxHXPoQI7F3yJe8ZUvZXKT18apiHItlmfpUo1vDov3TT0coE0nmWNJ+olDwwFodSi\n0H5pwNktWaTZbQIHYMlhmvA05PcGPQ==\n=ykoU\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlsjlbUACgkQcD8b7W0z\nrh4T7AgAwrw/zyLNM8Bnktbbn+nGCcFMkzuqJ5ZRvoZcjQjHBBc6ENqMurugvRop\nYB/Uovn4st6VxwTDkSJfgrvmICBtWqTangfj0Q1rZ8lMAboRT2n+J4qEHQcGauVW\nb3X4SduqtAuQIeBGq6GHQd7YFjwI4r2DMNcRunGqwqL/cWaiVoGAGsdwgrwlSaG/\nJbieAzVlR+gMpSMPfPMzWq0hKZB47XZv+1COTMlreIKZSWpB52d/QnkD6KbpvAjt\nxHXPoQI7F3yJe8ZUvZXKT18apiHItlmfpUo1vDov3TT0coE0nmWNJ+olDwwFodSi\n0H5pwNktWaTZbQIHYMlhmvA05PcGPQ==\n=ykoU\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bc1b6dd93e8dde6311de5714029faef78220a83e\ntype commit\ntag 5.7.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1529058724 +0200\n\nVersion 5.7.0\n\n### Bug fixes\n\nFix crash in walker when walking a binding-less catch node.\n\n### New features\n\nUpgraded to Unicode 11.\n"
+  }
+}

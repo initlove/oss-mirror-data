@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDk0MTg2NzpjZTUxMjNjOTdjMGU3NjQ5ZWM5NTNlYzJhNmMxYjAyYjViMjljZDlj",
+  "sha": "ce5123c97c0e7649ec953ec2a6c1b02b5b29cd9c",
+  "url": "https://api.github.com/repos/Netflix/governator/git/tags/ce5123c97c0e7649ec953ec2a6c1b02b5b29cd9c",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-02-19T22:27:42Z"
+  },
+  "object": {
+    "sha": "e5b2f43797e527a4699f95fb3603bc1d345ab572",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/governator/git/commits/e5b2f43797e527a4699f95fb3603bc1d345ab572"
+  },
+  "tag": "v1.12.8",
+  "message": "Release of 1.12.8\n\n- e5b2f43797e527a4699f95fb3603bc1d345ab572: Merge pull request #272 from twicksell/applicationEvents\n- 064a63223906894f78f6fdcb95b98f6dc774c775: make dispatcher eagerSingleton polish javadoc and exception handling\n- bca40b2b7909ad46e9eb57f0519dc83b4a94f1e1: refactor based on PR comments added handle to unregister event listeners\n- 659242d25642f3bb8a49af2080ac7f501386e431: Merge pull request #275 from qiangdavidliu/master\n- 9f23ac051800ac53064b14e1f1b4b33afa5be472: Merge pull request #274 from twicksell/servletDepCleanup\n- 606d939c44e02f337fafce191111ee817e757794: update nebula version for faster version calculations\n- 29d9e7ec0dce5a08b409efb0c3251911c18ca583: removed redundant and outdated servlet-api dependency\n- 80bca328abbd7b6c8e7d49661b3fa83cea8dec88: remove unneeded annotation\n- 789da2debb8a739f72a0ddc0774668d65dfdc6b1: added equals and hashcode overrides to modules\n- d60df57c4ffd4ac31bb0398a8d8a2f7277fa1254: removed redundant callback interface addded some javadoc\n- 262b8b66832a1e54e9616241097aeac83c2e8aee: separate interfaces and implementation add programmatic methods for registering event listeners\n- 20ef4ffa95d180951b84a1574ff7afc379e0711e: added a simple interface and implementation (guava) for application events\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

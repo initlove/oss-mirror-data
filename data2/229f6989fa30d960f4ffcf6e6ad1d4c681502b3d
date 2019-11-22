@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OToyMjlmNjk4OWZhMzBkOTYwZjRmZmNmNmU2YWQxZDRjNjgxNTAyYjNk",
+  "sha": "229f6989fa30d960f4ffcf6e6ad1d4c681502b3d",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/229f6989fa30d960f4ffcf6e6ad1d4c681502b3d",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-02-03T08:42:01Z"
+  },
+  "object": {
+    "sha": "482cf6ffa1c7f13d9cd9ccc48aaf8be5c1b2e95c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/482cf6ffa1c7f13d9cd9ccc48aaf8be5c1b2e95c"
+  },
+  "tag": "4.0.8",
+  "message": "Version 4.0.8\n\n### Bug fixes\n\nSolve spurious parenthesized pattern errors by temporarily erring on\nthe side of accepting programs that our delayed errors don't handle\ncorrectly yet.\n\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAliUQmUACgkQcD8b7W0z\nrh57zgf/XTNOtCkcwuzOGqqdgb8BMastl9aFGhmMUTZiY21bfcZZvEufCwzdmXKB\n4oHEGOlX1fCmIwhZIoBr+TeBg44nmyDV2M0gsDabzohN/Dk50Buv29l0rlJHBHWG\nAczC73IR1jFrsJVA2Ik+Auh52EffqR1/Rv5wl4Mm46YUGxXUCS/cKAppZbQjmfte\nKHg1zBvdn6LI8JVMbKecl2WeLgen4ZuEPyFaRaB74TcHj1YyvHP6zbdGffHkw1qG\nBAbg+3XjPpjePU0HK8rQ3odiSPUeDhrVITvj14fQXvJv/58891nnmVHqxDjgdbXE\nt7WYZ5FqMLDUFvkVNrkK4us+9iuN4g==\n=DQ0r\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAliUQmUACgkQcD8b7W0z\nrh57zgf/XTNOtCkcwuzOGqqdgb8BMastl9aFGhmMUTZiY21bfcZZvEufCwzdmXKB\n4oHEGOlX1fCmIwhZIoBr+TeBg44nmyDV2M0gsDabzohN/Dk50Buv29l0rlJHBHWG\nAczC73IR1jFrsJVA2Ik+Auh52EffqR1/Rv5wl4Mm46YUGxXUCS/cKAppZbQjmfte\nKHg1zBvdn6LI8JVMbKecl2WeLgen4ZuEPyFaRaB74TcHj1YyvHP6zbdGffHkw1qG\nBAbg+3XjPpjePU0HK8rQ3odiSPUeDhrVITvj14fQXvJv/58891nnmVHqxDjgdbXE\nt7WYZ5FqMLDUFvkVNrkK4us+9iuN4g==\n=DQ0r\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 482cf6ffa1c7f13d9cd9ccc48aaf8be5c1b2e95c\ntype commit\ntag 4.0.8\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1486111321 +0100\n\nVersion 4.0.8\n\n### Bug fixes\n\nSolve spurious parenthesized pattern errors by temporarily erring on\nthe side of accepting programs that our delayed errors don't handle\ncorrectly yet.\n\n"
+  }
+}

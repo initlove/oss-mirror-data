@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTo4ZTMwMmJkZjdhYmVmY2ZlMzc0Y2M0OWVmMTRmYWRmZmZmYzI2OTBk",
+  "sha": "8e302bdf7abefcfe374cc49ef14fadffffc2690d",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/8e302bdf7abefcfe374cc49ef14fadffffc2690d",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-12-28T13:58:05Z"
+  },
+  "object": {
+    "sha": "621f8691a840a4677e3153a3c06f0b7ecf9b8d46",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/621f8691a840a4677e3153a3c06f0b7ecf9b8d46"
+  },
+  "tag": "5.3.0",
+  "message": "Version 5.3.0\n\n### Bug fixes\n\nFix parsing of floating point literals with leading zeroes in loose mode.\n\nAllow duplicate property names in object patterns.\n\nDon't allow static class methods named `prototype`.\n\nDisallow async functions directly under `if` or `else`.\n\nParse right-hand-side of `for`/`of` as an assignment expression.\n\nStricter parsing of `for`/`in`.\n\nDon't allow unicode escapes in contextual keywords.\n\n### New features\n\nParsing class members was factored into smaller methods to allow plugins to hook into it.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlpE+IYACgkQcD8b7W0z\nrh5KKggAxkIpoljy9699dg1x9bCtclAXqV4sFxuwE3F6++lfpWXQykfOtjOdSdW1\noO1AzLng77aL34kyvFYrjvwrSPxzGw+AbYtMyZ3/nDp/pW/4hrGAcHjtny1bgK6S\nrHkgAwmDbik+0sigXTOp8ZYgVmDbVR+7fcnrUSrtljxlbcXHthpiaNR+qnH42En6\npfdA4VxADpxE5CFqDILVE0KYKfP/OKigO6Q1HOMj4fGLxWS20F0dmj3U4h5u60XG\nV6B81LmAf8Ea6sMEkxtgxVAAZkHX7j5OulyET6gKTuOvH3o8EL8eB0VjpWk5QT+g\n4FhxIhBiLBhjaMKGUJ5LRwNaOhc4TA==\n=5EHf\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlpE+IYACgkQcD8b7W0z\nrh5KKggAxkIpoljy9699dg1x9bCtclAXqV4sFxuwE3F6++lfpWXQykfOtjOdSdW1\noO1AzLng77aL34kyvFYrjvwrSPxzGw+AbYtMyZ3/nDp/pW/4hrGAcHjtny1bgK6S\nrHkgAwmDbik+0sigXTOp8ZYgVmDbVR+7fcnrUSrtljxlbcXHthpiaNR+qnH42En6\npfdA4VxADpxE5CFqDILVE0KYKfP/OKigO6Q1HOMj4fGLxWS20F0dmj3U4h5u60XG\nV6B81LmAf8Ea6sMEkxtgxVAAZkHX7j5OulyET6gKTuOvH3o8EL8eB0VjpWk5QT+g\n4FhxIhBiLBhjaMKGUJ5LRwNaOhc4TA==\n=5EHf\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 621f8691a840a4677e3153a3c06f0b7ecf9b8d46\ntype commit\ntag 5.3.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1514469485 +0100\n\nVersion 5.3.0\n\n### Bug fixes\n\nFix parsing of floating point literals with leading zeroes in loose mode.\n\nAllow duplicate property names in object patterns.\n\nDon't allow static class methods named `prototype`.\n\nDisallow async functions directly under `if` or `else`.\n\nParse right-hand-side of `for`/`of` as an assignment expression.\n\nStricter parsing of `for`/`in`.\n\nDon't allow unicode escapes in contextual keywords.\n\n### New features\n\nParsing class members was factored into smaller methods to allow plugins to hook into it.\n"
+  }
+}

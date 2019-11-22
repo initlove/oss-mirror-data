@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OmUxMTQzZTQxODg1ZmVlZDUxYjVlM2ZmMzJhZmQxNWZmZDJmYzMyMDU=",
+  "sha": "e1143e41885feed51b5e3ff32afd15ffd2fc3205",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/e1143e41885feed51b5e3ff32afd15ffd2fc3205",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "spam@schillmania.com",
+    "date": "2013-01-01T20:14:22Z"
+  },
+  "object": {
+    "sha": "e0a7da5849377daad2a9e7344f882bebdedf8980",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/e0a7da5849377daad2a9e7344f882bebdedf8980"
+  },
+  "tag": "V2.97a.20130101",
+  "message": "V2.97a.20130101 - Strict Mode. Android 2.3 HTML5 fixes, cleaner debug output, improved default flashblock handling. Confirmed compatibility with Firefox WMF-based HTML5 MP3 support. New reset() method, reboot() tweaks.\n\n    Bug fixes\n\n        HTML5: Reset last URL and load state for \"singleton\" (global HTML5 audio) case, on iOS + Android <= 2.3 for specific use case - createSound() -> play() -> destruct() -> createSound() -> play() with same URL/parameters.\n\n        HTML5: Fix for Android 2.3 / Nexus 7 - they work better with the singleton HTML5 audio() instance as well, same as iOS, for chained (i.e., playlist-style) playback cases.\n\n        soundManager.setup() now allows html5Test (regular expression, eg. /probably|maybe/i) to be passed. Was previously unrecognized/rejected.\n\n    API Updates\n\n        The SoundManager 2 core API (soundmanager2.js) now runs in Strict Mode, via \"use strict\";. This is scoped to a closure within soundmanager2.js, and should not cause issues when combined (rolled-up and/or minified) with other JavaScript code.\n\n        New soundManager.reset() method. Similar to reboot(), but also nukes any registered onready() and related callbacks. Based on pull request from Github user jabr. Chaining is now possible too, e.g., soundManager.reset().setup({onready:function(){console.log('reset() complete, reboot OK')}});. Call soundManager.beginDelayedInit() to re-init after a reset().\n\n        soundManager.setup({url:...}) + lazy-loading (dynamically-loaded JS) case: If setup() given a url parameter after DOMContentLoaded has fired, assume we should start right away. (Helps reduce need for beginDelayedInit() + \"just works\" for most users).\n\n        Don't init inline after document.readyState === 'complete' (improve lazy-loading case, wait for setup() with url instead).\n\n    Miscellaneous\n\n        Prerelease Firefox builds can play MP3 audio via HTML5 in some cases, as part of a move to support H.264 video (see Bugzilla #799318 for details). Firefox 20 (nightlies, and Aurora channel builds in January 2013) can get native MP3 support via Windows Media Foundation (OS-level codec support) components on Windows 8, Windows 7, and soon, Windows Vista. As of 12/2012, OS X support is planned, and Windows XP support is not. (Disclaimer: Vista, OS X and XP notes sourced from comments on Hacker News; see links).\n\n        When enabled with media.windows-media-foundation.enabled = true under about:config, Firefox may be able to play MP3s via HTML5 and thus get \"100% HTML5 mode\" when soundManager.setup({preferFlash: false}) is used.\n\n        At time of writing (12/30/2012), Firefox 20 (nightly) returns \"\" for canPlayType('audio/mpeg; codecs=\"mp3\"'), a test commonly used to query for MP3 support under HTML5 and one which works in other modern browsers. Firefox's behaviour differs because it is trying to follow the MPEG spec, which does not include an explicit MP3 MIME type. Instead, canPlayType('audio/mpeg'), which is in-spec, presently returns a \"maybe\" when MP3 is supported under Firefox.\n\n        Improved SM2 console.log() debug output, aiming to be less \"noisy\". Core setup options are shown better at start-up, eg. \"SoundManager V2.97a.20130101 (AS3/Flash 9) + HTML5 audio + preferFlash + html5PollingInterval (50ms) + flashBlock\".\n\n        Christmas light demo: Tweaks for iOS + Android touch devices.\n\n        MP3 Player Button demo: Include HTML type (MIME hint) attribute, if specified.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

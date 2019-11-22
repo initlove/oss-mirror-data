@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTg0OTgxOjZiODgyNDc4Yjk2NTZhNDgwNGRhYTk3ZjQ1YmU0YmY2OWQ4NjEyNWM=",
+  "sha": "6b882478b9656a4804daa97f45be4bf69d86125c",
+  "url": "https://api.github.com/repos/memcached/memcached/git/tags/6b882478b9656a4804daa97f45be4bf69d86125c",
+  "tagger": {
+    "name": "dormando",
+    "email": "dormando@rydia.net",
+    "date": "2009-04-11T07:06:47Z"
+  },
+  "object": {
+    "sha": "ff4c830c840fc6f93f3aa9f7a8582a4e4dc3ada4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/memcached/memcached/git/commits/ff4c830c840fc6f93f3aa9f7a8582a4e4dc3ada4"
+  },
+  "tag": "1.2.8",
+  "message": "1.2.8\n\n- fix critical issue when hitting maximum connections.\n- remove 'stats maps' command\n- make -b option work\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

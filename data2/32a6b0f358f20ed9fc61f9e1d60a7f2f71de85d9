@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MzJhNmIwZjM1OGYyMGVkOWZjNjFmOWUxZDYwYTdmMmY3MWRlODVkOQ==",
+  "sha": "32a6b0f358f20ed9fc61f9e1d60a7f2f71de85d9",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/32a6b0f358f20ed9fc61f9e1d60a7f2f71de85d9",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-06-09T17:45:13Z"
+  },
+  "object": {
+    "sha": "ce82d6b8474bde7ac7df6d425fb88fb1bcba35bc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/ce82d6b8474bde7ac7df6d425fb88fb1bcba35bc"
+  },
+  "tag": "v0.10.29",
+  "message": "2014.06.05, Version 0.10.29 (Stable)\n\n* openssl: to 1.0.1h (CVE-2014-0224)\n\n* npm: upgrade to 1.4.10\n\n* utf8: Prevent Node from sending invalid UTF-8 (Felix Geisendörfer)\n  - *NOTE* this introduces a breaking change, previously you could construct\ninvalid UTF-8 and invoke an error in a client that was expecting valid\nUTF-8, now unmatched surrogate pairs are replaced with the unknown UTF-8\ncharacter. To restore the old functionality simply have NODE_INVALID_UTF8\nenvironment variable set.\n\n* child_process: do not set args before throwing (Greg Sabia Tucker)\n\n* child_process: spawn() does not throw TypeError (Greg Sabia Tucker)\n\n* constants: export O_NONBLOCK (Fedor Indutny)\n\n* crypto: improve memory usage (Alexis Campailla)\n\n* fs: close file if fstat() fails in readFile() (cjihrig)\n\n* lib: name EventEmitter prototype methods (Ben Noordhuis)\n\n* tls: fix performance issue (Alexis Campailla)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlOV8qkACgkQfTP/nQJGQG0IFwCeIbhNgdlFq15c+py51gDjREyd\nXI0An2TL3y2g2Jh9L0+QeI/hU/gq/Gvx\n=M6Kq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlOV8qkACgkQfTP/nQJGQG0IFwCeIbhNgdlFq15c+py51gDjREyd\nXI0An2TL3y2g2Jh9L0+QeI/hU/gq/Gvx\n=M6Kq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ce82d6b8474bde7ac7df6d425fb88fb1bcba35bc\ntype commit\ntag v0.10.29\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1402335913 -0700\n\n2014.06.05, Version 0.10.29 (Stable)\n\n* openssl: to 1.0.1h (CVE-2014-0224)\n\n* npm: upgrade to 1.4.10\n\n* utf8: Prevent Node from sending invalid UTF-8 (Felix Geisendörfer)\n  - *NOTE* this introduces a breaking change, previously you could construct\ninvalid UTF-8 and invoke an error in a client that was expecting valid\nUTF-8, now unmatched surrogate pairs are replaced with the unknown UTF-8\ncharacter. To restore the old functionality simply have NODE_INVALID_UTF8\nenvironment variable set.\n\n* child_process: do not set args before throwing (Greg Sabia Tucker)\n\n* child_process: spawn() does not throw TypeError (Greg Sabia Tucker)\n\n* constants: export O_NONBLOCK (Fedor Indutny)\n\n* crypto: improve memory usage (Alexis Campailla)\n\n* fs: close file if fstat() fails in readFile() (cjihrig)\n\n* lib: name EventEmitter prototype methods (Ben Noordhuis)\n\n* tls: fix performance issue (Alexis Campailla)\n"
+  }
+}

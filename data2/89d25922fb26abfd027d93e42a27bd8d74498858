@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOjg5ZDI1OTIyZmIyNmFiZmQwMjdkOTNlNDJhMjdiZDhkNzQ0OTg4NTg=",
+  "sha": "89d25922fb26abfd027d93e42a27bd8d74498858",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/89d25922fb26abfd027d93e42a27bd8d74498858",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-08-11T12:26:46Z"
+  },
+  "object": {
+    "sha": "4cd6a3a1b473795a63f076c7986d1b48d83af99d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/4cd6a3a1b473795a63f076c7986d1b48d83af99d"
+  },
+  "tag": "16.0.0.0rc1",
+  "message": "nova 16.0.0.0rc1 release candidate\n\nmeta:version: 16.0.0.0rc1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Sylvain Bauza <sbauza@redhat.com>\nmeta:release:Change-Id: I462770985e73dc0e70f6aa275735c04dec81ee3b\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+1: Sylvain Bauza <sbauza@redhat.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZjaKGAAoJEOtsyhSD+nTspd8H/iPtHR7//V6I6Zpu4M3yUuyD\nEKnSaT/KNZkVWMt4pS4++U9fUn2vHFTJ9pbXPNRq2DDuYnzS7s+zV3RvHuPvP9Rr\nZreqELgapl3KNws4ryJdCFUazFIZphR563XnyEm40UOnUs+VEW/L3dC/I+eidmjf\niFl9xSbW8fWdbSmFEm/0o6/pdReoKfNQ6XzRGE6AftJjjFUIyZYuXxVRLBr0Rwm+\nU4Fp2khb+5W8RhwPUqaYLyKmBwtSF+yzGZ4EOmq+yfnozvUKPG6HNlIcsmKHaBnl\nyQsxDhvjD1RTta901LX0jg87yFYyUC55YuuAdKZIOYRib36UI0YVEtslo4fzBrs=\n=KCsv\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZjaKGAAoJEOtsyhSD+nTspd8H/iPtHR7//V6I6Zpu4M3yUuyD\nEKnSaT/KNZkVWMt4pS4++U9fUn2vHFTJ9pbXPNRq2DDuYnzS7s+zV3RvHuPvP9Rr\nZreqELgapl3KNws4ryJdCFUazFIZphR563XnyEm40UOnUs+VEW/L3dC/I+eidmjf\niFl9xSbW8fWdbSmFEm/0o6/pdReoKfNQ6XzRGE6AftJjjFUIyZYuXxVRLBr0Rwm+\nU4Fp2khb+5W8RhwPUqaYLyKmBwtSF+yzGZ4EOmq+yfnozvUKPG6HNlIcsmKHaBnl\nyQsxDhvjD1RTta901LX0jg87yFYyUC55YuuAdKZIOYRib36UI0YVEtslo4fzBrs=\n=KCsv\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4cd6a3a1b473795a63f076c7986d1b48d83af99d\ntype commit\ntag 16.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1502454406 +0000\n\nnova 16.0.0.0rc1 release candidate\n\nmeta:version: 16.0.0.0rc1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Sylvain Bauza <sbauza@redhat.com>\nmeta:release:Change-Id: I462770985e73dc0e70f6aa275735c04dec81ee3b\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+1: Sylvain Bauza <sbauza@redhat.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n"
+  }
+}

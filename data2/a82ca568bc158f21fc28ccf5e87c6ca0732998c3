@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6YTgyY2E1NjhiYzE1OGYyMWZjMjhjY2Y1ZTg3YzZjYTA3MzI5OThjMw==",
+  "sha": "a82ca568bc158f21fc28ccf5e87c6ca0732998c3",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/a82ca568bc158f21fc28ccf5e87c6ca0732998c3",
+  "tagger": {
+    "name": "Brandon Philips",
+    "email": "brandon@ifup.co",
+    "date": "2014-11-16T01:02:49Z"
+  },
+  "object": {
+    "sha": "a817ca705b5a06b3d8c008e1a59f08895971cb1e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/a817ca705b5a06b3d8c008e1a59f08895971cb1e"
+  },
+  "tag": "v0.5.0-alpha.3",
+  "message": "v0.5.0-alpha.3\n\n- exit etcd when it restarts without existing data directory in best effort\n- etcd logs all configuration information on startup\n- add documentation for proxy-mode etcd: https://github.com/coreos/etcd/blob/master/Documentation/0.5/proxy.md\n- add more tests on Node struct in raft package\n- apply snapshot and committed entries in correct order\n- remove redundant publish-member log entries in cluster bootstrap\n- return JSON errors in proxy-mode etcd\n- support listening on both HTTP and HTTPS\n- add tests on raft message sender\n- add integration tests on member join and discovery bootstrap\n- support change peer urls dynamically\n- check and document -initial-advertise-peer-urls flag\n\nThank you to: Barak “Needs A Nickname” Michener, Ben Darnell, Brian “I Hate Mondays” Waldon, Jonathan “Clapping Bear” Boulle, Xiang “Bruce” Li, Yicheng “qycqycqycqycqycqycqyc” Qin\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUZ/fCAAoJEBVDQyYFQt804rAQAIx2ucCB9sO+3xW/wGJDtxO/\neFyVgcgR9lH8wHI837gQnWrc/asHIza5m2BP+Be4f5V585/w+fvyPMr7bN/7Wc6G\nFBjwRTRagfoCLJ+FaVqxWy/O3iTdv7/2OCQsEpUlMTO6ymL8ANemgnyfUTYh/+P9\nVscH7f7u7e8ycOY06hRHV8on8PUDi6stdy8vL5O7icMpgRRXxEFaGbGbjxIdWc49\nsWPCf3XwAHkNONFrgNvQkSN3CHiEY2KKMJd8iOlK8d2lg7UuR8fCMUW5KeR+pL4a\n73Y9JX7M+alh1QlLpOPFvgIjjoCUYyKaWxILt8geVB5nQfGEqw8ppCes2fSa4Thm\nCYZnX1lKsyQaQvcr3DcE5a7ICY5Cv3RAWTskCEcHavXMjYSWdCkg/9WTit3kUnMy\nupRrzxtiF11nnQU03upnxVHOmjACJrAmozppqbS8vrygI8OaoFDEXl5pRYVuuDbB\nplS/m9lGZvj+7jPqLu637tfquuvgRTA0qMYiWodpiCYK5Zr7LPNurSV1rp2txIl1\nLJ3U+0GQ0dFvnVwxXvwOipytvW1ZdWVipjKZ7CYbVmiV80UjAIUE2pa17zwKu7dr\nbCg7Bz02QsYS0K1VgGCucgb6YPPkVOthjzC2zxBG+kBy0G0uTOU2EeEtM4r+etuS\nVYaxaDTARYGEJlY+nkH6\n=3vK/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUZ/fCAAoJEBVDQyYFQt804rAQAIx2ucCB9sO+3xW/wGJDtxO/\neFyVgcgR9lH8wHI837gQnWrc/asHIza5m2BP+Be4f5V585/w+fvyPMr7bN/7Wc6G\nFBjwRTRagfoCLJ+FaVqxWy/O3iTdv7/2OCQsEpUlMTO6ymL8ANemgnyfUTYh/+P9\nVscH7f7u7e8ycOY06hRHV8on8PUDi6stdy8vL5O7icMpgRRXxEFaGbGbjxIdWc49\nsWPCf3XwAHkNONFrgNvQkSN3CHiEY2KKMJd8iOlK8d2lg7UuR8fCMUW5KeR+pL4a\n73Y9JX7M+alh1QlLpOPFvgIjjoCUYyKaWxILt8geVB5nQfGEqw8ppCes2fSa4Thm\nCYZnX1lKsyQaQvcr3DcE5a7ICY5Cv3RAWTskCEcHavXMjYSWdCkg/9WTit3kUnMy\nupRrzxtiF11nnQU03upnxVHOmjACJrAmozppqbS8vrygI8OaoFDEXl5pRYVuuDbB\nplS/m9lGZvj+7jPqLu637tfquuvgRTA0qMYiWodpiCYK5Zr7LPNurSV1rp2txIl1\nLJ3U+0GQ0dFvnVwxXvwOipytvW1ZdWVipjKZ7CYbVmiV80UjAIUE2pa17zwKu7dr\nbCg7Bz02QsYS0K1VgGCucgb6YPPkVOthjzC2zxBG+kBy0G0uTOU2EeEtM4r+etuS\nVYaxaDTARYGEJlY+nkH6\n=3vK/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a817ca705b5a06b3d8c008e1a59f08895971cb1e\ntype commit\ntag v0.5.0-alpha.3\ntagger Brandon Philips <brandon@ifup.co> 1416099769 -0800\n\nv0.5.0-alpha.3\n\n- exit etcd when it restarts without existing data directory in best effort\n- etcd logs all configuration information on startup\n- add documentation for proxy-mode etcd: https://github.com/coreos/etcd/blob/master/Documentation/0.5/proxy.md\n- add more tests on Node struct in raft package\n- apply snapshot and committed entries in correct order\n- remove redundant publish-member log entries in cluster bootstrap\n- return JSON errors in proxy-mode etcd\n- support listening on both HTTP and HTTPS\n- add tests on raft message sender\n- add integration tests on member join and discovery bootstrap\n- support change peer urls dynamically\n- check and document -initial-advertise-peer-urls flag\n\nThank you to: Barak “Needs A Nickname” Michener, Ben Darnell, Brian “I Hate Mondays” Waldon, Jonathan “Clapping Bear” Boulle, Xiang “Bruce” Li, Yicheng “qycqycqycqycqycqycqyc” Qin\n"
+  }
+}

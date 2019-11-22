@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzU5ODE6NDBjMWRkNDBmODI1OTY5NGJlMzNiZTMzZjdlMjQ5OTg1ZTdkNDhlMQ==",
+  "sha": "40c1dd40f8259694be33be33f7e249985e7d48e1",
+  "url": "https://api.github.com/repos/gpg/libassuan/git/tags/40c1dd40f8259694be33be33f7e249985e7d48e1",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2019-02-11T10:33:05Z"
+  },
+  "object": {
+    "sha": "4de3154ea6e6e89e34760b7b9e0eed5123bb81f9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libassuan/git/commits/4de3154ea6e6e89e34760b7b9e0eed5123bb81f9"
+  },
+  "tag": "libassuan-2.5.3",
+  "message": "Detect bogus socks5 proxies\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlxhT2EACgkQJJs50k8l\n47YUigf/RCR+FPqe+qbHWigIRHSi0PzrZQb7NKPrAzN9wa0CWCIhuNHt+rM05rYz\nFzzjxpkkDdJrCznG5bnWL0sz+KYcUD92JOIgLWhqGLfoYMuHrPoc0m+DLeA6KShT\n3iuJ43kt37dYYnvD2p2qpB8MTVb9AIPl4gR96MCP2mQo603Ume/EADmJGwxMJlmU\nsffn71zjc2cqt2/jsMIOEVKmkmMMwr3KCBxosOrWG4ew1+57WQ35DtWSMrziDlif\nnItZC7Qp2gjpe+EOmrpiEmUv5DKtMWt2buS4NImZwQz1ButY5gJzes0KRSgyTmVc\nwwXPoMaxpb5aoAhFlGhCO7ZfLye90A==\n=zaR4\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlxhT2EACgkQJJs50k8l\n47YUigf/RCR+FPqe+qbHWigIRHSi0PzrZQb7NKPrAzN9wa0CWCIhuNHt+rM05rYz\nFzzjxpkkDdJrCznG5bnWL0sz+KYcUD92JOIgLWhqGLfoYMuHrPoc0m+DLeA6KShT\n3iuJ43kt37dYYnvD2p2qpB8MTVb9AIPl4gR96MCP2mQo603Ume/EADmJGwxMJlmU\nsffn71zjc2cqt2/jsMIOEVKmkmMMwr3KCBxosOrWG4ew1+57WQ35DtWSMrziDlif\nnItZC7Qp2gjpe+EOmrpiEmUv5DKtMWt2buS4NImZwQz1ButY5gJzes0KRSgyTmVc\nwwXPoMaxpb5aoAhFlGhCO7ZfLye90A==\n=zaR4\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4de3154ea6e6e89e34760b7b9e0eed5123bb81f9\ntype commit\ntag libassuan-2.5.3\ntagger Werner Koch <wk@gnupg.org> 1549881185 +0100\n\nDetect bogus socks5 proxies\n"
+  }
+}

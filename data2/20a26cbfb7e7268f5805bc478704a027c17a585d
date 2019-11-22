@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTg0OTgxOjIwYTI2Y2JmYjdlNzI2OGY1ODA1YmM0Nzg3MDRhMDI3YzE3YTU4NWQ=",
+  "sha": "20a26cbfb7e7268f5805bc478704a027c17a585d",
+  "url": "https://api.github.com/repos/memcached/memcached/git/tags/20a26cbfb7e7268f5805bc478704a027c17a585d",
+  "tagger": {
+    "name": "dormando",
+    "email": "dormando@rydia.net",
+    "date": "2010-04-03T21:24:05Z"
+  },
+  "object": {
+    "sha": "49ef81a2e9b055e8b37caf3d0956012fbbe07ae8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/memcached/memcached/git/commits/49ef81a2e9b055e8b37caf3d0956012fbbe07ae8"
+  },
+  "tag": "1.4.5",
+  "message": "                    Memcached 1.4.5 Release Notes\n                    =============================\n\nDate: 2010-04-03\n\nTable of Contents\n=================\n1 Download\n2 Overview\n3 Fixes\n4 New Features\n    4.1 New stat: reclaimed\n    4.2 sasl_pwdb for more simple auth deployments\n5 Contributors\n\n1 Download\n~~~~~~~~~~~\n\nDownload Link:\n\n[http://memcached.googlecode.com/files/memcached-1.4.5.tar.gz]\n\n2 Overview\n~~~~~~~~~~~\n\nThis is a maintenance release with some build fixes, doc fixes, and\none new stat.\n\n3 Fixes\n~~~~~~~~\n\n  * Properly detect CPU alignment on ARM. bug100\n  * Remove 1MB assertion. bug119\n  * More automake versions supported.\n  * Compiler warning fixes for OpenBSD.\n  * potential buffer overflow in vperror\n  * Report errors opening pidfiles using vperror\n\n4 New Features\n~~~~~~~~~~~~~~~\n\n4.1 New stat: reclaimed\n========================\nThis stat reports the number of times an entry was stored using memory\nfrom an expired entry.\n\n4.2 sasl_pwdb for more simple auth deployments\n===============================================\n\n--enable-sasl-pwdb allows memcached to use it's own password file and\nverify a plaintext password.\n\nThe file is specified with the environment variable\nMEMCACHED_SASL_PWDB, and is a plain text file with the following\nsyntax:\n\nusername:password\n\nPlease note that you have to specify \"mech_list: plain\" in your sasl\nconfig file for this to work.\n\nEx:\n\n   echo \"mech_list: plain\" > memcached.conf\n   echo \"myname:mypass\" > /tmp/memcached-sasl-db\n   export MEMCACHED_SASL_PWDB=/tmp/memcached-sasl-db\n   export SASL_CONF_PATH=`pwd`/memcached.conf\n   ./memcached -S -v\n\nand you should be able to use your favorite memcached client with sasl\nsupport to connect to the server.\n\n(Please note that not all SASL implementations support\nSASL_CB_GETCONF, so you may have to install the sasl config\n(memcached.conf) to the systemwide location)\n\n5 Contributors\n~~~~~~~~~~~~~~~\n\nThe following people contributed to this release since 1.4.4.\n\nNote that this is based on who contributed changes, not how they were\ndone.  In many cases, a code snippet on the mailing list or a bug\nreport ended up as a commit with your name on it.\n\nNote that this is just a summary of how many changes each person made\nwhich doesn't necessarily reflect how significant each change was.\nFor details on what led up into a branch, either grab the git repo and\nlook at the output of `git log 1.4.4..1.4.5` or use a web view.\n\n  * Repo list:  [http://code.google.com/p/memcached/wiki/DevelopmentRepos]\n  * Web View: [http://github.com/memcached/memcached/commits/1.4.5]\n\n    6  Trond Norbye\n    3  Paul Lindner\n    2  Dustin Sallings\n    1  Brad Fitzpatrick\n    1  Jørgen Austvik\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

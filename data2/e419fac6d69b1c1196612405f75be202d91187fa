@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODplNDE5ZmFjNmQ2OWIxYzExOTY2MTI0MDVmNzViZTIwMmQ5MTE4N2Zh",
+  "sha": "e419fac6d69b1c1196612405f75be202d91187fa",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/e419fac6d69b1c1196612405f75be202d91187fa",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-08-18T21:22:10Z"
+  },
+  "object": {
+    "sha": "68ecc5a03ae09470fc95426263789897c5601748",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/68ecc5a03ae09470fc95426263789897c5601748"
+  },
+  "tag": "v1.5.5",
+  "message": "Release of 1.5.5\n\n- 68ecc5a03ae09470fc95426263789897c5601748: Merge pull request #1323 from mattrjacobs/remove-reactivesocket-modules\n- e102e5db43018533aacdf7417b570097a6fb161b: Remove all ReactiveSocket modules - this should allow a build by JDK6/7\n- 90b032073dd01b0a3646b250d68e92208d7a110e: Add v1.5.4 to CHANGELOG.md\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

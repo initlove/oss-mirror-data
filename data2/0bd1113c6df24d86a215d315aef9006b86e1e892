@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MGJkMTExM2M2ZGYyNGQ4NmEyMTVkMzE1YWVmOTAwNmI4NmUxZTg5Mg==",
+  "sha": "0bd1113c6df24d86a215d315aef9006b86e1e892",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/0bd1113c6df24d86a215d315aef9006b86e1e892",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-04-23T00:06:42Z"
+  },
+  "object": {
+    "sha": "c85455a954411b38232e79752d4abb61bb75031b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/c85455a954411b38232e79752d4abb61bb75031b"
+  },
+  "tag": "v0.4.7",
+  "message": "2011.04.22, Version 0.4.7 (stable)\n\n* Don't emit error on ECONNRESET from read() #670\n\n* Fix: Multiple pipes to the same stream were broken #929\n  (Felix Geisendörfer)\n\n* URL parsing/formatting corrections #954 (isaacs)\n\n* make it possible to do repl.start('', stream) (Wade Simmons)\n\n* Add os.loadavg for SunOS (Robert Mustacchi)\n\n* Fix timeouts with floating point numbers #897\n\n* Improve docs.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

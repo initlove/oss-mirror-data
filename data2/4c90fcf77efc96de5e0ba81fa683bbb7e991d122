@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NGM5MGZjZjc3ZWZjOTZkZTVlMGJhODFmYTY4M2JiYjdlOTkxZDEyMg==",
+  "sha": "4c90fcf77efc96de5e0ba81fa683bbb7e991d122",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/4c90fcf77efc96de5e0ba81fa683bbb7e991d122",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-11-11T22:56:32Z"
+  },
+  "object": {
+    "sha": "170f2addb2dd0c625bc4a6d461e89a31ad68b79b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/170f2addb2dd0c625bc4a6d461e89a31ad68b79b"
+  },
+  "tag": "v0.6.1",
+  "message": "2011.11.11, Version 0.6.1 (stable)\n\n* doc improvements (Eric Lovett, Ben Noordhuis, Scott Anderson, Yoji SHIDARA)\n\n* crypto: make thread-safe (Ben Noordhuis)\n\n* fix process.kill error object\n\n* debugger: correctly handle source with multi-byte characters (Shigeki Ohtsu)\n\n* make stdout and stderr non-destroyable (Igor Zinkovsky)\n\n* fs: don't close uninitialized fs.watch handle (Ben Noordhuis)\n\n* #2026 fix man page install on BSDs (Ben Noordhuis)\n\n* #2040 fix unrecognized errno assert in uv_err_name\n\n* #2043 fs: mkdir() should call callback if mode is omitted\n\n* #2045 fs: fix fs.realpath on windows to return on error (Benjamin Pasero)\n\n* #2047 minor cluster improvements\n\n* #2052 readline get window columns correctly\n\n* Upgrade V8 to 3.6.6.7\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

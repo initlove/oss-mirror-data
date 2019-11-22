@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6NGE2NjNhMzhlM2ZiNTg5ZWMyMzRlN2YxYzIzNWFlZWZkNmI3ZWUwMQ==",
+  "sha": "4a663a38e3fb589ec234e7f1c235aeefd6b7ee01",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/4a663a38e3fb589ec234e7f1c235aeefd6b7ee01",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2017-01-06T13:33:16Z"
+  },
+  "object": {
+    "sha": "4b715eb130ad627d6588aec9f511ed946d25b14d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/4b715eb130ad627d6588aec9f511ed946d25b14d"
+  },
+  "tag": "v0.5.15",
+  "message": "Release v0.5.15 contains the following changes:\n* Print warning messages when debug is enabled\n* Removal of trailing white space in order to prevent spurious git errors.\n* Add missing NULL check\n* Replace pointer to func (potentially NULL) with __func__\n* Remove unused variable 'status'\n* Check index value before accessing the array\n* Fix memory leak of ckey when allocation of ssd fails\n* Refactor small packet threshold size to use array instead of hash table.\n* Add table of contents to README\n* Check outlen only when the out pointer is not NULL\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

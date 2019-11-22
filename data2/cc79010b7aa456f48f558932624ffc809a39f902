@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTpjYzc5MDEwYjdhYTQ1NmY0OGY1NTg5MzI2MjRmZmM4MDlhMzlmOTAy",
+  "sha": "cc79010b7aa456f48f558932624ffc809a39f902",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/cc79010b7aa456f48f558932624ffc809a39f902",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2016-09-16T08:00:38Z"
+  },
+  "object": {
+    "sha": "bb54adcdbceef01997a9549732139ca8f53a4e28",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/bb54adcdbceef01997a9549732139ca8f53a4e28"
+  },
+  "tag": "4.0.3",
+  "message": "Version 4.0.3\n\n### Bug fixes\n\nAllow regular function declarations inside single-statement `if`\nbranches in loose mode. Forbid them entirely in strict mode.\n\nProperly parse properties named `async` in ES2017 mode.\n\nFix bug where reserved words were broken in ES2017 mode.\n\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJX26azAAoJEHA/G+1tM64eP/EH/jqXJUiaOTUkbKmoF8jPOK+q\nanZEtti5B69fbO8klF2vokBkgPkjw5tQnfP7L+e/nSAd2wTbjByd57kWdHN+S0Pw\nTle4WYRrBhDwIfMyZrJnboilLCBDPyIDAWT6RX7EF7X0hb3jzwZALUR/pi4VlbBf\ne52o1OQn3pKbNOi0M0a9bWdOx6pONhVPKjWQ5LZ9c8+2Y1IF8N72oeuf8tdYjcuW\nLnHRVRw2Sb5Nu2R/WtBRLXPogncoiPMpyjcsmDHVuUD+2P3MVEwQT03A09ZlD4eb\n2z/aOzO/fa83RKVrU+TPxfz0XNL/reSNb3sBpIXQcdeMo+zKRuuayy53MWWbZ8w=\n=AXbm\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQEcBAABCAAGBQJX26azAAoJEHA/G+1tM64eP/EH/jqXJUiaOTUkbKmoF8jPOK+q\nanZEtti5B69fbO8klF2vokBkgPkjw5tQnfP7L+e/nSAd2wTbjByd57kWdHN+S0Pw\nTle4WYRrBhDwIfMyZrJnboilLCBDPyIDAWT6RX7EF7X0hb3jzwZALUR/pi4VlbBf\ne52o1OQn3pKbNOi0M0a9bWdOx6pONhVPKjWQ5LZ9c8+2Y1IF8N72oeuf8tdYjcuW\nLnHRVRw2Sb5Nu2R/WtBRLXPogncoiPMpyjcsmDHVuUD+2P3MVEwQT03A09ZlD4eb\n2z/aOzO/fa83RKVrU+TPxfz0XNL/reSNb3sBpIXQcdeMo+zKRuuayy53MWWbZ8w=\n=AXbm\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bb54adcdbceef01997a9549732139ca8f53a4e28\ntype commit\ntag 4.0.3\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1474012838 +0200\n\nVersion 4.0.3\n\n### Bug fixes\n\nAllow regular function declarations inside single-statement `if`\nbranches in loose mode. Forbid them entirely in strict mode.\n\nProperly parse properties named `async` in ES2017 mode.\n\nFix bug where reserved words were broken in ES2017 mode.\n\n"
+  }
+}

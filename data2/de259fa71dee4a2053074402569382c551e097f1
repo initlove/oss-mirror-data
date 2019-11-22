@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OmRlMjU5ZmE3MWRlZTRhMjA1MzA3NDQwMjU2OTM4MmM1NTFlMDk3ZjE=",
+  "sha": "de259fa71dee4a2053074402569382c551e097f1",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/de259fa71dee4a2053074402569382c551e097f1",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "spam@schillmania.com",
+    "date": "2012-05-27T23:17:06Z"
+  },
+  "object": {
+    "sha": "31c95c5b43efc0649505c3ce6e262691dbecb9b9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/31c95c5b43efc0649505c3ce6e262691dbecb9b9"
+  },
+  "tag": "V2.97a.20120527",
+  "message": "V2.97a.20120527 - Fix for ontimeout() regression. GWT/JSNI compatibility, slow connection and Safari \"background tab\" SWF load handling improvements\n\n    Bug fixes\n\n        Fix for ontimeout() regression seen when using lazy-loading / SM2_DEFER introduced with V2.97a.20120513; bug introduced when making edits to pass newer jslint rules regarding return within if...else blocks.\n\n        Replaced instanceof Function with \"safer\" typeof x === 'function' for onready(), ontimeout() and related callback argument checks as GWT + JSNI was passing arguments that failed the instanceof check. (Related bug report.)\n\n        Corrected another small regression for the ontimeout() -> onready() \"recovery\" edge case, ensuring \"ready\" does not fire after a timeout when init was unsuccessful.\n\n    Miscellaneous\n\n        Improved handling for special Safari page load case: When a new tab is opened that does not have focus, the Flash SWF does not load/init until the tab is brought to the foreground. SM2 now recognizes this special case and waits until window.onfocus() before attempting to do the JS/Flash part of init. Previously, it would fail with a timeout.\n\n        Code written to originally handle Safari 3.1, which did not support document.hasFocus(), was modified and updated for this purpose. The Safari 3.1 logic previously deferred SM2's start-up in a similar fashion. (The old Safari 3.1 mousemove() focus-detection hack has been removed as Safari 4 has been out since mid-2009, and Safari 5 since mid-2010.)\n\n        SM2 init process will now delay and retry if no Flash response, and SWF has loaded > 0 and < 100%. Timeout will now happen only after delay and when SWF has loaded 100%. Should help prevent first-visit (non-cached) failure on very slow or laggy connections.\n\n        Added note about potential Firefox regression: Offline JS/Flash start-up (viewing HTML pages via file:// and/or c:/ and so forth), possibly not working as of Firefox 9 and newer (at time of writing, also up to and including Firefox 12), even despite special security whitelisting under Flash Player \"trusted locations\" preferences / control panel.\n\n        After successful Flash -> JS call, SM2's \"return\" JS -> Flash call fails with unusual JS/Flash exception, \"Error in ActionScript\" error with no further detail. Offline viewing still works in other browsers.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

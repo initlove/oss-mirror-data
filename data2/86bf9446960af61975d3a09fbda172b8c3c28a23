@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ODZiZjk0NDY5NjBhZjYxOTc1ZDNhMDlmYmRhMTcyYjhjM2MyOGEyMw==",
+  "sha": "86bf9446960af61975d3a09fbda172b8c3c28a23",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/86bf9446960af61975d3a09fbda172b8c3c28a23",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-07-09T21:25:34Z"
+  },
+  "object": {
+    "sha": "e32660a984427d46af6a144983cf7b8045b7299c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/e32660a984427d46af6a144983cf7b8045b7299c"
+  },
+  "tag": "v0.10.13",
+  "message": "2013.07.09, Version 0.10.13 (Stable)\n\n* uv: Upgrade to v0.10.12\n\n* npm: Upgrade to 1.3.2\n\n* windows: get proper errno (Ben Noordhuis)\n\n* tls: only wait for finish if we haven't seen it (Timothy J Fontaine)\n\n* http: Dump response when request is aborted (isaacs)\n\n* http: use an unref'd timer to fix delay in exit (Peter Rust)\n\n* zlib: level can be negative (Brian White)\n\n* zlib: allow zero values for level and strategy (Brian White)\n\n* buffer: add comment explaining buffer alignment (Ben Noordhuis)\n\n* string_bytes: properly detect 64bit (Timothy J Fontaine)\n\n* src: fix memory leak in UsingDomains() (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlHcf84ACgkQfTP/nQJGQG3myACgoZJq/sMNgh09kliTLzhzY8TR\n2P0An2nlxjj8Rj/J524oV4VO0CQT88hk\n=7kSl\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlHcf84ACgkQfTP/nQJGQG3myACgoZJq/sMNgh09kliTLzhzY8TR\n2P0An2nlxjj8Rj/J524oV4VO0CQT88hk\n=7kSl\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e32660a984427d46af6a144983cf7b8045b7299c\ntype commit\ntag v0.10.13\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1373405134 -0700\n\n2013.07.09, Version 0.10.13 (Stable)\n\n* uv: Upgrade to v0.10.12\n\n* npm: Upgrade to 1.3.2\n\n* windows: get proper errno (Ben Noordhuis)\n\n* tls: only wait for finish if we haven't seen it (Timothy J Fontaine)\n\n* http: Dump response when request is aborted (isaacs)\n\n* http: use an unref'd timer to fix delay in exit (Peter Rust)\n\n* zlib: level can be negative (Brian White)\n\n* zlib: allow zero values for level and strategy (Brian White)\n\n* buffer: add comment explaining buffer alignment (Ben Noordhuis)\n\n* string_bytes: properly detect 64bit (Timothy J Fontaine)\n\n* src: fix memory leak in UsingDomains() (Ben Noordhuis)\n"
+  }
+}

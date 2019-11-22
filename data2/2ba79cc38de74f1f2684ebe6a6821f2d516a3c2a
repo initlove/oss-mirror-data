@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MmJhNzljYzM4ZGU3NGYxZjI2ODRlYmU2YTY4MjFmMmQ1MTZhM2MyYQ==",
+  "sha": "2ba79cc38de74f1f2684ebe6a6821f2d516a3c2a",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/2ba79cc38de74f1f2684ebe6a6821f2d516a3c2a",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-11-05T06:51:53Z"
+  },
+  "object": {
+    "sha": "865b077819a9271a29f982faaef99dc635b57fbc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/865b077819a9271a29f982faaef99dc635b57fbc"
+  },
+  "tag": "v0.6.0",
+  "message": "2011.11.04, Version 0.6.0 (stable)\n\n* print undefined on undefined values in REPL (Nathan Rajlich)\n\n* doc improvements (koichik, seebees, bnoordhuis,\n  Maciej Małecki, Jacob Kragh)\n\n* support native addon loading in windows (Bert Belder)\n\n* rename getNetworkInterfaces() to networkInterfaces() (bnoordhuis)\n\n* add pending accepts knob for windows (igorzi)\n\n* http.request(url.parse(x)) (seebees)\n\n* #1929 zlib Respond to 'resume' events properly (isaacs)\n\n* stream.pipe: Remove resume and pause events\n\n* test fixes for windows (igorzi)\n\n* build system improvements (bnoordhuis)\n\n* #1936 tls: does not emit 'end' from EncryptedStream (koichik)\n\n* #758 tls: add address(), remoteAddress/remotePort\n\n* #1399 http: emit Error object after .abort() (bnoordhuis)\n\n* #1999 fs: make mkdir() default to 0777 permissions (bnoordhuis)\n\n* #2001 fix pipe error codes\n\n* #2002 Socket.write should reset timeout timer\n\n* stdout and stderr are blocking when associated with file too.\n\n* remote debugger support on windows (Bert Belder)\n\n* convenience methods for zlib (Matt Robenolt)\n\n* process.kill support on windows (igorzi)\n\n* process.uptime() support on windows (igorzi)\n\n* Return IPv4 addresses before IPv6 addresses from getaddrinfo\n\n* util.inspect improvements (Nathan Rajlich)\n\n* cluster module api changes\n\n* Downgrade V8 to 3.6.6.6\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

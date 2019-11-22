@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDk0MTg2NzoxNmQwNDJmMWY5NmE5NWYwODlhODI5OTIxNDhlOGY3NjI2NGViMGZj",
+  "sha": "16d042f1f96a95f089a82992148e8f76264eb0fc",
+  "url": "https://api.github.com/repos/Netflix/governator/git/tags/16d042f1f96a95f089a82992148e8f76264eb0fc",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-04-06T22:26:15Z"
+  },
+  "object": {
+    "sha": "f7df62a9376aefde5aab0d67b76db04326f5b0e7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/governator/git/commits/f7df62a9376aefde5aab0d67b76db04326f5b0e7"
+  },
+  "tag": "v1.12.11",
+  "message": "Release of 1.12.11\n\n- f7df62a9376aefde5aab0d67b76db04326f5b0e7: Merge pull request #288 from noel-yap/publish-jdiff-report\n- 4bd3e4af5c12a239b498072caa2aa97918b34828: Merge branch 'master' into publish-jdiff-report\n- 274602aa2b4c810330002053a704b5da633a2d65: Merge branch 'master' of github.com:noel-yap/governator\n- b9f96959c4d0a8ebf73cb5a71da46245b8dc936f: For JDiff reports, older version automatically calculated from newer version.\n- 531632d5c4e1fde57ead1bbd7e765824951fd433: Publish jdiff report\n- f6d174020401b0ceb58251dd6c99836d598a0b9b: Pass through current release number so it can be displayed through `index.html`.\n- 41dcc080b450fdd7c94d8db2df75e833411d136c: `generateJDiffJs` task created to generate `jdiff.js` which will define the list of JDiff report directories to be used by `index.html`.\n- c1d9bebc4701529797a620f36c0b358dba98b6f7: All JDiff-generated files published so HTML links aren't broken.\n- b123c2e974ea03e500471c2ed6327bfb783a1c08: Publishing of JDiff reports to Github Pages enabled.\n- 7466f54e77876a1198527abd68a872b6d69fe530: necessary jars added.\n- f9cc8ff1a975ac2d0b03cba0e1f322c76aa701e8: jdiff jar name changed not to include old version since that'll likely be the previous version, anyway.\n- 6ebe185336413909c51dc290e3cd26f9413656af: `jDiffJar` task created to jar up the jDiff change reports.\n- 5ff4454295abe28dc9c7e55f425e169c9b6bede5: `generateJDiffReport` task created to generate JDiff reports.\n- ea8186ec5784d12a676419a988726a39e83c8095: Merge pull request #280 from twicksell/nullProvisionListeners\n- c3dbdf708e9b6eb52d3109cde69a549be03a975b: use providers util for null provider\n- 9c1fc9d6fa001d1f121d8edf783f4849a5230d86: add nullchecks to provision listeners and previously failing test case\n- d6062162e5289a67406ce5e8d0d74c107fb8c2d0: Merge pull request #279 from drtechniko/master\n- 0d336e35010f7501b3882d9ea61d59b44f717893: Clean GovernatorServletContainer javadocs.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

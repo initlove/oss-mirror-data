@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YWFlNjBhN2E0YjVlMzQxZWIwNWU5NDc1MmU5ZTMwNThkZTU5MjQwMw==",
+  "sha": "aae60a7a4b5e341eb05e94752e9e3058de592403",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/aae60a7a4b5e341eb05e94752e9e3058de592403",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-10-22T01:46:49Z"
+  },
+  "object": {
+    "sha": "220e61c1f65bf4db09699fcf6399c0809c0bc446",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/220e61c1f65bf4db09699fcf6399c0809c0bc446"
+  },
+  "tag": "v0.5.10",
+  "message": "2011.10.21, Version 0.5.10 (unstable)\n\n* Remove cmake build system, support for Cygwin, legacy code base,\n\tprocess.ENV, process.ARGV, process.memoryUsage().vsize, os.openOSHandle\n\n* Documentation improvments (Igor Zinkovsky, Bert Belder, Ilya Dmitrichenko,\nkoichik, Maciej Małecki, Guglielmo Ferri, isaacs)\n\n* Performance improvements (Daniel Ennis, Bert Belder, Ben Noordhuis)\n\n* Long process.title support (Ben Noordhuis)\n\n* net: register net.Server callback only once (Simen Brekken)\n\n* net: fix connect queue bugs (Ben Noordhuis)\n\n* debugger: fix backtrace err handling (Fedor Indutny)\n\n* Use getaddrinfo instead of c-ares for dns.lookup\n\n* Emit 'end' from crypto streams on close\n\n* repl: print out `undefined` (Nathan Rajlich)\n\n* #1902 buffer: use NO_NULL_TERMINATION flag (koichik)\n\n* #1907 http: Added support for HTTP PATCH verb (Thomas Parslow)\n\n* #1644 add GetCPUInfo on windows (Karl Skomski)\n\n* #1484, #1834, #1482, #771 Don't use a separate context for the repl.\n  (isaacs)\n\n* #1882 zlib Update 'availOutBefore' value, and test (isaacs)\n\n* #1888 child_process.fork: don't modify args (koichik)\n\n* #1516 tls: requestCert unusable with Firefox and Chrome (koichik)\n\n* #1467 tls: The TLS API is inconsistent with the TCP API (koichik)\n\n* #1894 net: fix error handling in listen() (koichik)\n\n* #1860 console.error now goes through uv_tty_t\n\n* Upgrade V8 to 3.7.0\n\n* Upgrade GYP to r1081\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

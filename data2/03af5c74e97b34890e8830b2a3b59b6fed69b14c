@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDk0MTg2NzowM2FmNWM3NGU5N2IzNDg5MGU4ODMwYjJhM2I1OWI2ZmVkNjliMTRj",
+  "sha": "03af5c74e97b34890e8830b2a3b59b6fed69b14c",
+  "url": "https://api.github.com/repos/Netflix/governator/git/tags/03af5c74e97b34890e8830b2a3b59b6fed69b14c",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-01-08T21:53:49Z"
+  },
+  "object": {
+    "sha": "373509cec97a7065a99a25d3e840b9035e4811e8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/governator/git/commits/373509cec97a7065a99a25d3e840b9035e4811e8"
+  },
+  "tag": "v1.11.0",
+  "message": "Release of 1.11.0\n\n- 373509cec97a7065a99a25d3e840b9035e4811e8: Merge pull request #259 from elandau/api_cleanup\n- 71b12db7c8cbedf8a3f7968d6319dc7c0415a69a: Un-deprecate LazySingleton (it's still needed when running in Stage.PRODUCTION)\n- 1473efd5a6e83b3f05fb9cdde3da2bc8c32d4257: Merge pull request #258 from elandau/api_cleanup\n- 4cc1edd0e6e0a997141fc841116a339e0d9e4a15: Deprecate @Modules in favor of Guice's built-in deduper for installed modules\n- 6366bb4daf3466a2021395eae5076759f42beaeb: Merge pull request #257 from elandau/api_cleanup\n- b423fcf907a60436676700802f59ffbf3f6a588f: More cleanup based on PR comments\n- 7057139b69e1772dc4bac75641b5347a187c2123: Improve documentation and cleanup up API\n- 716d57e5e4f8e41b7d8e5f7cae9455b3d1577c5f: LifecycleInjectorCreator now has its own template methods instead of being LifecycleListener.\n- d4a6557cd8fb3a2e200235a3bc47b26196aaedef: Rename ModuleBuilder to InjectorBuilder to make it explicit that it is an API for building the injector as opposed to a module builder that libraries can use. Move all annotations and interfaces from governator-annotations to governator-api. Misc cleanup from PR review.\n- 956fb8a250e29bdc5c74801902900c300f32f9ff: Deprecate the Governator class\n- fa29c12289feed233fe97167a0a7678eae5a0d70: Cleanup Governator API by introducing two new concepts, ModuleBuilder as a DSL for constructing and manipulating modules and InjectorCreator to make injector creation and post processing pluggable. Fix missing binding bug in LifecycleModule Make PropertiesPropertySource an installable module.\n- c281fd77ae30f6c7db67121b8e6f8cf8e78efddc: adding OSSMETADATA for NetflixOSS tracking\n- 3677310d594d5eb08f23b8c90274d417d43b0a05: Merge pull request #254 from elandau/karyon_backport\n- 0767525bff8288f6080319a91e9eaf1fe42d2888: Reinstate Governator.createInjector() API for backwards compatibility and deprecate it.\n- 3e9acd85db6a1f2aabd550a839f6c4632e8ece24: Updates based on PR comments\n- c6e5111ec234bffd158819f297c24baa230dfeeb: Remove code that shouldn't have been committed\n- e9d0ce3f6a9721ff8c5694bd4d619b8c4982ec7e: Simplify LifecycleListener API to just have two events, Started and Stopped.\n- fa415576a0bf43c1ce6f99657af4a67e5ad8eb06: Fix documentation\n- e1b448f131c5228bfaaefc4181b8a1b3710519ad: Backport DI code from Karyon\n- 43328b9592f05b2c08508904acfe25b385f35b96: Merge pull request #250 from elandau/nextgen\n- 2df213b4ce80495e1932593c7425a7ab523c63ca: Improve working of log messages and change to more standard deprecation date format.\n- 30cfac6a889f558cc16dfd7e245a964d6bd1e6e5: Updates based on PR comments\n- 0337e97dd1fe2b0149156bbbe2cd1ac36657d9a9: Deprecate AutoBindSingleton and log INFO messages where it's used.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

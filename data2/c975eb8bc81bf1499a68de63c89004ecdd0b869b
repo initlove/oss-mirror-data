@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OmM5NzVlYjhiYzgxYmYxNDk5YTY4ZGU2M2M4OTAwNGVjZGQwYjg2OWI=",
+  "sha": "c975eb8bc81bf1499a68de63c89004ecdd0b869b",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/c975eb8bc81bf1499a68de63c89004ecdd0b869b",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "spam@schillmania.com",
+    "date": "2015-06-01T03:41:45Z"
+  },
+  "object": {
+    "sha": "e45d0fe724619e67e7de2aaf2bf7be6f2d34b709",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/e45d0fe724619e67e7de2aaf2bf7be6f2d34b709"
+  },
+  "tag": "V2.97a.20150601",
+  "message": "    Bug fixes\n\n        Added forceUseGlobalHTML5Audio setup option, to address desktop Safari breaking playlist-style playback when in a background tab (something with new Audio() prevents playback from starting automatically?)\n\n        Improved RequireJS compatibility, correct define() usage and support for SM2_DEFER.\n\n    API Updates\n\n        API now fires onstop() when destroying a sound.\n\n        New setup option: ignoreMobileRestrictions. Enable if you want to avoid the singleton HTML5 object pattern used for mobile devices. iOS WebView purportedly allows use of multiple HTML5 Audio() objects.\n\n        soundManager.setVolume(33) now applies to all sounds. (Overloaded form; standard is soundManager.setVolume('mySound', 33).)\n\n    Bar UI Updates\n\n        Added window.sm2BarPlayers API including data and methods. Players are now scriptable / controllable from JS.\n\n        on object for event callbacks, global and per-instance - e.g., window.sm2BarPlayers.on = { play: function() { ... }, stop: function() { ... } }); - or, per-instance: window.sm2BarPlayers[0].on = { ... }\n\n        New config option: stopOtherSounds (i.e., only one player active at a time)\n\n        More config: excludeClass (default: sm2-exclude), prevents SM2 from playing link. Will fall through, download etc.\n\n        Added support for additional links in playlist: shopping cart (\"buy now\"), and music note (\"download\") next to each playlist item.\n\n        Playlist now scrolls currently-playing item into view by default.\n\n        Fix timing issue when user switches tracks in error case.\n\n        Improved playlist open-by-default UI state. Added playlist toggle to demo.\n\n        Check for defaultItem, handle case when starting with an empty playlist.\n\n        Workaround for non-zero scrollTop offset the first time the playlist is opened.\n\n        Minor UI tweaks for alignment, polish.\n\n    Miscellaneous\n\n        New 2015 Turntable UI Demo. Based on the 2011 \"Wheels Of Steel\" browser-based turntable UI prototype. Basic UI, API and load/play ability with easily customizable slipmats, record and album artwork.\n\n        Added bower.json, component.json and npm package.json definition files.\n\n        Improved RequireJS compatibility, correct define() usage and support for SM2_DEFER.\n\n        soundmanager2.js code style review (mostly for consistency.) Line breaks, quotes on strings, conditions and ternary statements, comment formatting etc.\n\n        Side note: The prior release's pre-emptive fix for iOS 8 ended up being a non-issue, as the official iOS 8 release did not use \"OS 10\" in the user-agent string. Nonetheless, SM2 will now correctly identify iOS 10+ vs. incorrectly flagging it as \"iOS 1\".\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZDg0YjIxNWE4YTc4YWNhYmVmZDA1NThhYWZlY2YyM2E0N2EyMjhiZA==",
+  "sha": "d84b215a8a78acabefd0558aafecf23a47a228bd",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/d84b215a8a78acabefd0558aafecf23a47a228bd",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-04-02T01:00:51Z"
+  },
+  "object": {
+    "sha": "787a343b588de26784fef97f953420b53a6e1d73",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/787a343b588de26784fef97f953420b53a6e1d73"
+  },
+  "tag": "v0.4.5",
+  "message": "2011.04.01, Version 0.4.5 (stable)\n\n* Fix listener leak in stream.pipe() (Mikeal Rogers)\n\n* Retain buffers in fs.read/write() GH-814 (Jorge Chamorro Bieling)\n\n* TLS performance improvements\n\n* SlowBuffer.prototype.slice bug GH-843\n\n* process.stderr.write should return true\n\n* Immediate pause/resume race condition GH-535 (isaacs)\n\n* Set default host header properly GH-721 (isaacs)\n\n* Upgrade V8 to 3.1.8.8\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

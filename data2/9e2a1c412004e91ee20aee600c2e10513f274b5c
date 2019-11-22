@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOjllMmExYzQxMjAwNGU5MWVlMjBhZWU2MDBjMmUxMDUxM2YyNzRiNWM=",
+  "sha": "9e2a1c412004e91ee20aee600c2e10513f274b5c",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/9e2a1c412004e91ee20aee600c2e10513f274b5c",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-01-19T15:25:56Z"
+  },
+  "object": {
+    "sha": "cc0bc4be85b2f51fdc30dd99fa231c7e6af61485",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/cc0bc4be85b2f51fdc30dd99fa231c7e6af61485"
+  },
+  "tag": "12.0.1",
+  "message": "nova 12.0.1 release\n\nmeta:version: 12.0.1\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWnlWEAAoJEDttBqDEKEN6ZZEH/jckJT1CmoPhLDTPsMoRfVLW\niGx80B2uTqA6yx3ZhK5nje+nvPdiueOSVGSWb5YckAOKPgAWQKGq1fdZHLjPiL9A\nTsEgiH21FoKpZ5CGgOiM80sf2H0wiRRHPDJMUUoNye+Ia5pPOOHDR85NUvVT81Nd\nSCAz0trbv8WaybpoKlDgObWef+UK+ewc5R2ziH6xzU24n/gz5S4gdBKL6fMe+CJ0\nLnBO7pq4U370G33fO2Lo9xwL5uPKF8SMFJSxQWkGSYU2ACjZ5AfK3V/t+gvQkroF\n37lUOZlw9NTYZ5teHKKM5Sr3n0vrPIoE8A2+icZiGKAm2f1UYYxtvjYXnMV29Hs=\n=A/zi\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWnlWEAAoJEDttBqDEKEN6ZZEH/jckJT1CmoPhLDTPsMoRfVLW\niGx80B2uTqA6yx3ZhK5nje+nvPdiueOSVGSWb5YckAOKPgAWQKGq1fdZHLjPiL9A\nTsEgiH21FoKpZ5CGgOiM80sf2H0wiRRHPDJMUUoNye+Ia5pPOOHDR85NUvVT81Nd\nSCAz0trbv8WaybpoKlDgObWef+UK+ewc5R2ziH6xzU24n/gz5S4gdBKL6fMe+CJ0\nLnBO7pq4U370G33fO2Lo9xwL5uPKF8SMFJSxQWkGSYU2ACjZ5AfK3V/t+gvQkroF\n37lUOZlw9NTYZ5teHKKM5Sr3n0vrPIoE8A2+icZiGKAm2f1UYYxtvjYXnMV29Hs=\n=A/zi\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cc0bc4be85b2f51fdc30dd99fa231c7e6af61485\ntype commit\ntag 12.0.1\ntagger Doug Hellmann <doug@doughellmann.com> 1453217156 -0500\n\nnova 12.0.1 release\n\nmeta:version: 12.0.1\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\n"
+  }
+}

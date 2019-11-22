@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOjM1YzY4NGI3Y2NlNzc4YjZiNTQ3MDJkZjcyYzI2ZGEwMDhhOGJkZjM=",
+  "sha": "35c684b7cce778b6b54702df72c26da008a8bdf3",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/35c684b7cce778b6b54702df72c26da008a8bdf3",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-02-03T19:07:59Z"
+  },
+  "object": {
+    "sha": "245c54796f790cb70703f069bc429a8b9c5e0e49",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/245c54796f790cb70703f069bc429a8b9c5e0e49"
+  },
+  "tag": "15.0.0.0rc1",
+  "message": "nova 15.0.0.0rc1 release candidate\n\nmeta:version: 15.0.0.0rc1\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I76ef7fc5e169aa33d7b8382ffb5b4dd36bbedc63\nmeta:release:Code-Review+1: Dan Smith <dms@danplanet.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYlNUPAAoJELkGmxM1cAzcCjsH/3ewAyEXjR1BaX7yTzLmB0+T\n9VPparo5Quz53OlVA0I2Y4CKNMm1Xn57U06OCe1sF26hecvEBLU0/5Ta9c+6zYH8\nN8cpOwZ+aE3t9VEqzqcLgAVcZ/JHDHEBFPAKETAeVDLoVcS9VUO/fvzH6pVa0GYx\nBY0/rJVuV6z7XoTvUCUQinPY2/PhJL5w6qF+q6NVvSsuGuhdtfsbvs8Dtd89dY7z\nI3yMya2X4aIskBLiavnOHIZMFkZ4PRjHx3kL/O09ffgNzztIF/jp1Cr9LT0DBolL\naZ72PZ0PsUZFXTcdKDGZ5/tTA2g3snaTnQZr6+zFhDL5NSZ5hQfX0otJSx01jzs=\n=O4Yb\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYlNUPAAoJELkGmxM1cAzcCjsH/3ewAyEXjR1BaX7yTzLmB0+T\n9VPparo5Quz53OlVA0I2Y4CKNMm1Xn57U06OCe1sF26hecvEBLU0/5Ta9c+6zYH8\nN8cpOwZ+aE3t9VEqzqcLgAVcZ/JHDHEBFPAKETAeVDLoVcS9VUO/fvzH6pVa0GYx\nBY0/rJVuV6z7XoTvUCUQinPY2/PhJL5w6qF+q6NVvSsuGuhdtfsbvs8Dtd89dY7z\nI3yMya2X4aIskBLiavnOHIZMFkZ4PRjHx3kL/O09ffgNzztIF/jp1Cr9LT0DBolL\naZ72PZ0PsUZFXTcdKDGZ5/tTA2g3snaTnQZr6+zFhDL5NSZ5hQfX0otJSx01jzs=\n=O4Yb\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 245c54796f790cb70703f069bc429a8b9c5e0e49\ntype commit\ntag 15.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1486148879 +0000\n\nnova 15.0.0.0rc1 release candidate\n\nmeta:version: 15.0.0.0rc1\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I76ef7fc5e169aa33d7b8382ffb5b4dd36bbedc63\nmeta:release:Code-Review+1: Dan Smith <dms@danplanet.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

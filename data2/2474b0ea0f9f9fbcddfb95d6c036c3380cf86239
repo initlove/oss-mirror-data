@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MjQ3NGIwZWEwZjlmOWZiY2RkZmI5NWQ2YzAzNmMzMzgwY2Y4NjIzOQ==",
+  "sha": "2474b0ea0f9f9fbcddfb95d6c036c3380cf86239",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/2474b0ea0f9f9fbcddfb95d6c036c3380cf86239",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-02-07T17:53:02Z"
+  },
+  "object": {
+    "sha": "4b9f0d190cd6b22853caeb0e07145a98ce1d1d7f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/4b9f0d190cd6b22853caeb0e07145a98ce1d1d7f"
+  },
+  "tag": "v0.9.9",
+  "message": "2013.02.07, Version 0.9.9 (Unstable)\n\n* tls: port CryptoStream to streams2 (Fedor Indutny)\n\n* typed arrays: only share ArrayBuffer backing store (Ben Noordhuis)\n\n* stream: make Writable#end() accept a callback function (Nathan Rajlich)\n\n* buffer: optimize 'hex' handling (Ben Noordhuis)\n\n* dns, cares: don't filter NOTIMP, REFUSED, SERVFAIL (Ben Noordhuis)\n\n* readline: treat bare \\r as a line ending (isaacs)\n\n* readline: make \\r\\n emit one 'line' event (Ben Noordhuis)\n\n* cluster: support datagram sockets (Bert Belder)\n\n* stream: Correct Transform class backpressure (isaacs)\n\n* addon: Pass module object to NODE_MODULE init function (isaacs, Rod Vagg)\n\n* buffer: slow buffer copy compatibility fix (Trevor Norris)\n\n* Add bytesWritten to tls.CryptoStream (Andy Burke)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRE+oSAAoJELCniwpsSBz2wC8H/0IVBEoBOJ0IPcmF7ZkKdr7n\nABc8Pk5eevCW1iH7EXnPxXQZqUTGqkc1gMX3Ij3W9s/w6e3oi20zJFEXp4jFgUl9\nDdx8jUwUzDOrM0Op6KcgTJ37OZI6UURpE1mqyPTV1zNYGxzzbQKKphNRP4UTDnUq\nPSVJf1tLKc/KmF0ZOYolYZrzxQXOQwVScXy+D40k5by5bgiW5v9RxFwp4qNYvyAg\ne4MdlOnL9QAGUy7Samf5dPMwBFgfjWpZ5mrtbd1GBstKAWE53alH9+7fok1YkeIR\nNSdtwgAxmLXbH2GOxiGpa4IHbJrgnPDARVvMTm0MxotiCLUf/v48KtUIHw/Rc8o=\n=ZXRy\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRE+oSAAoJELCniwpsSBz2wC8H/0IVBEoBOJ0IPcmF7ZkKdr7n\nABc8Pk5eevCW1iH7EXnPxXQZqUTGqkc1gMX3Ij3W9s/w6e3oi20zJFEXp4jFgUl9\nDdx8jUwUzDOrM0Op6KcgTJ37OZI6UURpE1mqyPTV1zNYGxzzbQKKphNRP4UTDnUq\nPSVJf1tLKc/KmF0ZOYolYZrzxQXOQwVScXy+D40k5by5bgiW5v9RxFwp4qNYvyAg\ne4MdlOnL9QAGUy7Samf5dPMwBFgfjWpZ5mrtbd1GBstKAWE53alH9+7fok1YkeIR\nNSdtwgAxmLXbH2GOxiGpa4IHbJrgnPDARVvMTm0MxotiCLUf/v48KtUIHw/Rc8o=\n=ZXRy\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4b9f0d190cd6b22853caeb0e07145a98ce1d1d7f\ntype commit\ntag v0.9.9\ntagger isaacs <i@izs.me> 1360259582 -0800\n\n2013.02.07, Version 0.9.9 (Unstable)\n\n* tls: port CryptoStream to streams2 (Fedor Indutny)\n\n* typed arrays: only share ArrayBuffer backing store (Ben Noordhuis)\n\n* stream: make Writable#end() accept a callback function (Nathan Rajlich)\n\n* buffer: optimize 'hex' handling (Ben Noordhuis)\n\n* dns, cares: don't filter NOTIMP, REFUSED, SERVFAIL (Ben Noordhuis)\n\n* readline: treat bare \\r as a line ending (isaacs)\n\n* readline: make \\r\\n emit one 'line' event (Ben Noordhuis)\n\n* cluster: support datagram sockets (Bert Belder)\n\n* stream: Correct Transform class backpressure (isaacs)\n\n* addon: Pass module object to NODE_MODULE init function (isaacs, Rod Vagg)\n\n* buffer: slow buffer copy compatibility fix (Trevor Norris)\n\n* Add bytesWritten to tls.CryptoStream (Andy Burke)\n"
+  }
+}

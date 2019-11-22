@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY4ODQyNTc6MjRmMDY1ZmE2YmI4OTNmMWM0NmE0MDAzM2JmOGUzN2NlYjZiZGU3NQ==",
+  "sha": "24f065fa6bb893f1c46a40033bf8e37ceb6bde75",
+  "url": "https://api.github.com/repos/openstack/python-magnumclient/git/tags/24f065fa6bb893f1c46a40033bf8e37ceb6bde75",
+  "tagger": {
+    "name": "Thierry Carrez",
+    "email": "thierry@openstack.org",
+    "date": "2016-10-20T07:58:58Z"
+  },
+  "object": {
+    "sha": "14dfc7d61664b03d2b7bed74dd032c60a0d86a19",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-magnumclient/git/commits/14dfc7d61664b03d2b7bed74dd032c60a0d86a19"
+  },
+  "tag": "2.3.1",
+  "message": "python-magnumclient 2.3.1 release\n\nmeta:version: 2.3.1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Thomas Bechtold <tbechtold@suse.com>\nmeta:release:Commit: Thomas Bechtold <tbechtold@suse.com>\nmeta:release:Change-Id: I88a585c8fc760cb0f4c222a008dd041ab1b56136\nmeta:release:Code-Review+1: Imran Hayder Malik <imran.malik@emc.com>\nmeta:release:Code-Review+1: Abhishek Chanda <abhishek.becs@gmail.com>\nmeta:release:Code-Review+1: Hongbin Lu <hongbin.lu@huawei.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJYCHlCAAoJEFB6+JAlsQQjCEcP/1ORxC3QfwogIVmhG3AULh0N\n2QcUSMlXZB/DSaSTmUbxRA6VkaB4VC0LewN8aaYgn8gxUYRHSBzJnvRI1SeYYpD1\nUqrssy3/dHRX+KYofO8E7dIt+vMCvobW159FTw4QfkxuZvGlKaiAa9X6saIvWxjk\nxAO9EYARAVusu9o2avalOwwZ3SXH7kcPJStzhv8Skv+wZj412O7Eyl3OG4qpwR2t\nBFzXsFbwrSEwrjUkWCYM6u3UgxjonOptQA//4S9+gXvHsgbKqOM5qMLg3poSGs2A\nkrTIAFz8mjX9eTPnJc1djDMByhybbbGsHdpR67BRYzY2K2VCUSVXCeigCcv+hdp9\nJH5uyVKvVred8tzjOcevNZ2YDmAY9kyoZzTDndwjD0oyT8eTckLrEZ+L5JlgsZTR\nlZ0ZICG18bYpobwvbnGrNe4ix4OYERcyqqv4O97eJosE2GJoU6OLnq27gAsSp1o0\n7orroAYgXNQFPoExK+JDXZdLovNji1AibFAR8L5KyKsDd9eUGSvz3sGTb6Mw0fiV\nzccf2UqUy1oSoiKbHnJnkZ4pncnBWBQRax1w7Rwo1uh3tFa8BCaWCVEgLw6N6Lup\nbw6oLXyUnT5GkB2PVD5x5dToB3mvfrNJoy1OdtK0232iIgCPjxPKzwhVsluHHXiu\nV/H8PXpxnmNl39MibAI9\n=Smid\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJYCHlCAAoJEFB6+JAlsQQjCEcP/1ORxC3QfwogIVmhG3AULh0N\n2QcUSMlXZB/DSaSTmUbxRA6VkaB4VC0LewN8aaYgn8gxUYRHSBzJnvRI1SeYYpD1\nUqrssy3/dHRX+KYofO8E7dIt+vMCvobW159FTw4QfkxuZvGlKaiAa9X6saIvWxjk\nxAO9EYARAVusu9o2avalOwwZ3SXH7kcPJStzhv8Skv+wZj412O7Eyl3OG4qpwR2t\nBFzXsFbwrSEwrjUkWCYM6u3UgxjonOptQA//4S9+gXvHsgbKqOM5qMLg3poSGs2A\nkrTIAFz8mjX9eTPnJc1djDMByhybbbGsHdpR67BRYzY2K2VCUSVXCeigCcv+hdp9\nJH5uyVKvVred8tzjOcevNZ2YDmAY9kyoZzTDndwjD0oyT8eTckLrEZ+L5JlgsZTR\nlZ0ZICG18bYpobwvbnGrNe4ix4OYERcyqqv4O97eJosE2GJoU6OLnq27gAsSp1o0\n7orroAYgXNQFPoExK+JDXZdLovNji1AibFAR8L5KyKsDd9eUGSvz3sGTb6Mw0fiV\nzccf2UqUy1oSoiKbHnJnkZ4pncnBWBQRax1w7Rwo1uh3tFa8BCaWCVEgLw6N6Lup\nbw6oLXyUnT5GkB2PVD5x5dToB3mvfrNJoy1OdtK0232iIgCPjxPKzwhVsluHHXiu\nV/H8PXpxnmNl39MibAI9\n=Smid\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 14dfc7d61664b03d2b7bed74dd032c60a0d86a19\ntype commit\ntag 2.3.1\ntagger Thierry Carrez <thierry@openstack.org> 1476950338 +0200\n\npython-magnumclient 2.3.1 release\n\nmeta:version: 2.3.1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Thomas Bechtold <tbechtold@suse.com>\nmeta:release:Commit: Thomas Bechtold <tbechtold@suse.com>\nmeta:release:Change-Id: I88a585c8fc760cb0f4c222a008dd041ab1b56136\nmeta:release:Code-Review+1: Imran Hayder Malik <imran.malik@emc.com>\nmeta:release:Code-Review+1: Abhishek Chanda <abhishek.becs@gmail.com>\nmeta:release:Code-Review+1: Hongbin Lu <hongbin.lu@huawei.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

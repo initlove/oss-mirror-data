@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YTE0YmFkZjE5NzVmZjIzYjFlMGUxMDBhMTg4ZjNlOWI5OWI5MzVmNA==",
+  "sha": "a14badf1975ff23b1e0e100a188f3e9b99b935f4",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/a14badf1975ff23b1e0e100a188f3e9b99b935f4",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-09-04T18:24:46Z"
+  },
+  "object": {
+    "sha": "67a1f0c52e0708e2596f3f2134b8386d6112561e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/67a1f0c52e0708e2596f3f2134b8386d6112561e"
+  },
+  "tag": "v0.10.18",
+  "message": "2013.09.04, Version 0.10.18 (Stable)\n\n* uv: Upgrade to v0.10.15\n\n* stream: Don't crash on unset _events property (isaacs)\n\n* stream: Pass 'buffer' encoding with decoded writable chunks (isaacs)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlIneu4ACgkQfTP/nQJGQG0PXwCeIU4PQbiMXrQ5PPX9zH3+nlhj\nU3kAnizd1CO8z0o+y3brs0cnWUa9O6g2\n=eqxd\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlIneu4ACgkQfTP/nQJGQG0PXwCeIU4PQbiMXrQ5PPX9zH3+nlhj\nU3kAnizd1CO8z0o+y3brs0cnWUa9O6g2\n=eqxd\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 67a1f0c52e0708e2596f3f2134b8386d6112561e\ntype commit\ntag v0.10.18\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1378319086 -0700\n\n2013.09.04, Version 0.10.18 (Stable)\n\n* uv: Upgrade to v0.10.15\n\n* stream: Don't crash on unset _events property (isaacs)\n\n* stream: Pass 'buffer' encoding with decoded writable chunks (isaacs)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOjA2NDI5MzkyZGI4NmE2YmE0M2E5YjZhMTQ4YWJlOTc0NDk0YjI3NWQ=",
+  "sha": "06429392db86a6ba43a9b6a148abe974494b275d",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/06429392db86a6ba43a9b6a148abe974494b275d",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-27T08:59:57Z"
+  },
+  "object": {
+    "sha": "207d2c22538ddec4d82fafbc01e756c9d25f6e36",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/207d2c22538ddec4d82fafbc01e756c9d25f6e36"
+  },
+  "tag": "20.0.0.0rc1",
+  "message": "nova 20.0.0.0rc1 release candidate\n\nmeta:version: 20.0.0.0rc1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I06a8ebc519aed07fe20aa0d127f134b0ff86fc06\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+1: Eric Fried <openstack@fried.cc>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+1: Takashi NATSUME <natsume.takashi@lab.ntt.co.jp>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2Nz40ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2GYeC/92Ootia9o9G25nmokrPNWp\nitVCUuRSOC8ekmY1K7uZ9+nnTeWYh772vXb2OUSYbP4gOXZTB7objPmMjcuqgChG\njkZ0xMQUcpYCNe0o43wifnhw3ojacsvBh2ynsxyMQz4xX5sNPLAsgvjsC+zeQ15h\nWiLL7mU/kzaZWatbLZmjUHYYpb2fVF0zrKlXttjNcW/HC7U0wGY37r5+2FpdP/PE\n7Q6fhGGi79KjS3V7q3ZmMoxWR2Mn4bc5ML/AFew+KlxZufIUvsJNEmpYg4rk2AMd\nLXY/VbrsVczvfhLsLIjQU0NVmZw35wKfJMMyZ7JM9WepUKcSB6y0LIj1YDS2kwPd\n5ikqY/WJinKCXAU7gIwQp6i73FflHixrCvczXCMilgABpV3/63mbDjwkvPCXWT5X\nnMkNvcZ++uh/JdZZ5csgI/ZVUJSDJJtfPdWuyfneUlSLxlIsSe/G/PqHhcfSwtyl\nBSIfQK4cjuvgFMWkexa/7FLo5NHhWDK3xMye/DLKSx4=\n=8qgy\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2Nz40ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2GYeC/92Ootia9o9G25nmokrPNWp\nitVCUuRSOC8ekmY1K7uZ9+nnTeWYh772vXb2OUSYbP4gOXZTB7objPmMjcuqgChG\njkZ0xMQUcpYCNe0o43wifnhw3ojacsvBh2ynsxyMQz4xX5sNPLAsgvjsC+zeQ15h\nWiLL7mU/kzaZWatbLZmjUHYYpb2fVF0zrKlXttjNcW/HC7U0wGY37r5+2FpdP/PE\n7Q6fhGGi79KjS3V7q3ZmMoxWR2Mn4bc5ML/AFew+KlxZufIUvsJNEmpYg4rk2AMd\nLXY/VbrsVczvfhLsLIjQU0NVmZw35wKfJMMyZ7JM9WepUKcSB6y0LIj1YDS2kwPd\n5ikqY/WJinKCXAU7gIwQp6i73FflHixrCvczXCMilgABpV3/63mbDjwkvPCXWT5X\nnMkNvcZ++uh/JdZZ5csgI/ZVUJSDJJtfPdWuyfneUlSLxlIsSe/G/PqHhcfSwtyl\nBSIfQK4cjuvgFMWkexa/7FLo5NHhWDK3xMye/DLKSx4=\n=8qgy\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 207d2c22538ddec4d82fafbc01e756c9d25f6e36\ntype commit\ntag 20.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1569574797 +0000\n\nnova 20.0.0.0rc1 release candidate\n\nmeta:version: 20.0.0.0rc1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I06a8ebc519aed07fe20aa0d127f134b0ff86fc06\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+1: Eric Fried <openstack@fried.cc>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+1: Takashi NATSUME <natsume.takashi@lab.ntt.co.jp>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

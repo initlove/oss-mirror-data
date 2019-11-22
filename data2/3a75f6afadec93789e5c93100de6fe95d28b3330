@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6M2E3NWY2YWZhZGVjOTM3ODllNWM5MzEwMGRlNmZlOTVkMjhiMzMzMA==",
+  "sha": "3a75f6afadec93789e5c93100de6fe95d28b3330",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/3a75f6afadec93789e5c93100de6fe95d28b3330",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-03-01T19:17:53Z"
+  },
+  "object": {
+    "sha": "83392403b7a9b7782b37c17688938c75010f81ba",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/83392403b7a9b7782b37c17688938c75010f81ba"
+  },
+  "tag": "v0.9.11",
+  "message": "2013.03.01, Version 0.9.10 (Unstable)\n\n* V8: downgrade 3.14.5\n\n* openssl: update to 1.0.1e\n\n* darwin: Make process.title work properly (Ben Noordhuis)\n\n* fs: Support mode/flag options to read/append/writeFile (isaacs)\n\n* stream: _read() no longer takes a callback (isaacs)\n\n* stream: Add stream.unshift(chunk) (isaacs)\n\n* stream: remove lowWaterMark feature (isaacs)\n\n* net: omit superfluous 'connect' event (Ben Noordhuis)\n\n* build, windows: disable SEH (Ben Noordhuis)\n\n* core: remove errno global (Ben Noordhuis)\n\n* core: Remove the nextTick for running the main file (isaacs)\n\n* core: Mark exit() calls with status codes (isaacs)\n\n* core: Fix debug signal handler race condition lock (isaacs)\n\n* crypto: clear error stack (Ben Noordhuis)\n\n* test: optionally set common.PORT via env variable (Timothy J Fontaine)\n\n* path: Throw TypeError on non-string args to path.resolve/join (isaacs, Arianit Uka)\n\n* crypto: fix uninitialized memory access in openssl (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRMP7hAAoJELCniwpsSBz2o50H/2Qr2sgl4h9TWx2ZND5d4PPg\nOB1zrWYCQa3QJMnyztL5ptjGHdXJs76cBkoU2t3ymcHQFw0yteYCCmrYsSQmBJRO\nFL027XTetfE56fjSTKFPkxQyZ6dPJ9Paxmwj4LA9jTWiRW3jAON5xhUECA7Zvmx+\nzvQ2kYx0b7BzcmV3f6hVIPqBC/ypztjb7Qjlj6XhInSL3WbyjK/1GoXyhVrAxwVj\noFd5YA3AI579/Zy1AiXJeBrmzNfdaoCN7tI7qVrit+Ktmb+Ec8Ql+bHBWW3bTgAx\nbBvWHqvS+L8wMXD7+vj+KLUu3UjxhBg96zOvnWqtZq+PM8gjc7YtqP3jtRmprbA=\n=9QrR\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRMP7hAAoJELCniwpsSBz2o50H/2Qr2sgl4h9TWx2ZND5d4PPg\nOB1zrWYCQa3QJMnyztL5ptjGHdXJs76cBkoU2t3ymcHQFw0yteYCCmrYsSQmBJRO\nFL027XTetfE56fjSTKFPkxQyZ6dPJ9Paxmwj4LA9jTWiRW3jAON5xhUECA7Zvmx+\nzvQ2kYx0b7BzcmV3f6hVIPqBC/ypztjb7Qjlj6XhInSL3WbyjK/1GoXyhVrAxwVj\noFd5YA3AI579/Zy1AiXJeBrmzNfdaoCN7tI7qVrit+Ktmb+Ec8Ql+bHBWW3bTgAx\nbBvWHqvS+L8wMXD7+vj+KLUu3UjxhBg96zOvnWqtZq+PM8gjc7YtqP3jtRmprbA=\n=9QrR\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 83392403b7a9b7782b37c17688938c75010f81ba\ntype commit\ntag v0.9.11\ntagger isaacs <i@izs.me> 1362165473 -0800\n\n2013.03.01, Version 0.9.10 (Unstable)\n\n* V8: downgrade 3.14.5\n\n* openssl: update to 1.0.1e\n\n* darwin: Make process.title work properly (Ben Noordhuis)\n\n* fs: Support mode/flag options to read/append/writeFile (isaacs)\n\n* stream: _read() no longer takes a callback (isaacs)\n\n* stream: Add stream.unshift(chunk) (isaacs)\n\n* stream: remove lowWaterMark feature (isaacs)\n\n* net: omit superfluous 'connect' event (Ben Noordhuis)\n\n* build, windows: disable SEH (Ben Noordhuis)\n\n* core: remove errno global (Ben Noordhuis)\n\n* core: Remove the nextTick for running the main file (isaacs)\n\n* core: Mark exit() calls with status codes (isaacs)\n\n* core: Fix debug signal handler race condition lock (isaacs)\n\n* crypto: clear error stack (Ben Noordhuis)\n\n* test: optionally set common.PORT via env variable (Timothy J Fontaine)\n\n* path: Throw TypeError on non-string args to path.resolve/join (isaacs, Arianit Uka)\n\n* crypto: fix uninitialized memory access in openssl (Ben Noordhuis)\n"
+  }
+}

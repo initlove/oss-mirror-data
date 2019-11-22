@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MzVhZDE1YjQ2Yzk5ZDM4N2ZjOTQxM2ZiODNiYmM2NTI5MTM1NGRkYw==",
+  "sha": "35ad15b46c99d387fc9413fb83bbc65291354ddc",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/35ad15b46c99d387fc9413fb83bbc65291354ddc",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-07-11T17:14:20Z"
+  },
+  "object": {
+    "sha": "952e513379169ec1b40909d1db056e9bf4294899",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/952e513379169ec1b40909d1db056e9bf4294899"
+  },
+  "tag": "v0.6.20",
+  "message": "2012.07.10 Version 0.6.20 (maintenance)\n\n* npm: Upgrade to 1.1.37 (isaacs)\n\n* benchmark: Backport improvements made in master (isaacs)\n\n* build: always link with -lz (Trent Mick)\n\n* core: use proper #include directives (Ben Noordhuis)\n\n* cluster: don't silently drop messages when the write queue gets big (Bert Belder)\n\n* windows: don't print error when GetConsoleTitleW returns an empty string (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJP/bRsAAoJELCniwpsSBz26g4H/A1c5Ubvg5UB1BSRxCh8sKL+\nVVwd4wKYXfp8dFafG44fNIU8tpUeqvaE7O90Xcq9eY0gwes8OxvJkqYaaiI1PgCw\ns5FU1bXXc0XPBiIS0PzvlQhQqf3MyAvrjRJiTiHJLHBlnMvKukc0omByXqr8VLhO\n9zvp4NGx6vsmY/Vt4Jr1OYTbsI5zoSrSbM0mVX3Cc9jCzald6UiuqgxTvrr7DyNr\nB6zX3Eo7E6vJFX5jdNJpwudNnhG0E4mbbBxlq4PEXOIq9hC14r/SYtw5tKhEvDiy\nkNwqT39BkismpWjxpCN9kUBo0mkEc7tzgO7FUePnAF3+O7wzSXBzC2lLiux/GO8=\n=eiTB\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJP/bRsAAoJELCniwpsSBz26g4H/A1c5Ubvg5UB1BSRxCh8sKL+\nVVwd4wKYXfp8dFafG44fNIU8tpUeqvaE7O90Xcq9eY0gwes8OxvJkqYaaiI1PgCw\ns5FU1bXXc0XPBiIS0PzvlQhQqf3MyAvrjRJiTiHJLHBlnMvKukc0omByXqr8VLhO\n9zvp4NGx6vsmY/Vt4Jr1OYTbsI5zoSrSbM0mVX3Cc9jCzald6UiuqgxTvrr7DyNr\nB6zX3Eo7E6vJFX5jdNJpwudNnhG0E4mbbBxlq4PEXOIq9hC14r/SYtw5tKhEvDiy\nkNwqT39BkismpWjxpCN9kUBo0mkEc7tzgO7FUePnAF3+O7wzSXBzC2lLiux/GO8=\n=eiTB\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 952e513379169ec1b40909d1db056e9bf4294899\ntype commit\ntag v0.6.20\ntagger isaacs <i@izs.me> 1342026860 -0700\n\n2012.07.10 Version 0.6.20 (maintenance)\n\n* npm: Upgrade to 1.1.37 (isaacs)\n\n* benchmark: Backport improvements made in master (isaacs)\n\n* build: always link with -lz (Trent Mick)\n\n* core: use proper #include directives (Ben Noordhuis)\n\n* cluster: don't silently drop messages when the write queue gets big (Bert Belder)\n\n* windows: don't print error when GetConsoleTitleW returns an empty string (Bert Belder)\n"
+  }
+}

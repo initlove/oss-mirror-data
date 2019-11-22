@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTo0MjA3NDJkZDI3ODAxYTE2ZDljMjI4N2RiNWViYzIzZTI1OGQwNDli",
+  "sha": "420742dd27801a16d9c2287db5ebc23e258d049b",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/420742dd27801a16d9c2287db5ebc23e258d049b",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-02-02T23:35:59Z"
+  },
+  "object": {
+    "sha": "c5433e30f4c24adb8a83ccc584e5760516665b72",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/c5433e30f4c24adb8a83ccc584e5760516665b72"
+  },
+  "tag": "4.0.6",
+  "message": "Version 4.0.6\n\n### Bug fixes\n\nFix exponential behavior (manifesting itself as a complete hang for\neven relatively small source files) introduced by the new 'use strict'\ncheck.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAliTwmwACgkQcD8b7W0z\nrh5gPAgA1dE/pHh+UxDMlHSxLjjg9T8S6V+pinGj5og+YCacjSqg/ibBIAAP68uL\nF04BgDoThu7mSmUeLHnTtzg+hCkA+VK/e4Z8oA34pooJ6aO7Z9zutx3C1emD9yF9\njiVZqaXX+RHq2JUYXrDWmAK7KolKDuTUI4rcqOA0BNjO7XnT0BuitHBBx0zuHPGG\nHsj9uPY8VGIkP+SQ4mvYnmVMvGAI0TUFtg91yPRMQEyzgolt94ZQwFTbE4PDx8sv\nGGq88p3yoSf9UtpT86utV74IV6j8WTAiY1GouK/Ixz05jrYWg3MOOjiDk/ctPYWv\n4fIFcir6M4ufvAPzoxvj2ZjrPUuQig==\n=U0lZ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAliTwmwACgkQcD8b7W0z\nrh5gPAgA1dE/pHh+UxDMlHSxLjjg9T8S6V+pinGj5og+YCacjSqg/ibBIAAP68uL\nF04BgDoThu7mSmUeLHnTtzg+hCkA+VK/e4Z8oA34pooJ6aO7Z9zutx3C1emD9yF9\njiVZqaXX+RHq2JUYXrDWmAK7KolKDuTUI4rcqOA0BNjO7XnT0BuitHBBx0zuHPGG\nHsj9uPY8VGIkP+SQ4mvYnmVMvGAI0TUFtg91yPRMQEyzgolt94ZQwFTbE4PDx8sv\nGGq88p3yoSf9UtpT86utV74IV6j8WTAiY1GouK/Ixz05jrYWg3MOOjiDk/ctPYWv\n4fIFcir6M4ufvAPzoxvj2ZjrPUuQig==\n=U0lZ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c5433e30f4c24adb8a83ccc584e5760516665b72\ntype commit\ntag 4.0.6\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1486078559 +0100\n\nVersion 4.0.6\n\n### Bug fixes\n\nFix exponential behavior (manifesting itself as a complete hang for\neven relatively small source files) introduced by the new 'use strict'\ncheck.\n"
+  }
+}

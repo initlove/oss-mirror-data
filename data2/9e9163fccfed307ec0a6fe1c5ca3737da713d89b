@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6OWU5MTYzZmNjZmVkMzA3ZWMwYTZmZTFjNWNhMzczN2RhNzEzZDg5Yg==",
+  "sha": "9e9163fccfed307ec0a6fe1c5ca3737da713d89b",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/9e9163fccfed307ec0a6fe1c5ca3737da713d89b",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2016-08-05T12:15:49Z"
+  },
+  "object": {
+    "sha": "5f8eb8611ebcad8abb0f0445de20d9c748df61c5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/5f8eb8611ebcad8abb0f0445de20d9c748df61c5"
+  },
+  "tag": "v0.5.3",
+  "message": "Release v0.5.3 contains the following changes:\n* Various Fixes for the Autoconf based installer\n* Fix compilation error when PRF is disabled\n* Added configuration files for the Upstream driver\n* Remove Makefile link dependencies that are no longer required\n* Remove code for Zero Copy Mode\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

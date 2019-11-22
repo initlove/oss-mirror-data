@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6YTM4MWZmMDBkYjc2ZmY0YWFlZjE2NTQzMmE1YTFhM2M0ZmUxODdkOQ==",
+  "sha": "a381ff00db76ff4aaef165432a5a1a3c4fe187d9",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/a381ff00db76ff4aaef165432a5a1a3c4fe187d9",
+  "tagger": {
+    "name": "Brandon Philips",
+    "email": "brandon@ifup.co",
+    "date": "2014-07-29T19:52:10Z"
+  },
+  "object": {
+    "sha": "49e0dff2b8529801beb09164729caf96a5b93ef0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/49e0dff2b8529801beb09164729caf96a5b93ef0"
+  },
+  "tag": "v0.4.6",
+  "message": "v0.4.6\n\n* Fix long-term timer leak (#900, #875, #868, #904)\n* Fix `Running` field in standby_info file (#881)\n* Add `quorum=true` query parameter for GET requests (#866, #883)\n* Add `Access-Control-Allow-Headers` header for CORS requests (#886)\n* Various documentation improvements (#907, #882)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.15 (Darwin)\n\niQIcBAABAgAGBQJT1/t6AAoJEBVDQyYFQt8083EP/3h4Q5Dn1ZAKQu7IcZPNT0aP\nvFUnriMu0JfvXARVSK37139qG/PeRYWmrbHfpRl65wjH3WCqNoYYr1GM1l2dlYzG\n3HqXHUuC7Os6XwFEB+LDscoz8dpD6JbGDoq0l39SfRd/6U7GE2dbcxJVbB/TcBGC\nuIzUt48olxgxgpHLgxircOTh6GWhGNcPJhN5hrJ3vUd36xKYENxhQkCGOgU/rFOK\ndjwqf8WDoxc+ThPpTRRiNkGRnHBjv4r/7eyIOpY2h+b/TrzRbUxFIndN1HArskro\n8vN7uA8g9DYWhdo4Xu035CbGVgzOYfblodwtBHVm1PkFeG0pGnn96IeANnXA7SiL\nj+m5dqke46FDbKc99Lpmv4napkhYwV7BKGiMVvaAR8M4do1p87j6jdx7PWqDCm8N\nfecGb5L3WgvHmAU6yEkJfm9Sxisvj0KtZEy6mRvABai8XKC94m22wN/xDc52tTaH\nyKH0cZyEw3l69aHUBdP0MuDDMHAw2GxNsNgnYUDGqYqVfKOiTnqu0wWGbd1WCf13\nlrsVX8E0juNbkRRU6kJSPVzLkVa7OzKx8Yh1DLW6NVm1241qdatYVHxQLw5Wy6bZ\ncnLg7EnNov6+1XAMEk7sAVLm9hydyCinJvuhClvjRgUtHIGYfLbiREEZG4tcAnxH\nAohQCtOorK8xrhADGm0Y\n=LDVj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.15 (Darwin)\n\niQIcBAABAgAGBQJT1/t6AAoJEBVDQyYFQt8083EP/3h4Q5Dn1ZAKQu7IcZPNT0aP\nvFUnriMu0JfvXARVSK37139qG/PeRYWmrbHfpRl65wjH3WCqNoYYr1GM1l2dlYzG\n3HqXHUuC7Os6XwFEB+LDscoz8dpD6JbGDoq0l39SfRd/6U7GE2dbcxJVbB/TcBGC\nuIzUt48olxgxgpHLgxircOTh6GWhGNcPJhN5hrJ3vUd36xKYENxhQkCGOgU/rFOK\ndjwqf8WDoxc+ThPpTRRiNkGRnHBjv4r/7eyIOpY2h+b/TrzRbUxFIndN1HArskro\n8vN7uA8g9DYWhdo4Xu035CbGVgzOYfblodwtBHVm1PkFeG0pGnn96IeANnXA7SiL\nj+m5dqke46FDbKc99Lpmv4napkhYwV7BKGiMVvaAR8M4do1p87j6jdx7PWqDCm8N\nfecGb5L3WgvHmAU6yEkJfm9Sxisvj0KtZEy6mRvABai8XKC94m22wN/xDc52tTaH\nyKH0cZyEw3l69aHUBdP0MuDDMHAw2GxNsNgnYUDGqYqVfKOiTnqu0wWGbd1WCf13\nlrsVX8E0juNbkRRU6kJSPVzLkVa7OzKx8Yh1DLW6NVm1241qdatYVHxQLw5Wy6bZ\ncnLg7EnNov6+1XAMEk7sAVLm9hydyCinJvuhClvjRgUtHIGYfLbiREEZG4tcAnxH\nAohQCtOorK8xrhADGm0Y\n=LDVj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 49e0dff2b8529801beb09164729caf96a5b93ef0\ntype commit\ntag v0.4.6\ntagger Brandon Philips <brandon@ifup.co> 1406663530 -0700\n\nv0.4.6\n\n* Fix long-term timer leak (#900, #875, #868, #904)\n* Fix `Running` field in standby_info file (#881)\n* Add `quorum=true` query parameter for GET requests (#866, #883)\n* Add `Access-Control-Allow-Headers` header for CORS requests (#886)\n* Various documentation improvements (#907, #882)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjAwNzkwODg6ZDcyMTUwZTc4ODQ4YWZkODRmYWIzMDI5ZDlmNDYyNzAxNjFmY2NhMQ==",
+  "sha": "d72150e78848afd84fab3029d9f46270161fcca1",
+  "url": "https://api.github.com/repos/openstack/gnocchi/git/tags/d72150e78848afd84fab3029d9f46270161fcca1",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-01-03T16:43:29Z"
+  },
+  "object": {
+    "sha": "bb687e17150bcf9ac8f8fa3b84043d4c58ae6181",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/gnocchi/git/commits/bb687e17150bcf9ac8f8fa3b84043d4c58ae6181"
+  },
+  "tag": "3.0.3",
+  "message": "gnocchi 3.0.3 release\n\nmeta:version: 3.0.3\nmeta:diff-start: -\nmeta:series: independent\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Julien Danjou <julien@danjou.info>\nmeta:release:Change-Id: I26f91092bb5863c40ad378f12b5dcce15995c328\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYa9SxAAoJELkGmxM1cAzcHAEH/1XlHcbu8zLGdmqDOlP9irH3\nJMTojpaQaIZNHMQvIZzZtMBX7A8mjpQVPDFpxADjmJMqoorVYJVNZWn8sIr44h9x\nHLWx66uUJpBFYZUhWaJktMZaOkLzNA9kjysR+xYGZ3Ii1sKnGUleCYlQMCHFR/o5\n+R9X7sdT1icM3pyXMsoFnAziZXo/5AupGUNlDxHcuTesaW0w2sqxWF8ojHe1es3e\njcV7Oz0BgcJ1OWmKqaW+G/Vmp6zgH6AynSwiCU8LO6m4AoAwEFcrPowJJd55xnCl\nphQtRrxAGxsd7VqrZxLlI5RzZFTEyqnW+yfRz32tvoblktfp4GKTm4VPsgBLdtQ=\n=U+UL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYa9SxAAoJELkGmxM1cAzcHAEH/1XlHcbu8zLGdmqDOlP9irH3\nJMTojpaQaIZNHMQvIZzZtMBX7A8mjpQVPDFpxADjmJMqoorVYJVNZWn8sIr44h9x\nHLWx66uUJpBFYZUhWaJktMZaOkLzNA9kjysR+xYGZ3Ii1sKnGUleCYlQMCHFR/o5\n+R9X7sdT1icM3pyXMsoFnAziZXo/5AupGUNlDxHcuTesaW0w2sqxWF8ojHe1es3e\njcV7Oz0BgcJ1OWmKqaW+G/Vmp6zgH6AynSwiCU8LO6m4AoAwEFcrPowJJd55xnCl\nphQtRrxAGxsd7VqrZxLlI5RzZFTEyqnW+yfRz32tvoblktfp4GKTm4VPsgBLdtQ=\n=U+UL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bb687e17150bcf9ac8f8fa3b84043d4c58ae6181\ntype commit\ntag 3.0.3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1483461809 +0000\n\ngnocchi 3.0.3 release\n\nmeta:version: 3.0.3\nmeta:diff-start: -\nmeta:series: independent\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Julien Danjou <julien@danjou.info>\nmeta:release:Change-Id: I26f91092bb5863c40ad378f12b5dcce15995c328\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

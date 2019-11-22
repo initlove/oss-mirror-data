@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ODE3ZDVmZDZmYjczYmQ0YzUzYzU0YWU2ZWVkZjZlZjE2ZjM3ODEzMg==",
+  "sha": "817d5fd6fb73bd4c53c54ae6eedf6ef16f378132",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/817d5fd6fb73bd4c53c54ae6eedf6ef16f378132",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-04-23T21:06:14Z"
+  },
+  "object": {
+    "sha": "deeaf8fab978e3cadb364e46fb32dafdebe5f095",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/deeaf8fab978e3cadb364e46fb32dafdebe5f095"
+  },
+  "tag": "v0.10.5",
+  "message": "2013.04.23, Version 0.10.5 (Stable)\n\n* uv: Upgrade to 0.10.5 (isaacs)\n\n* build: added support for Visual Studio 2012 (Miroslav Bajtoš)\n\n* http: Don't try to destroy nonexistent sockets (isaacs)\n\n* crypto: LazyTransform on properties, not methods (isaacs)\n\n* assert: put info in err.message, not err.name (Ryan Doenges)\n\n* dgram: fix no address bind() (Ben Noordhuis)\n\n* handle_wrap: fix NULL pointer dereference (Ben Noordhuis)\n\n* os: fix unlikely buffer overflow in os.type() (Ben Noordhuis)\n\n* stream: Fix unshift() race conditions (isaacs)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRdvfGAAoJELCniwpsSBz2qNAIAKJKllhx1pc/OAleIlaLAtoT\nO/9V0g2DOb5EwNlyvWgSL/zEYyk59dab2q9PzAOkz24ZoYYyYExFNggoxMwgP8G2\nS1a5eD4X1iUyAEE6kkG3P/F5fUGWCaikBh1j7icVMvUwulmWazCDA/2iM670teAG\ntji/BEdD3yHAk1xeobOZ95JxDqyh7cHocnkDzt9ZRhJk5aoBJ6a1wbDxkYH1UjnM\nc+cHlrBymA/Ph6sAfvJnNM0mmcwordV8YJNcQYoO5uoka1SKMpGvMhfSMmwnsX3P\n6yA8EjRFuoc9t9vcT+LQjQ2ZUJ1Y7SdAKU2HtxPasOmcQst/fh5Ab3P7vBcb948=\n=NvYT\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRdvfGAAoJELCniwpsSBz2qNAIAKJKllhx1pc/OAleIlaLAtoT\nO/9V0g2DOb5EwNlyvWgSL/zEYyk59dab2q9PzAOkz24ZoYYyYExFNggoxMwgP8G2\nS1a5eD4X1iUyAEE6kkG3P/F5fUGWCaikBh1j7icVMvUwulmWazCDA/2iM670teAG\ntji/BEdD3yHAk1xeobOZ95JxDqyh7cHocnkDzt9ZRhJk5aoBJ6a1wbDxkYH1UjnM\nc+cHlrBymA/Ph6sAfvJnNM0mmcwordV8YJNcQYoO5uoka1SKMpGvMhfSMmwnsX3P\n6yA8EjRFuoc9t9vcT+LQjQ2ZUJ1Y7SdAKU2HtxPasOmcQst/fh5Ab3P7vBcb948=\n=NvYT\n-----END PGP SIGNATURE-----\n",
+    "payload": "object deeaf8fab978e3cadb364e46fb32dafdebe5f095\ntype commit\ntag v0.10.5\ntagger isaacs <i@izs.me> 1366751174 -0700\n\n2013.04.23, Version 0.10.5 (Stable)\n\n* uv: Upgrade to 0.10.5 (isaacs)\n\n* build: added support for Visual Studio 2012 (Miroslav Bajtoš)\n\n* http: Don't try to destroy nonexistent sockets (isaacs)\n\n* crypto: LazyTransform on properties, not methods (isaacs)\n\n* assert: put info in err.message, not err.name (Ryan Doenges)\n\n* dgram: fix no address bind() (Ben Noordhuis)\n\n* handle_wrap: fix NULL pointer dereference (Ben Noordhuis)\n\n* os: fix unlikely buffer overflow in os.type() (Ben Noordhuis)\n\n* stream: Fix unshift() race conditions (isaacs)\n"
+  }
+}

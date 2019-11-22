@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OjA2MmE4NDk0M2NmYjdkNzgzNmE0NGFlNmM2YTBiY2ViOTNmYzdmN2U=",
+  "sha": "062a84943cfb7d7836a44ae6c6a0bceb93fc7f7e",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/062a84943cfb7d7836a44ae6c6a0bceb93fc7f7e",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "spam@schillmania.com",
+    "date": "2012-03-19T02:44:48Z"
+  },
+  "object": {
+    "sha": "ba28eeaeb33bfa861dcb69383d8d14be91b68395",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/ba28eeaeb33bfa861dcb69383d8d14be91b68395"
+  },
+  "tag": "V2.97a.20120318",
+  "message": "V2.97a.20120318 - Minor updates. from / to and onplay() bug fixes, canPlayMIME() and canPlayLink() Flash-specific corrections.\n\n    Bug fixes\n\n        Fix silly undefined\"soundID\" debug output message shown at SMSound.onload (now says SMSound._onload() as previously.)\n\n        soundManager.sounds = {} instead of [] on reboot (per bug report)\n\n        Fix logic for calling onplay(), was always non-truthy. D'oh!\n\n        Add missing typeof to fix html5 MIME check for playability tests\n\n        Don't apply width:auto to SWF (invalid per HTML5, allegedly: Related patch.)\n\n        Make soundManager.canPlayMIME() and canPlayLink() check flash support before returning (check after ontimeout() was returning truthy when flash required under Firefox, for example, for 'audio/mp3')\n\n        Fix play() \"from\" + \"to\" sound sprite playback issue: In some cases, previously-fired \"to\" events were re-firing due to not being removed, because an equality check was comparing against a potential \"to\" value of a string rather than a number. (eg., 0-700 followed by 1500-2000; playback would stop in second case, saying 700 had been reached. (Related bug report.)\n\n        Re-appeased the jslint gods, removed unused variables and two-statement reverse loop (for i=x; i--;) { } trickery.\n\n    Miscellaneous\n\n        The SoundManager project turned 10 years old, having originally launched in late 2001. Thanks for using it!\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

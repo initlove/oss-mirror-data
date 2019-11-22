@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTg0OTgxOjA4YjhiY2YzYmI3NjhkYTJkYTg4MjAwMGMwYmM0YzVkYTc2YmUyYTQ=",
+  "sha": "08b8bcf3bb768da2da882000c0bc4c5da76be2a4",
+  "url": "https://api.github.com/repos/memcached/memcached/git/tags/08b8bcf3bb768da2da882000c0bc4c5da76be2a4",
+  "tagger": {
+    "name": "Dustin Sallings",
+    "email": "dustin@spy.net",
+    "date": "2009-03-03T08:09:24Z"
+  },
+  "object": {
+    "sha": "24d9040b72e01e143ce9cbcd1f844c20c65a740f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/memcached/memcached/git/commits/24d9040b72e01e143ce9cbcd1f844c20c65a740f"
+  },
+  "tag": "1.2.2",
+  "message": "Release 1.2.2\n\n* Command tokenizer performance and cleanliness improvement.\n  Patch contributed by Paolo Borelli <paolo.borelli@gmail.com>.\n\n* Add notes to README about MacOS, libevent and kqueue.\n\n* Windows Patch integration -- part 1, warnings elimination.\n\n* Allow changes to the verbosity level of the server with a new\n  \"verbosity\" command and some compiler cleanups.\n  Patch contributed by Paolo Borelli <paolo.borelli@gmail.com>.\n\n* Add cleanup patch from \"Tim Yardley\" <liquid@haveheart.com> to\n  clean up source spacing issues, fix -Wall warnings, add some\n  null checks, adds asserts at the top of each function for any\n  use of conn *c without checking to see if c is NULL first.\n\n* Also adjust clean-whitespace.pl to clean *.ac files.  Add\n  script to test-suite to test for tabs.\n\n* Add clarification of flush_all in the protocol docs\n  from Elizabeth Mattijsen <liz@dijkmat.nl>\n\n* Add patch from Eli Bingham <eli@pandora.com> to\n  re-enable the -n switch to memcached.\n\n* Add patch to collect eviction statistics from\n  Jean-Francois BUSTARRET <jfbustarret@wat.tv>.\n\n* Updated docs, added new test cases for t/stats.t\n\n* Add more test cases using larger buffer sizes up to and greater\n  than 1MB.\n\n* Remove unused parameter to item_size_ok()\n\n* Use a single printf() in usage()\n\n* Add a failing test for conforming with maximum connections.\n\n* crash fix from Thomas van Gulick <thomas@partyflock.nl> in\n  conn_shrink(), passing &ptr, instead of ptr to realloc().\n\n* Fix a number of places where (s)printf calls were using unsigned\n  or signed formats that did not match their arguments.\n\n* Add support for stdbool.h and stdint.h to use the bool and\n  uint8_t types.\n\n* Major refactoring - move API calls for assoc/items/slabs to\n  their own individual header files.  Add apropriate const and\n  static declarations as appropriate.\n\n* Avoid type-punning.  Do a more efficient realloc inside the\n  conn_shrink routine.\n\n* Fix overflow bug where uninitialized access to slabclass caused\n  size-0 mallocs during slab preallocation.\n\n* Use EXIT_SUCCESS/EXIT_FAILURE constants.\n\n* Convert some sprintf calls to snprintf to protect against\n  buffer overflows.\n\n* Explicitly compare against NULL or zero in many places.\n\n* Steven Grimm <sgrimm@facebook.com>: Per-object-type stats collection\n  support. Specify the object type delimiter with the -D command line\n  option. Turn stats gathering on and off with \"stats detail on\" and\n  \"stats detail off\". Dump the per-object-type details with\n  \"stats detail dump\".\n\n* Steven Grimm <sgrimm@facebook.com>: Fix an off-by-one error in the\n  multithreaded version's message passing code.\n\n* fix expirations of items set with absolute expiration times in\n  the past, before the server's start time.  bug was introduced in\n  1.2.0 with rel_time_t.  Thanks to Adam Dixon\n  <adamtdixon@gmail.com> for the bug report and test case!\n\n* Steven Grimm <sgrimm@facebook.com>: Performance improvements:\n\n* Steve Peters <steve@fisharerojo.org>: OpenBSD has a malloc.h,\n  but warns to use stdlib.h instead\n\n* Steven Grimm <sgrimm@facebook.com>: Add support for multithreaded\n  execution. Run configure with \"--enable-threads\" to enable. See\n  doc/threads.txt for details.\n\n* Iain Wade <iwade@optusnet.com.au>: Fix for UDP responses on non-\"get\"\n  commands.\n\n* Steven Grimm <sgrimm@facebook.com>: Dynamic sizing of hashtable to\n  reduce collisions on very large caches and conserve memory on\n  small caches.\n\n* Steven Grimm <sgrimm@facebook.com>: New faster hash function.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

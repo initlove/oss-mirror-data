@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ODVjMzJkYjdkYjI0N2EyNDZmMzExYjI4YmExYWVlYmRmNWU0OWZjNg==",
+  "sha": "85c32db7db247a246f311b28ba1aeebdf5e49fc6",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/85c32db7db247a246f311b28ba1aeebdf5e49fc6",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-02-20T02:45:39Z"
+  },
+  "object": {
+    "sha": "e8aef84191bc2c1ba2bcaa54f30aabde7f03769b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/e8aef84191bc2c1ba2bcaa54f30aabde7f03769b"
+  },
+  "tag": "v0.4.1",
+  "message": "2011.02.19, Version 0.4.1 (stable)\n\n* Fixed field merging with progressive fields on writeHead()\n  (TJ Holowaychuk)\n\n* Make the repl respect node_modules folders (isaacs)\n\n* Fix for DNS fail in HTTP request (Richard Rodger)\n\n* Default to port 80 for http.request and http.get.\n\n* Improve V8 support for Cygwin (Bert Belder)\n\n* Fix fs.open param parsing. (Felix Geisendörfer)\n\n* Fixed null signal.\n\n* Fix various HTTP and HTTPS bugs\n\n* cmake improvements (Tom Hughes)\n\n* Fix: TLS sockets should not be writable after 'end'\n\n* Fix os.cpus() on cygwin (Brian White)\n\n* MinGW: OpenSSL support (Bert Belder)\n\n* Upgrade V8 to 3.1.5, libev to 4.4.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

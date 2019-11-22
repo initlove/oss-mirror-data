@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YTYxZWQ4MjljNDI3Y2NkYjU0N2Q3OGQ5YWFmZDEzNDdiYjE4YzYxNQ==",
+  "sha": "a61ed829c427ccdb547d78d9aafd1347bb18c615",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/a61ed829c427ccdb547d78d9aafd1347bb18c615",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-07-25T17:21:49Z"
+  },
+  "object": {
+    "sha": "f98562fcd7d1cab573ca4dc1612157d6999befd4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/f98562fcd7d1cab573ca4dc1612157d6999befd4"
+  },
+  "tag": "v0.8.4",
+  "message": "2012.07.25, Version 0.8.4 (Stable)\n\n* V8: Upgrade to 3.11.10.17\n\n* npm: Upgrade to 1.1.45\n\n* net: fix Socket({ fd: 42 }) api (Ben Noordhuis)\n\n* readline: Remove event listeners on close (isaacs)\n\n* windows: correctly prep long path for fs.exists(Sync) (Bert Belder)\n\n* debugger: wake up the event loop when a debugger command is dispatched (Peter Rybin)\n\n* tls: verify server's identity (Fedor Indutny)\n\n* net: ignore socket.setTimeout(Infinity or NaN) (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQECstAAoJELCniwpsSBz2ivoH/RzpFKJ0SueB2mFosTVl0mH2\nBEQnfJ0ddwyLWzfOtQrg0G3ISU7Rvd9n0zFr8FmKY+Pdbs1Nqvx0JcGMberkTyUu\nPNOZeBKjOHTjuowYHNHmc+RwZN1MPi5xr+wDFkdPACXfjBpIqG8/ia6F9wsq+rkH\noxODjAB/+olN79DtsFFUr+sgPJ62rKdRhhUXQFuR6CfhUOAI+2PST2mN/auKdi3l\ntG4V/Lcn8aOVPZh+ukfVbGO46fKYThwQ3JmTUH3rCYXIddJJ4CIhNl5HvuzmvayT\nqExOMuyYjlGLOrzLyPPBmNb6mp5Vc7jLSPaPjhdSB+JeV/UzLlruKk4cbEEnhaI=\n=ghP8\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJQECstAAoJELCniwpsSBz2ivoH/RzpFKJ0SueB2mFosTVl0mH2\nBEQnfJ0ddwyLWzfOtQrg0G3ISU7Rvd9n0zFr8FmKY+Pdbs1Nqvx0JcGMberkTyUu\nPNOZeBKjOHTjuowYHNHmc+RwZN1MPi5xr+wDFkdPACXfjBpIqG8/ia6F9wsq+rkH\noxODjAB/+olN79DtsFFUr+sgPJ62rKdRhhUXQFuR6CfhUOAI+2PST2mN/auKdi3l\ntG4V/Lcn8aOVPZh+ukfVbGO46fKYThwQ3JmTUH3rCYXIddJJ4CIhNl5HvuzmvayT\nqExOMuyYjlGLOrzLyPPBmNb6mp5Vc7jLSPaPjhdSB+JeV/UzLlruKk4cbEEnhaI=\n=ghP8\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f98562fcd7d1cab573ca4dc1612157d6999befd4\ntype commit\ntag v0.8.4\ntagger isaacs <i@izs.me> 1343236909 -0700\n\n2012.07.25, Version 0.8.4 (Stable)\n\n* V8: Upgrade to 3.11.10.17\n\n* npm: Upgrade to 1.1.45\n\n* net: fix Socket({ fd: 42 }) api (Ben Noordhuis)\n\n* readline: Remove event listeners on close (isaacs)\n\n* windows: correctly prep long path for fs.exists(Sync) (Bert Belder)\n\n* debugger: wake up the event loop when a debugger command is dispatched (Peter Rybin)\n\n* tls: verify server's identity (Fedor Indutny)\n\n* net: ignore socket.setTimeout(Infinity or NaN) (Fedor Indutny)\n"
+  }
+}

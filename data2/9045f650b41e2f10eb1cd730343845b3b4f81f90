@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTo5MDQ1ZjY1MGI0MWUyZjEwZWIxY2Q3MzAzNDM4NDViM2I0ZjgxZjkw",
+  "sha": "9045f650b41e2f10eb1cd730343845b3b4f81f90",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/9045f650b41e2f10eb1cd730343845b3b4f81f90",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-11-04T13:51:17Z"
+  },
+  "object": {
+    "sha": "9fa23b21c679ab89845aa1757d7c18a980d74e8c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/9fa23b21c679ab89845aa1757d7c18a980d74e8c"
+  },
+  "tag": "6.0.3",
+  "message": "Version 6.0.3\n\n### Bug fixes\n\nFix bug in tokenizing an expression-less return followed by a function followed by a regular expression.\n\nRemove stray symlink in the package tarball.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlve+WYACgkQcD8b7W0z\nrh6s7ggAsEAGLyrP9NevgzqhnLMEzOpfB6Z7KAbG78P2vl/QRwwseGL/XSNT+ATX\nUnzFG1LHZFR3nLutQ0fx8xnpKkBHRf0rWbjfTZuV9Fwem9feRjRXqxyiC19TwE29\neG9yYQ6gQ1e96ka3YgouNhQC/y746QE9Cjze+RC+CcmvK1cLbDcA4m+nw4MXVzal\nmyLedTJ7gACX2RSC+cz3568SXsNTgKnAFLsdPrtRHB92hkq/G3b3daRuw+vRPBrn\navKHedU9OApqG0RL+9u1a/aWkb2LPsMudpOygU4QgpS0CIgBWID71UmG/k2VEh04\nSOC9GuIcOiw/G8HIAZZorHqlNJrIHQ==\n=7Zm3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlve+WYACgkQcD8b7W0z\nrh6s7ggAsEAGLyrP9NevgzqhnLMEzOpfB6Z7KAbG78P2vl/QRwwseGL/XSNT+ATX\nUnzFG1LHZFR3nLutQ0fx8xnpKkBHRf0rWbjfTZuV9Fwem9feRjRXqxyiC19TwE29\neG9yYQ6gQ1e96ka3YgouNhQC/y746QE9Cjze+RC+CcmvK1cLbDcA4m+nw4MXVzal\nmyLedTJ7gACX2RSC+cz3568SXsNTgKnAFLsdPrtRHB92hkq/G3b3daRuw+vRPBrn\navKHedU9OApqG0RL+9u1a/aWkb2LPsMudpOygU4QgpS0CIgBWID71UmG/k2VEh04\nSOC9GuIcOiw/G8HIAZZorHqlNJrIHQ==\n=7Zm3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9fa23b21c679ab89845aa1757d7c18a980d74e8c\ntype commit\ntag 6.0.3\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1541339477 +0100\n\nVersion 6.0.3\n\n### Bug fixes\n\nFix bug in tokenizing an expression-less return followed by a function followed by a regular expression.\n\nRemove stray symlink in the package tarball.\n"
+  }
+}

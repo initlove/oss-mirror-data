@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOmUwMjkzN2YzMGZlNThjOTljM2ZkMjgzYzdlNjg4NGRjNWNhY2E1N2E=",
+  "sha": "e02937f30fe58c99c3fd283c7e6884dc5caca57a",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/e02937f30fe58c99c3fd283c7e6884dc5caca57a",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-02-17T04:57:48Z"
+  },
+  "object": {
+    "sha": "ff369899749ac3e21ed0174b40e948c78c2dc1fa",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/ff369899749ac3e21ed0174b40e948c78c2dc1fa"
+  },
+  "tag": "15.0.0.0rc2",
+  "message": "nova 15.0.0.0rc2 release candidate\n\nmeta:version: 15.0.0.0rc2\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Commit: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Change-Id: Idb184298a9b533fa0f98c236bd27cd2aa3ed9d2e\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYpoLMAAoJELkGmxM1cAzcRKsH/0tx6HPHTxZbDsW7uuxUlqaO\ngtXCfh6vIzUjo+YXdyDWGgFPmhinroqg/J+ekNHmPcv3XfypuKZwKIVYLrj3pja0\nkat+cAQRKNWj0Jejg0/PFqXOtWjrweJ92paD52tHVzxNpa/bRWfynwSty1W+wpMG\nTChmQICMKtaUgKP3Qx1iRLodHtC6Dzt1ak9Dmz/7E3asrTjYFPXC/IsLQNzIYJG9\nF5ZHzs70+b0Ryq37IFZNk4yJGdwDO1Rf9SiQyYwguTy1zJEskPRqWCk+Rnxkkto+\np78116csGtzzwJgIgednOvRYh/1HoVLUnI64q39SYP4H7z2UIvkWrGu2fGG6JI4=\n=yoLI\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYpoLMAAoJELkGmxM1cAzcRKsH/0tx6HPHTxZbDsW7uuxUlqaO\ngtXCfh6vIzUjo+YXdyDWGgFPmhinroqg/J+ekNHmPcv3XfypuKZwKIVYLrj3pja0\nkat+cAQRKNWj0Jejg0/PFqXOtWjrweJ92paD52tHVzxNpa/bRWfynwSty1W+wpMG\nTChmQICMKtaUgKP3Qx1iRLodHtC6Dzt1ak9Dmz/7E3asrTjYFPXC/IsLQNzIYJG9\nF5ZHzs70+b0Ryq37IFZNk4yJGdwDO1Rf9SiQyYwguTy1zJEskPRqWCk+Rnxkkto+\np78116csGtzzwJgIgednOvRYh/1HoVLUnI64q39SYP4H7z2UIvkWrGu2fGG6JI4=\n=yoLI\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ff369899749ac3e21ed0174b40e948c78c2dc1fa\ntype commit\ntag 15.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1487307468 +0000\n\nnova 15.0.0.0rc2 release candidate\n\nmeta:version: 15.0.0.0rc2\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Commit: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Change-Id: Idb184298a9b533fa0f98c236bd27cd2aa3ed9d2e\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

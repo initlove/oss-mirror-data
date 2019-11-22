@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDk0MTg2NzphMzIyMWFiNzA5YzUxNzUwZWVkMWFjNzY1YTQyZTA1MGYyZGM5ZTFm",
+  "sha": "a3221ab709c51750eed1ac765a42e050f2dc9e1f",
+  "url": "https://api.github.com/repos/Netflix/governator/git/tags/a3221ab709c51750eed1ac765a42e050f2dc9e1f",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-07-31T18:40:54Z"
+  },
+  "object": {
+    "sha": "97089491fb0446182d4cad2a43851a0ddeb0de2c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/governator/git/commits/97089491fb0446182d4cad2a43851a0ddeb0de2c"
+  },
+  "tag": "v1.8.1",
+  "message": "Release of 1.8.1\n\n- 97089491fb0446182d4cad2a43851a0ddeb0de2c: Merge pull request #227 from elandau/nextgen\n- c60b3f5fa55964f6027401f37b63724e50e4712c: Fix bug where wrong class loader is used during class path scanning\n- 76f0d9520148229c261f5e1187ac9e9fe59aae37: Merge pull request #226 from elandau/nextgen\n- bfdf0f7a528e3f8e1e4212b354e47fd91af66a70: Fix exception generated on failed module instantiation\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

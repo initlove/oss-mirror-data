@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTM3ODAwOjdhZTZkY2QyYTM2ODE4ZGVmNTNhNmIwZmIzMzM2NjE5NDZlYjNhY2Q=",
+  "sha": "7ae6dcd2a36818def53a6b0fb333661946eb3acd",
+  "url": "https://api.github.com/repos/dropwizard/metrics/git/tags/7ae6dcd2a36818def53a6b0fb333661946eb3acd",
+  "tagger": {
+    "name": "Coda Hale",
+    "email": "coda.hale@gmail.com",
+    "date": "2011-08-16T03:52:50Z"
+  },
+  "object": {
+    "sha": "7b6403663f3b45ae153b77cb54f0fa903a55882e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/dropwizard/metrics/git/commits/7b6403663f3b45ae153b77cb54f0fa903a55882e"
+  },
+  "tag": "v2.0.0-BETA15",
+  "message": "* Fixed dependency scopes for `metrics-jetty`.\n* Added time and VM version to `vm` output of `MetricsServlet`.\n* Dropped `com.sun.mangement`-based GC instrumentation in favor of a\n  `java.lang.management`-based one. `getLastGcInfo` has a nasty native memory\n  leak in it, plus it often returned incorrect data.\n* Upgraded to Jackson 1.8.5.\n* Upgraded to Jetty 7.4.5.\n* Added sanitization for metric names in `GraphiteReporter`.\n* Extracted out a `Clock` interface for timers for non-wall-clock timing.\n* Extracted out most of the remaining statics into `MetricsRegistry` and\n  `HealthCheckRegistry`.\n* Added an init parameter to `MetricsServlet` for disabling the `jvm` section.\n* Added a Guice module for `MetricsServlet`.\n* Added dynamic metric names.\n* Upgraded to ehcache 2.4.5.\n* Upgraded to logback 0.9.29.\n* Allowed for the removal of metrics.\n* Added the ability to filter metrics exposed by a reporter to those which match\n  a given predicate.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

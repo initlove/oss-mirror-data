@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MWE4MzVhMWJhZDgzNGVjZDJhNmEzMTYyNWY1MzE4NGRkNGIxMzk3OA==",
+  "sha": "1a835a1bad834ecd2a6a31625f53184dd4b13978",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/1a835a1bad834ecd2a6a31625f53184dd4b13978",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-02-19T21:57:12Z"
+  },
+  "object": {
+    "sha": "54d20ffba03fd1b45643b455935928b87eb5f08d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/54d20ffba03fd1b45643b455935928b87eb5f08d"
+  },
+  "tag": "v0.9.10",
+  "message": "2013.02.19, Version 0.9.10 (Unstable)\n\n* V8: Upgrade to 3.15.11.15\n\n* npm: Upgrade to 1.2.12\n\n* fs: Change default WriteStream config, increase perf (isaacs)\n\n* process: streamlining tick callback logic (Trevor Norris)\n\n* stream_wrap, udp_wrap: add read-only fd property (Ben Noordhuis)\n\n* buffer: accept negative indices in Buffer#slice() (Ben Noordhuis)\n\n* tls: Cycle data when underlying socket drains (isaacs)\n\n* stream: read(0) should not always trigger _read(n,cb) (isaacs)\n\n* stream: Empty strings/buffers do not signal EOF any longer (isaacs)\n\n* crypto: improve cipher/decipher error messages (Ben Noordhuis)\n\n* net: Respect the 'readable' flag on sockets (isaacs)\n\n* net: don't suppress ECONNRESET (Ben Noordhuis)\n\n* typed arrays: copy Buffer in typed array constructor (Ben Noordhuis)\n\n* typed arrays: make DataView throw on non-ArrayBuffer (Ben Noordhuis)\n\n* windows: MSI installer enhancements (Scott Blomquist, Jim Schubert)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRI/U4AAoJELCniwpsSBz24t4H/0nkbA8M/DYokjbOpbT27WK+\nzycQ7YNLbUWo05t/Tad34knU4vjAhm8KgYUy4fP3NgWo8hQe4MRfKVBdF3J6YVhP\nqpnmhVP34x9w6pvUc+sLYCbL94abJ2M/3c15Cn/oqIernTiUoh6PZB2JFOlFCeHQ\nONnIRNjJxGiO1NkXleaBlaUUdRJnYpx/0Qf6k0nSnARfAEySAsTxI0iTuFlkP8Et\nm9+qYxXVMyDIUZ47XfKre8peasOJBJ9XWT2X6O3sqwyuGj0Y4I+J88GorTV6cV8n\nwMBvtrd9COjsJlI/xqP7SHwtCzKEQm6hyoKNpleBzADf7N1KStB/qCKbNkxoCaE=\n=L2W+\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRI/U4AAoJELCniwpsSBz24t4H/0nkbA8M/DYokjbOpbT27WK+\nzycQ7YNLbUWo05t/Tad34knU4vjAhm8KgYUy4fP3NgWo8hQe4MRfKVBdF3J6YVhP\nqpnmhVP34x9w6pvUc+sLYCbL94abJ2M/3c15Cn/oqIernTiUoh6PZB2JFOlFCeHQ\nONnIRNjJxGiO1NkXleaBlaUUdRJnYpx/0Qf6k0nSnARfAEySAsTxI0iTuFlkP8Et\nm9+qYxXVMyDIUZ47XfKre8peasOJBJ9XWT2X6O3sqwyuGj0Y4I+J88GorTV6cV8n\nwMBvtrd9COjsJlI/xqP7SHwtCzKEQm6hyoKNpleBzADf7N1KStB/qCKbNkxoCaE=\n=L2W+\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 54d20ffba03fd1b45643b455935928b87eb5f08d\ntype commit\ntag v0.9.10\ntagger isaacs <i@izs.me> 1361311032 -0800\n\n2013.02.19, Version 0.9.10 (Unstable)\n\n* V8: Upgrade to 3.15.11.15\n\n* npm: Upgrade to 1.2.12\n\n* fs: Change default WriteStream config, increase perf (isaacs)\n\n* process: streamlining tick callback logic (Trevor Norris)\n\n* stream_wrap, udp_wrap: add read-only fd property (Ben Noordhuis)\n\n* buffer: accept negative indices in Buffer#slice() (Ben Noordhuis)\n\n* tls: Cycle data when underlying socket drains (isaacs)\n\n* stream: read(0) should not always trigger _read(n,cb) (isaacs)\n\n* stream: Empty strings/buffers do not signal EOF any longer (isaacs)\n\n* crypto: improve cipher/decipher error messages (Ben Noordhuis)\n\n* net: Respect the 'readable' flag on sockets (isaacs)\n\n* net: don't suppress ECONNRESET (Ben Noordhuis)\n\n* typed arrays: copy Buffer in typed array constructor (Ben Noordhuis)\n\n* typed arrays: make DataView throw on non-ArrayBuffer (Ben Noordhuis)\n\n* windows: MSI installer enhancements (Scott Blomquist, Jim Schubert)\n"
+  }
+}

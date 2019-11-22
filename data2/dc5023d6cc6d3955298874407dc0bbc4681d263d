@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6ZGM1MDIzZDZjYzZkMzk1NTI5ODg3NDQwN2RjMGJiYzQ2ODFkMjYzZA==",
+  "sha": "dc5023d6cc6d3955298874407dc0bbc4681d263d",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/dc5023d6cc6d3955298874407dc0bbc4681d263d",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2017-02-03T12:31:17Z"
+  },
+  "object": {
+    "sha": "6a21aeed562cc4ef11625ea3f05da1a904aaa847",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/6a21aeed562cc4ef11625ea3f05da1a904aaa847"
+  },
+  "tag": "v0.5.17",
+  "message": "Release v0.5.17 contains the following changes:\n* Fix compilation warnings with unused functions when QAT is disabled\n* Fix async wait context fds in case of failure\n* Add missing NULL checks in DSA\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6NjI0MDdiZjg0MjBjYTU1ZjdmNTkzOTQ1OWRkZDlhZTczYjYwOTUwMA==",
+  "sha": "62407bf8420ca55f7f5939459ddd9ae73b609500",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/62407bf8420ca55f7f5939459ddd9ae73b609500",
+  "tagger": {
+    "name": "Yicheng Qin",
+    "email": "qycqycqycqycqyc@gmail.com",
+    "date": "2015-03-11T18:35:47Z"
+  },
+  "object": {
+    "sha": "9481945228b97c5d019596b921d8b03833964d9e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/9481945228b97c5d019596b921d8b03833964d9e"
+  },
+  "tag": "v2.0.5",
+  "message": "- Fix a minor voting issue in raft. Under unique scenarios it was possible that two nodes in a raft cluster could be elected leader for a specific term.\n- Fix unexpected HTTPS to HTTP downgrade when TLS certs and keys are not provided.\n- Fix an early file unlock issue in WAL. This fix was done to improve safety of the etcd WAL implementation in preparation for the etcd 2.1.0 release.\n- Fix frequent i/o timeout issues during peer communication.\n- Improved documentation around setting up an etcd cluster.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVAIsmAAoJEOdQvf2jMxAzIOYP+wVRenKzufHXjpZTKDjQ7Jfh\nvOHBhZaNNzyV2A2rc60yfzZqz0hyqooKZTo13DB0JcOU76ll8CHNE19iE1HUAMxP\nYi0gw0yEF24pH/etUorlvlB336pi0/2j61o7a65fV/KN+8ju28+frDC/pK+eGV2y\njY3bDN3zOCn/vBR4i+UZGHuJsAiQF46Q7yUhvMgqy5wIeftB8HuHwBJtZ9Kuc31j\n08GcBiGvtgG2HbocHc6Wbt/ZyRDw3nkrN0lPOYn5SqXnSpWCNvi0w/jJEQeRLk3w\noekbbC0HnCZNHfyq3PBHvVPwNNhNjpmeIbct8M3mGQyoYu/G1GtC1xSgejcs8H+X\nJxVToKGwq+4KXmrufrdPiJp+8BQ+p/noJ+vf+TxSkpCas+cF+DwAVOfEjj/Ms4Qz\naHjLAJfuBYS3JGGrBs1iLu0WBgu9cVXcVLYYJDLue5Q44rtOk1FmPTdubgwim1GG\nwkgew9RAsWkFMxhsFSvvLWSEL7H87qNgHRJG6wjh9Dfxg0uZsFNFlnaluhVOCBzA\nOZWwr3HC83FaThtjP+9Rq0ySwTOHWTO+6pGbKCatP5GROahIPnMx425ym1JmWa4M\nWWCOP50o4ehNgjN76MjxF/CeJJnpmNTHuCDlXrBqwh75P1wps5vLn6Jmjq7XZSTA\ny5Fqhar7Y1C5N/FaCApo\n=/viM\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVAIsmAAoJEOdQvf2jMxAzIOYP+wVRenKzufHXjpZTKDjQ7Jfh\nvOHBhZaNNzyV2A2rc60yfzZqz0hyqooKZTo13DB0JcOU76ll8CHNE19iE1HUAMxP\nYi0gw0yEF24pH/etUorlvlB336pi0/2j61o7a65fV/KN+8ju28+frDC/pK+eGV2y\njY3bDN3zOCn/vBR4i+UZGHuJsAiQF46Q7yUhvMgqy5wIeftB8HuHwBJtZ9Kuc31j\n08GcBiGvtgG2HbocHc6Wbt/ZyRDw3nkrN0lPOYn5SqXnSpWCNvi0w/jJEQeRLk3w\noekbbC0HnCZNHfyq3PBHvVPwNNhNjpmeIbct8M3mGQyoYu/G1GtC1xSgejcs8H+X\nJxVToKGwq+4KXmrufrdPiJp+8BQ+p/noJ+vf+TxSkpCas+cF+DwAVOfEjj/Ms4Qz\naHjLAJfuBYS3JGGrBs1iLu0WBgu9cVXcVLYYJDLue5Q44rtOk1FmPTdubgwim1GG\nwkgew9RAsWkFMxhsFSvvLWSEL7H87qNgHRJG6wjh9Dfxg0uZsFNFlnaluhVOCBzA\nOZWwr3HC83FaThtjP+9Rq0ySwTOHWTO+6pGbKCatP5GROahIPnMx425ym1JmWa4M\nWWCOP50o4ehNgjN76MjxF/CeJJnpmNTHuCDlXrBqwh75P1wps5vLn6Jmjq7XZSTA\ny5Fqhar7Y1C5N/FaCApo\n=/viM\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9481945228b97c5d019596b921d8b03833964d9e\ntype commit\ntag v2.0.5\ntagger Yicheng Qin <qycqycqycqycqyc@gmail.com> 1426098947 -0700\n\n- Fix a minor voting issue in raft. Under unique scenarios it was possible that two nodes in a raft cluster could be elected leader for a specific term.\n- Fix unexpected HTTPS to HTTP downgrade when TLS certs and keys are not provided.\n- Fix an early file unlock issue in WAL. This fix was done to improve safety of the etcd WAL implementation in preparation for the etcd 2.1.0 release.\n- Fix frequent i/o timeout issues during peer communication.\n- Improved documentation around setting up an etcd cluster.\n"
+  }
+}

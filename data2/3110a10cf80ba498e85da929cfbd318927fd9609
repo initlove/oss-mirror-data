@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDIwNzU5ODE6MzExMGExMGNmODBiYTQ5OGU4NWRhOTI5Y2ZiZDMxODkyN2ZkOTYwOQ==",
+  "sha": "3110a10cf80ba498e85da929cfbd318927fd9609",
+  "url": "https://api.github.com/repos/gpg/libassuan/git/tags/3110a10cf80ba498e85da929cfbd318927fd9609",
+  "tagger": {
+    "name": "Werner Koch",
+    "email": "wk@gnupg.org",
+    "date": "2018-12-13T08:08:30Z"
+  },
+  "object": {
+    "sha": "86e1d17de081081f9302ca58cc2e07ecde3172f6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/gpg/libassuan/git/commits/86e1d17de081081f9302ca58cc2e07ecde3172f6"
+  },
+  "tag": "libassuan-2.5.2",
+  "message": "Just a maintenance release\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlwSE34ACgkQJJs50k8l\n47Ztdgf/bEQM/fe4qOOZ1+bTlj77mHwy9nUWzO6TBPEDzp8Pdl0k+VNRObamV3kh\nq15NF3CrAgdoPu5ajcOnBLBw0eJSSXk+q4WvZG0zMEGGb89QxPifd2aEk6DkQP/V\nNWgHqbZ1rKYYTYcwfm99JlmUkab957pC+uMvu5/UeDjtdlfzAVNNualOWhQUjsLW\nOmDRYtP1naanlaxPUjgjzK6G9y92uePYKyyJuW1tGyEiIEvKrIDZ9hRbAE6VXjBm\nqR4H+AOzNZP3sV0MkywF8Ln6S7c5e0yktM3hRArIjkFGD09h73yvinQsprC0//j3\nRBdPwjz3SIJDf45foYwuLeCZXwWQFQ==\n=Rsnu\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEE2GkhI8QGXepeDzq1JJs50k8l47YFAlwSE34ACgkQJJs50k8l\n47Ztdgf/bEQM/fe4qOOZ1+bTlj77mHwy9nUWzO6TBPEDzp8Pdl0k+VNRObamV3kh\nq15NF3CrAgdoPu5ajcOnBLBw0eJSSXk+q4WvZG0zMEGGb89QxPifd2aEk6DkQP/V\nNWgHqbZ1rKYYTYcwfm99JlmUkab957pC+uMvu5/UeDjtdlfzAVNNualOWhQUjsLW\nOmDRYtP1naanlaxPUjgjzK6G9y92uePYKyyJuW1tGyEiIEvKrIDZ9hRbAE6VXjBm\nqR4H+AOzNZP3sV0MkywF8Ln6S7c5e0yktM3hRArIjkFGD09h73yvinQsprC0//j3\nRBdPwjz3SIJDf45foYwuLeCZXwWQFQ==\n=Rsnu\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 86e1d17de081081f9302ca58cc2e07ecde3172f6\ntype commit\ntag libassuan-2.5.2\ntagger Werner Koch <wk@gnupg.org> 1544688510 +0100\n\nJust a maintenance release\n"
+  }
+}

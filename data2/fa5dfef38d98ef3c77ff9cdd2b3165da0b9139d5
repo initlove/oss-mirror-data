@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzUyMDY5NzI6ZmE1ZGZlZjM4ZDk4ZWYzYzc3ZmY5Y2RkMmIzMTY1ZGEwYjkxMzlkNQ==",
+  "sha": "fa5dfef38d98ef3c77ff9cdd2b3165da0b9139d5",
+  "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/tags/fa5dfef38d98ef3c77ff9cdd2b3165da0b9139d5",
+  "tagger": {
+    "name": "stratiocommit",
+    "email": "asistemas@stratio.com",
+    "date": "2016-04-22T12:57:35Z"
+  },
+  "object": {
+    "sha": "b434011996fe095fe39f0c3a9e8c2ddfdffa795b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/commits/b434011996fe095fe39f0c3a9e8c2ddfdffa795b"
+  },
+  "tag": "3.0.4.1",
+  "message": " * Add sorting merge policy (dramatically improves filtering performance)\n\n * Add support for altering unmapped columns\n\n * Remove score docs cache, overtaken by sorting merge policy\n\n * Remove token range cache in favour of Lucene query cache\n\n * Fix NPE while mapping geo points with explicitly null latitude/longitude value\n\n * Fix missed validation of sort fields\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

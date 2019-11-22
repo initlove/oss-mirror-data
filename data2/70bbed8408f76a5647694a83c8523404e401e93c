@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTo3MGJiZWQ4NDA4Zjc2YTU2NDc2OTRhODNjODUyMzQwNGU0MDFlOTNj",
+  "sha": "70bbed8408f76a5647694a83c8523404e401e93c",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/70bbed8408f76a5647694a83c8523404e401e93c",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-08-24T06:34:02Z"
+  },
+  "object": {
+    "sha": "95ca55c7863fafd8bf6d446a0098325388ff9f1c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/95ca55c7863fafd8bf6d446a0098325388ff9f1c"
+  },
+  "tag": "5.7.2",
+  "message": "Version 5.7.2\n\n### Bug fixes\n\nProperly handle `allowAwaitOutsideFunction` in for statements.\n\nTreat function declarations at the top level of modules like let bindings.\n\nDon't allow async function declarations as the only statement under a label.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlt/puoACgkQcD8b7W0z\nrh5NKAgAq7P7O8ed7mrwDRSxWDIVMiVQ9YliRcDMWEKNO0Pm8f2z63D09E4i6FYr\nWiLE2RVev4V0qDQU+VyngoCb4yGwAewELfHPw2eeUU9n+TNu14waopeChwPNCvz4\nOXkK5gsy4LYz0o6Hm7jQcpGKinCS350+BdA6jbZUpdL3lEkDtfVrlIdq2qIiRUxb\ng2a3/BnLHcAijrNWqkIMWPmEa0JwwOrNa6yYNgqNiHty6n8jrHNKT0/KPoflb1Ln\nc/pd2gpjsYpyk5hBBXccB54qOXHvaUwtA9B3kxi+g1QMeljNevL3+0NjVYNsP8g9\n4S1lGh2WHAvAFeYfKpwTyLivvXu2gA==\n=x99q\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlt/puoACgkQcD8b7W0z\nrh5NKAgAq7P7O8ed7mrwDRSxWDIVMiVQ9YliRcDMWEKNO0Pm8f2z63D09E4i6FYr\nWiLE2RVev4V0qDQU+VyngoCb4yGwAewELfHPw2eeUU9n+TNu14waopeChwPNCvz4\nOXkK5gsy4LYz0o6Hm7jQcpGKinCS350+BdA6jbZUpdL3lEkDtfVrlIdq2qIiRUxb\ng2a3/BnLHcAijrNWqkIMWPmEa0JwwOrNa6yYNgqNiHty6n8jrHNKT0/KPoflb1Ln\nc/pd2gpjsYpyk5hBBXccB54qOXHvaUwtA9B3kxi+g1QMeljNevL3+0NjVYNsP8g9\n4S1lGh2WHAvAFeYfKpwTyLivvXu2gA==\n=x99q\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 95ca55c7863fafd8bf6d446a0098325388ff9f1c\ntype commit\ntag 5.7.2\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1535092442 +0200\n\nVersion 5.7.2\n\n### Bug fixes\n\nProperly handle `allowAwaitOutsideFunction` in for statements.\n\nTreat function declarations at the top level of modules like let bindings.\n\nDon't allow async function declarations as the only statement under a label.\n"
+  }
+}

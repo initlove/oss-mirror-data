@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NmYwN2M1Y2ZiZjRhMjg5MGUzNWZkYjg5ZDg5MjliYjAzYzE3NGY1Zg==",
+  "sha": "6f07c5cfbf4a2890e35fdb89d8929bb03c174f5f",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/6f07c5cfbf4a2890e35fdb89d8929bb03c174f5f",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2009-12-19T00:25:11Z"
+  },
+  "object": {
+    "sha": "a2d809fe902f6c4102dba8f2e3e9551aad137c0f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/a2d809fe902f6c4102dba8f2e3e9551aad137c0f"
+  },
+  "tag": "v0.1.22",
+  "message": "2009.12.19, Version 0.1.22\n\n  * Bugfix: child modules get wrong id with \"index.js\" (isaacs)\n\n  * Bugfix: require(\"../foo\") cycles (isaacs)\n\n  * Bugfix: require() should throw error if module does.\n\n  * New URI parser stolen from Narwhal (isaacs)\n\n  * Bugfix: correctly check kqueue and epoll. (Rasmus Andersson)\n\n  * Upgrade WAF to 1.5.10\n\n  * Bugfix: posix.statSync() was crashing\n\n  * Statically define string symbols for performance improvement\n\n  * Bugfix: ARGV[0] weirdness\n\n  * Added superCtor to ctor.super_ instead superCtor.prototype.\n    (Johan Dahlberg)\n\n  * http-parser supports webdav methods\n\n  * API: http.Client.prototype.request() (Christopher Lenz)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MTE0Y2YxOWQ3ZTIyMWRmNGU5YTRjYzY0ZWU1NzM2NWZlN2YwYTlhMg==",
+  "sha": "114cf19d7e221df4e9a4cc64ee57365fe7f0a9a2",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/114cf19d7e221df4e9a4cc64ee57365fe7f0a9a2",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2009-11-28T00:51:08Z"
+  },
+  "object": {
+    "sha": "633d6be328708055897b72327b88ac88e158935f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/633d6be328708055897b72327b88ac88e158935f"
+  },
+  "tag": "v0.1.19",
+  "message": "2009.11.28, Version 0.1.19\n\n  * Feature: Initial TLS support for TCP servers and clients.\n    (Rhys Jones)\n\n  * Add options to process.watchFile()\n\n  * Add process.umask() (Friedemann Altrock)\n\n  * Bugfix: only detach timers when active.\n\n  * Bugfix: lib/file.js write(), shouldn't always emit errors or success\n    (onne@onnlucky.com)\n\n  * Bugfix: Memory leak in fs.write\n    (Reported by onne@onnlucky.com)\n\n  * Bugfix: Fix regular expressions detecting outgoing message headers.\n    (Reported by Elliott Cable)\n\n  * Improvements to Multipart parser (Felix Geisendörfer)\n\n  * New HTTP parser\n\n  * Upgrade v8 to 2.0.2\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

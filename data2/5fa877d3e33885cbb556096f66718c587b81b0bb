@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOjVmYTg3N2QzZTMzODg1Y2JiNTU2MDk2ZjY2NzE4YzU4N2I4MWIwYmI=",
+  "sha": "5fa877d3e33885cbb556096f66718c587b81b0bb",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/5fa877d3e33885cbb556096f66718c587b81b0bb",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-04-02T13:18:28Z"
+  },
+  "object": {
+    "sha": "708342fe8d6e930d7fe942fb5f2043c2907cd5e9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/708342fe8d6e930d7fe942fb5f2043c2907cd5e9"
+  },
+  "tag": "16.1.1",
+  "message": "nova 16.1.1 release\n\nmeta:version: 16.1.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I2e3bc12e468d62868c736f9df4ae9c818a518e06\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJawi2kAAoJEMNs3LTfAMaM4xkIAKTfp9xdLK81QRW4fCCtWrV1\nIXV9ZQaTXQLVqGerglaJwpsnbIqhejE8l0GP1uxsgC/UFdQzsQyLrFfslzqkfbOh\nkUv5BxAU6aDODp2Qwjq9PamJlybpyG85J5YiTLEm2q97rqaNrBQbl+A20I0OA4ad\nZNZNwsfWcBQaZamQmVLLrTBeHj4OxWjDBOASdqPhF96xRD2yYnY2g8PckfRVvYbu\ngt5pAXFqUKWwnfomhktEADCMM8+R743quE1mdLJQIUHedP8bSswDY67LDodcH7R6\nlmvkeAtI8lg57iWjv4YqaZeP1HIMiG5AUnZS2n6gCX4fjB0givQFIo5qtv5REpc=\n=LWAY\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJawi2kAAoJEMNs3LTfAMaM4xkIAKTfp9xdLK81QRW4fCCtWrV1\nIXV9ZQaTXQLVqGerglaJwpsnbIqhejE8l0GP1uxsgC/UFdQzsQyLrFfslzqkfbOh\nkUv5BxAU6aDODp2Qwjq9PamJlybpyG85J5YiTLEm2q97rqaNrBQbl+A20I0OA4ad\nZNZNwsfWcBQaZamQmVLLrTBeHj4OxWjDBOASdqPhF96xRD2yYnY2g8PckfRVvYbu\ngt5pAXFqUKWwnfomhktEADCMM8+R743quE1mdLJQIUHedP8bSswDY67LDodcH7R6\nlmvkeAtI8lg57iWjv4YqaZeP1HIMiG5AUnZS2n6gCX4fjB0givQFIo5qtv5REpc=\n=LWAY\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 708342fe8d6e930d7fe942fb5f2043c2907cd5e9\ntype commit\ntag 16.1.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1522675108 +0000\n\nnova 16.1.1 release\n\nmeta:version: 16.1.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I2e3bc12e468d62868c736f9df4ae9c818a518e06\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

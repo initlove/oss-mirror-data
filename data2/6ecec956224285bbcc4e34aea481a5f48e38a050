@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OjZlY2VjOTU2MjI0Mjg1YmJjYzRlMzRhZWE0ODFhNWY0OGUzOGEwNTA=",
+  "sha": "6ecec956224285bbcc4e34aea481a5f48e38a050",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/6ecec956224285bbcc4e34aea481a5f48e38a050",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "sm2@schillmania.com",
+    "date": "2010-10-11T00:39:33Z"
+  },
+  "object": {
+    "sha": "e128a569073894bb230fa21b591dc9a39e408647",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/e128a569073894bb230fa21b591dc9a39e408647"
+  },
+  "tag": "V2.97a.20101010",
+  "message": "V2.97a.20101010 - Code cleanup, HTML5 audio tweaks, merged RTMP fork, removal of experimental video, optional usePolicyFile crossdomain.xml feature\n\nShuffling of SoundManager 2 core, approximately 5% shaved off full debug-enabled file size after bug fixes, additional comments, new features and so on. Internal event handling code cleaned up. .SWF builds optimized, Flash 9 non-debug version now under 10 KB. Debug version now flash debugger-enabled. Merged GitHub user kjvarga's RTMP fork including improvements for Red5 + Flash Media Server streaming cases - buffering, event and state handling. Experimental video feature is toast, createVideo() no longer implemented. iPhone + iPad touch events on page player + 360° player UI demos; tap and drag to seek, etc.\n\n    Bug fixes\n        No HTML5 audio for *any* Safari on OS X Snow Leopard 10.6.[3|4] due to underlying bugs causing intermittent audio playback failure; ongoing Apple issue, on their radar. (See related GitHub commit)\n        Don't unload() at onfinish() for HTML5 audio (was originally done to be conservative, but results in additional HTTP requests despite caching expectations?)\n        onload() for HTML5 now using proper boolean values\n        Fix NetStream-specific autoLoad/autoPlay/volume createSound() call, specific null flash sound object error scenario. (Related changes on GitHub.)\n        Fix for \"onbufferchange(1) followed immediately by onbufferchange(0)\" case when audio was actually still buffering.\n        Removed setPosition() within unload(), cleaner exit when destroying a sound\n\n    Merged: RTMP Fork\n        Merged GitHub user kjvarga's RTMP fork of SoundManager 2, including buffering, event and state handling fixes and improvements. For more RTMP documentation/features, see the readme on GitHub, or view locally.\n\n    API Updates\n        Removed experimental video feature (originally added late 2008, never developed further.) createVideo(), allowFullScreen and related video methods are now gone. Other dedicated HTML5/flash video player projects have since solved this problem.\n        New SMSound option: usePolicyFile - (boolean, default: false) - enables Flash to request /crossdomain.xml file for content on third-party domains, if access to ID3/metadata such as wave/peak/spectrum is needed. Will automagically enable if onid3() or peak/wave/spectrum features are being used.\n        console.warn()-style messaging (instead of throwing exceptions) if createSound() etc. are called before SM2 init has fired. Now calls similar warning and exits if called after a failed, unsuccessful startup (ie., timeout or not-supported case.)\n\n    Miscellaneous\n        SoundManager 2 core code cleanup, ~5% shaved off soundmanager2.js code size after new features, bug fixes and comments etc. Internal event handling (DOM-related events for init, IE 6 vs. everybody else) improved.\n        Flash builds optimized; Flash 9 SWF build now under 10 KB. Debug-enabled Flash 9 SWF now hooks into Flash debug player/IDE debugging tools (compiled with -debug=true)\n        Attempt to detect RTL documents, position Flash accordingly if so to avoid long horizontal scrollbar issue (related discussion)\n        iPhone + iPad touchmove() and related events added to page player + 360° player UI demos; tap and drag to seek should now work.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

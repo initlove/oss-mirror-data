@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOmY1NzFmNGM4NTI0NWQ1Yzk2OTk0YzZkYWYxNTVhMjNjYmI5Mjg1NTg=",
+  "sha": "f571f4c85245d5c96994c6daf155a23cbb928558",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/f571f4c85245d5c96994c6daf155a23cbb928558",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-02-09T07:13:07Z"
+  },
+  "object": {
+    "sha": "5caca24dc79e3942b26e00ff1e0b8e7a320a947f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/5caca24dc79e3942b26e00ff1e0b8e7a320a947f"
+  },
+  "tag": "17.0.0.0rc1",
+  "message": "nova 17.0.0.0rc1 release candidate\n\nmeta:version: 17.0.0.0rc1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I20d75037900a1a1d345d087b30d5a76176738f69\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJafUoDAAoJEEIeZHKBH5qBUqoH/R1wlL8lU4QMVVs2i0wEdtjY\nKmIDSwcg7XYDIoFKiC0XEzfWzuWjKc17/lCaFNGBuksLGiqFfNFkt3pKx9KwcKnQ\nV596KZEskSbVvAhHTeBNgckAu0zlN44WE+D2/F53NFpMVCfDs0tJiyyCsboIO2g9\nEtGyQKSsFdryauBWou6kPAQA0nb+fZ9XPXPzM/DQqbSXEuSUeWKM4LovPMLOdFAM\nVK7geCxlx3uO4kPLURJSb/7cRAPLPJjm6WI/dAxAI3wLSUZqFWLbhDw8IqPtYzRL\ng+7PeC2Y95H0dLzH2pcqqRVbsNvZzHYnnJP+CuUgSgYDSp1ZKZxtNFxBjKwCdOY=\n=pxP+\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJafUoDAAoJEEIeZHKBH5qBUqoH/R1wlL8lU4QMVVs2i0wEdtjY\nKmIDSwcg7XYDIoFKiC0XEzfWzuWjKc17/lCaFNGBuksLGiqFfNFkt3pKx9KwcKnQ\nV596KZEskSbVvAhHTeBNgckAu0zlN44WE+D2/F53NFpMVCfDs0tJiyyCsboIO2g9\nEtGyQKSsFdryauBWou6kPAQA0nb+fZ9XPXPzM/DQqbSXEuSUeWKM4LovPMLOdFAM\nVK7geCxlx3uO4kPLURJSb/7cRAPLPJjm6WI/dAxAI3wLSUZqFWLbhDw8IqPtYzRL\ng+7PeC2Y95H0dLzH2pcqqRVbsNvZzHYnnJP+CuUgSgYDSp1ZKZxtNFxBjKwCdOY=\n=pxP+\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5caca24dc79e3942b26e00ff1e0b8e7a320a947f\ntype commit\ntag 17.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1518160387 +0000\n\nnova 17.0.0.0rc1 release candidate\n\nmeta:version: 17.0.0.0rc1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I20d75037900a1a1d345d087b30d5a76176738f69\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

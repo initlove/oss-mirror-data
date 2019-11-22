@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZDQyMWFjMTM4MjZjMWRkMGJlNzNlNDEwMjVkM2UzNTBiYjk2NzZlYg==",
+  "sha": "d421ac13826c1dd0be73e41025d3e350bb9676eb",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/d421ac13826c1dd0be73e41025d3e350bb9676eb",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-01-03T02:33:56Z"
+  },
+  "object": {
+    "sha": "57544ba1c54c7d0da890317deeb73076350c5647",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/57544ba1c54c7d0da890317deeb73076350c5647"
+  },
+  "tag": "v0.3.3",
+  "message": "2011.01.02, Version 0.3.3 (unstable)\n\n* TLS improvements.\n\n* url.parse(url, true) defaults query field to {} (Jeremy Martin)\n\n* Upgrade V8 to 3.0.4\n\n* Handle ECONNABORT properly (Theo Schlossnagle)\n\n* Fix memory leaks (Tom Hughes)\n\n* Add os.cpus(), os.freemem(), os.totalmem(), os.loadavg() and other\n  functions for OSX, Linux, and Cygwin. (Brian White)\n\n* Fix REPL syntax error bug (GH-543), improve how REPL commands are\n  evaulated.\n\n* Use process.stdin instead of process.openStdin().\n\n* Disable TLS tests when node doesn't have OpenSSL.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

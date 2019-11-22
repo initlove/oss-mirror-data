@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YjI0ODkwZTU5OTFlMzNmZDU3YzYyMWVjOWEwMjk3NWQ5OWUzMzdiOQ==",
+  "sha": "b24890e5991e33fd57c621ec9a02975d99e337b9",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/b24890e5991e33fd57c621ec9a02975d99e337b9",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-08-12T08:20:09Z"
+  },
+  "object": {
+    "sha": "cfba1f59224ff8602c3fe9145181cad4c6df89a9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/cfba1f59224ff8602c3fe9145181cad4c6df89a9"
+  },
+  "tag": "v0.5.4",
+  "message": "2011.08.12, Version 0.5.4 (unstable)\n\n* libuv/Windows compatibility improvements\n\n* Build on Microsoft Visual Studio via GYP. Use generate-projects.bat in the\n  to build sln files. (Peter Bright, Igor Zinkovsky)\n\n* Make Mikeal's HTTP agent client the default. Use old HTTP client with\n  --use-http1\n\n* Fixes https host header default port handling. (Mikeal Rogers)\n\n* #1440 strip byte order marker when loading *.js and *.json files\n  (Ben Noordhuis)\n\n* #1434 Improve util.format() compatibility with browser. (Koichi Kobayashi)\n\n* Provide unchecked uint entry points for integer Buffer.read/writeInt\n  methods. (Robert Mustacchi)\n\n* CMake improvements (Tom Huges)\n\n* Upgrade V8 to 3.5.4.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

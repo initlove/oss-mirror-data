@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZDQxN2I0NjgwZGNlNjU2N2JlYTQ2MThkYzAwNzI1YzlkZWFlYTk0NA==",
+  "sha": "d417b4680dce6567bea4618dc00725c9deaea944",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/d417b4680dce6567bea4618dc00725c9deaea944",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-01-28T04:52:22Z"
+  },
+  "object": {
+    "sha": "d8579c6afdbe868de6dffa8db78bbe4ba2d03e0e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/d8579c6afdbe868de6dffa8db78bbe4ba2d03e0e"
+  },
+  "tag": "v0.3.7",
+  "message": "2011.01.27, Version 0.3.7 (unstable)\n\n* Expose agent in http and https client. (Mikeal Rogers)\n\n* Fix bug in http request's end method. (Ali Farhadi)\n\n* MinGW: better net support (Bert Belder)\n\n* fs.open should set FD_CLOEXEC\n\n* DTrace probes (Bryan Cantrill)\n\n* REPL fixes and improvements (isaacs, Bert Belder)\n\n* Fix many bugs with legacy http.Client interface\n\n* Deprecate process.assert. Use require('assert').ok\n\n* Add callback parameter to socket.setTimeout(). (Ali Farhadi)\n\n* Fixing bug in http request default encoding (Ali Farhadi)\n\n* require: A module ID with a trailing slash must be a dir.\n  (isaacs)\n\n* Add ext_key_usage to getPeerCertificate (Greg Hughes)\n\n* Error when child_process.exec hits maxBuffer.\n\n* Fix option parsing in tls.connect()\n\n* Upgrade to V8 3.0.10\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

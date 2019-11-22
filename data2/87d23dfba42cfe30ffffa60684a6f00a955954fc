@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODo4N2QyM2RmYmE0MmNmZTMwZmZmZmE2MDY4NGE2ZjAwYTk1NTk1NGZj",
+  "sha": "87d23dfba42cfe30ffffa60684a6f00a955954fc",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/87d23dfba42cfe30ffffa60684a6f00a955954fc",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-08-06T17:26:48Z"
+  },
+  "object": {
+    "sha": "932cb531cc03fc3d9c394e5eadff75570a05337a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/932cb531cc03fc3d9c394e5eadff75570a05337a"
+  },
+  "tag": "v1.4.14",
+  "message": "Release of 1.4.14\n\n- 932cb531cc03fc3d9c394e5eadff75570a05337a: Merge pull request #852 from mattrjacobs/merge-fix-851\n- 18fde946233ecbad1b5d5e58f064286a2b00b495: Fixed merge problem\n- 2e10b732b444c9c554255c95d65fde6ac1296121: Merge remote-tracking branch 'upstream/pr/851' into merge-fix-851\n- 11d5baddb5e393f24346975628ea698176a9396b: Fix generated arglists\n- 84e523f4f1e41a05ef92f2514c3abdd8e84bdc6b: Merge pull request #849 from mattrjacobs/subclass-cmd\n- 9037c7c4ce6cc095a2e68976dd8ce363f9ff6075: Added unit tests proving that request log, request caching and fallback work as expected when there is a class hierarchy of HystrixCommands\n- fd5920751a2982f48cfbd59b0fa83d83524e51a6: Update CHANGELOG.md\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

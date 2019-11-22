@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOjI0ZjFkNzYzYjQ4MzNhYzgwMzU1NzE1NmI1OWFjYmY5Yjc1NjNhOGY=",
+  "sha": "24f1d763b4833ac803557156b59acbf9b7563a8f",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/24f1d763b4833ac803557156b59acbf9b7563a8f",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-05-02T11:58:57Z"
+  },
+  "object": {
+    "sha": "cec7a9bc91aae9a2e074802cc4443b6db44efa6d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/cec7a9bc91aae9a2e074802cc4443b6db44efa6d"
+  },
+  "tag": "15.1.1",
+  "message": "nova 15.1.1 release\n\nmeta:version: 15.1.1\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: melanie witt <melwittt@gmail.com>\nmeta:release:Commit: melanie witt <melwittt@gmail.com>\nmeta:release:Change-Id: I78f48e50bb2680f305e1e2297b08aa00dd76ce63\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa6agBAAoJEMNs3LTfAMaMJIsH/iGo0YrgZuIF26oC6xTT14x3\nCzI+vuX4uaPqp//AcirF2cN2XZFQEk5po2llDOLYYiWS9UPZyt/y80nFScSpf0rK\nnjb/XTm0HiDXPCNMMiPfWUZzQ3myPWSciAzjHqfYWMJY3/pvEhFjwfVt05IbpLAv\nUIcpPGEc0jUCB7GjL8jh/+7TSAV8Wv/XLV+SJXdSJ33zatocLOJUG581Ge4k1dwl\nQUArBj/Txw1Df4mjpjhzT9KNAZP3AvbPDpLJM9NPg8glOdN89cgjc/sQvltyZyT/\nMgsVQ6mwoTsmusOGPFmx5kd2BdMPiSaTgrQPGZOxbns62mTAaE7FTac33a567+M=\n=jRas\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa6agBAAoJEMNs3LTfAMaMJIsH/iGo0YrgZuIF26oC6xTT14x3\nCzI+vuX4uaPqp//AcirF2cN2XZFQEk5po2llDOLYYiWS9UPZyt/y80nFScSpf0rK\nnjb/XTm0HiDXPCNMMiPfWUZzQ3myPWSciAzjHqfYWMJY3/pvEhFjwfVt05IbpLAv\nUIcpPGEc0jUCB7GjL8jh/+7TSAV8Wv/XLV+SJXdSJ33zatocLOJUG581Ge4k1dwl\nQUArBj/Txw1Df4mjpjhzT9KNAZP3AvbPDpLJM9NPg8glOdN89cgjc/sQvltyZyT/\nMgsVQ6mwoTsmusOGPFmx5kd2BdMPiSaTgrQPGZOxbns62mTAaE7FTac33a567+M=\n=jRas\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cec7a9bc91aae9a2e074802cc4443b6db44efa6d\ntype commit\ntag 15.1.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1525262337 +0000\n\nnova 15.1.1 release\n\nmeta:version: 15.1.1\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: melanie witt <melwittt@gmail.com>\nmeta:release:Commit: melanie witt <melwittt@gmail.com>\nmeta:release:Change-Id: I78f48e50bb2680f305e1e2297b08aa00dd76ce63\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

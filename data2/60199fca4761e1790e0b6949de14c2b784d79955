@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY4ODQyNTc6NjAxOTlmY2E0NzYxZTE3OTBlMGI2OTQ5ZGUxNGMyYjc4NGQ3OTk1NQ==",
+  "sha": "60199fca4761e1790e0b6949de14c2b784d79955",
+  "url": "https://api.github.com/repos/openstack/python-magnumclient/git/tags/60199fca4761e1790e0b6949de14c2b784d79955",
+  "tagger": {
+    "name": "Adrian Otto",
+    "email": "adrian.otto@rackspace.com",
+    "date": "2015-05-05T16:55:49Z"
+  },
+  "object": {
+    "sha": "a5693c0cd632c49f137ae08f92c1e4cbd381edda",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-magnumclient/git/commits/a5693c0cd632c49f137ae08f92c1e4cbd381edda"
+  },
+  "tag": "0.2.0",
+  "message": "We are proud to announce the Kilo release of python-magnumclient\n\n14 Enhancements and Bug Fixes:\n\n1408667 Client uses underscores for parameters - OpenStack uses dashes\n1423032 magnum 'bay-create' command should fail when no argument passed\n1409316 Rest operation containers logs uses PUT\n1413438 magnum client object show do not have help info\n1421082 No test for shell\n1421476 magnumclient should support deleting multiple resources in one command\n1422512 allow users to specify the size of docker volume\n1423038 magnum 'baymodel-create' command should fail when no argument passed\n1436774 Support keystone region\n1443442 container-create show ERROR:\n1444398 Add unittests for magnumclient.v1.client module\n1444405 Remove side effect in get_keystoneclient\n1444409 Delegate magnum url search to url_for method\n1445197 TestCommandLineArgument uses incorrectly mock\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2.0.14 (GNU/Linux)\n\niQEcBAABAgAGBQJVSPaGAAoJEHcGupuh7IB/NNwIAMH1YIkTVJ0RQ11D6FXE66s5\nkmWpxXSly2vZS/c8iLx0KocLE2QGaxeglmV3B6ciaXqaIiedGfGt7VgJ5htbJSwA\ngPrn1SzcP4CeZr/uvpkah0fp8KmpgIc6Dhvf9ET+WJ1RDmFSMaRxfpuqDzl0int1\nV9n9X/VIHGHTlZM+vHAL2CEDmRIBTIA63ghsAF2k3bCmFySAWTHWWfaqyBanAqT6\nFCnQhlFCYd/6nW4PQRe1oHlN3LUhD7EjCJ4O0NUdObMZs+rhlJi2GaPb0SIPN1Hw\nBwo1S2rtkdt75r2bRxGtraddYaWUHJmUlvZk8xBAW2gpPYfuiHCpp7DABtyx74w=\n=+PbV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2.0.14 (GNU/Linux)\n\niQEcBAABAgAGBQJVSPaGAAoJEHcGupuh7IB/NNwIAMH1YIkTVJ0RQ11D6FXE66s5\nkmWpxXSly2vZS/c8iLx0KocLE2QGaxeglmV3B6ciaXqaIiedGfGt7VgJ5htbJSwA\ngPrn1SzcP4CeZr/uvpkah0fp8KmpgIc6Dhvf9ET+WJ1RDmFSMaRxfpuqDzl0int1\nV9n9X/VIHGHTlZM+vHAL2CEDmRIBTIA63ghsAF2k3bCmFySAWTHWWfaqyBanAqT6\nFCnQhlFCYd/6nW4PQRe1oHlN3LUhD7EjCJ4O0NUdObMZs+rhlJi2GaPb0SIPN1Hw\nBwo1S2rtkdt75r2bRxGtraddYaWUHJmUlvZk8xBAW2gpPYfuiHCpp7DABtyx74w=\n=+PbV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a5693c0cd632c49f137ae08f92c1e4cbd381edda\ntype commit\ntag 0.2.0\ntagger Adrian Otto <adrian.otto@rackspace.com> 1430844949 +0000\n\nWe are proud to announce the Kilo release of python-magnumclient\n\n14 Enhancements and Bug Fixes:\n\n1408667 Client uses underscores for parameters - OpenStack uses dashes\n1423032 magnum 'bay-create' command should fail when no argument passed\n1409316 Rest operation containers logs uses PUT\n1413438 magnum client object show do not have help info\n1421082 No test for shell\n1421476 magnumclient should support deleting multiple resources in one command\n1422512 allow users to specify the size of docker volume\n1423038 magnum 'baymodel-create' command should fail when no argument passed\n1436774 Support keystone region\n1443442 container-create show ERROR:\n1444398 Add unittests for magnumclient.v1.client module\n1444405 Remove side effect in get_keystoneclient\n1444409 Delegate magnum url search to url_for method\n1445197 TestCommandLineArgument uses incorrectly mock\n"
+  }
+}

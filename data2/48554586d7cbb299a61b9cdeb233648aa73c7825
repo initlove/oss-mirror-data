@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY5ODcwNDk6NDg1NTQ1ODZkN2NiYjI5OWE2MWI5Y2RlYjIzMzY0OGFhNzNjNzgyNQ==",
+  "sha": "48554586d7cbb299a61b9cdeb233648aa73c7825",
+  "url": "https://api.github.com/repos/zcash/zcash/git/tags/48554586d7cbb299a61b9cdeb233648aa73c7825",
+  "tagger": {
+    "name": "Jack Grigg",
+    "email": "jack@z.cash",
+    "date": "2017-11-20T23:15:52Z"
+  },
+  "object": {
+    "sha": "3ee1d04a8dff26e81aaf17095a0e2472bc70cf36",
+    "type": "commit",
+    "url": "https://api.github.com/repos/zcash/zcash/git/commits/3ee1d04a8dff26e81aaf17095a0e2472bc70cf36"
+  },
+  "tag": "v1.0.13",
+  "message": "Zcash v1.0.13 release\n\nThis release promotes the `z_shieldcoinbase` RPC method to be fully-supported,\nand adds a new experimental feature: payment disclosure. It also includes\nperformance improvements and bug fixes.\n\nFor complete changes, see:\n\n- doc/release-notes/release-notes-1.0.12-rc1.md\n- doc/release-notes/release-notes-1.0.12-rc2.md\n- doc/release-notes/release-notes-1.0.12.md\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJaE2MzAAoJEGZdvNKE99r/DSYP/jgvxYOiyM2NYXnzFRxkKAr+\nciYkc99/i4egvZwJZfCdqnm2pvFSZd4ufePyh2sFkkDfmZbTSJeSp1WIoy3ooKOj\n3F3rhc/cYLKcA/6sYRH11kd573fJC1+4RoEaWeAJrZ3TCl3HGldozS7U3lzsyUo9\nZ2RWOkmjF4tt22bAwoRCFda5CYZprBvXmExJjPk3uOEhWhbYeDvGD9kOd5aGEf6a\n6NQiCU43SmWxQGCWyaQYDpKgToy2AF6uvWSjK6jP2y8FWNCw4y3P9fenCjq4Vhab\nPGbGy/sBcnjoZZX+Kj0dzbFLn4D7HBqje/yZpigunpkc5rtteydSPNNZeiDeTRxb\nwTK3RTad3dHHlnkKfiu9ils133SnCcGGcF0NjiCgHfiTOCQV0LQ/xetqy8WU2mIX\n9hGOyi/nn+NAyQu9tKxvcmJ+JgYsWijj89LxLtGj3FgxToe2oxfo61YQr3tYTw6g\nD9fgyDPU09QahVvfumHwkhmM7j7kishqCOjXd8IsAIAhYhgT9L6soVR6u8cObKTL\nzhS/+L2TVE71YG67u1t0Fv8i9NaOMFIwlAVbN3QVK6xh1S3R+QNFUCp6dFqUpKN0\nU0vwSJJzeFpPPcfKI4UcLqsjWq5DhmUy4ipPK52YaKIwJHqa0rRKhdrEbZm34f5d\n+wX4Ri0bUpCeNcCgPkqA\n=qEzk\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJaE2MzAAoJEGZdvNKE99r/DSYP/jgvxYOiyM2NYXnzFRxkKAr+\nciYkc99/i4egvZwJZfCdqnm2pvFSZd4ufePyh2sFkkDfmZbTSJeSp1WIoy3ooKOj\n3F3rhc/cYLKcA/6sYRH11kd573fJC1+4RoEaWeAJrZ3TCl3HGldozS7U3lzsyUo9\nZ2RWOkmjF4tt22bAwoRCFda5CYZprBvXmExJjPk3uOEhWhbYeDvGD9kOd5aGEf6a\n6NQiCU43SmWxQGCWyaQYDpKgToy2AF6uvWSjK6jP2y8FWNCw4y3P9fenCjq4Vhab\nPGbGy/sBcnjoZZX+Kj0dzbFLn4D7HBqje/yZpigunpkc5rtteydSPNNZeiDeTRxb\nwTK3RTad3dHHlnkKfiu9ils133SnCcGGcF0NjiCgHfiTOCQV0LQ/xetqy8WU2mIX\n9hGOyi/nn+NAyQu9tKxvcmJ+JgYsWijj89LxLtGj3FgxToe2oxfo61YQr3tYTw6g\nD9fgyDPU09QahVvfumHwkhmM7j7kishqCOjXd8IsAIAhYhgT9L6soVR6u8cObKTL\nzhS/+L2TVE71YG67u1t0Fv8i9NaOMFIwlAVbN3QVK6xh1S3R+QNFUCp6dFqUpKN0\nU0vwSJJzeFpPPcfKI4UcLqsjWq5DhmUy4ipPK52YaKIwJHqa0rRKhdrEbZm34f5d\n+wX4Ri0bUpCeNcCgPkqA\n=qEzk\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3ee1d04a8dff26e81aaf17095a0e2472bc70cf36\ntype commit\ntag v1.0.13\ntagger Jack Grigg <jack@z.cash> 1511219752 +0000\n\nZcash v1.0.13 release\n\nThis release promotes the `z_shieldcoinbase` RPC method to be fully-supported,\nand adds a new experimental feature: payment disclosure. It also includes\nperformance improvements and bug fixes.\n\nFor complete changes, see:\n\n- doc/release-notes/release-notes-1.0.12-rc1.md\n- doc/release-notes/release-notes-1.0.12-rc2.md\n- doc/release-notes/release-notes-1.0.12.md\n"
+  }
+}

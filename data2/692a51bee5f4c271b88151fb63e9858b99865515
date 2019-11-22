@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NjkyYTUxYmVlNWY0YzI3MWI4ODE1MWZiNjNlOTg1OGI5OTg2NTUxNQ==",
+  "sha": "692a51bee5f4c271b88151fb63e9858b99865515",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/692a51bee5f4c271b88151fb63e9858b99865515",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-02-03T20:26:21Z"
+  },
+  "object": {
+    "sha": "0cfa789cc530848725a8cb5595224e78ae7b9dd0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/0cfa789cc530848725a8cb5595224e78ae7b9dd0"
+  },
+  "tag": "v0.1.27",
+  "message": "2010.02.03, Version 0.1.27\n\n  * Implemented __dirname (Felix Geisendörfer)\n\n  * Downcase process.ARGV, process.ENV, GLOBAL\n    (now process.argv, process.env, global)\n\n  * Bug Fix: Late promise promise callbacks firing\n    (Felix Geisendörfer, Jonas Pfenniger)\n\n  * Make assert.AssertionError instance of Error\n\n  * Removed inline require call for querystring\n    (self@cloudhead.net)\n\n  * Add support for MX, TXT, and SRV records in DNS module.\n    (Blaine Cook)\n\n  * Bugfix: HTTP client automatically reconnecting\n\n  * Adding OS X .dmg build scripts. (Standa Opichal)\n\n  * Bugfix: ObjectWrap memory leak\n\n  * Bugfix: Multipart handle Content-Type headers with charset\n    (Felix Geisendörfer)\n\n  * Upgrade http-parser to fix header overflow attack.\n\n  * Upgrade V8 to 2.1.0\n\n  * Various other bug fixes, performance improvements.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

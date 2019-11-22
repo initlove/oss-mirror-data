@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OjQxNmY1MmNkOGExY2RhMGQ1NjRiYWMyYzc3ZjU4ZDFjYmY1MmFkMWY=",
+  "sha": "416f52cd8a1cda0d564bac2c77f58d1cbf52ad1f",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/416f52cd8a1cda0d564bac2c77f58d1cbf52ad1f",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "spam@schillmania.com",
+    "date": "2012-09-17T01:38:24Z"
+  },
+  "object": {
+    "sha": "1d1ed1481543737449e9fb0a7fd6520b608d87b8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/1d1ed1481543737449e9fb0a7fd6520b608d87b8"
+  },
+  "tag": "V2.97a.20120916",
+  "message": "V2.97a.20120916 - Inline, deferred and lazy-load init improvements, HTML5 format / detection improvements, \"re-use\" load/play URL fix.\n\n    API Updates\n\n        Init improvement: Don't fail if Flash URL is null in normal include + init case. Instead, show note in debug input and wait for soundManager.setup() with url param, then treat as delayed init case. Improved experience if including <script>, then trying to do setup() after DOM Ready (common jQuery case).\n\n        soundManager.setup({url:...}) + lazy-loading (dynamically-loaded JS) case: If setup() given url parameter after DOMContentLoaded has fired, assume we should start right away. (Helps reduce need for beginDelayedInit() + \"just works\" for most users)\n\n        Don't init inline after document.readyState === 'complete' (improve lazy-loading case, wait for setup() with url: instead)\n\n    Bug fixes\n\n        Fix 'audio/mpeg' canPlay() checks, was incorrectly returning false due to audio/mpeg; codecs=\"mp3\" working and preventing audio/mpeg from being checked.\n\n        More paranoid Audio() handling for \"bad\" Opera (< 10) where new Audio() would throw not_enough_arguments (always required URL).\n\n        Safer HTML5 duration checks - null now assigned instead of undefined.\n\n        Improve durationEstimate under HTML5 during whileloading().\n\n        Flash 9/RTMP: Actually provide caption data to oncaptiondata().\n\n        Fix SMSound.play({url:...}) \"re-use\" case where new URL wasn't being assigned + loaded right away, and SMSound.url property was not being updated.\n\n        Correct load() and play() with new URL parameter, so that subsequent play() call uses new URL (and not URL assigned with original createSound() call).\n\n        Use seconds for SMSound.buffered (time ranges) whether HTML5 or Flash, since SM2 API uses seconds for setPosition() etc.\n\n        Correct play() -> pause() -> setPosition(0) -> play() -> pause() case where the latter wasn't firing due to invalid state.\n\n    Miscellaneous\n\n        New Cassette Tape UI Prototype/demo (experimental).\n\n        Tweaked documentation layout for legibility. Webfont (deja vu sans mono) from dejavu-fonts.org for code examples.\n\n        Improved lazy-load / deferred example based on new setup() logic\n\n        Added SMSound.buffered documentation\n\n        Added m4b extension as an mp4 format\n\n        Safer initial HTML5 support checks\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

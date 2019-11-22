@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MWQ3MWUyYTdmNDBkM2IzMjFiYjFmN2Q2NWEyYTIzODdiN2FiN2JmYg==",
+  "sha": "1d71e2a7f40d3b321bb1f7d65a2a2387b7ab7bfb",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/1d71e2a7f40d3b321bb1f7d65a2a2387b7ab7bfb",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-08-19T22:12:07Z"
+  },
+  "object": {
+    "sha": "7fabdc23d843cb705d2d0739e7bbdaaf50aa3292",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/7fabdc23d843cb705d2d0739e7bbdaaf50aa3292"
+  },
+  "tag": "v0.10.31",
+  "message": "2014.08.19, Version 0.10.31 (Stable)\n\n* v8: backport CVE-2013-6668\n\n* openssl: Update to v1.0.1i\n\n* npm: Update to v1.4.23\n\n* cluster: disconnect should not be synchronous (Sam Roberts)\n\n* fs: fix fs.readFileSync fd leak when get RangeError (Jackson Tian)\n\n* stream: fix Readable.wrap objectMode falsy values (James Halliday)\n\n* timers: fix timers with non-integer delay hanging. (Julien Gilli)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlPzy7cACgkQfTP/nQJGQG1zZwCgzxmZDuOBOrV4GC/lFcToyijW\nmlsAoMWzaPuoWaeT7NpmnWONRAtGG3DU\n=7mHq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlPzy7cACgkQfTP/nQJGQG1zZwCgzxmZDuOBOrV4GC/lFcToyijW\nmlsAoMWzaPuoWaeT7NpmnWONRAtGG3DU\n=7mHq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7fabdc23d843cb705d2d0739e7bbdaaf50aa3292\ntype commit\ntag v0.10.31\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1408486327 -0400\n\n2014.08.19, Version 0.10.31 (Stable)\n\n* v8: backport CVE-2013-6668\n\n* openssl: Update to v1.0.1i\n\n* npm: Update to v1.4.23\n\n* cluster: disconnect should not be synchronous (Sam Roberts)\n\n* fs: fix fs.readFileSync fd leak when get RangeError (Jackson Tian)\n\n* stream: fix Readable.wrap objectMode falsy values (James Halliday)\n\n* timers: fix timers with non-integer delay hanging. (Julien Gilli)\n"
+  }
+}

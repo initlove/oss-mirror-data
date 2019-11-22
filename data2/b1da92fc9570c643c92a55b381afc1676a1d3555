@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6YjFkYTkyZmM5NTcwYzY0M2M5MmE1NWIzODFhZmMxNjc2YTFkMzU1NQ==",
+  "sha": "b1da92fc9570c643c92a55b381afc1676a1d3555",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/b1da92fc9570c643c92a55b381afc1676a1d3555",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-01-16T23:13:17Z"
+  },
+  "object": {
+    "sha": "b622bc6305e3c675e0edfcdbaa387d849ad0bba0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/b622bc6305e3c675e0edfcdbaa387d849ad0bba0"
+  },
+  "tag": "v0.3.5",
+  "message": "2011.01.16, Version 0.3.5 (unstable)\n\n* Built-in debugger improvements.\n\n* Add setsid, setuid, setgid options to child_process.spawn\n  (Isaac Schlueter)\n\n* tty module improvements.\n\n* Upgrade libev to 4.3, libeio to latest, c-ares to 1.7.4\n\n* Allow third party hooks before main module load.\n  (See 496be457b6a2bc5b01ec13644b9c9783976159b2)\n\n* Don't stat() on cached modules. (Felix Geisendörfer)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTpiN2Q0NTk3MjlhYTJkZjQwMDkyZDM2NzQ5OGQ4YzdiNzkxMTk2ZGM1",
+  "sha": "b7d459729aa2df40092d367498d8c7b791196dc5",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/b7d459729aa2df40092d367498d8c7b791196dc5",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2018-06-15T11:34:03Z"
+  },
+  "object": {
+    "sha": "18c5af71d82ad36c051aaf77e9e5b9742a0e9610",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/18c5af71d82ad36c051aaf77e9e5b9742a0e9610"
+  },
+  "tag": "5.7.1",
+  "message": "Version 5.7.1\n\n### Bug fixes\n\nMake sure the walker and bin files are rebuilt on release (the previous release didn't get the up-to-date versions).\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlsjpDUACgkQcD8b7W0z\nrh4BzQgAoAdIy20g/V5z0pfnQEJUTPHG9iFQ6IkjXCGAcLOevsV30SqNPjPHWVJV\nQ4C0EkB5XaEuIheGDhnQF/Q+kZdQmRlkT233/WdGtf1OkCPjOmqwFlbyg33wGxyJ\nr0GDafhPKwM0a7TGIbz8A8lgu0N4A1YpriwrZ81wgJb41fKquF5dlwz7ZGQh5OuJ\n0Dq9BDnh+6cB/4WovgdZ8XkaG4rUE9mJuHN7Y7Q163DFlUbmr0uqw4Piw/wBhrXS\nAaJ+c1rWsrUV6r6FSO0aMqwkXiGJ31C2LhWVmWyj0iPboWL4EPsDsgJfChfbqC6t\nO501n+ZsdinADxkhDA2h+mjFCR7yqA==\n=JZDk\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAlsjpDUACgkQcD8b7W0z\nrh4BzQgAoAdIy20g/V5z0pfnQEJUTPHG9iFQ6IkjXCGAcLOevsV30SqNPjPHWVJV\nQ4C0EkB5XaEuIheGDhnQF/Q+kZdQmRlkT233/WdGtf1OkCPjOmqwFlbyg33wGxyJ\nr0GDafhPKwM0a7TGIbz8A8lgu0N4A1YpriwrZ81wgJb41fKquF5dlwz7ZGQh5OuJ\n0Dq9BDnh+6cB/4WovgdZ8XkaG4rUE9mJuHN7Y7Q163DFlUbmr0uqw4Piw/wBhrXS\nAaJ+c1rWsrUV6r6FSO0aMqwkXiGJ31C2LhWVmWyj0iPboWL4EPsDsgJfChfbqC6t\nO501n+ZsdinADxkhDA2h+mjFCR7yqA==\n=JZDk\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 18c5af71d82ad36c051aaf77e9e5b9742a0e9610\ntype commit\ntag 5.7.1\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1529062443 +0200\n\nVersion 5.7.1\n\n### Bug fixes\n\nMake sure the walker and bin files are rebuilt on release (the previous release didn't get the up-to-date versions).\n"
+  }
+}

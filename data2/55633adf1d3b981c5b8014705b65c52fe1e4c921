@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6NTU2MzNhZGYxZDNiOTgxYzViODAxNDcwNWI2NWM1MmZlMWU0YzkyMQ==",
+  "sha": "55633adf1d3b981c5b8014705b65c52fe1e4c921",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/55633adf1d3b981c5b8014705b65c52fe1e4c921",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2016-08-21T21:40:35Z"
+  },
+  "object": {
+    "sha": "ff4bbd945dc2008bea7685604f3745ae716fb39b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/ff4bbd945dc2008bea7685604f3745ae716fb39b"
+  },
+  "tag": "v0.5.6",
+  "message": "Release v0.5.6 contains the following changes:\n\n* Remove unnecessary parenthesis to fix style of switch() statements\n* Add missing #include to fix compilation warnings.  Also fix the indentation of other #include lines\n* Code changes required by changes in constness of some function parameters in OpenSSL-1.1.0.\n    - Make DSA_SIG and ECDSA_SIG getters const\n    - Constify the parameter getters for RSA, DSA and DH\n* Fix for the issue caused by RSA decrypt call to engine now passing RSA_NO_PADDING instead of RSA_PKCS1_PADDING and the padding removal being handled in the calling function. This was not supported by the QAT Engine. The issue was introduced by the following OpenSSL commit:\n\n    5b8fa431ae8eb5a18ba913494119e394230d4b70\n    Make RSA key exchange code actually constant-time.\n* Fix to allocate r/s for DSA_SIG and ECDSA_SIG in the engine code.  This change was necessary due to the following OpenSSL commit:\n\n    8cc44d970ced1004db0727d7a7b3e2709c442e55\n    Don't allocate r/s in DSA_SIG and ECDSA_SIG.\n* Change to the QAT engine build process such that the default QAT engine shared library install directory is  </path/to/OpenSSL/install_directory>/lib/engines-1.1. This change was necessary due to the following OpenSSL commit:\n\n    b2de11c58b57e7f0d58c6f8a1d4177705650647e\n    Versioning engines default location: the Unix case.\n* Fix valgrind's memcpy warning.\n* Fix debug functions for common memory driver\n* Fix missing cleanup of engine specific error strings\n* Update README.md to document OpenSSL speed bug\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

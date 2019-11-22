@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODpjZDA3YzkwNTcwODNkN2YzM2Y5YmQ3ZmQ3ZmRlNWUxZDU4M2VjNTY2",
+  "sha": "cd07c9057083d7f33f9bd7fd7fde5e1d583ec566",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/cd07c9057083d7f33f9bd7fd7fde5e1d583ec566",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-03-20T05:03:37Z"
+  },
+  "object": {
+    "sha": "6920be44d859aa68f6515c7de4ff00489fda9190",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/6920be44d859aa68f6515c7de4ff00489fda9190"
+  },
+  "tag": "v1.4.1",
+  "message": "Release of 1.4.1\n\n- 6920be44d859aa68f6515c7de4ff00489fda9190: Merge pull request #716 from mattrjacobs/unfinal-execute-and-queue\n- a899696b1a5d97e8f290f2e225080515a4814d61: Make HystrixCommand.execute()/queue() and AbstractCommand.observe()/toObservable() nonfinal\n- 05ea381e75b806ad6b86b996d735f8c70a0c6926: Update README.md\n- 5991989e4c829fabc0642c1484144da9a7f5ebcf: Merge pull request #710 from wblakecaldwell/patch-1\n- 6c14c79a53f4f455990ff964731840b991eb38ff: This fixes #709: JS error: \"isNan is not defined\"\n- 5d1874b3678c454d7ac36cef702a13bf6b4638ce: Merge pull request #706 from mattrjacobs/fix-javadoc-generation\n- 17b2cdf350a5b76023a98589d1fd072e8f164289: Fix Javadoc generation and some Javadoc warnings\n- 1377edd1b40d2cd44cf2d43ff259eefe3d5ae3eb: Update CHANGELOG.md\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6M2UxMTA0NzliNzlmYzEyNTEyMGUxNzY1NTUzZjEwZjY3YzQxNGU0MA==",
+  "sha": "3e110479b79fc125120e1765553f10f67c414e40",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/3e110479b79fc125120e1765553f10f67c414e40",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-05-15T17:00:11Z"
+  },
+  "object": {
+    "sha": "4bc1d395de6abed2cf1e4d0b7b3a1480a21c368f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/4bc1d395de6abed2cf1e4d0b7b3a1480a21c368f"
+  },
+  "tag": "v0.6.18",
+  "message": "2012.05.15 Version 0.6.18 (stable)\n\n* windows: skip GetFileAttributes call when opening a file (Bert Belder)\n\n* crypto: add PKCS12/PFX support (Sambasiva Suda)\n\n* #3240: child_process: delete NODE_CHANNEL_FD from env in spawn (Ben Noordhuis)\n\n* windows: add test for path.normalize with UNC paths (Bert Belder)\n\n* windows: make path.normalize convert all slashes to backslashes (Bert Belder)\n\n* fs: Automatically close FSWatcher on error (Bert Belder)\n\n* #3258: fs.ReadStream.pause() emits duplicate data event (koichik)\n\n* pipe_wrap: don't assert() on pipe accept errors (Ben Noordhuis)\n\n* Better exception output for module load and process.nextTick (Felix Geisendörfer)\n\n* zlib: fix error reporting (Ben Noordhuis)\n\n* http: Don't destroy on timeout (isaacs)\n\n* #3231: http: Don't try to emit error on a null'ed req object (isaacs)\n\n* #3236: http: Refactor ClientRequest.onSocket (isaacs)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPsoubAAoJELCniwpsSBz2U6EH/jNi5eMDrJ6p5h+EJyYkHvmk\nYEj6Xv2CjgBQDNrMZqdIgzzDqIrWo9qiaTHLcyy5JgYOCDDWnskMUoB1IwDnis7D\nQhwWcVcGSjOD6o3RVTuDkGMEDaQHDAcpGB0B2WjKM8kMtEfblHwEq2wYIyxIJhYu\nJCF1Up/vHzkfnqirSGPI7wNPXP529Lcy9ppz8URnBQE7wKk9QAds/qhVtyMkA2lC\nSOec/ZTa9w4N75nvBMBcZYDwbXdGIxKKTHT0yxDotmSm7sOTMQkgxKb5PJEQ6Nwx\n01BwKK33to0qV4AVb7jDAodJcDzHtn4xIZ7PFW+IJoN2WI7nlawSwdCIPX+35ME=\n=5fmD\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPsoubAAoJELCniwpsSBz2U6EH/jNi5eMDrJ6p5h+EJyYkHvmk\nYEj6Xv2CjgBQDNrMZqdIgzzDqIrWo9qiaTHLcyy5JgYOCDDWnskMUoB1IwDnis7D\nQhwWcVcGSjOD6o3RVTuDkGMEDaQHDAcpGB0B2WjKM8kMtEfblHwEq2wYIyxIJhYu\nJCF1Up/vHzkfnqirSGPI7wNPXP529Lcy9ppz8URnBQE7wKk9QAds/qhVtyMkA2lC\nSOec/ZTa9w4N75nvBMBcZYDwbXdGIxKKTHT0yxDotmSm7sOTMQkgxKb5PJEQ6Nwx\n01BwKK33to0qV4AVb7jDAodJcDzHtn4xIZ7PFW+IJoN2WI7nlawSwdCIPX+35ME=\n=5fmD\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4bc1d395de6abed2cf1e4d0b7b3a1480a21c368f\ntype commit\ntag v0.6.18\ntagger isaacs <i@izs.me> 1337101211 -0700\n\n2012.05.15 Version 0.6.18 (stable)\n\n* windows: skip GetFileAttributes call when opening a file (Bert Belder)\n\n* crypto: add PKCS12/PFX support (Sambasiva Suda)\n\n* #3240: child_process: delete NODE_CHANNEL_FD from env in spawn (Ben Noordhuis)\n\n* windows: add test for path.normalize with UNC paths (Bert Belder)\n\n* windows: make path.normalize convert all slashes to backslashes (Bert Belder)\n\n* fs: Automatically close FSWatcher on error (Bert Belder)\n\n* #3258: fs.ReadStream.pause() emits duplicate data event (koichik)\n\n* pipe_wrap: don't assert() on pipe accept errors (Ben Noordhuis)\n\n* Better exception output for module load and process.nextTick (Felix Geisendörfer)\n\n* zlib: fix error reporting (Ben Noordhuis)\n\n* http: Don't destroy on timeout (isaacs)\n\n* #3231: http: Don't try to emit error on a null'ed req object (isaacs)\n\n* #3236: http: Refactor ClientRequest.onSocket (isaacs)\n"
+  }
+}

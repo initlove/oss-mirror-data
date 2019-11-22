@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzU0NDA0MDQ6MzAzNDljOTZmNDliYjAzYmI1ODRhODBiODY5ODU3MjYzMDVmODhjNA==",
+  "sha": "30349c96f49bb03bb584a80b86985726305f88c4",
+  "url": "https://api.github.com/repos/aws/aws-sdk-cpp/git/tags/30349c96f49bb03bb584a80b86985726305f88c4",
+  "tagger": {
+    "name": "Jonathan M. Henson",
+    "email": "henso@amazon.com",
+    "date": "2016-05-23T22:18:13Z"
+  },
+  "object": {
+    "sha": "b32f60f69d92c840ce4cb1f69dbb235daf0b0312",
+    "type": "commit",
+    "url": "https://api.github.com/repos/aws/aws-sdk-cpp/git/commits/b32f60f69d92c840ce4cb1f69dbb235daf0b0312"
+  },
+  "tag": "0.12.0",
+  "message": "Rewrote static initialization. All code pulling this revision number or higher will need to add InitAPI calls to their code base. See Readme.md for more details.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

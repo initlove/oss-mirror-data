@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDI5MTM4Nzo5NTQyMmVkN2JiZDk2YmE5ZWZlMDg1MzU1ZGQzODk4YjExZTVjODk5",
+  "sha": "95422ed7bbd96ba9efe085355dd3898b11e5c899",
+  "url": "https://api.github.com/repos/Netflix/archaius/git/tags/95422ed7bbd96ba9efe085355dd3898b11e5c899",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-03-13T05:46:08Z"
+  },
+  "object": {
+    "sha": "0e08a21bea162259ed9fc4282a2660fc4488c18a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/archaius/git/commits/0e08a21bea162259ed9fc4282a2660fc4488c18a"
+  },
+  "tag": "v2.0.0-rc.3",
+  "message": "Release of 2.0.0-rc.3\n\n- 0e08a21bea162259ed9fc4282a2660fc4488c18a: Merge pull request #269 from elandau/2.x\n- 6db77ceff8fe799549e6357cb2f73185af4fdcc4: Fork tests\n- 1ae8405916476b3e7ca09f5fca56197010aa7fc2: Merge pull request #268 from elandau/2.x\n- 0ecacec3d90bc94bb037d62621700f8999fdf12d: Enable archaius-legacy so 0.x and 2.x can coexist.\n- 27f8c16f4aaf383cbfd0390b6ef8552d7254345a: Merge pull request #265 from elandau/2.x\n- 0c8276af8c70db9f548c7c877d049576db537185: Merge branch '2.x' of https://github.com/Netflix/archaius into 2.x\n- 48d004171f3c00fe77270105c785018516263f60: Fix interpolation\n- 7dc2c36694401e8ac1d151f38a108c7d21eb2398: Enable archaius-legacy module so old an new api can co-exist\n- 8b95b854e91f45b255a13304680c603279cac836: Fix build\n- abb16e4d76f2c057e92144b6ea18e8e5bb0e7d51: Merge pull request #256 from gorzell/2.x-docs\n- ca35d061d273729fc39d127661c7090e3359c2b9: Code cleanup\n- 56fe7eff976668ee92339189de356d6c4425e79e: Merge pull request #267 from gorzell/fixHeaders\n- 6f26419b2fafde9309dbde09cab4e2a5f6a7e38d: Add license headers to files that were missing them.\n- 8e91b58ec3ce9a4f7124c1bef19eaf70e5419c94: Remove file that should have been reverted.\n- ead48394200845894d57c26afb22eb2edc3f055d: Merge branch '2.x' of github.com:Netflix/archaius into 2.x-docs\n- b70fa6805b1ae8d0ff6bc8c768d5eb3b982a16c6: Update readme to include features and changes in 2.x\n- b9da821c64698754e10917e6e99398685c8683e0: Revert some previous changes.\n- 6c8b2ad3ebb50996d379d67ab507271eb5ee1c9a: Rename getRawProperty to getRawString. Fix all tests for new error handling behavior\n- e5dd1b127b69ec60bc92917b514adcd9655b69b8: Fix handling of parse and missing value error\n- f64f6f5d96588e66362147c92e2af0c7cfaef784: Merge pull request #262 from brharrington/2.x-stack-overflow\n- 058f4f325776293e5a750151970ea5aafda703e6: Merge pull request #264 from brharrington/2.x-simplify-getraw\n- 4f9a68c5b5087ee1d10fa35d35604bf4030b7e13: 2.x simplify MapConfig.getRawProperty\n- 13c9ada643b66b6da1d223ccd8933a5ecd775101: 2.x fix StackOverflowError for AbstractConfig.get\n- 12552024496d52d044b307d1c4162dbebd95f61d: Merge pull request #261 from elandau/2.x\n- f1109fe3ecad69558eefd32c058aad7f6d19d1dd: Move all packages to com.netflix.archaius (from netflix.archaius)\n- d489de65cfe11f8dcc41384acdad3a377b8a2de2: Merge pull request #260 from elandau/2.x\n- 89a4b8335d46a7aa173a5d4fe4e5131bc0ef5214: Update to latest code\n- afb9380789dd403888a815be99de2ce693ccd32c: Merge pull request #259 from elandau/2.x\n- f6db3cdf12703b0a9a794342fa4d5ad66ec08d46: Update doc\n- 68f2439a6fd416e7dd37c08dbd168c9498f6d308: Missing files\n- 6db4e65e7bd559fdb709cd430b8ecb9434c944cb: Cleanup Property classes and documentation\n- 1aec964f181ccd91c4b41702d68d13efeab9a41f: Merge pull request #257 from rspieldenner/2.x\n- 7b55b9fb5e09373b7d608666c5a38f9c74f50a2c: Convert to new netflixoss build and gradle 2.2.1\n- ea6dc5517923310af6a61bb71971c8195b6ce3a2: Fix some incorrect/incomplete javadoc and typos.\n- 428d4adcdaf30115d97a03cadd3c92cf98569083: Fix import formatting.\n- 52cac215c5f144d84c5711a130a5d3fd56347b68: Start to segregate property conversions from ObservableProperty.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

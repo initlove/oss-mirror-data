@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDI5MTM4Nzo3MzBiMjliN2VlZTc0Zjg0ZDljYmQ1M2U4ZjJlNTRiZjMxMWM5NTg4",
+  "sha": "730b29b7eee74f84d9cbd53e8f2e54bf311c9588",
+  "url": "https://api.github.com/repos/Netflix/archaius/git/tags/730b29b7eee74f84d9cbd53e8f2e54bf311c9588",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-03-24T22:41:06Z"
+  },
+  "object": {
+    "sha": "460776019b0b6cfc94675fc240a43403cd990c1b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/archaius/git/commits/460776019b0b6cfc94675fc240a43403cd990c1b"
+  },
+  "tag": "v2.0.1",
+  "message": "Release of 2.0.1\n\n- 460776019b0b6cfc94675fc240a43403cd990c1b: Merge pull request #395 from elandau/property-cache-fix\n- ad3f54ef3455329fb95e4559e03b745afa602f0b: Fix DefaultPropertyContainer so that it actually caches the new value and version stamp\n- 0a425e66972478c0a9eefa7eeca31ff1f8355e41: Merge pull request #394 from elandau/2.x-docs\n- dab31094b7559f92ec3671b1fc4ca5677f7d82eb: Document ConfigProxyFactory\n- 669b28f426e1c292152ed9fc62b0b5a766fd95ef: Merge pull request #393 from twicksell/testSupport\n- 584f4ad683b0a3d82d85468d4f9ea56b40468961: remove bad import\n- af8610fa05d3be1488d675cb6dbe71e35e4600a7: modified Archaius2TestConfig to actually implement Config add support for loading properties from files on the classpath add support for reading TestPropertyOverride from parent test classes\n- 13df1995afb5d06bc03fe4e587fdb0d9194f7a28: add junit rule Archaius2TestConfig to ease property overrides in testing\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6ZDRhYTQ3ZDZmNTg3NzkzMjAwOWIwZDNjZjE1NTQ3NTk5YmJjYWFkOA==",
+  "sha": "d4aa47d6f5877932009b0d3cf15547599bbcaad8",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/d4aa47d6f5877932009b0d3cf15547599bbcaad8",
+  "tagger": {
+    "name": "Yicheng Qin",
+    "email": "qycqycqycqycqyc@gmail.com",
+    "date": "2015-03-25T06:08:46Z"
+  },
+  "object": {
+    "sha": "0cb90e4bea279eb207be3478affac7cc02692bec",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/0cb90e4bea279eb207be3478affac7cc02692bec"
+  },
+  "tag": "v2.0.7",
+  "message": "- fix the bug that wal file is not removed in time\n- support bootstrap etcd using non-empty data directory\n- check given flags when join existing cluster\n- check that etcd parses all arguments\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVElI5AAoJEOdQvf2jMxAzJnEP/2zD72K60hUppIJH2DHDc8/O\nZco9TrXsJ7k6s2KVbU6Qf+YLTrV8JDYX5H71TLYaq4TXKsnpxfbTnwY0fvCDLxFw\nF3UrOIDfbhrlwScyOpJm2h+u7Vs4SkvdIU2sZOlyuu60pLWnJWCzCoaAl8fkpn6K\na4TUvYb+eT+HyMrW5sGUmEznSZky1m9JkXHjpF3i8HKaSmys2vDS4yFysZuUPX+f\nHMqgl+UKPZh3xf6y4Nm2PVcDTGUFWnzJXPs4MwZ+nsHZT4IgSvV8CCLCw6LYFvy4\nv24GJ2DY9hANxqcHc0H96wzEQyWDTfRxreNGgLan8Y61pM75aBE/5vC1pA8gR9V5\nncpyveV96Cgv9Lss+dJLo/w6bM+drCNpc0IZTKRabV8Vv89YIq3KJuSkA6qqlhEW\nEtiqzJZeEP947EA3Iw6G+rPQAsP3gR5bW24PBi/y9XBOcKO2PHO9gbhVxaPkPMDd\nrJFN09am2shR2JpqdRm+CB/UEr3ewIR8wF0slyjieMKhQVQw+oDort4q4mRsL/KB\nslcBIIEXXiQfFYoo+01fJu8tQK3pntRrnj1Zo16+JcecjlTnNp7f5FZLwvdMyb/8\nXwXZCC8igphOh8kLLci8b9RpYvNlmmjzd37+yel4R1lcXEOxfqTxDHfSBvCwl2kc\nHIbbhniSb9nm9/YWpAFE\n=f1Df\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVElI5AAoJEOdQvf2jMxAzJnEP/2zD72K60hUppIJH2DHDc8/O\nZco9TrXsJ7k6s2KVbU6Qf+YLTrV8JDYX5H71TLYaq4TXKsnpxfbTnwY0fvCDLxFw\nF3UrOIDfbhrlwScyOpJm2h+u7Vs4SkvdIU2sZOlyuu60pLWnJWCzCoaAl8fkpn6K\na4TUvYb+eT+HyMrW5sGUmEznSZky1m9JkXHjpF3i8HKaSmys2vDS4yFysZuUPX+f\nHMqgl+UKPZh3xf6y4Nm2PVcDTGUFWnzJXPs4MwZ+nsHZT4IgSvV8CCLCw6LYFvy4\nv24GJ2DY9hANxqcHc0H96wzEQyWDTfRxreNGgLan8Y61pM75aBE/5vC1pA8gR9V5\nncpyveV96Cgv9Lss+dJLo/w6bM+drCNpc0IZTKRabV8Vv89YIq3KJuSkA6qqlhEW\nEtiqzJZeEP947EA3Iw6G+rPQAsP3gR5bW24PBi/y9XBOcKO2PHO9gbhVxaPkPMDd\nrJFN09am2shR2JpqdRm+CB/UEr3ewIR8wF0slyjieMKhQVQw+oDort4q4mRsL/KB\nslcBIIEXXiQfFYoo+01fJu8tQK3pntRrnj1Zo16+JcecjlTnNp7f5FZLwvdMyb/8\nXwXZCC8igphOh8kLLci8b9RpYvNlmmjzd37+yel4R1lcXEOxfqTxDHfSBvCwl2kc\nHIbbhniSb9nm9/YWpAFE\n=f1Df\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0cb90e4bea279eb207be3478affac7cc02692bec\ntype commit\ntag v2.0.7\ntagger Yicheng Qin <qycqycqycqycqyc@gmail.com> 1427263726 -0700\n\n- fix the bug that wal file is not removed in time\n- support bootstrap etcd using non-empty data directory\n- check given flags when join existing cluster\n- check that etcd parses all arguments\n"
+  }
+}

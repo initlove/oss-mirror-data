@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU2MjM3OmVjN2UyNDdmNDU0YjBmOWVkN2VmZGIxNjhjMTdmMTc4NWM3ZWFkMTQ=",
+  "sha": "ec7e247f454b0f9ed7efdb168c17f1785c7ead14",
+  "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/tags/ec7e247f454b0f9ed7efdb168c17f1785c7ead14",
+  "tagger": {
+    "name": "Scott Schiller",
+    "email": "sm2@schillmania.com",
+    "date": "2011-07-05T19:21:22Z"
+  },
+  "object": {
+    "sha": "43e5ae432a40e82bbc6fcead6c4067aa581decf6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottschiller/SoundManager2/git/commits/43e5ae432a40e82bbc6fcead6c4067aa581decf6"
+  },
+  "tag": "V2.97a.20110705",
+  "message": "V2.97a.20110705 - improved HTML5/flash \"mixed mode\" via preferFlash, Safari + Snow Leopard HTML5 audio bug update, better ClickToFlash compatibility, minor demo tweaks\n\nImproved \"mixed mode\" HTML5/flash handling via new (experimental) preferFlash option, enabled by default. (If present, MP3/MP4 get flash for stability; HTML5 is used for other formats.) OS X 10.6.8 (finally?) fixes HTML5 audio in Safari. SoundManager 2 SWF adjusted to fall under ClickToFlash's \"invisible\" rules, may lower chance of blocking.\n\n    Bug fixes\n        ClickToFlash (Safari/Mac flashblock-style extension) compatibility improvement: Use width/height: auto on SWF instead of 100%. The latter is not recognized as being within ClickToFlash's <= 8x8px \"invisible flash\" rules, almost guaranteed to be blocked. (When considered \"invisible\", SWF is allowed to load normally if user has the invisibles option enabled.)\n        Flash blocking/handling improvements: Default #sm2-container size now always 8x8px to fall under \"invisible\" flash rules, better chance of load being allowed. If blocked and using flashblock.css, #sm2-container reverts to 48x48px at ontimeout() for visibility (so user can see, and unblock the flash bit.)\n        OS X 10.6.8 \"pre-Lion release\" update finally appears to have fixed the broken Safari HTML5 audio issue. Thus, audio was broken from OS X 10.6.3 to 10.6.7 and SM2 will use Flash for these known cases. Related: Testcase and Webkit bug #32159.\n        HTML5 audio: Playback now does not start after a setPosition() call (if the sound was not already playing), or if it was paused - matching the existing Flash API behaviour.\n        Fix ontimeout() queue incorrectly processing after onload() and successful startup.\n        Debug output: extraneous \"%s\" fixes for onready() / ontimeout()\n\n    API Updates\n\n        Added experimental soundManager.preferFlash (default:true) for a more consistent MP3/MP4 playback option in certain HTML5 cases. If using soundManager.useHTML5Audio + preferFlash and flash is available, flash will be used for MP3/MP4.\n\n        HTML5 is still new and relatively unstable, and bugs are yet to be found and fixed across a growing number of browsers/platforms etc. (consider that it was broken on Safari between OS X 10.6.3 and 10.6.7.) If flash is not installed or preferFlash = false, 100% HTML5 mode can still apply. In any event, HTML5 will still be used (if enabled) for all other formats.\n        Moved internal html5Only to (experimental) soundManager.html5Only, for detecting \"HTML5-only mode\" - eg., iOS, Safari without preferFlash or other environments where SM2 is operating without the flash portion of SM2.\n\n    Miscellaneous\n        Improved \"can play\" detection (canPlayURL() + canPlayMIME()) for HTML5 + flash cases. Increased \"getting impatient, waiting for flash\" message to 1 second.\n        360°, inline, MP3 button players: Event add/remove: use addEventListener based on typeof attachEvent === null (old IE behaviour)\n        MP3 player button demo: Fix IE 6/7 display issue on button (d'oh!)\n        Muxtape-style demo: Added pagePlayer.playPrevious(), to match pagePlayer.playNext() (call when a sound is currently playing.)\n        Fixed 360° player basic visualization demo (missing class in HTML), clarified canvas support (no eq/spectrum) re: IE <9.\n        360° UI: Old \"empty element doesn't catch mouse events\" bug apparently still applies to IE 9. Fix with invisible background image.\n        Minor homepage stylistic updates, source code order change for API docs (CTRL-F search now hits left column first)\n        Small debug output clean-up in SM2, object/embed, init etc.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZTAxYWZkYmI5YWQyZTNjMDkzYjM0ODlmY2M2NGRiMTcxYzI2MTJiMA==",
+  "sha": "e01afdbb9ad2e3c093b3489fcc64db171c2612b0",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/e01afdbb9ad2e3c093b3489fcc64db171c2612b0",
+  "tagger": {
+    "name": "Julien Gilli",
+    "email": "julien.gilli@joyent.com",
+    "date": "2015-06-22T19:52:49Z"
+  },
+  "object": {
+    "sha": "61c6abf00898fe00eb7fcf2c23ba0b01cf12034c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/61c6abf00898fe00eb7fcf2c23ba0b01cf12034c"
+  },
+  "tag": "v0.12.5",
+  "message": "2015.06.22, Version 0.12.5 (Stable)\n\n* openssl: upgrade to 1.0.1o (Addressing multiple CVEs)\n\n* npm: upgrade to 2.11.2\n\n* uv: upgrade to 1.6.1\n\n* V8: avoid deadlock when profiling is active (Dmitri Melikyan)\n\n* install: fix source path for openssl headers (Oguz Bastemur)\n\n* install: make sure opensslconf.h is overwritten (Oguz Bastemur)\n\n* timers: fix timeout when added in timer's callback (Julien Gilli)\n\n* windows: broadcast WM_SETTINGCHANGE after install (Mathias Küsel)\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJViGeRAAoJEFCjBR+IjGKNSIMP/R1wBqAjRNIxS3m4VHQmUgsX\n9E4IYd3zvBBMQ6xXOWwzz5BFpbwCiJbxDCnmBGpHzUZlIV3jVJKVLuOo1InwXBaa\nALLEcUoO3WxnWbLr6w4GYzHO041IxOFPjAiPSzuAGyq82c0FY3QjNRibGMPtPNeB\nMffvOHRlxDstCofQOSpq316VNEQBvPYqoVmts84B6OA9L4PptJukX82bZqpj9ttl\n53ZqKUPk/Z67t55A5s8PPddcfHZjnjhvNZxqQA8EWWCmiQ+u7xqgazT6fiXVAdb8\nxfMKzq7jjRe4YG7xvabx7+x6eKQ8DprWNRSmgyXfQ85AEXIxavB1RWbAd6pZrynj\nYHhqgtEZg4xsWOrffIAZlh7pF2qH/03dZBasVyOc1sCyXXYCf/8Q0IoVz+Wyeu/d\n5lKjpk0DFbGyX1z0cQ09icTqvWkvFW562xFBo+bQLqbPIQJ7Pp2c9fTkQhFcVF4N\n09+SnuuaeNm6Z7EwJzdmpIz3I+N2sNwl0ihSryDlcES7P7b+zPspsR5vUzEBYqPY\nrmPLAXHBbZP60RkOw/oO50vlsU6KcjGlaJ1Yk2skJMrapBAJoygZKMEIUI3vTQyU\ncRrrsXXrmPEz46T9T4Jj3OqIJFZx4x8aeNH+PWcouAY13QjfS3fkI2xezBqCUc3+\nf53qQZ4RawYuLyoalcWN\n=bn3i\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJViGeRAAoJEFCjBR+IjGKNSIMP/R1wBqAjRNIxS3m4VHQmUgsX\n9E4IYd3zvBBMQ6xXOWwzz5BFpbwCiJbxDCnmBGpHzUZlIV3jVJKVLuOo1InwXBaa\nALLEcUoO3WxnWbLr6w4GYzHO041IxOFPjAiPSzuAGyq82c0FY3QjNRibGMPtPNeB\nMffvOHRlxDstCofQOSpq316VNEQBvPYqoVmts84B6OA9L4PptJukX82bZqpj9ttl\n53ZqKUPk/Z67t55A5s8PPddcfHZjnjhvNZxqQA8EWWCmiQ+u7xqgazT6fiXVAdb8\nxfMKzq7jjRe4YG7xvabx7+x6eKQ8DprWNRSmgyXfQ85AEXIxavB1RWbAd6pZrynj\nYHhqgtEZg4xsWOrffIAZlh7pF2qH/03dZBasVyOc1sCyXXYCf/8Q0IoVz+Wyeu/d\n5lKjpk0DFbGyX1z0cQ09icTqvWkvFW562xFBo+bQLqbPIQJ7Pp2c9fTkQhFcVF4N\n09+SnuuaeNm6Z7EwJzdmpIz3I+N2sNwl0ihSryDlcES7P7b+zPspsR5vUzEBYqPY\nrmPLAXHBbZP60RkOw/oO50vlsU6KcjGlaJ1Yk2skJMrapBAJoygZKMEIUI3vTQyU\ncRrrsXXrmPEz46T9T4Jj3OqIJFZx4x8aeNH+PWcouAY13QjfS3fkI2xezBqCUc3+\nf53qQZ4RawYuLyoalcWN\n=bn3i\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 61c6abf00898fe00eb7fcf2c23ba0b01cf12034c\ntype commit\ntag v0.12.5\ntagger Julien Gilli <julien.gilli@joyent.com> 1435002769 -0700\n\n2015.06.22, Version 0.12.5 (Stable)\n\n* openssl: upgrade to 1.0.1o (Addressing multiple CVEs)\n\n* npm: upgrade to 2.11.2\n\n* uv: upgrade to 1.6.1\n\n* V8: avoid deadlock when profiling is active (Dmitri Melikyan)\n\n* install: fix source path for openssl headers (Oguz Bastemur)\n\n* install: make sure opensslconf.h is overwritten (Oguz Bastemur)\n\n* timers: fix timeout when added in timer's callback (Julien Gilli)\n\n* windows: broadcast WM_SETTINGCHANGE after install (Mathias Küsel)\n"
+  }
+}

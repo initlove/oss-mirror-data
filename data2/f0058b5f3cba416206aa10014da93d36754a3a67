@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZjAwNThiNWYzY2JhNDE2MjA2YWExMDAxNGRhOTNkMzY3NTRhM2E2Nw==",
+  "sha": "f0058b5f3cba416206aa10014da93d36754a3a67",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/f0058b5f3cba416206aa10014da93d36754a3a67",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2009-11-28T16:04:49Z"
+  },
+  "object": {
+    "sha": "aa42c6790da8ed2cd2b72051c07f6251fe1724d8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/aa42c6790da8ed2cd2b72051c07f6251fe1724d8"
+  },
+  "tag": "v0.1.20",
+  "message": "2009.11.28, Version 0.1.20\n\n  * Add gnutls version to configure script\n\n  * Add V8 heap info to process.memoryUsage()\n\n  * process.watchFile callback has 2 arguments with the stat object\n    (choonkeat@gmail.com)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

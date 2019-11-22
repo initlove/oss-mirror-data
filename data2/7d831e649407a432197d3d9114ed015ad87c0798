@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6N2Q4MzFlNjQ5NDA3YTQzMjE5N2QzZDkxMTRlZDAxNWFkODdjMDc5OA==",
+  "sha": "7d831e649407a432197d3d9114ed015ad87c0798",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/7d831e649407a432197d3d9114ed015ad87c0798",
+  "tagger": {
+    "name": "Yicheng Qin",
+    "email": "qycqycqycqycqyc@gmail.com",
+    "date": "2015-03-23T20:52:57Z"
+  },
+  "object": {
+    "sha": "e3c902228b1fefa8158583e167ae552622a24367",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/e3c902228b1fefa8158583e167ae552622a24367"
+  },
+  "tag": "v2.0.6",
+  "message": "- support IPv6 address in url flags\n- allow user provide a name without initial-cluster update\n- restrict that election timeout should be much bigger than heartbeat internval\n- improve the documentation about unsafe flags\n- fix the documentation about starting raft node\n- fix the bug that proxy fails to restart\n- fix the bug when cloning store stats\n- remove starter code\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVEH9kAAoJEOdQvf2jMxAzVw8P/RuAnPtoEV62OzMmDgPWTLVh\nISoLIUqAvChHxoM+gZ5t9jvEtNX504PjysJ2oLPiEihp0lHfOel+rvRnrDxika9o\nnvot1f4nATpw8WZHI+Xgg4PN1tlsIj4QPdWXR0y//gRzbvN2eQbH+UMUea9zSH5c\nL+Sk/YXTvucrT9fuP+Ow1x7taOQVvXuts7F/edKu3XJdmJ4ZkRe45vrbdjVlkRyt\nFYjF8LGRAk9JbHReGa//DSO4MW86qu0RUP6W7HmB26UJSoD+slird+C/5DX+T3DT\nbyZk6G8ydl2q3kmFdrjJnkznVRzWrrERtmv9F7aZtQugKyBsFrhPGKFtP0nLx28M\nxMY8AwuCGdSTPq+FxDsyelh1NVXwWqER7MPRNQjZB4POqP77o8hCv8mJb5x1hr1n\nYbVeIaNMZHL5u5luX5Y2CfXMTh+O7mTt9hj5WCJDMF1lLbIYOYu7AA5vzrkaByfd\nztg1ZKqp29383O7fdQaPrEJWgcnis3R48gjTKp9oZEu1Pkq7gExQMoKYF5YE6TRj\nnnmzFD6upUECcelIwJhGJsrfMX5FPnCcXTlNa4eutaSQTnViXdw4ozlAn5JKTWUF\neMtaWHSS4MJuBrpl3lQGw8KPkQ2d7lLsEUJBc6dvWHBZUEPuSAEzOpD90TmcxVa+\nQjWTjEwuCCBup+JuQJPa\n=+KEK\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVEH9kAAoJEOdQvf2jMxAzVw8P/RuAnPtoEV62OzMmDgPWTLVh\nISoLIUqAvChHxoM+gZ5t9jvEtNX504PjysJ2oLPiEihp0lHfOel+rvRnrDxika9o\nnvot1f4nATpw8WZHI+Xgg4PN1tlsIj4QPdWXR0y//gRzbvN2eQbH+UMUea9zSH5c\nL+Sk/YXTvucrT9fuP+Ow1x7taOQVvXuts7F/edKu3XJdmJ4ZkRe45vrbdjVlkRyt\nFYjF8LGRAk9JbHReGa//DSO4MW86qu0RUP6W7HmB26UJSoD+slird+C/5DX+T3DT\nbyZk6G8ydl2q3kmFdrjJnkznVRzWrrERtmv9F7aZtQugKyBsFrhPGKFtP0nLx28M\nxMY8AwuCGdSTPq+FxDsyelh1NVXwWqER7MPRNQjZB4POqP77o8hCv8mJb5x1hr1n\nYbVeIaNMZHL5u5luX5Y2CfXMTh+O7mTt9hj5WCJDMF1lLbIYOYu7AA5vzrkaByfd\nztg1ZKqp29383O7fdQaPrEJWgcnis3R48gjTKp9oZEu1Pkq7gExQMoKYF5YE6TRj\nnnmzFD6upUECcelIwJhGJsrfMX5FPnCcXTlNa4eutaSQTnViXdw4ozlAn5JKTWUF\neMtaWHSS4MJuBrpl3lQGw8KPkQ2d7lLsEUJBc6dvWHBZUEPuSAEzOpD90TmcxVa+\nQjWTjEwuCCBup+JuQJPa\n=+KEK\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e3c902228b1fefa8158583e167ae552622a24367\ntype commit\ntag v2.0.6\ntagger Yicheng Qin <qycqycqycqycqyc@gmail.com> 1427143977 -0700\n\n- support IPv6 address in url flags\n- allow user provide a name without initial-cluster update\n- restrict that election timeout should be much bigger than heartbeat internval\n- improve the documentation about unsafe flags\n- fix the documentation about starting raft node\n- fix the bug that proxy fails to restart\n- fix the bug when cloning store stats\n- remove starter code\n"
+  }
+}

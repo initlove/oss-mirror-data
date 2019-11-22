@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTMyNTgwMzk6ZWExNWU5ZjEzNGYxNTM0NDk4YjM5MGJmY2RlNGU3ZDEwNGEzMTYxNw==",
+  "sha": "ea15e9f134f1534498b390bfcde4e7d104a31617",
+  "url": "https://api.github.com/repos/aio-libs/aiohttp/git/tags/ea15e9f134f1534498b390bfcde4e7d104a31617",
+  "tagger": {
+    "name": "Nikolay Kim",
+    "email": "fafhrd91@gmail.com",
+    "date": "2014-12-12T19:53:00Z"
+  },
+  "object": {
+    "sha": "f8826af316292e3092fe88fe468fd3936a4cd65f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/aio-libs/aiohttp/git/commits/f8826af316292e3092fe88fe468fd3936a4cd65f"
+  },
+  "tag": "v0.12.0",
+  "message": "aiohttp 0.12.0 major release. This release is not backward compatible.\n\nCHANGES\n=======\n\n- Automatically force aiohttp.web handlers to coroutines in\n  `UrlDispatcher.add_route()` #186\n\n- Rename `Request.POST()` function to `Request.post()`\n\n- Added POST attribute\n\n- Response processing refactoring\n\n- Pass application instance to finish callback\n\n- Exceptions refactoring\n\n- Do not unquote query string in `aiohttp.web.Request`\n\n- Fix concurrent access to payload in `RequestHandle.handle_request()`\n\n- Add access logging to `aiohttp.web`\n\n- Gunicorn worker for `aiohttp.web`\n\n- Removed deprecated `AsyncGunicornWorker`\n\n- Removed deprecated HttpClient\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

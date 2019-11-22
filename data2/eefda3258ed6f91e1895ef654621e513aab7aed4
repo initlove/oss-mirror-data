@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6ZWVmZGEzMjU4ZWQ2ZjkxZTE4OTVlZjY1NDYyMWU1MTNhYWI3YWVkNA==",
+  "sha": "eefda3258ed6f91e1895ef654621e513aab7aed4",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/eefda3258ed6f91e1895ef654621e513aab7aed4",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2010-12-17T17:52:07Z"
+  },
+  "object": {
+    "sha": "4bb914bde9f3c2d6de00853353b6b8fc9c66143a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/4bb914bde9f3c2d6de00853353b6b8fc9c66143a"
+  },
+  "tag": "v0.3.2",
+  "message": "2010.12.16, Version 0.3.2 (unstable)\n\n* Rip out the old (broken) TLS implementation introduce new tested\n  implementation and API. See docs. HTTPS not supported in this release.\n\n* Introduce 'os' and 'tty' modules.\n\n* Callback parameters for socket.write() and socket.connect().\n\n* Support CNAME lookups in DNS module. (Ben Noordhuis)\n\n* cmake support (Tom Hughes)\n\n* 'make lint'\n\n* oprofile support (./configure --oprofile)\n\n* Lots of bug fixes, including:\n  - Memory leak in ChildProcess:Spawn(). (Tom Hughes)\n  - buffer.slice(0, 0)\n  - Global variable leaks\n  - clearTimeouts calling multiple times (Michael W)\n  - utils.inspect's detection of circular structures (Tim Cooijmans)\n  - Apple's threaded write()s bug (Jorge Chamorro Bieling)\n  - Make sure raw mode is disabled when exiting a terminal-based REPL.\n    (Brian White)\n\n* Deprecate process.compile, process.ENV\n\n* Upgrade V8 to 3.0.3, upgrade http-parser.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

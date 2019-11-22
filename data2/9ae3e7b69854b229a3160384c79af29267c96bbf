@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6OWFlM2U3YjY5ODU0YjIyOWEzMTYwMzg0Yzc5YWYyOTI2N2M5NmJiZg==",
+  "sha": "9ae3e7b69854b229a3160384c79af29267c96bbf",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/9ae3e7b69854b229a3160384c79af29267c96bbf",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-06-11T15:57:02Z"
+  },
+  "object": {
+    "sha": "8d9766a9dfb1eea901219d2a865ce9300fe4d68e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/8d9766a9dfb1eea901219d2a865ce9300fe4d68e"
+  },
+  "tag": "v0.7.10",
+  "message": "2012.06.11, Version 0.7.10 (unstable)\n\n* Roll V8 back to 3.9.24.31\n\n* build: x64 target should always pass -m64 (Robert Mustacchi)\n\n* add NODE_EXTERN to node::Start (Joel Brandt)\n\n* repl: Warn about running npm commands (isaacs)\n\n* slab_allocator: fix crash in dtor if V8 is dead (Ben Noordhuis)\n\n* slab_allocator: fix leak of Persistent handles (Shigeki Ohtsu)\n\n* windows/msi: add node.js prompt to startmenu (Jeroen Janssen)\n\n* windows/msi: fix adding node to PATH (Jeroen Janssen)\n\n* windows/msi: add start menu links when installing (Jeroen Janssen)\n\n* windows: don't install x64 version into the 'program files (x86)' folder (Matt Gollob)\n\n* domain: Fix #3379 domain.intercept no longer passes error arg to cb (Marc Harter)\n\n* fs: make callbacks run in global context (Ben Noordhuis)\n\n* fs: enable fs.realpath on windows (isaacs)\n\n* child_process: expose UV_PROCESS_DETACHED as options.detached (Charlie McConnell)\n\n* child_process: new stdio API for .spawn() method (Fedor Indutny)\n\n* child_process: spawn().ref() and spawn().unref() (Fedor Indutny)\n\n* Upgrade npm to 1.1.25\n- Enable npm link on windows\n- Properly remove sh-shim on Windows\n- Abstract out registry client and logger\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJP1hVOAAoJELCniwpsSBz2xYAIAJdRvvub4r/ZWe6td6jrzkqO\nHcj/lnr8ktLR2uLGhZcDg1UrDiQnELr1SnrM2N+89851kJaFxcLFv10M3Pk311lV\nh6ZwD68aM7fbXS5UvH5vGFNar99sf19jQYs42iQcITL1q8FwpG0QC+6SEaP4Ttl/\nLQWbJ/nQEodqaYW0XDKbAV9TyQCey0BwVf5PQ+oVL+DxFsKDvnTkJX0EGhU7HqtW\njYeSM16eelcAeWw8YYbfwXIVUTYRULwlDhLbYqKTCWtDORDL0arElT+CWRUvc3r7\nwVqLqgBbrkos0EewOYE/ho88KlXbZflq3tXIT1Y2h02s/e4j8iCiY9a4doqdcSY=\n=FaNF\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJP1hVOAAoJELCniwpsSBz2xYAIAJdRvvub4r/ZWe6td6jrzkqO\nHcj/lnr8ktLR2uLGhZcDg1UrDiQnELr1SnrM2N+89851kJaFxcLFv10M3Pk311lV\nh6ZwD68aM7fbXS5UvH5vGFNar99sf19jQYs42iQcITL1q8FwpG0QC+6SEaP4Ttl/\nLQWbJ/nQEodqaYW0XDKbAV9TyQCey0BwVf5PQ+oVL+DxFsKDvnTkJX0EGhU7HqtW\njYeSM16eelcAeWw8YYbfwXIVUTYRULwlDhLbYqKTCWtDORDL0arElT+CWRUvc3r7\nwVqLqgBbrkos0EewOYE/ho88KlXbZflq3tXIT1Y2h02s/e4j8iCiY9a4doqdcSY=\n=FaNF\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8d9766a9dfb1eea901219d2a865ce9300fe4d68e\ntype commit\ntag v0.7.10\ntagger isaacs <i@izs.me> 1339430222 -0700\n\n2012.06.11, Version 0.7.10 (unstable)\n\n* Roll V8 back to 3.9.24.31\n\n* build: x64 target should always pass -m64 (Robert Mustacchi)\n\n* add NODE_EXTERN to node::Start (Joel Brandt)\n\n* repl: Warn about running npm commands (isaacs)\n\n* slab_allocator: fix crash in dtor if V8 is dead (Ben Noordhuis)\n\n* slab_allocator: fix leak of Persistent handles (Shigeki Ohtsu)\n\n* windows/msi: add node.js prompt to startmenu (Jeroen Janssen)\n\n* windows/msi: fix adding node to PATH (Jeroen Janssen)\n\n* windows/msi: add start menu links when installing (Jeroen Janssen)\n\n* windows: don't install x64 version into the 'program files (x86)' folder (Matt Gollob)\n\n* domain: Fix #3379 domain.intercept no longer passes error arg to cb (Marc Harter)\n\n* fs: make callbacks run in global context (Ben Noordhuis)\n\n* fs: enable fs.realpath on windows (isaacs)\n\n* child_process: expose UV_PROCESS_DETACHED as options.detached (Charlie McConnell)\n\n* child_process: new stdio API for .spawn() method (Fedor Indutny)\n\n* child_process: spawn().ref() and spawn().unref() (Fedor Indutny)\n\n* Upgrade npm to 1.1.25\n- Enable npm link on windows\n- Properly remove sh-shim on Windows\n- Abstract out registry client and logger\n"
+  }
+}

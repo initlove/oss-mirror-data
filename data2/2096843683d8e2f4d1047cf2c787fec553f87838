@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OToyMDk2ODQzNjgzZDhlMmY0ZDEwNDdjZjJjNzg3ZmVjNTUzZjg3ODM4",
+  "sha": "2096843683d8e2f4d1047cf2c787fec553f87838",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/2096843683d8e2f4d1047cf2c787fec553f87838",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-10-29T09:40:41Z"
+  },
+  "object": {
+    "sha": "d54b3a5926631f159078ef7c47a1a3072827964a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/d54b3a5926631f159078ef7c47a1a3072827964a"
+  },
+  "tag": "5.2.0",
+  "message": "Version 5.2.0\n\n### Bug fixes\n\nFix token context tracking for `class` and `function` in property-name position.\n\nMake sure `%*` isn't parsed as a valid operator.\n\nThe `full` and `fullAncestor` walkers no longer visit nodes multiple times.\n\nAllow shorthand properties `get` and `set` to be followed by default values.\n\nDisallow `super` when not in callee or object position.\n\n### New features\n\nSupport [`directive` property](https://github.com/estree/estree/compare/b3de58c9997504d6fba04b72f76e6dd1619ee4eb...1da8e603237144f44710360f8feb7a9977e905e0) on directive expression statements.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAln1oioACgkQcD8b7W0z\nrh7DMQgAn2WBTWW5Qjl1mjUEXJPGVuZZgVet3PdZZx0PDpOi6yt46Iyz/e2vj/KR\n7t+Yq9uhFNa4ujXOCRWPofbYIbhkJufskNQBqXuNm5x2unTxr0t1YBcNe05VJHYu\nYd2rT2aAA3kwx9eaWH9dvQiBfnuFO6EAkql2AKQJiYo1yiYJ0BEscK7Se+9U2rvn\nvTz+2awUIXiqHacWKqoY6O9tizM20A+VlQZdRWxR0ORZDQXcxpHY4oHZ4y3eHLe0\nuCTilfkh4R95E3WA58H92ryvRJxuG0hhLYbXcuuJSqChypZBQ3Uus9msjpcQ71X9\nbPkP6h7xbU4U706nwM+X2+W352CmUg==\n=JUi5\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAln1oioACgkQcD8b7W0z\nrh7DMQgAn2WBTWW5Qjl1mjUEXJPGVuZZgVet3PdZZx0PDpOi6yt46Iyz/e2vj/KR\n7t+Yq9uhFNa4ujXOCRWPofbYIbhkJufskNQBqXuNm5x2unTxr0t1YBcNe05VJHYu\nYd2rT2aAA3kwx9eaWH9dvQiBfnuFO6EAkql2AKQJiYo1yiYJ0BEscK7Se+9U2rvn\nvTz+2awUIXiqHacWKqoY6O9tizM20A+VlQZdRWxR0ORZDQXcxpHY4oHZ4y3eHLe0\nuCTilfkh4R95E3WA58H92ryvRJxuG0hhLYbXcuuJSqChypZBQ3Uus9msjpcQ71X9\nbPkP6h7xbU4U706nwM+X2+W352CmUg==\n=JUi5\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d54b3a5926631f159078ef7c47a1a3072827964a\ntype commit\ntag 5.2.0\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1509270041 +0100\n\nVersion 5.2.0\n\n### Bug fixes\n\nFix token context tracking for `class` and `function` in property-name position.\n\nMake sure `%*` isn't parsed as a valid operator.\n\nThe `full` and `fullAncestor` walkers no longer visit nodes multiple times.\n\nAllow shorthand properties `get` and `set` to be followed by default values.\n\nDisallow `super` when not in callee or object position.\n\n### New features\n\nSupport [`directive` property](https://github.com/estree/estree/compare/b3de58c9997504d6fba04b72f76e6dd1619ee4eb...1da8e603237144f44710360f8feb7a9977e905e0) on directive expression statements.\n"
+  }
+}

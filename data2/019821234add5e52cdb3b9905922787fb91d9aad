@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OTowMTk4MjEyMzRhZGQ1ZTUyY2RiM2I5OTA1OTIyNzg3ZmI5MWQ5YWFk",
+  "sha": "019821234add5e52cdb3b9905922787fb91d9aad",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/019821234add5e52cdb3b9905922787fb91d9aad",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2019-07-20T14:29:59Z"
+  },
+  "object": {
+    "sha": "77c20fa2c2f490e646b67e6a0ff7e75fb54ab6c8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/77c20fa2c2f490e646b67e6a0ff7e75fb54ab6c8"
+  },
+  "tag": "6.2.1",
+  "message": "Version 6.2.1\n\n### Bug fixes\n\nFix bug causing Acorn to treat some characters as identifier characters that shouldn't be treated as such.\n\nFix issue where setting the `allowReserved` option to `\"never\"` allowed reserved words in some circumstances.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAl0zJW4ACgkQcD8b7W0z\nrh6kGQf8ChQLdUmjwfHzSLfvNbQjFWkQa/jAvPtR2hIFEuoKOl6acrUsPLGzXRFj\n1rKlntj6AK4CLqKdIBlzKJAmEtdyDIT/+ei3SyQ1KDT9J/L7yDa2fWzq3yVCEuTH\naFTIPw60Ar2r11cIkBLbPgdrKx4CaeIezJJ6nFFCOm2vEuRZlvYslDnOfK97xnNO\nbRf33LlT+IykeH4gNwsVVXBxYKXeO9efyTBAPtLJA3soBHOdanjCGBJTbiNvj5lM\nGYQko6sGuNmfBxWlVjAoNxelTJzyLLv0i9KPtquapjo5IF32739tjAq4F8x2XhiX\npx+QmCufTAQPPls+tkIUweXTZyiMdA==\n=4TTu\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAl0zJW4ACgkQcD8b7W0z\nrh6kGQf8ChQLdUmjwfHzSLfvNbQjFWkQa/jAvPtR2hIFEuoKOl6acrUsPLGzXRFj\n1rKlntj6AK4CLqKdIBlzKJAmEtdyDIT/+ei3SyQ1KDT9J/L7yDa2fWzq3yVCEuTH\naFTIPw60Ar2r11cIkBLbPgdrKx4CaeIezJJ6nFFCOm2vEuRZlvYslDnOfK97xnNO\nbRf33LlT+IykeH4gNwsVVXBxYKXeO9efyTBAPtLJA3soBHOdanjCGBJTbiNvj5lM\nGYQko6sGuNmfBxWlVjAoNxelTJzyLLv0i9KPtquapjo5IF32739tjAq4F8x2XhiX\npx+QmCufTAQPPls+tkIUweXTZyiMdA==\n=4TTu\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 77c20fa2c2f490e646b67e6a0ff7e75fb54ab6c8\ntype commit\ntag 6.2.1\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1563632999 +0200\n\nVersion 6.2.1\n\n### Bug fixes\n\nFix bug causing Acorn to treat some characters as identifier characters that shouldn't be treated as such.\n\nFix issue where setting the `allowReserved` option to `\"never\"` allowed reserved words in some circumstances.\n"
+  }
+}

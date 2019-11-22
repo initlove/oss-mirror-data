@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NWUwYWQwZDQzYzIxNDA5ZTc1Y2I4YWQ2ZTE1NGU2NDMwZTgzNDRlMg==",
+  "sha": "5e0ad0d43c21409e75cb8ad6e154e6430e8344e2",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/5e0ad0d43c21409e75cb8ad6e154e6430e8344e2",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2011-10-11T01:18:59Z"
+  },
+  "object": {
+    "sha": "3bd9b08fb125b606f97a4079b147accfdeebb07d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/3bd9b08fb125b606f97a4079b147accfdeebb07d"
+  },
+  "tag": "v0.5.9",
+  "message": "2011.10.10, Version 0.5.9 (unstable)\n\n* fs.watch interface backed by kqueue, inotify, and ReadDirectoryChangesW\n  (Igor Zinkovsky, Ben Noordhuis)\n\n* add dns.resolveTxt (Christian Tellnes)\n\n* Remove legacy http library (Ben Noordhuis)\n\n* child_process.fork returns and works on Windows. Allows passing handles.\n  (Igor Zinkovsky, Bert Belder)\n\n* #1774 Lint and clean up for --harmony_block_scoping (Tyler Larson, Colton\n  Baker)\n\n* #1813 Fix ctrl+c on Windows (Bert Belder)\n\n* #1844 unbreak --use-legacy (Ben Noordhuis)\n\n* process.stderr now goes through libuv. Both process.stdout and\n  process.stderr are blocking when referencing a TTY.\n\n* net_uv performance improvements (Ben Noordhuis, Bert Belder)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

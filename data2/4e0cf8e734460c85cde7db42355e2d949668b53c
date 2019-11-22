@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDMxOjRlMGNmOGU3MzQ0NjBjODVjZGU3ZGI0MjM1NWUyZDk0OTY2OGI1M2M=",
+  "sha": "4e0cf8e734460c85cde7db42355e2d949668b53c",
+  "url": "https://api.github.com/repos/openstack/nova/git/tags/4e0cf8e734460c85cde7db42355e2d949668b53c",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-24T23:03:54Z"
+  },
+  "object": {
+    "sha": "946c26e077b70ff874234bd3b5f505bc075135bf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/nova/git/commits/946c26e077b70ff874234bd3b5f505bc075135bf"
+  },
+  "tag": "17.0.10",
+  "message": "nova 17.0.10 release\n\nmeta:version: 17.0.10\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I3fe892dc5ecdf84778cd05aaf7bfd7c79c90e1e3\nmeta:release:Code-Review+1: melanie witt <melwittt@gmail.com>\nmeta:release:Code-Review+1: Eric Fried <openstack@fried.cc>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyYDNoZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOBJ7C/0W6o324IwuaqF/zScRST4U\nJnF/LEYoxAgFoeiDWjP15bXb0hjcYWjEU0mREyWE7z3qotvgDNSJdlIR5ODxFB27\nv4SbKmb2b1+occJhF38ChsJNdNniCXoZLiamfiElKurdOjbgzq12eLX91oWhMvAs\nGCoNwwvmGdtxqXoby16Q3STPKprpJ6aQ1V9e6d+4aOZpCZnBcb0FfSm1JUgAFYNA\nJ8LgP3HRp5HGUwHT4iiybZ8xeqxTTcOee215UNvoKhxUdRTr+6/JM+4M48qh2QTc\nQdCiLTINE3Na503ZBE1oh8oGCNI30ZPOfLpfan8KqIN43Z0zbxEQ7ab8Y8isN1Kc\n84goTQs5tEJFYdLuIXAYXA9dfOEGc9uIOO/k4PjjyCa5ks9DOsKlv+JwEfw3a3j/\nVOv/3qjzapS1b/WSTzccsWEn4hi47vVcVtnenjzfarwJSMY5XJ7iBSkTW9PU9GI5\nNV3uSgytPx6tErE27A1EmWLJsDscXuJqjM0/dwaXRyI=\n=ui+2\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyYDNoZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOBJ7C/0W6o324IwuaqF/zScRST4U\nJnF/LEYoxAgFoeiDWjP15bXb0hjcYWjEU0mREyWE7z3qotvgDNSJdlIR5ODxFB27\nv4SbKmb2b1+occJhF38ChsJNdNniCXoZLiamfiElKurdOjbgzq12eLX91oWhMvAs\nGCoNwwvmGdtxqXoby16Q3STPKprpJ6aQ1V9e6d+4aOZpCZnBcb0FfSm1JUgAFYNA\nJ8LgP3HRp5HGUwHT4iiybZ8xeqxTTcOee215UNvoKhxUdRTr+6/JM+4M48qh2QTc\nQdCiLTINE3Na503ZBE1oh8oGCNI30ZPOfLpfan8KqIN43Z0zbxEQ7ab8Y8isN1Kc\n84goTQs5tEJFYdLuIXAYXA9dfOEGc9uIOO/k4PjjyCa5ks9DOsKlv+JwEfw3a3j/\nVOv/3qjzapS1b/WSTzccsWEn4hi47vVcVtnenjzfarwJSMY5XJ7iBSkTW9PU9GI5\nNV3uSgytPx6tErE27A1EmWLJsDscXuJqjM0/dwaXRyI=\n=ui+2\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 946c26e077b70ff874234bd3b5f505bc075135bf\ntype commit\ntag 17.0.10\ntagger OpenStack Release Bot <infra-root@openstack.org> 1553468634 +0000\n\nnova 17.0.10 release\n\nmeta:version: 17.0.10\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I3fe892dc5ecdf84778cd05aaf7bfd7c79c90e1e3\nmeta:release:Code-Review+1: melanie witt <melwittt@gmail.com>\nmeta:release:Code-Review+1: Eric Fried <openstack@fried.cc>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

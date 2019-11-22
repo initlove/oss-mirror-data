@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6NWFmYTVjNDMyN2ZmOGZlZWI3NDBiY2U3NjdkMzA0YjllZjU3YTdhYQ==",
+  "sha": "5afa5c4327ff8feeb740bce767d304b9ef57a7aa",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/5afa5c4327ff8feeb740bce767d304b9ef57a7aa",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2012-03-15T17:30:22Z"
+  },
+  "object": {
+    "sha": "9f7f86b534f8556290eb8cad915984ff4ca54996",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/9f7f86b534f8556290eb8cad915984ff4ca54996"
+  },
+  "tag": "v0.6.13",
+  "message": "2012.03.15 Version 0.6.13 (stable)\n\n* Windows: Many libuv test fixes (Bert Belder)\n\n* Windows: avoid uv_guess_handle crash in when fd < 0 (Bert Belder)\n\n* Map EBUSY and ENOTEMPTY errors (Bert Belder)\n\n* Windows: include syscall in fs errors (Bert Belder)\n\n* Fix fs.watch ENOSYS on Linux kernel version mismatch (Ben Noordhuis)\n\n* Update npm to 1.1.9\n  - upgrade node-gyp to 0.3.5 (Nathan Rajlich)\n  - Fix isaacs/npm#2249 Add cache-max and cache-min configs\n  - Properly redirect across https/http registry requests\n  - log config usage if undefined key in set function (Kris Windham)\n  - Add support for os/cpu fields in package.json (Adam Blackburn)\n  - Automatically node-gyp packages containing a binding.gyp\n  - Fix failures unpacking in UNC shares\n  - Never create un-listable directories\n  - Handle cases where an optionalDependency fails to build\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPYicuAAoJELCniwpsSBz2jWUH/iVPVpouNF3vr9MBLVHhSMys\nPz47PPliW+E9iEcy+GsKJ1ealnGYDDbM9VCYU95+J4wmJMzAnlJbdqCLC3RJtsO1\nI8Xz64T8EeVWkkf85DMenDG81hNoq6F11fzGHZPXzXOkhivX81CjrrI7AnTLIVvs\nrxS5/PpPxn15GPJamolxtYIusrfELIyWDNS072dhcM9fF861XqnddJSuXjQDSzro\nx/kCrcs6gYw3kCx1JCgFRCwiJbWg+Js7eXVVdVw1bwHKUWcfrFdTVfyVyUSukTSj\nVN1euKnD1l8kfW5IDv6Xu9SVqawUwgJwHsvaOa41/N9VXnWNx3rKfL695PLeWJE=\n=ucmL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJPYicuAAoJELCniwpsSBz2jWUH/iVPVpouNF3vr9MBLVHhSMys\nPz47PPliW+E9iEcy+GsKJ1ealnGYDDbM9VCYU95+J4wmJMzAnlJbdqCLC3RJtsO1\nI8Xz64T8EeVWkkf85DMenDG81hNoq6F11fzGHZPXzXOkhivX81CjrrI7AnTLIVvs\nrxS5/PpPxn15GPJamolxtYIusrfELIyWDNS072dhcM9fF861XqnddJSuXjQDSzro\nx/kCrcs6gYw3kCx1JCgFRCwiJbWg+Js7eXVVdVw1bwHKUWcfrFdTVfyVyUSukTSj\nVN1euKnD1l8kfW5IDv6Xu9SVqawUwgJwHsvaOa41/N9VXnWNx3rKfL695PLeWJE=\n=ucmL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9f7f86b534f8556290eb8cad915984ff4ca54996\ntype commit\ntag v0.6.13\ntagger isaacs <i@izs.me> 1331832622 -0700\n\n2012.03.15 Version 0.6.13 (stable)\n\n* Windows: Many libuv test fixes (Bert Belder)\n\n* Windows: avoid uv_guess_handle crash in when fd < 0 (Bert Belder)\n\n* Map EBUSY and ENOTEMPTY errors (Bert Belder)\n\n* Windows: include syscall in fs errors (Bert Belder)\n\n* Fix fs.watch ENOSYS on Linux kernel version mismatch (Ben Noordhuis)\n\n* Update npm to 1.1.9\n  - upgrade node-gyp to 0.3.5 (Nathan Rajlich)\n  - Fix isaacs/npm#2249 Add cache-max and cache-min configs\n  - Properly redirect across https/http registry requests\n  - log config usage if undefined key in set function (Kris Windham)\n  - Add support for os/cpu fields in package.json (Adam Blackburn)\n  - Automatically node-gyp packages containing a binding.gyp\n  - Fix failures unpacking in UNC shares\n  - Never create un-listable directories\n  - Handle cases where an optionalDependency fails to build\n"
+  }
+}

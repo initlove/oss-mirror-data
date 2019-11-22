@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDgwNzQ1MTg6OWFjZDA5ZmRiNGIzMTA1OWM2YmY4Yjk1YTI4NTIyZmJmZWVhYTQ0Zg==",
+  "sha": "9acd09fdb4b31059c6bf8b95a28522fbfeeaa44f",
+  "url": "https://api.github.com/repos/intel/QAT_Engine/git/tags/9acd09fdb4b31059c6bf8b95a28522fbfeeaa44f",
+  "tagger": {
+    "name": "Steve Linsell",
+    "email": "stevenx.linsell@intel.com",
+    "date": "2016-08-05T11:35:06Z"
+  },
+  "object": {
+    "sha": "6fd180bcff201f8459c0b46d619b1d179293bbde",
+    "type": "commit",
+    "url": "https://api.github.com/repos/intel/QAT_Engine/git/commits/6fd180bcff201f8459c0b46d619b1d179293bbde"
+  },
+  "tag": "v0.5.2",
+  "message": "Release v0.5.2 contains the following changes:\n* Fix support for building with the Common Memory Driver\n* Fix issue where Engine Initialization Messages can fail due to a NULL instance.\n* Add Support for Upstream Intel Quickassist Technology Driver\n* Fix to checking return status of qat_ecdh_compute_key call\n* Change to use an Autotools generated configure script for installation\n* Update to documentation - make depend order.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

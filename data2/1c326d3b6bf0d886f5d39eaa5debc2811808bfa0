@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEyMjUwMTQ6MWMzMjZkM2I2YmYwZDg4NmY1ZDM5ZWFhNWRlYmMyODExODA4YmZhMA==",
+  "sha": "1c326d3b6bf0d886f5d39eaa5debc2811808bfa0",
+  "url": "https://api.github.com/repos/etcd-io/etcd/git/tags/1c326d3b6bf0d886f5d39eaa5debc2811808bfa0",
+  "tagger": {
+    "name": "Yicheng Qin",
+    "email": "qycqycqycqycqyc@gmail.com",
+    "date": "2015-04-22T22:45:04Z"
+  },
+  "object": {
+    "sha": "fbaef0588533149aa5cdb5091a2053c2bc328575",
+    "type": "commit",
+    "url": "https://api.github.com/repos/etcd-io/etcd/git/commits/fbaef0588533149aa5cdb5091a2053c2bc328575"
+  },
+  "tag": "v2.0.10",
+  "message": "- proxy shuffles endpoints to avoid being stuck to one member\n- stop using resolved address to avoid TLS failure\n- fix the bug that machine power-off might lead to corrupted wal\n- fix the bug that etcdserver.Send does not print correct error log for messages to removed members\n- etcdctl backup tool uses new file layout\n- fix the bug that PUT request with prevExist=true and prevIndex/prevValue set is not parsed to CompareAndSwap\n- fix the bug that etcd failed to recovery from recoverable WALs\n- improve etcdctl help doc by adding ‘extended’ to output format\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVOCnOAAoJEOdQvf2jMxAzWAMP/AicZvDREH5OLSe/fBWb7eIl\nh7eCZj28DBQ+M93lhVzinJ1HrD1wCQ/LfEF5lgL28tD32qlck6t8dGXCRfi2yuGr\n2wrjPdhNu3GOCQU4G4733JcMfZBBGb6smqc5Uh2HHoktuAZtZelVBSyVHnxaX4WK\nFKAWESUgVcTuHzBeHgEc8UL/LybnTe0G/6dM381ozlffBEq+sRMiBwQ0QGuD5oli\nEXj5Ja7fjifTl7ZojdzLx1CGE7yesRQhAJwEIa9hOR0GwN0deTkk7WBAUASPDTLx\nBdGmSar4eKjQF8S4kOoptZuXK9Po3fxiDlhyoUVV6yvdLJUm5yStLK6H+/Pvq8s8\ndLUAgNKlkyXxYYRWwLYsZaG29cIFwcC8TV7L+jJeKjqM00DVYqU7MrxxOXdonQqh\nvE41cTGTW8uKc9T8/F6jnvz2/iHTHcoSYWIeRyh6hre49K6cuAyQ9jtLdzx9oGhB\nzi81eqHabEBI/XVRycs6zSN/3dedxgZvEEnmMEOpfvZinFbBlSstW/00/3GnrCns\n3SSXJC3sJ0xGfTTuKOXLbMVlmUIIZw1XANZz0RtG0QaXWGxLlsFarR+I1mDwcc6b\nQ2Q9CGFUCrJRdGQbvbd+2o2A3LsHTkWDJPBJUBgS1fiKiN3YVDU333FxTi0+cCwS\nCdvvTDIsZZM5Xh46cAh3\n=lJML\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJVOCnOAAoJEOdQvf2jMxAzWAMP/AicZvDREH5OLSe/fBWb7eIl\nh7eCZj28DBQ+M93lhVzinJ1HrD1wCQ/LfEF5lgL28tD32qlck6t8dGXCRfi2yuGr\n2wrjPdhNu3GOCQU4G4733JcMfZBBGb6smqc5Uh2HHoktuAZtZelVBSyVHnxaX4WK\nFKAWESUgVcTuHzBeHgEc8UL/LybnTe0G/6dM381ozlffBEq+sRMiBwQ0QGuD5oli\nEXj5Ja7fjifTl7ZojdzLx1CGE7yesRQhAJwEIa9hOR0GwN0deTkk7WBAUASPDTLx\nBdGmSar4eKjQF8S4kOoptZuXK9Po3fxiDlhyoUVV6yvdLJUm5yStLK6H+/Pvq8s8\ndLUAgNKlkyXxYYRWwLYsZaG29cIFwcC8TV7L+jJeKjqM00DVYqU7MrxxOXdonQqh\nvE41cTGTW8uKc9T8/F6jnvz2/iHTHcoSYWIeRyh6hre49K6cuAyQ9jtLdzx9oGhB\nzi81eqHabEBI/XVRycs6zSN/3dedxgZvEEnmMEOpfvZinFbBlSstW/00/3GnrCns\n3SSXJC3sJ0xGfTTuKOXLbMVlmUIIZw1XANZz0RtG0QaXWGxLlsFarR+I1mDwcc6b\nQ2Q9CGFUCrJRdGQbvbd+2o2A3LsHTkWDJPBJUBgS1fiKiN3YVDU333FxTi0+cCwS\nCdvvTDIsZZM5Xh46cAh3\n=lJML\n-----END PGP SIGNATURE-----\n",
+    "payload": "object fbaef0588533149aa5cdb5091a2053c2bc328575\ntype commit\ntag v2.0.10\ntagger Yicheng Qin <qycqycqycqycqyc@gmail.com> 1429742704 -0700\n\n- proxy shuffles endpoints to avoid being stuck to one member\n- stop using resolved address to avoid TLS failure\n- fix the bug that machine power-off might lead to corrupted wal\n- fix the bug that etcdserver.Send does not print correct error log for messages to removed members\n- etcdctl backup tool uses new file layout\n- fix the bug that PUT request with prevExist=true and prevIndex/prevValue set is not parsed to CompareAndSwap\n- fix the bug that etcd failed to recovery from recoverable WALs\n- improve etcdctl help doc by adding ‘extended’ to output format\n"
+  }
+}

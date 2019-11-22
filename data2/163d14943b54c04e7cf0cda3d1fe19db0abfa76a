@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTkzMjc0OToxNjNkMTQ5NDNiNTRjMDRlN2NmMGNkYTNkMWZlMTlkYjBhYmZhNzZh",
+  "sha": "163d14943b54c04e7cf0cda3d1fe19db0abfa76a",
+  "url": "https://api.github.com/repos/acornjs/acorn/git/tags/163d14943b54c04e7cf0cda3d1fe19db0abfa76a",
+  "tagger": {
+    "name": "Marijn Haverbeke",
+    "email": "marijn@haverbeke.nl",
+    "date": "2017-02-02T23:52:48Z"
+  },
+  "object": {
+    "sha": "0b71d219a58ca09e5f4b05daaaa2542186926dc3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/acornjs/acorn/git/commits/0b71d219a58ca09e5f4b05daaaa2542186926dc3"
+  },
+  "tag": "4.0.7",
+  "message": "Version 4.0.7\n\n### Bug fixes\n\nAccept invalidly rejected code like `(x).y = 2` again.\n\nDon't raise an error when a function _inside_ strict code has a\nnon-simple parameter list.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAliTxl0ACgkQcD8b7W0z\nrh6tTwf6A7O0Y7qCSAyQTP4W03/voNGyofuKky3Sbk2hPw6Zz98Y4GZhpx5oIs2x\nYRf2BKkZIv6KE94v8Xlk9l084ZzKv0AA9cCipaUa6UWCFxXSzxU0VaL6GYDKcS4z\nXaRcuA1J38JbYBD2ThyrXDU0IrnbMZ1fQ3I6d5e7YP4JHLTfHFT5XrKGfj+AN/R9\neAsc/ac5ZlTBuZTpn+kYCjhLz2cJUIYmyCL4+BQUasokfzprO88AlDfXAQ00iZpF\n3gG2sHB+MLqcc3w+ZBBMc3GUehv5P+h21v7/bvNOyBcIdE8sz5J7R+zjm2YhlNAZ\nYPcp44+ZsxURM/SlFO6CiariYS7vpQ==\n=/pzn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEErLY20j+/ljvJRHotcD8b7W0zrh4FAliTxl0ACgkQcD8b7W0z\nrh6tTwf6A7O0Y7qCSAyQTP4W03/voNGyofuKky3Sbk2hPw6Zz98Y4GZhpx5oIs2x\nYRf2BKkZIv6KE94v8Xlk9l084ZzKv0AA9cCipaUa6UWCFxXSzxU0VaL6GYDKcS4z\nXaRcuA1J38JbYBD2ThyrXDU0IrnbMZ1fQ3I6d5e7YP4JHLTfHFT5XrKGfj+AN/R9\neAsc/ac5ZlTBuZTpn+kYCjhLz2cJUIYmyCL4+BQUasokfzprO88AlDfXAQ00iZpF\n3gG2sHB+MLqcc3w+ZBBMc3GUehv5P+h21v7/bvNOyBcIdE8sz5J7R+zjm2YhlNAZ\nYPcp44+ZsxURM/SlFO6CiariYS7vpQ==\n=/pzn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0b71d219a58ca09e5f4b05daaaa2542186926dc3\ntype commit\ntag 4.0.7\ntagger Marijn Haverbeke <marijn@haverbeke.nl> 1486079568 +0100\n\nVersion 4.0.7\n\n### Bug fixes\n\nAccept invalidly rejected code like `(x).y = 2` again.\n\nDon't raise an error when a function _inside_ strict code has a\nnon-simple parameter list.\n"
+  }
+}

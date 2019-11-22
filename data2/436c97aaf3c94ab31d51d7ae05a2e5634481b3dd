@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3MTcyNTA6NDM2Yzk3YWFmM2M5NGFiMzFkNTFkN2FlMDVhMmU1NjM0NDgxYjNkZA==",
+  "sha": "436c97aaf3c94ab31d51d7ae05a2e5634481b3dd",
+  "url": "https://api.github.com/repos/tensorflow/tensorflow/git/tags/436c97aaf3c94ab31d51d7ae05a2e5634481b3dd",
+  "tagger": {
+    "name": "Vijay Vasudevan",
+    "email": "vrv@google.com",
+    "date": "2015-12-10T04:26:27Z"
+  },
+  "object": {
+    "sha": "8242b4dd1b36440e191fef8a07b6f37d8bcee60d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tensorflow/tensorflow/git/commits/8242b4dd1b36440e191fef8a07b6f37d8bcee60d"
+  },
+  "tag": "0.6.0",
+  "message": "TensorFlow 0.6.0\n\nMajor Features and Improvements\n\n* Python 3.3+ support via changes to python codebase and ability\n  to specify python version via ./configure.\n\n* Some improvements to GPU performance and memory usage:\n  [convnet benchmarks](https://github.com/soumith/convnet-benchmarks/issues/66)\n  roughly equivalent with native cudnn v2 performance.  Improvements mostly due\n  to moving to 32-bit indices, faster shuffling kernels.  More improvements to\n  come in later releases.\n\nBug fixes\n\n* Lots of fixes to documentation and tutorials, many contributed\n  by the public.\n\n* 271 closed issues on github issues.\n\nBackwards-incompatible changes\n\n* tf.nn.fixed_unigram_candidate_sampler changed its default 'distortion'\n  attribute from 0.0 to 1.0. This was a bug in the original release\n  that is now fixed.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

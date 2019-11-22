@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MjY0NWUzYmFhNmMwODQ3YzA4NjE4ZDQwNTFjOWIwODgzN2VkMDgyYg==",
+  "sha": "2645e3baa6c0847c08618d4051c9b08837ed082b",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/2645e3baa6c0847c08618d4051c9b08837ed082b",
+  "tagger": {
+    "name": "Ryan",
+    "email": "ry@tinyclouds.org",
+    "date": "2009-08-13T13:53:12Z"
+  },
+  "object": {
+    "sha": "0f888ed6de153f68c17005211d7e0f960a5e34f3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/0f888ed6de153f68c17005211d7e0f960a5e34f3"
+  },
+  "tag": "v0.1.4",
+  "message": "2009.08.13, Version 0.1.4\n\n  * Major refactor to evcom.\n\n  * Enable test-tcp-many-clients.\n\n  * Add -m32 gcc flag to udns.\n\n  * Add connection.readPause() and connection.readResume()\n    Add IncomingMessage.prototype.pause() and resume().\n\n  * Fix http benchmark. Wasn't correctly dispatching.\n\n  * Bugfix: response.setBodyEncoding(\"ascii\") not working.\n\n  * Bugfix: Negative ints in HTTP's on_body and node.fs.read()\n\n  * Upgrade v8 to 1.3.4\n    Upgrade libev to 3.8\n    Upgrade http_parser to v0.2\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MTJlY2FkNjg5MTQ0NTg1MWFlMDU2MGY2Mzc0MWU4MDc1YWE1OGIyNA==",
+  "sha": "12ecad6891445851ae0560f63741e8075aa58b24",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/12ecad6891445851ae0560f63741e8075aa58b24",
+  "tagger": {
+    "name": "Ryan Dahl",
+    "email": "ry@tinyclouds.org",
+    "date": "2009-11-07T19:21:50Z"
+  },
+  "object": {
+    "sha": "d1f69ef35dac810530df8249d523add168e09f03",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/d1f69ef35dac810530df8249d523add168e09f03"
+  },
+  "tag": "v0.1.17",
+  "message": "2009.11.07, Version 0.1.17\n\n  * Feature: process.chdir() (Brandon Beacher)\n\n  * Revert http parser upgrade. (b893859c34f05db5c45f416949ebc0eee665cca6)\n    Broke keep-alive.\n\n  * API: rename process.inherits to sys.inherits\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

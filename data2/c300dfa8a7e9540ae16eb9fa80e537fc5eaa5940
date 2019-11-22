@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjE0OTA1OTg6YzMwMGRmYThhN2U5NTQwYWUxNmViOWZhODBlNTM3ZmM1ZWFhNTk0MA==",
+  "sha": "c300dfa8a7e9540ae16eb9fa80e537fc5eaa5940",
+  "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/tags/c300dfa8a7e9540ae16eb9fa80e537fc5eaa5940",
+  "tagger": {
+    "name": "Adrien Crivelli",
+    "email": "adrien.crivelli@gmail.com",
+    "date": "2018-03-04T20:45:09Z"
+  },
+  "object": {
+    "sha": "8380fb3ad28242093c18d0baa9b7e67fb429ea84",
+    "type": "commit",
+    "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/git/commits/8380fb3ad28242093c18d0baa9b7e67fb429ea84"
+  },
+  "tag": "1.2.0",
+  "message": "1.2.0\n\n### Added\n\n- HTML writer creates a generator meta tag - [#312](https://github.com/PHPOffice/PhpSpreadsheet/issues/312)\n- Support invalid zoom value in XLSX format - [#350](https://github.com/PHPOffice/PhpSpreadsheet/pull/350)\n- Support for `_xlfn.` prefixed functions and `ISFORMULA`, `MODE.SNGL`, `STDEV.S`, `STDEV.P` - [#390](https://github.com/PHPOffice/PhpSpreadsheet/pull/390)\n\n### Fixed\n\n- Avoid potentially unsupported PSR-16 cache keys - [#354](https://github.com/PHPOffice/PhpSpreadsheet/issues/354)\n- Check for MIME type to know if CSV reader can read a file - [#167](https://github.com/PHPOffice/PhpSpreadsheet/issues/167)\n- Use proper € symbol for currency format - [#379](https://github.com/PHPOffice/PhpSpreadsheet/pull/379)\n- Read printing area correctly when skipping some sheets - [#371](https://github.com/PHPOffice/PhpSpreadsheet/issues/371)\n- Avoid incorrectly overwriting calculated value type - [#394](https://github.com/PHPOffice/PhpSpreadsheet/issues/394)\n- Select correct cell when calling freezePane - [#389](https://github.com/PHPOffice/PhpSpreadsheet/issues/389)\n- `setStrikethrough()` did not set the font - [#403](https://github.com/PHPOffice/PhpSpreadsheet/issues/403)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

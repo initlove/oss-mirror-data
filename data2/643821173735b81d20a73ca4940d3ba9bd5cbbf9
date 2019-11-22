@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc2NjU1ODo2NDM4MjExNzM3MzViODFkMjBhNzNjYTQ5NDBkM2JhOWJkNWNiYmY5",
+  "sha": "643821173735b81d20a73ca4940d3ba9bd5cbbf9",
+  "url": "https://api.github.com/repos/Netflix/Hystrix/git/tags/643821173735b81d20a73ca4940d3ba9bd5cbbf9",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-05-23T22:05:12Z"
+  },
+  "object": {
+    "sha": "53de87400e62f3e5fd32559ad2384cbfdd5c8194",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/Hystrix/git/commits/53de87400e62f3e5fd32559ad2384cbfdd5c8194"
+  },
+  "tag": "v1.4.9",
+  "message": "Release of 1.4.9\n\n- 53de87400e62f3e5fd32559ad2384cbfdd5c8194: Merge pull request #799 from mattrjacobs/fix-rolling-percentile-write-thread-safety\n- 2639ce4e60818e1710835111e990035d2d2e6b8a: Fix to only get an interval histogram once per recorder\n- 65ab2335ea0abca58a87142ef0fcb86c9bc9b8ce: Unit test demonstrating unsafe usage of IntCountsHistogram on write path, and fix\n- d0652087c7cdafc2e9f86dad7ee13f3778f5c311: Update CHANGELOG.md\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

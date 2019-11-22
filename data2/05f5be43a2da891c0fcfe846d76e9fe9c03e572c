@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzUyMDY5NzI6MDVmNWJlNDNhMmRhODkxYzBmY2ZlODQ2ZDc2ZTlmZTljMDNlNTcyYw==",
+  "sha": "05f5be43a2da891c0fcfe846d76e9fe9c03e572c",
+  "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/tags/05f5be43a2da891c0fcfe846d76e9fe9c03e572c",
+  "tagger": {
+    "name": "stratiocommit",
+    "email": "asistemas@stratio.com",
+    "date": "2016-08-29T11:13:51Z"
+  },
+  "object": {
+    "sha": "ee627efba08cb66c5a0d6ee938e550c9baa59932",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Stratio/cassandra-lucene-index/git/commits/ee627efba08cb66c5a0d6ee938e550c9baa59932"
+  },
+  "tag": "3.0.8.2",
+  "message": " * Allow associativity in search-time geospatial transformations\n\n * Simplify naming of builder static methods for creating geospatial transformations\n\n * Fix paged index-sorted queries matching more than 65535 rows\n\n * Fix partition directed queries using dummy column syntax in skinny tables\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

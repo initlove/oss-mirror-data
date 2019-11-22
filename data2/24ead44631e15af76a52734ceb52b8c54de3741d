@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjcxOTM3Nzk6MjRlYWQ0NDYzMWUxNWFmNzZhNTI3MzRjZWI1MmI4YzU0ZGUzNzQxZA==",
+  "sha": "24ead44631e15af76a52734ceb52b8c54de3741d",
+  "url": "https://api.github.com/repos/nodejs/node/git/tags/24ead44631e15af76a52734ceb52b8c54de3741d",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-09-04T22:18:06Z"
+  },
+  "object": {
+    "sha": "be52549bfa5311208b5fcdb3ba09210460fa9ceb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/node/git/commits/be52549bfa5311208b5fcdb3ba09210460fa9ceb"
+  },
+  "tag": "v0.11.7",
+  "message": "2013.08.21, Version 0.11.7 (Unstable)\n\n* uv: upgrade to v0.11.13\n\n* v8: upgrade to 3.20.17\n\n* buffer: adhere to INSPECT_MAX_BYTES (Timothy J Fontaine)\n\n* buffer: fix regression for large buffer creation (Trevor Norris)\n\n* buffer: don't throw if slice length too long (Trevor Norris)\n\n* buffer: Buffer(buf) constructor copies into the proper buffer (Ben Noordhuis)\n\n* cli: remove --max-stack-size (Ben Noordhuis)\n\n* cli: unknown command line options are errors (Ben Noordhuis)\n\n* child_process: exec accept buffer as an encoding (Seth Fitzsimmons)\n\n* crypto: make randomBytes/pbkdf2 callbacks domain aware (Ben Noordhuis)\n\n* domain: deprecate domain.dispose(). (Forrest L Norvell)\n\n* fs: Expose birthtime on stat objects (isaacs)\n\n* http: Only send connection:keep-alive if necessary (isaacs)\n\n* repl: Catch syntax errors better (isaacs, Nathan Rajlich)\n\n* stream: change default highWaterMark for objectMode to 16 (Mathias Buus)\n\n* stream: make setEncoding/pause/resume chainable (Julian Gruber, isaacs)\n\n* util: pass opts to custom inspect functions (Timothy J Fontaine)\n\n* vm: rewritten to behave like Contextify (Domenic Denicola)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlInsZ4ACgkQfTP/nQJGQG2LcQCcDiWVqyNk49ZiLw+Q8tcJ4u0f\nRRAAnRUhSp2N8RLyuMxKzdL88K7ZmAh5\n=iu2R\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlInsZ4ACgkQfTP/nQJGQG2LcQCcDiWVqyNk49ZiLw+Q8tcJ4u0f\nRRAAnRUhSp2N8RLyuMxKzdL88K7ZmAh5\n=iu2R\n-----END PGP SIGNATURE-----\n",
+    "payload": "object be52549bfa5311208b5fcdb3ba09210460fa9ceb\ntype commit\ntag v0.11.7\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1378333086 -0700\n\n2013.08.21, Version 0.11.7 (Unstable)\n\n* uv: upgrade to v0.11.13\n\n* v8: upgrade to 3.20.17\n\n* buffer: adhere to INSPECT_MAX_BYTES (Timothy J Fontaine)\n\n* buffer: fix regression for large buffer creation (Trevor Norris)\n\n* buffer: don't throw if slice length too long (Trevor Norris)\n\n* buffer: Buffer(buf) constructor copies into the proper buffer (Ben Noordhuis)\n\n* cli: remove --max-stack-size (Ben Noordhuis)\n\n* cli: unknown command line options are errors (Ben Noordhuis)\n\n* child_process: exec accept buffer as an encoding (Seth Fitzsimmons)\n\n* crypto: make randomBytes/pbkdf2 callbacks domain aware (Ben Noordhuis)\n\n* domain: deprecate domain.dispose(). (Forrest L Norvell)\n\n* fs: Expose birthtime on stat objects (isaacs)\n\n* http: Only send connection:keep-alive if necessary (isaacs)\n\n* repl: Catch syntax errors better (isaacs, Nathan Rajlich)\n\n* stream: change default highWaterMark for objectMode to 16 (Mathias Buus)\n\n* stream: make setEncoding/pause/resume chainable (Julian Gruber, isaacs)\n\n* util: pass opts to custom inspect functions (Timothy J Fontaine)\n\n* vm: rewritten to behave like Contextify (Domenic Denicola)\n"
+  }
+}
