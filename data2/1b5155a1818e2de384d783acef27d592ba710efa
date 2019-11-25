@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjoxYjUxNTVhMTgxOGUyZGUzODRkNzgzYWNlZjI3ZDU5MmJhNzEwZWZh",
+  "sha": "1b5155a1818e2de384d783acef27d592ba710efa",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/1b5155a1818e2de384d783acef27d592ba710efa",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:31:33Z"
+  },
+  "object": {
+    "sha": "0c8ec2eea106acc05ea6b99494af6a50abd90a44",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/0c8ec2eea106acc05ea6b99494af6a50abd90a44"
+  },
+  "tag": "0.3.0",
+  "message": "v0.3.0\n- Relevant only for developers using createrepo_c library: New approach for\n  metadata loading in case of internal high-level parser functions (see commit\n  messages for more information: d6ed327595, 0b0e75203e, ad1e8450f5)\n- Support for changelog limit value == -1 (include all changelogs)\n- Update debug compilation flags\n- Update man pages (Add synompsis with usage)\n- Update usage examples in help\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

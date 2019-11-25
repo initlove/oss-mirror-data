@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMToxY2IxZTcxMmEzMGEzZWM2ZTA5ZTBjZjAwNGI4NGM1NjM3MTlmZjVk",
+  "sha": "1cb1e712a30a3ec6e09e0cf004b84c563719ff5d",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/1cb1e712a30a3ec6e09e0cf004b84c563719ff5d",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-07-31T16:28:58Z"
+  },
+  "object": {
+    "sha": "9c14b616f5fb84bfd7d45707bab4bbb85894443e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/9c14b616f5fb84bfd7d45707bab4bbb85894443e"
+  },
+  "tag": "v0.10.28",
+  "message": "2014.07.32, Version 0.10.28 (Stable)\n\nChanges since version 0.10.27:\n\n* windows: fix handling closed socket while poll handle is closing (Saúl Ibarra\n  Corretgé)\n\n* unix: return system error on EAI_SYSTEM (Saúl Ibarra Corretgé)\n\n* unix: fix bogus structure field name (Saúl Ibarra Corretgé)\n\n* darwin: invoke `mach_timebase_info` only once (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlPabs0ACgkQfTP/nQJGQG2E+QCg25vVturzox8f2sKEU2pOqtmU\n3b4AoI798iDV8bxg0MQXff7KhkTAFeCE\n=gH5H\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlPabs0ACgkQfTP/nQJGQG2E+QCg25vVturzox8f2sKEU2pOqtmU\n3b4AoI798iDV8bxg0MQXff7KhkTAFeCE\n=gH5H\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9c14b616f5fb84bfd7d45707bab4bbb85894443e\ntype commit\ntag v0.10.28\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1406824138 -0700\n\n2014.07.32, Version 0.10.28 (Stable)\n\nChanges since version 0.10.27:\n\n* windows: fix handling closed socket while poll handle is closing (Saúl Ibarra\n  Corretgé)\n\n* unix: return system error on EAI_SYSTEM (Saúl Ibarra Corretgé)\n\n* unix: fix bogus structure field name (Saúl Ibarra Corretgé)\n\n* darwin: invoke `mach_timebase_info` only once (Fedor Indutny)\n"
+  }
+}

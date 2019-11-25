@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDo4NDc0ZWMyMzU5NmJkZjhlOWIwMTY0MjZlNzY1ZTg3MGFiYjlhMzJl",
+  "sha": "8474ec23596bdf8e9b016426e765e870abb9a32e",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/8474ec23596bdf8e9b016426e765e870abb9a32e",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2014-11-25T09:48:19Z"
+  },
+  "object": {
+    "sha": "1b09eacc2f3531e0031e93c4ecca9a58d53ea921",
+    "type": "tag",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/1b09eacc2f3531e0031e93c4ecca9a58d53ea921"
+  },
+  "tag": "librepo-1.7.0",
+  "message": "v1.7.0\n- Support for xml:base tag in repomd.xml.\n- Downloader: If checksums don't match, include the expected values and types\n in the error message.\n- Handle: Add LRO_HMFCB and LRI_HMFCB options.\n- API CHANGE: lr_download_single_cb() new param mfcb (LrMirrorFailureCb)\n- API CHANGE: Removed cbdata param from lr_download_single_cb(). Use specific\n data for each target.\n- New callback LrHandleMirrorFailureCb\n- Python doc update (Check it out: http://tojaj.github.io/librepo/)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

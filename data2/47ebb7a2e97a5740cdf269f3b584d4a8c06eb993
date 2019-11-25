@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDE5OjQ3ZWJiN2EyZTk3YTU3NDBjZGYyNjlmM2I1ODRkNGE4YzA2ZWI5OTM=",
+  "sha": "47ebb7a2e97a5740cdf269f3b584d4a8c06eb993",
+  "url": "https://api.github.com/repos/openstack/swift/git/tags/47ebb7a2e97a5740cdf269f3b584d4a8c06eb993",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-11-18T16:26:02Z"
+  },
+  "object": {
+    "sha": "bf473ddc9d3fcb3a3fe516b5221a588c5b196a1d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/swift/git/commits/bf473ddc9d3fcb3a3fe516b5221a588c5b196a1d"
+  },
+  "tag": "2.11.0",
+  "message": "swift 2.11.0 release\n\nmeta:version: 2.11.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: John Dickinson <me@not.mn>\nmeta:release:Commit: John Dickinson <me@not.mn>\nmeta:release:Change-Id: I42b860e747d7ff904c8528d34dca4ee0830eb505\nmeta:release:Code-Review+1: Kota Tsuyuzaki <tsuyuzaki.kota@lab.ntt.co.jp>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYLyuaAAoJENljH+rwzGIn7t8H/j/UAKONVRFnovnq3Nm9k7+c\nDL0SC1uiilCIA9Mq12WjWIeSlwp6pPtRLHqrroIK2AvDhDEZU0jfKSBlpoChNwv2\ns7Q0WxnwdLTp3hnWaNR+6gHQfw4YY+fw0gSCCMscjNe1VhV9HqGJefk1z7kdy7XV\n6212a8C0GxphcH/ojKVOIo2uC/v2Rt0MGNRmz3mqtlzseQJoGeXSbX9pX1XElZNr\nivCT9+rio3Xw2aAZSivIZu4upu4ivkuhStC2z51C3UFe/bZGmV6q5gcnXLevZXlG\nCeixlV5QerUejfhaZ8sODfIHupQzfPY6i9Hi4T659+tLrgXXtAA0I054TmyRbMQ=\n=jthB\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYLyuaAAoJENljH+rwzGIn7t8H/j/UAKONVRFnovnq3Nm9k7+c\nDL0SC1uiilCIA9Mq12WjWIeSlwp6pPtRLHqrroIK2AvDhDEZU0jfKSBlpoChNwv2\ns7Q0WxnwdLTp3hnWaNR+6gHQfw4YY+fw0gSCCMscjNe1VhV9HqGJefk1z7kdy7XV\n6212a8C0GxphcH/ojKVOIo2uC/v2Rt0MGNRmz3mqtlzseQJoGeXSbX9pX1XElZNr\nivCT9+rio3Xw2aAZSivIZu4upu4ivkuhStC2z51C3UFe/bZGmV6q5gcnXLevZXlG\nCeixlV5QerUejfhaZ8sODfIHupQzfPY6i9Hi4T659+tLrgXXtAA0I054TmyRbMQ=\n=jthB\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bf473ddc9d3fcb3a3fe516b5221a588c5b196a1d\ntype commit\ntag 2.11.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1479486362 +0000\n\nswift 2.11.0 release\n\nmeta:version: 2.11.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: John Dickinson <me@not.mn>\nmeta:release:Commit: John Dickinson <me@not.mn>\nmeta:release:Change-Id: I42b860e747d7ff904c8528d34dca4ee0830eb505\nmeta:release:Code-Review+1: Kota Tsuyuzaki <tsuyuzaki.kota@lab.ntt.co.jp>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

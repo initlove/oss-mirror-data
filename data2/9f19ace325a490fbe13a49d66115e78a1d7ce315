@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo5ZjE5YWNlMzI1YTQ5MGZiZTEzYTQ5ZDY2MTE1ZTc4YTFkN2NlMzE1",
+  "sha": "9f19ace325a490fbe13a49d66115e78a1d7ce315",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/9f19ace325a490fbe13a49d66115e78a1d7ce315",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-05-10T22:19:32Z"
+  },
+  "object": {
+    "sha": "3fba0bf65f091b91a9760530c05c6339c658d88b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/3fba0bf65f091b91a9760530c05c6339c658d88b"
+  },
+  "tag": "v0.11.2",
+  "message": "2013.05.11, Version 0.11.2 (Unstable)\n\nChanges since version 0.11.1:\n\n* darwin: look up file path with F_GETPATH (Ben Noordhuis)\n\n* unix, windows: add uv_has_ref() function (Saúl Ibarra Corretgé)\n\n* build: avoid double / in paths for dtrace (Timothy J. Fontaine)\n\n* unix: remove src/unix/cygwin.c (Ben Noordhuis)\n\n* windows: deal with the fact that GetTickCount might lag (Bert Belder)\n\n* unix: silence STATIC_ASSERT compiler warnings (Ben Noordhuis)\n\n* linux: don't use fopen() in uv_resident_set_memory() (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRjXJ0AAoJELCniwpsSBz25eQH/j2L+dpcnc7BV46I6iYkWGzp\ncAZF/uSuUCGu1Qbhfb7u7Ns6HJtGpruEt5A5J0se0Jb9qc76438BW1uJn2vqkAw1\na1QBo6JA9A4C6dJXTWXNVL7JEappfutcCO9exAaV1LQvLBftbhw0H0HilQGtXB4S\nuTCu6ngrN8102YibndZVyGotpaCz4VwCZjUmE7nRzv90S86h6Hd4rUTN7gsXZFBW\nqIMDgdtMeGGOV1W/SRUUq2sqyI1Vaq2pah033o+y+B7P2UBCNQuVtQ9x6c8BLTPf\nImLDWwL9Q95MyDB73cIuC0bwGuv+uhtQbA903qgyO/AxTU7A7xt4sREV5dJWk+0=\n=lVh9\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRjXJ0AAoJELCniwpsSBz25eQH/j2L+dpcnc7BV46I6iYkWGzp\ncAZF/uSuUCGu1Qbhfb7u7Ns6HJtGpruEt5A5J0se0Jb9qc76438BW1uJn2vqkAw1\na1QBo6JA9A4C6dJXTWXNVL7JEappfutcCO9exAaV1LQvLBftbhw0H0HilQGtXB4S\nuTCu6ngrN8102YibndZVyGotpaCz4VwCZjUmE7nRzv90S86h6Hd4rUTN7gsXZFBW\nqIMDgdtMeGGOV1W/SRUUq2sqyI1Vaq2pah033o+y+B7P2UBCNQuVtQ9x6c8BLTPf\nImLDWwL9Q95MyDB73cIuC0bwGuv+uhtQbA903qgyO/AxTU7A7xt4sREV5dJWk+0=\n=lVh9\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3fba0bf65f091b91a9760530c05c6339c658d88b\ntype commit\ntag v0.11.2\ntagger isaacs <i@izs.me> 1368224372 -0700\n\n2013.05.11, Version 0.11.2 (Unstable)\n\nChanges since version 0.11.1:\n\n* darwin: look up file path with F_GETPATH (Ben Noordhuis)\n\n* unix, windows: add uv_has_ref() function (Saúl Ibarra Corretgé)\n\n* build: avoid double / in paths for dtrace (Timothy J. Fontaine)\n\n* unix: remove src/unix/cygwin.c (Ben Noordhuis)\n\n* windows: deal with the fact that GetTickCount might lag (Bert Belder)\n\n* unix: silence STATIC_ASSERT compiler warnings (Ben Noordhuis)\n\n* linux: don't use fopen() in uv_resident_set_memory() (Ben Noordhuis)\n"
+  }
+}

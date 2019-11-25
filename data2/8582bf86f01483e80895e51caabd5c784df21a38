@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjU5MjM3Nzc6ODU4MmJmODZmMDE0ODNlODA4OTVlNTFjYWFiZDVjNzg0ZGYyMWEzOA==",
+  "sha": "8582bf86f01483e80895e51caabd5c784df21a38",
+  "url": "https://api.github.com/repos/openstack/deb-ryu/git/tags/8582bf86f01483e80895e51caabd5c784df21a38",
+  "tagger": {
+    "name": "Karthik Ramasubramanian",
+    "email": "karthik@ntti3.com",
+    "date": "2014-03-30T09:07:33Z"
+  },
+  "object": {
+    "sha": "9dc33e334a8e42892fcaae800d72a3759e5565f3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/deb-ryu/git/commits/9dc33e334a8e42892fcaae800d72a3759e5565f3"
+  },
+  "tag": "2.4.0",
+  "message": "Ryu (OFWire/Vrrp) Release 2.4.0\n\nBug Fixes:\n- Fix VRRP Stats log\n- vrrp_config_change RPC with zero priority goes to backup immediately\n\nNew Feature:\n- 'query_port_desc_stats' method\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

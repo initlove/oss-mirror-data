@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY2MDA3ODA6MzJiN2I1M2Q4MGNmNTFjNTFjNTNjZmMzYWIxNmQyMTliMTI3MDk5ZQ==",
+  "sha": "32b7b53d80cf51c51c53cfc3ab16d219b127099e",
+  "url": "https://api.github.com/repos/openstack/ironic-inspector/git/tags/32b7b53d80cf51c51c53cfc3ab16d219b127099e",
+  "tagger": {
+    "name": "Davanum Srinivas",
+    "email": "davanum@gmail.com",
+    "date": "2016-08-11T13:41:31Z"
+  },
+  "object": {
+    "sha": "625add4f416e8916874d95698d5d411000895a07",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic-inspector/git/commits/625add4f416e8916874d95698d5d411000895a07"
+  },
+  "tag": "4.1.0",
+  "message": "ironic-inspector 4.1.0 release\n\nmeta:version: 4.1.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Commit: Davanum Srinivas <davanum@gmail.com>\nmeta:release:Change-Id: Ie2325b30ecb727e5279b5c072892e84b24bfbf3f\n-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAlesgIsACgkQgNg6eWEDv1nfwQCePVoLS31dS3vnbAsVHnuxO7NO\n5fsAoNpZ8tl00N2yXttZGdnPkVpd34AH\n=Dj9N\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAlesgIsACgkQgNg6eWEDv1nfwQCePVoLS31dS3vnbAsVHnuxO7NO\n5fsAoNpZ8tl00N2yXttZGdnPkVpd34AH\n=Dj9N\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 625add4f416e8916874d95698d5d411000895a07\ntype commit\ntag 4.1.0\ntagger Davanum Srinivas <davanum@gmail.com> 1470922891 -0400\n\nironic-inspector 4.1.0 release\n\nmeta:version: 4.1.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Commit: Davanum Srinivas <davanum@gmail.com>\nmeta:release:Change-Id: Ie2325b30ecb727e5279b5c072892e84b24bfbf3f\n"
+  }
+}

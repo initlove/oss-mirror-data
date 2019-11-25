@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDQ6MWFlNTUyZjUyZTA0MGI0MTYwYmJhYmViNDAwODU3MDIzZWZlODJhMw==",
+  "sha": "1ae552f52e040b4160bbabeb400857023efe82a3",
+  "url": "https://api.github.com/repos/openstack/python-ironicclient/git/tags/1ae552f52e040b4160bbabeb400857023efe82a3",
+  "tagger": {
+    "name": "Devananda van der Veen",
+    "email": "devananda.vdv@gmail.com",
+    "date": "2014-09-18T18:49:52Z"
+  },
+  "object": {
+    "sha": "727800dcae54b333811c22f6f3420753d6fd4879",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironicclient/git/commits/727800dcae54b333811c22f6f3420753d6fd4879"
+  },
+  "tag": "0.3.0",
+  "message": "Release 0.3.0\n\nIn addition to minor bug fixes, this release also includes:\n\n* Add 'rebuild' option to node-set-provision-state\n* Use OS_REGION_NAME environment variable\n* List resources with detail\n* Add sort_key and sort_dir parameters to *-list\n* Show ports by MAC address\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlQbKVMACgkQhFvuBniJg6fskgCgpD3GmB+McuURd6SFDmvsgP75\nZvAAnjudzqpm5dSA/wFLHK+9a78EShtj\n=D1dw\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlQbKVMACgkQhFvuBniJg6fskgCgpD3GmB+McuURd6SFDmvsgP75\nZvAAnjudzqpm5dSA/wFLHK+9a78EShtj\n=D1dw\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 727800dcae54b333811c22f6f3420753d6fd4879\ntype commit\ntag 0.3.0\ntagger Devananda van der Veen <devananda.vdv@gmail.com> 1411066192 -0700\n\nRelease 0.3.0\n\nIn addition to minor bug fixes, this release also includes:\n\n* Add 'rebuild' option to node-set-provision-state\n* Use OS_REGION_NAME environment variable\n* List resources with detail\n* Add sort_key and sort_dir parameters to *-list\n* Show ports by MAC address\n"
+  }
+}

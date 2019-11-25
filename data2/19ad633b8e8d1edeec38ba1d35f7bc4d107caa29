@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDY1MTY2Njc6MTlhZDYzM2I4ZThkMWVkZWVjMzhiYTFkMzVmN2JjNGQxMDdjYWEyOQ==",
+  "sha": "19ad633b8e8d1edeec38ba1d35f7bc4d107caa29",
+  "url": "https://api.github.com/repos/openstack/neutron-lib/git/tags/19ad633b8e8d1edeec38ba1d35f7bc4d107caa29",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-01-31T09:33:29Z"
+  },
+  "object": {
+    "sha": "a50381fbfa019838423ab939a5bd70f52449af4f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-lib/git/commits/a50381fbfa019838423ab939a5bd70f52449af4f"
+  },
+  "tag": "1.23.0",
+  "message": "neutron-lib 1.23.0 release\n\nmeta:version: 1.23.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ryan Tidwell <rtidwell@suse.com>\nmeta:release:Commit: Ryan Tidwell <rtidwell@suse.com>\nmeta:release:Change-Id: Ifde392d17f71b0a3645375b9e2adecc4b378bb22\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: boden <bodenvmw@gmail.com>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcUsDpAAoJEBpUEUgFTp44zdcL/2jAWdSnEWiom39Mg9FgIFLU\nz27Xfd9Pn314awbS/JDJs3xur9rcijzwR6oB/nZazlV7Z0iEY+BaJORuSmjV662O\nJiWof/oOP2TSkoEJVLDf2L0OBmfEE33KrlresUHC9rV7ewmDWGulUlU8Za8+bDXD\nV5bewB+M6nDp0BVp2HSneY8UNHqmxkqYKC4JSMKWdbXT9gU1KywrMsozsOWloCq9\n4Omp4nj6SireitqrfbIjDaB1unFTHne33uddEcb3Kztzluvw6Y87GZjgpw2hpqZs\nMTNb8GYOb5Kyl5vRS6WFtnY63slOGh3ZvAhbvw8BWlLtg+iy/jpr71ixnakwA8Ju\nvDnRtWfI5Bt+b8M+zir+E+dyHw6Zh0DML4PJH1dCoM63TfgRogDs8Ryitz9O4Exb\nwfnYVHKkNcz4Sh051udoCMI2gUjb26fZQn6jujnPDLJPVU1CZAYTagDhVQz8gJFo\nCDlTErLve5KDhPfjYePdZenXFFsk/cdW57/fwUpLJA==\n=i7Q3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcUsDpAAoJEBpUEUgFTp44zdcL/2jAWdSnEWiom39Mg9FgIFLU\nz27Xfd9Pn314awbS/JDJs3xur9rcijzwR6oB/nZazlV7Z0iEY+BaJORuSmjV662O\nJiWof/oOP2TSkoEJVLDf2L0OBmfEE33KrlresUHC9rV7ewmDWGulUlU8Za8+bDXD\nV5bewB+M6nDp0BVp2HSneY8UNHqmxkqYKC4JSMKWdbXT9gU1KywrMsozsOWloCq9\n4Omp4nj6SireitqrfbIjDaB1unFTHne33uddEcb3Kztzluvw6Y87GZjgpw2hpqZs\nMTNb8GYOb5Kyl5vRS6WFtnY63slOGh3ZvAhbvw8BWlLtg+iy/jpr71ixnakwA8Ju\nvDnRtWfI5Bt+b8M+zir+E+dyHw6Zh0DML4PJH1dCoM63TfgRogDs8Ryitz9O4Exb\nwfnYVHKkNcz4Sh051udoCMI2gUjb26fZQn6jujnPDLJPVU1CZAYTagDhVQz8gJFo\nCDlTErLve5KDhPfjYePdZenXFFsk/cdW57/fwUpLJA==\n=i7Q3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a50381fbfa019838423ab939a5bd70f52449af4f\ntype commit\ntag 1.23.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1548927209 +0000\n\nneutron-lib 1.23.0 release\n\nmeta:version: 1.23.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ryan Tidwell <rtidwell@suse.com>\nmeta:release:Commit: Ryan Tidwell <rtidwell@suse.com>\nmeta:release:Change-Id: Ifde392d17f71b0a3645375b9e2adecc4b378bb22\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: boden <bodenvmw@gmail.com>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

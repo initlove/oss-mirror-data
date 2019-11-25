@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDQ4NDExNzc6NDg5OTFhZGQ5MzJlNTRjMmQyNDY4NjlhNTY0ODg2MmM0N2RlMzVjMw==",
+  "sha": "48991add932e54c2d246869a5648862c47de35c3",
+  "url": "https://api.github.com/repos/nats-io/nats.java/git/tags/48991add932e54c2d246869a5648862c47de35c3",
+  "tagger": {
+    "name": "Stephen Asbury",
+    "email": "sasbury@synadia.com",
+    "date": "2018-07-17T00:47:46Z"
+  },
+  "object": {
+    "sha": "ad38443765224dd882eef16b448913b9fc6db0eb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nats-io/nats.java/git/commits/ad38443765224dd882eef16b448913b9fc6db0eb"
+  },
+  "tag": "2.0.0",
+  "message": "Version 2.0.0\n\nThis version is a ground up rewrite of the original library. Part of the goal of this re-write was to address the excessive use of threads, we created a Dispatcher construct to allow applications to control thread creation more intentionally. This version also removes all non-JDK runtime dependencies.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

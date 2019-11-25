@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo2MzdlY2Y4OWZlN2NhZTE1MTE0NWZlZjYzYzIxYjIwZDEyZTE2MDdk",
+  "sha": "637ecf89fe7cae151145fef63c21b20d12e1607d",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/637ecf89fe7cae151145fef63c21b20d12e1607d",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-04-23T00:37:22Z"
+  },
+  "object": {
+    "sha": "6595a7732c52eb4f8e57c88655f72997a8567a67",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/6595a7732c52eb4f8e57c88655f72997a8567a67"
+  },
+  "tag": "v0.10.5",
+  "message": "2013.04.24, Version 0.10.5 (Stable)\n\nChanges since version 0.10.4:\n\n* unix: silence STATIC_ASSERT compiler warnings (Ben Noordhuis)\n\n* windows: make timers handle large timeouts (Miroslav Bajtoš)\n\n* windows: remove superfluous assert statement (Bert Belder)\n\n* unix: silence STATIC_ASSERT compiler warnings (Ben Noordhuis)\n\n* linux: don't use fopen() in uv_resident_set_memory() (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRddfCAAoJELCniwpsSBz2Js0H/jdJRb8o0dFYsdIFjbvixYH4\nvXhmk7f8KaEYFSTCSdSJdR3CcDbRV5TUTxjTupfb85kiBsB64U60eqqlfev62Ri6\nNw/WR/3jEO+ph3nYc8s1Ck4714e4KZ1HgooEg8Ha8hxgudV4by8FnvlP8fLufTO1\nUBIDl1PClD5lVROxN63nxR84IeDpErbLM344zGYm7VvFII8YcmADO7TpO78rx4Oy\nyxQIQ2D/fFLQLRx4crMjWxsyRm0TPXOPJwtfzpcNkgzZhtLJAQQjEj9anu+Ipt8H\nuRnC1J1ckfW5xEtTJT05+nBQZVtJuj0xg6Wtx5YKPdZhVGJWxJChGh6zJpMkfyM=\n=hkIF\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRddfCAAoJELCniwpsSBz2Js0H/jdJRb8o0dFYsdIFjbvixYH4\nvXhmk7f8KaEYFSTCSdSJdR3CcDbRV5TUTxjTupfb85kiBsB64U60eqqlfev62Ri6\nNw/WR/3jEO+ph3nYc8s1Ck4714e4KZ1HgooEg8Ha8hxgudV4by8FnvlP8fLufTO1\nUBIDl1PClD5lVROxN63nxR84IeDpErbLM344zGYm7VvFII8YcmADO7TpO78rx4Oy\nyxQIQ2D/fFLQLRx4crMjWxsyRm0TPXOPJwtfzpcNkgzZhtLJAQQjEj9anu+Ipt8H\nuRnC1J1ckfW5xEtTJT05+nBQZVtJuj0xg6Wtx5YKPdZhVGJWxJChGh6zJpMkfyM=\n=hkIF\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6595a7732c52eb4f8e57c88655f72997a8567a67\ntype commit\ntag v0.10.5\ntagger isaacs <i@izs.me> 1366677442 -0700\n\n2013.04.24, Version 0.10.5 (Stable)\n\nChanges since version 0.10.4:\n\n* unix: silence STATIC_ASSERT compiler warnings (Ben Noordhuis)\n\n* windows: make timers handle large timeouts (Miroslav Bajtoš)\n\n* windows: remove superfluous assert statement (Bert Belder)\n\n* unix: silence STATIC_ASSERT compiler warnings (Ben Noordhuis)\n\n* linux: don't use fopen() in uv_resident_set_memory() (Ben Noordhuis)\n"
+  }
+}

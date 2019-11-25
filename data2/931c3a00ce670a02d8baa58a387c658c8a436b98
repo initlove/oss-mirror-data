@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTk4MzQzMTQ6OTMxYzNhMDBjZTY3MGEwMmQ4YmFhNThhMzg3YzY1OGM4YTQzNmI5OA==",
+  "sha": "931c3a00ce670a02d8baa58a387c658c8a436b98",
+  "url": "https://api.github.com/repos/spinnaker/orca/git/tags/931c3a00ce670a02d8baa58a387c658c8a436b98",
+  "tagger": {
+    "name": "Bob T Builder",
+    "email": "builds@netflix.com",
+    "date": "2015-11-15T04:31:02Z"
+  },
+  "object": {
+    "sha": "ff09c7b045eef95822ba5f41530c93c882cb5315",
+    "type": "commit",
+    "url": "https://api.github.com/repos/spinnaker/orca/git/commits/ff09c7b045eef95822ba5f41530c93c882cb5315"
+  },
+  "tag": "v1.11.0",
+  "message": "Release of 1.11.0\n\n- ff09c7b045eef95822ba5f41530c93c882cb5315: Merge pull request #641 from kenzanmedia/addUserHomeDir\n- 27706837378e7848096251ae40119aa6122bb82f: Add user home directory\n- 9dd822339078c3b13a60eeffe3fe23460ae8f276: Merge pull request #638 from duftler/support-optional-rebake-flag\n- 726781645225fa521181f1cd91dd36e6938cc407: Add support for passing the ?rebake=1 query param to the bakery if the stage context has rebake set to true. The rebake query param is not set on bakery calls at all if the stage context does not have rebake set to true.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

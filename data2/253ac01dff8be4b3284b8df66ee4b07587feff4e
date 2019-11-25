@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMToyNTNhYzAxZGZmOGJlNGIzMjg0YjhkZjY2ZWU0YjA3NTg3ZmVmZjRl",
+  "sha": "253ac01dff8be4b3284b8df66ee4b07587feff4e",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/253ac01dff8be4b3284b8df66ee4b07587feff4e",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-05-01T16:16:45Z"
+  },
+  "object": {
+    "sha": "2acd544cff7142e06aa3b09ec64b4a33dd9ab996",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/2acd544cff7142e06aa3b09ec64b4a33dd9ab996"
+  },
+  "tag": "v0.11.25",
+  "message": "2014.05.02, Version 0.11.25 (Unstable)\n\nChanges since version 0.11.24:\n\n* osx: pass const handle pointer to uv___stream_fd (Chernyshev Viacheslav)\n\n* unix, windows: pass const handle ptr to uv_tcp_get*name (Chernyshev\n  Viacheslav)\n\n* common: pass const sockaddr ptr to uv_ip*_name (Chernyshev Viacheslav)\n\n* unix, windows: validate flags on uv_udp|tcp_bind (Saúl Ibarra Corretgé)\n\n* unix: handle case when addr is not initialized after recvmsg (Saúl Ibarra\n  Corretgé)\n\n* unix, windows: uv_now constness (Rasmus Pedersen)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlNic3AACgkQfTP/nQJGQG38DgCgw9YRonp2ft2IvS7rf5g5l/TR\nJAoAoMPuHTNLnvxLcLu8HSxnBvT+Zzse\n=LuwU\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlNic3AACgkQfTP/nQJGQG38DgCgw9YRonp2ft2IvS7rf5g5l/TR\nJAoAoMPuHTNLnvxLcLu8HSxnBvT+Zzse\n=LuwU\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2acd544cff7142e06aa3b09ec64b4a33dd9ab996\ntype commit\ntag v0.11.25\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1398961005 -0700\n\n2014.05.02, Version 0.11.25 (Unstable)\n\nChanges since version 0.11.24:\n\n* osx: pass const handle pointer to uv___stream_fd (Chernyshev Viacheslav)\n\n* unix, windows: pass const handle ptr to uv_tcp_get*name (Chernyshev\n  Viacheslav)\n\n* common: pass const sockaddr ptr to uv_ip*_name (Chernyshev Viacheslav)\n\n* unix, windows: validate flags on uv_udp|tcp_bind (Saúl Ibarra Corretgé)\n\n* unix: handle case when addr is not initialized after recvmsg (Saúl Ibarra\n  Corretgé)\n\n* unix, windows: uv_now constness (Rasmus Pedersen)\n"
+  }
+}

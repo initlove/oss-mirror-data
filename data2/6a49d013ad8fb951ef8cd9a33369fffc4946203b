@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQyNDUyMzg6NmE0OWQwMTNhZDhmYjk1MWVmOGNkOWEzMzM2OWZmZmM0OTQ2MjAzYg==",
+  "sha": "6a49d013ad8fb951ef8cd9a33369fffc4946203b",
+  "url": "https://api.github.com/repos/openstack/manila/git/tags/6a49d013ad8fb951ef8cd9a33369fffc4946203b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-02-07T19:56:07Z"
+  },
+  "object": {
+    "sha": "7579549c31c5777b9af53ea8e715feb00a070018",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/manila/git/commits/7579549c31c5777b9af53ea8e715feb00a070018"
+  },
+  "tag": "4.0.0.0rc1",
+  "message": "manila 4.0.0.0rc1 release candidate\n\nmeta:version: 4.0.0.0rc1\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ben Swartzlander <ben@swartzlander.org>\nmeta:release:Commit: Ben Swartzlander <ben@swartzlander.org>\nmeta:release:Change-Id: I0e2703594767a641a0522120fe40d3826e41d1af\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYmiZXAAoJELkGmxM1cAzcQ3UIAI8tZHVnaqg5PgpXJTvx5uMu\nFCLRmg3JvnGtYyhnynjwD2XL5L134a9yyFtnBeYr/5LNDdCcQeauEk7v9cGNsXoW\nr9ux0jQzDeyCSUQDys7RDV3hFiGWuFOyXzbdbyDK6K7rz4uIwtW2EDHG2qpU9NqD\n+MbX99+VnUpwR31XEpcz+aRhI50VdolbebL73zDep0OQ6gu6ZzPpY6WllJucSezN\nL92Dr80w/k2iZZtKS0nqzUo5PRCKKzKcGKNotY9AUSijaw8yLPRMbu5iNfTLSRWN\nAkCTBmfYOwU+h9cmO7eYAS+T5FFZMTmGRO7K5rFwKKpQPQZ8FsDB+NsaUB37SEo=\n=1k3I\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYmiZXAAoJELkGmxM1cAzcQ3UIAI8tZHVnaqg5PgpXJTvx5uMu\nFCLRmg3JvnGtYyhnynjwD2XL5L134a9yyFtnBeYr/5LNDdCcQeauEk7v9cGNsXoW\nr9ux0jQzDeyCSUQDys7RDV3hFiGWuFOyXzbdbyDK6K7rz4uIwtW2EDHG2qpU9NqD\n+MbX99+VnUpwR31XEpcz+aRhI50VdolbebL73zDep0OQ6gu6ZzPpY6WllJucSezN\nL92Dr80w/k2iZZtKS0nqzUo5PRCKKzKcGKNotY9AUSijaw8yLPRMbu5iNfTLSRWN\nAkCTBmfYOwU+h9cmO7eYAS+T5FFZMTmGRO7K5rFwKKpQPQZ8FsDB+NsaUB37SEo=\n=1k3I\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7579549c31c5777b9af53ea8e715feb00a070018\ntype commit\ntag 4.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1486497367 +0000\n\nmanila 4.0.0.0rc1 release candidate\n\nmeta:version: 4.0.0.0rc1\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ben Swartzlander <ben@swartzlander.org>\nmeta:release:Commit: Ben Swartzlander <ben@swartzlander.org>\nmeta:release:Change-Id: I0e2703594767a641a0522120fe40d3826e41d1af\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

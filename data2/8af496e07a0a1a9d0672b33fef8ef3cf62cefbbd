@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo4YWY0OTZlMDdhMGExYTlkMDY3MmIzM2ZlZjhlZjNjZjYyY2VmYmJk",
+  "sha": "8af496e07a0a1a9d0672b33fef8ef3cf62cefbbd",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/8af496e07a0a1a9d0672b33fef8ef3cf62cefbbd",
+  "tagger": {
+    "name": "Bert Belder",
+    "email": "bertbelder@gmail.com",
+    "date": "2013-04-10T17:43:07Z"
+  },
+  "object": {
+    "sha": "5c10e82ae0bc99eff86d4b9baff1f1aa0bf84c0a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/5c10e82ae0bc99eff86d4b9baff1f1aa0bf84c0a"
+  },
+  "tag": "v0.11.1",
+  "message": "2013.04.11, Version 0.11.1 (Unstable)\n\nThis is the first versioned release from the current unstable libuv branch.\n\nChanges since Node.js v0.11.0:\n\n* all platforms: nanosecond resolution support for uv_fs_[fl]stat (Timothy J.\n  Fontaine)\n\n* all platforms: add netmask to uv_interface_address (Ben Kelly)\n\n* unix: make sure the `status` parameter passed to the `uv_getaddrinfo` is 0 or\n  -1 (Ben Noordhuis)\n\n* unix: limit the number of iovecs written in a single `writev` syscall to\n  IOV_MAX (Fedor Indutny)\n\n* unix: add dtrace probes for tick-start and tick-stop (Timothy J. Fontaine)\n\n* mingw-w64: don't call _set_invalid_parameter_handler (Nils Maier)\n\n* windows: fix memory leak in fs__sendfile (Shannen Saez)\n\n* windows: fix edge case bugs in uv_cpu_info (Bert Belder)\n\n* include: no longer ship with / include ngx-queue.h (Ben Noordhuis)\n\n* include: remove UV_VERSION_* macros from uv.h (Ben Noordhuis)\n\n* documentation updates (Kristian Evensen, Ben Kelly, Ben Noordhuis)\n\n* build: fix dtrace-enabled builds (Ben Noordhuis, Timothy J. Fontaine)\n\n* build: gyp disable thin archives (Timothy J. Fontaine)\n\n* build: add support for Visual Studio 2012 (Nicholas Vavilov)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUWWkq3p3iHsuLtRhAQJrBggAlgo9jAUfW8bZ/P0MZ2CkqTUtEiPKDOfs\n29GlIJOFXxTxEUxCToJ1Dzk/W1CwV6pb0CJuD7f4Oc5B23iBjHxPtSsG5KWM7jKH\n+EZnNh0b7LP2FKmOgXOYeOCoTKldk4wK+GyjQaQWZxVtX5A/wA5bIPt/gilliTLQ\nEbvV8VbPnbVcObqDGq0QPlDqEtGySTxdsiei+IWSxIG6BMF/pqPUGhfksIBPpciS\ni6g7Uuth9qOrwGhQbJZ2dhe0vDOyacj9oaCGq9uzjM+CDW4We3YlsM04Wgx36vlk\nJkqpuob7DCmhzD1pcSDMJmYDRunTN5PnqZPr/KuPonkIlga9BNZO4Q==\n=v3eH\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUWWkq3p3iHsuLtRhAQJrBggAlgo9jAUfW8bZ/P0MZ2CkqTUtEiPKDOfs\n29GlIJOFXxTxEUxCToJ1Dzk/W1CwV6pb0CJuD7f4Oc5B23iBjHxPtSsG5KWM7jKH\n+EZnNh0b7LP2FKmOgXOYeOCoTKldk4wK+GyjQaQWZxVtX5A/wA5bIPt/gilliTLQ\nEbvV8VbPnbVcObqDGq0QPlDqEtGySTxdsiei+IWSxIG6BMF/pqPUGhfksIBPpciS\ni6g7Uuth9qOrwGhQbJZ2dhe0vDOyacj9oaCGq9uzjM+CDW4We3YlsM04Wgx36vlk\nJkqpuob7DCmhzD1pcSDMJmYDRunTN5PnqZPr/KuPonkIlga9BNZO4Q==\n=v3eH\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5c10e82ae0bc99eff86d4b9baff1f1aa0bf84c0a\ntype commit\ntag v0.11.1\ntagger Bert Belder <bertbelder@gmail.com> 1365615787 +0200\n\n2013.04.11, Version 0.11.1 (Unstable)\n\nThis is the first versioned release from the current unstable libuv branch.\n\nChanges since Node.js v0.11.0:\n\n* all platforms: nanosecond resolution support for uv_fs_[fl]stat (Timothy J.\n  Fontaine)\n\n* all platforms: add netmask to uv_interface_address (Ben Kelly)\n\n* unix: make sure the `status` parameter passed to the `uv_getaddrinfo` is 0 or\n  -1 (Ben Noordhuis)\n\n* unix: limit the number of iovecs written in a single `writev` syscall to\n  IOV_MAX (Fedor Indutny)\n\n* unix: add dtrace probes for tick-start and tick-stop (Timothy J. Fontaine)\n\n* mingw-w64: don't call _set_invalid_parameter_handler (Nils Maier)\n\n* windows: fix memory leak in fs__sendfile (Shannen Saez)\n\n* windows: fix edge case bugs in uv_cpu_info (Bert Belder)\n\n* include: no longer ship with / include ngx-queue.h (Ben Noordhuis)\n\n* include: remove UV_VERSION_* macros from uv.h (Ben Noordhuis)\n\n* documentation updates (Kristian Evensen, Ben Kelly, Ben Noordhuis)\n\n* build: fix dtrace-enabled builds (Ben Noordhuis, Timothy J. Fontaine)\n\n* build: gyp disable thin archives (Timothy J. Fontaine)\n\n* build: add support for Visual Studio 2012 (Nicholas Vavilov)\n"
+  }
+}

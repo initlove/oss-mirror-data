@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY0MTU2MDg6NDVlNWIxN2M3OTc3MDQ0ZmFkMzI0MzZlYTM0NmUwZDNkNzQwZTk0ZQ==",
+  "sha": "45e5b17c7977044fad32436ea346e0d3d740e94e",
+  "url": "https://api.github.com/repos/openstack/oslo.service/git/tags/45e5b17c7977044fad32436ea346e0d3d740e94e",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-11-19T20:52:37Z"
+  },
+  "object": {
+    "sha": "6566ec5e4b143f47a835223e5bcbe68766c52f7a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.service/git/commits/6566ec5e4b143f47a835223e5bcbe68766c52f7a"
+  },
+  "tag": "1.31.6",
+  "message": "oslo.service 1.31.6 release\n\nmeta:version: 1.31.6\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Commit: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Change-Id: I1f0c4856e939bfa76e90542efc5091a4a9baa9a4\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJb8yKVAAoJEBpUEUgFTp44e+0MAJMnvgsfTfSShjmvfj39Y1OC\nLL1/pNY0k/tSbuKzfZ6W3wapra4W9xYynutNJfOCdhIsHFugGGdgzwPKwRhShm5z\nGRrl3cSaSrBRVXum8S4a7GaVLDHo/CfManyWOCFvKRVSu5pFnL+Ra0IVtrlPwrnw\nBCJ5ubVcZVFKgXpYWQ3uJBidPkn21gQMswhe38qQkEGsmYmuVJgSs0hJTSJXVOYI\nEak5YSo5IVO8PdzelhotxhmCZTUGQMnXhU4665h1+wIMvpZbGInFghwSzT+Y/mN9\nUHZkmbZCT7J2Spkb9u0AOrJdU8gnHpLNmmVze1d8PNSs0+aklNnuz/M8ZAn+YRJM\nGUQG5IyT3qDymGziNj36+3I0J6pwRgqXZR8s0hGPYBlaVtQyi00Tay5FTCzM3Lc8\n0ZCirBD2oHXNy/ahc5BE/M6esJlgjPfEbcK13XvISnNZY3/kllNYx34uZ9bMP5Go\niHdbXx3H4BaDwl2XWYn5nJCp7GMxGKvY80YmTO7T5Q==\n=2OZt\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJb8yKVAAoJEBpUEUgFTp44e+0MAJMnvgsfTfSShjmvfj39Y1OC\nLL1/pNY0k/tSbuKzfZ6W3wapra4W9xYynutNJfOCdhIsHFugGGdgzwPKwRhShm5z\nGRrl3cSaSrBRVXum8S4a7GaVLDHo/CfManyWOCFvKRVSu5pFnL+Ra0IVtrlPwrnw\nBCJ5ubVcZVFKgXpYWQ3uJBidPkn21gQMswhe38qQkEGsmYmuVJgSs0hJTSJXVOYI\nEak5YSo5IVO8PdzelhotxhmCZTUGQMnXhU4665h1+wIMvpZbGInFghwSzT+Y/mN9\nUHZkmbZCT7J2Spkb9u0AOrJdU8gnHpLNmmVze1d8PNSs0+aklNnuz/M8ZAn+YRJM\nGUQG5IyT3qDymGziNj36+3I0J6pwRgqXZR8s0hGPYBlaVtQyi00Tay5FTCzM3Lc8\n0ZCirBD2oHXNy/ahc5BE/M6esJlgjPfEbcK13XvISnNZY3/kllNYx34uZ9bMP5Go\niHdbXx3H4BaDwl2XWYn5nJCp7GMxGKvY80YmTO7T5Q==\n=2OZt\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6566ec5e4b143f47a835223e5bcbe68766c52f7a\ntype commit\ntag 1.31.6\ntagger OpenStack Release Bot <infra-root@openstack.org> 1542660757 +0000\n\noslo.service 1.31.6 release\n\nmeta:version: 1.31.6\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Commit: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Change-Id: I1f0c4856e939bfa76e90542efc5091a4a9baa9a4\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDE5Ojg2N2UzZTAyMGJjYTNiZjVlODllZjc2MzRhMjVlMWJhNjNjYTU0YWU=",
+  "sha": "867e3e020bca3bf5e89ef7634a25e1ba63ca54ae",
+  "url": "https://api.github.com/repos/openstack/swift/git/tags/867e3e020bca3bf5e89ef7634a25e1ba63ca54ae",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-01-25T16:28:55Z"
+  },
+  "object": {
+    "sha": "fcdb2fa2a15c9244c28175542fc14860b45c3a37",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/swift/git/commits/fcdb2fa2a15c9244c28175542fc14860b45c3a37"
+  },
+  "tag": "2.6.0",
+  "message": "swift 2.6.0 release\n\nmeta:version: 2.6.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWpk1HAAoJEDttBqDEKEN6y9cH/R0QrL1O123120Po1KYRe0vC\nn/yaWSrckJeg/Z/6PaxWJM2iKp0yWRkCimzwj6oNtsyIVyn5MBgNGc6HZAAeHkaU\nKfhic5hRWhM5GiN/uSxlz4XUin/qSNoG2eRZjiuBwB48XmX3cpU1V0uOZDn1AjNf\ndZEAuRLYkLtwngc93y8V/dZkgPalgj0f07hHZCh9NCAJryu7PGxjveVe5h+RdsWw\nPSNVWmemYMDyYRbOM97zvUZT51cBdBE6XbXEufwLgn0lBGZ9Rg/BrOZ9AqmpSWBB\n+Nu4ThMWJY6CE8WhPhj5U4YWvcblNLy7NsrUVcVPrErVxx7p21Wq5xMeoMAj5is=\n=nyrv\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWpk1HAAoJEDttBqDEKEN6y9cH/R0QrL1O123120Po1KYRe0vC\nn/yaWSrckJeg/Z/6PaxWJM2iKp0yWRkCimzwj6oNtsyIVyn5MBgNGc6HZAAeHkaU\nKfhic5hRWhM5GiN/uSxlz4XUin/qSNoG2eRZjiuBwB48XmX3cpU1V0uOZDn1AjNf\ndZEAuRLYkLtwngc93y8V/dZkgPalgj0f07hHZCh9NCAJryu7PGxjveVe5h+RdsWw\nPSNVWmemYMDyYRbOM97zvUZT51cBdBE6XbXEufwLgn0lBGZ9Rg/BrOZ9AqmpSWBB\n+Nu4ThMWJY6CE8WhPhj5U4YWvcblNLy7NsrUVcVPrErVxx7p21Wq5xMeoMAj5is=\n=nyrv\n-----END PGP SIGNATURE-----\n",
+    "payload": "object fcdb2fa2a15c9244c28175542fc14860b45c3a37\ntype commit\ntag 2.6.0\ntagger Doug Hellmann <doug@doughellmann.com> 1453739335 -0500\n\nswift 2.6.0 release\n\nmeta:version: 2.6.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\n"
+  }
+}

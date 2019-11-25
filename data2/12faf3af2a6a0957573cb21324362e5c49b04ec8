@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkyMTcwNTQ6MTJmYWYzYWYyYTZhMDk1NzU3M2NiMjEzMjQzNjJlNWM0OWIwNGVjOA==",
+  "sha": "12faf3af2a6a0957573cb21324362e5c49b04ec8",
+  "url": "https://api.github.com/repos/micro/go-micro/git/tags/12faf3af2a6a0957573cb21324362e5c49b04ec8",
+  "tagger": {
+    "name": "Asim Aslam",
+    "email": "asim@aslam.me",
+    "date": "2019-11-09T11:08:44Z"
+  },
+  "object": {
+    "sha": "a9e8fc60391ea6451ae89c266bf8edaa66b7f536",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micro/go-micro/git/commits/a9e8fc60391ea6451ae89c266bf8edaa66b7f536"
+  },
+  "tag": "v1.16.0",
+  "message": "- Pre-make slices for perf optimisation\n- Add runtime flag and k8s runtime\n- Add debug/profile for pprof profiling\n- Reduce go routines in mdns registry and registry cache\n- Optimise the router flap detection\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

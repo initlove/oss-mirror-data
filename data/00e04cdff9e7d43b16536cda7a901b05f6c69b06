@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6MDBlMDRjZGZmOWU3ZDQzYjE2NTM2Y2RhN2E5MDFiMDVmNmM2OWIwNg==",
+  "sha": "00e04cdff9e7d43b16536cda7a901b05f6c69b06",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/00e04cdff9e7d43b16536cda7a901b05f6c69b06",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2018-07-04T22:46:55Z"
+  },
+  "object": {
+    "sha": "22ef41f20f9bf493fc05a3f3c55227a9b34df4a1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/22ef41f20f9bf493fc05a3f3c55227a9b34df4a1"
+  },
+  "tag": "v0.11.0",
+  "message": "v0.11.0\n\nNew Features\n\n* Implement support for `BufferedProtocol`.\n  (by @1st1 in a959f274, 76b34bef, f9c43937)\n\n* Implement `loop.start_tls()`.\n  (by @1st1 in 622ed9c5)\n\n* Add `Server.get_loop()`.\n  (by @1st1 in 6a42f841)\n\nBug Fixes\n\n* Fix Server to wait in wait_closed() until all transports are done.\n  (by @1st1 in 124e981b)\n\n* SSLTransport.abort() should mark the transport as closed.\n  (by @1st1 in 4d6621f7)\n\n* Fix 3.7 32bit builds.\n  (by @1st1 in a68f3c9a, b5b4abb1 for #172)\n\nBuild\n\n* `setup.py`: Detect if the libuv submodule has not been checked out.\n  (by @1st1 in a190cddb)\n\n* Fix race between futures cancellation and `loop.remove_reader()` /\n  `loop.remove_writer()`.\n  (by @andr-04 and @1st1 in cb0a65ae for #169)\n\n* Enable 3.7 CI on Travis; drop AppVeyor.\n  (by @1st1 in 37f964b7 for #179)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

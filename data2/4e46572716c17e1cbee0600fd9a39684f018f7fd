@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAzMDk4Njo0ZTQ2NTcyNzE2YzE3ZTFjYmVlMDYwMGZkOWEzOTY4NGYwMThmN2Zk",
+  "sha": "4e46572716c17e1cbee0600fd9a39684f018f7fd",
+  "url": "https://api.github.com/repos/openstack/python-keystoneclient/git/tags/4e46572716c17e1cbee0600fd9a39684f018f7fd",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-01-25T09:49:05Z"
+  },
+  "object": {
+    "sha": "5e23cef55366e09c1b12d692b8666140bed8f549",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-keystoneclient/git/commits/5e23cef55366e09c1b12d692b8666140bed8f549"
+  },
+  "tag": "3.10.0",
+  "message": "python-keystoneclient 3.10.0 release\n\nmeta:version: 3.10.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Steve Martinelli <s.martinelli@gmail.com>\nmeta:release:Commit: Steve Martinelli <s.martinelli@gmail.com>\nmeta:release:Change-Id: Ifbddca9b2b6ddb57b4f39cdaf7a2b7370c8ec512\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYiHSRAAoJELkGmxM1cAzc2c0IALyY6D303HFP93TR61rrrZ1V\n0gPpa2KVVgoTxd4NVRLbaOfh/20BI7w0Fx7h/uRgTzg6V9FZj44zHhDzJ4GRinzz\npvWx75PW2+HAywFyL6XP2sqhxbPAkg9HCdZNcH/zmuNU4iLgwfaM5JV2ZPs3y+dJ\nHYcanL4YJ2Kave8lmd1+rb3MB+5PenSmZsiA1agWGPh/t8nDy4Q6MTEqo6zRDRsu\ny63+7x24x8SzJdZHk4Taie26MkUWA+XKqukcx20DR6qiRMU3d9oyBGGti6Bqgy1L\nY8AGiC6s40er33qKdSkuY+XVkxLc+OrHQXA4UKwK4nSp3oRQr96ORj/gF8Vh2sg=\n=/Rqs\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYiHSRAAoJELkGmxM1cAzc2c0IALyY6D303HFP93TR61rrrZ1V\n0gPpa2KVVgoTxd4NVRLbaOfh/20BI7w0Fx7h/uRgTzg6V9FZj44zHhDzJ4GRinzz\npvWx75PW2+HAywFyL6XP2sqhxbPAkg9HCdZNcH/zmuNU4iLgwfaM5JV2ZPs3y+dJ\nHYcanL4YJ2Kave8lmd1+rb3MB+5PenSmZsiA1agWGPh/t8nDy4Q6MTEqo6zRDRsu\ny63+7x24x8SzJdZHk4Taie26MkUWA+XKqukcx20DR6qiRMU3d9oyBGGti6Bqgy1L\nY8AGiC6s40er33qKdSkuY+XVkxLc+OrHQXA4UKwK4nSp3oRQr96ORj/gF8Vh2sg=\n=/Rqs\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5e23cef55366e09c1b12d692b8666140bed8f549\ntype commit\ntag 3.10.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1485337745 +0000\n\npython-keystoneclient 3.10.0 release\n\nmeta:version: 3.10.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Steve Martinelli <s.martinelli@gmail.com>\nmeta:release:Commit: Steve Martinelli <s.martinelli@gmail.com>\nmeta:release:Change-Id: Ifbddca9b2b6ddb57b4f39cdaf7a2b7370c8ec512\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOjE1MTAwZjE3ZGU4MmY3OWM4ZmE3MjA1OGE2ODZiMDBiMTIwMGEyNDE=",
+  "sha": "15100f17de82f79c8fa72058a686b00b1200a241",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/15100f17de82f79c8fa72058a686b00b1200a241",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2017-07-05T13:34:11Z"
+  },
+  "object": {
+    "sha": "14bab11c8212941dd42b8951e4ca4c5726014ee1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/14bab11c8212941dd42b8951e4ca4c5726014ee1"
+  },
+  "tag": "5.0.0-beta6",
+  "message": "Version 5.0.0-beta6\n\n- [all] The `disconnect` event now more reliable. Will be emitted as an error if there are no listeners.\n- [all] `SerialPort.list` now returns a usable promise if a callback is not provided @MikeKovarik\n- [unix] New read/write subsystem. Write CPU dropped from 100% to 0-2%. @reconbot (Thanks to @indutny for getting me unstuck many times!)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc0ODk5ODI6NDgxZmQ4M2FmNTQ2ZWIyNjc4ZWE3MzgxZWE5YTNlMmEyMjU3MzI1MA==",
+  "sha": "481fd83af546eb2678ea7381ea9a3e2a22573250",
+  "url": "https://api.github.com/repos/openstack/neutron-vpnaas/git/tags/481fd83af546eb2678ea7381ea9a3e2a22573250",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-09-16T16:10:35Z"
+  },
+  "object": {
+    "sha": "3c93dc6c136557761fc3bf0a16097180f9f0fe65",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-vpnaas/git/commits/3c93dc6c136557761fc3bf0a16097180f9f0fe65"
+  },
+  "tag": "9.0.0.0rc1",
+  "message": "neutron-vpnaas 9.0.0.0rc1 release candidate\n\nmeta:version: 9.0.0.0rc1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Commit: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Change-Id: Ibb394139cf8ce7650181390e17a236da54609212\nmeta:release:Code-Review+1: Armando Migliaccio <armamig@gmail.com>\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX3Bl7AAoJENljH+rwzGIn/wEH/ifbzAV8CTNAqNOho67tOicp\nUleQOupydRes59XEd649QmcOOOq2DxolnQncBLuE0LB1dFG1lnpwj0FTZUt9M4ow\nX1kmOsJ6ZrsgPpZ1LFDh25wPlV5wf30guFCXkmxXi31RlBJoU42ZeGoKC48wOiFH\nxZNSmwp72Feo2ryNPJBrUEBC8Q2M0rM2caaTdk2NvEVmHEcUgsLRFtjQAJM9gK/6\nFA0Eq2oB+k7dxIHM3Wvc0mo+6LvebHxT/nrqBYKbSUBZnC8bvBBEbQFX/jUix+d/\nySucGjtQln0q/KHFtNvgfyx+kT2rBlOJE2ITMWglhczAPUjymKrcTHsNrTNYYv4=\n=98Pa\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX3Bl7AAoJENljH+rwzGIn/wEH/ifbzAV8CTNAqNOho67tOicp\nUleQOupydRes59XEd649QmcOOOq2DxolnQncBLuE0LB1dFG1lnpwj0FTZUt9M4ow\nX1kmOsJ6ZrsgPpZ1LFDh25wPlV5wf30guFCXkmxXi31RlBJoU42ZeGoKC48wOiFH\nxZNSmwp72Feo2ryNPJBrUEBC8Q2M0rM2caaTdk2NvEVmHEcUgsLRFtjQAJM9gK/6\nFA0Eq2oB+k7dxIHM3Wvc0mo+6LvebHxT/nrqBYKbSUBZnC8bvBBEbQFX/jUix+d/\nySucGjtQln0q/KHFtNvgfyx+kT2rBlOJE2ITMWglhczAPUjymKrcTHsNrTNYYv4=\n=98Pa\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3c93dc6c136557761fc3bf0a16097180f9f0fe65\ntype commit\ntag 9.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1474042235 +0000\n\nneutron-vpnaas 9.0.0.0rc1 release candidate\n\nmeta:version: 9.0.0.0rc1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Commit: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Change-Id: Ibb394139cf8ce7650181390e17a236da54609212\nmeta:release:Code-Review+1: Armando Migliaccio <armamig@gmail.com>\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n"
+  }
+}

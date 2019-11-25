@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzYxNjE1ODo4YzgyZGYzMzQ5Zjg4NzRkZDQzODI2ZTRmNGM1MjlhYTRlOTI0NmY5",
+  "sha": "8c82df3349f8874dd43826e4f4c529aa4e9246f9",
+  "url": "https://api.github.com/repos/Netflix/ribbon/git/tags/8c82df3349f8874dd43826e4f4c529aa4e9246f9",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-01-14T23:12:48Z"
+  },
+  "object": {
+    "sha": "33daee0f1582ec4580192f859ee2084bd715c99b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/ribbon/git/commits/33daee0f1582ec4580192f859ee2084bd715c99b"
+  },
+  "tag": "v2.1.2",
+  "message": "Release of 2.1.2\n\n- 33daee0f1582ec4580192f859ee2084bd715c99b: Merge pull request #261 from tbak/master\n- b060db1a6f2b81dd8b89c5f34d0c0d5f6124ed7e: Remove eureka2 dependencies\n- 69fa7111e0be4a03d6fc913c6c6a2e20f35430b4: Merge pull request #260 from drtechniko/master\n- 44dac4c702625dbf1d4db497652ead2374de4d1e: Fix wrap-around issue with RoundRobinRule.\n- 62e101ea46455b6958d4d1074e097f90db263142: adding OSSMETADATA for NetflixOSS tracking\n- f67a91d477b3fe4fb9b873d599052b1dc5cd603c: Merge pull request #255 from mattnelson/master\n- c96d5a2bd3abec4da76703c0d7c0084491a497ea: Merge pull request #256 from mattnelson/RestClient_delete\n- 7701109042f4ee5e7c10e6d4245337947800f088: Do not include entity on DELETE requests\n- d98065c4821e0eab0e74617de8e99766412a194d: Propagate exception when cause is null\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

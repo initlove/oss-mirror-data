@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjoyN2RhOTZiZTA0MzZkMzkzNzIyNmRlYzJiM2M3NmZkNDYyYmY2N2Vl",
+  "sha": "27da96be0436d3937226dec2b3c76fd462bf67ee",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/27da96be0436d3937226dec2b3c76fd462bf67ee",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:28:52Z"
+  },
+  "object": {
+    "sha": "8148bb113fc5b8db382f68fb60e8cde1dfab4b1b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/8148bb113fc5b8db382f68fb60e8cde1dfab4b1b"
+  },
+  "tag": "0.1.12",
+  "message": "v0.1.12\n- Change in repomd module interface\n- Small code refactoring\n- Remove trailing '/' from paths in filelists.sqlite\n- Add db statement destroy calls\n- Update README\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

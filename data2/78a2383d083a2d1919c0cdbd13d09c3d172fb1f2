@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkzNTI6NzhhMjM4M2QwODNhMmQxOTE5YzBjZGJkMTNkMDljM2QxNzJmYjFmMg==",
+  "sha": "78a2383d083a2d1919c0cdbd13d09c3d172fb1f2",
+  "url": "https://api.github.com/repos/mikel/mail/git/tags/78a2383d083a2d1919c0cdbd13d09c3d172fb1f2",
+  "tagger": {
+    "name": "Jeremy Daer",
+    "email": "jeremydaer@gmail.com",
+    "date": "2017-04-27T01:03:37Z"
+  },
+  "object": {
+    "sha": "24bc59536c798133dfc00fe156df973b8de44d4e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mikel/mail/git/commits/24bc59536c798133dfc00fe156df973b8de44d4e"
+  },
+  "tag": "2.6.5",
+  "message": "Mail 2.6.5\n\nFeatures:\n* #1053 - Ruby 2.4.0 compatibility. Fixnum+Bignum unified as Integer. (peterkovacs)\n\nBugs:\n* #605 - Fix Mail::Address#name for nil addresses (peterkovacs)\n* #1003 - Fix decoding some b encoded headers on specific rubies that don't account for lack of base64 padding (kjg)\n* #1023 - Fix double-quoting in display names. (garethrees)\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEArAs8/vAcagzSF1lELwItGXmNBgFAlkBQ74ACgkQELwItGXm\nNBj/+A//T7/CHTIcE/ap46T6NOVk4b03PSA2M0fejRZ65B/JpDdWqOloKUkkKKC2\nlvjM1eMAF9aTLAGSU8jPHS61591sFNBPji16Pohw9a2TMFlaXl3W94nnP3DkwBAb\novdcsSEY0iHNXllfBvzMZ1r/WdDKG7gVAWa33gV7zbbOK9l1E4ic9dx6T/yVAh/c\nDPtaiz8u9ze7L7TqoV8ZBwAP1oT5gw3TLwP2rYmrYJnsuvm/XlrSOVS9WQkUIE3b\nKyxq8CavGc5/fUa7R9aNgM/2cmEHOaYLwe5WdYWLNGtsJAyA0gwSBz23ynXgJmAp\nXd8cSejgzHg1UL9QukhS/rAWUh+pyaAjGynrdHCQHrtDWdiBTvAq5vEvebcFKlH0\nLA+XbD3aG5U9Xu2YHdEcnMWka9wfYKZU5rDXGtxgFpo4Naf78HJcUqguZ0Fv5QZc\nVqb3Bj+ErpFimLoKN9P6cHXf+CV5Frzc0Ux9QRt3BQu4PKU1puRVTFUarCvY8zaR\nrYtsUWKKXAB1LyVMZG9Y5Fm3At1SxSPrCceiVc4If195jp8dAHbuUcDsjhAxM9Aj\ncrNA5j84MgS8PL9fDdgXEGN0iRMVkZ5JOT+lTG5ivpeX/3EcPqXy7LrAjKZzP2uD\nWtaZFke7hh+F/Mo78cZBHhIt01z4n/SeNU2D5c0hGQDBmSHVuJo=\n=V6KA\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEArAs8/vAcagzSF1lELwItGXmNBgFAlkBQ74ACgkQELwItGXm\nNBj/+A//T7/CHTIcE/ap46T6NOVk4b03PSA2M0fejRZ65B/JpDdWqOloKUkkKKC2\nlvjM1eMAF9aTLAGSU8jPHS61591sFNBPji16Pohw9a2TMFlaXl3W94nnP3DkwBAb\novdcsSEY0iHNXllfBvzMZ1r/WdDKG7gVAWa33gV7zbbOK9l1E4ic9dx6T/yVAh/c\nDPtaiz8u9ze7L7TqoV8ZBwAP1oT5gw3TLwP2rYmrYJnsuvm/XlrSOVS9WQkUIE3b\nKyxq8CavGc5/fUa7R9aNgM/2cmEHOaYLwe5WdYWLNGtsJAyA0gwSBz23ynXgJmAp\nXd8cSejgzHg1UL9QukhS/rAWUh+pyaAjGynrdHCQHrtDWdiBTvAq5vEvebcFKlH0\nLA+XbD3aG5U9Xu2YHdEcnMWka9wfYKZU5rDXGtxgFpo4Naf78HJcUqguZ0Fv5QZc\nVqb3Bj+ErpFimLoKN9P6cHXf+CV5Frzc0Ux9QRt3BQu4PKU1puRVTFUarCvY8zaR\nrYtsUWKKXAB1LyVMZG9Y5Fm3At1SxSPrCceiVc4If195jp8dAHbuUcDsjhAxM9Aj\ncrNA5j84MgS8PL9fDdgXEGN0iRMVkZ5JOT+lTG5ivpeX/3EcPqXy7LrAjKZzP2uD\nWtaZFke7hh+F/Mo78cZBHhIt01z4n/SeNU2D5c0hGQDBmSHVuJo=\n=V6KA\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 24bc59536c798133dfc00fe156df973b8de44d4e\ntype commit\ntag 2.6.5\ntagger Jeremy Daer <jeremydaer@gmail.com> 1493255017 -0700\n\nMail 2.6.5\n\nFeatures:\n* #1053 - Ruby 2.4.0 compatibility. Fixnum+Bignum unified as Integer. (peterkovacs)\n\nBugs:\n* #605 - Fix Mail::Address#name for nil addresses (peterkovacs)\n* #1003 - Fix decoding some b encoded headers on specific rubies that don't account for lack of base64 padding (kjg)\n* #1023 - Fix double-quoting in display names. (garethrees)\n"
+  }
+}

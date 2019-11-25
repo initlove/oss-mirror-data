@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY5MjEzNzE6OWVmMDdhNThlMGNlYjExMzkzNjAzY2U2YTAwMDkzZjg4N2JkZjRhYQ==",
+  "sha": "9ef07a58e0ceb11393603ce6a00093f887bdf4aa",
+  "url": "https://api.github.com/repos/openstack/oslo.vmware/git/tags/9ef07a58e0ceb11393603ce6a00093f887bdf4aa",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-11-20T12:58:56Z"
+  },
+  "object": {
+    "sha": "95a30dfa24d259fe16f0fd43eb1b67b9f3fc0397",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.vmware/git/commits/95a30dfa24d259fe16f0fd43eb1b67b9f3fc0397"
+  },
+  "tag": "2.23.1",
+  "message": "oslo.vmware 2.23.1 release\n\nmeta:version: 2.23.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Change-Id: I7e0202a7867d080cab6462f591711686f061e395\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaEtGQAAoJEEIeZHKBH5qBskEIAM0LO03QZpZu9WUbThCM3isj\nTVFcZXSVZQelj8uLKvZyqZM9L0SvYwDofuH2jcE4nrBaxjDfnPD84/gbezgEKknn\nd7elKfmmMudaI12JMuFuNw8iSZA8TGg1qSiW6ugLqK7MgeFm4yjScSR/7Vk70Bbm\nL7Ff7WcN8qNQ+e410R+i0Nw3Yw9I2SriDaAuBie6MHVaOQ1EjFaaqmw8kYqE+dcJ\n5O5zbRQdESqBVmgoGvWdO+AI7pu1OfP+h6xaq8G4kowzmVOugFmLDFNfFNDG9HO4\n1ibgN9zHKR97QZbaHlizWF3QAA8yIIyTyhag6w5c+uHUvBtwphOlR40bB0qhol4=\n=9oCh\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaEtGQAAoJEEIeZHKBH5qBskEIAM0LO03QZpZu9WUbThCM3isj\nTVFcZXSVZQelj8uLKvZyqZM9L0SvYwDofuH2jcE4nrBaxjDfnPD84/gbezgEKknn\nd7elKfmmMudaI12JMuFuNw8iSZA8TGg1qSiW6ugLqK7MgeFm4yjScSR/7Vk70Bbm\nL7Ff7WcN8qNQ+e410R+i0Nw3Yw9I2SriDaAuBie6MHVaOQ1EjFaaqmw8kYqE+dcJ\n5O5zbRQdESqBVmgoGvWdO+AI7pu1OfP+h6xaq8G4kowzmVOugFmLDFNfFNDG9HO4\n1ibgN9zHKR97QZbaHlizWF3QAA8yIIyTyhag6w5c+uHUvBtwphOlR40bB0qhol4=\n=9oCh\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 95a30dfa24d259fe16f0fd43eb1b67b9f3fc0397\ntype commit\ntag 2.23.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1511182736 +0000\n\noslo.vmware 2.23.1 release\n\nmeta:version: 2.23.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Change-Id: I7e0202a7867d080cab6462f591711686f061e395\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

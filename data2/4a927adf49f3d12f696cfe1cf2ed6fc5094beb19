@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6NGE5MjdhZGY0OWYzZDEyZjY5NmNmZTFjZjJlZDZmYzUwOTRiZWIxOQ==",
+  "sha": "4a927adf49f3d12f696cfe1cf2ed6fc5094beb19",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/4a927adf49f3d12f696cfe1cf2ed6fc5094beb19",
+  "tagger": {
+    "name": "lkorth",
+    "email": "luke@lukekorth.com",
+    "date": "2017-03-31T21:58:02Z"
+  },
+  "object": {
+    "sha": "baef469f8f88e00165571dd17b24873c67f57a12",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/baef469f8f88e00165571dd17b24873c67f57a12"
+  },
+  "tag": "2.5.1",
+  "message": "2.5.1\n\n* Fix non-optional `data-collector` dependency in Braintree\n* Create `BraintreeRequestCodes` for use with `BraintreeCancelListener#onCancel`\n* Move PayPal browser switches to use [browser-switch-android](https://github.com/braintree/browser-switch-android)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

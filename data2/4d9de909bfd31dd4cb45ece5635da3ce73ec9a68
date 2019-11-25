@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDg2ODM3NTo0ZDlkZTkwOWJmZDMxZGQ0Y2I0NWVjZTU2MzVkYTNjZTczZWM5YTY4",
+  "sha": "4d9de909bfd31dd4cb45ece5635da3ce73ec9a68",
+  "url": "https://api.github.com/repos/openstack/python-cinderclient/git/tags/4d9de909bfd31dd4cb45ece5635da3ce73ec9a68",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-03-15T16:51:15Z"
+  },
+  "object": {
+    "sha": "d0790e31816628eb11152a9fb3bdc6d0d5f1962b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-cinderclient/git/commits/d0790e31816628eb11152a9fb3bdc6d0d5f1962b"
+  },
+  "tag": "2.0.1",
+  "message": "python-cinderclient 2.0.1 release\n\nmeta:version: 2.0.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Commit: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Change-Id: I50d865f661a726bf2570bb3b29aa8b28e2037b7a\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYyXEDAAoJELkGmxM1cAzcOP0IALXNC5VyKTrdRhr9P5AR9nyG\nkbNzvWv6vHzXokwn/eJcsO2FRXN0eDaCq96LlKQbasaoFyXy9dLY+9Q0B5X4oaq8\nC7nIcqNZVPRK271Z7X/+LQYUde+6NBss/v9d00F0YzSCr8MCeDcR2yQFXEZXSf1L\nZ/w0MCoTqMa+nHEsJ9oBdrBYuP+/xP0aDCN2tcOE0eAxpxVlW0mKE8+rm8/UWXYQ\n9CwmCPgArVsqB/jhissPzNy2+OTABdrGma9YnbyXtnUN+ftZuoQ/qTP2VFx4xWvd\naUVbcVdbBTYOyKx53zzFJ04VZ5EeTBSOhwwzDq7D7/A/lBUHxSxqO3cf08SSFok=\n=eS7t\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYyXEDAAoJELkGmxM1cAzcOP0IALXNC5VyKTrdRhr9P5AR9nyG\nkbNzvWv6vHzXokwn/eJcsO2FRXN0eDaCq96LlKQbasaoFyXy9dLY+9Q0B5X4oaq8\nC7nIcqNZVPRK271Z7X/+LQYUde+6NBss/v9d00F0YzSCr8MCeDcR2yQFXEZXSf1L\nZ/w0MCoTqMa+nHEsJ9oBdrBYuP+/xP0aDCN2tcOE0eAxpxVlW0mKE8+rm8/UWXYQ\n9CwmCPgArVsqB/jhissPzNy2+OTABdrGma9YnbyXtnUN+ftZuoQ/qTP2VFx4xWvd\naUVbcVdbBTYOyKx53zzFJ04VZ5EeTBSOhwwzDq7D7/A/lBUHxSxqO3cf08SSFok=\n=eS7t\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d0790e31816628eb11152a9fb3bdc6d0d5f1962b\ntype commit\ntag 2.0.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1489596675 +0000\n\npython-cinderclient 2.0.1 release\n\nmeta:version: 2.0.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Commit: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Change-Id: I50d865f661a726bf2570bb3b29aa8b28e2037b7a\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ4Mjk5Nzo4ZGFjODllY2Y1ZjYxM2NlYWNmOTA2YjMyZmJjZTFkMDFkYWY2NWQ5",
+  "sha": "8dac89ecf5f613ceacf906b32fbce1d01daf65d9",
+  "url": "https://api.github.com/repos/phpredis/phpredis/git/tags/8dac89ecf5f613ceacf906b32fbce1d01daf65d9",
+  "tagger": {
+    "name": "michael-grunder",
+    "email": "michael.grunder@gmail.com",
+    "date": "2014-03-17T14:48:21Z"
+  },
+  "object": {
+    "sha": "9acd3760ee7145701c144837cc39219b7845f3be",
+    "type": "commit",
+    "url": "https://api.github.com/repos/phpredis/phpredis/git/commits/9acd3760ee7145701c144837cc39219b7845f3be"
+  },
+  "tag": "2.2.5",
+  "message": "phpredis 2.2.5\n\nThis is a minor release with several bug fixes as well as additions to support\nnew commands that have been introduced to Redis since our last release.\n\nA special thanks to everyone who helps the project by commenting on issues and\nsubmitting pull requests!  :)\n\n[NEW] Support for the BITPOS command\n[NEW] Connection timeout option for RedisArray (@MikeToString)\n[NEW] A _serialize method, to complement our existing _unserialize method\n[NEW] Support for the PUBSUB command\n[NEW] Support for SCAN, SSCAN, HSCAN, and ZSCAN\n[NEW] Support for the WAIT command\n\n[FIX] Handle the COPY and REPLACE arguments for the MIGRATE command\n\n[DOC] Fix syntax error in documentation for the SET command (@mithunsatheesh)\n[DOC] Homebrew documentation instructions (@mathias)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

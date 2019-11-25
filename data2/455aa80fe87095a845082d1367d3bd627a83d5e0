@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY2MjY5NTg6NDU1YWE4MGZlODcwOTVhODQ1MDgyZDEzNjdkM2JkNjI3YTgzZDVlMA==",
+  "sha": "455aa80fe87095a845082d1367d3bd627a83d5e0",
+  "url": "https://api.github.com/repos/openstack/stevedore/git/tags/455aa80fe87095a845082d1367d3bd627a83d5e0",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-09-25T14:15:22Z"
+  },
+  "object": {
+    "sha": "97ecf51a6b3461917ca732a8695b62c41d29e20d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/stevedore/git/commits/97ecf51a6b3461917ca732a8695b62c41d29e20d"
+  },
+  "tag": "1.27.0",
+  "message": "stevedore 1.27.0 release\n\nmeta:version: 1.27.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Change-Id: I3d18b4891298a44498e4a9558b4a2bd461f1961e\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZyQ96AAoJEEIeZHKBH5qBX3cH/18UhA20svmBbKrfhdSVqhys\nH86HwpDpo8Gp2NKET3NHl/Q9yFtW+gpfjLCgVpyODwmKlDASEdhuv77ph52WdA1j\nFMZ+kc98EzlCa3YjweVkA8CN+ejmLH6PkOGkFK1N710s5zBf8hKrLwVGGEPvyEDZ\n2vDx4M0GMp9MaRCYQDsAGCC/FgGMyxSILGbO3/gCWh2+YnFUiSWteDMpgn6eToVk\nIFjRDUY8WMDKt0GhJUsELyPa5Hc7L1256yBM5EmKaIjAuHu7dhU35I3vuvoKzR71\n8oHQjdFFfwHKYdPnyBb5t4AzVSpFTeIPfA4DZgNFfr70ZClUZ+MqnE9Si07HjyI=\n=n7T4\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZyQ96AAoJEEIeZHKBH5qBX3cH/18UhA20svmBbKrfhdSVqhys\nH86HwpDpo8Gp2NKET3NHl/Q9yFtW+gpfjLCgVpyODwmKlDASEdhuv77ph52WdA1j\nFMZ+kc98EzlCa3YjweVkA8CN+ejmLH6PkOGkFK1N710s5zBf8hKrLwVGGEPvyEDZ\n2vDx4M0GMp9MaRCYQDsAGCC/FgGMyxSILGbO3/gCWh2+YnFUiSWteDMpgn6eToVk\nIFjRDUY8WMDKt0GhJUsELyPa5Hc7L1256yBM5EmKaIjAuHu7dhU35I3vuvoKzR71\n8oHQjdFFfwHKYdPnyBb5t4AzVSpFTeIPfA4DZgNFfr70ZClUZ+MqnE9Si07HjyI=\n=n7T4\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 97ecf51a6b3461917ca732a8695b62c41d29e20d\ntype commit\ntag 1.27.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1506348922 +0000\n\nstevedore 1.27.0 release\n\nmeta:version: 1.27.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Change-Id: I3d18b4891298a44498e4a9558b4a2bd461f1961e\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

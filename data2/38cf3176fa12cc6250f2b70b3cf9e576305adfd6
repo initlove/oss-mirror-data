@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDozOGNmMzE3NmZhMTJjYzYyNTBmMmI3MGIzY2Y5ZTU3NjMwNWFkZmQ2",
+  "sha": "38cf3176fa12cc6250f2b70b3cf9e576305adfd6",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/38cf3176fa12cc6250f2b70b3cf9e576305adfd6",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2014-11-25T09:46:25Z"
+  },
+  "object": {
+    "sha": "ac495bccab4d47ef1b36c77fec077f8cab5a3360",
+    "type": "tag",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/ac495bccab4d47ef1b36c77fec077f8cab5a3360"
+  },
+  "tag": "librepo-1.1.0",
+  "message": "v1.1.0\n- New librepo.download_url(url, fd, handle=None) function in Python API.\n- Low-level downloader interface is now public in C API.\n- Small change of API lr_download_packages() and lr_packagetarget_new\n  functions.\n- In python download_packages() changed from method of Handle() to\n  librepo module function without handle param.\n  Param handle was moved to the PackageTarget class that takes handle\n  as a optional param during constrution.\n- Implements checking size of downloaded files (expectedsize\n  param of downloading functions).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

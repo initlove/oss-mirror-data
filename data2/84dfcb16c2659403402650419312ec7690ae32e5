@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQyNDUyMzg6ODRkZmNiMTZjMjY1OTQwMzQwMjY1MDQxOTMxMmVjNzY5MGFlMzJlNQ==",
+  "sha": "84dfcb16c2659403402650419312ec7690ae32e5",
+  "url": "https://api.github.com/repos/openstack/manila/git/tags/84dfcb16c2659403402650419312ec7690ae32e5",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-08-09T15:27:17Z"
+  },
+  "object": {
+    "sha": "a17c89ff0875305e4e90ccc45a696aae9d3864dd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/manila/git/commits/a17c89ff0875305e4e90ccc45a696aae9d3864dd"
+  },
+  "tag": "7.0.0.0rc1",
+  "message": "manila 7.0.0.0rc1 release candidate\n\nmeta:version: 7.0.0.0rc1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Tom Barron <tpb@dyncloud.net>\nmeta:release:Commit: Tom Barron <tpb@dyncloud.net>\nmeta:release:Change-Id: Ia02c9fb57acb936e9854e75b02b317373988ddd4\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbbF1VAAoJEMNs3LTfAMaMBjMH/jTBeuGLapGV6wl++kPAQnfD\nqvQBNIWiuSxoAC7KwSkK8A3PmS4pCK/LsXQeSecdIC8NxWiQ8KbwAhumhbeMMJK9\nHAvxF/U796KWNIAkMngK0a0xOW85KHoLXJ2CaZVfeV1iSM6+f+iFt8Zj8YrBuW2V\nDlVf04k7g+173Wk6xBbnsLDR3vFeK8TGFugYhVGh1LKU1JLUt9aka+JEeu2slqbh\n4Wy07YITiriCn+1SAZ7sRLpG4bu3/Qyrnkyb5HluP8UY8M61xQoCoOWxZFhostcn\nH3qemL4/NAStV/y5XkRLURor9ciohC35gSpEUcTZL82dEn6Hka53R/MMYT2g+vs=\n=r4ld\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbbF1VAAoJEMNs3LTfAMaMBjMH/jTBeuGLapGV6wl++kPAQnfD\nqvQBNIWiuSxoAC7KwSkK8A3PmS4pCK/LsXQeSecdIC8NxWiQ8KbwAhumhbeMMJK9\nHAvxF/U796KWNIAkMngK0a0xOW85KHoLXJ2CaZVfeV1iSM6+f+iFt8Zj8YrBuW2V\nDlVf04k7g+173Wk6xBbnsLDR3vFeK8TGFugYhVGh1LKU1JLUt9aka+JEeu2slqbh\n4Wy07YITiriCn+1SAZ7sRLpG4bu3/Qyrnkyb5HluP8UY8M61xQoCoOWxZFhostcn\nH3qemL4/NAStV/y5XkRLURor9ciohC35gSpEUcTZL82dEn6Hka53R/MMYT2g+vs=\n=r4ld\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a17c89ff0875305e4e90ccc45a696aae9d3864dd\ntype commit\ntag 7.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1533828437 +0000\n\nmanila 7.0.0.0rc1 release candidate\n\nmeta:version: 7.0.0.0rc1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Tom Barron <tpb@dyncloud.net>\nmeta:release:Commit: Tom Barron <tpb@dyncloud.net>\nmeta:release:Change-Id: Ia02c9fb57acb936e9854e75b02b317373988ddd4\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY2MjY5NjE6MGI0YWUxOGYyMzkwMmYyMmZmMDIzNTI0NmU3ODdkYTJiZDFiZWViYg==",
+  "sha": "0b4ae18f23902f22ff0235246e787da2bd1beebb",
+  "url": "https://api.github.com/repos/openstack/taskflow/git/tags/0b4ae18f23902f22ff0235246e787da2bd1beebb",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-05-30T01:54:08Z"
+  },
+  "object": {
+    "sha": "5965747909f3439be18d5cb8b4d4c4ce3cca6a2f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/taskflow/git/commits/5965747909f3439be18d5cb8b4d4c4ce3cca6a2f"
+  },
+  "tag": "3.7.0",
+  "message": "taskflow 3.7.0 release\n\nmeta:version: 3.7.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Iba1df2119592ce5a468d56958019c08692b6b245\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlzvN8AZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOOQKC/0U4XRq9BkugaNp6Jm1unMn\ndqOxPpBpOFxMI7QG7Z8s03f8yx5x0buqI6VlnJpID7XoG/f2b89hg8ejKMnr26Tn\nZefLdFE86dUb57U4Jd4/ZTSb3h+NVuvcs1NqGpwD5jipgWna+Zt000sISH/SYJvo\nuYxW6rvW30GmYlbZmUzd1OkH7+npoCpwdUEcglaMx7kBj+1i6j5gTisBEm5fpEz9\nMkunaswvVhPdwe+OREx+5n+JgwUiod1oEpsX2+pL4ERPOZLc/I+Ji7ISTC89zX0O\n+mlnLoYRvXVOwuNDg6mqRmZbMLMd4VKL/mJidJEFe0SIsuDcB5uHffi6TUwGyyvo\n1rj7FvknFQA9qU59OhGiCfmlUapNPdjv/USiBhJ2Nu1JL9ZmlQ6I0hSM61HtLQor\nCt+dPK0tCcJmAIpYPik2Jc6agtDoO6qvHZ7Oyd4UzaXWTPL3CEJzhAjGmc3WGa33\nK9BNlEF9NujJGHNUPhL/L6u9ESHbtKli1Xv9RN93YjE=\n=XkPE\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlzvN8AZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOOQKC/0U4XRq9BkugaNp6Jm1unMn\ndqOxPpBpOFxMI7QG7Z8s03f8yx5x0buqI6VlnJpID7XoG/f2b89hg8ejKMnr26Tn\nZefLdFE86dUb57U4Jd4/ZTSb3h+NVuvcs1NqGpwD5jipgWna+Zt000sISH/SYJvo\nuYxW6rvW30GmYlbZmUzd1OkH7+npoCpwdUEcglaMx7kBj+1i6j5gTisBEm5fpEz9\nMkunaswvVhPdwe+OREx+5n+JgwUiod1oEpsX2+pL4ERPOZLc/I+Ji7ISTC89zX0O\n+mlnLoYRvXVOwuNDg6mqRmZbMLMd4VKL/mJidJEFe0SIsuDcB5uHffi6TUwGyyvo\n1rj7FvknFQA9qU59OhGiCfmlUapNPdjv/USiBhJ2Nu1JL9ZmlQ6I0hSM61HtLQor\nCt+dPK0tCcJmAIpYPik2Jc6agtDoO6qvHZ7Oyd4UzaXWTPL3CEJzhAjGmc3WGa33\nK9BNlEF9NujJGHNUPhL/L6u9ESHbtKli1Xv9RN93YjE=\n=XkPE\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5965747909f3439be18d5cb8b4d4c4ce3cca6a2f\ntype commit\ntag 3.7.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1559181248 +0000\n\ntaskflow 3.7.0 release\n\nmeta:version: 3.7.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Iba1df2119592ce5a468d56958019c08692b6b245\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

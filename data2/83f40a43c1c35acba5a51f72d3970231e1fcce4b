@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo4M2Y0MGE0M2MxYzM1YWNiYTVhNTFmNzJkMzk3MDIzMWUxZmNjZTRi",
+  "sha": "83f40a43c1c35acba5a51f72d3970231e1fcce4b",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/83f40a43c1c35acba5a51f72d3970231e1fcce4b",
+  "tagger": {
+    "name": "Bert Belder",
+    "email": "bertbelder@gmail.com",
+    "date": "2013-03-27T16:59:45Z"
+  },
+  "object": {
+    "sha": "d27380d6bd9bcbb03ebc3fc0dd4aef77ee88e194",
+    "type": "tag",
+    "url": "https://api.github.com/repos/joyent/libuv/git/tags/d27380d6bd9bcbb03ebc3fc0dd4aef77ee88e194"
+  },
+  "tag": "v0.10.2",
+  "message": "2013.03.25, Version 0.10.2 (Stable)\n\nThis is the first officially versioned release of libuv. Starting now\nlibuv will make releases independently of Node.js.\n\nChanges since Node.js v0.10.0:\n\n* test: add tap output for windows (Timothy J. Fontaine)\n\n* unix: fix uv_tcp_simultaneous_accepts() logic (Ben Noordhuis)\n\n* include: bump UV_VERSION_MINOR (Ben Noordhuis)\n\n* unix: improve uv_guess_handle() implementation (Ben Noordhuis)\n\n* stream: run try_select only for pipes and ttys (Fedor Indutny)\n\nChanges since Node.js v0.10.1:\n\n* build: rename OS to PLATFORM (Ben Noordhuis)\n\n* unix: make uv_timer_init() initialize repeat (Brian Mazza)\n\n* unix: make timers handle large timeouts (Ben Noordhuis)\n\n* build: add OBJC makefile var (Ben Noordhuis)\n\n* Add `uv_version()` and `uv_version_string()` APIs (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUVMli3p3iHsuLtRhAQL4BAf/TPMx3PgeTyzcbQovQePQRO2M2jG4u7wU\ntMxRKJosw0UmqqCBNWxpS256XHtlyrJUTaY4+e0OwT9oKLrSLS29VO4IYaWLXA2z\ndZPbZ7neEXQ6uq+wc+RgZqwShqrgLMlFYvo7wEmJ2aXLFCtrse1OUuGa6lCwq9tN\nYSp2fljAAf8cenqYpRWA3FkcZSIu+4oP38spCy+HchX9XM5vEG0tphVe8/vhwYmz\n+AY+xbaZPjeu74dBr0/CHwDbUsEGzo9Osmz4eeRYEIgA0qYjDqqBP6nFMCkwMG0y\nbui2mPozGW7UTnRvwulzOXx6c6zJBnqjKSQiQOqOzcjavQ2j071rFg==\n=sOdZ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUVMli3p3iHsuLtRhAQL4BAf/TPMx3PgeTyzcbQovQePQRO2M2jG4u7wU\ntMxRKJosw0UmqqCBNWxpS256XHtlyrJUTaY4+e0OwT9oKLrSLS29VO4IYaWLXA2z\ndZPbZ7neEXQ6uq+wc+RgZqwShqrgLMlFYvo7wEmJ2aXLFCtrse1OUuGa6lCwq9tN\nYSp2fljAAf8cenqYpRWA3FkcZSIu+4oP38spCy+HchX9XM5vEG0tphVe8/vhwYmz\n+AY+xbaZPjeu74dBr0/CHwDbUsEGzo9Osmz4eeRYEIgA0qYjDqqBP6nFMCkwMG0y\nbui2mPozGW7UTnRvwulzOXx6c6zJBnqjKSQiQOqOzcjavQ2j071rFg==\n=sOdZ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d27380d6bd9bcbb03ebc3fc0dd4aef77ee88e194\ntype tag\ntag v0.10.2\ntagger Bert Belder <bertbelder@gmail.com> 1364403585 +0100\n\n2013.03.25, Version 0.10.2 (Stable)\n\nThis is the first officially versioned release of libuv. Starting now\nlibuv will make releases independently of Node.js.\n\nChanges since Node.js v0.10.0:\n\n* test: add tap output for windows (Timothy J. Fontaine)\n\n* unix: fix uv_tcp_simultaneous_accepts() logic (Ben Noordhuis)\n\n* include: bump UV_VERSION_MINOR (Ben Noordhuis)\n\n* unix: improve uv_guess_handle() implementation (Ben Noordhuis)\n\n* stream: run try_select only for pipes and ttys (Fedor Indutny)\n\nChanges since Node.js v0.10.1:\n\n* build: rename OS to PLATFORM (Ben Noordhuis)\n\n* unix: make uv_timer_init() initialize repeat (Brian Mazza)\n\n* unix: make timers handle large timeouts (Ben Noordhuis)\n\n* build: add OBJC makefile var (Ben Noordhuis)\n\n* Add `uv_version()` and `uv_version_string()` APIs (Bert Belder)\n"
+  }
+}

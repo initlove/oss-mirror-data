@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzg1NzEyMzo2M2JhNTQ4ODljOTNmMDQxYjI1YmQyYjA4ZmJlZjQwY2Y0NjBlMjc3",
+  "sha": "63ba54889c93f041b25bd2b08fbef40cf460e277",
+  "url": "https://api.github.com/repos/openstack/python-glanceclient/git/tags/63ba54889c93f041b25bd2b08fbef40cf460e277",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-12-12T03:51:42Z"
+  },
+  "object": {
+    "sha": "e0673a17fd684ca29ae6674f2df6303f99c79bce",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-glanceclient/git/commits/e0673a17fd684ca29ae6674f2df6303f99c79bce"
+  },
+  "tag": "2.13.1",
+  "message": "python-glanceclient 2.13.1 release\n\nmeta:version: 2.13.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Abhishek Kekane <akekane@redhat.com>\nmeta:release:Commit: Abhishek Kekane <akekane@redhat.com>\nmeta:release:Change-Id: Id7e00344414be3a138b010ad5a2d947a0903e0bd\nmeta:release:Code-Review+1: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Code-Review+1: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcEIXOAAoJEBpUEUgFTp44shIL/i8EYc5VLRjSP9Ww55eiQ37X\noGgunSX/Tazl4TBaX/swZdX2uGm7hksYR1nHBTxkGW5UBmiWIWaVf0yznsVyF22x\n++t+PBtl+tD3qSsGq9sf42YipCYd7uKYUzOi56XjjUWnGm2FCB4TPRXGs4CW76aE\nz2TeiBIo6/FoesB+Fq2n738SnUyAEKNSWDCIc4+KK9DHTtq5claweIK54tsWrAuE\nwkf1t/rEfprmyOvhy45nQk3x1UkuuZ6J7vG++gVL9s1I1vI9v37TJpBH2Xen9ojK\n+xzImmdalnddCFKUtlach+/u4yFt2EdAKLx1SkE6WSTUDuUaD6I6y+/Bx4TC77ti\nLq1X30j0v2x6Y++ytL/WaV2q1SLrBvo8EIAGkQD09wgLlSXWMYE1CYn1kisfR8CX\nYqRMrQHLqT93I+MQR9ebnDNbT1VMvilt8iRbtiqH9xoVOobDNXU7T//17EwdMldP\nw4vK7Zs8ZeUdRK8eiF39VJf+x9IA+WKYONKpInt8sQ==\n=A9Bl\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcEIXOAAoJEBpUEUgFTp44shIL/i8EYc5VLRjSP9Ww55eiQ37X\noGgunSX/Tazl4TBaX/swZdX2uGm7hksYR1nHBTxkGW5UBmiWIWaVf0yznsVyF22x\n++t+PBtl+tD3qSsGq9sf42YipCYd7uKYUzOi56XjjUWnGm2FCB4TPRXGs4CW76aE\nz2TeiBIo6/FoesB+Fq2n738SnUyAEKNSWDCIc4+KK9DHTtq5claweIK54tsWrAuE\nwkf1t/rEfprmyOvhy45nQk3x1UkuuZ6J7vG++gVL9s1I1vI9v37TJpBH2Xen9ojK\n+xzImmdalnddCFKUtlach+/u4yFt2EdAKLx1SkE6WSTUDuUaD6I6y+/Bx4TC77ti\nLq1X30j0v2x6Y++ytL/WaV2q1SLrBvo8EIAGkQD09wgLlSXWMYE1CYn1kisfR8CX\nYqRMrQHLqT93I+MQR9ebnDNbT1VMvilt8iRbtiqH9xoVOobDNXU7T//17EwdMldP\nw4vK7Zs8ZeUdRK8eiF39VJf+x9IA+WKYONKpInt8sQ==\n=A9Bl\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e0673a17fd684ca29ae6674f2df6303f99c79bce\ntype commit\ntag 2.13.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1544586702 +0000\n\npython-glanceclient 2.13.1 release\n\nmeta:version: 2.13.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Abhishek Kekane <akekane@redhat.com>\nmeta:release:Commit: Abhishek Kekane <akekane@redhat.com>\nmeta:release:Change-Id: Id7e00344414be3a138b010ad5a2d947a0903e0bd\nmeta:release:Code-Review+1: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Code-Review+1: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

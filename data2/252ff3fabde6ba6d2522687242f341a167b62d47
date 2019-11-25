@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ5MDk2ODQ6MjUyZmYzZmFiZGU2YmE2ZDI1MjI2ODcyNDJmMzQxYTE2N2I2MmQ0Nw==",
+  "sha": "252ff3fabde6ba6d2522687242f341a167b62d47",
+  "url": "https://api.github.com/repos/openstack/tooz/git/tags/252ff3fabde6ba6d2522687242f341a167b62d47",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-07-10T20:10:05Z"
+  },
+  "object": {
+    "sha": "38bcf7bbdb4a5f53ac81d45f2b7c310e5ea5f4da",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/tooz/git/commits/38bcf7bbdb4a5f53ac81d45f2b7c310e5ea5f4da"
+  },
+  "tag": "1.57.4",
+  "message": "tooz 1.57.4 release\n\nmeta:version: 1.57.4\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: I7f5c51c16b586e1a0057613c380e5cdd7f920841\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZY98dAAoJEOtsyhSD+nTsjWwH+wYwNLhxyJDzur0ohPKfyHhi\nYjhxRDdgeiFBSIJHoUgsOE8M3Soy7ly0VK/s5jO3G2KcfvXr+NcrjidtA6lwQN14\nPjRty6Ok2YxF1e0yL/R8vvPS2kCulW/9NjnJwTQNQCRRF9VCp9TpDB1Ir0bPcXIz\ngJyj+EiVuhfZo5WEyCooglaoV7A31Pn0/2A/BwaB7o/ErQg8kTMknO1FP1z285Ms\ndd9bYevLJhNYNkYqkIB6Zb+nE8StV9S0gHM0rizKxcXlV084iIHiQdTjvHREuPeg\nPyu26N8cVR9URfcBMHMRfvyWnQ3EJJmzIuK76f0/ddBxA14yymuMD5fTmsXX8gY=\n=gjSh\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZY98dAAoJEOtsyhSD+nTsjWwH+wYwNLhxyJDzur0ohPKfyHhi\nYjhxRDdgeiFBSIJHoUgsOE8M3Soy7ly0VK/s5jO3G2KcfvXr+NcrjidtA6lwQN14\nPjRty6Ok2YxF1e0yL/R8vvPS2kCulW/9NjnJwTQNQCRRF9VCp9TpDB1Ir0bPcXIz\ngJyj+EiVuhfZo5WEyCooglaoV7A31Pn0/2A/BwaB7o/ErQg8kTMknO1FP1z285Ms\ndd9bYevLJhNYNkYqkIB6Zb+nE8StV9S0gHM0rizKxcXlV084iIHiQdTjvHREuPeg\nPyu26N8cVR9URfcBMHMRfvyWnQ3EJJmzIuK76f0/ddBxA14yymuMD5fTmsXX8gY=\n=gjSh\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 38bcf7bbdb4a5f53ac81d45f2b7c310e5ea5f4da\ntype commit\ntag 1.57.4\ntagger OpenStack Release Bot <infra-root@openstack.org> 1499717405 +0000\n\ntooz 1.57.4 release\n\nmeta:version: 1.57.4\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: I7f5c51c16b586e1a0057613c380e5cdd7f920841\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

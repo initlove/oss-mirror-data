@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDE6NGUzMmMyZWJiZGU3NWY4NzQ2MjBmMjZmODJlOWZhY2E2ZDc0MjA2Yw==",
+  "sha": "4e32c2ebbde75f874620f26f82e9faca6d74206c",
+  "url": "https://api.github.com/repos/openstack/ironic/git/tags/4e32c2ebbde75f874620f26f82e9faca6d74206c",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-03-11T16:47:51Z"
+  },
+  "object": {
+    "sha": "599e5443504279b49a7250a9085e5bd34d86f0fd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic/git/commits/599e5443504279b49a7250a9085e5bd34d86f0fd"
+  },
+  "tag": "5.0.0",
+  "message": "ironic 5.0.0 release\n\nmeta:version: 5.0.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJW4va3AAoJEDttBqDEKEN6DZEH+wYPPzJ8iqk3hyLGQstA6k9F\nPLHpov6celc5zNW0zgyVMmYTVJqbpeFy4/bRC5hU6K3DIPz1YEoU1efhiXDA5MoR\nNBZ74MtyZF6VyHeYAwrkPa+gZabdm66Y69IS6K3AesXU453g+jgM2YPsEHt/Vy98\nQ1Tn/WiieTs6NlEd1V8Y3LaS7OW0OZi73lXc0cjFpDR31WGHJkmNG6mo0E/5k0SH\nSLWORgBagrzlJvzxbtP6rVDhlG+Ky2iRx81fyegkj3ET4VdhcB+GmY3FD+wNFw+j\nwGzQN9H5+Q0i7mDJvKegmhDaIA3vUtDoTW12GiYuRT+RnRTq9kEBA9tkDYhe8lE=\n=f9Ft\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJW4va3AAoJEDttBqDEKEN6DZEH+wYPPzJ8iqk3hyLGQstA6k9F\nPLHpov6celc5zNW0zgyVMmYTVJqbpeFy4/bRC5hU6K3DIPz1YEoU1efhiXDA5MoR\nNBZ74MtyZF6VyHeYAwrkPa+gZabdm66Y69IS6K3AesXU453g+jgM2YPsEHt/Vy98\nQ1Tn/WiieTs6NlEd1V8Y3LaS7OW0OZi73lXc0cjFpDR31WGHJkmNG6mo0E/5k0SH\nSLWORgBagrzlJvzxbtP6rVDhlG+Ky2iRx81fyegkj3ET4VdhcB+GmY3FD+wNFw+j\nwGzQN9H5+Q0i7mDJvKegmhDaIA3vUtDoTW12GiYuRT+RnRTq9kEBA9tkDYhe8lE=\n=f9Ft\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 599e5443504279b49a7250a9085e5bd34d86f0fd\ntype commit\ntag 5.0.0\ntagger Doug Hellmann <doug@doughellmann.com> 1457714871 -0500\n\nironic 5.0.0 release\n\nmeta:version: 5.0.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n"
+  }
+}

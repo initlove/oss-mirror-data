@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc5MTM0ODo4MGM1OTdjNWNmMWZhNDg1NmJjY2NiNjg1MzhiNWZmMTY1NmZmMWNj",
+  "sha": "80c597c5cf1fa4856bcccb68538b5ff1656ff1cc",
+  "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/tags/80c597c5cf1fa4856bcccb68538b5ff1656ff1cc",
+  "tagger": {
+    "name": "JP Richardson",
+    "email": "jprichardson@gmail.com",
+    "date": "2015-03-08T17:11:29Z"
+  },
+  "object": {
+    "sha": "c062045ae9c7f12865e63dfca96d1d2f6c61de18",
+    "type": "commit",
+    "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/commits/c062045ae9c7f12865e63dfca96d1d2f6c61de18"
+  },
+  "tag": "0.16.5",
+  "message": "0.16.5 / 2015-03-08\n-------------------\n- fixed `fs.move` when `clobber` is `true` and destination is a directory, it should clobber. https://github.com/jprichardson/node-fs-extra/issues/114\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

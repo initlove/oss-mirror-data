@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOjJhZTdjNTAwYmU1Njc2ZjQxZGY3MzI2MzBhZTY5MWQwYmJiYzY5ZjM=",
+  "sha": "2ae7c500be5676f41df732630ae691d0bbbc69f3",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/2ae7c500be5676f41df732630ae691d0bbbc69f3",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2016-05-01T01:39:29Z"
+  },
+  "object": {
+    "sha": "f319970edd883f7177f40d41e046f13d7187b40d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/f319970edd883f7177f40d41e046f13d7187b40d"
+  },
+  "tag": "3.0.1",
+  "message": "Version 3.0.1\n\n - Change from BlueBird to es6-promise to save 9.5MB from the package size (19M -> 9.5) and 130k bundle size (186.1kb -> 55.2kb)\n - Experimental node 6 support\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

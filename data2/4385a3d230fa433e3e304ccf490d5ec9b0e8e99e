@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOjQzODVhM2QyMzBmYTQzM2UzZTMwNGNjZjQ5MGQ1ZWM5YjBlOGU5OWU=",
+  "sha": "4385a3d230fa433e3e304ccf490d5ec9b0e8e99e",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/4385a3d230fa433e3e304ccf490d5ec9b0e8e99e",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2016-12-12T04:28:52Z"
+  },
+  "object": {
+    "sha": "4a2a3cfae7ecba4e22e9c6d4cf7dfb7ec64324f6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/4a2a3cfae7ecba4e22e9c6d4cf7dfb7ec64324f6"
+  },
+  "tag": "4.0.7",
+  "message": "Version 4.0.7\n\n- Fix baud rate parsing in `serialport-terminal` thanks to @radio-miskovice for reporting it!\n- [windows] Refactor `SerialPort.list` to be a lot smaller and pickup vendorId, productId and locationId thanks to @zensey for #877!\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

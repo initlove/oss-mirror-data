@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDE5OjUwNmNkNjU0YzVjOWVkMGFkNjkwMGIwMzgxODU5ZDU1OTBmMzAzNWY=",
+  "sha": "506cd654c5c9ed0ad6900b0381859d5590f3035f",
+  "url": "https://api.github.com/repos/openstack/swift/git/tags/506cd654c5c9ed0ad6900b0381859d5590f3035f",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-12-15T12:51:38Z"
+  },
+  "object": {
+    "sha": "462f91b040ff47b51e5397eed930785590638d69",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/swift/git/commits/462f91b040ff47b51e5397eed930785590638d69"
+  },
+  "tag": "2.12.0",
+  "message": "swift 2.12.0 release\n\nmeta:version: 2.12.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: John Dickinson <me@not.mn>\nmeta:release:Commit: John Dickinson <me@not.mn>\nmeta:release:Change-Id: Id377daec2f98ea3e8901e259ce9ef275d69b1e38\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYUpHaAAoJELkGmxM1cAzcr4oIAIaWudfhnjkqWO6MgTlLve2u\nGlvMi5n6zt2gc/cNE0T7SP3S/VvZy09Kx0ByIK8AB9hEKmrlo7W/oWSTcTX+m2y4\nH2/BGgzYskXQTYdasAcQ1v2qmH0XbTwUGpVnBZt/dVp/AP2BJIbOz3E4Wq3FYDCl\nLlNOcyusyDNzUKQxKiKEahMFEHP/DPOKDaorLxbtBKG2+nld91ba6ULnNEdoz1ac\nA+Af/UXPuFn+Pj1FWHJaPB7p6JFv1aXwVIaxxNwmkhGMDQsJhm7TFURUwNctAF+D\ngciOrsORiy4XcgW2/pIFaqZenR1ZRc5kyBSKiOfnw3u/xbpj1bCQ9LlIoQ7yFcw=\n=5wEw\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYUpHaAAoJELkGmxM1cAzcr4oIAIaWudfhnjkqWO6MgTlLve2u\nGlvMi5n6zt2gc/cNE0T7SP3S/VvZy09Kx0ByIK8AB9hEKmrlo7W/oWSTcTX+m2y4\nH2/BGgzYskXQTYdasAcQ1v2qmH0XbTwUGpVnBZt/dVp/AP2BJIbOz3E4Wq3FYDCl\nLlNOcyusyDNzUKQxKiKEahMFEHP/DPOKDaorLxbtBKG2+nld91ba6ULnNEdoz1ac\nA+Af/UXPuFn+Pj1FWHJaPB7p6JFv1aXwVIaxxNwmkhGMDQsJhm7TFURUwNctAF+D\ngciOrsORiy4XcgW2/pIFaqZenR1ZRc5kyBSKiOfnw3u/xbpj1bCQ9LlIoQ7yFcw=\n=5wEw\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 462f91b040ff47b51e5397eed930785590638d69\ntype commit\ntag 2.12.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1481806298 +0000\n\nswift 2.12.0 release\n\nmeta:version: 2.12.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: John Dickinson <me@not.mn>\nmeta:release:Commit: John Dickinson <me@not.mn>\nmeta:release:Change-Id: Id377daec2f98ea3e8901e259ce9ef275d69b1e38\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n"
+  }
+}

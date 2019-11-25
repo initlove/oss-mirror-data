@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNDo1NTg1MmNhZmZhYmRhNTQ0ODllNTVkNGQ4MTg2MTc4NzZlOGRmYjk5",
+  "sha": "55852caffabda54489e55d4d818617876e8dfb99",
+  "url": "https://api.github.com/repos/openstack/heat/git/tags/55852caffabda54489e55d4d818617876e8dfb99",
+  "tagger": {
+    "name": "Jeff Peeler",
+    "email": "jpeeler@redhat.com",
+    "date": "2012-09-20T18:08:09Z"
+  },
+  "object": {
+    "sha": "d2c8b97015352da73c2dc9463f8d20c6a98dea04",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/heat/git/commits/d2c8b97015352da73c2dc9463f8d20c6a98dea04"
+  },
+  "tag": "v6.release",
+  "message": "The Heat developers are happy to announce the release of a new version of\nHeat. The focus of this release has been on quality and testing, in addition\nto major improvements to CloudWatch.\n\nHeat is a project designed for OpenStack that implements AWS CloudFormation.\nCloudFormation is a programmable interface and templating system for\norchestrating multiple cloud applications.\n\nTry it out on Fedora 17:\n\nhttps://github.com/heat-api/heat/blob/master/docs/GettingStarted.rst#readme\n\nOr Ubuntu 12.04:\n\nhttps://github.com/heat-api/heat/wiki/Getting-Started-with-Heat-using-Master-on-Ubuntu\n\nWhat's new in version 6:\n\n* 127 commits containing general bug fixes and template additions\n\n* New tests\n    15 new functional tests, 7 new unit tests\n    Many test infrastructure improvements\n\n* User facing changes\n    Heat describe now shows user parameter values\n    Make physical resource names unique based upon stack name\n    Support lookup of stacks by name or ARN\n    Log startup operations to /var/log/heat-provision.log\n    heat-api has been renamed to heat-api-cfn (CloudFormation-compatible API)\n    Keystone service type has been changed from heat to orchestration\n\n* RPC changes\n    Implement client side engine RPC API\n    Add identify_stack RPC call\n    Add set_watch_state engine RPC action\n    Add show_watch_metric RPC action\n    Add new show_watch RPC method\n\n* Implement the AWS::S3::Bucket resource type - (not working yet on Fedora)\n    https://github.com/heat-api/heat/wiki/Roadmap-Feature:-simple-storage-service\n\n* CLI tools\n    Add a tool to register prebuilt JEOS images into glance from github\n\n* Improved CloudWatch API implementation\n    https://github.com/heat-api/heat/wiki/Using-CloudWatch\n\nHeat website:\n\nhttp://heat-api.org/\n\nDownload Heat API:\n\nhttps://github.com/heat-api/heat/downloads\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

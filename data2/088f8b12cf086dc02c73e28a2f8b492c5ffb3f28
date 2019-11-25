@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDE5OjA4OGY4YjEyY2YwODZkYzAyYzczZTI4YTJmOGI0OTJjNWZmYjNmMjg=",
+  "sha": "088f8b12cf086dc02c73e28a2f8b492c5ffb3f28",
+  "url": "https://api.github.com/repos/openstack/swift/git/tags/088f8b12cf086dc02c73e28a2f8b492c5ffb3f28",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-03T16:34:37Z"
+  },
+  "object": {
+    "sha": "8a4becb12fbe3d4988ddee73536673d6f55682dd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/swift/git/commits/8a4becb12fbe3d4988ddee73536673d6f55682dd"
+  },
+  "tag": "2.23.0",
+  "message": "swift 2.23.0 release\n\nmeta:version: 2.23.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Tim Burke <tim.burke@gmail.com>\nmeta:release:Commit: Tim Burke <tim.burke@gmail.com>\nmeta:release:Change-Id: I56c2bd6432c1998790735f49e9bad5d4c1d7442f\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2WIx0ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2IR5C/0f9Xn3QBGU0KxoK3m+VePm\npLtk2Z0k1TCMwvhRmGkOtr1W7s16sYdY4WsAwPC86BgbFIqOI7FULLb9fSCyvPIU\nrbU126a6yhoinL3LFpioCCpKqKS8lcDYDFfWljt6asfnv2kmUlHoQnmIRh2ErnNF\nmvQ9aStl0QhAGKd53a5NUpSfD6dSDP8UbmeGpJCah4bsl/n+EHnx1YdU87F7bh3q\nC74j169SCdgntYFGwl2T45L0pubJuJkHoNxa0NdLtt9CukA8AOKftFdWIKq0y9+7\nnrPuspQHddGntt294/2sJUqXhlW9KHghMB3YqRRQGpOr8hAtsU/xwesdntC8f0T4\nESF2CQDB2a1uoYzXoCBzlH+fRuYqqtPbgwwMhPllPUmHTV6xUn7Kwtbf/fkPR7VG\n3pEA7fIhiCECVmnaUsvl2rrWzFFfuXAyJPtugOAxgHN1ZFwqHpSRloUmM88vsaAp\nlxt5bKtlP/L0Mj/Pp+KrhHPE1TjtgA2F1INuOwOuQfo=\n=kdsX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2WIx0ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2IR5C/0f9Xn3QBGU0KxoK3m+VePm\npLtk2Z0k1TCMwvhRmGkOtr1W7s16sYdY4WsAwPC86BgbFIqOI7FULLb9fSCyvPIU\nrbU126a6yhoinL3LFpioCCpKqKS8lcDYDFfWljt6asfnv2kmUlHoQnmIRh2ErnNF\nmvQ9aStl0QhAGKd53a5NUpSfD6dSDP8UbmeGpJCah4bsl/n+EHnx1YdU87F7bh3q\nC74j169SCdgntYFGwl2T45L0pubJuJkHoNxa0NdLtt9CukA8AOKftFdWIKq0y9+7\nnrPuspQHddGntt294/2sJUqXhlW9KHghMB3YqRRQGpOr8hAtsU/xwesdntC8f0T4\nESF2CQDB2a1uoYzXoCBzlH+fRuYqqtPbgwwMhPllPUmHTV6xUn7Kwtbf/fkPR7VG\n3pEA7fIhiCECVmnaUsvl2rrWzFFfuXAyJPtugOAxgHN1ZFwqHpSRloUmM88vsaAp\nlxt5bKtlP/L0Mj/Pp+KrhHPE1TjtgA2F1INuOwOuQfo=\n=kdsX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8a4becb12fbe3d4988ddee73536673d6f55682dd\ntype commit\ntag 2.23.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1570120477 +0000\n\nswift 2.23.0 release\n\nmeta:version: 2.23.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Tim Burke <tim.burke@gmail.com>\nmeta:release:Commit: Tim Burke <tim.burke@gmail.com>\nmeta:release:Change-Id: I56c2bd6432c1998790735f49e9bad5d4c1d7442f\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

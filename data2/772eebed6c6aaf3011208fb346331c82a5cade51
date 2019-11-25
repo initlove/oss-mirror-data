@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI5ODI1MTI1Ojc3MmVlYmVkNmM2YWFmMzAxMTIwOGZiMzQ2MzMxYzgyYTVjYWRlNTE=",
+  "sha": "772eebed6c6aaf3011208fb346331c82a5cade51",
+  "url": "https://api.github.com/repos/projectcalico/node/git/tags/772eebed6c6aaf3011208fb346331c82a5cade51",
+  "tagger": {
+    "name": "Laurence Man",
+    "email": "laurence@tigera.io",
+    "date": "2019-10-18T00:22:02Z"
+  },
+  "object": {
+    "sha": "82001f95d91f22132b7dc43e8a03d089717a0b4a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/node/git/commits/82001f95d91f22132b7dc43e8a03d089717a0b4a"
+  },
+  "tag": "v3.10.0",
+  "message": "- cc6e7f915fdbd6f4c9c091e10f3ffac15409df08 Semaphore Automatic Update\n- 39b159d6f55fe08d4d5ca3f84bc1eff915d3ab5e Use BIRD code incorporating upstream v1.6.7\n- 80fe0bfb0112785ab460d9a340c5a079185e631f Replace confd pseudo version with a real one\n- bba1a7e99ecb91188b15f13dfd1ff1d766e1ca6f Semaphore Automatic Update\n- 05eeb862119b983433a22c1ec9f1ec15a4b6792d Update libcalico-go to d0b62f71c97966de320285e83f7b5715b7a71311\n- 25d0307191e5dbc5737b16cbd9c2efe32cb9101d Semaphore Automatic Update\n- d04f24da8b76b921ba81f5f6775078947f0456c2 Add semaphore.yml\n- 7dc5d39d8651546d61bfb03bc4966561b656d420 Semaphore Automatic Update\n- 20057d0563348f451eb96e6a85b53bc7725d6e48 Semaphore Automatic Update\n- d66e1a321789d63b2620294e935760b7c6e16389 checkFelixHealth remove named return\n- 1521e7e6d4f410c1303955e80c4cf4101e923ebc Semaphore Automatic Update\n- 24f8b03adc00605e9744416b2e57f080e0782e36 Semaphore Automatic Update\n- 1aa2baeb4593df84e385a848fef4335b24caac48 Semaphore Automatic Update\n- d35bcac650f7a827eab10a18ff15785a21605ac3 Semaphore Automatic Update\n- f262ac6bbd12fb64d2e7faf53056993e56d0a581 Semaphore Automatic Update\n- 2edc49e49d7c01c1f7c52b6411cc35c93a5109be Semaphore Automatic Update\n- 4818b370253f2429e6c4c0b644111d10b29504c9 Update pins\n- 5213d1137b6daebb780803116c158a4ff12f3fa8 Semaphore Automatic Update\n- b314ecf154d84f15d938f5c7f6acf2291c903d88 Semaphore Automatic Update\n- 25965ce51e0546cc20664b767ac80d735b6d75e8 Update node k8st's for new BGPConfig serviceExternalIPs and serviceClusterIPs fields (#333)\n- 83511e9b6f36fa7ac063ac5f14e9d08ccf0e3d82 Make blocksize configurable for default ippool\n- d15ae87816fdf9e63abd741261e5d9ceadf9e3d2 Add NodeSelector env var for default pools\n- b9b0e2a7389fcb2e896e4bc808d4309c903ed786 Update pins\n- f74feb24f93d902be9b73e6ef2dde7babce98a50 Update libcalico-go to 399044ecb65942961586f38c38415d95b9122dcc\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

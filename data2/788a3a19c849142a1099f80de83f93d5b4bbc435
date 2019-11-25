@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTA4ODkzOjc4OGEzYTE5Yzg0OTE0MmExMDk5ZjgwZGU4M2Y5M2Q1YjRiYmM0MzU=",
+  "sha": "788a3a19c849142a1099f80de83f93d5b4bbc435",
+  "url": "https://api.github.com/repos/NodeRedis/node_redis/git/tags/788a3a19c849142a1099f80de83f93d5b4bbc435",
+  "tagger": {
+    "name": "Matt Ranney",
+    "email": "mjr@ranney.com",
+    "date": "2011-04-22T02:48:39Z"
+  },
+  "object": {
+    "sha": "f10ff9e916e535e4997ac150dad7f951c5278bfc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/NodeRedis/node_redis/git/commits/f10ff9e916e535e4997ac150dad7f951c5278bfc"
+  },
+  "tag": "v0.6.0",
+  "message": "Lots of bugs fixed.\n\n*  connection error did not properly trigger reconnection logic [GH-85]\n*  client.hmget(key, [val1, val2]) was not expanding properly [GH-66]\n*  client.quit() while in pub/sub mode would throw an error [GH-87]\n*  client.multi(['hmset', 'key', {foo: 'bar'}]) fails [GH-92]\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

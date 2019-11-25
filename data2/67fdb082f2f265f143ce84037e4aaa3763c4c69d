@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo2N2ZkYjA4MmYyZjI2NWYxNDNjZTg0MDM3ZTRhYWEzNzYzYzRjNjlk",
+  "sha": "67fdb082f2f265f143ce84037e4aaa3763c4c69d",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/67fdb082f2f265f143ce84037e4aaa3763c4c69d",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-03-10T23:58:32Z"
+  },
+  "object": {
+    "sha": "cd0c19b1d3c56acf0ade7687006e12e75fbda36d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/cd0c19b1d3c56acf0ade7687006e12e75fbda36d"
+  },
+  "tag": "v0.11.22",
+  "message": "2014.03.11, Version 0.11.22 (Unstable)\n\nChanges since version 0.11.21:\n\n* unix, windows: map ERANGE errno (Saúl Ibarra Corretgé)\n\n* unix, windows: make uv_cwd be consistent with uv_exepath (Saúl Ibarra\n  Corretgé)\n\n* process: remove debug perror() prints (Fedor Indutny)\n\n* windows: fall back for volume info query (Isaiah Norton)\n\n* pipe: allow queueing pending handles (Fedor Indutny)\n\n* windows: fix winsock status codes for address errors (Raul Martins)\n\n* windows: Remove unused variable from uv__pipe_insert_pending_socket (David\n  Capello)\n\n* unix: workaround broken pthread_sigmask on Android (Paul Tan)\n\n* error: add ENXIO for O_NONBLOCK FIFO open() (Fedor Indutny)\n\n* freebsd: use accept4, introduced in version 10 (Saúl Ibarra Corretgé)\n\n* windows: fix warnings of MinGW -Wall -O3 (StarWing)\n\n* openbsd, osx: fix compilation warning on scandir (Saúl Ibarra Corretgé)\n\n* linux: always deregister closing fds from epoll (Geoffry Song)\n\n* unix: reopen tty as /dev/tty (Saúl Ibarra Corretgé)\n\n* kqueue: invalidate fd in uv_fs_event_t (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlMeUagACgkQfTP/nQJGQG23agCfcrH2nW+ZVdlp/nzCruRS1DqQ\na6QAoPM4cThSasYt5zHL8zAt/bpiot6o\n=VN7F\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlMeUagACgkQfTP/nQJGQG23agCfcrH2nW+ZVdlp/nzCruRS1DqQ\na6QAoPM4cThSasYt5zHL8zAt/bpiot6o\n=VN7F\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cd0c19b1d3c56acf0ade7687006e12e75fbda36d\ntype commit\ntag v0.11.22\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1394495912 -0700\n\n2014.03.11, Version 0.11.22 (Unstable)\n\nChanges since version 0.11.21:\n\n* unix, windows: map ERANGE errno (Saúl Ibarra Corretgé)\n\n* unix, windows: make uv_cwd be consistent with uv_exepath (Saúl Ibarra\n  Corretgé)\n\n* process: remove debug perror() prints (Fedor Indutny)\n\n* windows: fall back for volume info query (Isaiah Norton)\n\n* pipe: allow queueing pending handles (Fedor Indutny)\n\n* windows: fix winsock status codes for address errors (Raul Martins)\n\n* windows: Remove unused variable from uv__pipe_insert_pending_socket (David\n  Capello)\n\n* unix: workaround broken pthread_sigmask on Android (Paul Tan)\n\n* error: add ENXIO for O_NONBLOCK FIFO open() (Fedor Indutny)\n\n* freebsd: use accept4, introduced in version 10 (Saúl Ibarra Corretgé)\n\n* windows: fix warnings of MinGW -Wall -O3 (StarWing)\n\n* openbsd, osx: fix compilation warning on scandir (Saúl Ibarra Corretgé)\n\n* linux: always deregister closing fds from epoll (Geoffry Song)\n\n* unix: reopen tty as /dev/tty (Saúl Ibarra Corretgé)\n\n* kqueue: invalidate fd in uv_fs_event_t (Fedor Indutny)\n"
+  }
+}

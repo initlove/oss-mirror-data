@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU4ODU4OTE6MGYzZjY4NmJkZmFlYTg2ZDU5MzE0YjIwNjEwMjBmYTgzYjY2ZmM5Zg==",
+  "sha": "0f3f686bdfaea86d59314b2061020fa83b66fc9f",
+  "url": "https://api.github.com/repos/openstack/python-mistralclient/git/tags/0f3f686bdfaea86d59314b2061020fa83b66fc9f",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-13T19:11:23Z"
+  },
+  "object": {
+    "sha": "dc246bf808d3a0823f77ffcd42f4d32d0587c161",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-mistralclient/git/commits/dc246bf808d3a0823f77ffcd42f4d32d0587c161"
+  },
+  "tag": "3.10.0",
+  "message": "python-mistralclient 3.10.0 release\n\nmeta:version: 3.10.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Change-Id: Ie376b2137f64d13d78cbb20860b78f93b174ae7f\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl176dsZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2J6TC/9DxrmBp6tdePyO7vtjyyYr\n1QwomhHn8ZOuUmdSimhRhkIqAQ/YqVU3EHMpeb49A3OT80HDQ/2Kpd+NROk7lH5U\ndl3DWpXlVCvbKcMambyiOYBRWmOPOYbnTVmE5+K8efBGHxFJVw5J/oqZhWP3vkjk\n1CiAbZdlYLEUI1gU3lN0w97SmhDXU5/zZHygBJNuI0HZ/Hh0wSBYcvyvxzrpYFJt\nRbOLm79VN3+R1kY+ZcJaDkRsWEpFPrGEPxBilf3V3KIgWPNQZVlFRn+B6+omp6y/\nXf5dCAn8KV3RnUkUq3khToZQAgy1CIK2jCJULuB9OzkPXHZx+pHQVLFg+IzETJmj\nAQUGocyu5jamUt9qBeWKAhiiTyeu5us8Mrf8IBeObJR/cmHlpn428I+qMl4mxx/M\nxcwxuxo13DWL/y+TAm6vqsYN/3Ly8LstkMGUuDnWeiEGWhtl+S/iFx2ldm9pklhc\nSybWDw0LNeLhOdtffyWKHHGyJ++/BkIIQu0LIXDP95c=\n=uvoT\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl176dsZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2J6TC/9DxrmBp6tdePyO7vtjyyYr\n1QwomhHn8ZOuUmdSimhRhkIqAQ/YqVU3EHMpeb49A3OT80HDQ/2Kpd+NROk7lH5U\ndl3DWpXlVCvbKcMambyiOYBRWmOPOYbnTVmE5+K8efBGHxFJVw5J/oqZhWP3vkjk\n1CiAbZdlYLEUI1gU3lN0w97SmhDXU5/zZHygBJNuI0HZ/Hh0wSBYcvyvxzrpYFJt\nRbOLm79VN3+R1kY+ZcJaDkRsWEpFPrGEPxBilf3V3KIgWPNQZVlFRn+B6+omp6y/\nXf5dCAn8KV3RnUkUq3khToZQAgy1CIK2jCJULuB9OzkPXHZx+pHQVLFg+IzETJmj\nAQUGocyu5jamUt9qBeWKAhiiTyeu5us8Mrf8IBeObJR/cmHlpn428I+qMl4mxx/M\nxcwxuxo13DWL/y+TAm6vqsYN/3Ly8LstkMGUuDnWeiEGWhtl+S/iFx2ldm9pklhc\nSybWDw0LNeLhOdtffyWKHHGyJ++/BkIIQu0LIXDP95c=\n=uvoT\n-----END PGP SIGNATURE-----\n",
+    "payload": "object dc246bf808d3a0823f77ffcd42f4d32d0587c161\ntype commit\ntag 3.10.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1568401883 +0000\n\npython-mistralclient 3.10.0 release\n\nmeta:version: 3.10.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Change-Id: Ie376b2137f64d13d78cbb20860b78f93b174ae7f\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

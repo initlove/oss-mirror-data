@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MToxMDA5YjZjNmY4NTY2YTc5MGExN2FhZjEwMzUxOWY4ZDYyMmM2ZWJj",
+  "sha": "1009b6c6f8566a790a17aaf103519f8d622c6ebc",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/1009b6c6f8566a790a17aaf103519f8d622c6ebc",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-12-22T20:36:02Z"
+  },
+  "object": {
+    "sha": "829bf7148d40785cc451cc7f21c8516e3bbe5852",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/829bf7148d40785cc451cc7f21c8516e3bbe5852"
+  },
+  "tag": "v1.3.5",
+  "message": "Release of 1.3.5\n\n- 829bf7148d40785cc451cc7f21c8516e3bbe5852: Merge pull request #720 from jkschneider/upgrade-netflix-commons\n- babbed00bae681d2c352272b7c8af0a2c2a18b59: Merge pull request #721 from tbak/master\n- 90404f62871a055c39930d97ffe5a318e6f0e7c6: Improve backwards compatibility with legacy eureka-client, that ignore the new InstanceInfo.instanceId field.\n- 7aea64e08baaa434dcd20607216e84596752f732: Upgrade netflix-eventbus to purge the transitive dependency on findbugs\n- 49c72d4a568e922ae112fe530358dede7136dde0: adding OSSMETADATA for NetflixOSS tracking\n- 1f41854aad2301bf3f2927a4f9a2a2b0cb9375c4: Merge pull request #716 from qiangdavidliu/master\n- 671586619defbb078245af8c106c8f2273c30637: on second thought reusing hostname instead of introducing a new defaultAddress\n- 2e02201b1460a420035ddc9869b2b1446e4865db: fix test failures due to set up\n- 7de43a8c650308a43982231869f78992644424f2: Merge remote-tracking branch 'upstream/master'\n- e0c9072c9e41f3c988b72fb71e94d77c10fd53cf: Adding ability to define resolution order of the local InstanceInfo's \"default\" network address based on data available in AmazonInfo.\n- a71859fd01ead12b7cfc9f3876989e7409796797: Merge pull request #714 from tbak/master\n- f34e021f63326ef741f6507f4eb6b187bbf9431b: Remove dependency on blitz4j\n- d4d29eb871423c4f8335f47e2d79c0f881a30be1: Merge pull request #710 from qiangdavidliu/master\n- 7d44ab3784f29642f0d16b22ee8aafac8bf9024b: Merge pull request #713 from tbak/master\n- adbd377529aa59c171a4b3847969d39081f37360: Fix for issue https://github.com/Netflix/eureka/issues/711\n- 5817015dc33dd9bf11a3a3aec8e1b23f98a21c7e: move eureka-server-karyon3 to use eureka-client-archaius2\n- 80e694d8b42481e38f69441e90ca74bea27054cf: upgrade to latest karyon3\n- e18b27c41d27dcab47d3f436bb3d655d922d342a: Merge pull request #706 from qiangdavidliu/master\n- 78677c43800e715a3e861536ba84e5ff82510090: set source compatibility in build.gradle as java8 apis have bleed into code.\n- b6b93f67c2060f40b8e9b57be74ae44f52bc4fbd: Merge pull request #701 from tbak/master\n- 96ba8cd595ac47706416013f42730f77f04bf2cc: Thread pools in eureka-client create non-daemon threads\n- dd8ef4b7be726df20a6bb400cf467a60d428ca98: Merge pull request #698 from tbak/master\n- 2a91a1603907cc6de1ce2dc60199865f9b1e66b4: Backup registry configured via property is overridden with void implementation\n- 259ebbdae15ad26c2ceaa08db781cf4cc3f13d3e: Merge pull request #696 from tbak/master\n- ce35f004ac253595875eef899f30131978970118: Fix codec type in the example\n- c65a40f2ec09dfb22a6b3c530b8a5a01ea05d4ca: NullPointException thrown if application name is not defined (set to UNKNOWN)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

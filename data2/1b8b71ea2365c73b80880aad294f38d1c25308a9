@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDQ6MWI4YjcxZWEyMzY1YzczYjgwODgwYWFkMjk0ZjM4ZDFjMjUzMDhhOQ==",
+  "sha": "1b8b71ea2365c73b80880aad294f38d1c25308a9",
+  "url": "https://api.github.com/repos/openstack/python-ironicclient/git/tags/1b8b71ea2365c73b80880aad294f38d1c25308a9",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-01-15T01:30:36Z"
+  },
+  "object": {
+    "sha": "cdcd08dffd0d8e0a4fb0cfa415f563bdabe2c4dc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironicclient/git/commits/cdcd08dffd0d8e0a4fb0cfa415f563bdabe2c4dc"
+  },
+  "tag": "2.6.0",
+  "message": "python-ironicclient 2.6.0 release\n\nmeta:version: 2.6.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I91db6a4ac40d25dd29f2176e5f0a56f44e93a7ca\nmeta:release:Code-Review+1: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcPTe8AAoJEBpUEUgFTp44qqkL/ikylYpU57rNEX/gNBXJUfIU\nS1pprypTk3VJGK1xjJ08r1FCjJC81FfJU+8OiEZg++FpvzibfwoF7x424/iIC7im\n/XzJgDlvGi2GPyHXrQ62ayamKNv15BhCQW+ikPOO/hW9GG4yVLl/JSGQfQ94BlQ3\nKZOa0ij/+T0wgwvPpOecSDV8ImTGtvmlVFWy82keFZ8yn8xvaloLy0vDJVU8Rn7Z\nriJGR+uhhPanPyoTWuQ1jtbM9UpHvduMkcaKubzCQbIxUBrJW7DXP2gbb5pP1Jub\nupkQ/2Yj0z0tMwHKvxQuM1ATFzrLKrGX8rT+A/4F8gfmm/XH0YdJIewhaJtSxZQG\nj9H3ijMr1oHKVs3VfRR/fhB6VrauDp4/wO9TGQIbhW16xc3SMXx3q3mKUeHU3jKu\n+IWBw5MZl/CbYmvqdl/jo70oQRcws32kE+SNDFNPPh53P0thNUmmbzY0KdUoB8El\nVRm/KTK8lLAIbGRraa6y/vetOmpBx3jO6jiaKvguMw==\n=hHiR\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcPTe8AAoJEBpUEUgFTp44qqkL/ikylYpU57rNEX/gNBXJUfIU\nS1pprypTk3VJGK1xjJ08r1FCjJC81FfJU+8OiEZg++FpvzibfwoF7x424/iIC7im\n/XzJgDlvGi2GPyHXrQ62ayamKNv15BhCQW+ikPOO/hW9GG4yVLl/JSGQfQ94BlQ3\nKZOa0ij/+T0wgwvPpOecSDV8ImTGtvmlVFWy82keFZ8yn8xvaloLy0vDJVU8Rn7Z\nriJGR+uhhPanPyoTWuQ1jtbM9UpHvduMkcaKubzCQbIxUBrJW7DXP2gbb5pP1Jub\nupkQ/2Yj0z0tMwHKvxQuM1ATFzrLKrGX8rT+A/4F8gfmm/XH0YdJIewhaJtSxZQG\nj9H3ijMr1oHKVs3VfRR/fhB6VrauDp4/wO9TGQIbhW16xc3SMXx3q3mKUeHU3jKu\n+IWBw5MZl/CbYmvqdl/jo70oQRcws32kE+SNDFNPPh53P0thNUmmbzY0KdUoB8El\nVRm/KTK8lLAIbGRraa6y/vetOmpBx3jO6jiaKvguMw==\n=hHiR\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cdcd08dffd0d8e0a4fb0cfa415f563bdabe2c4dc\ntype commit\ntag 2.6.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1547515836 +0000\n\npython-ironicclient 2.6.0 release\n\nmeta:version: 2.6.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I91db6a4ac40d25dd29f2176e5f0a56f44e93a7ca\nmeta:release:Code-Review+1: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

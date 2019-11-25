@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTc5OTQxNTU6MDczMGE0NjU4YWUyZGIyMmQ5YWY2ZDVmZjEwMDJjYzVkYzg3ZjkwNg==",
+  "sha": "0730a4658ae2db22d9af6d5ff1002cc5dc87f906",
+  "url": "https://api.github.com/repos/openstack/swift3/git/tags/0730a4658ae2db22d9af6d5ff1002cc5dc87f906",
+  "tagger": {
+    "name": "Kota Tsuyuzaki",
+    "email": "tsuyuzaki.kota@lab.ntt.co.jp",
+    "date": "2016-09-26T07:00:36Z"
+  },
+  "object": {
+    "sha": "53614c2da837a9a53016b7d3e9911cf96ab39c77",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/swift3/git/commits/53614c2da837a9a53016b7d3e9911cf96ab39c77"
+  },
+  "tag": "1.11",
+  "message": "Following to the OpenStack release, make a new tag 1.11 pointing to v1.11. because the release version should be formatted in PEP440.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX6MfVAAoJEFghlFMrsZvUVqoH/ja0OsAStKpxI/ThHnY4qvCy\nSXWyxGx6bXrnt8eOfN7bUIEJaAMJg9PvyxzcLEm2Z1ILPuvmPBpaYiSCjpwzVX8o\nkpktQf6dwUvgNxdVWFMtzJbjPzkutWslYOzgB49BqzZna6chEE6BHFBUJT4CGmKt\nzm+xWW8B007FNVBmZ0jvI2miW8GQLlqiIqXt3haDRvRNuHF+810HGpLgPpExBNRt\n65gglY8OB7X4OW0JRYfqRJEXA5+GUEVIpulZpDa4s3YGLep9RKQcsrqPfXzZJW3T\naue2u5buOZ/o4kIPKpOSx47UUgMToVF4B5jiZ8OZ9sw4+Ch6+jhzkuQzDrS0bGM=\n=zrZY\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX6MfVAAoJEFghlFMrsZvUVqoH/ja0OsAStKpxI/ThHnY4qvCy\nSXWyxGx6bXrnt8eOfN7bUIEJaAMJg9PvyxzcLEm2Z1ILPuvmPBpaYiSCjpwzVX8o\nkpktQf6dwUvgNxdVWFMtzJbjPzkutWslYOzgB49BqzZna6chEE6BHFBUJT4CGmKt\nzm+xWW8B007FNVBmZ0jvI2miW8GQLlqiIqXt3haDRvRNuHF+810HGpLgPpExBNRt\n65gglY8OB7X4OW0JRYfqRJEXA5+GUEVIpulZpDa4s3YGLep9RKQcsrqPfXzZJW3T\naue2u5buOZ/o4kIPKpOSx47UUgMToVF4B5jiZ8OZ9sw4+Ch6+jhzkuQzDrS0bGM=\n=zrZY\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 53614c2da837a9a53016b7d3e9911cf96ab39c77\ntype commit\ntag 1.11\ntagger Kota Tsuyuzaki <tsuyuzaki.kota@lab.ntt.co.jp> 1474873236 -0700\n\nFollowing to the OpenStack release, make a new tag 1.11 pointing to v1.11. because the release version should be formatted in PEP440.\n"
+  }
+}

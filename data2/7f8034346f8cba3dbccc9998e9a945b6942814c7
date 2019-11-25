@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTo3ZjgwMzQzNDZmOGNiYTNkYmNjYzk5OThlOWE5NDViNjk0MjgxNGM3",
+  "sha": "7f8034346f8cba3dbccc9998e9a945b6942814c7",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/7f8034346f8cba3dbccc9998e9a945b6942814c7",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-05-29T18:33:08Z"
+  },
+  "object": {
+    "sha": "00a016c8446bad8323c3a7f9a4c5a536623e79b8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/00a016c8446bad8323c3a7f9a4c5a536623e79b8"
+  },
+  "tag": "v1.1.155",
+  "message": "Release of 1.1.155\n\n- 00a016c8446bad8323c3a7f9a4c5a536623e79b8: Merge pull request #528 from qiangdavidliu/master\n- f242b01c1001539ad222bd0338b54443d3f6eae2: Adding additional fields to deser for Jackson codec\n- 344f6d2d126c52f00e8f7b6639fe6cfd55d88401: Merge remote-tracking branch 'upstream/master'\n- 7afa7b0216684038c6781c0ba08cb6dab7454fb8: Reformat code.\n- 9711533554c62b472a7248b71764c56266ce0c8e: Merge pull request #526 from tbak/master\n- 0591c98a5813fb6c6ef4810b6f66a5e44b8e699c: Reformat code.\n- 20a425e53987ff6bfe231ed2149afdc9fa4c9da6: Merge pull request #522 from qiangdavidliu/master\n- 3835feb2a12b77720ba5c44ed581bd90afdb33fa: move jersey client cleanup to after unregistration cleanup (which need the apache client)\n- 837f78c72b9d74aac2474a42a3b35139256b1e3c: Updating examples to be more clear\n- be7030c4355226c9a971a0af4c85a2dea1da4b19: Merge pull request #521 from jeremydyoung/master\n- 60612be0136c0a7a1f6cc41d0e589bc7a628da3c: Destroying jersey cleaner thread on DiscoveryClient shutdown\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

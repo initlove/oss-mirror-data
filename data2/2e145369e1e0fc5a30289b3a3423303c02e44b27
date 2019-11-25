@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQyNDUyNjA6MmUxNDUzNjllMWUwZmM1YTMwMjg5YjNhMzQyMzMwM2MwMmU0NGIyNw==",
+  "sha": "2e145369e1e0fc5a30289b3a3423303c02e44b27",
+  "url": "https://api.github.com/repos/openstack/python-manilaclient/git/tags/2e145369e1e0fc5a30289b3a3423303c02e44b27",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-16T09:30:41Z"
+  },
+  "object": {
+    "sha": "1b2cafb008bee70242b68a03212bcc575df683b9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-manilaclient/git/commits/1b2cafb008bee70242b68a03212bcc575df683b9"
+  },
+  "tag": "1.29.0",
+  "message": "python-manilaclient 1.29.0 release\n\nmeta:version: 1.29.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tom Barron <tpb@dyncloud.net>\nmeta:release:Commit: Tom Barron <tpb@dyncloud.net>\nmeta:release:Change-Id: Ief59e009754c3ce96c392e19975a9fd227bc9e05\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1/VkEZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2ND5DADP9U/H2rmonapc6pduFVnW\nzAhvVevAEZvOA8HslkB/hi86BTr/RRBAjcZbJc3j2H8htgQiLySyn491tvI6iuIv\nd8ds6Qgr0F0bUe0Ea3jxHp0OSDgIKs6Q5qG+zYGnFERLUosFC+mG0NObfYOVeKT2\nzJrhHFzCIBTEoDqSaKH8rTFLfjCHYmEP8sUhCuk0bF1W7lW5BwHojkamMB0Ly35J\nBNzotErWtU70XaqHuNvuClA3/vgpChbLNSWJ6fb1jtFx4wwr8cTWNjtQ2CK5AIfi\nY7ukf5SVKXlkxBsibRcUG9Ug/pBS0lxFazfAMzup/QLa8aHbFaJ7wt/CWSpZ2kl/\n0E6rS0wocW/N97lved4HbsJfLz5EJbrIJeYyp0p3RHn91G3Cxjygh5Lo6sdKZMDI\nNeLHIJhoffM8bXkvh65adnpgvt90BaGJ1v6vQVIBzcwgaijfGKuoojTOpIAeg2dX\nMrY72Lc8Rbya91n3ayjgtnKLs7KTkJaAa0Zeu7l0OH0=\n=70z3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1/VkEZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2ND5DADP9U/H2rmonapc6pduFVnW\nzAhvVevAEZvOA8HslkB/hi86BTr/RRBAjcZbJc3j2H8htgQiLySyn491tvI6iuIv\nd8ds6Qgr0F0bUe0Ea3jxHp0OSDgIKs6Q5qG+zYGnFERLUosFC+mG0NObfYOVeKT2\nzJrhHFzCIBTEoDqSaKH8rTFLfjCHYmEP8sUhCuk0bF1W7lW5BwHojkamMB0Ly35J\nBNzotErWtU70XaqHuNvuClA3/vgpChbLNSWJ6fb1jtFx4wwr8cTWNjtQ2CK5AIfi\nY7ukf5SVKXlkxBsibRcUG9Ug/pBS0lxFazfAMzup/QLa8aHbFaJ7wt/CWSpZ2kl/\n0E6rS0wocW/N97lved4HbsJfLz5EJbrIJeYyp0p3RHn91G3Cxjygh5Lo6sdKZMDI\nNeLHIJhoffM8bXkvh65adnpgvt90BaGJ1v6vQVIBzcwgaijfGKuoojTOpIAeg2dX\nMrY72Lc8Rbya91n3ayjgtnKLs7KTkJaAa0Zeu7l0OH0=\n=70z3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1b2cafb008bee70242b68a03212bcc575df683b9\ntype commit\ntag 1.29.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1568626241 +0000\n\npython-manilaclient 1.29.0 release\n\nmeta:version: 1.29.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tom Barron <tpb@dyncloud.net>\nmeta:release:Commit: Tom Barron <tpb@dyncloud.net>\nmeta:release:Change-Id: Ief59e009754c3ce96c392e19975a9fd227bc9e05\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

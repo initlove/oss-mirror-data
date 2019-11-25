@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY2MjY5NjE6MjgxMTFiYjhlZTEwOGFmMTA0ODI1YzRkZjZhNjM0M2JiMGQ4MjcxNg==",
+  "sha": "28111bb8ee108af104825c4df6a6343bb0d82716",
+  "url": "https://api.github.com/repos/openstack/taskflow/git/tags/28111bb8ee108af104825c4df6a6343bb0d82716",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-07-12T17:34:55Z"
+  },
+  "object": {
+    "sha": "22990d49b4bd6f020f67a6a39b8aa17a2819badb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/taskflow/git/commits/22990d49b4bd6f020f67a6a39b8aa17a2819badb"
+  },
+  "tag": "3.2.0",
+  "message": "taskflow 3.2.0 release\n\nmeta:version: 3.2.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I790e5483726842c8a89749c4b9c942f76b2c0b95\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbR5E/AAoJEMNs3LTfAMaMssAIAJ6kYdbN1XF03AOsxf+w0vto\n94zmtl4fsiu6rFG7uYXklOZRacgmm+gFx1h1486B4mOe1oK12KjXAYzO17tqsBt0\nwEvS5EG81+qSau69ZK89gWW80Tv86ef4nBgzJP35YF7OYDimt+efROyBFfmH+/Cw\nPB5gGEDgWY6UWbqaCd/7YnvtBNKHy3XaoeT80b7BUCW81ogHPWc12xiiri/6FelL\n13K+KdObyFrKcLyd9ZIYVfpP0QOpDemjdAfUQOehoH6qshdb3khY3mPd5g44SPn1\nYh+x5dFHy/TnqA9YmbjoPL+hX4/AHnNiprJVokBVlNUgawIrJ9/k7KHdQstVngQ=\n=6dgW\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbR5E/AAoJEMNs3LTfAMaMssAIAJ6kYdbN1XF03AOsxf+w0vto\n94zmtl4fsiu6rFG7uYXklOZRacgmm+gFx1h1486B4mOe1oK12KjXAYzO17tqsBt0\nwEvS5EG81+qSau69ZK89gWW80Tv86ef4nBgzJP35YF7OYDimt+efROyBFfmH+/Cw\nPB5gGEDgWY6UWbqaCd/7YnvtBNKHy3XaoeT80b7BUCW81ogHPWc12xiiri/6FelL\n13K+KdObyFrKcLyd9ZIYVfpP0QOpDemjdAfUQOehoH6qshdb3khY3mPd5g44SPn1\nYh+x5dFHy/TnqA9YmbjoPL+hX4/AHnNiprJVokBVlNUgawIrJ9/k7KHdQstVngQ=\n=6dgW\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 22990d49b4bd6f020f67a6a39b8aa17a2819badb\ntype commit\ntag 3.2.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1531416895 +0000\n\ntaskflow 3.2.0 release\n\nmeta:version: 3.2.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I790e5483726842c8a89749c4b9c942f76b2c0b95\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

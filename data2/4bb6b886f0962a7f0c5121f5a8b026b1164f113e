@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEwNzQxMTY6NGJiNmI4ODZmMDk2MmE3ZjBjNTEyMWY1YThiMDI2YjExNjRmMTEzZQ==",
+  "sha": "4bb6b886f0962a7f0c5121f5a8b026b1164f113e",
+  "url": "https://api.github.com/repos/openstack/oslo.messaging/git/tags/4bb6b886f0962a7f0c5121f5a8b026b1164f113e",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-12-19T18:41:49Z"
+  },
+  "object": {
+    "sha": "ea61a810142e46a88b7120ad2899ec3b38b66516",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.messaging/git/commits/ea61a810142e46a88b7120ad2899ec3b38b66516"
+  },
+  "tag": "5.16.0",
+  "message": "oslo.messaging 5.16.0 release\n\nmeta:version: 5.16.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: gord chung <gord@live.ca>\nmeta:release:Commit: gord chung <gord@live.ca>\nmeta:release:Change-Id: Iad766a89f9521348d8ad725c9b67f66abed3f616\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYWCntAAoJELkGmxM1cAzcciAH/3ZAiKXv5Qp1jFCr0mMAzGRb\nThl0FD1AUue+tHqKvQ8gcS4c/AFnks5juKT82VK2mpKovVCMUngp1X2P68Qy/gnZ\ndRwBssTA9CRpaMtupLB7n1cp1wQkoFqZimttirz8bRklSvrYcajupOJ4SDoA4OQS\nMX88UV8mlK+22yRUqdP4so3uJg4gkfMKU6ofSPEtE4+zZlQSuxS7JP84g/7z1UD4\nraa2raofVTtEyy5WayIoJJuA+5jjN4U8oVPvLdcIO9/3lRvxnKypvs44caP1025A\nKI51t0uu0/PiZoqrS6hMXVvA5DjqWKwPd5uTXFnKIByPTxdCB0ipkxayp7dbiEs=\n=hMJI\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYWCntAAoJELkGmxM1cAzcciAH/3ZAiKXv5Qp1jFCr0mMAzGRb\nThl0FD1AUue+tHqKvQ8gcS4c/AFnks5juKT82VK2mpKovVCMUngp1X2P68Qy/gnZ\ndRwBssTA9CRpaMtupLB7n1cp1wQkoFqZimttirz8bRklSvrYcajupOJ4SDoA4OQS\nMX88UV8mlK+22yRUqdP4so3uJg4gkfMKU6ofSPEtE4+zZlQSuxS7JP84g/7z1UD4\nraa2raofVTtEyy5WayIoJJuA+5jjN4U8oVPvLdcIO9/3lRvxnKypvs44caP1025A\nKI51t0uu0/PiZoqrS6hMXVvA5DjqWKwPd5uTXFnKIByPTxdCB0ipkxayp7dbiEs=\n=hMJI\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ea61a810142e46a88b7120ad2899ec3b38b66516\ntype commit\ntag 5.16.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1482172909 +0000\n\noslo.messaging 5.16.0 release\n\nmeta:version: 5.16.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: gord chung <gord@live.ca>\nmeta:release:Commit: gord chung <gord@live.ca>\nmeta:release:Change-Id: Iad766a89f9521348d8ad725c9b67f66abed3f616\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

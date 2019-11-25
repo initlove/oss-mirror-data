@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDowODI4ODJhZjVmZjc4Y2ZmZTU5N2M4YjlhZmYyMDExMzk4Nzg4OTk0",
+  "sha": "082882af5ff78cffe597c8b9aff2011398788994",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/082882af5ff78cffe597c8b9aff2011398788994",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2016-03-04T09:01:40Z"
+  },
+  "object": {
+    "sha": "68724dc0364355b60e7ce7a23915f792215ba43e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/commits/68724dc0364355b60e7ce7a23915f792215ba43e"
+  },
+  "tag": "librepo-1.7.18",
+  "message": "v1.7.18\n- Add new option LRO_FTPUSEEPSV\n- Update AUTHORS\n- downloader prepare_next_transfer(): simplify long line\n- downloader prepare_next_transfer(): add missing error check\n- downloader prepare_next_transfer(): cleanup error path\n- downloader prepare_next_transfer() - fix memory leak on error path (Alan Jenkins)\n- handle: Don't use proxy cache for downloads of metalink/mirrorlist\n- handle: Don't set CURLOPT_HTTPHEADER into curl handle immediately when specified\n- downloader: Implement logic for no_cache param in LrDownloadTarget (RhBug: 1297762)\n- Add no_cache param to LrDownloadTarget and lr_downloadtarget_new()\n- New test: always try to download from the fastest mirror (Alexander Todorov)\n- Doc: Fixed minor doc typo (Philippe Ombredanne)\n- Doc: Other updates\n- Doc: Update default values in doc to reflect reality\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

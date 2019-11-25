@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjowNmY5NzhhMTU0ZDVhN2RlNWMxMmJmMDM5MDA3ZWE4ODQxOWUyNWYy",
+  "sha": "06f978a154d5a7de5c12bf039007ea88419e25f2",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/06f978a154d5a7de5c12bf039007ea88419e25f2",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:36:33Z"
+  },
+  "object": {
+    "sha": "d78d5042509f596db82f5ac7bda096329c571f76",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/d78d5042509f596db82f5ac7bda096329c571f76"
+  },
+  "tag": "0.7.4",
+  "message": "v0.7.4\n- createrepo_c, mergerepo_c: Follow redirs by default while downloading remote repos\n- mergerepo_c: Fix segfault when a package without sourcerpm is part of metadata and --koji option is used\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

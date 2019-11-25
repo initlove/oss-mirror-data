@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjExNzQ1MDA6M2E4MjkxMGU1NDczYTljNTdkOTY5Y2ZhNWMwZjBjNTQyNDlkOTAzNw==",
+  "sha": "3a82910e5473a9c57d969cfa5c0f0c54249d9037",
+  "url": "https://api.github.com/repos/openstack/keystonemiddleware/git/tags/3a82910e5473a9c57d969cfa5c0f0c54249d9037",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-06-14T03:47:39Z"
+  },
+  "object": {
+    "sha": "3e62d25dacb4282609d897f8a9cf08c3603b12d7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystonemiddleware/git/commits/3e62d25dacb4282609d897f8a9cf08c3603b12d7"
+  },
+  "tag": "6.1.0",
+  "message": "keystonemiddleware 6.1.0 release\n\nmeta:version: 6.1.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Jens Harbott <j.harbott@x-ion.de>\nmeta:release:Commit: Jens Harbott <j.harbott@x-ion.de>\nmeta:release:Change-Id: I862c5695d6a1fbf14b53c35af02b8a946f6a47d8\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0DGNsZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OkQC/wKKlHm4kPoy6xqcuKolGr4\n9Pt33aFK02d8uJS6YhYFDToyofVHoMhmBuk98L79j1uwyGt7aJIsKGv0ZUGleNjG\n6pSSU2zGGCyr2pz1Zzv+RjJaIPytC5ZLk3feqfthcMbQ4qhKuNXpVkmlDwjeQvQ5\nj8NHr03oSoFhuc1i38CVf9LfqqQ/1HWzwPE+nO/UFNSYHRoNSANA3eXJ/bKUd9fg\n0MVVeeUKcoHsTp7MN26VzSacVasQH5IkL+CZKCR1qku8BSBCG9/yOUs3AAkRjYPq\nOhIadx9Udp3GKB8QyisogQedR2HVF7AcjoIJUUz27ecNwj55AWwDVtZATzhu+GKm\n6xDWFl2Rxtt3m+LqqLcEauO7sMPjDpzeml80COzrh0YGBzmS4BDN3SEZZrK35G0i\nBqT5ZsZv5W9iLu8zQLOpC83rdGbJhM5wuV+9j+Eahrq6fQMw6qCbNa9Zyho83NGO\niWxKobvo2MoUroWhbRLhSnX7f1N4bp0dSTYdFpGT37k=\n=TaOQ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0DGNsZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OkQC/wKKlHm4kPoy6xqcuKolGr4\n9Pt33aFK02d8uJS6YhYFDToyofVHoMhmBuk98L79j1uwyGt7aJIsKGv0ZUGleNjG\n6pSSU2zGGCyr2pz1Zzv+RjJaIPytC5ZLk3feqfthcMbQ4qhKuNXpVkmlDwjeQvQ5\nj8NHr03oSoFhuc1i38CVf9LfqqQ/1HWzwPE+nO/UFNSYHRoNSANA3eXJ/bKUd9fg\n0MVVeeUKcoHsTp7MN26VzSacVasQH5IkL+CZKCR1qku8BSBCG9/yOUs3AAkRjYPq\nOhIadx9Udp3GKB8QyisogQedR2HVF7AcjoIJUUz27ecNwj55AWwDVtZATzhu+GKm\n6xDWFl2Rxtt3m+LqqLcEauO7sMPjDpzeml80COzrh0YGBzmS4BDN3SEZZrK35G0i\nBqT5ZsZv5W9iLu8zQLOpC83rdGbJhM5wuV+9j+Eahrq6fQMw6qCbNa9Zyho83NGO\niWxKobvo2MoUroWhbRLhSnX7f1N4bp0dSTYdFpGT37k=\n=TaOQ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3e62d25dacb4282609d897f8a9cf08c3603b12d7\ntype commit\ntag 6.1.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1560484059 +0000\n\nkeystonemiddleware 6.1.0 release\n\nmeta:version: 6.1.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Jens Harbott <j.harbott@x-ion.de>\nmeta:release:Commit: Jens Harbott <j.harbott@x-ion.de>\nmeta:release:Change-Id: I862c5695d6a1fbf14b53c35af02b8a946f6a47d8\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

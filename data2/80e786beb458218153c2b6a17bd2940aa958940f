@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDQ6ODBlNzg2YmViNDU4MjE4MTUzYzJiNmExN2JkMjk0MGFhOTU4OTQwZg==",
+  "sha": "80e786beb458218153c2b6a17bd2940aa958940f",
+  "url": "https://api.github.com/repos/openstack/python-ironicclient/git/tags/80e786beb458218153c2b6a17bd2940aa958940f",
+  "tagger": {
+    "name": "Devananda van der Veen",
+    "email": "devananda.vdv@gmail.com",
+    "date": "2014-08-11T22:36:59Z"
+  },
+  "object": {
+    "sha": "8160da5b3b7252cbead915ecbb375eb6c83481bc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironicclient/git/commits/8160da5b3b7252cbead915ecbb375eb6c83481bc"
+  },
+  "tag": "0.2.1",
+  "message": "Release 0.2.1\n\n* Add missing capability to retrieve detailed info on multiple nodes in a\n  single API call. This is significantly faster than clients pulling detailed\n  info for many nodes one at a time in a loop.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlPpRn0ACgkQhFvuBniJg6c78wCfdDQM4EmsbaHqqVVmZldxlmIY\nRIcAoLG4elJpR+TmcG9W4z+My+1Em/04\n=AA7L\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlPpRn0ACgkQhFvuBniJg6c78wCfdDQM4EmsbaHqqVVmZldxlmIY\nRIcAoLG4elJpR+TmcG9W4z+My+1Em/04\n=AA7L\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8160da5b3b7252cbead915ecbb375eb6c83481bc\ntype commit\ntag 0.2.1\ntagger Devananda van der Veen <devananda.vdv@gmail.com> 1407796619 -0700\n\nRelease 0.2.1\n\n* Add missing capability to retrieve detailed info on multiple nodes in a\n  single API call. This is significantly faster than clients pulling detailed\n  info for many nodes one at a time in a loop.\n"
+  }
+}

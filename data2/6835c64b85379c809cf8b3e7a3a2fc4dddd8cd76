@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo2ODM1YzY0Yjg1Mzc5YzgwOWNmOGIzZTdhM2EyZmM0ZGRkZDhjZDc2",
+  "sha": "6835c64b85379c809cf8b3e7a3a2fc4dddd8cd76",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/6835c64b85379c809cf8b3e7a3a2fc4dddd8cd76",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-07-09T20:18:50Z"
+  },
+  "object": {
+    "sha": "58a46221bba726746887a661a9f36fe9ff204209",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/58a46221bba726746887a661a9f36fe9ff204209"
+  },
+  "tag": "v0.10.12",
+  "message": "2013.07.10, Version 0.10.12 (Stable)\n\nChanges since version 0.10.11:\n\n* linux: add support for MIPS (Andrei Sedoi)\n\n* windows: uv_spawn shouldn't reject reparse points (Bert Belder)\n\n* windows: use WSAGetLastError(), not errno (Ben Noordhuis)\n\n* build: darwin: disable -fstrict-aliasing warnings (Ben Noordhuis)\n\n* build: `all` now builds static and dynamic lib (Ben Noordhuis)\n\n* unix: fix build when !defined(PTHREAD_MUTEX_ERRORCHECK) (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.13 (Darwin)\n\niQEcBAABAgAGBQJR3HAqAAoJELCniwpsSBz2CxsH/jIbRdE4mCCxQndnk3E7yUgM\n0YwHvVHw6YeUKMPrOy6PRK7CAlvHu6q69frypybIxHAcBKypOqIaUQNjzf5tMsJh\nMWJuUoMZyLWctZUrgdPtyRCWAP1ItEEv5vaC7/dNqJz7AjheA2mSwBjYZx+3epaI\ng5+f/dCHjCeZViSXLu7Jt6/AFZ5KB3ng0eIR28pg3iXCvt0MlHjVlK01VkX1YPmd\ncwUzRE3oxtKjSiqRKV76f82z3eJkstK6rCaZx+Y6U/4R4HiJJL36OKGBrUFhTosb\n4T/K1obC6uGvqzXkJnodoP9QqYuyjNsV9Io/mEEsPESf9C6i54MjB7Na/OXSgcY=\n=iWis\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.13 (Darwin)\n\niQEcBAABAgAGBQJR3HAqAAoJELCniwpsSBz2CxsH/jIbRdE4mCCxQndnk3E7yUgM\n0YwHvVHw6YeUKMPrOy6PRK7CAlvHu6q69frypybIxHAcBKypOqIaUQNjzf5tMsJh\nMWJuUoMZyLWctZUrgdPtyRCWAP1ItEEv5vaC7/dNqJz7AjheA2mSwBjYZx+3epaI\ng5+f/dCHjCeZViSXLu7Jt6/AFZ5KB3ng0eIR28pg3iXCvt0MlHjVlK01VkX1YPmd\ncwUzRE3oxtKjSiqRKV76f82z3eJkstK6rCaZx+Y6U/4R4HiJJL36OKGBrUFhTosb\n4T/K1obC6uGvqzXkJnodoP9QqYuyjNsV9Io/mEEsPESf9C6i54MjB7Na/OXSgcY=\n=iWis\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 58a46221bba726746887a661a9f36fe9ff204209\ntype commit\ntag v0.10.12\ntagger isaacs <i@izs.me> 1373401130 -0700\n\n2013.07.10, Version 0.10.12 (Stable)\n\nChanges since version 0.10.11:\n\n* linux: add support for MIPS (Andrei Sedoi)\n\n* windows: uv_spawn shouldn't reject reparse points (Bert Belder)\n\n* windows: use WSAGetLastError(), not errno (Ben Noordhuis)\n\n* build: darwin: disable -fstrict-aliasing warnings (Ben Noordhuis)\n\n* build: `all` now builds static and dynamic lib (Ben Noordhuis)\n\n* unix: fix build when !defined(PTHREAD_MUTEX_ERRORCHECK) (Ben Noordhuis)\n"
+  }
+}

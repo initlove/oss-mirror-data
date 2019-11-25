@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzg1NzEyMzo1MDE1NzYyYTNkZjQ4ODU1NzU1OWQ1MDEyNmU1Y2VkOGM2N2M4MmY5",
+  "sha": "5015762a3df488557559d50126e5ced8c67c82f9",
+  "url": "https://api.github.com/repos/openstack/python-glanceclient/git/tags/5015762a3df488557559d50126e5ced8c67c82f9",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-13T14:59:14Z"
+  },
+  "object": {
+    "sha": "40c19aa44361e13ac997d325d357d3e4748fa063",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-glanceclient/git/commits/40c19aa44361e13ac997d325d357d3e4748fa063"
+  },
+  "tag": "2.17.0",
+  "message": "python-glanceclient 2.17.0 release\n\nmeta:version: 2.17.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: Ic623c506ac514d16ef876654db90c1303b4e3935\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl17rsIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2AZaDAC4VzclW8oG8Hp8lruHYodp\n4qEKWsYdmZqN4tfAGyDChUTgxhEghGol6Ofgr6IVFgBOr8nUomyl+ftyeKKJXQAa\nexUgxJ/omktPaW0VrqCvfKsJmBs42An/HYNXXnCJm2WRwuS5M6zGph/3tgqqKQ5C\nwOKNQUYD4CGBa5th2GHPhqpoJYDD1z7DJFb2xTR6V/mYAHtNSbnFe6JCv00gx9FL\neRQH9pibKwbmeKN1eiyCq+OJqdMp5wVLaspbFUvFYDUvRcDam4/kTgMjPIMAv4IJ\n5TRctJxGzxudQ4PJl+t7KjNN/76bek5wY46AF5VOjMeY9RQQn0JTgTiNMNQmqyPw\niQUt4gNztfQJtGJgQlO4NBTgO21CoJOP0BZSNI8doDdrajmWSKnSuc+sEj70YsIa\nG3HWgPpCdKGTFW8TD2YhPOUBJmkBgt2Vd6KiAb4/P2O0n7QWypFJtxXZoMIA0ZoZ\nWBti7wDS/1r4annupGQXxZaqMp1JOMvemx5Q+UVuoRU=\n=Bt8S\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl17rsIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2AZaDAC4VzclW8oG8Hp8lruHYodp\n4qEKWsYdmZqN4tfAGyDChUTgxhEghGol6Ofgr6IVFgBOr8nUomyl+ftyeKKJXQAa\nexUgxJ/omktPaW0VrqCvfKsJmBs42An/HYNXXnCJm2WRwuS5M6zGph/3tgqqKQ5C\nwOKNQUYD4CGBa5th2GHPhqpoJYDD1z7DJFb2xTR6V/mYAHtNSbnFe6JCv00gx9FL\neRQH9pibKwbmeKN1eiyCq+OJqdMp5wVLaspbFUvFYDUvRcDam4/kTgMjPIMAv4IJ\n5TRctJxGzxudQ4PJl+t7KjNN/76bek5wY46AF5VOjMeY9RQQn0JTgTiNMNQmqyPw\niQUt4gNztfQJtGJgQlO4NBTgO21CoJOP0BZSNI8doDdrajmWSKnSuc+sEj70YsIa\nG3HWgPpCdKGTFW8TD2YhPOUBJmkBgt2Vd6KiAb4/P2O0n7QWypFJtxXZoMIA0ZoZ\nWBti7wDS/1r4annupGQXxZaqMp1JOMvemx5Q+UVuoRU=\n=Bt8S\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 40c19aa44361e13ac997d325d357d3e4748fa063\ntype commit\ntag 2.17.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1568386754 +0000\n\npython-glanceclient 2.17.0 release\n\nmeta:version: 2.17.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: Ic623c506ac514d16ef876654db90c1303b4e3935\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

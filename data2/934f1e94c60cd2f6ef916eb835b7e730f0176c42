@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzMyMTY2MjA6OTM0ZjFlOTRjNjBjZDJmNmVmOTE2ZWI4MzViN2U3MzBmMDE3NmM0Mg==",
+  "sha": "934f1e94c60cd2f6ef916eb835b7e730f0176c42",
+  "url": "https://api.github.com/repos/BerkeleyTrue/warning/git/tags/934f1e94c60cd2f6ef916eb835b7e730f0176c42",
+  "tagger": {
+    "name": "Berkeley Martinez",
+    "email": "Berkeley@robotie.com",
+    "date": "2015-10-04T21:24:35Z"
+  },
+  "object": {
+    "sha": "b7d56e3f6c21c3ee05af617222d16c7d80118443",
+    "type": "commit",
+    "url": "https://api.github.com/repos/BerkeleyTrue/warning/git/commits/b7d56e3f6c21c3ee05af617222d16c7d80118443"
+  },
+  "tag": "v2.1.0",
+  "message": "Release v2.1.0\n\nThis version see a switch from using envify to loose-envify for\nthose using Browserify to bundle.\n\nloose-envify is faster lighter version of envify for use with\nsmall libraries like this.\n\nHappy Coding!\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWEZl9AAoJEGFXKK32M7qQ3JAH/RkC5/vSB2KetOaWI9byYO3Q\nAebj2z2XYm0UqLa15lGcCpPyOhc9yMtN4/6EG9elnNH/G3fBp1bC85VU8sfmgJSR\nFdtWd+1pO3okTFDAxTVFZwmn5MIlgEbmwhKhrRDHNBFqa2/IfHtW+ewJXr8UBVmM\nNNlWEDvfKUDjc+7Wp480T7L/rdgHlgJCz6TdThh/GUQaNTWpXpeDWqXEfEwk9Pvy\neLtUIXtkInQcWe2/Ppw8ST1Zn4iky/FqCXdF+BGsFduTDzPUR7ayrIwZ6Cn9O3IC\noPyz/P8lZNAoGdBsF/UkikIDKINxj45tMSF0f2DLb54tO77cARNkS1he3dusAOM=\n=iq2e\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWEZl9AAoJEGFXKK32M7qQ3JAH/RkC5/vSB2KetOaWI9byYO3Q\nAebj2z2XYm0UqLa15lGcCpPyOhc9yMtN4/6EG9elnNH/G3fBp1bC85VU8sfmgJSR\nFdtWd+1pO3okTFDAxTVFZwmn5MIlgEbmwhKhrRDHNBFqa2/IfHtW+ewJXr8UBVmM\nNNlWEDvfKUDjc+7Wp480T7L/rdgHlgJCz6TdThh/GUQaNTWpXpeDWqXEfEwk9Pvy\neLtUIXtkInQcWe2/Ppw8ST1Zn4iky/FqCXdF+BGsFduTDzPUR7ayrIwZ6Cn9O3IC\noPyz/P8lZNAoGdBsF/UkikIDKINxj45tMSF0f2DLb54tO77cARNkS1he3dusAOM=\n=iq2e\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b7d56e3f6c21c3ee05af617222d16c7d80118443\ntype commit\ntag v2.1.0\ntagger Berkeley Martinez <Berkeley@robotie.com> 1443993875 -0700\n\nRelease v2.1.0\n\nThis version see a switch from using envify to loose-envify for\nthose using Browserify to bundle.\n\nloose-envify is faster lighter version of envify for use with\nsmall libraries like this.\n\nHappy Coding!\n"
+  }
+}

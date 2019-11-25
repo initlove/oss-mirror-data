@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcxMTYyOjAwNzBkMjdmZWM4NmI2YmI1NjNlYWY3NzJjMTM3ZDUwYzU4OTZiYTA=",
+  "sha": "0070d27fec86b6bb563eaf772c137d50c5896ba0",
+  "url": "https://api.github.com/repos/enkessler/childprocess/git/tags/0070d27fec86b6bb563eaf772c137d50c5896ba0",
+  "tagger": {
+    "name": "Shane da Silva",
+    "email": "shane@dasilva.io",
+    "date": "2019-07-11T17:50:21Z"
+  },
+  "object": {
+    "sha": "1d809334981103e635fc2df71722e861e87285b8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/enkessler/childprocess/git/commits/1d809334981103e635fc2df71722e861e87285b8"
+  },
+  "tag": "v2.0.0",
+  "message": "Version 2.0.0 / 2019-07-11\n\n* [#148](https://github.com/enkessler/childprocess/pull/148): Drop support for Ruby 2.0, 2.1, and 2.2\n* [#149](https://github.com/enkessler/childprocess/pull/149): Fix Unix fork reopen to be compatible with Ruby 2.6\n* [#152](https://github.com/enkessler/childprocess/pull/152)/[#154](https://github.com/enkessler/childprocess/pull/154): Fix hangs and permission errors introduced in Ruby 2.6 for leader processes of process groups\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEvyyWKCEqX199bPgCGMweZQeyMwoFAl0ndu8ACgkQGMweZQey\nMwqz6BAAkx0vF1Gfqp4c9NtLyXFws6ghwMmipOdzSU1iU9s7hbYdHpTCDttSd2vw\nRHYOF0vSfp5Vg7PH+Kf6dz/dOg3MLhBAuFSs9wJYgq/9LZucG0vsnXMezmCzRhYN\nqkVsT55pDbZ2PCE9Sebetybo6W9X7HFAKClUDq3fO+PNh1wqLJIDhP77QpZ78gBh\nBp2EJHRfXuwq7A+ISnNKnrrpJJbVCm9IUOsCidNbX/EpZjAEREj23qAzJuFznIsp\nbo/YA+yXWESZjguHLKn28ZRr/5gXyOjtOpSicrQ9ZD8a/SF36bQrfPGloAc6hZJl\nQFpvrwnszqg0h1TzUWJSBfIW2pwBPFOAZdSg2rA4OWXxlmDtHPDGOzg9BOploZDQ\nMdfsX5NRRY+amCERLXszngh/sxnBnMNs8563GLtAqscsGekabvxxkPagsQlOXP7i\nj8h9UFe10Ybl8PuHjk4qqjVXIypAT+r6ABhkaPtAavl6TAe8mi4q/dTZLK2uWWbV\nWov6WWY1J02w3x2z6HdKc8+Dtazg/mo+BQWJf6mYzf3tEgPvRd1CWiTRHzDi3kql\nzwBT7VChfa1ML2xlxxG03QMfT8pi4nC2cFi8i7+iKXOi0yd+DoAoU1p5OYJZ+X4H\nCzH/+D7zJ7h4u3DLiQD7n+5ek5uQ21uDx0NN6YHjXHPDrDt7O0I=\n=nfVI\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEvyyWKCEqX199bPgCGMweZQeyMwoFAl0ndu8ACgkQGMweZQey\nMwqz6BAAkx0vF1Gfqp4c9NtLyXFws6ghwMmipOdzSU1iU9s7hbYdHpTCDttSd2vw\nRHYOF0vSfp5Vg7PH+Kf6dz/dOg3MLhBAuFSs9wJYgq/9LZucG0vsnXMezmCzRhYN\nqkVsT55pDbZ2PCE9Sebetybo6W9X7HFAKClUDq3fO+PNh1wqLJIDhP77QpZ78gBh\nBp2EJHRfXuwq7A+ISnNKnrrpJJbVCm9IUOsCidNbX/EpZjAEREj23qAzJuFznIsp\nbo/YA+yXWESZjguHLKn28ZRr/5gXyOjtOpSicrQ9ZD8a/SF36bQrfPGloAc6hZJl\nQFpvrwnszqg0h1TzUWJSBfIW2pwBPFOAZdSg2rA4OWXxlmDtHPDGOzg9BOploZDQ\nMdfsX5NRRY+amCERLXszngh/sxnBnMNs8563GLtAqscsGekabvxxkPagsQlOXP7i\nj8h9UFe10Ybl8PuHjk4qqjVXIypAT+r6ABhkaPtAavl6TAe8mi4q/dTZLK2uWWbV\nWov6WWY1J02w3x2z6HdKc8+Dtazg/mo+BQWJf6mYzf3tEgPvRd1CWiTRHzDi3kql\nzwBT7VChfa1ML2xlxxG03QMfT8pi4nC2cFi8i7+iKXOi0yd+DoAoU1p5OYJZ+X4H\nCzH/+D7zJ7h4u3DLiQD7n+5ek5uQ21uDx0NN6YHjXHPDrDt7O0I=\n=nfVI\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1d809334981103e635fc2df71722e861e87285b8\ntype commit\ntag v2.0.0\ntagger Shane da Silva <shane@dasilva.io> 1562867421 -0700\n\nVersion 2.0.0 / 2019-07-11\n\n* [#148](https://github.com/enkessler/childprocess/pull/148): Drop support for Ruby 2.0, 2.1, and 2.2\n* [#149](https://github.com/enkessler/childprocess/pull/149): Fix Unix fork reopen to be compatible with Ruby 2.6\n* [#152](https://github.com/enkessler/childprocess/pull/152)/[#154](https://github.com/enkessler/childprocess/pull/154): Fix hangs and permission errors introduced in Ruby 2.6 for leader processes of process groups\n"
+  }
+}

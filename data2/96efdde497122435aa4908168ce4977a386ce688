@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNTk5NDY6OTZlZmRkZTQ5NzEyMjQzNWFhNDkwODE2OGNlNDk3N2EzODZjZTY4OA==",
+  "sha": "96efdde497122435aa4908168ce4977a386ce688",
+  "url": "https://api.github.com/repos/openstack/python-tackerclient/git/tags/96efdde497122435aa4908168ce4977a386ce688",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-07T10:19:30Z"
+  },
+  "object": {
+    "sha": "f4839f308ab341bbb4a8faa818b0d6eba2048819",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-tackerclient/git/commits/f4839f308ab341bbb4a8faa818b0d6eba2048819"
+  },
+  "tag": "0.15.0",
+  "message": "python-tackerclient 0.15.0 release\n\nmeta:version: 0.15.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: dharmendra <dharmendra.kushwaha@india.nec.com>\nmeta:release:Commit: dharmendra kushwaha <dharmendra.kushwaha@india.nec.com>\nmeta:release:Change-Id: I2d27f0e7dec7dbe6d5f931bda505e7a164638063\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcgPAyAAoJEBpUEUgFTp44GFkL/RWFu7EnQwFCEoBj6eQY9k0M\nVR3PJVFM/hip4EkTwEfWdJZg04RrDUpDwY7ZZNpU/J/ao1b6gNKAiHaRLy8uLBRW\n0Df5idsha+krV9cjAVp994HQu/TzR6PwEtA7XgqiQ33Purq3RzsI8kuU5eMo8+Qm\nw9zCdbWkYwTZH3fLPu7f9G8XowDoupfXxHexuXnE5tlk4J+urEsQDeJvaQiHzN1H\nW6iIbcx4y/eGh9TUYLBYauGT9ANfyPUDcRG3Ov4xPlb3MPqJf2n9EGqgk6sycmaS\nKs0CvP7p9gBPrv448UjblXfFHdoSKeq3JN4QjblN6MAmMkkVPYkf8ilBrTU3L3PT\n6QaungPaHMV2L6D2pHuMQctRJP289pOG7/rcJf2PJ0k3a4lGWzAtZfP1VN1BVMb5\n38/m7OoJb3aetoHTUL+B0b9Ku843hQVRqWyQPk9s1NriTMq0Bn+1k3+p/6hqm+jT\nyWCOdyhido6E79KPtKFpNXNlh8K5DUEk5n2m6sEwHA==\n=gxfT\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcgPAyAAoJEBpUEUgFTp44GFkL/RWFu7EnQwFCEoBj6eQY9k0M\nVR3PJVFM/hip4EkTwEfWdJZg04RrDUpDwY7ZZNpU/J/ao1b6gNKAiHaRLy8uLBRW\n0Df5idsha+krV9cjAVp994HQu/TzR6PwEtA7XgqiQ33Purq3RzsI8kuU5eMo8+Qm\nw9zCdbWkYwTZH3fLPu7f9G8XowDoupfXxHexuXnE5tlk4J+urEsQDeJvaQiHzN1H\nW6iIbcx4y/eGh9TUYLBYauGT9ANfyPUDcRG3Ov4xPlb3MPqJf2n9EGqgk6sycmaS\nKs0CvP7p9gBPrv448UjblXfFHdoSKeq3JN4QjblN6MAmMkkVPYkf8ilBrTU3L3PT\n6QaungPaHMV2L6D2pHuMQctRJP289pOG7/rcJf2PJ0k3a4lGWzAtZfP1VN1BVMb5\n38/m7OoJb3aetoHTUL+B0b9Ku843hQVRqWyQPk9s1NriTMq0Bn+1k3+p/6hqm+jT\nyWCOdyhido6E79KPtKFpNXNlh8K5DUEk5n2m6sEwHA==\n=gxfT\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f4839f308ab341bbb4a8faa818b0d6eba2048819\ntype commit\ntag 0.15.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1551953970 +0000\n\npython-tackerclient 0.15.0 release\n\nmeta:version: 0.15.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: dharmendra <dharmendra.kushwaha@india.nec.com>\nmeta:release:Commit: dharmendra kushwaha <dharmendra.kushwaha@india.nec.com>\nmeta:release:Change-Id: I2d27f0e7dec7dbe6d5f931bda505e7a164638063\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDUzNzExODo0YmFmYzdkNTY1NzQzMzNhN2I4NjVlZWY1YTFkODk0ODRlOWFmNDUz",
+  "sha": "4bafc7d56574333a7b865eef5a1d89484e9af453",
+  "url": "https://api.github.com/repos/GNOME/libxml2/git/tags/4bafc7d56574333a7b865eef5a1d89484e9af453",
+  "tagger": {
+    "name": "Daniel Veillard",
+    "email": "veillard@redhat.com",
+    "date": "2015-11-03T08:08:41Z"
+  },
+  "object": {
+    "sha": "bd0526e66a56e75a18da8c15c4750db8f801c52d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/GNOME/libxml2/git/commits/bd0526e66a56e75a18da8c15c4750db8f801c52d"
+  },
+  "tag": "CVE-2015-7942",
+  "message": "Fix for CVE-2015-7942\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlY4a5IACgkQRga4pd6VvB/pewCeLXIkh+CCZ+e54fIAP4MN95tt\nI+oAmgKK38JPRGmPqFVSSQfNpA6Td5IZ\n=sjSN\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlY4a5IACgkQRga4pd6VvB/pewCeLXIkh+CCZ+e54fIAP4MN95tt\nI+oAmgKK38JPRGmPqFVSSQfNpA6Td5IZ\n=sjSN\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bd0526e66a56e75a18da8c15c4750db8f801c52d\ntype commit\ntag CVE-2015-7942\ntagger Daniel Veillard <veillard@redhat.com> 1446538121 +0800\n\nFix for CVE-2015-7942\n"
+  }
+}

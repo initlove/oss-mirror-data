@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQyNDUyNjA6ODU0OTJlZjhkODY1YWViNjg5ZTVkMzg2NWZjNzk4OWU1MjAwODg4Mw==",
+  "sha": "85492ef8d865aeb689e5d3865fc7989e52008883",
+  "url": "https://api.github.com/repos/openstack/python-manilaclient/git/tags/85492ef8d865aeb689e5d3865fc7989e52008883",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-04-17T01:40:09Z"
+  },
+  "object": {
+    "sha": "816bfc82e7a1835cdbfccf0e023beb4c11eb2a30",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-manilaclient/git/commits/816bfc82e7a1835cdbfccf0e023beb4c11eb2a30"
+  },
+  "tag": "1.24.2",
+  "message": "python-manilaclient 1.24.2 release\n\nmeta:version: 1.24.2\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Goutham Pacha Ravi <gouthampravi@gmail.com>\nmeta:release:Commit: Goutham Pacha Ravi <gouthampravi@gmail.com>\nmeta:release:Change-Id: I6a2e6fb4f407ce099d88d87d84f26484df15c18d\nmeta:release:Code-Review+1: Tom Barron <tpb@dyncloud.net>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly2g/kZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOLQRDACBHPmKEg3MISSgSzwpVLur\neqSjZLWuxaCA13Wv3PlSyz2zUCRuQV3wttmg4MydSwuTlcivt1v5EcQSarjb3u5f\nffBdAUnhTBBwhqfvYmXCZ4+IXSfU4Ftd8+1rI2ZMGtUMJinA1Yu5aJ4mjzMGdIMz\np5mLRooBtpyk3BjwxbaB0AVQsUqytQu9T2BZM5RjnVd/Ep6bYLHOh/FDSHpP0p/I\n9fDl4Yc04ILGoAf3y7rYUWCjZBtLP0Bxa2nGzt+Sx8NYCPMQx+ly7v2uaZj56+jL\nAj92wsdAirYTpply0mcFyt6M/3o2sUgVpFMyf6qulaspqQSLcMKZ3rzsazhGbLYH\nqn+P867hYk2ItlSx5pJR5GgiaAV6HqjmC7hqCb3Vm1V1QRG9Pk7hZR3y+ytDA/B6\n70iCcQjJ8cDf0JynMLsKUop09o+YmucWwHlcT9lsSv1o6bSxCnV5lvzz/H36Aw2U\n2Z2THK8NcqSSvcZnaADu9zGSN7Z1Q7FVrDrjw9UDwGs=\n=G1kM\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly2g/kZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOLQRDACBHPmKEg3MISSgSzwpVLur\neqSjZLWuxaCA13Wv3PlSyz2zUCRuQV3wttmg4MydSwuTlcivt1v5EcQSarjb3u5f\nffBdAUnhTBBwhqfvYmXCZ4+IXSfU4Ftd8+1rI2ZMGtUMJinA1Yu5aJ4mjzMGdIMz\np5mLRooBtpyk3BjwxbaB0AVQsUqytQu9T2BZM5RjnVd/Ep6bYLHOh/FDSHpP0p/I\n9fDl4Yc04ILGoAf3y7rYUWCjZBtLP0Bxa2nGzt+Sx8NYCPMQx+ly7v2uaZj56+jL\nAj92wsdAirYTpply0mcFyt6M/3o2sUgVpFMyf6qulaspqQSLcMKZ3rzsazhGbLYH\nqn+P867hYk2ItlSx5pJR5GgiaAV6HqjmC7hqCb3Vm1V1QRG9Pk7hZR3y+ytDA/B6\n70iCcQjJ8cDf0JynMLsKUop09o+YmucWwHlcT9lsSv1o6bSxCnV5lvzz/H36Aw2U\n2Z2THK8NcqSSvcZnaADu9zGSN7Z1Q7FVrDrjw9UDwGs=\n=G1kM\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 816bfc82e7a1835cdbfccf0e023beb4c11eb2a30\ntype commit\ntag 1.24.2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1555465209 +0000\n\npython-manilaclient 1.24.2 release\n\nmeta:version: 1.24.2\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Goutham Pacha Ravi <gouthampravi@gmail.com>\nmeta:release:Commit: Goutham Pacha Ravi <gouthampravi@gmail.com>\nmeta:release:Change-Id: I6a2e6fb4f407ce099d88d87d84f26484df15c18d\nmeta:release:Code-Review+1: Tom Barron <tpb@dyncloud.net>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

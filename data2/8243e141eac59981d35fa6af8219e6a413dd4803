@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzODQ5OTM6ODI0M2UxNDFlYWM1OTk4MWQzNWZhNmFmODIxOWU2YTQxM2RkNDgwMw==",
+  "sha": "8243e141eac59981d35fa6af8219e6a413dd4803",
+  "url": "https://api.github.com/repos/openstack/keystone/git/tags/8243e141eac59981d35fa6af8219e6a413dd4803",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-04-03T20:11:42Z"
+  },
+  "object": {
+    "sha": "c78581b4608f3dc10e945d358963000f284f188a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystone/git/commits/c78581b4608f3dc10e945d358963000f284f188a"
+  },
+  "tag": "15.0.0.0rc2",
+  "message": "keystone 15.0.0.0rc2 release candidate\n\nmeta:version: 15.0.0.0rc2\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Commit: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Change-Id: Ieb0d72d253ae71dced2ff1528536ef306139f13a\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Lance Bragstad <lbragstad@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlylE34ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOIqQC/4vXKpRfJwuQ7lW4kzuQD+0\ng1wmj71jpWzWgt4+kbBzx/eD+bF0z5IZMOg5/0fWqhuH6Tnz5GMN9YD8uxIdikbe\ntWw4Q0EhdtPvWRYYIT7fzolTSuWfymmGsLtP16O8hCaIJ4/AJ/7gnfgFK9TorwKu\noHjg7LJmEPLhwaWrOZONFcvQTSwxWfY27MHgtHM2B41K2rV9AkgT+fI7UcuZiL1d\n/pYY5R8EMrRpho/tMah10NYKi/1oczej8uKCJWfncyrCaYyB5m6esdsamHpvQ5WH\ncP0GHoly+unClo5sxaIh9/6neorZzvje5i28uTMWFayrchCmj/nkw3GVGytfwbPS\nxS00eDu1kT511R4u8/+67t5AUpw7ZAS5ZMGbruJhr6LgHWjsMPGRkO0i2CFT2M+V\nBD7uUHcIl30gqwywKjhInfwXqIb+Nul4mqb3J8PUBWJ4kGxRE4/ljmRgFclRBJHM\nmOLXt5eNh3+NxSHRmcOXlznZc7nFvL5ZeDeQdmJgKxM=\n=o6a8\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlylE34ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOIqQC/4vXKpRfJwuQ7lW4kzuQD+0\ng1wmj71jpWzWgt4+kbBzx/eD+bF0z5IZMOg5/0fWqhuH6Tnz5GMN9YD8uxIdikbe\ntWw4Q0EhdtPvWRYYIT7fzolTSuWfymmGsLtP16O8hCaIJ4/AJ/7gnfgFK9TorwKu\noHjg7LJmEPLhwaWrOZONFcvQTSwxWfY27MHgtHM2B41K2rV9AkgT+fI7UcuZiL1d\n/pYY5R8EMrRpho/tMah10NYKi/1oczej8uKCJWfncyrCaYyB5m6esdsamHpvQ5WH\ncP0GHoly+unClo5sxaIh9/6neorZzvje5i28uTMWFayrchCmj/nkw3GVGytfwbPS\nxS00eDu1kT511R4u8/+67t5AUpw7ZAS5ZMGbruJhr6LgHWjsMPGRkO0i2CFT2M+V\nBD7uUHcIl30gqwywKjhInfwXqIb+Nul4mqb3J8PUBWJ4kGxRE4/ljmRgFclRBJHM\nmOLXt5eNh3+NxSHRmcOXlznZc7nFvL5ZeDeQdmJgKxM=\n=o6a8\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c78581b4608f3dc10e945d358963000f284f188a\ntype commit\ntag 15.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1554322302 +0000\n\nkeystone 15.0.0.0rc2 release candidate\n\nmeta:version: 15.0.0.0rc2\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Commit: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Change-Id: Ieb0d72d253ae71dced2ff1528536ef306139f13a\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Lance Bragstad <lbragstad@gmail.com>\n"
+  }
+}

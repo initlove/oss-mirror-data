@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQwMDI4OTo0Y2ZjM2VmMGUyMDI2MWY3ZmQ0MzYxYmNkYTgwNGYyMzZiN2YyYzM3",
+  "sha": "4cfc3ef0e20261f7fd4361bcda804f236b7f2c37",
+  "url": "https://api.github.com/repos/openstack/neutron/git/tags/4cfc3ef0e20261f7fd4361bcda804f236b7f2c37",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-03-31T15:37:22Z"
+  },
+  "object": {
+    "sha": "3213eb124e40b130e174ac3a91067e2b196788dd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron/git/commits/3213eb124e40b130e174ac3a91067e2b196788dd"
+  },
+  "tag": "8.0.0.0rc3",
+  "message": "neutron 8.0.0.0rc3 release candidate\n\nmeta:version: 8.0.0.0rc3\nmeta:series: mitaka\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJW/UQyAAoJEDttBqDEKEN6TwQH/3+5jW7F4IIjIv8BJd87MmSD\n0Jbvw0h8RWxDcZL0o2JOfsP18PawmUgMLlAxPcZ7DgHR+apsBP/rqFDJKFCQuhN9\nol7nqSL2xdQzhuq+tAAQyQGWl3mVDF3DL7TYTB5Yt1iQolvzYfP8oiVY5kHR+e3I\nc61RkWs6yUEWLaSB7/Rtb64GfgAZVjCQ7FicJEThL6T+XfUe7t0IlBnP4+2q2Tai\nCMEX6+AL0NLuQUELe67CH5Xq/dt98mVetsz/M7XIMBVNqDeDcB9uIurbxfTncZyl\nl1caBp3bitnUi0y7rRBqNuoi17zE1tdkxuaRySWfu4W3kB6LjOp5utT7c2/lJ14=\n=tFP7\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJW/UQyAAoJEDttBqDEKEN6TwQH/3+5jW7F4IIjIv8BJd87MmSD\n0Jbvw0h8RWxDcZL0o2JOfsP18PawmUgMLlAxPcZ7DgHR+apsBP/rqFDJKFCQuhN9\nol7nqSL2xdQzhuq+tAAQyQGWl3mVDF3DL7TYTB5Yt1iQolvzYfP8oiVY5kHR+e3I\nc61RkWs6yUEWLaSB7/Rtb64GfgAZVjCQ7FicJEThL6T+XfUe7t0IlBnP4+2q2Tai\nCMEX6+AL0NLuQUELe67CH5Xq/dt98mVetsz/M7XIMBVNqDeDcB9uIurbxfTncZyl\nl1caBp3bitnUi0y7rRBqNuoi17zE1tdkxuaRySWfu4W3kB6LjOp5utT7c2/lJ14=\n=tFP7\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3213eb124e40b130e174ac3a91067e2b196788dd\ntype commit\ntag 8.0.0.0rc3\ntagger Doug Hellmann <doug@doughellmann.com> 1459438642 -0400\n\nneutron 8.0.0.0rc3 release candidate\n\nmeta:version: 8.0.0.0rc3\nmeta:series: mitaka\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n"
+  }
+}

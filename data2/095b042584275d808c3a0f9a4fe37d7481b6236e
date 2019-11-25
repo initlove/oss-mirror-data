@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQyNDUyMzg6MDk1YjA0MjU4NDI3NWQ4MDhjM2EwZjlhNGZlMzdkNzQ4MWI2MjM2ZQ==",
+  "sha": "095b042584275d808c3a0f9a4fe37d7481b6236e",
+  "url": "https://api.github.com/repos/openstack/manila/git/tags/095b042584275d808c3a0f9a4fe37d7481b6236e",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-04-07T07:36:09Z"
+  },
+  "object": {
+    "sha": "296c9955edae4f25b5b120ff5df7ccd1569984d6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/manila/git/commits/296c9955edae4f25b5b120ff5df7ccd1569984d6"
+  },
+  "tag": "2.0.0",
+  "message": "manila 2.0.0 release\n\nmeta:version: 2.0.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: yes\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXBg3pAAoJEDttBqDEKEN6sb8IAK3DLjIWxnvaXOBrQAyFcloC\nrkm6C9FViL6tk23qLu/iClKMPP0h+FLCqJuDDy16kVhw/1jmIwUZt21CEmVWDaoG\n7OolMRSDGVUV9Cl5yIJRqTA2jX6IF9ZAbh2yGOn5lZPxgEitnZFcpqOaF9aHpxG/\nL+SoaJDOkaVECfqX/kGjKdfRyAuS2LVVu30z+SOsMdH6J0aXpX+APg6HVInCiLUy\nSPAKy2uQ0kn0BrQkTHQcH/sQ9N9wSW7yuA5IVZRWBB4TD4OnIIIjUG321n3L31Ea\n1JAEru3iB6Xw1LUONDML9yXSW5LVEzRUtS/rI/HDTdw9xZvG4v20mMtOfA7U25Q=\n=PenP\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXBg3pAAoJEDttBqDEKEN6sb8IAK3DLjIWxnvaXOBrQAyFcloC\nrkm6C9FViL6tk23qLu/iClKMPP0h+FLCqJuDDy16kVhw/1jmIwUZt21CEmVWDaoG\n7OolMRSDGVUV9Cl5yIJRqTA2jX6IF9ZAbh2yGOn5lZPxgEitnZFcpqOaF9aHpxG/\nL+SoaJDOkaVECfqX/kGjKdfRyAuS2LVVu30z+SOsMdH6J0aXpX+APg6HVInCiLUy\nSPAKy2uQ0kn0BrQkTHQcH/sQ9N9wSW7yuA5IVZRWBB4TD4OnIIIjUG321n3L31Ea\n1JAEru3iB6Xw1LUONDML9yXSW5LVEzRUtS/rI/HDTdw9xZvG4v20mMtOfA7U25Q=\n=PenP\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 296c9955edae4f25b5b120ff5df7ccd1569984d6\ntype commit\ntag 2.0.0\ntagger Doug Hellmann <doug@doughellmann.com> 1460014569 -0400\n\nmanila 2.0.0 release\n\nmeta:version: 2.0.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: yes\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc0ODk5NjY6MjQyZjI4Y2MyY2IwYmQ4NjcwMmFmZDVlMzVjNzA4NmI5ZGRlNTRiYw==",
+  "sha": "242f28cc2cb0bd86702afd5e35c7086b9dde54bc",
+  "url": "https://api.github.com/repos/openstack/neutron-lbaas/git/tags/242f28cc2cb0bd86702afd5e35c7086b9dde54bc",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-11-14T04:10:04Z"
+  },
+  "object": {
+    "sha": "e22276df0560f38d6527a56808764924d66b3f5d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-lbaas/git/commits/e22276df0560f38d6527a56808764924d66b3f5d"
+  },
+  "tag": "13.0.1",
+  "message": "neutron-lbaas 13.0.1 release\n\nmeta:version: 13.0.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jens Harbott <j.harbott@x-ion.de>\nmeta:release:Commit: Jens Harbott <j.harbott@x-ion.de>\nmeta:release:Change-Id: Iad9124f40e70af006d2898e686f6e5aa8139bdbd\nmeta:release:Code-Review+1: Michael Johnson <johnsomor@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Vieri <15050873171@163.com>\nmeta:release:Code-Review+1: Andriy Shevchenko <huang.zhiping@99cloud.net>\nmeta:release:Code-Review+1: yanghongyu <yang.hongyu@99cloud.net>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl3M05wZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHNbSDACP+sMo+LCatEkuamDIgeiB\n8SQ5WcQ/3zC9LmD7wrHgDWecxT5ofGaoqvbW2wsvcm093TxuxPNUvy6eBjUj/+b7\nHyNvRkclCLwECaqYYi/PATM2DdVlZKLdHg5MytfNSFTaTx6R/uczOe+SOHZva7Rb\n0i6OQCkOP4lkr1raiyPerV2VoRBk5Gs5zZu3wH1s2d5HkEReCp4mqwj6yMMxXhuU\nEYAwSo8GInywn3ocng7se4/DhWDCz6dxBFB6zcDX+f4YPnJ1n7G2GuScJgxfuZg2\nBPCqM644lQ3cqOGIRGpbSYnqx5ce10PfYhGLlGo9+iXRiSf6iZglgIVtGWCPI6tO\nmcdZFU3bsH6K1Jyn6ixoiErNl02uT8sdiT5IdL098TVdXjGVWN/L8JOY4GRZbZzm\nApLfRKDa0y4mzPAVTCwgvLSJse1lr/rxjjlznV+kNs7+hkViebzGI5H0hTMSJ3Cz\ngI94P2BueWF5CDgMJ/wwI2qIigh9mRdSjvv3TKMLXJE=\n=Uv5d\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl3M05wZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHNbSDACP+sMo+LCatEkuamDIgeiB\n8SQ5WcQ/3zC9LmD7wrHgDWecxT5ofGaoqvbW2wsvcm093TxuxPNUvy6eBjUj/+b7\nHyNvRkclCLwECaqYYi/PATM2DdVlZKLdHg5MytfNSFTaTx6R/uczOe+SOHZva7Rb\n0i6OQCkOP4lkr1raiyPerV2VoRBk5Gs5zZu3wH1s2d5HkEReCp4mqwj6yMMxXhuU\nEYAwSo8GInywn3ocng7se4/DhWDCz6dxBFB6zcDX+f4YPnJ1n7G2GuScJgxfuZg2\nBPCqM644lQ3cqOGIRGpbSYnqx5ce10PfYhGLlGo9+iXRiSf6iZglgIVtGWCPI6tO\nmcdZFU3bsH6K1Jyn6ixoiErNl02uT8sdiT5IdL098TVdXjGVWN/L8JOY4GRZbZzm\nApLfRKDa0y4mzPAVTCwgvLSJse1lr/rxjjlznV+kNs7+hkViebzGI5H0hTMSJ3Cz\ngI94P2BueWF5CDgMJ/wwI2qIigh9mRdSjvv3TKMLXJE=\n=Uv5d\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e22276df0560f38d6527a56808764924d66b3f5d\ntype commit\ntag 13.0.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1573704604 +0000\n\nneutron-lbaas 13.0.1 release\n\nmeta:version: 13.0.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jens Harbott <j.harbott@x-ion.de>\nmeta:release:Commit: Jens Harbott <j.harbott@x-ion.de>\nmeta:release:Change-Id: Iad9124f40e70af006d2898e686f6e5aa8139bdbd\nmeta:release:Code-Review+1: Michael Johnson <johnsomor@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Vieri <15050873171@163.com>\nmeta:release:Code-Review+1: Andriy Shevchenko <huang.zhiping@99cloud.net>\nmeta:release:Code-Review+1: yanghongyu <yang.hongyu@99cloud.net>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

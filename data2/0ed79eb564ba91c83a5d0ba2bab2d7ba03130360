@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE5MDk5NjU6MGVkNzllYjU2NGJhOTFjODNhNWQwYmEyYmFiMmQ3YmEwMzEzMDM2MA==",
+  "sha": "0ed79eb564ba91c83a5d0ba2bab2d7ba03130360",
+  "url": "https://api.github.com/repos/openstack/glance_store/git/tags/0ed79eb564ba91c83a5d0ba2bab2d7ba03130360",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-01-19T00:40:59Z"
+  },
+  "object": {
+    "sha": "38d9bcb2aa374690bb83806457258cb6d3883af9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/glance_store/git/commits/38d9bcb2aa374690bb83806457258cb6d3883af9"
+  },
+  "tag": "0.23.0",
+  "message": "glance_store 0.23.0 release\n\nmeta:version: 0.23.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: Ieb4d558a31d8648e75ea40500ecd0beba70b1e4d\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaYT6bAAoJEEIeZHKBH5qBjp4H/0JI81pDONSV4RRIltjURNGd\n/HAjjFJgiEjVq3k+vdWS9gO4H3lPC0hYcFgK3Z4bx39QxvHz951FWCn3+oHeRGnv\nzCqVTqqwQWbrToyVLAj87EFbA4QOwq95U513M6lD7QPIIMSwQh6RP+ZxvIJPDEsT\nldaTbwjCSGimRNW3C+edLNrvV6Fv/5git0pbuHTt+Tgb2OcM/Fay8yrCUg96igvq\n8rXouOYipBKjExHb4MpWt7w+zxEIgzprXcWcee/4zhAqbabuj7HmrVTsA3jvMk+2\nzHAvsecPCWZbT8HReLK3doJP4yJQJfY3AmzXhzYUh1RKKYqKKKiRmNEZxX53Lso=\n=3DVb\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaYT6bAAoJEEIeZHKBH5qBjp4H/0JI81pDONSV4RRIltjURNGd\n/HAjjFJgiEjVq3k+vdWS9gO4H3lPC0hYcFgK3Z4bx39QxvHz951FWCn3+oHeRGnv\nzCqVTqqwQWbrToyVLAj87EFbA4QOwq95U513M6lD7QPIIMSwQh6RP+ZxvIJPDEsT\nldaTbwjCSGimRNW3C+edLNrvV6Fv/5git0pbuHTt+Tgb2OcM/Fay8yrCUg96igvq\n8rXouOYipBKjExHb4MpWt7w+zxEIgzprXcWcee/4zhAqbabuj7HmrVTsA3jvMk+2\nzHAvsecPCWZbT8HReLK3doJP4yJQJfY3AmzXhzYUh1RKKYqKKKiRmNEZxX53Lso=\n=3DVb\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 38d9bcb2aa374690bb83806457258cb6d3883af9\ntype commit\ntag 0.23.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1516322459 +0000\n\nglance_store 0.23.0 release\n\nmeta:version: 0.23.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: Ieb4d558a31d8648e75ea40500ecd0beba70b1e4d\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

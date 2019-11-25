@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2NzoyOGNjMGIyOTFkYjZlZTU2ODYwMTAzNzhlZGFiNjBhYmYwMDY3MDAz",
+  "sha": "28cc0b291db6ee5686010378edab60abf0067003",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/28cc0b291db6ee5686010378edab60abf0067003",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2016-11-06T18:46:56Z"
+  },
+  "object": {
+    "sha": "022248f6484fe87dc0ef5aec3437f4c7971fd14b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/022248f6484fe87dc0ef5aec3437f4c7971fd14b"
+  },
+  "tag": "9.0.1",
+  "message": "Released v9.0.1\n\n* Correct the deprecation message when not specifying a --format so that it\n  uses the correct setting name (``format``) rather than the incorrect one\n  (``list_format``) (:issue:`4058`).\n\n* Fix ``pip check`` to check all available distributions and not just the\n  local ones (:issue:`4083`).\n\n* Fix a crash on non ASCII characters from `lsb_release` (:issue:`4062`).\n\n* Fix an SyntaxError in an an used module of a vendored dependency\n  (:issue:`4059`).\n\n* Fix UNC paths on Windows (:issue:`4064`).\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJYH3q8AAoJEG48vOkzctz6UxAP/jmrXKsyaiVUP8NJmosjsCjX\nbF4KFCSdDmL9RzBuI+gh2ARb4hCVHMBGuhthhtzBfH5U17DL1ZQ19+xlOXHT/8Pw\nJ0QzE5755ELYN0WFWDw2kbcJD6B7Xct6NaqvEPJF+qMnIThCiEdCwKs2DpIPtrIM\nT5Uz05tjft9lyE5q3Km7JZqhB5r7xSe7ufmjBofknKEju3349UNoG9GjEVMn9XTi\ncGoduJJLuX3Y+KBqgvaWy5XaDyDkzxr4KQQ9rehgeEo2FZe71YL8yn3bSXk1Pgtj\nfBXTP4XlRRC7eGWOAKz2XwUPHObfNXH1BkC/GXLKpguwo1jB4QgF+Loy4hmqLiVl\neLSLJl4UBPVz30N/wg1yVB/EhLa6jbHeQCY3XHH46OK2Ty89CT0Xev53sTJWCfW/\nnh9zBXFIn489wYKI/uiUipHTQOvP2DYTMvSrjP2dYtrnZU3eGquwZIcCfwo977Vc\ni1awHVU2SWTzUkPQcQ8hdSfo7SCepQ7uUimFIljaXruSSPLqybisG3vULRUE7AJ8\nf4f01DdNqD5lCMLI1faIJOlRJu0MVoxJB8oyj3xIZ4CBSqhvDlauUU+6cfg86BOY\nmIdzbYfZDtxB1ymwntGY5L8YW1AVWxiNHShQCoe+4JSb4Fp1V1pVTnJcj0wSRHjk\nu3PbTgr7v1mBUSB/FNIh\n=hKNC\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJYH3q8AAoJEG48vOkzctz6UxAP/jmrXKsyaiVUP8NJmosjsCjX\nbF4KFCSdDmL9RzBuI+gh2ARb4hCVHMBGuhthhtzBfH5U17DL1ZQ19+xlOXHT/8Pw\nJ0QzE5755ELYN0WFWDw2kbcJD6B7Xct6NaqvEPJF+qMnIThCiEdCwKs2DpIPtrIM\nT5Uz05tjft9lyE5q3Km7JZqhB5r7xSe7ufmjBofknKEju3349UNoG9GjEVMn9XTi\ncGoduJJLuX3Y+KBqgvaWy5XaDyDkzxr4KQQ9rehgeEo2FZe71YL8yn3bSXk1Pgtj\nfBXTP4XlRRC7eGWOAKz2XwUPHObfNXH1BkC/GXLKpguwo1jB4QgF+Loy4hmqLiVl\neLSLJl4UBPVz30N/wg1yVB/EhLa6jbHeQCY3XHH46OK2Ty89CT0Xev53sTJWCfW/\nnh9zBXFIn489wYKI/uiUipHTQOvP2DYTMvSrjP2dYtrnZU3eGquwZIcCfwo977Vc\ni1awHVU2SWTzUkPQcQ8hdSfo7SCepQ7uUimFIljaXruSSPLqybisG3vULRUE7AJ8\nf4f01DdNqD5lCMLI1faIJOlRJu0MVoxJB8oyj3xIZ4CBSqhvDlauUU+6cfg86BOY\nmIdzbYfZDtxB1ymwntGY5L8YW1AVWxiNHShQCoe+4JSb4Fp1V1pVTnJcj0wSRHjk\nu3PbTgr7v1mBUSB/FNIh\n=hKNC\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 022248f6484fe87dc0ef5aec3437f4c7971fd14b\ntype commit\ntag 9.0.1\ntagger Donald Stufft <donald@stufft.io> 1478458016 -0500\n\nReleased v9.0.1\n\n* Correct the deprecation message when not specifying a --format so that it\n  uses the correct setting name (``format``) rather than the incorrect one\n  (``list_format``) (:issue:`4058`).\n\n* Fix ``pip check`` to check all available distributions and not just the\n  local ones (:issue:`4083`).\n\n* Fix a crash on non ASCII characters from `lsb_release` (:issue:`4062`).\n\n* Fix an SyntaxError in an an used module of a vendored dependency\n  (:issue:`4059`).\n\n* Fix UNC paths on Windows (:issue:`4064`).\n"
+  }
+}

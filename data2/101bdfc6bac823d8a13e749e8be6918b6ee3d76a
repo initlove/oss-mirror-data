@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzUwODQxMToxMDFiZGZjNmJhYzgyM2Q4YTEzZTc0OWU4YmU2OTE4YjZlZTNkNzZh",
+  "sha": "101bdfc6bac823d8a13e749e8be6918b6ee3d76a",
+  "url": "https://api.github.com/repos/ReactiveX/RxJava/git/tags/101bdfc6bac823d8a13e749e8be6918b6ee3d76a",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2014-12-29T19:51:56Z"
+  },
+  "object": {
+    "sha": "7da6110d3d9f251803d17ea7a6e8405da5d74a27",
+    "type": "commit",
+    "url": "https://api.github.com/repos/ReactiveX/RxJava/git/commits/7da6110d3d9f251803d17ea7a6e8405da5d74a27"
+  },
+  "tag": "v1.0.4",
+  "message": "Release of 1.0.4\n\n- 7da6110d3d9f251803d17ea7a6e8405da5d74a27: Merge pull request #2237 from benjchristensen/publish-ring-buffer-usage\n- e39599cc4fc01864d6aa1297b85c414d53bc97a2: Make Publish Operator Release RingBuffer\n- 4a0864423d68a6862ad38173d55a9f4d239689d3: Merge pull request #2052 from davidmoten/make-class-static\n- 2f821d855556ed4c23cad9df7bb19294d1491cba: Merge pull request #2156 from zsxwing/map-swallow-fatal-exceptions\n- a683fccd1e2ee5b7cfabbda473a885f2521ac26b: enable faster travis builds\n- 3563021690b04d18c2419d8b2c2f1cf8b5065be4: Fix the issue that map may swallow fatal exceptions\n- 9cae73992449329a11068c5f50cad64963f70bc0: Merge pull request #2053 from akarnokd/ReplaySubjectBoundedFix1218\n- 1a068ddfd2b9fbadcadb2b49ef20fc93782edc3a: Fixed wrong subject use in test.\n- 093bbeb69b77b14b5db39f7f32a4637cf75ae57a: OperatorDoOnRequest.ParentSubscriber should be static class\n- 7c408f47176d5b1b3a9c95ce1f5664c6839db2dc: Merge pull request #1967 from zsxwing/fix-groupby-unsubscribe\n- 5c0be524b263476d714c6165a6171a35eb76a5f6: Version 1.0.3\n- 31281b60e56032ba1d7c99b9411132756f9c2844: Update as per review\n- 83fc06f331c448a6aeb808592245e020384ce5e5: Add a new state of `terminated` to fix the race condition of `errorEmitted`; Add more comments.\n- 272a7521188e4e174e5903b688be390315d470d5: Propagate onError to all groups\n- 8026b41bb21e7e7c1103d0492e890ff0093fd6c8: Fix the issue that GroupBy may not call 'unsubscribe'\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

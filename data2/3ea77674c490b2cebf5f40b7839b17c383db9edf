@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY5NjAzMjE6M2VhNzc2NzRjNDkwYjJjZWJmNWY0MGI3ODM5YjE3YzM4M2RiOWVkZg==",
+  "sha": "3ea77674c490b2cebf5f40b7839b17c383db9edf",
+  "url": "https://api.github.com/repos/opencontainers/runc/git/tags/3ea77674c490b2cebf5f40b7839b17c383db9edf",
+  "tagger": {
+    "name": "Alexander Morozov",
+    "email": "lk4d4@docker.com",
+    "date": "2015-07-17T21:59:33Z"
+  },
+  "object": {
+    "sha": "1eeb86fbf2ec75661b9d843fd46679c868bc242d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/opencontainers/runc/git/commits/1eeb86fbf2ec75661b9d843fd46679c868bc242d"
+  },
+  "tag": "v0.0.2",
+  "message": "Fix release\nChanges:\n* Substract source mount from cgroup dir\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJVqXrQAAoJEFm/ifpHN4hzKmsP/0oyv39mMAaqka0d+eeTJw6x\nII8cx2w0WhORowP4LZhkYagOoKyY7vb6XomeTIeqrDq12JYhoKREMuv9B3WAGSOS\nDs71myZKKnsCcEojfcrXlQ59y1C40EmvP7bx0uQnquq8iv64IDlE2Bp9XEWbL6XP\nsrhvGhyjDXoKNk1wpCzZjWuEAb8KqtIRAIuiRbvAKOl/agByn5OKfKzWno3UCyto\nf+2qXKOIt85s7cyUsTCfepId2jDngsjsx2YSzxIflQMrvAeZN1PxPejbV9G143Yg\n6sesVhIickbcaS5A/YTVUoe+2UZrG/419DV5uKXjLenUUz8ZLFrcGOjLuZ9gqriO\nj41bkAPY+Pezgv/BSI83KSbhgpnJYnECZE0R9HiY8RCd5jVqDgnbY2cUrusYdrMb\nJjpNO5Yy609zhImCd+LeTacgT/hFUJSof8fEE+IT26cbRnGTuPm2quW4trCAhxFC\nnxa0UBFUwoOpiz+s9PBzHqMlFPsNiREiPavrayvlsYM10sQtslpyZBxofqgyvMi/\nfTDqPijj4EqgvVorYOz1LyHJaQFMJ87pih614satFupLZmzweimHGOL8O0E5w2eV\n6bSyd8D432FtgJEroPK7g1wp/SlskrzoW+M9u3Sz3TvS6d0IfcCqVmvGhGmwu0nj\nIxV0SHyHD5zf/NNdcxat\n=FjTp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJVqXrQAAoJEFm/ifpHN4hzKmsP/0oyv39mMAaqka0d+eeTJw6x\nII8cx2w0WhORowP4LZhkYagOoKyY7vb6XomeTIeqrDq12JYhoKREMuv9B3WAGSOS\nDs71myZKKnsCcEojfcrXlQ59y1C40EmvP7bx0uQnquq8iv64IDlE2Bp9XEWbL6XP\nsrhvGhyjDXoKNk1wpCzZjWuEAb8KqtIRAIuiRbvAKOl/agByn5OKfKzWno3UCyto\nf+2qXKOIt85s7cyUsTCfepId2jDngsjsx2YSzxIflQMrvAeZN1PxPejbV9G143Yg\n6sesVhIickbcaS5A/YTVUoe+2UZrG/419DV5uKXjLenUUz8ZLFrcGOjLuZ9gqriO\nj41bkAPY+Pezgv/BSI83KSbhgpnJYnECZE0R9HiY8RCd5jVqDgnbY2cUrusYdrMb\nJjpNO5Yy609zhImCd+LeTacgT/hFUJSof8fEE+IT26cbRnGTuPm2quW4trCAhxFC\nnxa0UBFUwoOpiz+s9PBzHqMlFPsNiREiPavrayvlsYM10sQtslpyZBxofqgyvMi/\nfTDqPijj4EqgvVorYOz1LyHJaQFMJ87pih614satFupLZmzweimHGOL8O0E5w2eV\n6bSyd8D432FtgJEroPK7g1wp/SlskrzoW+M9u3Sz3TvS6d0IfcCqVmvGhGmwu0nj\nIxV0SHyHD5zf/NNdcxat\n=FjTp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1eeb86fbf2ec75661b9d843fd46679c868bc242d\ntype commit\ntag v0.0.2\ntagger Alexander Morozov <lk4d4@docker.com> 1437170373 -0700\n\nFix release\nChanges:\n* Substract source mount from cgroup dir\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE1NTE1NzozYjA4OGE4YzU5NTYyZWViYjM4ZThiYzM2YjFiMjdjNzcxOGUxOTY1",
+  "sha": "3b088a8c59562eebb38e8bc36b1b27c7718e1965",
+  "url": "https://api.github.com/repos/openstack/glance/git/tags/3b088a8c59562eebb38e8bc36b1b27c7718e1965",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-08-24T13:51:03Z"
+  },
+  "object": {
+    "sha": "982016670fe908e5d7026714b115e63b7c31b46b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/glance/git/commits/982016670fe908e5d7026714b115e63b7c31b46b"
+  },
+  "tag": "15.0.0.0rc2",
+  "message": "glance 15.0.0.0rc2 release candidate\n\nmeta:version: 15.0.0.0rc2\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Commit: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Change-Id: Ib2d2fed72cbfae5b95417425c53d9a9c0ac18db0\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Code-Review+1: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZntnHAAoJEOtsyhSD+nTspp4IAKvsRUmDx7WuwxdjA6mL3zEF\nSKJR6YJJl9xwF2zU9vdsiEtIUcXwkvsY/nWWnPEoQuQb0yUHAT/MEjNvcdvKH6dm\n3uqOnk9WEKSOE9NEf8FD4+R9EILrORRzzHo0hk+b9Y5S0nloinDiNriVncWUFFGY\nUurQwwP19zjGUGAlPvym/dYtSxpRvOUf2Z0fb2ROPkY068mHwPN2/bVTAsU0LseP\n0CuUlYgRcTT9Ezie7+Y8/nnLUj2IB2B/uDN1ewt3lmfW3MgGr5RwrBGNQOvZpACO\nwdDrnmnkuxYrvDL7ORi0kUKnsl7fJNXNDdfwz2qQ6tG58oPHKtUUFIrPbSQO3gw=\n=4zuS\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZntnHAAoJEOtsyhSD+nTspp4IAKvsRUmDx7WuwxdjA6mL3zEF\nSKJR6YJJl9xwF2zU9vdsiEtIUcXwkvsY/nWWnPEoQuQb0yUHAT/MEjNvcdvKH6dm\n3uqOnk9WEKSOE9NEf8FD4+R9EILrORRzzHo0hk+b9Y5S0nloinDiNriVncWUFFGY\nUurQwwP19zjGUGAlPvym/dYtSxpRvOUf2Z0fb2ROPkY068mHwPN2/bVTAsU0LseP\n0CuUlYgRcTT9Ezie7+Y8/nnLUj2IB2B/uDN1ewt3lmfW3MgGr5RwrBGNQOvZpACO\nwdDrnmnkuxYrvDL7ORi0kUKnsl7fJNXNDdfwz2qQ6tG58oPHKtUUFIrPbSQO3gw=\n=4zuS\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 982016670fe908e5d7026714b115e63b7c31b46b\ntype commit\ntag 15.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1503582663 +0000\n\nglance 15.0.0.0rc2 release candidate\n\nmeta:version: 15.0.0.0rc2\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Commit: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Change-Id: Ib2d2fed72cbfae5b95417425c53d9a9c0ac18db0\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Code-Review+1: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

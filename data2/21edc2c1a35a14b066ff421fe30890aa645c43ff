@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI5ODI1MTI1OjIxZWRjMmMxYTM1YTE0YjA2NmZmNDIxZmUzMDg5MGFhNjQ1YzQzZmY=",
+  "sha": "21edc2c1a35a14b066ff421fe30890aa645c43ff",
+  "url": "https://api.github.com/repos/projectcalico/node/git/tags/21edc2c1a35a14b066ff421fe30890aa645c43ff",
+  "tagger": {
+    "name": "Tom Denham",
+    "email": "tom@tomdee.co.uk",
+    "date": "2018-08-10T22:48:33Z"
+  },
+  "object": {
+    "sha": "ea3a32b73002c12068126af3671a4c155e82ba16",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/node/git/commits/ea3a32b73002c12068126af3671a4c155e82ba16"
+  },
+  "tag": "v3.2.0",
+  "message": "- fb8616dca904311b25be9008e87807873f063aaa Update libcalico-go to e3351395c934cee118999b9d29508e9280fa75ec\n- 66ee3ece5f1df86c1795be495e6521a44e8c9264 Allow disabling IPv4\n- 4fa1b0dbcc163a47ca52081af8a4a6d8a59b9450 Include calico/node version in calico/node versions\n- 432e32e5ab0a6123224bbd10a53e96895ac431b2 Add github templates\n- 1bc414c6cb34bb1d0b7a1a7c24aac2a2bd1a9732 Update libcalico-go to d6aff54dc3527357f016c0cd5c5364f21a15e9b4\n- c90f039898ddc42944963c5bff498da9e964ddbe Lots of cleanups and tweaks to Makefile\n- 300c6ea90609811be16da43f8c63a0bd739f764f Stop running etcd SSL tests\n- 557ebb56080644fc2e270085e6827b2f11cf1f66 Makefile: Avoid pulling an extra image for kubectl\n- dd42e85f9d7d9cf16e1509a3920177d77bfd6dbc Makefile/Dockerfile: Fix up calico/node image\n- 1da6f77849d244ada4de31857de795d909799043 Fix tests so node name are always interpreted as strings\n- 2e50b86f255431eb74b8479afdd15a7762650b35 Update release process\n- a97d1621863e6efc461fed2bef4d024fef29a5e4 Add a RELEASING.md file\n- 5e93a764936100dcc6debac729ff3473ac453312 Add CI/CD targets to Makefile\n- 2ae481a94a107313999e077e1b2e45814ccb32aa Only push to GCR during a release\n- f98295188d68d8c513413e85cb7def09231f1b3d Code review feedback\n- ef86294ad32fad358396142c4ece46e48ac534d9 Fix that we don't produce a :latest tag\n- abc09509d42077b9e18250d204562c3c054e5406 Build a single calico-node binary by importing code\n- 1d8bccf5a35337c498c2eed8a3fe6eef34245373 Update to latest libcalico and clean up glide.yaml\n- 304b24e695fa07239d99e36ca258dd8dd8b0d463 TEMP COMMIT - add a client-go pin until we stop pinning it in non-libcalico repos.\n- faa299c087981bd27bef964e524c221ea0a38562 Fix duplicate release-prereqs targets\n- feab654e89d76f35f355f8ae7ce10fcd9104087e Makefile: Update Go-build to v0.17\n- 2003089ed2e0b53c968f3fa9604fbdbd2ac6364d Makefile: Create job to update confd, felix and libcalico\n- a69ea2b3d10e4855867772682f6710cc745008af Image: Update to alpine 3.8\n- acb08d303e6ef19bd425e9cf852b0e7cffc56a68 Automated pin updates\n- c1b6208b052c523f2d6426ace51c3efe10a76b36 Automated pin updates\n- 40800ea1a30822426705860793b3b56dc5e1dcc9 Automated pin updates\n- 9bf1c3e0b381f800678fe7fc1dc925e440884810 Fix linter issues.\n- 263eeddac83c7d1bd144282669f4f7121ecd00a2 Automated pin updates\n- 6757ce9bcc619878ce5f2f09e4061639f0d1cd8e Automated pin updates\n- 07990c462cfb80e59eb59867486b5df0b8c4c74c Standard Dockerfiles, build and push for all archs\n- 4d999fea62016d0894e17c08a82a8dfb3ae44a91 Automated pin updates\n- 5cc6050407cddc65622c8298d750aa30f4fc5e83 Makefile: Correct the ARCHES variable\n- 28ee6b0ad8fb0a1dd5619fed35e851df590e7023 Makefile: Ensure register is called before cross-building\n- 9c42eda51e0793895b52250564c45d0541add7a0 Makefile: Move to standard naming for IMAGE variables\n- 9cf30bf9a493d9a46326796ee471a681bbcc928c Update to release branches for go deps\n- dc025ea6aa51130f3c47a3e2ec80f784b6ddd231 Update pins to the v3.2.0 releases of confd/felix/libcalico\n- 76ec8a52d8873b083ec810c61092890c52bf0087 Versioning: Get the version from the right place\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

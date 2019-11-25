@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc0ODk5NDc6MjhiYTIwZGZkYjdkNzA2NzhjOTA1YWY5NzBjZjJlYjFhMmIxY2FjYQ==",
+  "sha": "28ba20dfdb7d70678c905af970cf2eb1a2b1caca",
+  "url": "https://api.github.com/repos/openstack/neutron-fwaas/git/tags/28ba20dfdb7d70678c905af970cf2eb1a2b1caca",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-08-24T14:03:20Z"
+  },
+  "object": {
+    "sha": "2c47f7122c6eb96d8eb550fd573f4d87aea0e2ad",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-fwaas/git/commits/2c47f7122c6eb96d8eb550fd573f4d87aea0e2ad"
+  },
+  "tag": "11.0.0.0rc2",
+  "message": "neutron-fwaas 11.0.0.0rc2 release candidate\n\nmeta:version: 11.0.0.0rc2\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Armando Migliaccio <armamig@gmail.com>\nmeta:release:Commit: Armando Migliaccio <armamig@gmail.com>\nmeta:release:Change-Id: Id9c4a542ad366c268823b80550ab385460c5c3cb\nmeta:release:Code-Review+1: Kevin Benton <kevin@benton.pub>\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZntyoAAoJEOtsyhSD+nTs6OcIAKKRzLmalh+xfwTUpFXAWdCG\nBK/3wMXJ8Z+i1pz2l1XpzcvgN/uP2a44tLulixlwvAf1nW2H3D1U7Jh+Oda1vyke\neGMosK6PS18zb6qMfV+1v0OvgcFhVG/A57QMY+b3qWvk8c+i7FVT0FdIZr0n/Lq5\n8KnntvTsPp17dvnpMWdn6C5bQyZVEB1FweeLY50iv29NlE+QXSozMsp4g5F7u9sh\nk8LsKpOjylOIAxGwyC+kih8XlAwjdWDvyFbuWBZDoeh9n0ODFDprR7UIFth368OG\nJtCkVAfUGKOe6s5K1ZcBtnbvOUldyuJDpQRJ8bMpez9MfYcgr87SOu+grcGsutY=\n=Dtuc\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZntyoAAoJEOtsyhSD+nTs6OcIAKKRzLmalh+xfwTUpFXAWdCG\nBK/3wMXJ8Z+i1pz2l1XpzcvgN/uP2a44tLulixlwvAf1nW2H3D1U7Jh+Oda1vyke\neGMosK6PS18zb6qMfV+1v0OvgcFhVG/A57QMY+b3qWvk8c+i7FVT0FdIZr0n/Lq5\n8KnntvTsPp17dvnpMWdn6C5bQyZVEB1FweeLY50iv29NlE+QXSozMsp4g5F7u9sh\nk8LsKpOjylOIAxGwyC+kih8XlAwjdWDvyFbuWBZDoeh9n0ODFDprR7UIFth368OG\nJtCkVAfUGKOe6s5K1ZcBtnbvOUldyuJDpQRJ8bMpez9MfYcgr87SOu+grcGsutY=\n=Dtuc\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2c47f7122c6eb96d8eb550fd573f4d87aea0e2ad\ntype commit\ntag 11.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1503583400 +0000\n\nneutron-fwaas 11.0.0.0rc2 release candidate\n\nmeta:version: 11.0.0.0rc2\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Armando Migliaccio <armamig@gmail.com>\nmeta:release:Commit: Armando Migliaccio <armamig@gmail.com>\nmeta:release:Change-Id: Id9c4a542ad366c268823b80550ab385460c5c3cb\nmeta:release:Code-Review+1: Kevin Benton <kevin@benton.pub>\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

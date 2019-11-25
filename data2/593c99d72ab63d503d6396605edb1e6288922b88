@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQwMDI4OTo1OTNjOTlkNzJhYjYzZDUwM2Q2Mzk2NjA1ZWRiMWU2Mjg4OTIyYjg4",
+  "sha": "593c99d72ab63d503d6396605edb1e6288922b88",
+  "url": "https://api.github.com/repos/openstack/neutron/git/tags/593c99d72ab63d503d6396605edb1e6288922b88",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-10-11T17:11:35Z"
+  },
+  "object": {
+    "sha": "4387d4aedfa2ccf129eb957ee057ad9c9edac82d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron/git/commits/4387d4aedfa2ccf129eb957ee057ad9c9edac82d"
+  },
+  "tag": "7.2.0",
+  "message": "neutron 7.2.0 release\n\nmeta:version: 7.2.0\nmeta:diff-start: -\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Commit: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Change-Id: Id22d0847ea3b3904999355ce7e1298809111e070\nmeta:release:Code-Review+1: Darek Smigiel <smigiel.dariusz@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX/R1HAAoJENljH+rwzGInXh4H/3MV1ADHBII8v9OJv3VUUDGq\nJs6mevNgIXu8e5hUTPxwnXWze7Zz+p/tlDAk3iC+Ll76QVnQLd5VLdJ4T9WbVa64\n3aluE2ww+aqlRzgL71wCz4G8QlGGUvTJfW+CXSnhpqkP9V6GijUyE6ot7Rr31Jkm\nHtJ8zMjEUAfnB+eGClqONuC4iSxWtHTVoDsizEKFBstYr0qXZLFb2LNKc2cC0j40\nMFlPBit7Nfmfjt+6Ciiv8dOBsY8WFda6rssuWVMzYNkiQxgLCOejNh1MW8Isy+XF\n1kusjl1nUbcUAa/SnIa5m/CpRX4zb5CHpbUCBo5sZlxug9zm+e5gmM1P0UWuRx4=\n=fdxt\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX/R1HAAoJENljH+rwzGInXh4H/3MV1ADHBII8v9OJv3VUUDGq\nJs6mevNgIXu8e5hUTPxwnXWze7Zz+p/tlDAk3iC+Ll76QVnQLd5VLdJ4T9WbVa64\n3aluE2ww+aqlRzgL71wCz4G8QlGGUvTJfW+CXSnhpqkP9V6GijUyE6ot7Rr31Jkm\nHtJ8zMjEUAfnB+eGClqONuC4iSxWtHTVoDsizEKFBstYr0qXZLFb2LNKc2cC0j40\nMFlPBit7Nfmfjt+6Ciiv8dOBsY8WFda6rssuWVMzYNkiQxgLCOejNh1MW8Isy+XF\n1kusjl1nUbcUAa/SnIa5m/CpRX4zb5CHpbUCBo5sZlxug9zm+e5gmM1P0UWuRx4=\n=fdxt\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4387d4aedfa2ccf129eb957ee057ad9c9edac82d\ntype commit\ntag 7.2.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1476205895 +0000\n\nneutron 7.2.0 release\n\nmeta:version: 7.2.0\nmeta:diff-start: -\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Commit: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Change-Id: Id22d0847ea3b3904999355ce7e1298809111e070\nmeta:release:Code-Review+1: Darek Smigiel <smigiel.dariusz@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

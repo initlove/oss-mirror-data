@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MToyMzRiYjRiNGUxNzI2YTNhNWU3OTg5NmEyZWNlNGZiNTE1ZTk0N2Uw",
+  "sha": "234bb4b4e1726a3a5e79896a2ece4fb515e947e0",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/234bb4b4e1726a3a5e79896a2ece4fb515e947e0",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-02-16T02:55:38Z"
+  },
+  "object": {
+    "sha": "e49d9236be6a1595fb60767252a185259012eb1b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/e49d9236be6a1595fb60767252a185259012eb1b"
+  },
+  "tag": "v1.4.1-rc.1",
+  "message": "Release of 1.4.1-rc.1\n\n- e49d9236be6a1595fb60767252a185259012eb1b: Merge pull request #747 from qiangdavidliu/master\n- 9955792468cbdc2b996545ae1535715cdbe0932c: change log level\n- e8ab945324293934e16837c9a1dc63ba894cd029: add a fail safe\n- a0599f69984d043e9b794adca0b6fc9dfbfbb70e: updating AmazonInfo's refresh policy to be more lenient\n- 8019af3ac42560b9761d46c90e8329d25e2d577e: Merge pull request #745 from qiangdavidliu/master\n- a9f39cc5cb5c80fd7fa86a4231037369d28b727a: tuning test timing\n- 19a898cf056b0a45469bb28f208840154a3585f0: update deprecation message\n- fbcd7c6d47d3b70a211c4ff1498d537c13c94ed9: more test clean up\n- 6fc1d4716ef69579c2225c82fa2c4b2d2fe1984c: Merge pull request #746 from spencergibb/java7\n- 27c40a465c19783948bd821c97a0a56f857acb95: better named threads\n- dfa3b272078c6152a8ff9a0262f80770ea3eda31: Move back to java7 compatibility.\n- fc88abe6371c28d5538653687a7800c6f23bee5d: log msg fix\n- af1b15e35c775071ceac0240430eee83e741e75b: do clean up in tests\n- eb2cd162f20f8f2a7edb60583a437e5e009580f7: fix some timing issues in test\n- bd7b02e5860557d358920c94152b4a1b18ce9449: do proper clean up for test\n- 32eed8091937e7afaaf33ddc687aedbea62ec3c9: comment update\n- dde3e5a2c92c8a45a4af2b9e1c8d7bcc213c505b: Fixing compositeBootstrapResolver to load from a remoteCall\n- 19e8c8802094711aec08ae57fcc2532e5b4a2eef: Adding option for eureka's application resolver to use ips instead of hostnames\n- 543ab954cf148d64386f2d66532540c0d214cd48: Adding an option to bootstrap with local registry content instead of resolving dns, if local registry content is available.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

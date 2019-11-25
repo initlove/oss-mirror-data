@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzA4NjA2NDU6MzI5MmMyMjkxOTZkZDMzYTE1YzcwYmNlNDAwNjBjMTg5YWZlYWUxYQ==",
+  "sha": "3292c229196dd33a15c70bce40060c189afeae1a",
+  "url": "https://api.github.com/repos/openstack/os-brick/git/tags/3292c229196dd33a15c70bce40060c189afeae1a",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-06-12T14:37:16Z"
+  },
+  "object": {
+    "sha": "8cb5fe3623f2145dc49742211f69f1f773aa7d3a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/os-brick/git/commits/8cb5fe3623f2145dc49742211f69f1f773aa7d3a"
+  },
+  "tag": "2.9.0",
+  "message": "os-brick 2.9.0 release\n\nmeta:version: 2.9.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Change-Id: I011562ffe0d386ed14822f4b3e8f478ae639b8b5\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Jay Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0BDhwZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2BteC/9sLHcersrQ6p1jDrWOa72B\nxw0dVW+rSfBJDUzeARO61lW/f3jSw+/MhD04F6XXJ2npsMKPQCDJg7qG26lDdjc+\nLc4e5rE+Tr6pQBciyaYqydW2yGFnzwoIVjwzrAn7UNa+Fv3ex8N5P/47pKIZ363d\nUjyqN61aP+hRWZ1pBYuDyjxu80nuNMFYBeFyJd8ToBd0ud32SS2MHWNXv9ucrYVQ\nAMcgWHCuVyHpNc5e6h178+EU4LHsVMCymm4eiChIgwe3B7O2QZBoDjGtOys81x39\nL4yRTpYLl+0zAm6BGjSLBl+7kDYykGajc0mPWvt/7/eMc3CX6S9WppJUS3rF7xVx\nt5pY0rPHkjhFCtAdkyno11TkaHMgMW/BCXPzcCQAzKptcHBacOds3Ir68PiXXBaL\noWsN/uFcXTM/gPdLDZVABewLFhlnYwq71YJPQU186sv5keEA+mWgirFY4kvv3jNT\n6G4eYvBL/RrHyhKIbkJJgRxhomoh/ZrQ/RLf1aPnxrY=\n=VlX3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0BDhwZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2BteC/9sLHcersrQ6p1jDrWOa72B\nxw0dVW+rSfBJDUzeARO61lW/f3jSw+/MhD04F6XXJ2npsMKPQCDJg7qG26lDdjc+\nLc4e5rE+Tr6pQBciyaYqydW2yGFnzwoIVjwzrAn7UNa+Fv3ex8N5P/47pKIZ363d\nUjyqN61aP+hRWZ1pBYuDyjxu80nuNMFYBeFyJd8ToBd0ud32SS2MHWNXv9ucrYVQ\nAMcgWHCuVyHpNc5e6h178+EU4LHsVMCymm4eiChIgwe3B7O2QZBoDjGtOys81x39\nL4yRTpYLl+0zAm6BGjSLBl+7kDYykGajc0mPWvt/7/eMc3CX6S9WppJUS3rF7xVx\nt5pY0rPHkjhFCtAdkyno11TkaHMgMW/BCXPzcCQAzKptcHBacOds3Ir68PiXXBaL\noWsN/uFcXTM/gPdLDZVABewLFhlnYwq71YJPQU186sv5keEA+mWgirFY4kvv3jNT\n6G4eYvBL/RrHyhKIbkJJgRxhomoh/ZrQ/RLf1aPnxrY=\n=VlX3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8cb5fe3623f2145dc49742211f69f1f773aa7d3a\ntype commit\ntag 2.9.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1560350236 +0000\n\nos-brick 2.9.0 release\n\nmeta:version: 2.9.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Change-Id: I011562ffe0d386ed14822f4b3e8f478ae639b8b5\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Jay Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

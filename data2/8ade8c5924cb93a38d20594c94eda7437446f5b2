@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOjhhZGU4YzU5MjRjYjkzYTM4ZDIwNTk0Yzk0ZWRhNzQzNzQ0NmY1YjI=",
+  "sha": "8ade8c5924cb93a38d20594c94eda7437446f5b2",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/8ade8c5924cb93a38d20594c94eda7437446f5b2",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2016-05-15T01:22:10Z"
+  },
+  "object": {
+    "sha": "55a0c1e46dd773cc0a64078ac0ad9ebfcbc4c79f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/55a0c1e46dd773cc0a64078ac0ad9ebfcbc4c79f"
+  },
+  "tag": "3.1.2",
+  "message": "Version 3.1.2\n\n - Documentation around \"Illegal Instruction\" errors\n - Resolve some ambiguities around publishing that was causing some issues on some versions and platforms of npm and node\n - [linux] bug fix in `.list()` where we weren't filtering out non block devices that are named like serial ports\n - [unix] Better unix error messages\n - [unix] Refactor `setBaudrate` for Unix making it easier for custom baudRate support\n - [unix] Update now has less memory leaks, documentation and better error messages\n - [windows] Better error messages for opening ports\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

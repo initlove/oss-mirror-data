@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo3NzMzOWI2MzRlMjEwNTM0M2E3MmYxYWNlMTVjZjBlOGE3MDAyMDUy",
+  "sha": "77339b634e2105343a72f1ace15cf0e8a7002052",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/77339b634e2105343a72f1ace15cf0e8a7002052",
+  "tagger": {
+    "name": "Saúl Ibarra Corretgé",
+    "email": "saghul@gmail.com",
+    "date": "2014-09-18T16:42:22Z"
+  },
+  "object": {
+    "sha": "e47d4f00568991716ec69db732ac3610f47a0262",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/e47d4f00568991716ec69db732ac3610f47a0262"
+  },
+  "tag": "v1.0.0-rc1",
+  "message": "2014.09.18, Version 1.0.0-rc1 (Unstable)\n\nChanges since version 0.11.29:\n\n* windows: improve timer precision (Alexis Campailla)\n\n* build, gyp: set xcode flags (Recep ASLANTAS)\n\n* ignore: include m4 files which are created manually (Recep ASLANTAS)\n\n* build: add m4 for feature/flag-testing (Recep ASLANTAS)\n\n* ignore: ignore Xcode project and workspace files (Recep ASLANTAS)\n\n* unix: fix warnings about dollar symbol usage in identifiers (Recep ASLANTAS)\n\n* unix: fix warnings when loading functions with dlsym (Recep ASLANTAS)\n\n* linux: try epoll_pwait if epoll_wait is missing (Michael Hudson-Doyle)\n\n* test: add test for closing and recreating default loop (Saúl Ibarra Corretgé)\n\n* windows: properly close the default loop (Saúl Ibarra Corretgé)\n\n* version: add ability to specify a version suffix (Saúl Ibarra Corretgé)\n\n* doc: add API documentation (Saúl Ibarra Corretgé)\n\n* test: don't close connection on write error (Trevor Norris)\n\n* windows: further simplify the code for timers (Saúl Ibarra Corretgé)\n\n* gyp: remove UNLIMITED_SELECT from dependent define (Fedor Indutny)\n\n* darwin: allocate enough space for select() hack (Fedor Indutny)\n\n* unix, windows: don't allow a NULL callback on timers (Saúl Ibarra Corretgé)\n\n* windows: simplify code in uv_timer_again (Saúl Ibarra Corretgé)\n\n* test: use less requests on tcp-write-queue-order (Saúl Ibarra Corretgé)\n\n* unix: stop child process watcher after last one exits (Saúl Ibarra Corretgé)\n\n* unix: simplify how process handle queue is managed (Saúl Ibarra Corretgé)\n\n* windows: remove duplicated field (mattn)\n\n* core: add a reserved field to uv_handle_t and uv_req_t (Saúl Ibarra Corretgé)\n\n* windows: fix buffer leak after failed udp send (Bert Belder)\n\n* windows: make sure sockets and handles are reset on close (Saúl Ibarra Corretgé)\n\n* unix, windows: add uv_fileno (Saúl Ibarra Corretgé)\n\n* build: use same CFLAGS in autotools build as in gyp (Saúl Ibarra Corretgé)\n\n* build: remove unneeded define in uv.gyp (Saúl Ibarra Corretgé)\n\n* test: fix watcher_cross_stop on Windows (Saúl Ibarra Corretgé)\n\n* unix, windows: move includes for EAI constants (Saúl Ibarra Corretgé)\n\n* unix: fix exposing EAI_* glibc-isms (Saúl Ibarra Corretgé)\n\n* unix: fix tcp write after bad connect freezing (Andrius Bentkus)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

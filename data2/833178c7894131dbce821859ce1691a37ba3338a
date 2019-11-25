@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOjgzMzE3OGM3ODk0MTMxZGJjZTgyMTg1OWNlMTY5MWEzN2JhMzMzOGE=",
+  "sha": "833178c7894131dbce821859ce1691a37ba3338a",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/833178c7894131dbce821859ce1691a37ba3338a",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2018-04-18T12:18:46Z"
+  },
+  "object": {
+    "sha": "131a9396bba66829d0cef7689b2d7343821ecd7c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/131a9396bba66829d0cef7689b2d7343821ecd7c"
+  },
+  "tag": "v6.2.0",
+  "message": "v6.2.0 (2018-04-18)\n\nThis is a recommended release for everyone on windows as it fixes a memory leak in write operations.\n\n* docs: fix missing options objects and descriptions (#1504) ([e8b73c2](https://github.com/node-serialport/node-serialport/commit/e8b73c2)), closes [#1504](https://github.com/node-serialport/node-serialport/issues/1504)\n* docs: node 9 is working well these days ([b585c11](https://github.com/node-serialport/node-serialport/commit/b585c11))\n* docs: Switch to @reconbot/jsdoc-theme for docs ([a31078f](https://github.com/node-serialport/node-serialport/commit/a31078f))\n* docs(contributing): clean up the instructions a little bit ([71f2480](https://github.com/node-serialport/node-serialport/commit/71f2480))\n* docs(parsers): improve the parser examples ([41f1d2d](https://github.com/node-serialport/node-serialport/commit/41f1d2d))\n* fix(windows): Reset Buffer after write operations are complete to free memory (#1547) ([a1eef11](https://github.com/node-serialport/node-serialport/commit/a1eef11)), closes [#1547](https://github.com/node-serialport/node-serialport/issues/1547)\n* chore: Avoid using deprecated Buffer constructor (#1510) ([0c1533b](https://github.com/node-serialport/node-serialport/commit/0c1533b)), closes [#1510](https://github.com/node-serialport/node-serialport/issues/1510) [/nodejs.org/api/deprecations.html#deprecations_dep0005](https://github.com//nodejs.org/api/deprecations.html/issues/deprecations_dep0005)\n* chore: fix package json indents ([7c9b609](https://github.com/node-serialport/node-serialport/commit/7c9b609))\n* chore: move parsers to their new packages and clean up docs ([4bccb62](https://github.com/node-serialport/node-serialport/commit/4bccb62))\n* chore: remove old doc file ([37a8373](https://github.com/node-serialport/node-serialport/commit/37a8373))\n* chore(docs): Minor spelling change ([8a13e9f](https://github.com/node-serialport/node-serialport/commit/8a13e9f))\n* chore(package): update eslint-config-standard to version 11.0.0 (#1492) ([cf5b8fb](https://github.com/node-serialport/node-serialport/commit/cf5b8fb)), closes [#1492](https://github.com/node-serialport/node-serialport/issues/1492)\n* chore(package): update proxyquire to version 2.0.0 (#1511) ([bac0237](https://github.com/node-serialport/node-serialport/commit/bac0237)), closes [#1511](https://github.com/node-serialport/node-serialport/issues/1511)\n* chore(package): update sinon to version 5.0.0 ([9dbccbc](https://github.com/node-serialport/node-serialport/commit/9dbccbc))\n* chore(packages): ugprade conventional-changelog-cli@1.3.15 ([270c2be](https://github.com/node-serialport/node-serialport/commit/270c2be))\n* chore(packages): ugprade nan@2.9.2 (#1503) ([557afa4](https://github.com/node-serialport/node-serialport/commit/557afa4)), closes [#1503](https://github.com/node-serialport/node-serialport/issues/1503)\n* chore(packages): upgrade conventional-changelog@1.3.12 ([2b8f957](https://github.com/node-serialport/node-serialport/commit/2b8f957))\n* feat: upgrade socket-io example to latest serialport and fix bug (#1505) ([86e5ab0](https://github.com/node-serialport/node-serialport/commit/86e5ab0)), closes [#1505](https://github.com/node-serialport/node-serialport/issues/1505)\n* feat(linter): Added 'cc' to lint the C++ code on 'npm lint' (#1501) ([59960a3](https://github.com/node-serialport/node-serialport/commit/59960a3)), closes [#1501](https://github.com/node-serialport/node-serialport/issues/1501)\n* feat(windows): Fetch USB serial number by lookups in win registry (#1483) ([45b3a2f](https://github.com/node-serialport/node-serialport/commit/45b3a2f)), closes [#1483](https://github.com/node-serialport/node-serialport/issues/1483) [#1459](https://github.com/node-serialport/node-serialport/issues/1459)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

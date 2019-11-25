@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEwNzQxMTY6NjZmZjIwYTg2Yjk2NmIxNjM2Y2JlZDZkZDI3ZmQ0ZDVmNzQ4MmJhMw==",
+  "sha": "66ff20a86b966b1636cbed6dd27fd4d5f7482ba3",
+  "url": "https://api.github.com/repos/openstack/oslo.messaging/git/tags/66ff20a86b966b1636cbed6dd27fd4d5f7482ba3",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-04-11T09:47:44Z"
+  },
+  "object": {
+    "sha": "b0776c515d0e14cd2c524d0a231f9897869c3234",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.messaging/git/commits/b0776c515d0e14cd2c524d0a231f9897869c3234"
+  },
+  "tag": "6.1.0",
+  "message": "oslo.messaging 6.1.0 release\n\nmeta:version: 6.1.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Iaabba0b12dde606e46cfb809bd956aaf10228109\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJazdnAAAoJEMNs3LTfAMaMfWMH/RlHCvjC4bzBKf/YC7yXvN+G\n6OzHGOCCFWDcgSyaowTYvdJiDzO/LvMlAKdElyscFf/XOJ4WFhne/KsiVkRniVAv\nUrq3Jt04x7USnVCsjitOQcVoFY8xNMU7XGqGIN77j89vdUUn15l5+tAgVLB4TU/R\ny8ymyuPED/Uu+KfqtGobXLjGsZn5WlSgDVGkklsqP1KqysoDV1QxmN8muhsLduik\no+f02sX+XwTVKyn5TEeNQJGkYpz1V0KYlN8OboeIxHbCRlr8pxz9xynh4YZsIDjb\nRWTdJA/i/8ZnopQmawcZtgQRv952SOvkBnh9uBCuxzb1P8sFYvB5qlkVzRqg2J4=\n=PY67\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJazdnAAAoJEMNs3LTfAMaMfWMH/RlHCvjC4bzBKf/YC7yXvN+G\n6OzHGOCCFWDcgSyaowTYvdJiDzO/LvMlAKdElyscFf/XOJ4WFhne/KsiVkRniVAv\nUrq3Jt04x7USnVCsjitOQcVoFY8xNMU7XGqGIN77j89vdUUn15l5+tAgVLB4TU/R\ny8ymyuPED/Uu+KfqtGobXLjGsZn5WlSgDVGkklsqP1KqysoDV1QxmN8muhsLduik\no+f02sX+XwTVKyn5TEeNQJGkYpz1V0KYlN8OboeIxHbCRlr8pxz9xynh4YZsIDjb\nRWTdJA/i/8ZnopQmawcZtgQRv952SOvkBnh9uBCuxzb1P8sFYvB5qlkVzRqg2J4=\n=PY67\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b0776c515d0e14cd2c524d0a231f9897869c3234\ntype commit\ntag 6.1.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1523440064 +0000\n\noslo.messaging 6.1.0 release\n\nmeta:version: 6.1.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Iaabba0b12dde606e46cfb809bd956aaf10228109\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

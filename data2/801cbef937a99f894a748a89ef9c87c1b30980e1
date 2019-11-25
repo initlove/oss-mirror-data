@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc0ODk5NDc6ODAxY2JlZjkzN2E5OWY4OTRhNzQ4YTg5ZWY5Yzg3YzFiMzA5ODBlMQ==",
+  "sha": "801cbef937a99f894a748a89ef9c87c1b30980e1",
+  "url": "https://api.github.com/repos/openstack/neutron-fwaas/git/tags/801cbef937a99f894a748a89ef9c87c1b30980e1",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-11-06T06:12:33Z"
+  },
+  "object": {
+    "sha": "a3c335a9c6a1672337fa3de72c5f31157f5eeaa1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-fwaas/git/commits/a3c335a9c6a1672337fa3de72c5f31157f5eeaa1"
+  },
+  "tag": "12.0.1",
+  "message": "neutron-fwaas 12.0.1 release\n\nmeta:version: 12.0.1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: I1b9dbccd98084d0b173d0d38e2f42d336cad82df\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Corey Bryant <corey.bryant@canonical.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJb4TDRAAoJEBpUEUgFTp44UdIL/0SEf1/+TnMTV0w2xKZgiIN3\nC/pyF+PQL7ly2l+L258fDwvYtafai1odzVRCZI7t6fhweFeLvxC5t2C5ehZwReuD\nLRqW/CbE/fKuVDTKleV4sQqtpegQ82L8fV4OGdybxGaJ94WXHppqhIdaSozNF84E\n0pj/oTxrKy5mKb9Nlmb7fUcM5h6u8OsMLftJyL8YOSOknO6tk4GT3fkMmOStoN0H\nKCKDfPhmWbY1rsMIg+L8oDNXQ+fKR8JA+yp+3x75wkWdE4UhiLviA+lhxvQ6G7kn\nglgBWvj9AbzX5eKVED+KdGRK/YZGaySvHw+BFGgsvZM21K5vhimuh1JdgL8/dfx+\n0kWN6vbf1GK46h+ynZtnGGmsKUxfI31Ize1oDBkm5gPQcZgXwiNfB608CntCIpjM\niIJCQRHLMNG4o4EVoPIHj1b4IAQ5oS3CRKLjdHiOVzKEs4FIa+eyzcfB098RZqZK\nN4NUT720ArRo39pVybMV625JI9XkDGjoerdMNOTXZA==\n=D99x\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJb4TDRAAoJEBpUEUgFTp44UdIL/0SEf1/+TnMTV0w2xKZgiIN3\nC/pyF+PQL7ly2l+L258fDwvYtafai1odzVRCZI7t6fhweFeLvxC5t2C5ehZwReuD\nLRqW/CbE/fKuVDTKleV4sQqtpegQ82L8fV4OGdybxGaJ94WXHppqhIdaSozNF84E\n0pj/oTxrKy5mKb9Nlmb7fUcM5h6u8OsMLftJyL8YOSOknO6tk4GT3fkMmOStoN0H\nKCKDfPhmWbY1rsMIg+L8oDNXQ+fKR8JA+yp+3x75wkWdE4UhiLviA+lhxvQ6G7kn\nglgBWvj9AbzX5eKVED+KdGRK/YZGaySvHw+BFGgsvZM21K5vhimuh1JdgL8/dfx+\n0kWN6vbf1GK46h+ynZtnGGmsKUxfI31Ize1oDBkm5gPQcZgXwiNfB608CntCIpjM\niIJCQRHLMNG4o4EVoPIHj1b4IAQ5oS3CRKLjdHiOVzKEs4FIa+eyzcfB098RZqZK\nN4NUT720ArRo39pVybMV625JI9XkDGjoerdMNOTXZA==\n=D99x\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a3c335a9c6a1672337fa3de72c5f31157f5eeaa1\ntype commit\ntag 12.0.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1541484753 +0000\n\nneutron-fwaas 12.0.1 release\n\nmeta:version: 12.0.1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: I1b9dbccd98084d0b173d0d38e2f42d336cad82df\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Corey Bryant <corey.bryant@canonical.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

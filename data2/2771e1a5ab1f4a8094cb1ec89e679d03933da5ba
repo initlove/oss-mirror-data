@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQwMDI4OToyNzcxZTFhNWFiMWY0YTgwOTRjYjFlYzg5ZTY3OWQwMzkzM2RhNWJh",
+  "sha": "2771e1a5ab1f4a8094cb1ec89e679d03933da5ba",
+  "url": "https://api.github.com/repos/openstack/neutron/git/tags/2771e1a5ab1f4a8094cb1ec89e679d03933da5ba",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-28T20:35:11Z"
+  },
+  "object": {
+    "sha": "f07b62c37880821aaf067ad18ddfa97e049d31d9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron/git/commits/f07b62c37880821aaf067ad18ddfa97e049d31d9"
+  },
+  "tag": "queens-em",
+  "message": "neutron queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: I659c3205de3f514d4112df43519da89cdc41e116\nmeta:release:Code-Review+1: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl23UP8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2AN8C/sHdQilUcRnK+HNhD/usYMi\nN3UIjdSs+pRlLimx03QkLSfE3AOXeMcnaS0ZC0SbQD7c7Hk4EXb/k08SdvQm3QEv\ngPGeVccH2IsgmsP3FN88vkXdRHAMzY8Nuj2q/wQIW8xYvPeygWo1QaYActSkqsQz\nXVi43y2d85ZldNBWnVfPlFsTaJdakwPaGU7x+gbGdQ37x9mgdxNUBGPN1Z+ijPI0\nKiyr6wJw5SCPJptEKWxLH1YXoEYGHiqdqwPcGyFKzbt8zvzhMC0jdNOjjTKoc7v6\nMnXxe8ZhjQu6bb4KRHd+SA3YimHxhbdVB+Yr5gtUcNHMU/V40anmUvlxyeYENlt+\nBwHESwcYh+diY69C7VIJtl899BW7x9U+E9dVc84hj3Ir6xabMmUXQZrgJaL70pDf\nvkB2lANp/PLVOx5vkkyEB1qsmCLET+JEQQ4K9ECPDq9Tnlmyu0/uV1fDv4YU3ELS\nAIiBOHumm+z24RQiVVNLRSOJGod+RM96cLKRxVDTZs0=\n=3Mqo\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl23UP8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2AN8C/sHdQilUcRnK+HNhD/usYMi\nN3UIjdSs+pRlLimx03QkLSfE3AOXeMcnaS0ZC0SbQD7c7Hk4EXb/k08SdvQm3QEv\ngPGeVccH2IsgmsP3FN88vkXdRHAMzY8Nuj2q/wQIW8xYvPeygWo1QaYActSkqsQz\nXVi43y2d85ZldNBWnVfPlFsTaJdakwPaGU7x+gbGdQ37x9mgdxNUBGPN1Z+ijPI0\nKiyr6wJw5SCPJptEKWxLH1YXoEYGHiqdqwPcGyFKzbt8zvzhMC0jdNOjjTKoc7v6\nMnXxe8ZhjQu6bb4KRHd+SA3YimHxhbdVB+Yr5gtUcNHMU/V40anmUvlxyeYENlt+\nBwHESwcYh+diY69C7VIJtl899BW7x9U+E9dVc84hj3Ir6xabMmUXQZrgJaL70pDf\nvkB2lANp/PLVOx5vkkyEB1qsmCLET+JEQQ4K9ECPDq9Tnlmyu0/uV1fDv4YU3ELS\nAIiBOHumm+z24RQiVVNLRSOJGod+RM96cLKRxVDTZs0=\n=3Mqo\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f07b62c37880821aaf067ad18ddfa97e049d31d9\ntype commit\ntag queens-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572294911 +0000\n\nneutron queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: I659c3205de3f514d4112df43519da89cdc41e116\nmeta:release:Code-Review+1: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

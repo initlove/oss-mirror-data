@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMToyMzg1OTYwMzc1ZDcwMTNhMjY4NTg0ZGZlMTFiYjNmNGI5MjQyODM4",
+  "sha": "2385960375d7013a268584dfe11bb3f4b9242838",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/2385960375d7013a268584dfe11bb3f4b9242838",
+  "tagger": {
+    "name": "Ben Noordhuis",
+    "email": "info@bnoordhuis.nl",
+    "date": "2013-06-12T19:52:01Z"
+  },
+  "object": {
+    "sha": "c3b75406a66a10222a589cb173e8f469e9665c7e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/c3b75406a66a10222a589cb173e8f469e9665c7e"
+  },
+  "tag": "v0.10.11",
+  "message": "2013.06.13, Version 0.10.11 (Stable)\n\nChanges since version 0.10.10:\n\n* unix: unconditionally stop handle on close (Ben Noordhuis)\n\n* freebsd: don't enable dtrace if it's not available (Brian White)\n\n* build: make HAVE_DTRACE=0 should disable dtrace (Timothy J. Fontaine)\n\n* unix: remove overzealous assert (Ben Noordhuis)\n\n* unix: clear UV_STREAM_SHUTTING after shutdown() (Ben Noordhuis)\n\n* unix: fix busy loop, write if POLLERR or POLLHUP (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.13 (GNU/Linux)\n\niQIcBAABAgAGBQJRuNFhAAoJEE9VyMhGq4m5yX0QAJqU5bPtP0ePwsVP5T3Qd4wz\nh8IKyIMQA2sOc93aPLBO4TeR3sEyRvTTL+sLrpD4DE07/Ab8vbUN+GiP2EkGI5Di\nwr+zKpvWrmvBalps7lg1f7SvMB8NNWb6gTv9U1xnnKY3MqUoqMRvoAlQvY0afLiO\nsusxclF2+YWtQNGz59OcLdvjzKS5ghTS2FvZgErSk9T+H0BAUXHvLrve9UdgPoXq\namvGqSwyGpwazS0g0vBDc8mWZvJ7+zBwCYAEqndc7prnDCMR8Gbv2FNvjKPufeYi\nwWfPf3akESC4aM6NBzneRdkBMXFYnt79JGJjSSOHzF4VFkvZPgTYyZu3hsBQPgYP\nPz9n/MFpw9yhn9neLRLe7NhTqhWjOq8luHoReXm/F71+h3Gkkxosq5dcWUIlDK0/\nDCq6prN6vGKybWkNEV7FIrEBUiCX70vWKtzPahfMYVM3TT1RHKt1TuT2o2Wzwb06\nngtVN8Kzonn6e51bf0djfPGLIBjWbGWTxUcdAdczq7USiVGHY7KRKUfuHec1ugv6\nIHHGkVbTGiJkEnW9kKG1ggU3LDkcT20ZLfhJTdLuviZTDySkHDpJ2Nyn7xtpMP9u\n6rG31c4+XnTZNeyXOJrrcNEJqIs18fx+s8oCwEflqyti8VF1Au4W4z626hT3zHPb\nBR+DSNBJ/O+BV+AIvebJ\n=77Ve\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.13 (GNU/Linux)\n\niQIcBAABAgAGBQJRuNFhAAoJEE9VyMhGq4m5yX0QAJqU5bPtP0ePwsVP5T3Qd4wz\nh8IKyIMQA2sOc93aPLBO4TeR3sEyRvTTL+sLrpD4DE07/Ab8vbUN+GiP2EkGI5Di\nwr+zKpvWrmvBalps7lg1f7SvMB8NNWb6gTv9U1xnnKY3MqUoqMRvoAlQvY0afLiO\nsusxclF2+YWtQNGz59OcLdvjzKS5ghTS2FvZgErSk9T+H0BAUXHvLrve9UdgPoXq\namvGqSwyGpwazS0g0vBDc8mWZvJ7+zBwCYAEqndc7prnDCMR8Gbv2FNvjKPufeYi\nwWfPf3akESC4aM6NBzneRdkBMXFYnt79JGJjSSOHzF4VFkvZPgTYyZu3hsBQPgYP\nPz9n/MFpw9yhn9neLRLe7NhTqhWjOq8luHoReXm/F71+h3Gkkxosq5dcWUIlDK0/\nDCq6prN6vGKybWkNEV7FIrEBUiCX70vWKtzPahfMYVM3TT1RHKt1TuT2o2Wzwb06\nngtVN8Kzonn6e51bf0djfPGLIBjWbGWTxUcdAdczq7USiVGHY7KRKUfuHec1ugv6\nIHHGkVbTGiJkEnW9kKG1ggU3LDkcT20ZLfhJTdLuviZTDySkHDpJ2Nyn7xtpMP9u\n6rG31c4+XnTZNeyXOJrrcNEJqIs18fx+s8oCwEflqyti8VF1Au4W4z626hT3zHPb\nBR+DSNBJ/O+BV+AIvebJ\n=77Ve\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c3b75406a66a10222a589cb173e8f469e9665c7e\ntype commit\ntag v0.10.11\ntagger Ben Noordhuis <info@bnoordhuis.nl> 1371066721 +0200\n\n2013.06.13, Version 0.10.11 (Stable)\n\nChanges since version 0.10.10:\n\n* unix: unconditionally stop handle on close (Ben Noordhuis)\n\n* freebsd: don't enable dtrace if it's not available (Brian White)\n\n* build: make HAVE_DTRACE=0 should disable dtrace (Timothy J. Fontaine)\n\n* unix: remove overzealous assert (Ben Noordhuis)\n\n* unix: clear UV_STREAM_SHUTTING after shutdown() (Ben Noordhuis)\n\n* unix: fix busy loop, write if POLLERR or POLLHUP (Ben Noordhuis)\n"
+  }
+}

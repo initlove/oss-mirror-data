@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc0ODk5ODI6MGEwOWVhZjRiN2MxMjQ3ZGI4MTA3YzQ2NDhkMzY0NDEyMjdhNDM3Mw==",
+  "sha": "0a09eaf4b7c1247db8107c4648d36441227a4373",
+  "url": "https://api.github.com/repos/openstack/neutron-vpnaas/git/tags/0a09eaf4b7c1247db8107c4648d36441227a4373",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-25T08:45:58Z"
+  },
+  "object": {
+    "sha": "66dfa3f57c2a4747b81b25bd4c2e3ecf30134b8b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-vpnaas/git/commits/66dfa3f57c2a4747b81b25bd4c2e3ecf30134b8b"
+  },
+  "tag": "15.0.0.0rc1",
+  "message": "neutron-vpnaas 15.0.0.0rc1 release candidate\n\nmeta:version: 15.0.0.0rc1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Change-Id: I2c2bf99ed2e1b11567a8e08d38abe0f338060a65\nmeta:release:Code-Review+1: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2LKUYZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2GqNC/9hFTqQkNKwe0mHeC1bmGhw\nIUth4TErN0C3HpCGKupCtMCvYAiMIWmCWosEbZbJNBZ61qNEhQY52daM1tjBI3/4\nNfiT/QIGbaHmllSd0UFyOt3f5Dp2SCXmIl/M54usYnVK04vIHT6eVFp++Trar/Rv\nok0dDi2k0Se7ZjqYajOWYM7FCJakdv7yaKMny27hIP9W33HerxuMebxXk/VfwZTC\ndwWpa5ShIqRgm0p7gCDvLfxj4VYYC7V8FLjg859y2fSbsO2A87Jcb79LA7YXFYgd\nj+gSd0gVOFGN+2rRmCCOzYiQcW5l8x60iZkf9nq8wB/a1XFPutt8x0698VlhxqdL\n89C984w4FQL2QIo+8MSyjNYtcZtp/B/oPkOESgSAEkJkCWdQ1tT+JNTmfOdmLqpd\n3Jb2RHURZCiIJRZlPa5v/hKhdbwZJPYLa/k1O1sM+AtQ3TFbpkhvbSfz3UqVLNrU\n7fKKS9EmoaH2Tq6U9Sti29Jbr3l4I38obpm2gcVkRqk=\n=Bya/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2LKUYZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2GqNC/9hFTqQkNKwe0mHeC1bmGhw\nIUth4TErN0C3HpCGKupCtMCvYAiMIWmCWosEbZbJNBZ61qNEhQY52daM1tjBI3/4\nNfiT/QIGbaHmllSd0UFyOt3f5Dp2SCXmIl/M54usYnVK04vIHT6eVFp++Trar/Rv\nok0dDi2k0Se7ZjqYajOWYM7FCJakdv7yaKMny27hIP9W33HerxuMebxXk/VfwZTC\ndwWpa5ShIqRgm0p7gCDvLfxj4VYYC7V8FLjg859y2fSbsO2A87Jcb79LA7YXFYgd\nj+gSd0gVOFGN+2rRmCCOzYiQcW5l8x60iZkf9nq8wB/a1XFPutt8x0698VlhxqdL\n89C984w4FQL2QIo+8MSyjNYtcZtp/B/oPkOESgSAEkJkCWdQ1tT+JNTmfOdmLqpd\n3Jb2RHURZCiIJRZlPa5v/hKhdbwZJPYLa/k1O1sM+AtQ3TFbpkhvbSfz3UqVLNrU\n7fKKS9EmoaH2Tq6U9Sti29Jbr3l4I38obpm2gcVkRqk=\n=Bya/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 66dfa3f57c2a4747b81b25bd4c2e3ecf30134b8b\ntype commit\ntag 15.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1569401158 +0000\n\nneutron-vpnaas 15.0.0.0rc1 release candidate\n\nmeta:version: 15.0.0.0rc1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Change-Id: I2c2bf99ed2e1b11567a8e08d38abe0f338060a65\nmeta:release:Code-Review+1: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

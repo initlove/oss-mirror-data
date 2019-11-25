@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAzMDk4NjoxOGM5MjkyN2ZmZTBmYTFhM2Y3ZmQwZmQ1Zjc0M2YzZjcxNzBmZjUw",
+  "sha": "18c92927ffe0fa1a3f7fd0fd5f743f3f7170ff50",
+  "url": "https://api.github.com/repos/openstack/python-keystoneclient/git/tags/18c92927ffe0fa1a3f7fd0fd5f743f3f7170ff50",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-22T19:09:11Z"
+  },
+  "object": {
+    "sha": "925c2c1fb953d9b6d699bf691bb70eae7c561103",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-keystoneclient/git/commits/925c2c1fb953d9b6d699bf691bb70eae7c561103"
+  },
+  "tag": "3.22.0",
+  "message": "python-keystoneclient 3.22.0 release\n\nmeta:version: 3.22.0\nmeta:diff-start: -\nmeta:series: ussuri\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Colleen Murphy <colleen.murphy@suse.de>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Ic0f8ac4384191c33c1f3d680e5d0ea21db3f405c\nmeta:release:Code-Review+1: Vishakha Agarwal <agarwalvishakha18@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2vU9cZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2C4NC/4uqtOo5nykBH0rBcnZbdiX\n1TqgESzsPV8gGloIv+oy5mXhEvsaY0XIr+GvU8UGtGc28Vvb0v8N/OezatNAOMnX\nxqjG8zvx62TFfLy6AvHcERgeCNk1NWqCn8L7Z1v8HWxBpZJt033cVdMcegC4p/Cy\nRxarCQj0abVMwF4oRQzGlT2wdmbEngLjpxbZKeY3GeapIhp2buboKUkBXHLBZXnV\ncJq6QxMtecVtHIDQUQp6wvNHxYCExEKc+2K85v6UnTrFYFx5FpMu9e6t7szmM4jr\ntJAaB0obQiz/tb1lAxUBYy7toz3Yqad8D9nJjHGBBMeSto0ZXpPYJPt1Q6jv7fvM\nLGSTWVLl8RdqQrEgvH5s8XuMaQZNeVbYw2D5uqTH/2k0YeI5zQnm5gen7U5Ad35n\nT24A6b7bcvXxC6CR2J0y8PNHXjdL+b1mzPsiHQFzHZ7gfnEGX44kEbia3csmknd1\nkH746dMwsxAn6Mnd42HqflM6b04F+kXwzJR5LZ/Y+Ik=\n=6B83\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2vU9cZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2C4NC/4uqtOo5nykBH0rBcnZbdiX\n1TqgESzsPV8gGloIv+oy5mXhEvsaY0XIr+GvU8UGtGc28Vvb0v8N/OezatNAOMnX\nxqjG8zvx62TFfLy6AvHcERgeCNk1NWqCn8L7Z1v8HWxBpZJt033cVdMcegC4p/Cy\nRxarCQj0abVMwF4oRQzGlT2wdmbEngLjpxbZKeY3GeapIhp2buboKUkBXHLBZXnV\ncJq6QxMtecVtHIDQUQp6wvNHxYCExEKc+2K85v6UnTrFYFx5FpMu9e6t7szmM4jr\ntJAaB0obQiz/tb1lAxUBYy7toz3Yqad8D9nJjHGBBMeSto0ZXpPYJPt1Q6jv7fvM\nLGSTWVLl8RdqQrEgvH5s8XuMaQZNeVbYw2D5uqTH/2k0YeI5zQnm5gen7U5Ad35n\nT24A6b7bcvXxC6CR2J0y8PNHXjdL+b1mzPsiHQFzHZ7gfnEGX44kEbia3csmknd1\nkH746dMwsxAn6Mnd42HqflM6b04F+kXwzJR5LZ/Y+Ik=\n=6B83\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 925c2c1fb953d9b6d699bf691bb70eae7c561103\ntype commit\ntag 3.22.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1571771351 +0000\n\npython-keystoneclient 3.22.0 release\n\nmeta:version: 3.22.0\nmeta:diff-start: -\nmeta:series: ussuri\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Colleen Murphy <colleen.murphy@suse.de>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Ic0f8ac4384191c33c1f3d680e5d0ea21db3f405c\nmeta:release:Code-Review+1: Vishakha Agarwal <agarwalvishakha18@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

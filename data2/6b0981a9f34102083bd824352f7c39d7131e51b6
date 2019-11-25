@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQwMDI4OTo2YjA5ODFhOWYzNDEwMjA4M2JkODI0MzUyZjdjMzlkNzEzMWU1MWI2",
+  "sha": "6b0981a9f34102083bd824352f7c39d7131e51b6",
+  "url": "https://api.github.com/repos/openstack/neutron/git/tags/6b0981a9f34102083bd824352f7c39d7131e51b6",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-07-04T10:23:37Z"
+  },
+  "object": {
+    "sha": "a725ef6dbea1b0f32660c17882bed8fc34a4f620",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron/git/commits/a725ef6dbea1b0f32660c17882bed8fc34a4f620"
+  },
+  "tag": "12.1.0",
+  "message": "neutron 12.1.0 release\n\nmeta:version: 12.1.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Brian Haley <bhaley@redhat.com>\nmeta:release:Commit: Brian Haley <bhaley@redhat.com>\nmeta:release:Change-Id: Idfe85b68852902bc90fe351bd6fd9e368ca1cd81\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0d06kZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2L7fDACGENsbFnhIKXuKR+Mo1uft\nmacQroYNdhy+DDgbuGPryrn4sBCqu8FS2QjuAYlU+QFPpgC9idbUyyIFWERt5d0Y\nEIdpcXZ7yq2h9FyEpzJavuMrH84vGZ8lOu7ox+d81FsOQ/jxmCr5lNhC1d6rQNuu\nztzcKef61CerwKDHSXlDcP1Rwv9u70c551vzj/c8JZegxlF0jJvfmYV2TKOmgzp/\n2gOtZhCMJ6Bj4efk02d38oomrvK6ed8JLtPPCdJr1Jl8fIatrCwM+wcXwiBPCdMz\nxUykFHizaXKv6qYUEM2nz6B5eFMsnlwpRFypQmXPp8BIEkPzEPtscU2eEg52W939\nMLSksXZkQJyyU5ZJimND5Vgzd90mN+xo5bSWija6dYY4lNYdS/BzUtsHBAbRYeWZ\nVATkG0f5nL0gGgShdkVr8UXiTXt5jt1DdWhCwEjP7/wmfkiYEhIfQ7WpzKs6fDMj\nsLa+6nm5b06JyB4IcOWykkekcgGx5URD7ZcsepWJg2M=\n=cgzc\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0d06kZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2L7fDACGENsbFnhIKXuKR+Mo1uft\nmacQroYNdhy+DDgbuGPryrn4sBCqu8FS2QjuAYlU+QFPpgC9idbUyyIFWERt5d0Y\nEIdpcXZ7yq2h9FyEpzJavuMrH84vGZ8lOu7ox+d81FsOQ/jxmCr5lNhC1d6rQNuu\nztzcKef61CerwKDHSXlDcP1Rwv9u70c551vzj/c8JZegxlF0jJvfmYV2TKOmgzp/\n2gOtZhCMJ6Bj4efk02d38oomrvK6ed8JLtPPCdJr1Jl8fIatrCwM+wcXwiBPCdMz\nxUykFHizaXKv6qYUEM2nz6B5eFMsnlwpRFypQmXPp8BIEkPzEPtscU2eEg52W939\nMLSksXZkQJyyU5ZJimND5Vgzd90mN+xo5bSWija6dYY4lNYdS/BzUtsHBAbRYeWZ\nVATkG0f5nL0gGgShdkVr8UXiTXt5jt1DdWhCwEjP7/wmfkiYEhIfQ7WpzKs6fDMj\nsLa+6nm5b06JyB4IcOWykkekcgGx5URD7ZcsepWJg2M=\n=cgzc\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a725ef6dbea1b0f32660c17882bed8fc34a4f620\ntype commit\ntag 12.1.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1562235817 +0000\n\nneutron 12.1.0 release\n\nmeta:version: 12.1.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Brian Haley <bhaley@redhat.com>\nmeta:release:Commit: Brian Haley <bhaley@redhat.com>\nmeta:release:Change-Id: Idfe85b68852902bc90fe351bd6fd9e368ca1cd81\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

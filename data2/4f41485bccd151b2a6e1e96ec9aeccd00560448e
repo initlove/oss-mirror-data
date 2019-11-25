@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo0ZjQxNDg1YmNjZDE1MWIyYTZlMWU5NmVjOWFlY2NkMDA1NjA0NDhl",
+  "sha": "4f41485bccd151b2a6e1e96ec9aeccd00560448e",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/4f41485bccd151b2a6e1e96ec9aeccd00560448e",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-05-14T21:39:58Z"
+  },
+  "object": {
+    "sha": "11e6613e6260d95c8cf11bf89a2759c24649319a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/11e6613e6260d95c8cf11bf89a2759c24649319a"
+  },
+  "tag": "v0.10.6",
+  "message": "2013.05.15, Version 0.10.6 (Stable)\n\nChanges since version 0.10.5:\n\n* stream: fix osx select hack (Fedor Indutny)\n\n* stream: fix small nit in select hack, add test (Fedor Indutny)\n\n* build: link with libkvm on openbsd (Ben Noordhuis)\n\n* stream: use harder sync restrictions for osx-hack (Fedor Indutny)\n\n* unix: fix EMFILE error handling (Ben Noordhuis)\n\n* darwin: fix unnecessary include headers (Daisuke Murase)\n\n* darwin: rename darwin-getproctitle.m (Ben Noordhuis)\n\n* build: convert predefined $PLATFORM to lower case (Elliot Saba)\n\n* build: set soname in shared library (Ben Noordhuis)\n\n* build: make `make test` link against .a again (Ben Noordhuis)\n\n* darwin: fix ios build, don't require ApplicationServices (Ben Noordhuis)\n\n* build: only set soname on shared object builds (Timothy J. Fontaine)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRkq8uAAoJELCniwpsSBz2fNcH/j7/EjuDf1ERTSIxGEpLmGZN\nE7WD7yOatrpEYVvLDVgzyRTeUx9fR9TBOPFHhvwTgc7UsEtmwaCJwnZzA+vDgfhZ\nlftQ3CHTk/L/PNI1N3EqNRLJ5NxSTm+ewA25zVYqCqPUZ+eUq4525xO5S2Hh4iqx\nRGwsEtd2hhEm6w1lhSqL1tCkC+yuIMEap7vLkXKVyGbChwmHsrXImSLDfd1B5ysq\n8BJJoQsRmGxQ73guzFQTOesXOTGMigBNbmn/AUfi0c0Xzo5GcW0daqv9A4Ne2Ph5\nzTPMBeINEcizasRmTwaYB1TKyz3LfxFjwLaUbvDv2EZdts55UkivlN/FHcX+KLQ=\n=T1kY\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRkq8uAAoJELCniwpsSBz2fNcH/j7/EjuDf1ERTSIxGEpLmGZN\nE7WD7yOatrpEYVvLDVgzyRTeUx9fR9TBOPFHhvwTgc7UsEtmwaCJwnZzA+vDgfhZ\nlftQ3CHTk/L/PNI1N3EqNRLJ5NxSTm+ewA25zVYqCqPUZ+eUq4525xO5S2Hh4iqx\nRGwsEtd2hhEm6w1lhSqL1tCkC+yuIMEap7vLkXKVyGbChwmHsrXImSLDfd1B5ysq\n8BJJoQsRmGxQ73guzFQTOesXOTGMigBNbmn/AUfi0c0Xzo5GcW0daqv9A4Ne2Ph5\nzTPMBeINEcizasRmTwaYB1TKyz3LfxFjwLaUbvDv2EZdts55UkivlN/FHcX+KLQ=\n=T1kY\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 11e6613e6260d95c8cf11bf89a2759c24649319a\ntype commit\ntag v0.10.6\ntagger isaacs <i@izs.me> 1368567598 -0700\n\n2013.05.15, Version 0.10.6 (Stable)\n\nChanges since version 0.10.5:\n\n* stream: fix osx select hack (Fedor Indutny)\n\n* stream: fix small nit in select hack, add test (Fedor Indutny)\n\n* build: link with libkvm on openbsd (Ben Noordhuis)\n\n* stream: use harder sync restrictions for osx-hack (Fedor Indutny)\n\n* unix: fix EMFILE error handling (Ben Noordhuis)\n\n* darwin: fix unnecessary include headers (Daisuke Murase)\n\n* darwin: rename darwin-getproctitle.m (Ben Noordhuis)\n\n* build: convert predefined $PLATFORM to lower case (Elliot Saba)\n\n* build: set soname in shared library (Ben Noordhuis)\n\n* build: make `make test` link against .a again (Ben Noordhuis)\n\n* darwin: fix ios build, don't require ApplicationServices (Ben Noordhuis)\n\n* build: only set soname on shared object builds (Timothy J. Fontaine)\n"
+  }
+}

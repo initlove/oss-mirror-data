@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzg3NzkxMzo1M2RiMmYwNmUyNzVlMWExNWQ3Y2YzZGMxM2FjNGJlODQ5ZWU2NjI1",
+  "sha": "53db2f06e275e1a15d7cf3dc13ac4be849ee6625",
+  "url": "https://api.github.com/repos/openstack/oslo.config/git/tags/53db2f06e275e1a15d7cf3dc13ac4be849ee6625",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-05-15T04:11:43Z"
+  },
+  "object": {
+    "sha": "3e7eecc9f43e4b326018c09d6976489ba5b0d098",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.config/git/commits/3e7eecc9f43e4b326018c09d6976489ba5b0d098"
+  },
+  "tag": "6.2.1",
+  "message": "oslo.config 6.2.1 release\n\nmeta:version: 6.2.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I1ad8057682e860d2f3b5b037c7f1b63e86bed9be\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa+l3/AAoJEMNs3LTfAMaMwhoIAKGpOAD9UYwlOn6vM8UTJQNj\nKEpSQAQ5TUxo96S6le7gsNcb9Vg2Aa6QjIQNkQ+adT8D9+Yp3i6xURUiItgK109n\noe4V9NmEsVy4zGz9UibWOj17KLPdMYOwsH8rCyunqVNWqPmRQ6YYcvnNtD11DkHh\no744tn4lOcRO7SE+ALvqdQJA/wwS+PQSVXYZca19t/s1dOAaRhm2s/5b0x1wxag/\naVW6AJg4X3qLzRiXukKUC+qnyfRgIbBefCcYMoccT0LCRRJ+J8czgM5+eJ7HSHRG\ntrrub2DeenoykJCM85gBUhhO/4ag1eUAwZRdzfM64zc9yzH4koAseIGLulQOxOU=\n=kJll\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa+l3/AAoJEMNs3LTfAMaMwhoIAKGpOAD9UYwlOn6vM8UTJQNj\nKEpSQAQ5TUxo96S6le7gsNcb9Vg2Aa6QjIQNkQ+adT8D9+Yp3i6xURUiItgK109n\noe4V9NmEsVy4zGz9UibWOj17KLPdMYOwsH8rCyunqVNWqPmRQ6YYcvnNtD11DkHh\no744tn4lOcRO7SE+ALvqdQJA/wwS+PQSVXYZca19t/s1dOAaRhm2s/5b0x1wxag/\naVW6AJg4X3qLzRiXukKUC+qnyfRgIbBefCcYMoccT0LCRRJ+J8czgM5+eJ7HSHRG\ntrrub2DeenoykJCM85gBUhhO/4ag1eUAwZRdzfM64zc9yzH4koAseIGLulQOxOU=\n=kJll\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3e7eecc9f43e4b326018c09d6976489ba5b0d098\ntype commit\ntag 6.2.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1526357503 +0000\n\noslo.config 6.2.1 release\n\nmeta:version: 6.2.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I1ad8057682e860d2f3b5b037c7f1b63e86bed9be\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

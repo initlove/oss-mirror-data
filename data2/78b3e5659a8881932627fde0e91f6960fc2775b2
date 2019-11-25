@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY5MjEzNzE6NzhiM2U1NjU5YTg4ODE5MzI2MjdmZGUwZTkxZjY5NjBmYzI3NzViMg==",
+  "sha": "78b3e5659a8881932627fde0e91f6960fc2775b2",
+  "url": "https://api.github.com/repos/openstack/oslo.vmware/git/tags/78b3e5659a8881932627fde0e91f6960fc2775b2",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-25T17:19:37Z"
+  },
+  "object": {
+    "sha": "200706ed0ea56af48517442172f194cda6fa239e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.vmware/git/commits/200706ed0ea56af48517442172f194cda6fa239e"
+  },
+  "tag": "queens-em",
+  "message": "oslo.vmware queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: If05ca8ac321ef936c1c13019dfa4ac9b8337de88\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2zLqkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2KCdDAC1ytdTRNVE6FZmyEMpoRvh\nA28Gbjg7xOvSzpYA1GT2eeKv157JKxAvdxdqjAzcLyF1Hv1A/QIhcTGUKWfSCFPK\nQNZoEaoajj7xSdHGbA03Rk0haN+/QuvuOY9EpQXuDzL+emBJG/NZMS4SWOeN0Tkq\nxZmoL61WGN3gL8P01K7ACihIel55FbCYhL5D9Gc/ebRKs/BQaQqMgFoPg1NOUXce\nDKFy/g+CAZ8JjI+z9Mwq8BlIZJ+KoTmMWTfuLXbIhyHGQ1IAQckkdF7OibwF7Bdb\nynMBpJTWk00T+2AEsbmJibGVk1Y8rxLlwfIPCPjluntj/q7BVErphKVmaQzVaF/C\nsVKSe4lB7Oz4x0bH3bl57GqQxPoRcNtPEujG4WCeYtZEpZNChEr6qXLKqDZUQwKS\nCFLuPx1JJxnGLMW3i9gYJP4uiMolb49FdFMugBU+JwLnEtS866j9md/9vlPxAXAT\nQrJv5nvxdVvph0vY2FO8Pujude0FiU0sJmEG9CwVEaw=\n=/tF8\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2zLqkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2KCdDAC1ytdTRNVE6FZmyEMpoRvh\nA28Gbjg7xOvSzpYA1GT2eeKv157JKxAvdxdqjAzcLyF1Hv1A/QIhcTGUKWfSCFPK\nQNZoEaoajj7xSdHGbA03Rk0haN+/QuvuOY9EpQXuDzL+emBJG/NZMS4SWOeN0Tkq\nxZmoL61WGN3gL8P01K7ACihIel55FbCYhL5D9Gc/ebRKs/BQaQqMgFoPg1NOUXce\nDKFy/g+CAZ8JjI+z9Mwq8BlIZJ+KoTmMWTfuLXbIhyHGQ1IAQckkdF7OibwF7Bdb\nynMBpJTWk00T+2AEsbmJibGVk1Y8rxLlwfIPCPjluntj/q7BVErphKVmaQzVaF/C\nsVKSe4lB7Oz4x0bH3bl57GqQxPoRcNtPEujG4WCeYtZEpZNChEr6qXLKqDZUQwKS\nCFLuPx1JJxnGLMW3i9gYJP4uiMolb49FdFMugBU+JwLnEtS866j9md/9vlPxAXAT\nQrJv5nvxdVvph0vY2FO8Pujude0FiU0sJmEG9CwVEaw=\n=/tF8\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 200706ed0ea56af48517442172f194cda6fa239e\ntype commit\ntag queens-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572023977 +0000\n\noslo.vmware queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: If05ca8ac321ef936c1c13019dfa4ac9b8337de88\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

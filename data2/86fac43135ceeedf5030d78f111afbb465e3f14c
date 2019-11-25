@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQ0MzAxMzc6ODZmYWM0MzEzNWNlZWVkZjUwMzBkNzhmMTExYWZiYjQ2NWUzZjE0Yw==",
+  "sha": "86fac43135ceeedf5030d78f111afbb465e3f14c",
+  "url": "https://api.github.com/repos/openstack/os-client-config/git/tags/86fac43135ceeedf5030d78f111afbb465e3f14c",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-06-18T00:49:46Z"
+  },
+  "object": {
+    "sha": "a024da3618c4a2a69eca0d83f6e4b34fa25643ca",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/os-client-config/git/commits/a024da3618c4a2a69eca0d83f6e4b34fa25643ca"
+  },
+  "tag": "1.31.2",
+  "message": "os-client-config 1.31.2 release\n\nmeta:version: 1.31.2\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: Ib339df5fc1cf00debf00c5702b60c80748adae80\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbJwGqAAoJEMNs3LTfAMaMqg4IAIJ5FwKIdF7FALbGYT6Ni+lD\nRMm6xyJBpfoAmAdBHfKS6NP9k2RO2x/VacW6YvB6DLbPxa8CYbLH9y0aVWzPGFFK\n4JzPN6KtRWCKzpX4kdi4PzkIRI/T0ee/vBGdtkAMmR3w8LJkevW71Wrk7S6bnsCc\nWYx6YqZJKwoH6x59YhtuJKe3JJB5rCUUnBikm/FQR10jo4UHuxKsLcAARWqSjE/H\ncElUkQthLTMP18o6fi5QUVm3NLWv4KPv59/itW8je4Otu+uAVAnKh7dBVMfIzF/U\nh10CcOkkw3Owd/DBRVLsF/Btu6R0Haa1kD67xLU8aMJ/hqEETafXStQvsOZK3ug=\n=AL+i\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbJwGqAAoJEMNs3LTfAMaMqg4IAIJ5FwKIdF7FALbGYT6Ni+lD\nRMm6xyJBpfoAmAdBHfKS6NP9k2RO2x/VacW6YvB6DLbPxa8CYbLH9y0aVWzPGFFK\n4JzPN6KtRWCKzpX4kdi4PzkIRI/T0ee/vBGdtkAMmR3w8LJkevW71Wrk7S6bnsCc\nWYx6YqZJKwoH6x59YhtuJKe3JJB5rCUUnBikm/FQR10jo4UHuxKsLcAARWqSjE/H\ncElUkQthLTMP18o6fi5QUVm3NLWv4KPv59/itW8je4Otu+uAVAnKh7dBVMfIzF/U\nh10CcOkkw3Owd/DBRVLsF/Btu6R0Haa1kD67xLU8aMJ/hqEETafXStQvsOZK3ug=\n=AL+i\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a024da3618c4a2a69eca0d83f6e4b34fa25643ca\ntype commit\ntag 1.31.2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1529282986 +0000\n\nos-client-config 1.31.2 release\n\nmeta:version: 1.31.2\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: Ib339df5fc1cf00debf00c5702b60c80748adae80\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

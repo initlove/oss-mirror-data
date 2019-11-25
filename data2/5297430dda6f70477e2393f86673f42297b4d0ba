@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDQ6NTI5NzQzMGRkYTZmNzA0NzdlMjM5M2Y4NjY3M2Y0MjI5N2I0ZDBiYQ==",
+  "sha": "5297430dda6f70477e2393f86673f42297b4d0ba",
+  "url": "https://api.github.com/repos/openstack/python-ironicclient/git/tags/5297430dda6f70477e2393f86673f42297b4d0ba",
+  "tagger": {
+    "name": "Devananda van der Veen",
+    "email": "devananda.vdv@gmail.com",
+    "date": "2014-08-04T19:28:31Z"
+  },
+  "object": {
+    "sha": "f0402709fbfaf2c6df67efc4865b8b6c9081457d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironicclient/git/commits/f0402709fbfaf2c6df67efc4865b8b6c9081457d"
+  },
+  "tag": "0.1.5",
+  "message": "Release 0.1.5\n\n* \"node-show\" now includes the new \"instance_info\" field\n* add \"node set-provision-state\" command\n* update help string for \"node-create\" to distinguish nodes' physical\n  properties from instances' logical properties, which should be set using\n  \"node-update\".\n* add bash completion support for the CLI\n* ironicclient module now exposes 'auth_ref' object\n* \"list\" commands support pagination (--marker, --limit)\n* CLI supports vendor-passthru method\n* add \"driver-properties\" command to expose what \"driver_info\" attributes\n  each driver expects\n* client support for the get and set boot device calls on the new management\n  interface\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlPf3uYACgkQhFvuBniJg6dxgACeP1fJpSVaCWtifJ2pfSr0+ROi\npsUAoKrMqp0uKJt8vo81zsWz6N1D+zsw\n=/rLj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlPf3uYACgkQhFvuBniJg6dxgACeP1fJpSVaCWtifJ2pfSr0+ROi\npsUAoKrMqp0uKJt8vo81zsWz6N1D+zsw\n=/rLj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f0402709fbfaf2c6df67efc4865b8b6c9081457d\ntype commit\ntag 0.1.5\ntagger Devananda van der Veen <devananda.vdv@gmail.com> 1407180511 -0700\n\nRelease 0.1.5\n\n* \"node-show\" now includes the new \"instance_info\" field\n* add \"node set-provision-state\" command\n* update help string for \"node-create\" to distinguish nodes' physical\n  properties from instances' logical properties, which should be set using\n  \"node-update\".\n* add bash completion support for the CLI\n* ironicclient module now exposes 'auth_ref' object\n* \"list\" commands support pagination (--marker, --limit)\n* CLI supports vendor-passthru method\n* add \"driver-properties\" command to expose what \"driver_info\" attributes\n  each driver expects\n* client support for the get and set boot device calls on the new management\n  interface\n"
+  }
+}

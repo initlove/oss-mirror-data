@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDM5MzY5NjoyMmI1MjEyNzNiZDVkM2NiMDIwYjEzYjJjZDRhMmZkYWZiMzkxNTMx",
+  "sha": "22b521273bd5d3cb020b13b2cd4a2fdafb391531",
+  "url": "https://api.github.com/repos/openstack/python-swiftclient/git/tags/22b521273bd5d3cb020b13b2cd4a2fdafb391531",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-13T21:34:39Z"
+  },
+  "object": {
+    "sha": "72b90fed4c62cf75497a7d66714f5fb0aa91f18b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-swiftclient/git/commits/72b90fed4c62cf75497a7d66714f5fb0aa91f18b"
+  },
+  "tag": "3.8.1",
+  "message": "python-swiftclient 3.8.1 release\n\nmeta:version: 3.8.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Tim Burke <tim.burke@gmail.com>\nmeta:release:Change-Id: I7473e44da4217d6646c343485db0c4ac0a762db5\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl18C28ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2IgEC/9e7C4whTnyYH0ZO3PaewZ3\nDWGTEQAdjJmxFhN5FQJ7/u5M28lssWmrPzjdX67n8kpe4WsVOEINHfcZ3y13mQsc\ni4r4CCJF/3tJ3T9MoXhufhOH7Dh2GeQkkqP3H335/oEwHQ/MzCdnWtWD6XwtKXGP\nabX07PtYRLBFTkpPp6WsERQTC6RIYO++N4lQFsc7iCPj9BJEEhO4lemqhuc1Za6x\niW1tOG8haYwLeJoCUSZ1yoYJdLsxlGceve86gh+L4FiQ6xOF38882hEGeoXDoK6a\nTmt7RaOF4E9davkm5mSMcBrPIiFrCi0G9nsnZsyO3b237YvFLvlxDD7TNYeBNDvP\nL8htfp8RH9u1HqD42IIiTH2XaTadzNtUcPmfaoSk1jtCIGSktziMTNq8/65te5Dt\nAb0E3a4HitpNyM2kfC2UWw/ewNLAo+Vgcssrd9+oFdU2OaFpd6PXdo/P8rIEJqZC\nCYD3FA5lToEWwDKCG1FvfpKsRdQ2T9XkXZvRk/dIUkc=\n=fqpv\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl18C28ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2IgEC/9e7C4whTnyYH0ZO3PaewZ3\nDWGTEQAdjJmxFhN5FQJ7/u5M28lssWmrPzjdX67n8kpe4WsVOEINHfcZ3y13mQsc\ni4r4CCJF/3tJ3T9MoXhufhOH7Dh2GeQkkqP3H335/oEwHQ/MzCdnWtWD6XwtKXGP\nabX07PtYRLBFTkpPp6WsERQTC6RIYO++N4lQFsc7iCPj9BJEEhO4lemqhuc1Za6x\niW1tOG8haYwLeJoCUSZ1yoYJdLsxlGceve86gh+L4FiQ6xOF38882hEGeoXDoK6a\nTmt7RaOF4E9davkm5mSMcBrPIiFrCi0G9nsnZsyO3b237YvFLvlxDD7TNYeBNDvP\nL8htfp8RH9u1HqD42IIiTH2XaTadzNtUcPmfaoSk1jtCIGSktziMTNq8/65te5Dt\nAb0E3a4HitpNyM2kfC2UWw/ewNLAo+Vgcssrd9+oFdU2OaFpd6PXdo/P8rIEJqZC\nCYD3FA5lToEWwDKCG1FvfpKsRdQ2T9XkXZvRk/dIUkc=\n=fqpv\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 72b90fed4c62cf75497a7d66714f5fb0aa91f18b\ntype commit\ntag 3.8.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1568410479 +0000\n\npython-swiftclient 3.8.1 release\n\nmeta:version: 3.8.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Tim Burke <tim.burke@gmail.com>\nmeta:release:Change-Id: I7473e44da4217d6646c343485db0c4ac0a762db5\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

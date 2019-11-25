@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQxMzIxOTI6M2Q2YTJmNjFiZThkNjRlY2NiODJiMGNiNzVmNDIyY2VmNzA0ZTk0YQ==",
+  "sha": "3d6a2f61be8d64eccb82b0cb75f422cef704e94a",
+  "url": "https://api.github.com/repos/pkg/sftp/git/tags/3d6a2f61be8d64eccb82b0cb75f422cef704e94a",
+  "tagger": {
+    "name": "John Eikenberry",
+    "email": "jae@zhar.net",
+    "date": "2018-03-15T20:55:17Z"
+  },
+  "object": {
+    "sha": "49488377fa2f14143ba3067cf7555f60f6c7b550",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pkg/sftp/git/commits/49488377fa2f14143ba3067cf7555f60f6c7b550"
+  },
+  "tag": "1.5.0",
+  "message": "bugfix and small feature release\n\nFixes #234: fix client deadlock on server death during writes\n\nFeature: Added ability to set MaxPacket size for the clients to values\noutside those accepted by Openssh's SFTP server. To support servers with\ndiffering capacities.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlqq3msACgkQPZqeWROp\nRaJZlwgAkOtksGikpUH0oxHfWiAqSpaMVkXDaRNS3Bu06r/cQ3/xWb5wdxKtcE75\n+Kp2iyr2vo8CuRm5wcSj/jv23DfJ4DnupfTr89GhTwdr7eIIzESIztJeAD/iNa3/\n2BCqwuu4mJ2ZMdm0z4Nng9AqXa0bCwkCNUIce1Pdg7M9BVyvHADsPnuaN1ewdOev\n9nMFpCm1dlIDzY5w15tB3ram4mQhN7tWVEuufIrNRCU37tWko7M7M14Z1eFfsuaB\nzmzTWD/YjHD4INiR5rPemCrtRsCM0uGur25wV9FSSYNLUPRYG7mp/nDhurCZPhdr\nRrhXt33ZIJl7HrZL+CEnxIPO4aJD5g==\n=PGOA\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlqq3msACgkQPZqeWROp\nRaJZlwgAkOtksGikpUH0oxHfWiAqSpaMVkXDaRNS3Bu06r/cQ3/xWb5wdxKtcE75\n+Kp2iyr2vo8CuRm5wcSj/jv23DfJ4DnupfTr89GhTwdr7eIIzESIztJeAD/iNa3/\n2BCqwuu4mJ2ZMdm0z4Nng9AqXa0bCwkCNUIce1Pdg7M9BVyvHADsPnuaN1ewdOev\n9nMFpCm1dlIDzY5w15tB3ram4mQhN7tWVEuufIrNRCU37tWko7M7M14Z1eFfsuaB\nzmzTWD/YjHD4INiR5rPemCrtRsCM0uGur25wV9FSSYNLUPRYG7mp/nDhurCZPhdr\nRrhXt33ZIJl7HrZL+CEnxIPO4aJD5g==\n=PGOA\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 49488377fa2f14143ba3067cf7555f60f6c7b550\ntype commit\ntag 1.5.0\ntagger John Eikenberry <jae@zhar.net> 1521147317 -0700\n\nbugfix and small feature release\n\nFixes #234: fix client deadlock on server death during writes\n\nFeature: Added ability to set MaxPacket size for the clients to values\noutside those accepted by Openssh's SFTP server. To support servers with\ndiffering capacities.\n"
+  }
+}

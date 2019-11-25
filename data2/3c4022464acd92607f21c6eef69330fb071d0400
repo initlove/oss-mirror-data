@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTozYzQwMjI0NjRhY2Q5MjYwN2YyMWM2ZWVmNjkzMzBmYjA3MWQwNDAw",
+  "sha": "3c4022464acd92607f21c6eef69330fb071d0400",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/3c4022464acd92607f21c6eef69330fb071d0400",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-01-29T17:43:38Z"
+  },
+  "object": {
+    "sha": "336a1825309744f920230ec3e427e78571772347",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/336a1825309744f920230ec3e427e78571772347"
+  },
+  "tag": "v0.11.19",
+  "message": "2014.01.30, Version 0.11.19 (Unstable)\n\nChanges since version 0.11.18:\n\n* linux: move sscanf() out of the assert() (Trevor Norris)\n\n* linux: fix C99/C++ comment (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlLpPcoACgkQfTP/nQJGQG2sAACgqc4nItCnE1idyiPIia1tGPPk\nfGEAnRmyYLXNcFSXQgPYgQQfJnCJASui\n=jj1Y\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlLpPcoACgkQfTP/nQJGQG2sAACgqc4nItCnE1idyiPIia1tGPPk\nfGEAnRmyYLXNcFSXQgPYgQQfJnCJASui\n=jj1Y\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 336a1825309744f920230ec3e427e78571772347\ntype commit\ntag v0.11.19\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1391017418 -0800\n\n2014.01.30, Version 0.11.19 (Unstable)\n\nChanges since version 0.11.18:\n\n* linux: move sscanf() out of the assert() (Trevor Norris)\n\n* linux: fix C99/C++ comment (Fedor Indutny)\n"
+  }
+}

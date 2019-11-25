@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTM4NjgxOjQ1NzRkYjVjY2ZmMjI1NWRhMWY1NzQ1ODIwZTYzNzhmMzMxM2NjYTY=",
+  "sha": "4574db5ccff2255da1f5745820e6378f3313cca6",
+  "url": "https://api.github.com/repos/hierynomus/sshj/git/tags/4574db5ccff2255da1f5745820e6378f3313cca6",
+  "tagger": {
+    "name": "Jeroen van Erp",
+    "email": "jeroen@hierynomus.com",
+    "date": "2017-08-24T07:13:53Z"
+  },
+  "object": {
+    "sha": "eb1629f250adb749dd72656c05838c3ce668bfd0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/hierynomus/sshj/git/commits/eb1629f250adb749dd72656c05838c3ce668bfd0"
+  },
+  "tag": "v0.22.0",
+  "message": "Release of 0.22.0\n\n- Updated README release notes\n- Fixed codacy\n- Check whether filename is a child of the current file (Fixes #341)\n- Removed Builder, and fixed call to checkFormatString\n- Added assertions to testPromptFormat\n- Upgraded Mockito, and added message and retries to ConsolePasswordFinder\n- Add ConsolePasswordFinder to read from Console\n- - boggle\n- - Test ECDSA signature verifications\n- - Test ECDSA fingerprints\n- - Incorrect key format during write\n- - license header\n- - Some more indentation fixes\n- - Some more indentation fixes\n- - Ident in spaces\n- - cleanup\n- - Formal generation of ASN.1 encoding for the ecdsa signature - Support ecdsa-sha2-nistp521\n- - Pretty honed up implementation of -384\n- - A separate enum members take with lots of code duplication\n- Upgrade to gradle 4.0\n- Remove deprecated ZLib usage\n- Minor reformatting\n- Fixed small exception logging problem\n- Added support for wildcard host entries in known_hosts (Fixes #331)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

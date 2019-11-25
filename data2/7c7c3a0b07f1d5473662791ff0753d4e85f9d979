@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6N2M3YzNhMGIwN2YxZDU0NzM2NjI3OTFmZjA3NTNkNGU4NWY5ZDk3OQ==",
+  "sha": "7c7c3a0b07f1d5473662791ff0753d4e85f9d979",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/7c7c3a0b07f1d5473662791ff0753d4e85f9d979",
+  "tagger": {
+    "name": "quinnjn",
+    "email": "quinn@neumiiller.com",
+    "date": "2019-02-02T21:19:42Z"
+  },
+  "object": {
+    "sha": "51f3baccb342b02717a33febd0fe22ad678d8ef9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/51f3baccb342b02717a33febd0fe22ad678d8ef9"
+  },
+  "tag": "3.0.0",
+  "message": "3.0.0\n\n* Bump minSdkVersion to 21\n* Convert to AndroidX\n* BraintreeFragment moves to the support fragment\n  * Requires AppCompatActivity to attach the BraintreeFragment to\n* Removed Visa Checkout 1.0.0 as a dependency\n  * Add Visa Checkout's dependency to your app to get the latest version\n* Removed deprecated ThreeDSecureWebView flow\n* Removed deprecated Venmo#isVenmoWhitelisted(ContentResolver)\n* Removed deprecated method from PostalAddress\n* Removed deprecated country setters\n* Removed deprecated methods from DataCollector\n* Removed deprecated PayPalOneTouchActivity\n* Removed deprecated Ideal\n* Rename AndroidPay classes to GooglePayment\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzE4MTYwNjo3YTAyMzM1ZDE3YjljYTgyMDM1MTlmYzMwM2U1OTkyMDIyOWFlNTY4",
+  "sha": "7a02335d17b9ca8203519fc303e59920229ae568",
+  "url": "https://api.github.com/repos/soabase/exhibitor/git/tags/7a02335d17b9ca8203519fc303e59920229ae568",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-03-05T01:19:38Z"
+  },
+  "object": {
+    "sha": "b14748aae88bbc5831e6262aad33ee869b442936",
+    "type": "commit",
+    "url": "https://api.github.com/repos/soabase/exhibitor/git/commits/b14748aae88bbc5831e6262aad33ee869b442936"
+  },
+  "tag": "v1.5.5",
+  "message": "Release of 1.5.5\n\n- b14748aae88bbc5831e6262aad33ee869b442936: Merge pull request #240 from Randgalt/master\n- 40a5c4b0c277d8cb4a11b332c91308b9a68bc888: Fixed redirect in non-ROOT WARs. Also, FINALLY!, fix root redirect for standalone version. i.e. http://localhost:8080 will now redirect to http://localhost:8080/exhibitor/v1/ui/index.html\n- 6d7880f25081817237fe6c04d5dfab695e8facb9: Update CHANGELOG.md\n- c005664a6db490fbd66bbf4b0340b5e2ab473e7f: Merge pull request #239 from johnrengelman/gradle-build\n- d75ccdab56105f42a5d7ef6ad3770312003672ff: Add Shadow plugin to create fatJar. Fix archiveBaseName.\n- 063512297a14f2c3d7cde5ab5fe441290d8ed050: Update pom.xml\n- a2107e3ed10b3412d57d235fd5dd9aeb9713e477: Update CHANGELOG.md\n- 6d6fee639ac72a0a17423453eaa267769150f16b: Merge pull request #233 from Randgalt/master\n- 8111083588d02b37e780647c217262da018f39d5: usState.getUs() might return null\n- ab87796db209cb83778efdc39736b8a37ed81ccb: Update CHANGELOG.md\n- bd2f8fee5f0427f909bfc6992e574597a283b120: Update build.gradle\n- 6f5c64cb70fce4b72ededc476dce85eebc8b5358: Update pom.xml\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

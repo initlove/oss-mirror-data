@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzQ3OTE4NDA6NWUzYTE5NmY1ODEyMWNjYTFhZDY4NzIwZTk0NWU4ZjE1NjU4MzFmNQ==",
+  "sha": "5e3a196f58121cca1ad68720e945e8f1565831f5",
+  "url": "https://api.github.com/repos/openstack/keystoneauth/git/tags/5e3a196f58121cca1ad68720e945e8f1565831f5",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-09T15:14:08Z"
+  },
+  "object": {
+    "sha": "8e59fb20b35d024dd7a01439dce0e90f92eba886",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystoneauth/git/commits/8e59fb20b35d024dd7a01439dce0e90f92eba886"
+  },
+  "tag": "3.16.0",
+  "message": "keystoneauth 3.16.0 release\n\nmeta:version: 3.16.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: I628159936211aaee956963e3fabf58351ca8fb9a\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+1: Morgan Fainberg <morgan.fainberg@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1NjcAZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2Bs8DADCkezsskVZKmrDamlUR2bD\nQC/HnuR4ccytv634IU+MkKUY4emgr9gO3cluC6uvaGNMyJS+cCPQmfLGaSiwuyM2\npCTjjwwlH5OAqOjpBFa2Xq82nYxDlNS89P7mk5NhoTCbcDEDhDZ66GSv87gLWOnE\nROH7Pqr8rJsPF9Ht2TpkMUsNWIc2G3XGRQj0qwEsvKStxLJHVxlT86UVm6m4rWoS\nkrXZ6+sgHIoLC8oaNPa0VIFrU761tePJmXnWisvA8z4lr5D2HKMqWIglhB5fpqcn\nRo9t6yvGy9MXL5ZbYgklaV+6Hi+Oye3hjsQOB7RzzyEQ1G/eMOvXH3f9WkTq7Uoa\nLRU7YWvCtD2tMfh/aaD5tkE1ZfIjQY3BqZA49xwyoorkPvuSvRg+NUZsFUlDwz2P\nvNTL4lXic3lLENZ9ene9LxMh+uA041Wag+Es03zfVSHo/m83KuS6rlIDw/3R0GGG\nEtIMksthTb//USoPuv58iMEnhROVLAnKcoitJO1Nzk8=\n=m/0g\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1NjcAZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2Bs8DADCkezsskVZKmrDamlUR2bD\nQC/HnuR4ccytv634IU+MkKUY4emgr9gO3cluC6uvaGNMyJS+cCPQmfLGaSiwuyM2\npCTjjwwlH5OAqOjpBFa2Xq82nYxDlNS89P7mk5NhoTCbcDEDhDZ66GSv87gLWOnE\nROH7Pqr8rJsPF9Ht2TpkMUsNWIc2G3XGRQj0qwEsvKStxLJHVxlT86UVm6m4rWoS\nkrXZ6+sgHIoLC8oaNPa0VIFrU761tePJmXnWisvA8z4lr5D2HKMqWIglhB5fpqcn\nRo9t6yvGy9MXL5ZbYgklaV+6Hi+Oye3hjsQOB7RzzyEQ1G/eMOvXH3f9WkTq7Uoa\nLRU7YWvCtD2tMfh/aaD5tkE1ZfIjQY3BqZA49xwyoorkPvuSvRg+NUZsFUlDwz2P\nvNTL4lXic3lLENZ9ene9LxMh+uA041Wag+Es03zfVSHo/m83KuS6rlIDw/3R0GGG\nEtIMksthTb//USoPuv58iMEnhROVLAnKcoitJO1Nzk8=\n=m/0g\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8e59fb20b35d024dd7a01439dce0e90f92eba886\ntype commit\ntag 3.16.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1565363648 +0000\n\nkeystoneauth 3.16.0 release\n\nmeta:version: 3.16.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: I628159936211aaee956963e3fabf58351ca8fb9a\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+1: Morgan Fainberg <morgan.fainberg@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

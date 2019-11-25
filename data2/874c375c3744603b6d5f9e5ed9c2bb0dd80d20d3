@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo4NzRjMzc1YzM3NDQ2MDNiNmQ1ZjllNWVkOWMyYmIwZGQ4MGQyMGQz",
+  "sha": "874c375c3744603b6d5f9e5ed9c2bb0dd80d20d3",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/874c375c3744603b6d5f9e5ed9c2bb0dd80d20d3",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-06-04T19:00:29Z"
+  },
+  "object": {
+    "sha": "0d95a88bd35fce93863c57a460be613aea34d2c5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/0d95a88bd35fce93863c57a460be613aea34d2c5"
+  },
+  "tag": "v0.10.10",
+  "message": "2013.06.05, Version 0.10.10 (Stable)\n\nChanges since version 0.10.9:\n\n* include: document uv_update_time() and uv_now() (Ben Noordhuis)\n\n* linux: fix cpu model parsing on newer arm kernels (Ben Noordhuis)\n\n* linux: fix memory leak in uv_cpu_info() error path (Ben Noordhuis)\n\n* linux: don't ignore OOM errors in uv_cpu_info() (Ben Noordhuis)\n\n* unix, windows: move uv_now() to uv-common.c (Ben Noordhuis)\n\n* darwin: make uv_fs_sendfile() respect length param (Wynn Wilkes)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRrjlNAAoJELCniwpsSBz2QQIIAI9/fTrzKtpJs4Du1Z++MN06\nVewn/vCTmzUEJvIc/43nPSHB2em+NOd/OL693CQ8PNtGiIXXe48W8H8PIZ/9DJlA\nbIdw80Qlm4kJbbb3JdsvaaM4InBhVicWp0op/jPVAh/oCvVygWDA8YC0pTuZiwm8\nNnjv3oP1YITAotWBu2PU6lq54y5cuRx53/yZcw2PC4+EFyjI5DipQWyOFdNJYzA6\n7I2H1ZYINoo6MhTMQIqdy76FkOumi9blI8fpWhQNucnUwTFDeqIdraHDsZcD9IpB\nSzzk4/ot6GEF4e7scwLZXdsZ9L1R0u8DMG0qEaDR1wrl9vltzItlJspl80ibvps=\n=dlap\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRrjlNAAoJELCniwpsSBz2QQIIAI9/fTrzKtpJs4Du1Z++MN06\nVewn/vCTmzUEJvIc/43nPSHB2em+NOd/OL693CQ8PNtGiIXXe48W8H8PIZ/9DJlA\nbIdw80Qlm4kJbbb3JdsvaaM4InBhVicWp0op/jPVAh/oCvVygWDA8YC0pTuZiwm8\nNnjv3oP1YITAotWBu2PU6lq54y5cuRx53/yZcw2PC4+EFyjI5DipQWyOFdNJYzA6\n7I2H1ZYINoo6MhTMQIqdy76FkOumi9blI8fpWhQNucnUwTFDeqIdraHDsZcD9IpB\nSzzk4/ot6GEF4e7scwLZXdsZ9L1R0u8DMG0qEaDR1wrl9vltzItlJspl80ibvps=\n=dlap\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0d95a88bd35fce93863c57a460be613aea34d2c5\ntype commit\ntag v0.10.10\ntagger isaacs <i@izs.me> 1370372429 -0700\n\n2013.06.05, Version 0.10.10 (Stable)\n\nChanges since version 0.10.9:\n\n* include: document uv_update_time() and uv_now() (Ben Noordhuis)\n\n* linux: fix cpu model parsing on newer arm kernels (Ben Noordhuis)\n\n* linux: fix memory leak in uv_cpu_info() error path (Ben Noordhuis)\n\n* linux: don't ignore OOM errors in uv_cpu_info() (Ben Noordhuis)\n\n* unix, windows: move uv_now() to uv-common.c (Ben Noordhuis)\n\n* darwin: make uv_fs_sendfile() respect length param (Wynn Wilkes)\n"
+  }
+}

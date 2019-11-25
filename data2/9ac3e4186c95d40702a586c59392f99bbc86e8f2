@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTo5YWMzZTQxODZjOTVkNDA3MDJhNTg2YzU5MzkyZjk5YmJjODZlOGYy",
+  "sha": "9ac3e4186c95d40702a586c59392f99bbc86e8f2",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/9ac3e4186c95d40702a586c59392f99bbc86e8f2",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-07-27T21:04:54Z"
+  },
+  "object": {
+    "sha": "459a00620dec351099527d18db7242bd5cfe6d42",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/459a00620dec351099527d18db7242bd5cfe6d42"
+  },
+  "tag": "v1.2.0-rc.1",
+  "message": "Release of 1.2.0-rc.1\n\n- 459a00620dec351099527d18db7242bd5cfe6d42: Merge pull request #596 from qiangdavidliu/master\n- 83946b8c87faa30a89d00fff3cdbd88ce584ae55: Standardizing DiscoveryClient's optional configs\n- 16cfc1b9750c9b515ff4c26d237adc6d6137d569: Merge pull request #595 from qiangdavidliu/master\n- 05d7ba5d2ff24517ed5b6a3834134e61879abc62: storeOverrides should not check for remote region\n- e43eb656bb8d5d0f72b73d0f219fe5410533324b: Merge remote-tracking branch 'upstream/master'\n- 7c536123f8c5ae2094e64098e6e6f41576bf5b17: - Remove an expesive call to get instanceStatus override from the critical path (replaced with a less expesive, functionally equivalent version). - Adding a debug resource to view current server's list of overrides - some general formatting clean up\n- f284e3e01fbbc025ccdecae89ba8e0dd2c2248b0: Updating more dependencies\n- ff6f0113bd7ca9cb76778ff3769528d36972a7ec: Merge pull request #594 from qiangdavidliu/master\n- 037415c51df1901a78f5a5934c0f0fabf0bfa33d: Updating dependencies to jersey 1.19 and governator 1.7.5. Changing eureka-client dependencies to just guice 4 and governator-annotations.\n- e10cedcc1153dd7acfa994a8ddfbdd66cc3e455b: Merge pull request #592 from xbaran/master\n- 81ae05c84f70d8b2a82768959b204870815f4c28: Binding exception due EurekaInstanceConfig was already configured in EurekaModule\n- bdbd4984d62efda9ef38d39034b814103c3b08d0: Merge pull request #588 from willtran-/master\n- 8d7925123637e3ac4e28d24f9563e5cfcfef10ba: Add the ability to use additional Jersey ClientFilters in the DiscoveryClient\n- 4048871c72fd10ac7accb0b9547933a01add1374: Merge pull request #555 from spencergibb/di-refactor\n- a1c264d04920f7bb1dcbea625017bd6efe80c0c7: add author tag\n- dca6bd4902459e0160b925c022a2c779aa9b7120: simplified DiscoveryClientOptionalArgs made VERSION private\n- 9dd32d8e154aa875802397c8818bc7899340b972: Refactor so other DI Systems can extend eureka. Make EurekaJacksonCodec more inline with Converters with public static classes to extend. Make EurekaJacksonCodec.INSTANCE mutable. Add get/set to DiscoveryClientOptionalArgs.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

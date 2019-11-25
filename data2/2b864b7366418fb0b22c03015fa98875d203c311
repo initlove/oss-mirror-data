@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMToyYjg2NGI3MzY2NDE4ZmIwYjIyYzAzMDE1ZmE5ODg3NWQyMDNjMzEx",
+  "sha": "2b864b7366418fb0b22c03015fa98875d203c311",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/2b864b7366418fb0b22c03015fa98875d203c311",
+  "tagger": {
+    "name": "Bert Belder",
+    "email": "bertbelder@gmail.com",
+    "date": "2013-08-29T13:30:53Z"
+  },
+  "object": {
+    "sha": "ba876d53539ed0427c52039012419cd9374c6f0d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/ba876d53539ed0427c52039012419cd9374c6f0d"
+  },
+  "tag": "v0.11.11",
+  "message": "2013.08.30, Version 0.11.11 (Unstable)\n\nChanges since version 0.11.10:\n\n* unix, windows: add thread-local storage API (Ben Noordhuis)\n\n* linux: don't turn on SO_REUSEPORT socket option (Ben Noordhuis)\n\n* darwin: fix 10.6 build error in fsevents.c (Ben Noordhuis)\n\n* windows: make uv_shutdown() for write-only pipes work (Bert Belder)\n\n* include: update uv_udp_open() / uv_udp_bind() docs (Ben Noordhuis)\n\n* unix: req queue must be empty when destroying loop (Ben Noordhuis)\n\n* unix: move loop functions from core.c to loop.c (Ben Noordhuis)\n\n* darwin: remove CoreFoundation dependency (Ben Noordhuis)\n\n* windows: make autotools build system work with mingw (Keno Fischer)\n\n* windows: fix mingw build (Alex Crichton)\n\n* windows: tweak Makefile.mingw for easier usage (Alex Crichton)\n\n* build: remove _GNU_SOURCE macro definition (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUh9NDXp3iHsuLtRhAQKnwAgAk23yX65Be/627BxHf9EEmzfSOWMdRg5k\nMiGkIyjK4G5WtN7G+5JFsztnkhZ6hHyB0e0tMRoBiW8sfO/Wf0w+jxX+V8PANFJn\nfeJpUXiErA9DM09dFvlqMwqD9279f2cOjmAwBnZ1+PO1d21RhUldSb9uK9TBpTWW\nTpSRd2K+5SjzCIKTbkroaDhq9lmfk2dHNPZogj3qm54B9wReH86U1+9q6WE7vY+S\n8eB4KEoPXK1DmBwELNoDit9AZFdupR27Ioz6zlQHKPAi581XjTqj/MU5hGBYjPwY\nv/nG5hIfj/qvJhJj3LgOh0hgtXNWyk7ncxyO5stkV52en7uedykknQ==\n=fG9a\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUh9NDXp3iHsuLtRhAQKnwAgAk23yX65Be/627BxHf9EEmzfSOWMdRg5k\nMiGkIyjK4G5WtN7G+5JFsztnkhZ6hHyB0e0tMRoBiW8sfO/Wf0w+jxX+V8PANFJn\nfeJpUXiErA9DM09dFvlqMwqD9279f2cOjmAwBnZ1+PO1d21RhUldSb9uK9TBpTWW\nTpSRd2K+5SjzCIKTbkroaDhq9lmfk2dHNPZogj3qm54B9wReH86U1+9q6WE7vY+S\n8eB4KEoPXK1DmBwELNoDit9AZFdupR27Ioz6zlQHKPAi581XjTqj/MU5hGBYjPwY\nv/nG5hIfj/qvJhJj3LgOh0hgtXNWyk7ncxyO5stkV52en7uedykknQ==\n=fG9a\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ba876d53539ed0427c52039012419cd9374c6f0d\ntype commit\ntag v0.11.11\ntagger Bert Belder <bertbelder@gmail.com> 1377783053 +0200\n\n2013.08.30, Version 0.11.11 (Unstable)\n\nChanges since version 0.11.10:\n\n* unix, windows: add thread-local storage API (Ben Noordhuis)\n\n* linux: don't turn on SO_REUSEPORT socket option (Ben Noordhuis)\n\n* darwin: fix 10.6 build error in fsevents.c (Ben Noordhuis)\n\n* windows: make uv_shutdown() for write-only pipes work (Bert Belder)\n\n* include: update uv_udp_open() / uv_udp_bind() docs (Ben Noordhuis)\n\n* unix: req queue must be empty when destroying loop (Ben Noordhuis)\n\n* unix: move loop functions from core.c to loop.c (Ben Noordhuis)\n\n* darwin: remove CoreFoundation dependency (Ben Noordhuis)\n\n* windows: make autotools build system work with mingw (Keno Fischer)\n\n* windows: fix mingw build (Alex Crichton)\n\n* windows: tweak Makefile.mingw for easier usage (Alex Crichton)\n\n* build: remove _GNU_SOURCE macro definition (Ben Noordhuis)\n"
+  }
+}

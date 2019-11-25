@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQxMzIxOTI6NjVjZDUwZGE2NDljNDA0ZjQ4MWRiYWYzN2JlNzJjMTQxMGM5NTVlOQ==",
+  "sha": "65cd50da649c404f481dbaf37be72c1410c955e9",
+  "url": "https://api.github.com/repos/pkg/sftp/git/tags/65cd50da649c404f481dbaf37be72c1410c955e9",
+  "tagger": {
+    "name": "John Eikenberry",
+    "email": "jae@zhar.net",
+    "date": "2018-06-11T01:26:01Z"
+  },
+  "object": {
+    "sha": "57673e38ea946592a59c26592b7e6fbda646975b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pkg/sftp/git/commits/57673e38ea946592a59c26592b7e6fbda646975b"
+  },
+  "tag": "1.8.0",
+  "message": "Bugfixes, docs and concurrent request option\n\n- Fixes\n     This created an unwanted C-go dependency.\n     Plan to replace it with an callback/option.\nMake sure to cancel context on requests with reader/writers that support\nio.Closer.\n\n- New features\nStarted improving documentation of Request based server.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlsd0fEACgkQPZqeWROp\nRaKgJAf/dtj0/KkTLAKbeCKRpK0WJDqp3+4KuyQFDwgqUXGALG472DGeVeGsooWT\nGb8gco8PsBSvxfgs5jraGSdVjvC8WQB+VvnJTO5ZeSbmVpHz8kj52kv0+vgqeoDz\n6+JhC4qcKYJjmUk8AGsBgKei1PnKRDpzN1GEAnI0ZqpmrwhPhM8s3qoiKZeK8vCS\njd9qM/E3n6LA9rQXL1W8UGEKzGmry36C7H0OFoy8gYidFINN2efL0zdQJcoS2tOC\njXLkZuCXGq5IPO0bBucilMx8fxeH7elC9ACqdNu4hbY0SFSgoz5WHn8FHXqo6Ckx\ngDTAeAUq1SKexFrft1jW+aYrniAUYg==\n=N1na\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlsd0fEACgkQPZqeWROp\nRaKgJAf/dtj0/KkTLAKbeCKRpK0WJDqp3+4KuyQFDwgqUXGALG472DGeVeGsooWT\nGb8gco8PsBSvxfgs5jraGSdVjvC8WQB+VvnJTO5ZeSbmVpHz8kj52kv0+vgqeoDz\n6+JhC4qcKYJjmUk8AGsBgKei1PnKRDpzN1GEAnI0ZqpmrwhPhM8s3qoiKZeK8vCS\njd9qM/E3n6LA9rQXL1W8UGEKzGmry36C7H0OFoy8gYidFINN2efL0zdQJcoS2tOC\njXLkZuCXGq5IPO0bBucilMx8fxeH7elC9ACqdNu4hbY0SFSgoz5WHn8FHXqo6Ckx\ngDTAeAUq1SKexFrft1jW+aYrniAUYg==\n=N1na\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 57673e38ea946592a59c26592b7e6fbda646975b\ntype commit\ntag 1.8.0\ntagger John Eikenberry <jae@zhar.net> 1528680361 -0700\n\nBugfixes, docs and concurrent request option\n\n- Fixes\n     This created an unwanted C-go dependency.\n     Plan to replace it with an callback/option.\nMake sure to cancel context on requests with reader/writers that support\nio.Closer.\n\n- New features\nStarted improving documentation of Request based server.\n"
+  }
+}

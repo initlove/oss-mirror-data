@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6MGFlNGY3NzVmMTBjZTUzZmQ5ZjliNDAyMjRkODNmMjk2OTI2MjU4Yw==",
+  "sha": "0ae4f775f10ce53fd9f9b40224d83f296926258c",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/0ae4f775f10ce53fd9f9b40224d83f296926258c",
+  "tagger": {
+    "name": "jackellenberger",
+    "email": "jellenberger@uchicago.edu",
+    "date": "2018-12-17T21:27:39Z"
+  },
+  "object": {
+    "sha": "98b119f485acbbbd02247d5fe4165fa905862aab",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/98b119f485acbbbd02247d5fe4165fa905862aab"
+  },
+  "tag": "2.20.0",
+  "message": "2.20.0\n\n* Google Pay\n  * Add groundwork for v2 compatibility\n* Split PostalAddress into PostalAddress and PostalAddressParser\n  * Deprecates PostalAddress.fromJson - use PostalAddressParser.fromJson\n  * Add fromUserAddressJsonn to PostalAddressParser\n  * Add additional fields\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

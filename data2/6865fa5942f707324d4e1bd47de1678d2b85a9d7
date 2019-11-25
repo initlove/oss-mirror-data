@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAyNzAyNTA6Njg2NWZhNTk0MmY3MDczMjRkNGUxYmQ0N2RlMTY3OGQyYjg1YTlkNw==",
+  "sha": "6865fa5942f707324d4e1bd47de1678d2b85a9d7",
+  "url": "https://api.github.com/repos/facebook/react/git/tags/6865fa5942f707324d4e1bd47de1678d2b85a9d7",
+  "tagger": {
+    "name": "Nathan Hunzaker",
+    "email": "nate.hunzaker@gmail.com",
+    "date": "2017-09-26T00:06:00Z"
+  },
+  "object": {
+    "sha": "ffbc2db0e7860ee1a96511578235dec7eaccc8d3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/facebook/react/git/commits/ffbc2db0e7860ee1a96511578235dec7eaccc8d3"
+  },
+  "tag": "v15.6.2",
+  "message": "15.6.2\n\nAll Packages\n\n* Switch from BSD + Patents to MIT license\n\nReact DOM\n\n* Fix a bug where modifying `document.documentMode` would trigger IE detection in other browsers, breaking change events. ([@aweary](https://github.com/aweary) in [#10032](https://github.com/facebook/react/pull/10032))\n* CSS Columns are treated as unitless numbers. ([@aweary](https://github.com/aweary) in [#10115](https://github.com/facebook/react/pull/10115))\n* Fix bug in QtWebKit when wrapping synthetic events in proxies. ([@walrusfruitcake](https://github.com/walrusfruitcake) in [#10115](https://github.com/facebook/react/pull/10011))\n* Prevent event handlers from receiving extra argument in development. ([@aweary](https://github.com/aweary) in [#10115](https://github.com/facebook/react/pull/8363))\n* Fix cases where `onChange` would not fire with `defaultChecked` on radio inputs. ([@jquense](https://github.com/jquense) in [#10156](https://github.com/facebook/react/pull/10156))\n* Add support for `controlList` attribute to DOM property whitelist ([@nhunzaker](https://github.com/nhunzaker) in [#9940](https://github.com/facebook/react/pull/9940))\n* Fix a bug where creating an element with a ref in a constructor did not throw an error in development. ([@iansu](https://github.com/iansu) in [#10025](https://github.com/facebook/react/pull/10025))\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

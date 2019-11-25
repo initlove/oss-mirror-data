@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDQ6Nzk4YTdjMmQ4NTgxZWM0N2FiYjU4NGE3YTg2NjY2NmJmYjljNzQzOQ==",
+  "sha": "798a7c2d8581ec47abb584a7a866666bfb9c7439",
+  "url": "https://api.github.com/repos/openstack/python-ironicclient/git/tags/798a7c2d8581ec47abb584a7a866666bfb9c7439",
+  "tagger": {
+    "name": "Devananda van der Veen",
+    "email": "devananda.vdv@gmail.com",
+    "date": "2015-02-05T15:38:30Z"
+  },
+  "object": {
+    "sha": "a2750bd74f3d7860f83356a2f76986722733788e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironicclient/git/commits/a2750bd74f3d7860f83356a2f76986722733788e"
+  },
+  "tag": "0.4.0",
+  "message": "Release 0.4.0\n\nContains the following new features:\n- node-set-provision-state accepts a --config-drive option\n  which may be a file or a string, when setting the state to \"active\"\n- node-show includes the new read-only driver_internal_info attribute\n\nContains the following fixes:\n- node-set-maintenance-mode accepts true/false, instead of on/off,\n  which was inconsistent with the REST API and python library\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlTTjn8ACgkQhFvuBniJg6d7NgCaA2bjgIOIG7QJ2fVliZLmSMR2\nZh0AnR9GPob6PWuFyFb+zHJASp8hGZPo\n=88XF\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlTTjn8ACgkQhFvuBniJg6d7NgCaA2bjgIOIG7QJ2fVliZLmSMR2\nZh0AnR9GPob6PWuFyFb+zHJASp8hGZPo\n=88XF\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a2750bd74f3d7860f83356a2f76986722733788e\ntype commit\ntag 0.4.0\ntagger Devananda van der Veen <devananda.vdv@gmail.com> 1423150710 -0800\n\nRelease 0.4.0\n\nContains the following new features:\n- node-set-provision-state accepts a --config-drive option\n  which may be a file or a string, when setting the state to \"active\"\n- node-show includes the new read-only driver_internal_info attribute\n\nContains the following fixes:\n- node-set-maintenance-mode accepts true/false, instead of on/off,\n  which was inconsistent with the REST API and python library\n"
+  }
+}

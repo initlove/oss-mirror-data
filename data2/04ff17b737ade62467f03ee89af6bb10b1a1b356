@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjowNGZmMTdiNzM3YWRlNjI0NjdmMDNlZTg5YWY2YmIxMGIxYTFiMzU2",
+  "sha": "04ff17b737ade62467f03ee89af6bb10b1a1b356",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/04ff17b737ade62467f03ee89af6bb10b1a1b356",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:28:31Z"
+  },
+  "object": {
+    "sha": "32b529d8d23560fcc70f93cf3693a7e9a8ccedb2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/32b529d8d23560fcc70f93cf3693a7e9a8ccedb2"
+  },
+  "tag": "0.1.11",
+  "message": "v0.1.11\n- Deterministic output! Packages in output repodata are now sorted\nby ASCII value\n- Support for Koji mergerepos behaviour in mergerepo_c\n(new --koji, --groupfile and --blocked params)\n- Better atomicity while finall move .repodata/ -> repodata/\n- Repomd module supports pkgorigins record\n- Some new functions in misc module\n- Small changes in library interface\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

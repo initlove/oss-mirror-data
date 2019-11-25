@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNDo2MjZmYzUyNGMwZWFhNzhhNjJjOWI0MjMwMzRiMTdjYzg1NmRmNzM1",
+  "sha": "626fc524c0eaa78a62c9b423034b17cc856df735",
+  "url": "https://api.github.com/repos/openstack/heat/git/tags/626fc524c0eaa78a62c9b423034b17cc856df735",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-04-04T18:55:12Z"
+  },
+  "object": {
+    "sha": "8fa8cc35b140327d402af91fd4605d826e3c5cae",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/heat/git/commits/8fa8cc35b140327d402af91fd4605d826e3c5cae"
+  },
+  "tag": "12.0.0.0rc2",
+  "message": "heat 12.0.0.0rc2 release candidate\n\nmeta:version: 12.0.0.0rc2\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Iea849f571535f1c829d14a6280e128efbf0b3c7f\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlymUxAZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOFKqC/9UYI2CbbKZk7rI4TOfU0MX\nJBi+0e4tC9wPqBLrg5hhA4fPUOShjnMeJSTzdGxk1f8aSztyVjQz/IAU3bwlx1nx\n6XdTdbiYbQob3FlWQ9eRsJbHtXpDWAbt0oj1Mc0gGEVEMMoNnmeQmnn+SarYVVLN\nxfdt05GkU7axEXyU/tEsZ+iK2WBYjFaW5UgrylYkNXla0KjvbrpC3wsA00GUdnRK\nrwSq67ViRx12UnLDw0Go4/95mksPaJmRldVJ8XSwZo9BWNu95R50NdHbnDd3rWHb\naiej0IbXxtiafPgWXEHHHjt2mUwjWNf91FPYdO1J3B7FeykbwD/8npkbXeMIOFn3\n3Db2VnAxSm2TtPvwZ4rZT9bkVT2z2y4cITJKsI4wwAJQvOv2QRv4o5MYXGOF0EWX\nW2Olx3cA0Mm2wcXzmzhFofzB8o/WgNzQvS6HzLsIMcf7r3bSzrkij2YpZ1gJtMLx\n6wWSALnBE2ZHcHhSZxdVYbetJdCzRwthn3tLDbU/FA4=\n=Yy1Z\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlymUxAZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOFKqC/9UYI2CbbKZk7rI4TOfU0MX\nJBi+0e4tC9wPqBLrg5hhA4fPUOShjnMeJSTzdGxk1f8aSztyVjQz/IAU3bwlx1nx\n6XdTdbiYbQob3FlWQ9eRsJbHtXpDWAbt0oj1Mc0gGEVEMMoNnmeQmnn+SarYVVLN\nxfdt05GkU7axEXyU/tEsZ+iK2WBYjFaW5UgrylYkNXla0KjvbrpC3wsA00GUdnRK\nrwSq67ViRx12UnLDw0Go4/95mksPaJmRldVJ8XSwZo9BWNu95R50NdHbnDd3rWHb\naiej0IbXxtiafPgWXEHHHjt2mUwjWNf91FPYdO1J3B7FeykbwD/8npkbXeMIOFn3\n3Db2VnAxSm2TtPvwZ4rZT9bkVT2z2y4cITJKsI4wwAJQvOv2QRv4o5MYXGOF0EWX\nW2Olx3cA0Mm2wcXzmzhFofzB8o/WgNzQvS6HzLsIMcf7r3bSzrkij2YpZ1gJtMLx\n6wWSALnBE2ZHcHhSZxdVYbetJdCzRwthn3tLDbU/FA4=\n=Yy1Z\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8fa8cc35b140327d402af91fd4605d826e3c5cae\ntype commit\ntag 12.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1554404112 +0000\n\nheat 12.0.0.0rc2 release candidate\n\nmeta:version: 12.0.0.0rc2\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Iea849f571535f1c829d14a6280e128efbf0b3c7f\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

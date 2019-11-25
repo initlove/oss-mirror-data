@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDozNTQ0NmE5MGRjZjc2M2VkMGQ3ZjJmYzNlYjE0ZjkyNzkyOTlhMGE2",
+  "sha": "35446a90dcf763ed0d7f2fc3eb14f9279299a0a6",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/35446a90dcf763ed0d7f2fc3eb14f9279299a0a6",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2014-11-25T09:49:47Z"
+  },
+  "object": {
+    "sha": "f3d13e79e89f99021dc1a0c3da9a6502d02778a9",
+    "type": "tag",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/f3d13e79e89f99021dc1a0c3da9a6502d02778a9"
+  },
+  "tag": "librepo-1.7.9",
+  "message": "v1.7.9\n- handle: Fix memory leak when looking for local metalink/mirrorlist (Issue #33)\n- Return -1 for LRR_YUM_TIMESTAMP if no repomd is available\n- Use CURLOPT_ERRORBUFFER to get more useful error messages\n- repoutil_yum: lr_repoutil_yum_check_repo: fix path handling\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

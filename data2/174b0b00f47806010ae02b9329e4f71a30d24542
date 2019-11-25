@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MToxNzRiMGIwMGY0NzgwNjAxMGFlMDJiOTMyOWU0ZjcxYTMwZDI0NTQy",
+  "sha": "174b0b00f47806010ae02b9329e4f71a30d24542",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/174b0b00f47806010ae02b9329e4f71a30d24542",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-09-08T23:16:36Z"
+  },
+  "object": {
+    "sha": "13249e031ed8d5aeb49e3cbfd2b7a9654f1d9978",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/13249e031ed8d5aeb49e3cbfd2b7a9654f1d9978"
+  },
+  "tag": "v1.2.3",
+  "message": "Release of 1.2.3\n\n- 13249e031ed8d5aeb49e3cbfd2b7a9654f1d9978: Merge pull request #634 from tbak/master\n- 8040e922a19fdc392dee85dcb8d9b55072dfa500: Separate JSON and XML codec implementations to make dependencies on jackson/xml artifacts optional in the client.\n- c36bcbf40707eaf7cc0eebde8959540904ee8bb1: Make jackson XML dependencies provided in the client.\n- 79018398260b80ded3512b0da54fcdbc29a0d195: Fix local registry size metrics + http agent name update.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

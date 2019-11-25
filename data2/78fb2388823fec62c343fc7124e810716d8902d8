@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ5MDk2ODQ6NzhmYjIzODg4MjNmZWM2MmMzNDNmYzcxMjRlODEwNzE2ZDg5MDJkOA==",
+  "sha": "78fb2388823fec62c343fc7124e810716d8902d8",
+  "url": "https://api.github.com/repos/openstack/tooz/git/tags/78fb2388823fec62c343fc7124e810716d8902d8",
+  "tagger": {
+    "name": "Davanum Srinivas",
+    "email": "davanum@gmail.com",
+    "date": "2016-02-09T23:17:03Z"
+  },
+  "object": {
+    "sha": "6f0d0f5506abe85aabcb20436fb44cf3400b509d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/tooz/git/commits/6f0d0f5506abe85aabcb20436fb44cf3400b509d"
+  },
+  "tag": "1.30.0",
+  "message": "tooz 1.30.0 release\n\nmeta:version: 1.30.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\n-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAla6c28ACgkQgNg6eWEDv1lDXgCgy+oH8+o29Un/qvILwF8JbG/E\ncaUAoP6Fjztv5h5/ZWPBTwL/teO8sbbo\n=/KeF\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAla6c28ACgkQgNg6eWEDv1lDXgCgy+oH8+o29Un/qvILwF8JbG/E\ncaUAoP6Fjztv5h5/ZWPBTwL/teO8sbbo\n=/KeF\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6f0d0f5506abe85aabcb20436fb44cf3400b509d\ntype commit\ntag 1.30.0\ntagger Davanum Srinivas <davanum@gmail.com> 1455059823 -0500\n\ntooz 1.30.0 release\n\nmeta:version: 1.30.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\n"
+  }
+}

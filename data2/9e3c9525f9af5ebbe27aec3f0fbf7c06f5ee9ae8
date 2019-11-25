@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzk5NjQ3Njo5ZTNjOTUyNWY5YWY1ZWJiZTI3YWVjM2YwZmJmN2MwNmY1ZWU5YWU4",
+  "sha": "9e3c9525f9af5ebbe27aec3f0fbf7c06f5ee9ae8",
+  "url": "https://api.github.com/repos/rhboot/shim/git/tags/9e3c9525f9af5ebbe27aec3f0fbf7c06f5ee9ae8",
+  "tagger": {
+    "name": "Peter Jones",
+    "email": "pjones@redhat.com",
+    "date": "2017-04-27T15:01:44Z"
+  },
+  "object": {
+    "sha": "ea5f7e15971358b972b3a42656f316db588f5311",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rhboot/shim/git/commits/ea5f7e15971358b972b3a42656f316db588f5311"
+  },
+  "tag": "12",
+  "message": "Update to version 12\n\n    - OpenSSL 1.1.0e (glin)\n    - Workaround for signtool.exe bugs (pjones)\n    - Bug fix for wrong options passed to second stage (jsgruber)\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJZAgf9AAoJEO7SZrcPT+8QgF8P/RBtSTWFp+TzQX5SrAppYP6h\n3z6XVIeovNgctz4GGl+fzuv77E1CKiVd1psRh+n1bZzxaMLVEKEPCWG7/FMw44zN\nLXKT1zehwzLCRFpAxyLH9WVJ739f9tOTVTeiHeSlGM4AJn28RiY29okaI/UviPky\nyz24yqTDi4nNmOVsvXjXVOMYBlV5f4bob41hBgm9MIGf6eEV2BL4BHvHma1LG5UP\nu5sQxRjy1VWZpEd2cKltSi/0Iy0clj+DH/ytYVxkuaOvjaw5UWJTKZlEDFRW4Ix8\nnYkbMJf8SfE+T9779EiPiPKXMOqFVab6VX8fSLpU//8Ek/D3jZ5CjuG6M4QtIqa1\ntexIPr1cDPlflEpKcCDh1wgAos/3ZN/4TbcbU3kDfR3iU/0+2Iz2PETCT4JWWQk7\nvkAP3TtUJ6j08f4YnLg0DTOmxb3u3zdjNSB5M3mTos97UJb/ON9JrhhQU3WUW17S\nhuZYOOWQULqqyNoGBvubcx6hhKZwPKAUnhdwy44ZP4LfJa7UE1zDXZTWBwbXwuwH\n8j5nQbYFLozbujjDePs1A6sUvVGcMucHCV2XJq0IO/5jj+bASjWy+RhOHZSES9pA\nGjOGo+39pyJ7n/GOIZthoRFnkUhYBuPFtqyLl0aTI+bkALvCRrC2iCeIVgHScdpn\niq00/8N8O3eg8O3qHa83\n=lBB1\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJZAgf9AAoJEO7SZrcPT+8QgF8P/RBtSTWFp+TzQX5SrAppYP6h\n3z6XVIeovNgctz4GGl+fzuv77E1CKiVd1psRh+n1bZzxaMLVEKEPCWG7/FMw44zN\nLXKT1zehwzLCRFpAxyLH9WVJ739f9tOTVTeiHeSlGM4AJn28RiY29okaI/UviPky\nyz24yqTDi4nNmOVsvXjXVOMYBlV5f4bob41hBgm9MIGf6eEV2BL4BHvHma1LG5UP\nu5sQxRjy1VWZpEd2cKltSi/0Iy0clj+DH/ytYVxkuaOvjaw5UWJTKZlEDFRW4Ix8\nnYkbMJf8SfE+T9779EiPiPKXMOqFVab6VX8fSLpU//8Ek/D3jZ5CjuG6M4QtIqa1\ntexIPr1cDPlflEpKcCDh1wgAos/3ZN/4TbcbU3kDfR3iU/0+2Iz2PETCT4JWWQk7\nvkAP3TtUJ6j08f4YnLg0DTOmxb3u3zdjNSB5M3mTos97UJb/ON9JrhhQU3WUW17S\nhuZYOOWQULqqyNoGBvubcx6hhKZwPKAUnhdwy44ZP4LfJa7UE1zDXZTWBwbXwuwH\n8j5nQbYFLozbujjDePs1A6sUvVGcMucHCV2XJq0IO/5jj+bASjWy+RhOHZSES9pA\nGjOGo+39pyJ7n/GOIZthoRFnkUhYBuPFtqyLl0aTI+bkALvCRrC2iCeIVgHScdpn\niq00/8N8O3eg8O3qHa83\n=lBB1\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ea5f7e15971358b972b3a42656f316db588f5311\ntype commit\ntag 12\ntagger Peter Jones <pjones@redhat.com> 1493305304 -0400\n\nUpdate to version 12\n\n    - OpenSSL 1.1.0e (glin)\n    - Workaround for signtool.exe bugs (pjones)\n    - Bug fix for wrong options passed to second stage (jsgruber)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDoyYzk5ZTc3NWI3NzljNGViYjgxMzViZGJlMTVhZjI1YjViMjYyOWY2",
+  "sha": "2c99e775b779c4ebb8135bdbe15af25b5b2629f6",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/2c99e775b779c4ebb8135bdbe15af25b5b2629f6",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-02-03T13:30:01Z"
+  },
+  "object": {
+    "sha": "8f931e809512b96197a53a00057e9ed5d78317af",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/commits/8f931e809512b96197a53a00057e9ed5d78317af"
+  },
+  "tag": "librepo-1.7.13",
+  "message": "v1.7.13\n- Fix ABI compatibility (RhBug: 1185180)\n- fastestmirror: Add LRO_FASTESTMIRRORTIMEOUT option\n- downloader: Move broken mirror at the end of the list of mirrors (RhBug: 1183998)\n- Make building tests and docs optional\n- librepo: Don't download remote mirrorlist/metalink when LRO_LOCAL is specified (Resolves #41)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

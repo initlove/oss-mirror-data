@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY0MTU2MDg6ODc2M2NmYmVhNzBiZDkwMzZkYjhkNjc0MDQyZmI5ZTNhYmM4YzM4OA==",
+  "sha": "8763cfbea70bd9036db8d674042fb9e3abc8c388",
+  "url": "https://api.github.com/repos/openstack/oslo.service/git/tags/8763cfbea70bd9036db8d674042fb9e3abc8c388",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-01-17T17:11:09Z"
+  },
+  "object": {
+    "sha": "d987a4a84c40ac905a1295341c0e05a73c7b6b1c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.service/git/commits/d987a4a84c40ac905a1295341c0e05a73c7b6b1c"
+  },
+  "tag": "1.35.0",
+  "message": "oslo.service 1.35.0 release\n\nmeta:version: 1.35.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Commit: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Change-Id: I519941f96f7837e23c9dd0a24216f63072fa57f4\nmeta:release:Code-Review+1: Natal Ngétal <hobbestigrou@erakis.eu>\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcQLctAAoJEBpUEUgFTp44bOkL/1ojrK2gb6Is20/87HvdOo8x\no3UT/xpttr+b0o1Q0NL9yS9n0RELlaYc1LAe9L6lMtwIXnw9cIS4eNn0IY2zP+VG\nmVBJrx1vRght5CSDKxnSt+fbP3Er8iD/wKCVyifQSmOCj5OHIw6zSKD9uGHtO/BA\nxsFfcKJwUZgrk8qcaGK7Ys2XDNIFVI2QokpU5dyT/xYD1OzF42RgYi1B5PxadQRM\nv6sMjqpHnln3bxikwKoqFFGtBon/1C4J4/HQwe+UAIbbaUnz6cGI7h32bagl57JB\nlo1TJoceoJ1F+uhWkKtzguU8w8BJxUinuIr5zo3nACIYx5RPgpKTnnevw4cfxmWM\njKrcwORyXIoJf2zK4H8fGtRd5gZodqp+uc2jHguOpWqKM/HQPkw2EscU7Vcy66re\nbzJKslQJGN8MBw9vHN0QrYZXHTmlBpyLDP3ejyrbnejbeDCZWt07A2090MsDjpKo\nrm+HBQ/MAEv1ANXL6W/8n/Mufqul00f85sTeaSLrUg==\n=SvWr\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcQLctAAoJEBpUEUgFTp44bOkL/1ojrK2gb6Is20/87HvdOo8x\no3UT/xpttr+b0o1Q0NL9yS9n0RELlaYc1LAe9L6lMtwIXnw9cIS4eNn0IY2zP+VG\nmVBJrx1vRght5CSDKxnSt+fbP3Er8iD/wKCVyifQSmOCj5OHIw6zSKD9uGHtO/BA\nxsFfcKJwUZgrk8qcaGK7Ys2XDNIFVI2QokpU5dyT/xYD1OzF42RgYi1B5PxadQRM\nv6sMjqpHnln3bxikwKoqFFGtBon/1C4J4/HQwe+UAIbbaUnz6cGI7h32bagl57JB\nlo1TJoceoJ1F+uhWkKtzguU8w8BJxUinuIr5zo3nACIYx5RPgpKTnnevw4cfxmWM\njKrcwORyXIoJf2zK4H8fGtRd5gZodqp+uc2jHguOpWqKM/HQPkw2EscU7Vcy66re\nbzJKslQJGN8MBw9vHN0QrYZXHTmlBpyLDP3ejyrbnejbeDCZWt07A2090MsDjpKo\nrm+HBQ/MAEv1ANXL6W/8n/Mufqul00f85sTeaSLrUg==\n=SvWr\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d987a4a84c40ac905a1295341c0e05a73c7b6b1c\ntype commit\ntag 1.35.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1547745069 +0000\n\noslo.service 1.35.0 release\n\nmeta:version: 1.35.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Commit: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Change-Id: I519941f96f7837e23c9dd0a24216f63072fa57f4\nmeta:release:Code-Review+1: Natal Ngétal <hobbestigrou@erakis.eu>\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

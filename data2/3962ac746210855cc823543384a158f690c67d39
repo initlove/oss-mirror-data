@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTM4NjgxOjM5NjJhYzc0NjIxMDg1NWNjODIzNTQzMzg0YTE1OGY2OTBjNjdkMzk=",
+  "sha": "3962ac746210855cc823543384a158f690c67d39",
+  "url": "https://api.github.com/repos/hierynomus/sshj/git/tags/3962ac746210855cc823543384a158f690c67d39",
+  "tagger": {
+    "name": "Jeroen van Erp",
+    "email": "jeroen@hierynomus.com",
+    "date": "2016-11-25T12:16:43Z"
+  },
+  "object": {
+    "sha": "2ca2bbd63378d85a721a29647d3dc8bc25f05f29",
+    "type": "commit",
+    "url": "https://api.github.com/repos/hierynomus/sshj/git/commits/2ca2bbd63378d85a721a29647d3dc8bc25f05f29"
+  },
+  "tag": "v0.19.0",
+  "message": "Release of 0.19.0\n\n- Prepared for next release\n- Build jar with correct version string automatically (Fixes #280)\n- Update README.adoc\n- Merge pull request #279 from hierynomus/issue-276\n- Fixed text\n- Fixed some codacy warnings\n- Fixed ed-25519 and openssh-key-v1 formats\n- Reading first part of the new openssh key format\n- Fixed license header\n- Extracted common key file methods into an abstract base class\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

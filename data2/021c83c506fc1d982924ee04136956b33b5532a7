@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkyMTcwNTQ6MDIxYzgzYzUwNmZjMWQ5ODI5MjRlZTA0MTM2OTU2YjMzYjU1MzJhNw==",
+  "sha": "021c83c506fc1d982924ee04136956b33b5532a7",
+  "url": "https://api.github.com/repos/micro/go-micro/git/tags/021c83c506fc1d982924ee04136956b33b5532a7",
+  "tagger": {
+    "name": "Asim Aslam",
+    "email": "asim@chuhnk.me",
+    "date": "2017-10-29T14:49:17Z"
+  },
+  "object": {
+    "sha": "78da1fde94ff21e1faee56456b8c5a3b23dbecdf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micro/go-micro/git/commits/78da1fde94ff21e1faee56456b8c5a3b23dbecdf"
+  },
+  "tag": "v0.2.0",
+  "message": "Performance improvements\n\n- http broker using a registry cache\n- selector lazy loading the watcher\n- selector cache withstand registry failure\n- selector cache used by default\n- connection pooling set to 1 by default\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

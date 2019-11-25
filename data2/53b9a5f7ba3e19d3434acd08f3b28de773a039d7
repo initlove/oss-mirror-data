@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTMzNDgzMDM6NTNiOWE1ZjdiYTNlMTlkMzQzNGFjZDA4ZjNiMjhkZTc3M2EwMzlkNw==",
+  "sha": "53b9a5f7ba3e19d3434acd08f3b28de773a039d7",
+  "url": "https://api.github.com/repos/openstack/python-saharaclient/git/tags/53b9a5f7ba3e19d3434acd08f3b28de773a039d7",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-06-27T09:45:24Z"
+  },
+  "object": {
+    "sha": "564380af2e297c86d31af092fdbb64a735b2d669",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-saharaclient/git/commits/564380af2e297c86d31af092fdbb64a735b2d669"
+  },
+  "tag": "2.2.1",
+  "message": "python-saharaclient 2.2.1 release\n\nmeta:version: 2.2.1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Luigi Toscano <ltoscano@redhat.com>\nmeta:release:Commit: Luigi Toscano <ltoscano@redhat.com>\nmeta:release:Change-Id: If2e10b2c24586a68c3711bfe1e649e82c39e140a\nmeta:release:Code-Review+1: Jeremy Freudberg <jeremyfreudberg@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0UkDQZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2G54C/0Q3dLl920E/mCtNO2xhLdS\njyJyG+XIJfpJQY4+68x3KRrgmDe8I4oZYEq1LKuw3uu+amqcvcuZ7X4jPKpwVJ+M\nditsy5UmtqXy+EXGKlEZEvCcq7HamG8WtEk53N5VOsWRFt9n+aWDQz1Lez0rVt2Z\nzl0p/ekZiIh1skqaSJPaDDn/o9exvUiK9WVsCyEjfo308UHWPI1UbbY/VzEKUsga\nXTCKWjmantKF0DoZbwHYawBjHlSNJmXfF8ngkRb4L/H0uavICPZLe0XrWYGs8/1d\n0taHOpHEU5RE9bHZtEirLGmgwdyBfD2MNqVP/EtccpE7npqwBgC2f/p7G8sp0inh\n8tMbaKIK2WlT2Mui4KLJhBGlFjSU+DFT5eCFwfZzGrlqlG+vcO54cLEI1wAH+gV4\nryS1FwOkzRA2+Omz4YaapE655FMxOPM1Pcna0+7FWvTXj5D8wDbYi0MO4BPEfv2M\nchrzYbtJ+4N2/bbeR8GAxw49O1weU3spZXTarhSbIE0=\n=ZGdl\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0UkDQZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2G54C/0Q3dLl920E/mCtNO2xhLdS\njyJyG+XIJfpJQY4+68x3KRrgmDe8I4oZYEq1LKuw3uu+amqcvcuZ7X4jPKpwVJ+M\nditsy5UmtqXy+EXGKlEZEvCcq7HamG8WtEk53N5VOsWRFt9n+aWDQz1Lez0rVt2Z\nzl0p/ekZiIh1skqaSJPaDDn/o9exvUiK9WVsCyEjfo308UHWPI1UbbY/VzEKUsga\nXTCKWjmantKF0DoZbwHYawBjHlSNJmXfF8ngkRb4L/H0uavICPZLe0XrWYGs8/1d\n0taHOpHEU5RE9bHZtEirLGmgwdyBfD2MNqVP/EtccpE7npqwBgC2f/p7G8sp0inh\n8tMbaKIK2WlT2Mui4KLJhBGlFjSU+DFT5eCFwfZzGrlqlG+vcO54cLEI1wAH+gV4\nryS1FwOkzRA2+Omz4YaapE655FMxOPM1Pcna0+7FWvTXj5D8wDbYi0MO4BPEfv2M\nchrzYbtJ+4N2/bbeR8GAxw49O1weU3spZXTarhSbIE0=\n=ZGdl\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 564380af2e297c86d31af092fdbb64a735b2d669\ntype commit\ntag 2.2.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1561628724 +0000\n\npython-saharaclient 2.2.1 release\n\nmeta:version: 2.2.1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Luigi Toscano <ltoscano@redhat.com>\nmeta:release:Commit: Luigi Toscano <ltoscano@redhat.com>\nmeta:release:Change-Id: If2e10b2c24586a68c3711bfe1e649e82c39e140a\nmeta:release:Code-Review+1: Jeremy Freudberg <jeremyfreudberg@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

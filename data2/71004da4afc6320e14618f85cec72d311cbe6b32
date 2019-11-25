@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2Nzo3MTAwNGRhNGFmYzYzMjBlMTQ2MThmODVjZWM3MmQzMTFjYmU2YjMy",
+  "sha": "71004da4afc6320e14618f85cec72d311cbe6b32",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/71004da4afc6320e14618f85cec72d311cbe6b32",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2015-01-28T21:34:59Z"
+  },
+  "object": {
+    "sha": "2a96914ede640207aa6296f9e39b84c92dfa4400",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/2a96914ede640207aa6296f9e39b84c92dfa4400"
+  },
+  "tag": "6.0.7",
+  "message": "Released v6.0.7\n\n* Fix a regression where Numpy requires a build path without symlinks to\n  properly build.\n\n* Fix a broken log message when running ``pip wheel`` without a requirement.\n\n* Don't mask network errors while downloading the file as a hash failure.\n\n* Properly create the state file for the pip version check so it only happens\n  once a week.\n\n* Fix an issue where switching between Python 3 and Python 2 would evict cached\n  items.\n\n* Fix a regression where pip would be unable to successfully uninstall a\n  project without a normalized version.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUyVYNAAoJEG48vOkzctz6wj0QAJ8k8DqOs74/0Upt1ZkXOzcl\nQvMNTYVL3dZCQCPFxRcSrCXq4Lbge6z17nWBeoLXAoiw5dkdkY1i0xXwRHRlbcGS\nZwfeoLUQA+tzaj/mHy3wldvTZOhfPri1MyUIGrkqpRpmJi1yNcPXDdy4Br6cGkrg\nS2UINfXPDIu9o/9xhrO6tBBLtqaGt99+DnRR/aRTiBkT5Pttfpnw8MGcSjW2rh25\nCldMIRuPB6KBcuaSpknIeS7P4Ud2HBzCPD7FbqjfHwAlq5pCkVu+rEjB96UkDG7r\nuI/WTXPjraD/BiNlV9VgeBgbGnWS1CsoxTfxmYYkJ7urOEUY8rV91RJg40e9xBYF\nva0F6vAlQz2EMIWjoeWt27OkmdJ/KQoGXrMi0HBE9TgqkUY1PSpXtVpJG/V4GYQ/\nh8U6w76j+ZCahxopFyR7EGkd8uWQ9RIOVTXBViof4LzK+okqDucJzn7sUykfVHlw\nXr1ebUIvcvw1njfsfH5nJ2LEJXSH5Z/omdl8K3KjvfzpI5Vex3U7/SX/RAzloWNd\nL191q5GXxH9Au3+tycSqK3+4118cnHKiXjhsUHG8cvrE8ze+2kUegZWh1IuCiyJE\n5LZJNjjj0a3UITAHH+BSIcFfj4m3CpbAqYoaczRnA69EGSbXqp2Xwhmwuc5X6k79\nBhf859mWnaGCA2Lmpirs\n=bo4W\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUyVYNAAoJEG48vOkzctz6wj0QAJ8k8DqOs74/0Upt1ZkXOzcl\nQvMNTYVL3dZCQCPFxRcSrCXq4Lbge6z17nWBeoLXAoiw5dkdkY1i0xXwRHRlbcGS\nZwfeoLUQA+tzaj/mHy3wldvTZOhfPri1MyUIGrkqpRpmJi1yNcPXDdy4Br6cGkrg\nS2UINfXPDIu9o/9xhrO6tBBLtqaGt99+DnRR/aRTiBkT5Pttfpnw8MGcSjW2rh25\nCldMIRuPB6KBcuaSpknIeS7P4Ud2HBzCPD7FbqjfHwAlq5pCkVu+rEjB96UkDG7r\nuI/WTXPjraD/BiNlV9VgeBgbGnWS1CsoxTfxmYYkJ7urOEUY8rV91RJg40e9xBYF\nva0F6vAlQz2EMIWjoeWt27OkmdJ/KQoGXrMi0HBE9TgqkUY1PSpXtVpJG/V4GYQ/\nh8U6w76j+ZCahxopFyR7EGkd8uWQ9RIOVTXBViof4LzK+okqDucJzn7sUykfVHlw\nXr1ebUIvcvw1njfsfH5nJ2LEJXSH5Z/omdl8K3KjvfzpI5Vex3U7/SX/RAzloWNd\nL191q5GXxH9Au3+tycSqK3+4118cnHKiXjhsUHG8cvrE8ze+2kUegZWh1IuCiyJE\n5LZJNjjj0a3UITAHH+BSIcFfj4m3CpbAqYoaczRnA69EGSbXqp2Xwhmwuc5X6k79\nBhf859mWnaGCA2Lmpirs\n=bo4W\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2a96914ede640207aa6296f9e39b84c92dfa4400\ntype commit\ntag 6.0.7\ntagger Donald Stufft <donald@stufft.io> 1422480899 -0500\n\nReleased v6.0.7\n\n* Fix a regression where Numpy requires a build path without symlinks to\n  properly build.\n\n* Fix a broken log message when running ``pip wheel`` without a requirement.\n\n* Don't mask network errors while downloading the file as a hash failure.\n\n* Properly create the state file for the pip version check so it only happens\n  once a week.\n\n* Fix an issue where switching between Python 3 and Python 2 would evict cached\n  items.\n\n* Fix a regression where pip would be unable to successfully uninstall a\n  project without a normalized version.\n"
+  }
+}

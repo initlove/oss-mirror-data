@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTk3MTg1Nzo5MWJlMmFhNjQ5MDAxMzg3MDA1YzM5Y2Q3ODkyODEwZmIyZjJkNjUz",
+  "sha": "91be2aa649001387005c39cd7892810fb2f2d653",
+  "url": "https://api.github.com/repos/openstack/murano-dashboard/git/tags/91be2aa649001387005c39cd7892810fb2f2d653",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-10T14:35:52Z"
+  },
+  "object": {
+    "sha": "bead4366d96a1e6e230e8f147b97a60e859f760b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/murano-dashboard/git/commits/bead4366d96a1e6e230e8f147b97a60e859f760b"
+  },
+  "tag": "8.0.0.0rc2",
+  "message": "murano-dashboard 8.0.0.0rc2 release candidate\n\nmeta:version: 8.0.0.0rc2\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Iee0b52fb178add8b2b44b67ec0a834da34e8bf20\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2fQcgZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2MKBC/9xqvq+vTUnIJMmQL4yA2aG\nXB0uFMk7bZyXsDMh2I+ixa2fUOzqpkMs8pLH3G+VrE2St0iEbpxooG01QH02EO9G\nkbKdaLA6+J/RLNww2Bl54Pw3HQc2Fkk5kI+Nyl6sGrfAO3SFVcqMdVLb4o1Rdw9c\nnw2LuZG+HBVJ1GHXtLN1TJR7j74M/rfuDmirKM/l0H+1CRfDs+rdsE9mam7KTsm/\nJvnnGCW7Swox+i2jyC/DutwyF5Um3VG444BHVIEb8flkI/AMmEILhum+0X1ryc7p\nhicgjnlUT7F3IoTqeD/I9W3FBhmiX6nt7ySShxiU8KUrKSyQ7kdcTIh6TFoFpksb\nbfduinDUQcNjWrh2THOLrvrakZulq/XpCYyejFnaMixhw02B5nCJgGqP3ujsiTwz\nUn2p9k4UFOSeuR8KujD3tdX/h3AXHabFCK9aPsqXXjK/V/CG5h4dFg6OhvA7jdM/\nKjkmkP8O29g97Ga0Z503zDOKBEg5uhO2u4v/mf6MAbY=\n=Caud\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2fQcgZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2MKBC/9xqvq+vTUnIJMmQL4yA2aG\nXB0uFMk7bZyXsDMh2I+ixa2fUOzqpkMs8pLH3G+VrE2St0iEbpxooG01QH02EO9G\nkbKdaLA6+J/RLNww2Bl54Pw3HQc2Fkk5kI+Nyl6sGrfAO3SFVcqMdVLb4o1Rdw9c\nnw2LuZG+HBVJ1GHXtLN1TJR7j74M/rfuDmirKM/l0H+1CRfDs+rdsE9mam7KTsm/\nJvnnGCW7Swox+i2jyC/DutwyF5Um3VG444BHVIEb8flkI/AMmEILhum+0X1ryc7p\nhicgjnlUT7F3IoTqeD/I9W3FBhmiX6nt7ySShxiU8KUrKSyQ7kdcTIh6TFoFpksb\nbfduinDUQcNjWrh2THOLrvrakZulq/XpCYyejFnaMixhw02B5nCJgGqP3ujsiTwz\nUn2p9k4UFOSeuR8KujD3tdX/h3AXHabFCK9aPsqXXjK/V/CG5h4dFg6OhvA7jdM/\nKjkmkP8O29g97Ga0Z503zDOKBEg5uhO2u4v/mf6MAbY=\n=Caud\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bead4366d96a1e6e230e8f147b97a60e859f760b\ntype commit\ntag 8.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1570718152 +0000\n\nmurano-dashboard 8.0.0.0rc2 release candidate\n\nmeta:version: 8.0.0.0rc2\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Iee0b52fb178add8b2b44b67ec0a834da34e8bf20\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

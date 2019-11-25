@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE5MDk5NjU6MDE4NGI0YTM3MjZhYjVkYTgyZDZmNzJkZTNiNTM1MzdiMzlhZjkxOQ==",
+  "sha": "0184b4a3726ab5da82d6f72de3b53537b39af919",
+  "url": "https://api.github.com/repos/openstack/glance_store/git/tags/0184b4a3726ab5da82d6f72de3b53537b39af919",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-06-17T00:50:24Z"
+  },
+  "object": {
+    "sha": "a11649d4df5655329b47c02accd35ed95c948633",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/glance_store/git/commits/a11649d4df5655329b47c02accd35ed95c948633"
+  },
+  "tag": "0.29.1",
+  "message": "glance_store 0.29.1 release\n\nmeta:version: 0.29.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Abhishek Kekane <akekane@redhat.com>\nmeta:release:Commit: Abhishek Kekane <akekane@redhat.com>\nmeta:release:Change-Id: I04011d0929a511c32bb28de1ae8c68bb079f9137\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0G49AZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JZrC/9Jo2RlJhO21fy/+C4OCQlC\nv9YbzuFfITVpvoBudPQMmee1+0odDUTPoFlugHIWJh6FyFgE1NNt3oKaXiLEcIXU\neGcv8SSMlTeA1Ih9hl0eg6jg+Zkv63oEEjfVYPZewrBvAY/oU8g398r8S1iTWtN+\nz0ZSedP4R47yf8lsrAI474jsbmGA4TbELjL8Rj144Efs6CooANjX/YSirzhPeojU\namH9OU3juOBzj4mIV0vPmTW2P9Svi49N6R8XRlEZ939YUKuoz7XHOqUnhDwnyNeF\n1QVYdkxiKnFu7BqvS7SZIOLChs2HSt6ZIMLvXhiNkeOW4Ecuwy9ItLxVEnMxHJif\n5lFCv4MelYf2W6RmAm9lp6rOn5gBV1lrTHTwBi2FWPDYn7WHoMG2q0ZKLaw1G03d\nPme1o3VilByAZ6eoXWn29OoNRDHH4Rs3D4bxLZYbtZN2QF78CuckEdqW9XJhAUk7\nogQLVoPdtg3XI0p0THOb2nE1+f+ORTrfnQs9NDUGn6g=\n=Wx1I\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0G49AZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JZrC/9Jo2RlJhO21fy/+C4OCQlC\nv9YbzuFfITVpvoBudPQMmee1+0odDUTPoFlugHIWJh6FyFgE1NNt3oKaXiLEcIXU\neGcv8SSMlTeA1Ih9hl0eg6jg+Zkv63oEEjfVYPZewrBvAY/oU8g398r8S1iTWtN+\nz0ZSedP4R47yf8lsrAI474jsbmGA4TbELjL8Rj144Efs6CooANjX/YSirzhPeojU\namH9OU3juOBzj4mIV0vPmTW2P9Svi49N6R8XRlEZ939YUKuoz7XHOqUnhDwnyNeF\n1QVYdkxiKnFu7BqvS7SZIOLChs2HSt6ZIMLvXhiNkeOW4Ecuwy9ItLxVEnMxHJif\n5lFCv4MelYf2W6RmAm9lp6rOn5gBV1lrTHTwBi2FWPDYn7WHoMG2q0ZKLaw1G03d\nPme1o3VilByAZ6eoXWn29OoNRDHH4Rs3D4bxLZYbtZN2QF78CuckEdqW9XJhAUk7\nogQLVoPdtg3XI0p0THOb2nE1+f+ORTrfnQs9NDUGn6g=\n=Wx1I\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a11649d4df5655329b47c02accd35ed95c948633\ntype commit\ntag 0.29.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1560732624 +0000\n\nglance_store 0.29.1 release\n\nmeta:version: 0.29.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Abhishek Kekane <akekane@redhat.com>\nmeta:release:Commit: Abhishek Kekane <akekane@redhat.com>\nmeta:release:Change-Id: I04011d0929a511c32bb28de1ae8c68bb079f9137\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

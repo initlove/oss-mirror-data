@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkyMTcwNTQ6NmVhNjc5YjEzYWY4NWNkNjE3ODcxOTE5ZTFkZWM2YzMwOGI0ZTU1ZQ==",
+  "sha": "6ea679b13af85cd617871919e1dec6c308b4e55e",
+  "url": "https://api.github.com/repos/micro/go-micro/git/tags/6ea679b13af85cd617871919e1dec6c308b4e55e",
+  "tagger": {
+    "name": "Asim Aslam",
+    "email": "asim@aslam.me",
+    "date": "2019-10-01T17:41:09Z"
+  },
+  "object": {
+    "sha": "6477c3afffca0e3e60b0205325ea5617aee03a94",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micro/go-micro/git/commits/6477c3afffca0e3e60b0205325ea5617aee03a94"
+  },
+  "tag": "v1.11.0",
+  "message": "This is likely the last release of v1\n\n- Use new connections for streams rather than the connection pool\n- Add the registry service flags and env vars\n- Fix go 1.13 tests\n- Check transport in monitor health check\n- Add Nodes/Graph endpoint for network rpc\n- Change Nodes to Peers in the network\n- Add a variety of network tests to validate\n- Add network peer pruning\n- Check stale registry cache when registry is down\n- Add TTL/Expiry to memory registry\n- Flatten advert event map in router for flap detection\n- Add runtime top level interface\n- Recover grpc handler failures\n- Add quic transport keepalive and dial timeout\n- Add link error handling\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

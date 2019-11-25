@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDQ6OWM0NjhmOWMzNmYzMjhkY2M5ZWI1ZDRjZjkwY2Q0ODcxZWE1MzI4ZA==",
+  "sha": "9c468f9c36f328dcc9eb5d4cf90cd4871ea5328d",
+  "url": "https://api.github.com/repos/openstack/python-ironicclient/git/tags/9c468f9c36f328dcc9eb5d4cf90cd4871ea5328d",
+  "tagger": {
+    "name": "Devananda van der Veen",
+    "email": "devananda.vdv@gmail.com",
+    "date": "2015-04-14T16:19:58Z"
+  },
+  "object": {
+    "sha": "06a62bc60eef42b3dfcecbe923922f49cd17dace",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironicclient/git/commits/06a62bc60eef42b3dfcecbe923922f49cd17dace"
+  },
+  "tag": "0.5.1",
+  "message": "Release 0.5.1\n\nThis is a bug-fix release for Kilo. The previous (0.5.0) release\nincorrectly refused to connect to some prior releases of the ironic-api service.\n\nIt includes the following two fixes:\n- Client should fall back to the lower versions if necessary\n- Fix node_uuid option is required for port-create\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlUtPjgACgkQhFvuBniJg6fAEwCfVv2g0jE3l9R8kGG+OqGihUMC\nMLkAoLsSFJxAQCBZ0+mwYkM8GZYYCCY+\n=YCM7\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlUtPjgACgkQhFvuBniJg6fAEwCfVv2g0jE3l9R8kGG+OqGihUMC\nMLkAoLsSFJxAQCBZ0+mwYkM8GZYYCCY+\n=YCM7\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 06a62bc60eef42b3dfcecbe923922f49cd17dace\ntype commit\ntag 0.5.1\ntagger Devananda van der Veen <devananda.vdv@gmail.com> 1429028398 -0700\n\nRelease 0.5.1\n\nThis is a bug-fix release for Kilo. The previous (0.5.0) release\nincorrectly refused to connect to some prior releases of the ironic-api service.\n\nIt includes the following two fixes:\n- Client should fall back to the lower versions if necessary\n- Fix node_uuid option is required for port-create\n"
+  }
+}

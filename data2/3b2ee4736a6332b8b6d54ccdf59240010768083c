@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjU5MjM3Nzc6M2IyZWU0NzM2YTYzMzJiOGI2ZDU0Y2NkZjU5MjQwMDEwNzY4MDgzYw==",
+  "sha": "3b2ee4736a6332b8b6d54ccdf59240010768083c",
+  "url": "https://api.github.com/repos/openstack/deb-ryu/git/tags/3b2ee4736a6332b8b6d54ccdf59240010768083c",
+  "tagger": {
+    "name": "Karthik Ramasubramanian",
+    "email": "karthik@ntti3.com",
+    "date": "2014-03-23T23:38:56Z"
+  },
+  "object": {
+    "sha": "fd81201a52e4b542d62c4f6e9605e133ed764c22",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/deb-ryu/git/commits/fd81201a52e4b542d62c4f6e9605e133ed764c22"
+  },
+  "tag": "2.3.1",
+  "message": "OFwire + VRRP release 2.3.1\n\nBug Fixes:\n- Fix to use Real IP Address as the source IP rather than Virtual IP\n  Address.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

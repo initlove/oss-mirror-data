@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTozNjIxOWViMGM4ZDNiYzU0MTlkMThhNTliMjg0N2Y0OTg4NjI2Nzg2",
+  "sha": "36219eb0c8d3bc5419d18a59b2847f4988626786",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/36219eb0c8d3bc5419d18a59b2847f4988626786",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-09-02T21:48:13Z"
+  },
+  "object": {
+    "sha": "2e6665f1a040a775ca486ee9184f10029f76589f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/2e6665f1a040a775ca486ee9184f10029f76589f"
+  },
+  "tag": "v1.2.2",
+  "message": "Release of 1.2.2\n\n- 2e6665f1a040a775ca486ee9184f10029f76589f: Merge pull request #631 from tbak/master\n- f06c394d4440dd1ab724276b07d44846c369f3d1: Update lease duration dynamically if changed\n- 8f8bdba2920910636ea59659d2653dbb2de4ef07: Merge pull request #567 from tbak/features/jackson_codec_ng\n- c2c52b03626241273bc63904de44c679e8d93a10: Add support for compact XML replies.\n- aed964711972e6a836e3f0623f4339010aed5b9a: Merge remote-tracking branch 'remotes/netflix/master' into features/jackson_codec_ng\n- b27105bf7f0aa6bb3f4a6d89e8ab70dcddae2f0e: Merge remote-tracking branch 'remotes/netflix/master' into features/jackson_codec_ng\n- 914c2ec7fac7f5dfc4cab26daf3364d0d5370fd9: Merge pull request #629 from tbak/master\n- 5f1241cddd46b998685844d5928526918db6b1f2: Create new category for registration related metrics.\n- 9415edad8178b6268ec4bca2e634784c81dc2339: Merge pull request #627 from tbak/master\n- be498cc47407a4e6dfa56396f24b093f63b046fe: Additional metrics for client side heartbeat/registry staleness monitoring.\n- 6e0b19f031dee54973a5ce52dbb5202bdca8a1d0: Registry string fields interning.\n- 7be8dff3e69aef401fb922d86e1793feb62acae6: Merge remote-tracking branch 'remotes/netflix/master' into features/jackson_codec_ng\n- b694d77cd760e24e140a3445c20b8185ff320872: Merge pull request #615 from qiangdavidliu/features/jackson_codec_ng\n- 09674e6072989335bea0a5833aac9217e636e549: Merge remote-tracking branch 'upstream/features/jackson_codec_ng' into features/jackson_codec_ng\n- 7f40bcb066d215ad9eacad8cfd7fc0decf068654: Adding eureka accept to the vip resources\n- 3af876bc78d670e5c896849952821746e92f68a3: Merge pull request #612 from qiangdavidliu/features/jackson_codec_ng\n- c17ee411ac9510c2d9cc333ff6224858685f3782: More codec compatibility (for xml this time)\n- b8313435fb70f56df3c09fce2218d0c1b45f0fbf: - Separating the encoder/decoder configs (which are temporary for transition) and the client data accept (new config). - Fix one more incompatibility with the new jacksonCodec\n- f2395364944d6be342cfccedf0beda2f89604c26: Change accept from mini to compact\n- 0dffbc7182139a3a7c4737ba9d0d974f9916b548: Adding server side capability to return mini-fied full apps, deltas and individual apps.\n- f9b1e9d159384f0312cbf33de6bef8e2a5662e9f: Merge remote-tracking branch 'upstream/features/jackson_codec_ng' into features/jackson_codec_ng\n- 477401ccf31abfadbe764612e577c4f724dd45e1: Separating encoder and decoder for client serialization/deserialization\n- 853f5dd998989be589a57599138b45f1e657ab2b: Merge pull request #606 from qiangdavidliu/features/jackson_codec_ng\n- 4e1dd901938529044eb42c2d3c5ae74b67ab0666: Adding mini jackson deserialization to the codec sets\n- 60e55d9832f19e84ee0d3a4ab924a3f9a8661f03: Merge remote-tracking branch 'upstream/master' into features/jackson_codec_ng\n- 9b180dce003eb43162a22c13d1f10c26726db805: Merge pull request #593 from qiangdavidliu/features/jackson_codec_ng\n- 798354167cf529c7779a25a874a44669a83da2aa: Better error handling\n- 291b4d2594645c298956ee1e313e21bcc42d1af2: Merge pull request #591 from qiangdavidliu/features/jackson_codec_ng\n- 1db25bdbbff81c5dd31cf4d6f252d33c6c7b9ff9: Integrating JacksonNG with existing codecs. Fix an incompatibility with the existing (now called Legacy) JacksonJson codec.\n- aec4fdfa293f1c638a01f16e42da325ae6310b01: Merge remote-tracking branch 'upstream/master' into features/jackson_codec_ng\n- 09f18d14eb34a07f8dd31427bfc650b4fb6e4e07: Add string interning and field filtering during deserialization in compact mode.\n- fd1b38fe5d9870370104f8391a747981bd3e5c80: New Jackson JSON/XML serializer - update.\n- 55cb2ee6b637d277ede9cdd6176a27d1f359d9b5: Merge remote-tracking branch 'remotes/netflix/master' into features/jackson_codec_ng\n- 8b261b886720ac001a7be05dbdf875cd13d77ba2: New Jackson JSON/XML serializer.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

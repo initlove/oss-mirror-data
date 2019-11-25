@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDoxNDBiYWUxN2FjMzJmZGJkNzU0ZjAyNDhkNDc4Zjc0YjUxZjIwNGZj",
+  "sha": "140bae17ac32fdbd754f0248d478f74b51f204fc",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/140bae17ac32fdbd754f0248d478f74b51f204fc",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2014-11-25T09:47:13Z"
+  },
+  "object": {
+    "sha": "b30854839958d6f09e6d91d2f434f8632db2791f",
+    "type": "tag",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/b30854839958d6f09e6d91d2f434f8632db2791f"
+  },
+  "tag": "librepo-1.3.0",
+  "message": "v1.3.0\n- Some CURL error codes should be considered as fatal (RhBug: 1022994)\n- fastestmirror: Add support for cache - New options: LRO_FASTESTMIRRORCACHE\n  and LRO_FASTESTMIRRORMAXAGE\n- fastestmirror: For download_packages() do fastestmirror detection for\n  all handles in one shot\n- Use <mm0:alternates> during repomd.xml download (RhBug: 1019103)\n- Don't perform fastest mirror test if file already exists locally.\n- fastestmirror.h:26:24: fatal error: mirrorlist.h: No such file\n  or directory (#1018006)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

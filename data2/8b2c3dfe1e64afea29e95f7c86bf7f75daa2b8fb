@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTk4MzQzMTQ6OGIyYzNkZmUxZTY0YWZlYTI5ZTk1ZjdjODZiZjdmNzVkYWEyYjhmYg==",
+  "sha": "8b2c3dfe1e64afea29e95f7c86bf7f75daa2b8fb",
+  "url": "https://api.github.com/repos/spinnaker/orca/git/tags/8b2c3dfe1e64afea29e95f7c86bf7f75daa2b8fb",
+  "tagger": {
+    "name": "Bob T Builder",
+    "email": "builds@netflix.com",
+    "date": "2015-11-17T23:17:18Z"
+  },
+  "object": {
+    "sha": "60bbff9a0da2a50fcb4c371247a4a15d9b1028e7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/spinnaker/orca/git/commits/60bbff9a0da2a50fcb4c371247a4a15d9b1028e7"
+  },
+  "tag": "v1.19.0",
+  "message": "Release of 1.19.0\n\n- 60bbff9a0da2a50fcb4c371247a4a15d9b1028e7: Merge pull request #649 from spinnaker/context-parameter-deploy\n- deea17428dbec3846a9a0a26c129141318e39146: make context parameter processor look at deploy stages when getting deployed server groups\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

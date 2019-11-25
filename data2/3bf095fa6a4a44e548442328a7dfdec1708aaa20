@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjA2NDYzNTk6M2JmMDk1ZmE2YTRhNDRlNTQ4NDQyMzI4YTdkZmRlYzE3MDhhYWEyMA==",
+  "sha": "3bf095fa6a4a44e548442328a7dfdec1708aaa20",
+  "url": "https://api.github.com/repos/openstack/osprofiler/git/tags/3bf095fa6a4a44e548442328a7dfdec1708aaa20",
+  "tagger": {
+    "name": "Boris Pavlovic",
+    "email": "boris@pavlovic.me",
+    "date": "2014-07-14T05:26:30Z"
+  },
+  "object": {
+    "sha": "803be8cc8f00b8dcd9a48f83d6985afa0f8a9e17",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/osprofiler/git/commits/803be8cc8f00b8dcd9a48f83d6985afa0f8a9e17"
+  },
+  "tag": "0.2.5",
+  "message": "Add new decorator @profiler.trace_cls to trace all methods in class\n\nDifferent fixes related to readme\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJTw2o6AAoJEDvpPTuJuon0EXwIAKV1m+nUIYQwjEHBRFBwvOEP\nwo43S607SJzZ0oGOdMl267AYLz2cN9LgRRttWectLRFgnbCbolIBmzu8PCnSnaCS\nbylQd9zJZx4x5IAwr/cxL1m19fe3gPt0lrEhTRPdYN6WsWP3SbMwDJouM9r/rMdd\nO7GW+Ssulc4jTtD+wNv2goWdWMeV63QMLfMTd6/+OMTLCmLH+ACkrwzWyYcgtdFi\nYSQNBrRIZzNWQJrBdacG18JYR6kT3YDPu2mqhS6ozD2iaeP/Q4kao3bh7fpF/5PR\nfWl5T1JAHSMCORSj4fwPtRfuVxWIzf1ZeJLsikC3paEJf89rasVSt2z2RuuWOVY=\n=H0Sb\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJTw2o6AAoJEDvpPTuJuon0EXwIAKV1m+nUIYQwjEHBRFBwvOEP\nwo43S607SJzZ0oGOdMl267AYLz2cN9LgRRttWectLRFgnbCbolIBmzu8PCnSnaCS\nbylQd9zJZx4x5IAwr/cxL1m19fe3gPt0lrEhTRPdYN6WsWP3SbMwDJouM9r/rMdd\nO7GW+Ssulc4jTtD+wNv2goWdWMeV63QMLfMTd6/+OMTLCmLH+ACkrwzWyYcgtdFi\nYSQNBrRIZzNWQJrBdacG18JYR6kT3YDPu2mqhS6ozD2iaeP/Q4kao3bh7fpF/5PR\nfWl5T1JAHSMCORSj4fwPtRfuVxWIzf1ZeJLsikC3paEJf89rasVSt2z2RuuWOVY=\n=H0Sb\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 803be8cc8f00b8dcd9a48f83d6985afa0f8a9e17\ntype commit\ntag 0.2.5\ntagger Boris Pavlovic <boris@pavlovic.me> 1405315590 +0400\n\nAdd new decorator @profiler.trace_cls to trace all methods in class\n\nDifferent fixes related to readme\n"
+  }
+}

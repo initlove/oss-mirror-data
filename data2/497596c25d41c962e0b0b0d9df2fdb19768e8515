@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA0NTM3NTI6NDk3NTk2YzI1ZDQxYzk2MmUwYjBiMGQ5ZGYyZmRiMTk3NjhlODUxNQ==",
+  "sha": "497596c25d41c962e0b0b0d9df2fdb19768e8515",
+  "url": "https://api.github.com/repos/Distrotech/libcap/git/tags/497596c25d41c962e0b0b0d9df2fdb19768e8515",
+  "tagger": {
+    "name": "Andrew G. Morgan",
+    "email": "morgan@kernel.org",
+    "date": "2009-12-26T00:10:12Z"
+  },
+  "object": {
+    "sha": "1a6e577e5130aa20768bc4bc5f6bb1ed65ca5e8f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Distrotech/libcap/git/commits/1a6e577e5130aa20768bc4bc5f6bb1ed65ca5e8f"
+  },
+  "tag": "libcap-2.18",
+  "message": "Second attempt at libcap-2.18.\n\nDidn't build and sign tar ball for broken version, so I'm hoping\nno one notices this is actually the second incarnation of 2.18. :-)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.9 (GNU/Linux)\n\niEYEABECAAYFAks1VKwACgkQQheEq9QabfLNHQCeLoZ22Xcf9/ci/M2GUDRC0Pxw\n1TAAoIJicp5WWaKACV93/Uerke66Me23\n=z84A\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.9 (GNU/Linux)\n\niEYEABECAAYFAks1VKwACgkQQheEq9QabfLNHQCeLoZ22Xcf9/ci/M2GUDRC0Pxw\n1TAAoIJicp5WWaKACV93/Uerke66Me23\n=z84A\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1a6e577e5130aa20768bc4bc5f6bb1ed65ca5e8f\ntype commit\ntag libcap-2.18\ntagger Andrew G. Morgan <morgan@kernel.org> 1261786212 -0800\n\nSecond attempt at libcap-2.18.\n\nDidn't build and sign tar ball for broken version, so I'm hoping\nno one notices this is actually the second incarnation of 2.18. :-)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDY1MTY2Njc6OTRhMjlhNjljMWFmODE0ZTVhNjU5MjkzN2ViMDAxOTg1MDc4NDVmZA==",
+  "sha": "94a29a69c1af814e5a6592937eb00198507845fd",
+  "url": "https://api.github.com/repos/openstack/neutron-lib/git/tags/94a29a69c1af814e5a6592937eb00198507845fd",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-19T22:27:10Z"
+  },
+  "object": {
+    "sha": "104627a9336c2cff6808dc0024c43c6b0a7a723c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-lib/git/commits/104627a9336c2cff6808dc0024c43c6b0a7a723c"
+  },
+  "tag": "1.29.0",
+  "message": "neutron-lib 1.29.0 release\n\nmeta:version: 1.29.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Commit: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Change-Id: If803cac6f2e5f94cf71d93e63ad4a6272a8aacfd\nmeta:release:Code-Review+1: Bence Romsics <bence.romsics@gmail.com>\nmeta:release:Code-Review+1: Filippo Inzaghi <zhao.daqing@99cloud.net>\nmeta:release:Code-Review+1: 98k <18552437190@163.com>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1bIj4ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2FzODAC9EUWvCMJwLlqPMvtHGX20\ny5f0AY+vaM8k9oZq+rZ0gKiXF/zNDNcDmwoTC2/JsvrYonJDFGONccLLroTjYWUT\nXxTke1b0RIssfPchLBVgp17oFkiyzzXap4cLbNbdGOydEgY/P+7mULtrI8VJU7t3\nAnQYcQS9R/sj4y88HBgaXZ5fVKI7/yCYOxhVKOXj9BXEhqJCRsIiXrnsmyVLyxtG\n1gMrNmzHFcPPKEBvoM0eBDSYqWy6k060+kA7D3kWCdxSdWw/PKG8e6oC6WCS1k5q\nGuh53E03tBxbyJIFitk3XMSiO+isgDrXHRDFPGxjc7cED1tormREWDhVmXV1VGVJ\nJA73xPZW+FXODqD4OyW059iPNoJdhj3i+WOOwtXiW/min3k73sZMFdOH9+gWT5OP\no34s/PvIiv4Wgn9DLnq45sxKrO+x1f7GFhpWkxx9rdhbFXceexHSAIKLulZAGswc\nN94nZPU4Xax/b1aoOvYtaF8P/CpRfbPtZb+FIOql36k=\n=2rCo\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1bIj4ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2FzODAC9EUWvCMJwLlqPMvtHGX20\ny5f0AY+vaM8k9oZq+rZ0gKiXF/zNDNcDmwoTC2/JsvrYonJDFGONccLLroTjYWUT\nXxTke1b0RIssfPchLBVgp17oFkiyzzXap4cLbNbdGOydEgY/P+7mULtrI8VJU7t3\nAnQYcQS9R/sj4y88HBgaXZ5fVKI7/yCYOxhVKOXj9BXEhqJCRsIiXrnsmyVLyxtG\n1gMrNmzHFcPPKEBvoM0eBDSYqWy6k060+kA7D3kWCdxSdWw/PKG8e6oC6WCS1k5q\nGuh53E03tBxbyJIFitk3XMSiO+isgDrXHRDFPGxjc7cED1tormREWDhVmXV1VGVJ\nJA73xPZW+FXODqD4OyW059iPNoJdhj3i+WOOwtXiW/min3k73sZMFdOH9+gWT5OP\no34s/PvIiv4Wgn9DLnq45sxKrO+x1f7GFhpWkxx9rdhbFXceexHSAIKLulZAGswc\nN94nZPU4Xax/b1aoOvYtaF8P/CpRfbPtZb+FIOql36k=\n=2rCo\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 104627a9336c2cff6808dc0024c43c6b0a7a723c\ntype commit\ntag 1.29.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1566253630 +0000\n\nneutron-lib 1.29.0 release\n\nmeta:version: 1.29.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Commit: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Change-Id: If803cac6f2e5f94cf71d93e63ad4a6272a8aacfd\nmeta:release:Code-Review+1: Bence Romsics <bence.romsics@gmail.com>\nmeta:release:Code-Review+1: Filippo Inzaghi <zhao.daqing@99cloud.net>\nmeta:release:Code-Review+1: 98k <18552437190@163.com>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

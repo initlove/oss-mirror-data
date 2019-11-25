@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODA1NDYxOjc5NTc1OWY5MjBjNGY3ZjhiNjUwODhmOTQ5ZDFmOWM1YjUxNWI1YzA=",
+  "sha": "795759f920c4f7f8b65088f949d1f9c5b515b5c0",
+  "url": "https://api.github.com/repos/mysqljs/mysql/git/tags/795759f920c4f7f8b65088f949d1f9c5b515b5c0",
+  "tagger": {
+    "name": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "date": "2011-02-20T14:00:45Z"
+  },
+  "object": {
+    "sha": "1521edacaecd558bce85058e92b3b8dc542f6d38",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mysqljs/mysql/git/commits/1521edacaecd558bce85058e92b3b8dc542f6d38"
+  },
+  "tag": "v0.9.1",
+  "message": "* Fix issue #49 / `client.escape()` throwing exceptions on objects. (Nick Payne)\n* Drop < v0.4.x compatibility. From now on you need node v0.4.x to use this module.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

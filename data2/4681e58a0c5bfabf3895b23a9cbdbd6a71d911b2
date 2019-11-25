@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY2MjY5NTc6NDY4MWU1OGEwYzViZmFiZjM4OTViMjNhOWNiZGJkNmE3MWQ5MTFiMg==",
+  "sha": "4681e58a0c5bfabf3895b23a9cbdbd6a71d911b2",
+  "url": "https://api.github.com/repos/openstack/pycadf/git/tags/4681e58a0c5bfabf3895b23a9cbdbd6a71d911b2",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-06T17:10:21Z"
+  },
+  "object": {
+    "sha": "d113c1564d49d93451d9330955e8a42b7db04149",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/pycadf/git/commits/d113c1564d49d93451d9330955e8a42b7db04149"
+  },
+  "tag": "2.10.0",
+  "message": "pycadf 2.10.0 release\n\nmeta:version: 2.10.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I500f15a3ca661f0af4e8a878260b511fe7da4d43\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1ykv0ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2IlSDACHql6xA8qEPvoTz1Fg8NvS\nbEMHxM92g+kDZMGxpvN/bkzjcfGj/dXxmVQ3QARqcw20x3UX4wA2S9cuRsRer6U2\nMHiJMqtcRQi368Pb2XGtiHX2CucSkkMwnl/qe5yt6i/xqPhZXjft2eGxoJ8wUHqh\nGGtQgXHowt1EyiuoqDaszi5PRvxeco7Z/E6rdxNtzOynUJEMhF0xyKHRhEv3e1tD\njLFtdOviAMvL0cG9KpiropLdriZ/RTwV4CEZHxvXE6XpglJcZclhs6OYZPdLiaUr\nD/BQ4Xi+EjDjqA6nfPVv8FKCsYTwxDeWVCuQtIKWBhdRamr2zr8sol6U1g5fqHTc\njU7mcM9ECJeHFDHigFfCtPOG7qpN+Q1T1BEKKIJDNOI+G/JZTQfdWk3UXUVzQAFG\nxq8ZySdylpEffB7EzltFvOOaeNzKHJ5EJuaztRwegVw2bX/N5fZXEaCTinDM6AxM\nCQVf8lmzJWZk9x9P5XGVGLo1JZuETzHJj1Jx3tJadtc=\n=rEPp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1ykv0ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2IlSDACHql6xA8qEPvoTz1Fg8NvS\nbEMHxM92g+kDZMGxpvN/bkzjcfGj/dXxmVQ3QARqcw20x3UX4wA2S9cuRsRer6U2\nMHiJMqtcRQi368Pb2XGtiHX2CucSkkMwnl/qe5yt6i/xqPhZXjft2eGxoJ8wUHqh\nGGtQgXHowt1EyiuoqDaszi5PRvxeco7Z/E6rdxNtzOynUJEMhF0xyKHRhEv3e1tD\njLFtdOviAMvL0cG9KpiropLdriZ/RTwV4CEZHxvXE6XpglJcZclhs6OYZPdLiaUr\nD/BQ4Xi+EjDjqA6nfPVv8FKCsYTwxDeWVCuQtIKWBhdRamr2zr8sol6U1g5fqHTc\njU7mcM9ECJeHFDHigFfCtPOG7qpN+Q1T1BEKKIJDNOI+G/JZTQfdWk3UXUVzQAFG\nxq8ZySdylpEffB7EzltFvOOaeNzKHJ5EJuaztRwegVw2bX/N5fZXEaCTinDM6AxM\nCQVf8lmzJWZk9x9P5XGVGLo1JZuETzHJj1Jx3tJadtc=\n=rEPp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d113c1564d49d93451d9330955e8a42b7db04149\ntype commit\ntag 2.10.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1567789821 +0000\n\npycadf 2.10.0 release\n\nmeta:version: 2.10.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I500f15a3ca661f0af4e8a878260b511fe7da4d43\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

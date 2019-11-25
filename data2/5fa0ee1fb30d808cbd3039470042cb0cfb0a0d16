@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo1ZmEwZWUxZmIzMGQ4MDhjYmQzMDM5NDcwMDQyY2IwY2ZiMGEwZDE2",
+  "sha": "5fa0ee1fb30d808cbd3039470042cb0cfb0a0d16",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/5fa0ee1fb30d808cbd3039470042cb0cfb0a0d16",
+  "tagger": {
+    "name": "Bert Belder",
+    "email": "bertbelder@gmail.com",
+    "date": "2013-05-15T00:11:03Z"
+  },
+  "object": {
+    "sha": "0a48c05b5988aea84c605751900926fa25443b34",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/0a48c05b5988aea84c605751900926fa25443b34"
+  },
+  "tag": "v0.11.3",
+  "message": "2013.05.16, Version 0.11.3 (Unstable)\n\nChanges since version 0.11.2:\n\n* unix: clean up uv_accept() (Ben Noordhuis)\n\n* unix: remove errno preserving code (Ben Noordhuis)\n\n* darwin: fix ios build, don't require ApplicationServices (Ben Noordhuis)\n\n* windows: kill child processes when the parent dies (Bert Belder)\n\n* build: set soname in shared library (Ben Noordhuis)\n\n* build: make `make test` link against .a again (Ben Noordhuis)\n\n* build: only set soname on shared object builds (Timothy J. Fontaine)\n\n* build: convert predefined $PLATFORM to lower case (Elliot Saba)\n\n* test: fix process_title failing on linux (Miroslav Bajtoš)\n\n* test, sunos: disable process_title test (Miroslav Bajtoš)\n\n* test: add error logging to tty unit test (Miroslav Bajtoš)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUZLSl3p3iHsuLtRhAQJiNQf8C7Bo7GueuOFM9zHs/piX0SGM213ihaS7\n2icCoUAoXI4AxuNHBDFLsr9BGv1h3tvmf6WWza6dSI+NIt4BCW4JJ8eQp+z5p7uE\nIgY+h0cRivSkFfdu530GvuNDayp8Ugik2OdpdliM6+NFPI4ew3YNBlTypEp7239q\nSEedaIBqkIW7KMerhzp+6pKh0ZiC2ayCfMMvwRaL4K7vtwymcEAJXRAAAEPuB+bP\nnzvFZ5GWFLhCoon5dvJOSgqWx1FdW/tHuCZsO1W4VslBodnO8ylN+nxmgE58oCGR\n6MW2Q480KkOCIfLktkgd5b8TBgIk7zLTYPyj4iBW7Af+zAPXjRMJ7w==\n=ntZf\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUZLSl3p3iHsuLtRhAQJiNQf8C7Bo7GueuOFM9zHs/piX0SGM213ihaS7\n2icCoUAoXI4AxuNHBDFLsr9BGv1h3tvmf6WWza6dSI+NIt4BCW4JJ8eQp+z5p7uE\nIgY+h0cRivSkFfdu530GvuNDayp8Ugik2OdpdliM6+NFPI4ew3YNBlTypEp7239q\nSEedaIBqkIW7KMerhzp+6pKh0ZiC2ayCfMMvwRaL4K7vtwymcEAJXRAAAEPuB+bP\nnzvFZ5GWFLhCoon5dvJOSgqWx1FdW/tHuCZsO1W4VslBodnO8ylN+nxmgE58oCGR\n6MW2Q480KkOCIfLktkgd5b8TBgIk7zLTYPyj4iBW7Af+zAPXjRMJ7w==\n=ntZf\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0a48c05b5988aea84c605751900926fa25443b34\ntype commit\ntag v0.11.3\ntagger Bert Belder <bertbelder@gmail.com> 1368576663 -0700\n\n2013.05.16, Version 0.11.3 (Unstable)\n\nChanges since version 0.11.2:\n\n* unix: clean up uv_accept() (Ben Noordhuis)\n\n* unix: remove errno preserving code (Ben Noordhuis)\n\n* darwin: fix ios build, don't require ApplicationServices (Ben Noordhuis)\n\n* windows: kill child processes when the parent dies (Bert Belder)\n\n* build: set soname in shared library (Ben Noordhuis)\n\n* build: make `make test` link against .a again (Ben Noordhuis)\n\n* build: only set soname on shared object builds (Timothy J. Fontaine)\n\n* build: convert predefined $PLATFORM to lower case (Elliot Saba)\n\n* test: fix process_title failing on linux (Miroslav Bajtoš)\n\n* test, sunos: disable process_title test (Miroslav Bajtoš)\n\n* test: add error logging to tty unit test (Miroslav Bajtoš)\n"
+  }
+}

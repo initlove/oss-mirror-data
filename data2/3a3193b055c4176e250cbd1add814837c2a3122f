@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTYyMjMzNzg6M2EzMTkzYjA1NWM0MTc2ZTI1MGNiZDFhZGQ4MTQ4MzdjMmEzMTIyZg==",
+  "sha": "3a3193b055c4176e250cbd1add814837c2a3122f",
+  "url": "https://api.github.com/repos/openstack/openstacksdk/git/tags/3a3193b055c4176e250cbd1add814837c2a3122f",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-03-06T09:05:28Z"
+  },
+  "object": {
+    "sha": "f58af1ba4ee17500104e3d304ec3a3498c179b12",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/openstacksdk/git/commits/f58af1ba4ee17500104e3d304ec3a3498c179b12"
+  },
+  "tag": "0.12.0",
+  "message": "python-openstacksdk 0.12.0 release\n\nmeta:version: 0.12.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: I643ce72213ebfd75a1ebf75ef6c2b4a7dd1ecf57\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJanlnYAAoJEEIeZHKBH5qBFNQH/2cPrXErUVeH2MYotY2XseBJ\nb2SrQ7o1RjSN0341cXTr0sDphwOFrmsmlMEghl1TorXPBtYc2mlmLt8jS5cJXiYc\nGYSyaH18sM8f8EDN1rjTsZsh8gRauym9De9wtLkyFD7an+DT3P31YmyNiRTi7AML\nxIa4lWBr8wJnQzUoAI30dKKW4zXwQG4mN/hdfFYerMvefbk5GIJjvAbxHbU6SWkk\nl/O7jyyvSoABIJsFmCRqWysz2KelfOpe3dLcba5ehFV821MfT7DNUsYvxxw9eRaI\nMDuV5pzyRsfFGp6VxAVPIoFvjD4uQZWHcc578T+Bub0wo+7aExlCasWfDPYgMYI=\n=XE+p\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJanlnYAAoJEEIeZHKBH5qBFNQH/2cPrXErUVeH2MYotY2XseBJ\nb2SrQ7o1RjSN0341cXTr0sDphwOFrmsmlMEghl1TorXPBtYc2mlmLt8jS5cJXiYc\nGYSyaH18sM8f8EDN1rjTsZsh8gRauym9De9wtLkyFD7an+DT3P31YmyNiRTi7AML\nxIa4lWBr8wJnQzUoAI30dKKW4zXwQG4mN/hdfFYerMvefbk5GIJjvAbxHbU6SWkk\nl/O7jyyvSoABIJsFmCRqWysz2KelfOpe3dLcba5ehFV821MfT7DNUsYvxxw9eRaI\nMDuV5pzyRsfFGp6VxAVPIoFvjD4uQZWHcc578T+Bub0wo+7aExlCasWfDPYgMYI=\n=XE+p\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f58af1ba4ee17500104e3d304ec3a3498c179b12\ntype commit\ntag 0.12.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1520327128 +0000\n\npython-openstacksdk 0.12.0 release\n\nmeta:version: 0.12.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: I643ce72213ebfd75a1ebf75ef6c2b4a7dd1ecf57\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

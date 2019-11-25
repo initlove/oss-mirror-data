@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjo4M2ZhNjE0MDhlYjg5YTQ1MzIyMDUwMDM0ZTRkYTNkZTFmNzdhOGY5",
+  "sha": "83fa61408eb89a45322050034e4da3de1f77a8f9",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/83fa61408eb89a45322050034e4da3de1f77a8f9",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:27:58Z"
+  },
+  "object": {
+    "sha": "623f39a81971fccaf38c3c33c0fb4a02d10fdaf4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/623f39a81971fccaf38c3c33c0fb4a02d10fdaf4"
+  },
+  "tag": "0.1.9",
+  "message": "v0.1.9\n- Some changes in library interface\n- Memory usage optimalization\n- Fix a segfault and a race condition\n- New cmd options: --read-pkgs-list and --retain-old-md param\n- Few other bugfixes\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

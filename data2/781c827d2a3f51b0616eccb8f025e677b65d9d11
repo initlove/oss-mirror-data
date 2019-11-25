@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDo3ODFjODI3ZDJhM2Y1MWIwNjE2ZWNjYjhmMDI1ZTY3N2I2NWQ5ZDEx",
+  "sha": "781c827d2a3f51b0616eccb8f025e677b65d9d11",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/781c827d2a3f51b0616eccb8f025e677b65d9d11",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2014-11-25T09:48:08Z"
+  },
+  "object": {
+    "sha": "86a0689c892efa359c8bee7dfb5c651e17b36995",
+    "type": "tag",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/86a0689c892efa359c8bee7dfb5c651e17b36995"
+  },
+  "tag": "librepo-1.6.0",
+  "message": "v1.6.0\n- Small API change: End callback now must return integer and not void)\n- downloader: Check for the lr_interrupt regularly\n- Handle exceptions in python callbacks as return values (RhBug: 1066321)\n- Support for byterange of download (RhBug: 1058777)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjo3NTVlOGRlYWZlMGQyMzFkMmZiNmY5YjljOTFlMWVjYjMzOTgwOGZi",
+  "sha": "755e8deafe0d231d2fb6f9b9c91e1ecb339808fb",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/755e8deafe0d231d2fb6f9b9c91e1ecb339808fb",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T11:56:40Z"
+  },
+  "object": {
+    "sha": "7b68123e785ff578e65f7620cafa9105c6875e95",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/7b68123e785ff578e65f7620cafa9105c6875e95"
+  },
+  "tag": "0.9.1",
+  "message": "v0.9.1\n- Fix double free during parsing broken XML metadata (Issue #33)\n- Tests: Add acceptance test for --general-compress-type option\n- Fix 'CR_CW_UNKNOWN_COMPRESSION cannot be used' error\n- Refactoring: Fix compiler warnings\n- Add --general-compress-type option (RhBug 1253850)\n- Enable drpm support when drpm library is detected on system (RhBug: 1261031) (Issue #37)\n- fix traceback on non-complete datetime information (Jarek Polok)\n- parsehdr: Skip broken dependency with bad (non-numerical) epoch and print warning about that\n  (https://lists.fedoraproject.org/pipermail/devel/2015-August/213882.html)\n- misc: cr_str_to_evr(): Return NULL instead of \"0\" for bad (non-numerical) epoch\n- updateinfo: Fix a typo in the package release attribute (Luke Macken)\n- CMake: Don't require CXX compiler\n- Tests for different checksum type for RPMs and repodata files (#31)\n- Support different checksum type for RPMs and repodata files (#31)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

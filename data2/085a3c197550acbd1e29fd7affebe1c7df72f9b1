@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDE3MDMxMDowODVhM2MxOTc1NTBhY2JkMWUyOWZkN2FmZmViZTFjN2RmNzJmOWIx",
+  "sha": "085a3c197550acbd1e29fd7affebe1c7df72f9b1",
+  "url": "https://api.github.com/repos/openstack/python-openstackclient/git/tags/085a3c197550acbd1e29fd7affebe1c7df72f9b1",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-12T09:37:29Z"
+  },
+  "object": {
+    "sha": "aa64eb6b0acc6e049c81fd856b75cda2f905c84c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-openstackclient/git/commits/aa64eb6b0acc6e049c81fd856b75cda2f905c84c"
+  },
+  "tag": "4.0.0",
+  "message": "python-openstackclient 4.0.0 release\n\nmeta:version: 4.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Commit: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Change-Id: I7773124f6c22bf2c58d3b02f0427a4d79c071090\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl16EdkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2HTDC/9izL6yRvj1sxgPwSs8jtjo\neLfMZw557Q82dv634t82ZL1lJ1VnHZuG9qwo+2RfZpe2ViHYq2UUox5pRFOWcWwb\ns/T7COOUi9o4zx0tkr02sUKi4nkx1imWVQlftw7b4cw78fNbp+5Q8KavRhzY2xG1\nojfpa9MYhNiWn6CsJnK6eMd3utp0NeqGtr46gMp8MrnzJ0PDS96c+cS/xLhafId6\nru/aFEPsCBhr+2K5nq5hp13xHDo5pm5hNuSvaZQPCHmCMWXni8LxLLuHBNAtY/7P\n2Ix6EGJW/tQ0oa6/U/XhiuZxwygZmTZ33RpJvRMK1Il/eRu90Cr6aD2bdU9q47Lz\n9JHaNeE7ib4mPELbXSxmub6ByfBgJFJ1AQgVptu2FikjIowAsJOiXYJ8QRwvicGo\nALBlj6T26UprZfz1Zwrr5TqBKAc9F6KatEtlVl9IRSIKT7IjYPDscKGUOVcMJxof\nyty2iRcvrYry+aACorNZZj7mpl11ERruZGMpDX/ASp8=\n=Y1As\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl16EdkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2HTDC/9izL6yRvj1sxgPwSs8jtjo\neLfMZw557Q82dv634t82ZL1lJ1VnHZuG9qwo+2RfZpe2ViHYq2UUox5pRFOWcWwb\ns/T7COOUi9o4zx0tkr02sUKi4nkx1imWVQlftw7b4cw78fNbp+5Q8KavRhzY2xG1\nojfpa9MYhNiWn6CsJnK6eMd3utp0NeqGtr46gMp8MrnzJ0PDS96c+cS/xLhafId6\nru/aFEPsCBhr+2K5nq5hp13xHDo5pm5hNuSvaZQPCHmCMWXni8LxLLuHBNAtY/7P\n2Ix6EGJW/tQ0oa6/U/XhiuZxwygZmTZ33RpJvRMK1Il/eRu90Cr6aD2bdU9q47Lz\n9JHaNeE7ib4mPELbXSxmub6ByfBgJFJ1AQgVptu2FikjIowAsJOiXYJ8QRwvicGo\nALBlj6T26UprZfz1Zwrr5TqBKAc9F6KatEtlVl9IRSIKT7IjYPDscKGUOVcMJxof\nyty2iRcvrYry+aACorNZZj7mpl11ERruZGMpDX/ASp8=\n=Y1As\n-----END PGP SIGNATURE-----\n",
+    "payload": "object aa64eb6b0acc6e049c81fd856b75cda2f905c84c\ntype commit\ntag 4.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1568281049 +0000\n\npython-openstackclient 4.0.0 release\n\nmeta:version: 4.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Commit: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Change-Id: I7773124f6c22bf2c58d3b02f0427a4d79c071090\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

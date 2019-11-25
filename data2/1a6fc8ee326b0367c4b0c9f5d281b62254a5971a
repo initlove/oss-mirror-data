@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6MWE2ZmM4ZWUzMjZiMDM2N2M0YjBjOWY1ZDI4MWI2MjI1NGE1OTcxYQ==",
+  "sha": "1a6fc8ee326b0367c4b0c9f5d281b62254a5971a",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/1a6fc8ee326b0367c4b0c9f5d281b62254a5971a",
+  "tagger": {
+    "name": "lkorth",
+    "email": "luke@lukekorth.com",
+    "date": "2016-05-25T01:09:41Z"
+  },
+  "object": {
+    "sha": "2e25c3bf3305fd19724ec7f4645a867c64297a22",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/2e25c3bf3305fd19724ec7f4645a867c64297a22"
+  },
+  "tag": "2.3.1",
+  "message": "2.3.1\n\n* Fix `NullPointerException`s in `BraintreeFragment` when not attached to an `Activity`\n* Fix Chrome Custom Tabs Intent flags interfering with browser switch\n* Add new `DataCollector#collectDeviceData` methods that use a callback; deprecate synchronous methods\n* Reduce size of assets in Drop-In\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

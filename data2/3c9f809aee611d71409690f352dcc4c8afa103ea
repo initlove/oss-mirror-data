@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc4OTM3MDozYzlmODA5YWVlNjExZDcxNDA5NjkwZjM1MmRjYzRjOGFmYTEwM2Vh",
+  "sha": "3c9f809aee611d71409690f352dcc4c8afa103ea",
+  "url": "https://api.github.com/repos/openstack/python-novaclient/git/tags/3c9f809aee611d71409690f352dcc4c8afa103ea",
+  "tagger": {
+    "name": "Michael Still",
+    "email": "mikal@stillhq.com",
+    "date": "2014-07-15T20:43:02Z"
+  },
+  "object": {
+    "sha": "ecb3320df1fcbea5522a5c147ca8308114d59955",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-novaclient/git/commits/ecb3320df1fcbea5522a5c147ca8308114d59955"
+  },
+  "tag": "2.18.1",
+  "message": "Fix critical issue in 2.18.0 related to changed client exceptions.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (GNU/Linux)\n\niEYEABECAAYFAlPFkosACgkQlhS32Mrx373MewCfbUxzsbKXk0THv9yVQzEgYK7p\nymEAn2BKymgf16xuIzQ8uhoBk7gr3eVK\n=S8y9\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (GNU/Linux)\n\niEYEABECAAYFAlPFkosACgkQlhS32Mrx373MewCfbUxzsbKXk0THv9yVQzEgYK7p\nymEAn2BKymgf16xuIzQ8uhoBk7gr3eVK\n=S8y9\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ecb3320df1fcbea5522a5c147ca8308114d59955\ntype commit\ntag 2.18.1\ntagger Michael Still <mikal@stillhq.com> 1405456982 +1000\n\nFix critical issue in 2.18.0 related to changed client exceptions.\n"
+  }
+}

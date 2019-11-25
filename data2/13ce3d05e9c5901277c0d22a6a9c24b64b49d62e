@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQwMDI4OToxM2NlM2QwNWU5YzU5MDEyNzdjMGQyMmE2YTljMjRiNjRiNDlkNjJl",
+  "sha": "13ce3d05e9c5901277c0d22a6a9c24b64b49d62e",
+  "url": "https://api.github.com/repos/openstack/neutron/git/tags/13ce3d05e9c5901277c0d22a6a9c24b64b49d62e",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-02-26T13:01:55Z"
+  },
+  "object": {
+    "sha": "5323e9549d907de54c8f1208cba5c4e7693f0630",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron/git/commits/5323e9549d907de54c8f1208cba5c4e7693f0630"
+  },
+  "tag": "14.0.0.0b2",
+  "message": "neutron 14.0.0.0b2 development milestone\n\nmeta:version: 14.0.0.0b2\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: I42839e3168cd2ae2ee13b1fe96776d3982c58838\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcdTjDAAoJEBpUEUgFTp44mlkL/is7F/NHyaAxvKTlX3KR92Aw\nifGSWgqdQwsqBKq3OSq0hqNthAWyRahk4vsrDviqIdOzt1gOAYY6PHuwLvkkljQN\nLog3BGDpe5n/3UiS3yDUsSBfxaYNa1+C224WdqY81Z3MWANMB8j4jmyYny6Kd0hr\nfXrtcljwBBe6NviJLAEEYsxZp4a/cGelGdm11VZ8ij6Cuj8bfhemv/WzQJCHFss0\n9bOM+jbD/qewpJyJdvHkdIk6V38MRU6iyo454OrPO95K5ygVE6KFuweTn/jXn3c6\nb1oEWMePg7n9f2mkgcDh1gPmoRQFvpNWyHqcdHzuEXcou7Mhxr3q+7XsCo/MCLtn\nwqS86MZ4mA3DCH+ixmqaA3DQHdll6zIH/Vbtzz46j7epHBM/WFQQWpNXDEEcqswk\nu0zKgSHM2DMhIBzkYgMfobZtHoitOuTZL0rYwppFuhO+m10GkEVhREnvggVe4gRI\nE7CASWrCVZ1XF51/KxvXL5fEjQnbPxZEExgUdgDnBg==\n=qO25\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcdTjDAAoJEBpUEUgFTp44mlkL/is7F/NHyaAxvKTlX3KR92Aw\nifGSWgqdQwsqBKq3OSq0hqNthAWyRahk4vsrDviqIdOzt1gOAYY6PHuwLvkkljQN\nLog3BGDpe5n/3UiS3yDUsSBfxaYNa1+C224WdqY81Z3MWANMB8j4jmyYny6Kd0hr\nfXrtcljwBBe6NviJLAEEYsxZp4a/cGelGdm11VZ8ij6Cuj8bfhemv/WzQJCHFss0\n9bOM+jbD/qewpJyJdvHkdIk6V38MRU6iyo454OrPO95K5ygVE6KFuweTn/jXn3c6\nb1oEWMePg7n9f2mkgcDh1gPmoRQFvpNWyHqcdHzuEXcou7Mhxr3q+7XsCo/MCLtn\nwqS86MZ4mA3DCH+ixmqaA3DQHdll6zIH/Vbtzz46j7epHBM/WFQQWpNXDEEcqswk\nu0zKgSHM2DMhIBzkYgMfobZtHoitOuTZL0rYwppFuhO+m10GkEVhREnvggVe4gRI\nE7CASWrCVZ1XF51/KxvXL5fEjQnbPxZEExgUdgDnBg==\n=qO25\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5323e9549d907de54c8f1208cba5c4e7693f0630\ntype commit\ntag 14.0.0.0b2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1551186115 +0000\n\nneutron 14.0.0.0b2 development milestone\n\nmeta:version: 14.0.0.0b2\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: I42839e3168cd2ae2ee13b1fe96776d3982c58838\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

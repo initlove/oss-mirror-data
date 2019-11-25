@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6MGNmZWIwOGQxMjQ4YzhiYTMyMjRjMDI5ZTI4NGNkNzhiOGZmNmYxMg==",
+  "sha": "0cfeb08d1248c8ba3224c029e284cd78b8ff6f12",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/0cfeb08d1248c8ba3224c029e284cd78b8ff6f12",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2016-07-12T19:33:24Z"
+  },
+  "object": {
+    "sha": "94b0ad640bc56419655dbb5815eba8eecb7c1973",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/94b0ad640bc56419655dbb5815eba8eecb7c1973"
+  },
+  "tag": "v0.4.34",
+  "message": "v0.4.34\n\n- Fix setting FD_CLOEXEC on stdin/stdout/stderr when a\n  uvloop.Loop is created.\n\n- Fix a regression introduced in v0.4.33 that caused uvloop\n  to crash when UVHandle instances were GCed with open\n  uv_handle_t resources.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

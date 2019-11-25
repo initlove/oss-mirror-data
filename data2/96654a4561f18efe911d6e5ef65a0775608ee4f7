@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc3Mjk5MDc6OTY2NTRhNDU2MWYxOGVmZTkxMWQ2ZTVlZjY1YTA3NzU2MDhlZTRmNw==",
+  "sha": "96654a4561f18efe911d6e5ef65a0775608ee4f7",
+  "url": "https://api.github.com/repos/grpc/grpc-go/git/tags/96654a4561f18efe911d6e5ef65a0775608ee4f7",
+  "tagger": {
+    "name": "Menghan Li",
+    "email": "menghanl@google.com",
+    "date": "2016-10-03T18:18:03Z"
+  },
+  "object": {
+    "sha": "b1a2821ca5a4fd6b6e48ddfbb7d6d7584d839d21",
+    "type": "commit",
+    "url": "https://api.github.com/repos/grpc/grpc-go/git/commits/b1a2821ca5a4fd6b6e48ddfbb7d6d7584d839d21"
+  },
+  "tag": "v1.0.2",
+  "message": "Include some API changes for grpclb:\n* TransportCredentials interface\n  - Add Clone() and OverrideServerName()\n* Balancer interface\n  - Change Start(string) error to Start(string, BalancerConfig) error\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

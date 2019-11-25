@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDE6MjM0NjYyZTYxMDM5ZTkxNzJkMjczYWVmOGJhZDU1ZTRiZjA0MGNjYw==",
+  "sha": "234662e61039e9172d273aef8bad55e4bf040ccc",
+  "url": "https://api.github.com/repos/openstack/ironic/git/tags/234662e61039e9172d273aef8bad55e4bf040ccc",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-08-14T13:21:15Z"
+  },
+  "object": {
+    "sha": "21b199b586959cdedd92543a3d1bf2252907f67c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic/git/commits/21b199b586959cdedd92543a3d1bf2252907f67c"
+  },
+  "tag": "10.1.4",
+  "message": "ironic 10.1.4 release\n\nmeta:version: 10.1.4\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Commit: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Change-Id: I2050557a3e3c3963fe29ab131da8e03a36c6768a\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbctdLAAoJEMNs3LTfAMaMgvMH/R9Ts7os5/vGSCcBQQC2vCdV\n4MOmHCB7upCy5rTMVcKGi6zbRiW+j2UoUQNlINHy2uVYMNx0n+cYvHRSTW3fU/bS\nO9/FXEwqHOOUfbRya9cdkBXAcARWx8mmR2zkqsDI9SDdf4a9WCmO/CuIVrDXHlle\n81nTaPhB5mbH5eGaXXu3ADN/KoTboIAv3Xhnx4vM8M0WNOxNSzBfQEm+vxGdR5an\n7yu1q6JWAxOFhFf/JVv1uTNibRdDRL3G7uZFo2f+GefRTteOIbrd/kjkpEE4EFbu\nvZk1eTekp3b02EOrsA1ma9L6FCFnOEu0bq7T4NXfNreqq8VFWStiydMakyEjAcY=\n=lsZ0\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbctdLAAoJEMNs3LTfAMaMgvMH/R9Ts7os5/vGSCcBQQC2vCdV\n4MOmHCB7upCy5rTMVcKGi6zbRiW+j2UoUQNlINHy2uVYMNx0n+cYvHRSTW3fU/bS\nO9/FXEwqHOOUfbRya9cdkBXAcARWx8mmR2zkqsDI9SDdf4a9WCmO/CuIVrDXHlle\n81nTaPhB5mbH5eGaXXu3ADN/KoTboIAv3Xhnx4vM8M0WNOxNSzBfQEm+vxGdR5an\n7yu1q6JWAxOFhFf/JVv1uTNibRdDRL3G7uZFo2f+GefRTteOIbrd/kjkpEE4EFbu\nvZk1eTekp3b02EOrsA1ma9L6FCFnOEu0bq7T4NXfNreqq8VFWStiydMakyEjAcY=\n=lsZ0\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 21b199b586959cdedd92543a3d1bf2252907f67c\ntype commit\ntag 10.1.4\ntagger OpenStack Release Bot <infra-root@openstack.org> 1534252875 +0000\n\nironic 10.1.4 release\n\nmeta:version: 10.1.4\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Commit: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Change-Id: I2050557a3e3c3963fe29ab131da8e03a36c6768a\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

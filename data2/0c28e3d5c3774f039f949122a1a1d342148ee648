@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc4OTM3MDowYzI4ZTNkNWMzNzc0ZjAzOWY5NDkxMjJhMWExZDM0MjE0OGVlNjQ4",
+  "sha": "0c28e3d5c3774f039f949122a1a1d342148ee648",
+  "url": "https://api.github.com/repos/openstack/python-novaclient/git/tags/0c28e3d5c3774f039f949122a1a1d342148ee648",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-05-28T15:10:41Z"
+  },
+  "object": {
+    "sha": "f6ef23f806a68eaa3f5618ba9e672a942634447c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-novaclient/git/commits/f6ef23f806a68eaa3f5618ba9e672a942634447c"
+  },
+  "tag": "14.1.0",
+  "message": "python-novaclient 14.1.0 release\n\nmeta:version: 14.1.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Surya Seetharaman <suryaseetharaman.9@gmail.com>\nmeta:release:Commit: Surya Seetharaman <suryaseetharaman.9@gmail.com>\nmeta:release:Change-Id: Ie3b0e39fecb2244550629f6eacb886e49e20c9df\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlztT3EZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOK9oC/9iVVQt76dLAQOfYJrYuz4z\n4PVXLMaFUH2lUgs4H+qjAdu6bNTzPlOEgIbuGYO7rVIjhXp5zDoY1o+DkMdLpQ6V\n5iBPYSrvgvj2MMUGQyFtjNEGvlekJfuxO+Zdfacjpy/7urZI4Ld17094m/tgaUEb\nFykmqRFpkT0ZHw+R8XzgOfpraMl86sp2gOH3s9Vh28lPXa7T4D2d+icEEtMeNG8b\nZp9gcn6aYd+ynAG+HaOD6qYGU4ufHfnULxgyU/+55GTbIqBIlDvKZBoVAUGV8WFR\nYClCvX9JBFOzwDSxAHjYP9w3QQgWjg6tmz4yAgo891e96NJkc4RFtvAxI9FCf8cx\nfxWxDalKUhvXAkYQjDQF8vahyhxmC3zfpcaURwbvAUHKSdY0USeAxncsK+CMbEAB\nbDpY0mSKZmyQ6NP/qj8swUDs2uEbY9svO/GbDoL1a5QnF/gHH+QRS9RdLr5uW9Bb\n5lp5JiACsOnbLxd1D4T2ITa0J0SNNUmHgUE0TLM+b1s=\n=GcsG\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlztT3EZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOK9oC/9iVVQt76dLAQOfYJrYuz4z\n4PVXLMaFUH2lUgs4H+qjAdu6bNTzPlOEgIbuGYO7rVIjhXp5zDoY1o+DkMdLpQ6V\n5iBPYSrvgvj2MMUGQyFtjNEGvlekJfuxO+Zdfacjpy/7urZI4Ld17094m/tgaUEb\nFykmqRFpkT0ZHw+R8XzgOfpraMl86sp2gOH3s9Vh28lPXa7T4D2d+icEEtMeNG8b\nZp9gcn6aYd+ynAG+HaOD6qYGU4ufHfnULxgyU/+55GTbIqBIlDvKZBoVAUGV8WFR\nYClCvX9JBFOzwDSxAHjYP9w3QQgWjg6tmz4yAgo891e96NJkc4RFtvAxI9FCf8cx\nfxWxDalKUhvXAkYQjDQF8vahyhxmC3zfpcaURwbvAUHKSdY0USeAxncsK+CMbEAB\nbDpY0mSKZmyQ6NP/qj8swUDs2uEbY9svO/GbDoL1a5QnF/gHH+QRS9RdLr5uW9Bb\n5lp5JiACsOnbLxd1D4T2ITa0J0SNNUmHgUE0TLM+b1s=\n=GcsG\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f6ef23f806a68eaa3f5618ba9e672a942634447c\ntype commit\ntag 14.1.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1559056241 +0000\n\npython-novaclient 14.1.0 release\n\nmeta:version: 14.1.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Surya Seetharaman <suryaseetharaman.9@gmail.com>\nmeta:release:Commit: Surya Seetharaman <suryaseetharaman.9@gmail.com>\nmeta:release:Change-Id: Ie3b0e39fecb2244550629f6eacb886e49e20c9df\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

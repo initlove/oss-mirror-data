@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzA4NjA2NDU6MjE5NTFlZTgzMjE5MjljZjI0YzY1MGY5MzJkYzM2OTRkODJmOGIwOA==",
+  "sha": "21951ee8321929cf24c650f932dc3694d82f8b08",
+  "url": "https://api.github.com/repos/openstack/os-brick/git/tags/21951ee8321929cf24c650f932dc3694d82f8b08",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-09-01T11:56:29Z"
+  },
+  "object": {
+    "sha": "49a89c8757aad70611a00ea9e1c78f38060bc114",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/os-brick/git/commits/49a89c8757aad70611a00ea9e1c78f38060bc114"
+  },
+  "tag": "1.6.1",
+  "message": "os-brick 1.6.1 release\n\nmeta:version: 1.6.1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Commit: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Change-Id: Ib42609e65bc5a99d618cf6f2897ced5a498ab950\nmeta:release:Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXyBdtAAoJENljH+rwzGInr/MIAK8MZWs/lj22gd+dfDNBR4VS\n7kpQ2E2bYJ2OP8jFSFNCnZ9bLn1Fc8fHZsuU62QnJoxvmCRLP1+T/lnxzQvFypYT\nieHjuNx2BSeFb8lNNkcCy/1fsVU+GOLAkK9u3pv8aBCls+JfWCNtqO7CsTacrUQM\n0sBLyuw8Nwf3S8UILE6QF4WjJBCwz4SKj0MKmyBgNPL2IfEHbyAM/oglUgZ4fUaF\neCUcE3sEhNsPqDIfiACDyJRMhQ9qyXFSgnU8aUzRR6T+jP1/z3hQeWyeOM5dGPK8\nW2zNtWzFz3bR/AJENhBEmsgvCF1LIm1K8/5RTBI64wYCrO5fpCEvNkuAykI9t+0=\n=oUIR\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXyBdtAAoJENljH+rwzGInr/MIAK8MZWs/lj22gd+dfDNBR4VS\n7kpQ2E2bYJ2OP8jFSFNCnZ9bLn1Fc8fHZsuU62QnJoxvmCRLP1+T/lnxzQvFypYT\nieHjuNx2BSeFb8lNNkcCy/1fsVU+GOLAkK9u3pv8aBCls+JfWCNtqO7CsTacrUQM\n0sBLyuw8Nwf3S8UILE6QF4WjJBCwz4SKj0MKmyBgNPL2IfEHbyAM/oglUgZ4fUaF\neCUcE3sEhNsPqDIfiACDyJRMhQ9qyXFSgnU8aUzRR6T+jP1/z3hQeWyeOM5dGPK8\nW2zNtWzFz3bR/AJENhBEmsgvCF1LIm1K8/5RTBI64wYCrO5fpCEvNkuAykI9t+0=\n=oUIR\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 49a89c8757aad70611a00ea9e1c78f38060bc114\ntype commit\ntag 1.6.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1472730989 +0000\n\nos-brick 1.6.1 release\n\nmeta:version: 1.6.1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Commit: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Change-Id: Ib42609e65bc5a99d618cf6f2897ced5a498ab950\nmeta:release:Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

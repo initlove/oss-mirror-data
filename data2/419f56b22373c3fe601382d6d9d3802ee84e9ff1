@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQwMDI4OTo0MTlmNTZiMjIzNzNjM2ZlNjAxMzgyZDZkOWQzODAyZWU4NGU5ZmYx",
+  "sha": "419f56b22373c3fe601382d6d9d3802ee84e9ff1",
+  "url": "https://api.github.com/repos/openstack/neutron/git/tags/419f56b22373c3fe601382d6d9d3802ee84e9ff1",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-07-01T02:47:14Z"
+  },
+  "object": {
+    "sha": "feab3462b2bf8b06caba6a15b2311309c6c08a50",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron/git/commits/feab3462b2bf8b06caba6a15b2311309c6c08a50"
+  },
+  "tag": "13.0.4",
+  "message": "neutron 13.0.4 release\n\nmeta:version: 13.0.4\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Brian Haley <bhaley@redhat.com>\nmeta:release:Commit: Brian Haley <bhaley@redhat.com>\nmeta:release:Change-Id: Ibcc6427016c91e701c7cf7fc19dce15438c17b1c\nmeta:release:Code-Review+1: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@verizonmedia.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0ZdDIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2Lh7DADPdtf2ffki1vA2i3ggECpm\nTKSR1Y7CkkkcTa90qUw1OjGvNFOHYE9/x4e6DaInyIELU5z1FxtzIp7pkRFfqW1L\nyNhxO9Hak+0UyE4peTetc2rwzSDU1cIOwYIbab7UTeyeIVNmcfyhXPRx34zx6Wdi\nQwhscWVFGZWBHdiu1rFR7xe4GtzawsFX7y5ulzGy6ZUMvi1UGax8J7TwpfqnoyBz\nMCtz13Z0Y6t61PjLG/xrBER6Dbe9w8I47rOSTDxV3zi6K4/rOoOSjxTsrY2JlymL\nAfEB6+EyZXhStAOybrPIkU+8Rnpkw2LhVwV+RldE+9bHP9iB/n9RSepi2xkeu9UI\nc1RPTa/BM4FUSJwYtvofhMm9NdchYQh6GjOi6doQ/nNX0Kc5fCu1XHqKLs/aglFJ\nS4JgOhQVH3CjkxxFfLfhqm+u0Reljj0qG1l5UpA9HRMmtQjjmvbpO+/MRZA3IaPq\nhaaCrP5POJem3vzWPGVrCfSQ8kX4vbp6Mz6cssZVHGk=\n=ASpW\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0ZdDIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2Lh7DADPdtf2ffki1vA2i3ggECpm\nTKSR1Y7CkkkcTa90qUw1OjGvNFOHYE9/x4e6DaInyIELU5z1FxtzIp7pkRFfqW1L\nyNhxO9Hak+0UyE4peTetc2rwzSDU1cIOwYIbab7UTeyeIVNmcfyhXPRx34zx6Wdi\nQwhscWVFGZWBHdiu1rFR7xe4GtzawsFX7y5ulzGy6ZUMvi1UGax8J7TwpfqnoyBz\nMCtz13Z0Y6t61PjLG/xrBER6Dbe9w8I47rOSTDxV3zi6K4/rOoOSjxTsrY2JlymL\nAfEB6+EyZXhStAOybrPIkU+8Rnpkw2LhVwV+RldE+9bHP9iB/n9RSepi2xkeu9UI\nc1RPTa/BM4FUSJwYtvofhMm9NdchYQh6GjOi6doQ/nNX0Kc5fCu1XHqKLs/aglFJ\nS4JgOhQVH3CjkxxFfLfhqm+u0Reljj0qG1l5UpA9HRMmtQjjmvbpO+/MRZA3IaPq\nhaaCrP5POJem3vzWPGVrCfSQ8kX4vbp6Mz6cssZVHGk=\n=ASpW\n-----END PGP SIGNATURE-----\n",
+    "payload": "object feab3462b2bf8b06caba6a15b2311309c6c08a50\ntype commit\ntag 13.0.4\ntagger OpenStack Release Bot <infra-root@openstack.org> 1561949234 +0000\n\nneutron 13.0.4 release\n\nmeta:version: 13.0.4\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Brian Haley <bhaley@redhat.com>\nmeta:release:Commit: Brian Haley <bhaley@redhat.com>\nmeta:release:Change-Id: Ibcc6427016c91e701c7cf7fc19dce15438c17b1c\nmeta:release:Code-Review+1: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@verizonmedia.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

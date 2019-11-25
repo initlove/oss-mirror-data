@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTc5OTM5NTM6OGU5MDc4YjQxYmNjOGZkOTI3Y2M3YzE3ZmFmYWVhNDUxMmJjOTBkOA==",
+  "sha": "8e9078b41bcc8fd927cc7c17fafaea4512bc90d8",
+  "url": "https://api.github.com/repos/openstack/ironic-python-agent/git/tags/8e9078b41bcc8fd927cc7c17fafaea4512bc90d8",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-10-27T00:39:49Z"
+  },
+  "object": {
+    "sha": "79568eecbf2237e0b35cee03370fc7bb94687d4c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic-python-agent/git/commits/79568eecbf2237e0b35cee03370fc7bb94687d4c"
+  },
+  "tag": "3.0.0",
+  "message": "ironic-python-agent 3.0.0 release\n\nmeta:version: 3.0.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: Ib1bb077310381ab1f16f031197fc1c477219e128\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZ8oBVAAoJEEIeZHKBH5qBZ3UH/0O8s1MdZOrCdJ7hVUuiyJyE\ncegnRcwfi4ijZ59Zp+MQHGlRBlGf+j09bs9VuiT17DQVjGNvUVRqgkZcWci1YVur\nsk0CnWy4KFCadQNG6uBzhkJM0iPdYFGMOLZc3qNgmireVndgNUVMdiRoYjRy94hL\nibBLnxvlFPkeYk1l3K0+0Kl9yRfi7ItR5tK3x5QrayA91oaJ62v1A4p6kng3F82e\nzbc7H6T6mRvz2NxDX9x1hXY+OVhSXboE54dzDisTmFCWLs+BcxilzB24nYLhYaxs\nrvah/cNLSLEGaz8278n7Sn7wV9XIM7TaKOgmKfSZjigKEZqF44YmVWb7p3AIWHg=\n=Xccg\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZ8oBVAAoJEEIeZHKBH5qBZ3UH/0O8s1MdZOrCdJ7hVUuiyJyE\ncegnRcwfi4ijZ59Zp+MQHGlRBlGf+j09bs9VuiT17DQVjGNvUVRqgkZcWci1YVur\nsk0CnWy4KFCadQNG6uBzhkJM0iPdYFGMOLZc3qNgmireVndgNUVMdiRoYjRy94hL\nibBLnxvlFPkeYk1l3K0+0Kl9yRfi7ItR5tK3x5QrayA91oaJ62v1A4p6kng3F82e\nzbc7H6T6mRvz2NxDX9x1hXY+OVhSXboE54dzDisTmFCWLs+BcxilzB24nYLhYaxs\nrvah/cNLSLEGaz8278n7Sn7wV9XIM7TaKOgmKfSZjigKEZqF44YmVWb7p3AIWHg=\n=Xccg\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 79568eecbf2237e0b35cee03370fc7bb94687d4c\ntype commit\ntag 3.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1509064789 +0000\n\nironic-python-agent 3.0.0 release\n\nmeta:version: 3.0.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: Ib1bb077310381ab1f16f031197fc1c477219e128\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

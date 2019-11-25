@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOjljMDFiYTdjODc1NzExZDA5MzBhYzQ3ODNhZmI5YzM2YmZkNTA4NTc=",
+  "sha": "9c01ba7c875711d0930ac4783afb9c36bfd50857",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/9c01ba7c875711d0930ac4783afb9c36bfd50857",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2016-05-12T20:22:59Z"
+  },
+  "object": {
+    "sha": "0d6a11227b7f592484faf4ca4ddbd9c1b48677de",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/0d6a11227b7f592484faf4ca4ddbd9c1b48677de"
+  },
+  "tag": "3.1.2-beta3",
+  "message": "Version 3.1.2-beta3\n\n - Add some pre-publish warnings to help bad builds from being published\n - Add some pre-publish logging\n - Refactor setBaudrate for Unix making it easier for custom baudRate support\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

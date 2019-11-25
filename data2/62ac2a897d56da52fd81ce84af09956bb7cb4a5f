@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDE6NjJhYzJhODk3ZDU2ZGE1MmZkODFjZTg0YWYwOTk1NmJiN2NiNGE1Zg==",
+  "sha": "62ac2a897d56da52fd81ce84af09956bb7cb4a5f",
+  "url": "https://api.github.com/repos/openstack/ironic/git/tags/62ac2a897d56da52fd81ce84af09956bb7cb4a5f",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-10T15:44:55Z"
+  },
+  "object": {
+    "sha": "8ecae41ee12a81d741cc8e63ad8eba8fb5c180e3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic/git/commits/8ecae41ee12a81d741cc8e63ad8eba8fb5c180e3"
+  },
+  "tag": "13.0.1",
+  "message": "ironic 13.0.1 release\n\nmeta:version: 13.0.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Mark Goddard <mark@stackhpc.com>\nmeta:release:Commit: Mark Goddard <mark@stackhpc.com>\nmeta:release:Change-Id: I9a164a7a81d8ade41b0ad76f496cb8d3f53923db\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2fUfcZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2CE8C/9p3f/jUmpVzSsSy4SZWB1S\nHdmDfqYs3BFlOHoUEVDHGlrPXcsvRnth2f72h9w6p5FC1pdPpy6UYiNXSvbj0dOq\nIHqfyRvz6qI/2AiByULP0ekIrm6z6wP0YL7J5bM4DsuF9bzaQOJWia+C4WVrhzME\nAbd4W05VCY8hJB5CF4E9yvYfA2H5MLYUzuHOAsdVmkefVo1Hit7SyItRq7OtSgfP\nd+R5yIpuK+qk6Zamb4xDqb6Q4ohLF3PVb55kMqZ1h80GpsQxZzMDO/FcRcfkq9jN\ncKmCJFivDGutBk2xSyQUzX8Ac+17XoKVbcxikLz89wkzumZAyIQ3FQ2StG9gYErm\nd+agHjxeqgRle/sVhgL6d6rlBCCluYL3x+/QLXCWDzeQVzyEY87lMtXgNVTxN/Xa\nvtLh+lgfojraWnVUAhJ56l8c2GrZpBm4fIOynRjYdgzBav/4s1wMhlFjCrwNVoJV\nn0eNAPTPpaERV0zXpzBnOLV+mH2DzwUqe9li90Y32JY=\n=ek7N\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2fUfcZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2CE8C/9p3f/jUmpVzSsSy4SZWB1S\nHdmDfqYs3BFlOHoUEVDHGlrPXcsvRnth2f72h9w6p5FC1pdPpy6UYiNXSvbj0dOq\nIHqfyRvz6qI/2AiByULP0ekIrm6z6wP0YL7J5bM4DsuF9bzaQOJWia+C4WVrhzME\nAbd4W05VCY8hJB5CF4E9yvYfA2H5MLYUzuHOAsdVmkefVo1Hit7SyItRq7OtSgfP\nd+R5yIpuK+qk6Zamb4xDqb6Q4ohLF3PVb55kMqZ1h80GpsQxZzMDO/FcRcfkq9jN\ncKmCJFivDGutBk2xSyQUzX8Ac+17XoKVbcxikLz89wkzumZAyIQ3FQ2StG9gYErm\nd+agHjxeqgRle/sVhgL6d6rlBCCluYL3x+/QLXCWDzeQVzyEY87lMtXgNVTxN/Xa\nvtLh+lgfojraWnVUAhJ56l8c2GrZpBm4fIOynRjYdgzBav/4s1wMhlFjCrwNVoJV\nn0eNAPTPpaERV0zXpzBnOLV+mH2DzwUqe9li90Y32JY=\n=ek7N\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8ecae41ee12a81d741cc8e63ad8eba8fb5c180e3\ntype commit\ntag 13.0.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1570722295 +0000\n\nironic 13.0.1 release\n\nmeta:version: 13.0.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Mark Goddard <mark@stackhpc.com>\nmeta:release:Commit: Mark Goddard <mark@stackhpc.com>\nmeta:release:Change-Id: I9a164a7a81d8ade41b0ad76f496cb8d3f53923db\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

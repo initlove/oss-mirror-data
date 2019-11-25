@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY5NjAyOTM6NzUxMzljY2ZlN2UzOTZiNTU0ZmVhOTA5YmQ5ZmY1YTZlZjg3MzNjZQ==",
+  "sha": "75139ccfe7e396b554fea909bd9ff5a6ef8733ce",
+  "url": "https://api.github.com/repos/opencontainers/runtime-spec/git/tags/75139ccfe7e396b554fea909bd9ff5a6ef8733ce",
+  "tagger": {
+    "name": "Vincent Batts",
+    "email": "vbatts@hashbangbash.com",
+    "date": "2016-01-12T23:59:36Z"
+  },
+  "object": {
+    "sha": "467fd17d4f2a987fa00051ce44b69bf9620e2ee6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/opencontainers/runtime-spec/git/commits/467fd17d4f2a987fa00051ce44b69bf9620e2ee6"
+  },
+  "tag": "v0.2.0",
+  "message": "Reminder: During the 0.x series of OCI releases we make no backwards\ncompatibility guarantees and intend to break the schema during this series.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlaVk+EACgkQEJN+V3M/E2LuMQCdEfqRUjVXZIGNYHZBQdXoyFIp\nzJAAoJXy2n5IL8iKP2I7bzWZcqvhzKoN\n=vo3e\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlaVk+EACgkQEJN+V3M/E2LuMQCdEfqRUjVXZIGNYHZBQdXoyFIp\nzJAAoJXy2n5IL8iKP2I7bzWZcqvhzKoN\n=vo3e\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 467fd17d4f2a987fa00051ce44b69bf9620e2ee6\ntype commit\ntag v0.2.0\ntagger Vincent Batts <vbatts@hashbangbash.com> 1452643176 -0500\n\nReminder: During the 0.x series of OCI releases we make no backwards\ncompatibility guarantees and intend to break the schema during this series.\n"
+  }
+}

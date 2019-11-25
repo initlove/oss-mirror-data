@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjM0NDA0NDQ6OTFmOTE4YTc0ZWNkZTdmOWMzYzVkMzA0NjMwMTcxMThmMjM0OGViNg==",
+  "sha": "91f918a74ecde7f9c3c5d30463017118f2348eb6",
+  "url": "https://api.github.com/repos/openstack/oslo.log/git/tags/91f918a74ecde7f9c3c5d30463017118f2348eb6",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-06-15T15:57:12Z"
+  },
+  "object": {
+    "sha": "527a76e4e33a980c925315dc7700afcb060c365c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.log/git/commits/527a76e4e33a980c925315dc7700afcb060c365c"
+  },
+  "tag": "3.28.1",
+  "message": "oslo.log 3.28.1 release\n\nmeta:version: 3.28.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: I4cc8439263b8a2a52d4e0acf14345a45b99d1d64\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZQq5YAAoJEOtsyhSD+nTs2kAH/i9k9I2XvpFp/6g/WZ6DX6Yi\niQkvz3pqeX7mQ+sjn0FVBKy6GNofHge8KOnOztiOes+O+wczYGKsBMhJ9F6Gx3GJ\njxakf4CZNwAnaKlnidkM8LiYPufg2SqIeKN8tnJT7jHhiOULZHuiHNOoEiYwjm/w\nj8VgQctwU4mwXLElcEfxcgDKSFk6tLREBHJn+PgOTc03i9f4hYbh8O1Vlx6DQ8wp\nry/apG9u2KIEyDzdmk5TPmLCypCTQSvfVBn+x1DJFefAnYP58oDc5MNE26Y8IBNX\nw5zUomu7F7yYZ4/Ta1hSYOpGmD2SjdSnvE5BmUX/88ijWfyrwJvXtcZClK42xHA=\n=EHee\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZQq5YAAoJEOtsyhSD+nTs2kAH/i9k9I2XvpFp/6g/WZ6DX6Yi\niQkvz3pqeX7mQ+sjn0FVBKy6GNofHge8KOnOztiOes+O+wczYGKsBMhJ9F6Gx3GJ\njxakf4CZNwAnaKlnidkM8LiYPufg2SqIeKN8tnJT7jHhiOULZHuiHNOoEiYwjm/w\nj8VgQctwU4mwXLElcEfxcgDKSFk6tLREBHJn+PgOTc03i9f4hYbh8O1Vlx6DQ8wp\nry/apG9u2KIEyDzdmk5TPmLCypCTQSvfVBn+x1DJFefAnYP58oDc5MNE26Y8IBNX\nw5zUomu7F7yYZ4/Ta1hSYOpGmD2SjdSnvE5BmUX/88ijWfyrwJvXtcZClK42xHA=\n=EHee\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 527a76e4e33a980c925315dc7700afcb060c365c\ntype commit\ntag 3.28.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1497542232 +0000\n\noslo.log 3.28.1 release\n\nmeta:version: 3.28.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: I4cc8439263b8a2a52d4e0acf14345a45b99d1d64\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

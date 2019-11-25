@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzE2NDUwMDU6NmJjMGNlOWQ2ZGUzMmJhMjY2MGJkYjAxZDMyOWNlOGYyNzkxMmFiMQ==",
+  "sha": "6bc0ce9d6de32ba2660bdb01d329ce8f27912ab1",
+  "url": "https://api.github.com/repos/openstack/ironic-lib/git/tags/6bc0ce9d6de32ba2660bdb01d329ce8f27912ab1",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-06-06T06:31:38Z"
+  },
+  "object": {
+    "sha": "f46f271bca789ed1fb0860c02225ed326e5cd90b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic-lib/git/commits/f46f271bca789ed1fb0860c02225ed326e5cd90b"
+  },
+  "tag": "2.12.3",
+  "message": "ironic-lib 2.12.3 release\n\nmeta:version: 2.12.3\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Commit: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Change-Id: Ib7b9545c6b529e18e73868b053f129df5e83ec45\nmeta:release:Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlz4s0oZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOGMRC/9xE0AblzWZuH5UejX3r6W/\nmXVu2s/y0lG/8kT3d9neHU7Wc0vlQMdPiwdDln2mYYm2zWuo504IRljnd5Ppuikf\nqnGDo+MO4vsdqYMMk18ZMbNj8uFga089XkmQqDLtdAa3PcFPTr1+n1fDO25bDVJC\njnTeNZ+4L3wW6Pt6xo/RiPRtqIMQLkG+i3jlMdctQc2UaCcugvULg4rrf6rYSnBq\ncZyDfr6jKtecHeUbIn73/foewFkPf+Yg0ET8rqM0MwqIFrusLyLtZbOxBzzhoKon\nHbdzvQum+EKgqqvKenxOqaVtO2Io2PfYJoN48ToA9Cj5/Vhb1forp2cDglQU/ccy\naLnxdgy1vsmSr1M7zsq+ywW1oan9vf+9bGWFfpEO2HW+bf2nl5RP2QhUOvKT2zHb\nBrMKOk2px1IvvwPhnEiFaF4X5AgBEvhyNwbd4X1J59wOKN/78910qqX8WMIi/Nok\nGqk8g3ZpJiltyjKMHo51qlSXjXfNYevuNqIxgluB330=\n=+M+2\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlz4s0oZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOGMRC/9xE0AblzWZuH5UejX3r6W/\nmXVu2s/y0lG/8kT3d9neHU7Wc0vlQMdPiwdDln2mYYm2zWuo504IRljnd5Ppuikf\nqnGDo+MO4vsdqYMMk18ZMbNj8uFga089XkmQqDLtdAa3PcFPTr1+n1fDO25bDVJC\njnTeNZ+4L3wW6Pt6xo/RiPRtqIMQLkG+i3jlMdctQc2UaCcugvULg4rrf6rYSnBq\ncZyDfr6jKtecHeUbIn73/foewFkPf+Yg0ET8rqM0MwqIFrusLyLtZbOxBzzhoKon\nHbdzvQum+EKgqqvKenxOqaVtO2Io2PfYJoN48ToA9Cj5/Vhb1forp2cDglQU/ccy\naLnxdgy1vsmSr1M7zsq+ywW1oan9vf+9bGWFfpEO2HW+bf2nl5RP2QhUOvKT2zHb\nBrMKOk2px1IvvwPhnEiFaF4X5AgBEvhyNwbd4X1J59wOKN/78910qqX8WMIi/Nok\nGqk8g3ZpJiltyjKMHo51qlSXjXfNYevuNqIxgluB330=\n=+M+2\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f46f271bca789ed1fb0860c02225ed326e5cd90b\ntype commit\ntag 2.12.3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1559802698 +0000\n\nironic-lib 2.12.3 release\n\nmeta:version: 2.12.3\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Commit: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Change-Id: Ib7b9545c6b529e18e73868b053f129df5e83ec45\nmeta:release:Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

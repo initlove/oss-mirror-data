@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQwMDI4OToyY2Y4NTAxZjY2YjQ5MmRjMjZmNjk2YzhjMTlmZGQwMGI2OTA0ODE1",
+  "sha": "2cf8501f66b492dc26f696c8c19fdd00b6904815",
+  "url": "https://api.github.com/repos/openstack/neutron/git/tags/2cf8501f66b492dc26f696c8c19fdd00b6904815",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-09-16T16:11:05Z"
+  },
+  "object": {
+    "sha": "827fd459fae9c814b74388194262425d6f26a0bf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron/git/commits/827fd459fae9c814b74388194262425d6f26a0bf"
+  },
+  "tag": "9.0.0.0rc1",
+  "message": "neutron 9.0.0.0rc1 release candidate\n\nmeta:version: 9.0.0.0rc1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Commit: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Change-Id: Ibb394139cf8ce7650181390e17a236da54609212\nmeta:release:Code-Review+1: Armando Migliaccio <armamig@gmail.com>\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX3BmZAAoJENljH+rwzGInTw0H/iMHiW90nKmncnz1dSYfK/3V\npK6JypcRVw1w/+a5/77r+7fnxxCpObbeCgOvph5iW6jSJv21v2zNLWM1ENqWaxxR\nFF+swNab1EbpMG3PawQuHqHsUjha2/CpCorCNfJgmz+6LGE3iCJPYT9lQEy2uDwF\nNzkebwA0SA0TbMLGnLGkN6RE1IVhNhTEXv26ym3HiKvY5qo5IwLZ7fJqaZp2ZfIX\nLj8OVDk6C8Ur33UiYNOzqxXv/754D9V2XPB6dW/tQ2Z3TNTR4qRrvv6IIClarMHx\nKOLz9BermyBJqvhx7AXM+t4tt6JJimMuKY2V/rUQBSNJ+iCDYTA3Ky4qbobAQjE=\n=d+sD\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX3BmZAAoJENljH+rwzGInTw0H/iMHiW90nKmncnz1dSYfK/3V\npK6JypcRVw1w/+a5/77r+7fnxxCpObbeCgOvph5iW6jSJv21v2zNLWM1ENqWaxxR\nFF+swNab1EbpMG3PawQuHqHsUjha2/CpCorCNfJgmz+6LGE3iCJPYT9lQEy2uDwF\nNzkebwA0SA0TbMLGnLGkN6RE1IVhNhTEXv26ym3HiKvY5qo5IwLZ7fJqaZp2ZfIX\nLj8OVDk6C8Ur33UiYNOzqxXv/754D9V2XPB6dW/tQ2Z3TNTR4qRrvv6IIClarMHx\nKOLz9BermyBJqvhx7AXM+t4tt6JJimMuKY2V/rUQBSNJ+iCDYTA3Ky4qbobAQjE=\n=d+sD\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 827fd459fae9c814b74388194262425d6f26a0bf\ntype commit\ntag 9.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1474042265 +0000\n\nneutron 9.0.0.0rc1 release candidate\n\nmeta:version: 9.0.0.0rc1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Commit: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Change-Id: Ibb394139cf8ce7650181390e17a236da54609212\nmeta:release:Code-Review+1: Armando Migliaccio <armamig@gmail.com>\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n"
+  }
+}

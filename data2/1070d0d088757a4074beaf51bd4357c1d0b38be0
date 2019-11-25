@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzE4Mjg0OTg6MTA3MGQwZDA4ODc1N2E0MDc0YmVhZjUxYmQ0MzU3YzFkMGIzOGJlMA==",
+  "sha": "1070d0d088757a4074beaf51bd4357c1d0b38be0",
+  "url": "https://api.github.com/repos/google/keyczar/git/tags/1070d0d088757a4074beaf51bd4357c1d0b38be0",
+  "tagger": {
+    "name": "Shawn Willden",
+    "email": "swillden@google.com",
+    "date": "2012-02-22T18:06:10Z"
+  },
+  "object": {
+    "sha": "7f5fa88cca977a7458a76a6c033bb636fca7f2fe",
+    "type": "commit",
+    "url": "https://api.github.com/repos/google/keyczar/git/commits/7f5fa88cca977a7458a76a6c033bb636fca7f2fe"
+  },
+  "tag": "Python_release_0.71b",
+  "message": "Overview of Changes:\n\t* Streaming encryption/decryption support (Robert Leftwich)\n\t* M2Crypto support (Robert Leftwich)\n\t* Pluggable back-ends (Robert Leftwich)\n\t* Made base-64 encoding optional (Shawn Willden)\n\t* Added signed session support (Shawn Willden)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.10 (GNU/Linux)\n\niF4EABEIAAYFAk9FLpMACgkQK4Yx34mrO16XKwD9FGK5x1GidYz9bauXmbvQmGkx\ne4jAtkOS/NsT+428c1UBAJMNkLDbqOyzwpIqNEmGPndNLcrhd3SObDACTX7/CqPm\n=ACqh\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.10 (GNU/Linux)\n\niF4EABEIAAYFAk9FLpMACgkQK4Yx34mrO16XKwD9FGK5x1GidYz9bauXmbvQmGkx\ne4jAtkOS/NsT+428c1UBAJMNkLDbqOyzwpIqNEmGPndNLcrhd3SObDACTX7/CqPm\n=ACqh\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7f5fa88cca977a7458a76a6c033bb636fca7f2fe\ntype commit\ntag Python_release_0.71b\ntagger Shawn Willden <swillden@google.com> 1329933970 -0700\n\nOverview of Changes:\n\t* Streaming encryption/decryption support (Robert Leftwich)\n\t* M2Crypto support (Robert Leftwich)\n\t* Pluggable back-ends (Robert Leftwich)\n\t* Made base-64 encoding optional (Shawn Willden)\n\t* Added signed session support (Shawn Willden)\n"
+  }
+}

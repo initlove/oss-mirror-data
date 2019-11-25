@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTo1YzUwNjYyNzdjNTQxZjYyODQxOWFlNTQ3YzAxMmZjZDlmNjIyNDBh",
+  "sha": "5c5066277c541f628419ae547c012fcd9f62240a",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/5c5066277c541f628419ae547c012fcd9f62240a",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-03-12T22:35:44Z"
+  },
+  "object": {
+    "sha": "22fdfb2a9ca71a1a47f225bf7ac45fea8289afaa",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/22fdfb2a9ca71a1a47f225bf7ac45fea8289afaa"
+  },
+  "tag": "v1.1.150",
+  "message": "Release of 1.1.150\n\n- 22fdfb2a9ca71a1a47f225bf7ac45fea8289afaa: Merge pull request #459 from qiangdavidliu/master\n- c4dd430f0e982afc0612eb7bb526e4d49728e64b: Adding generation guard for app and delta updates on RemoteRegistry\n- 8b0b46b066d3cebe0f6b8875476a57a922bd3bbd: Wrapping RemoteRegionFetch in TimedSupervisorTask\n- e39488976bb6a16857cff8ef7f2396042cf4ff11: Merge pull request #456 from brharrington/dep-versions\n- 80a646016aef0d4a53f253ac47c642a6aeeee7db: update dependency versions\n- dbf503905918a2808435d9e781512cf7813576cc: Merge pull request #447 from tbak/master\n- fbfc138c34d61a3db126d6fbf6ffe996ba92fda2: Upgrade to nebula 2.2.7\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

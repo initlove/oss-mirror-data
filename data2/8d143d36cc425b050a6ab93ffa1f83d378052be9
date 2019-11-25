@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTc5OTM5NTM6OGQxNDNkMzZjYzQyNWIwNTBhNmFiOTNmZmExZjgzZDM3ODA1MmJlOQ==",
+  "sha": "8d143d36cc425b050a6ab93ffa1f83d378052be9",
+  "url": "https://api.github.com/repos/openstack/ironic-python-agent/git/tags/8d143d36cc425b050a6ab93ffa1f83d378052be9",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-02-13T22:24:24Z"
+  },
+  "object": {
+    "sha": "47376816753ecb81cba4c3f18356c2e161f4b6c7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic-python-agent/git/commits/47376816753ecb81cba4c3f18356c2e161f4b6c7"
+  },
+  "tag": "2.0.0",
+  "message": "ironic-python-agent 2.0.0 release\n\nmeta:version: 2.0.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Commit: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Change-Id: Ibc192f1aa5732a8f255a78d837c508663210dc73\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYojIYAAoJELkGmxM1cAzcKykH/3+5+R1SPjhPM5izmCPXwZkD\n0Z9voKfinELUFe4nw2Ss9I7p7Rk2tlCHQL27R8mU8gu9Py7f8tvbRhqKw5DB5H7v\n5NwAHpVE4sdMim8Fxtfjro3mwR9oi6TYOrC5OSOCwIgnnID2zG6L2gAV6A2VDtQR\nnfuuhI7mp9ljddXSm5VzeJL3SGc5YbSsNORkY4NRqMkZNoWlumlXz1lFNO+Ar4DY\nlZZONvhI3KRklOh3UEwFjpkyXYuLBGAatTYvQkMguO0PtXveNCWL02Hs6U4McjFd\nYbVQ+VZFgCV4Oj1++5J5cigQLQaPGIJTq5gq1TFfkb6MHIQsQHZbgNaci0tdv4s=\n=zfNq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYojIYAAoJELkGmxM1cAzcKykH/3+5+R1SPjhPM5izmCPXwZkD\n0Z9voKfinELUFe4nw2Ss9I7p7Rk2tlCHQL27R8mU8gu9Py7f8tvbRhqKw5DB5H7v\n5NwAHpVE4sdMim8Fxtfjro3mwR9oi6TYOrC5OSOCwIgnnID2zG6L2gAV6A2VDtQR\nnfuuhI7mp9ljddXSm5VzeJL3SGc5YbSsNORkY4NRqMkZNoWlumlXz1lFNO+Ar4DY\nlZZONvhI3KRklOh3UEwFjpkyXYuLBGAatTYvQkMguO0PtXveNCWL02Hs6U4McjFd\nYbVQ+VZFgCV4Oj1++5J5cigQLQaPGIJTq5gq1TFfkb6MHIQsQHZbgNaci0tdv4s=\n=zfNq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 47376816753ecb81cba4c3f18356c2e161f4b6c7\ntype commit\ntag 2.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1487024664 +0000\n\nironic-python-agent 2.0.0 release\n\nmeta:version: 2.0.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Commit: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Change-Id: Ibc192f1aa5732a8f255a78d837c508663210dc73\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

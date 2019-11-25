@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjk0ODU3MTY6OTc3MTc2ZGRmMzc3ZDE3ZGMyODgwODc4YmNkOWI0MDYyMTIzNzFhOA==",
+  "sha": "977176ddf377d17dc2880878bcd9b406212371a8",
+  "url": "https://api.github.com/repos/openstack/oslo.policy/git/tags/977176ddf377d17dc2880878bcd9b406212371a8",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-06-14T14:56:30Z"
+  },
+  "object": {
+    "sha": "6aa8551aa4c03e3fd39d79d6c6bdc43ffe7bf2fc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.policy/git/commits/6aa8551aa4c03e3fd39d79d6c6bdc43ffe7bf2fc"
+  },
+  "tag": "1.10.0",
+  "message": "oslo.policy 1.10.0 release\n\nmeta:version: 1.10.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Commit: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Change-Id: If3f71ed75642bdd5a2cd4164650b4857575a77b5\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\nmeta:release: * Add policy registration and authorize method\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXYBseAAoJEDttBqDEKEN6t9gIALOG74eUiY1dJ5jE6M2oJXSV\njXhTRZguViLM/MfQgmTBFsiBGZPF3Zu4PqR1U5TCaeu9GflxRX8qoDI8HF23wqnK\nRobXl81joydWSd810ZQsNBj8NvYQRpOHtS/aAXYJefGlADitIpsjj4p1x/7UlWKp\nbq62o+cyWFWAuoJyXuGnaS4C0/zpre/WQnpOe438sEKOOyu29pCXU1FaN9EnDk2F\nsG8TyRnihco9h7rfblGcXmoewolOYmywnsxEl1TXNyQaZkXWz71eltk+vNd1vzsF\nZ0uCAtu6skdLuwdDhzpnMVDn5rhOny+n0J9LWl+ATyB7mVYLsWzBJLamXoIJFx0=\n=nLYd\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXYBseAAoJEDttBqDEKEN6t9gIALOG74eUiY1dJ5jE6M2oJXSV\njXhTRZguViLM/MfQgmTBFsiBGZPF3Zu4PqR1U5TCaeu9GflxRX8qoDI8HF23wqnK\nRobXl81joydWSd810ZQsNBj8NvYQRpOHtS/aAXYJefGlADitIpsjj4p1x/7UlWKp\nbq62o+cyWFWAuoJyXuGnaS4C0/zpre/WQnpOe438sEKOOyu29pCXU1FaN9EnDk2F\nsG8TyRnihco9h7rfblGcXmoewolOYmywnsxEl1TXNyQaZkXWz71eltk+vNd1vzsF\nZ0uCAtu6skdLuwdDhzpnMVDn5rhOny+n0J9LWl+ATyB7mVYLsWzBJLamXoIJFx0=\n=nLYd\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6aa8551aa4c03e3fd39d79d6c6bdc43ffe7bf2fc\ntype commit\ntag 1.10.0\ntagger Doug Hellmann <doug@doughellmann.com> 1465916190 -0400\n\noslo.policy 1.10.0 release\n\nmeta:version: 1.10.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Commit: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Change-Id: If3f71ed75642bdd5a2cd4164650b4857575a77b5\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\nmeta:release: * Add policy registration and authorize method\n"
+  }
+}

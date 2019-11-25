@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzA4NjA2NDU6MWFkNTBjY2NmYTJhMzdiOTE4YjUwN2I5YjVjZDY2YzU1OTE2ZDBiNg==",
+  "sha": "1ad50cccfa2a37b918b507b9b5cd66c55916d0b6",
+  "url": "https://api.github.com/repos/openstack/os-brick/git/tags/1ad50cccfa2a37b918b507b9b5cd66c55916d0b6",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-07-11T09:31:36Z"
+  },
+  "object": {
+    "sha": "4c2b25391091b5ad4935e552f2be53c0cf3ee738",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/os-brick/git/commits/4c2b25391091b5ad4935e552f2be53c0cf3ee738"
+  },
+  "tag": "2.8.2",
+  "message": "os-brick 2.8.2 release\n\nmeta:version: 2.8.2\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I3d111a942fdce2b0b9936bb527a6d5a3927a8f57\nmeta:release:Code-Review+1: Jay Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0nAfgZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2MkEDAC9GLB4bUXy2iFx7OXKc+74\n7IlafcwpeXVqaSXCBwz+uNAmYtGMtHoLYXfWj1/EVHkUiuprFoAB0lP9LEx5H1vY\nlATo0De9wJb5Q5j/aWsvKkbQcEYgjKlnkACb/EcPKwStxcVWRhZGUyJhuPhDvO66\n8e4Oy4WacXf033qqF9+rFZG7JvJgg9QdLtcPV3vF2oxMTANw4b2/9SUrirLZd0kc\n3a9+o1BIsJhvg8tD/QQ47Bd2TEPtVqfLGj284qWdBMf3yVvYh8BoEL9abSq2WRG7\ns+uLo7fhlpIy/NdlBi9Uimb4LLaDi6m9lj2OE1gAqjjtizgO5gS1qHjxjjdrWY42\nCXKZZBXVixC/KMoanrt/3hxztahWQJ35Benvcmcuw4pfCtMmWb3/yUsLmqSYSNdq\n6fpVkzlMx9coJQc1IHtR0s0dOlmI+nBhZlZSV95Sr0YeJUvKoeAUfhiqwk6SCb3m\nsFwdJXi8P01ErKv8zjXCGw7ZCsMra0QCOg7uIdqKo5E=\n=66wp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0nAfgZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2MkEDAC9GLB4bUXy2iFx7OXKc+74\n7IlafcwpeXVqaSXCBwz+uNAmYtGMtHoLYXfWj1/EVHkUiuprFoAB0lP9LEx5H1vY\nlATo0De9wJb5Q5j/aWsvKkbQcEYgjKlnkACb/EcPKwStxcVWRhZGUyJhuPhDvO66\n8e4Oy4WacXf033qqF9+rFZG7JvJgg9QdLtcPV3vF2oxMTANw4b2/9SUrirLZd0kc\n3a9+o1BIsJhvg8tD/QQ47Bd2TEPtVqfLGj284qWdBMf3yVvYh8BoEL9abSq2WRG7\ns+uLo7fhlpIy/NdlBi9Uimb4LLaDi6m9lj2OE1gAqjjtizgO5gS1qHjxjjdrWY42\nCXKZZBXVixC/KMoanrt/3hxztahWQJ35Benvcmcuw4pfCtMmWb3/yUsLmqSYSNdq\n6fpVkzlMx9coJQc1IHtR0s0dOlmI+nBhZlZSV95Sr0YeJUvKoeAUfhiqwk6SCb3m\nsFwdJXi8P01ErKv8zjXCGw7ZCsMra0QCOg7uIdqKo5E=\n=66wp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4c2b25391091b5ad4935e552f2be53c0cf3ee738\ntype commit\ntag 2.8.2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1562837496 +0000\n\nos-brick 2.8.2 release\n\nmeta:version: 2.8.2\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I3d111a942fdce2b0b9936bb527a6d5a3927a8f57\nmeta:release:Code-Review+1: Jay Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc0ODk5NDc6MjQ5MzA4MmE5NWFlZWY2MDI2OGIyZDk5ZmJmODlkMmMyNTlkZGNlOQ==",
+  "sha": "2493082a95aeef60268b2d99fbf89d2c259ddce9",
+  "url": "https://api.github.com/repos/openstack/neutron-fwaas/git/tags/2493082a95aeef60268b2d99fbf89d2c259ddce9",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-19T10:10:45Z"
+  },
+  "object": {
+    "sha": "679bfb772daf3354c1a1a42cb01b5b3b871b1279",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-fwaas/git/commits/679bfb772daf3354c1a1a42cb01b5b3b871b1279"
+  },
+  "tag": "15.0.0.0b1",
+  "message": "neutron-fwaas 15.0.0.0b1 development milestone\n\nmeta:version: 15.0.0.0b1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: Ie8b127e2d15e8079f2e1ac4ea6ab871e686e3901\nmeta:release:Code-Review+1: Nate Johnston <nate.johnston@redhat.com>\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@verizonmedia.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2DVCUZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2AsxC/9HuwfmBkUpuisGU6MzlpuL\n3s9i6+9kN2ZBD779kFmEGNQ0fDQqgJhQzpZCOBEBZHJXSMiW8kbUKJ4/uLzEP0Kn\nAMh8q/1N1WcIDpnfjAMJz5kCUi3sZ6GRKuxpAA97mb8FtbuclPInCsIWF534YDWj\nruu7m2qV2gWvZFXEZJq5rqMvQahYJA7v1PP4K0rN5dqXs6FxsLZMuMF1JsHoQmZl\nRrQQUcG73apRoeYcmBUbNeyhplaO+eIfNe4w3DLQN37M2efSsWUnwJ+3j2Iw+5KQ\nQsW4xGxopftNeSShi9rtJKzbcye5WeKNM8K95PAfDCjy0YVHNmjhzeDxq8GegtrZ\nTKdV4XYsaAY5O/ddfKhItSfgkzS0pUj4YcnEyaHzKfnV6wfg9Rrf09SfT/sHJi01\ncfKq3R/uBVnU/ZAsuHybBXLBH6tjLFUDSRVEv3dX3/Gq0niwL64oBML39cq4hPUD\nv0O+ODBcB+wVTTukkzwgllJXIb4hodwDH56MmbYJOLI=\n=FP/H\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2DVCUZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2AsxC/9HuwfmBkUpuisGU6MzlpuL\n3s9i6+9kN2ZBD779kFmEGNQ0fDQqgJhQzpZCOBEBZHJXSMiW8kbUKJ4/uLzEP0Kn\nAMh8q/1N1WcIDpnfjAMJz5kCUi3sZ6GRKuxpAA97mb8FtbuclPInCsIWF534YDWj\nruu7m2qV2gWvZFXEZJq5rqMvQahYJA7v1PP4K0rN5dqXs6FxsLZMuMF1JsHoQmZl\nRrQQUcG73apRoeYcmBUbNeyhplaO+eIfNe4w3DLQN37M2efSsWUnwJ+3j2Iw+5KQ\nQsW4xGxopftNeSShi9rtJKzbcye5WeKNM8K95PAfDCjy0YVHNmjhzeDxq8GegtrZ\nTKdV4XYsaAY5O/ddfKhItSfgkzS0pUj4YcnEyaHzKfnV6wfg9Rrf09SfT/sHJi01\ncfKq3R/uBVnU/ZAsuHybBXLBH6tjLFUDSRVEv3dX3/Gq0niwL64oBML39cq4hPUD\nv0O+ODBcB+wVTTukkzwgllJXIb4hodwDH56MmbYJOLI=\n=FP/H\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 679bfb772daf3354c1a1a42cb01b5b3b871b1279\ntype commit\ntag 15.0.0.0b1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1568887845 +0000\n\nneutron-fwaas 15.0.0.0b1 development milestone\n\nmeta:version: 15.0.0.0b1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: Ie8b127e2d15e8079f2e1ac4ea6ab871e686e3901\nmeta:release:Code-Review+1: Nate Johnston <nate.johnston@redhat.com>\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@verizonmedia.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

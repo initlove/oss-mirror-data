@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6MDFlMWRlNWRmZGM0ODRlYmQzMzA2YjJiNjExNTBhMTY3MDAwYjJkNw==",
+  "sha": "01e1de5dfdc484ebd3306b2b61150a167000b2d7",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/01e1de5dfdc484ebd3306b2b61150a167000b2d7",
+  "tagger": {
+    "name": "lkorth",
+    "email": "luke@lukekorth.com",
+    "date": "2016-06-16T18:19:35Z"
+  },
+  "object": {
+    "sha": "c044eca27b124365340d707617ddf3542b6b685b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/c044eca27b124365340d707617ddf3542b6b685b"
+  },
+  "tag": "2.3.3",
+  "message": "2.3.3\n\n* Add PayPal Checkout intent option (authorize or sale). See `PayPalRequest#intent`\n* Update UnionPay support in demo app custom integration\n* Update `android-card-form` to 2.3.1\n* Fix `NullPointerException` in `AddPaymentMethodViewController` (fixes [#100](https://github.com/braintree/braintree_android/issues/100))\n* Fix `IllegalStateException` when creating a `BraintreeFragment` (fixes [#104](https://github.com/braintree/braintree_android/issues/104))\n* Fix `NullPointerExcepetion` when `BraintreeFragment` is no attached to an `Activity` (fixes [#105](https://github.com/braintree/braintree_android/issues/105))\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

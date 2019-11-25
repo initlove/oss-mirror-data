@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjo4MDY4MTc4MWNiZjgxYzdkNTc0MDZlYWFlOTdmNDkxNWQ5YzY2YzE0",
+  "sha": "80681781cbf81c7d57406eaae97f4915d9c66c14",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/80681781cbf81c7d57406eaae97f4915d9c66c14",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:31:15Z"
+  },
+  "object": {
+    "sha": "98c23be7c45457e7c0cc1f8f2cbd2bd82f5ddb13",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/98c23be7c45457e7c0cc1f8f2cbd2bd82f5ddb13"
+  },
+  "tag": "0.2.2",
+  "message": "v0.2.2\n- Temporary remove deltarepo subpackages\n- cmake: Do not install deltarepo stuff yet\n- helper: Removed cr_remove_metadata() and cr_get_list_of_md_locations()\n- Add module helpers\n- Sanitize strings before writting them to XML or sqlitedb (ISSUE #3)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo1MGM1N2FiNmY3Y2I4NzU4NzJhOTJiNjNmN2FiZWE0MjA0NmUzMmQ4",
+  "sha": "50c57ab6f7cb875872a92b63f7abea42046e32d8",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/50c57ab6f7cb875872a92b63f7abea42046e32d8",
+  "tagger": {
+    "name": "Bert Belder",
+    "email": "bertbelder@gmail.com",
+    "date": "2013-03-28T18:56:36Z"
+  },
+  "object": {
+    "sha": "31ebe23973dd98fd8a24c042b606f37a794e99d0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/31ebe23973dd98fd8a24c042b606f37a794e99d0"
+  },
+  "tag": "v0.10.3",
+  "message": "2013.03.28, Version 0.10.3 (Stable)\n\nChanges since version 0.10.2:\n\n* include: remove extraneous const from uv_version() (Ben Noordhuis)\n\n* doc: update README, replace `OS` by `PLATFORM` (Ben Noordhuis)\n\n* build: simplify .buildstamp rule (Ben Noordhuis)\n\n* build: disable -Wstrict-aliasing on darwin (Ben Noordhuis)\n\n* darwin: don't select(&exceptfds) in fallback path (Ben Noordhuis)\n\n* unix: don't clear flags after closing UDP handle (Saúl Ibarra\n  Corretgé)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUYJJPXp3iHsuLtRhAQIHVAf8DEKOFywaNTDHupWXToFnA3wPqkMmQtZJ\nHqnSuzKOVQcjxS1/0jMz8FNDd0bP2yKS2CBJHoYdSNq5vFCJd49y5+Bkx8a2Wus0\nf6jqyL03wVYqhEg6CpcHKXZkldzlPYobMq/jRO6w8yoEthKPoMZ5R4Uc1Wl7mLs/\nzGGAMzl8VGnH7U2kUC4/C2VxJmNx5aWX+6X7FQvvuZMJT2bCTjBbaElXLk12i59h\naKuJUctkXa9LTjjd4DW+HIlvcHc7M40utp1bYFStLL2lokiPGAY3/FUZZViuaFv/\nZAlo8w0dvTYTW+5HBgbOVMDP6iwjyZa40UQzXYPW1QI5BlK0RbWoCg==\n=s74V\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUYJJPXp3iHsuLtRhAQIHVAf8DEKOFywaNTDHupWXToFnA3wPqkMmQtZJ\nHqnSuzKOVQcjxS1/0jMz8FNDd0bP2yKS2CBJHoYdSNq5vFCJd49y5+Bkx8a2Wus0\nf6jqyL03wVYqhEg6CpcHKXZkldzlPYobMq/jRO6w8yoEthKPoMZ5R4Uc1Wl7mLs/\nzGGAMzl8VGnH7U2kUC4/C2VxJmNx5aWX+6X7FQvvuZMJT2bCTjBbaElXLk12i59h\naKuJUctkXa9LTjjd4DW+HIlvcHc7M40utp1bYFStLL2lokiPGAY3/FUZZViuaFv/\nZAlo8w0dvTYTW+5HBgbOVMDP6iwjyZa40UQzXYPW1QI5BlK0RbWoCg==\n=s74V\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 31ebe23973dd98fd8a24c042b606f37a794e99d0\ntype commit\ntag v0.10.3\ntagger Bert Belder <bertbelder@gmail.com> 1364496996 +0100\n\n2013.03.28, Version 0.10.3 (Stable)\n\nChanges since version 0.10.2:\n\n* include: remove extraneous const from uv_version() (Ben Noordhuis)\n\n* doc: update README, replace `OS` by `PLATFORM` (Ben Noordhuis)\n\n* build: simplify .buildstamp rule (Ben Noordhuis)\n\n* build: disable -Wstrict-aliasing on darwin (Ben Noordhuis)\n\n* darwin: don't select(&exceptfds) in fallback path (Ben Noordhuis)\n\n* unix: don't clear flags after closing UDP handle (Saúl Ibarra\n  Corretgé)\n"
+  }
+}

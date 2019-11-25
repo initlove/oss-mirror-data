@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDQ6MzhiZmZmNzVlMmU1MGZlODAzNTZlMGIzMWIxZjlhMDllNjEzNDY3Yw==",
+  "sha": "38bfff75e2e50fe80356e0b31b1f9a09e613467c",
+  "url": "https://api.github.com/repos/openstack/python-ironicclient/git/tags/38bfff75e2e50fe80356e0b31b1f9a09e613467c",
+  "tagger": {
+    "name": "Devananda van der Veen",
+    "email": "devananda.vdv@gmail.com",
+    "date": "2014-08-05T16:46:22Z"
+  },
+  "object": {
+    "sha": "f0402709fbfaf2c6df67efc4865b8b6c9081457d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironicclient/git/commits/f0402709fbfaf2c6df67efc4865b8b6c9081457d"
+  },
+  "tag": "0.2.0",
+  "message": "Bump version to 0.2.0 to reflect feature additions present in the last release\n\nVersion 0.1.5 included the following changes and should have had a MINOR version change,\nnot merely a change in the PATCH version.\n\n* add \"node set-provision-state\" command\n* CLI supports vendor-passthru method\n* add \"driver-properties\" command to expose what \"driver_info\" attributes\n  each driver expects\n* client support for the get and set boot device calls on the new management\n  interface\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlPhC0MACgkQhFvuBniJg6fuWQCfdLm8rtCF1IQW4alRL6Y+0xS/\noiQAmwQFLpgZQAyh4M56/nYi5vpODLDL\n=i39B\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlPhC0MACgkQhFvuBniJg6fuWQCfdLm8rtCF1IQW4alRL6Y+0xS/\noiQAmwQFLpgZQAyh4M56/nYi5vpODLDL\n=i39B\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f0402709fbfaf2c6df67efc4865b8b6c9081457d\ntype commit\ntag 0.2.0\ntagger Devananda van der Veen <devananda.vdv@gmail.com> 1407257182 -0700\n\nBump version to 0.2.0 to reflect feature additions present in the last release\n\nVersion 0.1.5 included the following changes and should have had a MINOR version change,\nnot merely a change in the PATCH version.\n\n* add \"node set-provision-state\" command\n* CLI supports vendor-passthru method\n* add \"driver-properties\" command to expose what \"driver_info\" attributes\n  each driver expects\n* client support for the get and set boot device calls on the new management\n  interface\n"
+  }
+}

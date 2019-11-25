@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDE3MDMxMDo4YjU2YmU3ZmJiMjE4ZTQ4Nzk3NzA3ZjNlYmZmNDMxZGM3MzU5YzBi",
+  "sha": "8b56be7fbb218e48797707f3ebff431dc7359c0b",
+  "url": "https://api.github.com/repos/openstack/python-openstackclient/git/tags/8b56be7fbb218e48797707f3ebff431dc7359c0b",
+  "tagger": {
+    "name": "Thierry Carrez",
+    "email": "thierry@openstack.org",
+    "date": "2016-08-31T09:49:48Z"
+  },
+  "object": {
+    "sha": "8241f08ee1a67bbdaabd1026b81cc494a53530f2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-openstackclient/git/commits/8241f08ee1a67bbdaabd1026b81cc494a53530f2"
+  },
+  "tag": "3.2.0",
+  "message": "python-openstackclient 3.2.0 release\n\nmeta:version: 3.2.0\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: Iead778b66ffa63322ccb1883b6c35b285bd9c481\nmeta:release:Code-Review+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXxqg8AAoJEFB6+JAlsQQjaVkQALqbcR27Va4EtCC9FFRCDpYq\n+5GZzSrhwVSQdJobwdBiOn3kuQPuZv27KbSGiStOMp6pJeto6QkvhLwSVqyKO75I\nD8O8qSyNiHiNZPbch5hFTv4SK2iEu3HjzB42/MAE7sskQjs2cY3qcmc/185b9TcI\n+vHpqSm8hJhPMuZTMKu/bHSpAmqKSkdxrAOATpCtTzCeUvcpWhMByfC9IlnRR1Iu\nbO4cBqzp0wfYP4hHRHF5kmlNElxXBWnha5d2EsyEkYdAK5rGp6AoIl8SNRAP9tf/\nSsOdCksDvv0reMYzIyVvNPgjmjKua5aOlnxET2pzloUGlb01IUiyoCneFi9jUU/A\npapiKCXL6AzKRrcbtAHxYl/E0TeMQdyx/kPMY/Njx13rO8LGROtcB2KGFLFfBN4y\nkA97cEu0lYUWuuk5DnDOT6YWqFBdGPgckMormDhFzoDE2loCGsJlkyq+/5kVxXYe\nuuCwO8MW+DCykrO6OA4ardzev5PFx4neyZCoN9l4TJg31Ip2AHnVkfTE0diuiIs9\nn3GJBCxR5MH3bxBqveX+Lu8OMrS3S1PhpTEzs1gYFiMLNK7mnlCVi6Zzn4Vrl5Qo\nBUpkKtZRzWIdP6vp+MgACAeOAydSHg38RhLFQzyNeK9Bjiyi1VQrpv6Kt+d7oFzp\nIAeiE+LshIL1cyPwkZKl\n=dIg+\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXxqg8AAoJEFB6+JAlsQQjaVkQALqbcR27Va4EtCC9FFRCDpYq\n+5GZzSrhwVSQdJobwdBiOn3kuQPuZv27KbSGiStOMp6pJeto6QkvhLwSVqyKO75I\nD8O8qSyNiHiNZPbch5hFTv4SK2iEu3HjzB42/MAE7sskQjs2cY3qcmc/185b9TcI\n+vHpqSm8hJhPMuZTMKu/bHSpAmqKSkdxrAOATpCtTzCeUvcpWhMByfC9IlnRR1Iu\nbO4cBqzp0wfYP4hHRHF5kmlNElxXBWnha5d2EsyEkYdAK5rGp6AoIl8SNRAP9tf/\nSsOdCksDvv0reMYzIyVvNPgjmjKua5aOlnxET2pzloUGlb01IUiyoCneFi9jUU/A\npapiKCXL6AzKRrcbtAHxYl/E0TeMQdyx/kPMY/Njx13rO8LGROtcB2KGFLFfBN4y\nkA97cEu0lYUWuuk5DnDOT6YWqFBdGPgckMormDhFzoDE2loCGsJlkyq+/5kVxXYe\nuuCwO8MW+DCykrO6OA4ardzev5PFx4neyZCoN9l4TJg31Ip2AHnVkfTE0diuiIs9\nn3GJBCxR5MH3bxBqveX+Lu8OMrS3S1PhpTEzs1gYFiMLNK7mnlCVi6Zzn4Vrl5Qo\nBUpkKtZRzWIdP6vp+MgACAeOAydSHg38RhLFQzyNeK9Bjiyi1VQrpv6Kt+d7oFzp\nIAeiE+LshIL1cyPwkZKl\n=dIg+\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8241f08ee1a67bbdaabd1026b81cc494a53530f2\ntype commit\ntag 3.2.0\ntagger Thierry Carrez <thierry@openstack.org> 1472636988 +0200\n\npython-openstackclient 3.2.0 release\n\nmeta:version: 3.2.0\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: Iead778b66ffa63322ccb1883b6c35b285bd9c481\nmeta:release:Code-Review+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

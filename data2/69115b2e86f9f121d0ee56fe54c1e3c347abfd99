@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTYyMjMzNzg6NjkxMTViMmU4NmY5ZjEyMWQwZWU1NmZlNTRjMWUzYzM0N2FiZmQ5OQ==",
+  "sha": "69115b2e86f9f121d0ee56fe54c1e3c347abfd99",
+  "url": "https://api.github.com/repos/openstack/openstacksdk/git/tags/69115b2e86f9f121d0ee56fe54c1e3c347abfd99",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-06-06T06:08:18Z"
+  },
+  "object": {
+    "sha": "a5dfa85d4e7ff5bd5a40d37519670392f05ab6fe",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/openstacksdk/git/commits/a5dfa85d4e7ff5bd5a40d37519670392f05ab6fe"
+  },
+  "tag": "0.30.0",
+  "message": "openstacksdk 0.30.0 release\n\nmeta:version: 0.30.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: I196a3d871e3cc104e8a7171ea98d5379b8a089de\nmeta:release:Code-Review+1: Eric Fried <openstack@fried.cc>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlz4rdIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOKxMC/9pJXS5GPURu4Xf/HXCv3HY\nEz5foc41a+Lq3HrZWPGSzye6inkWmrrWM+jIvIA7+ca2jKRNYti77x0BWvyUkbEM\nGBMF1QoPVI1pCz1fOoX+JdVsTEJ4ATV6EXFXE8b5D1562/RNABqlpvrIqsqekssQ\nyqV/O5gBFt+ZgNWtNyxpbD6byOQ2NehbLUCOZven6qNgYQhBtMbA717443wNJhdR\nEmlrrqWqrhl62ayKLpKc6jk6X2+Lissc9jl8fTmSUZJ3+bLGnfvKQ8IOxJ5y8Z/o\nZ8TfHTF3LixeUhKEDbCt3sXgNB45c6Wx2WGYtXmFm2zQbXGCIPjGYDG/DCKSR1y+\nJA+i4FRouCrqzGc8y+QqbqLYxmlj3Y07AA/NgnEtyrcqOqSrQ91aPNptmHfXTrEl\ntPXXDk/jo7bbRVZq2sVPbEtedVT+cAOKAEntTo8hDG1s42/U224NeV0hRBC6euNe\nFGLttDBLwVXC90rTw1GJQGa/7VkDoCIZYiHdKojCykw=\n=p0im\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlz4rdIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOKxMC/9pJXS5GPURu4Xf/HXCv3HY\nEz5foc41a+Lq3HrZWPGSzye6inkWmrrWM+jIvIA7+ca2jKRNYti77x0BWvyUkbEM\nGBMF1QoPVI1pCz1fOoX+JdVsTEJ4ATV6EXFXE8b5D1562/RNABqlpvrIqsqekssQ\nyqV/O5gBFt+ZgNWtNyxpbD6byOQ2NehbLUCOZven6qNgYQhBtMbA717443wNJhdR\nEmlrrqWqrhl62ayKLpKc6jk6X2+Lissc9jl8fTmSUZJ3+bLGnfvKQ8IOxJ5y8Z/o\nZ8TfHTF3LixeUhKEDbCt3sXgNB45c6Wx2WGYtXmFm2zQbXGCIPjGYDG/DCKSR1y+\nJA+i4FRouCrqzGc8y+QqbqLYxmlj3Y07AA/NgnEtyrcqOqSrQ91aPNptmHfXTrEl\ntPXXDk/jo7bbRVZq2sVPbEtedVT+cAOKAEntTo8hDG1s42/U224NeV0hRBC6euNe\nFGLttDBLwVXC90rTw1GJQGa/7VkDoCIZYiHdKojCykw=\n=p0im\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a5dfa85d4e7ff5bd5a40d37519670392f05ab6fe\ntype commit\ntag 0.30.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1559801298 +0000\n\nopenstacksdk 0.30.0 release\n\nmeta:version: 0.30.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: I196a3d871e3cc104e8a7171ea98d5379b8a089de\nmeta:release:Code-Review+1: Eric Fried <openstack@fried.cc>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

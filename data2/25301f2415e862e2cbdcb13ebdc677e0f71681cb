@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc3Mjk5MDc6MjUzMDFmMjQxNWU4NjJlMmNiZGNiMTNlYmRjNjc3ZTBmNzE2ODFjYg==",
+  "sha": "25301f2415e862e2cbdcb13ebdc677e0f71681cb",
+  "url": "https://api.github.com/repos/grpc/grpc-go/git/tags/25301f2415e862e2cbdcb13ebdc677e0f71681cb",
+  "tagger": {
+    "name": "Menghan Li",
+    "email": "menghanl@google.com",
+    "date": "2016-11-03T23:07:16Z"
+  },
+  "object": {
+    "sha": "777daa17ff9b5daef1cfdf915088a2ada3332bf0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/grpc/grpc-go/git/commits/777daa17ff9b5daef1cfdf915088a2ada3332bf0"
+  },
+  "tag": "v1.0.4",
+  "message": "* Use the correct error in defer call in recvResponse() to\n  avoid miscounting of the streams quota for unary rpcs.\n* Update generated code and server reflection code to comply\n  with the change to the grpc generator. Now the grpc support\n  version is SupportPackageIsVersion4.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

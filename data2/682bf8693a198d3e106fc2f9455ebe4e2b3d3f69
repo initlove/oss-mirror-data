@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2Nzo2ODJiZjg2OTNhMTk4ZDNlMTA2ZmMyZjk0NTVlYmU0ZTJiM2QzZjY5",
+  "sha": "682bf8693a198d3e106fc2f9455ebe4e2b3d3f69",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/682bf8693a198d3e106fc2f9455ebe4e2b3d3f69",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2019-05-06T14:52:14Z"
+  },
+  "object": {
+    "sha": "58c93acd4fa7073fbf145a6a7debfff960da0448",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/58c93acd4fa7073fbf145a6a7debfff960da0448"
+  },
+  "tag": "19.1.1",
+  "message": "Released v19.1.1\n\n- Restore ``pyproject.toml`` handling to how it was with pip 19.0.3 to prevent\n  the need to add ``--no-use-pep517`` when installing in editable mode.\n- Fix a regression that caused `@` to be quoted in pypiserver links.\n  This interfered with parsing the revision string from VCS urls.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

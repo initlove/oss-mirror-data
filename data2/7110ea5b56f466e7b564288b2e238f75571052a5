@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOjcxMTBlYTViNTZmNDY2ZTdiNTY0Mjg4YjJlMjM4Zjc1NTcxMDUyYTU=",
+  "sha": "7110ea5b56f466e7b564288b2e238f75571052a5",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/7110ea5b56f466e7b564288b2e238f75571052a5",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2016-09-15T14:48:34Z"
+  },
+  "object": {
+    "sha": "0e758e8684d9b93b09a65181807122ad5c30109e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/0e758e8684d9b93b09a65181807122ad5c30109e"
+  },
+  "tag": "5.0.0-beta1",
+  "message": "Version 5.0.0-beta1\n\n - `isOpen` is now a property #899\n - Allow reopening after an open error #910\n - Change parsers to be transform streams #922\n - port.path is now read only #898\n - Remove lowercased options #898\n - Switch to Lie as a promise library (smaller)\n - [unix] Flush now gives errors and flushes tx and rx #900\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

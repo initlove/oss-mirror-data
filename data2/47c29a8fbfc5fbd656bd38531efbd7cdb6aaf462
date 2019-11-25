@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc4OTM3MDo0N2MyOWE4ZmJmYzVmYmQ2NTZiZDM4NTMxZWZiZDdjZGI2YWFmNDYy",
+  "sha": "47c29a8fbfc5fbd656bd38531efbd7cdb6aaf462",
+  "url": "https://api.github.com/repos/openstack/python-novaclient/git/tags/47c29a8fbfc5fbd656bd38531efbd7cdb6aaf462",
+  "tagger": {
+    "name": "Sean Dague",
+    "email": "sean@dague.net",
+    "date": "2015-04-22T13:21:10Z"
+  },
+  "object": {
+    "sha": "31f97a011b6a563e1cec16c16422a288e4a6ea80",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-novaclient/git/commits/31f97a011b6a563e1cec16c16422a288e4a6ea80"
+  },
+  "tag": "2.24.1",
+  "message": "Release 2.24.1\n\nFixes Bug:\n - 1437244 - FloatingIP has wrong __repr__\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEVAwUAVTegbxysRaaf5a9FAQJFDQf/WZ9ZqiV42CEr/V7a51zbjRboZMiOFZx0\nwHHMbrcRL/7fAYm0NZ7F4ZNytYB2zl4pg+9WDZW2RxA+MresL1wNNSRiXNT119dg\nx1mA4Sj5La+FsbdVsY1xE+eFbfIKej1eDAkrSnJ2CqwoaTHDe8e9oj2usqBzoMDq\ny3iv/bgo3IgxBO7yWRbhaJ2gV4NrpK/Pw8ZttSkcBwwN0XvGJt8yOVhJXA8hdFfC\njRl2pzeBiWP2JHdUjYEkJ8TOTv963g9r5tpm9DxYm+5KjArwry4aoeOLPSrp7pKu\n17vE97cn+0l9fcS9JTC4K31Ui3tXdtcLQ3megEyRTbcanyKD33N8EQ==\n=nftr\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEVAwUAVTegbxysRaaf5a9FAQJFDQf/WZ9ZqiV42CEr/V7a51zbjRboZMiOFZx0\nwHHMbrcRL/7fAYm0NZ7F4ZNytYB2zl4pg+9WDZW2RxA+MresL1wNNSRiXNT119dg\nx1mA4Sj5La+FsbdVsY1xE+eFbfIKej1eDAkrSnJ2CqwoaTHDe8e9oj2usqBzoMDq\ny3iv/bgo3IgxBO7yWRbhaJ2gV4NrpK/Pw8ZttSkcBwwN0XvGJt8yOVhJXA8hdFfC\njRl2pzeBiWP2JHdUjYEkJ8TOTv963g9r5tpm9DxYm+5KjArwry4aoeOLPSrp7pKu\n17vE97cn+0l9fcS9JTC4K31Ui3tXdtcLQ3megEyRTbcanyKD33N8EQ==\n=nftr\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 31f97a011b6a563e1cec16c16422a288e4a6ea80\ntype commit\ntag 2.24.1\ntagger Sean Dague <sean@dague.net> 1429708870 -0400\n\nRelease 2.24.1\n\nFixes Bug:\n - 1437244 - FloatingIP has wrong __repr__\n"
+  }
+}

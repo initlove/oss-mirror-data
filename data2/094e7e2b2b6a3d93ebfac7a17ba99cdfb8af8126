@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6MDk0ZTdlMmIyYjZhM2Q5M2ViZmFjN2ExN2JhOTljZGZiOGFmODEyNg==",
+  "sha": "094e7e2b2b6a3d93ebfac7a17ba99cdfb8af8126",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/094e7e2b2b6a3d93ebfac7a17ba99cdfb8af8126",
+  "tagger": {
+    "name": "lkorth",
+    "email": "luke@lukekorth.com",
+    "date": "2016-03-11T18:48:01Z"
+  },
+  "object": {
+    "sha": "a0b194c50ddc213a5d2d6ea8d6fa2529a941ecb7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/a0b194c50ddc213a5d2d6ea8d6fa2529a941ecb7"
+  },
+  "tag": "2.2.2",
+  "message": "* Update `PaymentButton` styling when PayPal is the only visible option\n* Features\n  * Add client side overrides for payment methods in Drop-in and `PaymentButton` to `PaymentRequest`\n  * Add support for non-USD currencies and non-US shipping addresses in Android Pay\n  * Return email, billing address and shipping address as part of an `AndroidPayCardNonce` from Drop-in\n* Fixes\n  * Fix back button not doing anything in Drop-in after an Android Pay error is returned\n  * Deprecate `DataCollector#collectDeviceData` and add new signature to prevent a NullPointerException when using a fragment that is not attached to an `Activity`\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

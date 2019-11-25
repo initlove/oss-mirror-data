@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6NTc1ZDUyMzVlYTMyNmZiNWNiZmFhMmM3OWM5M2E1MmM3YTYzMzgzNg==",
+  "sha": "575d5235ea326fb5cbfaa2c79c93a52c7a633836",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/575d5235ea326fb5cbfaa2c79c93a52c7a633836",
+  "tagger": {
+    "name": "lkorth",
+    "email": "luke@lukekorth.com",
+    "date": "2018-01-24T22:19:47Z"
+  },
+  "object": {
+    "sha": "8d93e19bb7a4e5d9f79ebbbae4f06d08ed802ece",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/8d93e19bb7a4e5d9f79ebbbae4f06d08ed802ece"
+  },
+  "tag": "2.9.0",
+  "message": "2.9.0\n\n* Internal performance optimizations\n* Deprecate `countryName`, `countryCodeAlpha2`, `countryCodeAlpha3`, and `countryCodeNumeric` in favor of `countryCode` in `CardBuilder` and `UnionPayCardBuilder`.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

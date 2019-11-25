@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDg2ODM3NTo4ZGI4NDcyMDRhNzY3MmNhZWFkNTcwNGM3MDJmZWE4MTVmZTkyNzZk",
+  "sha": "8db847204a7672caead5704c702fea815fe9276d",
+  "url": "https://api.github.com/repos/openstack/python-cinderclient/git/tags/8db847204a7672caead5704c702fea815fe9276d",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-22T23:26:15Z"
+  },
+  "object": {
+    "sha": "1b8d5c20fb94eb21a8611b045778f80256b0b4ac",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-cinderclient/git/commits/1b8d5c20fb94eb21a8611b045778f80256b0b4ac"
+  },
+  "tag": "4.3.0",
+  "message": "python-cinderclient 4.3.0 release\n\nmeta:version: 4.3.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: I1bab91d63ca4e272a0068e26ebc36c554be1d8a1\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1fJJcZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2CNzDACnukwRA4BN+xPUK4acLoBu\nCzK5d18bCaTyYnc/V+2KB4jHaZFI71iCzxFd8cdlQp4Vi9c9DZHYx73OvZQjfWz1\n/wM1Fy0bBjnGgdLV2w+MK7ySv4S8gADl+Wm4n78yJUxUDuzNB5XMIo9Qgyzqj2ru\nrf+D5hjiYc235M62niB5Pzp70g1xGppMxjobWwSgsxs8rc0Im1eQMiuiPkbzOTkW\nhcUXRbn7qnSemEWbZCtyfy9kZvBNVSWIgE7AvoJgbGPjngH7npUSElirIzxJhtrX\nt6QxmIZ0ExUuNcl3X/P3qlVVAGErA5KYL7TLfyAB46vu+vNyLGHA8COb41SM9/Oc\nsPcTW5wxmWEXPjBrC3zZmfb2Eix2HocaXGMh3SQXvU67duwoGKCJmxhUol3Tpi05\nFyYeu18j7fSWky/7fjUrgFC+JbeuI4Q09Ja0C58hxcsi4z1R1p006z914+B0P/wW\nDYm1LoLvH+I/rRJhUjWRs9/8fteKqBAcz7j/k/ITx2w=\n=gsby\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1fJJcZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2CNzDACnukwRA4BN+xPUK4acLoBu\nCzK5d18bCaTyYnc/V+2KB4jHaZFI71iCzxFd8cdlQp4Vi9c9DZHYx73OvZQjfWz1\n/wM1Fy0bBjnGgdLV2w+MK7ySv4S8gADl+Wm4n78yJUxUDuzNB5XMIo9Qgyzqj2ru\nrf+D5hjiYc235M62niB5Pzp70g1xGppMxjobWwSgsxs8rc0Im1eQMiuiPkbzOTkW\nhcUXRbn7qnSemEWbZCtyfy9kZvBNVSWIgE7AvoJgbGPjngH7npUSElirIzxJhtrX\nt6QxmIZ0ExUuNcl3X/P3qlVVAGErA5KYL7TLfyAB46vu+vNyLGHA8COb41SM9/Oc\nsPcTW5wxmWEXPjBrC3zZmfb2Eix2HocaXGMh3SQXvU67duwoGKCJmxhUol3Tpi05\nFyYeu18j7fSWky/7fjUrgFC+JbeuI4Q09Ja0C58hxcsi4z1R1p006z914+B0P/wW\nDYm1LoLvH+I/rRJhUjWRs9/8fteKqBAcz7j/k/ITx2w=\n=gsby\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1b8d5c20fb94eb21a8611b045778f80256b0b4ac\ntype commit\ntag 4.3.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1566516375 +0000\n\npython-cinderclient 4.3.0 release\n\nmeta:version: 4.3.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: I1bab91d63ca4e272a0068e26ebc36c554be1d8a1\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQwMDI4OTowYzBhY2Q2NWNlNDg2MmYxNzE4NWU3YTQwODU4MTFlYjRmODE5MjE5",
+  "sha": "0c0acd65ce4862f17185e7a4085811eb4f819219",
+  "url": "https://api.github.com/repos/openstack/neutron/git/tags/0c0acd65ce4862f17185e7a4085811eb4f819219",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-09-18T14:08:00Z"
+  },
+  "object": {
+    "sha": "901d49b4a62eade2c2ddbf6185b262008b1690c6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron/git/commits/901d49b4a62eade2c2ddbf6185b262008b1690c6"
+  },
+  "tag": "12.0.4",
+  "message": "neutron 12.0.4 release\n\nmeta:version: 12.0.4\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Thomas Morin <thomas.morin@orange.com>\nmeta:release:Commit: Thomas Morin <thomas.morin@orange.com>\nmeta:release:Change-Id: I1b5483505a304eeb5cf6aa37e216f0bab9a5222d\nmeta:release:Code-Review+1: Brian Haley <haleyb.dev@gmail.com>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+1: Matthew Thode <mthode@mthode.org>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+1: wangqi <wang.qi@99cloud.net>\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@huawei.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJboQbAAAoJEBpUEUgFTp44E2QL/RZ8+ADytPicvVgKsbzo9khh\nrxW2XW0F66q+QuxLRaI3vkUUjnHXOuViv+dzEI5+se4hjy04hvs4xq9tGAIy4DzN\nMRAc39HxlftCVUybdLIUJ2Ct9iQI2D/UCaRXDHPQgWOxTtyESGggC5prKurgRwPX\n64YQFaZPCu+tNSLSqxJFVDTR9tCASH+wljWK/587l5sHqEltYiRJIpuvAIganZFT\nL87oPDO5ftySn5UIz7YLOkt2mpFblTal9YnCGlVQhdxztPjBP4Ewx3+hZhmuoXZf\niMIsDa8ODqGRj5Qwht6JJhAO4mr5cBTfILqoo69EB7AZaugDQkCwqpmtWw5SSTv+\nCXmEl+2JD4OCgaq3fEFQiGSWo17Zo/ggc6cSX4cN6ll+zStSEShF3k0uSfTpv9LR\nx3tdIM/NZ2825NaSinRpA0oRRAt3FHcN1FfGRH2SUf9I1D0AUQ3TUXweNwAJemvL\nh6F77Hn4TpvsbBCW+jGSsRfzS4SVg6zK98hg+sUq6A==\n=I0f7\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJboQbAAAoJEBpUEUgFTp44E2QL/RZ8+ADytPicvVgKsbzo9khh\nrxW2XW0F66q+QuxLRaI3vkUUjnHXOuViv+dzEI5+se4hjy04hvs4xq9tGAIy4DzN\nMRAc39HxlftCVUybdLIUJ2Ct9iQI2D/UCaRXDHPQgWOxTtyESGggC5prKurgRwPX\n64YQFaZPCu+tNSLSqxJFVDTR9tCASH+wljWK/587l5sHqEltYiRJIpuvAIganZFT\nL87oPDO5ftySn5UIz7YLOkt2mpFblTal9YnCGlVQhdxztPjBP4Ewx3+hZhmuoXZf\niMIsDa8ODqGRj5Qwht6JJhAO4mr5cBTfILqoo69EB7AZaugDQkCwqpmtWw5SSTv+\nCXmEl+2JD4OCgaq3fEFQiGSWo17Zo/ggc6cSX4cN6ll+zStSEShF3k0uSfTpv9LR\nx3tdIM/NZ2825NaSinRpA0oRRAt3FHcN1FfGRH2SUf9I1D0AUQ3TUXweNwAJemvL\nh6F77Hn4TpvsbBCW+jGSsRfzS4SVg6zK98hg+sUq6A==\n=I0f7\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 901d49b4a62eade2c2ddbf6185b262008b1690c6\ntype commit\ntag 12.0.4\ntagger OpenStack Release Bot <infra-root@openstack.org> 1537279680 +0000\n\nneutron 12.0.4 release\n\nmeta:version: 12.0.4\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Thomas Morin <thomas.morin@orange.com>\nmeta:release:Commit: Thomas Morin <thomas.morin@orange.com>\nmeta:release:Change-Id: I1b5483505a304eeb5cf6aa37e216f0bab9a5222d\nmeta:release:Code-Review+1: Brian Haley <haleyb.dev@gmail.com>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+1: Matthew Thode <mthode@mthode.org>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+1: wangqi <wang.qi@99cloud.net>\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@huawei.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

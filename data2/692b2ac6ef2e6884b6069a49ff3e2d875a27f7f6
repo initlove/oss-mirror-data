@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzM2NTA0OjY5MmIyYWM2ZWYyZTY4ODRiNjA2OWE0OWZmM2UyZDg3NWEyN2Y3ZjY=",
+  "sha": "692b2ac6ef2e6884b6069a49ff3e2d875a27f7f6",
+  "url": "https://api.github.com/repos/resque/redis-namespace/git/tags/692b2ac6ef2e6884b6069a49ff3e2d875a27f7f6",
+  "tagger": {
+    "name": "Ryan Biesemeyer",
+    "email": "ryan@simplymeasured.com",
+    "date": "2013-11-04T07:18:00Z"
+  },
+  "object": {
+    "sha": "016b057b2183437ed010702e05147598ac3c2c68",
+    "type": "commit",
+    "url": "https://api.github.com/repos/resque/redis-namespace/git/commits/016b057b2183437ed010702e05147598ac3c2c68"
+  },
+  "tag": "v1.3.2",
+  "message": "v1.3.2\n\n - Fix #68: Support capital commands (e.g. `redis.send('GET', 'foo')`)\n - Fix #67: Nested namespace vs. `eval` command\n - Fix #65: Require redis ~> 3.0.4 for upstream bugfix\n - Feature: `Resque::Namespace::VERSION` constant\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\n\niQIcBAABCgAGBQJSd0peAAoJENsKO4td9bkLOpMP/jjdTl9ZscuyYfTYmeQ84AvJ\nDRlrSJ1P02FVSCCE1bun4I//y8kWYXOk35tsb4tiuVC3SxPjN5+7dYWNiWz+AnQV\n9WyuTrqmMyudMiFZG0Ztv855I0cFKoENyNwt1wECBzCmbWMBimPqIQISSGfzIoiV\nQeenl4qXROkWomdhBmBuBEKjJiSg1KIm+sXBAJIfxtsNeiSNyhEG2IN0pWpQeHEO\nPqEjsJd4oiv0qRMtpAJSrNzG5YNFtdxdbAxDzJqby2sB7FvASWyouI9/45EZnwK6\nz2y9Sl1qtiAjq6E/6hQpi58rhzFsZFOWvK+mEb6EdHkr0dzkyJTu9zs3g23AEJBS\nHC5r43k14W3xAYMXiYkpMrGuq+US9YH72ttRVrMeyJhhU/CmkAS6VlArbqrqH89o\ngtJZ5Pl5y7W3WJD9aP3F8Xcq1b7mFGKt1ovSq3btLeiVUvL3KZzp/pyYCKtBHRGU\nCsSYOAzP49mqjxnKd6v2Sa319rHi+uLhOZPPl3AahE+tdlP2dzEAts+yejY30uf0\nGwZ2cO+g56gpaafPrGv1DooSonE5UdJDtQbAz3StreTq5w1c7wzJPIGfJ6BxABUO\nmVJKegkGqfyCKLBOBiG44fm93pGbJBuZGDZBZG3P5+FI6vV0RrDEWVa5LKJA/ZPb\nexGc+Vim+xtx+rvZX1t9\n=hlAO\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\n\niQIcBAABCgAGBQJSd0peAAoJENsKO4td9bkLOpMP/jjdTl9ZscuyYfTYmeQ84AvJ\nDRlrSJ1P02FVSCCE1bun4I//y8kWYXOk35tsb4tiuVC3SxPjN5+7dYWNiWz+AnQV\n9WyuTrqmMyudMiFZG0Ztv855I0cFKoENyNwt1wECBzCmbWMBimPqIQISSGfzIoiV\nQeenl4qXROkWomdhBmBuBEKjJiSg1KIm+sXBAJIfxtsNeiSNyhEG2IN0pWpQeHEO\nPqEjsJd4oiv0qRMtpAJSrNzG5YNFtdxdbAxDzJqby2sB7FvASWyouI9/45EZnwK6\nz2y9Sl1qtiAjq6E/6hQpi58rhzFsZFOWvK+mEb6EdHkr0dzkyJTu9zs3g23AEJBS\nHC5r43k14W3xAYMXiYkpMrGuq+US9YH72ttRVrMeyJhhU/CmkAS6VlArbqrqH89o\ngtJZ5Pl5y7W3WJD9aP3F8Xcq1b7mFGKt1ovSq3btLeiVUvL3KZzp/pyYCKtBHRGU\nCsSYOAzP49mqjxnKd6v2Sa319rHi+uLhOZPPl3AahE+tdlP2dzEAts+yejY30uf0\nGwZ2cO+g56gpaafPrGv1DooSonE5UdJDtQbAz3StreTq5w1c7wzJPIGfJ6BxABUO\nmVJKegkGqfyCKLBOBiG44fm93pGbJBuZGDZBZG3P5+FI6vV0RrDEWVa5LKJA/ZPb\nexGc+Vim+xtx+rvZX1t9\n=hlAO\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 016b057b2183437ed010702e05147598ac3c2c68\ntype commit\ntag v1.3.2\ntagger Ryan Biesemeyer <ryan@simplymeasured.com> 1383549480 +0000\n\nv1.3.2\n\n - Fix #68: Support capital commands (e.g. `redis.send('GET', 'foo')`)\n - Fix #67: Nested namespace vs. `eval` command\n - Fix #65: Require redis ~> 3.0.4 for upstream bugfix\n - Feature: `Resque::Namespace::VERSION` constant\n"
+  }
+}

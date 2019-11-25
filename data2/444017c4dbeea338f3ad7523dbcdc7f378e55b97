@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjo0NDQwMTdjNGRiZWVhMzM4ZjNhZDc1MjNkYmNkYzdmMzc4ZTU1Yjk3",
+  "sha": "444017c4dbeea338f3ad7523dbcdc7f378e55b97",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/444017c4dbeea338f3ad7523dbcdc7f378e55b97",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:38:43Z"
+  },
+  "object": {
+    "sha": "44798401a5ad9e8f802c72a12b29537599558b9e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/44798401a5ad9e8f802c72a12b29537599558b9e"
+  },
+  "tag": "0.9.0",
+  "message": "v0.9.0\n- mergerepo_c: Prepend protocol (file://) for URLs in pkgorigins (if --koji is used)\n- Update bash completion\n- doc: Update manpages\n- mergerepo: Fix NVR merging method\n- mergerepo: Fix behavior of --all param\n- createrepo: Add --cut-dirs and --location-prefix options\n- misc: Add cr_cut_dirs()\n- mergerepo: Use better version comparison algorithm\n- utils: Port cr_cmp_version_str() to rpm's algorithm (rpmvercmp)\n- misc: Rename elements in cr_Version structure\n- mergerepo: Fix version-release comparison for packages when --all is used\n- mergerepo: Show warnings if some groupfile cannot be automatically used\n- mergerepo: Exit with error code when a groupfile cannot be copied\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

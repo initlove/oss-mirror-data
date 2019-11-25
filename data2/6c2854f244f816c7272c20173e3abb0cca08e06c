@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2Nzo2YzI4NTRmMjQ0ZjgxNmM3MjcyYzIwMTczZTNhYmIwY2NhMDhlMDZj",
+  "sha": "6c2854f244f816c7272c20173e3abb0cca08e06c",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/6c2854f244f816c7272c20173e3abb0cca08e06c",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2015-06-02T01:28:55Z"
+  },
+  "object": {
+    "sha": "a9f63d999453aa8ffc3cac6cba4d33849a622c87",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/a9f63d999453aa8ffc3cac6cba4d33849a622c87"
+  },
+  "tag": "7.0.3",
+  "message": "Released v7.0.3\n\n* Fixed a regression where ``--no-cache-dir`` would raise an exception, fixes\n  :issue:`2855`.\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJVbQbjAAoJEG48vOkzctz6F/YQAJnMjSwXbcr0W3Tis1D0uOFd\nb/dfbY3e2eXjXBplsRpD8PWcprTffJ8+POmcLVwWXY6eND2bvCDt0gTjN7WhW8dg\nqMh38O5z4MDkR9g9G/tq5LSi5OFcCY/PdCrGtS21HoN4Q1DVTPMDXN2168Irh/hb\naWF4VT/Q6DTK+VatzUteF03F5fpgveJr2iIPNsPEpVfi5JIClIz2x9VRPQr4AQdo\ndeaRj6YVw2QifbQSCFz8F31A4WxPmzgIV+lhzDyj/ttdX2OIveFmda0mTAuzZbUG\nkGFZaMLtzg8hEPifAo+pZj+evXqFFAW/YHGUueasIBiaL9YDj7v2yJ+91p5gKMNt\nOdE6K8NxGrwKO2kOmO6QGBp5nvd/Q/T96DtIo02SXaRPPMtlspYeN+ZGRpkFoJaD\ngFFcZVFXKTPpziTjFBHWVKI623x5VZypwD+z0ZU5cL2Zaeskm2gxYpQzO5ahxrZh\nzAJos5Ah61qX4ggVZGoVNou2x/wAkfbfcbfLcjOm1nApVJWf1hPQQ/EfYfqaw6+t\ncDj6CiVdYaUrx3E79Swz6APKlztQd/OwJ/th0dzmNxvvmgOBXQ1ewCN4WCl6CgM9\n7fc4IX29fk4gC02f8nLm2zRWJdiIFiErn53Qx4Qwy9o8UWjC2hadl0XbgQwRjogm\neSAuCO77s3fzP1bGhGwE\n=GZ4Z\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJVbQbjAAoJEG48vOkzctz6F/YQAJnMjSwXbcr0W3Tis1D0uOFd\nb/dfbY3e2eXjXBplsRpD8PWcprTffJ8+POmcLVwWXY6eND2bvCDt0gTjN7WhW8dg\nqMh38O5z4MDkR9g9G/tq5LSi5OFcCY/PdCrGtS21HoN4Q1DVTPMDXN2168Irh/hb\naWF4VT/Q6DTK+VatzUteF03F5fpgveJr2iIPNsPEpVfi5JIClIz2x9VRPQr4AQdo\ndeaRj6YVw2QifbQSCFz8F31A4WxPmzgIV+lhzDyj/ttdX2OIveFmda0mTAuzZbUG\nkGFZaMLtzg8hEPifAo+pZj+evXqFFAW/YHGUueasIBiaL9YDj7v2yJ+91p5gKMNt\nOdE6K8NxGrwKO2kOmO6QGBp5nvd/Q/T96DtIo02SXaRPPMtlspYeN+ZGRpkFoJaD\ngFFcZVFXKTPpziTjFBHWVKI623x5VZypwD+z0ZU5cL2Zaeskm2gxYpQzO5ahxrZh\nzAJos5Ah61qX4ggVZGoVNou2x/wAkfbfcbfLcjOm1nApVJWf1hPQQ/EfYfqaw6+t\ncDj6CiVdYaUrx3E79Swz6APKlztQd/OwJ/th0dzmNxvvmgOBXQ1ewCN4WCl6CgM9\n7fc4IX29fk4gC02f8nLm2zRWJdiIFiErn53Qx4Qwy9o8UWjC2hadl0XbgQwRjogm\neSAuCO77s3fzP1bGhGwE\n=GZ4Z\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a9f63d999453aa8ffc3cac6cba4d33849a622c87\ntype commit\ntag 7.0.3\ntagger Donald Stufft <donald@stufft.io> 1433208535 -0400\n\nReleased v7.0.3\n\n* Fixed a regression where ``--no-cache-dir`` would raise an exception, fixes\n  :issue:`2855`.\n"
+  }
+}

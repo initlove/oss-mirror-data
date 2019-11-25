@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzg1NzEyMzo4Yjk5OTgwMzE3NjgyMDlmZjM4ZmViZGZmNDI2MzA2Y2RmYzI2OWJi",
+  "sha": "8b9998031768209ff38febdff426306cdfc269bb",
+  "url": "https://api.github.com/repos/openstack/python-glanceclient/git/tags/8b9998031768209ff38febdff426306cdfc269bb",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-07-28T01:49:59Z"
+  },
+  "object": {
+    "sha": "52eb529b97533876d4c558784ee4d463814c2a0d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-glanceclient/git/commits/52eb529b97533876d4c558784ee4d463814c2a0d"
+  },
+  "tag": "2.8.0",
+  "message": "python-glanceclient 2.8.0 release\n\nmeta:version: 2.8.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: I16b93b250d81092165505469e654cab0fa4dd360\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:+      - python-glanceclient supports Image Import workflow\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZephHAAoJEOtsyhSD+nTstSsIAKsIxe3M8iQXkppt+PslpwSx\nL17N3wXy3aLlEmanWnqOzTC+EZ+f88sk/rm7r/LWB63s3HVM3p7H9OxGG9h+05ic\nPSmyuROsF4+mzkBzqHk8SzJUglgnVT6QiBV694xiTv3Vb0UBg0IqQkez5xu2m1a/\noFs1P2D7sxAE1WusPOjnOolNSrXGcitkSAxhvtf+8gCIotUrpl17+iouMAxXX7+9\nUTTCVG+Te1HM3MJ/DSA2lyMUXPMCOHYRw9w5IVL2uUyyRcI0kgGEJvlJ1LmqEwNE\nkYqhvlD0sJLuPdkOLdqJi4LRHu+XGWGjfE7Cnd6syd5vH9URcXsmUxHrskikGWk=\n=CCn8\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZephHAAoJEOtsyhSD+nTstSsIAKsIxe3M8iQXkppt+PslpwSx\nL17N3wXy3aLlEmanWnqOzTC+EZ+f88sk/rm7r/LWB63s3HVM3p7H9OxGG9h+05ic\nPSmyuROsF4+mzkBzqHk8SzJUglgnVT6QiBV694xiTv3Vb0UBg0IqQkez5xu2m1a/\noFs1P2D7sxAE1WusPOjnOolNSrXGcitkSAxhvtf+8gCIotUrpl17+iouMAxXX7+9\nUTTCVG+Te1HM3MJ/DSA2lyMUXPMCOHYRw9w5IVL2uUyyRcI0kgGEJvlJ1LmqEwNE\nkYqhvlD0sJLuPdkOLdqJi4LRHu+XGWGjfE7Cnd6syd5vH9URcXsmUxHrskikGWk=\n=CCn8\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 52eb529b97533876d4c558784ee4d463814c2a0d\ntype commit\ntag 2.8.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1501206599 +0000\n\npython-glanceclient 2.8.0 release\n\nmeta:version: 2.8.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: I16b93b250d81092165505469e654cab0fa4dd360\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:+      - python-glanceclient supports Image Import workflow\n"
+  }
+}

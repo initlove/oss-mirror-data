@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzc2MDI0NTc6NTkxYTRjNzBjZTE4ZGE4Nzk1Y2QxZjk1NmE5ZmZiODMzOGVmMmE3Mw==",
+  "sha": "591a4c70ce18da8795cd1f956a9ffb8338ef2a73",
+  "url": "https://api.github.com/repos/openstack/python-ironic-inspector-client/git/tags/591a4c70ce18da8795cd1f956a9ffb8338ef2a73",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-06-21T16:14:11Z"
+  },
+  "object": {
+    "sha": "f3559904c82bec9b98ac7cf65d694af05ffdedcd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironic-inspector-client/git/commits/f3559904c82bec9b98ac7cf65d694af05ffdedcd"
+  },
+  "tag": "3.6.0",
+  "message": "python-ironic-inspector-client 3.6.0 release\n\nmeta:version: 3.6.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Commit: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Change-Id: I7986eb9e4abbf94e39bc3a246574f389543aea8a\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+1: Riccardo Pittau <elfosardo@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0NAlMZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2GKUDADkfH3lksHggTZuoTIyGkpb\nk16WD+t8606UVMWryxGSXqzDmm749mB2PaWKfT0K/nnLIfqblbeRQKNpTDz7gdCX\nMJLefcJ7kJIUc36j0dyBPivKpLZ5PQiaXOTMIUMNGPTJ/Az4u2c4bZkuM69bB3jl\n9pxp+OXkbrkR7XjBcTiackxKqS7UIODasICVRNujVAG1Cak8Lg5rNDPTBFJ3r1Ap\n10x1Ba6ozwDzaiW3nJEGXXMUqwDPthcnnEPLEhVgQROa29uw/G3nEYlz7RBUNFSF\n3Q9Ls3azEJx7BsJW/YBnq1YDT1yr9M+OtHzfQbX254lv5v/hzSZXRh0tC1KNnVMs\nvjxgiYH4qOYDG4LBArnp/L0L3M4oFcspKiM4ssXQkB3tJWsW2j0kRcG9o73rk8zx\nFfPwbslOohhLhsftuxwNU4NW2S5gIH7uDri1B59crTZ6hf8c9AHKuULaA3vUUrH3\nKANeH6tDNxG9SMN9itKKWjYshV6nz3/pMK/ihPpf43M=\n=8hdZ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0NAlMZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2GKUDADkfH3lksHggTZuoTIyGkpb\nk16WD+t8606UVMWryxGSXqzDmm749mB2PaWKfT0K/nnLIfqblbeRQKNpTDz7gdCX\nMJLefcJ7kJIUc36j0dyBPivKpLZ5PQiaXOTMIUMNGPTJ/Az4u2c4bZkuM69bB3jl\n9pxp+OXkbrkR7XjBcTiackxKqS7UIODasICVRNujVAG1Cak8Lg5rNDPTBFJ3r1Ap\n10x1Ba6ozwDzaiW3nJEGXXMUqwDPthcnnEPLEhVgQROa29uw/G3nEYlz7RBUNFSF\n3Q9Ls3azEJx7BsJW/YBnq1YDT1yr9M+OtHzfQbX254lv5v/hzSZXRh0tC1KNnVMs\nvjxgiYH4qOYDG4LBArnp/L0L3M4oFcspKiM4ssXQkB3tJWsW2j0kRcG9o73rk8zx\nFfPwbslOohhLhsftuxwNU4NW2S5gIH7uDri1B59crTZ6hf8c9AHKuULaA3vUUrH3\nKANeH6tDNxG9SMN9itKKWjYshV6nz3/pMK/ihPpf43M=\n=8hdZ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f3559904c82bec9b98ac7cf65d694af05ffdedcd\ntype commit\ntag 3.6.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1561133651 +0000\n\npython-ironic-inspector-client 3.6.0 release\n\nmeta:version: 3.6.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Commit: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Change-Id: I7986eb9e4abbf94e39bc3a246574f389543aea8a\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+1: Riccardo Pittau <elfosardo@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

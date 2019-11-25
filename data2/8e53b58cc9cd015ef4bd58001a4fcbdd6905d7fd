@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo4ZTUzYjU4Y2M5Y2QwMTVlZjRiZDU4MDAxYTRmY2JkZDY5MDVkN2Zk",
+  "sha": "8e53b58cc9cd015ef4bd58001a4fcbdd6905d7fd",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/8e53b58cc9cd015ef4bd58001a4fcbdd6905d7fd",
+  "tagger": {
+    "name": "Saúl Ibarra Corretgé",
+    "email": "saghul@gmail.com",
+    "date": "2014-10-20T23:01:03Z"
+  },
+  "object": {
+    "sha": "2d728542d3790183417f8f122a110693cd85db14",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/2d728542d3790183417f8f122a110693cd85db14"
+  },
+  "tag": "v0.10.29",
+  "message": "2014.10.21, Version 0.10.29 (Stable)\n\nChanges since version 0.10.28:\n\n* darwin: allocate enough space for select() hack (Fedor Indutny)\n\n* linux: try epoll_pwait if epoll_wait is missing (Michael Hudson-Doyle)\n\n* windows: map ERROR_INVALID_DRIVE to UV_ENOENT (Saúl Ibarra Corretgé)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJURZQvAAoJEEEOVVOum8BZqFUQALntxp6x/PG1WgaV+TdDdeZi\nINUSikQbbrEumo3vn33hjv/+Bipa5yCgaf4neGB9itxjKjzPRAAcVOywh0ZH583R\nePDMPIJ6vtI9mBJhZKhrXawYu1HqPBt9IkMsXc4bCh7CxM2TQiMS5FsInj5+HOvO\ndQ2TrzxG4gIOZ6QsAEVqRwHEGtasDZhCOVbTO0n/nef34ST9rlhldgS681mM6Rj0\nbbgOD7KIVdoQzq9Jeit+9MF7i3FYvDpzc0k0Q8GgVGX5N3GiteVBCLcbK9deQOex\nZV7PmYnQYi4ayXaZsSLC6K5twSp+dJ3BSY2zMVbpYpgSgvqL8XtvptmYQkOtl8kM\nMGcEOfBDELOvA8kacb44dawdlprjXYAIRYeTxuHZJLWQmaRcTHIvFUCLGUPOhueI\nDzAV8eexXJo9+Ee1xaoXJgkL4DSOuu/mw7xUqL2grrKiEV1Rt0vDA+730AJ4SwAZ\nczrwyPDRcbIpM8ypw+GbIQBqEq4SdK13AsnZ+22WB/7LLBXYkDe9qDAz0dVWQNhd\nxU9I4CkocZgeThDuAoWGdL7ZphYG9s9Xyix0R0XH5Uy9ETrlJofOLfc45QFWeIev\n3zCBJTAQ8geiTQC0EjI2TnGYNM1uxe6JF37ueWgqF5VDOfO3BF0oOsPY3modz7v7\nvkDz47FU4sRIStT89iyH\n=Sy6j\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJURZQvAAoJEEEOVVOum8BZqFUQALntxp6x/PG1WgaV+TdDdeZi\nINUSikQbbrEumo3vn33hjv/+Bipa5yCgaf4neGB9itxjKjzPRAAcVOywh0ZH583R\nePDMPIJ6vtI9mBJhZKhrXawYu1HqPBt9IkMsXc4bCh7CxM2TQiMS5FsInj5+HOvO\ndQ2TrzxG4gIOZ6QsAEVqRwHEGtasDZhCOVbTO0n/nef34ST9rlhldgS681mM6Rj0\nbbgOD7KIVdoQzq9Jeit+9MF7i3FYvDpzc0k0Q8GgVGX5N3GiteVBCLcbK9deQOex\nZV7PmYnQYi4ayXaZsSLC6K5twSp+dJ3BSY2zMVbpYpgSgvqL8XtvptmYQkOtl8kM\nMGcEOfBDELOvA8kacb44dawdlprjXYAIRYeTxuHZJLWQmaRcTHIvFUCLGUPOhueI\nDzAV8eexXJo9+Ee1xaoXJgkL4DSOuu/mw7xUqL2grrKiEV1Rt0vDA+730AJ4SwAZ\nczrwyPDRcbIpM8ypw+GbIQBqEq4SdK13AsnZ+22WB/7LLBXYkDe9qDAz0dVWQNhd\nxU9I4CkocZgeThDuAoWGdL7ZphYG9s9Xyix0R0XH5Uy9ETrlJofOLfc45QFWeIev\n3zCBJTAQ8geiTQC0EjI2TnGYNM1uxe6JF37ueWgqF5VDOfO3BF0oOsPY3modz7v7\nvkDz47FU4sRIStT89iyH\n=Sy6j\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2d728542d3790183417f8f122a110693cd85db14\ntype commit\ntag v0.10.29\ntagger Saúl Ibarra Corretgé <saghul@gmail.com> 1413846063 +0200\n\n2014.10.21, Version 0.10.29 (Stable)\n\nChanges since version 0.10.28:\n\n* darwin: allocate enough space for select() hack (Fedor Indutny)\n\n* linux: try epoll_pwait if epoll_wait is missing (Michael Hudson-Doyle)\n\n* windows: map ERROR_INVALID_DRIVE to UV_ENOENT (Saúl Ibarra Corretgé)\n"
+  }
+}

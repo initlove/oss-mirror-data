@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQwMDI4OToyMzczZTgwMTRlMTQyYjE2MmUxNGY3NmI2NThiNjFlZGVhYmY4NGI3",
+  "sha": "2373e8014e142b162e14f76b658b61edeabf84b7",
+  "url": "https://api.github.com/repos/openstack/neutron/git/tags/2373e8014e142b162e14f76b658b61edeabf84b7",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-11T14:46:34Z"
+  },
+  "object": {
+    "sha": "6920727fe1fec152c8be0ce5b42fcbc3b2cbdabd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron/git/commits/6920727fe1fec152c8be0ce5b42fcbc3b2cbdabd"
+  },
+  "tag": "14.0.0.0b3",
+  "message": "neutron 14.0.0.0b3 development milestone\n\nmeta:version: 14.0.0.0b3\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: I17d8ee6ea3635ae6c4235e90a4398808b4a9e018\nmeta:release:Code-Review+1: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+1: zhangmeng <zhangmeng9502@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJchnTKAAoJEBpUEUgFTp449ogL/2IT4xonUbEjyNfOOPg9JVve\nW2V4No5X6+XP6TRkoWW/1dfqebEOo6s2L7+5rUX4+gGodlxp86Ba2BptoWXbxGf7\nS690MmFFBDF56flrmkHJdQXRVwlvvfSjgSkGjMqzw2yzpfxjv4mTB2ezl3XMUT57\n8mXTFikNyIspFeLbwEur9tEBkHu8zLxEbMP+zrKicoR+ZS7Z2ijB5+jaP/0yhWdp\nsRtNlQ4VO+9RfWTaLrCwvzJdyQm3oKIJD6TJtiqeSqFmkeVNJQVAv08M+NiWjncl\ninUFXSJY3ResdC5TYycu30RKt+zePO3dDKO6mLsBkz6+rjvFUZQsJ2D2k/NA33Jb\nk4qOc+qf006h+u0VN04e2D17qaueK2nEGE0BZl3Vh0rb2L0H/bqdARFZucYTq/Qd\nCWaKYBRTbVBQP/7SEYWdZSdE9yJaGxJTRUHnZwXrO1h2TbLykeLuhxbOrb66A+Ei\nJ2wF2MagVhBQ4F/HJFeTkimUPBn9cHdUADGE74aHWw==\n=4F/b\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJchnTKAAoJEBpUEUgFTp449ogL/2IT4xonUbEjyNfOOPg9JVve\nW2V4No5X6+XP6TRkoWW/1dfqebEOo6s2L7+5rUX4+gGodlxp86Ba2BptoWXbxGf7\nS690MmFFBDF56flrmkHJdQXRVwlvvfSjgSkGjMqzw2yzpfxjv4mTB2ezl3XMUT57\n8mXTFikNyIspFeLbwEur9tEBkHu8zLxEbMP+zrKicoR+ZS7Z2ijB5+jaP/0yhWdp\nsRtNlQ4VO+9RfWTaLrCwvzJdyQm3oKIJD6TJtiqeSqFmkeVNJQVAv08M+NiWjncl\ninUFXSJY3ResdC5TYycu30RKt+zePO3dDKO6mLsBkz6+rjvFUZQsJ2D2k/NA33Jb\nk4qOc+qf006h+u0VN04e2D17qaueK2nEGE0BZl3Vh0rb2L0H/bqdARFZucYTq/Qd\nCWaKYBRTbVBQP/7SEYWdZSdE9yJaGxJTRUHnZwXrO1h2TbLykeLuhxbOrb66A+Ei\nJ2wF2MagVhBQ4F/HJFeTkimUPBn9cHdUADGE74aHWw==\n=4F/b\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6920727fe1fec152c8be0ce5b42fcbc3b2cbdabd\ntype commit\ntag 14.0.0.0b3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1552315594 +0000\n\nneutron 14.0.0.0b3 development milestone\n\nmeta:version: 14.0.0.0b3\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: I17d8ee6ea3635ae6c4235e90a4398808b4a9e018\nmeta:release:Code-Review+1: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+1: zhangmeng <zhangmeng9502@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

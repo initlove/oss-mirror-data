@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDQ6NDY0YWY2MTZiYWQ1YWM5ODkzNzE3MmE3MDRkMmMwY2JkMDg3NTlmYw==",
+  "sha": "464af616bad5ac98937172a704d2c0cbd08759fc",
+  "url": "https://api.github.com/repos/openstack/python-ironicclient/git/tags/464af616bad5ac98937172a704d2c0cbd08759fc",
+  "tagger": {
+    "name": "Devananda van der Veen",
+    "email": "devananda.vdv@gmail.com",
+    "date": "2015-02-11T04:26:16Z"
+  },
+  "object": {
+    "sha": "4390a21663de3123fac306e9860624ba7deda0e6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironicclient/git/commits/4390a21663de3123fac306e9860624ba7deda0e6"
+  },
+  "tag": "0.4.1",
+  "message": "Release 0.4.1\n\nThe \"config-drive\" parameter to node-set-provision-state, which was introduced\nin 0.4.0, was mistakenly named \"--configdrive\" in the CLI and thereby did not\nfunction. This change corrects the option name to be \"--config-drive\".\n\nThis release also contains the following minor enhancements:\n- CLI was not honoring the env[OS_ENDPOINT] variable or --os-endpoint\n  command-line parameter.\n- port-list command did not support \"--address\" option, even though the REST\n  API has had support for this.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlTa2tcACgkQhFvuBniJg6eNqwCdHhgXO9z41HlW5fAHElj1z+lR\nzl4Anj4k7EMI8cA8TudZOsTt3ZoX7g/8\n=4dND\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlTa2tcACgkQhFvuBniJg6eNqwCdHhgXO9z41HlW5fAHElj1z+lR\nzl4Anj4k7EMI8cA8TudZOsTt3ZoX7g/8\n=4dND\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4390a21663de3123fac306e9860624ba7deda0e6\ntype commit\ntag 0.4.1\ntagger Devananda van der Veen <devananda.vdv@gmail.com> 1423628776 -0800\n\nRelease 0.4.1\n\nThe \"config-drive\" parameter to node-set-provision-state, which was introduced\nin 0.4.0, was mistakenly named \"--configdrive\" in the CLI and thereby did not\nfunction. This change corrects the option name to be \"--config-drive\".\n\nThis release also contains the following minor enhancements:\n- CLI was not honoring the env[OS_ENDPOINT] variable or --os-endpoint\n  command-line parameter.\n- port-list command did not support \"--address\" option, even though the REST\n  API has had support for this.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOjVlYzM4NTEyNzVkN2Q0ODdkMDcwNTc0NTUxYjZiMjc2NzA1OWQxMDU=",
+  "sha": "5ec3851275d7d487d070574551b6b2767059d105",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/5ec3851275d7d487d070574551b6b2767059d105",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2016-04-11T00:26:47Z"
+  },
+  "object": {
+    "sha": "a39d612517db9c0ba42bf63b2d9b54d67b1c8109",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/a39d612517db9c0ba42bf63b2d9b54d67b1c8109"
+  },
+  "tag": "2.1.0",
+  "message": "Version 2.1.0\n\n- Major refactor, bug fixes and docs improvements thanks to @ecksun, @fivdi, @gfcittolin, @jacobrosenthal, @mhart, @nebrius, @pabigot, @paulkaplan, @reconbot, @rodovich, @rwaldron, @sayanee, @tigoe and everyone who reported and helped debug issues!\n- Fix binary paths to confirm with modern standards\n- Integration tests on CI's that support it or for the folks at home with an arduino handy\n- Upgrade to nan-2.2.1 for memory leak fixes and node 6 compatibility (still not supported)\n- Confirm nw.js and electron compatibility\n- Make the outpout of `.list` consistent between platforms and docs\n- Define ambiguous flow control flags and document them\n- Fix support systems who provide 0 as a valid file descriptor\n- Fix race conditions when opening and closing ports that led to errors while reading and writing while closing or opening the port.\n- [unix] Fix a double open bug on unix that would cause opening and closing ports repetitively to error.\n- [unix] Listing serialports on linux now include more ports (including bluetooth devices eg. `/dev/rfcommXX`) and have less bugs in the output\n- [windows] Remove deprecated BuildCommDCB for windows 10 support\n- [windows] Fix a memory leak on windows\n- [windows] Fix a 100% cpu and possible hang bug when ports were disconnected on windows.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

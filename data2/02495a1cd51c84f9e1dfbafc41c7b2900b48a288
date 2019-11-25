@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjAxMTU3MzA6MDI0OTVhMWNkNTFjODRmOWUxZGZiYWZjNDFjN2IyOTAwYjQ4YTI4OA==",
+  "sha": "02495a1cd51c84f9e1dfbafc41c7b2900b48a288",
+  "url": "https://api.github.com/repos/openstack/python-barbicanclient/git/tags/02495a1cd51c84f9e1dfbafc41c7b2900b48a288",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-11-07T09:13:04Z"
+  },
+  "object": {
+    "sha": "2956fbacc2b1fded1f0856755f0d05ab337d402c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-barbicanclient/git/commits/2956fbacc2b1fded1f0856755f0d05ab337d402c"
+  },
+  "tag": "4.8.0",
+  "message": "python-barbicanclient 4.8.0 release\n\nmeta:version: 4.8.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Ade Lee <alee@redhat.com>\nmeta:release:Commit: Ade Lee <alee@redhat.com>\nmeta:release:Change-Id: I9e607e77ddd680cc369bbaa71c4bde91f5a0a3ea\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Dave McCowan <dmccowan@cisco.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJb4qygAAoJEBpUEUgFTp44XlgL/2EgriBHq5ZMkRZuXjXXpTwL\nwEv77JVzCzExGmZQVnDdKvwAPhClPBECxvuv2MCNcqOqoni9RJnFFZ77CLfwieRl\n5sMhJnVSvKoE6acoT1MrqGr+/IArfTQoxRgTRIeWbwxnb+ikwrDV5T6k1/ftJDuF\n3PW0SXH5e2YDg9vGIrQg4XPS+eT8JMagsSMG/xrEKKjolwitB639AGVt5eljC5Qt\n4VeWpJZXs2MIOrQQvTo+9Lm3ukas1K8AIHZd2cA5zGzXkIySIpY3UO8zztRWcWqq\ni/OW4ld8ZtBgzNIJxgSrRKJG4odRt534FRIAhtuiTFZjHWdDQt1syaDWPDmzCzGO\np/iDPGG7e38K5Tlb8gfYox7QXBuGpFGrzLPX+XrNqchXhE+Lv3JS5xsqqob7aZQU\nmhSKqdTLUsJjqKNZxYlR/9IaL9jY/gICAFik4fo+48ayACq6fOuTSZ+mCK6LKRwU\na4Gd5Vf/jbrTd5eVcFpDspwuENqUcnKkKodjAH0QeA==\n=/xXi\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJb4qygAAoJEBpUEUgFTp44XlgL/2EgriBHq5ZMkRZuXjXXpTwL\nwEv77JVzCzExGmZQVnDdKvwAPhClPBECxvuv2MCNcqOqoni9RJnFFZ77CLfwieRl\n5sMhJnVSvKoE6acoT1MrqGr+/IArfTQoxRgTRIeWbwxnb+ikwrDV5T6k1/ftJDuF\n3PW0SXH5e2YDg9vGIrQg4XPS+eT8JMagsSMG/xrEKKjolwitB639AGVt5eljC5Qt\n4VeWpJZXs2MIOrQQvTo+9Lm3ukas1K8AIHZd2cA5zGzXkIySIpY3UO8zztRWcWqq\ni/OW4ld8ZtBgzNIJxgSrRKJG4odRt534FRIAhtuiTFZjHWdDQt1syaDWPDmzCzGO\np/iDPGG7e38K5Tlb8gfYox7QXBuGpFGrzLPX+XrNqchXhE+Lv3JS5xsqqob7aZQU\nmhSKqdTLUsJjqKNZxYlR/9IaL9jY/gICAFik4fo+48ayACq6fOuTSZ+mCK6LKRwU\na4Gd5Vf/jbrTd5eVcFpDspwuENqUcnKkKodjAH0QeA==\n=/xXi\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2956fbacc2b1fded1f0856755f0d05ab337d402c\ntype commit\ntag 4.8.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1541581984 +0000\n\npython-barbicanclient 4.8.0 release\n\nmeta:version: 4.8.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Ade Lee <alee@redhat.com>\nmeta:release:Commit: Ade Lee <alee@redhat.com>\nmeta:release:Change-Id: I9e607e77ddd680cc369bbaa71c4bde91f5a0a3ea\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Dave McCowan <dmccowan@cisco.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

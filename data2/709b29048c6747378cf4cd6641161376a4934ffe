@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA2OTg1ODQ6NzA5YjI5MDQ4YzY3NDczNzhjZjRjZDY2NDExNjEzNzZhNDkzNGZmZQ==",
+  "sha": "709b29048c6747378cf4cd6641161376a4934ffe",
+  "url": "https://api.github.com/repos/openstack/python-troveclient/git/tags/709b29048c6747378cf4cd6641161376a4934ffe",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-06-06T06:31:57Z"
+  },
+  "object": {
+    "sha": "50ac153dc53881dbb066723d77ad13092e9d15ac",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-troveclient/git/commits/50ac153dc53881dbb066723d77ad13092e9d15ac"
+  },
+  "tag": "2.18.0",
+  "message": "python-troveclient 2.18.0 release\n\nmeta:version: 2.18.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Commit: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Change-Id: I986b2c44cf43e9a12fc0e3b1ceda0c06158a99fc\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlz4s10ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOL5cC/4rXAkXPEPU1UnH/J4KOBdV\nPH7pRYEGLT112exc2Pq/CYDbf5UG21n/HV4yyXZQmnGxqIrJiKQVzadlCHiEdSHD\n2jCsFjxaHfbHnnQWziPvZP0uCKVniNFMsgdJ/mKSHkndSgHWDG1FGEaAiz6+kbOX\nHCg4eCTIbvUtBdr/Wi2Q2m4yggSB2hskSDrSoOQPy5hO1WYeCyFb7ZABS4OkFWZw\nqXXWMxH3L+57EITsDOy4ezCdIbCTUZz0fv6RKm4CkeEL9gDVZ13d9/n7rpr1/Gvk\noIhk5OsZdYXIF8dN0yX/pZia8Iv6743h+32/d62bton8NuziEC6ux0VkEiUWylHU\nGZjSLzRekTZkLs2lVsf7XIcRPJ6kCAK9kN7Waf13b4q5nR3f630A5ruClrHoyb4C\nJZXcjwoDyo4+M4EvHp6I9iFBlSOmmMp+pAO3AgSkVkWbvFjBnwAhcT6E31O4YNN8\nKWc1DopS2dlPqgwWzaej6Hj5hXMhFqDzSmbFW6Utk44=\n=Xc1n\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlz4s10ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOL5cC/4rXAkXPEPU1UnH/J4KOBdV\nPH7pRYEGLT112exc2Pq/CYDbf5UG21n/HV4yyXZQmnGxqIrJiKQVzadlCHiEdSHD\n2jCsFjxaHfbHnnQWziPvZP0uCKVniNFMsgdJ/mKSHkndSgHWDG1FGEaAiz6+kbOX\nHCg4eCTIbvUtBdr/Wi2Q2m4yggSB2hskSDrSoOQPy5hO1WYeCyFb7ZABS4OkFWZw\nqXXWMxH3L+57EITsDOy4ezCdIbCTUZz0fv6RKm4CkeEL9gDVZ13d9/n7rpr1/Gvk\noIhk5OsZdYXIF8dN0yX/pZia8Iv6743h+32/d62bton8NuziEC6ux0VkEiUWylHU\nGZjSLzRekTZkLs2lVsf7XIcRPJ6kCAK9kN7Waf13b4q5nR3f630A5ruClrHoyb4C\nJZXcjwoDyo4+M4EvHp6I9iFBlSOmmMp+pAO3AgSkVkWbvFjBnwAhcT6E31O4YNN8\nKWc1DopS2dlPqgwWzaej6Hj5hXMhFqDzSmbFW6Utk44=\n=Xc1n\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 50ac153dc53881dbb066723d77ad13092e9d15ac\ntype commit\ntag 2.18.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1559802717 +0000\n\npython-troveclient 2.18.0 release\n\nmeta:version: 2.18.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Commit: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Change-Id: I986b2c44cf43e9a12fc0e3b1ceda0c06158a99fc\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

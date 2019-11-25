@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY5NjAzMjE6ODYyMDhjMWQ5MzE5ZTUxOGY2YTg5OWI3MTJkNjlhYTAzYmU2Y2E0NQ==",
+  "sha": "86208c1d9319e518f6a899b712d69aa03be6ca45",
+  "url": "https://api.github.com/repos/opencontainers/runc/git/tags/86208c1d9319e518f6a899b712d69aa03be6ca45",
+  "tagger": {
+    "name": "Alexander Morozov",
+    "email": "lk4d4@docker.com",
+    "date": "2015-08-25T17:34:34Z"
+  },
+  "object": {
+    "sha": "4445a0050d1a28bc5c6e612baebc3854cbc2b52c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/opencontainers/runc/git/commits/4445a0050d1a28bc5c6e612baebc3854cbc2b52c"
+  },
+  "tag": "v0.0.2.1",
+  "message": "This release includes one fix:\n* Get cgroups directory from current process, not from init process\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJV3KeNAAoJEFm/ifpHN4hzFgkP/2eENZGkndrNscStNyGf3rXb\nMRd1G+MNofjXNCmRhGnaKaUg0YQWzrNqYYATZSUyoYr3eSFtgkTsqT5aa727k6/Z\nUNR1XER9cxL/tDwC8rvvIf8pzgoB41Pl9BzHP4S3waGxSO0ga/es1O09f6YlECrZ\nxyDbLg1Oi6jRZbYRskDiKzD4IRVwxthxschAc3LR+8PqesFZ9oXZyjPP3UwFsQZd\nOPLCB/1Dj256jJP5/8a8QjymkpC62E7yRqGND3R2hhHLJYzio06qv/UOfhqvnUzK\n3NazPeAP7j8KdPBgH0BOW5nBYs7zBsppjXGpDqy1WZnQsC81XmwNxUGaOW6/fyHL\nhiJdGPyTHOO1QHtqoPnXjT/Vehg9hBpaJ10vWVfqGBQ271LgZr79hboIlSRqHpSp\n7uvRcYXnmumsoty/ACfBS8G9kkx0GfdhH9/+etkzwNrKHgbBsq+H8v2esXd8b6eP\nv7wHgIhs7ZsRVUnxRdEkc0AhiXYBbCZO641KZEOdCdHa7xbeVDrjllaT3dMqh0Et\nHqKJxLMNkbC9DRWUVznK918WN3UShD2PWFFOdUpj1cnzB7LniKbqDWzwErtXRZ13\n5ZTiUgicrDKx2w9z0FisIUrqt/BKI+qb7z17AhE5jwYMsnDBYvqnIW2zXjWqyOIy\nGCP3aRZ3OmuYhmqEd9us\n=p/Nf\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v2\n\niQIcBAABCAAGBQJV3KeNAAoJEFm/ifpHN4hzFgkP/2eENZGkndrNscStNyGf3rXb\nMRd1G+MNofjXNCmRhGnaKaUg0YQWzrNqYYATZSUyoYr3eSFtgkTsqT5aa727k6/Z\nUNR1XER9cxL/tDwC8rvvIf8pzgoB41Pl9BzHP4S3waGxSO0ga/es1O09f6YlECrZ\nxyDbLg1Oi6jRZbYRskDiKzD4IRVwxthxschAc3LR+8PqesFZ9oXZyjPP3UwFsQZd\nOPLCB/1Dj256jJP5/8a8QjymkpC62E7yRqGND3R2hhHLJYzio06qv/UOfhqvnUzK\n3NazPeAP7j8KdPBgH0BOW5nBYs7zBsppjXGpDqy1WZnQsC81XmwNxUGaOW6/fyHL\nhiJdGPyTHOO1QHtqoPnXjT/Vehg9hBpaJ10vWVfqGBQ271LgZr79hboIlSRqHpSp\n7uvRcYXnmumsoty/ACfBS8G9kkx0GfdhH9/+etkzwNrKHgbBsq+H8v2esXd8b6eP\nv7wHgIhs7ZsRVUnxRdEkc0AhiXYBbCZO641KZEOdCdHa7xbeVDrjllaT3dMqh0Et\nHqKJxLMNkbC9DRWUVznK918WN3UShD2PWFFOdUpj1cnzB7LniKbqDWzwErtXRZ13\n5ZTiUgicrDKx2w9z0FisIUrqt/BKI+qb7z17AhE5jwYMsnDBYvqnIW2zXjWqyOIy\nGCP3aRZ3OmuYhmqEd9us\n=p/Nf\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4445a0050d1a28bc5c6e612baebc3854cbc2b52c\ntype commit\ntag v0.0.2.1\ntagger Alexander Morozov <lk4d4@docker.com> 1440524074 -0700\n\nThis release includes one fix:\n* Get cgroups directory from current process, not from init process\n"
+  }
+}

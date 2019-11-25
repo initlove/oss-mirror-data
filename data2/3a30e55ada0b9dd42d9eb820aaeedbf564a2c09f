@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTAwNjUwNjozYTMwZTU1YWRhMGI5ZGQ0MmQ5ZWI4MjBhYWVlZGJmNTY0YTJjMDlm",
+  "sha": "3a30e55ada0b9dd42d9eb820aaeedbf564a2c09f",
+  "url": "https://api.github.com/repos/openstack/pbr/git/tags/3a30e55ada0b9dd42d9eb820aaeedbf564a2c09f",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-06-19T16:38:12Z"
+  },
+  "object": {
+    "sha": "3c059cb701e55c7c550f2bbe9626c9c063b0d77e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/pbr/git/commits/3c059cb701e55c7c550f2bbe9626c9c063b0d77e"
+  },
+  "tag": "3.1.0",
+  "message": "pbr 3.1.0 release\n\nmeta:version: 3.1.0\nmeta:diff-start: -\nmeta:series: independent\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: Ic74e2c1b5db83cf91cc16c7d859bf2478ba39409\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZR/30AAoJEOtsyhSD+nTs51YH/2AaALJ2J3njWBjutj/D6kWY\nVGWnkrpub3wprGlDAMTCixt0kn9DZyNpm21JWBc8NPVFt6E2XF3mPMIZtvtoG9Ta\n05y1E2FPnAe2Q4DhA+hLnc1tR5sYztLFL0j1o3e9QtNtn6edIvT7BkzRpLYLKVvW\nMEW1ktO5Dhtz7fAUt3YtXRcgJmyT9QtNVFTaKXi3TAArq90WQz+7aYYJ8/pTdKPH\nUSnH4kRy81vZ5fiiSep40xLg/bMNKRdLvvcLqQA8z/3Gt/CL4n3vFXhGBgTl62Do\nfsMDqJQ4+WHOm5bKnRvtMaT2bnrCDgUJtXjrp+owMyUzogMcuX56QP25CszbHR0=\n=70d2\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZR/30AAoJEOtsyhSD+nTs51YH/2AaALJ2J3njWBjutj/D6kWY\nVGWnkrpub3wprGlDAMTCixt0kn9DZyNpm21JWBc8NPVFt6E2XF3mPMIZtvtoG9Ta\n05y1E2FPnAe2Q4DhA+hLnc1tR5sYztLFL0j1o3e9QtNtn6edIvT7BkzRpLYLKVvW\nMEW1ktO5Dhtz7fAUt3YtXRcgJmyT9QtNVFTaKXi3TAArq90WQz+7aYYJ8/pTdKPH\nUSnH4kRy81vZ5fiiSep40xLg/bMNKRdLvvcLqQA8z/3Gt/CL4n3vFXhGBgTl62Do\nfsMDqJQ4+WHOm5bKnRvtMaT2bnrCDgUJtXjrp+owMyUzogMcuX56QP25CszbHR0=\n=70d2\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3c059cb701e55c7c550f2bbe9626c9c063b0d77e\ntype commit\ntag 3.1.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1497890292 +0000\n\npbr 3.1.0 release\n\nmeta:version: 3.1.0\nmeta:diff-start: -\nmeta:series: independent\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: Ic74e2c1b5db83cf91cc16c7d859bf2478ba39409\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

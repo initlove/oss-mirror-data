@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY2MjY5NTc6Mjc0OWRjYWY0NGUyNDcwMGVkZDdhOTVjNDNhNDNlNzZlYzhmN2NiMg==",
+  "sha": "2749dcaf44e24700edd7a95c43a43e76ec8f7cb2",
+  "url": "https://api.github.com/repos/openstack/pycadf/git/tags/2749dcaf44e24700edd7a95c43a43e76ec8f7cb2",
+  "tagger": {
+    "name": "Gordon Chung",
+    "email": "chungg@ca.ibm.com",
+    "date": "2013-08-20T13:23:11Z"
+  },
+  "object": {
+    "sha": "7037645c052b4fd91c9a52343c99c0b2fabc27f9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/pycadf/git/commits/7037645c052b4fd91c9a52343c99c0b2fabc27f9"
+  },
+  "tag": "0.1.4",
+  "message": "Release 0.1.4\n\nchange to append audit to req.environ['CADF_EVENT']\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJSE23tAAoJEAzpARzcBN43pTsH/jTPU7Gs0JVaIKOJpjrs14kW\nafOus9AXTbe2AdXP67AeO8CX8pl+XLctIPIhVGWJ3tiNW+7wMkYItvhdbrQkvse/\nXsJj/D+6xEKwWBJFvdA5r32h4RSAiCGoX4lNARjJkO9Y7Y8g882BY+Gd0/GtGBeB\nXFHltDXD4wfHl9JrzsfKHB5OwHBRmUW6RJ8O/XS5Jls41qUHPiUDX7TpyObMX06G\n3frm6QnJf+FSVZS4/xlxASV3aBmmiqdfPXwJI7cI25r/Ps3O6CqxKk1/qSkK0ZtF\nLR68m2QRhk7Fjt78xksL9b08O1S+u87vikV8cUk3wwFqzcVojj+PtKJ0sutX13U=\n=jsh4\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJSE23tAAoJEAzpARzcBN43pTsH/jTPU7Gs0JVaIKOJpjrs14kW\nafOus9AXTbe2AdXP67AeO8CX8pl+XLctIPIhVGWJ3tiNW+7wMkYItvhdbrQkvse/\nXsJj/D+6xEKwWBJFvdA5r32h4RSAiCGoX4lNARjJkO9Y7Y8g882BY+Gd0/GtGBeB\nXFHltDXD4wfHl9JrzsfKHB5OwHBRmUW6RJ8O/XS5Jls41qUHPiUDX7TpyObMX06G\n3frm6QnJf+FSVZS4/xlxASV3aBmmiqdfPXwJI7cI25r/Ps3O6CqxKk1/qSkK0ZtF\nLR68m2QRhk7Fjt78xksL9b08O1S+u87vikV8cUk3wwFqzcVojj+PtKJ0sutX13U=\n=jsh4\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7037645c052b4fd91c9a52343c99c0b2fabc27f9\ntype commit\ntag 0.1.4\ntagger Gordon Chung <chungg@ca.ibm.com> 1377004991 -0400\n\nRelease 0.1.4\n\nchange to append audit to req.environ['CADF_EVENT']\n"
+  }
+}

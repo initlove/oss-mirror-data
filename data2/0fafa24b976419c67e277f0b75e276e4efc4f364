@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEwNzQxMTY6MGZhZmEyNGI5NzY0MTljNjdlMjc3ZjBiNzVlMjc2ZTRlZmM0ZjM2NA==",
+  "sha": "0fafa24b976419c67e277f0b75e276e4efc4f364",
+  "url": "https://api.github.com/repos/openstack/oslo.messaging/git/tags/0fafa24b976419c67e277f0b75e276e4efc4f364",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-08T21:42:45Z"
+  },
+  "object": {
+    "sha": "dfc8fe9a8ff81ee45505a40ec161df9eb7f37c25",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.messaging/git/commits/dfc8fe9a8ff81ee45505a40ec161df9eb7f37c25"
+  },
+  "tag": "10.0.0",
+  "message": "oslo.messaging 10.0.0 release\n\nmeta:version: 10.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I7592130bd689f7fc5c1e25ecbca71d4d934d429f\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1Ml1UZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2FsrC/kBhqATLD2XMZ6Ww1wnvnt1\nYvaHW32LU99fgruM/yf+PjMdj6ZauPZvCW3aPNCDOlhHgHZ6UARySiZ9d7MWJjH6\nJMHh4+TyW5Pp3shYBlLa/vamkAfH6cFfXWS9pJxKqkeDkeCWoNFbbb/Kt67lmhRU\n+BuvGnKJwhLJwFZwlDuHKdYARJ57/O9/ddJxmMOv8wny/8YgCKIWiVT//aFKSZmY\nUWCG6nJ7tmk20z/KS0xMSgNZDSSAbRba7zcAQTyv7NvwIeldum7D3UrPjSfVmZXG\nSY5oV8scEbiWZPbTuG6e/i1PqgLjlkX8ajQ5vxoQfmA0J+plwHg26/nrUCy/6IQT\nDsAj7ACa/YKjI196qDmB1VeGbKaByyQ41GydWf98jk0RetXsX2ilXpUgbQJZ985m\nkyW1i9tBGBKGaVqv+2ky9v7ntFHqF4RweU1x+qGHkFrzyfpC3p9IUjaQ/Ff8HuM6\nqmwMkAPPxcjS9OcOm8yiBGFZj48MAl0416n7fR+cHm8=\n=P7Uc\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1Ml1UZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2FsrC/kBhqATLD2XMZ6Ww1wnvnt1\nYvaHW32LU99fgruM/yf+PjMdj6ZauPZvCW3aPNCDOlhHgHZ6UARySiZ9d7MWJjH6\nJMHh4+TyW5Pp3shYBlLa/vamkAfH6cFfXWS9pJxKqkeDkeCWoNFbbb/Kt67lmhRU\n+BuvGnKJwhLJwFZwlDuHKdYARJ57/O9/ddJxmMOv8wny/8YgCKIWiVT//aFKSZmY\nUWCG6nJ7tmk20z/KS0xMSgNZDSSAbRba7zcAQTyv7NvwIeldum7D3UrPjSfVmZXG\nSY5oV8scEbiWZPbTuG6e/i1PqgLjlkX8ajQ5vxoQfmA0J+plwHg26/nrUCy/6IQT\nDsAj7ACa/YKjI196qDmB1VeGbKaByyQ41GydWf98jk0RetXsX2ilXpUgbQJZ985m\nkyW1i9tBGBKGaVqv+2ky9v7ntFHqF4RweU1x+qGHkFrzyfpC3p9IUjaQ/Ff8HuM6\nqmwMkAPPxcjS9OcOm8yiBGFZj48MAl0416n7fR+cHm8=\n=P7Uc\n-----END PGP SIGNATURE-----\n",
+    "payload": "object dfc8fe9a8ff81ee45505a40ec161df9eb7f37c25\ntype commit\ntag 10.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1565300565 +0000\n\noslo.messaging 10.0.0 release\n\nmeta:version: 10.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I7592130bd689f7fc5c1e25ecbca71d4d934d429f\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

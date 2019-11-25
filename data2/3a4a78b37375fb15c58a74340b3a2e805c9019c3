@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQxMzIxOTI6M2E0YTc4YjM3Mzc1ZmIxNWM1OGE3NDM0MGIzYTJlODA1YzkwMTljMw==",
+  "sha": "3a4a78b37375fb15c58a74340b3a2e805c9019c3",
+  "url": "https://api.github.com/repos/pkg/sftp/git/tags/3a4a78b37375fb15c58a74340b3a2e805c9019c3",
+  "tagger": {
+    "name": "John Eikenberry",
+    "email": "jae@zhar.net",
+    "date": "2018-04-19T20:17:13Z"
+  },
+  "object": {
+    "sha": "5bf2a174b604c6b5549dd9740d924ff2f02e3ad7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pkg/sftp/git/commits/5bf2a174b604c6b5549dd9740d924ff2f02e3ad7"
+  },
+  "tag": "1.6.0",
+  "message": "minor new feature (username/groupname lookup)\n\nOn Unix systems the server code will now attempt to lookup the username\nand group name for the file longname value (used for ls -l output).\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlrY+cIACgkQPZqeWROp\nRaLNRwf7BzFxd491Ppq0K+f4lrrioL9Wa63nomKBmU5iSLDYkZMYhYaPMyShS01d\nLTRWvqGS4ks0UZiNt7DdV3jIFj1qXzTI2Pfzf1X9tYyk0XBgTsV3/+7cJcQMmZ1L\nf1lhdsgJIwq/w+Qva1O1GRKKKU/PwusVBNBL8eiY12pCM3ECzCu2ovY9mPY0HasV\n62yW7rO6NVX/SW2kcaBQPaeCNmOH1rl2MBW6I4DcCqqGm6X8J1mqywls0ILcdxox\nXmCMibTS3mxdiE+u9OuRLxTvQOCL6BSySFBDy4nmocnn6GjKGuDGCQheKf8ovjlB\n2vf+B/QDv/hdxLmhw/Xr6AsdNnTXkw==\n=D+ke\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlrY+cIACgkQPZqeWROp\nRaLNRwf7BzFxd491Ppq0K+f4lrrioL9Wa63nomKBmU5iSLDYkZMYhYaPMyShS01d\nLTRWvqGS4ks0UZiNt7DdV3jIFj1qXzTI2Pfzf1X9tYyk0XBgTsV3/+7cJcQMmZ1L\nf1lhdsgJIwq/w+Qva1O1GRKKKU/PwusVBNBL8eiY12pCM3ECzCu2ovY9mPY0HasV\n62yW7rO6NVX/SW2kcaBQPaeCNmOH1rl2MBW6I4DcCqqGm6X8J1mqywls0ILcdxox\nXmCMibTS3mxdiE+u9OuRLxTvQOCL6BSySFBDy4nmocnn6GjKGuDGCQheKf8ovjlB\n2vf+B/QDv/hdxLmhw/Xr6AsdNnTXkw==\n=D+ke\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5bf2a174b604c6b5549dd9740d924ff2f02e3ad7\ntype commit\ntag 1.6.0\ntagger John Eikenberry <jae@zhar.net> 1524169033 -0700\n\nminor new feature (username/groupname lookup)\n\nOn Unix systems the server code will now attempt to lookup the username\nand group name for the file longname value (used for ls -l output).\n"
+  }
+}

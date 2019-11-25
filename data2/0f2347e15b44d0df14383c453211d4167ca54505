@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6MGYyMzQ3ZTE1YjQ0ZDBkZjE0MzgzYzQ1MzIxMWQ0MTY3Y2E1NDUwNQ==",
+  "sha": "0f2347e15b44d0df14383c453211d4167ca54505",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/0f2347e15b44d0df14383c453211d4167ca54505",
+  "tagger": {
+    "name": "lkorth",
+    "email": "luke@lukekorth.com",
+    "date": "2016-07-20T17:14:28Z"
+  },
+  "object": {
+    "sha": "54d80928e32acb522cecc4961dcc744ab8365593",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/54d80928e32acb522cecc4961dcc744ab8365593"
+  },
+  "tag": "2.3.5",
+  "message": "2.3.5\n\n* Change UnionPayCallback to include smsCodeRequired\n* Change UnionPayCapabilities#isUnionPayEnrollmentRequired to UnionPayCapabilities#isSupported\n* Upgrade Google Play Services to [9.0.0,10.0.0)\n* Upgrade support annotations to [24.0.0,25.0.0)\n* Upgrade build tools to 24.0.0\n* Update compile and target API versions to 24\n* Fix `NullPointerException` in `AnalyticsIntentService`\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

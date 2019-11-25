@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTAwNjUwNjo0MjU2ODUwMDVhZGExYjgyMmZjODk0MTczZDNjYjhmNWIyODMyNDBk",
+  "sha": "425685005ada1b822fc894173d3cb8f5b283240d",
+  "url": "https://api.github.com/repos/openstack/pbr/git/tags/425685005ada1b822fc894173d3cb8f5b283240d",
+  "tagger": {
+    "name": "Clark Boylan",
+    "email": "clark.boylan@gmail.com",
+    "date": "2013-10-30T21:01:09Z"
+  },
+  "object": {
+    "sha": "629bbce1c88a4a576182c7a41372a70a864d8226",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/pbr/git/commits/629bbce1c88a4a576182c7a41372a70a864d8226"
+  },
+  "tag": "0.5.23",
+  "message": "Release new version that does not require git\nbe installed on host if installing from non git\nsources.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJScXOuAAoJEA77lD6eDAE8Gc8H/1u2gKMcVurNNH4j8Xj7ycZt\n6pw8AuI4LDmqhu/aqAoXH7Rn0sTbnjsRfC1gNPkXyIFPqq8sIgOAuBsOXe72KG2J\nY9Rzl/v0bfHiQ36Xqy9i+EGsQk/HayMAa2Z9aW9nfQar+MXounhNOXxKbhnOpq6K\nKEDKopyDODHV+WNmuYJYHP5yQyJ+7sqRADIlPtDwiO80UN2xdHdTzKkrToHawJm6\nEGLO7hTSGydfvQ8PVw0XQn6NVR6EhESrvCl3rQL1R6P2uXqgLLpuMgyIZffO0BkZ\nuYiNQ5AhH2f4KOJO1Cl+lMRLRqdbn75kvCiZ9zyeS1hFXUeBp2Djhn+lRiNyz6w=\n=j4Zq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJScXOuAAoJEA77lD6eDAE8Gc8H/1u2gKMcVurNNH4j8Xj7ycZt\n6pw8AuI4LDmqhu/aqAoXH7Rn0sTbnjsRfC1gNPkXyIFPqq8sIgOAuBsOXe72KG2J\nY9Rzl/v0bfHiQ36Xqy9i+EGsQk/HayMAa2Z9aW9nfQar+MXounhNOXxKbhnOpq6K\nKEDKopyDODHV+WNmuYJYHP5yQyJ+7sqRADIlPtDwiO80UN2xdHdTzKkrToHawJm6\nEGLO7hTSGydfvQ8PVw0XQn6NVR6EhESrvCl3rQL1R6P2uXqgLLpuMgyIZffO0BkZ\nuYiNQ5AhH2f4KOJO1Cl+lMRLRqdbn75kvCiZ9zyeS1hFXUeBp2Djhn+lRiNyz6w=\n=j4Zq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 629bbce1c88a4a576182c7a41372a70a864d8226\ntype commit\ntag 0.5.23\ntagger Clark Boylan <clark.boylan@gmail.com> 1383166869 -0700\n\nRelease new version that does not require git\nbe installed on host if installing from non git\nsources.\n"
+  }
+}

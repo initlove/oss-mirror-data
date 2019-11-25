@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDE6MWFmNjhmZWRkNDgwZTQ3MjE1ZTY3MGNiYTIxNGEyOWNlMmM3ZjJjZA==",
+  "sha": "1af68fedd480e47215e670cba214a29ce2c7f2cd",
+  "url": "https://api.github.com/repos/openstack/ironic/git/tags/1af68fedd480e47215e670cba214a29ce2c7f2cd",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-10-06T16:09:11Z"
+  },
+  "object": {
+    "sha": "3f54fec070fdc0e7a63083eb0630b1d37005c30c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic/git/commits/3f54fec070fdc0e7a63083eb0630b1d37005c30c"
+  },
+  "tag": "6.2.1",
+  "message": "ironic 6.2.1 release\n\nmeta:version: 6.2.1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Commit: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Change-Id: Ibb77fc433e33237051df2c0c0febab7f9678a54d\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX9ncnAAoJENljH+rwzGInycgH/1n9sOZP42eu1igI0BXWsTzc\n4DnK1vebUkLHD0dLGivvbN5B5qdPAaNYVCNopmRyJ+C1a2KP4bzk6eNc6ySlWdyb\nvTqN05VmfvmHZywgSlAoiEMdC1v1Z9rpBwii6LEMJ9heZldloEnuA1PB9mVqdLr6\nOF3PkRo5iTAATYKFhVo2BMe8VnUKhfmbYFR8ZSk3IxGK513imp585iApgyIQpDto\nSrLu1GLuza6qOEHN3nRdLSCLrdidWslx5pxeTwoy6iUZwo9H1FLsdqnqeeobXUyw\nB1QpoWTmADsK0cBesHiSRx0MTxx5gsds06BgF5F5ZfNcvfX0NhVdA/9peVLAxj0=\n=Awi3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX9ncnAAoJENljH+rwzGInycgH/1n9sOZP42eu1igI0BXWsTzc\n4DnK1vebUkLHD0dLGivvbN5B5qdPAaNYVCNopmRyJ+C1a2KP4bzk6eNc6ySlWdyb\nvTqN05VmfvmHZywgSlAoiEMdC1v1Z9rpBwii6LEMJ9heZldloEnuA1PB9mVqdLr6\nOF3PkRo5iTAATYKFhVo2BMe8VnUKhfmbYFR8ZSk3IxGK513imp585iApgyIQpDto\nSrLu1GLuza6qOEHN3nRdLSCLrdidWslx5pxeTwoy6iUZwo9H1FLsdqnqeeobXUyw\nB1QpoWTmADsK0cBesHiSRx0MTxx5gsds06BgF5F5ZfNcvfX0NhVdA/9peVLAxj0=\n=Awi3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3f54fec070fdc0e7a63083eb0630b1d37005c30c\ntype commit\ntag 6.2.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1475770151 +0000\n\nironic 6.2.1 release\n\nmeta:version: 6.2.1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Commit: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Change-Id: Ibb77fc433e33237051df2c0c0febab7f9678a54d\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

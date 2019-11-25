@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzQ3OTE4NDA6MzRjZGQ5MGI2ODM5YTA4MDFiMmIwNTQxZWNlOWZiY2Y1Mzg3ZDg5Yw==",
+  "sha": "34cdd90b6839a0801b2b0541ece9fbcf5387d89c",
+  "url": "https://api.github.com/repos/openstack/keystoneauth/git/tags/34cdd90b6839a0801b2b0541ece9fbcf5387d89c",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-09-12T22:02:05Z"
+  },
+  "object": {
+    "sha": "58ac4c059ae8e0feb7272884833e5633c45bef48",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystoneauth/git/commits/58ac4c059ae8e0feb7272884833e5633c45bef48"
+  },
+  "tag": "3.11.0",
+  "message": "keystoneauth 3.11.0 release\n\nmeta:version: 3.11.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: morgan fainberg <morgan.fainberg@gmail.com>\nmeta:release:Commit: morgan fainberg <morgan.fainberg@gmail.com>\nmeta:release:Change-Id: I0f7222fd9ed40338bbea744bc1aedf53ef138ff1\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+1: Monty Taylor <mordred@inaugust.com>\nmeta:release:Code-Review+1: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbmYzdAAoJEBpUEUgFTp440PAMALJ17lX4n/826vUKnoFOuaHw\nxuua71wCIrQyOsxd7K+xJ/FKTTgSyJNPtOlDySPQ9pRCYwtlRwk+OjtwhFVzFomd\n3Ifog1zFFBSlzXmGuGm1DDPiqkxIo8M1ZdXNWlljl6oFRr0gQnCnJm86XoPWVTlo\n2ZXO3k0bUk4Yje86tzbfoEZn+9HHufS+V8FdLXT7vx0FbV7F1KneIuNx+tcjTti+\n75kUcqKvdR866RVwkQ4UnhkhVHbwT9LArn5pczT83I5gklkHnNCCD6JZNpjlq/M+\nA6+1Hd4arAyiAysKnKbhOxedge71CzWx0/GnOdkpt5xGwOPRuJd5dzz01kShyKdw\nGJZu3stAGssevktpHbIhjqvrVGKFJVQUmMDZJhmUU+mUKxfhWjXGB6tlnTxR8j9j\nSOx3ZCFCgitpnoazJdJrbaSifGVMQc4giauxrPVNrW3BXMaoPh5KkSvL0yEV9ecA\nHckW9aXNHzqtqj46aQrDXndqziZglDGYF23EqQzuyw==\n=W2jG\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbmYzdAAoJEBpUEUgFTp440PAMALJ17lX4n/826vUKnoFOuaHw\nxuua71wCIrQyOsxd7K+xJ/FKTTgSyJNPtOlDySPQ9pRCYwtlRwk+OjtwhFVzFomd\n3Ifog1zFFBSlzXmGuGm1DDPiqkxIo8M1ZdXNWlljl6oFRr0gQnCnJm86XoPWVTlo\n2ZXO3k0bUk4Yje86tzbfoEZn+9HHufS+V8FdLXT7vx0FbV7F1KneIuNx+tcjTti+\n75kUcqKvdR866RVwkQ4UnhkhVHbwT9LArn5pczT83I5gklkHnNCCD6JZNpjlq/M+\nA6+1Hd4arAyiAysKnKbhOxedge71CzWx0/GnOdkpt5xGwOPRuJd5dzz01kShyKdw\nGJZu3stAGssevktpHbIhjqvrVGKFJVQUmMDZJhmUU+mUKxfhWjXGB6tlnTxR8j9j\nSOx3ZCFCgitpnoazJdJrbaSifGVMQc4giauxrPVNrW3BXMaoPh5KkSvL0yEV9ecA\nHckW9aXNHzqtqj46aQrDXndqziZglDGYF23EqQzuyw==\n=W2jG\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 58ac4c059ae8e0feb7272884833e5633c45bef48\ntype commit\ntag 3.11.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1536789725 +0000\n\nkeystoneauth 3.11.0 release\n\nmeta:version: 3.11.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: morgan fainberg <morgan.fainberg@gmail.com>\nmeta:release:Commit: morgan fainberg <morgan.fainberg@gmail.com>\nmeta:release:Change-Id: I0f7222fd9ed40338bbea744bc1aedf53ef138ff1\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+1: Monty Taylor <mordred@inaugust.com>\nmeta:release:Code-Review+1: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

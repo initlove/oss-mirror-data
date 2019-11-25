@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTc5OTM5NTM6MDMyMGUxNzg3ZmJjNWY5OWU0ZDU2MWNmNGUzMDVkNTk0YTdmMTM4NQ==",
+  "sha": "0320e1787fbc5f99e4d561cf4e305d594a7f1385",
+  "url": "https://api.github.com/repos/openstack/ironic-python-agent/git/tags/0320e1787fbc5f99e4d561cf4e305d594a7f1385",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-01-11T21:05:23Z"
+  },
+  "object": {
+    "sha": "844ecfc5dfb2d038bda6173ebb445be58bfb7d7c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic-python-agent/git/commits/844ecfc5dfb2d038bda6173ebb445be58bfb7d7c"
+  },
+  "tag": "1.0.1",
+  "message": "ironic-python-agent 1.0.1 release\n\nmeta:version: 1.0.1\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWlBkTAAoJEDttBqDEKEN6ANUIAIkQ20D81+/a+5L/G59raQLu\nbAS2VVPpPXc9FyKOQPYaeE0MQgLXuYoenfEf0251J/DkWx78g6ebXLvX0AFXGe0q\nJ3Fm2XLabdSZ/llx9D5K0/6AmMRZnBIUxBd089Z7r26etPITSqHQOuiEFbEhByBq\nxbBxuAI++KUkakP+SCp4BxQGZzwCH7uvdCZCJcoV2PELi6L4py3fKN8R4w4MgQZC\n1hzBxQQtvmV1oTlvs/t6mqaRt+OhxUAnVAJzbpznSlHU9GcxnxLBqn+TBtcFbPip\nyBxhlVMqrjorrvLQ9zHHZxtXWVEQ/Vl2iqpj+El4w+dkTtWH2EMNRdjMSD8G7TM=\n=n0yC\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWlBkTAAoJEDttBqDEKEN6ANUIAIkQ20D81+/a+5L/G59raQLu\nbAS2VVPpPXc9FyKOQPYaeE0MQgLXuYoenfEf0251J/DkWx78g6ebXLvX0AFXGe0q\nJ3Fm2XLabdSZ/llx9D5K0/6AmMRZnBIUxBd089Z7r26etPITSqHQOuiEFbEhByBq\nxbBxuAI++KUkakP+SCp4BxQGZzwCH7uvdCZCJcoV2PELi6L4py3fKN8R4w4MgQZC\n1hzBxQQtvmV1oTlvs/t6mqaRt+OhxUAnVAJzbpznSlHU9GcxnxLBqn+TBtcFbPip\nyBxhlVMqrjorrvLQ9zHHZxtXWVEQ/Vl2iqpj+El4w+dkTtWH2EMNRdjMSD8G7TM=\n=n0yC\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 844ecfc5dfb2d038bda6173ebb445be58bfb7d7c\ntype commit\ntag 1.0.1\ntagger Doug Hellmann <doug@doughellmann.com> 1452546323 +0000\n\nironic-python-agent 1.0.1 release\n\nmeta:version: 1.0.1\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\n"
+  }
+}

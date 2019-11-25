@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMToyMDRkMzk3NjIzYjFhZTgzNzFjY2NkNDRhMzhmMjVkNDdmODdiYmI0",
+  "sha": "204d397623b1ae8371cccd44a38f25d47f87bbb4",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/204d397623b1ae8371cccd44a38f25d47f87bbb4",
+  "tagger": {
+    "name": "Bert Belder",
+    "email": "bertbelder@gmail.com",
+    "date": "2013-09-05T14:45:45Z"
+  },
+  "object": {
+    "sha": "2bce230d81f4853a23662cbeb26fe98010b1084b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/2bce230d81f4853a23662cbeb26fe98010b1084b"
+  },
+  "tag": "v0.10.16",
+  "message": "2013.09.06, Version 0.10.16 (Stable)\n\nChanges since version 0.10.15:\n\n* windows: make uv_shutdown() for write-only pipes work (Bert Belder)\n\n* windows: make uv_fs_open() report EINVAL when invalid arguments are passed\n  (Bert Belder)\n\n* windows: make uv_fs_open() report _open_osfhandle() failure correctly (Bert\n  Belder)\n\n* windows: make uv_fs_chmod() report errors correctly (Bert Belder)\n\n* windows: wrap multi-statement macros in do..while block (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUiiZGXp3iHsuLtRhAQJTxQf/SZ9x/aM06ajkWEYQSEJHh3tVBzNkQnax\nAh8rGhBhnI8NrAivFUQB8j9AoI/IpwlkN1uby1l2N5bkDM8gDAtDe+KNiS359H6s\nYSrn8pr7tW0/TK75woPOz0lyyI4eNvMrEl4pX7RooJznzRopVIh5mg51zhSZpfhf\n1Ugm6X0MkQenB1+AtH1iTaaLEqs/hfhvLYN3mZSorKr6IWZChzFyyRt9puNKpvTx\n44x1aczmMrHgzXAap3BmO3civHyEh3VcStP0Bedw7S3iKPs+3re9zl/sXCwWs521\namACABn1aj8+OS+Zm9F/okPGm3Q0zcebTTvpLcgpt6wJbq5/5VFcOA==\n=4Bm+\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUiiZGXp3iHsuLtRhAQJTxQf/SZ9x/aM06ajkWEYQSEJHh3tVBzNkQnax\nAh8rGhBhnI8NrAivFUQB8j9AoI/IpwlkN1uby1l2N5bkDM8gDAtDe+KNiS359H6s\nYSrn8pr7tW0/TK75woPOz0lyyI4eNvMrEl4pX7RooJznzRopVIh5mg51zhSZpfhf\n1Ugm6X0MkQenB1+AtH1iTaaLEqs/hfhvLYN3mZSorKr6IWZChzFyyRt9puNKpvTx\n44x1aczmMrHgzXAap3BmO3civHyEh3VcStP0Bedw7S3iKPs+3re9zl/sXCwWs521\namACABn1aj8+OS+Zm9F/okPGm3Q0zcebTTvpLcgpt6wJbq5/5VFcOA==\n=4Bm+\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2bce230d81f4853a23662cbeb26fe98010b1084b\ntype commit\ntag v0.10.16\ntagger Bert Belder <bertbelder@gmail.com> 1378392345 +0200\n\n2013.09.06, Version 0.10.16 (Stable)\n\nChanges since version 0.10.15:\n\n* windows: make uv_shutdown() for write-only pipes work (Bert Belder)\n\n* windows: make uv_fs_open() report EINVAL when invalid arguments are passed\n  (Bert Belder)\n\n* windows: make uv_fs_open() report _open_osfhandle() failure correctly (Bert\n  Belder)\n\n* windows: make uv_fs_chmod() report errors correctly (Bert Belder)\n\n* windows: wrap multi-statement macros in do..while block (Bert Belder)\n"
+  }
+}

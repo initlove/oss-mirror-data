@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI5ODI1MTI1OjVmOTdiOWRmYzkyZWFkMmE3MDU3NDJmZTRiYjViY2IyZjMyZGM4MTQ=",
+  "sha": "5f97b9dfc92ead2a705742fe4bb5bcb2f32dc814",
+  "url": "https://api.github.com/repos/projectcalico/node/git/tags/5f97b9dfc92ead2a705742fe4bb5bcb2f32dc814",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2019-03-09T23:24:50Z"
+  },
+  "object": {
+    "sha": "46720e53b4da43b0126f833b4e0079c7e5ee2211",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/node/git/commits/46720e53b4da43b0126f833b4e0079c7e5ee2211"
+  },
+  "tag": "v3.3.5",
+  "message": "- 0c99aaca1bb8112aed1be7dbf792eafd1777a2fc [V3.3]Backporting changes from master for bird readiness check to avoid aggresive update.\n- 05508a446402d74d3b312ac788fa9ed2dcf34ac3 [V3.3]Added code to handle BIRD readiness if no BGP peers exist.\n- 46896bc4825aff9dc5b141e702ef768ee9c85d0a Update libcalico-go to be2816abad60faeaf61f5631940f14c05b8b3fc2\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

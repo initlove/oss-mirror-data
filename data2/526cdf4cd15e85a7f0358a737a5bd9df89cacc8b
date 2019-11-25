@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTIwOTU1NjQ6NTI2Y2RmNGNkMTVlODVhN2YwMzU4YTczN2E1YmQ5ZGY4OWNhY2M4Yg==",
+  "sha": "526cdf4cd15e85a7f0358a737a5bd9df89cacc8b",
+  "url": "https://api.github.com/repos/openid/AppAuth-Android/git/tags/526cdf4cd15e85a7f0358a737a5bd9df89cacc8b",
+  "tagger": {
+    "name": "Iain McGinniss",
+    "email": "iainmcgin@google.com",
+    "date": "2016-10-26T00:53:26Z"
+  },
+  "object": {
+    "sha": "fbcba7b3110a80f94b1611239d22789071eba88a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openid/AppAuth-Android/git/commits/fbcba7b3110a80f94b1611239d22789071eba88a"
+  },
+  "tag": "0.4.0",
+  "message": "Version 0.4.0, with the following fixes and new features:\n\n- Direct support for login_hint in authorization requests\n- Introduction of AppAuthConfiguration, with allows an app to:\n    - Control which browser(s) can be used for the authorization flow, through the use of a `BrowserMatcher`. A variety of generally useful browser matcher implementations are provided in the \"browser\" package.\n    - Control over the creation of HttpURLConnection, through the use of a `ConnectionBuilder`. This allows for the use of alternative HTTP stacks (e.g. okhttp), disabling of certificate checks (for testing), and certificate pinning.\n- The library will work without a browser, for use cases that only require token exchange, such as when the token is bootstrapped through some other means. Authorization requests still require a browser.\n- Better handling of the back stack and authorization request state - switching apps during the authorization flow will no longer kill the flow.\n- Apps can provide a \"cancel\" intent in addition to a completion intent, in order to better handle cancelation of the authorization flow.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

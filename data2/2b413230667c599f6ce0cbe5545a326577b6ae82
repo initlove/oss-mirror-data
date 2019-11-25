@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2NzoyYjQxMzIzMDY2N2M1OTlmNmNlMGNiZTU1NDVhMzI2NTc3YjZhZTgy",
+  "sha": "2b413230667c599f6ce0cbe5545a326577b6ae82",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/2b413230667c599f6ce0cbe5545a326577b6ae82",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2016-03-17T13:52:08Z"
+  },
+  "object": {
+    "sha": "67f534d3e36bd91e5e8f03615886d200786fb4b4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/67f534d3e36bd91e5e8f03615886d200786fb4b4"
+  },
+  "tag": "8.1.1",
+  "message": "Released v8.1.1\n\n* Fix regression with non-ascii requirement files on Python 2 and add support\n  for encoding headers in requirement files (:issue:`3548`, :pull:`3547`).\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJW6ramAAoJEG48vOkzctz6MEcQAJAV3utBzLi3Rnz9i6WbGeQu\nYa0DAvrtH/xzMaDrjJh/ybM+DlWd+4Jnw6cOPDMnnIFf5AQILeqa6bHrbiY2f89k\nfBG1Xbl45+4Z0QHOKvTQObdFYqdOmHL3eu8btqr/jDaZI1wV00znXPOGOAMbHLUO\nEy+QlybA8RccJunhLUyipSOsNasFcWZANBSeV5P4h1ltj3bazGV7v9W6Y1Znh9gS\nqpZxIoyLwBJHF+EwpSe/+TjItTPwVxYudlPWK1Sp6mbX4AIEKGLJzWTkHj3AKCYm\nvbPf3kaEZ5XXTcbh4VpQz8rHSEMOHpVWUd6Mumbgn4lcCPNB7C2bp0nqgarpoo/i\nyeFxvjngvEwJkpXjwsNwVjtgAMrkQOnJEuFyQxCcNclQYiXwppiqB+Fk1Ierbfzi\numRJ9c1ooUDb2CEzLDf6p+HKoj5nqN4kehuEgkLCg8OYf1uiUzIkbScgmfqGr3q1\nILjNhS5IsC2p7jtE76KgMX5FGIHK3tOKNml/zk4I/xXKVWn7L8CBslMXZEfkphC2\n9VCGTtM+f8BLYP2DlKhAnuxvL72vWYtoNpPv9h95GE7o72vmIi3TePrPA1WhbjBB\nTSUaVwJQjT3J0puMn3VOGKy/wdIZ4YgSlQYDRAtqJaeH1WgPcA/PhcdywSEe7zWw\n9ptvSYo8xjcoLvOED2qN\n=qMvx\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJW6ramAAoJEG48vOkzctz6MEcQAJAV3utBzLi3Rnz9i6WbGeQu\nYa0DAvrtH/xzMaDrjJh/ybM+DlWd+4Jnw6cOPDMnnIFf5AQILeqa6bHrbiY2f89k\nfBG1Xbl45+4Z0QHOKvTQObdFYqdOmHL3eu8btqr/jDaZI1wV00znXPOGOAMbHLUO\nEy+QlybA8RccJunhLUyipSOsNasFcWZANBSeV5P4h1ltj3bazGV7v9W6Y1Znh9gS\nqpZxIoyLwBJHF+EwpSe/+TjItTPwVxYudlPWK1Sp6mbX4AIEKGLJzWTkHj3AKCYm\nvbPf3kaEZ5XXTcbh4VpQz8rHSEMOHpVWUd6Mumbgn4lcCPNB7C2bp0nqgarpoo/i\nyeFxvjngvEwJkpXjwsNwVjtgAMrkQOnJEuFyQxCcNclQYiXwppiqB+Fk1Ierbfzi\numRJ9c1ooUDb2CEzLDf6p+HKoj5nqN4kehuEgkLCg8OYf1uiUzIkbScgmfqGr3q1\nILjNhS5IsC2p7jtE76KgMX5FGIHK3tOKNml/zk4I/xXKVWn7L8CBslMXZEfkphC2\n9VCGTtM+f8BLYP2DlKhAnuxvL72vWYtoNpPv9h95GE7o72vmIi3TePrPA1WhbjBB\nTSUaVwJQjT3J0puMn3VOGKy/wdIZ4YgSlQYDRAtqJaeH1WgPcA/PhcdywSEe7zWw\n9ptvSYo8xjcoLvOED2qN\n=qMvx\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 67f534d3e36bd91e5e8f03615886d200786fb4b4\ntype commit\ntag 8.1.1\ntagger Donald Stufft <donald@stufft.io> 1458222728 -0400\n\nReleased v8.1.1\n\n* Fix regression with non-ascii requirement files on Python 2 and add support\n  for encoding headers in requirement files (:issue:`3548`, :pull:`3547`).\n"
+  }
+}

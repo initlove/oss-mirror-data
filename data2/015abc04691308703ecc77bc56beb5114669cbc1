@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA2OTg1ODQ6MDE1YWJjMDQ2OTEzMDg3MDNlY2M3N2JjNTZiZWI1MTE0NjY5Y2JjMQ==",
+  "sha": "015abc04691308703ecc77bc56beb5114669cbc1",
+  "url": "https://api.github.com/repos/openstack/python-troveclient/git/tags/015abc04691308703ecc77bc56beb5114669cbc1",
+  "tagger": {
+    "name": "Nikhil Manchanda",
+    "email": "SlickNik@gmail.com",
+    "date": "2014-12-02T23:59:57Z"
+  },
+  "object": {
+    "sha": "3ba7e9b8313cfccef0c07e408719c102b0639eeb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-troveclient/git/commits/3ba7e9b8313cfccef0c07e408719c102b0639eeb"
+  },
+  "tag": "1.0.8",
+  "message": "Releasing python-troveclient version 1.0.8\n\nMajor changes since version 1.0.7:\n- Added support for Keystone V3 API\n- Use OpenStack branding for trove client\n- Fix Cluster-Create and Cluster-Show Response\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJUflKBAAoJEJaSdX6809ZsNOUH/1eH1CzAEpftMgjr9G6kfyvk\nopD3POUQV3o/J20gRwZtk1Zpd7dmySWE8TEkPQU7udugafhFG3yY+Q5rEYRnkPrK\n5JuHhMaYjwurjqOHvibYpivySP7KYvWmal0aBILuUoDebSTH+5kcU0AUzG1fAbny\n7Js3a3uZaWBc17Hgrpw4c4fR6xY8XsgqvLUw0QuslfZ1BUoC4CD3yKU9W9xHJfBy\nB+W1EDrsk/01EeyeKp9DGXLhiMJkTZvYFFpqqKjs+Q0WtsGOfEm2yQ25oLA5yw0a\nXMu9mqCNi2gLfJIdrzhEwmPdr0AFf+WOH+n4W05P775MCT9p8xkJ2jShTHQU/dU=\n=iGDX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJUflKBAAoJEJaSdX6809ZsNOUH/1eH1CzAEpftMgjr9G6kfyvk\nopD3POUQV3o/J20gRwZtk1Zpd7dmySWE8TEkPQU7udugafhFG3yY+Q5rEYRnkPrK\n5JuHhMaYjwurjqOHvibYpivySP7KYvWmal0aBILuUoDebSTH+5kcU0AUzG1fAbny\n7Js3a3uZaWBc17Hgrpw4c4fR6xY8XsgqvLUw0QuslfZ1BUoC4CD3yKU9W9xHJfBy\nB+W1EDrsk/01EeyeKp9DGXLhiMJkTZvYFFpqqKjs+Q0WtsGOfEm2yQ25oLA5yw0a\nXMu9mqCNi2gLfJIdrzhEwmPdr0AFf+WOH+n4W05P775MCT9p8xkJ2jShTHQU/dU=\n=iGDX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3ba7e9b8313cfccef0c07e408719c102b0639eeb\ntype commit\ntag 1.0.8\ntagger Nikhil Manchanda <SlickNik@gmail.com> 1417564797 -0800\n\nReleasing python-troveclient version 1.0.8\n\nMajor changes since version 1.0.7:\n- Added support for Keystone V3 API\n- Use OpenStack branding for trove client\n- Fix Cluster-Create and Cluster-Show Response\n"
+  }
+}

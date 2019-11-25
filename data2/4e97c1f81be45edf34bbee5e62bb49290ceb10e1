@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQwMDI4OTo0ZTk3YzFmODFiZTQ1ZWRmMzRiYmVlNWU2MmJiNDkyOTBjZWIxMGUx",
+  "sha": "4e97c1f81be45edf34bbee5e62bb49290ceb10e1",
+  "url": "https://api.github.com/repos/openstack/neutron/git/tags/4e97c1f81be45edf34bbee5e62bb49290ceb10e1",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-04-07T07:38:30Z"
+  },
+  "object": {
+    "sha": "3213eb124e40b130e174ac3a91067e2b196788dd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron/git/commits/3213eb124e40b130e174ac3a91067e2b196788dd"
+  },
+  "tag": "8.0.0",
+  "message": "neutron 8.0.0 release\n\nmeta:version: 8.0.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: yes\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXBg52AAoJEDttBqDEKEN6akEH/2JnpZQMdggR3ufAUwIYrx0y\nhpCy7wR0yb1x2NTZMXCPnXT3eyQrxxFf9nyFjmGUR7XR9FTcLP/BUuo5c0d8nXRq\nVooeXBEg2gmIE/KGKpXewBNxYRu77RHRSUg82AQVtKOteYh+7Zle8F28keBakxVx\nMo3Zt/dsZbwUtaiq+gYG80L0SX2z3tI+9sQ3dg3atO2hryTjQyraeljtGvWskL1/\nzyBag2SJKcTLJgxZf9XZnvN/zeH21PbwtEJls3CMpB2QqgOsmu5NJ/49Ww3KqJsK\nAiLnAvxweATtWOBPVAdjQqi4ktjw2UxPJYraC433bgAti7btH5YuPDeGTce1I+I=\n=Tzs2\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXBg52AAoJEDttBqDEKEN6akEH/2JnpZQMdggR3ufAUwIYrx0y\nhpCy7wR0yb1x2NTZMXCPnXT3eyQrxxFf9nyFjmGUR7XR9FTcLP/BUuo5c0d8nXRq\nVooeXBEg2gmIE/KGKpXewBNxYRu77RHRSUg82AQVtKOteYh+7Zle8F28keBakxVx\nMo3Zt/dsZbwUtaiq+gYG80L0SX2z3tI+9sQ3dg3atO2hryTjQyraeljtGvWskL1/\nzyBag2SJKcTLJgxZf9XZnvN/zeH21PbwtEJls3CMpB2QqgOsmu5NJ/49Ww3KqJsK\nAiLnAvxweATtWOBPVAdjQqi4ktjw2UxPJYraC433bgAti7btH5YuPDeGTce1I+I=\n=Tzs2\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3213eb124e40b130e174ac3a91067e2b196788dd\ntype commit\ntag 8.0.0\ntagger Doug Hellmann <doug@doughellmann.com> 1460014710 -0400\n\nneutron 8.0.0 release\n\nmeta:version: 8.0.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: yes\n"
+  }
+}

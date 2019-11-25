@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQxMzIxOTI6MWMyYmY5ZTY0ZjU5ODc2Mzc4MDk1M2I4M2Q2NTBkNjk2OGQxMzNiMQ==",
+  "sha": "1c2bf9e64f598763780953b83d650d6968d133b1",
+  "url": "https://api.github.com/repos/pkg/sftp/git/tags/1c2bf9e64f598763780953b83d650d6968d133b1",
+  "tagger": {
+    "name": "John Eikenberry",
+    "email": "jae@zhar.net",
+    "date": "2019-02-05T03:09:46Z"
+  },
+  "object": {
+    "sha": "e6f3261c6b04345b9c5b0122c12815384d332022",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pkg/sftp/git/commits/e6f3261c6b04345b9c5b0122c12815384d332022"
+  },
+  "tag": "v1.9.0",
+  "message": "refactor opening files/dirs in request-server\n\nMinor version bump due to a pretty heavy refactoring of the\nrequest-server's handing of open packets. It now calls through to the\nhandler to initialize the reader/writer/lister objects when it receives\nthe open packet. This should be transparent and was done in relation to\na bug fix, but it is a pretty major refactor so the minor version bump.\n\nFixed #280; Request.WithContext() deadlock when called from handler\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlxY/ycACgkQPZqeWROp\nRaJLSQf+LzXhkftQ6yinpxy2QNT16NmmSa7d/0TUnkBEMX5oOhdrbtDSYp280JR9\n4yvujGQgeUVGm7oS+c3iN2Jd3kpMHUkMXNRL2mOGjhf8VYGdpf14BFDjvnc+ZLon\nMuNRsG8ZRHrpZkrpOxkUn3Ol1MyuSmRgQTl5zGNYLLBym4LWhpM5XKernTQerH8T\n04LZ5Jc8kjZ+hDXEYmU8du/C++2kyqtsu7VbzviNVoiLSQNlZ7r8kZvu3Xbm6jD7\nN7lLH9J5k2J9ZAx8aNsKdn17LGIJWEEWnJGpGqjRa5c8diXYOpLtMbI+YkGdPS1V\ner7vsCWiDUrxsrPB3Aj4kV42JTUcog==\n=pKBX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlxY/ycACgkQPZqeWROp\nRaJLSQf+LzXhkftQ6yinpxy2QNT16NmmSa7d/0TUnkBEMX5oOhdrbtDSYp280JR9\n4yvujGQgeUVGm7oS+c3iN2Jd3kpMHUkMXNRL2mOGjhf8VYGdpf14BFDjvnc+ZLon\nMuNRsG8ZRHrpZkrpOxkUn3Ol1MyuSmRgQTl5zGNYLLBym4LWhpM5XKernTQerH8T\n04LZ5Jc8kjZ+hDXEYmU8du/C++2kyqtsu7VbzviNVoiLSQNlZ7r8kZvu3Xbm6jD7\nN7lLH9J5k2J9ZAx8aNsKdn17LGIJWEEWnJGpGqjRa5c8diXYOpLtMbI+YkGdPS1V\ner7vsCWiDUrxsrPB3Aj4kV42JTUcog==\n=pKBX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e6f3261c6b04345b9c5b0122c12815384d332022\ntype commit\ntag v1.9.0\ntagger John Eikenberry <jae@zhar.net> 1549336186 -0800\n\nrefactor opening files/dirs in request-server\n\nMinor version bump due to a pretty heavy refactoring of the\nrequest-server's handing of open packets. It now calls through to the\nhandler to initialize the reader/writer/lister objects when it receives\nthe open packet. This should be transparent and was done in relation to\na bug fix, but it is a pretty major refactor so the minor version bump.\n\nFixed #280; Request.WithContext() deadlock when called from handler\n"
+  }
+}

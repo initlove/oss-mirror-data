@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjExNzQ1MDA6MGQzYTUwMzUyMmZlY2E0YmM5YjU1ODhhNTg2YTgyZThiZDZkNTRjZA==",
+  "sha": "0d3a503522feca4bc9b5588a586a82e8bd6d54cd",
+  "url": "https://api.github.com/repos/openstack/keystonemiddleware/git/tags/0d3a503522feca4bc9b5588a586a82e8bd6d54cd",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-06T16:57:47Z"
+  },
+  "object": {
+    "sha": "0a65b1420799e7c7f8736e9f6c234f755ab5ac6b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystonemiddleware/git/commits/0a65b1420799e7c7f8736e9f6c234f755ab5ac6b"
+  },
+  "tag": "7.0.1",
+  "message": "keystonemiddleware 7.0.1 release\n\nmeta:version: 7.0.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I4c182baedd9a44d1d1d520a1129856343f0ee404\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1ykAsZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JUpC/40Q5swCIgwa3VkXeayF32t\nv6wJHadsBWZRK3Xkk38nEPosF+6MYZInE0niqlO3GBBqa6UcRVur2XaJHGb+ASa3\najQ6lEgTTnZvzqHjg76USs2o+Q45ni1ybkpSaGiQSRK3GZ/T/EAiN+4ZHYaUy0Cr\nssQ+/eTNRBwZ5XzMAzrvmgMx7YKdrjJxPGh/Or4k9bXMn2jJM0YgNpbVWPIb6HGc\nrEinZVpReV7Mvmc5QdhNArnVmecCcuc1TgVfxr0y5dyp+MmJv2gDELwp8V83oWiM\nesAOO9qPln/rYNZ1MwcMmEV56TEBxkD1OY3IvTTf7QCvyLRKZEg3UWIufH36fghI\n6m7ckoYqOEcs3GDa0e6SrNXWtCCCxsMoRqxh5tHbeLjL7BYYqV5JbcZovb/54T6+\ndGkiqbxTgQSuuXVG0X65fL4i1FYhDVmVhftemD0/BOWzw/QDE5e9iFXZPAYt4//M\nbNxod93a6w262J9k+n3QPGuVLYAV5AX4QBQ/URSyIt8=\n=0PY8\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1ykAsZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JUpC/40Q5swCIgwa3VkXeayF32t\nv6wJHadsBWZRK3Xkk38nEPosF+6MYZInE0niqlO3GBBqa6UcRVur2XaJHGb+ASa3\najQ6lEgTTnZvzqHjg76USs2o+Q45ni1ybkpSaGiQSRK3GZ/T/EAiN+4ZHYaUy0Cr\nssQ+/eTNRBwZ5XzMAzrvmgMx7YKdrjJxPGh/Or4k9bXMn2jJM0YgNpbVWPIb6HGc\nrEinZVpReV7Mvmc5QdhNArnVmecCcuc1TgVfxr0y5dyp+MmJv2gDELwp8V83oWiM\nesAOO9qPln/rYNZ1MwcMmEV56TEBxkD1OY3IvTTf7QCvyLRKZEg3UWIufH36fghI\n6m7ckoYqOEcs3GDa0e6SrNXWtCCCxsMoRqxh5tHbeLjL7BYYqV5JbcZovb/54T6+\ndGkiqbxTgQSuuXVG0X65fL4i1FYhDVmVhftemD0/BOWzw/QDE5e9iFXZPAYt4//M\nbNxod93a6w262J9k+n3QPGuVLYAV5AX4QBQ/URSyIt8=\n=0PY8\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0a65b1420799e7c7f8736e9f6c234f755ab5ac6b\ntype commit\ntag 7.0.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1567789067 +0000\n\nkeystonemiddleware 7.0.1 release\n\nmeta:version: 7.0.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I4c182baedd9a44d1d1d520a1129856343f0ee404\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkyMTcwNTQ6MWNjZDQ0OTMwNGU4MzRjOTM4ZmM1ZjA5OWJhNDYyZmI2OWNiNjQ1ZA==",
+  "sha": "1ccd449304e834c938fc5f099ba462fb69cb645d",
+  "url": "https://api.github.com/repos/micro/go-micro/git/tags/1ccd449304e834c938fc5f099ba462fb69cb645d",
+  "tagger": {
+    "name": "Asim Aslam",
+    "email": "asim@aslam.me",
+    "date": "2019-06-21T11:55:40Z"
+  },
+  "object": {
+    "sha": "4aa0192ebae9fe68686dea839c7a5ff288529efd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micro/go-micro/git/commits/4aa0192ebae9fe68686dea839c7a5ff288529efd"
+  },
+  "tag": "v1.7.0",
+  "message": "- Update go mod\n- Move mock data out of memory registry\n- wrap the grpc codecs to support framing\n- change grpc resolution to use service.method\n- support full proxying via grpc\n- add text codec\n- move data/store\n- add network interface\n- add router package and implementation\n- move options to config/options\n- send gossip updates on register/deregister\n- fix node add/del bug\n- add handler wrapper back into core router\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

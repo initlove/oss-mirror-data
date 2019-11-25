@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo3NDc1ZGQyMTc5ZmY0ODA5NzIwYWNiOTJlNzg2NmM3ZTQ3ZmZlMGJh",
+  "sha": "7475dd2179ff4809720acb92e7866c7e47ffe0ba",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/7475dd2179ff4809720acb92e7866c7e47ffe0ba",
+  "tagger": {
+    "name": "Bert Belder",
+    "email": "bertbelder@gmail.com",
+    "date": "2013-08-23T16:51:36Z"
+  },
+  "object": {
+    "sha": "a2d29b5b068cbac93dc16138fb30a74e2669daad",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/a2d29b5b068cbac93dc16138fb30a74e2669daad"
+  },
+  "tag": "v0.11.9",
+  "message": "2013.08.24, Version 0.11.9 (Unstable)\n\nChanges since version 0.11.8:\n\n* fsevents: share FSEventStream between multiple FS watchers, which removes a\n  limit on the maximum number of file watchers that can be created on OS X.\n  (Fedor Indutny)\n\n* process: the `exit_status` parameter for a uv_process_t's exit callback now\n  is an int64_t, and no longer an int. (Bert Belder)\n\n* process: make uv_spawn() return some types of errors immediately on windows,\n  instead of passing the error code the the exit callback. This brings it on\n  par with libuv's behavior on unix. (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUheTGHp3iHsuLtRhAQJY1gf+NGjnE8wTSUoPvz0WRQHxP8eaI6lDRpMz\ndUoK35knPCSllujVtbbh/IHzcfXbadqc1prTdzet41iJeZrvQPZsvZ/6EtZsRWgj\nq1W4BCMbr0UQ8Hw7UMJtVAkVYctvo0t1BqNHnWzFux67vpZwJ63UwMqUF8DA5qbA\nBwfc2cuJYp+2drsoNugc+8isOQgtac3k81tugmi2nqhr7x7MWyTjPdZ9NOrPLb6p\nYSyLx0hcXOaiI2sZB/a2fkr+B65l2xSHEjKZXO7+P6XyyFXqbE9V1Apki1wh1ELW\nCNhXsCkWeYA0jT65FqBEZrokfXH61n4RQr4mjKt4ZVjecBLCEBECkQ==\n=9HAk\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUheTGHp3iHsuLtRhAQJY1gf+NGjnE8wTSUoPvz0WRQHxP8eaI6lDRpMz\ndUoK35knPCSllujVtbbh/IHzcfXbadqc1prTdzet41iJeZrvQPZsvZ/6EtZsRWgj\nq1W4BCMbr0UQ8Hw7UMJtVAkVYctvo0t1BqNHnWzFux67vpZwJ63UwMqUF8DA5qbA\nBwfc2cuJYp+2drsoNugc+8isOQgtac3k81tugmi2nqhr7x7MWyTjPdZ9NOrPLb6p\nYSyLx0hcXOaiI2sZB/a2fkr+B65l2xSHEjKZXO7+P6XyyFXqbE9V1Apki1wh1ELW\nCNhXsCkWeYA0jT65FqBEZrokfXH61n4RQr4mjKt4ZVjecBLCEBECkQ==\n=9HAk\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a2d29b5b068cbac93dc16138fb30a74e2669daad\ntype commit\ntag v0.11.9\ntagger Bert Belder <bertbelder@gmail.com> 1377276696 +0200\n\n2013.08.24, Version 0.11.9 (Unstable)\n\nChanges since version 0.11.8:\n\n* fsevents: share FSEventStream between multiple FS watchers, which removes a\n  limit on the maximum number of file watchers that can be created on OS X.\n  (Fedor Indutny)\n\n* process: the `exit_status` parameter for a uv_process_t's exit callback now\n  is an int64_t, and no longer an int. (Bert Belder)\n\n* process: make uv_spawn() return some types of errors immediately on windows,\n  instead of passing the error code the the exit callback. This brings it on\n  par with libuv's behavior on unix. (Bert Belder)\n"
+  }
+}

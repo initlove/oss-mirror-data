@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTozNTViMzdhZTMxYzc2OWZjYjY4ZTAzNGEzYjc3ZTlhNWI5YjhkMzdm",
+  "sha": "355b37ae31c769fcb68e034a3b77e9a5b9b8d37f",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/355b37ae31c769fcb68e034a3b77e9a5b9b8d37f",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-12-31T18:27:39Z"
+  },
+  "object": {
+    "sha": "589c224d4c2e79fec65db01d361948f1e4976858",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/589c224d4c2e79fec65db01d361948f1e4976858"
+  },
+  "tag": "v0.11.17",
+  "message": "2013.12.32, Version 0.11.17 (Unstable)\n\nChanges since version 0.11.16:\n\n* stream: allow multiple buffers for uv_try_write (Fedor Indutny)\n\n* unix: fix a possible memory leak in uv_fs_readdir (Alex Crichton)\n\n* unix, windows: add uv_loop_alive() function (Sam Roberts)\n\n* windows: avoid assertion failure when pipe server is closed (Bert Belder)\n\n* osx: Fix a possible segfault in uv__io_poll (Alex Crichton)\n\n* stream: fix uv__stream_osx_select (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlLDDJ4ACgkQfTP/nQJGQG3hAwCgk1YF/iKfu/s/4ASnfCNCuszx\nvhEAoOqfRZrStzXQORxQPH+xA7YImHkD\n=r2+f\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlLDDJ4ACgkQfTP/nQJGQG3hAwCgk1YF/iKfu/s/4ASnfCNCuszx\nvhEAoOqfRZrStzXQORxQPH+xA7YImHkD\n=r2+f\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 589c224d4c2e79fec65db01d361948f1e4976858\ntype commit\ntag v0.11.17\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1388514459 -0800\n\n2013.12.32, Version 0.11.17 (Unstable)\n\nChanges since version 0.11.16:\n\n* stream: allow multiple buffers for uv_try_write (Fedor Indutny)\n\n* unix: fix a possible memory leak in uv_fs_readdir (Alex Crichton)\n\n* unix, windows: add uv_loop_alive() function (Sam Roberts)\n\n* windows: avoid assertion failure when pipe server is closed (Bert Belder)\n\n* osx: Fix a possible segfault in uv__io_poll (Alex Crichton)\n\n* stream: fix uv__stream_osx_select (Fedor Indutny)\n"
+  }
+}

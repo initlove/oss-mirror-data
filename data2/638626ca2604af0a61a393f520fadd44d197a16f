@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTo2Mzg2MjZjYTI2MDRhZjBhNjFhMzkzZjUyMGZhZGQ0NGQxOTdhMTZm",
+  "sha": "638626ca2604af0a61a393f520fadd44d197a16f",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/638626ca2604af0a61a393f520fadd44d197a16f",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-05-14T22:44:48Z"
+  },
+  "object": {
+    "sha": "e71c2b13f6937aa36ef5c060e0a61d6735180865",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/e71c2b13f6937aa36ef5c060e0a61d6735180865"
+  },
+  "tag": "v1.1.153",
+  "message": "Release of 1.1.153\n\n- e71c2b13f6937aa36ef5c060e0a61d6735180865: Merge pull request #514 from tbak/master\n- d6ade397210ecba2d205923cc8fd287d488cb838: Merge remote-tracking branch 'remotes/netflix/master'\n- 74738d025724ed8001a4692f0ad35e1511d262ef: Fix EurekaJacksonCodec to Handle poperly @class attribute in instance metainfo.\n- d34507d07738ef171d19ef228927a9d6793a4544: Merge pull request #515 from qiangdavidliu/master\n- 3d4d264c0c72049e671bfb382169643aaca0a69d: Removing singleton from providers + explicitly specifying the default bindings\n- d3b5b456f3f0bdbfcbd21c63a022df84bbeb4f7e: Singleton for DefaultEurekaClientConfig\n- db0484739d70dbb94bb7d1f7df12be19db7db496: Remove dependency to ribbon.\n- 716acdd4038fcb655337915a54c26124fe89a1ef: Adding test for EurekaModule\n- 1bab118f96c879c8e0852c27e83642ca92f2f183: Merge remote-tracking branch 'upstream/master'\n- 651d25e22536c3584fce19fc85539779a01087ea: - Adding EurekaClient interface for DiscoveryClient - Adding EurekaModule for using eureka with Governator - cleaned up client and server property files - cleaned up examples and moved examples to eureka-examples\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

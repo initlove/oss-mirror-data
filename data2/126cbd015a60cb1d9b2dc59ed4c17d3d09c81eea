@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjI0ODk4OTQ6MTI2Y2JkMDE1YTYwY2IxZDliMmRjNTllZDRjMTdkM2QwOWM4MWVlYQ==",
+  "sha": "126cbd015a60cb1d9b2dc59ed4c17d3d09c81eea",
+  "url": "https://api.github.com/repos/openstack/oslo.middleware/git/tags/126cbd015a60cb1d9b2dc59ed4c17d3d09c81eea",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-09-06T08:27:45Z"
+  },
+  "object": {
+    "sha": "8812bc3fc490f0db4977418eaedf58190a0df394",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.middleware/git/commits/8812bc3fc490f0db4977418eaedf58190a0df394"
+  },
+  "tag": "3.31.0",
+  "message": "oslo.middleware 3.31.0 release\n\nmeta:version: 3.31.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Change-Id: Ie7a6ecc7bdf561f72feeb675947eab07b84fb138\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZr7GBAAoJEOtsyhSD+nTswpsH/ioin3SbIPeW69ZbzDlGzi+J\n+ckywHhe1GHtg+pPmCzNma0sg6li6wzx2RaKiB1fd4gWYX3xI5RhF/W6gqPWojzk\nHmKVII5z8h8ztwPrr47kXjwJU7UUZiRg94EQG9ccnbSA70EYGFVF4eqFxsgSpr1l\nWnxJ9qodRCtSOmDCFaVkJzX8eE+RobkwzudWuftnSv0++MT3/clJH6EELKj9i+6l\nl764zxOVxDpjrYgsPSMcSOCp9xSWjkuU/9i6uGwnGSXYhrwAoJc6dzLsRPzP/Mvq\nFc+0mnkNvs7AKn7fpR3nIpL9cuPkY5LKl7fJWblRWEi/TaHoWk5V7//aFS+dIJ0=\n=iorI\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZr7GBAAoJEOtsyhSD+nTswpsH/ioin3SbIPeW69ZbzDlGzi+J\n+ckywHhe1GHtg+pPmCzNma0sg6li6wzx2RaKiB1fd4gWYX3xI5RhF/W6gqPWojzk\nHmKVII5z8h8ztwPrr47kXjwJU7UUZiRg94EQG9ccnbSA70EYGFVF4eqFxsgSpr1l\nWnxJ9qodRCtSOmDCFaVkJzX8eE+RobkwzudWuftnSv0++MT3/clJH6EELKj9i+6l\nl764zxOVxDpjrYgsPSMcSOCp9xSWjkuU/9i6uGwnGSXYhrwAoJc6dzLsRPzP/Mvq\nFc+0mnkNvs7AKn7fpR3nIpL9cuPkY5LKl7fJWblRWEi/TaHoWk5V7//aFS+dIJ0=\n=iorI\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8812bc3fc490f0db4977418eaedf58190a0df394\ntype commit\ntag 3.31.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1504686465 +0000\n\noslo.middleware 3.31.0 release\n\nmeta:version: 3.31.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Change-Id: Ie7a6ecc7bdf561f72feeb675947eab07b84fb138\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

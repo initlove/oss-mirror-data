@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo1NDI3ZTEzN2FhNjA4NDE3YWM1MzBmNzU3NmFhNTYxY2Y1NTNkMTQz",
+  "sha": "5427e137aa608417ac530f7576aa561cf553d143",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/5427e137aa608417ac530f7576aa561cf553d143",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-12-18T23:37:25Z"
+  },
+  "object": {
+    "sha": "375ebce068555f0ca8151b562edb5f1b263022db",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/375ebce068555f0ca8151b562edb5f1b263022db"
+  },
+  "tag": "v0.10.21",
+  "message": "2013.12.19, Version 0.10.21 (Stable)\n\nChanges since version 0.10.20:\n\n* unix: fix a possible memory leak in uv_fs_readdir (Alex Crichton)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlKyMbwACgkQfTP/nQJGQG34+wCfbvt7ebI7ZI0s1Br5gjfkdtuP\nIHgAoJIScAqGZBqwbkapTa17zzycqnAT\n=USlS\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlKyMbwACgkQfTP/nQJGQG34+wCfbvt7ebI7ZI0s1Br5gjfkdtuP\nIHgAoJIScAqGZBqwbkapTa17zzycqnAT\n=USlS\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 375ebce068555f0ca8151b562edb5f1b263022db\ntype commit\ntag v0.10.21\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1387409845 -0800\n\n2013.12.19, Version 0.10.21 (Stable)\n\nChanges since version 0.10.20:\n\n* unix: fix a possible memory leak in uv_fs_readdir (Alex Crichton)\n"
+  }
+}

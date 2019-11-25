@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQwMDI4OTo2OTVlYzFjMDAxODgwN2MxYmI2NzdmYzhjMTczYzZmMGYxMTcwYTNk",
+  "sha": "695ec1c0018807c1bb677fc8c173c6f0f1170a3d",
+  "url": "https://api.github.com/repos/openstack/neutron/git/tags/695ec1c0018807c1bb677fc8c173c6f0f1170a3d",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-26T09:43:30Z"
+  },
+  "object": {
+    "sha": "1c2e10f8595d2286bd9bec513bc5a346a84a6f7c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron/git/commits/1c2e10f8595d2286bd9bec513bc5a346a84a6f7c"
+  },
+  "tag": "15.0.0.0rc1",
+  "message": "neutron 15.0.0.0rc1 release candidate\n\nmeta:version: 15.0.0.0rc1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: I71862cce395ab0a5e07ecb2993fc665259bc3934\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+1: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2MiEIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2ALqC/48dv4aNd7FPIfJ3Dc3NWga\nHexJmvpMxmVsHG3focblwquT3rWmS7ManGUJc4OtnRtqDOLJUMGev3OZiUu/dz2A\nwSmGuk319rHO638K5LzqSu2EBD3F+1Q+j8CqBeX1FNEz29MRjbp88suyJt8PPeYK\nplB/vaRvGeh5AmPHncuV1LY1QC/JRsrr1CS3/sfK1CaG7/GlNtkTZXk/nAHNyV/l\nPvWZ1aq4VVDfDQb431lJip8ywOg937ybZExUgUplRADscA3YrX9c/Yx3dkZlGVz9\noDGJunfeGhQHYNzADHB/HOZs14ISUpYZC4gts2cRsPrzLz1At7kmwCWd05Vh3FJK\nuOUX/rr+42BfQCqOfgF01DiO1APZPGxDmJpSvqUxE7ROpJ9lAgECokckhfP52TV0\njp5mlSLJEul5fbuV6Rq072SSsSf7J+YBHwDCI3lMYCAo2S48J/vq4D6i8P5gauCr\nSSr1oWC4HrGHu3e09Sn/eMW+1e+yxIwq4Uiq0ZwL/DY=\n=bIzv\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2MiEIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2ALqC/48dv4aNd7FPIfJ3Dc3NWga\nHexJmvpMxmVsHG3focblwquT3rWmS7ManGUJc4OtnRtqDOLJUMGev3OZiUu/dz2A\nwSmGuk319rHO638K5LzqSu2EBD3F+1Q+j8CqBeX1FNEz29MRjbp88suyJt8PPeYK\nplB/vaRvGeh5AmPHncuV1LY1QC/JRsrr1CS3/sfK1CaG7/GlNtkTZXk/nAHNyV/l\nPvWZ1aq4VVDfDQb431lJip8ywOg937ybZExUgUplRADscA3YrX9c/Yx3dkZlGVz9\noDGJunfeGhQHYNzADHB/HOZs14ISUpYZC4gts2cRsPrzLz1At7kmwCWd05Vh3FJK\nuOUX/rr+42BfQCqOfgF01DiO1APZPGxDmJpSvqUxE7ROpJ9lAgECokckhfP52TV0\njp5mlSLJEul5fbuV6Rq072SSsSf7J+YBHwDCI3lMYCAo2S48J/vq4D6i8P5gauCr\nSSr1oWC4HrGHu3e09Sn/eMW+1e+yxIwq4Uiq0ZwL/DY=\n=bIzv\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1c2e10f8595d2286bd9bec513bc5a346a84a6f7c\ntype commit\ntag 15.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1569491010 +0000\n\nneutron 15.0.0.0rc1 release candidate\n\nmeta:version: 15.0.0.0rc1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: I71862cce395ab0a5e07ecb2993fc665259bc3934\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+1: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

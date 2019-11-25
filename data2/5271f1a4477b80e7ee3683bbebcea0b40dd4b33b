@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQwMDI4OTo1MjcxZjFhNDQ3N2I4MGU3ZWUzNjgzYmJlYmNlYTBiNDBkZDRiMzNi",
+  "sha": "5271f1a4477b80e7ee3683bbebcea0b40dd4b33b",
+  "url": "https://api.github.com/repos/openstack/neutron/git/tags/5271f1a4477b80e7ee3683bbebcea0b40dd4b33b",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-02-10T17:05:59Z"
+  },
+  "object": {
+    "sha": "197b188ea8bfdfd023b2da3b7572e9387568c500",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron/git/commits/197b188ea8bfdfd023b2da3b7572e9387568c500"
+  },
+  "tag": "7.0.3",
+  "message": "neutron 7.0.3 release\n\nmeta:version: 7.0.3\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: yes\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWu233AAoJEDttBqDEKEN6Wh4H/R6YRy5tnVeQw4scHOQz6Uxh\n4MlkFpDh9/MOTiOXbXqYT2rMX81pSeCsGJdUj9WSYaASEYmnRjuzeYqM5k7vRCgw\nHw/9a+JOz7Ds9azz9jOKqlSLpRLx89xVrleS8DdNpdyMekE6BCNiVB+nTPKy1UHD\njRQzzm3ceUnvVAwdVAJAKhwXb6vnctFiLGza/po7ySLStm5uwau5csLB5JMLs6ej\nZzjxojDT7haE/f4En87cHEdMQopjtGck09Rq+5AEBfWq1OSQOFjcoaTJ5o7cM/Fu\n/iL/B5JnlYme7ohqi3H2Cr+4ZcNkBh8htXtGQHVL3d4Q3+COcQ60DrkYPqeTJtw=\n=ShEf\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWu233AAoJEDttBqDEKEN6Wh4H/R6YRy5tnVeQw4scHOQz6Uxh\n4MlkFpDh9/MOTiOXbXqYT2rMX81pSeCsGJdUj9WSYaASEYmnRjuzeYqM5k7vRCgw\nHw/9a+JOz7Ds9azz9jOKqlSLpRLx89xVrleS8DdNpdyMekE6BCNiVB+nTPKy1UHD\njRQzzm3ceUnvVAwdVAJAKhwXb6vnctFiLGza/po7ySLStm5uwau5csLB5JMLs6ej\nZzjxojDT7haE/f4En87cHEdMQopjtGck09Rq+5AEBfWq1OSQOFjcoaTJ5o7cM/Fu\n/iL/B5JnlYme7ohqi3H2Cr+4ZcNkBh8htXtGQHVL3d4Q3+COcQ60DrkYPqeTJtw=\n=ShEf\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 197b188ea8bfdfd023b2da3b7572e9387568c500\ntype commit\ntag 7.0.3\ntagger Doug Hellmann <doug@doughellmann.com> 1455123959 -0500\n\nneutron 7.0.3 release\n\nmeta:version: 7.0.3\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: yes\n"
+  }
+}

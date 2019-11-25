@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDE6NGNmN2M1ZTMxMjRjYWJmMGU2YTY3ZWFhNGRlNzk3NmRkYTY1ZTkwMQ==",
+  "sha": "4cf7c5e3124cabf0e6a67eaa4de7976dda65e901",
+  "url": "https://api.github.com/repos/openstack/ironic/git/tags/4cf7c5e3124cabf0e6a67eaa4de7976dda65e901",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-06-21T14:39:39Z"
+  },
+  "object": {
+    "sha": "7a718ee4de6bc04aa6a63c99899a2d6e4e130bb7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic/git/commits/7a718ee4de6bc04aa6a63c99899a2d6e4e130bb7"
+  },
+  "tag": "12.2.0",
+  "message": "ironic 12.2.0 release\n\nmeta:version: 12.2.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Mark Goddard <mark@stackhpc.com>\nmeta:release:Commit: Mark Goddard <mark@stackhpc.com>\nmeta:release:Change-Id: I57ef120b8521c05aa80f66037e72dac5454ca189\nmeta:release:Code-Review+1: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Code-Review+1: Riccardo Pittau <elfosardo@gmail.com>\nmeta:release:Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0M7CsZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2HiIC/9kVEkHzpoAjVKCsGQm+omp\nlnEziMd7DeUwUjrmlFOgJNyYv2ifKKiyLVYNHNuQYv/p3ndQ8ausObMDfFazplSa\na88DPq6/SoSH1iu6SR7NJLbvwl33gO3sTY1VYsioA3UcNc2IFwfw2qziHPiO9Ctu\nZOOYc8VDdj9gtABIzO6nA92n45CbIwANuvL1cOip2xn2Mlxx/Nd81t/S06AtSH3T\nDNs9ykGk2ptwtrml/4lE2BNIuGM3zgJhJX/6ow7wXyB0+Seo4nOdTyAavFKFM3Cp\nYVxSVXJK1HIMqD7yi62E/RrbOzfcqug6GAfbCuXJd7wXgTLtd8KEIGAPl0+k7w8q\nHOuhJFgUVdYNbIi9LXfPHd1oQhPpLvuIx4f7NOEQZNhYDlEV94Tm80S2NxcsiE1s\nUNiRJ30Cubzsk0w7NQXOxvzcI6/z6rkvukRtyjWMdaeHi8rsuM2m8P+g1DAEn51O\nrvaXj5ixtYSjpwLyHlY/77MGoPhbuGYUkFlhdCx2Hoc=\n=7QeS\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0M7CsZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2HiIC/9kVEkHzpoAjVKCsGQm+omp\nlnEziMd7DeUwUjrmlFOgJNyYv2ifKKiyLVYNHNuQYv/p3ndQ8ausObMDfFazplSa\na88DPq6/SoSH1iu6SR7NJLbvwl33gO3sTY1VYsioA3UcNc2IFwfw2qziHPiO9Ctu\nZOOYc8VDdj9gtABIzO6nA92n45CbIwANuvL1cOip2xn2Mlxx/Nd81t/S06AtSH3T\nDNs9ykGk2ptwtrml/4lE2BNIuGM3zgJhJX/6ow7wXyB0+Seo4nOdTyAavFKFM3Cp\nYVxSVXJK1HIMqD7yi62E/RrbOzfcqug6GAfbCuXJd7wXgTLtd8KEIGAPl0+k7w8q\nHOuhJFgUVdYNbIi9LXfPHd1oQhPpLvuIx4f7NOEQZNhYDlEV94Tm80S2NxcsiE1s\nUNiRJ30Cubzsk0w7NQXOxvzcI6/z6rkvukRtyjWMdaeHi8rsuM2m8P+g1DAEn51O\nrvaXj5ixtYSjpwLyHlY/77MGoPhbuGYUkFlhdCx2Hoc=\n=7QeS\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7a718ee4de6bc04aa6a63c99899a2d6e4e130bb7\ntype commit\ntag 12.2.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1561127979 +0000\n\nironic 12.2.0 release\n\nmeta:version: 12.2.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Mark Goddard <mark@stackhpc.com>\nmeta:release:Commit: Mark Goddard <mark@stackhpc.com>\nmeta:release:Change-Id: I57ef120b8521c05aa80f66037e72dac5454ca189\nmeta:release:Code-Review+1: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Code-Review+1: Riccardo Pittau <elfosardo@gmail.com>\nmeta:release:Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

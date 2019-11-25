@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDQ2NTQ1MTU6NWUxMDg5YTA0OTViNDM0ODdiNjkwMmNkMGY2ZTZhZDZjMWI2MjA3NQ==",
+  "sha": "5e1089a0495b43487b6902cd0f6e6ad6c1b62075",
+  "url": "https://api.github.com/repos/openstack/oslo.privsep/git/tags/5e1089a0495b43487b6902cd0f6e6ad6c1b62075",
+  "tagger": {
+    "name": "Thierry Carrez",
+    "email": "thierry@openstack.org",
+    "date": "2016-08-18T06:51:11Z"
+  },
+  "object": {
+    "sha": "30d962bfd74879c7886f877933bbb6b39de71455",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.privsep/git/commits/30d962bfd74879c7886f877933bbb6b39de71455"
+  },
+  "tag": "1.12.0",
+  "message": "oslo.privsep 1.12.0 release\n\nmeta:version: 1.12.0\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Commit: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Change-Id: Ib51d4c2bb0139241fd3b04da0eab0b54ed42a5cd\nmeta:release:Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+1: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXtVrfAAoJEFB6+JAlsQQjlhsQAJj/ssa3ZISoePZch5RwOuEu\n+RU5MuBqPGLIRjnXR9pcN06yd8Cla4b/05cIoG1G4hgW+SfJBuxs+zYANVPp7Veb\n1ZYgtFyyJLQIoU+IMbTTJ9alAk429Ua2Iih6b0wL9JZ/KJucMSRWXWh7U/4ykOXn\n3wa9df3XYRVj8vwu1UEJEYkXLoxBPap+dtf1jBbY5OMt3Vdj4ujBOmy4OONS2uH5\n+sTr8mpnL0Jjx6teTeN6sYIgxKmpqJpv6lf6Ubf62DCrAvwx6ZdFx/vfh7HD+R24\nbgVABmiJc4OM7pUZ575Id915/8BJEKptZU1mwn7/99QCkIALGo8KVsaV890b0p4X\nF9vVUWoY44fBT8JgG/VSHDIMTsI0q8lnawrscPnchX3Dk6LNaTmBw2LhYPT/rI0a\nB0HVJkvHeGsM4Q28X5MuEZ/VhOccMlYIBgDZC5OLF/rahhEd53P9DZkPHgaNBnU6\nDWjPZi4296i0AWZNyB+z2azgLh77J7DOGzDwEejMs+Pv6/sOeO/EvYaBB8PvyV/P\n94t6o1mU0e76SibVziwWTekYG2U5mSZTDTx2HvhKR1BXCMPgqDryBl0BL1MW++9s\nGaVdezEuZ4617kp/LBiwWgo9SFHf1vsok1r8QfHmoDBi4/EqEqxatRk8mhVf+U20\n6noIhKUb23oMHlMjTWVy\n=oQCa\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXtVrfAAoJEFB6+JAlsQQjlhsQAJj/ssa3ZISoePZch5RwOuEu\n+RU5MuBqPGLIRjnXR9pcN06yd8Cla4b/05cIoG1G4hgW+SfJBuxs+zYANVPp7Veb\n1ZYgtFyyJLQIoU+IMbTTJ9alAk429Ua2Iih6b0wL9JZ/KJucMSRWXWh7U/4ykOXn\n3wa9df3XYRVj8vwu1UEJEYkXLoxBPap+dtf1jBbY5OMt3Vdj4ujBOmy4OONS2uH5\n+sTr8mpnL0Jjx6teTeN6sYIgxKmpqJpv6lf6Ubf62DCrAvwx6ZdFx/vfh7HD+R24\nbgVABmiJc4OM7pUZ575Id915/8BJEKptZU1mwn7/99QCkIALGo8KVsaV890b0p4X\nF9vVUWoY44fBT8JgG/VSHDIMTsI0q8lnawrscPnchX3Dk6LNaTmBw2LhYPT/rI0a\nB0HVJkvHeGsM4Q28X5MuEZ/VhOccMlYIBgDZC5OLF/rahhEd53P9DZkPHgaNBnU6\nDWjPZi4296i0AWZNyB+z2azgLh77J7DOGzDwEejMs+Pv6/sOeO/EvYaBB8PvyV/P\n94t6o1mU0e76SibVziwWTekYG2U5mSZTDTx2HvhKR1BXCMPgqDryBl0BL1MW++9s\nGaVdezEuZ4617kp/LBiwWgo9SFHf1vsok1r8QfHmoDBi4/EqEqxatRk8mhVf+U20\n6noIhKUb23oMHlMjTWVy\n=oQCa\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 30d962bfd74879c7886f877933bbb6b39de71455\ntype commit\ntag 1.12.0\ntagger Thierry Carrez <thierry@openstack.org> 1471503071 +0200\n\noslo.privsep 1.12.0 release\n\nmeta:version: 1.12.0\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Commit: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Change-Id: Ib51d4c2bb0139241fd3b04da0eab0b54ed42a5cd\nmeta:release:Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+1: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

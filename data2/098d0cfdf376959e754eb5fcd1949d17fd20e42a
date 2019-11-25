@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTAwNjUwNjowOThkMGNmZGYzNzY5NTllNzU0ZWI1ZmNkMTk0OWQxN2ZkMjBlNDJh",
+  "sha": "098d0cfdf376959e754eb5fcd1949d17fd20e42a",
+  "url": "https://api.github.com/repos/openstack/pbr/git/tags/098d0cfdf376959e754eb5fcd1949d17fd20e42a",
+  "tagger": {
+    "name": "Monty Taylor",
+    "email": "mordred@inaugust.com",
+    "date": "2012-07-18T20:12:35Z"
+  },
+  "object": {
+    "sha": "5390ac82aa1b9704065d52b397cb5d383f47654f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/pbr/git/commits/5390ac82aa1b9704065d52b397cb5d383f47654f"
+  },
+  "tag": "0.4",
+  "message": "Release 0.4 - Use the version hook for everything.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niEYEABECAAYFAlAHGMMACgkQ2Jv7/VK1RgENFQCggHTprNqQU1gYrdPtSDo0Z21o\nRpEAoMAw91sr0zJDSZcN0OWMSBEMTtb1\n=MH0g\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niEYEABECAAYFAlAHGMMACgkQ2Jv7/VK1RgENFQCggHTprNqQU1gYrdPtSDo0Z21o\nRpEAoMAw91sr0zJDSZcN0OWMSBEMTtb1\n=MH0g\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5390ac82aa1b9704065d52b397cb5d383f47654f\ntype commit\ntag 0.4\ntagger Monty Taylor <mordred@inaugust.com> 1342642355 -0700\n\nRelease 0.4 - Use the version hook for everything.\n"
+  }
+}

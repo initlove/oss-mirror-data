@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOjY1Mjg5NTY4YzYwMDlhMjViYzQ5MzBjNGEyZTQyNjI1MWE5ODg0NDY=",
+  "sha": "65289568c6009a25bc4930c4a2e426251a988446",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/65289568c6009a25bc4930c4a2e426251a988446",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2016-04-06T03:59:50Z"
+  },
+  "object": {
+    "sha": "4f5442a9cd88a750e067629979ba223c74cab321",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/4f5442a9cd88a750e067629979ba223c74cab321"
+  },
+  "tag": "2.0.7-beta3",
+  "message": "Version 2.0.7-beta3\n\n - Fix support systems who provide 0 as a valid file descriptor\n - Integration tests on CI's that support it or for the folks at home with an arduino handy\n - Many documentation improvements\n - Listing serialports on unix/linux (non osx) now include more ports and have less bugs in the output\n - Fix race conditions when opening and closing ports that led to errors while reading and writing while closing or opening the port.\n - Fix a double open bug on OSX that would cause opening and closing ports repetitively to error.\n - Fix a 100% cpu and possible hang bug when ports were disconnected on windows.\n - Fix a memory leak on windows\n - Upgraded to nan-2.2.1 for memory leak fixes and node 6 support (still not supported)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

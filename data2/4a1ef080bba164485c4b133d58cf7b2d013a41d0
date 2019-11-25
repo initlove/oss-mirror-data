@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2Nzo0YTFlZjA4MGJiYTE2NDQ4NWM0YjEzM2Q1OGNmN2IyZDAxM2E0MWQw",
+  "sha": "4a1ef080bba164485c4b133d58cf7b2d013a41d0",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/4a1ef080bba164485c4b133d58cf7b2d013a41d0",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2015-08-20T21:20:57Z"
+  },
+  "object": {
+    "sha": "0214d7c669e594cf5bf455b78ed60ba95bba8557",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/0214d7c669e594cf5bf455b78ed60ba95bba8557"
+  },
+  "tag": "7.1.1",
+  "message": "Released v7.1.1\n\n* Check that the wheel cache directory is writable before we attempt to write\n  cached files to them.\n\n* Move the pip version check until *after* any installs have been performed,\n  thus removing the extraenous warning when upgrading pip.\n\n* Added debug logging when using a cached wheel.\n\n* Respect platlib by default on platforms that have it separated from purlib.\n\n* Upgrade packaging to 15.3.\n\n  * Normalize post-release spellings for rev/r prefixes.\n\n* Upgrade distlib to 0.2.1.\n\n  * Updated launchers to decode shebangs using UTF-8. This allows non-ASCII\n    pathnames to be correctly handled.\n\n  * Ensured that the executable written to shebangs is normcased.\n\n  * Changed ScriptMaker to work better under Jython.\n\n* Upgrade ipaddress to 1.0.13.\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJV1kTXAAoJEG48vOkzctz6Aq0QAIZT7w8MEQAjtH0gkgZmc3or\nygNOI2Pal5x3dcMlmVT4B4quOUwxf51x/jYz+hhhpZPf7e6ruQqlnFlsXFbYQo+Q\nnJ1+9nKknGAhCUeUtxsPATAnCVU3Umd8pnBYcJu0gr29BgY3Cg9bJkn7VByIFi/I\njOiSQ0guy79HyS/bpEmINZxctWCxXHGopFkJx6XmSDLepYYpCerRzCE7UT3fhrCd\n/btErdsesQllCN5I/BS1rKBQPGXhynMKslXoFsvNufspVS3ia5BOdPaIYGt8vf4q\n5mG0eltLpZukrMJtS+eMNJv93pCD8tTPdo01e6ij+qW4G2PvbyQO+gP4BZ2NxFro\neF9+FrD7xB+9csb1KRTN80SxbXNmoyu8xUhkRFx9nCmi2V0PzM/jAjoc6gX+Fc+A\nc32kOEpdInPTDauue/vUNBLUJPa6885bKWWxGVMLJQd3QalcljaZkhBPLiHiloD9\nUikJZMUMNR5TKDFfT/1WLLAOea0oZ5DN49O9rt6NMADRKBsKxin4OCaXA2tXStUn\n1p4nPPQTyuLQjzdjuLdauk9Zm35Mlh4QkS2x7ACt5yi+ne7RH269RXw41O5zDL4x\nQODwdpaCIEj5o2It/J93xljk4BMVcbpZGxtrMXUVDeDn3x0GEX+HdS+NL6Wlpbe8\nmawLcMHmkzYArT/I3lSU\n=Hp2z\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJV1kTXAAoJEG48vOkzctz6Aq0QAIZT7w8MEQAjtH0gkgZmc3or\nygNOI2Pal5x3dcMlmVT4B4quOUwxf51x/jYz+hhhpZPf7e6ruQqlnFlsXFbYQo+Q\nnJ1+9nKknGAhCUeUtxsPATAnCVU3Umd8pnBYcJu0gr29BgY3Cg9bJkn7VByIFi/I\njOiSQ0guy79HyS/bpEmINZxctWCxXHGopFkJx6XmSDLepYYpCerRzCE7UT3fhrCd\n/btErdsesQllCN5I/BS1rKBQPGXhynMKslXoFsvNufspVS3ia5BOdPaIYGt8vf4q\n5mG0eltLpZukrMJtS+eMNJv93pCD8tTPdo01e6ij+qW4G2PvbyQO+gP4BZ2NxFro\neF9+FrD7xB+9csb1KRTN80SxbXNmoyu8xUhkRFx9nCmi2V0PzM/jAjoc6gX+Fc+A\nc32kOEpdInPTDauue/vUNBLUJPa6885bKWWxGVMLJQd3QalcljaZkhBPLiHiloD9\nUikJZMUMNR5TKDFfT/1WLLAOea0oZ5DN49O9rt6NMADRKBsKxin4OCaXA2tXStUn\n1p4nPPQTyuLQjzdjuLdauk9Zm35Mlh4QkS2x7ACt5yi+ne7RH269RXw41O5zDL4x\nQODwdpaCIEj5o2It/J93xljk4BMVcbpZGxtrMXUVDeDn3x0GEX+HdS+NL6Wlpbe8\nmawLcMHmkzYArT/I3lSU\n=Hp2z\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0214d7c669e594cf5bf455b78ed60ba95bba8557\ntype commit\ntag 7.1.1\ntagger Donald Stufft <donald@stufft.io> 1440105657 -0400\n\nReleased v7.1.1\n\n* Check that the wheel cache directory is writable before we attempt to write\n  cached files to them.\n\n* Move the pip version check until *after* any installs have been performed,\n  thus removing the extraenous warning when upgrading pip.\n\n* Added debug logging when using a cached wheel.\n\n* Respect platlib by default on platforms that have it separated from purlib.\n\n* Upgrade packaging to 15.3.\n\n  * Normalize post-release spellings for rev/r prefixes.\n\n* Upgrade distlib to 0.2.1.\n\n  * Updated launchers to decode shebangs using UTF-8. This allows non-ASCII\n    pathnames to be correctly handled.\n\n  * Ensured that the executable written to shebangs is normcased.\n\n  * Changed ScriptMaker to work better under Jython.\n\n* Upgrade ipaddress to 1.0.13.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQ0MzAxMzc6ODU3NTNkYTQxNjQ1M2QzYTE2OTZiZWJmZDg5MTY0MmQwM2ZhNjAwMg==",
+  "sha": "85753da416453d3a1696bebfd891642d03fa6002",
+  "url": "https://api.github.com/repos/openstack/os-client-config/git/tags/85753da416453d3a1696bebfd891642d03fa6002",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-02-01T14:15:04Z"
+  },
+  "object": {
+    "sha": "ed71a5994f747951c737b16e300ed9dec54a4750",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/os-client-config/git/commits/ed71a5994f747951c737b16e300ed9dec54a4750"
+  },
+  "tag": "1.29.0",
+  "message": "os-client-config 1.29.0 release\n\nmeta:version: 1.29.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: Ia9a0282108b935b316255556143f7cd2813e68e6\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJacyDoAAoJEEIeZHKBH5qB8cYH/3xHm0AVrOzVdBiVCFs0m0VB\nu0mR7IBBoZnwVCqJg9KediWueTnkPX91G8UI4X8YwJ3QwVQs18KlhPOz04MpG/1i\nY3JCRhuri+iNYW37Ok8dvohnUAu8U7crCAup7e6dHE/9IHtWrxP8lHueIhqpMQNH\nmDh14uHcqsPQL/zGTMaIMv/umms68rFOBI97j01nM2V1YW5qPs2LbsRXV77Mw5Zv\nviX2b7UHpqvapckFSmByFwLyJP6L4s5ALMX6CwClCvGUZNGjz/d/WWfjzuXi+J9Q\n5pL6IxVq4JWCLBsFiI92lbxzCwCkohPWkYXHiyOg2MIbeI68VV3zAvG04myqDC0=\n=44+A\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJacyDoAAoJEEIeZHKBH5qB8cYH/3xHm0AVrOzVdBiVCFs0m0VB\nu0mR7IBBoZnwVCqJg9KediWueTnkPX91G8UI4X8YwJ3QwVQs18KlhPOz04MpG/1i\nY3JCRhuri+iNYW37Ok8dvohnUAu8U7crCAup7e6dHE/9IHtWrxP8lHueIhqpMQNH\nmDh14uHcqsPQL/zGTMaIMv/umms68rFOBI97j01nM2V1YW5qPs2LbsRXV77Mw5Zv\nviX2b7UHpqvapckFSmByFwLyJP6L4s5ALMX6CwClCvGUZNGjz/d/WWfjzuXi+J9Q\n5pL6IxVq4JWCLBsFiI92lbxzCwCkohPWkYXHiyOg2MIbeI68VV3zAvG04myqDC0=\n=44+A\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ed71a5994f747951c737b16e300ed9dec54a4750\ntype commit\ntag 1.29.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1517494504 +0000\n\nos-client-config 1.29.0 release\n\nmeta:version: 1.29.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: Ia9a0282108b935b316255556143f7cd2813e68e6\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

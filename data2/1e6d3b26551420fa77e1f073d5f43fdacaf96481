@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE1NTE1NzoxZTZkM2IyNjU1MTQyMGZhNzdlMWYwNzNkNWY0M2ZkYWNhZjk2NDgx",
+  "sha": "1e6d3b26551420fa77e1f073d5f43fdacaf96481",
+  "url": "https://api.github.com/repos/openstack/glance/git/tags/1e6d3b26551420fa77e1f073d5f43fdacaf96481",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-02T10:05:52Z"
+  },
+  "object": {
+    "sha": "c71f717d39dbbe0937e561e93424c3827f8bdaec",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/glance/git/commits/c71f717d39dbbe0937e561e93424c3827f8bdaec"
+  },
+  "tag": "19.0.0.0rc1",
+  "message": "glance 19.0.0.0rc1 release candidate\n\nmeta:version: 19.0.0.0rc1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Change-Id: Ic23918bb11a1cd4d931418a4848305773337ebcf\nmeta:release:Code-Review+1: Abhishek Kekane <akekane@redhat.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2UdoAZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OenC/9DejYmyKgu3ZA9V9ZzpBPr\nn65FMwcTx/qYBbu5Pu6+AqrYhm94peMXaiuhKbyFOvV/1Py56EEwAH3eMefYWhL6\nT4etwWFoA1PiqJ7cqHSz2zUGIu0k7U0JzR6Za4bygsVrheWPeDrjY57sntqnLjCo\n/2i9lfL0YOQZeQEueN/y+HyQO9/g0gSZcP/oGrmjriNBOotgcyzaAJlWimbS86Wj\nyFfAfVFZo3ay4PlNQXhjX4YIwpKrhT6H6PEx8aJoGDBbw6uw48neho5chXrxePCV\n0+wZjos5C8KyncRCzUHbqRCsAyB78fl0/B1yzcF7vo84kqTEBgC/PGtrygIPI7Wc\nni1Ej84bjX/eU1jEizPEEQKJr5hCTFc7lndD8cvstScrzxveKjGCrKVkgf1vdEDP\nM8E5LY1BX360ilCXQc1b++0QOCSaAREexNSXFoBXcdCJlTYkas+++KQnLc+b9M10\nl7OzSPp5o4ZzkzFRfBuXRJpQGqM2f6JrC4YgUopRIjw=\n=/vhx\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2UdoAZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OenC/9DejYmyKgu3ZA9V9ZzpBPr\nn65FMwcTx/qYBbu5Pu6+AqrYhm94peMXaiuhKbyFOvV/1Py56EEwAH3eMefYWhL6\nT4etwWFoA1PiqJ7cqHSz2zUGIu0k7U0JzR6Za4bygsVrheWPeDrjY57sntqnLjCo\n/2i9lfL0YOQZeQEueN/y+HyQO9/g0gSZcP/oGrmjriNBOotgcyzaAJlWimbS86Wj\nyFfAfVFZo3ay4PlNQXhjX4YIwpKrhT6H6PEx8aJoGDBbw6uw48neho5chXrxePCV\n0+wZjos5C8KyncRCzUHbqRCsAyB78fl0/B1yzcF7vo84kqTEBgC/PGtrygIPI7Wc\nni1Ej84bjX/eU1jEizPEEQKJr5hCTFc7lndD8cvstScrzxveKjGCrKVkgf1vdEDP\nM8E5LY1BX360ilCXQc1b++0QOCSaAREexNSXFoBXcdCJlTYkas+++KQnLc+b9M10\nl7OzSPp5o4ZzkzFRfBuXRJpQGqM2f6JrC4YgUopRIjw=\n=/vhx\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c71f717d39dbbe0937e561e93424c3827f8bdaec\ntype commit\ntag 19.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1570010752 +0000\n\nglance 19.0.0.0rc1 release candidate\n\nmeta:version: 19.0.0.0rc1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Change-Id: Ic23918bb11a1cd4d931418a4848305773337ebcf\nmeta:release:Code-Review+1: Abhishek Kekane <akekane@redhat.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\n"
+  }
+}

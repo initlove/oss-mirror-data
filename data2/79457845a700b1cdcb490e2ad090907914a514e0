@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY2MDA3ODA6Nzk0NTc4NDVhNzAwYjFjZGNiNDkwZTJhZDA5MDkwNzkxNGE1MTRlMA==",
+  "sha": "79457845a700b1cdcb490e2ad090907914a514e0",
+  "url": "https://api.github.com/repos/openstack/ironic-inspector/git/tags/79457845a700b1cdcb490e2ad090907914a514e0",
+  "tagger": {
+    "name": "Dmitry Tantsur",
+    "email": "dtantsur@redhat.com",
+    "date": "2014-12-05T13:08:13Z"
+  },
+  "object": {
+    "sha": "c87aa94cb590d0b63dbc0d0f527a9bba41824e24",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic-inspector/git/commits/c87aa94cb590d0b63dbc0d0f527a9bba41824e24"
+  },
+  "tag": "0.2.5",
+  "message": "Release 0.2.5\n\n* Be even more paranoid in cleaning the iptables.\n* Backport ``CONTRIBUTING.rst`` from master.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABCgAGBQJUga5HAAoJEEWNiBRQeS6oEIsIAIU2sO2Rd65MoODT5TFd9Izg\n4WRMSt0Z02OWhX+4KsfYI9M1Y16juzc9TP+SPGfbgReUvj572PNNf0mKSojw6BsA\nwefHjTGXjq3zDwbIaRNZ5CDvnLsfYrBaDllpP+sB6UbNxM9gGI+yo/UBjFCr8h5W\nUGs1wrcOlVi/CYYOhbRf2nc54/hV2dSO4Q1a8TWISSeVRb/SNbKIomM9AUNdqXs1\n5RKgTedGuW45i7YwsGBcFGSRByyumqfIXRF3wEBUZnnfBexeIcfhzVYWi3td5ipY\nYvN2XyDTHzYyCYNrb2dHzhCjf99ftK3NT9RJ/bvYGaL6YhRvQF9WgylGD0MO4FA=\n=tyos\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABCgAGBQJUga5HAAoJEEWNiBRQeS6oEIsIAIU2sO2Rd65MoODT5TFd9Izg\n4WRMSt0Z02OWhX+4KsfYI9M1Y16juzc9TP+SPGfbgReUvj572PNNf0mKSojw6BsA\nwefHjTGXjq3zDwbIaRNZ5CDvnLsfYrBaDllpP+sB6UbNxM9gGI+yo/UBjFCr8h5W\nUGs1wrcOlVi/CYYOhbRf2nc54/hV2dSO4Q1a8TWISSeVRb/SNbKIomM9AUNdqXs1\n5RKgTedGuW45i7YwsGBcFGSRByyumqfIXRF3wEBUZnnfBexeIcfhzVYWi3td5ipY\nYvN2XyDTHzYyCYNrb2dHzhCjf99ftK3NT9RJ/bvYGaL6YhRvQF9WgylGD0MO4FA=\n=tyos\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c87aa94cb590d0b63dbc0d0f527a9bba41824e24\ntype commit\ntag 0.2.5\ntagger Dmitry Tantsur <dtantsur@redhat.com> 1417784893 +0100\n\nRelease 0.2.5\n\n* Be even more paranoid in cleaning the iptables.\n* Backport ``CONTRIBUTING.rst`` from master.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ4Mjk5NzowZjA2NjFlYmJiNjRkMWUwOGQ3OWFkODlhMWIwZTM1YmQ0OTdkMGQy",
+  "sha": "0f0661ebbb64d1e08d79ad89a1b0e35bd497d0d2",
+  "url": "https://api.github.com/repos/phpredis/phpredis/git/tags/0f0661ebbb64d1e08d79ad89a1b0e35bd497d0d2",
+  "tagger": {
+    "name": "michael-grunder",
+    "email": "michael.grunder@gmail.com",
+    "date": "2013-09-02T01:39:19Z"
+  },
+  "object": {
+    "sha": "19e6f315f24735a86a1deff67e99003d66df65e1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/phpredis/phpredis/git/commits/19e6f315f24735a86a1deff67e99003d66df65e1"
+  },
+  "tag": "2.2.4",
+  "message": "[PHPRedis 2.2.4] Release date: 01 Sep 2013\n\n**\n** Features / Improvements\n**\n\n* Randomized reconnect delay for RedisArray @mobli\n  This feature adds an optional parameter when constructing a RedisArray object\n  such that a random delay will be introduced if reconnections are made,\n  mitigating any 'thundering herd' type problems.\n\n* Lazy connections to RedisArray servers @mobli\n  By default, RedisArray will attempt to connect to each server you pass in\n  the ring on construction.  This feature lets you specify that you would\n  rather have RedisArray only attempt a connection when it needs to get data\n  from a particular node (throughput/performance improvement).\n\n* Allow LONG and STRING keys in MGET/MSET\n\n* Extended SET options for Redis >= 2.6.12\n\n* Persistent connections and UNIX SOCKET support for RedisArray\n\n* Allow aggregates for ZUNION/ZINTER without weights @mheijkoop\n\n* Support for SLOWLOG command\n\n* Reworked MGET algorithm to run in linear time regardless of key count.\n\n* Reworked ZINTERSTORE/ZUNIONSTORE algorithm to run in linear time\n\n**\n** Bug fixes\n**\n\n* C99 Compliance (or rather lack thereof) fix @mobli\n* Added ZEND_ACC_CTOR and ZEND_ACC_DTOR @euskadi31\n* Stop throwing and clearing an exception on connect failure @matmoi\n* Fix a false positive unit test failure having to do with TTL returns\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

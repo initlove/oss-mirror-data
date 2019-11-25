@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA5ODE5OTQ6MDEwY2ZmNjEwNzk2MWM1YmE2NGYyMWUwZGJmODQ1ODY4MzIwNjliOA==",
+  "sha": "010cff6107961c5ba64f21e0dbf84586832069b8",
+  "url": "https://api.github.com/repos/OpenFeign/feign/git/tags/010cff6107961c5ba64f21e0dbf84586832069b8",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-03-03T22:20:38Z"
+  },
+  "object": {
+    "sha": "4be5fb66a4e4464349c1893f2c075e816daa5a31",
+    "type": "commit",
+    "url": "https://api.github.com/repos/OpenFeign/feign/git/commits/4be5fb66a4e4464349c1893f2c075e816daa5a31"
+  },
+  "tag": "v7.3.0",
+  "message": "Release of 7.3.0\n\n- 4be5fb66a4e4464349c1893f2c075e816daa5a31: Polishes GitHub example\n- d1a906f291a6961fcd47ee2647910feba5510e47: adds ErrorDecoder example with nested Decoder\n- 4f6f8d4ecd9fe6ecb9ef0abe9eb96bb02aacaf6e: Adds LBClientFactory to enable caching of Ribbon LBClients\n- ad5519b0b644a82a0b30837b10c5f7db767d5aac: Supports query params without values\n- 9379a6679760c2e11cd7c8e7868664a7feed9ed8: Retains scheme in LBClient.RibbonRequest URI\n- 022af59685c52c5c86a3be801ab3412d8eab953d: Updates to Jackson 2.5.1\n- 3fe252b169994fa69b0e58ba5265cf8ad7531726: Updates to Ribbon 2.0-RC13\n- a4d2c74c68cff71600a6f1f870ded4b51055f7ca: Updates examples to Feign 7.2.1\n- e825d385e5e117779b46eb6cd62560bb3f340b68: Adds Request.Options support to RibbonClient\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY2MjY5NTc6MzQ3NzZjNGU0ZjA3OGFjOGE5MTkzMDk0NWZiY2IyNjE0MjFlYzU2Mg==",
+  "sha": "34776c4e4f078ac8a91930945fbcb261421ec562",
+  "url": "https://api.github.com/repos/openstack/pycadf/git/tags/34776c4e4f078ac8a91930945fbcb261421ec562",
+  "tagger": {
+    "name": "Gordon Chung",
+    "email": "chungg@ca.ibm.com",
+    "date": "2013-08-26T20:08:12Z"
+  },
+  "object": {
+    "sha": "02aaa468ce2b20f00e298cf6118cc50890c462ca",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/pycadf/git/commits/02aaa468ce2b20f00e298cf6118cc50890c462ca"
+  },
+  "tag": "0.1.5",
+  "message": "Release 0.1.5\n\n- update cadf model\n-- support credentials, hosts, endpoints,\n-- add observer attr to event\n- package api_audit_map.conf\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJSG7YiAAoJEAzpARzcBN436twH/05wMIr87pC7g8sgfREaLjyX\nBUAceqidFOFlaa6Or12Ynep2Xxtn86yS/6YoRizdr8n99gznyG9Ws6S/qMm/wiX2\nZI1wKG9tyS6PGqnB5vqPpLNaPX92w/9Oegd00FBKZTXXguRnaeH/00Tv9momjeC0\nZMmkK3PBZR8Px/uBbpt9rPav2C7zL6RViAL73bY9f3XelwHD8tdoyWdMt2YQOHdl\n3i/WwOsNz47VRZyqKMYoZirmJznbCrvwk8s4dFmp4e9EwsC01nIcps8Kf+uN8SPj\nl9SzGTSOzL0urgZ2wgN//wRGOSu9Han4PwtifFClVvAtn9+pDTEXOXOkjDGRtPI=\n=buCF\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJSG7YiAAoJEAzpARzcBN436twH/05wMIr87pC7g8sgfREaLjyX\nBUAceqidFOFlaa6Or12Ynep2Xxtn86yS/6YoRizdr8n99gznyG9Ws6S/qMm/wiX2\nZI1wKG9tyS6PGqnB5vqPpLNaPX92w/9Oegd00FBKZTXXguRnaeH/00Tv9momjeC0\nZMmkK3PBZR8Px/uBbpt9rPav2C7zL6RViAL73bY9f3XelwHD8tdoyWdMt2YQOHdl\n3i/WwOsNz47VRZyqKMYoZirmJznbCrvwk8s4dFmp4e9EwsC01nIcps8Kf+uN8SPj\nl9SzGTSOzL0urgZ2wgN//wRGOSu9Han4PwtifFClVvAtn9+pDTEXOXOkjDGRtPI=\n=buCF\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 02aaa468ce2b20f00e298cf6118cc50890c462ca\ntype commit\ntag 0.1.5\ntagger Gordon Chung <chungg@ca.ibm.com> 1377547692 -0400\n\nRelease 0.1.5\n\n- update cadf model\n-- support credentials, hosts, endpoints,\n-- add observer attr to event\n- package api_audit_map.conf\n"
+  }
+}

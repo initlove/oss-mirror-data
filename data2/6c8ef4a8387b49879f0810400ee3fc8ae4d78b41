@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTo2YzhlZjRhODM4N2I0OTg3OWYwODEwNDAwZWUzZmM4YWU0ZDc4YjQx",
+  "sha": "6c8ef4a8387b49879f0810400ee3fc8ae4d78b41",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/6c8ef4a8387b49879f0810400ee3fc8ae4d78b41",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-03-25T15:30:20Z"
+  },
+  "object": {
+    "sha": "66449d6ef070ce321d551107324f7283919ecf8b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/66449d6ef070ce321d551107324f7283919ecf8b"
+  },
+  "tag": "v1.1.151",
+  "message": "Release of 1.1.151\n\n- 66449d6ef070ce321d551107324f7283919ecf8b: Merge pull request #483 from tbak/master\n- efc6dbbc6268367d7723b4bd0682261416f57752: Make TimedSupervisorTask thread pool configurable for remote region replication. Add thread pool level gauge for observing current thread usage level.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

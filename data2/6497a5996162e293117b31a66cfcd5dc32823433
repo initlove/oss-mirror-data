@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo2NDk3YTU5OTYxNjJlMjkzMTE3YjMxYTY2Y2ZjZDVkYzMyODIzNDMz",
+  "sha": "6497a5996162e293117b31a66cfcd5dc32823433",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/6497a5996162e293117b31a66cfcd5dc32823433",
+  "tagger": {
+    "name": "Bert Belder",
+    "email": "bertbelder@gmail.com",
+    "date": "2014-01-22T20:37:35Z"
+  },
+  "object": {
+    "sha": "d47962e9d93d4a55a9984623feaf546406c9cdbb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/d47962e9d93d4a55a9984623feaf546406c9cdbb"
+  },
+  "tag": "v0.11.18",
+  "message": "2014.01.23, Version 0.11.18 (Unstable)\n\nChanges since version 0.11.17:\n\n* osx: Fix a possible segfault in uv__io_poll (Alex Crichton)\n\n* windows: improved handling of invalid FDs (Alexis Campailla)\n\n* doc: adding ARCHS flag to OS X build command (Nathan Sweet)\n\n* tcp: reveal bind-time errors before listen (Alexis Campailla)\n\n* tcp: uv_tcp_dualstack() (Fedor Indutny)\n\n* linux: relax assumption on /proc/stat parsing (Luca Bruno)\n\n* openbsd: fix obvious bug in uv_cpu_info (Fedor Indutny)\n\n* process: close stdio after dup2'ing it (Fedor Indutny)\n\n* linux: move sscanf() out of the assert() (Trevor Norris)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUuAsD3p3iHsuLtRhAQKBlAgAmU60SV9PfUat+AK0knYaNj2BRv66Bk5n\nuylF54hQ1BBMjcoHWk3R86uvD8seDLzT20apUY5uS+vjJpiweVuR8r3DcAdPEWw0\nANqipB6xEGwhsD6Sjt8zCTLDKc1LuooxIwFB82Lp2CVqREl5L/A+HBAgphBLQd6M\nwgQXVCMn2k2QECio00OJWGmu8qayCDgIbMG/SwwzTsAgl9AxcG6HYcHGJajvJon0\nksUHorc3jpOhIzeHcLsQemAele321rXGxT6oOJRBcyMf1XcBAuojVLSDQNkkmI79\nDi3JbXjueYZreSq9NYHaxJRKlMqBD6gIKI8K2Ne4bdWPEGCmBbiW6g==\n=6Pqy\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUuAsD3p3iHsuLtRhAQKBlAgAmU60SV9PfUat+AK0knYaNj2BRv66Bk5n\nuylF54hQ1BBMjcoHWk3R86uvD8seDLzT20apUY5uS+vjJpiweVuR8r3DcAdPEWw0\nANqipB6xEGwhsD6Sjt8zCTLDKc1LuooxIwFB82Lp2CVqREl5L/A+HBAgphBLQd6M\nwgQXVCMn2k2QECio00OJWGmu8qayCDgIbMG/SwwzTsAgl9AxcG6HYcHGJajvJon0\nksUHorc3jpOhIzeHcLsQemAele321rXGxT6oOJRBcyMf1XcBAuojVLSDQNkkmI79\nDi3JbXjueYZreSq9NYHaxJRKlMqBD6gIKI8K2Ne4bdWPEGCmBbiW6g==\n=6Pqy\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d47962e9d93d4a55a9984623feaf546406c9cdbb\ntype commit\ntag v0.11.18\ntagger Bert Belder <bertbelder@gmail.com> 1390423055 +0100\n\n2014.01.23, Version 0.11.18 (Unstable)\n\nChanges since version 0.11.17:\n\n* osx: Fix a possible segfault in uv__io_poll (Alex Crichton)\n\n* windows: improved handling of invalid FDs (Alexis Campailla)\n\n* doc: adding ARCHS flag to OS X build command (Nathan Sweet)\n\n* tcp: reveal bind-time errors before listen (Alexis Campailla)\n\n* tcp: uv_tcp_dualstack() (Fedor Indutny)\n\n* linux: relax assumption on /proc/stat parsing (Luca Bruno)\n\n* openbsd: fix obvious bug in uv_cpu_info (Fedor Indutny)\n\n* process: close stdio after dup2'ing it (Fedor Indutny)\n\n* linux: move sscanf() out of the assert() (Trevor Norris)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY2MDA3ODA6OGUxNjVkMmI3NTNhMzUyOTMzMzkxNGViMjhiMjI5N2ViZDdmY2E2MA==",
+  "sha": "8e165d2b753a3529333914eb28b2297ebd7fca60",
+  "url": "https://api.github.com/repos/openstack/ironic-inspector/git/tags/8e165d2b753a3529333914eb28b2297ebd7fca60",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-07-09T15:17:31Z"
+  },
+  "object": {
+    "sha": "0b38536d1c9ab92952e6ecd069ea13facf012830",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic-inspector/git/commits/0b38536d1c9ab92952e6ecd069ea13facf012830"
+  },
+  "tag": "9.1.0",
+  "message": "ironic-inspector 9.1.0 release\n\nmeta:version: 9.1.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Commit: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Change-Id: I023a52d374711a1c68ac0e4dbde2518b5c93d3f7\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0ksAsZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OhfC/4xhOqgLXG5bWGokXiRyhKF\nv8P8paMJqpqtxyl1vgas9hEX3k1UPx02DRnHqyILaZj0bbw39q3gcGGYEVDB1+Ap\nfnithEGRvtQT6TUBSZdgOmyRYkajH3CDSkErRJGM+2uXwU64yndGYwaKMWspJlFC\nrx+5/KgZrVf1W86VQ/+n06N46t+1/FDwu50Rf/ArLL5rxN605J+r7v/iMZbuFHoR\n69MDAc/bVyePVUr34y25AoYk1XNc41DWZTDERcI6j7TM3WCc1wJJEkHuxb9NnezU\n9u1Uy8GXsqzRuaCgodEl2ScrxcF8LKiiYojuQMddkUT3Jdvs4tFGd/wJviYJ+7sy\nPORQRfRQretPWBri2dPjhGoueJG6Jg2uD44OB+L0RFxzjt5H+5nbZF5NKDRqAxzs\nnU8FgCvDJ+bsyn7ezokJicV2Hb2Ng/6DUxRdGzeba++ON4innZDIJ26j2Q39nt1n\nHtqdD/C7nNpYscDGFDHaBmpl5gbStxbwXtz3Hd2PNSw=\n=1pMS\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0ksAsZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OhfC/4xhOqgLXG5bWGokXiRyhKF\nv8P8paMJqpqtxyl1vgas9hEX3k1UPx02DRnHqyILaZj0bbw39q3gcGGYEVDB1+Ap\nfnithEGRvtQT6TUBSZdgOmyRYkajH3CDSkErRJGM+2uXwU64yndGYwaKMWspJlFC\nrx+5/KgZrVf1W86VQ/+n06N46t+1/FDwu50Rf/ArLL5rxN605J+r7v/iMZbuFHoR\n69MDAc/bVyePVUr34y25AoYk1XNc41DWZTDERcI6j7TM3WCc1wJJEkHuxb9NnezU\n9u1Uy8GXsqzRuaCgodEl2ScrxcF8LKiiYojuQMddkUT3Jdvs4tFGd/wJviYJ+7sy\nPORQRfRQretPWBri2dPjhGoueJG6Jg2uD44OB+L0RFxzjt5H+5nbZF5NKDRqAxzs\nnU8FgCvDJ+bsyn7ezokJicV2Hb2Ng/6DUxRdGzeba++ON4innZDIJ26j2Q39nt1n\nHtqdD/C7nNpYscDGFDHaBmpl5gbStxbwXtz3Hd2PNSw=\n=1pMS\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0b38536d1c9ab92952e6ecd069ea13facf012830\ntype commit\ntag 9.1.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1562685451 +0000\n\nironic-inspector 9.1.0 release\n\nmeta:version: 9.1.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Commit: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Change-Id: I023a52d374711a1c68ac0e4dbde2518b5c93d3f7\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

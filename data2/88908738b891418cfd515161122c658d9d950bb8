@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTYyMjMzNzg6ODg5MDg3MzhiODkxNDE4Y2ZkNTE1MTYxMTIyYzY1OGQ5ZDk1MGJiOA==",
+  "sha": "88908738b891418cfd515161122c658d9d950bb8",
+  "url": "https://api.github.com/repos/openstack/openstacksdk/git/tags/88908738b891418cfd515161122c658d9d950bb8",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-06-13T10:02:31Z"
+  },
+  "object": {
+    "sha": "442f6bbde3563875c5e19084cb28764736f4b6dc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/openstacksdk/git/commits/442f6bbde3563875c5e19084cb28764736f4b6dc"
+  },
+  "tag": "0.31.1",
+  "message": "openstacksdk 0.31.1 release\n\nmeta:version: 0.31.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: I09c7e4e0ca81ff0c926414dd6dfcb9836c95c4e0\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0CHzcZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OxTDAC1IHDh4N3bKS7R8otbXBRx\nAzn2rNTwp/n7dJzk365rotRwFRgcO2il1QKhUK6JLEietIB56NkHpLTYeySwvNLU\nLsLBjeh/bDSyGXIHeAXzLCLSpa4oJflZJsC0+4EB5PeWRkTetKGjX1gIbdgvsVFX\nj53SBJ73vyaDzooEO/Z2uFMHcUA1xuk0qmt/cnPE8ec+lSL9zmsOXbjJxwFtjZ15\nHl7nJeSsk2aQAw7TB5FilDV4NCRLLehnR9fi7KQCvpQDiWXYahbOfyjgDIA+S7zm\n3goUIwFSgV3MhzJoZnunm6VDqE+ekAPZZlAiV47U3Z2Xbdmhp/plrHr7KiGoXiX0\n/wVzfPvj7dxLF8IXD/Tc3uCiyrP5xnLesEGQW///Svj5C135YB3JiCVTa+kMMTri\nzwYetESouZ/PXpsjExfkplDu5u+pAOtd2QOPMVRW0uEHpIUIZ+UdlrEf3DNKpo5c\np2HysKFJMnopb9PLceZ7kiuAQB/AWznlsnYUAdSSsOQ=\n=2Lda\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0CHzcZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OxTDAC1IHDh4N3bKS7R8otbXBRx\nAzn2rNTwp/n7dJzk365rotRwFRgcO2il1QKhUK6JLEietIB56NkHpLTYeySwvNLU\nLsLBjeh/bDSyGXIHeAXzLCLSpa4oJflZJsC0+4EB5PeWRkTetKGjX1gIbdgvsVFX\nj53SBJ73vyaDzooEO/Z2uFMHcUA1xuk0qmt/cnPE8ec+lSL9zmsOXbjJxwFtjZ15\nHl7nJeSsk2aQAw7TB5FilDV4NCRLLehnR9fi7KQCvpQDiWXYahbOfyjgDIA+S7zm\n3goUIwFSgV3MhzJoZnunm6VDqE+ekAPZZlAiV47U3Z2Xbdmhp/plrHr7KiGoXiX0\n/wVzfPvj7dxLF8IXD/Tc3uCiyrP5xnLesEGQW///Svj5C135YB3JiCVTa+kMMTri\nzwYetESouZ/PXpsjExfkplDu5u+pAOtd2QOPMVRW0uEHpIUIZ+UdlrEf3DNKpo5c\np2HysKFJMnopb9PLceZ7kiuAQB/AWznlsnYUAdSSsOQ=\n=2Lda\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 442f6bbde3563875c5e19084cb28764736f4b6dc\ntype commit\ntag 0.31.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1560420151 +0000\n\nopenstacksdk 0.31.1 release\n\nmeta:version: 0.31.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: I09c7e4e0ca81ff0c926414dd6dfcb9836c95c4e0\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

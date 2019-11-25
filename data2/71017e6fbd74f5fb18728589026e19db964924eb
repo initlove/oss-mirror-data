@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQxMzIxOTI6NzEwMTdlNmZiZDc0ZjVmYjE4NzI4NTg5MDI2ZTE5ZGI5NjQ5MjRlYg==",
+  "sha": "71017e6fbd74f5fb18728589026e19db964924eb",
+  "url": "https://api.github.com/repos/pkg/sftp/git/tags/71017e6fbd74f5fb18728589026e19db964924eb",
+  "tagger": {
+    "name": "John Eikenberry",
+    "email": "jae@zhar.net",
+    "date": "2018-01-09T23:38:49Z"
+  },
+  "object": {
+    "sha": "f6a9258a0f570c3a76681b897b6ded57cb0dfa88",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pkg/sftp/git/commits/f6a9258a0f570c3a76681b897b6ded57cb0dfa88"
+  },
+  "tag": "1.2.0",
+  "message": "Small feature and bugfix release.\n\nFeature: Add helper functions to the request object for working with\nbitmask flags and file attributes.\n\nFix: Corrctly handled errors coming from the backend on file Open w/\ncreate flag.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlpVU48ACgkQPZqeWROp\nRaL8XQf/VByvBxqrFD1PmrkQKrBblntK16UtSMTZWdLsu6kxrVB/5zRDh5e+KOsC\nyGWjZ/u5mmiXHWmyyFR5hldHnxgqqzsvpZyOknH+f5hvZ9zWZ/oMorBR5f5kGB3L\nEHOxjRePeStqq+ypsuBgIS1yzPNmuL6KwpJX3C/Fki9j8AzNI186aX6niCP3rflV\nx1oOwR506P7AKn2PG+O420jWKDrE+TDmypEaAQv+WZ7ocAIVcNcabtB7e/U89iIy\nM2zuV+knTPlnKEw1C0uqZkU/7RFaYrL0P80ONk9CXqmKeuIM6xKrR7kB4cEhW2yu\nGfAZNR/hwBKNqDf3WKxyI3qjDe+VAg==\n=zuo3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlpVU48ACgkQPZqeWROp\nRaL8XQf/VByvBxqrFD1PmrkQKrBblntK16UtSMTZWdLsu6kxrVB/5zRDh5e+KOsC\nyGWjZ/u5mmiXHWmyyFR5hldHnxgqqzsvpZyOknH+f5hvZ9zWZ/oMorBR5f5kGB3L\nEHOxjRePeStqq+ypsuBgIS1yzPNmuL6KwpJX3C/Fki9j8AzNI186aX6niCP3rflV\nx1oOwR506P7AKn2PG+O420jWKDrE+TDmypEaAQv+WZ7ocAIVcNcabtB7e/U89iIy\nM2zuV+knTPlnKEw1C0uqZkU/7RFaYrL0P80ONk9CXqmKeuIM6xKrR7kB4cEhW2yu\nGfAZNR/hwBKNqDf3WKxyI3qjDe+VAg==\n=zuo3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f6a9258a0f570c3a76681b897b6ded57cb0dfa88\ntype commit\ntag 1.2.0\ntagger John Eikenberry <jae@zhar.net> 1515541129 -0800\n\nSmall feature and bugfix release.\n\nFeature: Add helper functions to the request object for working with\nbitmask flags and file attributes.\n\nFix: Corrctly handled errors coming from the backend on file Open w/\ncreate flag.\n"
+  }
+}

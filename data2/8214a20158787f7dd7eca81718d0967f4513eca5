@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY5MjEzNzE6ODIxNGEyMDE1ODc4N2Y3ZGQ3ZWNhODE3MThkMDk2N2Y0NTEzZWNhNQ==",
+  "sha": "8214a20158787f7dd7eca81718d0967f4513eca5",
+  "url": "https://api.github.com/repos/openstack/oslo.vmware/git/tags/8214a20158787f7dd7eca81718d0967f4513eca5",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-06-05T13:50:25Z"
+  },
+  "object": {
+    "sha": "73782183002c3b4aac6349ee4808f034c5ed6b50",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.vmware/git/commits/73782183002c3b4aac6349ee4808f034c5ed6b50"
+  },
+  "tag": "2.20.0",
+  "message": "oslo.vmware 2.20.0 release\n\nmeta:version: 2.20.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Change-Id: Idd64dcc4fb33dcab4c1f44c434d9061fd7d9123c\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZNWGhAAoJEOtsyhSD+nTsUpQH/3KtLf5ervs1viyOWKTKWyHs\nAcA+Yc5nWdzDjMrytoSP/sw1R1hr4oIIp+6+MpZvfVdn6Yx5t5Ufgam66VZ5++u8\nqehOWEYVWVqmpXGQcRqppOwVd8B9OEVicd503i3fq2mYZw+yJC4GTW/csnanvuW5\nzU0B+E8d+kD3hVB7o7MgTZbtyIE8Eq4RR5VTLvevFlW/H3FOJ2tQvizyb3hkmGDA\noss32YhtYa7ka0toGB6G1DTgjk2chKCP88RAlczeI9h3BpDMdGEPx/P0aiTJF0+O\nJYuALRpxYttadWFzq6EE64zvF91QaF+tzaE7F86tPlRAGA688H1RS9T97Wq2d3I=\n=j1AZ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZNWGhAAoJEOtsyhSD+nTsUpQH/3KtLf5ervs1viyOWKTKWyHs\nAcA+Yc5nWdzDjMrytoSP/sw1R1hr4oIIp+6+MpZvfVdn6Yx5t5Ufgam66VZ5++u8\nqehOWEYVWVqmpXGQcRqppOwVd8B9OEVicd503i3fq2mYZw+yJC4GTW/csnanvuW5\nzU0B+E8d+kD3hVB7o7MgTZbtyIE8Eq4RR5VTLvevFlW/H3FOJ2tQvizyb3hkmGDA\noss32YhtYa7ka0toGB6G1DTgjk2chKCP88RAlczeI9h3BpDMdGEPx/P0aiTJF0+O\nJYuALRpxYttadWFzq6EE64zvF91QaF+tzaE7F86tPlRAGA688H1RS9T97Wq2d3I=\n=j1AZ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 73782183002c3b4aac6349ee4808f034c5ed6b50\ntype commit\ntag 2.20.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1496670625 +0000\n\noslo.vmware 2.20.0 release\n\nmeta:version: 2.20.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Change-Id: Idd64dcc4fb33dcab4c1f44c434d9061fd7d9123c\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY5NjAyOTM6OGJlMTZkNzc4YTc2YmUzMGFkNmUwZmZlN2NjOTM1MmY0MzAyYmVkOQ==",
+  "sha": "8be16d778a76be30ad6e0ffe7cc9352f4302bed9",
+  "url": "https://api.github.com/repos/opencontainers/runtime-spec/git/tags/8be16d778a76be30ad6e0ffe7cc9352f4302bed9",
+  "tagger": {
+    "name": "Vincent Batts",
+    "email": "vbatts@hashbangbash.com",
+    "date": "2016-02-05T09:45:15Z"
+  },
+  "object": {
+    "sha": "25cbfc427ba6154016f33c7ed1b8ed43b8b7b7ed",
+    "type": "commit",
+    "url": "https://api.github.com/repos/opencontainers/runtime-spec/git/commits/25cbfc427ba6154016f33c7ed1b8ed43b8b7b7ed"
+  },
+  "tag": "v0.3.0",
+  "message": "Breaking changes:\n\n* config: Single, unified config file, #284\n* config: cwd is a required default, and must be absolute, #286,\n  #307, #308, #312\n* config: qualify the name of the version field, #309\n* config-linux: Convert classID from hex to uint32, #296\n* config-linux: Separate mknod from cgroups, #298\n\nAdditions:\n\n* config-linux: Add NoNewPrivileges setting for linux, #290\n\nMinor fixes and documentation:\n\n* config-linux: clarify oom_score_adj, #236, #292\n* config-linux: Update links to cgroups documentation, #318\n* config-linux: Remove pointers for slices preferring omitempty\n  tag instead, #316\n* README: add runtime, bundle, and hook author user, #280\n* ROADMAP: reshuffled and split into GitHub issues, #300, #301,\n  #304, #306\n* style: Collect established styles in a discoverable location, #287, #311\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAla0b1IACgkQEJN+V3M/E2KUFwCfQ5TydtIAxGXjSG69t7a6jTVz\nZJ8An1y8M0reBT9bpYM7vHnzyAAty5gy\n=PFn5\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAla0b1IACgkQEJN+V3M/E2KUFwCfQ5TydtIAxGXjSG69t7a6jTVz\nZJ8An1y8M0reBT9bpYM7vHnzyAAty5gy\n=PFn5\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 25cbfc427ba6154016f33c7ed1b8ed43b8b7b7ed\ntype commit\ntag v0.3.0\ntagger Vincent Batts <vbatts@hashbangbash.com> 1454665515 -0500\n\nBreaking changes:\n\n* config: Single, unified config file, #284\n* config: cwd is a required default, and must be absolute, #286,\n  #307, #308, #312\n* config: qualify the name of the version field, #309\n* config-linux: Convert classID from hex to uint32, #296\n* config-linux: Separate mknod from cgroups, #298\n\nAdditions:\n\n* config-linux: Add NoNewPrivileges setting for linux, #290\n\nMinor fixes and documentation:\n\n* config-linux: clarify oom_score_adj, #236, #292\n* config-linux: Update links to cgroups documentation, #318\n* config-linux: Remove pointers for slices preferring omitempty\n  tag instead, #316\n* README: add runtime, bundle, and hook author user, #280\n* ROADMAP: reshuffled and split into GitHub issues, #300, #301,\n  #304, #306\n* style: Collect established styles in a discoverable location, #287, #311\n"
+  }
+}

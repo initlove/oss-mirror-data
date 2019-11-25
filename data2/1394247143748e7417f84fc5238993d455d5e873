@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc5MTM0ODoxMzk0MjQ3MTQzNzQ4ZTc0MTdmODRmYzUyMzg5OTNkNDU1ZDVlODcz",
+  "sha": "1394247143748e7417f84fc5238993d455d5e873",
+  "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/tags/1394247143748e7417f84fc5238993d455d5e873",
+  "tagger": {
+    "name": "JP Richardson",
+    "email": "jprichardson@gmail.com",
+    "date": "2015-01-05T21:32:10Z"
+  },
+  "object": {
+    "sha": "1ccfe29bafdad6e43ef552bff676b8ca2682fcd8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/commits/1ccfe29bafdad6e43ef552bff676b8ca2682fcd8"
+  },
+  "tag": "0.14.0",
+  "message": "0.14.0 / 2015-01-05\n-------------------\n- changed `copy`/`copySync` from `fs.copy(src, dest, [filters], callback)` to `fs.copy(src, dest, [options], callback)` https://github.com/jprichardson/node-fs-extra/pull/100\n- removed mockfs tests for mkdirp (this may be temporary, but was getting in the way of other tests)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

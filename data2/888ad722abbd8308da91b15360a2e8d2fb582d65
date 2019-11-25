@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU4ODU4OTE6ODg4YWQ3MjJhYmJkODMwOGRhOTFiMTUzNjBhMmU4ZDJmYjU4MmQ2NQ==",
+  "sha": "888ad722abbd8308da91b15360a2e8d2fb582d65",
+  "url": "https://api.github.com/repos/openstack/python-mistralclient/git/tags/888ad722abbd8308da91b15360a2e8d2fb582d65",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-04-24T13:33:04Z"
+  },
+  "object": {
+    "sha": "9e6ff999c16e9f6de8acf6f7d270e36cda932168",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-mistralclient/git/commits/9e6ff999c16e9f6de8acf6f7d270e36cda932168"
+  },
+  "tag": "3.1.0",
+  "message": "python-mistralclient 3.1.0 release\n\nmeta:version: 3.1.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Commit: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Change-Id: I4b13649dee6cfdc7af44003b772783352e235d47\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY/f6QAAoJEOtsyhSD+nTsA7UH/0Ddaj8A3nd85tElkt0YFui1\nGJretJon7MqciqjwsUzkysQ588KkxM8Zq5l1EQqc8rN2baDNnxVw/DHkBbT6JWoR\njfIIythSeKlTp/FjQCBcojrSrh8akViNCvCB4niNmmNrKdXGrqhg+nAok5lhMAiS\nIHeGCVKTYGxhSDXxFXk0S1Jd3YZBIRbvD6B6k6WTHSKs4wSC2sHfrVptK2OyKkTy\nIFu0qfE7AAz+jHD/hZp0+PqGkbxF1wPJSXJtl2hxGZ/yNC19t9YTvkjWfwCwWCGR\nX27dlB4grR+JnustPURfGBGQpohbXe43Tr4KKWcpFR43CXLNZtTgAmLpgHhtM+8=\n=MRNy\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY/f6QAAoJEOtsyhSD+nTsA7UH/0Ddaj8A3nd85tElkt0YFui1\nGJretJon7MqciqjwsUzkysQ588KkxM8Zq5l1EQqc8rN2baDNnxVw/DHkBbT6JWoR\njfIIythSeKlTp/FjQCBcojrSrh8akViNCvCB4niNmmNrKdXGrqhg+nAok5lhMAiS\nIHeGCVKTYGxhSDXxFXk0S1Jd3YZBIRbvD6B6k6WTHSKs4wSC2sHfrVptK2OyKkTy\nIFu0qfE7AAz+jHD/hZp0+PqGkbxF1wPJSXJtl2hxGZ/yNC19t9YTvkjWfwCwWCGR\nX27dlB4grR+JnustPURfGBGQpohbXe43Tr4KKWcpFR43CXLNZtTgAmLpgHhtM+8=\n=MRNy\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9e6ff999c16e9f6de8acf6f7d270e36cda932168\ntype commit\ntag 3.1.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1493040784 +0000\n\npython-mistralclient 3.1.0 release\n\nmeta:version: 3.1.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Commit: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Change-Id: I4b13649dee6cfdc7af44003b772783352e235d47\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

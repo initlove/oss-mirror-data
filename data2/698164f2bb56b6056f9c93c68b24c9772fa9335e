@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc0ODk5ODI6Njk4MTY0ZjJiYjU2YjYwNTZmOWM5M2M2OGIyNGM5NzcyZmE5MzM1ZQ==",
+  "sha": "698164f2bb56b6056f9c93c68b24c9772fa9335e",
+  "url": "https://api.github.com/repos/openstack/neutron-vpnaas/git/tags/698164f2bb56b6056f9c93c68b24c9772fa9335e",
+  "tagger": {
+    "name": "Thierry Carrez",
+    "email": "thierry@openstack.org",
+    "date": "2016-06-01T14:41:53Z"
+  },
+  "object": {
+    "sha": "4f1971bbf214dc03130e110a929652c4b8e05518",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-vpnaas/git/commits/4f1971bbf214dc03130e110a929652c4b8e05518"
+  },
+  "tag": "7.1.0",
+  "message": "neutron-vpnaas 7.1.0 release\n\nmeta:version: 7.1.0\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Commit: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Change-Id: Ia9eb87c8c396d202cf14b2f84dd3bf940ab8b64a\nmeta:release:Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXTvQxAAoJEFB6+JAlsQQjx18P/A6uRmnTWOILaf1QTcrDtjuJ\nC3qv/VpUS6DAvcGljAm2MfqKmp/716u6XfMWU1VUuCQRz/XfLAzQMbs/sGgGjb0t\nB/oer8ERJwpaRg+Zlbud5wPU8K7bp1hz/01pwnQu4DSde6GlBNCiFkbIMSW65GCa\nJsIXbeX+tiolaE1AVZdnZ9BZmDDaO1/1VdQgTNWNAWPnDmcSMiiIIbssaDF6HTTx\nK1/zV8U403ly5/wBLzg2b22uYpTDEuefnZSbmVRAiyHs3S70JycRLWWN4Jjgcjdt\n6S+tNOUeAlwK9zmNoXCTf6LXuqeKD9GufnePLY6iAt1Jo9WXRVDy4V2lOHv6nty3\n3rzjtZ1lbbZWQ4YXJbUxLeMcixmEWCrcsivQ1J6GD/Ap1t1vLxT0JWXBIFkf+Shk\nbhxhZ7ux8/HGptt+IWzbxJMBlM0o5oiUFyBMkVOTvRUz062QLgt2LyTvgb6hLjGy\nN/qEja1yFo8xvaz/hQ1B4els4zF/BAeriYKYwXlcMWn4zN95H01Y27s3G3n4+u/l\nH8pLNM9kq8BBU05BqVoqzErunF4Vkl0kwqpnQbU/ju+vFKeCKVNrwv5EagcN5zty\ni5caKojQ9i9+dGj/H0+dGcxM4oUgGJSiJ51ZZfAJr39JL2eZ45bONXCzqRFFHCkg\nLceeNSx+G/hhyX+Dyk/w\n=JJ9d\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXTvQxAAoJEFB6+JAlsQQjx18P/A6uRmnTWOILaf1QTcrDtjuJ\nC3qv/VpUS6DAvcGljAm2MfqKmp/716u6XfMWU1VUuCQRz/XfLAzQMbs/sGgGjb0t\nB/oer8ERJwpaRg+Zlbud5wPU8K7bp1hz/01pwnQu4DSde6GlBNCiFkbIMSW65GCa\nJsIXbeX+tiolaE1AVZdnZ9BZmDDaO1/1VdQgTNWNAWPnDmcSMiiIIbssaDF6HTTx\nK1/zV8U403ly5/wBLzg2b22uYpTDEuefnZSbmVRAiyHs3S70JycRLWWN4Jjgcjdt\n6S+tNOUeAlwK9zmNoXCTf6LXuqeKD9GufnePLY6iAt1Jo9WXRVDy4V2lOHv6nty3\n3rzjtZ1lbbZWQ4YXJbUxLeMcixmEWCrcsivQ1J6GD/Ap1t1vLxT0JWXBIFkf+Shk\nbhxhZ7ux8/HGptt+IWzbxJMBlM0o5oiUFyBMkVOTvRUz062QLgt2LyTvgb6hLjGy\nN/qEja1yFo8xvaz/hQ1B4els4zF/BAeriYKYwXlcMWn4zN95H01Y27s3G3n4+u/l\nH8pLNM9kq8BBU05BqVoqzErunF4Vkl0kwqpnQbU/ju+vFKeCKVNrwv5EagcN5zty\ni5caKojQ9i9+dGj/H0+dGcxM4oUgGJSiJ51ZZfAJr39JL2eZ45bONXCzqRFFHCkg\nLceeNSx+G/hhyX+Dyk/w\n=JJ9d\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4f1971bbf214dc03130e110a929652c4b8e05518\ntype commit\ntag 7.1.0\ntagger Thierry Carrez <thierry@openstack.org> 1464792113 +0200\n\nneutron-vpnaas 7.1.0 release\n\nmeta:version: 7.1.0\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Commit: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Change-Id: Ia9eb87c8c396d202cf14b2f84dd3bf940ab8b64a\nmeta:release:Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

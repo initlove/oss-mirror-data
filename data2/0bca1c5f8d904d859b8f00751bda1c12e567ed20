@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOjBiY2ExYzVmOGQ5MDRkODU5YjhmMDA3NTFiZGExYzEyZTU2N2VkMjA=",
+  "sha": "0bca1c5f8d904d859b8f00751bda1c12e567ed20",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/0bca1c5f8d904d859b8f00751bda1c12e567ed20",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2016-04-25T02:28:41Z"
+  },
+  "object": {
+    "sha": "a8df919971a589dde952ffdd3bd3a61debfb62b9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/a8df919971a589dde952ffdd3bd3a61debfb62b9"
+  },
+  "tag": "2.1.1",
+  "message": "Version 2.1.1\n\n- `.list` errors are consistent across platforms and no longer has blocking `statSync` calls\n- Stop bundling node-pre-gyp to prevent issues when it's already installed\n- Internal restructuring\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

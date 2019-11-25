@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ4Mjk5NzoyMDI4MWZiYzZlMzgwOWExNmZkYmMxZWE3YWZjZWZkMzZmMTBjNThm",
+  "sha": "20281fbc6e3809a16fdbc1ea7afcefd36f10c58f",
+  "url": "https://api.github.com/repos/phpredis/phpredis/git/tags/20281fbc6e3809a16fdbc1ea7afcefd36f10c58f",
+  "tagger": {
+    "name": "michael-grunder",
+    "email": "michael.grunder@gmail.com",
+    "date": "2016-06-10T20:06:21Z"
+  },
+  "object": {
+    "sha": "0f768b2a806e2d16d448ce4f0f31486c27dcd488",
+    "type": "commit",
+    "url": "https://api.github.com/repos/phpredis/phpredis/git/commits/0f768b2a806e2d16d448ce4f0f31486c27dcd488"
+  },
+  "tag": "3.0.0",
+  "message": "phpredis 3.0.0\n\n--- Improvements ---\n\n* Implemented PFADD, PFMERGE, and PFCOUNT command handling\n* Implemented ZRANGEBYLEX command (holding off on ZREVRANGEBYLEX\n  as that won't be out until 3.0)\n* Implemented getMode() so clients can detect whether we're in\n  ATOMIC/MULTI/PIPELINE mode.\n* Implemented rawCommand() so clients can send arbitrary things to\n  the redis server\n* Implemented DEBUG OBJECT (@michael-grunder, @isage)\n* Added/abide by connect timeout for RedisArray\n* Select to the last selected DB when phpredis reconnects\n\n--- Fixes ---\n\n* Fix a possible invalid free in _serialize\n* Added SAVE and BGSAVE to \"distributable\" commands for RedisArray\n* @welting -- Fixed invalid \"argc\" calculation re HLL commands\n* Allow clients to break out of the subscribe loop and return context.\n* Fixes a memory leak in SCAN when OPT_SCAN_RETRY id.\n* @remicollet -- Fix possible segfault when igbinary is enabled.\n* Add a couple of cases where we throw on an error (LOADING/NOAUTH/MASTERDOWN)\n* Fix several issues with serialization NARY\n* @itcom -- Fix missing TSRMLS_CC and a TSRMLS_DC/TSRMLS_CC typo\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

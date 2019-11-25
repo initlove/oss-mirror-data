@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzY2ODQ2MDE6MmU2ODI2YTExOThiMmY0OTJjYzUzMDdlNDc4M2M3NWY2NDU3NTFlNA==",
+  "sha": "2e6826a1198b2f492cc5307e4783c75f645751e4",
+  "url": "https://api.github.com/repos/opencontainers/go-digest/git/tags/2e6826a1198b2f492cc5307e4783c75f645751e4",
+  "tagger": {
+    "name": "Stephen J Day",
+    "email": "stephen.day@docker.com",
+    "date": "2017-09-18T23:08:50Z"
+  },
+  "object": {
+    "sha": "279bed98673dd5bef374d3b6e4b09e2af76183bf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/opencontainers/go-digest/git/commits/279bed98673dd5bef374d3b6e4b09e2af76183bf"
+  },
+  "tag": "v1.0.0-rc1",
+  "message": "Open Containers Go Digest v1.0.0-rc1\n\nWelcome to another release of the go-digest package. This package\nprovides a simple toolkit for working with the digests of container\nimages.\n\nIn this release, we've mostly narrowed the acceptable format for\n`sha256` digests, which are the most common in use. Specifically, upper\ncase hex-encoded characters are no longer allowed in that format,\nremoving the ambiguity in encoding.\n\nOther concessions have been made to allow separators in the algorithm,\nas well as allowing the character set of the urlsafe base64 encodings.\nMost of this is more about allowing support for future formats, and are\nnot officially supported at this time.\n\nChanges\n\n279bed9 Merge pull request #34 from AkihiroSuda/regexp\n4ca1301 disallow upper characters (/A-F/) in hex-encoded portion\neaa6054 Merge pull request #33 from stevvooe/future-proof-algorithm-field\n678a95e digest: allow validation of urlsafe base64 encoding\n55f6758 digest: update package methods to reflect changes\n5ab10f5 digest: allow separators in algorithm field\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJZwFMOAAoJEGez3thO3II/fg8P/i+0C51Lnh3Q/tvy4RfKuN4I\nbRZ/wK/jeJOVlcCaSgkRWQtySorPgJsoTHPjYmwZMi4dIu5t6UABbgIB9E8QfI1+\nZLzbxESBaxWYR/lmIGKyWGvnLkpro/K+pM9VjoKoT09LFZHttTwZbfnZ9GjtmDLb\nQokzufDOnSESOva5/4t92x7T+f+LwlhmT6kxvWQ1z10uiGrjT20ceDGEVN22UepQ\nVxjo80pYMUzXFaNjItoy1yy7g4rd/pUbmr6T8/nXiQjIZhEICvMpN/RJ9KN6IFqM\nTe37ySg0f1XvWUWbpbCHxmFR6qwxZpFg03Efd7NJaCXUjvsxwe5jKkQG4Cr5PhkJ\ntmPOod7UFRkVAgTRDqRsjgLUSJ3FVsVhcndoV1cSzfMIFGsw2IMxLBvgWXCKIAbz\nPl30gnue30zynpIQI///WQq2Q6VD6BNmeCKgaPMDTFRWHk4N4nHhw6hT7D1uOYyh\nwwjwkCfiJvTkaFXPULrMJXHV4BZmo+lwzIpc9HM389+AX4HH8mFjPiU426mv5gfR\n6siRd/QmwQABMKX2KPZw/GO9yDCshP9qi8kKOtBRhFRJhEWzfs7hfs0BD26+6GHH\nLy/esenz8+veHRmesVBX/tQmf2ke+4f6sSqdPWMS3d+URj56XUBtgov1jasNwSMp\nKRxdc81jFVeL4EuQ442w\n=SzQk\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCAAGBQJZwFMOAAoJEGez3thO3II/fg8P/i+0C51Lnh3Q/tvy4RfKuN4I\nbRZ/wK/jeJOVlcCaSgkRWQtySorPgJsoTHPjYmwZMi4dIu5t6UABbgIB9E8QfI1+\nZLzbxESBaxWYR/lmIGKyWGvnLkpro/K+pM9VjoKoT09LFZHttTwZbfnZ9GjtmDLb\nQokzufDOnSESOva5/4t92x7T+f+LwlhmT6kxvWQ1z10uiGrjT20ceDGEVN22UepQ\nVxjo80pYMUzXFaNjItoy1yy7g4rd/pUbmr6T8/nXiQjIZhEICvMpN/RJ9KN6IFqM\nTe37ySg0f1XvWUWbpbCHxmFR6qwxZpFg03Efd7NJaCXUjvsxwe5jKkQG4Cr5PhkJ\ntmPOod7UFRkVAgTRDqRsjgLUSJ3FVsVhcndoV1cSzfMIFGsw2IMxLBvgWXCKIAbz\nPl30gnue30zynpIQI///WQq2Q6VD6BNmeCKgaPMDTFRWHk4N4nHhw6hT7D1uOYyh\nwwjwkCfiJvTkaFXPULrMJXHV4BZmo+lwzIpc9HM389+AX4HH8mFjPiU426mv5gfR\n6siRd/QmwQABMKX2KPZw/GO9yDCshP9qi8kKOtBRhFRJhEWzfs7hfs0BD26+6GHH\nLy/esenz8+veHRmesVBX/tQmf2ke+4f6sSqdPWMS3d+URj56XUBtgov1jasNwSMp\nKRxdc81jFVeL4EuQ442w\n=SzQk\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 279bed98673dd5bef374d3b6e4b09e2af76183bf\ntype commit\ntag v1.0.0-rc1\ntagger Stephen J Day <stephen.day@docker.com> 1505776130 -0700\n\nOpen Containers Go Digest v1.0.0-rc1\n\nWelcome to another release of the go-digest package. This package\nprovides a simple toolkit for working with the digests of container\nimages.\n\nIn this release, we've mostly narrowed the acceptable format for\n`sha256` digests, which are the most common in use. Specifically, upper\ncase hex-encoded characters are no longer allowed in that format,\nremoving the ambiguity in encoding.\n\nOther concessions have been made to allow separators in the algorithm,\nas well as allowing the character set of the urlsafe base64 encodings.\nMost of this is more about allowing support for future formats, and are\nnot officially supported at this time.\n\nChanges\n\n279bed9 Merge pull request #34 from AkihiroSuda/regexp\n4ca1301 disallow upper characters (/A-F/) in hex-encoded portion\neaa6054 Merge pull request #33 from stevvooe/future-proof-algorithm-field\n678a95e digest: allow validation of urlsafe base64 encoding\n55f6758 digest: update package methods to reflect changes\n5ab10f5 digest: allow separators in algorithm field\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTo2NjcxMGRmZGU1MmM5NTA5ZGEzMTY3NjdhZTczZjM0YjRiYjBhZjI4",
+  "sha": "66710dfde52c9509da316767ae73f34b4bb0af28",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/66710dfde52c9509da316767ae73f34b4bb0af28",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-06-16T21:27:49Z"
+  },
+  "object": {
+    "sha": "6333151d6dbc1ae4e7c0eecc6b36163bb6a50d40",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/6333151d6dbc1ae4e7c0eecc6b36163bb6a50d40"
+  },
+  "tag": "v1.1.157",
+  "message": "Release of 1.1.157\n\n- 6333151d6dbc1ae4e7c0eecc6b36163bb6a50d40: Merge pull request #551 from qiangdavidliu/master\n- 169df6c203dd8d0e4de3f3fa58fa1e7999d2f0c3: cr comments\n- ce903e500c24bea1b87ed972c96b2726614c6c0d: Extract hostname in MockServer registration as this is part of the instance unique id\n- 615833e8f102e991e322a7f0642f72b90c5db430: test update\n- 457a7f637ddb226acf477cae0b04c8ff16ec9a50: - Clean up of static usage of ApplicationInfoManager in DiscoveryClient to avoid race condition in references. - Added tests for eventBus events\n- 949dfa1c52219ef43f8094a1fb60e9008318cd15: Merge pull request #549 from brenuart/gh545\n- 7b8a8f115844659a95b4eec3e21b3e18483871bc: Move code not directly related to the update of the local cache outside of the scope of the timer.\n- 1cacbe2ad700275bc575234ff2b32ee0d6493817: Create generic 'DiscoveryEvent' from which all discovery events are derived. Create new 'CacheRefreshedEvent' and make the DiscoveryClient fire it everytime it has refreshed its local cache\n- f6212a7e474f812f31ddbce6d4f7a7a0d498b751: Create protected methods for statusChanged and cacheRefreshed events. Subclasses may override these methods if they need custom behavior. Move the code sending events to the eventBus inside these methods. Capture 'CacheRefreshed' events\n- 3f696795902f61c2c76cfbd3df0c2a6c65f27b97: Merge pull request #544 from qiangdavidliu/master\n- ab7aad1c8af65d153270835f4547779cec6819f7: Forgot to flip booleans in unit test for boolean flip in method param.\n- a387fddb0649f0950c8f67b4e87855914b25ea86: Adding config for use (or not to use) the readonly cache in ResponseCache\n- 50dd3064f0322521a5a4aaa318660f38ea473a4b: Merge pull request #543 from qiangdavidliu/master\n- d9363b4b86a00235b587cba153d10437b72cfd1e: AwsAsgUtil fixes + avoid using expensive getASGAccount(asgName) if possible\n- 756bcd9fd308647c7b388543da9a3a6e034ee3f5: Merge pull request #537 from qiangdavidliu/master\n- fe695a54d79cbbf62724393c5126cd8a43461ae7: Extra null check for paranoia.\n- 1b7603580bfab0d5b59a9c0e7578f8b019b2cd4a: comment update\n- 3d01ee774e4dde8715a51e48b72b7eaa8da941ef: Merge remote-tracking branch 'upstream/master'\n- 0854300b7efc182a1aa0bc0d7cc8eb48c8672de9: Merge pull request #527 from amanya/cross-account-describe-asgs\n- 88b101b9dfe075a8d1a52c644677277eaaf66511: Comment update to Lease class\n- 82f216c09e3f73410faba3b2f9d7c4cf64cea644: Minor bug fix for StatusChangeListener when not configured to register.\n- abbe51c7b57895a8eb8e901553a44aa7f99d08d5: Merge remote-tracking branch 'upstream/master'\n- 6b09030e95e118a784ca7ec616398a4f0e384bcd: Merge pull request #523 from spencergibb/appinfo-public\n- df713041dd8f14d56669764ff4008377ff3a1a21: Fix inconsistency with selfPreservation check and how it's reported as servo metrics\n- f9d5bfd9f04cd1bfaf4fc512a1e123bc9710d906: Get cross account role name from property\n- e26f10a83721ccae18be86169decc0611edba487: Check if accountId metadata exists for compatibility w/ older clients\n- e17d488c284aa6a32c296d4ae2b512952f352410: Reuse sts authentication tokens\n- c377616f4d90793bf0ec08aa815edeb66ead6b25: Cross account describe ASGs\n- 0a539722f42cc5ccefb794c0619b2057678cf6b8: make constructor public so other DI systems can create instances\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

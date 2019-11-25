@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzODQ5OTM6MjZkMjhlYzZmMzNkMDQ4MjM0ZDg4ZDMxN2Q0MmQ2ZjY3ZTNlZjYxOA==",
+  "sha": "26d28ec6f33d048234d88d317d42d6f67e3ef618",
+  "url": "https://api.github.com/repos/openstack/keystone/git/tags/26d28ec6f33d048234d88d317d42d6f67e3ef618",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-08-09T15:48:28Z"
+  },
+  "object": {
+    "sha": "b625ccc42c4fd7e7a95cb54d6768a5a6fa3769db",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystone/git/commits/b625ccc42c4fd7e7a95cb54d6768a5a6fa3769db"
+  },
+  "tag": "14.0.0.0rc1",
+  "message": "keystone 14.0.0.0rc1 release candidate\n\nmeta:version: 14.0.0.0rc1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Commit: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Change-Id: I71e4c961f3017291532694f41aecee5dde4ce963\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbbGJMAAoJEMNs3LTfAMaMcZsIAIR+BnaKOszMcKSoAaNfDFbN\naLNVRLNZONydjMul7SYSfGt2axsGETe1f2ARdrBt95+JmS7qZOQwMV8ZNkSQ0HCy\nFYMX8lnLQ1kYotolQfoxbppQxu8yibjtw6hNO5ZKnY3nOFq6xh617c9r5I10bdOR\nJZVK/It8NPb+6N1/rtPpAlBD+7ZVEfUPFkUDZadsCXSqHX9V1U67T8vKFBsp/wLz\nZusF7mQhs2/w+sXxqW6PyeMbHJsgYBc8qC0ON7KGVolPru3ZFvLzsGlAtQhqEnBM\nVtTrxsjvK6DB1GItnB3/yNY3hbKS4tiYbZ0sbYHJDBEYzPc1aHqY53BIZyLHQJ0=\n=thiD\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbbGJMAAoJEMNs3LTfAMaMcZsIAIR+BnaKOszMcKSoAaNfDFbN\naLNVRLNZONydjMul7SYSfGt2axsGETe1f2ARdrBt95+JmS7qZOQwMV8ZNkSQ0HCy\nFYMX8lnLQ1kYotolQfoxbppQxu8yibjtw6hNO5ZKnY3nOFq6xh617c9r5I10bdOR\nJZVK/It8NPb+6N1/rtPpAlBD+7ZVEfUPFkUDZadsCXSqHX9V1U67T8vKFBsp/wLz\nZusF7mQhs2/w+sXxqW6PyeMbHJsgYBc8qC0ON7KGVolPru3ZFvLzsGlAtQhqEnBM\nVtTrxsjvK6DB1GItnB3/yNY3hbKS4tiYbZ0sbYHJDBEYzPc1aHqY53BIZyLHQJ0=\n=thiD\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b625ccc42c4fd7e7a95cb54d6768a5a6fa3769db\ntype commit\ntag 14.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1533829708 +0000\n\nkeystone 14.0.0.0rc1 release candidate\n\nmeta:version: 14.0.0.0rc1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Commit: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Change-Id: I71e4c961f3017291532694f41aecee5dde4ce963\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

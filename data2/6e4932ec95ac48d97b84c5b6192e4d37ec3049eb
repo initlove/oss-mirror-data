@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI5ODI1MTI1OjZlNDkzMmVjOTVhYzQ4ZDk3Yjg0YzViNjE5MmU0ZDM3ZWMzMDQ5ZWI=",
+  "sha": "6e4932ec95ac48d97b84c5b6192e4d37ec3049eb",
+  "url": "https://api.github.com/repos/projectcalico/node/git/tags/6e4932ec95ac48d97b84c5b6192e4d37ec3049eb",
+  "tagger": {
+    "name": "Shaun Crampton",
+    "email": "shaun@tigera.io",
+    "date": "2018-12-10T11:35:10Z"
+  },
+  "object": {
+    "sha": "a1e3947f21fee9046fc8f2365d192cce191ca1bd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/node/git/commits/a1e3947f21fee9046fc8f2365d192cce191ca1bd"
+  },
+  "tag": "v3.4.0",
+  "message": "- 1183be5e13b31e73c609a4dd676077d1bcdb662a Use unidirectional BGP connections in the node-to-node mesh.\n- 21b6641bbece32c14792b3cc43622f55ee05ad06 Tune BGP reconnection and error timers.\n- c6d651ca5d40d4b36b4a96e85f2511c640b79815 Support updating deps on multiple branches\n- bd03844ad2860fb8a97b86384d8f5654fca5504a Automated pin updates\n- 27ce503ce064f59f798da133382692083998c308 Fix version check\n- ea30388544b50b78463e64fcb6595330ff5150d5 Depend on srcfiles\n- 7aaab69a4ce013549dba5f716b6a2eb607d6a626 Automated pin updates\n- d0a1ec41351085b11d470dbdba72c957bd80fe7c Port the unidirectional mesh changes to bird6.cfg.\n- 086b204d96603f6452afcc656989eeb964842ec2 Automated pin updates\n- 2f623a8511adb1ec8ac96e60fd4fc3d0bde12ad5 Automated pin updates\n- f4b5e76a25d48782ab8f3faf436a612e94f47458 Factor out OS-specific function from startup.go.\n- 2209478b75c3de818c336403eec956e8a38d7fcf Automated pin updates\n- 610337c42803ebcf1753ec9e5d79426ca83282ce Move confd config and templates to confd repo\n- 00ac5738520a390248043c23be7176336b839f90 For PR testing, use new pre-merge confd code\n- 40760990ffdb9c2ce61fa410fb10febf069f1a95 Automated pin updates\n- 718474f6a0b6e7f5492ee383e0eefc4c56344e3a add system test to ensure route reflector cluster resilience\n- ef54c6f2427fc60eddbe4d3b620560bca7eb30c1 make update-felix-confd-libcalico\n- fd5fc45a798f68991973209e3407e306b45871c0 Automated pin updates\n- 1cf3d454704399b590f6706f77219b6cc6db63bc Don't interpret glide WARN as a problem\n- 909229b81cecd9c8f93e43eb0303548689400527 Automated pin updates\n- 171a805f9a07cb4ceeb8e65d4dfe833a76b44235 Automated pin updates\n- 4c2e41c16a4287e70cbe70784c2be46baf8dc3e9 Automated pin updates\n- 0959443ef264297369259a8b285ea4977a1ce5fe do not generate tomls off templates on rc anymore\n- 268b699bebb1a0810dd1fa9b34d53a624c91adc0 make update-felix-confd-libcalico\n- 5961a7a924d9bc40682eb1e2ee6a8955ab7c3dba Automated pin updates\n- 8e0dc3e2c941988752ebfee2e724d6f521c86277 Automated pin updates\n- ba97f178b3b7f0800578f3db75905972f0164a6f Automated pin updates\n- 9894e3558ede48ceaa2be51fc814e0462f6f6689 Automated pin updates\n- 5f35f7b8b5689cc09d73f13e488f38703079aa15 Automated pin updates\n- b47613fa895d3ce18d484156e79567de44bdae7b Automated pin updates\n- 0bd4fff54a48380ee046efd417b7631da64bf8da Use BIRD v0.3.3, which builds in the upstream BIRD's BFD support\n- 9b40b6e1d50541caaab0490c0053306e2310de18 Update dependencies\n- b3d72b38c8a721a0d8928ab43aba1dc9f2b9dcf3 Automated pin updates\n- 6497562182b46b8ab19d61e87d2e6edb717de1a4 Automated pin updates\n- 3b09e34024dc184332add42bfddb0cb007b80107 Update dependencies\n- ca63114aecb5f90f30ebea2002fe076c5adaa392 Fix log statement using an undefined logger in UT\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

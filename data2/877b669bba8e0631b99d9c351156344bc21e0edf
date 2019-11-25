@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzIwNDA5Mzo4NzdiNjY5YmJhOGUwNjMxYjk5ZDljMzUxMTU2MzQ0YmMyMWUwZWRm",
+  "sha": "877b669bba8e0631b99d9c351156344bc21e0edf",
+  "url": "https://api.github.com/repos/openstack/python-neutronclient/git/tags/877b669bba8e0631b99d9c351156344bc21e0edf",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-01-19T15:33:48Z"
+  },
+  "object": {
+    "sha": "c1701c1d289beed3710b17653e386bb3fbffb0c7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-neutronclient/git/commits/c1701c1d289beed3710b17653e386bb3fbffb0c7"
+  },
+  "tag": "3.1.1",
+  "message": "python-neutronclient 3.1.1 release\n\nmeta:version: 3.1.1\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWnldcAAoJEDttBqDEKEN6mQUH/i7/1bOK1UeP1Gkl8VE3nrDg\neFawMej5sGnv/Z4n7nvB8ksHGC7bISco+0002cLMerDBfwjm9ijWlNAF41JWQbaE\npW0itwqhK4o+ySx7j6y3ZcAHZdco5IK6iOIe4m/UXH1Qq9Sco49q+KhEPSV0nEu0\nfNnhS+6G5rNvWdGJSxf4RM0pQmEDp0EbJCQJAkh894BFwVbW0I/fAv3jLkAG98+L\ndyWFNhPQqGYiac1xjapF1gBw5RrPLIb19KKeHBcpdzDkWR/3ew//CfXYhhmmCj/8\nYNoE5fXU2cEI3fbUx/SHE1mEPp9DfiLvYOgkToJiAPox6+WzOpy3rrX0yIul6mY=\n=HQCu\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWnldcAAoJEDttBqDEKEN6mQUH/i7/1bOK1UeP1Gkl8VE3nrDg\neFawMej5sGnv/Z4n7nvB8ksHGC7bISco+0002cLMerDBfwjm9ijWlNAF41JWQbaE\npW0itwqhK4o+ySx7j6y3ZcAHZdco5IK6iOIe4m/UXH1Qq9Sco49q+KhEPSV0nEu0\nfNnhS+6G5rNvWdGJSxf4RM0pQmEDp0EbJCQJAkh894BFwVbW0I/fAv3jLkAG98+L\ndyWFNhPQqGYiac1xjapF1gBw5RrPLIb19KKeHBcpdzDkWR/3ew//CfXYhhmmCj/8\nYNoE5fXU2cEI3fbUx/SHE1mEPp9DfiLvYOgkToJiAPox6+WzOpy3rrX0yIul6mY=\n=HQCu\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c1701c1d289beed3710b17653e386bb3fbffb0c7\ntype commit\ntag 3.1.1\ntagger Doug Hellmann <doug@doughellmann.com> 1453217628 -0500\n\npython-neutronclient 3.1.1 release\n\nmeta:version: 3.1.1\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\n"
+  }
+}

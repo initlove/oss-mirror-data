@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDE5OjM4OGI4OWY2NGY2NGZjNzJiZTk2OGQxNDM4ZmNkY2U1Y2FhM2NhNmE=",
+  "sha": "388b89f64f64fc72be968d1438fcdce5caa3ca6a",
+  "url": "https://api.github.com/repos/openstack/swift/git/tags/388b89f64f64fc72be968d1438fcdce5caa3ca6a",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-12-13T19:15:44Z"
+  },
+  "object": {
+    "sha": "3129a55d4418e0dc4207c2026e7ef8c59704c6a1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/swift/git/commits/3129a55d4418e0dc4207c2026e7ef8c59704c6a1"
+  },
+  "tag": "2.10.1",
+  "message": "swift 2.10.1 release\n\nmeta:version: 2.10.1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: John Dickinson <me@not.mn>\nmeta:release:Commit: John Dickinson <me@not.mn>\nmeta:release:Change-Id: I2bcedcf7534da3fd7c669bca614e3a2cf152a1c7\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYUEjgAAoJELkGmxM1cAzc+rgIAI43mEcfnCrMKms2MvH1fwdt\nlGexLDb7kCEikYo28JEsqG+7yPAqpYFEwGCj/gLXvDEz22dXiamnhRoGZhFj+LvP\nehPQ9iJR/dcMiL8SlO+3RuBsZugHt4+jRl8AMQrnrQ7Mve0zDWQGeXrhh1dN6of9\ndDKP7aJVZjthCotI7aSvohBnZwzB6OATsxD54B9wXMEIpECfhwiMgmIoYylcrcUb\nAu2k23owlld0O3EZ9GrMEPC53hjHjRKeqp0yX1lSgGzdm9cztcgZfbN1T+KOas4k\nKvFIkzWxaqnFgDJ70vLK1sFxSZw0gzJPrQhZ35xQr1hfdTrhNHC5TAoV9e7t4CI=\n=w5n3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYUEjgAAoJELkGmxM1cAzc+rgIAI43mEcfnCrMKms2MvH1fwdt\nlGexLDb7kCEikYo28JEsqG+7yPAqpYFEwGCj/gLXvDEz22dXiamnhRoGZhFj+LvP\nehPQ9iJR/dcMiL8SlO+3RuBsZugHt4+jRl8AMQrnrQ7Mve0zDWQGeXrhh1dN6of9\ndDKP7aJVZjthCotI7aSvohBnZwzB6OATsxD54B9wXMEIpECfhwiMgmIoYylcrcUb\nAu2k23owlld0O3EZ9GrMEPC53hjHjRKeqp0yX1lSgGzdm9cztcgZfbN1T+KOas4k\nKvFIkzWxaqnFgDJ70vLK1sFxSZw0gzJPrQhZ35xQr1hfdTrhNHC5TAoV9e7t4CI=\n=w5n3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3129a55d4418e0dc4207c2026e7ef8c59704c6a1\ntype commit\ntag 2.10.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1481656544 +0000\n\nswift 2.10.1 release\n\nmeta:version: 2.10.1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: John Dickinson <me@not.mn>\nmeta:release:Commit: John Dickinson <me@not.mn>\nmeta:release:Change-Id: I2bcedcf7534da3fd7c669bca614e3a2cf152a1c7\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

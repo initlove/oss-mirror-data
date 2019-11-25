@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDM5MzY5Njo1ZjI4ODdlNzQyY2NmYTYwY2FlMjcwZDNlN2UyOTIzMjc1M2NlNTk3",
+  "sha": "5f2887e742ccfa60cae270d3e7e29232753ce597",
+  "url": "https://api.github.com/repos/openstack/python-swiftclient/git/tags/5f2887e742ccfa60cae270d3e7e29232753ce597",
+  "tagger": {
+    "name": "John Dickinson",
+    "email": "me@not.mn",
+    "date": "2013-09-30T13:29:20Z"
+  },
+  "object": {
+    "sha": "68dde8dd514e4eef89aafa6c1c93e065045c3cbd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-swiftclient/git/commits/68dde8dd514e4eef89aafa6c1c93e065045c3cbd"
+  },
+  "tag": "1.7.0",
+  "message": "Releasing 1.7.0\n\nThis release is promted by a dependency change that should avoid\npainful dependency management issues. The main issue was the\nrequirement for d2to1. By removing it we resolve some issues related\nto upstream changes in distribute and pip, especially on older systems\n(see http://lists.openstack.org/pipermail/openstack-dev/2013-July/011425.html).\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJSSX/gAAoJENj9+RIel2bQgwAP/2u+ukp/CqVBOxYEFuPJHu4N\nG7SbU3dpErY+/i1+pGmxhcVa+frePSzJnDx6+28zttfoIn2BgEG4aVUdK+fGUlIb\nE7eBhd175EAZBNUBqnxjHbIMGSTosC/tbGGxmsped81kkwBBy7Colg7kRdAVsxlB\neYH4x0yYw7R68wR09YzGtWrjiwobwnSSX44DgtxqVGUtttEdMTTTjjD+gVFkrZNF\ne0ZbjNPCEXiYeE3p+lFUzsB/SQ7MwtKuvmabZ+0/+nzLKh+BWKZTe6Oh6GnFFOIZ\nC8GAnS4rxXCBSKsI9y91joDUude26UTxAk1Jom6btnf3Kr77EoIcZ4SXBJ1J1Axe\n/ay3TJoYRu0tYeAch3CAdYiEglXxTxABGK5V0kFdqBbVBFn0I8sWxMSkGsaufquI\ntbQBTCN76Kqn/1Cqr6qV/MCd6KSkGzfhdD4LFBzSTdRDQn+vqmrRMFmuts/UmAwH\nb+RkLtYn28umKSxneVXF8iCYhRJTKyVH1RB5cgojspktMvGmmkw7IIH1icET06Tj\n+2PMyZcsE8bhKlLcVtsIWdfWveVTch/NjO1WN4dvxfWPE/StH61ZBIuHTWr/2nPK\nmJPiDJBFiZE5cTqV7JbE+Sheu+O3UrdDjrwu5KlubFUrilwYBUv57j6p2/d/vNO2\nAc67LfNtpIYzQfvbYpLV\n=5ckA\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJSSX/gAAoJENj9+RIel2bQgwAP/2u+ukp/CqVBOxYEFuPJHu4N\nG7SbU3dpErY+/i1+pGmxhcVa+frePSzJnDx6+28zttfoIn2BgEG4aVUdK+fGUlIb\nE7eBhd175EAZBNUBqnxjHbIMGSTosC/tbGGxmsped81kkwBBy7Colg7kRdAVsxlB\neYH4x0yYw7R68wR09YzGtWrjiwobwnSSX44DgtxqVGUtttEdMTTTjjD+gVFkrZNF\ne0ZbjNPCEXiYeE3p+lFUzsB/SQ7MwtKuvmabZ+0/+nzLKh+BWKZTe6Oh6GnFFOIZ\nC8GAnS4rxXCBSKsI9y91joDUude26UTxAk1Jom6btnf3Kr77EoIcZ4SXBJ1J1Axe\n/ay3TJoYRu0tYeAch3CAdYiEglXxTxABGK5V0kFdqBbVBFn0I8sWxMSkGsaufquI\ntbQBTCN76Kqn/1Cqr6qV/MCd6KSkGzfhdD4LFBzSTdRDQn+vqmrRMFmuts/UmAwH\nb+RkLtYn28umKSxneVXF8iCYhRJTKyVH1RB5cgojspktMvGmmkw7IIH1icET06Tj\n+2PMyZcsE8bhKlLcVtsIWdfWveVTch/NjO1WN4dvxfWPE/StH61ZBIuHTWr/2nPK\nmJPiDJBFiZE5cTqV7JbE+Sheu+O3UrdDjrwu5KlubFUrilwYBUv57j6p2/d/vNO2\nAc67LfNtpIYzQfvbYpLV\n=5ckA\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 68dde8dd514e4eef89aafa6c1c93e065045c3cbd\ntype commit\ntag 1.7.0\ntagger John Dickinson <me@not.mn> 1380547760 -0700\n\nReleasing 1.7.0\n\nThis release is promted by a dependency change that should avoid\npainful dependency management issues. The main issue was the\nrequirement for d2to1. By removing it we resolve some issues related\nto upstream changes in distribute and pip, especially on older systems\n(see http://lists.openstack.org/pipermail/openstack-dev/2013-July/011425.html).\n"
+  }
+}

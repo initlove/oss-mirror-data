@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE5MDk5NjU6MjUyNzc0M2RjNTMxMTI1YWU1MTIyNDI2NDdkN2IzZTllNzJjNWU4Yw==",
+  "sha": "2527743dc531125ae512242647d7b3e9e72c5e8c",
+  "url": "https://api.github.com/repos/openstack/glance_store/git/tags/2527743dc531125ae512242647d7b3e9e72c5e8c",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-07-26T10:05:34Z"
+  },
+  "object": {
+    "sha": "5d86e1a5c25725dde288082ce45e7c2c55ae747f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/glance_store/git/commits/5d86e1a5c25725dde288082ce45e7c2c55ae747f"
+  },
+  "tag": "1.0.0",
+  "message": "glance_store 1.0.0 release\n\nmeta:version: 1.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Abhishek Kekane <akekane@redhat.com>\nmeta:release:Commit: Abhishek Kekane <akekane@redhat.com>\nmeta:release:Change-Id: Ib4134f707af2a832cfbb5a0bd9fe27bc1ed5b9df\nmeta:release:Code-Review+1: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl060G4ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2H5JC/oDBFE5EO/JiI2atPezc6hU\nBq7/f1O1WLtLOEfb4tYIZ43NQizbUfDQ6Xqp/17GfK0dQ/1RsziNe6lH5Xezd2Zm\n4nYIfKGFDMH1S+ZAh76Zmtp/MaLH7T3K+JiYVrADf2Zd0VvcHjaRFKRKWaNfPBLn\nSaQ1uNtWvBCuFQJkwI6VAytCzA6enkpaCO0ELmJ1wIe9qYohI3XiORR6y4kQKdaB\npwMHExdUAekYm9obPEXpQtXjg7YEC6b7XqW59bzP9zxmYB/ODSumFNMDfbOYCBdC\nbgrGiPCi6EghC979+ZgCxAT4OS/oL6P/S/ps4GbQyR+OSulmIMEMWQQNf1Ohyxd3\nWsiwyhLAVexJewpqaMf4D6UzfI99Zl75/a2bU2RD16J1CyE8pGZ6NU7XZ5UXRhe8\nRWu7gLtXXppDFnz3w4ekPUsy1joBjuSpf9ETWZPm9e5Sg2xcbmAAKq7MhPMP4aYW\nsevKGt5rNZqqRtScAi4aGX+K9Cnh7hoFLtyOJ4utN/4=\n=sztN\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl060G4ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2H5JC/oDBFE5EO/JiI2atPezc6hU\nBq7/f1O1WLtLOEfb4tYIZ43NQizbUfDQ6Xqp/17GfK0dQ/1RsziNe6lH5Xezd2Zm\n4nYIfKGFDMH1S+ZAh76Zmtp/MaLH7T3K+JiYVrADf2Zd0VvcHjaRFKRKWaNfPBLn\nSaQ1uNtWvBCuFQJkwI6VAytCzA6enkpaCO0ELmJ1wIe9qYohI3XiORR6y4kQKdaB\npwMHExdUAekYm9obPEXpQtXjg7YEC6b7XqW59bzP9zxmYB/ODSumFNMDfbOYCBdC\nbgrGiPCi6EghC979+ZgCxAT4OS/oL6P/S/ps4GbQyR+OSulmIMEMWQQNf1Ohyxd3\nWsiwyhLAVexJewpqaMf4D6UzfI99Zl75/a2bU2RD16J1CyE8pGZ6NU7XZ5UXRhe8\nRWu7gLtXXppDFnz3w4ekPUsy1joBjuSpf9ETWZPm9e5Sg2xcbmAAKq7MhPMP4aYW\nsevKGt5rNZqqRtScAi4aGX+K9Cnh7hoFLtyOJ4utN/4=\n=sztN\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5d86e1a5c25725dde288082ce45e7c2c55ae747f\ntype commit\ntag 1.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1564135534 +0000\n\nglance_store 1.0.0 release\n\nmeta:version: 1.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Abhishek Kekane <akekane@redhat.com>\nmeta:release:Commit: Abhishek Kekane <akekane@redhat.com>\nmeta:release:Change-Id: Ib4134f707af2a832cfbb5a0bd9fe27bc1ed5b9df\nmeta:release:Code-Review+1: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

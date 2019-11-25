@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkyMTcwNTQ6MmNjZjA4YTc2MWRlYTkxNWExZmYyODhmODA1YjZhYTEyMDgyM2ZjZA==",
+  "sha": "2ccf08a761dea915a1ff288f805b6aa120823fcd",
+  "url": "https://api.github.com/repos/micro/go-micro/git/tags/2ccf08a761dea915a1ff288f805b6aa120823fcd",
+  "tagger": {
+    "name": "Asim Aslam",
+    "email": "asim@aslam.me",
+    "date": "2019-09-11T14:13:06Z"
+  },
+  "object": {
+    "sha": "6ec32805d013ec219796b2c5c25186372b0b20c1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micro/go-micro/git/commits/6ec32805d013ec219796b2c5c25186372b0b20c1"
+  },
+  "tag": "v1.10.0",
+  "message": "- Add grpc client code application/grpc content-type\n- Move client to use stream dialer\n- Add network implementation\n- Add dynamic plugin loading\n- Add multilink usage in proxy\n- Add registry implementation\n- Scope mdns to .micro domain\n- Support grpc server processing by default\n- Add tunnel broker\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

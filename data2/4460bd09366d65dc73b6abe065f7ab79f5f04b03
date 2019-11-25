@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY2OTM3NzQ6NDQ2MGJkMDkzNjZkNjVkYzczYjZhYmUwNjVmN2FiNzlmNWYwNGIwMw==",
+  "sha": "4460bd09366d65dc73b6abe065f7ab79f5f04b03",
+  "url": "https://api.github.com/repos/openstack/futurist/git/tags/4460bd09366d65dc73b6abe065f7ab79f5f04b03",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-04-16T19:03:27Z"
+  },
+  "object": {
+    "sha": "0f9bc8bdbbeaebab57e0801024eed25e0aa7bd1f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/futurist/git/commits/0f9bc8bdbbeaebab57e0801024eed25e0aa7bd1f"
+  },
+  "tag": "1.3.2",
+  "message": "futurist 1.3.2 release\n\nmeta:version: 1.3.2\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Ifcb051db33bffbfe7c183b726e7c54c310c488e1\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly2Jv8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOFUtC/0Zjam4rv7NIeBkTuUvgwXD\ng/+D4b/O4bW4TaXq+dlxeil9oR8SOmkABRGubXA0r3qkXVva1Pq9wHop+PidMmzb\nmFmPOuOwUr2/Ke9fp2+AdbIqsP59b09in9TqWy8vsANnnX6FIIhSVp1Fjz9H4RG1\nlyV+3A1F7wa+cGh5wrOfFeGwEG93m3rgR4OhboZ1mOoMG1ucFcTQnAR/uqJhn6jl\nZp91hs8z9tSjCBt5UtebUHWcyHAJ7hsMoL9/pjSBPurl9Ap+e5iRcC/oW/lSK/9a\nlKGGKYPh1+odsMD1ECS5Vxqtqo/obKjxRQiI9E4LZ6lWb91Yt/fLxwvLZEzhEuwl\n6h1Hut/+k5239z3BHdsE60rd2YK0pBx/SnHbD4CGTy78zNIWKpsGTgLsKmvu/Udh\nc1i2VLYF/BT4VOfk/vKerbsJOq+99KfjasryCCwK+5q/69oPrZnxxlznMXVH66EO\n7hazKrFkQQfIu4qSaTxBzsVTC27KV5v3Kcw5TVUMgQ8=\n=7N+d\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly2Jv8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOFUtC/0Zjam4rv7NIeBkTuUvgwXD\ng/+D4b/O4bW4TaXq+dlxeil9oR8SOmkABRGubXA0r3qkXVva1Pq9wHop+PidMmzb\nmFmPOuOwUr2/Ke9fp2+AdbIqsP59b09in9TqWy8vsANnnX6FIIhSVp1Fjz9H4RG1\nlyV+3A1F7wa+cGh5wrOfFeGwEG93m3rgR4OhboZ1mOoMG1ucFcTQnAR/uqJhn6jl\nZp91hs8z9tSjCBt5UtebUHWcyHAJ7hsMoL9/pjSBPurl9Ap+e5iRcC/oW/lSK/9a\nlKGGKYPh1+odsMD1ECS5Vxqtqo/obKjxRQiI9E4LZ6lWb91Yt/fLxwvLZEzhEuwl\n6h1Hut/+k5239z3BHdsE60rd2YK0pBx/SnHbD4CGTy78zNIWKpsGTgLsKmvu/Udh\nc1i2VLYF/BT4VOfk/vKerbsJOq+99KfjasryCCwK+5q/69oPrZnxxlznMXVH66EO\n7hazKrFkQQfIu4qSaTxBzsVTC27KV5v3Kcw5TVUMgQ8=\n=7N+d\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0f9bc8bdbbeaebab57e0801024eed25e0aa7bd1f\ntype commit\ntag 1.3.2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1555441407 +0000\n\nfuturist 1.3.2 release\n\nmeta:version: 1.3.2\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Ifcb051db33bffbfe7c183b726e7c54c310c488e1\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

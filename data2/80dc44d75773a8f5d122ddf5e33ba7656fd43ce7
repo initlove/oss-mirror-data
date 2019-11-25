@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDUzNzExODo4MGRjNDRkNzU3NzNhOGY1ZDEyMmRkZjVlMzNiYTc2NTZmZDQzY2U3",
+  "sha": "80dc44d75773a8f5d122ddf5e33ba7656fd43ce7",
+  "url": "https://api.github.com/repos/GNOME/libxml2/git/tags/80dc44d75773a8f5d122ddf5e33ba7656fd43ce7",
+  "tagger": {
+    "name": "Daniel Veillard",
+    "email": "veillard@redhat.com",
+    "date": "2016-05-23T08:50:07Z"
+  },
+  "object": {
+    "sha": "c97750d11bb8b6f3303e7131fe526a61ac65bcfd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/GNOME/libxml2/git/commits/c97750d11bb8b6f3303e7131fe526a61ac65bcfd"
+  },
+  "tag": "CVE-2016-4483",
+  "message": "CVE-2016-4483 though I doubt the security implications\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAldCxFkACgkQRga4pd6VvB+CVwCfU6dP0HNTkd1U/z9ijVt/NG1R\nI7YAn0PpEEifvr5wuwxhn7QPDN0QoIW/\n=jtn2\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAldCxFkACgkQRga4pd6VvB+CVwCfU6dP0HNTkd1U/z9ijVt/NG1R\nI7YAn0PpEEifvr5wuwxhn7QPDN0QoIW/\n=jtn2\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c97750d11bb8b6f3303e7131fe526a61ac65bcfd\ntype commit\ntag CVE-2016-4483\ntagger Daniel Veillard <veillard@redhat.com> 1463993407 +0800\n\nCVE-2016-4483 though I doubt the security implications\n"
+  }
+}

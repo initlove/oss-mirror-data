@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAzMDk4Njo1MTUwMWI5ZTQ0ZDE3YTRlZDc4NmVlNDRlNWU2YWM1MzY0Y2RjNWM5",
+  "sha": "51501b9e44d17a4ed786ee44e5e6ac5364cdc5c9",
+  "url": "https://api.github.com/repos/openstack/python-keystoneclient/git/tags/51501b9e44d17a4ed786ee44e5e6ac5364cdc5c9",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-12-01T16:29:34Z"
+  },
+  "object": {
+    "sha": "f7c1d45a04bb2b024a985b8e30245d38f2bf8442",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-keystoneclient/git/commits/f7c1d45a04bb2b024a985b8e30245d38f2bf8442"
+  },
+  "tag": "3.8.0",
+  "message": "python-keystoneclient 3.8.0 release\n\nmeta:version: 3.8.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Steve Martinelli <s.martinelli@gmail.com>\nmeta:release:Commit: Steve Martinelli <s.martinelli@gmail.com>\nmeta:release:Change-Id: Ib8da117c825434bb451d5b39d6ded1ddd36ea618\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYQE/uAAoJELkGmxM1cAzcwUoH/jdjrCpDTwl8aKIFjh6NUIyr\nNFH/+bXk5GExgsnRn+CUtUmxkGBrgRuafqBp5JeIC3Jh2s4fSQ91SeL+3f01ZPhY\nGM+mUykTr1rtrkVU2ab8AGXlhHRck/3FrMZd5/gcPuyBN7VKqfGnFV9nHaZIh3Wb\n18Ovf/Wz1RtiCiJ4vK5u6tcRmQTwr2XolC/CYIDei9dysDtFtpkVRCusIwclL/S6\n0sITlKFyJHWjMfgkVSFTJxKoCgc8D9P99ihtM76wmgJBOrNLBbLwL0gboM9lDRn8\nr8ifMtk0Vjqjp804sCeu1Ki2HLGKEqFYUKtbLOkeMCV3rdSWqcN+yeM672IphBA=\n=6XWw\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYQE/uAAoJELkGmxM1cAzcwUoH/jdjrCpDTwl8aKIFjh6NUIyr\nNFH/+bXk5GExgsnRn+CUtUmxkGBrgRuafqBp5JeIC3Jh2s4fSQ91SeL+3f01ZPhY\nGM+mUykTr1rtrkVU2ab8AGXlhHRck/3FrMZd5/gcPuyBN7VKqfGnFV9nHaZIh3Wb\n18Ovf/Wz1RtiCiJ4vK5u6tcRmQTwr2XolC/CYIDei9dysDtFtpkVRCusIwclL/S6\n0sITlKFyJHWjMfgkVSFTJxKoCgc8D9P99ihtM76wmgJBOrNLBbLwL0gboM9lDRn8\nr8ifMtk0Vjqjp804sCeu1Ki2HLGKEqFYUKtbLOkeMCV3rdSWqcN+yeM672IphBA=\n=6XWw\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f7c1d45a04bb2b024a985b8e30245d38f2bf8442\ntype commit\ntag 3.8.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1480609774 +0000\n\npython-keystoneclient 3.8.0 release\n\nmeta:version: 3.8.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Steve Martinelli <s.martinelli@gmail.com>\nmeta:release:Commit: Steve Martinelli <s.martinelli@gmail.com>\nmeta:release:Change-Id: Ib8da117c825434bb451d5b39d6ded1ddd36ea618\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

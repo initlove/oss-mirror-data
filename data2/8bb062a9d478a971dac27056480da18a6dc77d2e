@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTkzMTY2MTA6OGJiMDYyYTlkNDc4YTk3MWRhYzI3MDU2NDgwZGExOGE2ZGM3N2QyZQ==",
+  "sha": "8bb062a9d478a971dac27056480da18a6dc77d2e",
+  "url": "https://api.github.com/repos/openstack/oslo.db/git/tags/8bb062a9d478a971dac27056480da18a6dc77d2e",
+  "tagger": {
+    "name": "Victor Sergeyev",
+    "email": "vsergeyev@mirantis.com",
+    "date": "2014-09-16T11:25:27Z"
+  },
+  "object": {
+    "sha": "cc7ae9fecc705924c4dc1d8d104338afc0e2437e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.db/git/commits/cc7ae9fecc705924c4dc1d8d104338afc0e2437e"
+  },
+  "tag": "0.5.0",
+  "message": "oslo.db release 0.5.0\n\nChange log:\n\nc785bee Updated from global requirements\nac05c2a Imported Translations from Transifex\n57f499e Add a check for SQLite transactional state\nbdcfb4a Let oslotest manage the six.move setting for mox\n4ed63fa Fix DBReferenceError on MySQL and SQLite\n49ae6c0 Renaming in WalkVersionsMixin\ncae1202 Clean up documentation\nfb577ec Use single quotes for db schema sanity check\nab47516 warn against sorting requirements\nbe6f9a0 ModelsMigrationsSync:Override compare_server_default\ne187a4c Updated from global requirements\ncbf995e Imported Translations from Transifex\nf2f0960 Add doc8 to tox environment docs\n92d9a1c Use oslo.i18n\n78fd290 Repair pysqlite transaction support\n41dada1 Extract logging setup into a separate function\n7c57798 Updated from global requirements\n977869d Remove reliance on create_engine() from TestsExceptionFilter\n626d762 Consolidate sqlite and mysql event listeners\n5ab43ee Use dialect dispatch for engine initiailization.\n4683475 Add get_non_innodb_tables() to utils\n686005e Added check to see whether oslotest is installed\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUGB5EAAoJENWgYFa7TmIKMd8QAIGmKyYwJ//ZZe5SKkN6e56L\nCrSj9v19Qf9gEwisaNc0zg6EE5PyIM0Ow4RHhk/NBV5RnxTs7PM/cuSazbYI4lu9\nZWOfhVXOV8v0AZFpXOgvSLAa33J5lwUkRwlfQMq0UmUePI20OOgFubjCvAC4qKAM\nSpcJ3I6xLkvwPm05Be7duJM2NaKKhzc+g+S7MDuK8X1URKAXNJCRUOOg+P4ZoQ1A\nh18roLKWq9UnV9TzCrGRmAQ+VoaDsJvYYusZxr4SekHMRtOHGDwjmoTvr+YSbmrF\nfJ0JoX36gXIc3T8dD+vSxzS5s+gkxWFn5QgPOW4nbWtFYvquGev3FfkQ634vAFQu\nTLKcPxIzzS2zSq3EF14xeJAqQ6RC/BjHQq4VeJdb9dy5vpxDb6mt43XmttIt+AX8\ng5rVgQopj0UHuyhz9YWUHZ4TulqTy15jWMzDyzPAEcc/AuCljH1Q8ACnJ6XQuzre\nVxZhS9ZGfPicgS+0mFZzusyOxyECEpahyXNJUHHN7vQyLIY7G/9OXVQXlhGMlOxz\nXpeoppU/tB5Ys4UoLh4i1NFGfvjxRQ6neQvZQ3z0qwCyyoRCVajoZ0ASEPnRieWR\n9UvH4I9VoCGr/2kX1p6/mQPhMEgQjSe3sAaTuhu9/3ySnS+A7+i8Qb96JnJRKTAf\n8YATlc7gPsXgzF7tJ7fG\n=a0g/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUGB5EAAoJENWgYFa7TmIKMd8QAIGmKyYwJ//ZZe5SKkN6e56L\nCrSj9v19Qf9gEwisaNc0zg6EE5PyIM0Ow4RHhk/NBV5RnxTs7PM/cuSazbYI4lu9\nZWOfhVXOV8v0AZFpXOgvSLAa33J5lwUkRwlfQMq0UmUePI20OOgFubjCvAC4qKAM\nSpcJ3I6xLkvwPm05Be7duJM2NaKKhzc+g+S7MDuK8X1URKAXNJCRUOOg+P4ZoQ1A\nh18roLKWq9UnV9TzCrGRmAQ+VoaDsJvYYusZxr4SekHMRtOHGDwjmoTvr+YSbmrF\nfJ0JoX36gXIc3T8dD+vSxzS5s+gkxWFn5QgPOW4nbWtFYvquGev3FfkQ634vAFQu\nTLKcPxIzzS2zSq3EF14xeJAqQ6RC/BjHQq4VeJdb9dy5vpxDb6mt43XmttIt+AX8\ng5rVgQopj0UHuyhz9YWUHZ4TulqTy15jWMzDyzPAEcc/AuCljH1Q8ACnJ6XQuzre\nVxZhS9ZGfPicgS+0mFZzusyOxyECEpahyXNJUHHN7vQyLIY7G/9OXVQXlhGMlOxz\nXpeoppU/tB5Ys4UoLh4i1NFGfvjxRQ6neQvZQ3z0qwCyyoRCVajoZ0ASEPnRieWR\n9UvH4I9VoCGr/2kX1p6/mQPhMEgQjSe3sAaTuhu9/3ySnS+A7+i8Qb96JnJRKTAf\n8YATlc7gPsXgzF7tJ7fG\n=a0g/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cc7ae9fecc705924c4dc1d8d104338afc0e2437e\ntype commit\ntag 0.5.0\ntagger Victor Sergeyev <vsergeyev@mirantis.com> 1410866727 +0300\n\noslo.db release 0.5.0\n\nChange log:\n\nc785bee Updated from global requirements\nac05c2a Imported Translations from Transifex\n57f499e Add a check for SQLite transactional state\nbdcfb4a Let oslotest manage the six.move setting for mox\n4ed63fa Fix DBReferenceError on MySQL and SQLite\n49ae6c0 Renaming in WalkVersionsMixin\ncae1202 Clean up documentation\nfb577ec Use single quotes for db schema sanity check\nab47516 warn against sorting requirements\nbe6f9a0 ModelsMigrationsSync:Override compare_server_default\ne187a4c Updated from global requirements\ncbf995e Imported Translations from Transifex\nf2f0960 Add doc8 to tox environment docs\n92d9a1c Use oslo.i18n\n78fd290 Repair pysqlite transaction support\n41dada1 Extract logging setup into a separate function\n7c57798 Updated from global requirements\n977869d Remove reliance on create_engine() from TestsExceptionFilter\n626d762 Consolidate sqlite and mysql event listeners\n5ab43ee Use dialect dispatch for engine initiailization.\n4683475 Add get_non_innodb_tables() to utils\n686005e Added check to see whether oslotest is installed\n"
+  }
+}

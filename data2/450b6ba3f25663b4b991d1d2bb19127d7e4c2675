@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE1NTE1Nzo0NTBiNmJhM2YyNTY2M2I0Yjk5MWQxZDJiYjE5MTI3ZDdlNGMyNjc1",
+  "sha": "450b6ba3f25663b4b991d1d2bb19127d7e4c2675",
+  "url": "https://api.github.com/repos/openstack/glance/git/tags/450b6ba3f25663b4b991d1d2bb19127d7e4c2675",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-10T19:30:17Z"
+  },
+  "object": {
+    "sha": "f87464e022046c9d61384c2593edf9753ed34749",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/glance/git/commits/f87464e022046c9d61384c2593edf9753ed34749"
+  },
+  "tag": "19.0.0.0rc2",
+  "message": "glance 19.0.0.0rc2 release candidate\n\nmeta:version: 19.0.0.0rc2\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Commit: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Change-Id: Ie20dc59c32978c2fa0d9717088cab0b93a0e3fc3\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2fhskZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2HDlC/wIGWjJG0qC0qcK7yK/dVEZ\nGxjnlkxPbOYIPNOepkVvQu1ZER8xIKMkFn5ZxmUHhWEftWQUgVrhrFHVkBTlfynh\nwtZcONFVzQnV/nHOXqMGMYDDwGsdPsMQzoZ2iByt6jdwSjEatLsyLugwKWEhXvwp\n7PJ/+vEZJqSopsjBN+6s2gE5ZyPAd6YdRiETnkCTTGbmKsvbWUNfCm2YJCIXM5lm\nAxLcRJrfFCZUrxKphhOmwzEeUp9NYxmSbGnCQ4Gk5WCjpr2T7F7Z1pL5JwkWf7Wy\nkOlJtQS8BM+0I8cIu2YC9tAZwjamdoqKxNBSIiv+oQTKLS9C3ONNLdkKlESrXueW\nh9gzqdNAsUcTQYeQaEomqtSbar3SqP47GtGyol7/OiKeb6Bp0TvKTx7l3SdZjVXW\nUGEeYCPlPBQ0lOnAgwU92KtZhTU/j8Em6yVrTmK5wGe33EywKxFxMPjVBSpXnUD6\nO9FJoyzQGnXdrZA8m+OFMcV+Z8oGMwak5K6iRaltQBg=\n=GO+K\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2fhskZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2HDlC/wIGWjJG0qC0qcK7yK/dVEZ\nGxjnlkxPbOYIPNOepkVvQu1ZER8xIKMkFn5ZxmUHhWEftWQUgVrhrFHVkBTlfynh\nwtZcONFVzQnV/nHOXqMGMYDDwGsdPsMQzoZ2iByt6jdwSjEatLsyLugwKWEhXvwp\n7PJ/+vEZJqSopsjBN+6s2gE5ZyPAd6YdRiETnkCTTGbmKsvbWUNfCm2YJCIXM5lm\nAxLcRJrfFCZUrxKphhOmwzEeUp9NYxmSbGnCQ4Gk5WCjpr2T7F7Z1pL5JwkWf7Wy\nkOlJtQS8BM+0I8cIu2YC9tAZwjamdoqKxNBSIiv+oQTKLS9C3ONNLdkKlESrXueW\nh9gzqdNAsUcTQYeQaEomqtSbar3SqP47GtGyol7/OiKeb6Bp0TvKTx7l3SdZjVXW\nUGEeYCPlPBQ0lOnAgwU92KtZhTU/j8Em6yVrTmK5wGe33EywKxFxMPjVBSpXnUD6\nO9FJoyzQGnXdrZA8m+OFMcV+Z8oGMwak5K6iRaltQBg=\n=GO+K\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f87464e022046c9d61384c2593edf9753ed34749\ntype commit\ntag 19.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1570735817 +0000\n\nglance 19.0.0.0rc2 release candidate\n\nmeta:version: 19.0.0.0rc2\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Commit: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Change-Id: Ie20dc59c32978c2fa0d9717088cab0b93a0e3fc3\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

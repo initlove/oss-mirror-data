@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjk0ODU3MTY6NTI3YmUzYWExNDdmOTViZTU4YzFhMWM5MTk2YzU4Mzk1ZjU3ZGRmNg==",
+  "sha": "527be3aa147f95be58c1a1c9196c58395f57ddf6",
+  "url": "https://api.github.com/repos/openstack/oslo.policy/git/tags/527be3aa147f95be58c1a1c9196c58395f57ddf6",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-11-27T16:14:03Z"
+  },
+  "object": {
+    "sha": "a10275772627caad4c4fa66effa26ecd2a6ecd7b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.policy/git/commits/a10275772627caad4c4fa66effa26ecd2a6ecd7b"
+  },
+  "tag": "1.41.1",
+  "message": "oslo.policy 1.41.1 release\n\nmeta:version: 1.41.1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Juan Antonio Osorio Robles <jaosorior@redhat.com>\nmeta:release:Commit: Juan Antonio Osorio Robles <jaosorior@redhat.com>\nmeta:release:Change-Id: Ib03c4050d6ac78fd06cf4d0949c84e87da22ebc1\nmeta:release:Code-Review+1: Javier Peña <jpena@redhat.com>\nmeta:release:Code-Review+1: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Moisés Guimarães de Medeiros <moguimar@redhat.com>\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJb/W1LAAoJEBpUEUgFTp44kIgL/iegVcdHI8G6pjS1fE2MpAaW\nH968gPuPZxToKcOh3uDRKTBZLeSMNnk+R2DhYk6JNhqTGsIagZ3TYsOT34SEqHgb\n9a1ppu1+rASTe76JwLtGE8tC28WDGnRm58RknoVWkDpYOdjrrXdC7hTvFWKDuvyB\n920UenaMA8joCW7/nHnX0TU+GhRuBx1fIwZmQBWKd9A33/jP0xgQusYbzmdAE2Pi\nCeTrhl4lkYtXoB3wZjYj8L5lHFAerCpYCWD/2WR81z53XnuOm1OPjsSLOT60q09t\nijtzpJRNn6HvVECG0eC5IunejERxneTwAVvsrrvH6cja8aGtH58DYoi05pJobZn3\n8EBCnHone7rriHgd7UvMSYL/YCXNjUWH1/Qi0GXF9PMW+Eww8BrZ8j1bCvxKC65c\ny95Nxw5lJhdV63nsbVjHQ83hAGvSC6XLlEHAHeV8GLThv/etIV7KXTYPto9c+VR4\nIUUR6qKY3rujwSW/gXXqsPOSrulCdrShiIrNB3tNJA==\n=izIk\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJb/W1LAAoJEBpUEUgFTp44kIgL/iegVcdHI8G6pjS1fE2MpAaW\nH968gPuPZxToKcOh3uDRKTBZLeSMNnk+R2DhYk6JNhqTGsIagZ3TYsOT34SEqHgb\n9a1ppu1+rASTe76JwLtGE8tC28WDGnRm58RknoVWkDpYOdjrrXdC7hTvFWKDuvyB\n920UenaMA8joCW7/nHnX0TU+GhRuBx1fIwZmQBWKd9A33/jP0xgQusYbzmdAE2Pi\nCeTrhl4lkYtXoB3wZjYj8L5lHFAerCpYCWD/2WR81z53XnuOm1OPjsSLOT60q09t\nijtzpJRNn6HvVECG0eC5IunejERxneTwAVvsrrvH6cja8aGtH58DYoi05pJobZn3\n8EBCnHone7rriHgd7UvMSYL/YCXNjUWH1/Qi0GXF9PMW+Eww8BrZ8j1bCvxKC65c\ny95Nxw5lJhdV63nsbVjHQ83hAGvSC6XLlEHAHeV8GLThv/etIV7KXTYPto9c+VR4\nIUUR6qKY3rujwSW/gXXqsPOSrulCdrShiIrNB3tNJA==\n=izIk\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a10275772627caad4c4fa66effa26ecd2a6ecd7b\ntype commit\ntag 1.41.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1543335243 +0000\n\noslo.policy 1.41.1 release\n\nmeta:version: 1.41.1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Juan Antonio Osorio Robles <jaosorior@redhat.com>\nmeta:release:Commit: Juan Antonio Osorio Robles <jaosorior@redhat.com>\nmeta:release:Change-Id: Ib03c4050d6ac78fd06cf4d0949c84e87da22ebc1\nmeta:release:Code-Review+1: Javier Peña <jpena@redhat.com>\nmeta:release:Code-Review+1: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Moisés Guimarães de Medeiros <moguimar@redhat.com>\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

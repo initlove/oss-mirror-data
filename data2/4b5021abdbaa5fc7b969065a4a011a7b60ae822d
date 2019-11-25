@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY3NDQ1OTo0YjUwMjFhYmRiYWE1ZmM3Yjk2OTA2NWE0YTAxMWE3YjYwYWU4MjJk",
+  "sha": "4b5021abdbaa5fc7b969065a4a011a7b60ae822d",
+  "url": "https://api.github.com/repos/igorescobar/jQuery-Mask-Plugin/git/tags/4b5021abdbaa5fc7b969065a4a011a7b60ae822d",
+  "tagger": {
+    "name": "Igor Escobar",
+    "email": "blog@igorescobar.com",
+    "date": "2013-08-17T00:27:40Z"
+  },
+  "object": {
+    "sha": "800ecd69e87548fca9a1c919ab5c7846caf7f000",
+    "type": "commit",
+    "url": "https://api.github.com/repos/igorescobar/jQuery-Mask-Plugin/git/commits/800ecd69e87548fca9a1c919ab5c7846caf7f000"
+  },
+  "tag": "v0.11.0",
+  "message": "Bugfixes:\n\n  - Altered \"ignored keys\" hook to run events (i.e. onKeyPress) afterwards. Otherwise, we miss key triggered events when the user deletes the entire text box, etc.\n\nFeatures:\n\n  - adding support to method getCleanVal\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

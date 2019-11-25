@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDo0ZDYyMWEwYjNlMDA5OTE5MDIxOTlhZDQ5NjFlMWMxNTBiMTdlM2M4",
+  "sha": "4d621a0b3e00991902199ad4961e1c150b17e3c8",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/4d621a0b3e00991902199ad4961e1c150b17e3c8",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2014-11-25T09:49:04Z"
+  },
+  "object": {
+    "sha": "1478ebb4668ed1b02d1515c9e10e8b79ca8ff82a",
+    "type": "tag",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/1478ebb4668ed1b02d1515c9e10e8b79ca8ff82a"
+  },
+  "tag": "librepo-1.7.5",
+  "message": "v1.7.5\n- accepts unicoded destination as UTF-8 string (Related: RhBug:1108908)\n- downloader: Do not print debug message about preparing internal mirror list\n  if no internal mirror is available\n- fastestmirror: subtract name lookup (dns) time from plain connect time\n- fastestmirror: Small refactoring\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

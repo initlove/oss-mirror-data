@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI5ODI1MTI1OjI0NGFjN2I3MDY3ZDQ2ZWJmNmIyNDdjOWU3ZjZiMDAyMDFiNzRjZTM=",
+  "sha": "244ac7b7067d46ebf6b247c9e7f6b00201b74ce3",
+  "url": "https://api.github.com/repos/projectcalico/node/git/tags/244ac7b7067d46ebf6b247c9e7f6b00201b74ce3",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2019-05-08T19:50:00Z"
+  },
+  "object": {
+    "sha": "8ed6333006e4b04a744398c6eca9fde31e08b6d8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/node/git/commits/8ed6333006e4b04a744398c6eca9fde31e08b6d8"
+  },
+  "tag": "v3.7.2",
+  "message": "- 28938f8c0f8b8f027463e66c60b185e360c43b42 Pin version of calicoctl in STs\n- 946ab98360e86b25dabe0c9c7339a650cc853471 Install backported iproute2, needed for BPF.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

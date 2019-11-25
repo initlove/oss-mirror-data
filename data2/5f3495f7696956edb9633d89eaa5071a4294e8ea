@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkyMTcwNTQ6NWYzNDk1Zjc2OTY5NTZlZGI5NjMzZDg5ZWFhNTA3MWE0Mjk0ZThlYQ==",
+  "sha": "5f3495f7696956edb9633d89eaa5071a4294e8ea",
+  "url": "https://api.github.com/repos/micro/go-micro/git/tags/5f3495f7696956edb9633d89eaa5071a4294e8ea",
+  "tagger": {
+    "name": "Asim Aslam",
+    "email": "asim@chuhnk.me",
+    "date": "2018-06-09T07:03:30Z"
+  },
+  "object": {
+    "sha": "5372707d0ec1ebd736bec36818ddb2e700606589",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micro/go-micro/git/commits/5372707d0ec1ebd736bec36818ddb2e700606589"
+  },
+  "tag": "v0.9.0",
+  "message": "- Reset server address on shutdown\n- Set default pool size to 1\n- Support reinitialising connection pool\n- Set retries to 1 by default\n- Return error for subscribers\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

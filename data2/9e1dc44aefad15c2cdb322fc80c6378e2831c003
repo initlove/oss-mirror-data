@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDQ6OWUxZGM0NGFlZmFkMTVjMmNkYjMyMmZjODBjNjM3OGUyODMxYzAwMw==",
+  "sha": "9e1dc44aefad15c2cdb322fc80c6378e2831c003",
+  "url": "https://api.github.com/repos/openstack/python-ironicclient/git/tags/9e1dc44aefad15c2cdb322fc80c6378e2831c003",
+  "tagger": {
+    "name": "Devananda van der Veen",
+    "email": "devananda.vdv@gmail.com",
+    "date": "2014-10-14T22:23:13Z"
+  },
+  "object": {
+    "sha": "e611ae5f206d846e72684ba16c345653232c45c3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironicclient/git/commits/e611ae5f206d846e72684ba16c345653232c45c3"
+  },
+  "tag": "0.3.1",
+  "message": "Release 0.3.1\n\n- Accept \"uuid\" parameter to node.create()\n- Add default values to CLI help strings\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlQ9osIACgkQhFvuBniJg6cGvgCeLyTqzppWV7RpSS+mUwCotJrl\ncAEAoK/trmjZ9KLmFWMofC2lHG6C9xoh\n=beX2\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlQ9osIACgkQhFvuBniJg6cGvgCeLyTqzppWV7RpSS+mUwCotJrl\ncAEAoK/trmjZ9KLmFWMofC2lHG6C9xoh\n=beX2\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e611ae5f206d846e72684ba16c345653232c45c3\ntype commit\ntag 0.3.1\ntagger Devananda van der Veen <devananda.vdv@gmail.com> 1413325393 -0700\n\nRelease 0.3.1\n\n- Accept \"uuid\" parameter to node.create()\n- Add default values to CLI help strings\n"
+  }
+}

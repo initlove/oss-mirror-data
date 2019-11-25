@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNDo5NGQ5NDcyNmZjNDBmNGYxMTFjZDc1MjRmN2FlNTU0YjYxODUzMGNl",
+  "sha": "94d94726fc40f4f111cd7524f7ae554b618530ce",
+  "url": "https://api.github.com/repos/openstack/heat/git/tags/94d94726fc40f4f111cd7524f7ae554b618530ce",
+  "tagger": {
+    "name": "Zane Bitter",
+    "email": "zbitter@redhat.com",
+    "date": "2012-10-23T09:46:14Z"
+  },
+  "object": {
+    "sha": "05a39ef93f32ca79d09c419b5132cef12a349060",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/heat/git/commits/05a39ef93f32ca79d09c419b5132cef12a349060"
+  },
+  "tag": "v7.release",
+  "message": "Good news, everyone!\nThe Heat developers are pleased to announce a new version (v7) of Heat.\n\nYou may remember Heat as the project that allows you to launch AWS CloudFormation templates on OpenStack. If you're not already familiar with it, CloudFormation is a programmable interface and templating system for orchestrating multiple cloud applications.\n\nThis version adds an OpenStack-native ReST API, so you'll never need to deal with RPC again. But rest assured (uh, no pun intended) that we intend to continue to maintain and support the existing CloudFormation-compatible API indefinitely.\n\nDownload Heat:\n\nhttps://github.com/heat-api/heat/downloads\n\nTry it out on Fedora 17:\n\nhttps://github.com/heat-api/heat/blob/master/docs/GettingStarted.rst#readme\n\nOr Ubuntu 12.04:\n\nhttps://github.com/heat-api/heat/wiki/Getting-Started-with-Heat-using-Master-on-Ubuntu\n\nWhat's new in version 7:\n\n* An OpenStack-native ReST API\n  - A platform for future innovation, unique to OpenStack.\n  - Currently, support is limited to stack operations - support for Resources and Events is coming soon\n  - Documentation at https://github.com/heat-api/heat/blob/master/docs/api.md#readme\n\n* CloudWatch-compatible Metric Collection\n  - Running instances now report their metrics via Heat's CloudWatch-compatible API\n  - Metric collection is now secure (authenticated/signed)\n\n* Fixes for integration with the Folsom versions of Keystone and Glance\n\n* A CLI option for fetching templates from Swift\n\n* Unit tests\n  - More! Better! Faster!\n\n* heat-keystone-setup handles upgrades\n\n* Numerous bug fixes and enhancements\n\nUpgrade Notes:\n\nNote that the implementation of cfn-push-stats has changed in this version, so you will need to rebuild your JEOS images using the latest version of heat-jeos. Prebuilt images will be available as soon as we find somebody with write access to that repo.\n\nAlso note that if you wish to use the features of the CloudWatch-compatible API (this means any templates that use HA or Autoscaling), you will need a firewall rule to allow instances access to that API (previously only access to heat-metadata was required). See the Getting Started guide for details.\n\nKeystone endpoints have also changed, so if you are upgrading from an existing version of heat, be sure to re-run the bin/heat-keystone-setup script.\n\nGet involved:\n\nHeat Website - http://heat-api.org/\nGitHub - https://github.com/heat-api/heat#readme\nJoin us on IRC - #heat on FreeNode\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

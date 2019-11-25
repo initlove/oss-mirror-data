@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTAxMjA4NToxOTFjYmFiZjIwMTEyMmRmYTFlOGI4MWFiNmQzY2Q0MzdjZTMyNDcx",
+  "sha": "191cbabf201122dfa1e8b81ab6d3cd437ce32471",
+  "url": "https://api.github.com/repos/Netflix/netflix-commons/git/tags/191cbabf201122dfa1e8b81ab6d3cd437ce32471",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-12-03T21:44:58Z"
+  },
+  "object": {
+    "sha": "63f90677be1a4b0264e3639dd234d10d0a102264",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/netflix-commons/git/commits/63f90677be1a4b0264e3639dd234d10d0a102264"
+  },
+  "tag": "v0.3.0",
+  "message": "Release of 0.3.0\n\n- 63f90677be1a4b0264e3639dd234d10d0a102264: Merge pull request #20 from pstout/pds-concurrent-uuid-factory\n- 7b4a6b187e7910c101e4e0053c75291f7b08f11c: Correct copyright year.\n- 0cdfb59830d7050cfd86d04bbe90aa0fb254f2b6: Convert Uuid to UUID in class names as request in PR comment.\n- 31770b6fbb1827b9ecdb7b67b60da54f14cd7e27: Add UuidFactory interface and concurrent implementation that avoid thread contention.\n- 10d09b7fd6ea8bbd63a19ffba5c9852f95ee16c6: Revert \"Add our ThreadLocalUUID implementation from Chukwa so we can re-use it\"\n- 69d4703147939e665822492364991c714dc40733: Revert \"Add license boilerplate to new classes\"\n- c53d114045f21d5eeea8e7b6e07fc5da4078ecb7: Add license boilerplate to new classes\n- dd668ea3359acdbf2c68d1d6fadb8e5f37b74b70: Add our ThreadLocalUUID implementation from Chukwa so we can re-use it\n- e59d41924ef5cf03f078cf6a6b0dca4274f0a9bb: Merge pull request #18 from jkschneider/jsr305\n- ef3173ddc258b7fe70a485aa2cb9417f6c5d58b7: Replace com.google.code.findbugs:annotations with jsr305\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

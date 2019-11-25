@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTMzNDgzMDM6MjA2ODYxYjNhYjVkOTIzNGNhYjFhZDhjNDM3N2M1NDI4ZTA5ZjgxNw==",
+  "sha": "206861b3ab5d9234cab1ad8c4377c5428e09f817",
+  "url": "https://api.github.com/repos/openstack/python-saharaclient/git/tags/206861b3ab5d9234cab1ad8c4377c5428e09f817",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-13T15:02:10Z"
+  },
+  "object": {
+    "sha": "3107b452467537f4eef3d9ecfb5e35d110d19662",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-saharaclient/git/commits/3107b452467537f4eef3d9ecfb5e35d110d19662"
+  },
+  "tag": "2.3.0",
+  "message": "python-saharaclient 2.3.0 release\n\nmeta:version: 2.3.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Change-Id: I4239c4f94cc3c0396a81d7e7de3a2ef9f3465926\nmeta:release:Code-Review+1: Jeremy Freudberg <jeremyfreudberg@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl17r3IZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2DWsC/9YtWrOSEo8oTa32J0jnWVe\npq5N3CPfC+sxWf83DNkVeBjrQLKG3pYCBayrJaVyY4rA8OLAtz8QhDymOJv0/Rkc\n7FDal+lvvdg+16mpkWc1h275fRREVmtX2CXESbtqbPLn6p0B21yxDLpVM44zGToq\n/YUP808y+L9SpjwMEB4dB2EeBuc7BN0caI76Y6fKAh+cNQkqOI2RGH35VQi947/J\nHJSkoK3Blj3X5R8AQoyytKOic+oSPkVG6RRXOwNJnsXvz1z7Yn2sj8dn1QcBIaUr\nWgxXZ2ceR4uxuFTRL9rczxTIeVK0cKndzCVHGIQBEe9/uBhEnE/i/rHswv3k7jVp\nD9DY/USDbCvB+bENecf0aMVPHGASF4z11ROFheKhGUgRAh5feRPtF+BnqUKpmYGA\n9jwS40bg4prayKy5x4+cqqNVzbk0AiNIzG0/G1vENAzZsvOTcAdEwY+Rh/hP9F+n\nI0ra+6048Hn3dM4wiX6oM0j3WoRaPRp3VFrfQMLPbjg=\n=urx0\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl17r3IZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2DWsC/9YtWrOSEo8oTa32J0jnWVe\npq5N3CPfC+sxWf83DNkVeBjrQLKG3pYCBayrJaVyY4rA8OLAtz8QhDymOJv0/Rkc\n7FDal+lvvdg+16mpkWc1h275fRREVmtX2CXESbtqbPLn6p0B21yxDLpVM44zGToq\n/YUP808y+L9SpjwMEB4dB2EeBuc7BN0caI76Y6fKAh+cNQkqOI2RGH35VQi947/J\nHJSkoK3Blj3X5R8AQoyytKOic+oSPkVG6RRXOwNJnsXvz1z7Yn2sj8dn1QcBIaUr\nWgxXZ2ceR4uxuFTRL9rczxTIeVK0cKndzCVHGIQBEe9/uBhEnE/i/rHswv3k7jVp\nD9DY/USDbCvB+bENecf0aMVPHGASF4z11ROFheKhGUgRAh5feRPtF+BnqUKpmYGA\n9jwS40bg4prayKy5x4+cqqNVzbk0AiNIzG0/G1vENAzZsvOTcAdEwY+Rh/hP9F+n\nI0ra+6048Hn3dM4wiX6oM0j3WoRaPRp3VFrfQMLPbjg=\n=urx0\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3107b452467537f4eef3d9ecfb5e35d110d19662\ntype commit\ntag 2.3.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1568386930 +0000\n\npython-saharaclient 2.3.0 release\n\nmeta:version: 2.3.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Change-Id: I4239c4f94cc3c0396a81d7e7de3a2ef9f3465926\nmeta:release:Code-Review+1: Jeremy Freudberg <jeremyfreudberg@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

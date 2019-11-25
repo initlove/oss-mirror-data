@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY0MTU2MDg6NTU3N2VhYTk5MTI1MjRmNmM1MGM0YmIzODQ3MTYyOTMwNjZhNmE1ZA==",
+  "sha": "5577eaa9912524f6c50c4bb384716293066a6a5d",
+  "url": "https://api.github.com/repos/openstack/oslo.service/git/tags/5577eaa9912524f6c50c4bb384716293066a6a5d",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-07-10T20:09:49Z"
+  },
+  "object": {
+    "sha": "21de4a7c510ff0356c5c557d4c50bbc755052785",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.service/git/commits/21de4a7c510ff0356c5c557d4c50bbc755052785"
+  },
+  "tag": "1.24.1",
+  "message": "oslo.service 1.24.1 release\n\nmeta:version: 1.24.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: I7f5c51c16b586e1a0057613c380e5cdd7f920841\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZY98NAAoJEOtsyhSD+nTsMf0H/iFTqkK6KwGLYMAe9AJpR0do\nMicdEMh67leO9fyTl/Ng+aijTAzKcf+LEs7f+EBPh7NPg3ioZcuBKjflg/0V8TAq\ntBkzmW4/OUUWLb5DHWOGFIc9BrAgGXBtihsUuGCLhBpbActFuM7SXIXXiwWvv6TG\nEb/XeBTAlx5hg2F7/aKllzTeiw94tN9JujlfChvSPz0C/5dHjbh5iXrJqq+czdTD\nf8ETkD32HkbYeaZpUvjNQ06WJbmLYGTExrIn+z8hykkP/3mNmSdmICkZMW4DdH11\n5FqUIZio4fJvureiATwWvRincrh11AdztXqC4iX0E0WMrzWfxJbMx2P8WYUHjFs=\n=Xrxf\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZY98NAAoJEOtsyhSD+nTsMf0H/iFTqkK6KwGLYMAe9AJpR0do\nMicdEMh67leO9fyTl/Ng+aijTAzKcf+LEs7f+EBPh7NPg3ioZcuBKjflg/0V8TAq\ntBkzmW4/OUUWLb5DHWOGFIc9BrAgGXBtihsUuGCLhBpbActFuM7SXIXXiwWvv6TG\nEb/XeBTAlx5hg2F7/aKllzTeiw94tN9JujlfChvSPz0C/5dHjbh5iXrJqq+czdTD\nf8ETkD32HkbYeaZpUvjNQ06WJbmLYGTExrIn+z8hykkP/3mNmSdmICkZMW4DdH11\n5FqUIZio4fJvureiATwWvRincrh11AdztXqC4iX0E0WMrzWfxJbMx2P8WYUHjFs=\n=Xrxf\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 21de4a7c510ff0356c5c557d4c50bbc755052785\ntype commit\ntag 1.24.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1499717389 +0000\n\noslo.service 1.24.1 release\n\nmeta:version: 1.24.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: I7f5c51c16b586e1a0057613c380e5cdd7f920841\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

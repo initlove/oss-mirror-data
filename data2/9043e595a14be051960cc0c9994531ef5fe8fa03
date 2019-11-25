@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTM4NjgxOjkwNDNlNTk1YTE0YmUwNTE5NjBjYzBjOTk5NDUzMWVmNWZlOGZhMDM=",
+  "sha": "9043e595a14be051960cc0c9994531ef5fe8fa03",
+  "url": "https://api.github.com/repos/hierynomus/sshj/git/tags/9043e595a14be051960cc0c9994531ef5fe8fa03",
+  "tagger": {
+    "name": "Jeroen van Erp",
+    "email": "jeroen@hierynomus.com",
+    "date": "2016-12-30T08:28:31Z"
+  },
+  "object": {
+    "sha": "7d326e5ae44c1719d401e039d9bdf04d17b8a9e8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/hierynomus/sshj/git/commits/7d326e5ae44c1719d401e039d9bdf04d17b8a9e8"
+  },
+  "tag": "v0.19.1",
+  "message": "Release of 0.19.1\n\n- Updated example build\n- Updated Release notes\n- LocalPortForwarder interrupts its thread on close()\n- Disable version inference when no git history present (Fixes #256)\n- Use the configured Random factory in DH KEX (Fixes #292)\n- StreamCipher can use the constructor without random.\n- Added logging to trace time creation of Randoms\n- Added 'classes' directory to ignore\n- Prepared release notes\n- Enabled PKCS5 in DefaultConfig\n- Merge pull request #291 from joval/master\n- Obtain the sshj.properties resource from the ClassLoader that loaded the DefaultConfig class, not from the context classloader.\n- Use cause message when initializing an SSHRuntimeException from a Throwable.\n- Merge pull request #284 from gatesking/patch-1\n- Catch interrupt signal in keepalive thread\n- Update README.adoc\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTowNTk0NDFiMTE4YzQ0MzEyY2I3ODJiNDUwZDM5YjJiZjQzZWM2ZWI0",
+  "sha": "059441b118c44312cb782b450d39b2bf43ec6eb4",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/059441b118c44312cb782b450d39b2bf43ec6eb4",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-02-24T21:17:10Z"
+  },
+  "object": {
+    "sha": "46968f2c0b89b7c7c9d8659514ff071b498dfab4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/46968f2c0b89b7c7c9d8659514ff071b498dfab4"
+  },
+  "tag": "v1.4.2",
+  "message": "Release of 1.4.2\n\n- 46968f2c0b89b7c7c9d8659514ff071b498dfab4: Merge pull request #752 from spencergibb/eureka-url-default-port\n- f5627f4d74341a72b654f7569383f299dcfa5212: Only append port to serviceUrl if port >= 0\n- b373dc59ef45ffbbd5d756dfbd350896b7f36f56: Merge pull request #751 from spencergibb/config-cluster-resolver-https\n- 400149478476a48779f47de5bfc790f35f9e7fe0: Use getScheme() to compare against https.\n- 4533935b66e7740c5efc92f199a619f1b7280d4b: Merge pull request #744 from tbak/master\n- 53c225bcc5b7379e4554e02f3accea01a0831203: Merge pull request #749 from elandau/master\n- efacc02d0bcefeaddcc4b48770d1b424784ce591: more cleanup based on PR comments\n- bd2e63e9acb1d9d8766861ca6d43412f664c5efd: Update based on PR comments\n- 9f6b89c56e092864124a44668e2357430bdc1002: Cleanup from manual merge\n- 927264423de69c9017957e7ae4ea4e15ffa0c0b5: Merge branch 'master' of https://github.com/Netflix/eureka\n- 51a90f7ea32af6d6f6f40dba71c35013636f97be: Expose EurekaClient events via a new EurekaEventListener API.\n- f8e1b19a737d93652697285e7c6534cacfc1ae78: Fix for issue #702 (handle charset provided in Content-Type header) This PR (compared to the previouse, undone one #739) checks for entity types and is applied only to eureka specific data structures.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

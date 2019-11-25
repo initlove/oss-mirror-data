@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDE3MDMxMDo5ZmVmNWE5MTM1ZWU4ODgwNzE5M2RiMmIxZTk1MjRiYWY5YzY2OGQx",
+  "sha": "9fef5a9135ee88807193db2b1e9524baf9c668d1",
+  "url": "https://api.github.com/repos/openstack/python-openstackclient/git/tags/9fef5a9135ee88807193db2b1e9524baf9c668d1",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-12-13T21:33:30Z"
+  },
+  "object": {
+    "sha": "8c5f7555698491c3a0b44fe6c3fee50d0189f2d6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-openstackclient/git/commits/8c5f7555698491c3a0b44fe6c3fee50d0189f2d6"
+  },
+  "tag": "3.13.0",
+  "message": "python-openstackclient 3.13.0 release\n\nmeta:version: 3.13.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Commit: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Change-Id: Ie666a55e3dcebe7b4486977a35989f3d41ef72ef\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaMZyqAAoJEEIeZHKBH5qBAecH/iZ1S4NhLgHHml1vu7nfOMZf\nzb3Vb/o4y8LhnirrqxVD3SoizTt/JkOePbyt9OElZNmvt9m/CzxbFDQnJGemxxMx\nyhgV7PFkJBhH9fYYSmjgoHgnnubCLh4iVL2wjdMr75dEDOABP3+v3AtuFicIS+pq\nvOWkE9bfX5zAGLdyHkvclaIriry7FP6K4qsEbTlB1KmcuJxR2imhwq0LM2xjS6Do\nODJgNCphoR8yl63Y1YGPbAw2tmKqXdy734cB1GmdsbbGVzvJtpVfo553C7sPxYxW\n3qf/Y4+9OUbj47bNiC74ThH3D+aXVecekJlOfQg1ZjwfBKsyEGyAsJK/tMVn70c=\n=tCES\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaMZyqAAoJEEIeZHKBH5qBAecH/iZ1S4NhLgHHml1vu7nfOMZf\nzb3Vb/o4y8LhnirrqxVD3SoizTt/JkOePbyt9OElZNmvt9m/CzxbFDQnJGemxxMx\nyhgV7PFkJBhH9fYYSmjgoHgnnubCLh4iVL2wjdMr75dEDOABP3+v3AtuFicIS+pq\nvOWkE9bfX5zAGLdyHkvclaIriry7FP6K4qsEbTlB1KmcuJxR2imhwq0LM2xjS6Do\nODJgNCphoR8yl63Y1YGPbAw2tmKqXdy734cB1GmdsbbGVzvJtpVfo553C7sPxYxW\n3qf/Y4+9OUbj47bNiC74ThH3D+aXVecekJlOfQg1ZjwfBKsyEGyAsJK/tMVn70c=\n=tCES\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8c5f7555698491c3a0b44fe6c3fee50d0189f2d6\ntype commit\ntag 3.13.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1513200810 +0000\n\npython-openstackclient 3.13.0 release\n\nmeta:version: 3.13.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Commit: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Change-Id: Ie666a55e3dcebe7b4486977a35989f3d41ef72ef\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

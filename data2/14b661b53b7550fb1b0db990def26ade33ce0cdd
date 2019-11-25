@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzc2MDI0NTc6MTRiNjYxYjUzYjc1NTBmYjFiMGRiOTkwZGVmMjZhZGUzM2NlMGNkZA==",
+  "sha": "14b661b53b7550fb1b0db990def26ade33ce0cdd",
+  "url": "https://api.github.com/repos/openstack/python-ironic-inspector-client/git/tags/14b661b53b7550fb1b0db990def26ade33ce0cdd",
+  "tagger": {
+    "name": "Dmitry Tantsur",
+    "email": "dtantsur@redhat.com",
+    "date": "2015-06-18T12:08:45Z"
+  },
+  "object": {
+    "sha": "adf7ff4883108953c39cf431631e8321e8c4be8d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironic-inspector-client/git/commits/adf7ff4883108953c39cf431631e8321e8c4be8d"
+  },
+  "tag": "1.0.1",
+  "message": "Release 1.0.1\n\n* Update tox.ini to match OpenStack standards\n* Add explicit dependency on pbr\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABCgAGBQJVgrTmAAoJEEWNiBRQeS6oMKUH/06oZ8Ez+wv1ueJz3tDVfDkR\nLdSnBFJ4KSl1kJCsD6nWJ5rB/GzjsAwIY24JIhZE8HMi3w0+UYNzGCTLXrrDx8dm\nLgxJ857nty45lXsO09GQZwHREmXO7u6LECUDBaJ82HAZ+q5Ee/gsj4BmZbd8tMJl\nGCcDrRu6v7kXiMJtR0PCTkAcKclJxIn5KktfF8eZoUmDC5z1wBct1fQ6yjgxOnmp\nRq1yY8ybP80dVDhfmu8zRimenwSyKFSC8lye+eLGfYrBJV1jqa6PM3mHlLzKgagI\nhCIANAocH33Oau6y7qxvGJg2Ah4CCu20Yevp9SK5qZv7521B/XUMmY5E5iViXDY=\n=QWIS\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABCgAGBQJVgrTmAAoJEEWNiBRQeS6oMKUH/06oZ8Ez+wv1ueJz3tDVfDkR\nLdSnBFJ4KSl1kJCsD6nWJ5rB/GzjsAwIY24JIhZE8HMi3w0+UYNzGCTLXrrDx8dm\nLgxJ857nty45lXsO09GQZwHREmXO7u6LECUDBaJ82HAZ+q5Ee/gsj4BmZbd8tMJl\nGCcDrRu6v7kXiMJtR0PCTkAcKclJxIn5KktfF8eZoUmDC5z1wBct1fQ6yjgxOnmp\nRq1yY8ybP80dVDhfmu8zRimenwSyKFSC8lye+eLGfYrBJV1jqa6PM3mHlLzKgagI\nhCIANAocH33Oau6y7qxvGJg2Ah4CCu20Yevp9SK5qZv7521B/XUMmY5E5iViXDY=\n=QWIS\n-----END PGP SIGNATURE-----\n",
+    "payload": "object adf7ff4883108953c39cf431631e8321e8c4be8d\ntype commit\ntag 1.0.1\ntagger Dmitry Tantsur <dtantsur@redhat.com> 1434629325 +0200\n\nRelease 1.0.1\n\n* Update tox.ini to match OpenStack standards\n* Add explicit dependency on pbr\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ5MDk2ODQ6MjE4OGFmY2I5OWUwZDBiNGU4NmNlMjAzZGI1MzU1OTcxMmVmZTE0MQ==",
+  "sha": "2188afcb99e0d0b4e86ce203db53559712efe141",
+  "url": "https://api.github.com/repos/openstack/tooz/git/tags/2188afcb99e0d0b4e86ce203db53559712efe141",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-02-22T17:10:26Z"
+  },
+  "object": {
+    "sha": "50af9183407fe945ce06ced105abfcfb4c10970e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/tooz/git/commits/50af9183407fe945ce06ced105abfcfb4c10970e"
+  },
+  "tag": "1.32.0",
+  "message": "tooz 1.32.0 release\n\nmeta:version: 1.32.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWy0ECAAoJEDttBqDEKEN6q/sH/RJj9t9GxaP/xzEbVroM5VB1\nQNLjJ01drAU6ax7iD1AzuXwreHESbMP0z7HIQ5j2gEvSzhl/0JZJbHQCxjngM7vz\nNUfLYlyBo5GxafumtvSt+bcopW/6UFl8++KyBS3SMHogyALeIzhlUHZ2i+kdlj2F\nB2a5Dl8NU4+hvTxGrnSwWnoYa4PFuwemeXFGlyGQebbNlVLUfy6+5KnlYjY0AgKP\nyp9N82cEw1CyQdj3gwXSLyqxX5Pwr3FEVRZ+EiT//iuaRPEjx3idkmxMWXLrorms\n6Oe0wmBv+CQLuz68C03HgtzB23m3yUu3cgZfHCuT8+Il6tcIaHdsTffMvh503iI=\n=2haA\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWy0ECAAoJEDttBqDEKEN6q/sH/RJj9t9GxaP/xzEbVroM5VB1\nQNLjJ01drAU6ax7iD1AzuXwreHESbMP0z7HIQ5j2gEvSzhl/0JZJbHQCxjngM7vz\nNUfLYlyBo5GxafumtvSt+bcopW/6UFl8++KyBS3SMHogyALeIzhlUHZ2i+kdlj2F\nB2a5Dl8NU4+hvTxGrnSwWnoYa4PFuwemeXFGlyGQebbNlVLUfy6+5KnlYjY0AgKP\nyp9N82cEw1CyQdj3gwXSLyqxX5Pwr3FEVRZ+EiT//iuaRPEjx3idkmxMWXLrorms\n6Oe0wmBv+CQLuz68C03HgtzB23m3yUu3cgZfHCuT8+Il6tcIaHdsTffMvh503iI=\n=2haA\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 50af9183407fe945ce06ced105abfcfb4c10970e\ntype commit\ntag 1.32.0\ntagger Doug Hellmann <doug@doughellmann.com> 1456161026 -0500\n\ntooz 1.32.0 release\n\nmeta:version: 1.32.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\n"
+  }
+}

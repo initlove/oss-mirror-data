@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOjU2NWM0NTEzZmE2NjU2M2YxNDcyMDM3ZmI0NjgwYWVkOGYwNWZmMTM=",
+  "sha": "565c4513fa66563f1472037fb4680aed8f05ff13",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/565c4513fa66563f1472037fb4680aed8f05ff13",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2017-07-30T00:20:29Z"
+  },
+  "object": {
+    "sha": "9c964c2acfe154e88937ae246d6e7bbd1811540e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/9c964c2acfe154e88937ae246d6e7bbd1811540e"
+  },
+  "tag": "5.0.0-beta9",
+  "message": "Version 5.0.0-beta9\n\nThis closes all known bugs!\n\n- [all] `SerialPort.list` now has more consistent output across all platforms.\n- [all] Add promise support to serialport-repl\n- [all] Add write recording capabilities to the mock bindings\n- [all] calls to `.drain` now queue behind port open and in progress writes reported by and with lots of testing help from @tuna-f1sh\n- [all] Change the default high water mark to 64k to match `fs.ReadStream`\n- [all] fix(package): update bindings to version 1.3.0\n- [all] SerialPort can now be compressed with `uglify-es` thanks to @rwaldron\n- [docs] fixed a typo thanks to @amilajack\n- [linux] `SerialPort.list` is now faster and less resource intensive thanks to @akaJes!\n- [osx] `SerialPort.list` now returns the `tty` instead of the `cu` thanks to @@kishinmanglani\n- [unix] fix a bug when poller errors would be unhandled thanks to @thiago-sylvain for reporting\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

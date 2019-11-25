@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQxMzIxOTI6ODE1MzAzZDYxYWI1ZjU4OWJhMDRhZTNmM2ZkNDVjZGM4MGM0NTE0OQ==",
+  "sha": "815303d61ab5f589ba04ae3f3fd45cdc80c45149",
+  "url": "https://api.github.com/repos/pkg/sftp/git/tags/815303d61ab5f589ba04ae3f3fd45cdc80c45149",
+  "tagger": {
+    "name": "John Eikenberry",
+    "email": "jae@zhar.net",
+    "date": "2018-02-06T22:06:33Z"
+  },
+  "object": {
+    "sha": "0159c83e42a88e5c35180f73b84298a6bdde1ec1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pkg/sftp/git/commits/0159c83e42a88e5c35180f73b84298a6bdde1ec1"
+  },
+  "tag": "1.4.0",
+  "message": "New context.Context in Request server\n\nAdded context.Context support for the Request server.\nRemove unnecessary gcc special cases.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlp6J2gACgkQPZqeWROp\nRaLMRQf8CsG2K+m/6aUIpR2oi4Fsf7W94tkmi+r8rnNPpGCUhAljB85P8RE9+nzO\nlsumdqPs61J7NI+MkXidiCWOvPz4Jx6MXc0N/73mlSUXIaP9dJX/ym8lk/I4RNvR\nM0I+fsCXpqg2FSIsQ9pRd0g+lO58SB0FVqdlqVx8CuQBkcQFidL4HcewDx7lnb90\nOUWpqmdRF8l1TEqWn2ZiOumrGB9q2fuOXZGJSx0th0UQTJoHJTeRQ0lN7aCqFjaI\nD5vGR8hQTbxj0TlKcUJAwQ2NNFJXEoZWcipRsbzqiHGDKiC4LxYhiDwsUyidjAQ0\n0UNm8Yv+00hOaSfX0jIXHpRcMMv07g==\n=2ZGq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlp6J2gACgkQPZqeWROp\nRaLMRQf8CsG2K+m/6aUIpR2oi4Fsf7W94tkmi+r8rnNPpGCUhAljB85P8RE9+nzO\nlsumdqPs61J7NI+MkXidiCWOvPz4Jx6MXc0N/73mlSUXIaP9dJX/ym8lk/I4RNvR\nM0I+fsCXpqg2FSIsQ9pRd0g+lO58SB0FVqdlqVx8CuQBkcQFidL4HcewDx7lnb90\nOUWpqmdRF8l1TEqWn2ZiOumrGB9q2fuOXZGJSx0th0UQTJoHJTeRQ0lN7aCqFjaI\nD5vGR8hQTbxj0TlKcUJAwQ2NNFJXEoZWcipRsbzqiHGDKiC4LxYhiDwsUyidjAQ0\n0UNm8Yv+00hOaSfX0jIXHpRcMMv07g==\n=2ZGq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0159c83e42a88e5c35180f73b84298a6bdde1ec1\ntype commit\ntag 1.4.0\ntagger John Eikenberry <jae@zhar.net> 1517954793 -0800\n\nNew context.Context in Request server\n\nAdded context.Context support for the Request server.\nRemove unnecessary gcc special cases.\n"
+  }
+}

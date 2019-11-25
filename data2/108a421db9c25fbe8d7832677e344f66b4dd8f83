@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc4OTM3MDoxMDhhNDIxZGI5YzI1ZmJlOGQ3ODMyNjc3ZTM0NGY2NmI0ZGQ4Zjgz",
+  "sha": "108a421db9c25fbe8d7832677e344f66b4dd8f83",
+  "url": "https://api.github.com/repos/openstack/python-novaclient/git/tags/108a421db9c25fbe8d7832677e344f66b4dd8f83",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-06-13T10:25:32Z"
+  },
+  "object": {
+    "sha": "ef842ca0d834a52b1dfb1ae5155cbd4993a599a1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-novaclient/git/commits/ef842ca0d834a52b1dfb1ae5155cbd4993a599a1"
+  },
+  "tag": "13.0.1",
+  "message": "python-novaclient 13.0.1 release\n\nmeta:version: 13.0.1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Stephen Finucane <sfinucan@redhat.com>\nmeta:release:Commit: Stephen Finucane <sfinucan@redhat.com>\nmeta:release:Change-Id: I1fd7fd693a401e7a370ac5743981a185511d5cd1\nmeta:release:Code-Review+1: Eric Fried <openstack@fried.cc>\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0CJJwZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2LQJDACeNG7vmZRqaysahlzkyThX\nSqAXSNZkEjJ2wgORlyfzIxbo63U9qudgpcbjziIpSufet3mXlg6JAOak2YCKm8Ye\noPe+X7syx5I8PROYIRDmMYzdCOyjKpwQxHCensLLvkDBCRJ1xIWt9cIjNGlxX9i+\n4CIaoxrWClYJpf4obEQj79/tIXGq25SYBdAsgzzJkTw/1vTUQU+qrZcDGfAyoxbI\n9/ucNeohXcmcB3F1AnEgyUBp932MWiF1RIJVS4OrdB7sHYBe/3yJ2IKBzB1ciY80\nR6gtUZI4a8FvdK75LYvOR1/4OHILNsSYuej+aePoQXVrHs90X5/qpPKpSStwVFIX\npknNjD7orB2ZKeheSraEEn5dgfiHPIDC7n1aLmC0D9R8f4WWaqL3IuO/a80mv0Vk\nUOAxMElFPN8MqqFTREZy92JMbuSZo3nSjkuQVlwMHMkJyFs5vY+CB1MT69Pyo22/\nvtlZUDzQwYSLeF3/EoOWlt1+62t9g+69GQym7Cesd5c=\n=wbAT\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0CJJwZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2LQJDACeNG7vmZRqaysahlzkyThX\nSqAXSNZkEjJ2wgORlyfzIxbo63U9qudgpcbjziIpSufet3mXlg6JAOak2YCKm8Ye\noPe+X7syx5I8PROYIRDmMYzdCOyjKpwQxHCensLLvkDBCRJ1xIWt9cIjNGlxX9i+\n4CIaoxrWClYJpf4obEQj79/tIXGq25SYBdAsgzzJkTw/1vTUQU+qrZcDGfAyoxbI\n9/ucNeohXcmcB3F1AnEgyUBp932MWiF1RIJVS4OrdB7sHYBe/3yJ2IKBzB1ciY80\nR6gtUZI4a8FvdK75LYvOR1/4OHILNsSYuej+aePoQXVrHs90X5/qpPKpSStwVFIX\npknNjD7orB2ZKeheSraEEn5dgfiHPIDC7n1aLmC0D9R8f4WWaqL3IuO/a80mv0Vk\nUOAxMElFPN8MqqFTREZy92JMbuSZo3nSjkuQVlwMHMkJyFs5vY+CB1MT69Pyo22/\nvtlZUDzQwYSLeF3/EoOWlt1+62t9g+69GQym7Cesd5c=\n=wbAT\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ef842ca0d834a52b1dfb1ae5155cbd4993a599a1\ntype commit\ntag 13.0.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1560421532 +0000\n\npython-novaclient 13.0.1 release\n\nmeta:version: 13.0.1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Stephen Finucane <sfinucan@redhat.com>\nmeta:release:Commit: Stephen Finucane <sfinucan@redhat.com>\nmeta:release:Change-Id: I1fd7fd693a401e7a370ac5743981a185511d5cd1\nmeta:release:Code-Review+1: Eric Fried <openstack@fried.cc>\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

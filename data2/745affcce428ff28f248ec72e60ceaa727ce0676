@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc0ODk5ODI6NzQ1YWZmY2NlNDI4ZmYyOGYyNDhlYzcyZTYwY2VhYTcyN2NlMDY3Ng==",
+  "sha": "745affcce428ff28f248ec72e60ceaa727ce0676",
+  "url": "https://api.github.com/repos/openstack/neutron-vpnaas/git/tags/745affcce428ff28f248ec72e60ceaa727ce0676",
+  "tagger": {
+    "name": "Thierry Carrez",
+    "email": "thierry@openstack.org",
+    "date": "2016-03-25T15:18:44Z"
+  },
+  "object": {
+    "sha": "10a56ce65329724a460b133328e8c9e6d16706a4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-vpnaas/git/commits/10a56ce65329724a460b133328e8c9e6d16706a4"
+  },
+  "tag": "8.0.0.0rc2",
+  "message": "neutron-vpnaas 8.0.0.0rc2 release candidate\n\nmeta:version: 8.0.0.0rc2\nmeta:series: mitaka\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJW9VbUAAoJEFB6+JAlsQQjlNoP+gOE0znUkAABglBbeMwW6hgo\nhnNy64pnZpXP/B/5DNcpx+sqATsn/gq+Bh6VXm3aENDf3H8kOb2dtLPJMJ+fhKeP\nfIaeOynkrOliwcGDmfgjsK6EzrbUKGEXwSuKXzd+ZlsNGezf4xSUrIGpocCiuiX1\n//zeFvYs2Al1r9fQSDbfKhObo7GxysIk69STImvjH/JeMTlt/inn1KcYKYQIzH55\nhn75i+ynbLxHZyS5hekGFZC2gxjSVsa/S4jdNfUlj3nXLfFSpHem5tA1J7b4fs7A\nwu/+7z24FVH161aw02aoIiGk5KzEjYDUnxfX/0TONYon2MS/flIVtW653EHo1ZVU\n8y99+ZcU2CRCp0tO601eEPiVjhH+ipD6VBDPZfAPWfh9y5Mlaz5CAlDY5BW2xTbA\nLmKUC3p3oQiozNmsptYPaj57fPAjyD/RtqYEW9I5fbcasBp1cZ2c9J7E4FPHOjmU\nkavJdPl8c9rCtVcQDA/+vYQhVcP1Qf1Yz1r3PjuuVMZ4fP+KZSGBK5ZWrBeEvN00\nZoaHP6D2KWeI5IcNLDiUUKD0sMasT6Z2iKAShBhXnH0UXW8UC5sfD7lSOwRYT78V\nQA1YELTRNPozBdsL5Y7yZ90hq+4Dpto5BqYu0+3lItFV6rrvEnqbiS/KKLt1nHZi\nUZhF3YR09blNkHrkK8Ga\n=8kge\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJW9VbUAAoJEFB6+JAlsQQjlNoP+gOE0znUkAABglBbeMwW6hgo\nhnNy64pnZpXP/B/5DNcpx+sqATsn/gq+Bh6VXm3aENDf3H8kOb2dtLPJMJ+fhKeP\nfIaeOynkrOliwcGDmfgjsK6EzrbUKGEXwSuKXzd+ZlsNGezf4xSUrIGpocCiuiX1\n//zeFvYs2Al1r9fQSDbfKhObo7GxysIk69STImvjH/JeMTlt/inn1KcYKYQIzH55\nhn75i+ynbLxHZyS5hekGFZC2gxjSVsa/S4jdNfUlj3nXLfFSpHem5tA1J7b4fs7A\nwu/+7z24FVH161aw02aoIiGk5KzEjYDUnxfX/0TONYon2MS/flIVtW653EHo1ZVU\n8y99+ZcU2CRCp0tO601eEPiVjhH+ipD6VBDPZfAPWfh9y5Mlaz5CAlDY5BW2xTbA\nLmKUC3p3oQiozNmsptYPaj57fPAjyD/RtqYEW9I5fbcasBp1cZ2c9J7E4FPHOjmU\nkavJdPl8c9rCtVcQDA/+vYQhVcP1Qf1Yz1r3PjuuVMZ4fP+KZSGBK5ZWrBeEvN00\nZoaHP6D2KWeI5IcNLDiUUKD0sMasT6Z2iKAShBhXnH0UXW8UC5sfD7lSOwRYT78V\nQA1YELTRNPozBdsL5Y7yZ90hq+4Dpto5BqYu0+3lItFV6rrvEnqbiS/KKLt1nHZi\nUZhF3YR09blNkHrkK8Ga\n=8kge\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 10a56ce65329724a460b133328e8c9e6d16706a4\ntype commit\ntag 8.0.0.0rc2\ntagger Thierry Carrez <thierry@openstack.org> 1458919124 +0100\n\nneutron-vpnaas 8.0.0.0rc2 release candidate\n\nmeta:version: 8.0.0.0rc2\nmeta:series: mitaka\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n"
+  }
+}

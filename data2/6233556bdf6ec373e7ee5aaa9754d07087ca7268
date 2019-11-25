@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTo2MjMzNTU2YmRmNmVjMzczZTdlZTVhYWE5NzU0ZDA3MDg3Y2E3MjY4",
+  "sha": "6233556bdf6ec373e7ee5aaa9754d07087ca7268",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/6233556bdf6ec373e7ee5aaa9754d07087ca7268",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-02-09T20:45:43Z"
+  },
+  "object": {
+    "sha": "6d6f9602e0e9b16a41bbce6b46ce46ca26c71a4c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/6d6f9602e0e9b16a41bbce6b46ce46ca26c71a4c"
+  },
+  "tag": "v1.4.0-rc.1",
+  "message": "Release of 1.4.0-rc.1\n\n- 6d6f9602e0e9b16a41bbce6b46ce46ca26c71a4c: Merge pull request #743 from tbak/master\n- 0106164db406bd76550d6a7d92b877cb04e47308: Revert fix for issue #702 due to external dependencies on DiscoveryJerseyProvider\n- b837ce3b62cc812f46f1d8bd896e8a6a6d26dac4: Merge pull request #742 from qiangdavidliu/master\n- 605ea9a0919fd0dac2f579150c4bbb0ec90f1dfb: Fix async resolver to use daemon threads\n- 21e343901cdf27af20c7137b75fa410ab6d16ede: Merge pull request #741 from qiangdavidliu/1.x-code-cleanup\n- 01bd2a2047e7e31bc073675b3359c5752ea4cd26: move transport factory into jersey specific package\n- 0db6d8e9e3e66d4090c0964277d003586a35d829: Merge pull request #739 from tbak/master\n- badfc7bb939fd1a5db1ba63ef88f3d7392282228: Move legacy transport builder into legacy class\n- fa237dd9b2dff5d3f1ad47bc1a41bd68bf9e663b: Use XStream instead of Jackson for XML encoding to avoid CLASSPATH issues as jackson-dataformat-xml is a provided dependency We will get rid of XStream when doing bigger rewrite of eureka-client.\n- e63a5cded1cabb8b25d0a6e2b33cc2eb240a266a: do test clean up\n- 9b7755d9821e796e162ad000b2b4ba40de37ea90: removing fixme (fixed)\n- fb709f61b5caeb23155e4ea667aebba215826aae: removing extra whitespace\n- 85d2770ffd301e111fd8d95ee6c2cacf11412dbe: Removing old client transport in favour of the (no longer) experimental transport.\n- 76fe1a48b0fae54d805ecc2834b1b79b8d2a08fa: Check if servo monitor is registered prior to removing it (issue #704)\n- 0de0ceedc1960e7a3a173ad8d617f17bb88872a5: Fix for issue #702 (handle charset provided in Content-Type header)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

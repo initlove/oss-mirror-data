@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDo4MWUyMzM1MTE4YTU3NzcxOWUxMzI2OTg0MzQ2ZmYxNTdkYTFjZTI0",
+  "sha": "81e2335118a577719e1326984346ff157da1ce24",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/81e2335118a577719e1326984346ff157da1ce24",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2014-11-25T09:48:45Z"
+  },
+  "object": {
+    "sha": "07ed30d960bfb232ab2675ebef48472097aa3d6d",
+    "type": "tag",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/07ed30d960bfb232ab2675ebef48472097aa3d6d"
+  },
+  "tag": "librepo-1.7.3",
+  "message": "v1.7.3\n- Fix some issues which were found by coverity scan\n- Add missing support for Handle Mirror Failure Callback (hmfcb)\n  while downloading repomd.xml (related to RhBug: 1093014)\n- Add LRO_SSLVERIFYPEER and LRO_SSLVERIFYHOST options (RhBug: 1093014)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

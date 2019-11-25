@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MToxMGYwMDRkMzBkYWE4OGFjMjM4YjZiOWJhNjgwZWUzNjI1NjY4YjQ5",
+  "sha": "10f004d30daa88ac238b6b9ba680ee3625668b49",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/10f004d30daa88ac238b6b9ba680ee3625668b49",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-01-06T21:04:26Z"
+  },
+  "object": {
+    "sha": "ca35f289377538165203baad8de5ec6116be3c1b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/ca35f289377538165203baad8de5ec6116be3c1b"
+  },
+  "tag": "v1.3.7",
+  "message": "Release of 1.3.7\n\n- ca35f289377538165203baad8de5ec6116be3c1b: Merge pull request #729 from tbak/master\n- bc97ff2cb34f45e69a091cfb0171c26357287f3a: Revert https://github.com/Netflix/eureka/pull/724 due to compatibility issues with Jackson 2.6.x\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

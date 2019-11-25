@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2Nzo4ZmQxZjU2ZjBmM2U3MDgwN2ZiN2EwMTJiZWExMjM5Njc4NWFmY2Q5",
+  "sha": "8fd1f56f0f3e70807fb7a012bea12396785afcd9",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/8fd1f56f0f3e70807fb7a012bea12396785afcd9",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2015-04-07T10:36:09Z"
+  },
+  "object": {
+    "sha": "573ddd44e56e54244340b6874815845a09ab99d8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/573ddd44e56e54244340b6874815845a09ab99d8"
+  },
+  "tag": "6.1.1",
+  "message": "Released v6.1.1\n\n* No longer ignore dependencies which have been added to the standard library,\n  instead continue to install them.\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJVI7MlAAoJEG48vOkzctz654sQAKl7hXJMqfK1+vfViy1uaThM\nAfQ0m4GYlblUlvdkchuYa/0u70v5kbJ2Kv+6V2Nz04l81u/fb8fcOElFN4zr1FCo\naqSKvqw1uGseRqxJV6DVIchXJuOE1WOLj619jBhZL47YVrnnIjz1eA0ZswqcaXiH\nqzWF/8hWaxv4O50QSmNaLeCL52+n6FpCL3ohRETSAAxZ+nLEky5BveFi1zkxGZ+N\n8Jyxm0hGuhvVX0/YERt+OyFyvdgWm8koGGSEcBRchI/j3/FjdvQmJxDiRGBCb6GQ\nvqFILoRyMpfryCozlzNqaq8L7dZyxnOCvSMHsnVIB3R1+TJCtaT/QihooUhhtZVK\n4t5Ks/AhTMPG9gG1u7wEV1SZoEAcE2kFgKYBLgv8rfDWDAjwcEBugA8ptFk5sMoj\nd7xk6dV8xz8VEmAsIjHIsxQBIpKb3VSPjsuIotpcQYIDryYBjF+ZRqx3sy8Bwc/H\nAQ58+nwR/kIFp37WDrURQcr/ZFfLJ8ymsHt9OKBTfUiGfo5ZEqAFdLBexS4fCnJQ\nqf/3oLXSu1QJySnyzQl5Dt/9dA2oDtrdLwgMD37bf6cYBjf3be6beLb1AxdRP9gD\nF5587TRIAAhwMzZq1tWo8kjZvnWzjXWJfA5kuiXzcoJ/9ZQZKqA5LohnJwdbR37y\nKZ3WKmgGniUH+axhqmMh\n=I6DY\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJVI7MlAAoJEG48vOkzctz654sQAKl7hXJMqfK1+vfViy1uaThM\nAfQ0m4GYlblUlvdkchuYa/0u70v5kbJ2Kv+6V2Nz04l81u/fb8fcOElFN4zr1FCo\naqSKvqw1uGseRqxJV6DVIchXJuOE1WOLj619jBhZL47YVrnnIjz1eA0ZswqcaXiH\nqzWF/8hWaxv4O50QSmNaLeCL52+n6FpCL3ohRETSAAxZ+nLEky5BveFi1zkxGZ+N\n8Jyxm0hGuhvVX0/YERt+OyFyvdgWm8koGGSEcBRchI/j3/FjdvQmJxDiRGBCb6GQ\nvqFILoRyMpfryCozlzNqaq8L7dZyxnOCvSMHsnVIB3R1+TJCtaT/QihooUhhtZVK\n4t5Ks/AhTMPG9gG1u7wEV1SZoEAcE2kFgKYBLgv8rfDWDAjwcEBugA8ptFk5sMoj\nd7xk6dV8xz8VEmAsIjHIsxQBIpKb3VSPjsuIotpcQYIDryYBjF+ZRqx3sy8Bwc/H\nAQ58+nwR/kIFp37WDrURQcr/ZFfLJ8ymsHt9OKBTfUiGfo5ZEqAFdLBexS4fCnJQ\nqf/3oLXSu1QJySnyzQl5Dt/9dA2oDtrdLwgMD37bf6cYBjf3be6beLb1AxdRP9gD\nF5587TRIAAhwMzZq1tWo8kjZvnWzjXWJfA5kuiXzcoJ/9ZQZKqA5LohnJwdbR37y\nKZ3WKmgGniUH+axhqmMh\n=I6DY\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 573ddd44e56e54244340b6874815845a09ab99d8\ntype commit\ntag 6.1.1\ntagger Donald Stufft <donald@stufft.io> 1428402969 -0400\n\nReleased v6.1.1\n\n* No longer ignore dependencies which have been added to the standard library,\n  instead continue to install them.\n"
+  }
+}

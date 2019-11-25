@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDE6MzFiZjQzZjM5YWEwMTI1NzMxOWQyZDQxZTUxMDhkYWFjMWQyNjliNw==",
+  "sha": "31bf43f39aa01257319d2d41e5108daac1d269b7",
+  "url": "https://api.github.com/repos/openstack/ironic/git/tags/31bf43f39aa01257319d2d41e5108daac1d269b7",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-02-08T14:15:55Z"
+  },
+  "object": {
+    "sha": "a0e08d026badbb81dd956c1999176cc2be4f9220",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic/git/commits/a0e08d026badbb81dd956c1999176cc2be4f9220"
+  },
+  "tag": "10.1.0",
+  "message": "ironic 10.1.0 release\n\nmeta:version: 10.1.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@huawei.com>\nmeta:release:Change-Id: Ic4112fdc3ee1d5136ccebad235ac8db0591827ff\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJafFubAAoJEEIeZHKBH5qB9lQH/1vs1fAdZuqDlvssssYTjxDe\nhUJRh4/W5XOcBFVhBXUR49OtT7ILpeVLm+GGJs1Moi8EqxBAv/5axkY9KUCAjkwM\n8Qs41YKv8BD1PsLpa9hhZOURQfDtXr2K2woS1veeri1ay/MbZz8aXua15SPw3nG+\nmSHRgzzTJs3/Ow8sTvmddeF51Dsygh7szRJqqLdSLhNMzs8vZ5vAtTzAcChruzi8\n7YZp5w2DPcstcf1pqxed06Iy6Jhf392cGm1wxm/SPqgZ/ErzwpbbMz9hatt3yPUB\nfdcBlkcq8qIKplsXMupuR5zSuxV9PwRpbccml+UFu2xbq6goCTIo5VxOjBO5b9E=\n=G8VW\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJafFubAAoJEEIeZHKBH5qB9lQH/1vs1fAdZuqDlvssssYTjxDe\nhUJRh4/W5XOcBFVhBXUR49OtT7ILpeVLm+GGJs1Moi8EqxBAv/5axkY9KUCAjkwM\n8Qs41YKv8BD1PsLpa9hhZOURQfDtXr2K2woS1veeri1ay/MbZz8aXua15SPw3nG+\nmSHRgzzTJs3/Ow8sTvmddeF51Dsygh7szRJqqLdSLhNMzs8vZ5vAtTzAcChruzi8\n7YZp5w2DPcstcf1pqxed06Iy6Jhf392cGm1wxm/SPqgZ/ErzwpbbMz9hatt3yPUB\nfdcBlkcq8qIKplsXMupuR5zSuxV9PwRpbccml+UFu2xbq6goCTIo5VxOjBO5b9E=\n=G8VW\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a0e08d026badbb81dd956c1999176cc2be4f9220\ntype commit\ntag 10.1.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1518099355 +0000\n\nironic 10.1.0 release\n\nmeta:version: 10.1.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@huawei.com>\nmeta:release:Change-Id: Ic4112fdc3ee1d5136ccebad235ac8db0591827ff\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

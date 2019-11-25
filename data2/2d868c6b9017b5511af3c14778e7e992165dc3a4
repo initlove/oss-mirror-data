@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ4Mjk5NzoyZDg2OGM2YjkwMTdiNTUxMWFmM2MxNDc3OGU3ZTk5MjE2NWRjM2E0",
+  "sha": "2d868c6b9017b5511af3c14778e7e992165dc3a4",
+  "url": "https://api.github.com/repos/phpredis/phpredis/git/tags/2d868c6b9017b5511af3c14778e7e992165dc3a4",
+  "tagger": {
+    "name": "michael-grunder",
+    "email": "michael.grunder@gmail.com",
+    "date": "2017-01-17T01:03:29Z"
+  },
+  "object": {
+    "sha": "ede43864a63db547319a01d14a8b272efd77de01",
+    "type": "commit",
+    "url": "https://api.github.com/repos/phpredis/phpredis/git/commits/ede43864a63db547319a01d14a8b272efd77de01"
+  },
+  "tag": "3.1.1RC2",
+  "message": "    phpredis 3.1.1RC2\n\n    * Additional test updates for 32 bit systems (@remicollet)\n    * ARM rounding issue in tests (@remicollet)\n    * Use new zend_list_close instead of zend_list_delete when reconnecting.\n    * Refactoring of redis_boolean_response_impl and redis_sock_write (@yatsukhnenko)\n\n    phpredis 3.1.1.RC1\n\n    This release contains mostly fixes for issues introduced when merging\n    the php 5 and 7 codebase into a single branch.\n\n    * Fixed a segfault in igbinary serialization (@yatsukhnenko)\n    * Restore 2.2.8/3.0.0 functionality to distinguish between an error\n      and simply empty session data. (@remicollet)\n    * Fix double to string conversion function (@yatsukhnenko)\n    * Use PHP_FE_END definition when available (@remicollet)\n    * Fixed various 'static function declared but not used' warnings\n    * Fixes to various calls which were typecasting pointers to the\n      wrong size. (@remicollet)\n\n    * Added php session unit test (@yatsukhnenko)\n    * Added explicit module dependancy for igbinary (@remicollet)\n    * Added phpinfo serialization information (@remicollet)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

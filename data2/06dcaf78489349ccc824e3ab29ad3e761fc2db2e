@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDM5MzY5NjowNmRjYWY3ODQ4OTM0OWNjYzgyNGUzYWIyOWFkM2U3NjFmYzJkYjJl",
+  "sha": "06dcaf78489349ccc824e3ab29ad3e761fc2db2e",
+  "url": "https://api.github.com/repos/openstack/python-swiftclient/git/tags/06dcaf78489349ccc824e3ab29ad3e761fc2db2e",
+  "tagger": {
+    "name": "John Dickinson",
+    "email": "me@not.mn",
+    "date": "2014-02-14T00:44:32Z"
+  },
+  "object": {
+    "sha": "19d7e1812a99d73785146667ae2f3a7156f06898",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-swiftclient/git/commits/19d7e1812a99d73785146667ae2f3a7156f06898"
+  },
+  "tag": "2.0",
+  "message": "2.0 release\n\nThis change in the major version number is based on the\nunderlying port to use the python requests library rather\nthan httplib.\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJS/WdGAAoJENj9+RIel2bQzmkQAJGQPIuo66FbQ204V5UL2VzP\nUYXx/nIR8Mbb/h16lhiRXx/8MqgjT6OqI6kck2IHY/sZf5HStd+OzcwgU6yuxyS7\n7kSgrNuxSA4XKm+Ngmg0y/nup1vCJTnOC2aj0rG8h/HYo3wx5jadu30gJsfyQiVU\nPa1uhvI7j6BNSr5yvI6dUVsXh3j1ym+4rowQCUjzAAo4vK0AASkza6W9L2QhNRKs\n3nJ4c5gDGeWLvc5SqSKRkdqRsh14/t4JYAOmD7X0eu4F6r0JxkI7MyBfKglVHNe9\nspYWoM+/UYT4e3J9sWFkvVzuhE/0ywBz4SC5goBLiWTs2Bn5gitID60+P+dMuTMu\npNmQUV3TkH/OHFyTfsnVq2Rk3QyluMD56V/IliK0Cz1+3Dt6m6uL4JesUAMIGl3y\nNSDmOptM1qtGX1cNkwAlHMQYuKinCEHRzBAy0jGrd6NFLP9ec7k2M3brhg5lxJBp\nQCXysBebx9fLzYFuOl0KhICTyaKy7neXpo7fh2GdfJ4pqHH0i5nNNz9RYr/vocrZ\nQ726WhoWgyxEM5lZSQocFK/kvoBtqGvQAbdD6FKtkzSV99extvRTYVC8UdDK4b7M\nuKlbQEYVf0KOxwIkNGhlsm7ViE7ywa22wuVNljjoiK97uoDdOKtYyq3C3aJqZgrT\nN/SDGHjrBQXQkzZAG/2Z\n=2D3J\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJS/WdGAAoJENj9+RIel2bQzmkQAJGQPIuo66FbQ204V5UL2VzP\nUYXx/nIR8Mbb/h16lhiRXx/8MqgjT6OqI6kck2IHY/sZf5HStd+OzcwgU6yuxyS7\n7kSgrNuxSA4XKm+Ngmg0y/nup1vCJTnOC2aj0rG8h/HYo3wx5jadu30gJsfyQiVU\nPa1uhvI7j6BNSr5yvI6dUVsXh3j1ym+4rowQCUjzAAo4vK0AASkza6W9L2QhNRKs\n3nJ4c5gDGeWLvc5SqSKRkdqRsh14/t4JYAOmD7X0eu4F6r0JxkI7MyBfKglVHNe9\nspYWoM+/UYT4e3J9sWFkvVzuhE/0ywBz4SC5goBLiWTs2Bn5gitID60+P+dMuTMu\npNmQUV3TkH/OHFyTfsnVq2Rk3QyluMD56V/IliK0Cz1+3Dt6m6uL4JesUAMIGl3y\nNSDmOptM1qtGX1cNkwAlHMQYuKinCEHRzBAy0jGrd6NFLP9ec7k2M3brhg5lxJBp\nQCXysBebx9fLzYFuOl0KhICTyaKy7neXpo7fh2GdfJ4pqHH0i5nNNz9RYr/vocrZ\nQ726WhoWgyxEM5lZSQocFK/kvoBtqGvQAbdD6FKtkzSV99extvRTYVC8UdDK4b7M\nuKlbQEYVf0KOxwIkNGhlsm7ViE7ywa22wuVNljjoiK97uoDdOKtYyq3C3aJqZgrT\nN/SDGHjrBQXQkzZAG/2Z\n=2D3J\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 19d7e1812a99d73785146667ae2f3a7156f06898\ntype commit\ntag 2.0\ntagger John Dickinson <me@not.mn> 1392338672 -0800\n\n2.0 release\n\nThis change in the major version number is based on the\nunderlying port to use the python requests library rather\nthan httplib.\n"
+  }
+}

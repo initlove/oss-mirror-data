@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjEyMzYyOTI6NDI2YzgyNmZhM2NhMGY1MmM1M2ViYjAyMDVkN2MwNWMyNDIyZWQ1Zg==",
+  "sha": "426c826fa3ca0f52c53ebb0205d7c05c2422ed5f",
+  "url": "https://api.github.com/repos/openstack/panko/git/tags/426c826fa3ca0f52c53ebb0205d7c05c2422ed5f",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-08-21T19:06:03Z"
+  },
+  "object": {
+    "sha": "7f811a3fa915f1d18cbc817e892957324183761a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/panko/git/commits/7f811a3fa915f1d18cbc817e892957324183761a"
+  },
+  "tag": "3.0.0",
+  "message": "panko 3.0.0 release\n\nmeta:version: 3.0.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Julien Danjou <julien@danjou.info>\nmeta:release:Change-Id: Ia9fb3548ec529d1c7dbb6e181f8e333cf1b76774\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZmy8bAAoJEOtsyhSD+nTsq4kH/jK+XLOpU3xefJwLAUQH/1cV\n/gNa3CBGHzYs9+mx+Ifd+YJLpMN+GxNbauK+xZK0vno4gjLxvcov7yf0wf0phBPP\n8P9Min+6wr656h62eJyLfj27X9zcDgiwGWsLhcx1b6WWc4iNQlzHiOxXoylNqmUd\nvBips4xq6TT0StiZnlfxkqWSqkGPfzf5LuyWessnHWfV2+0+MOL9MM7WdaDk5OIG\ne3I1GqBy5s6Dr+50zP7LbXs3zoHHQt5NtSHFv+dhvOHkXqsGdaa2/GN5T452Ipe2\nyDEuR5NmcHqleR6dRU9hikpy1/TJLkra7X9xI5cdAF8de1NHrDpRbFUEkPXzYJw=\n=o2Rq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZmy8bAAoJEOtsyhSD+nTsq4kH/jK+XLOpU3xefJwLAUQH/1cV\n/gNa3CBGHzYs9+mx+Ifd+YJLpMN+GxNbauK+xZK0vno4gjLxvcov7yf0wf0phBPP\n8P9Min+6wr656h62eJyLfj27X9zcDgiwGWsLhcx1b6WWc4iNQlzHiOxXoylNqmUd\nvBips4xq6TT0StiZnlfxkqWSqkGPfzf5LuyWessnHWfV2+0+MOL9MM7WdaDk5OIG\ne3I1GqBy5s6Dr+50zP7LbXs3zoHHQt5NtSHFv+dhvOHkXqsGdaa2/GN5T452Ipe2\nyDEuR5NmcHqleR6dRU9hikpy1/TJLkra7X9xI5cdAF8de1NHrDpRbFUEkPXzYJw=\n=o2Rq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7f811a3fa915f1d18cbc817e892957324183761a\ntype commit\ntag 3.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1503342363 +0000\n\npanko 3.0.0 release\n\nmeta:version: 3.0.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Julien Danjou <julien@danjou.info>\nmeta:release:Change-Id: Ia9fb3548ec529d1c7dbb6e181f8e333cf1b76774\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

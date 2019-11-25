@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDE6MzgxZTFlZWI3NmQzYmYxNDliMDE4ZmFkODBiYjkxNWI0ODQ2NzZhMQ==",
+  "sha": "381e1eeb76d3bf149b018fad80bb915b484676a1",
+  "url": "https://api.github.com/repos/openstack/ironic/git/tags/381e1eeb76d3bf149b018fad80bb915b484676a1",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-12-19T09:54:48Z"
+  },
+  "object": {
+    "sha": "be8d81becd0c34405f48d45831726c4b4e1fc8b8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic/git/commits/be8d81becd0c34405f48d45831726c4b4e1fc8b8"
+  },
+  "tag": "12.0.0",
+  "message": "ironic 12.0.0 release\n\nmeta:version: 12.0.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Commit: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Change-Id: Ib83cc9e068f69ad57c05af53298469fe726cf51a\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcGhVoAAoJEBpUEUgFTp446rwL/0FzxDz0v2j6ELCeJne4ASSh\nGtyYRZhGhPSBZF5zkX9x1CJ51xa9uuiGfuNqrW+wVg0gtlg1MMAjKuuDKIb18hsA\nfDOTMDjx5Y27ckCR7wWiSYFkaPOXIKMjThtS0vs9avKFXVeW+KlpL98O68AdvnSJ\n63vJbGhLW0SbfAGPdoWeBTmn5/lL1Lb9mSOeyYlVO0mPZeudZzqCKoKOOZYpzd57\n3QomvvIMpzAgWX4X6yGqS9Xo2evIGmMXR16jIbHUCFeyBBmVNd2nVzScQ4cLXr0e\nMstAcMYo0txPnjbc2nsyoLAXBBfERTjdR/fqb7pGCAfVP8/Y8F8Z9CkDIyAH9iEm\nQp5cjIyC7wKnLridzjFTzMEji4wEM1T/hp+eOdaNVcJeelNOxhfN3oVtN+aUbkFb\nURkJ53CaLrfN3CqXKK4qDuXo5Tc+tyMZV/iZoa4jdnO1+TlOGScqkZrvoOEz8jbc\nZM+UcxdfRqGpvdRheW1tIrTnt6fFkP/gIFCzhQfaVQ==\n=0eP6\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcGhVoAAoJEBpUEUgFTp446rwL/0FzxDz0v2j6ELCeJne4ASSh\nGtyYRZhGhPSBZF5zkX9x1CJ51xa9uuiGfuNqrW+wVg0gtlg1MMAjKuuDKIb18hsA\nfDOTMDjx5Y27ckCR7wWiSYFkaPOXIKMjThtS0vs9avKFXVeW+KlpL98O68AdvnSJ\n63vJbGhLW0SbfAGPdoWeBTmn5/lL1Lb9mSOeyYlVO0mPZeudZzqCKoKOOZYpzd57\n3QomvvIMpzAgWX4X6yGqS9Xo2evIGmMXR16jIbHUCFeyBBmVNd2nVzScQ4cLXr0e\nMstAcMYo0txPnjbc2nsyoLAXBBfERTjdR/fqb7pGCAfVP8/Y8F8Z9CkDIyAH9iEm\nQp5cjIyC7wKnLridzjFTzMEji4wEM1T/hp+eOdaNVcJeelNOxhfN3oVtN+aUbkFb\nURkJ53CaLrfN3CqXKK4qDuXo5Tc+tyMZV/iZoa4jdnO1+TlOGScqkZrvoOEz8jbc\nZM+UcxdfRqGpvdRheW1tIrTnt6fFkP/gIFCzhQfaVQ==\n=0eP6\n-----END PGP SIGNATURE-----\n",
+    "payload": "object be8d81becd0c34405f48d45831726c4b4e1fc8b8\ntype commit\ntag 12.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1545213288 +0000\n\nironic 12.0.0 release\n\nmeta:version: 12.0.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Commit: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Change-Id: Ib83cc9e068f69ad57c05af53298469fe726cf51a\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

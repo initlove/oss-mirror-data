@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6NjFjMGI0NzI5NzIzYWM2MjRkMmM1NGUyMWFhZWI2NDNjNThkYjFlMw==",
+  "sha": "61c0b4729723ac624d2c54e21aaeb643c58db1e3",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/61c0b4729723ac624d2c54e21aaeb643c58db1e3",
+  "tagger": {
+    "name": "lkorth",
+    "email": "luke@lukekorth.com",
+    "date": "2016-07-07T14:51:54Z"
+  },
+  "object": {
+    "sha": "8aea51e254c8672753131f5fe9754f1f6e8e0f5d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/8aea51e254c8672753131f5fe9754f1f6e8e0f5d"
+  },
+  "tag": "2.3.4",
+  "message": "2.3.4\n\n* Prevent invalid schemes from being used for browser switching (Packages containing underscores would generate invalid schemes)\n* Fix `NoClassDefFoundError` in `DataCollector`\n* Fix `NullPointerException` in `BraintreeFragment`\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

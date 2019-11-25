@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzk5NjQ3Njo5OGE0MDQyYmM1ODBiNmQ4YWVlZWQyYTNjMzFmMDAwZDYxZDI1Njc2",
+  "sha": "98a4042bc580b6d8aeeed2a3c31f000d61d25676",
+  "url": "https://api.github.com/repos/rhboot/shim/git/tags/98a4042bc580b6d8aeeed2a3c31f000d61d25676",
+  "tagger": {
+    "name": "Peter Jones",
+    "email": "pjones@redhat.com",
+    "date": "2017-12-19T21:52:44Z"
+  },
+  "object": {
+    "sha": "02e2fc61bd2fb7f0045f15db105de7b8ace3029f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rhboot/shim/git/commits/02e2fc61bd2fb7f0045f15db105de7b8ace3029f"
+  },
+  "tag": "14",
+  "message": "shim 14 - Important bug fix release\n\nThe shim EFI binary cannot have sections whose offset is not a multiple of the\nfile header offset, or else signtool.exe will generate an incorrect signature\nthat cannot be verified.  Currently we generate a PLT section that is\nincorrectly aligned, due to an error in rebasing OpenSSL to fix a different\nissue.  This version rectifies that error, as well as adding --no-undefined to\nthe final link, so that any such missing symbol will cause a build error.  This\ndoesn't necessarily solve the file offset problem in all cases, but it does\nsolve it in all the cases we've actually seen so far.\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJaOYozAAoJEO7SZrcPT+8Qt5EQAJpLDKftEHCEH5P59ivhGPSu\nyZv4wNDendy+hUyZc2m4aFcdtC2WSo+CHgZmDoCehrcVeHSCKpNGrwnqSjobf9l5\nuZJHOBEw0T2g5W7T9TWG4QLu9VFECiMa3RFdMVu1DzLARA+tSzFXX5pA9ZO/7KV5\nYDK+jpJLnX3xDwBAz+BMd+yn6TDJdj4Aal8ZzORBTwGTy/k5KZaP9iHxGxK5np9h\n+zYt6WbXOwiZOhx+PcHn2yNmDoa2cJGNpz0AaReMhYSqtVMykvOAV50DT0XlsMru\nRKO1xp+lYMEPYr6JG+glWoeJ4A894mh5Md94mTk3uwohX7pEhgY6ReWn5YCi4qHp\n1YXapyVWpng53tCvZz9MjhhWKbQ5FqpZi61g32obqtYPvApAQpWtRuS3ADbrXTb5\nwBxvjEFoCnxnBcR3tAo+z0gVtxcP+rekkVEfjEdj4V7iP1lElUZCKXpkYFZCiaqR\nDSKE/K0mc76zWMKIAkhTcHrzoJMoLl6tKV+WxbHZP0uL36bmycOWuihQ3wcmudR9\n+6+VUnCTFaipOQUFBJxMskfm+/42PicC+G2Qdn/iimuxBc0fLjUTv5xWycoEm602\npysrd1VdMFc67w2L1zqlbuPTLfCUwGYOczPL5ukWWVZdqWP5zed1Osc12Rbx5a/w\nCcaPYFAAreN2X4pmLvdd\n=5UyX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJaOYozAAoJEO7SZrcPT+8Qt5EQAJpLDKftEHCEH5P59ivhGPSu\nyZv4wNDendy+hUyZc2m4aFcdtC2WSo+CHgZmDoCehrcVeHSCKpNGrwnqSjobf9l5\nuZJHOBEw0T2g5W7T9TWG4QLu9VFECiMa3RFdMVu1DzLARA+tSzFXX5pA9ZO/7KV5\nYDK+jpJLnX3xDwBAz+BMd+yn6TDJdj4Aal8ZzORBTwGTy/k5KZaP9iHxGxK5np9h\n+zYt6WbXOwiZOhx+PcHn2yNmDoa2cJGNpz0AaReMhYSqtVMykvOAV50DT0XlsMru\nRKO1xp+lYMEPYr6JG+glWoeJ4A894mh5Md94mTk3uwohX7pEhgY6ReWn5YCi4qHp\n1YXapyVWpng53tCvZz9MjhhWKbQ5FqpZi61g32obqtYPvApAQpWtRuS3ADbrXTb5\nwBxvjEFoCnxnBcR3tAo+z0gVtxcP+rekkVEfjEdj4V7iP1lElUZCKXpkYFZCiaqR\nDSKE/K0mc76zWMKIAkhTcHrzoJMoLl6tKV+WxbHZP0uL36bmycOWuihQ3wcmudR9\n+6+VUnCTFaipOQUFBJxMskfm+/42PicC+G2Qdn/iimuxBc0fLjUTv5xWycoEm602\npysrd1VdMFc67w2L1zqlbuPTLfCUwGYOczPL5ukWWVZdqWP5zed1Osc12Rbx5a/w\nCcaPYFAAreN2X4pmLvdd\n=5UyX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 02e2fc61bd2fb7f0045f15db105de7b8ace3029f\ntype commit\ntag 14\ntagger Peter Jones <pjones@redhat.com> 1513720364 -0500\n\nshim 14 - Important bug fix release\n\nThe shim EFI binary cannot have sections whose offset is not a multiple of the\nfile header offset, or else signtool.exe will generate an incorrect signature\nthat cannot be verified.  Currently we generate a PLT section that is\nincorrectly aligned, due to an error in rebasing OpenSSL to fix a different\nissue.  This version rectifies that error, as well as adding --no-undefined to\nthe final link, so that any such missing symbol will cause a build error.  This\ndoesn't necessarily solve the file offset problem in all cases, but it does\nsolve it in all the cases we've actually seen so far.\n"
+  }
+}

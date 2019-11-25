@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNDowNzliNzI1Mzg0YmNlYjc3YjcwY2NhZmFjODdiNzBlZTA2OTAwODNl",
+  "sha": "079b725384bceb77b70ccafac87b70ee0690083e",
+  "url": "https://api.github.com/repos/openstack/heat/git/tags/079b725384bceb77b70ccafac87b70ee0690083e",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-06-12T13:25:21Z"
+  },
+  "object": {
+    "sha": "65339f57ca56113b9b17a57119aac1804269333d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/heat/git/commits/65339f57ca56113b9b17a57119aac1804269333d"
+  },
+  "tag": "7.0.4",
+  "message": "heat 7.0.4 release\n\nmeta:version: 7.0.4\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: ricolin <rico.lin@easystack.cn>\nmeta:release:Commit: ricolin <rico.lin@easystack.cn>\nmeta:release:Change-Id: I513a8fda737a63d003b0b57f78680bede42e3db2\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZPpZBAAoJEOtsyhSD+nTsptEIAJzAlOBBbCpsmxd/hbMiDptR\nHATAdtYbbuR1eEQCHWCbhJgu3d2je+EDY9zuojl4xYGca28aqnY2e/vNjS0kd+Kr\nGSxsEglJyR5k09XRh3SroeWDyKw+YI6O14+Jtweel5EJ6BYWXVSaUFcZhkqKWkDf\nS7/1jR/I+RBCi6jCFy3YiwQmVHE6F/MpJUxDbqfSxeCZckxRTUO2t8APOaPluzjd\nWTvqOknPLPndlpNTp0ssvTz0OA+yH/fIGAT6PFjpHH5XMVNzXqCPId0Jqxd0E7n6\n88+4lLLpZuR3aBDiY1536KvY5oVzucNZdP3aibbXscuJU1ECkaL6HLIPXt88PjQ=\n=pBNm\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZPpZBAAoJEOtsyhSD+nTsptEIAJzAlOBBbCpsmxd/hbMiDptR\nHATAdtYbbuR1eEQCHWCbhJgu3d2je+EDY9zuojl4xYGca28aqnY2e/vNjS0kd+Kr\nGSxsEglJyR5k09XRh3SroeWDyKw+YI6O14+Jtweel5EJ6BYWXVSaUFcZhkqKWkDf\nS7/1jR/I+RBCi6jCFy3YiwQmVHE6F/MpJUxDbqfSxeCZckxRTUO2t8APOaPluzjd\nWTvqOknPLPndlpNTp0ssvTz0OA+yH/fIGAT6PFjpHH5XMVNzXqCPId0Jqxd0E7n6\n88+4lLLpZuR3aBDiY1536KvY5oVzucNZdP3aibbXscuJU1ECkaL6HLIPXt88PjQ=\n=pBNm\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 65339f57ca56113b9b17a57119aac1804269333d\ntype commit\ntag 7.0.4\ntagger OpenStack Release Bot <infra-root@openstack.org> 1497273921 +0000\n\nheat 7.0.4 release\n\nmeta:version: 7.0.4\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: ricolin <rico.lin@easystack.cn>\nmeta:release:Commit: ricolin <rico.lin@easystack.cn>\nmeta:release:Change-Id: I513a8fda737a63d003b0b57f78680bede42e3db2\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

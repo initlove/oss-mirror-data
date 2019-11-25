@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA5ODE5OTQ6MDhhYjkyNmI1MTU1YWJjMGE1M2IwZTNmNWRkYmU1NDJhZTE1Y2FlOQ==",
+  "sha": "08ab926b5155abc0a53b0e3f5ddbe542ae15cae9",
+  "url": "https://api.github.com/repos/OpenFeign/feign/git/tags/08ab926b5155abc0a53b0e3f5ddbe542ae15cae9",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-01-06T17:47:15Z"
+  },
+  "object": {
+    "sha": "782cc1b05f4c55fdc4553ec0387b5da345edac77",
+    "type": "commit",
+    "url": "https://api.github.com/repos/OpenFeign/feign/git/commits/782cc1b05f4c55fdc4553ec0387b5da345edac77"
+  },
+  "tag": "v7.0.0",
+  "message": "Release of 7.0.0\n\n- 782cc1b05f4c55fdc4553ec0387b5da345edac77: Merge pull request #130 from rspieldenner/7.x\n- 44b253e71948d34471ec08f8177277c00d3cdeb2: Build upgrades\n- 61e63360db46e81cb61d51878f0e7dc1b4e9ee8b: Upgrade gradle to 2.2.1\n- b5ab32353a85702d3961c9c8cc91d565abe7ee63: update README\n- 2c9b1502eff233ed5628abcd857d4a24205906e0: Merge pull request #126 from VanRoy/master\n- 43af8fe8bb624cd56eecbf583853da236aa7f2e9: Merge pull request #124 from qualidafial/master\n- 902bca3bab4295bdba4cbda6fe0655749c392fd7: Merge pull request #127 from ralscha/patch-1\n- c9e6f50d55278d42463376d7c367fb24d4acb63e: Link to the retrofit sample is wrong\n- fd5e4d60bfbb5b3d2cc6cdbcb230fc27a9e79e0c: Make RibbonClient configurable with FeignBuilder\n- 0f765ad2b8d8dba70505e398dee4f5fef77a3078: Add warning to CHANGES.md regarding Dagger 1.2.0 upgrade.\n- 35c3e4e7f505c67d7b258611dc63ce45df1c1ab9: Upgrade Dagger dependency from 1.1.0 to 1.2.2.\n- 98d0423118eaf9b7502e5ef259b5897b027cab95: Merge pull request #116 from gregwhitaker/jaxb-support\n- 87af8eea35fe96a5bddae6c5910c97e95f6cb401: Merge pull request #121 from ahus1/master\n- 2edd8beae0c1dabb6c2480cb7fd9a0b2e5146828: fixing language hint json->java\n- 1e0066911ec4c5cd225c6792f24747650094f940: Merge pull request #118 from allenxwang/master\n- fc43eedbc510cf9bccb51361bf810bf5a8a41f08: Remove unnecessary code\n- 24d70fa5efec51149c5edb510b1447e8e67f8a8e: Refine the retry handler logic for LBClient.\n- 752822033357c40848ed647de3c782c38cc5c124: Merge pull request #117 from amit-git/master\n- 0023ae63af4e29ed8e5960497e381ab7aa55f34f: Integrate with latest ribbon release (ribbon-loadbalancer)\n- 3ced4a5283f39c6028ba22202ed319f0d89b95c6: Added support for JAXB\n- 710191fe53fb619ce266ebd110e6d54a315720a3: Merge pull request #112 from seanch87/master\n- ee54f394c4262fd0b56e149cd21839092c770a95: Handle JAXRS Path annotation processes without slashes\n- 2c0c109428229640f8f61f6ba47d2a3e3a6f47e3: Merge pull request #110 from allenxwang/master\n- 8756f99aa054884d12958c514c83dd70a69be2cc: Change minor versions of dependencies to help snapshot build.\n- 9874399b763b24901ece44041a70976f7395fd9b: Merge pull request #109 from Netflix/adrian.expose-InvocationHandlerFactory\n- 95a0f6bf141d70b8bd0d093f47044810b26b1435: Fix #105: expose hook for reflective dispatch.\n- 9efe9403ffc990b99bc67a61d3f1e1cd979208f8: Merge pull request #108 from Netflix/adrian.java8\n- ac7f0ecd4a4051018b2d44c5e76f953c136dfbe2: Make build work with java 8.\n- 716a61706720b861feb1f5450e380d1c468632ce: Merge pull request #100 from JulianDuniec/master\n- 9773c6107a71e21f619b7efffe0d2b3a70578224: Merge pull request #92 from wnagele/master\n- 00db9c4e0e4dc9d749fa2fb9ee8e054454e64951: Fix for bug #85\n- 9a7e84e158bd671e5debff8680aaef9982aef8d6: Fix for bug in Ribbon-Module, where query strings are not properly encoded\n- 93447c67f05a463e56336c15ee6d17f2e4440ad2: Merge pull request #96 from davidmc24/feature/slf4j\n- 2c5d359ce43d072129f5af73a77f29405c6af526: slf4j: add slf4j integration module (#94)\n- 8f894e0c0c1df7b870e3fdd750b56172a0159a3c: Merge pull request #97 from davidmc24/feature/fix-changelog\n- addc58375d58995a6967e39e8a8da2b076030b36: fix changelog for 6.0.1 (#95)\n- dcc4c95755a1866464afdac2f8bc2c0b0cd388b5: Merge pull request #93 from rodrigosaito/authorization_too_long\n- aca25eb33131153bdcc2c8c3830f84ed87121ff0: When User and/or Password are too long, then the Authorization Header is broken because of sun Base64Encoder impl.\n- bc5011b91e937553664c6e38371121edf62258ed: CHANGES update for last commit\n- 710d4774499fa7523d2d77d8713738700f921fb5: 7.0.0-SNAPSHOT\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

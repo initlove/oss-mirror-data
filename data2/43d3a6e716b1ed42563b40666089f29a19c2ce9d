@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQxMzIxOTI6NDNkM2E2ZTcxNmIxZWQ0MjU2M2I0MDY2NjA4OWYyOWExOWMyY2U5ZA==",
+  "sha": "43d3a6e716b1ed42563b40666089f29a19c2ce9d",
+  "url": "https://api.github.com/repos/pkg/sftp/git/tags/43d3a6e716b1ed42563b40666089f29a19c2ce9d",
+  "tagger": {
+    "name": "John Eikenberry",
+    "email": "jae@zhar.net",
+    "date": "2019-08-26T01:45:29Z"
+  },
+  "object": {
+    "sha": "3edd153f213d8d4191a0ee4577c61cca19436632",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pkg/sftp/git/commits/3edd153f213d8d4191a0ee4577c61cca19436632"
+  },
+  "tag": "v1.10.1",
+  "message": "go modules update\n\nmake client more resilient with servers that don't support full protocol\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAl1jOuEACgkQPZqeWROp\nRaIbpAgAgC70ELVI61lJOKVCKWF13dvE86E9drn8IezTsU4ty3P5Dhff92Z+qW8R\nG3BK1AtBT8gNo2xWhPW0tVlwxAMuKnC7vQHF4Eyzc2kSAopq/OfoYa1DrOx8nide\nsS4ap2EdNWWDHcUTi5ZPziDzNYafgEqGi66I9pPZsRU1oW9obTAL7S6llHgbuh57\nxRVPQeDdnzj9GycmHI6yZg4FGw3dVy/DxgFL+AVmqlReqOoRHaa/32kz1eA51oBj\nkWizvh0i5xUwW7kxSrovAnnMPPTwq114mU6ca9VHQ83uIYWWhYuVBgsdx708KDuG\nY4fmqEuwGCMyYPYy+/cK3d6ZmktxYQ==\n=6jEz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAl1jOuEACgkQPZqeWROp\nRaIbpAgAgC70ELVI61lJOKVCKWF13dvE86E9drn8IezTsU4ty3P5Dhff92Z+qW8R\nG3BK1AtBT8gNo2xWhPW0tVlwxAMuKnC7vQHF4Eyzc2kSAopq/OfoYa1DrOx8nide\nsS4ap2EdNWWDHcUTi5ZPziDzNYafgEqGi66I9pPZsRU1oW9obTAL7S6llHgbuh57\nxRVPQeDdnzj9GycmHI6yZg4FGw3dVy/DxgFL+AVmqlReqOoRHaa/32kz1eA51oBj\nkWizvh0i5xUwW7kxSrovAnnMPPTwq114mU6ca9VHQ83uIYWWhYuVBgsdx708KDuG\nY4fmqEuwGCMyYPYy+/cK3d6ZmktxYQ==\n=6jEz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3edd153f213d8d4191a0ee4577c61cca19436632\ntype commit\ntag v1.10.1\ntagger John Eikenberry <jae@zhar.net> 1566783929 -0700\n\ngo modules update\n\nmake client more resilient with servers that don't support full protocol\n"
+  }
+}

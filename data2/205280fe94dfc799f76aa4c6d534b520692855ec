@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE1NTE1NzoyMDUyODBmZTk0ZGZjNzk5Zjc2YWE0YzZkNTM0YjUyMDY5Mjg1NWVj",
+  "sha": "205280fe94dfc799f76aa4c6d534b520692855ec",
+  "url": "https://api.github.com/repos/openstack/glance/git/tags/205280fe94dfc799f76aa4c6d534b520692855ec",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-09-16T07:52:59Z"
+  },
+  "object": {
+    "sha": "ee667852f588415259bc7b5dbe07b6037da66226",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/glance/git/commits/ee667852f588415259bc7b5dbe07b6037da66226"
+  },
+  "tag": "13.0.0.0rc1",
+  "message": "glance 13.0.0.0rc1 release candidate\n\nmeta:version: 13.0.0.0rc1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Nikhil Komawar <nik.komawar@gmail.com>\nmeta:release:Commit: Nikhil Komawar <nik.komawar@gmail.com>\nmeta:release:Change-Id: I3ec6a0a387485bbbbd981828eb500b7f00222d66\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX26TbAAoJENljH+rwzGInD3sH/inQbIfuTZ0r8xggn1k+vsiS\nH/wuyCQhdhq1Ua6J2wMiOCYuvYCo8vSFjyFtH+WG8HrB0LO07JOleNrqpXstcxUj\n65ZocWL0/OV99Nyq13dQN8CmDsQOQ1m9i2cykn2wfBydBv7JNPW8VJ3v00dge0DV\n3RQpcKNd8PCn26KUJOgGprrFv83V3C0JNHSbcmDVAMd9hNF/06f7lLi1a2zaClE+\n7usfNvUsMs5abhHjpsWh+s02vXJU8GgrobltMKgL7pDOeJBqSFCmtI+9O2W+b6qD\nEf2zngE37gjYOmFMDDlGykcOc0MX+AmJ8+fVQJtkokDHXTwv42jFqSQUb4XHVBU=\n=rzQ6\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX26TbAAoJENljH+rwzGInD3sH/inQbIfuTZ0r8xggn1k+vsiS\nH/wuyCQhdhq1Ua6J2wMiOCYuvYCo8vSFjyFtH+WG8HrB0LO07JOleNrqpXstcxUj\n65ZocWL0/OV99Nyq13dQN8CmDsQOQ1m9i2cykn2wfBydBv7JNPW8VJ3v00dge0DV\n3RQpcKNd8PCn26KUJOgGprrFv83V3C0JNHSbcmDVAMd9hNF/06f7lLi1a2zaClE+\n7usfNvUsMs5abhHjpsWh+s02vXJU8GgrobltMKgL7pDOeJBqSFCmtI+9O2W+b6qD\nEf2zngE37gjYOmFMDDlGykcOc0MX+AmJ8+fVQJtkokDHXTwv42jFqSQUb4XHVBU=\n=rzQ6\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ee667852f588415259bc7b5dbe07b6037da66226\ntype commit\ntag 13.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1474012379 +0000\n\nglance 13.0.0.0rc1 release candidate\n\nmeta:version: 13.0.0.0rc1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Nikhil Komawar <nik.komawar@gmail.com>\nmeta:release:Commit: Nikhil Komawar <nik.komawar@gmail.com>\nmeta:release:Change-Id: I3ec6a0a387485bbbbd981828eb500b7f00222d66\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

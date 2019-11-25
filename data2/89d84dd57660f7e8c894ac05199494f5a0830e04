@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA2OTg1ODQ6ODlkODRkZDU3NjYwZjdlOGM4OTRhYzA1MTk5NDk0ZjVhMDgzMGUwNA==",
+  "sha": "89d84dd57660f7e8c894ac05199494f5a0830e04",
+  "url": "https://api.github.com/repos/openstack/python-troveclient/git/tags/89d84dd57660f7e8c894ac05199494f5a0830e04",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-28T15:13:35Z"
+  },
+  "object": {
+    "sha": "5f0271a735516d9c9b30a730fecf4738bafa6cde",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-troveclient/git/commits/5f0271a735516d9c9b30a730fecf4738bafa6cde"
+  },
+  "tag": "3.1.0",
+  "message": "python-troveclient 3.1.0 release\n\nmeta:version: 3.1.0\nmeta:diff-start: -\nmeta:series: ussuri\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Eric Fried <openstack@fried.cc>\nmeta:release:Commit: Eric Fried <openstack@fried.cc>\nmeta:release:Change-Id: Ib121130f198d3f4cbd76b73e3202562470fca1dc\nmeta:release:Code-Review+1: chenker <chen.ke14@zte.com.cn>\nmeta:release:Code-Review+1: Hongbin Lu <hongbin034@gmail.com>\nmeta:release:Code-Review+1: licanwei <li.canwei2@zte.com.cn>\nmeta:release:Code-Review+1: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl23BZ8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2HhXDADFufQTqGYP6pWwAcHt61cT\n3NN8oyDPrYXgrxBfpDTBucppoBxnBDsl3pNFGSl8ugvXyl3hEGmm+xY78e0VugUl\nsn8vuKOcT9G1OopxRneky4H0VseF+d7nLimSpL5oVudzRpX4Aq3Xvzzw5qf2Mk7t\n0xAJXnDrPVXimrABgnFw09qJ0ogzM1KRVjFPC1EpyvMcAae9uXMMb9xJAN/TqtQr\n5ObCinKUcnuW8vJgZwlaXR609T3DlyyH11MJW8NhUOXHJZWch3WnAk2GJxDGDK15\nW5aiyGnl0K1ugRqr9i/BqYTLYNb+aK611/ta6Do9j56joV7mCHvF9aiNR3AhnQjo\nAq8zu1ObcqNVE8RSaVmfK3sK/EZo83f4oF4cR7Gn9X1RH966z6zkumXIxwvD0Fu6\nWSAroyx4ZDEMtwWwQeXV/AcR2lGpZkq0f0Hrv1vS9agGMW0uLTLcIE4qSF6D3uLK\n9kQMTJTY8lL5YrH6oddzttYrQetta8x6nsH12CcYLFk=\n=SwRD\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl23BZ8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2HhXDADFufQTqGYP6pWwAcHt61cT\n3NN8oyDPrYXgrxBfpDTBucppoBxnBDsl3pNFGSl8ugvXyl3hEGmm+xY78e0VugUl\nsn8vuKOcT9G1OopxRneky4H0VseF+d7nLimSpL5oVudzRpX4Aq3Xvzzw5qf2Mk7t\n0xAJXnDrPVXimrABgnFw09qJ0ogzM1KRVjFPC1EpyvMcAae9uXMMb9xJAN/TqtQr\n5ObCinKUcnuW8vJgZwlaXR609T3DlyyH11MJW8NhUOXHJZWch3WnAk2GJxDGDK15\nW5aiyGnl0K1ugRqr9i/BqYTLYNb+aK611/ta6Do9j56joV7mCHvF9aiNR3AhnQjo\nAq8zu1ObcqNVE8RSaVmfK3sK/EZo83f4oF4cR7Gn9X1RH966z6zkumXIxwvD0Fu6\nWSAroyx4ZDEMtwWwQeXV/AcR2lGpZkq0f0Hrv1vS9agGMW0uLTLcIE4qSF6D3uLK\n9kQMTJTY8lL5YrH6oddzttYrQetta8x6nsH12CcYLFk=\n=SwRD\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5f0271a735516d9c9b30a730fecf4738bafa6cde\ntype commit\ntag 3.1.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572275615 +0000\n\npython-troveclient 3.1.0 release\n\nmeta:version: 3.1.0\nmeta:diff-start: -\nmeta:series: ussuri\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Eric Fried <openstack@fried.cc>\nmeta:release:Commit: Eric Fried <openstack@fried.cc>\nmeta:release:Change-Id: Ib121130f198d3f4cbd76b73e3202562470fca1dc\nmeta:release:Code-Review+1: chenker <chen.ke14@zte.com.cn>\nmeta:release:Code-Review+1: Hongbin Lu <hongbin034@gmail.com>\nmeta:release:Code-Review+1: licanwei <li.canwei2@zte.com.cn>\nmeta:release:Code-Review+1: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

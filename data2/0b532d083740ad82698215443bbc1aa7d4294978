@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDowYjUzMmQwODM3NDBhZDgyNjk4MjE1NDQzYmJjMWFhN2Q0Mjk0OTc4",
+  "sha": "0b532d083740ad82698215443bbc1aa7d4294978",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/0b532d083740ad82698215443bbc1aa7d4294978",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2014-11-25T09:48:38Z"
+  },
+  "object": {
+    "sha": "6e7bb1bc7c8e2a543a698481e99ae845fe1da2e6",
+    "type": "tag",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/6e7bb1bc7c8e2a543a698481e99ae845fe1da2e6"
+  },
+  "tag": "librepo-1.7.2",
+  "message": "v1.7.2\n- Fix segfault in headercb if only base_url and no mirrolist is used (RhBug: 1090325)\n- Set environmental variable LIBREPO_DEBUG enables librepo debug output to stderr\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQyNDUyMzg6MmJmYWNiYjJkMWYyNmVmODQxODM5Njc4MmI1MjQ4ZmFkNTUyZmY4YQ==",
+  "sha": "2bfacbb2d1f26ef8418396782b5248fad552ff8a",
+  "url": "https://api.github.com/repos/openstack/manila/git/tags/2bfacbb2d1f26ef8418396782b5248fad552ff8a",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-01-29T02:03:01Z"
+  },
+  "object": {
+    "sha": "2eb8268da9e073a5febe9f21bc3432138dff43b6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/manila/git/commits/2eb8268da9e073a5febe9f21bc3432138dff43b6"
+  },
+  "tag": "5.0.3",
+  "message": "manila 5.0.3 release\n\nmeta:version: 5.0.3\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Tom Barron <tpb@dyncloud.net>\nmeta:release:Commit: Tom Barron <tpb@dyncloud.net>\nmeta:release:Change-Id: Ia55146b09097131dbb08b689c94e98b74f2cb981\nmeta:release:Code-Review+1: Goutham Pacha Ravi <gouthampravi@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcT7RVAAoJEBpUEUgFTp44FwgMAIGZ9M49tvEM/j7+dyOr1JVX\nvUi3HPopJNxfauYVO15HppjTfmCLZa4+vopsvzSltZO27D2d6sImAf88n1XuoqRB\n6YSkYHdAZzVKZ+yxGzzcfs8zLCf2tZ8ZwH8NwtUTS5v79v5CwlG9N1kBsoX/RaZk\nrplQBYYx9gtuI/Ur+2DIRoPjSbT3+WMiiz8tpncsySuNJRhf/dZ3AzV8u5f9vKIn\nsQiIRM2L8k48FP4asCDr4G8h1V0onPA9kA6RwmKdK2u4bSWV+QUeLJM6bsjys7jo\n5Z7vC5gAILCJPBWbs+JluFDiGKoKyRejrnkEVv5ezJ68NhGnsuSrjvsKDvayXX/Q\nF8E/TI+8NAXCaKzJDhd4u3SA3hpemk4IEeBEszWIMij8vzLpBU2kmNqT0LPtHAOh\nsgDRUSk12bPNI8+y7RuZoNaNIBxmelvW+3IC0Ykjn6b21MsZ8Q8p5ou5SNPheUFu\n7RqXtzS/iu+zOH2zRNOPdjki1cTvbBcyy2ek3SEqEA==\n=8EAU\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcT7RVAAoJEBpUEUgFTp44FwgMAIGZ9M49tvEM/j7+dyOr1JVX\nvUi3HPopJNxfauYVO15HppjTfmCLZa4+vopsvzSltZO27D2d6sImAf88n1XuoqRB\n6YSkYHdAZzVKZ+yxGzzcfs8zLCf2tZ8ZwH8NwtUTS5v79v5CwlG9N1kBsoX/RaZk\nrplQBYYx9gtuI/Ur+2DIRoPjSbT3+WMiiz8tpncsySuNJRhf/dZ3AzV8u5f9vKIn\nsQiIRM2L8k48FP4asCDr4G8h1V0onPA9kA6RwmKdK2u4bSWV+QUeLJM6bsjys7jo\n5Z7vC5gAILCJPBWbs+JluFDiGKoKyRejrnkEVv5ezJ68NhGnsuSrjvsKDvayXX/Q\nF8E/TI+8NAXCaKzJDhd4u3SA3hpemk4IEeBEszWIMij8vzLpBU2kmNqT0LPtHAOh\nsgDRUSk12bPNI8+y7RuZoNaNIBxmelvW+3IC0Ykjn6b21MsZ8Q8p5ou5SNPheUFu\n7RqXtzS/iu+zOH2zRNOPdjki1cTvbBcyy2ek3SEqEA==\n=8EAU\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2eb8268da9e073a5febe9f21bc3432138dff43b6\ntype commit\ntag 5.0.3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1548727381 +0000\n\nmanila 5.0.3 release\n\nmeta:version: 5.0.3\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Tom Barron <tpb@dyncloud.net>\nmeta:release:Commit: Tom Barron <tpb@dyncloud.net>\nmeta:release:Change-Id: Ia55146b09097131dbb08b689c94e98b74f2cb981\nmeta:release:Code-Review+1: Goutham Pacha Ravi <gouthampravi@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

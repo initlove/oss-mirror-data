@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjExNzQ1MDA6NGU3NzlhNTU4N2ZhMWE5ZTE5OTdhOTI3ZTQ2YjJjNWQwODdlYzU3Yg==",
+  "sha": "4e779a5587fa1a9e1997a927e46b2c5d087ec57b",
+  "url": "https://api.github.com/repos/openstack/keystonemiddleware/git/tags/4e779a5587fa1a9e1997a927e46b2c5d087ec57b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-30T14:27:56Z"
+  },
+  "object": {
+    "sha": "bc03de9ca412805490a39dfbd00b4f938e64895b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystonemiddleware/git/commits/bc03de9ca412805490a39dfbd00b4f938e64895b"
+  },
+  "tag": "4.22.0",
+  "message": "keystonemiddleware 4.22.0 release\n\nmeta:version: 4.22.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Kristi Nikolla <kristi@nikolla.me>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: I872ccd63bd4e1bfd197b9fc588113467f3e534b0\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl25newZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHGpzDADNG4Nhbj5dee37n4bk0dnK\n6QxCXvtI5If4HECEi0S7AleTgLx8ZduvC9n8AxtD6zqlAS0N7cD8jehwPixoBLXL\nRguhHntni5WBV19c8MdKP+f+5HHa7tu6KAn9LiMPGYsK2I3JcJF+YL3GjDv9LoNY\nJ+h2Q0MFUEkwrqY5jHuAUb9kp18+o5WMb8clnAMkaPexm8oRyXxE7hOlRQ+hN6aQ\nSwzIHyjcvzBzCzBC1TUYgPLRdDJKOHC/IUUlvJNukmVEHd8/FvCuHz2jsPjRyeaO\nzA7zqH3IZnOFN/qnrIMMshOt/edkMScHtQX92rJIdsxn/M9PtnvNwxF/DLg00VLB\nBHhoK8lwEpF5nT4Srq8HpYIqPzLUChRJUMy/fBsWMMQGkvCk0bWnMaXIloRixtjz\nDZ1Bu9sT4R4vdCQfAeav62kagJLE/7RfSxVTBLvisshE5te5l6sJAoJraVMajj4E\n2oIw2x1O/nIRUXV6bfB0KQxiB6U00tJ7xaFgl4xOWpE=\n=2tN8\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl25newZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHGpzDADNG4Nhbj5dee37n4bk0dnK\n6QxCXvtI5If4HECEi0S7AleTgLx8ZduvC9n8AxtD6zqlAS0N7cD8jehwPixoBLXL\nRguhHntni5WBV19c8MdKP+f+5HHa7tu6KAn9LiMPGYsK2I3JcJF+YL3GjDv9LoNY\nJ+h2Q0MFUEkwrqY5jHuAUb9kp18+o5WMb8clnAMkaPexm8oRyXxE7hOlRQ+hN6aQ\nSwzIHyjcvzBzCzBC1TUYgPLRdDJKOHC/IUUlvJNukmVEHd8/FvCuHz2jsPjRyeaO\nzA7zqH3IZnOFN/qnrIMMshOt/edkMScHtQX92rJIdsxn/M9PtnvNwxF/DLg00VLB\nBHhoK8lwEpF5nT4Srq8HpYIqPzLUChRJUMy/fBsWMMQGkvCk0bWnMaXIloRixtjz\nDZ1Bu9sT4R4vdCQfAeav62kagJLE/7RfSxVTBLvisshE5te5l6sJAoJraVMajj4E\n2oIw2x1O/nIRUXV6bfB0KQxiB6U00tJ7xaFgl4xOWpE=\n=2tN8\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bc03de9ca412805490a39dfbd00b4f938e64895b\ntype commit\ntag 4.22.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572445676 +0000\n\nkeystonemiddleware 4.22.0 release\n\nmeta:version: 4.22.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Kristi Nikolla <kristi@nikolla.me>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: I872ccd63bd4e1bfd197b9fc588113467f3e534b0\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

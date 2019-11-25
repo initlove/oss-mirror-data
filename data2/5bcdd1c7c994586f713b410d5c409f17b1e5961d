@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAzMDk4Njo1YmNkZDFjN2M5OTQ1ODZmNzEzYjQxMGQ1YzQwOWYxN2IxZTU5NjFk",
+  "sha": "5bcdd1c7c994586f713b410d5c409f17b1e5961d",
+  "url": "https://api.github.com/repos/openstack/python-keystoneclient/git/tags/5bcdd1c7c994586f713b410d5c409f17b1e5961d",
+  "tagger": {
+    "name": "Joe Heck",
+    "email": "heckj@mac.com",
+    "date": "2013-03-18T19:43:32Z"
+  },
+  "object": {
+    "sha": "b445c19dc6758ff0cfb61780c5d11e95a11f289c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-keystoneclient/git/commits/b445c19dc6758ff0cfb61780c5d11e95a11f289c"
+  },
+  "tag": "0.2.3",
+  "message": "0.2.3\n\n * auth_token middleware now uses default in-memory caching\n * initial V3 token support\n * auth_token middleware does retry on connection refused\n * updates to use oslo config and common libraries for Grizzly RC1\n * updated help documentation and output\n * a small number of other bug fixes\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (Darwin)\n\niQEcBAABAgAGBQJRR28nAAoJEDXX+C7hSKCbFX0H/R69So0D52o/416DZffckQ0B\nI5rIBjBxYFDKFp12JsA3NL2aTaJCODJg/qOQE3Sweoy46YqCmIeqxrFHezJs28Q0\nXawswc40UT2Yg8shWvuJVxsSnZ5sw8stuFGDdr5iyMUyrOkzKvyvq3pUKmPAKWkT\n1QzSdSJeyL7+/lMoOHQC5VZrD0zGX7VMglZbL5soMlRb3SQ4Ej8DWV/FscTA95cW\nAU+pl3yEe/bZc7x+nljznihwX1q25RtSTbqDdyE3b1ZhBuDewbSyqecI6eqeEqUi\nhe1MiGCNqhOGCWfkputT/dycFPvSsK1sRMRChuIu5FpD/JnMxPc9hfZXkaz+4Hw=\n=hIrn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (Darwin)\n\niQEcBAABAgAGBQJRR28nAAoJEDXX+C7hSKCbFX0H/R69So0D52o/416DZffckQ0B\nI5rIBjBxYFDKFp12JsA3NL2aTaJCODJg/qOQE3Sweoy46YqCmIeqxrFHezJs28Q0\nXawswc40UT2Yg8shWvuJVxsSnZ5sw8stuFGDdr5iyMUyrOkzKvyvq3pUKmPAKWkT\n1QzSdSJeyL7+/lMoOHQC5VZrD0zGX7VMglZbL5soMlRb3SQ4Ej8DWV/FscTA95cW\nAU+pl3yEe/bZc7x+nljznihwX1q25RtSTbqDdyE3b1ZhBuDewbSyqecI6eqeEqUi\nhe1MiGCNqhOGCWfkputT/dycFPvSsK1sRMRChuIu5FpD/JnMxPc9hfZXkaz+4Hw=\n=hIrn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b445c19dc6758ff0cfb61780c5d11e95a11f289c\ntype commit\ntag 0.2.3\ntagger Joe Heck <heckj@mac.com> 1363635812 -0700\n\n0.2.3\n\n * auth_token middleware now uses default in-memory caching\n * initial V3 token support\n * auth_token middleware does retry on connection refused\n * updates to use oslo config and common libraries for Grizzly RC1\n * updated help documentation and output\n * a small number of other bug fixes\n"
+  }
+}

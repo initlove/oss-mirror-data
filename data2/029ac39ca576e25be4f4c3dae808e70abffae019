@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTA4ODkzOjAyOWFjMzljYTU3NmUyNWJlNGY0YzNkYWU4MDhlNzBhYmZmYWUwMTk=",
+  "sha": "029ac39ca576e25be4f4c3dae808e70abffae019",
+  "url": "https://api.github.com/repos/NodeRedis/node_redis/git/tags/029ac39ca576e25be4f4c3dae808e70abffae019",
+  "tagger": {
+    "name": "Matt Ranney",
+    "email": "mjr@ranney.com",
+    "date": "2010-12-30T01:48:59Z"
+  },
+  "object": {
+    "sha": "ccce845cc28a436a031706470a09bb428533cc9f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/NodeRedis/node_redis/git/commits/ccce845cc28a436a031706470a09bb428533cc9f"
+  },
+  "tag": "v0.5.0",
+  "message": "Some bug fixes:\n\n* An important bug fix in reconnection logic.  Previously, reply callbacks would be invoked twice after\n  a reconnect.\n* Changed error callback argument to be an actual Error object.\n\nNew feature:\n\n* Add friendly syntax for HMSET using an object.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

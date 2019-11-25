@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTM4NjgxOjE1MDMxOWU2MzQ4NTgzMTlkZmM1MjczMDFkYzJhZjYwM2ZmNjk0MTY=",
+  "sha": "150319e634858319dfc527301dc2af603ff69416",
+  "url": "https://api.github.com/repos/hierynomus/sshj/git/tags/150319e634858319dfc527301dc2af603ff69416",
+  "tagger": {
+    "name": "Jeroen van Erp",
+    "email": "jeroen@hierynomus.com",
+    "date": "2016-07-05T11:18:10Z"
+  },
+  "object": {
+    "sha": "b43cff07bf00325af7eea938a7d9980755ef55ea",
+    "type": "commit",
+    "url": "https://api.github.com/repos/hierynomus/sshj/git/commits/b43cff07bf00325af7eea938a7d9980755ef55ea"
+  },
+  "tag": "v0.17.0",
+  "message": "Release of 0.17.0\n\n- Updated README\n- Ensure that same name subdirs aren't omitted when doing SFTP (#253)\n- made classes non-final to allow mocking (#250)\n- Add correct source manifest headers for OSGI (#244) (Fixes #242)\n- Merge pull request #243 from valery1707/badges\n- Add some useful badges with automatic version detection: Maven and Javadoc\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

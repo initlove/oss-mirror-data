@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2NzozZDkyYjcyOGI3ZDdiODQyMjU5YWMyMDIwYzJmYTM4OWYxM2FmZjBk",
+  "sha": "3d92b728b7d7b842259ac2020c2fa389f13aff0d",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/3d92b728b7d7b842259ac2020c2fa389f13aff0d",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2015-06-30T23:10:20Z"
+  },
+  "object": {
+    "sha": "d2f09e28678dc615cf7941e294e2fa7fe13134cd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/d2f09e28678dc615cf7941e294e2fa7fe13134cd"
+  },
+  "tag": "7.1.0",
+  "message": "Released v7.1.0\n\n* Allow constraining versions globally without having to know exactly what will\n  be installed by the pip command. :issue:`2731`.\n\n* Accept --no-binary and --only-binary via pip.conf. :issue`2867`.\n\n* Allow ``--allow-all-external`` within a requirements file.\n\n* Fixed an issue where ``--user`` could not be used when ``--prefix`` was used\n  in a distutils configuration file.\n\n* Fixed an issue where the SOABI tags were not correctly being generated on\n  Python 3.5.\n\n* Fixed an issue where we were advising windows users to upgrade by directly\n  executing pip, when that would always fail on Windows.\n\n* Allow ``~`` to be expanded within a cache directory in all situations.\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJVkyH0AAoJEG48vOkzctz6ytQP/jHAJXxDjZAZazLRTGtxj27i\nEfzqkwDXTda8viWZiHS8/CeDqqXdMjpsJgX/CJApvHKFZE6E38uxK1l7fHtsslph\npyzVOyXmaYPl8j3QLWr9o/MNrHCdlhNs+U7bbKY++LHNQHLkgreXdxxjwFEmgLt6\nLewVaMNYFuiZHFwU+QZbob5ixtUAa2czBT8nwDlCjGaoSdKRBgzzoGahPzNUlg8d\nSE3ZguWK98YjwNZA5m1UHO9qhkBVrLMBWL6mSB5gqGrlWhmTUyfWVj1r11GeGbWK\nMpMRAKO/H0rNT5n5VmHZlZO2rzfmd1r6qPsmUK4y1W/7GyUZPt+j24nmgcM62vjI\nOHA8PAEymqwWtBC0e5Hs1jmllhE+xl2+gibvcLJHDpc5UfJDFphhVfIrW2/+UIZm\n4EV+NIN0yip61GsG+dHUioFaHZlhK4YjS/ECOJfltiIzty0TATm9VmuV1XAmzwAL\nsDylosdO+6dhbfYDwwnoHz8BytjlBZ4JJ5jYushw6ru58cMQAdpvAK9C2KL4XB4S\nM21KmsFb/isLoXWz3uQaYREU/IBQGd2aqeRAd+q3yNJcLy64Gy3wsf5sKwG04/rf\nT1G0v+TqIzNN0zbiY0zA3h4927qHdBCYjGfPm2jIvf1ZckgymytaGLtngHHlahFs\naeAB9FcsX7IwPBS6l5pd\n=AhHZ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJVkyH0AAoJEG48vOkzctz6ytQP/jHAJXxDjZAZazLRTGtxj27i\nEfzqkwDXTda8viWZiHS8/CeDqqXdMjpsJgX/CJApvHKFZE6E38uxK1l7fHtsslph\npyzVOyXmaYPl8j3QLWr9o/MNrHCdlhNs+U7bbKY++LHNQHLkgreXdxxjwFEmgLt6\nLewVaMNYFuiZHFwU+QZbob5ixtUAa2czBT8nwDlCjGaoSdKRBgzzoGahPzNUlg8d\nSE3ZguWK98YjwNZA5m1UHO9qhkBVrLMBWL6mSB5gqGrlWhmTUyfWVj1r11GeGbWK\nMpMRAKO/H0rNT5n5VmHZlZO2rzfmd1r6qPsmUK4y1W/7GyUZPt+j24nmgcM62vjI\nOHA8PAEymqwWtBC0e5Hs1jmllhE+xl2+gibvcLJHDpc5UfJDFphhVfIrW2/+UIZm\n4EV+NIN0yip61GsG+dHUioFaHZlhK4YjS/ECOJfltiIzty0TATm9VmuV1XAmzwAL\nsDylosdO+6dhbfYDwwnoHz8BytjlBZ4JJ5jYushw6ru58cMQAdpvAK9C2KL4XB4S\nM21KmsFb/isLoXWz3uQaYREU/IBQGd2aqeRAd+q3yNJcLy64Gy3wsf5sKwG04/rf\nT1G0v+TqIzNN0zbiY0zA3h4927qHdBCYjGfPm2jIvf1ZckgymytaGLtngHHlahFs\naeAB9FcsX7IwPBS6l5pd\n=AhHZ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d2f09e28678dc615cf7941e294e2fa7fe13134cd\ntype commit\ntag 7.1.0\ntagger Donald Stufft <donald@stufft.io> 1435705820 -0400\n\nReleased v7.1.0\n\n* Allow constraining versions globally without having to know exactly what will\n  be installed by the pip command. :issue:`2731`.\n\n* Accept --no-binary and --only-binary via pip.conf. :issue`2867`.\n\n* Allow ``--allow-all-external`` within a requirements file.\n\n* Fixed an issue where ``--user`` could not be used when ``--prefix`` was used\n  in a distutils configuration file.\n\n* Fixed an issue where the SOABI tags were not correctly being generated on\n  Python 3.5.\n\n* Fixed an issue where we were advising windows users to upgrade by directly\n  executing pip, when that would always fail on Windows.\n\n* Allow ``~`` to be expanded within a cache directory in all situations.\n"
+  }
+}

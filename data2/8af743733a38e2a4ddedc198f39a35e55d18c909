@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQxMzIxOTI6OGFmNzQzNzMzYTM4ZTJhNGRkZWRjMTk4ZjM5YTM1ZTU1ZDE4YzkwOQ==",
+  "sha": "8af743733a38e2a4ddedc198f39a35e55d18c909",
+  "url": "https://api.github.com/repos/pkg/sftp/git/tags/8af743733a38e2a4ddedc198f39a35e55d18c909",
+  "tagger": {
+    "name": "John Eikenberry",
+    "email": "jae@zhar.net",
+    "date": "2017-12-21T20:14:44Z"
+  },
+  "object": {
+    "sha": "9e9438a691ce6ff58935688a1ab7bdaa7da0f9de",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pkg/sftp/git/commits/9e9438a691ce6ff58935688a1ab7bdaa7da0f9de"
+  },
+  "tag": "1.1.0",
+  "message": "New bugfix and minor feature release\n\nFixes #207, a problem with the server returning bad paths\nAdds PR #213, adds PosixRename (OpenSsh extention) to client\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlo8FroACgkQPZqeWROp\nRaJrRgf/f8DMQSEsSKuWI+QbousxCKKs9xrNwSlm+D4eYsr27iLlEtGLxRaFOYWA\n4D66jB8zqcsJDhKWyv3HjNTsOLJbszxlkeCKqszMrlxv56xUj4a3k6vhMRTStRdg\nrvzCByiahzwOIcI37oEwV2WHXb6k3FdtyQ7t0sZNtrJVmnnOXmdQCz56l0RW9e4X\n/5YxBDP6HTyt3UOIHGTOxIC/ZNqj7s5/bi6CA8vploRToYj/cwJyl0YQaetUjuVO\nqME1nwe1XfYhKniuDmJYHSHTSpGMaMYsHHkbnXgqEe1+anLfg1vtgMPjTuVzO7PW\nN5vkbd0NdViJMytwXN0Ax9TbSpgQzg==\n=NQi4\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlo8FroACgkQPZqeWROp\nRaJrRgf/f8DMQSEsSKuWI+QbousxCKKs9xrNwSlm+D4eYsr27iLlEtGLxRaFOYWA\n4D66jB8zqcsJDhKWyv3HjNTsOLJbszxlkeCKqszMrlxv56xUj4a3k6vhMRTStRdg\nrvzCByiahzwOIcI37oEwV2WHXb6k3FdtyQ7t0sZNtrJVmnnOXmdQCz56l0RW9e4X\n/5YxBDP6HTyt3UOIHGTOxIC/ZNqj7s5/bi6CA8vploRToYj/cwJyl0YQaetUjuVO\nqME1nwe1XfYhKniuDmJYHSHTSpGMaMYsHHkbnXgqEe1+anLfg1vtgMPjTuVzO7PW\nN5vkbd0NdViJMytwXN0Ax9TbSpgQzg==\n=NQi4\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9e9438a691ce6ff58935688a1ab7bdaa7da0f9de\ntype commit\ntag 1.1.0\ntagger John Eikenberry <jae@zhar.net> 1513887284 -0800\n\nNew bugfix and minor feature release\n\nFixes #207, a problem with the server returning bad paths\nAdds PR #213, adds PosixRename (OpenSsh extention) to client\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2NzoxNThlNGViOTg5MjczNGM1YTMxZDAwZjY1OWViZjE4MDY0M2I1NTY3",
+  "sha": "158e4eb9892734c5a31d00f659ebf180643b5567",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/158e4eb9892734c5a31d00f659ebf180643b5567",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2013-08-08T00:43:25Z"
+  },
+  "object": {
+    "sha": "77f959a3ce9cc506efbf3a17290d387d0a6624f5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/77f959a3ce9cc506efbf3a17290d387d0a6624f5"
+  },
+  "tag": "1.4.1",
+  "message": "Released 1.4.1\n\n* **New Signing Key** Release 1.4.1 is using a different key than normal with\n  fingerprint: 7C6B 7C5D 5E2B 6356 A926 F04F 6E3C BCE9 3372 DCFA\n* Fixed issues with installing from pybundle files (Pull #1116).\n* Fixed error when sysconfig module throws an exception (Pull #1095).\n* Don't ignore already installed pre-releases (Pull #1076).\n* Fixes related to upgrading setuptools (Pull #1092).\n* Fixes so that --download works with wheel archives (Pull #1113).\n* Fixes related to recognizing and cleaning global build dirs (Pull #1080).\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\n\niQIcBAABAgAGBQJSAunWAAoJEG48vOkzctz6wWAP/1+pkN0NpDp+JZSoJVnNyhVi\n9KCNNZTvrdXjAqkp1oCSe45bzyxZvQ6LMTr8c0JKBeoaZHaUFLaWU28ARwUJiDK8\n3QVu3TghkmAd+5DRSuOGsMC4k4M+/bf/KmKttTesm2Q0HotJPgwJlsx0VoEyFi95\nClknrCce+tbKJ7AlVmDE2SZK43cfqcVGrhoLXJrLneUsnIbL6NZuIRvmLYHjktD2\neC2ZmgyONblD14Yp5l1sx1UK3bvYo5iZcsJE96Jx4T9ULYtrUYhzhiIW9+FozPg3\ndKx8MENuiC26V5bcyPNwo9/U6/bn8YbJ/Yq7F/L+WgNE8LY1OZLsejZI8MQ7NLyn\n3q8nkTI3h9ICmEBr5AoJ60PIufM1zKZFiKcEaeEDfdc6XqPM5WPA3aD0y/1Tp55C\nrxx9QH6bx4aKjzKD9s+5d4KkSRWO7CgBnx+7dBVZ+mTjHIaj3idQOoNPeQkMiS9G\nihnh6mThX4nBurlHpDSbMklEQbFBri6DhdPNhVccBlbkqj3A1zpb0kPWsF6Pdy84\nIPDcBPv8b3xgYSEQJzcJNOkiZCJ1TgEDQ9QERW9YEcpT3850MpnBBo6/gDVY7BCg\nNdnY1fYn80Z8wVNOMgZZ/UrQ508ICKjYp9o4E6TWGvas6WHokKT9JGD4PUEwJrgy\nY2B7j+dkV7vbbL4wfyxr\n=gbti\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\n\niQIcBAABAgAGBQJSAunWAAoJEG48vOkzctz6wWAP/1+pkN0NpDp+JZSoJVnNyhVi\n9KCNNZTvrdXjAqkp1oCSe45bzyxZvQ6LMTr8c0JKBeoaZHaUFLaWU28ARwUJiDK8\n3QVu3TghkmAd+5DRSuOGsMC4k4M+/bf/KmKttTesm2Q0HotJPgwJlsx0VoEyFi95\nClknrCce+tbKJ7AlVmDE2SZK43cfqcVGrhoLXJrLneUsnIbL6NZuIRvmLYHjktD2\neC2ZmgyONblD14Yp5l1sx1UK3bvYo5iZcsJE96Jx4T9ULYtrUYhzhiIW9+FozPg3\ndKx8MENuiC26V5bcyPNwo9/U6/bn8YbJ/Yq7F/L+WgNE8LY1OZLsejZI8MQ7NLyn\n3q8nkTI3h9ICmEBr5AoJ60PIufM1zKZFiKcEaeEDfdc6XqPM5WPA3aD0y/1Tp55C\nrxx9QH6bx4aKjzKD9s+5d4KkSRWO7CgBnx+7dBVZ+mTjHIaj3idQOoNPeQkMiS9G\nihnh6mThX4nBurlHpDSbMklEQbFBri6DhdPNhVccBlbkqj3A1zpb0kPWsF6Pdy84\nIPDcBPv8b3xgYSEQJzcJNOkiZCJ1TgEDQ9QERW9YEcpT3850MpnBBo6/gDVY7BCg\nNdnY1fYn80Z8wVNOMgZZ/UrQ508ICKjYp9o4E6TWGvas6WHokKT9JGD4PUEwJrgy\nY2B7j+dkV7vbbL4wfyxr\n=gbti\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 77f959a3ce9cc506efbf3a17290d387d0a6624f5\ntype commit\ntag 1.4.1\ntagger Donald Stufft <donald@stufft.io> 1375922605 -0400\n\nReleased 1.4.1\n\n* **New Signing Key** Release 1.4.1 is using a different key than normal with\n  fingerprint: 7C6B 7C5D 5E2B 6356 A926 F04F 6E3C BCE9 3372 DCFA\n* Fixed issues with installing from pybundle files (Pull #1116).\n* Fixed error when sysconfig module throws an exception (Pull #1095).\n* Don't ignore already installed pre-releases (Pull #1076).\n* Fixes related to upgrading setuptools (Pull #1092).\n* Fixes so that --download works with wheel archives (Pull #1113).\n* Fixes related to recognizing and cleaning global build dirs (Pull #1080).\n"
+  }
+}

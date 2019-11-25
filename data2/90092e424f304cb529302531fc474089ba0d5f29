@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkzNTI6OTAwOTJlNDI0ZjMwNGNiNTI5MzAyNTMxZmM0NzQwODliYTBkNWYyOQ==",
+  "sha": "90092e424f304cb529302531fc474089ba0d5f29",
+  "url": "https://api.github.com/repos/mikel/mail/git/tags/90092e424f304cb529302531fc474089ba0d5f29",
+  "tagger": {
+    "name": "Jeremy Daer",
+    "email": "jeremydaer@gmail.com",
+    "date": "2018-10-13T19:57:20Z"
+  },
+  "object": {
+    "sha": "7c43c84c16f017e0ff5e5c9962f6a1d842301ee3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mikel/mail/git/commits/7c43c84c16f017e0ff5e5c9962f6a1d842301ee3"
+  },
+  "tag": "2.7.1",
+  "message": "Mail 2.7.1\n\nCompatibility:\n* Restore LF=>CRLF conversions for properly encoded non-binary emails. (rubys)\n* Gracefully parse certain invalid Content-Type headers. (rafbm)\n* Support `x-uue` transfer encoding as uuencoding. (jkraemer)\n\nFeatures:\n* Expose Mail::Field#unparsed_value to read the raw field value, before parsing. (Tensho)\n\nPerformance:\n* Speed up message encoding, especially with large attachments. (dalibor)\n\nBugs:\n* Fix transfer encoding when message encoding is blank. (jakubonty, saks)\n* Fix 7bit/base64 content transfer encoding mismatch. (ahorek)\n* Fix UTF-8 attachment filename quoting. (ahorek)\n* Fix `delete_all` using a readonly IMAP connection. (kimromi)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

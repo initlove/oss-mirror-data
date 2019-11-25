@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDM5MzY5NjozMmJhMTgwZjI2NjU3NjBhN2E0ZDcwN2YzNGQ0YjBjNmIwODA0OTZk",
+  "sha": "32ba180f2665760a7a4d707f34d4b0c6b080496d",
+  "url": "https://api.github.com/repos/openstack/python-swiftclient/git/tags/32ba180f2665760a7a4d707f34d4b0c6b080496d",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-07-25T15:48:31Z"
+  },
+  "object": {
+    "sha": "1cf074f4da62b7a42f88aef3c8571e7b6e850823",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-swiftclient/git/commits/1cf074f4da62b7a42f88aef3c8571e7b6e850823"
+  },
+  "tag": "3.6.0",
+  "message": "python-swiftclient 3.6.0 release\n\nmeta:version: 3.6.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: John Dickinson <me@not.mn>\nmeta:release:Commit: John Dickinson <me@not.mn>\nmeta:release:Change-Id: Ibf6f15a3b8a4a68e89157285de98b7f56ba0fdfe\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbWJvPAAoJEMNs3LTfAMaMfysH+wRuEmtm6rgU/BVDLtPAnCwS\nLBuCYm/XBjf6ovnDAOwXMyHgQ+vaAHOm0cg2b55zue3dn+k4Z66VfuUXyx1T/JUC\nwCXPTYgNWFLaq9ieJJhqo/plLw0bkgYHczO22BZOhlE98tih19hxiwFqgSaQj6AD\nF3CNnlS63rt0ImkAQzicrh6N0dafcwg8sSc8ex/1Wducg7S8qHkzU3r3cQpfMVwd\ngMfXAuBcaSpWVKkCaU9iw/yA14ibFKgyeSQpnW+/C9sxTop1S9alZ07sfgTUmggj\nK6brJ80A0PshPL4+InRd+DCCoD75DNiW4vGF9gMYxA4jS/l8uQIRWDB4r0k13eM=\n=53Jt\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbWJvPAAoJEMNs3LTfAMaMfysH+wRuEmtm6rgU/BVDLtPAnCwS\nLBuCYm/XBjf6ovnDAOwXMyHgQ+vaAHOm0cg2b55zue3dn+k4Z66VfuUXyx1T/JUC\nwCXPTYgNWFLaq9ieJJhqo/plLw0bkgYHczO22BZOhlE98tih19hxiwFqgSaQj6AD\nF3CNnlS63rt0ImkAQzicrh6N0dafcwg8sSc8ex/1Wducg7S8qHkzU3r3cQpfMVwd\ngMfXAuBcaSpWVKkCaU9iw/yA14ibFKgyeSQpnW+/C9sxTop1S9alZ07sfgTUmggj\nK6brJ80A0PshPL4+InRd+DCCoD75DNiW4vGF9gMYxA4jS/l8uQIRWDB4r0k13eM=\n=53Jt\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1cf074f4da62b7a42f88aef3c8571e7b6e850823\ntype commit\ntag 3.6.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1532533711 +0000\n\npython-swiftclient 3.6.0 release\n\nmeta:version: 3.6.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: John Dickinson <me@not.mn>\nmeta:release:Commit: John Dickinson <me@not.mn>\nmeta:release:Change-Id: Ibf6f15a3b8a4a68e89157285de98b7f56ba0fdfe\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

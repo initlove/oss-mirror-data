@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2Nzo1MjcyZDBjOWQwODU2MThiMzE2YTRkNGRkNDg3NzNjZDJlZWNjOWY5",
+  "sha": "5272d0c9d085618b316a4d4dd48773cd2eecc9f9",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/5272d0c9d085618b316a4d4dd48773cd2eecc9f9",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2018-03-17T03:09:31Z"
+  },
+  "object": {
+    "sha": "41f09b555651768d1540db7173abe009c10cfe3e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/41f09b555651768d1540db7173abe009c10cfe3e"
+  },
+  "tag": "9.0.2",
+  "message": "Released v9.0.2\n\n* Fallback to using SecureTransport on macOS when the linked OpenSSL is too old\n  to support TLSv1.2.\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIzBAABCgAdFiEEfGt8XV4rY1apJvBPbjy86TNy3PoFAlqshvkACgkQbjy86TNy\n3PqHpA/9GzKaOY0wPz5W5X0LZLRoJaBEUf7jLViEOGE8OaDcbiouchLuEnA6Pty3\nnEm7FxX37jYLbhFc1cqETF+eeHb5qRNwblyWFFt09vrriFDk771E1yb2WVereUBR\nPhYJbXTgzgdx/aebxFF+xtzLw9El9480YMp+qzDaIo9a5m8eIk2Pji7A3hYUL0hF\n7pBro1Yl1apCRPKO1kYKUlkP4Vk4j0+waFq3nGC4uAuZX2jy8F1JHiqZ4UHR+Eh7\noZHWjgu29JURhCGgK6PpOJn6FpSVGNlY9u/qjrjrCFwyZHoHvnNQ2lXHhBN/wnS4\nCAkeFPKhjfhatWsoMkq0z5csRhZew5m907PUCSoEtbNrFkA8eeTp2rrx/nDP1UBh\nZm0ZxstQ/NUyQhnel5QS+dNsrVQPcfYFkP3XVOK5EJtjvB+AgDOBFDzpO4zSy2En\nd6pKfQRf47tBHALIgKFZPRqVczi7RZal0JNuL8Qukn88tzBul26fjkfk2BQKllOJ\nRoB+/TALyF1U9DQFNVxKvOi68aRyFSAAaDvk6RdKXWnZPQP4GaUfxHDR/XkXp4mj\nGnXEzoYugHNOfoPwrQ3/c3NFq3GyGzlVeNR3a5sJPvJK0jr05UNutfQDKWtPU9Ro\nByQw/on1xGAPcFdXzV1mGnFCW4F9ZPX4WBXZROkgXfLFiiBj5C0=\n=p8db\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIzBAABCgAdFiEEfGt8XV4rY1apJvBPbjy86TNy3PoFAlqshvkACgkQbjy86TNy\n3PqHpA/9GzKaOY0wPz5W5X0LZLRoJaBEUf7jLViEOGE8OaDcbiouchLuEnA6Pty3\nnEm7FxX37jYLbhFc1cqETF+eeHb5qRNwblyWFFt09vrriFDk771E1yb2WVereUBR\nPhYJbXTgzgdx/aebxFF+xtzLw9El9480YMp+qzDaIo9a5m8eIk2Pji7A3hYUL0hF\n7pBro1Yl1apCRPKO1kYKUlkP4Vk4j0+waFq3nGC4uAuZX2jy8F1JHiqZ4UHR+Eh7\noZHWjgu29JURhCGgK6PpOJn6FpSVGNlY9u/qjrjrCFwyZHoHvnNQ2lXHhBN/wnS4\nCAkeFPKhjfhatWsoMkq0z5csRhZew5m907PUCSoEtbNrFkA8eeTp2rrx/nDP1UBh\nZm0ZxstQ/NUyQhnel5QS+dNsrVQPcfYFkP3XVOK5EJtjvB+AgDOBFDzpO4zSy2En\nd6pKfQRf47tBHALIgKFZPRqVczi7RZal0JNuL8Qukn88tzBul26fjkfk2BQKllOJ\nRoB+/TALyF1U9DQFNVxKvOi68aRyFSAAaDvk6RdKXWnZPQP4GaUfxHDR/XkXp4mj\nGnXEzoYugHNOfoPwrQ3/c3NFq3GyGzlVeNR3a5sJPvJK0jr05UNutfQDKWtPU9Ro\nByQw/on1xGAPcFdXzV1mGnFCW4F9ZPX4WBXZROkgXfLFiiBj5C0=\n=p8db\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 41f09b555651768d1540db7173abe009c10cfe3e\ntype commit\ntag 9.0.2\ntagger Donald Stufft <donald@stufft.io> 1521256171 -0400\n\nReleased v9.0.2\n\n* Fallback to using SecureTransport on macOS when the linked OpenSSL is too old\n  to support TLSv1.2.\n"
+  }
+}

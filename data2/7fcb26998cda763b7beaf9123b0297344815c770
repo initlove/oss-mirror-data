@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc5MTM0ODo3ZmNiMjY5OThjZGE3NjNiN2JlYWY5MTIzYjAyOTczNDQ4MTVjNzcw",
+  "sha": "7fcb26998cda763b7beaf9123b0297344815c770",
+  "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/tags/7fcb26998cda763b7beaf9123b0297344815c770",
+  "tagger": {
+    "name": "JP Richardson",
+    "email": "jprichardson@gmail.com",
+    "date": "2014-08-11T16:08:08Z"
+  },
+  "object": {
+    "sha": "5d57bd8c75f94f62729d72e64211a39e22f2226e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/commits/5d57bd8c75f94f62729d72e64211a39e22f2226e"
+  },
+  "tag": "0.11.0",
+  "message": "0.11.0 / 2014-08-11\n-------------------\n- upgraded `\"ncp\": \"^0.5.1\"` to `\"ncp\": \"^0.6.0\"`\n- upgrade `jsonfile\": \"^1.2.0\"` to `jsonfile\": \"^2.0.0\"` => on write, json files now have `\\n` at end. Also adds `options.throws` to `readJsonSync()`\nsee https://github.com/jprichardson/node-jsonfile#readfilesyncfilename-options for more details.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

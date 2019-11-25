@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjo4OTZjZWM5ZDA0MzFlMWFmMDA5ODkxMzNkZWQzOWNjMjA1ZTNmNDMy",
+  "sha": "896cec9d0431e1af00989133ded39cc205e3f432",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/896cec9d0431e1af00989133ded39cc205e3f432",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:32:32Z"
+  },
+  "object": {
+    "sha": "d43f9606201a3c42c63b006a896c0a072973c8c9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/d43f9606201a3c42c63b006a896c0a072973c8c9"
+  },
+  "tag": "0.4.1",
+  "message": "v0.4.1\n- Initialize threads correctly on old versions of GLib2 (RhBug: 1108787)\n- Do not print log domain (get rid off C_CREATEREPOLIB prefix in log messages)\n- Implements support for --cachedir\n- New option --retain-old-md-by-age\n- Few small API changes\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

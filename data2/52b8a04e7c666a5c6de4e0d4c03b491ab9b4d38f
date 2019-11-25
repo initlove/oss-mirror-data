@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDE6NTJiOGEwNGU3YzY2NmE1YzZkZTRlMGQ0YzAzYjQ5MWFiOWI0ZDM4Zg==",
+  "sha": "52b8a04e7c666a5c6de4e0d4c03b491ab9b4d38f",
+  "url": "https://api.github.com/repos/openstack/ironic/git/tags/52b8a04e7c666a5c6de4e0d4c03b491ab9b4d38f",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-02-13T22:21:10Z"
+  },
+  "object": {
+    "sha": "2b92b53da819f32e48e963055fc08b53ead058d9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic/git/commits/2b92b53da819f32e48e963055fc08b53ead058d9"
+  },
+  "tag": "7.0.0",
+  "message": "ironic 7.0.0 release\n\nmeta:version: 7.0.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Commit: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Change-Id: Id18e6595e9685d202fff560b86cc48354e1e599c\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYojFWAAoJELkGmxM1cAzcK1YH/15CBK8rXtrep5srx1GtbJwD\n4DqrpL3lnVoOmGz6qmgmDne6CRI00mxJKdGVrRDc9uYi7fq3pp8ZZ4WSL4gjl/FW\nhzTE+YCMv+uZzvq+gbV5sdTQqmC5nTrEDY42g3bvru0CZiTR5JuRQLolJuSMl5Pj\nv0fnLZJxnoXTBsOb2K23r69AgZSKP+XdZGrfBJkmRTGRv+jPOiJ4ynvtwB7/sWu3\neRfLhZmglMSPodqoellCpds7qkoWyegAfxf1E6m1+PCnQ/6snoXkcrlDFlKdnle8\nk8eLD3JCIpdpuDjTGWeN6T4fjrfo8RkFqZ3Hs4MwsdGW20s9QMlk6MX8CPv13M8=\n=0Xry\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYojFWAAoJELkGmxM1cAzcK1YH/15CBK8rXtrep5srx1GtbJwD\n4DqrpL3lnVoOmGz6qmgmDne6CRI00mxJKdGVrRDc9uYi7fq3pp8ZZ4WSL4gjl/FW\nhzTE+YCMv+uZzvq+gbV5sdTQqmC5nTrEDY42g3bvru0CZiTR5JuRQLolJuSMl5Pj\nv0fnLZJxnoXTBsOb2K23r69AgZSKP+XdZGrfBJkmRTGRv+jPOiJ4ynvtwB7/sWu3\neRfLhZmglMSPodqoellCpds7qkoWyegAfxf1E6m1+PCnQ/6snoXkcrlDFlKdnle8\nk8eLD3JCIpdpuDjTGWeN6T4fjrfo8RkFqZ3Hs4MwsdGW20s9QMlk6MX8CPv13M8=\n=0Xry\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2b92b53da819f32e48e963055fc08b53ead058d9\ntype commit\ntag 7.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1487024470 +0000\n\nironic 7.0.0 release\n\nmeta:version: 7.0.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Commit: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Change-Id: Id18e6595e9685d202fff560b86cc48354e1e599c\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

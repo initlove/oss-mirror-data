@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc4OTM3MDo5ODI4NmRmMThkZWViODZmZTEyMGNiNDA4NTQwZGEwM2NjYmUwYzhh",
+  "sha": "98286df18deeb86fe120cb408540da03ccbe0c8a",
+  "url": "https://api.github.com/repos/openstack/python-novaclient/git/tags/98286df18deeb86fe120cb408540da03ccbe0c8a",
+  "tagger": {
+    "name": "Russell Bryant",
+    "email": "rbryant@redhat.com",
+    "date": "2013-08-07T13:38:19Z"
+  },
+  "object": {
+    "sha": "fe31607d1ba2596a5df7452b6c2227215e5397d3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-novaclient/git/commits/fe31607d1ba2596a5df7452b6c2227215e5397d3"
+  },
+  "tag": "2.14.1",
+  "message": "Tag 2.14.1\n\nThis release only contains one change on top of 2.14.0:\n\nfe31607 remove requests version max\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.13 (GNU/Linux)\n\niEYEABECAAYFAlICTd0ACgkQFg9ft4s9SAYksgCfU3tgNZtwMbbj6/gWCahzjO2B\nEYMAnRF3TSj94Wdiqg7Qk7lUOkH81l4z\n=waWX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.13 (GNU/Linux)\n\niEYEABECAAYFAlICTd0ACgkQFg9ft4s9SAYksgCfU3tgNZtwMbbj6/gWCahzjO2B\nEYMAnRF3TSj94Wdiqg7Qk7lUOkH81l4z\n=waWX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object fe31607d1ba2596a5df7452b6c2227215e5397d3\ntype commit\ntag 2.14.1\ntagger Russell Bryant <rbryant@redhat.com> 1375882699 -0400\n\nTag 2.14.1\n\nThis release only contains one change on top of 2.14.0:\n\nfe31607 remove requests version max\n"
+  }
+}

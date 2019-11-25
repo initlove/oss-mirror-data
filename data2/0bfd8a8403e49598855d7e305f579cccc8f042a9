@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOjBiZmQ4YTg0MDNlNDk1OTg4NTVkN2UzMDVmNTc5Y2NjYzhmMDQyYTk=",
+  "sha": "0bfd8a8403e49598855d7e305f579cccc8f042a9",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/0bfd8a8403e49598855d7e305f579cccc8f042a9",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2016-04-08T17:05:33Z"
+  },
+  "object": {
+    "sha": "742779c66d1ae34423235abbbd96aa80d32454be",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/742779c66d1ae34423235abbbd96aa80d32454be"
+  },
+  "tag": "2.0.7-beta5",
+  "message": "Version 2.0.7-beta5\n\n - Fix binary paths to confirm with modern standards\n - Confirm ns.js and electron compatibility\n - Make the outpout of `.list` consistent between platforms and docs\n - Define ambiguous flow control flags and document them\n - Add support for bluetooth devices in `.list` /dev/rfcommXX\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

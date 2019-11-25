@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTk4MzQzMTQ6MTMyMzBhMjBlMmEwYzkzYWY1MTJjMGMzZDRhNjk2ZTI3OWVhYTNlZQ==",
+  "sha": "13230a20e2a0c93af512c0c3d4a696e279eaa3ee",
+  "url": "https://api.github.com/repos/spinnaker/orca/git/tags/13230a20e2a0c93af512c0c3d4a696e279eaa3ee",
+  "tagger": {
+    "name": "Bob T Builder",
+    "email": "builds@netflix.com",
+    "date": "2015-11-13T21:01:58Z"
+  },
+  "object": {
+    "sha": "2b53b6240c25b892b63a14d365f58e2abe3b1565",
+    "type": "commit",
+    "url": "https://api.github.com/repos/spinnaker/orca/git/commits/2b53b6240c25b892b63a14d365f58e2abe3b1565"
+  },
+  "tag": "v1.7.0",
+  "message": "Release of 1.7.0\n\n- 2b53b6240c25b892b63a14d365f58e2abe3b1565: Merge pull request #637 from ttomsu/google-jumping-zones\n- eb5591b94e24a274ce0ee8591aed1f43ebd75738: Changes GCE task outputs that have 'deploy.server.groups' to be keyed by region instead of location (which for GCE is zone).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

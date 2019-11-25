@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQyNDUyMzg6MjUwYjhkZTVhNDY2ZWZiNDU3NTYzYThjNjY4ZTcyNmY1ZmQyNzdhMg==",
+  "sha": "250b8de5a466efb457563a8c668e726f5fd277a2",
+  "url": "https://api.github.com/repos/openstack/manila/git/tags/250b8de5a466efb457563a8c668e726f5fd277a2",
+  "tagger": {
+    "name": "Thierry Carrez",
+    "email": "thierry@openstack.org",
+    "date": "2016-06-03T07:20:59Z"
+  },
+  "object": {
+    "sha": "18640f689cd95a54712974d11758d3feb38f81a7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/manila/git/commits/18640f689cd95a54712974d11758d3feb38f81a7"
+  },
+  "tag": "3.0.0.0b1",
+  "message": "manila 3.0.0.0b1 development milestone\n\nmeta:version: 3.0.0.0b1\nmeta:series: newton\nmeta:release-type: development milestone\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ben Swartzlander <ben@swartzlander.org>\nmeta:release:Commit: Ben Swartzlander <ben@swartzlander.org>\nmeta:release:Change-Id: I1ad663fa10e60acc5adfe94b93d4d5a1b1e40ed0\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXUS/bAAoJEFB6+JAlsQQjbDYQALIH1nNus9XZzLIQiVygrbtT\nws1oDAoVjeg6gNmuiBH4nP20YZSM5NdhBYbc/jboCCKk4eXyr0IkJzpJ2rkJARim\nZvZQH445TJYIQ/0V3Um0uw3fItmbNAl6qW+AY6OZH6908sUw6cc+wRaowb3Pl4re\nDaKuj7FdmDzjrKmPo6EcSCR1vVWG9uSNqlUfbdOw1J+/Lff6lY6dZdHrrF/gEyRH\nIPEBr8Mu/B6t2ZHH2wXJ0arckXDvHmzMOrTdEl0gdqM75EdL7Vc1VEz1MGZZc8Ed\nsO2TwfBbqdixG3FBY8R4Xp1/UWlG72oeWI3zGPRfJ92UlB5s5kvWgLFnjI7ucgpj\niuguscdGfEUvP4cj+BGYHKz2tMmZKkhvoZITw/E2ggV1fYbrJ24SWQYNqkcEFBry\nmdmVBRhf1GHS+2PIUcxfMdZSOXLV2/SMKE9k19NHHjCnvCRKk2nYzIhhXA8Vmov6\nSf+pVWa+ldBpgMO7Ka5D5RPE5IITq47XWLOz8N/63SvirSD/d274GDHj1JZi2MA6\nbBnuyAl2FqSNUk75kPIXovnmlg9JK8IKUb3tiL/YOQR2wZPsvRJsTr1hjxy4AQq4\nC0wdnPiFDVYnD5vnvB28s/8G2U75K+MvWF6tWIAzegQ0z765UsPYrYXdUyJ0os8x\nzxKokZ8KI/MioEUK4ZVQ\n=znn1\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXUS/bAAoJEFB6+JAlsQQjbDYQALIH1nNus9XZzLIQiVygrbtT\nws1oDAoVjeg6gNmuiBH4nP20YZSM5NdhBYbc/jboCCKk4eXyr0IkJzpJ2rkJARim\nZvZQH445TJYIQ/0V3Um0uw3fItmbNAl6qW+AY6OZH6908sUw6cc+wRaowb3Pl4re\nDaKuj7FdmDzjrKmPo6EcSCR1vVWG9uSNqlUfbdOw1J+/Lff6lY6dZdHrrF/gEyRH\nIPEBr8Mu/B6t2ZHH2wXJ0arckXDvHmzMOrTdEl0gdqM75EdL7Vc1VEz1MGZZc8Ed\nsO2TwfBbqdixG3FBY8R4Xp1/UWlG72oeWI3zGPRfJ92UlB5s5kvWgLFnjI7ucgpj\niuguscdGfEUvP4cj+BGYHKz2tMmZKkhvoZITw/E2ggV1fYbrJ24SWQYNqkcEFBry\nmdmVBRhf1GHS+2PIUcxfMdZSOXLV2/SMKE9k19NHHjCnvCRKk2nYzIhhXA8Vmov6\nSf+pVWa+ldBpgMO7Ka5D5RPE5IITq47XWLOz8N/63SvirSD/d274GDHj1JZi2MA6\nbBnuyAl2FqSNUk75kPIXovnmlg9JK8IKUb3tiL/YOQR2wZPsvRJsTr1hjxy4AQq4\nC0wdnPiFDVYnD5vnvB28s/8G2U75K+MvWF6tWIAzegQ0z765UsPYrYXdUyJ0os8x\nzxKokZ8KI/MioEUK4ZVQ\n=znn1\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 18640f689cd95a54712974d11758d3feb38f81a7\ntype commit\ntag 3.0.0.0b1\ntagger Thierry Carrez <thierry@openstack.org> 1464938459 +0200\n\nmanila 3.0.0.0b1 development milestone\n\nmeta:version: 3.0.0.0b1\nmeta:series: newton\nmeta:release-type: development milestone\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ben Swartzlander <ben@swartzlander.org>\nmeta:release:Commit: Ben Swartzlander <ben@swartzlander.org>\nmeta:release:Change-Id: I1ad663fa10e60acc5adfe94b93d4d5a1b1e40ed0\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

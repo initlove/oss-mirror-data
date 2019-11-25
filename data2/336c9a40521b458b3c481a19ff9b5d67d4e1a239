@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTozMzZjOWE0MDUyMWI0NThiM2M0ODFhMTlmZjliNWQ2N2Q0ZTFhMjM5",
+  "sha": "336c9a40521b458b3c481a19ff9b5d67d4e1a239",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/336c9a40521b458b3c481a19ff9b5d67d4e1a239",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-10-21T15:43:48Z"
+  },
+  "object": {
+    "sha": "e0de475313e3f14b18e3757bd3323f8393ccb9ac",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/e0de475313e3f14b18e3757bd3323f8393ccb9ac"
+  },
+  "tag": "v1.3.2-rc.1",
+  "message": "Release of 1.3.2-rc.1\n\n- e0de475313e3f14b18e3757bd3323f8393ccb9ac: Merge pull request #686 from tbak/master\n- 9232cf26b35aec11938ba888ba557f1a5331f40d: Experimental EurekaClientFactoryBuilder\n- daa115b9a64333a74b3296fd6806f4f09dde986c: Merge pull request #685 from qiangdavidliu/master\n- 06032c978b0c5f161459dfba02bda5e44da6f86c: Adding registry size to metrics\n- 978fde17d8850daf414666581be43de5f103eb93: Support remote region fetch in the new transport\n- 5c758294985e3640f2f74cd1fdaedc5cf31b772a: Adding logging for retryClient succeed on retry\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

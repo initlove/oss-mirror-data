@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2NzoxYTBhNTRmZWNjMTc2OTQ1ZWE0ZjdlMzY4YzNjNDU1YzQ0NGIxNzk1",
+  "sha": "1a0a54fecc176945ea4f7e368c3c455c444b1795",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/1a0a54fecc176945ea4f7e368c3c455c444b1795",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2015-02-05T02:27:20Z"
+  },
+  "object": {
+    "sha": "1fac1f1e863f8829faf9ed95934ffe225b6ad49c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/1fac1f1e863f8829faf9ed95934ffe225b6ad49c"
+  },
+  "tag": "6.0.8",
+  "message": "Released 6.0.8\n\n* Fix an issue where the ``--download`` flag would cause pip to no longer use\n  randomized build directories.\n\n* Fix an issue where pip did not properly unquote quoted URLs which contain\n  characters like PEP 440's epoch separator (``!``).\n\n* Fix an issue where distutils installed projects were not actually uninstalled\n  and deprecate attempting to uninstall them altogether.\n\n* Retry deleting directories incase a process like an antivirus is holding the\n  directory open temporarily.\n\n* Fix an issue where pip would hide the cursor on Windows but would not reshow\n  it.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJU0tUWAAoJEG48vOkzctz6lJgQAJFVGMrUshfqxaXUtsnst9WQ\nQskp7XW97nwhAYB8MMR255oRsHXhaV3pWSkI1H64nQpx2SBlPffvdLhM0AteNbzj\nz6+DNK1JkmGcUbI8mHGl9cF+ocWVW6ZLS93dMVZeBrQKRRHqXbbnrV4m3UhfmZri\nHgFczNb+z2assuriTVLaqK71hZwwAZY8M6lTw0X/aRa2CTw/S9CPeQHntEaEZ8yY\naQC78GWuuzaYb9jtUGuFQmLX1KDrpKiDNuNLGAk74BYanUsYdbMGuCbrkhikPRWb\nq/9E0Ef90K37I/b3LsDtVGews28ABnQb7C8h1pUgFklXUD6WzJB5xqP90gI1FN7d\neVZG9MMCGGHJULXiuQF51cflM3ZpTM5hdqMR64H1QZylqP1nVCWtqkIZfrnhiaNk\nUWwPKOuTq2ccs9kBBnLEgxI6Fa1y0pg6hnWPjFOZBvG+0JBuFIlnrguIIurnJPaz\n2qtdAPhRJ63baGRgGXUttv+pTkJKvmNIug167otqaZXvozsBtqTF1nyLR3QYiMqd\nIliwLsIFLVRAY/KYGgz2vpj3JzvNOZ9AG6/ffI5ZYvgir7UFFMhAx32swJtqM0rF\nA3bS6btArDucsgBxpFs0fWaTiXOtTkJUlazS3kd9W9MqovtKVoqvRuI5/wakbmxE\nIra85IKMFsJ1rdgs3W+M\n=Gs4F\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJU0tUWAAoJEG48vOkzctz6lJgQAJFVGMrUshfqxaXUtsnst9WQ\nQskp7XW97nwhAYB8MMR255oRsHXhaV3pWSkI1H64nQpx2SBlPffvdLhM0AteNbzj\nz6+DNK1JkmGcUbI8mHGl9cF+ocWVW6ZLS93dMVZeBrQKRRHqXbbnrV4m3UhfmZri\nHgFczNb+z2assuriTVLaqK71hZwwAZY8M6lTw0X/aRa2CTw/S9CPeQHntEaEZ8yY\naQC78GWuuzaYb9jtUGuFQmLX1KDrpKiDNuNLGAk74BYanUsYdbMGuCbrkhikPRWb\nq/9E0Ef90K37I/b3LsDtVGews28ABnQb7C8h1pUgFklXUD6WzJB5xqP90gI1FN7d\neVZG9MMCGGHJULXiuQF51cflM3ZpTM5hdqMR64H1QZylqP1nVCWtqkIZfrnhiaNk\nUWwPKOuTq2ccs9kBBnLEgxI6Fa1y0pg6hnWPjFOZBvG+0JBuFIlnrguIIurnJPaz\n2qtdAPhRJ63baGRgGXUttv+pTkJKvmNIug167otqaZXvozsBtqTF1nyLR3QYiMqd\nIliwLsIFLVRAY/KYGgz2vpj3JzvNOZ9AG6/ffI5ZYvgir7UFFMhAx32swJtqM0rF\nA3bS6btArDucsgBxpFs0fWaTiXOtTkJUlazS3kd9W9MqovtKVoqvRuI5/wakbmxE\nIra85IKMFsJ1rdgs3W+M\n=Gs4F\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1fac1f1e863f8829faf9ed95934ffe225b6ad49c\ntype commit\ntag 6.0.8\ntagger Donald Stufft <donald@stufft.io> 1423103240 -0500\n\nReleased 6.0.8\n\n* Fix an issue where the ``--download`` flag would cause pip to no longer use\n  randomized build directories.\n\n* Fix an issue where pip did not properly unquote quoted URLs which contain\n  characters like PEP 440's epoch separator (``!``).\n\n* Fix an issue where distutils installed projects were not actually uninstalled\n  and deprecate attempting to uninstall them altogether.\n\n* Retry deleting directories incase a process like an antivirus is holding the\n  directory open temporarily.\n\n* Fix an issue where pip would hide the cursor on Windows but would not reshow\n  it.\n"
+  }
+}

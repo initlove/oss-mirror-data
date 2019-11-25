@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMToyY2RhYmViYmUwZTQxNjlmMjkwNmVlOTcxYTRlNDlkZjQ5MzhmYzAy",
+  "sha": "2cdabebbe0e4169f2906ee971a4e49df4938fc02",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/2cdabebbe0e4169f2906ee971a4e49df4938fc02",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-05-24T21:37:53Z"
+  },
+  "object": {
+    "sha": "0f39be12926fe2d8766a9f025797a473003e6504",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/0f39be12926fe2d8766a9f025797a473003e6504"
+  },
+  "tag": "v0.10.8",
+  "message": "2013.05.25, Version 0.10.8 (Stable)\n\nChanges since version 0.10.7:\n\n* windows: make uv_spawn not fail under job control (Bert Belder)\n\n* darwin: assume CFRunLoopStop() isn't thread-safe (Fedor Indutny)\n\n* win: fix UV_EALREADY incorrectly set (Bert Belder)\n\n* darwin: make two uv__cf_*() functions static (Ben Noordhuis)\n\n* darwin: task_info() cannot fail (Ben Noordhuis)\n\n* unix: add mapping for ENETDOWN (Ben Noordhuis)\n\n* unix: implicitly signal write errors to libuv user (Ben Noordhuis)\n\n* unix: fix assert on signal pipe overflow (Bert Belder)\n\n* unix: turn off POLLOUT after stream connect (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRn92xAAoJELCniwpsSBz2YyIH/RmcxEDl5rkgABq3cjsvaoD0\nVEVYrwcuLdwraPMrrpFIDBb6n3nPUj9mz9hIN7ZsqoEn4zGNx6GQdODNX+m0/jNv\nxp6uj0zgJ1n1TUcaqbo5VO2ynyPWM5OU+Xyt4vD3IkUgCFCJrOtOfCQT3U4nMlJl\n9zp/ebPIPTl3ojpoKikaw126lZR0SEkvCcBOVmtrJnqd2yOP7fBVyBUp2j1HWcPA\nYXkKjSt8wn861UVYjKBFYz3Txflv7Rzsape609IZWch2pEh5eLbENlfT/dTazr9D\n50S7q6zEk/RuMGZ6ICg3txi1181jGOn0d3YE+J21Ms0RJVhP9z8q9ev7QPSK9yo=\n=ZaKT\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRn92xAAoJELCniwpsSBz2YyIH/RmcxEDl5rkgABq3cjsvaoD0\nVEVYrwcuLdwraPMrrpFIDBb6n3nPUj9mz9hIN7ZsqoEn4zGNx6GQdODNX+m0/jNv\nxp6uj0zgJ1n1TUcaqbo5VO2ynyPWM5OU+Xyt4vD3IkUgCFCJrOtOfCQT3U4nMlJl\n9zp/ebPIPTl3ojpoKikaw126lZR0SEkvCcBOVmtrJnqd2yOP7fBVyBUp2j1HWcPA\nYXkKjSt8wn861UVYjKBFYz3Txflv7Rzsape609IZWch2pEh5eLbENlfT/dTazr9D\n50S7q6zEk/RuMGZ6ICg3txi1181jGOn0d3YE+J21Ms0RJVhP9z8q9ev7QPSK9yo=\n=ZaKT\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0f39be12926fe2d8766a9f025797a473003e6504\ntype commit\ntag v0.10.8\ntagger isaacs <i@izs.me> 1369431473 -0700\n\n2013.05.25, Version 0.10.8 (Stable)\n\nChanges since version 0.10.7:\n\n* windows: make uv_spawn not fail under job control (Bert Belder)\n\n* darwin: assume CFRunLoopStop() isn't thread-safe (Fedor Indutny)\n\n* win: fix UV_EALREADY incorrectly set (Bert Belder)\n\n* darwin: make two uv__cf_*() functions static (Ben Noordhuis)\n\n* darwin: task_info() cannot fail (Ben Noordhuis)\n\n* unix: add mapping for ENETDOWN (Ben Noordhuis)\n\n* unix: implicitly signal write errors to libuv user (Ben Noordhuis)\n\n* unix: fix assert on signal pipe overflow (Bert Belder)\n\n* unix: turn off POLLOUT after stream connect (Ben Noordhuis)\n"
+  }
+}

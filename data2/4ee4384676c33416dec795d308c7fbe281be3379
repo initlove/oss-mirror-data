@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDo0ZWU0Mzg0Njc2YzMzNDE2ZGVjNzk1ZDMwOGM3ZmJlMjgxYmUzMzc5",
+  "sha": "4ee4384676c33416dec795d308c7fbe281be3379",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/4ee4384676c33416dec795d308c7fbe281be3379",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2014-11-25T09:41:50Z"
+  },
+  "object": {
+    "sha": "48646cd673cbaa12032741e686e819eaa6de0585",
+    "type": "tag",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/48646cd673cbaa12032741e686e819eaa6de0585"
+  },
+  "tag": "librepo-0.0.4",
+  "message": "v0.0.4\n- Fix type conversion long long -> long.(RhBug: 957656)\n- python: Handle.perfrom() could be called without Result().\n- Add LRI_MAXMIRRORTRIES option. (RhBug: 954736)\n- py: unittests: Add metalink.xml and mirrorlist files. (RhBug: 954294)\n- Fix double free and memory leak. (RhBug: 954294)\n- New option LRO_MAXMIRRORTRIES. (RhBug: 949517)\n- LRI_MIRRORS return only content of mirrorlist file (without LRO_URL as first item).\n- Add LRO_FETCHMIRRORS option.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

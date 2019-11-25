@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkyMTcwNTQ6MzdkZjQ4NTU5YjJkN2Y2ZDhiY2MzNGVjZDcwYzY0MjFjMDUyMmQ0Zg==",
+  "sha": "37df48559b2d7f6d8bcc34ecd70c6421c0522d4f",
+  "url": "https://api.github.com/repos/micro/go-micro/git/tags/37df48559b2d7f6d8bcc34ecd70c6421c0522d4f",
+  "tagger": {
+    "name": "Asim Aslam",
+    "email": "asim@aslam.me",
+    "date": "2019-11-03T16:33:00Z"
+  },
+  "object": {
+    "sha": "c1b0a968ae93ebf5e8100dfc7ce2628d06be0d1e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micro/go-micro/git/commits/c1b0a968ae93ebf5e8100dfc7ce2628d06be0d1e"
+  },
+  "tag": "v1.15.0",
+  "message": "- go fmt -s\n- web generate service on registration\n- downgrade some network messages to trace\n- fix tunnel panic on deleting link\n- add postgres store\n- change grpc recover logging\n- add runtime service\n- add kubernetes runtime\n- add runtime notifier\n- proxy add header based routing for Micro-{Gateway, Router, Network}\n- network hash address based on service + node id\n- metadata add mergecontext function\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

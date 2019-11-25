@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY2OTM3NzQ6MWY3MTcwM2RmYTJiNDM4MmFhNDI0YWIyZmEwM2FhMzlmODc2YmE3Yg==",
+  "sha": "1f71703dfa2b4382aa424ab2fa03aa39f876ba7b",
+  "url": "https://api.github.com/repos/openstack/futurist/git/tags/1f71703dfa2b4382aa424ab2fa03aa39f876ba7b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-04-17T13:05:18Z"
+  },
+  "object": {
+    "sha": "fba366a839288efa8f92dab607adf5550c4fa7d5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/futurist/git/commits/fba366a839288efa8f92dab607adf5550c4fa7d5"
+  },
+  "tag": "1.1.0",
+  "message": "futurist 1.1.0 release\n\nmeta:version: 1.1.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Change-Id: Idc834fe45087ac6a97e2a41a515eb2d9822e0063\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY9L2OAAoJEOtsyhSD+nTsh4sIALWP+Z3VriPqKlWlKvkx2foS\n9+vMFkjLJ1O5M7PboOgnw4vqPokbPEnNMfoSLiuV1LxCkG1tKXAy0InpW5ODEUqA\nQ2DXG1LAGROssdCjLBbu6rp5Y6CE8KzScU417HVTHVLfRBImRwbpERlaqlnDw40W\nk9efYMulJ7+myM/klgqUaikNIrdD4LISAEjP0O1xKP3N7pswLO9aDjZIWyt+WOGH\n8/GH8UCamvR2Z1gtR8YzaAROobOcyep8lq4hPleDsdBl7CC7luEb4gbNtuaXuDSi\n60ZCxp8XC6kuxqOQjpo7dU6f/fGxg6mricXOVYkJuZY8dP5fc1HqoIC0g0KBYqc=\n=PIx0\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY9L2OAAoJEOtsyhSD+nTsh4sIALWP+Z3VriPqKlWlKvkx2foS\n9+vMFkjLJ1O5M7PboOgnw4vqPokbPEnNMfoSLiuV1LxCkG1tKXAy0InpW5ODEUqA\nQ2DXG1LAGROssdCjLBbu6rp5Y6CE8KzScU417HVTHVLfRBImRwbpERlaqlnDw40W\nk9efYMulJ7+myM/klgqUaikNIrdD4LISAEjP0O1xKP3N7pswLO9aDjZIWyt+WOGH\n8/GH8UCamvR2Z1gtR8YzaAROobOcyep8lq4hPleDsdBl7CC7luEb4gbNtuaXuDSi\n60ZCxp8XC6kuxqOQjpo7dU6f/fGxg6mricXOVYkJuZY8dP5fc1HqoIC0g0KBYqc=\n=PIx0\n-----END PGP SIGNATURE-----\n",
+    "payload": "object fba366a839288efa8f92dab607adf5550c4fa7d5\ntype commit\ntag 1.1.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1492434318 +0000\n\nfuturist 1.1.0 release\n\nmeta:version: 1.1.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Change-Id: Idc834fe45087ac6a97e2a41a515eb2d9822e0063\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkzNTI6MGZhMDMwMThjMGFmOTVjZTc3MjE1ZTMyYzdlYjVjZGM5MDA3NTk2Mg==",
+  "sha": "0fa03018c0af95ce77215e32c7eb5cdc90075962",
+  "url": "https://api.github.com/repos/mikel/mail/git/tags/0fa03018c0af95ce77215e32c7eb5cdc90075962",
+  "tagger": {
+    "name": "Jeremy Daer",
+    "email": "jeremydaer@gmail.com",
+    "date": "2016-03-23T15:23:37Z"
+  },
+  "object": {
+    "sha": "e9ce40293b269660d2d02dc38d666dd422d1c9c7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mikel/mail/git/commits/e9ce40293b269660d2d02dc38d666dd422d1c9c7"
+  },
+  "tag": "2.6.4",
+  "message": "== Version 2.6.4 - Wed Mar 23 08:16 -0700 2016 Jeremy Daer <jeremydaer@gmail.com>\n\nFeatures:\n* #772 - Normalize encoding matchers (grosser)\n* #775 - Avoid failed encodings / stop bad charsets early (grosser)\n* #782 – Make the gem compatible with Rubinius (robin850)\n* #865 - Allow a body with an invalid encoding to be round tripped (kjg)\n* #866 - Support decoding message bodies with non-Ruby-standard charsets (jeremy)\n* #868 - Use the Ruby19.charset_encoder when decoding message bodies (kjg)\n* #872 - Low-level option to include BCC field in the encoded message (grossadamm)\n* #901 - Allow mail.text_part = '…' and mail.html_part = '<p>…</p>' (taavo)\n* #924 - Matcher for having attachments (schepedw)\n\nPerformance:\n* #956 - Use native String#encode for CR/LF conversion (carsonreinke)\n* #970 - Support Ruby 2.3+ frozen string literals (twalpole)\n\nBugs:\n* #719 - Fix to not extract header content that looks like its field name (kjg)\n* #789 - Fix encoding collapsing not dealing with multiple encodings in 1 line (grosser)\n* #808 - Mail::Field correctly responds_to? the methods of its instantiated field (thegcat)\n* #849 - Handle calling Part#inline? when the Content-Disposition field couldn't be parsed (kjg)\n* #874 – Stay under 1000-char SMTP line length limits (pushrax)\n* #877 - Make Mail::Field == other take the field value into account (kjg)\n* #907 - Mail::ContentDispositionField should work with nil value (kjg)\n* #910 - Mail::Address should handle b_value_encoded local and domain parts (kjg)\n* #918 - Account for possibility of absent delivery-status headers (kjg)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

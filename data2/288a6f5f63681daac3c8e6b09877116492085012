@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDoyODhhNmY1ZjYzNjgxZGFhYzNjOGU2YjA5ODc3MTE2NDkyMDg1MDEy",
+  "sha": "288a6f5f63681daac3c8e6b09877116492085012",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/288a6f5f63681daac3c8e6b09877116492085012",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2014-11-25T09:47:47Z"
+  },
+  "object": {
+    "sha": "1cc16088f564736f98a5594d9e29534fe194a8c8",
+    "type": "tag",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/1cc16088f564736f98a5594d9e29534fe194a8c8"
+  },
+  "tag": "librepo-1.5.1",
+  "message": "v1.5.1\n- Downloading: LRO_MAXSPEED has effect over whole downloading, it is not\n  per target max speed anymore.\n- Sanitize progresscb (GitHub issue 24) (Thanks zde/zpavlas)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

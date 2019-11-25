@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6MTY1NGExOGRiOTY2YjliNWQyNWMzZGFlNmYwNjk5OWIxMWQ5NGIzZg==",
+  "sha": "1654a18db966b9b5d25c3dae6f06999b11d94b3f",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/1654a18db966b9b5d25c3dae6f06999b11d94b3f",
+  "tagger": {
+    "name": "wwerges",
+    "email": "code@getbraintree.com",
+    "date": "2019-07-26T17:25:22Z"
+  },
+  "object": {
+    "sha": "650b0769786bfe93b0d374b38aff6e3fdf2ad78b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/650b0769786bfe93b0d374b38aff6e3fdf2ad78b"
+  },
+  "tag": "3.4.0",
+  "message": "3.4.0\n\n* Send analytics timestamps in milliseconds\n* Add additional fields to ThreeDSecureInfo\n* Fix potential crash when 3DSecure 2.0 JWT is not available\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

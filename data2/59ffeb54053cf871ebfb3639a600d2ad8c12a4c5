@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDM5MzY5Njo1OWZmZWI1NDA1M2NmODcxZWJmYjM2MzlhNjAwZDJhZDhjMTJhNGM1",
+  "sha": "59ffeb54053cf871ebfb3639a600d2ad8c12a4c5",
+  "url": "https://api.github.com/repos/openstack/python-swiftclient/git/tags/59ffeb54053cf871ebfb3639a600d2ad8c12a4c5",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-01-27T17:17:27Z"
+  },
+  "object": {
+    "sha": "307d4c007afaccdcd70628d9fce44231115d62cd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-swiftclient/git/commits/307d4c007afaccdcd70628d9fce44231115d62cd"
+  },
+  "tag": "3.3.0",
+  "message": "python-swiftclient 3.3.0 release\n\nmeta:version: 3.3.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: John Dickinson <me@not.mn>\nmeta:release:Commit: John Dickinson <me@not.mn>\nmeta:release:Change-Id: Ie62d59a763b1269f42dc0d2eac43fdd12309292c\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYi4CnAAoJELkGmxM1cAzcaUUIAL92T6220X8l7phjneAVogN+\ncJ8ZVxJBQHMVpbTWjeKIp4T26AyVaAahii+FGVRvDgrs21b+D8ZQc3B1dl9guPns\n58wCSSLnstbSmTI7vXKwq1IETfPgRXDz9hczfjGQR7IoDRAF9X74cBBF7W1yB7L3\na1SGtJxHNSbIlX0kOHzQf6HJ5lxHPSJ4ieotbRNnqwfxcKCZFyyZ/+I7vXeuWY0h\nf7OKJRTaTtUQGRKgoeWtQTOra5Jk1eTX/dLVP6J+Wkeslm4Nn0Ntwuk2qhaq4PaT\nvTHJw6GZD0ASacXeM6xjxmvad8YMuFil6PjyDlt2xK4DiP5QX0SuwVFY5zIF1wc=\n=7uGV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYi4CnAAoJELkGmxM1cAzcaUUIAL92T6220X8l7phjneAVogN+\ncJ8ZVxJBQHMVpbTWjeKIp4T26AyVaAahii+FGVRvDgrs21b+D8ZQc3B1dl9guPns\n58wCSSLnstbSmTI7vXKwq1IETfPgRXDz9hczfjGQR7IoDRAF9X74cBBF7W1yB7L3\na1SGtJxHNSbIlX0kOHzQf6HJ5lxHPSJ4ieotbRNnqwfxcKCZFyyZ/+I7vXeuWY0h\nf7OKJRTaTtUQGRKgoeWtQTOra5Jk1eTX/dLVP6J+Wkeslm4Nn0Ntwuk2qhaq4PaT\nvTHJw6GZD0ASacXeM6xjxmvad8YMuFil6PjyDlt2xK4DiP5QX0SuwVFY5zIF1wc=\n=7uGV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 307d4c007afaccdcd70628d9fce44231115d62cd\ntype commit\ntag 3.3.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1485537447 +0000\n\npython-swiftclient 3.3.0 release\n\nmeta:version: 3.3.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: John Dickinson <me@not.mn>\nmeta:release:Commit: John Dickinson <me@not.mn>\nmeta:release:Change-Id: Ie62d59a763b1269f42dc0d2eac43fdd12309292c\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ5MDk2ODQ6Mzc2NmU1YWFjYzFkMjEyNWQ1MjlhNmMyNDE4NzIyYTdjMjFiYWE1Yg==",
+  "sha": "3766e5aacc1d2125d529a6c2418722a7c21baa5b",
+  "url": "https://api.github.com/repos/openstack/tooz/git/tags/3766e5aacc1d2125d529a6c2418722a7c21baa5b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-06-10T15:34:29Z"
+  },
+  "object": {
+    "sha": "ef5277d75c367ddf71fcddff3e7b47459914e0dc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/tooz/git/commits/ef5277d75c367ddf71fcddff3e7b47459914e0dc"
+  },
+  "tag": "1.65.0",
+  "message": "tooz 1.65.0 release\n\nmeta:version: 1.65.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Matthew Thode <mthode@mthode.org>\nmeta:release:Commit: Matthew Thode <mthode@mthode.org>\nmeta:release:Change-Id: Id5de482ec90bf0ae5b1365c7905d776c886ef4d6\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlz+eIUZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOHhxDACPbO/cJgXpaMj2xw9RtSBq\nCDAxgwcgenr0D2bMq8slOFT9zVg6II97jH5/KxvtTp1DFEUpYmJAZ3Ubzfi3gvqC\nPdlizOyqLxJ3DwcHIPm3XZe+FjOn72kKTXDjOe/3nOeUx2vMBWiKxAKd1FI0Gezm\n7eNZAkTpvkLiN0tX7vsxgZEouRCrdd39kcsoQuwkKkUwUw29GYjrhC67DGHgGx6w\nCF6JYcCyAvkdPw6GU8OmK2o4tzo3oWzVUJ0vrF7An5u1PngQThtsq7Y8ry81GXiO\nnWmgYC4Pp/3hCtNUe/mGooFeKafpi4+up2JcJYAeCRDGCnOTekn9QTkLm+nb3sHJ\n3T/0aEV+W3LwyJI3zfqQnbxFhjTDUxY3Kv0+9xt6AhJlk2XLkD+9gFyNtfmUCTBK\nhCj78oKOV6LSNEl9Hf8LbZ1uc0TAtNs8cIqJVmcZeDVGly/hhMpmWpVTOvp4cv5B\n9aJ3frfDDYVOUH1Mw5zpMZRG1JB1cQJ0sFgCyGbGzpY=\n=xWzT\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlz+eIUZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOHhxDACPbO/cJgXpaMj2xw9RtSBq\nCDAxgwcgenr0D2bMq8slOFT9zVg6II97jH5/KxvtTp1DFEUpYmJAZ3Ubzfi3gvqC\nPdlizOyqLxJ3DwcHIPm3XZe+FjOn72kKTXDjOe/3nOeUx2vMBWiKxAKd1FI0Gezm\n7eNZAkTpvkLiN0tX7vsxgZEouRCrdd39kcsoQuwkKkUwUw29GYjrhC67DGHgGx6w\nCF6JYcCyAvkdPw6GU8OmK2o4tzo3oWzVUJ0vrF7An5u1PngQThtsq7Y8ry81GXiO\nnWmgYC4Pp/3hCtNUe/mGooFeKafpi4+up2JcJYAeCRDGCnOTekn9QTkLm+nb3sHJ\n3T/0aEV+W3LwyJI3zfqQnbxFhjTDUxY3Kv0+9xt6AhJlk2XLkD+9gFyNtfmUCTBK\nhCj78oKOV6LSNEl9Hf8LbZ1uc0TAtNs8cIqJVmcZeDVGly/hhMpmWpVTOvp4cv5B\n9aJ3frfDDYVOUH1Mw5zpMZRG1JB1cQJ0sFgCyGbGzpY=\n=xWzT\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ef5277d75c367ddf71fcddff3e7b47459914e0dc\ntype commit\ntag 1.65.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1560180869 +0000\n\ntooz 1.65.0 release\n\nmeta:version: 1.65.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Matthew Thode <mthode@mthode.org>\nmeta:release:Commit: Matthew Thode <mthode@mthode.org>\nmeta:release:Change-Id: Id5de482ec90bf0ae5b1365c7905d776c886ef4d6\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

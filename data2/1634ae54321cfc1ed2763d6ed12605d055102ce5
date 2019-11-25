@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTk3MTg1MjoxNjM0YWU1NDMyMWNmYzFlZDI3NjNkNmVkMTI2MDVkMDU1MTAyY2U1",
+  "sha": "1634ae54321cfc1ed2763d6ed12605d055102ce5",
+  "url": "https://api.github.com/repos/openstack/murano/git/tags/1634ae54321cfc1ed2763d6ed12605d055102ce5",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-19T20:15:46Z"
+  },
+  "object": {
+    "sha": "e5c89bb4a753f030405b2094e29f69b52faac055",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/murano/git/commits/e5c89bb4a753f030405b2094e29f69b52faac055"
+  },
+  "tag": "7.0.0.0rc1",
+  "message": "murano 7.0.0.0rc1 release candidate\n\nmeta:version: 7.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I64dcfd053cac67c78d1e7ccb5a4330d9b98662c9\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyRTfIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOOw+C/9259ZeDrVDTF8Ix8AqJIpB\nq46YciaWmKffI5zHIF7CEclEZLTYvB9IAI6fBM68NL5jj+0Ou3GxKK/mGl3yGLbA\nZvgqa9H/YNB2ABzjK5WGI7iYA5jEM0zgfNAnrr3jBX9KgEzDk4cUZxCwR9VcE7vb\nfd4OPPxj6ZC1K63WI+cl/2UMApb2dYbYTY5s3CsqH1j9/Q1cZrCX824tPMuNZQ6q\nC4IZtWJM323vl1UlMS8f/pMAoUU1ONzSmNl/KcX+z9+8j3UCEEnlxVLibUq2e8kL\n4ynfGWT4D+4wdNjaNmWCgDkIaiXBAt4WWciN013YPym5pPvWw3uR2PlTYIEwQnK5\nxbOT78Kpzpkzg4UPuMJNt28TynQ5J4vhm1h+C6aEsFHLR+KjGAAlUkGPYJm5Jwqx\nmVJ3us6KjMMJtYkqbACrMPjZXL/QkqpIl9MiY692UH9/n5GQU9wmHq7ZbLC2EViJ\n98x0QEz/+VGhOYffhkGYe5kTYLTH14iSgzW3kt9P1r4=\n=1fQz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyRTfIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOOw+C/9259ZeDrVDTF8Ix8AqJIpB\nq46YciaWmKffI5zHIF7CEclEZLTYvB9IAI6fBM68NL5jj+0Ou3GxKK/mGl3yGLbA\nZvgqa9H/YNB2ABzjK5WGI7iYA5jEM0zgfNAnrr3jBX9KgEzDk4cUZxCwR9VcE7vb\nfd4OPPxj6ZC1K63WI+cl/2UMApb2dYbYTY5s3CsqH1j9/Q1cZrCX824tPMuNZQ6q\nC4IZtWJM323vl1UlMS8f/pMAoUU1ONzSmNl/KcX+z9+8j3UCEEnlxVLibUq2e8kL\n4ynfGWT4D+4wdNjaNmWCgDkIaiXBAt4WWciN013YPym5pPvWw3uR2PlTYIEwQnK5\nxbOT78Kpzpkzg4UPuMJNt28TynQ5J4vhm1h+C6aEsFHLR+KjGAAlUkGPYJm5Jwqx\nmVJ3us6KjMMJtYkqbACrMPjZXL/QkqpIl9MiY692UH9/n5GQU9wmHq7ZbLC2EViJ\n98x0QEz/+VGhOYffhkGYe5kTYLTH14iSgzW3kt9P1r4=\n=1fQz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e5c89bb4a753f030405b2094e29f69b52faac055\ntype commit\ntag 7.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1553026546 +0000\n\nmurano 7.0.0.0rc1 release candidate\n\nmeta:version: 7.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I64dcfd053cac67c78d1e7ccb5a4330d9b98662c9\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

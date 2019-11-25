@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE5OTMzNDc6N2UwMWFiZmRlYjQ4ZjQzYjQyNzFiYWQ5NTE1M2YzNTY3MjZjZTZiMQ==",
+  "sha": "7e01abfdeb48f43b4271bad95153f356726ce6b1",
+  "url": "https://api.github.com/repos/Netflix/spectator/git/tags/7e01abfdeb48f43b4271bad95153f356726ce6b1",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-07-02T12:45:08Z"
+  },
+  "object": {
+    "sha": "f98d9c7b8c7fc8cfe88006ab9583d3876bcb40f3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/spectator/git/commits/f98d9c7b8c7fc8cfe88006ab9583d3876bcb40f3"
+  },
+  "tag": "v0.27.0",
+  "message": "Release of 0.27.0\n\n- f98d9c7b8c7fc8cfe88006ab9583d3876bcb40f3: Merge pull request #176 from brharrington/servo-0.9.4\n- 07ac51840495e208f136e8f631402b0248d7bcd6: iep rxnetty module with fix for Configuration\n- 9e07264c56bd913ab970a68bc231975143e0ed6d: fix iep shadow version\n- b7b4a8251511d4b00a7951da775669a1159624fd: servo-0.9.4\n- 21ae4a6a0a5c966b5c1251cb99e318d160552ad1: Merge pull request #175 from brharrington/sidecar-env\n- fd6628e91c0ba43e0bd11f06c884e88f302e33dc: use an empty map if the env is null\n- f9a358a7afc4e2840b62b56b030f737ad22c3239: Merge pull request #174 from brharrington/jvm\n- 271c63c643c86a15fe954c3349d24dfee4b6fa05: pull common tags from the spark env\n- 1b14a29ffc8e1206f687393657e5d3e8c8f8427b: Merge pull request #173 from bkvenkat/sparkJvmSource\n- ffed8729f5459c174c227edc926efc2567de13c9: rename tag to source\n- 3889395b999a018655a984a5db7d27c2a6c63c69: add spark jvm metrics and rename tag to source\n- 3e6122569012de8dcf059b19e66d6e66dbe8dedf: Merge pull request #172 from brharrington/executor-fmt-update\n- 7578cc91277ad1286adb75dd0844f9e91da9d1b1: update pattern for executor stats\n- 80c781e2a66c518ed88c2590269c83b65db3ceed: Merge pull request #171 from brharrington/json-lib\n- d07a164f7a6aa0971d60ba97741cac7d6bf9678b: switch to proper json lib\n- 9c125e222f0b95bb021419469aebf8808e205455: Merge pull request #170 from brharrington/better-failure-logging\n- 33fe8572c385526103378c13c7006135b96e055d: add json payload to log for failures\n- 049691cd8aed2a709746369da332ca6408a8b31d: Merge pull request #167 from brharrington/fix-counters\n- e1593dc8538b59b06a0f3d2ce41232d446c26abc: fix counter increments for reporter\n- 4036f57eaf425a942141a15dd5efd8919fd6e650: Merge pull request #166 from brharrington/spark-gauge-counters\n- a2373a57ccca85b479ce3b10c3a441e521657462: allow some gauges to be mapped in as a counter\n- 5f8bf0ca21c2e891b3909e8fcc1b3ab084538084: Merge pull request #165 from pstout/pds-fix-null-vs-EMPTY\n- cb64e2928bedd0b980575d3b114d804e64ab9dfa: Replace null values with TagList.EMPTY references where appropriate.\n- 69010ff12fdfbef954361792a58bf50fb88aaf9c: Merge pull request #164 from brharrington/fix-docs\n- ddcb7d48bdf37ba6da381cad433a53790c930730: fix javadoc comments for BucketFunctions.latency*\n- d497857f5fd569c51c009de7141f1c33a9c21ef7: Merge pull request #163 from brharrington/jmh-plugin\n- 006f41b2450f243ec22ece7b763dba701642d50d: update gradle jmh plugin\n- 74dcc080f9b1f6c461202eff0676cca40dd1c4ec: Merge pull request #162 from brharrington/digest-config\n- e4aa8bcb56950d8a675951419dc7fb631d5242fb: remove archaius2 dependency\n- 85e4030edbe9bd2fa94bef5cbd2d2ef080469849: Merge pull request #161 from brharrington/config-accessors\n- d0aa8addd7a680d9ecbcf3cdcbea3bcc486b3f61: rename accessors to getXXX\n- ef93a2569b5e866c5591f0a9f43820cb5e9ee178: Merge pull request #160 from brharrington/public-config\n- d59ae7fda38c2dcc0e176ebfe9016bc8620f3059: make TDigestConfig public\n- e7128e3500068c2af841adcd4826471db017339e: Merge pull request #159 from brharrington/digest-inject\n- 8b3b10e90177d8fe5f8fe9fad9701b75b3f62d1a: switch to wrap the main registry\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

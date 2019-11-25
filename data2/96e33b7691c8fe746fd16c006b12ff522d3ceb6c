@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2Nzo5NmUzM2I3NjkxYzhmZTc0NmZkMTZjMDA2YjEyZmY1MjJkM2NlYjZj",
+  "sha": "96e33b7691c8fe746fd16c006b12ff522d3ceb6c",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/96e33b7691c8fe746fd16c006b12ff522d3ceb6c",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2018-03-22T01:05:29Z"
+  },
+  "object": {
+    "sha": "ece1c6b189755cef94242fbd1a2fd185e557ec68",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/ece1c6b189755cef94242fbd1a2fd185e557ec68"
+  },
+  "tag": "9.0.3",
+  "message": "Released v9.0.3\n\n* Fix an error where the vendored requests was not correctly containing itself\n  to only the internal vendored prefix.\n\n* Restore compatability with 2.6.\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIzBAABCgAdFiEEfGt8XV4rY1apJvBPbjy86TNy3PoFAlqzAW0ACgkQbjy86TNy\n3PoznQ//Zao5eA8LaNBZ9Fuj5nZnhwOaZUgwqfuMJt2JfUhryQXmzSbX0Z1Ol4Ul\n1BwgbGAv2cOkXHE2+h2IKutq3RwbWQROu53GbgikBWIi+Sk+Ew7i5nwcJku7v+ST\nIR9C4NHIpSz6ziS9sYrQ++Z8dB8diKe/lR3zN+YDu0acHYXQ+bFd7uzs4bLnYlAE\nWJ7Dagt9c8oazD1PE+XWA56IOlrTuhiXwZUfzK27mEGei4052DiHeLZ0RZzLc8iK\nPl+cr2HVR1zTwoyv4d2TjTau2aDbszDyfM2avd4HbB5+kt23QqNAVlzDu60xK4SC\nhfI0WzDB6N49ffhuz7h3uEBI+ZzKr+gvp366RPMxvgePEsTz+9bcEzDDxMT7SCGq\ncCkZUGdOpeNeKRJGQm6x5FPlxR1UC/XWwVbaBx5dhq9KOK49NbzfnF4e1AALlx09\n+KFgailJRCuh7ZzuAhUedaEIIUbvLb5wLPFXcNAdTfz8R1CPx2NuZiXGyAbe6X2w\nc56CQYhgJgd2YhIY5PB3tcMUJT88AEMr4xs35VZpZHJf7bDxW7fpl3jZ7RQxkcyd\nGF3JS8BSkEK6I22C0lWa2IS1jqse9+U5SgXE/dJ1rY7LMWwOViSMyJmCOWHr22sj\nVe8X05N4gO/C4AcQTiQ6TgZ/Dkqhl8lemlmGBBm3zo2Z9eKa/UA=\n=Em0/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIzBAABCgAdFiEEfGt8XV4rY1apJvBPbjy86TNy3PoFAlqzAW0ACgkQbjy86TNy\n3PoznQ//Zao5eA8LaNBZ9Fuj5nZnhwOaZUgwqfuMJt2JfUhryQXmzSbX0Z1Ol4Ul\n1BwgbGAv2cOkXHE2+h2IKutq3RwbWQROu53GbgikBWIi+Sk+Ew7i5nwcJku7v+ST\nIR9C4NHIpSz6ziS9sYrQ++Z8dB8diKe/lR3zN+YDu0acHYXQ+bFd7uzs4bLnYlAE\nWJ7Dagt9c8oazD1PE+XWA56IOlrTuhiXwZUfzK27mEGei4052DiHeLZ0RZzLc8iK\nPl+cr2HVR1zTwoyv4d2TjTau2aDbszDyfM2avd4HbB5+kt23QqNAVlzDu60xK4SC\nhfI0WzDB6N49ffhuz7h3uEBI+ZzKr+gvp366RPMxvgePEsTz+9bcEzDDxMT7SCGq\ncCkZUGdOpeNeKRJGQm6x5FPlxR1UC/XWwVbaBx5dhq9KOK49NbzfnF4e1AALlx09\n+KFgailJRCuh7ZzuAhUedaEIIUbvLb5wLPFXcNAdTfz8R1CPx2NuZiXGyAbe6X2w\nc56CQYhgJgd2YhIY5PB3tcMUJT88AEMr4xs35VZpZHJf7bDxW7fpl3jZ7RQxkcyd\nGF3JS8BSkEK6I22C0lWa2IS1jqse9+U5SgXE/dJ1rY7LMWwOViSMyJmCOWHr22sj\nVe8X05N4gO/C4AcQTiQ6TgZ/Dkqhl8lemlmGBBm3zo2Z9eKa/UA=\n=Em0/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ece1c6b189755cef94242fbd1a2fd185e557ec68\ntype commit\ntag 9.0.3\ntagger Donald Stufft <donald@stufft.io> 1521680729 -0400\n\nReleased v9.0.3\n\n* Fix an error where the vendored requests was not correctly containing itself\n  to only the internal vendored prefix.\n\n* Restore compatability with 2.6.\n"
+  }
+}

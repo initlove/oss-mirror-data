@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjAxMTU3MzA6MDIwZjVjNTliYzFhODhhOTE5Zjk0ZDljM2YyMTYwYjVjNmJhOTE2MA==",
+  "sha": "020f5c59bc1a88a919f94d9c3f2160b5c6ba9160",
+  "url": "https://api.github.com/repos/openstack/python-barbicanclient/git/tags/020f5c59bc1a88a919f94d9c3f2160b5c6ba9160",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-07-26T18:29:43Z"
+  },
+  "object": {
+    "sha": "adce2c1a6070fc3c381cb3da9e9f31821fe4b52d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-barbicanclient/git/commits/adce2c1a6070fc3c381cb3da9e9f31821fe4b52d"
+  },
+  "tag": "4.5.0",
+  "message": "python-barbicanclient 4.5.0 release\n\nmeta:version: 4.5.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Dave McCowan <dmccowan@cisco.com>\nmeta:release:Commit: Dave McCowan <dmccowan@cisco.com>\nmeta:release:Change-Id: I6473ff88924e56f7ef984d98649499ab357df49b\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZeN+XAAoJEOtsyhSD+nTsbd4H/1MO1vZTSRE7jSk2e9ZF2x9s\nH8DrbRwsaDTqshBmu7t/JPuG3Vd+tAzBc9CNntxl5pj9Vna+t2pKzDQVohc1t+xh\nnHV3OSppDoIXVHIb+FqV7CmiPBhWk4TnKJXgindEoKJU0B45bqhdS7py3Xo/F9rf\noEk6NDB8jw38CTytCu1S1bEx1tWxB99xqhU7+YbWecLyNQbJHnngySuXSZyAGBy6\nZUJzpc/b5+yXRN4dMEWfKHtnbSLXZuHFMIqnZ7Vkz8t05jaF9FW77FmCgcC2pPw8\n1sDcMZKemtPTElSJVsfF53hY3Dwba2jFFBOOEX8Glmpvc+h576bv6/GRQE2ORoA=\n=Tbaj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZeN+XAAoJEOtsyhSD+nTsbd4H/1MO1vZTSRE7jSk2e9ZF2x9s\nH8DrbRwsaDTqshBmu7t/JPuG3Vd+tAzBc9CNntxl5pj9Vna+t2pKzDQVohc1t+xh\nnHV3OSppDoIXVHIb+FqV7CmiPBhWk4TnKJXgindEoKJU0B45bqhdS7py3Xo/F9rf\noEk6NDB8jw38CTytCu1S1bEx1tWxB99xqhU7+YbWecLyNQbJHnngySuXSZyAGBy6\nZUJzpc/b5+yXRN4dMEWfKHtnbSLXZuHFMIqnZ7Vkz8t05jaF9FW77FmCgcC2pPw8\n1sDcMZKemtPTElSJVsfF53hY3Dwba2jFFBOOEX8Glmpvc+h576bv6/GRQE2ORoA=\n=Tbaj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object adce2c1a6070fc3c381cb3da9e9f31821fe4b52d\ntype commit\ntag 4.5.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1501093783 +0000\n\npython-barbicanclient 4.5.0 release\n\nmeta:version: 4.5.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Dave McCowan <dmccowan@cisco.com>\nmeta:release:Commit: Dave McCowan <dmccowan@cisco.com>\nmeta:release:Change-Id: I6473ff88924e56f7ef984d98649499ab357df49b\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

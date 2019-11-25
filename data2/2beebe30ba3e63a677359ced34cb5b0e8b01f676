@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA2OTg1ODQ6MmJlZWJlMzBiYTNlNjNhNjc3MzU5Y2VkMzRjYjViMGU4YjAxZjY3Ng==",
+  "sha": "2beebe30ba3e63a677359ced34cb5b0e8b01f676",
+  "url": "https://api.github.com/repos/openstack/python-troveclient/git/tags/2beebe30ba3e63a677359ced34cb5b0e8b01f676",
+  "tagger": {
+    "name": "Nikhil Manchanda",
+    "email": "SlickNik@gmail.com",
+    "date": "2015-03-18T03:45:55Z"
+  },
+  "object": {
+    "sha": "a36ebe539ce0affef5388b7edd7a6a230a0fde6c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-troveclient/git/commits/a36ebe539ce0affef5388b7edd7a6a230a0fde6c"
+  },
+  "tag": "1.0.9",
+  "message": "Releasing python-troveclient version 1.0.9\n\nMajor changes since version 1.0.8:\n- Added support for Replication V2\n- Added support for coverage library\n- Fixed issues while using --bypass-url\n- TroveClient API Documentation cleanup\n- Add profiling support to Trove client\n- Add instance name as parameter to CLI\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJVCPUGAAoJEJaSdX6809ZsMEUIALpsJd8NZU/gPZGmzipi3aof\npPCUSpXwwYb7L62zITDfBJUlAW94tDm/KcAsyqI4/FWxdrL7+moNxobkYW+eICJs\nOowZCVXhpph6QqYHok+Bz99E3GsdTYWwWdyiFNwMVExJ3sEmjYnj2lJ/UipPuxUh\n+PahzZ6LFoQvw7XiCHDsbHK4jYFiPW9Z5rAgzibq7HBFaMRwi71Qv6X9qBzfNTzC\nuQwf8nBiNVDEVHWlkctbG5DDvv2UbdBmuT8A24jlDUrRjWArymsVU+uXCM19w3FV\ng8hVSDnRjOkkpBLxqlpN7ha6m4iRmGHJHlRTeRMksFI/SaccCnAAwBJNe1TMylg=\n=y1Pi\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJVCPUGAAoJEJaSdX6809ZsMEUIALpsJd8NZU/gPZGmzipi3aof\npPCUSpXwwYb7L62zITDfBJUlAW94tDm/KcAsyqI4/FWxdrL7+moNxobkYW+eICJs\nOowZCVXhpph6QqYHok+Bz99E3GsdTYWwWdyiFNwMVExJ3sEmjYnj2lJ/UipPuxUh\n+PahzZ6LFoQvw7XiCHDsbHK4jYFiPW9Z5rAgzibq7HBFaMRwi71Qv6X9qBzfNTzC\nuQwf8nBiNVDEVHWlkctbG5DDvv2UbdBmuT8A24jlDUrRjWArymsVU+uXCM19w3FV\ng8hVSDnRjOkkpBLxqlpN7ha6m4iRmGHJHlRTeRMksFI/SaccCnAAwBJNe1TMylg=\n=y1Pi\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a36ebe539ce0affef5388b7edd7a6a230a0fde6c\ntype commit\ntag 1.0.9\ntagger Nikhil Manchanda <SlickNik@gmail.com> 1426650355 -0700\n\nReleasing python-troveclient version 1.0.9\n\nMajor changes since version 1.0.8:\n- Added support for Replication V2\n- Added support for coverage library\n- Fixed issues while using --bypass-url\n- TroveClient API Documentation cleanup\n- Add profiling support to Trove client\n- Add instance name as parameter to CLI\n"
+  }
+}

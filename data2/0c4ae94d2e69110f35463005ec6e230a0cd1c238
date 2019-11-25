@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY5NjAyOTM6MGM0YWU5NGQyZTY5MTEwZjM1NDYzMDA1ZWM2ZTIzMGEwY2QxYzIzOA==",
+  "sha": "0c4ae94d2e69110f35463005ec6e230a0cd1c238",
+  "url": "https://api.github.com/repos/opencontainers/runtime-spec/git/tags/0c4ae94d2e69110f35463005ec6e230a0cd1c238",
+  "tagger": {
+    "name": "Vincent Batts",
+    "email": "vbatts@hashbangbash.com",
+    "date": "2016-04-12T18:54:02Z"
+  },
+  "object": {
+    "sha": "78e6667ae2d67aad100b28ee9580b41b7a24e667",
+    "type": "commit",
+    "url": "https://api.github.com/repos/opencontainers/runtime-spec/git/commits/78e6667ae2d67aad100b28ee9580b41b7a24e667"
+  },
+  "tag": "v0.5.0",
+  "message": "Breaking changes:\n\n* specs-go: Renamed the repository from opencontainers/specs to opencontainers/runtime-spec, #365\n\nAdditions:\n\n* config: Add 'timeout' for hooks, #346\n* config-linux: Add 'maskedPaths' and 'readonlyPaths', #364\n\nMinor fixes and documentation:\n\n* JSON Schema bug-fixes and improved examples, #370\n* README: Define \"unconditionally compliant\", #374\n* config: Make Markdown canonical, #342\n* config: Explicitly list mapping from symbolic names to UID/GIDs as out-of-scope, #347\n* config-linux: Require the runtime mount namespace for namespace 'path' values, #275\n* config-linux: Reword kernelTCP docs, #377\n* specs-go: Add omitempty to 'Device' and 'Namespace', #340\n* .travis.yml: Use built-in 'go vet' and current 'go lint', dropping Go < 1.5, #372, #352\n* implementations: Expand ocitools scope to include testing, #328\n* style: Move one-sentence-per-line rule from the README, #369\n* style: Remove dangling parenthesis, #359\n* README: Add a link to the IRC logs, #358\n* Fix \"manadate\", \"exmaple\", \"paramters\", and \"preferrably\" typos, #353, #354\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlcNRE0ACgkQEJN+V3M/E2JJEwCghgzy9fCzfooF0iVK0LCs0JSq\nxCYAoJ5SAcGhnB4myeA5yQOQzKXiWW8M\n=g6nA\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlcNRE0ACgkQEJN+V3M/E2JJEwCghgzy9fCzfooF0iVK0LCs0JSq\nxCYAoJ5SAcGhnB4myeA5yQOQzKXiWW8M\n=g6nA\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 78e6667ae2d67aad100b28ee9580b41b7a24e667\ntype commit\ntag v0.5.0\ntagger Vincent Batts <vbatts@hashbangbash.com> 1460487242 -0400\n\nBreaking changes:\n\n* specs-go: Renamed the repository from opencontainers/specs to opencontainers/runtime-spec, #365\n\nAdditions:\n\n* config: Add 'timeout' for hooks, #346\n* config-linux: Add 'maskedPaths' and 'readonlyPaths', #364\n\nMinor fixes and documentation:\n\n* JSON Schema bug-fixes and improved examples, #370\n* README: Define \"unconditionally compliant\", #374\n* config: Make Markdown canonical, #342\n* config: Explicitly list mapping from symbolic names to UID/GIDs as out-of-scope, #347\n* config-linux: Require the runtime mount namespace for namespace 'path' values, #275\n* config-linux: Reword kernelTCP docs, #377\n* specs-go: Add omitempty to 'Device' and 'Namespace', #340\n* .travis.yml: Use built-in 'go vet' and current 'go lint', dropping Go < 1.5, #372, #352\n* implementations: Expand ocitools scope to include testing, #328\n* style: Move one-sentence-per-line rule from the README, #369\n* style: Remove dangling parenthesis, #359\n* README: Add a link to the IRC logs, #358\n* Fix \"manadate\", \"exmaple\", \"paramters\", and \"preferrably\" typos, #353, #354\n"
+  }
+}

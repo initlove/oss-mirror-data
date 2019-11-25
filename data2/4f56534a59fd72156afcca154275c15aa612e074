@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkyMTcwNTQ6NGY1NjUzNGE1OWZkNzIxNTZhZmNjYTE1NDI3NWMxNWFhNjEyZTA3NA==",
+  "sha": "4f56534a59fd72156afcca154275c15aa612e074",
+  "url": "https://api.github.com/repos/micro/go-micro/git/tags/4f56534a59fd72156afcca154275c15aa612e074",
+  "tagger": {
+    "name": "Asim Aslam",
+    "email": "asim@aslam.me",
+    "date": "2019-02-01T19:03:06Z"
+  },
+  "object": {
+    "sha": "cead99ac4419cb689fd6c46b57aba45a88b05753",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micro/go-micro/git/commits/cead99ac4419cb689fd6c46b57aba45a88b05753"
+  },
+  "tag": "v0.24.1",
+  "message": "- Various bug fixes\n- Backwards compatible with 0.14 and older\n- Fix mdns and gossip race conditions\n- Use official h2c server\n- Enable support for MICRO_PROXY\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

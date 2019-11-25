@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc4OTM3MDoyZjg1NDNjOWIyNTVjZDk3YWQwN2ZkNTA4Yzk3ZGMyMmJjZTQxZGZm",
+  "sha": "2f8543c9b255cd97ad07fd508c97dc22bce41dff",
+  "url": "https://api.github.com/repos/openstack/python-novaclient/git/tags/2f8543c9b255cd97ad07fd508c97dc22bce41dff",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-06-07T12:03:39Z"
+  },
+  "object": {
+    "sha": "fd45db19b6faf11443b893f941f936bd4652e76b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-novaclient/git/commits/fd45db19b6faf11443b893f941f936bd4652e76b"
+  },
+  "tag": "3.3.3",
+  "message": "python-novaclient 3.3.3 release\n\nmeta:version: 3.3.3\nmeta:diff-start: -\nmeta:series: mitaka\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I109393f27729a76d49f69333c7959e3b2c1f85fe\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZN+ubAAoJEOtsyhSD+nTsM3IIAJGbzZRoh6pAB2V+0U1RvR4K\nxnV171tUwuPKkMNeq0j67KllwzyxqMu2ZY3KuD79HxW3C7GIePLJNp+sAyYEcJi6\nc5IPSETm0NA9OQi07F760qMNC/T4VB+v9HT3Ov8P3zxsCiQNPWZ4z0r+Kpyc2GI9\n6djnzhSioTMsQ1hRkveaIVQCaFownFtwoQSBCFjJqpyRZFPpeObY8Z9sg0wS9Uta\naRbrREkoJuSjNfU6KH+9LNu7aW1jhtsj6zulkPCUfxBfrEnQj+w7R+DfOSaU4je4\nbxrJBEkh/W/qsg+7FQIlDieTCbFtsu9yBm6l2IIemViUfhgBhBcLyYNNIDmGJYo=\n=qFLq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZN+ubAAoJEOtsyhSD+nTsM3IIAJGbzZRoh6pAB2V+0U1RvR4K\nxnV171tUwuPKkMNeq0j67KllwzyxqMu2ZY3KuD79HxW3C7GIePLJNp+sAyYEcJi6\nc5IPSETm0NA9OQi07F760qMNC/T4VB+v9HT3Ov8P3zxsCiQNPWZ4z0r+Kpyc2GI9\n6djnzhSioTMsQ1hRkveaIVQCaFownFtwoQSBCFjJqpyRZFPpeObY8Z9sg0wS9Uta\naRbrREkoJuSjNfU6KH+9LNu7aW1jhtsj6zulkPCUfxBfrEnQj+w7R+DfOSaU4je4\nbxrJBEkh/W/qsg+7FQIlDieTCbFtsu9yBm6l2IIemViUfhgBhBcLyYNNIDmGJYo=\n=qFLq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object fd45db19b6faf11443b893f941f936bd4652e76b\ntype commit\ntag 3.3.3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1496837019 +0000\n\npython-novaclient 3.3.3 release\n\nmeta:version: 3.3.3\nmeta:diff-start: -\nmeta:series: mitaka\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I109393f27729a76d49f69333c7959e3b2c1f85fe\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

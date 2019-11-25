@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDQ6MmFjYmM4ZTQ2MDJlYzAxZWMxMjRmM2VkNDY2MWE0MjI2ZTBhMzQ0Yw==",
+  "sha": "2acbc8e4602ec01ec124f3ed4661a4226e0a344c",
+  "url": "https://api.github.com/repos/openstack/python-ironicclient/git/tags/2acbc8e4602ec01ec124f3ed4661a4226e0a344c",
+  "tagger": {
+    "name": "Devananda van der Veen",
+    "email": "devananda.vdv@gmail.com",
+    "date": "2014-01-23T17:54:28Z"
+  },
+  "object": {
+    "sha": "2856afddce6926776e641dcc6211007622ad091c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironicclient/git/commits/2856afddce6926776e641dcc6211007622ad091c"
+  },
+  "tag": "0.1.1",
+  "message": "Release 0.1.1\n\nEnhancements:\n- driver-list command to show the list of conductors\n- ironic client should display chassis_uuid value\n- Add set_provision_state to client libs\n- Improve node-validate command output\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.14 (GNU/Linux)\n\niEYEABECAAYFAlLhWBgACgkQhFvuBniJg6cvogCg08zTi6VANOVM3OCyC2SifRuU\ng7oAoM3QaLvBMhfstPL1IigqlkO7lWsp\n=yvP/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.14 (GNU/Linux)\n\niEYEABECAAYFAlLhWBgACgkQhFvuBniJg6cvogCg08zTi6VANOVM3OCyC2SifRuU\ng7oAoM3QaLvBMhfstPL1IigqlkO7lWsp\n=yvP/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2856afddce6926776e641dcc6211007622ad091c\ntype commit\ntag 0.1.1\ntagger Devananda van der Veen <devananda.vdv@gmail.com> 1390499668 -0800\n\nRelease 0.1.1\n\nEnhancements:\n- driver-list command to show the list of conductors\n- ironic client should display chassis_uuid value\n- Add set_provision_state to client libs\n- Improve node-validate command output\n"
+  }
+}

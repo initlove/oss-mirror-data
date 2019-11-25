@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTowMzExMzliMzAyYjU1M2I4ODExZWQ3NWMxZGY2MDE2NjgwNzIwOWY1",
+  "sha": "031139b302b553b8811ed75c1df60166807209f5",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/031139b302b553b8811ed75c1df60166807209f5",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-05-01T16:23:46Z"
+  },
+  "object": {
+    "sha": "6e24ce23b1e7576059f85a608eca13b766458a01",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/6e24ce23b1e7576059f85a608eca13b766458a01"
+  },
+  "tag": "v0.10.27",
+  "message": "2014.05.02, Version 0.10.27 (Stable)\n\nChanges since version 0.10.26:\n\n* windows: fix console signal handler refcount (Saúl Ibarra Corretgé)\n\n* win: always leave crit section in get_proc_title (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlNidRIACgkQfTP/nQJGQG1U7wCfc0oe0TXGV8+E21YItq4oqbS6\nr94An1wHrbi+BTiBgR0IZgRzNpeMQokQ\n=DQMX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlNidRIACgkQfTP/nQJGQG1U7wCfc0oe0TXGV8+E21YItq4oqbS6\nr94An1wHrbi+BTiBgR0IZgRzNpeMQokQ\n=DQMX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6e24ce23b1e7576059f85a608eca13b766458a01\ntype commit\ntag v0.10.27\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1398961426 -0700\n\n2014.05.02, Version 0.10.27 (Stable)\n\nChanges since version 0.10.26:\n\n* windows: fix console signal handler refcount (Saúl Ibarra Corretgé)\n\n* win: always leave crit section in get_proc_title (Fedor Indutny)\n"
+  }
+}

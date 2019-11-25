@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDQ6MGZiYjUwYTVjYjc2MTBhNTFmN2IzMzJkMTQ4Njk1OWYxZGZlNWU2NA==",
+  "sha": "0fbb50a5cb7610a51f7b332d1486959f1dfe5e64",
+  "url": "https://api.github.com/repos/openstack/python-ironicclient/git/tags/0fbb50a5cb7610a51f7b332d1486959f1dfe5e64",
+  "tagger": {
+    "name": "Devananda van der Veen",
+    "email": "devananda.vdv@gmail.com",
+    "date": "2013-12-17T22:51:18Z"
+  },
+  "object": {
+    "sha": "52dd6bee16fcb6d2e04f02122519e98569b01811",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironicclient/git/commits/52dd6bee16fcb6d2e04f02122519e98569b01811"
+  },
+  "tag": "0.1.0",
+  "message": "Release 0.1.0\n\nIncompatibile changes:\n  e9a4465 - Rename nodes/<uuid>/state to nodes/<uuid>/states\n  fb99cd7 - Replace chassis_id with chassis_uuid on Nodes\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (GNU/Linux)\n\niEYEABECAAYFAlKw11IACgkQhFvuBniJg6cGewCfbU/XQcqW+A+6U2zTV4KUpLVF\ndAoAoLYMEh/9JQwobGbqowWblxNlT0jK\n=eKs/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (GNU/Linux)\n\niEYEABECAAYFAlKw11IACgkQhFvuBniJg6cGewCfbU/XQcqW+A+6U2zTV4KUpLVF\ndAoAoLYMEh/9JQwobGbqowWblxNlT0jK\n=eKs/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 52dd6bee16fcb6d2e04f02122519e98569b01811\ntype commit\ntag 0.1.0\ntagger Devananda van der Veen <devananda.vdv@gmail.com> 1387320678 -0800\n\nRelease 0.1.0\n\nIncompatibile changes:\n  e9a4465 - Rename nodes/<uuid>/state to nodes/<uuid>/states\n  fb99cd7 - Replace chassis_id with chassis_uuid on Nodes\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjExNzQ1MDA6NDNkZGE5MTc4ZmQwZTMzYTEyMGU2Y2JhZmYyNTU1NzAwZmJkZTYxMg==",
+  "sha": "43dda9178fd0e33a120e6cbaff2555700fbde612",
+  "url": "https://api.github.com/repos/openstack/keystonemiddleware/git/tags/43dda9178fd0e33a120e6cbaff2555700fbde612",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-12T21:14:49Z"
+  },
+  "object": {
+    "sha": "fcc3bc0c233e911f7b89bc2bc090f80dd31da0dc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystonemiddleware/git/commits/fcc3bc0c233e911f7b89bc2bc090f80dd31da0dc"
+  },
+  "tag": "5.2.1",
+  "message": "keystonemiddleware 5.2.1 release\n\nmeta:version: 5.2.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Thomas Bechtold <tbechtold@suse.com>\nmeta:release:Commit: Thomas Bechtold <tbechtold@suse.com>\nmeta:release:Change-Id: Iaf58d02ab7c64322f2ac41bce1ea2ca9e13b86b1\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Andriy Shevchenko <huang.zhiping@99cloud.net>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1R1skZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2BOaC/9WX9My7hEVUmqdQq6JaN2w\nJYAv7B2DOILtvRb1NnE99LA7cBtMxG+S5zldDn9u94iHeyF/TlkJp7NuIzYQHv1y\nHvznaWAyayysmzCfqAWtQOkI8srX/X6gpKvhrydPYpn/weVGabYk8xZanMC5OUdL\noVszsOYtNNqE1oKybooAp74iOPL6z2AQB5vPyUX2JX1qJhzIjTi4WwJryhWsJ7/T\nhHqagP4YkSoIo7af+PBkt5j585ZyAJ+joAYXY+tr14TbPjF9+4nGGkGrMzOsVX+5\nlrnyEePFpebDPJoS766MIJiHIKJsq29Do63EfUr3BYQHT+3bVgbiFhOn6X/EhkAs\nGc+sH1OXMfaqIl1qn/AEMxsrcjKUzuTNY1fd0y1n5Ednenpfcgtc2pmoS3sLV8UX\nn6+4Nkji3J8tPZf95wSZG7AfSxjv6e2SDebYtfYjWXvZ9SxSxqgVftQLSO5EDpJ0\nWHWyYloeWkT/Mg+RtVRnzmc8VdsvywsxSD15qRL+SX8=\n=95Rj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1R1skZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2BOaC/9WX9My7hEVUmqdQq6JaN2w\nJYAv7B2DOILtvRb1NnE99LA7cBtMxG+S5zldDn9u94iHeyF/TlkJp7NuIzYQHv1y\nHvznaWAyayysmzCfqAWtQOkI8srX/X6gpKvhrydPYpn/weVGabYk8xZanMC5OUdL\noVszsOYtNNqE1oKybooAp74iOPL6z2AQB5vPyUX2JX1qJhzIjTi4WwJryhWsJ7/T\nhHqagP4YkSoIo7af+PBkt5j585ZyAJ+joAYXY+tr14TbPjF9+4nGGkGrMzOsVX+5\nlrnyEePFpebDPJoS766MIJiHIKJsq29Do63EfUr3BYQHT+3bVgbiFhOn6X/EhkAs\nGc+sH1OXMfaqIl1qn/AEMxsrcjKUzuTNY1fd0y1n5Ednenpfcgtc2pmoS3sLV8UX\nn6+4Nkji3J8tPZf95wSZG7AfSxjv6e2SDebYtfYjWXvZ9SxSxqgVftQLSO5EDpJ0\nWHWyYloeWkT/Mg+RtVRnzmc8VdsvywsxSD15qRL+SX8=\n=95Rj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object fcc3bc0c233e911f7b89bc2bc090f80dd31da0dc\ntype commit\ntag 5.2.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1565644489 +0000\n\nkeystonemiddleware 5.2.1 release\n\nmeta:version: 5.2.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Thomas Bechtold <tbechtold@suse.com>\nmeta:release:Commit: Thomas Bechtold <tbechtold@suse.com>\nmeta:release:Change-Id: Iaf58d02ab7c64322f2ac41bce1ea2ca9e13b86b1\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Andriy Shevchenko <huang.zhiping@99cloud.net>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

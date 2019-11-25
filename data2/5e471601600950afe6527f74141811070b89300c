@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzQ3OTE4NDA6NWU0NzE2MDE2MDA5NTBhZmU2NTI3Zjc0MTQxODExMDcwYjg5MzAwYw==",
+  "sha": "5e471601600950afe6527f74141811070b89300c",
+  "url": "https://api.github.com/repos/openstack/keystoneauth/git/tags/5e471601600950afe6527f74141811070b89300c",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-21T13:20:30Z"
+  },
+  "object": {
+    "sha": "38cd5fc6c39c38a51c11683884caf9696ce5f367",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystoneauth/git/commits/38cd5fc6c39c38a51c11683884caf9696ce5f367"
+  },
+  "tag": "3.17.0",
+  "message": "keystoneauth 3.17.0 release\n\nmeta:version: 3.17.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Adrian Turjak <adriant@catalyst.net.nz>\nmeta:release:Commit: Adrian Turjak <adriant@catalyst.net.nz>\nmeta:release:Change-Id: Ibd4f4b7d0185363747b12647770c201f7fbc42be\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+1: Morgan Fainberg <morgan.fainberg@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1dRR4ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2K6wC/0SpKEDa/JaYSMF7g1Kzl1S\nlLm5WvLpzK2s/OlfB7B3j5Mj8Bu1FHxDHyg/AseMMGYoD7WiLxv/WuJF2sra8quK\nAXgNIh7exLwoT1l/ZFA44CQLiNu6O8NPkKXLtmtYpJZCizyXNe5EwUPYPs9MR+Ml\n/Esuc6ypdoPtJ8fm0qGB0qPjekIKa4JbCqWC1YHp3gOyKm2H7vGLS2h2rcdHU4LI\nWWGYcm9HoYGiSu+7VRM47zQ4By1nJarglVs2Yb52hpb10MPPM8qyyu11gbF/psqt\n1m/r17qzXKlWCVJfDEZoSW+bJWuFUjo3peNqGtJ6WBvI7+DIaIaQt4PZVv3RkSlt\nLZVnupF+k+G6geyiUwC2oSoZc3VDudHcXN4jNailQ/DhaNZyMkdk5mdjeVhWRnFS\nsqJLbQZaBn+U2cE78kpM4mHCZAJjw07vPSrszhtiGQVII3Ezb9LawG1M2B04MQP4\n1HwmGDlV+iH2lRLhD1Mc6sZaB3G0zXp9G36ChzxZuRg=\n=xr8C\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1dRR4ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2K6wC/0SpKEDa/JaYSMF7g1Kzl1S\nlLm5WvLpzK2s/OlfB7B3j5Mj8Bu1FHxDHyg/AseMMGYoD7WiLxv/WuJF2sra8quK\nAXgNIh7exLwoT1l/ZFA44CQLiNu6O8NPkKXLtmtYpJZCizyXNe5EwUPYPs9MR+Ml\n/Esuc6ypdoPtJ8fm0qGB0qPjekIKa4JbCqWC1YHp3gOyKm2H7vGLS2h2rcdHU4LI\nWWGYcm9HoYGiSu+7VRM47zQ4By1nJarglVs2Yb52hpb10MPPM8qyyu11gbF/psqt\n1m/r17qzXKlWCVJfDEZoSW+bJWuFUjo3peNqGtJ6WBvI7+DIaIaQt4PZVv3RkSlt\nLZVnupF+k+G6geyiUwC2oSoZc3VDudHcXN4jNailQ/DhaNZyMkdk5mdjeVhWRnFS\nsqJLbQZaBn+U2cE78kpM4mHCZAJjw07vPSrszhtiGQVII3Ezb9LawG1M2B04MQP4\n1HwmGDlV+iH2lRLhD1Mc6sZaB3G0zXp9G36ChzxZuRg=\n=xr8C\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 38cd5fc6c39c38a51c11683884caf9696ce5f367\ntype commit\ntag 3.17.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1566393630 +0000\n\nkeystoneauth 3.17.0 release\n\nmeta:version: 3.17.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Adrian Turjak <adriant@catalyst.net.nz>\nmeta:release:Commit: Adrian Turjak <adriant@catalyst.net.nz>\nmeta:release:Change-Id: Ibd4f4b7d0185363747b12647770c201f7fbc42be\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+1: Morgan Fainberg <morgan.fainberg@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjk5NzcwMTo5NTNiMDNiMzdkYWNlZGRjYjMyNTZhYWRmZWI0YTBmNGVjYjJjNzdj",
+  "sha": "953b03b37daceddcb3256aadfeb4a0f4ecb2c77c",
+  "url": "https://api.github.com/repos/Netflix/servo/git/tags/953b03b37daceddcb3256aadfeb4a0f4ecb2c77c",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-06-04T20:21:23Z"
+  },
+  "object": {
+    "sha": "4f348bf9f6a5e9ded5694985063780e1e6bf9693",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/servo/git/commits/4f348bf9f6a5e9ded5694985063780e1e6bf9693"
+  },
+  "tag": "v0.9.3-rc.1",
+  "message": "Release of 0.9.3-rc.1\n\n- 4f348bf9f6a5e9ded5694985063780e1e6bf9693: Merge pull request #327 from dmuino/checks\n- 7b23e9af999021cbbff94f42d2e8aa6a1407efd9: Make PMD and checkstyle fail the build. Fixes for some PMD and checkstyle violations.\n- c6200df2879121434caad63839b3c5b09c01498f: Merge pull request #326 from brharrington/example-javadoc\n- baf4e5f4b4a485cb8706cbf86e8dd0bd9b91f784: add verbose flag to javadoc\n- 5024e05743900cbe200c7fbee012323c8f16c673: Update check tasks: avoid running pmd and checkstlye on tests and jsr166e code.\n- 11a560a6b2934739f390f2c4508b0e75734225f1: Merge pull request #325 from brharrington/atlas-example\n- b48f2e9d9f3d6cbfd477e25a2d364f3f9ca9daea: update readme on running example\n- 1dd3bee8c072fe18c1c7f7414f578d3c2b2ccbbe: Merge remote-tracking branch 'nflx/master' into atlas-example\n- 8cc3e994ef6b1d6d5d389023b7a7efe72df1e1ef: update example to support atlas observer\n- ed7630827b584f453aed55c14ef62a9db2c7f220: Merge pull request #324 from dmuino/servoAtlas\n- bf62e425b9d0fff4d90baab5506e332702ad6d6e: Sanitize metric values.\n- 8cd64bfbbb0f6b7f3c90153da346bd66107d0f40: Merge pull request #323 from dmuino/servoAtlas\n- fd1f4ab82f5a27fb05bfbc185194d9b7a6831c3d: Remove the step parameter since the atlas backend will ignore it.\n- 39c994a0f3d4bca943b773feea78acb983d29238: Add a servo-atlas project providing an observer that can send metrics to atlas.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

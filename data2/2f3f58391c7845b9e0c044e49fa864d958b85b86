@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzYxNjE1ODoyZjNmNTgzOTFjNzg0NWI5ZTBjMDQ0ZTQ5ZmE4NjRkOTU4Yjg1Yjg2",
+  "sha": "2f3f58391c7845b9e0c044e49fa864d958b85b86",
+  "url": "https://api.github.com/repos/Netflix/ribbon/git/tags/2f3f58391c7845b9e0c044e49fa864d958b85b86",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-05-13T15:50:51Z"
+  },
+  "object": {
+    "sha": "403c2c5cfa6daa7f9bf26a06406c138274d28855",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/ribbon/git/commits/403c2c5cfa6daa7f9bf26a06406c138274d28855"
+  },
+  "tag": "v2.0.1",
+  "message": "Release of 2.0.1\n\n- 403c2c5cfa6daa7f9bf26a06406c138274d28855: Merge pull request #222 from tbak/features/eureka2_integration\n- 52502676720c06bcbb4a1faa50a4f0b90707482e: Code review related updates.\n- 84fc8a0819b673fbc36c66138000d5edf73f3ac0: Fix gradle repository list + upgrade dependencies.\n- f1f67fe707b1f6004c2a7c0f2511dfdb1c48b30b: More robust implementation of Eureka2EnabledNIWSServerList.\n- 5313c8ea58f61a351b98f0bec32d2db97caaf5bd: Merge remote-tracking branch 'netflix/master' into features/eureka2_integration\n- ce6b785de00bdf0016fdb932b36489aad50a2f7a: Change dependency to eureka2-client-shaded.\n- fa381ffa756f554a0f44f9a2cd27f86184462cc9: Merge pull request #208 from casidiablo/fix-ping\n- 19fcccd65910c0f00069262432d4fe753677b5e5: Merge pull request #186 from zain-qubit/master\n- a0f7c59f9bc424c53925a5791a34e10da3c37432: Merge pull request #189 from markgaylard/master\n- 6610366f92a5a0545037ec935df0c078b0419381: Merge pull request #217 from motortalk/loadbalancer-server-status-change-listener\n- 7679c0f2f87c04ad14f3a29929d12cfa5d09d311: Merge pull request #209 from casidiablo/prime-connections-class-name-config\n- c8c4dae362417c2bac759065305c2841b0a5901c: Merge pull request #225 from motortalk/remove-fixed-server-list-reload-delay\n- cf43b41c3981c302aa9f4bb7626d20bf4df264cc: add copyright headers\n- 6f28f8929c7110b0b352040a06bcfffa464424b2: #224: Use the same duration for the initial delay as well as subsequent refreshing of the dynamic server list\n- 6231024bdd052fc12d5defd903420894b3568e7d: Recommended updates from code review.\n- 371f179ecc014e68e758cbd72435302ab88d1c89: Remove unnecessary condition in Eureka2Clients.\n- 5cccded432aaf9a515eb662ef6dddf4135586181: Add singleton based Eureka2 client injection.\n- 8cb17a20d16daa322ef59cf9da0e36394bd644d4: Separate ServerList implementation for Eureka2.\n- 5c17f3b3898fe6a536ba77acaf0ea02eda06a217: Support Eureka2 in DiscoveryEnabledNIWSServerList.\n- 36605725d3fdaac74cf37683e64d8b89e7e017b0: Added a listener to BaseLoadBalancer for notification of server status changes\n- a8a6de5df0af6570f9192627f725d87ec7712017: Fixed PrimeConnectionsClassName to have String type\n- 10fd7769ff662ba729b1d9f3decb071b1ddc80ed: Removed overriding of BaseLoadBalancer#setPing from DynamicServerListLoadBalancer\n- 8492242c12226922f8e8000697eb3176b614c7a5: Proper fix for issue #182 of original project\n- 4f70a32c5c82bb24796f1d83d4f6184f81b56ede: Add HttpRequestBuilder.withHeaders\n- a72558de354c03a37cca996141327b50c374bc2a: Fixed issue #182 of original project\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

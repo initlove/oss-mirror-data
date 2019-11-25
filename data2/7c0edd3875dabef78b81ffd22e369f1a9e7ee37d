@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkyMTcwNTQ6N2MwZWRkMzg3NWRhYmVmNzhiODFmZmQyMmUzNjlmMWE5ZTdlZTM3ZA==",
+  "sha": "7c0edd3875dabef78b81ffd22e369f1a9e7ee37d",
+  "url": "https://api.github.com/repos/micro/go-micro/git/tags/7c0edd3875dabef78b81ffd22e369f1a9e7ee37d",
+  "tagger": {
+    "name": "Asim Aslam",
+    "email": "asim@aslam.me",
+    "date": "2019-08-19T07:53:12Z"
+  },
+  "object": {
+    "sha": "718ae4280841f4911f4de63062ed58bce6ebeedf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micro/go-micro/git/commits/718ae4280841f4911f4de63062ed58bce6ebeedf"
+  },
+  "tag": "v1.9.0",
+  "message": "- Fix grpc codec for broker publishing\n- Use the connection pool for streaming\n- Send EOS from client when closing stream\n- Add stream header to mucp protocol\n- Add stream multiplexing in the server\n- Fix watcher bug in file config source\n- Fix monitoring watcher to only look at mucp services\n- Only check router status on lookup failure\n- Fix proxy streaming and client request processing\n- Fix host:port processing for messaging systems\n- Add start method to the router\n- Fix router race condition for default values\n- Add loopback detection to the tunnel\n- Add connection retry logic to tunnel\n- Make log levels accessible for the logger\n- Add proxy muxer for internal calls\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

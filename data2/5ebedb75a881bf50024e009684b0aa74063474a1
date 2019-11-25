@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTo1ZWJlZGI3NWE4ODFiZjUwMDI0ZTAwOTY4NGIwYWE3NDA2MzQ3NGEx",
+  "sha": "5ebedb75a881bf50024e009684b0aa74063474a1",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/5ebedb75a881bf50024e009684b0aa74063474a1",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-02-27T01:13:55Z"
+  },
+  "object": {
+    "sha": "e3d23bda54eb0d6c1ab9f84790d555a299ecde2e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/e3d23bda54eb0d6c1ab9f84790d555a299ecde2e"
+  },
+  "tag": "v1.4.3-rc.1",
+  "message": "Release of 1.4.3-rc.1\n\n- e3d23bda54eb0d6c1ab9f84790d555a299ecde2e: Merge pull request #757 from qiangdavidliu/master\n- fde5e6b789e2205d83fe65e7fbe3c44649e0da51: set instance status using applicationInfoManager instead of directly\n- 4faa3d9a2cf54fd8f83f74ff0e2cc04057d46074: Merge pull request #754 from william-tran/issue-753\n- edc94a78f904fc51c59b9261e988617657479c21: Sleep during syncUp only if necessary\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

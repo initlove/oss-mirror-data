@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI5ODI1MTI1OjI5NjNmMzdiNjhkMTc0Mjk1MGJhNWZlYjAxNDNiMjBiYTMxZDNmYzE=",
+  "sha": "2963f37b68d1742950ba5feb0143b20ba31d3fc1",
+  "url": "https://api.github.com/repos/projectcalico/node/git/tags/2963f37b68d1742950ba5feb0143b20ba31d3fc1",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2019-02-07T19:49:13Z"
+  },
+  "object": {
+    "sha": "22f91cfcedc062ba664c20ebdb1f00bc27c0bd91",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/node/git/commits/22f91cfcedc062ba664c20ebdb1f00bc27c0bd91"
+  },
+  "tag": "v3.4.1",
+  "message": "- fdd069299d46f4ce5c043a69b47d5a72bb1bf2db Fix #88 : Needs to clear NodeNetworkUnavailable flag on Kubernetes\n- 6b757244d3a91c5d295749dfcd2f5d9139d34b88 Update licenses folder with Fossa reports\n- bc2700fe73f2ed5face825268f48b6cc849c825c Update confd pin\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

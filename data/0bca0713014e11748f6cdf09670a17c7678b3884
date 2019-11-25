@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6MGJjYTA3MTMwMTRlMTE3NDhmNmNkZjA5NjcwYTE3Yzc2NzhiMzg4NA==",
+  "sha": "0bca0713014e11748f6cdf09670a17c7678b3884",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/0bca0713014e11748f6cdf09670a17c7678b3884",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2016-05-23T02:28:57Z"
+  },
+  "object": {
+    "sha": "aa99a1895d4f15fd7c3078aa8a914fc4cf1873da",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/aa99a1895d4f15fd7c3078aa8a914fc4cf1873da"
+  },
+  "tag": "v0.4.27",
+  "message": "v0.4.27\n\n- Fix loop.call_later (and call_at) to update the cached\n  libuv time.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

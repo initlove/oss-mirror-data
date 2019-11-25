@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTo0OTZkYzFlYTQzNGRmYTFjZDUzYmZmZDk3YzlkYzRjYmRiY2Q0Njc2",
+  "sha": "496dc1ea434dfa1cd53bffd97c9dc4cbdbcd4676",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/496dc1ea434dfa1cd53bffd97c9dc4cbdbcd4676",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-02-04T00:51:14Z"
+  },
+  "object": {
+    "sha": "ecda2802f37b66b7bfbe588f5ac58e73774adf63",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/ecda2802f37b66b7bfbe588f5ac58e73774adf63"
+  },
+  "tag": "v1.3.8",
+  "message": "Release of 1.3.8\n\n- ecda2802f37b66b7bfbe588f5ac58e73774adf63: Merge pull request #736 from elandau/master\n- a7636c3c9aa7147f94b725a468fe0e19969ac769: Update to archaius2 2.0.0-rc.36\n- 7791c16b8f2f9dd46f67c16daf3bd57e51396b36: Merge pull request #734 from dcaba/appender_issue\n- a4ac495917db050289965fdbce05b0c7611b1105: blitz4j is no longer included in eureka server as part of 1.3.5 - #714. Default log4j properties still points to a class, generating an exception at boot time\n- c2db821061690bf979572648a21e01a0d9b29195: Merge pull request #733 from jylin/patch-1\n- e0aa5f6d3ad437f6e7b7aaf6fc3097e28b32c065: Fix build error\n- 21187d6460c8947b749db206015483079a30c698: Merge pull request #730 from tbak/bugs/jackson_compatibility\n- 3f234dd027226033ca3cce53a6d7fbe7c1f00d91: Better error handling in ApplicationsJacksonBuilder\n- b8d32bc513de537b2ae2230208316aaeb6504b99: Refactor Jackson serializer, so it does not depend on internal Jackson code.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

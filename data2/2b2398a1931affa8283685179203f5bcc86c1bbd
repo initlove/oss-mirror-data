@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkyMTcwNTQ6MmIyMzk4YTE5MzFhZmZhODI4MzY4NTE3OTIwM2Y1YmNjODZjMWJiZA==",
+  "sha": "2b2398a1931affa8283685179203f5bcc86c1bbd",
+  "url": "https://api.github.com/repos/micro/go-micro/git/tags/2b2398a1931affa8283685179203f5bcc86c1bbd",
+  "tagger": {
+    "name": "Asim Aslam",
+    "email": "asim@aslam.me",
+    "date": "2019-01-18T12:43:56Z"
+  },
+  "object": {
+    "sha": "943219f203def57e2fda1d7283382f7f90b6a59d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micro/go-micro/git/commits/943219f203def57e2fda1d7283382f7f90b6a59d"
+  },
+  "tag": "v0.22.0",
+  "message": "Address backwards compatibility\n\nDue to breaking changes in the past 3 weeks, I've had to address how this should be tackled\nin the long term. I've made the effort to make codec transition evolutionary as well as\nthe api changes for Method() move to Endpoint(). In the process I've had to break the\nCallFunc signature but few likely use this.\n\n- Codecs are now evolutionary and backwards compatible\n- Service Method() is now back in the interface\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

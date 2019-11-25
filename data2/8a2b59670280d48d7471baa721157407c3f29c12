@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTg2NjY0NDE6OGEyYjU5NjcwMjgwZDQ4ZDc0NzFiYWE3MjExNTc0MDdjM2YyOWMxMg==",
+  "sha": "8a2b59670280d48d7471baa721157407c3f29c12",
+  "url": "https://api.github.com/repos/openstack/ldappool/git/tags/8a2b59670280d48d7471baa721157407c3f29c12",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-04-17T23:38:30Z"
+  },
+  "object": {
+    "sha": "7e6cf7d811ae29038a619ab6b60f5fd1d1cff8a3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ldappool/git/commits/7e6cf7d811ae29038a619ab6b60f5fd1d1cff8a3"
+  },
+  "tag": "2.1.1",
+  "message": "ldappool 2.1.1 release\n\nmeta:version: 2.1.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Change-Id: I0ea3e30572fb745950c0eca0770f96bb87e0a53b\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly3uPYZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eODdMDACXHw3Cilh6V3CZRgYE6w9K\noYoASSj0LR5kMhzWGWMohTZWtMpDVNSpIPTcM5cRkfcR13k8+Hn7qcipuhm+Uknt\nb0B0KC/T9NydtXhAJrBJdC/fCDyj4J6GbwgTu8DwbMdoTTx7egTqFv97FRMy2sv4\nHDc7mVCSRdGSMeMObg/i5U2+amfM8pZQHVevy1NHLE9+G6voZgwSrtCio5IRIxQT\nOXnoMrbgxJVNxKZ/76FoDfNVtAElpIf2uuIqfYlWWZo0OaIYfx34gPjmI766aKFQ\npn350fbP3q/QP6zMqnOgx8WpHJ11JHzhQNRHopPGDrthZrgeOadCMsmPxdbZf7Sr\nZza6VwixD+uvPpa3XkRQNuA4X8/Jhf8GqR7GRtLA8YxG8J+zT/Ud8mjpWrvJTeB2\nRPxJQnkb4BWuyNW2P+Xooh4SzHIYL1Z1ZO48TK/nePIIctyUz84AA8T2HZv10xER\natS3KyRzs+VxonEiL6XqIQqdUOWa2IpT8AR5dok6dJs=\n=a5Bm\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly3uPYZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eODdMDACXHw3Cilh6V3CZRgYE6w9K\noYoASSj0LR5kMhzWGWMohTZWtMpDVNSpIPTcM5cRkfcR13k8+Hn7qcipuhm+Uknt\nb0B0KC/T9NydtXhAJrBJdC/fCDyj4J6GbwgTu8DwbMdoTTx7egTqFv97FRMy2sv4\nHDc7mVCSRdGSMeMObg/i5U2+amfM8pZQHVevy1NHLE9+G6voZgwSrtCio5IRIxQT\nOXnoMrbgxJVNxKZ/76FoDfNVtAElpIf2uuIqfYlWWZo0OaIYfx34gPjmI766aKFQ\npn350fbP3q/QP6zMqnOgx8WpHJ11JHzhQNRHopPGDrthZrgeOadCMsmPxdbZf7Sr\nZza6VwixD+uvPpa3XkRQNuA4X8/Jhf8GqR7GRtLA8YxG8J+zT/Ud8mjpWrvJTeB2\nRPxJQnkb4BWuyNW2P+Xooh4SzHIYL1Z1ZO48TK/nePIIctyUz84AA8T2HZv10xER\natS3KyRzs+VxonEiL6XqIQqdUOWa2IpT8AR5dok6dJs=\n=a5Bm\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7e6cf7d811ae29038a619ab6b60f5fd1d1cff8a3\ntype commit\ntag 2.1.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1555544310 +0000\n\nldappool 2.1.1 release\n\nmeta:version: 2.1.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Change-Id: I0ea3e30572fb745950c0eca0770f96bb87e0a53b\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

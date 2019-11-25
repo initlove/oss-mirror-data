@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDE6MmRjMDhlMzk3MTgxNGNhN2EwOTc1MjZmNTZlYjJmMzc3OTU3MDVlNQ==",
+  "sha": "2dc08e3971814ca7a097526f56eb2f37795705e5",
+  "url": "https://api.github.com/repos/openstack/ironic/git/tags/2dc08e3971814ca7a097526f56eb2f37795705e5",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-08T10:00:12Z"
+  },
+  "object": {
+    "sha": "c1b18ca265a07e00624e21c49c0e99677f265560",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic/git/commits/c1b18ca265a07e00624e21c49c0e99677f265560"
+  },
+  "tag": "12.1.2",
+  "message": "ironic 12.1.2 release\n\nmeta:version: 12.1.2\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Commit: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Change-Id: I2cbe7a174b3cc14bf10fffa2a6dfbf8ea0b344ab\nmeta:release:Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1L8qwZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2ALADADl3cI8DXO5WU+WztbfnTm6\nZDFind8gD4qKC/or4Y9H6DE+sl52eDmX5vhl2exygb7bj3yBSYygZZZISE7x05qt\neZ3HAo+cE+kIhkxx2DwrjDeze9EQHSDZu/y/A4DZPhdvCVgmG2T+EhQaEqDzP7vb\nr4pjUsh6SGGB8P+omBFYZyI5JSUhkGAzoJM9s7SUjZ3xP1vH1ItACuCX+lMwe4E2\nLPD/DXi4+4Iw2986ECUcnVYjTF8NNFHIlKxJOek+Nc4heSoqHLYVjplE2Bv0+cEP\nx08hIIJrsAH/YeOLgJ9ug84Pz05XhwQvHiNoVIe/Tb6xbZkuW13CtxvPHblRt0tQ\nMPEzjEnuoDuMQRqNUw9BC/oSUVVNqNTVmIMUn4Z8joGvAMthrv//4CEruVp7vz+w\n1g+ZR4+S/OYcBbxZfyoymL2RXpEi/SP3K2hPPetHclmW+hY3V1PoPL5r1QGDN9hI\nyXfe6iczisw7EqmGc2+HcwlCFT15bscVjirOCxn6H+A=\n=Q8Lw\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1L8qwZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2ALADADl3cI8DXO5WU+WztbfnTm6\nZDFind8gD4qKC/or4Y9H6DE+sl52eDmX5vhl2exygb7bj3yBSYygZZZISE7x05qt\neZ3HAo+cE+kIhkxx2DwrjDeze9EQHSDZu/y/A4DZPhdvCVgmG2T+EhQaEqDzP7vb\nr4pjUsh6SGGB8P+omBFYZyI5JSUhkGAzoJM9s7SUjZ3xP1vH1ItACuCX+lMwe4E2\nLPD/DXi4+4Iw2986ECUcnVYjTF8NNFHIlKxJOek+Nc4heSoqHLYVjplE2Bv0+cEP\nx08hIIJrsAH/YeOLgJ9ug84Pz05XhwQvHiNoVIe/Tb6xbZkuW13CtxvPHblRt0tQ\nMPEzjEnuoDuMQRqNUw9BC/oSUVVNqNTVmIMUn4Z8joGvAMthrv//4CEruVp7vz+w\n1g+ZR4+S/OYcBbxZfyoymL2RXpEi/SP3K2hPPetHclmW+hY3V1PoPL5r1QGDN9hI\nyXfe6iczisw7EqmGc2+HcwlCFT15bscVjirOCxn6H+A=\n=Q8Lw\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c1b18ca265a07e00624e21c49c0e99677f265560\ntype commit\ntag 12.1.2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1565258412 +0000\n\nironic 12.1.2 release\n\nmeta:version: 12.1.2\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Commit: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Change-Id: I2cbe7a174b3cc14bf10fffa2a6dfbf8ea0b344ab\nmeta:release:Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

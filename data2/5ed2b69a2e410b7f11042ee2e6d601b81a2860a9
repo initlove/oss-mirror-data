@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY5NTg4OTE6NWVkMmI2OWEyZTQxMGI3ZjExMDQyZWUyZTZkNjAxYjgxYTI4NjBhOQ==",
+  "sha": "5ed2b69a2e410b7f11042ee2e6d601b81a2860a9",
+  "url": "https://api.github.com/repos/openstack/automaton/git/tags/5ed2b69a2e410b7f11042ee2e6d601b81a2860a9",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-07-05T08:27:25Z"
+  },
+  "object": {
+    "sha": "fe8824bb0232e5e3d267d21826f029ae9a163fe5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/automaton/git/commits/fe8824bb0232e5e3d267d21826f029ae9a163fe5"
+  },
+  "tag": "1.7.1",
+  "message": "automaton 1.7.1 release\n\nmeta:version: 1.7.1\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Change-Id: I349378dcbba1ab968c01c747cb3a54e9595cde1e\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZXKLtAAoJEOtsyhSD+nTsx80IAJ4oPcR5xVSR/CQvbeTLjfiG\nSOhRif1QXVVXKsff3nfrH527dxYQ1OcUkbYj9Vu3wYTOqU071gchyE/GO+47FDyq\nBZ1omm1Trp03o5is2o0Bu6nEj3BjppaFoKx51wSKKUoLqHQpFTIbLwqViezIJH4U\naenrOZsInXTq3L23rRwEyKPnwSMPYYNV83KObD8UFjSFxyxAFYHBgvKlA3jdx3El\nw43RGENPVXfBCdzBw28W7VScizet0ZddiVAk01Au9ZRhMY+8sUJpKlImQFiShi+i\npgPMB+DDX0V4BLK0ka9sunsPnpM/9CKz9EJ/dr2SBFzKXZ+E618BXE077Ez684A=\n=Z5Iv\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZXKLtAAoJEOtsyhSD+nTsx80IAJ4oPcR5xVSR/CQvbeTLjfiG\nSOhRif1QXVVXKsff3nfrH527dxYQ1OcUkbYj9Vu3wYTOqU071gchyE/GO+47FDyq\nBZ1omm1Trp03o5is2o0Bu6nEj3BjppaFoKx51wSKKUoLqHQpFTIbLwqViezIJH4U\naenrOZsInXTq3L23rRwEyKPnwSMPYYNV83KObD8UFjSFxyxAFYHBgvKlA3jdx3El\nw43RGENPVXfBCdzBw28W7VScizet0ZddiVAk01Au9ZRhMY+8sUJpKlImQFiShi+i\npgPMB+DDX0V4BLK0ka9sunsPnpM/9CKz9EJ/dr2SBFzKXZ+E618BXE077Ez684A=\n=Z5Iv\n-----END PGP SIGNATURE-----\n",
+    "payload": "object fe8824bb0232e5e3d267d21826f029ae9a163fe5\ntype commit\ntag 1.7.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1499243245 +0000\n\nautomaton 1.7.1 release\n\nmeta:version: 1.7.1\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Change-Id: I349378dcbba1ab968c01c747cb3a54e9595cde1e\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

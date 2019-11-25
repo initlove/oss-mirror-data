@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTYyMjMzNzg6NWMzZTQ3Y2ZmMDExYmUxNGZkMjM5NzJhZWU5MWUxNzNmZDFmNTUwNQ==",
+  "sha": "5c3e47cff011be14fd23972aee91e173fd1f5505",
+  "url": "https://api.github.com/repos/openstack/openstacksdk/git/tags/5c3e47cff011be14fd23972aee91e173fd1f5505",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-06-10T15:35:08Z"
+  },
+  "object": {
+    "sha": "f4fa6fabba88d6a738153357bcce55974a00cb1b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/openstacksdk/git/commits/f4fa6fabba88d6a738153357bcce55974a00cb1b"
+  },
+  "tag": "0.31.0",
+  "message": "openstacksdk 0.31.0 release\n\nmeta:version: 0.31.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Eric Fried <openstack@fried.cc>\nmeta:release:Commit: Eric Fried <openstack@fried.cc>\nmeta:release:Change-Id: I0c5bb1a0b193b15e8551544c82b37e83b4ab474c\nmeta:release:Code-Review+1: Monty Taylor <mordred@inaugust.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlz+eKwZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOPGwC/0cBsEuSpG6NsZO0F0iz0TD\nxRdgWZDfELjLtpu5XCKKNt/AopG6W/WXPrBKdnnu7tIYq7aCqJIFSMTTjUBWdVxi\naBqTqEiqOFXEzn/lA9dLdKDEIhU6Sx3eYQ1W6IgHBkw7qfr3StX6ycukCJIfCbPq\nmX1FmN9h1lChjYHYCEyGHlADhHMmlqPTs1kKiikAnU/S82Kc9MBrIXupCG3+gbdD\n73UDG6bt63OkBpRKIrJaiQgj3HV2TjVYYM2KghHAfOMrzmEA0FIU6R6ZFc1wwD5q\nInY/2TWtcbLgJmRuXA1fZr0uvN0lmzGMD6qH9Zh5p5e1OQHnqbaOU/Yalm8PVBgn\n54vBQNVDx+QXekubQ/HHo8xup3xbjqtB2nJBv0kEcE4o4dPQTdsOJzhTN+cPQZJ1\nu4131Hl0OW6VfmRCUAjuX/k1v214/yYrTZDCeuY/QgaKKYQHc5Sqy3mRnS9lMa5O\nY8R6Xv3kIdO4NZtIstyPjIrodhdWg5e6HLpG8R8Km+A=\n=SJBA\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlz+eKwZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOPGwC/0cBsEuSpG6NsZO0F0iz0TD\nxRdgWZDfELjLtpu5XCKKNt/AopG6W/WXPrBKdnnu7tIYq7aCqJIFSMTTjUBWdVxi\naBqTqEiqOFXEzn/lA9dLdKDEIhU6Sx3eYQ1W6IgHBkw7qfr3StX6ycukCJIfCbPq\nmX1FmN9h1lChjYHYCEyGHlADhHMmlqPTs1kKiikAnU/S82Kc9MBrIXupCG3+gbdD\n73UDG6bt63OkBpRKIrJaiQgj3HV2TjVYYM2KghHAfOMrzmEA0FIU6R6ZFc1wwD5q\nInY/2TWtcbLgJmRuXA1fZr0uvN0lmzGMD6qH9Zh5p5e1OQHnqbaOU/Yalm8PVBgn\n54vBQNVDx+QXekubQ/HHo8xup3xbjqtB2nJBv0kEcE4o4dPQTdsOJzhTN+cPQZJ1\nu4131Hl0OW6VfmRCUAjuX/k1v214/yYrTZDCeuY/QgaKKYQHc5Sqy3mRnS9lMa5O\nY8R6Xv3kIdO4NZtIstyPjIrodhdWg5e6HLpG8R8Km+A=\n=SJBA\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f4fa6fabba88d6a738153357bcce55974a00cb1b\ntype commit\ntag 0.31.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1560180908 +0000\n\nopenstacksdk 0.31.0 release\n\nmeta:version: 0.31.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Eric Fried <openstack@fried.cc>\nmeta:release:Commit: Eric Fried <openstack@fried.cc>\nmeta:release:Change-Id: I0c5bb1a0b193b15e8551544c82b37e83b4ab474c\nmeta:release:Code-Review+1: Monty Taylor <mordred@inaugust.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

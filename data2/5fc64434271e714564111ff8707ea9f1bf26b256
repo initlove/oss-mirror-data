@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTA4ODkzOjVmYzY0NDM0MjcxZTcxNDU2NDExMWZmODcwN2VhOWYxYmYyNmIyNTY=",
+  "sha": "5fc64434271e714564111ff8707ea9f1bf26b256",
+  "url": "https://api.github.com/repos/NodeRedis/node_redis/git/tags/5fc64434271e714564111ff8707ea9f1bf26b256",
+  "tagger": {
+    "name": "Matt Ranney",
+    "email": "mjr@ranney.com",
+    "date": "2012-09-11T06:00:40Z"
+  },
+  "object": {
+    "sha": "cbcb8ca5b9cc1263ad63a079c68d49841071f7e4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/NodeRedis/node_redis/git/commits/cbcb8ca5b9cc1263ad63a079c68d49841071f7e4"
+  },
+  "tag": "v0.8.0",
+  "message": "Many contributed features and fixes, including:\n\n* Pure JavaScript reply parser that is usually faster than hiredis (Jerry Sievert)\n* Remove hiredis as optionalDependency from package.json. It still works if you want it.\n* Restore client state on reconnect, including select, subscribe, and monitor. (Ignacio Burgueño)\n* Fix idle event (Trae Robrock)\n* Many documentation improvements and bug fixes (David Trejo)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

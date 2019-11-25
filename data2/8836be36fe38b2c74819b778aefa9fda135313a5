@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE3MzM3MTU6ODgzNmJlMzZmZTM4YjJjNzQ4MTliNzc4YWVmYTlmZGExMzUzMTNhNQ==",
+  "sha": "8836be36fe38b2c74819b778aefa9fda135313a5",
+  "url": "https://api.github.com/repos/openstack/oslo.utils/git/tags/8836be36fe38b2c74819b778aefa9fda135313a5",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-10-09T18:13:55Z"
+  },
+  "object": {
+    "sha": "6e0b90be22ccd1d22f937cb16128875a2e28746f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.utils/git/commits/6e0b90be22ccd1d22f937cb16128875a2e28746f"
+  },
+  "tag": "3.37.1",
+  "message": "oslo.utils 3.37.1 release\n\nmeta:version: 3.37.1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I224ab4d8034fdc722fafeb5aab7e88e3c55ded30\nmeta:release:Code-Review+1: Ken Giusti <kgiusti@gmail.com>\nmeta:release:Code-Review+1: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbvO/jAAoJEBpUEUgFTp44AJ4L/RHsnvWtFTC46gjgoH4mGWS+\nVDkmFO6fetuW7pGYZyAxcDThZMXa+tV3DjFiC/kDK1BswGm1BGKth9HlAZ4icnPN\nffCxZGfelnniV0tcVL7xN76DIQQq7QqYFGI4kyqKhZRNrv5z9FWwXwVO0CuWaJJY\nz5fS2XyJPCMTQ0hOVrCQqp1X6tabUJFBidNBDIBgeOaYVhtTqyxsKA+eGW22AIYq\nqwzMCryk8QBfT1Y4KWThrqrWCiKEVPu3MRGTfqCb76pNrfJSO+DHNZIgs8PNtLEG\nK+c8AA484GM3un45AxYrBuS1M69RFTdPww0lFcUCTGhVImbjHk3o7oRDcOzZ85gT\nFhmJfFQITwZM7GV+TC5TjBi3wTWJro+cz/oXEJOmh1nhaV1nXFD8ufd4fA1hoCVc\nLFFo9XBCvqYo8dOjCjpAfdyHr+KK37xiE1RTVjT4/YZ3oRm94/skrBssesIY+Sod\nTGebgmduGdiFxm/0FaIx6YxFGUUMKkOEYUxWmHnhNw==\n=bGXA\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbvO/jAAoJEBpUEUgFTp44AJ4L/RHsnvWtFTC46gjgoH4mGWS+\nVDkmFO6fetuW7pGYZyAxcDThZMXa+tV3DjFiC/kDK1BswGm1BGKth9HlAZ4icnPN\nffCxZGfelnniV0tcVL7xN76DIQQq7QqYFGI4kyqKhZRNrv5z9FWwXwVO0CuWaJJY\nz5fS2XyJPCMTQ0hOVrCQqp1X6tabUJFBidNBDIBgeOaYVhtTqyxsKA+eGW22AIYq\nqwzMCryk8QBfT1Y4KWThrqrWCiKEVPu3MRGTfqCb76pNrfJSO+DHNZIgs8PNtLEG\nK+c8AA484GM3un45AxYrBuS1M69RFTdPww0lFcUCTGhVImbjHk3o7oRDcOzZ85gT\nFhmJfFQITwZM7GV+TC5TjBi3wTWJro+cz/oXEJOmh1nhaV1nXFD8ufd4fA1hoCVc\nLFFo9XBCvqYo8dOjCjpAfdyHr+KK37xiE1RTVjT4/YZ3oRm94/skrBssesIY+Sod\nTGebgmduGdiFxm/0FaIx6YxFGUUMKkOEYUxWmHnhNw==\n=bGXA\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6e0b90be22ccd1d22f937cb16128875a2e28746f\ntype commit\ntag 3.37.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1539108835 +0000\n\noslo.utils 3.37.1 release\n\nmeta:version: 3.37.1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I224ab4d8034fdc722fafeb5aab7e88e3c55ded30\nmeta:release:Code-Review+1: Ken Giusti <kgiusti@gmail.com>\nmeta:release:Code-Review+1: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTMzNDgzMDM6Mzc4MzA1ZDU0OWU0ODJkYjFhYzcxMGUwZjBkNjVlNDUzNDA1N2Q1Mw==",
+  "sha": "378305d549e482db1ac710e0f0d65e4534057d53",
+  "url": "https://api.github.com/repos/openstack/python-saharaclient/git/tags/378305d549e482db1ac710e0f0d65e4534057d53",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-18T19:19:19Z"
+  },
+  "object": {
+    "sha": "e6589628165546df850ac290f74fd2680fc2b5ee",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-saharaclient/git/commits/e6589628165546df850ac290f74fd2680fc2b5ee"
+  },
+  "tag": "1.3.1",
+  "message": "python-saharaclient 1.3.1 release\n\nmeta:version: 1.3.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Telles Nobrega <tellesnobrega@gmail.com>\nmeta:release:Commit: Telles Nobrega <tellesnobrega@gmail.com>\nmeta:release:Change-Id: If19a1a0bfb8002c46212cd526437b03352981437\nmeta:release:Code-Review+1: Luigi Toscano <ltoscano@redhat.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyP7zcZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOPtxC/4xhwBS3DREm8AMnbtL5+YV\nYwZJnw6t5rJkWYF8gczm9pM2kZihkdJ6QAR+XuRhnZJnAWpyWjxMhcdPGvYRk081\n2Xof47Yn7kP3f7wsdMf2MYhkyM+7nACpI6qXFWTX3Zj/u/xDwHyLmqdL3yu4vsDP\np6VEamKSnC/7vwqiFOFENUtnnDw7i+CE5FN/qdGS+blNAsWIBB+KApyEgjhjKeRb\nVGSFxPzD728nolU/k+D+efWv0LWGrDc4tr5q/3r6DRoS/JYV8sDWC0uljPr4gFlI\nkeJq+nFqPsbPWNHGr4uitixiSuYM8dFPpDHovQOF7xdf3PXEktcRUTr3hs5oMAJg\nJpvZzZw/NH2UpUJ2KZfGbk0ucQD19tfAd6KYoKjxBl5xzQ0GCdl5g1hojItpW5Nl\n5xetGlKF/x3CfjhZyEBxbZsBxnUhCEss6Jr3CQYtwXhM4xRbH4YjGFTgCoGaDlWw\nh6sn3dy2eDjYjcbWKD1yZMqM2d1J8yb41qfwyerNapM=\n=bVv2\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyP7zcZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOPtxC/4xhwBS3DREm8AMnbtL5+YV\nYwZJnw6t5rJkWYF8gczm9pM2kZihkdJ6QAR+XuRhnZJnAWpyWjxMhcdPGvYRk081\n2Xof47Yn7kP3f7wsdMf2MYhkyM+7nACpI6qXFWTX3Zj/u/xDwHyLmqdL3yu4vsDP\np6VEamKSnC/7vwqiFOFENUtnnDw7i+CE5FN/qdGS+blNAsWIBB+KApyEgjhjKeRb\nVGSFxPzD728nolU/k+D+efWv0LWGrDc4tr5q/3r6DRoS/JYV8sDWC0uljPr4gFlI\nkeJq+nFqPsbPWNHGr4uitixiSuYM8dFPpDHovQOF7xdf3PXEktcRUTr3hs5oMAJg\nJpvZzZw/NH2UpUJ2KZfGbk0ucQD19tfAd6KYoKjxBl5xzQ0GCdl5g1hojItpW5Nl\n5xetGlKF/x3CfjhZyEBxbZsBxnUhCEss6Jr3CQYtwXhM4xRbH4YjGFTgCoGaDlWw\nh6sn3dy2eDjYjcbWKD1yZMqM2d1J8yb41qfwyerNapM=\n=bVv2\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e6589628165546df850ac290f74fd2680fc2b5ee\ntype commit\ntag 1.3.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1552936759 +0000\n\npython-saharaclient 1.3.1 release\n\nmeta:version: 1.3.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Telles Nobrega <tellesnobrega@gmail.com>\nmeta:release:Commit: Telles Nobrega <tellesnobrega@gmail.com>\nmeta:release:Change-Id: If19a1a0bfb8002c46212cd526437b03352981437\nmeta:release:Code-Review+1: Luigi Toscano <ltoscano@redhat.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

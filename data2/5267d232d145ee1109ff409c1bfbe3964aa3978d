@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQxMzIxOTI6NTI2N2QyMzJkMTQ1ZWUxMTA5ZmY0MDljMWJmYmUzOTY0YWEzOTc4ZA==",
+  "sha": "5267d232d145ee1109ff409c1bfbe3964aa3978d",
+  "url": "https://api.github.com/repos/pkg/sftp/git/tags/5267d232d145ee1109ff409c1bfbe3964aa3978d",
+  "tagger": {
+    "name": "John Eikenberry",
+    "email": "jae@zhar.net",
+    "date": "2018-05-11T22:02:12Z"
+  },
+  "object": {
+    "sha": "d2aa419835609d317c34baae11bc345d1f9971a7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pkg/sftp/git/commits/d2aa419835609d317c34baae11bc345d1f9971a7"
+  },
+  "tag": "1.7.0",
+  "message": "new MkdirAll; fixes for fsetstat, attributes, list\n\nClient.MkdirAll method mirroring os.MkdirAll\nFix #243, flags and attributes not being set for fsetstat calls in\n    request server\nFix #245, request server attributes methods now use exported types\nFix #240, fix issue with request server file list returning early\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlr2FDgACgkQPZqeWROp\nRaLERgf/Z/EhlYvXOEki/k5pO71H9CmNwK2V62DElVBfKvocy6t/fIc6FCUzPzpM\nJQypOHXEYp7OmHgw65GbnmvSPvTKJB3x00lZzDJCx9P+S/XIiM0RcTYdjfLaiuzK\nuSNRITHEhuKWRNoiU73O+VaWZFZrmof6m6GkEqYlOuc/8UU40qY9m2E0yaWzy06M\nJ+RagQ8y8GzOYzuRZKcSvXOJytftGBy3ivv3rC3NXHqJrgUWEYYxdrBrxlLUImxr\nS02JaO1nAVM4cI/1IrycjCwYoAAgHVsxh06nN/w0fkXOLgj1VAlInEBbmXicAM1d\n4zjj189bDUDxjXL2eHWpbvVpHUrABw==\n=E7Dm\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlr2FDgACgkQPZqeWROp\nRaLERgf/Z/EhlYvXOEki/k5pO71H9CmNwK2V62DElVBfKvocy6t/fIc6FCUzPzpM\nJQypOHXEYp7OmHgw65GbnmvSPvTKJB3x00lZzDJCx9P+S/XIiM0RcTYdjfLaiuzK\nuSNRITHEhuKWRNoiU73O+VaWZFZrmof6m6GkEqYlOuc/8UU40qY9m2E0yaWzy06M\nJ+RagQ8y8GzOYzuRZKcSvXOJytftGBy3ivv3rC3NXHqJrgUWEYYxdrBrxlLUImxr\nS02JaO1nAVM4cI/1IrycjCwYoAAgHVsxh06nN/w0fkXOLgj1VAlInEBbmXicAM1d\n4zjj189bDUDxjXL2eHWpbvVpHUrABw==\n=E7Dm\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d2aa419835609d317c34baae11bc345d1f9971a7\ntype commit\ntag 1.7.0\ntagger John Eikenberry <jae@zhar.net> 1526076132 -0700\n\nnew MkdirAll; fixes for fsetstat, attributes, list\n\nClient.MkdirAll method mirroring os.MkdirAll\nFix #243, flags and attributes not being set for fsetstat calls in\n    request server\nFix #245, request server attributes methods now use exported types\nFix #240, fix issue with request server file list returning early\n"
+  }
+}

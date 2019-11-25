@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTYyMjMzNzg6NTU0OGUxNjE4NDg2YzY5ZTNlYTAwZjI5ODY3ZjU5NGRkODFlNGIyYQ==",
+  "sha": "5548e1618486c69e3ea00f29867f594dd81e4b2a",
+  "url": "https://api.github.com/repos/openstack/openstacksdk/git/tags/5548e1618486c69e3ea00f29867f594dd81e4b2a",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-18T15:45:50Z"
+  },
+  "object": {
+    "sha": "8b85e8c954baf550aefad83d8b48955a3c2382ed",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/openstacksdk/git/commits/8b85e8c954baf550aefad83d8b48955a3c2382ed"
+  },
+  "tag": "0.36.0",
+  "message": "openstacksdk 0.36.0 release\n\nmeta:version: 0.36.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: I2a9978d7c0523de646997941d2de0af5fef42414\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Artem Goncharov <artem.goncharov@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2CUS4ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2H3iC/9CYNBcTcGwHMGGRoPnEITh\ns0VZDsoJ2S2yLWFSOfmxZNgaWkXkGs+FGiSFjmrwll0BZ+b01/6WUPNuYBhuCzdh\nknij/F8Z+H1P9vDrqRU1vFIHa/NHwHEPfJyr6GC0d2eC0rwp/pCaGOc+0dVkbBWy\nYC+2iUEjnwiFEhIFza3ATQVxY/oA3s6c+HjAp1CP0B3RRzhVHeXX/V0M8Rdqvk+X\n+jJbdm99P0P9ToQezjfJb/eFOT0FRNvuiy9WJGVBE+d4I1bx36HcvKAWprTJVQG9\nJGFnW2r5yHigvkq2lB6KC8pl9WUM/db9bBgaDuDI4CbJMI+vQHzvFBI10FSj+m4c\nEI+twyZRgF4tmoxZWWmnO4lK2xZj9GIlg2O/D7iU+hwZek5yb9/wOyfNdwFDP3MK\nibwrjh2gLn+y61fsN8wH9Mw6flzE4nnggHrwmP9ZwaWfe1wuzUVnxKPPlx27Ckx0\nK+wvoAkf2wRVoGBm+vJ1THbXum8thhBxDaw78Q3tXCE=\n=STeo\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2CUS4ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2H3iC/9CYNBcTcGwHMGGRoPnEITh\ns0VZDsoJ2S2yLWFSOfmxZNgaWkXkGs+FGiSFjmrwll0BZ+b01/6WUPNuYBhuCzdh\nknij/F8Z+H1P9vDrqRU1vFIHa/NHwHEPfJyr6GC0d2eC0rwp/pCaGOc+0dVkbBWy\nYC+2iUEjnwiFEhIFza3ATQVxY/oA3s6c+HjAp1CP0B3RRzhVHeXX/V0M8Rdqvk+X\n+jJbdm99P0P9ToQezjfJb/eFOT0FRNvuiy9WJGVBE+d4I1bx36HcvKAWprTJVQG9\nJGFnW2r5yHigvkq2lB6KC8pl9WUM/db9bBgaDuDI4CbJMI+vQHzvFBI10FSj+m4c\nEI+twyZRgF4tmoxZWWmnO4lK2xZj9GIlg2O/D7iU+hwZek5yb9/wOyfNdwFDP3MK\nibwrjh2gLn+y61fsN8wH9Mw6flzE4nnggHrwmP9ZwaWfe1wuzUVnxKPPlx27Ckx0\nK+wvoAkf2wRVoGBm+vJ1THbXum8thhBxDaw78Q3tXCE=\n=STeo\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8b85e8c954baf550aefad83d8b48955a3c2382ed\ntype commit\ntag 0.36.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1568821550 +0000\n\nopenstacksdk 0.36.0 release\n\nmeta:version: 0.36.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: I2a9978d7c0523de646997941d2de0af5fef42414\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Artem Goncharov <artem.goncharov@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

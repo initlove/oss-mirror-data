@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzg3NzkxMzo1ZGJiZjJkMDY1NDY5NmFhZTAyODNlNGFjYmI1YzYwYTEyZDIwMmZh",
+  "sha": "5dbbf2d0654696aae0283e4acbb5c60a12d202fa",
+  "url": "https://api.github.com/repos/openstack/oslo.config/git/tags/5dbbf2d0654696aae0283e4acbb5c60a12d202fa",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-01-15T00:40:29Z"
+  },
+  "object": {
+    "sha": "6056677f35347cd82c12fc9020b02ef142dbe289",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.config/git/commits/6056677f35347cd82c12fc9020b02ef142dbe289"
+  },
+  "tag": "5.2.1",
+  "message": "oslo.config 5.2.1 release\n\nmeta:version: 5.2.1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I9ff1280450a059a4ff54fda521c5055394fd17c1\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcPSv9AAoJEBpUEUgFTp44JjAMAK75/sC/+hdhgiPusfpQFcLX\nS1oAKOWOmFAtkCNbAI4rQhroTUOW+yYiKubMuH/eS3Pl1Dk+dMrUpdsRMHwbIYLD\n7P/ks/Mbkpsl0wdrx8Z6rpeXHhtE2E9lC8lHL36/JNHN3/h8F6NjaxAN2Hl0RszW\nFVLNjC+bm8l8yon18fiKC3K6eMa4enOXZx6ktCoM9sB7qZwDgozHPo+ZTDoqjrjD\nqq7zZ0YjsCNaB7qfAQ4+BiER+W+DorRvXDEg05b/QTtFDCo8O/+T9jFj/fZqP/Pb\n/lssCg9uB/JPyFb1mKrRn82xElJe19+/y/QUEENDYS8ep1b+Xbw5KEDWl3Qc4J1V\ngteaz8Mcrr0oiZMKRY3S5ikJFwjwPokVCuW9smMifDfzZxDmZCtfm1wXJgkI1O9e\nP8X+SyKri/06KSn2+x6r+JaEEWfcbclKfkUJIdWaYc1kS6fC7MyeDlnutkgZriRk\nQz1tpTBEHHqb5NTKio+ukY54F9z6IF+gRpucsbrVFQ==\n=Cl5+\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcPSv9AAoJEBpUEUgFTp44JjAMAK75/sC/+hdhgiPusfpQFcLX\nS1oAKOWOmFAtkCNbAI4rQhroTUOW+yYiKubMuH/eS3Pl1Dk+dMrUpdsRMHwbIYLD\n7P/ks/Mbkpsl0wdrx8Z6rpeXHhtE2E9lC8lHL36/JNHN3/h8F6NjaxAN2Hl0RszW\nFVLNjC+bm8l8yon18fiKC3K6eMa4enOXZx6ktCoM9sB7qZwDgozHPo+ZTDoqjrjD\nqq7zZ0YjsCNaB7qfAQ4+BiER+W+DorRvXDEg05b/QTtFDCo8O/+T9jFj/fZqP/Pb\n/lssCg9uB/JPyFb1mKrRn82xElJe19+/y/QUEENDYS8ep1b+Xbw5KEDWl3Qc4J1V\ngteaz8Mcrr0oiZMKRY3S5ikJFwjwPokVCuW9smMifDfzZxDmZCtfm1wXJgkI1O9e\nP8X+SyKri/06KSn2+x6r+JaEEWfcbclKfkUJIdWaYc1kS6fC7MyeDlnutkgZriRk\nQz1tpTBEHHqb5NTKio+ukY54F9z6IF+gRpucsbrVFQ==\n=Cl5+\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6056677f35347cd82c12fc9020b02ef142dbe289\ntype commit\ntag 5.2.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1547512829 +0000\n\noslo.config 5.2.1 release\n\nmeta:version: 5.2.1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I9ff1280450a059a4ff54fda521c5055394fd17c1\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

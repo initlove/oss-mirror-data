@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI5ODI1MTI1OjRmZDU1NjJmZTgwMjczNTE3ODdhN2EzMDI4MjU5OTFhODczODEwMGQ=",
+  "sha": "4fd5562fe8027351787a7a302825991a8738100d",
+  "url": "https://api.github.com/repos/projectcalico/node/git/tags/4fd5562fe8027351787a7a302825991a8738100d",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2019-03-09T19:24:00Z"
+  },
+  "object": {
+    "sha": "73de8b18f6f45a13b0e48f6cd1c33a66ce809a9b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/node/git/commits/73de8b18f6f45a13b0e48f6cd1c33a66ce809a9b"
+  },
+  "tag": "v3.6.0",
+  "message": "- 54892089274d6c20815f19caea26315d25dd1b74 Update licenses folder with Fossa reports\n- 394c3e2454d069b5941d3e274ec85b33ab30a9c4 Fix clean target\n- fb879d775314cee173e17a5abf803169ce5950fb Automated pin updates\n- dd647d0f72afa29acadf4b0d447160bd9e27bdbf Automated pin updates\n- fc2d96b3f167804b1e5ba2bb62531a6ed3ad1308 Automated pin updates\n- 497c03af7c7733d52b3a3f151ec5af589c1397fe Automated pin updates\n- b412af6226d66555bc62ff9abb11237ed7b4f915 Automated pin updates\n- c4cc4da7a58aedad1a256e51b0071564029975a8 Automated pin updates\n- 517039623895b6c3ce3c389d5a4a008804ad59f2 Automated pin updates\n- d553b8b516df869d95532063946b53244c9c647c Automated pin updates\n- 7918b45b967ca0199ccd714d21204e10e52a95d0 Automated pin updates\n- fcda8d5422dc5a027c5f7a04e9fe961ad2274dc6 Automated pin updates\n- bd5b76adfb39e3e596a5f00beabaaead452fc6f1 Automated pin updates\n- cb9a2987f5093155e32632dff205c657873a300d Update to include KDD IPAM support\n- 9e992f180a1e99fd2c0b36ac0a299aedae1dcf18 Automated pin updates\n- df7dea0147047d0c1a7b32e55ca1047bcf15095d Automated pin updates\n- 44b894c12b9f9bfc82bba245f66e84335c74d2f1 route filtering on rr testcase\n- a2665b39b8e64131f2c38082d9d4960308292b32 Automated pin updates\n- 4e85f94629c45bf5ec7aa7b6d64e8a2bb174f905 Rationalize ST calicoctl calling code\n- 59dee8146f5b1357f18653e5544e5d7f920bb686 More delete_all rationalization\n- 145ebe6637b98b6ff6cbecd7a4bbb2df5598025e Automated pin updates\n- 15b2d6c767ed664faa13f01e526828ac9ba924a0 Automated pin updates\n- b007c9adf98667e6b5e72b26f4ba31571092a4a7 Assign attributes to IPIP address\n- efa3aa8c111f8efee3af8456adc094e73d5af20c Update libcalico-go to 93239b5394ab0f1db0bac35a5bb1fe53c2e3fbb2\n- ddba3ad1961ae70a41061c38a52df5aeb0a64cf1 Automated pin updates\n- 0d3e82e69217ddcd27a85aeec22d98edcca4614c Automated pin updates\n- 435fd226a1a2d01fef9c49010e1b348b31a8f008 route filtering on rr testcase updated\n- f0874bdf255963874ba985998f513861b21c9eba Makefile local change reverted\n- 6f35bfe873d2cd9398bff3ec925013d89d5e650e comments added\n- 98c1a69ddf9c66ced597c2aadeeb4226d2d9fdd0 Automated pin updates\n- 53ae31857c26e3e28f840d8674afab12eaf4a19e Automated pin updates\n- 274892f5dce9dad658b675cd7ee4e0d417e9dca3 final code\n- 509027b38f255e5f356cd1649dbd0dca24e261e4 Pin to calico v3.3 manifests for k8s-tests\n- a0ea7f7cc0b85476fd39cd950c665d52739f8ea9 Have all k8st resources locally\n- 163b5db70b8b75437a61f28bb5ee2d54af916bac Automated pin updates\n- 0704a58512d72bdcacd1d3d13af166941ff31e9a review comments addressed\n- 31ec54872f2b86c03af5bb96136ade58edf9d5bf review comments addressed\n- 54880e24c0ce366f8a159eef9acbf0f3b68932c6 Added code to avoid aggresive update due to rolling update issue on any node.\n- 3db67087fa2bcd6f9392fcc670b982d3e38b826d Updated code according to review comments.\n- 383d629e58faed954da0d8c2d7762a3152c4be8c Patch libcalico-go to dbe6c65332422fb000e7760c7ff788a2fc6dd9be\n- aba7047293e57f02ab6069349e4ff1e0fbbe49d4 Added code to handle BIRD readiness if no BGP peers exist.\n- e5140b4a61184b3896a4d3655a064b890e748a1a Make clean shouldn't leave repo dirty\n- a492577800fa9e9d6def3d879b2ee093bfb85e77 Fix version check to -dirty fails\n- f7acd720fc17ed5f4312c71ee3004ce907928f13 Fix version check\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

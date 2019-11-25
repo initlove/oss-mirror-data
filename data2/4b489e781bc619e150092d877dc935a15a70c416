@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDY1MTY2Njc6NGI0ODllNzgxYmM2MTllMTUwMDkyZDg3N2RjOTM1YTE1YTcwYzQxNg==",
+  "sha": "4b489e781bc619e150092d877dc935a15a70c416",
+  "url": "https://api.github.com/repos/openstack/neutron-lib/git/tags/4b489e781bc619e150092d877dc935a15a70c416",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-05-31T22:04:14Z"
+  },
+  "object": {
+    "sha": "55e0a3c7dda5c93368315d041fcc07f0f4887c12",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-lib/git/commits/55e0a3c7dda5c93368315d041fcc07f0f4887c12"
+  },
+  "tag": "1.15.0",
+  "message": "neutron-lib 1.15.0 release\n\nmeta:version: 1.15.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Thomas Morin <thomas.morin@orange.com>\nmeta:release:Commit: Thomas Morin <thomas.morin@orange.com>\nmeta:release:Change-Id: I2acc591736335c218fcf8bd9e73b1471046c0205\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: boden <bodenvmw@gmail.com>\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@huawei.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbEHFeAAoJEMNs3LTfAMaMkd4IAIKN5uIsGp6qBOBsWt0ifs6Z\nEomsdLrR4ozN85woM7Xe38KyjdWey1UMp5oXsx86bjHADJiNZc2F2SWe8lyVryTw\nbZuJ7zhMQUdmIZY0otaB3DfCjuqtwO1czA5i94Sh1Fof8hYt0tpVBR1uXADALCga\nmNxflmFFRkgXMkAvc/VCiyfWDZs08SqoYE54Jqe5SQFMNvabYEajpj0AONigwwIE\n6BLE1KJc/TggI0/NncdP+JYRqf/uWb/cVEOV1VA9MSyp046Evj0HMQ20F/jpUDB7\nN3ThWtjeUSqwGIpIKXrP0cnKLC22v8Eo6iCnLjSRdfDN2D1i+KeaEdhU08HDpHQ=\n=npFS\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbEHFeAAoJEMNs3LTfAMaMkd4IAIKN5uIsGp6qBOBsWt0ifs6Z\nEomsdLrR4ozN85woM7Xe38KyjdWey1UMp5oXsx86bjHADJiNZc2F2SWe8lyVryTw\nbZuJ7zhMQUdmIZY0otaB3DfCjuqtwO1czA5i94Sh1Fof8hYt0tpVBR1uXADALCga\nmNxflmFFRkgXMkAvc/VCiyfWDZs08SqoYE54Jqe5SQFMNvabYEajpj0AONigwwIE\n6BLE1KJc/TggI0/NncdP+JYRqf/uWb/cVEOV1VA9MSyp046Evj0HMQ20F/jpUDB7\nN3ThWtjeUSqwGIpIKXrP0cnKLC22v8Eo6iCnLjSRdfDN2D1i+KeaEdhU08HDpHQ=\n=npFS\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 55e0a3c7dda5c93368315d041fcc07f0f4887c12\ntype commit\ntag 1.15.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1527804254 +0000\n\nneutron-lib 1.15.0 release\n\nmeta:version: 1.15.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Thomas Morin <thomas.morin@orange.com>\nmeta:release:Commit: Thomas Morin <thomas.morin@orange.com>\nmeta:release:Change-Id: I2acc591736335c218fcf8bd9e73b1471046c0205\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: boden <bodenvmw@gmail.com>\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@huawei.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

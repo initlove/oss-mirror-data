@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNDoxZDQ0Nzk2MTIyNDc0MzE1NjgxNDU5YWQwNDRlYTIzOWRlNjc1N2E0",
+  "sha": "1d44796122474315681459ad044ea239de6757a4",
+  "url": "https://api.github.com/repos/openstack/heat/git/tags/1d44796122474315681459ad044ea239de6757a4",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-07-28T18:56:50Z"
+  },
+  "object": {
+    "sha": "cc4fdcef058370c3b779f38e8a2f4f0792f5b2de",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/heat/git/commits/cc4fdcef058370c3b779f38e8a2f4f0792f5b2de"
+  },
+  "tag": "9.0.0.0b3",
+  "message": "heat 9.0.0.0b3 development milestone\n\nmeta:version: 9.0.0.0b3\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: ricolin <rico.lin@easystack.cn>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: Iec02f23d6886081477444ab93599ee9dc397195a\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZe4jyAAoJEOtsyhSD+nTsPvIH/0rhQn1B6eAAEVmNRnYfHN2g\nBDwL1Ib4u3LLY564U8Ygnh0ilKIO/bPK1uqq7oCRsP8kGnM+Qk0zUFN6QUB73ARK\nnj4oamzmOolKoA18CfCX2HQSXK8BYY64wXYItabB5x/9+VZ9baXQgSEBjkk4Pj/Z\nEvSqIz4vFH+oB3Z189Auewga9nLzV2NLF0wsYFwCBhCR4xQnhWbsq1ITPsb8831h\nadIg8XrpjLaDGrJmPQuIbPmVX4+Z4FzCBupz7vJkdevTY/wrLroVCV8l7q6eFOUW\nhTKZx48yis8Nd+/3rLEgOt97YDKrccVFAsEj9sw2fLkIp8Xg1/I8iJCaEl9FHHU=\n=JdAx\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZe4jyAAoJEOtsyhSD+nTsPvIH/0rhQn1B6eAAEVmNRnYfHN2g\nBDwL1Ib4u3LLY564U8Ygnh0ilKIO/bPK1uqq7oCRsP8kGnM+Qk0zUFN6QUB73ARK\nnj4oamzmOolKoA18CfCX2HQSXK8BYY64wXYItabB5x/9+VZ9baXQgSEBjkk4Pj/Z\nEvSqIz4vFH+oB3Z189Auewga9nLzV2NLF0wsYFwCBhCR4xQnhWbsq1ITPsb8831h\nadIg8XrpjLaDGrJmPQuIbPmVX4+Z4FzCBupz7vJkdevTY/wrLroVCV8l7q6eFOUW\nhTKZx48yis8Nd+/3rLEgOt97YDKrccVFAsEj9sw2fLkIp8Xg1/I8iJCaEl9FHHU=\n=JdAx\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cc4fdcef058370c3b779f38e8a2f4f0792f5b2de\ntype commit\ntag 9.0.0.0b3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1501268210 +0000\n\nheat 9.0.0.0b3 development milestone\n\nmeta:version: 9.0.0.0b3\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: ricolin <rico.lin@easystack.cn>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: Iec02f23d6886081477444ab93599ee9dc397195a\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

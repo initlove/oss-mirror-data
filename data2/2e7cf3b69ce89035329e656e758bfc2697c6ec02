@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDE6MmU3Y2YzYjY5Y2U4OTAzNTMyOWU2NTZlNzU4YmZjMjY5N2M2ZWMwMg==",
+  "sha": "2e7cf3b69ce89035329e656e758bfc2697c6ec02",
+  "url": "https://api.github.com/repos/openstack/ironic/git/tags/2e7cf3b69ce89035329e656e758bfc2697c6ec02",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-03-29T17:50:25Z"
+  },
+  "object": {
+    "sha": "ee5a245806446caa8a1650bf2b945777fd74b786",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic/git/commits/ee5a245806446caa8a1650bf2b945777fd74b786"
+  },
+  "tag": "4.2.3",
+  "message": "ironic 4.2.3 release\n\nmeta:version: 4.2.3\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJW+sBhAAoJEDttBqDEKEN6HZwIAK134Z/NaRx8OnYW70KN5O3T\nZTit+KFEDTiqcHNfvfzg90w8q6/Rm5VfM9+abSSqwgbIHQZAyKmhPWlc0TMWjfiy\nUnY1rkxFI0xtSoUO56lTnG2GafsZqPxIH/asQn97WL/5ycdrftHT+V4fADWqJ+mX\noXS6aVrhuuZjID7H0D5ZS1wiSIvyY8vGqGIbeEDzKm9aMlt6Mc4n2OZv1oZYpUru\ntfvcyYC9K9RsdCIcAUQK6oARwLx+BJ7AEYbLUgdiZtaKXkL7bKyywis7X7W01T/B\nZ+QPvNYpHPG8s0YEw9JZoxa4u0I/RJpCTD3I4GZ4KckLKxxdbvpz+bSR4ZZdZdY=\n=7h/M\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJW+sBhAAoJEDttBqDEKEN6HZwIAK134Z/NaRx8OnYW70KN5O3T\nZTit+KFEDTiqcHNfvfzg90w8q6/Rm5VfM9+abSSqwgbIHQZAyKmhPWlc0TMWjfiy\nUnY1rkxFI0xtSoUO56lTnG2GafsZqPxIH/asQn97WL/5ycdrftHT+V4fADWqJ+mX\noXS6aVrhuuZjID7H0D5ZS1wiSIvyY8vGqGIbeEDzKm9aMlt6Mc4n2OZv1oZYpUru\ntfvcyYC9K9RsdCIcAUQK6oARwLx+BJ7AEYbLUgdiZtaKXkL7bKyywis7X7W01T/B\nZ+QPvNYpHPG8s0YEw9JZoxa4u0I/RJpCTD3I4GZ4KckLKxxdbvpz+bSR4ZZdZdY=\n=7h/M\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ee5a245806446caa8a1650bf2b945777fd74b786\ntype commit\ntag 4.2.3\ntagger Doug Hellmann <doug@doughellmann.com> 1459273825 -0400\n\nironic 4.2.3 release\n\nmeta:version: 4.2.3\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n"
+  }
+}

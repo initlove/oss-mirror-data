@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE1NTE1Nzo2YWE3NTZmNjc3ZTViNGQ2MjYzMGNjNDliMTUxMjQzY2I3NTgwM2Yy",
+  "sha": "6aa756f677e5b4d62630cc49b151243cb75803f2",
+  "url": "https://api.github.com/repos/openstack/glance/git/tags/6aa756f677e5b4d62630cc49b151243cb75803f2",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-01-26T16:54:05Z"
+  },
+  "object": {
+    "sha": "9c7b25d6f8e91764052319e22b35cc98545eecf5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/glance/git/commits/9c7b25d6f8e91764052319e22b35cc98545eecf5"
+  },
+  "tag": "14.0.0.0b3",
+  "message": "glance 14.0.0.0b3 development milestone\n\nmeta:version: 14.0.0.0b3\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ian Cordasco <graffatcolmingov@gmail.com>\nmeta:release:Commit: Ian Cordasco <graffatcolmingov@gmail.com>\nmeta:release:Change-Id: I89a063ebcaf318aebaec85806c98cb069118e892\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYiimtAAoJELkGmxM1cAzcroQIAIaaWm5dfqkY06NBASE6/QYw\nijUiljPuGa9bf5rJ8qmDiLSvoYMzE6Df70owUS+HNZGG/B163fsnGj0Q8d2pbCdB\nzTurug1zMlx4XfSHgtyBgO6riL2uC4xk69H2Xd1YvHQrT5zYkdya0SrgFCRMv0kH\n0/qceWe5pzj4/A5XSJzDgmCHVUGHTVliFAq3W4QKnEmeu8uWO8tx8OV51xG6Wjqt\nYCFyb1Q+qhkyde0bUk/nHindAYzODRdqK8C4YFyJrvbpLxv0wlh1GO66FR8aPoF0\ndcnmRHQ/ryu5SU660RswQc5pvkxhJFHaBJK0meokTKYIkNTQJPzHzDjUq0ghn/A=\n=gasS\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYiimtAAoJELkGmxM1cAzcroQIAIaaWm5dfqkY06NBASE6/QYw\nijUiljPuGa9bf5rJ8qmDiLSvoYMzE6Df70owUS+HNZGG/B163fsnGj0Q8d2pbCdB\nzTurug1zMlx4XfSHgtyBgO6riL2uC4xk69H2Xd1YvHQrT5zYkdya0SrgFCRMv0kH\n0/qceWe5pzj4/A5XSJzDgmCHVUGHTVliFAq3W4QKnEmeu8uWO8tx8OV51xG6Wjqt\nYCFyb1Q+qhkyde0bUk/nHindAYzODRdqK8C4YFyJrvbpLxv0wlh1GO66FR8aPoF0\ndcnmRHQ/ryu5SU660RswQc5pvkxhJFHaBJK0meokTKYIkNTQJPzHzDjUq0ghn/A=\n=gasS\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9c7b25d6f8e91764052319e22b35cc98545eecf5\ntype commit\ntag 14.0.0.0b3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1485449645 +0000\n\nglance 14.0.0.0b3 development milestone\n\nmeta:version: 14.0.0.0b3\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ian Cordasco <graffatcolmingov@gmail.com>\nmeta:release:Commit: Ian Cordasco <graffatcolmingov@gmail.com>\nmeta:release:Change-Id: I89a063ebcaf318aebaec85806c98cb069118e892\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

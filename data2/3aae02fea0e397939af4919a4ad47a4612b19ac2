@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjAxMTU3MzA6M2FhZTAyZmVhMGUzOTc5MzlhZjQ5MTlhNGFkNDdhNDYxMmIxOWFjMg==",
+  "sha": "3aae02fea0e397939af4919a4ad47a4612b19ac2",
+  "url": "https://api.github.com/repos/openstack/python-barbicanclient/git/tags/3aae02fea0e397939af4919a4ad47a4612b19ac2",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-01-26T10:21:50Z"
+  },
+  "object": {
+    "sha": "585e9c92922018345fa10a7ef93f9c09ae0413ec",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-barbicanclient/git/commits/585e9c92922018345fa10a7ef93f9c09ae0413ec"
+  },
+  "tag": "4.2.0",
+  "message": "python-barbicanclient 4.2.0 release\n\nmeta:version: 4.2.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Dave McCowan <dmccowan@cisco.com>\nmeta:release:Commit: Dave McCowan <dmccowan@cisco.com>\nmeta:release:Change-Id: I4f791977b88b884966682f3bf58ca2a99112b2b2\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYic2+AAoJELkGmxM1cAzcFBkH/2i0k+M7Ou1ILxqovOyu2AyA\nKiv1qLZAlat0PRCNtuRHJiHNEpCDtdmioiF61F+Qb2HajPZks9fnHalIh0xyoTeg\ngfJG26e7xE9TjRnHk9fCq2gELDTs4NjRig0cKIJAfYQJefwm39O5qKo7E3q1yEo6\nRelRBliNbbInt77WAkVFvUfOizo8mqax1cmDmdZC4H7l3lH3pRWbMNOhcDJZPCCq\n8U9Zn7XNKEk834ymt+lmQHXgsgTv2UyhNq+Rgc4VwWQGFPH/Sl9rryxKNthwiNcf\n5h++KG50FPqK+/tARbLcg/Sj5jjhQGkq2gyU1AJMXnJL4jS0MhjdWSnj5rnJFxE=\n=lqlo\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYic2+AAoJELkGmxM1cAzcFBkH/2i0k+M7Ou1ILxqovOyu2AyA\nKiv1qLZAlat0PRCNtuRHJiHNEpCDtdmioiF61F+Qb2HajPZks9fnHalIh0xyoTeg\ngfJG26e7xE9TjRnHk9fCq2gELDTs4NjRig0cKIJAfYQJefwm39O5qKo7E3q1yEo6\nRelRBliNbbInt77WAkVFvUfOizo8mqax1cmDmdZC4H7l3lH3pRWbMNOhcDJZPCCq\n8U9Zn7XNKEk834ymt+lmQHXgsgTv2UyhNq+Rgc4VwWQGFPH/Sl9rryxKNthwiNcf\n5h++KG50FPqK+/tARbLcg/Sj5jjhQGkq2gyU1AJMXnJL4jS0MhjdWSnj5rnJFxE=\n=lqlo\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 585e9c92922018345fa10a7ef93f9c09ae0413ec\ntype commit\ntag 4.2.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1485426110 +0000\n\npython-barbicanclient 4.2.0 release\n\nmeta:version: 4.2.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Dave McCowan <dmccowan@cisco.com>\nmeta:release:Commit: Dave McCowan <dmccowan@cisco.com>\nmeta:release:Change-Id: I4f791977b88b884966682f3bf58ca2a99112b2b2\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

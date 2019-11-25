@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjM0NDA0NDQ6NmRkYzI1ZTRkNjFjYTU1MDZkMjI4ODFlNzBkMTE4ZTlmZGExOTU2Mw==",
+  "sha": "6ddc25e4d61ca5506d22881e70d118e9fda19563",
+  "url": "https://api.github.com/repos/openstack/oslo.log/git/tags/6ddc25e4d61ca5506d22881e70d118e9fda19563",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-04-16T19:04:11Z"
+  },
+  "object": {
+    "sha": "edace72649030fae10b798634c7f1bb0b93b1446",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.log/git/commits/edace72649030fae10b798634c7f1bb0b93b1446"
+  },
+  "tag": "3.30.3",
+  "message": "oslo.log 3.30.3 release\n\nmeta:version: 3.30.3\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Ifcb051db33bffbfe7c183b726e7c54c310c488e1\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly2JysZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOCIaDAC5fagUJUlHWRDMrw1WAf9k\nAerP8GLk4EvEaXzQPkcHi5lyECIPO4oVFNZ87b5DhQ9+Vl1FwwPUOHTtPLmZVRnd\nh1h4vupxacnGhINAy7FDgRk65t0YQoGtJFpLhZmWd+bwCn4CKpAzO2HCH2mhnwu4\nxidDf2tJu6iUilXB7ePmVvdwai6RF0ypP7DT0vEaj0DH2kvYjgL4SiBQygLK8hms\n2/D2WrLDtw41/mJeo4iSqSSU6SNp81GI6U/3ZdHNqpUXUAFG24sFbcFDr11OIeKS\nMQG0FA4u2P/0jTgRRfPC82Ug1bnj0xcUDATTUqlNG9oqCuFVA25nQaA+DLx73kBI\nUnh2vP/5wQ2os5hwD1rNboKujo064LLzVyrrCPzDz79wKkRQR7kf0Zlh72QIGlsF\nEtOwTI1HYfZ5GgFBxpsNAzaTKUzahH/1v6rsNWyf3gecsqWINGVn7JX5Bft7hMy6\nsLj9EPxUXcuLPqkFoIjUMagrD2QGP8vCul6iL0/0J9c=\n=Wfpk\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly2JysZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOCIaDAC5fagUJUlHWRDMrw1WAf9k\nAerP8GLk4EvEaXzQPkcHi5lyECIPO4oVFNZ87b5DhQ9+Vl1FwwPUOHTtPLmZVRnd\nh1h4vupxacnGhINAy7FDgRk65t0YQoGtJFpLhZmWd+bwCn4CKpAzO2HCH2mhnwu4\nxidDf2tJu6iUilXB7ePmVvdwai6RF0ypP7DT0vEaj0DH2kvYjgL4SiBQygLK8hms\n2/D2WrLDtw41/mJeo4iSqSSU6SNp81GI6U/3ZdHNqpUXUAFG24sFbcFDr11OIeKS\nMQG0FA4u2P/0jTgRRfPC82Ug1bnj0xcUDATTUqlNG9oqCuFVA25nQaA+DLx73kBI\nUnh2vP/5wQ2os5hwD1rNboKujo064LLzVyrrCPzDz79wKkRQR7kf0Zlh72QIGlsF\nEtOwTI1HYfZ5GgFBxpsNAzaTKUzahH/1v6rsNWyf3gecsqWINGVn7JX5Bft7hMy6\nsLj9EPxUXcuLPqkFoIjUMagrD2QGP8vCul6iL0/0J9c=\n=Wfpk\n-----END PGP SIGNATURE-----\n",
+    "payload": "object edace72649030fae10b798634c7f1bb0b93b1446\ntype commit\ntag 3.30.3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1555441451 +0000\n\noslo.log 3.30.3 release\n\nmeta:version: 3.30.3\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Ifcb051db33bffbfe7c183b726e7c54c310c488e1\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

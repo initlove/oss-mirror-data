@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQyNDUyMzg6NjljZTE2Yjc1YzJhNjM4YWNlNTBjMGE1NDAwZDc4YzIyY2I4NThmMQ==",
+  "sha": "69ce16b75c2a638ace50c0a5400d78c22cb858f1",
+  "url": "https://api.github.com/repos/openstack/manila/git/tags/69ce16b75c2a638ace50c0a5400d78c22cb858f1",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-25T17:58:23Z"
+  },
+  "object": {
+    "sha": "f4bc383de1ab81a642496d7bb9373fd45f2c26c3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/manila/git/commits/f4bc383de1ab81a642496d7bb9373fd45f2c26c3"
+  },
+  "tag": "queens-em",
+  "message": "manila queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I0bf5913b21e73d0f6102e9f136870269f3e7f7b5\nmeta:release:Code-Review+1: Goutham Pacha Ravi <gouthampravi@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Tom Barron <tpb@dyncloud.net>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2zN78ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2PZJDADD8bRcPzmUsch+kecDAtqQ\n7uu4vTUJiMcHNHU16/uXgWG/+OuHDHRDSh8lmVWC8kg8IVFkFOTUjwmTovqUb+T3\nF6xCOfHPx/z5vDKgsYHo9vUIt4/utjJGsmzaWeUMALTjQOA+mBb0pXfj2nQR3aWd\n25ptgbpZOO7y+j7CW3HN1H1x0kU9ADQtwNbsJe0HS1kp06c71KzoIIjbhCTLQjOY\n933R3GgyqrpltP6oFP6+mR1PUk8Z7N60/eA8I23XGfHrcZE4/iLbCnxYNZbWgqJU\njwwFsmiN45D20ERf+vj5CAJdTcE8zOBh5SDMUM6Cvbf+6nrGHM/UjQdPRHDJ/RH6\nyLk7Mr0UpRllg7NQ2678hxnWH9y/cmnGv5fyNlkoUlR9uiCyoj8xrHYAvj8JhjpV\nM8diBvhMhKoo019ywXkZEOYWkyHHGhEmxhOdxg4qNoxJKhvp0z+XrhMPxGE0ztG3\nZGV6eIE5a6YsWCnLsVKEnoVvfClTiVi9iPdA3EZOU+I=\n=2BPS\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2zN78ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2PZJDADD8bRcPzmUsch+kecDAtqQ\n7uu4vTUJiMcHNHU16/uXgWG/+OuHDHRDSh8lmVWC8kg8IVFkFOTUjwmTovqUb+T3\nF6xCOfHPx/z5vDKgsYHo9vUIt4/utjJGsmzaWeUMALTjQOA+mBb0pXfj2nQR3aWd\n25ptgbpZOO7y+j7CW3HN1H1x0kU9ADQtwNbsJe0HS1kp06c71KzoIIjbhCTLQjOY\n933R3GgyqrpltP6oFP6+mR1PUk8Z7N60/eA8I23XGfHrcZE4/iLbCnxYNZbWgqJU\njwwFsmiN45D20ERf+vj5CAJdTcE8zOBh5SDMUM6Cvbf+6nrGHM/UjQdPRHDJ/RH6\nyLk7Mr0UpRllg7NQ2678hxnWH9y/cmnGv5fyNlkoUlR9uiCyoj8xrHYAvj8JhjpV\nM8diBvhMhKoo019ywXkZEOYWkyHHGhEmxhOdxg4qNoxJKhvp0z+XrhMPxGE0ztG3\nZGV6eIE5a6YsWCnLsVKEnoVvfClTiVi9iPdA3EZOU+I=\n=2BPS\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f4bc383de1ab81a642496d7bb9373fd45f2c26c3\ntype commit\ntag queens-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572026303 +0000\n\nmanila queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I0bf5913b21e73d0f6102e9f136870269f3e7f7b5\nmeta:release:Code-Review+1: Goutham Pacha Ravi <gouthampravi@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Tom Barron <tpb@dyncloud.net>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

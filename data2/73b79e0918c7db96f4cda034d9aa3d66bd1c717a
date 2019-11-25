@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDQ6NzNiNzllMDkxOGM3ZGI5NmY0Y2RhMDM0ZDlhYTNkNjZiZDFjNzE3YQ==",
+  "sha": "73b79e0918c7db96f4cda034d9aa3d66bd1c717a",
+  "url": "https://api.github.com/repos/openstack/python-ironicclient/git/tags/73b79e0918c7db96f4cda034d9aa3d66bd1c717a",
+  "tagger": {
+    "name": "Devananda van der Veen",
+    "email": "devananda.vdv@gmail.com",
+    "date": "2014-02-25T03:13:40Z"
+  },
+  "object": {
+    "sha": "b47d7aef4b6d795769a4d4452caf02be89f6a943",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironicclient/git/commits/b47d7aef4b6d795769a4d4452caf02be89f6a943"
+  },
+  "tag": "0.1.2",
+  "message": "Release 0.1.2\n\nChanges:\n- node-show displays 'maintenance' field\n- node-set-power-state does not print empty table\n- port-show displays the node_uuid\n- node-create help message corrected and no longer states that\n  chassis_id is required when it is not\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.14 (GNU/Linux)\n\niEYEABECAAYFAlMMCmgACgkQhFvuBniJg6fBsQCdGAPBT9RxO40LEFuFLZPRlJ/e\nZkYAoNaCCINm9RQsXDZ9IRy9FsfMfZVt\n=Vk2G\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.14 (GNU/Linux)\n\niEYEABECAAYFAlMMCmgACgkQhFvuBniJg6fBsQCdGAPBT9RxO40LEFuFLZPRlJ/e\nZkYAoNaCCINm9RQsXDZ9IRy9FsfMfZVt\n=Vk2G\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b47d7aef4b6d795769a4d4452caf02be89f6a943\ntype commit\ntag 0.1.2\ntagger Devananda van der Veen <devananda.vdv@gmail.com> 1393298020 -0800\n\nRelease 0.1.2\n\nChanges:\n- node-show displays 'maintenance' field\n- node-set-power-state does not print empty table\n- port-show displays the node_uuid\n- node-create help message corrected and no longer states that\n  chassis_id is required when it is not\n"
+  }
+}

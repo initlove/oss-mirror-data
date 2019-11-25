@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTkzMTY2MTA6MjI0ZDVmNzZjMjkwMTc0MjM3OTc0ZmI0MjRjYWMyZDZlNTQ0MjgyMQ==",
+  "sha": "224d5f76c290174237974fb424cac2d6e5442821",
+  "url": "https://api.github.com/repos/openstack/oslo.db/git/tags/224d5f76c290174237974fb424cac2d6e5442821",
+  "tagger": {
+    "name": "Victor Sergeyev",
+    "email": "vsergeyev@mirantis.com",
+    "date": "2014-07-09T09:26:50Z"
+  },
+  "object": {
+    "sha": "404de362a3cf8fb88e827fe0b4bf6b2d5baea405",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.db/git/commits/404de362a3cf8fb88e827fe0b4bf6b2d5baea405"
+  },
+  "tag": "0.3.0",
+  "message": "Release 0.3.0\n\nChanges:\n\nAdd a base test case for DB schema comparison\nTest for distinct SQLAlchemy major releases\nUpdated from global requirements\nAdd __contains__ to ModelBase to fully behave like a dict\nFix test to not assume eventlet isn't present\nAvoid usage of mutables as default args\nUpdated from global requirements\nAdd _wrap_db_error support for postgresql\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJTvQtcAAoJENWgYFa7TmIKRjsP/j/If93umWhLfqYepebDZj0p\nbc9o3vCEY+NdodMbuT0MM1y62yQ4J4UNaI6JQUcTN5+f/Owb2DYsHJHyBtTN4UqQ\nlUoo104KqY+jxmmDLDIehViBsuRWCsziex3DZUIrJM1NtZeQO0KKDKoGesDkpOok\nH1nL2/TuOv9c0GxecwK/UPkPeLBXtybCyH8Mdz4+PRVgKtjlWJMljIgTVwWHzYu1\npHvMumDEiTEzViDmWhouYJ+3A/wHpEDvbHyHnwCvs1wEV+X7i+FlZKoUQSV+EYmw\nqirJb141+hqQPr9+FjoIA7cwAbHWlTwUL2qq/u0EWOk/++KK9NAmPm5tkvRLGeY3\nz0h70SXjyNyfSA2zujZRAJ4dHSWJ52trXlHuRVCOXRf/I4tSGCet79h9PQcrFK7o\nfXYFKrhgf/NJboAaYAmDcvi9646iX2sOnwGxqvH4hVFKMqvO4kXUkK+jDxE/x6Yo\nLV08a2FNIvVc2kuVBjoZPlWZOLrydysMp8sSJgvLrtrTKlefMHw0lQd+LTwfFPDx\nyJEyRC9fP7e4r+VUSchjTGjD+XzQluYK4F0ViqlUUbL0QR6mc3nvWs3b0MuQc7Fq\n9QkhEp6mDAHh0lLkAuDnys/yEptORJ7J5D+wvOaDD0+nkF+bIQcXlyKYGQotwFds\nYmFsomLiYQj6UKY9QNbq\n=dGLc\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJTvQtcAAoJENWgYFa7TmIKRjsP/j/If93umWhLfqYepebDZj0p\nbc9o3vCEY+NdodMbuT0MM1y62yQ4J4UNaI6JQUcTN5+f/Owb2DYsHJHyBtTN4UqQ\nlUoo104KqY+jxmmDLDIehViBsuRWCsziex3DZUIrJM1NtZeQO0KKDKoGesDkpOok\nH1nL2/TuOv9c0GxecwK/UPkPeLBXtybCyH8Mdz4+PRVgKtjlWJMljIgTVwWHzYu1\npHvMumDEiTEzViDmWhouYJ+3A/wHpEDvbHyHnwCvs1wEV+X7i+FlZKoUQSV+EYmw\nqirJb141+hqQPr9+FjoIA7cwAbHWlTwUL2qq/u0EWOk/++KK9NAmPm5tkvRLGeY3\nz0h70SXjyNyfSA2zujZRAJ4dHSWJ52trXlHuRVCOXRf/I4tSGCet79h9PQcrFK7o\nfXYFKrhgf/NJboAaYAmDcvi9646iX2sOnwGxqvH4hVFKMqvO4kXUkK+jDxE/x6Yo\nLV08a2FNIvVc2kuVBjoZPlWZOLrydysMp8sSJgvLrtrTKlefMHw0lQd+LTwfFPDx\nyJEyRC9fP7e4r+VUSchjTGjD+XzQluYK4F0ViqlUUbL0QR6mc3nvWs3b0MuQc7Fq\n9QkhEp6mDAHh0lLkAuDnys/yEptORJ7J5D+wvOaDD0+nkF+bIQcXlyKYGQotwFds\nYmFsomLiYQj6UKY9QNbq\n=dGLc\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 404de362a3cf8fb88e827fe0b4bf6b2d5baea405\ntype commit\ntag 0.3.0\ntagger Victor Sergeyev <vsergeyev@mirantis.com> 1404898010 +0300\n\nRelease 0.3.0\n\nChanges:\n\nAdd a base test case for DB schema comparison\nTest for distinct SQLAlchemy major releases\nUpdated from global requirements\nAdd __contains__ to ModelBase to fully behave like a dict\nFix test to not assume eventlet isn't present\nAvoid usage of mutables as default args\nUpdated from global requirements\nAdd _wrap_db_error support for postgresql\n"
+  }
+}

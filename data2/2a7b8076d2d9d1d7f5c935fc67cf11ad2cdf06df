@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc5MTM0ODoyYTdiODA3NmQyZDlkMWQ3ZjVjOTM1ZmM2N2NmMTFhZDJjZGYwNmRm",
+  "sha": "2a7b8076d2d9d1d7f5c935fc67cf11ad2cdf06df",
+  "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/tags/2a7b8076d2d9d1d7f5c935fc67cf11ad2cdf06df",
+  "tagger": {
+    "name": "JP Richardson",
+    "email": "jprichardson@gmail.com",
+    "date": "2015-07-04T13:49:06Z"
+  },
+  "object": {
+    "sha": "d58cb74dc6453116b3ddc0895fc3920c1af0187c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/commits/d58cb74dc6453116b3ddc0895fc3920c1af0187c"
+  },
+  "tag": "0.21.0",
+  "message": "0.21.0 / 2015-07-04\n-------------------\n- add option to preserve timestamps in `copy()` and `copySync()`. See: https://github.com/jprichardson/node-fs-extra/pull/141\n- updated `graceful-fs@3.x` to `4.x`. This brings in features from `amazing-graceful-fs` (much cleaner code / less hacks)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

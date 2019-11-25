@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY2OTM3NzQ6NmE3YTJmZTRiMGE4YmFiNTk5OWExN2FmOTVjNTMzMTAwYjEwNDkyMw==",
+  "sha": "6a7a2fe4b0a8bab5999a17af95c533100b104923",
+  "url": "https://api.github.com/repos/openstack/futurist/git/tags/6a7a2fe4b0a8bab5999a17af95c533100b104923",
+  "tagger": {
+    "name": "Davanum Srinivas",
+    "email": "davanum@gmail.com",
+    "date": "2016-02-16T02:06:45Z"
+  },
+  "object": {
+    "sha": "cc7bc7017ad2c6d0a757fed9ec5f31a493550bbb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/futurist/git/commits/cc7bc7017ad2c6d0a757fed9ec5f31a493550bbb"
+  },
+  "tag": "0.12.0",
+  "message": "futurist 0.12.0 release\n\nmeta:version: 0.12.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\n-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAlbChDUACgkQgNg6eWEDv1kJLgCg84RfZ+mn7nikOFn0HvcqHCSN\nfowAnRnT/1Ia5wEgEVVNdB1oHMjI3z2t\n=zNv5\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAlbChDUACgkQgNg6eWEDv1kJLgCg84RfZ+mn7nikOFn0HvcqHCSN\nfowAnRnT/1Ia5wEgEVVNdB1oHMjI3z2t\n=zNv5\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cc7bc7017ad2c6d0a757fed9ec5f31a493550bbb\ntype commit\ntag 0.12.0\ntagger Davanum Srinivas <davanum@gmail.com> 1455588405 -0500\n\nfuturist 0.12.0 release\n\nmeta:version: 0.12.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDg2ODM3NToyZWRlZmVlNTQ5OWMzMTUwZDRjYjA5MDM4YjJhNjdlYWE4ZGI5YzZj",
+  "sha": "2edefee5499c3150d4cb09038b2a67eaa8db9c6c",
+  "url": "https://api.github.com/repos/openstack/python-cinderclient/git/tags/2edefee5499c3150d4cb09038b2a67eaa8db9c6c",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-12T14:21:58Z"
+  },
+  "object": {
+    "sha": "a63d4d651ae2f7614224f716b3ef8ebf392a6b78",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-cinderclient/git/commits/a63d4d651ae2f7614224f716b3ef8ebf392a6b78"
+  },
+  "tag": "5.0.0",
+  "message": "python-cinderclient 5.0.0 release\n\nmeta:version: 5.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: I5745e422c1c9107ef6039f039e683b99719cd44f\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl16VIYZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JmHDACwGwEImsdHSkFH1+APWyc5\nbMXG+RQCzSZLF90OyqkooLyQC0Q8TPsUP0DmEbC11aX2yaJr67MiRHPcIDoiIg88\nov7+zahdCjtYptCF68y2bv7LmRwjqaTMaJ1X8bT2sKE4/lJdMTcdisDNzbN2qCU8\nC14cpxgnZSYyzwSrGgTxWkaZJ+8VKoVJMhjNvRSO8qsheMSctEc3RmeB8SZICZL2\nJbNJXO+bGRJcrwmfCvNuyy8HnBpIH6lSVOJYILu6lYnvtG0VEEJbxFfDwQojNhU7\njx15kJyl/LTF3WLgAKKhG7NPvLaJxCekl/exNstcGdHOsWwBZikgW12TPBD5qIbx\nikN136Z1ACfWX2OQik8/YrlhVKb/za9J8Wc7fFmDcROfE2iF8lXY+KnAKbuZb+3V\nx67AMObQdb59rt99fRTOoYXapywaO0IgmydJ7GgV3bUTc7vthgGfdX6IgKujWaVM\n4aGnBJnRgrlWJsK07jb7DonIvuRdwCM7yVldV8o0zEM=\n=aPVb\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl16VIYZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JmHDACwGwEImsdHSkFH1+APWyc5\nbMXG+RQCzSZLF90OyqkooLyQC0Q8TPsUP0DmEbC11aX2yaJr67MiRHPcIDoiIg88\nov7+zahdCjtYptCF68y2bv7LmRwjqaTMaJ1X8bT2sKE4/lJdMTcdisDNzbN2qCU8\nC14cpxgnZSYyzwSrGgTxWkaZJ+8VKoVJMhjNvRSO8qsheMSctEc3RmeB8SZICZL2\nJbNJXO+bGRJcrwmfCvNuyy8HnBpIH6lSVOJYILu6lYnvtG0VEEJbxFfDwQojNhU7\njx15kJyl/LTF3WLgAKKhG7NPvLaJxCekl/exNstcGdHOsWwBZikgW12TPBD5qIbx\nikN136Z1ACfWX2OQik8/YrlhVKb/za9J8Wc7fFmDcROfE2iF8lXY+KnAKbuZb+3V\nx67AMObQdb59rt99fRTOoYXapywaO0IgmydJ7GgV3bUTc7vthgGfdX6IgKujWaVM\n4aGnBJnRgrlWJsK07jb7DonIvuRdwCM7yVldV8o0zEM=\n=aPVb\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a63d4d651ae2f7614224f716b3ef8ebf392a6b78\ntype commit\ntag 5.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1568298118 +0000\n\npython-cinderclient 5.0.0 release\n\nmeta:version: 5.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: I5745e422c1c9107ef6039f039e683b99719cd44f\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

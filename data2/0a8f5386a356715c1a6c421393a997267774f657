@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI5ODI1MTI1OjBhOGY1Mzg2YTM1NjcxNWMxYTZjNDIxMzkzYTk5NzI2Nzc3NGY2NTc=",
+  "sha": "0a8f5386a356715c1a6c421393a997267774f657",
+  "url": "https://api.github.com/repos/projectcalico/node/git/tags/0a8f5386a356715c1a6c421393a997267774f657",
+  "tagger": {
+    "name": "Neil Jerram",
+    "email": "neil@tigera.io",
+    "date": "2019-04-30T15:38:16Z"
+  },
+  "object": {
+    "sha": "8f4605390fe8cd5d1678999c4eac2364b3350a5e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/node/git/commits/8f4605390fe8cd5d1678999c4eac2364b3350a5e"
+  },
+  "tag": "v3.7.0",
+  "message": "- b4b201514e9ca8f35d393b53b5011c64584a472d Automated pin updates\n- 8f17f682aa84c5c998c160e45d4e8661f4d4e486 Automated pin updates\n- ba031f6003b6bae31be59488e19df90d7ebc917f Fix version check to -dirty fails\n- 9255ae16a924214f451074ff079dff987276f115 Make clean shouldn't leave repo dirty\n- eadf822bdb408f7be680d920d1d658d1151b1e5e Fix version check again\n- 666f2950222e3966c3332b852291b4a259b98e98 Automated pin updates\n- 5f9aaa56e0f3bf482b98b0f103222bc831716de6 Automated pin updates\n- 56a4cccb2267aeea0824dc1971fe60721440f012 Automated pin updates\n- 99a2eb05522e9a5b5ef567a9ceb5ae79ca85e03d Automated pin updates\n- a8590d56c3087bd03a96b9deca2d1a32a0b2e4a3 Automated pin updates\n- 54286d900812452b6723b7f21648bb4931659ad8 Automated pin updates\n- bb2cf4568143b822358d94a362634942ebef2b1e Automated pin updates\n- 9619db6f63816d94d0a4cbb79f5dd9775af32b37 Pin calico/test requirements.\n- 474c9e970d4481eeb3a656134b97b314942e5de9 Automated pin updates\n- 6c4e343a0723eb78ea3a874d640c33f5e3ce173c Avoid apparent pyyaml vulnerability\n- 71979ddb527a1d165ff15645110b6c8e3aeb9dac Automated pin updates\n- d9c840e4c1ecbf2f9c6ff43e3a3596fde8705091 Automated pin updates\n- e5fc2cb830acbae9f147e064b8c5461309e8f84a Stop printing log to stdout in main\n- 9a3ad9960a7fbbea0dd156707f148a806d77217e Automated pin updates\n- 1ef3c1a3e13f8fee874e667c6185c8a02f6c2ead Automated pin updates\n- ccbd431ae285eca7ad43673570053583666ef2e1 Automated pin updates\n- 26ce585e13e31bb78d4409b3e0e679761be1057e Switching node base image from alpine:3.8 to debian:buster-slim (for Dockerfile.amd64 only).\n- a814bb5ed16a2aaf8fc55361482abab867a4ca6c Automated pin updates\n- c88376a279dc0d7387c37fa54183c7d9dca71511 Copy IPIP logic into VXLAN equivalent\n- 621f0a5add29ac9d1051a0f54d65b3bce1d4fec2 Allow VXLAN mode to be configured in startup script\n- bbb07b0b680593653247a66b92cd8eabb15f9d6f Refactor to commonize code between vxlan and IPIP\n- bca3ae1d6ced2951ffff778c21206a5ebc289027 Refactor allocateip file structure\n- 9f0007ae624871300e6b328b747fc309a4575d0b Update vendor\n- 845f3c24aec53bb4d3fc1f5b45b324eb77a91d18 Commonize last bits of code\n- e2380831e1462866838b5547f7701a57282cfadc Fix for ipset error\n- 1f55f86736400173c7794adbe4075d7afce587ea Automated pin updates\n- 24c95c3f2ebcee869a40a0009125010edbb2d2e8 Automated pin updates\n- c1aa921972ed08ca6cd2d510830952137b279ae1 Automated pin updates\n- 729af4ec71386220e815dba50986634b80919bf9 Add a \"vxlan\" (only) networking mode.\n- 9cfa0d58656ffef935265172812e42938967a19d Automated pin updates\n- cf8be985302f4de9f6d8f6035b731b575d6f1f25 Update libcalico-go to 727a39e77d674af6e7d6684b941916183d80f5de\n- 11b6ea00ce36a2980626ed2acbe3a881b54b5d11 Remove logging during readiness check\n- 508db2a8f12e699cebf66a279424f038ed23f62e Dockerfile with bpftool\n- 3a898b938397b33d486b58e8ce633dc991d28ad9 vendor: bump Felix\n- d2fd78b203b4822f82d467afecaf451863ebc1e1 Dockerfile: get bpftool from docker image\n- 8b73e5a8ef9cc95b3233f02c503c3017b880e0c6 Use calico fork of logrus\n- 45b2277b662d94bb00182edc3c3c2fd2d2f32f85 make run-k8s-apiserver: do not report err waiting for docker\n- 98517ec8d0593941f5bedac1eb944eb4af2c8060 Update libcalico-go to 43c1da882b70aba9d0325e7de4393439ef202550\n- ee87dc8274b0e13771e09ccde7bc86a304dad911 vendor: bump felix\n- 54ac14b9404bf33e2b7709e61618ba7bb5ed59a8 Automated pin updates\n- 9d68f1f84e56c96fa18b6bf0559d4c21fdff02c2 Don't allocate a tunnel address if using k8s pod CIDR allocations\n- f6cd1f6be5cd3f0e10e379123469563818394a37 Update libcalico-go\n- 0b1ff7af985799e8569c0d8d5d271e9bc3452ac8 Update libcalico-go to 6860ff2cfd923a870ff7a76563ce825d6e47adb8\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

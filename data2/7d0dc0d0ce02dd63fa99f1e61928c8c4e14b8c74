@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcxMTYyOjdkMGRjMGQwY2UwMmRkNjNmYTk5ZjFlNjE5MjhjOGM0ZTE0YjhjNzQ=",
+  "sha": "7d0dc0d0ce02dd63fa99f1e61928c8c4e14b8c74",
+  "url": "https://api.github.com/repos/enkessler/childprocess/git/tags/7d0dc0d0ce02dd63fa99f1e61928c8c4e14b8c74",
+  "tagger": {
+    "name": "Shane da Silva",
+    "email": "shane@dasilva.io",
+    "date": "2019-02-03T07:44:50Z"
+  },
+  "object": {
+    "sha": "fb4d23fcd49dd8c12c39d84c6962c4d493e916f5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/enkessler/childprocess/git/commits/fb4d23fcd49dd8c12c39d84c6962c4d493e916f5"
+  },
+  "tag": "v1.0.1",
+  "message": "1.0.1\n\n* Fix installs by adding `rake` gem as runtime dependency\n* Relax `rake` gem constraint from `< 12` to `< 13`\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTo0ZjE0YTgwYWU4OWI0MWI4MjdiZDA0NjgyM2ZjZjI5NDdjMTE3ODg2",
+  "sha": "4f14a80ae89b41b827bd046823fcf2947c117886",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/4f14a80ae89b41b827bd046823fcf2947c117886",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-05-12T21:17:22Z"
+  },
+  "object": {
+    "sha": "d588d0177ab017c87fc0780a8ec3a1825c585ae0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/d588d0177ab017c87fc0780a8ec3a1825c585ae0"
+  },
+  "tag": "v1.1.152",
+  "message": "Release of 1.1.152\n\n- d588d0177ab017c87fc0780a8ec3a1825c585ae0: Merge pull request #470 from tbak/features/jackson\n- 900278fa0148eb78f18dfe58bf48eb0ae5495bfe: Add additional setters to InstanceInfo builder to avoid macro expansion during deserialization process.\n- cd42b3293624e06e3b011f948eef763b7ffa241e: Merge pull request #511 from qu1j0t3/tt_typos_in_config_keys\n- f7109739bf53d2cd5498ba276ec0efc77c94aed4: Switch to Jackson 2.x + handle more InstanceInfo fields directly in deserializer to avoid reflection calls.\n- d7f57fd7541827a2a524c782cf443cea1f2fd796: Merge branch 'master' into features/jackson\n- 0a97f831e398a575dbab80f9ff69a1d8be907631: Fix typos in per-host config keys.\n- 5e29810ca0d6ec848f7af742f375c7b15757a39d: Merge pull request #486 from tbak/eureka1/pin_to_redirected_address\n- 4ebc94a25d81d4453ee26c3661e15b57347d5d9f: Increase client version number.\n- 42498777a946b1ed4358bfa25aa2877e7402dedb: Handle seprately registration and registry fetch redirects.\n- 9d19a36a4e461984465bf2d0d88023bad28c7c38: Merge remote-tracking branch 'netflix/master' into eureka1/pin_to_redirected_address\n- e5198d040e8e278c11912ab749cf4e9f0a287d33: Further redirect support updates.\n- 14be8d59e7f58a39093e1f2f9649d2a4b0777a60: Pin client to the redirected address.\n- 9ea97b5ed91278fb8ddcd7c2f6d7665430225db8: Use Jackson JSON serializer instead of XStream to improve serialization performance/memory usage.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

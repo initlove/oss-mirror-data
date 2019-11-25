@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDo5N2I0ZDE2ODFhMzE2YzhmYmU1M2Q4MTk4MjQ4ODA0ZTdmM2FjNjgz",
+  "sha": "97b4d1681a316c8fbe53d8198248804e7f3ac683",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/97b4d1681a316c8fbe53d8198248804e7f3ac683",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-09-25T13:06:11Z"
+  },
+  "object": {
+    "sha": "7ba0722dd3caaca2ae6067a5fe58db3edc92e78e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/commits/7ba0722dd3caaca2ae6067a5fe58db3edc92e78e"
+  },
+  "tag": "librepo-1.7.17",
+  "message": "v1.7.17\n- Bump minimal required version of glib to 2.26 because of g_date_time_format()\n- Tests: Fix test_download_with_offline_enabled_04 (Issue #64)\n- Python: Add timestamps into log messages loged to a file set by log_set_file (Issue #62)\n- Util: Add a new function lr_log_librepo_summary()\n- Doc: Add log_set_file and log_remove_handler into python doc\n- cleanup: Add _cleanup_date_time_unref_ attribute\n- CMake: Add dep on libcrypto (Issue #65)\n- Add new options LRO_HTTPAUTHMETHODS and LRO_PROXYAUTHMETHODS (Issue #67)\n- Use bytestring in xattr.setxattr() for python3-xattr (Issue #73)\n- make_rpm.sh: Add --srpm-only and --rpmbuild-options and --help options (Issue #69)\n- tests: Skip the relevant tests if extended attributes are not supported\n- Switch `command -v` for `which` in nosetest check\n- tests: Skip the relevant tests if extended attributes are not supported (Issue #70)\n- Refactoring: Spelling fixes\n- Support redefining %{gitrev} RPM macro from command line for utils/make_rpm.sh\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

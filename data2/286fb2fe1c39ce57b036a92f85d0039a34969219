@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkyMTcwNTQ6Mjg2ZmIyZmUxYzM5Y2U1N2IwMzZhOTJmODVkMDAzOWEzNDk2OTIxOQ==",
+  "sha": "286fb2fe1c39ce57b036a92f85d0039a34969219",
+  "url": "https://api.github.com/repos/micro/go-micro/git/tags/286fb2fe1c39ce57b036a92f85d0039a34969219",
+  "tagger": {
+    "name": "Asim Aslam",
+    "email": "asim@aslam.me",
+    "date": "2019-06-07T12:57:41Z"
+  },
+  "object": {
+    "sha": "a2fbf193418cd6659e3d8abadab7b4efbf9ac786",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micro/go-micro/git/commits/a2fbf193418cd6659e3d8abadab7b4efbf9ac786"
+  },
+  "tag": "v1.6.0",
+  "message": "- Massive go.mod dependency cleanup\n  * Moved etcd, memcache, redis sync things to go-plugins\n  * uuid to google uuid\n  * blew away go.mod\n- Add better proxy interface and features\n- Add new options interface\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

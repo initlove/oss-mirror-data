@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzk5NjQ3Njo3N2ZhMjFjNzA1YjY2MTFlYWE4YjE2YzU1NGVjZmExNDdjYzY5NDUz",
+  "sha": "77fa21c705b6611eaa8b16c554ecfa147cc69453",
+  "url": "https://api.github.com/repos/rhboot/shim/git/tags/77fa21c705b6611eaa8b16c554ecfa147cc69453",
+  "tagger": {
+    "name": "Peter Jones",
+    "email": "pjones@redhat.com",
+    "date": "2018-04-05T18:49:26Z"
+  },
+  "object": {
+    "sha": "51413d1deb0df0debdf1d208723131ff0e36d3a3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rhboot/shim/git/commits/51413d1deb0df0debdf1d208723131ff0e36d3a3"
+  },
+  "tag": "15",
+  "message": "shim 15\n\n- better checking for bad linker output\n- flicker-free console if there's no error output\n- improved http boot support\n- better protocol re-installation\n- dhcp proxy support\n- tpm measurement even when verification is disabled\n- REQUIRE_TPM build flag\n- more reproducable builds\n- measurement of everything verified through shim_verify()\n- coverity and scan-build checker make targets\n- misc cleanups\n- currently we don't support multiple certificates in our local\n  certificate databases, but pjones was wrong about why, and it's not\n  Michael Brown's fault at all.  Please disregard the statement in\n  commit cdbfb5a6\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJaxm+5AAoJEO7SZrcPT+8QI+cP+gJDeQaLtVIwWGltkc83Vs58\nfRhDUxGZ1Lx023r2/yOce8pnofzSva8FKJa8Or5kf90uNtxYf/6tC/ihsgdjTe3h\n+tiVSzLFKuz8XOW/5kzQrfjReryjzA/b3UqtOcPmcds6oM1R+Vwfgpn5KY2U3YwA\nybHVos5rBv+EgjWcARatDYw944Co3OUHCZx27E4zV8i7BteQQJEgRX6LLZLRl6g6\nyFSAHKzkOOchYWiVuV1al1qzoYzo7j2BEy3MI6zXG5svYJkLDSKSlxWJxrTiN8s6\nvoPSe829gXH3GqEL33I3nb0mFNsyHGyVjN4RIkouV5Me64KyFn1Nrs8h9MoYvmiY\n+2B1hkTrP0SiwCt2uMJVS+1t8mybNrgro04yGAxaAKh2zSCPMf6XhdWDFZshc9QQ\nDo66zXAEsXYXdZ28lfrkjRPuv+pMVa47fwqOYIC0zNrEvqGU2zt3dbae3XAbYpZS\nnzboELuhMo0cCgHLDYlWaVxdcQvhsWOkdxFSgt9on1xtFgnvYUasLfwdwEKAirPx\nz0Zi/1Ew6XLvKp4FDoU4C4nkod5fSKjk+Mi4qCN2lXvBOEHmONk14jSHNN8u0YLq\n4zyyIVAnuw7fHISubn5oPgkRgO3Az56HQ+60BM4+womDNcrtgtlkmyPuo+VM7uc1\n3BDmsdNorUoDeAhYxF6s\n=ihQJ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJaxm+5AAoJEO7SZrcPT+8QI+cP+gJDeQaLtVIwWGltkc83Vs58\nfRhDUxGZ1Lx023r2/yOce8pnofzSva8FKJa8Or5kf90uNtxYf/6tC/ihsgdjTe3h\n+tiVSzLFKuz8XOW/5kzQrfjReryjzA/b3UqtOcPmcds6oM1R+Vwfgpn5KY2U3YwA\nybHVos5rBv+EgjWcARatDYw944Co3OUHCZx27E4zV8i7BteQQJEgRX6LLZLRl6g6\nyFSAHKzkOOchYWiVuV1al1qzoYzo7j2BEy3MI6zXG5svYJkLDSKSlxWJxrTiN8s6\nvoPSe829gXH3GqEL33I3nb0mFNsyHGyVjN4RIkouV5Me64KyFn1Nrs8h9MoYvmiY\n+2B1hkTrP0SiwCt2uMJVS+1t8mybNrgro04yGAxaAKh2zSCPMf6XhdWDFZshc9QQ\nDo66zXAEsXYXdZ28lfrkjRPuv+pMVa47fwqOYIC0zNrEvqGU2zt3dbae3XAbYpZS\nnzboELuhMo0cCgHLDYlWaVxdcQvhsWOkdxFSgt9on1xtFgnvYUasLfwdwEKAirPx\nz0Zi/1Ew6XLvKp4FDoU4C4nkod5fSKjk+Mi4qCN2lXvBOEHmONk14jSHNN8u0YLq\n4zyyIVAnuw7fHISubn5oPgkRgO3Az56HQ+60BM4+womDNcrtgtlkmyPuo+VM7uc1\n3BDmsdNorUoDeAhYxF6s\n=ihQJ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 51413d1deb0df0debdf1d208723131ff0e36d3a3\ntype commit\ntag 15\ntagger Peter Jones <pjones@redhat.com> 1522954166 -0400\n\nshim 15\n\n- better checking for bad linker output\n- flicker-free console if there's no error output\n- improved http boot support\n- better protocol re-installation\n- dhcp proxy support\n- tpm measurement even when verification is disabled\n- REQUIRE_TPM build flag\n- more reproducable builds\n- measurement of everything verified through shim_verify()\n- coverity and scan-build checker make targets\n- misc cleanups\n- currently we don't support multiple certificates in our local\n  certificate databases, but pjones was wrong about why, and it's not\n  Michael Brown's fault at all.  Please disregard the statement in\n  commit cdbfb5a6\n"
+  }
+}

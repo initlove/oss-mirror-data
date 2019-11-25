@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjk0ODU3MTY6Njg4YzU2MjJmNzMxZWUzZWRhMTFiZmY2NDdhNzA5Zjk3MzJlMzA3NA==",
+  "sha": "688c5622f731ee3eda11bff647a709f9732e3074",
+  "url": "https://api.github.com/repos/openstack/oslo.policy/git/tags/688c5622f731ee3eda11bff647a709f9732e3074",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-08T21:42:50Z"
+  },
+  "object": {
+    "sha": "4d40252748bd31584f1cbb72d4641dec62cf1303",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.policy/git/commits/4d40252748bd31584f1cbb72d4641dec62cf1303"
+  },
+  "tag": "2.3.0",
+  "message": "oslo.policy 2.3.0 release\n\nmeta:version: 2.3.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I7592130bd689f7fc5c1e25ecbca71d4d934d429f\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1Ml1oZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2MYZDACUfcY/JTmw2/e82oLJPhrq\nG3ajSrd2JxVi323sQOcONM/VWiaOmLh/byVnsMzs7ZAdOrAN1A5MVPntGmd0lejq\ni2xJ5NkpgD2jyFnCC5nONMltc5O4V4jTz4MEYWoo2nrLwYG1k/Ce4sxbuBclnr/S\ni4NdRCaYurbtdSmVEiq8UT9DIZzX/NHT0DQ6Hy6nbCC4vwVqTVXrMVyHGFNOVTWW\nwyAafCkuzpc3f0eEIgUY25IDzS3GXQju5f85GtkAO++iH1SHk/+agYQq216G2rA4\nt7LXe6MJjlkNJCaoLz44uBuJUiirDx2+d3qybWOkdwAW3WMAGCRz2Snnd7m6Hb9B\nx+ibwId8sZPJM2Mx8RYI3sv3fyYd9RT8k5/7ODLeiwJBqoc/c1flFznZROuBPihf\nPjGdThGjhXvDfTued0+lfll+EmQN1v62DjX+yH/XHdAqy/rt4wH6lwk4nuQxA7cp\n1+teUfXXPT+7oN+YwQ6TCEL1WMuPlrVdXg7XhNLNPmM=\n=1/36\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1Ml1oZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2MYZDACUfcY/JTmw2/e82oLJPhrq\nG3ajSrd2JxVi323sQOcONM/VWiaOmLh/byVnsMzs7ZAdOrAN1A5MVPntGmd0lejq\ni2xJ5NkpgD2jyFnCC5nONMltc5O4V4jTz4MEYWoo2nrLwYG1k/Ce4sxbuBclnr/S\ni4NdRCaYurbtdSmVEiq8UT9DIZzX/NHT0DQ6Hy6nbCC4vwVqTVXrMVyHGFNOVTWW\nwyAafCkuzpc3f0eEIgUY25IDzS3GXQju5f85GtkAO++iH1SHk/+agYQq216G2rA4\nt7LXe6MJjlkNJCaoLz44uBuJUiirDx2+d3qybWOkdwAW3WMAGCRz2Snnd7m6Hb9B\nx+ibwId8sZPJM2Mx8RYI3sv3fyYd9RT8k5/7ODLeiwJBqoc/c1flFznZROuBPihf\nPjGdThGjhXvDfTued0+lfll+EmQN1v62DjX+yH/XHdAqy/rt4wH6lwk4nuQxA7cp\n1+teUfXXPT+7oN+YwQ6TCEL1WMuPlrVdXg7XhNLNPmM=\n=1/36\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4d40252748bd31584f1cbb72d4641dec62cf1303\ntype commit\ntag 2.3.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1565300570 +0000\n\noslo.policy 2.3.0 release\n\nmeta:version: 2.3.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I7592130bd689f7fc5c1e25ecbca71d4d934d429f\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

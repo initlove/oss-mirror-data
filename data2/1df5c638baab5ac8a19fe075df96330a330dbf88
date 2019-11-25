@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA2OTg1ODQ6MWRmNWM2MzhiYWFiNWFjOGExOWZlMDc1ZGY5NjMzMGEzMzBkYmY4OA==",
+  "sha": "1df5c638baab5ac8a19fe075df96330a330dbf88",
+  "url": "https://api.github.com/repos/openstack/python-troveclient/git/tags/1df5c638baab5ac8a19fe075df96330a330dbf88",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-02T09:25:27Z"
+  },
+  "object": {
+    "sha": "855ca07481afbb90c6276a4ebbeb0d659b058197",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-troveclient/git/commits/855ca07481afbb90c6276a4ebbeb0d659b058197"
+  },
+  "tag": "2.19.0",
+  "message": "python-troveclient 2.19.0 release\n\nmeta:version: 2.19.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Commit: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Change-Id: I495965c12df4023f5036a25da51bc8380e53e4b4\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1s4AcZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2NGYDADeHeN5jqzRoltOHz3edzij\n9FaAmc9WjnHeyaoToxXdjP3y2mAMTTZP81RlSNmSbwiMOBraLcBEQMrxSmgLVipj\nRN6+53LYAVDxHjrBEa4lBpGD/9M4C+C+3PEX6opuU5nrt2LfnB7yDi74NTjp8GeG\nUenY7yDwUJYLq0FhOnMHzPn97bHU40aSQvNeVXBPrKUu1xweaKbQxDleA9Rvq/0w\ntH46ZjVp542uW6H7b0UcdAMvngIHwzohjC0t0uvs2+L1Yq51S5uiO2FSTR3/wB8J\nH0EbXRcPWqv8oUY5YxRbNOY6AXce4VD5v6Y9Nyh9lbsphvhSQJMfgqGkTkItJ7N3\nayZiZ1mt8qYwYbXB0B5NrxpyQAtu6/MahP51P+eCBRi5sihUSlghCrwt0MdmVn+K\nuEKb5vttn8Hh6UWL+9VGzJU9hbFu8nfvvWCJZvjBO53JWhwAGBJdoKupcITL5Qln\ntMASoTZqB3/GNQQ7A2mUzb+e3Q00iC5PQZaysIebI/o=\n=rM4O\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1s4AcZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2NGYDADeHeN5jqzRoltOHz3edzij\n9FaAmc9WjnHeyaoToxXdjP3y2mAMTTZP81RlSNmSbwiMOBraLcBEQMrxSmgLVipj\nRN6+53LYAVDxHjrBEa4lBpGD/9M4C+C+3PEX6opuU5nrt2LfnB7yDi74NTjp8GeG\nUenY7yDwUJYLq0FhOnMHzPn97bHU40aSQvNeVXBPrKUu1xweaKbQxDleA9Rvq/0w\ntH46ZjVp542uW6H7b0UcdAMvngIHwzohjC0t0uvs2+L1Yq51S5uiO2FSTR3/wB8J\nH0EbXRcPWqv8oUY5YxRbNOY6AXce4VD5v6Y9Nyh9lbsphvhSQJMfgqGkTkItJ7N3\nayZiZ1mt8qYwYbXB0B5NrxpyQAtu6/MahP51P+eCBRi5sihUSlghCrwt0MdmVn+K\nuEKb5vttn8Hh6UWL+9VGzJU9hbFu8nfvvWCJZvjBO53JWhwAGBJdoKupcITL5Qln\ntMASoTZqB3/GNQQ7A2mUzb+e3Q00iC5PQZaysIebI/o=\n=rM4O\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 855ca07481afbb90c6276a4ebbeb0d659b058197\ntype commit\ntag 2.19.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1567416327 +0000\n\npython-troveclient 2.19.0 release\n\nmeta:version: 2.19.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Commit: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Change-Id: I495965c12df4023f5036a25da51bc8380e53e4b4\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

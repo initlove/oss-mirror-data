@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTowNWIyODg0YzdjOTQwYmFjMTIzMzk3MjI3MzM3Y2ZlNDQ3NzFhNWRi",
+  "sha": "05b2884c7c940bac123397227337cfe44771a5db",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/05b2884c7c940bac123397227337cfe44771a5db",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-05-28T19:08:46Z"
+  },
+  "object": {
+    "sha": "a195f9ace23d92345baf57582678bfc3017e6632",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/a195f9ace23d92345baf57582678bfc3017e6632"
+  },
+  "tag": "v0.10.9",
+  "message": "2013.05.29, Version 0.10.9 (Stable)\n\nChanges since version 0.10.8:\n\n* unix: fix stream refcounting buglet (Ben Noordhuis)\n\n* unix: remove erroneous asserts (Ben Noordhuis)\n\n* unix: add uv__is_closing() macro (Ben Noordhuis)\n\n* unix: stop stream POLLOUT watcher on write error (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRpQC+AAoJELCniwpsSBz20lEH+waPzNhNm9Z8kaMRM8PMJmG/\n5RvEB6IKuPtzv97/w05Vymnxswq7LgQlcA9xMMTXJKbIqGVndzzlvuC1+e+avNF0\n9ciTR3Q+MJrLXIT3N4KcQ73hRatUa/DwQQa8pKth8NMnuIyA70gIWHSBDnmCSFVE\nv9SrI2rO3wsnpSFCV6xtwwKL1DSOxUxSr2RYXaV8r37IRsZtz/5FmDFMHWz3bQoH\nE+vX0O6WyIClB4jEfgrKJsbqA5C3BRvclFkBT5DhkXQEO1YvAyhO69K4jCbNiidO\nGBkYha2dEEZahgkAi1IBUGao4jzRoGm35urmTGta1rB4v0dqQQYdItgy19EgRFg=\n=cckw\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRpQC+AAoJELCniwpsSBz20lEH+waPzNhNm9Z8kaMRM8PMJmG/\n5RvEB6IKuPtzv97/w05Vymnxswq7LgQlcA9xMMTXJKbIqGVndzzlvuC1+e+avNF0\n9ciTR3Q+MJrLXIT3N4KcQ73hRatUa/DwQQa8pKth8NMnuIyA70gIWHSBDnmCSFVE\nv9SrI2rO3wsnpSFCV6xtwwKL1DSOxUxSr2RYXaV8r37IRsZtz/5FmDFMHWz3bQoH\nE+vX0O6WyIClB4jEfgrKJsbqA5C3BRvclFkBT5DhkXQEO1YvAyhO69K4jCbNiidO\nGBkYha2dEEZahgkAi1IBUGao4jzRoGm35urmTGta1rB4v0dqQQYdItgy19EgRFg=\n=cckw\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a195f9ace23d92345baf57582678bfc3017e6632\ntype commit\ntag v0.10.9\ntagger isaacs <i@izs.me> 1369768126 -0700\n\n2013.05.29, Version 0.10.9 (Stable)\n\nChanges since version 0.10.8:\n\n* unix: fix stream refcounting buglet (Ben Noordhuis)\n\n* unix: remove erroneous asserts (Ben Noordhuis)\n\n* unix: add uv__is_closing() macro (Ben Noordhuis)\n\n* unix: stop stream POLLOUT watcher on write error (Ben Noordhuis)\n"
+  }
+}

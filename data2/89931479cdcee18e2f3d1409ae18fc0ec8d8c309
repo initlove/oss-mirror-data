@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjMwOTU5NTQ6ODk5MzE0NzljZGNlZTE4ZTJmM2QxNDA5YWUxOGZjMGVjOGQ4YzMwOQ==",
+  "sha": "89931479cdcee18e2f3d1409ae18fc0ec8d8c309",
+  "url": "https://api.github.com/repos/ReactiveX/RxAndroid/git/tags/89931479cdcee18e2f3d1409ae18fc0ec8d8c309",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2014-10-15T15:32:21Z"
+  },
+  "object": {
+    "sha": "ddbd8d7e65f8dcb18ba961665e03d51d5be7150e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/ReactiveX/RxAndroid/git/commits/ddbd8d7e65f8dcb18ba961665e03d51d5be7150e"
+  },
+  "tag": "v0.22.0",
+  "message": "Release of 0.22.0\n\n- Merge pull request #20 from naghtarr/naghtarr/itemclicks\n- Move OperatorSharedPreferenceChange to rx.android.operators package\n- Merge branch '0.x' to 'naghtarr/itemclicks'\n- Merge pull request #25 from Yarikx/shared-preferences-observable\n- Merge pull request #22 from mironov-nsk/view-observables\n- Merge pull request #29 from egor-n/0.x\n- Fix a typo in the docs\n- remove isUnsubscribed call befor item emittion\n- Break up tests from OperatorAdapterViewOnItemClickTest into separated scenarios\n- Add fromSharedPreferencesChanges Observable\n- Update gitignore file\n- Make OnItemClickEvent class non-final\n- Remove useless generics regarding OperatorAdapterViewOnItemClick\n- Move OperatorAdaperViewOnItemClick to rx.android.operators package\n- Remove useless generics, prodive some helper methods\n- Move operators under the rx.android package\n- Use custom events for ViewObservables\n- Add OperatorAdapterViewOnItemClick to observe OnItemClick events in AdapterViews. Resolve #19.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

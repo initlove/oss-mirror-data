@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY0MTU2MDg6MDc2OTMzNTI3NWM5ZGMzNjQxNzk3ZDZiMTM5ZjE1MDk4MmViZTg0Mg==",
+  "sha": "0769335275c9dc3641797d6b139f150982ebe842",
+  "url": "https://api.github.com/repos/openstack/oslo.service/git/tags/0769335275c9dc3641797d6b139f150982ebe842",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-04-17T15:24:23Z"
+  },
+  "object": {
+    "sha": "9091986228de7bc87d3e70565c9ab0c53b0b8af1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.service/git/commits/9091986228de7bc87d3e70565c9ab0c53b0b8af1"
+  },
+  "tag": "1.31.1",
+  "message": "oslo.service 1.31.1 release\n\nmeta:version: 1.31.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I456fd15c9441bf9ba07515b49e4d96c3dacb4610\nmeta:release:Code-Review+1: melissaml <ma.lei@99cloud.net>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa1hGnAAoJEMNs3LTfAMaM7K4H/2kPGOh0IhuABEi/nK+260Mi\nusXe7V11e7Q/WaIYwY1xY0loi8xh8HqQ0ArHj/6IBcGzZfXz65IL74LCKqsz8EEc\nWKWSoK9pthjz/tVFyPiXFU1aOg6mXySYXfuXD7ingfeKe+lpUd5e9d4lBKfLEo4A\nSQ65z2x1Qb2LacFE7qgAcJr3353CFPhAFUJglvT9ww3nY6lkje+QTWRIqBG2PDOk\n6lIMNmtK2VTlR5BHHpWzRJ/TkeX/qNroQv6kCsyslgSdQQuz62ENoY42HXdtyKc7\n994NSvj4RNKPV4QW2nY3YHY05qY/HWPmIhWNa62bnGoFWPiJYTNSeHOq4YzvAGI=\n=wx7g\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa1hGnAAoJEMNs3LTfAMaM7K4H/2kPGOh0IhuABEi/nK+260Mi\nusXe7V11e7Q/WaIYwY1xY0loi8xh8HqQ0ArHj/6IBcGzZfXz65IL74LCKqsz8EEc\nWKWSoK9pthjz/tVFyPiXFU1aOg6mXySYXfuXD7ingfeKe+lpUd5e9d4lBKfLEo4A\nSQ65z2x1Qb2LacFE7qgAcJr3353CFPhAFUJglvT9ww3nY6lkje+QTWRIqBG2PDOk\n6lIMNmtK2VTlR5BHHpWzRJ/TkeX/qNroQv6kCsyslgSdQQuz62ENoY42HXdtyKc7\n994NSvj4RNKPV4QW2nY3YHY05qY/HWPmIhWNa62bnGoFWPiJYTNSeHOq4YzvAGI=\n=wx7g\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9091986228de7bc87d3e70565c9ab0c53b0b8af1\ntype commit\ntag 1.31.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1523978663 +0000\n\noslo.service 1.31.1 release\n\nmeta:version: 1.31.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I456fd15c9441bf9ba07515b49e4d96c3dacb4610\nmeta:release:Code-Review+1: melissaml <ma.lei@99cloud.net>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

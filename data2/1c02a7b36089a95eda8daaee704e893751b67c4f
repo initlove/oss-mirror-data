@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ4Mjk5NzoxYzAyYTdiMzYwODlhOTVlZGE4ZGFhZWU3MDRlODkzNzUxYjY3YzRm",
+  "sha": "1c02a7b36089a95eda8daaee704e893751b67c4f",
+  "url": "https://api.github.com/repos/phpredis/phpredis/git/tags/1c02a7b36089a95eda8daaee704e893751b67c4f",
+  "tagger": {
+    "name": "michael-grunder",
+    "email": "michael.grunder@gmail.com",
+    "date": "2017-03-24T20:13:27Z"
+  },
+  "object": {
+    "sha": "a33ca4f8c583783aeae1aa1a69428bdbe7d451c2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/phpredis/phpredis/git/commits/a33ca4f8c583783aeae1aa1a69428bdbe7d451c2"
+  },
+  "tag": "3.1.2",
+  "message": "    phpredis 3.1.2\n\n    * RedisArray segfault fix [564ce3] (Pavlo Yatsukhnenko)\n    * Small memory leak fix [645888b] (Mike Grunder)\n    * Segfault fix when recreating RedisCluster objects [abf7d4] (Michael Grunder)\n    * Fix for RedisCluster bulk response parsing [4121c4] (Alberto Fernández)\n    * Re allow single array for sInterStore [6ef0c2, d01966] (Michael Grunder)\n    * Better TravisCI integration [4fd2f6] (Pavlo Yatsukhnenko)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

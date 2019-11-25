@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2NzoyMzRlNjkxMzQxZDZhZDJjZDAxMGI3NWZkZDY1NDdlOTkwYTIzOTE0",
+  "sha": "234e691341d6ad2cd010b75fdd6547e990a23914",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/234e691341d6ad2cd010b75fdd6547e990a23914",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2015-08-22T22:47:07Z"
+  },
+  "object": {
+    "sha": "78daccc915361005eb5fc40069e3f4facc354eda",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/78daccc915361005eb5fc40069e3f4facc354eda"
+  },
+  "tag": "7.1.2",
+  "message": "Released v7.1.2\n\n* Don't raise an error if pip is not installed when checking for the latest pip\n  version.\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJV2Pv9AAoJEG48vOkzctz6qF0P/REgj0qXv/LIePwNcs2mPzaW\nV2KXzIzvVnSa8JdmR+ltCV/YojiKhaoVdgbknfYNb/CxffsR27YFkm5dTLi/CfYs\n1djUGiIJHy3m7OxbgzEdTlE+89pzXV4drhsGticT12eAfCuJCTy9mZpFQTi5qaTm\ne04fx3JCfoNuKmi2qTDsSblL7E4PtU0nXERAayXdWrQiB4Rd0r1wWfdl+ScaChXJ\nNdJqIbafFeZrTNqXLfKZV/hBJp7oI0MXrchTURQ7ESDOe89l+L8nkkxPzHoCyXRZ\nn1mlSu93cHrFmCI3ZYj8u4Yn/bBP3Ayy68j+J0UU816UubiEh03cM5iNjbfcwS2P\np52kYwnXXGOen3eDFwlJV7gsaOTmNOm1WqsmHAnblLmgZjXKL19hkxGNXmUPmk94\nkvDxi8jW0aRProwY2ABKnm0oHthP4jegwowEuUMBc/DYs6Fv9vq1wZuCkeq0IVcV\nifnjZZ10GHh5KtAo/7XGUOyfldegM5AJ1Sn/EK/0D8B7/ZQk2u3E3+wuv2iNITZs\nH/1flyelY3X4rEFjIShspzvyVjaCvCWIJj+3wEmmR8G/APWxHCyeZ2AmO+A9dBoc\nz1saXn9wPsBYKAlFHxh0PnEgF412OSDjy2teGS+cmDHrPj+P7UFvHc9Ceg/r0qtJ\ndKmq5Vx5LCBRirk7u+FD\n=5vsb\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJV2Pv9AAoJEG48vOkzctz6qF0P/REgj0qXv/LIePwNcs2mPzaW\nV2KXzIzvVnSa8JdmR+ltCV/YojiKhaoVdgbknfYNb/CxffsR27YFkm5dTLi/CfYs\n1djUGiIJHy3m7OxbgzEdTlE+89pzXV4drhsGticT12eAfCuJCTy9mZpFQTi5qaTm\ne04fx3JCfoNuKmi2qTDsSblL7E4PtU0nXERAayXdWrQiB4Rd0r1wWfdl+ScaChXJ\nNdJqIbafFeZrTNqXLfKZV/hBJp7oI0MXrchTURQ7ESDOe89l+L8nkkxPzHoCyXRZ\nn1mlSu93cHrFmCI3ZYj8u4Yn/bBP3Ayy68j+J0UU816UubiEh03cM5iNjbfcwS2P\np52kYwnXXGOen3eDFwlJV7gsaOTmNOm1WqsmHAnblLmgZjXKL19hkxGNXmUPmk94\nkvDxi8jW0aRProwY2ABKnm0oHthP4jegwowEuUMBc/DYs6Fv9vq1wZuCkeq0IVcV\nifnjZZ10GHh5KtAo/7XGUOyfldegM5AJ1Sn/EK/0D8B7/ZQk2u3E3+wuv2iNITZs\nH/1flyelY3X4rEFjIShspzvyVjaCvCWIJj+3wEmmR8G/APWxHCyeZ2AmO+A9dBoc\nz1saXn9wPsBYKAlFHxh0PnEgF412OSDjy2teGS+cmDHrPj+P7UFvHc9Ceg/r0qtJ\ndKmq5Vx5LCBRirk7u+FD\n=5vsb\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 78daccc915361005eb5fc40069e3f4facc354eda\ntype commit\ntag 7.1.2\ntagger Donald Stufft <donald@stufft.io> 1440283627 -0400\n\nReleased v7.1.2\n\n* Don't raise an error if pip is not installed when checking for the latest pip\n  version.\n"
+  }
+}

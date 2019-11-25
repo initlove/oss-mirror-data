@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ4Mjk5Nzo1ODUyMDg4ZTAwYmI3ZmQ5MjMwYTFjZjcxZjc5ZDYyZjNjYmE4MTVk",
+  "sha": "5852088e00bb7fd9230a1cf71f79d62f3cba815d",
+  "url": "https://api.github.com/repos/phpredis/phpredis/git/tags/5852088e00bb7fd9230a1cf71f79d62f3cba815d",
+  "tagger": {
+    "name": "michael-grunder",
+    "email": "michael.grunder@gmail.com",
+    "date": "2016-12-22T08:12:28Z"
+  },
+  "object": {
+    "sha": "811bcc1275c82070a6b85a18295898f2d7e39cdd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/phpredis/phpredis/git/commits/811bcc1275c82070a6b85a18295898f2d7e39cdd"
+  },
+  "tag": "3.1.1RC1",
+  "message": "phpredis 3.1.1RC1\n\nThis release contains mostly fixes for issues introduced when merging\nthe php 5 and 7 codebase into a single branch.\n\n* Fixed a segfault in igbinary serialization (@yatsukhnenko)\n* Restore 2.2.8/3.0.0 functionality to distinguish between an error\n  and simply empty session data. (@remicollet)\n* Fix double to string conversion function (@yatsukhnenko)\n* Use PHP_FE_END definition when available (@remicollet)\n* Fixed various 'static function declared but not used' warnings\n* Fixes to various calls which were typecasting pointers to the\n  wrong size. (@remicollet)\n\n* Added php session unit test (@yatsukhnenko)\n* Added explicit module dependancy for igbinary (@remicollet)\n* Added phpinfo serialization information (@remicollet)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

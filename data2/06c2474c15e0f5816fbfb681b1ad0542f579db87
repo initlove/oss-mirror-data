@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTA4ODkzOjA2YzI0NzRjMTVlMGY1ODE2ZmJmYjY4MWIxYWQwNTQyZjU3OWRiODc=",
+  "sha": "06c2474c15e0f5816fbfb681b1ad0542f579db87",
+  "url": "https://api.github.com/repos/NodeRedis/node_redis/git/tags/06c2474c15e0f5816fbfb681b1ad0542f579db87",
+  "tagger": {
+    "name": "Matt Ranney",
+    "email": "mjr@ranney.com",
+    "date": "2010-11-03T19:47:37Z"
+  },
+  "object": {
+    "sha": "81fc8516e499ad70564f01af6651d26f8c111f06",
+    "type": "commit",
+    "url": "https://api.github.com/repos/NodeRedis/node_redis/git/commits/81fc8516e499ad70564f01af6651d26f8c111f06"
+  },
+  "tag": "v0.3.6",
+  "message": "Add all known Redis commands from Redis master, even ones that are coming in 2.2 and beyond.\n\nSend a friendlier \"error\" event message on stream errors like connection refused / reset.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

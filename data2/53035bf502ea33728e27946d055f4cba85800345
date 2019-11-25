@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjExNzQ1MDA6NTMwMzViZjUwMmVhMzM3MjhlMjc5NDZkMDU1ZjRjYmE4NTgwMDM0NQ==",
+  "sha": "53035bf502ea33728e27946d055f4cba85800345",
+  "url": "https://api.github.com/repos/openstack/keystonemiddleware/git/tags/53035bf502ea33728e27946d055f4cba85800345",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-02-17T18:15:22Z"
+  },
+  "object": {
+    "sha": "2dedc1cc98758621d43980ca893f6b057dc48b7b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystonemiddleware/git/commits/2dedc1cc98758621d43980ca893f6b057dc48b7b"
+  },
+  "tag": "4.3.0",
+  "message": "keystonemiddleware 4.3.0 release\n\nmeta:version: 4.3.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWxLi6AAoJEDttBqDEKEN6N+cH+QG7yM14yYrckbTAc6rwQqPP\nyEOdQD3/l7YSPIitI7YB0tJUt6XOHS1pIGtof8cYnSzhTIcGjUJc+bBRI5r33Qv1\n/m54BKODXOdq0GFzEZWVZVlVHRO2MnuvPIsRwTZHB1mNQ0+0MKkQc8G81vhNp8RM\nDXxTUAJQ8C6FpOsjSbPZug47wnqU61mr11ejwg3XkYyT/NmGiA0lqzK1cLxUuX2D\nBg/Le0ojTo/CGP7BxZOznmchcNCyIaQ1BkpsC1JJ5B/jMfoHlXP3rp1nV/vWbZ8q\nqxD/8vQB0BieNYE7pI+scjDVA6LgIaDbo1XZZiKit7thJHGQIAwYL9S65838BFg=\n=iViu\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWxLi6AAoJEDttBqDEKEN6N+cH+QG7yM14yYrckbTAc6rwQqPP\nyEOdQD3/l7YSPIitI7YB0tJUt6XOHS1pIGtof8cYnSzhTIcGjUJc+bBRI5r33Qv1\n/m54BKODXOdq0GFzEZWVZVlVHRO2MnuvPIsRwTZHB1mNQ0+0MKkQc8G81vhNp8RM\nDXxTUAJQ8C6FpOsjSbPZug47wnqU61mr11ejwg3XkYyT/NmGiA0lqzK1cLxUuX2D\nBg/Le0ojTo/CGP7BxZOznmchcNCyIaQ1BkpsC1JJ5B/jMfoHlXP3rp1nV/vWbZ8q\nqxD/8vQB0BieNYE7pI+scjDVA6LgIaDbo1XZZiKit7thJHGQIAwYL9S65838BFg=\n=iViu\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2dedc1cc98758621d43980ca893f6b057dc48b7b\ntype commit\ntag 4.3.0\ntagger Doug Hellmann <doug@doughellmann.com> 1455732922 -0500\n\nkeystonemiddleware 4.3.0 release\n\nmeta:version: 4.3.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\n"
+  }
+}

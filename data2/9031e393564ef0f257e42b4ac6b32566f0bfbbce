@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTo5MDMxZTM5MzU2NGVmMGYyNTdlNDJiNGFjNmIzMjU2NmYwYmZiYmNl",
+  "sha": "9031e393564ef0f257e42b4ac6b32566f0bfbbce",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/9031e393564ef0f257e42b4ac6b32566f0bfbbce",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-01-05T06:23:10Z"
+  },
+  "object": {
+    "sha": "9d3b3156560ef2b390ece745ed0ecd42d096b655",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/9d3b3156560ef2b390ece745ed0ecd42d096b655"
+  },
+  "tag": "v1.3.6-rc.4",
+  "message": "Release of 1.3.6-rc.4\n\n- 9d3b3156560ef2b390ece745ed0ecd42d096b655: Merge pull request #728 from qiangdavidliu/master\n- 675e0843acb5ffaa55726f8caf1ed7c04f5ffde9: logic fix + adding test case\n- 78d21c3a6837a8762f7557771b30fae2b080316f: Merge remote-tracking branch 'upstream/master'\n- fdc0a97553d3aecfa834e0c78f9dd1b94e3ff795: add additional sanity check in shouldRefresh AmazonInfo\n- b4ba5a2cc4e48764b2f13af58194a8a837efdea2: Merge pull request #727 from qiangdavidliu/master\n- e40bd9c01e0c95cf6e9cc55248cbca0b1380f0fe: Handle registration with bad data in DataCenterInfo\n- d5c2da0ae063f062c5dd9ba140c4d8fbd1347a99: Merge pull request #724 from tbak/master\n- 74834b16c752da8f69c5210d90f5e21c243da853: In DiscoveryJerseyProvider change default codec to the latest one.\n- e01287834e6fbe115c63ff1530dc03db742ade0f: Merge pull request #723 from tbak/master\n- 805a35066ed9fbd485e5aa6fdbd360ab2ea30850: Fix AWS meta data refresh\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

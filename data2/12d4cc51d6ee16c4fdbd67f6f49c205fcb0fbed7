@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTM5MDE1NjoxMmQ0Y2M1MWQ2ZWUxNmM0ZmRiZDY3ZjZmNDljMjA1ZmNiMGZiZWQ3",
+  "sha": "12d4cc51d6ee16c4fdbd67f6f49c205fcb0fbed7",
+  "url": "https://api.github.com/repos/fontforge/fontforge/git/tags/12d4cc51d6ee16c4fdbd67f6f49c205fcb0fbed7",
+  "tagger": {
+    "name": "Jeremy Tan",
+    "email": "jtanx@outlook.com",
+    "date": "2019-08-01T09:10:42Z"
+  },
+  "object": {
+    "sha": "ac635b818e38ddb8e7e2e1057330a32b4e25476e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/fontforge/fontforge/git/commits/ac635b818e38ddb8e7e2e1057330a32b4e25476e"
+  },
+  "tag": "20190801",
+  "message": "Along with the usual bugfixes, there have been a couple of\nnew features worth calling out:\n\n* Added Croatian translation\n* Added user decompositions\n* New graphic for the splash/about screen\n* Images embedded in SFDs are now serialised as PNGs\n  - This is enabled by default, but may be turned off with\n    the 'WritePNGInSFD' option.\n  - A new tag is used to identify this mode; 'Image2',\n    instead of 'Image'\n  - This requires FontForge to be compiled with libpng support.\n    If not compiled with libpng, FontForge will revert to\n    the old method of serialising RLE encoded raw images.\n\nAs part of an ongoing effort to clean up the code base,\nthere have additionally been multiple build system changes:\n\n* Python 2 support is deprecated. It is strongly recommended\n  to build with Python 3 support. Python 2 support will be\n  removed in a future release.\n* Both the Windows and Mac builds are now built with\n  Python 3 instead of Python 2.\n* The minimum supported version for the Mac build is now\n  MacOS Sierra (10.12)\n* FontForge no longer uses gnulib\n* collab support has been removed\n* The build system now expects libuninameslist to be\n  present, and will fail if it is not found. Building without\n  libuninameslist must be explcititly specified using\n  --without-libuninameslist\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

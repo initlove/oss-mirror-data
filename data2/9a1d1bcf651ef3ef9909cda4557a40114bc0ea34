@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzODQ5OTM6OWExZDFiY2Y2NTFlZjNlZjk5MDljZGE0NTU3YTQwMTE0YmMwZWEzNA==",
+  "sha": "9a1d1bcf651ef3ef9909cda4557a40114bc0ea34",
+  "url": "https://api.github.com/repos/openstack/keystone/git/tags/9a1d1bcf651ef3ef9909cda4557a40114bc0ea34",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-21T14:54:44Z"
+  },
+  "object": {
+    "sha": "1f1522703cfa25a533b7462aa402ac30128473e3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystone/git/commits/1f1522703cfa25a533b7462aa402ac30128473e3"
+  },
+  "tag": "15.0.0.0rc1",
+  "message": "keystone 15.0.0.0rc1 release candidate\n\nmeta:version: 15.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Change-Id: I078788da0e7d1b45d122390f890f240660f320ae\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyTpbQZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOJvlDACOegAYP3XNKn3Qmku9GoPe\nTWvHndpIfdumhuTfIu5a6rWkkw6tePQHv69Wy25T6QJmCXNHgOH4Jfbf2CEPDnSB\n7eDmMmEPYzVD9HNwBb+n9WJn7a7SYVaJGcoulIjxyXB6qKTcVvT8TzvJ0TuPJPKT\nnBrP0F0TUknIrx8l0SJVibjMUH3IbkCnQDeF2ErODYahWGJLWGvCh1K3GFZfrgvu\no8wcz4zKHTLpqKkynYzM1XKPMzq/Tl2g7l8UsqNEIs/IBuxGEMyHNUpvaOK2gIv9\nNG8Xma+IoWBLHLD5oKN3aP5EspId35Fqobt1hxScJr3Yluj11meSdHS3ChLNU0kO\njV7o6rjsrDpdtx3h4B5xu9kxRRZwTufdZloDWKCdiTzuNh8JfPFqbGKfjjdRJ4xG\n8KXRB66fJE0FaTvUGXb6AXzZXzqOSH7eV+2ctn0kHBVGI0ufs3XmatAXZgLCM8QV\nKaVtiW/G76+g65vAUXPi51z8je4iKMpIJq0qKW4XhjQ=\n=+OxX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyTpbQZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOJvlDACOegAYP3XNKn3Qmku9GoPe\nTWvHndpIfdumhuTfIu5a6rWkkw6tePQHv69Wy25T6QJmCXNHgOH4Jfbf2CEPDnSB\n7eDmMmEPYzVD9HNwBb+n9WJn7a7SYVaJGcoulIjxyXB6qKTcVvT8TzvJ0TuPJPKT\nnBrP0F0TUknIrx8l0SJVibjMUH3IbkCnQDeF2ErODYahWGJLWGvCh1K3GFZfrgvu\no8wcz4zKHTLpqKkynYzM1XKPMzq/Tl2g7l8UsqNEIs/IBuxGEMyHNUpvaOK2gIv9\nNG8Xma+IoWBLHLD5oKN3aP5EspId35Fqobt1hxScJr3Yluj11meSdHS3ChLNU0kO\njV7o6rjsrDpdtx3h4B5xu9kxRRZwTufdZloDWKCdiTzuNh8JfPFqbGKfjjdRJ4xG\n8KXRB66fJE0FaTvUGXb6AXzZXzqOSH7eV+2ctn0kHBVGI0ufs3XmatAXZgLCM8QV\nKaVtiW/G76+g65vAUXPi51z8je4iKMpIJq0qKW4XhjQ=\n=+OxX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1f1522703cfa25a533b7462aa402ac30128473e3\ntype commit\ntag 15.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1553180084 +0000\n\nkeystone 15.0.0.0rc1 release candidate\n\nmeta:version: 15.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Change-Id: I078788da0e7d1b45d122390f890f240660f320ae\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

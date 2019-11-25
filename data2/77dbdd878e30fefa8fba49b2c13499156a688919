@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjk5NzcwMTo3N2RiZGQ4NzhlMzBmZWZhOGZiYTQ5YjJjMTM0OTkxNTZhNjg4OTE5",
+  "sha": "77dbdd878e30fefa8fba49b2c13499156a688919",
+  "url": "https://api.github.com/repos/Netflix/servo/git/tags/77dbdd878e30fefa8fba49b2c13499156a688919",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-06-26T20:57:52Z"
+  },
+  "object": {
+    "sha": "1d1cda81abc1f160591b354668effc998207d367",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/servo/git/commits/1d1cda81abc1f160591b354668effc998207d367"
+  },
+  "tag": "v0.9.4",
+  "message": "Release of 0.9.4\n\n- 1d1cda81abc1f160591b354668effc998207d367: Merge pull request #333 from dmuino/fasterSanitation\n- 4eb48a720420f66ef8e2f3adc699650ab54b47db: Merge pull request #334 from dmuino/tomcat\n- ade64d4001425d7d8574bfd1a130ff10305c5785: Add bytesReceived to tomcat metrics\n- e31b908e09947efba76eccb2c282ceccf11eeded: Only run findbugs for main\n- ee37eadc84b038e18384525239b1dbf7f216b16b: Replace regex replaceAll with hand crafted version\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTA4ODkzOjAxMjUzYjBhM2Q2YmViNGQxZDNiMGIyZTAwYWEwZGYxZTU0Mzk3NWE=",
+  "sha": "01253b0a3d6beb4d1d3b0b2e00aa0df1e543975a",
+  "url": "https://api.github.com/repos/NodeRedis/node_redis/git/tags/01253b0a3d6beb4d1d3b0b2e00aa0df1e543975a",
+  "tagger": {
+    "name": "Matt Ranney",
+    "email": "mjr@ranney.com",
+    "date": "2011-07-31T00:32:43Z"
+  },
+  "object": {
+    "sha": "688b838be7844d2a160313181ba832241151dd52",
+    "type": "commit",
+    "url": "https://api.github.com/repos/NodeRedis/node_redis/git/commits/688b838be7844d2a160313181ba832241151dd52"
+  },
+  "tag": "v0.6.7",
+  "message": "Fix and test for [GH-123]\n\nPassing an Array as as the last argument should expand as users\nexpect.  The old behavior was to coerce the arguments into Strings,\nwhich did surprising things with Arrays.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

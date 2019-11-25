@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE5OTMzNDc6MDNmMjNiNjEwODk3YjZkMTEzNzU3ZTJmNTkwMDNhNDdmZTQ5NDU2OA==",
+  "sha": "03f23b610897b6d113757e2f59003a47fe494568",
+  "url": "https://api.github.com/repos/Netflix/spectator/git/tags/03f23b610897b6d113757e2f59003a47fe494568",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-06-09T16:36:49Z"
+  },
+  "object": {
+    "sha": "4d7bb2baa5a1df3105740a82efff8b7fb3159bc4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/spectator/git/commits/4d7bb2baa5a1df3105740a82efff8b7fb3159bc4"
+  },
+  "tag": "v0.26.0",
+  "message": "Release of 0.26.0\n\n- 4d7bb2baa5a1df3105740a82efff8b7fb3159bc4: Merge pull request #158 from brharrington/rm-archaius1-binding\n- 3c2025ad0deba2c529fd0fb43c9c54ef1b5b592c: remove archaius configmap\n- d275d66d0c22be534ec053acaf9c5d6c1e9a61ea: Merge pull request #157 from elandau/master\n- 783f37851e036baa514a7e86f07fbc0670cd3d7f: Move ExtendedRegistry and Registry bindings into @Provides to avoid triggering static initialization of these classes from within configure().\n- 990a7c0efffdd34aae13798073eb04ac6dadb2fc: Merge pull request #156 from brharrington/guice4\n- 4495dea9d061207b93a4e9b312fbde64d8e23316: update to guice4\n- c7fa29d4dc210d5a5e6b5b5bb01250eb7351d067: Merge pull request #155 from brharrington/sidecar-daemon\n- aace1111b13c6322b2f69ea084508231ee9b34f0: use daemon thread for sidecar registry\n- 8cfbfba7afff72add9c7070180cb83f5d02a1b1e: Merge pull request #154 from brharrington/dependency-versions\n- f75bf1c01320ce4e53bf160aff4c9bccfcd78ca7: switch back to config 1.2.1\n- c5fec12a573040791104f5a2aa464b90001b76cc: update dependency versions\n- 0e8e9f7030030f93d68d8f06c9a394842cfa3481: Merge pull request #153 from brharrington/spark-stream\n- 0ae74d895b04c9e39c10c42c3b99a8e1eb31b567: allow drill-down by driver name\n- 0ef371b6ba8c272fc941511fc469e24cc58c4ac4: Merge pull request #152 from brharrington/with-map\n- 6149c0177e13faab4918b13d9432db1e06772c41: add helpers for creating id from maps\n- d98e96f6c99fcc2af5f349b6bc465c68c50cf453: Merge pull request #151 from brharrington/not-found-serviceloader\n- f1866807f9dcc7bd99cfd51c8c4c0233d57857d8: work-around for null context class loader\n- bbe567a911727cb51027ef2c470ad21dd42ef62a: update recommended version\n- d3b1946844c32d7ac7b18bc84fafd0bf4a828ac0: Merge pull request #150 from brharrington/archaius-2.0.0-rc.9\n- 2833dd2463e123e7cf7aff42031cf104c79444bd: archaius-2.0.0-rc.9\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

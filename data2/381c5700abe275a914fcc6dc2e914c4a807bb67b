@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDE5OjM4MWM1NzAwYWJlMjc1YTkxNGZjYzZkYzJlOTE0YzRhODA3YmI2N2I=",
+  "sha": "381c5700abe275a914fcc6dc2e914c4a807bb67b",
+  "url": "https://api.github.com/repos/openstack/swift/git/tags/381c5700abe275a914fcc6dc2e914c4a807bb67b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-02-25T16:06:56Z"
+  },
+  "object": {
+    "sha": "ecbf74fbf83ae9d46fa3d6fa882f2d9e23406f86",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/swift/git/commits/ecbf74fbf83ae9d46fa3d6fa882f2d9e23406f86"
+  },
+  "tag": "2.17.1",
+  "message": "swift 2.17.1 release\n\nmeta:version: 2.17.1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: John Dickinson <me@not.mn>\nmeta:release:Commit: John Dickinson <me@not.mn>\nmeta:release:Change-Id: I6df86c86523d3b4d5d6d9010a600f5d366bbf80f\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcdBKgAAoJEBpUEUgFTp44rXUMALnAwctsc+8Px3cTE+BP4ECm\nvlYnBGjqxhcZxH8htW1fgqyJDHP28fQ5Wrana3VCDgxPyqb4BgRdnkTZi8ejxQHv\nJ5PfF0fBBd79sgsCNADz9e+ZwGmSGEbP73DTpexxBzY+Ellmy5xC93zFVnlU6oCO\nTJu2GYUvEzz1HEfwWqnjrYRiVmS6P8SeblhrcjHXN0QBeNQaNxE2H7bWM4wHUy1C\nuBqdR9CP5IywUOtnWIekPcjPyYv+70Y97iAYnPR7UJS+io81Ectg5F3xF9z/H12+\n0PqNyVvl4oKnE00l9WlQcDK60SAhbbk4s1GOPfJQxmjM5BLEuVMQbCSbzg2WUsJQ\ngAML16iosfyCehAQBCGlClQo9LmNA/i0xi9+cDml23Fu3qdD4n2T6MKzBbi/IH2W\nY5zGlT53V+S1GO9QEDNWW6nik0Nqs4DWmqemlYssp4sUcIjr62Hg/5+G21n8Aqn8\n3PpRdSEU/cxXaXpk3znfH0a/WCPfLjKXv/qlI2GM4Q==\n=kf6F\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcdBKgAAoJEBpUEUgFTp44rXUMALnAwctsc+8Px3cTE+BP4ECm\nvlYnBGjqxhcZxH8htW1fgqyJDHP28fQ5Wrana3VCDgxPyqb4BgRdnkTZi8ejxQHv\nJ5PfF0fBBd79sgsCNADz9e+ZwGmSGEbP73DTpexxBzY+Ellmy5xC93zFVnlU6oCO\nTJu2GYUvEzz1HEfwWqnjrYRiVmS6P8SeblhrcjHXN0QBeNQaNxE2H7bWM4wHUy1C\nuBqdR9CP5IywUOtnWIekPcjPyYv+70Y97iAYnPR7UJS+io81Ectg5F3xF9z/H12+\n0PqNyVvl4oKnE00l9WlQcDK60SAhbbk4s1GOPfJQxmjM5BLEuVMQbCSbzg2WUsJQ\ngAML16iosfyCehAQBCGlClQo9LmNA/i0xi9+cDml23Fu3qdD4n2T6MKzBbi/IH2W\nY5zGlT53V+S1GO9QEDNWW6nik0Nqs4DWmqemlYssp4sUcIjr62Hg/5+G21n8Aqn8\n3PpRdSEU/cxXaXpk3znfH0a/WCPfLjKXv/qlI2GM4Q==\n=kf6F\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ecbf74fbf83ae9d46fa3d6fa882f2d9e23406f86\ntype commit\ntag 2.17.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1551110816 +0000\n\nswift 2.17.1 release\n\nmeta:version: 2.17.1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: John Dickinson <me@not.mn>\nmeta:release:Commit: John Dickinson <me@not.mn>\nmeta:release:Change-Id: I6df86c86523d3b4d5d6d9010a600f5d366bbf80f\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

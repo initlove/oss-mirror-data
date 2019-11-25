@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY2MjY5NTg6NGZkMDlhZGNkZTE5MTQyY2E4OGNhODY1ZmQxNzU4MWJmNzQ4MjhmOQ==",
+  "sha": "4fd09adcde19142ca88ca865fd17581bf74828f9",
+  "url": "https://api.github.com/repos/openstack/stevedore/git/tags/4fd09adcde19142ca88ca865fd17581bf74828f9",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-10-04T14:00:06Z"
+  },
+  "object": {
+    "sha": "6720cf7ed0b031e9e37c0f268a5a485688fe66ec",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/stevedore/git/commits/6720cf7ed0b031e9e37c0f268a5a485688fe66ec"
+  },
+  "tag": "1.27.1",
+  "message": "stevedore 1.27.1 release\n\nmeta:version: 1.27.1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@huawei.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@huawei.com>\nmeta:release:Change-Id: I828398197705b6dd0eeb657d56bd140c1aa5a1a5\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZ1OlmAAoJEEIeZHKBH5qBRbEH/0PTyz8QiTXD/jhJha+gux9r\neIZy3r3Xfq4HaEPC54UHpH7F0PJVzxOcpajplV8agqhM/C27/nHfc8K2wai5aiGj\nmsMsAOvG9oDUy36RUC3YoReiSgqQeVLeWJNIfADv0GE7QZymEwEc0gcVxC/imqvm\nlRrfCX0Z/BssxGPj1Zy1TQvLyXa7SEZ+Sfe8VyNfgOGr0Qvq861wJLbCjfZ8wkFk\nb1UOAD5gmcHJ5rfwrA9WFjljVJcZ3yMYK4Yv+gwXMOvIVd6VzW3rM7EHGVjpYNfo\nLQ+f88o/foKBG9IbqNSjJSxYqNxEqE7PSaJ5T4r8Rv6D6vo1ImB8VnnqaxTWyPM=\n=kyra\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZ1OlmAAoJEEIeZHKBH5qBRbEH/0PTyz8QiTXD/jhJha+gux9r\neIZy3r3Xfq4HaEPC54UHpH7F0PJVzxOcpajplV8agqhM/C27/nHfc8K2wai5aiGj\nmsMsAOvG9oDUy36RUC3YoReiSgqQeVLeWJNIfADv0GE7QZymEwEc0gcVxC/imqvm\nlRrfCX0Z/BssxGPj1Zy1TQvLyXa7SEZ+Sfe8VyNfgOGr0Qvq861wJLbCjfZ8wkFk\nb1UOAD5gmcHJ5rfwrA9WFjljVJcZ3yMYK4Yv+gwXMOvIVd6VzW3rM7EHGVjpYNfo\nLQ+f88o/foKBG9IbqNSjJSxYqNxEqE7PSaJ5T4r8Rv6D6vo1ImB8VnnqaxTWyPM=\n=kyra\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6720cf7ed0b031e9e37c0f268a5a485688fe66ec\ntype commit\ntag 1.27.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1507125606 +0000\n\nstevedore 1.27.1 release\n\nmeta:version: 1.27.1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@huawei.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@huawei.com>\nmeta:release:Change-Id: I828398197705b6dd0eeb657d56bd140c1aa5a1a5\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

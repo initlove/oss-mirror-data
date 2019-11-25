@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMToxOTM0NmNhYjAzNmVmNjU5MzhmMjY4NDlkNjlhZDE3NTg3MjMxOTY2",
+  "sha": "19346cab036ef65938f26849d69ad17587231966",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/19346cab036ef65938f26849d69ad17587231966",
+  "tagger": {
+    "name": "Ben Noordhuis",
+    "email": "info@bnoordhuis.nl",
+    "date": "2013-09-02T22:37:10Z"
+  },
+  "object": {
+    "sha": "82d01d5f6780d178f5176a01425ec297583c0811",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/82d01d5f6780d178f5176a01425ec297583c0811"
+  },
+  "tag": "v0.11.12",
+  "message": "2013.09.03, Version 0.11.12 (Unstable)\n\nChanges since version 0.11.11:\n\n* test: fix epoll_wait() usage in test-embed.c (Ben Noordhuis)\n\n* include: uv_alloc_cb now takes uv_buf_t* (Ben Noordhuis)\n\n* include: uv_read{2}_cb now takes const uv_buf_t* (Ben Noordhuis)\n\n* include: uv_ip[46]_addr now takes sockaddr_in* (Ben Noordhuis)\n\n* include: uv_tcp_bind{6} now takes sockaddr_in* (Ben Noordhuis)\n\n* include: uv_tcp_connect{6} now takes sockaddr_in* (Ben Noordhuis)\n\n* include: uv_udp_recv_cb now takes const uv_buf_t* (Ben Noordhuis)\n\n* include: uv_udp_bind{6} now takes sockaddr_in* (Ben Noordhuis)\n\n* include: uv_udp_send{6} now takes sockaddr_in* (Ben Noordhuis)\n\n* include: uv_spawn takes const uv_process_options_t* (Ben Noordhuis)\n\n* include: make uv_write{2} const correct (Ben Noordhuis)\n\n* windows: fix flags assignment in uv_fs_readdir() (Ben Noordhuis)\n\n* windows: fix stray comments (Ben Noordhuis)\n\n* windows: remove unused is_path_dir() function (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.14 (Darwin)\n\niQIcBAABAgAGBQJSJRMWAAoJEE9VyMhGq4m5uC0P/RDYJY583ZbIL2X7gZT68YGr\nLo1tTdxF89ktk3YQk8oWxfulXWrQ2anipqS7EwABv7rppA0Cz4NaG70onDCfIRqu\nj8ZdlMG5uXnNs2ognJ4gJkrnt9kf1qdycF5ZOk4ag6QZchJk/ES6Qw07qF+wmp0f\nlii7orRt5cbzoHAfNGBGyEs7u7ZJZP+TqwPv9Jw/FGz5nX+fSL/gnPXZJjMPdk1t\nyXveQhRlnCfot1SHU5hMg3kktIYBYFqE7b738sRAsU7y1C/E6tG3ggcOYlXIEU7Z\nJbteZ28HjfK6TYxNxXWEBxpILBO+olmsbSQGxpQ7V1pdpGELaaH/CT9AaKMT8psf\nyXWWflz/Xsv26yjUfAU/+AWRaG+lQ4lzWjb6Y9sQHrWgSn5LHvXN+qcS/rpyCxWz\nLS2wYNRO3e11uKX7dkxqaDpUyzPgD/54mB41ZOPkGH45aqZaVQZs6vJVSNxN10Re\nosiMfjbC1/DVFHwQfSCQsdonksdTxq0fsSkoFPcXRcRfurLgmWGYtI9xqfwSiWwc\nlTSpI6XRhFM4rdFY6zhVhHompJqbx/E+UVnjpbz+G/2qhQMcyL4OaxjzyHnZvH39\nnqUx4FDL3zvNx/QjsLd4LrPt6/ZTZZCqIItzAXDpOsts3zWRHBg6ZLLEeL3ZtwYc\nEU0TjgZcP9/BaVEA1mY6\n=zVub\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.14 (Darwin)\n\niQIcBAABAgAGBQJSJRMWAAoJEE9VyMhGq4m5uC0P/RDYJY583ZbIL2X7gZT68YGr\nLo1tTdxF89ktk3YQk8oWxfulXWrQ2anipqS7EwABv7rppA0Cz4NaG70onDCfIRqu\nj8ZdlMG5uXnNs2ognJ4gJkrnt9kf1qdycF5ZOk4ag6QZchJk/ES6Qw07qF+wmp0f\nlii7orRt5cbzoHAfNGBGyEs7u7ZJZP+TqwPv9Jw/FGz5nX+fSL/gnPXZJjMPdk1t\nyXveQhRlnCfot1SHU5hMg3kktIYBYFqE7b738sRAsU7y1C/E6tG3ggcOYlXIEU7Z\nJbteZ28HjfK6TYxNxXWEBxpILBO+olmsbSQGxpQ7V1pdpGELaaH/CT9AaKMT8psf\nyXWWflz/Xsv26yjUfAU/+AWRaG+lQ4lzWjb6Y9sQHrWgSn5LHvXN+qcS/rpyCxWz\nLS2wYNRO3e11uKX7dkxqaDpUyzPgD/54mB41ZOPkGH45aqZaVQZs6vJVSNxN10Re\nosiMfjbC1/DVFHwQfSCQsdonksdTxq0fsSkoFPcXRcRfurLgmWGYtI9xqfwSiWwc\nlTSpI6XRhFM4rdFY6zhVhHompJqbx/E+UVnjpbz+G/2qhQMcyL4OaxjzyHnZvH39\nnqUx4FDL3zvNx/QjsLd4LrPt6/ZTZZCqIItzAXDpOsts3zWRHBg6ZLLEeL3ZtwYc\nEU0TjgZcP9/BaVEA1mY6\n=zVub\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 82d01d5f6780d178f5176a01425ec297583c0811\ntype commit\ntag v0.11.12\ntagger Ben Noordhuis <info@bnoordhuis.nl> 1378161430 +0200\n\n2013.09.03, Version 0.11.12 (Unstable)\n\nChanges since version 0.11.11:\n\n* test: fix epoll_wait() usage in test-embed.c (Ben Noordhuis)\n\n* include: uv_alloc_cb now takes uv_buf_t* (Ben Noordhuis)\n\n* include: uv_read{2}_cb now takes const uv_buf_t* (Ben Noordhuis)\n\n* include: uv_ip[46]_addr now takes sockaddr_in* (Ben Noordhuis)\n\n* include: uv_tcp_bind{6} now takes sockaddr_in* (Ben Noordhuis)\n\n* include: uv_tcp_connect{6} now takes sockaddr_in* (Ben Noordhuis)\n\n* include: uv_udp_recv_cb now takes const uv_buf_t* (Ben Noordhuis)\n\n* include: uv_udp_bind{6} now takes sockaddr_in* (Ben Noordhuis)\n\n* include: uv_udp_send{6} now takes sockaddr_in* (Ben Noordhuis)\n\n* include: uv_spawn takes const uv_process_options_t* (Ben Noordhuis)\n\n* include: make uv_write{2} const correct (Ben Noordhuis)\n\n* windows: fix flags assignment in uv_fs_readdir() (Ben Noordhuis)\n\n* windows: fix stray comments (Ben Noordhuis)\n\n* windows: remove unused is_path_dir() function (Ben Noordhuis)\n"
+  }
+}

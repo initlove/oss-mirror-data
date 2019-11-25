@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ4Mjk5Nzo3ZjZkOWI2YTdhMmJmN2JiYTNlOTZkNWRiODhiMDYxYjczY2I0MGZj",
+  "sha": "7f6d9b6a7a2bf7bba3e96d5db88b061b73cb40fc",
+  "url": "https://api.github.com/repos/phpredis/phpredis/git/tags/7f6d9b6a7a2bf7bba3e96d5db88b061b73cb40fc",
+  "tagger": {
+    "name": "michael-grunder",
+    "email": "michael.grunder@gmail.com",
+    "date": "2014-12-18T17:03:01Z"
+  },
+  "object": {
+    "sha": "18f368f7055f08de5cbd6d09753f76eb66ede2d2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/phpredis/phpredis/git/commits/18f368f7055f08de5cbd6d09753f76eb66ede2d2"
+  },
+  "tag": "2.2.6",
+  "message": "phpredis 2.2.6\n\nThis is the tag for phpredis 2.2.6 which will become the\ncurrent master on github, with a pecl release to follow\n(assuming we don't run into any issues in the meantime).\n\n-- Improvements ---\n\n* Implemented PFADD, PFMERGE, and PFCOUNT command handling\n* Implemented ZRANGEBYLEX command (holding off on ZREVRANGEBYLEX\n  as that won't be out until 3.0)\n* Implemented getMode() so clients can detect whether we're in\n  ATOMIC/MULTI/PIPELINE mode.\n* Implemented rawCommand() so clients can send arbitrary things to\n  the redis server\n* Implemented DEBUG OBJECT (@michael-grunder, @isage)\n* Added/abide by connect timeout for RedisArray\n* Select to the last selected DB when phpredis reconnects\n\n-- Fixes ---\n\n* Fix a possible invalid free in _serialize\n* Added SAVE and BGSAVE to \"distributable\" commands for RedisArray\n* @welting -- Fixed invalid \"argc\" calculation re HLL commands\n* Allow clients to break out of the subscribe loop and return context.\n* Fixes a memory leak in SCAN when OPT_SCAN_RETRY is enabled.\n* @remicollet -- Fix possible segfault when igbinary is enabled.\n* Add a couple of cases where we throw on an error (LOADING/NOAUTH/MASTERDOWN)\n* Fix several issues with serialization and IGBINARY\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQxMzIxOTI6MTU5OGRjOWM1ZjczZmMzOGI0ZjMwYzAxMzc3NTAxMGYyMzJhZDg2ZQ==",
+  "sha": "1598dc9c5f73fc38b4f30c013775010f232ad86e",
+  "url": "https://api.github.com/repos/pkg/sftp/git/tags/1598dc9c5f73fc38b4f30c013775010f232ad86e",
+  "tagger": {
+    "name": "John Eikenberry",
+    "email": "jae@zhar.net",
+    "date": "2018-08-22T20:23:27Z"
+  },
+  "object": {
+    "sha": "718e6477175d68cfcef67eb0a19ddcb74563a777",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pkg/sftp/git/commits/718e6477175d68cfcef67eb0a19ddcb74563a777"
+  },
+  "tag": "v1.8.2",
+  "message": "bugfix release\n\nfixes #264; issue with rename in request example\nfixes #265; open/stat packet race condition (fixes sshfs as client)\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlt9xrIACgkQPZqeWROp\nRaImIQgAlx0NSGakraGZPh/IfvBZK87yzS80YfRiZwT5mmu/oGbvLICUZi1VLUVI\nZ0mHnBe3bO1gQVozGvy4+hY8PQfFwDl07zLyYUVDwwpqT1nYwnKjR6Z+cpmPUUX2\ntbAngj9+/g7qrGHA42bA2z839jU8gDm4hrSYsx0mw6gTC99wi+7hpu0Nz1Etz67/\nj6wIXMFr2vg9iCD5LdSCKnPDSK2LQp4gT8bVMpewpc7YUcCup1s9fwiP/bwyuTw7\nhCfUvVUI585RfkwtJRfMJn683zzKZ87SKC6I6Gexw4TEjc58Rt1Gb/sjsJAsfD1z\nJ7XZidLAJOqkWxdokVcizlLl5zml/w==\n=A26J\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlt9xrIACgkQPZqeWROp\nRaImIQgAlx0NSGakraGZPh/IfvBZK87yzS80YfRiZwT5mmu/oGbvLICUZi1VLUVI\nZ0mHnBe3bO1gQVozGvy4+hY8PQfFwDl07zLyYUVDwwpqT1nYwnKjR6Z+cpmPUUX2\ntbAngj9+/g7qrGHA42bA2z839jU8gDm4hrSYsx0mw6gTC99wi+7hpu0Nz1Etz67/\nj6wIXMFr2vg9iCD5LdSCKnPDSK2LQp4gT8bVMpewpc7YUcCup1s9fwiP/bwyuTw7\nhCfUvVUI585RfkwtJRfMJn683zzKZ87SKC6I6Gexw4TEjc58Rt1Gb/sjsJAsfD1z\nJ7XZidLAJOqkWxdokVcizlLl5zml/w==\n=A26J\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 718e6477175d68cfcef67eb0a19ddcb74563a777\ntype commit\ntag v1.8.2\ntagger John Eikenberry <jae@zhar.net> 1534969407 -0700\n\nbugfix release\n\nfixes #264; issue with rename in request example\nfixes #265; open/stat packet race condition (fixes sshfs as client)\n"
+  }
+}

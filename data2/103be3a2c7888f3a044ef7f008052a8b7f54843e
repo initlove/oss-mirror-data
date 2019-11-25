@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MToxMDNiZTNhMmM3ODg4ZjNhMDQ0ZWY3ZjAwODA1MmE4YjdmNTQ4NDNl",
+  "sha": "103be3a2c7888f3a044ef7f008052a8b7f54843e",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/103be3a2c7888f3a044ef7f008052a8b7f54843e",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-06-02T23:59:14Z"
+  },
+  "object": {
+    "sha": "578f4c0417fd9fd2052350286ce2997c543d48a4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/578f4c0417fd9fd2052350286ce2997c543d48a4"
+  },
+  "tag": "v1.1.156",
+  "message": "Release of 1.1.156\n\n- 578f4c0417fd9fd2052350286ce2997c543d48a4: Merge pull request #530 from qiangdavidliu/master\n- 13ccc1c733d9b5f5f21a7e33e97c3963d36cf813: Use ephemeral port for MockRemoteEurekaServer in AbstractTester\n- 8f13a37519e48cd855bbeacb0a4786f0c09fcbe9: more test fixes\n- 3e4ea002a5888e6501ca38430db32ef0ab197f71: Fix flaky test\n- 96e1cd036602149856270f2f1f1a066fdc302963: Adding exception handling around listener notification\n- 88637d7d5b57a8992ad4485692f1e9a58d8b8b89: Catching exceptions from healthcheck.getStatus() and setting status to DOWN when healthcheck exceptions.\n- 5e70a794d20ae02a998e3567a74100a96719a295: Terminate instanceInfoReplicator with shutdownNow() instead of shutdown()\n- 5148ea874e8343a3993a94cb21362f196bb9b3fc: Reducing test execution time\n- d196158cab5f8a05b548392abf0de35bf25f0b6f: upgrading all mockito dependency to 1.9.5\n- 0db1f58de2681cbddee84e6cac7e432c34aefe8c: Adding the ability to execute on-demand updates to the eureka server. Current set up is triggered by changes to ApplicationInfoManager.setInstanceStatus(). This capability can be turned on/off via eureka.shouldOnDemandUpdateStatusChange.\n- 950a7232acbed558ba29246f84fed4bdb3735f36: Tone down logging from info to debug\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTozYjgyOTkzYjk3ZTY4MDg2YTM4Zjg2OTcxNjBkZDJmMTJlYTQ5NzBk",
+  "sha": "3b82993b97e68086a38f8697160dd2f12ea4970d",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/3b82993b97e68086a38f8697160dd2f12ea4970d",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-09-23T21:31:14Z"
+  },
+  "object": {
+    "sha": "16730450fd828ccf9679895e31c580bffba41bff",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/16730450fd828ccf9679895e31c580bffba41bff"
+  },
+  "tag": "v1.2.5-rc.1",
+  "message": "Release of 1.2.5-rc.1\n\n- 16730450fd828ccf9679895e31c580bffba41bff: Merge pull request #650 from tbak/master\n- 6686911e89a06b33eaa0b49912f0a59686ef3de6: Merge remote-tracking branch 'remotes/netflix/master'\n- cd3d329e4edf12489bcb836c1fd068dcdd085b26: Encode @class entry in InstanceInfo.metadata for backward compatibility cont\n- 8c704be503521cb2b5ec96f7a621ff13da52cc6c: Jackson codec tests update.\n- ebfdda072ffb07d03accdb1dc6c6c3d96884a1c4: Encode @class entry in InstanceInfo.metadata for backward compatibility\n- dc998b8339151e704e9de60e56ae64012d1c67cf: Merge pull request #649 from qiangdavidliu/master\n- 58a6d49d64e928f6aad85300d82af40b1381bc07: fix incorrect default in test\n- f4ac8fce6b0724c27fe3cc6e6a9e8ee1d4ff5a89: Decoupling the id of InstanceInfo from the id of the DataCenterInfo.\n- e879aa1e6a2f0de180e530ec74883c11f6e16650: Merge pull request #643 from tbak/master\n- 077b366cd8753e3bccef236159c8d5dedddce849: Better separation of new JSON and XML serializers, so jackson XML specific annotations are never loaded when using JSON codecs. This is required, as all jackson XML dependencies are marked as provided in gradle build, and are not included by default.\n- 7bbde20153a78c165a2898ff25e03b2043f9840b: Merge pull request #642 from tbak/master\n- e0857aacc78ad9a9c0a9d26c902d4168ea3be587: JSON encoding fix: do not unwrap single element arrays\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

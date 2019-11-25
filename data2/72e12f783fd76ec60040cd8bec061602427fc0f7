@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDg2ODM3NTo3MmUxMmY3ODNmZDc2ZWM2MDA0MGNkOGJlYzA2MTYwMjQyN2ZjMGY3",
+  "sha": "72e12f783fd76ec60040cd8bec061602427fc0f7",
+  "url": "https://api.github.com/repos/openstack/python-cinderclient/git/tags/72e12f783fd76ec60040cd8bec061602427fc0f7",
+  "tagger": {
+    "name": "Thierry Carrez",
+    "email": "thierry@openstack.org",
+    "date": "2016-06-01T13:28:17Z"
+  },
+  "object": {
+    "sha": "623cef2d5c5d9f375c60c991f5ab9f951e9253fa",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-cinderclient/git/commits/623cef2d5c5d9f375c60c991f5ab9f951e9253fa"
+  },
+  "tag": "1.8.0",
+  "message": "python-cinderclient 1.8.0 release\n\nmeta:version: 1.8.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Commit: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Change-Id: I6b7476cea2c4a4407c90fbb2244933516a418d4c\nmeta:release:Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+1: Victor Stinner <vstinner@redhat.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXTuLxAAoJEFB6+JAlsQQjWJ4P/RsAnmHjrBI9JngbNzwhNq4X\nquXH0DLM+rhK+RDr4EIjjhOlP0iB6CJQwJezX51WtZlAJU2zeg3c+Dc70VdT8aty\nZ4aWV65lFxW8bwrgmxy1sEr5xOMkNMubNKsuf3DvnvgWpWPixwRAd7zq3YI1u3lN\nTmZQArpzmPUzjOQB3rUVJ743qGp/m6r8zZ82FPIqd6was+Dnxj9nLG2/lT4Kj8EN\nBEQD3SbZgDRFe9876p4sKNvIVysY4rKuew97njkl3PBGbOdW1tgLY6dBWd2LBzvf\na1NgJrfBxuYNMNywRImovzqafsevFEwpi6wW00vCNl67RUV//8y2i+I7ewdWT79K\nQrAXuAp2XqJllcy5S2JObC8u9se1MeJ/micav+1VYTrX8iAuCFedLwOZNavVbxC0\npHk0XrP1FRydsvrpQK+AHb9ldmgWtSKx94fvnnNk4PN6d2RXM+dpHPYyw9Ts/RrA\n2iSRTDmZYdRmNbGaDq0xqn1QVtXoGobNKCkkSolU8bJIdTGMwtoJ/SXj065ln/Ii\njgpITkNyjRrbew5+QfPaIO5GCbm5PpajDfw9Z3dcgW/8zC5I/t8HKe9EgW2dEN2Z\nbncuaPtM0Fbj21jf9eX1R7KHvo3iy/XPI1aLM9BsA8srj7K/MHtJwphPQ3qDGGSQ\n49IxKrv9kiWGv4erWoba\n=s7oy\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXTuLxAAoJEFB6+JAlsQQjWJ4P/RsAnmHjrBI9JngbNzwhNq4X\nquXH0DLM+rhK+RDr4EIjjhOlP0iB6CJQwJezX51WtZlAJU2zeg3c+Dc70VdT8aty\nZ4aWV65lFxW8bwrgmxy1sEr5xOMkNMubNKsuf3DvnvgWpWPixwRAd7zq3YI1u3lN\nTmZQArpzmPUzjOQB3rUVJ743qGp/m6r8zZ82FPIqd6was+Dnxj9nLG2/lT4Kj8EN\nBEQD3SbZgDRFe9876p4sKNvIVysY4rKuew97njkl3PBGbOdW1tgLY6dBWd2LBzvf\na1NgJrfBxuYNMNywRImovzqafsevFEwpi6wW00vCNl67RUV//8y2i+I7ewdWT79K\nQrAXuAp2XqJllcy5S2JObC8u9se1MeJ/micav+1VYTrX8iAuCFedLwOZNavVbxC0\npHk0XrP1FRydsvrpQK+AHb9ldmgWtSKx94fvnnNk4PN6d2RXM+dpHPYyw9Ts/RrA\n2iSRTDmZYdRmNbGaDq0xqn1QVtXoGobNKCkkSolU8bJIdTGMwtoJ/SXj065ln/Ii\njgpITkNyjRrbew5+QfPaIO5GCbm5PpajDfw9Z3dcgW/8zC5I/t8HKe9EgW2dEN2Z\nbncuaPtM0Fbj21jf9eX1R7KHvo3iy/XPI1aLM9BsA8srj7K/MHtJwphPQ3qDGGSQ\n49IxKrv9kiWGv4erWoba\n=s7oy\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 623cef2d5c5d9f375c60c991f5ab9f951e9253fa\ntype commit\ntag 1.8.0\ntagger Thierry Carrez <thierry@openstack.org> 1464787697 +0200\n\npython-cinderclient 1.8.0 release\n\nmeta:version: 1.8.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Commit: Sean McGinnis <sean_mcginnis@dell.com>\nmeta:release:Change-Id: I6b7476cea2c4a4407c90fbb2244933516a418d4c\nmeta:release:Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+1: Victor Stinner <vstinner@redhat.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

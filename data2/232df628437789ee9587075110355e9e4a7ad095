@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjk0ODU3MTY6MjMyZGY2Mjg0Mzc3ODllZTk1ODcwNzUxMTAzNTVlOWU0YTdhZDA5NQ==",
+  "sha": "232df628437789ee9587075110355e9e4a7ad095",
+  "url": "https://api.github.com/repos/openstack/oslo.policy/git/tags/232df628437789ee9587075110355e9e4a7ad095",
+  "tagger": {
+    "name": "Davanum Srinivas",
+    "email": "davanum@gmail.com",
+    "date": "2016-06-10T01:29:44Z"
+  },
+  "object": {
+    "sha": "474c120ae6de61c1f46523baa0fef11b5e537cf8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.policy/git/commits/474c120ae6de61c1f46523baa0fef11b5e537cf8"
+  },
+  "tag": "1.9.0",
+  "message": "oslo.policy 1.9.0 release\n\nmeta:version: 1.9.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Commit: Davanum Srinivas <davanum@gmail.com>\nmeta:release:Change-Id: Ia9f8ba9188e546c9e107958dde2908415531b50c\nmeta:release:+    * Add policy registration and authorize method\n-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAldaGAgACgkQgNg6eWEDv1mw+QCfajxxssKJzoSCYRhMBdQhnLuK\nyYgAn2qjMm+D8RrtUU1XqXtwcu2tWm+l\n=02jM\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAldaGAgACgkQgNg6eWEDv1mw+QCfajxxssKJzoSCYRhMBdQhnLuK\nyYgAn2qjMm+D8RrtUU1XqXtwcu2tWm+l\n=02jM\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 474c120ae6de61c1f46523baa0fef11b5e537cf8\ntype commit\ntag 1.9.0\ntagger Davanum Srinivas <davanum@gmail.com> 1465522184 -0400\n\noslo.policy 1.9.0 release\n\nmeta:version: 1.9.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Commit: Davanum Srinivas <davanum@gmail.com>\nmeta:release:Change-Id: Ia9f8ba9188e546c9e107958dde2908415531b50c\nmeta:release:+    * Add policy registration and authorize method\n"
+  }
+}

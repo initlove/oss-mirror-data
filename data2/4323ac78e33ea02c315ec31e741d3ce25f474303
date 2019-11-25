@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY2MjY5NTc6NDMyM2FjNzhlMzNlYTAyYzMxNWVjMzFlNzQxZDNjZTI1ZjQ3NDMwMw==",
+  "sha": "4323ac78e33ea02c315ec31e741d3ce25f474303",
+  "url": "https://api.github.com/repos/openstack/pycadf/git/tags/4323ac78e33ea02c315ec31e741d3ce25f474303",
+  "tagger": {
+    "name": "Gordon Chung",
+    "email": "chungg@ca.ibm.com",
+    "date": "2014-02-04T16:20:15Z"
+  },
+  "object": {
+    "sha": "a4fbcc87f00104753d4f46aacc13d3a6688d2e1b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/pycadf/git/commits/a4fbcc87f00104753d4f46aacc13d3a6688d2e1b"
+  },
+  "tag": "0.3.1",
+  "message": "Release 0.3.1\n\n- improve target typeURI mapping (bp audit-all-apis)\n- add ability to mask values (bug1262393)\n- add requestPath to event\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJS8RP1AAoJEAzpARzcBN43c/sIAIzPjsoyymvVxby44H9wEuGO\n7cn+uUAyDxvpZtR6xBMSyp18T7X3PX97sokouvw00ei4uSMPXAus95Th0v1dI1Js\nEEfbURFxhpCJQcXFjCxsVkLGMgvHNuWc8XTSTZZ9OPk/ejNgrKRK/4pgC+/LRBFJ\noJzT4BytiUrW479uvWzc2ttUy0eHnNTMeJPos+cur50sF6q74yuIbYjCgQH7/BaU\nT+6YNHUA7MsFFXUKsj+h8c+xNENRg2inuuNn1ecSlxcdAPJFoYzTYBpBElWxJ0Wb\nODFY2YQuQ68I+aXpMEsAhVCdrBcWyp9xzVa+mdK26oTEv2zMrY5CvkYhWbx9KaM=\n=s2be\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJS8RP1AAoJEAzpARzcBN43c/sIAIzPjsoyymvVxby44H9wEuGO\n7cn+uUAyDxvpZtR6xBMSyp18T7X3PX97sokouvw00ei4uSMPXAus95Th0v1dI1Js\nEEfbURFxhpCJQcXFjCxsVkLGMgvHNuWc8XTSTZZ9OPk/ejNgrKRK/4pgC+/LRBFJ\noJzT4BytiUrW479uvWzc2ttUy0eHnNTMeJPos+cur50sF6q74yuIbYjCgQH7/BaU\nT+6YNHUA7MsFFXUKsj+h8c+xNENRg2inuuNn1ecSlxcdAPJFoYzTYBpBElWxJ0Wb\nODFY2YQuQ68I+aXpMEsAhVCdrBcWyp9xzVa+mdK26oTEv2zMrY5CvkYhWbx9KaM=\n=s2be\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a4fbcc87f00104753d4f46aacc13d3a6688d2e1b\ntype commit\ntag 0.3.1\ntagger Gordon Chung <chungg@ca.ibm.com> 1391530815 -0500\n\nRelease 0.3.1\n\n- improve target typeURI mapping (bp audit-all-apis)\n- add ability to mask values (bug1262393)\n- add requestPath to event\n"
+  }
+}

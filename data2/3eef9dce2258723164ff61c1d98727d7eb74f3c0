@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjozZWVmOWRjZTIyNTg3MjMxNjRmZjYxYzFkOTg3MjdkN2ViNzRmM2Mw",
+  "sha": "3eef9dce2258723164ff61c1d98727d7eb74f3c0",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/3eef9dce2258723164ff61c1d98727d7eb74f3c0",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:30:25Z"
+  },
+  "object": {
+    "sha": "13d0d9e3de253599bc54cfc3b2ae1d0b31d8c651",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/13d0d9e3de253599bc54cfc3b2ae1d0b31d8c651"
+  },
+  "tag": "0.1.17",
+  "message": "v0.1.17\n- Fix double free() when old metadata parsing failed. (related to RhBug: 920795)\n- Convert all strings to UTF-8 while dumping XML. (related RhBug: 920795)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

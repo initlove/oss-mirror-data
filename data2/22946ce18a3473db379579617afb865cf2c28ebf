@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzc2MDI0NTc6MjI5NDZjZTE4YTM0NzNkYjM3OTU3OTYxN2FmYjg2NWNmMmMyOGViZg==",
+  "sha": "22946ce18a3473db379579617afb865cf2c28ebf",
+  "url": "https://api.github.com/repos/openstack/python-ironic-inspector-client/git/tags/22946ce18a3473db379579617afb865cf2c28ebf",
+  "tagger": {
+    "name": "Dmitry Tantsur",
+    "email": "dtantsur@redhat.com",
+    "date": "2015-06-18T11:06:44Z"
+  },
+  "object": {
+    "sha": "091c2d287b6363a3ace3a2402f01063fb7c9ccf6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironic-inspector-client/git/commits/091c2d287b6363a3ace3a2402f01063fb7c9ccf6"
+  },
+  "tag": "1.0.0",
+  "message": "Release 1.0.0\n\n* Move from ironic-discoverd tree\n* Drop deprecated discover() call\n* Basic support for API versions\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABCgAGBQJVgqZhAAoJEEWNiBRQeS6oFWoH/3EowUGApanBqW1z7hM7yAG4\nbYZXq9mPBMLoL0jUD7u3G/KdMEhMbcQQMDC18oAJLN2RYOZtveJie1zhOvPhqhgL\n49FRUk3Xhu6unCejeMdYnX4U0KWVDd/k+nH+SfQ63pnp6s3xMbhgwiVw2AC5Emwt\nY2a0EcePl6xAzHFRa91bdkJE1kGPzEiRFpOGfib9KgpPLEJbAiBLFgP3jecslm0/\nqv/PLQ17+hor74/Ca9iQccsYguznjBBmkK+qpM6kg0SZO3wLlVumY0eT5gIQure0\nE7OAZwDs/sIhSMWYzmqe6KOXTdjRR75+k4koJfFb8KuYL4dvaG5No7WRXDwoHIg=\n=W9n+\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABCgAGBQJVgqZhAAoJEEWNiBRQeS6oFWoH/3EowUGApanBqW1z7hM7yAG4\nbYZXq9mPBMLoL0jUD7u3G/KdMEhMbcQQMDC18oAJLN2RYOZtveJie1zhOvPhqhgL\n49FRUk3Xhu6unCejeMdYnX4U0KWVDd/k+nH+SfQ63pnp6s3xMbhgwiVw2AC5Emwt\nY2a0EcePl6xAzHFRa91bdkJE1kGPzEiRFpOGfib9KgpPLEJbAiBLFgP3jecslm0/\nqv/PLQ17+hor74/Ca9iQccsYguznjBBmkK+qpM6kg0SZO3wLlVumY0eT5gIQure0\nE7OAZwDs/sIhSMWYzmqe6KOXTdjRR75+k4koJfFb8KuYL4dvaG5No7WRXDwoHIg=\n=W9n+\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 091c2d287b6363a3ace3a2402f01063fb7c9ccf6\ntype commit\ntag 1.0.0\ntagger Dmitry Tantsur <dtantsur@redhat.com> 1434625604 +0200\n\nRelease 1.0.0\n\n* Move from ironic-discoverd tree\n* Drop deprecated discover() call\n* Basic support for API versions\n"
+  }
+}

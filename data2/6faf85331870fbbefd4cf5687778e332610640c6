@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY2MjY5NTc6NmZhZjg1MzMxODcwZmJiZWZkNGNmNTY4Nzc3OGUzMzI2MTA2NDBjNg==",
+  "sha": "6faf85331870fbbefd4cf5687778e332610640c6",
+  "url": "https://api.github.com/repos/openstack/pycadf/git/tags/6faf85331870fbbefd4cf5687778e332610640c6",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-04-17T23:38:33Z"
+  },
+  "object": {
+    "sha": "0c3fb9ded5b4f354dab896dcedd48a51095279bc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/pycadf/git/commits/0c3fb9ded5b4f354dab896dcedd48a51095279bc"
+  },
+  "tag": "2.6.1",
+  "message": "pycadf 2.6.1 release\n\nmeta:version: 2.6.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Change-Id: I0ea3e30572fb745950c0eca0770f96bb87e0a53b\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly3uPkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOFvrC/0Yi77K0E4eka+HfiCYPzuh\nQEtqn2uHhFULFlKm1WBKwbRT27lxcJ+CpO9sVd3ymyF9lU3ja+z38AZ+h0VRE7Z7\nQvkDuSHyQOZmEFahT4AAkFXkaQo3W5tYQ3FUlehDlFdg4TohD0Ac7zY/Ke5YysY6\nu/HEBJJMXTkSWJ0YB2VxtIxOGGeoGwkQ+PUK9w5ORtEmwJHDTHsqbE1eJdCcuPPv\nPvmV7FVILq9FpzAbv/Iyk3rrFKGJ6IzJ+9cvm1b5KVCFMgca/jC3PwQWt8oTtMC0\nkWO2Z7fEJ/JsZ5LOd4UvtOm7gffs1HEc9O/hcmKh/9/NB1A7OQGGHUox4S7jYJb+\n8S2MfP1e5AWdIISv1cFQSeEbtAI51tSMsK0MZcvsrjL7PxJY4JZA6IoQpmNx3roO\nFkL7JbsZZyKOnKcJW9cZQbHOKBEiYI1x54rVvhYz5g5yOxpsH2famEJQ/dUIrqfF\nMtCnseMPhLse/sBR4Stf/k3WPDL0V0kfhnQmhNmv0UM=\n=fsaF\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly3uPkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOFvrC/0Yi77K0E4eka+HfiCYPzuh\nQEtqn2uHhFULFlKm1WBKwbRT27lxcJ+CpO9sVd3ymyF9lU3ja+z38AZ+h0VRE7Z7\nQvkDuSHyQOZmEFahT4AAkFXkaQo3W5tYQ3FUlehDlFdg4TohD0Ac7zY/Ke5YysY6\nu/HEBJJMXTkSWJ0YB2VxtIxOGGeoGwkQ+PUK9w5ORtEmwJHDTHsqbE1eJdCcuPPv\nPvmV7FVILq9FpzAbv/Iyk3rrFKGJ6IzJ+9cvm1b5KVCFMgca/jC3PwQWt8oTtMC0\nkWO2Z7fEJ/JsZ5LOd4UvtOm7gffs1HEc9O/hcmKh/9/NB1A7OQGGHUox4S7jYJb+\n8S2MfP1e5AWdIISv1cFQSeEbtAI51tSMsK0MZcvsrjL7PxJY4JZA6IoQpmNx3roO\nFkL7JbsZZyKOnKcJW9cZQbHOKBEiYI1x54rVvhYz5g5yOxpsH2famEJQ/dUIrqfF\nMtCnseMPhLse/sBR4Stf/k3WPDL0V0kfhnQmhNmv0UM=\n=fsaF\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0c3fb9ded5b4f354dab896dcedd48a51095279bc\ntype commit\ntag 2.6.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1555544313 +0000\n\npycadf 2.6.1 release\n\nmeta:version: 2.6.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Change-Id: I0ea3e30572fb745950c0eca0770f96bb87e0a53b\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI5ODI1MTI1OjY2ODA2NmE0ZDEwYTEyMDMzMjhmNDFjZTIyM2FlMjAxZjhiYjczMmE=",
+  "sha": "668066a4d10a1203328f41ce223ae201f8bb732a",
+  "url": "https://api.github.com/repos/projectcalico/node/git/tags/668066a4d10a1203328f41ce223ae201f8bb732a",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2019-07-26T00:29:16Z"
+  },
+  "object": {
+    "sha": "973ee55e14972707b2782e6ccdab935c13b6fc89",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/node/git/commits/973ee55e14972707b2782e6ccdab935c13b6fc89"
+  },
+  "tag": "v3.8.1",
+  "message": "- 81303d94390367c20a75419503af253a04b18fe0 Merge pull request #264 from tmjd/iptbl-1.8\n- 27a8706534427298698a632b562c20d9e82106cd Rev felix and libcalico-go to poick up iptables 1.8 support.\n- 711c7f45b2849af8ddc84824579098867cfe31e8 Update libcalico-go to ac36d966132f2019eb4afc4d3823ed2a98564d2f\n- 2238d6e76aa4001d5c1199c7e7844bd505838e1a Update vendor pins\n- 628288c30f988873f97023adc59babb01344ce97 Use debian 10 as base image\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

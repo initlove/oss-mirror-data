@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjo1NzZiMTU3OTU2OTYxY2NlYjQ4OTRmMDMwNzI1OWIzZTQzMjZjODE4",
+  "sha": "576b157956961cceb4894f0307259b3e4326c818",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/576b157956961cceb4894f0307259b3e4326c818",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:36:51Z"
+  },
+  "object": {
+    "sha": "05783bf9aee8cc0109ec16ca92a139c60abfa870",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/05783bf9aee8cc0109ec16ca92a139c60abfa870"
+  },
+  "tag": "0.7.5",
+  "message": "v0.7.5\n- Python repomd: Support for iteration and indexing by type - e.g. record = repomd['primary']\n- Show warning if an XML parser probably parsed a bad type of medata (New XML parser warning type CR_XML_WARNING_BADMDTYPE)\n- drpm library: Explicitly try to locate libdrpm.so.0\n- deltarpms: Don't show options for delta rpms if support is not available\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

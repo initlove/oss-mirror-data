@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTk1MDUwMTE6OWU0ZTFhODFmNTJkYjgxMGE2MzliNGRhZWQ2NzMwMmNlYjNlNzJjOQ==",
+  "sha": "9e4e1a81f52db810a639b4daed67302ceb3e72c9",
+  "url": "https://api.github.com/repos/openstack/oslo.i18n/git/tags/9e4e1a81f52db810a639b4daed67302ceb3e72c9",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-04T14:17:27Z"
+  },
+  "object": {
+    "sha": "91b39bb60de37b061c7da032cf196014bd0d67b1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.i18n/git/commits/91b39bb60de37b061c7da032cf196014bd0d67b1"
+  },
+  "tag": "3.24.0",
+  "message": "oslo.i18n 3.24.0 release\n\nmeta:version: 3.24.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Iae495750fe9d18b3dc8bce3e34e8ccd57851fe83\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1vx3cZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2KE2C/9FChs/djfiFuanrC4g6u1m\nY07ZCdZJglQjHx/vVNsCCAusSzCZ9rVNY5R1oZMj9Wfi+UIwF8xwuyT+/ebOJ++H\nrN9v3Tam7VeeGQ0niVYgplGm2F3v6bIsXi65MZ7ZMiA6KP3B7Muo+UaCmHpDxRl2\nqyowKV8p8hOIlVbwGB/FLoBmKd6F7KjDRRBiMudNnpNmoVtJ74bz0JhLuX5gkppN\nWzgDeS/jipusRzZbCIv5W/Bu5VwCpyo2M1mbmYh4KGNVX4Z20bMPdBDEToV+GaEf\njRLr2zFmQNpZmxV3Bxp7ZJMMRR4Em5Jm80nfxBiFgrdA3j68J2DkMb/aSxyhXLEK\nlIOmCRkmzzQGOqZtWAXXsWm6VxGhe2AL09KxT/8WZItQsAdZ2DhG5DvU8KyPspMJ\n+jpRxfUhKY23SkYQzv4sdJnirh5FomcmepkXHfgrbRj2iVuw1kngm156xBK8fzik\nWarXUIpNzRaQbZRNMpwJGuJY2DipSEELYsviOkJLERw=\n=4tRP\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1vx3cZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2KE2C/9FChs/djfiFuanrC4g6u1m\nY07ZCdZJglQjHx/vVNsCCAusSzCZ9rVNY5R1oZMj9Wfi+UIwF8xwuyT+/ebOJ++H\nrN9v3Tam7VeeGQ0niVYgplGm2F3v6bIsXi65MZ7ZMiA6KP3B7Muo+UaCmHpDxRl2\nqyowKV8p8hOIlVbwGB/FLoBmKd6F7KjDRRBiMudNnpNmoVtJ74bz0JhLuX5gkppN\nWzgDeS/jipusRzZbCIv5W/Bu5VwCpyo2M1mbmYh4KGNVX4Z20bMPdBDEToV+GaEf\njRLr2zFmQNpZmxV3Bxp7ZJMMRR4Em5Jm80nfxBiFgrdA3j68J2DkMb/aSxyhXLEK\nlIOmCRkmzzQGOqZtWAXXsWm6VxGhe2AL09KxT/8WZItQsAdZ2DhG5DvU8KyPspMJ\n+jpRxfUhKY23SkYQzv4sdJnirh5FomcmepkXHfgrbRj2iVuw1kngm156xBK8fzik\nWarXUIpNzRaQbZRNMpwJGuJY2DipSEELYsviOkJLERw=\n=4tRP\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 91b39bb60de37b061c7da032cf196014bd0d67b1\ntype commit\ntag 3.24.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1567606647 +0000\n\noslo.i18n 3.24.0 release\n\nmeta:version: 3.24.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Iae495750fe9d18b3dc8bce3e34e8ccd57851fe83\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjEyMzYyOTI6NTNhZWYxYjFiYmZlMmIzMDk2MWExMzVjMmUxNzA0MmZlNzEwOTUzYQ==",
+  "sha": "53aef1b1bbfe2b30961a135c2e17042fe710953a",
+  "url": "https://api.github.com/repos/openstack/panko/git/tags/53aef1b1bbfe2b30961a135c2e17042fe710953a",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-22T16:37:41Z"
+  },
+  "object": {
+    "sha": "91f809625560d770f39299f782eff2b56ec84874",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/panko/git/commits/91f809625560d770f39299f782eff2b56ec84874"
+  },
+  "tag": "6.0.0.0rc1",
+  "message": "panko 6.0.0.0rc1 release candidate\n\nmeta:version: 6.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I1789dd7229ed38f1473564e0a1548e57b81cdc8d\nmeta:release:Code-Review+1: Trinh Nguyen <dangtrinhnt@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyVD1UZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOA5AC/9IeZhougM8hUj52m+cWUwm\n99bGQCFqmL1SsUE16PPSjscG+5FqiwyvI1sRUk9OBSFprpQk3nStiQYCTSTX6d4g\nKA4zR8eUfSusCReDwLiriPvtxY0t+xtRWSdxiCaQJk3wLDOEoU5h9AOF6xuKNWVQ\ntND/GyUOhPmWfgzV84Qit3LZl7g9nbDh9ary53ILw93UD3eZtLzyVN09uduU1BPP\nI8cgtstIT1jL9G3v/3LbIyRlGaaIVRBXc0u4LaitN03msMJA9L3s3obJDL1FWhEH\nAQZHIERBUZXnr9g6+X89gNUh6jDM9v2Y7MZesVtJ+i6JVNkNYuxX7PDPOekJjky3\n76DDVqR6OQqRO16MsGO20qmcZxEqjt6SvDPIwaBiWEQV+xwlAaknYuH0i6SKsEWh\nMNV4GwdAdxqDBY/5J0wVC8LOPYu3GtIPpx8QfVaOC9DwS7vFsfIfusN18xsCXjFG\nCbHAWAhd9k74KGm5Yh2bVWn7b8CLepWEAccGOmVY3mc=\n=cUpp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyVD1UZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOA5AC/9IeZhougM8hUj52m+cWUwm\n99bGQCFqmL1SsUE16PPSjscG+5FqiwyvI1sRUk9OBSFprpQk3nStiQYCTSTX6d4g\nKA4zR8eUfSusCReDwLiriPvtxY0t+xtRWSdxiCaQJk3wLDOEoU5h9AOF6xuKNWVQ\ntND/GyUOhPmWfgzV84Qit3LZl7g9nbDh9ary53ILw93UD3eZtLzyVN09uduU1BPP\nI8cgtstIT1jL9G3v/3LbIyRlGaaIVRBXc0u4LaitN03msMJA9L3s3obJDL1FWhEH\nAQZHIERBUZXnr9g6+X89gNUh6jDM9v2Y7MZesVtJ+i6JVNkNYuxX7PDPOekJjky3\n76DDVqR6OQqRO16MsGO20qmcZxEqjt6SvDPIwaBiWEQV+xwlAaknYuH0i6SKsEWh\nMNV4GwdAdxqDBY/5J0wVC8LOPYu3GtIPpx8QfVaOC9DwS7vFsfIfusN18xsCXjFG\nCbHAWAhd9k74KGm5Yh2bVWn7b8CLepWEAccGOmVY3mc=\n=cUpp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 91f809625560d770f39299f782eff2b56ec84874\ntype commit\ntag 6.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1553272661 +0000\n\npanko 6.0.0.0rc1 release candidate\n\nmeta:version: 6.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I1789dd7229ed38f1473564e0a1548e57b81cdc8d\nmeta:release:Code-Review+1: Trinh Nguyen <dangtrinhnt@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

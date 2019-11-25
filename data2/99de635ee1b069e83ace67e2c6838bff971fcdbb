@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDg2ODM3NTo5OWRlNjM1ZWUxYjA2OWU4M2FjZTY3ZTJjNjgzOGJmZjk3MWZjZGJi",
+  "sha": "99de635ee1b069e83ace67e2c6838bff971fcdbb",
+  "url": "https://api.github.com/repos/openstack/python-cinderclient/git/tags/99de635ee1b069e83ace67e2c6838bff971fcdbb",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-02-14T10:16:45Z"
+  },
+  "object": {
+    "sha": "f3dcbd2f77d5f87c2dfa47cabf8aeb1047381031",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-cinderclient/git/commits/f3dcbd2f77d5f87c2dfa47cabf8aeb1047381031"
+  },
+  "tag": "3.1.1",
+  "message": "python-cinderclient 3.1.1 release\n\nmeta:version: 3.1.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: I7d6dc0fd5eab902bb362483690bebf9021344651\nmeta:release:Code-Review+1: Jay Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcZUANAAoJEBpUEUgFTp44owEMALA4QUqlQSFO/nIHX0sFbT5C\nE58gXjO950j3g9rQ5VaT9FvlCSzKLavBIKpoIeQpWraHhzRFM489bKJW/RWGAGQG\nepbcoDO1S8NMMX9L4grRnC3R2pUeMWJxnQjn7JxaH335ZrhJUttBbV8C3KqjPV4d\ntgcK4VaDI4/+FDtx6/jw12zhyNbrXSeOk18VAucGSlCnc+lCyz6f+uB8ygg/fttK\ncbeG4fbNyQ8r3+c42SEdCSvCInzAg0SItF5Icq6WlCFLzRcrijg6PDQgPf9VYxJt\nZaKpgz1gtGPmQcO+m/lO2kgRxxHHq2LSFdO54G28xoTFE6y5urk+XDA7KAATgK4d\nTuSIMhdFndaZGma/mWp8R4kpD4KV77A4SjkjIulALxA/HlXXOw84gcYrvToO60b9\nPDqxm5dYHTtlII5PI07DNf3KtR8EMCbVBsm32lnlBbRSaO4XLRsR6NeomDzN/ZKC\n0tgUbaq9LTidJR3uzCOBzJGafvqe8sytGPVpg0Iopg==\n=e6hp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcZUANAAoJEBpUEUgFTp44owEMALA4QUqlQSFO/nIHX0sFbT5C\nE58gXjO950j3g9rQ5VaT9FvlCSzKLavBIKpoIeQpWraHhzRFM489bKJW/RWGAGQG\nepbcoDO1S8NMMX9L4grRnC3R2pUeMWJxnQjn7JxaH335ZrhJUttBbV8C3KqjPV4d\ntgcK4VaDI4/+FDtx6/jw12zhyNbrXSeOk18VAucGSlCnc+lCyz6f+uB8ygg/fttK\ncbeG4fbNyQ8r3+c42SEdCSvCInzAg0SItF5Icq6WlCFLzRcrijg6PDQgPf9VYxJt\nZaKpgz1gtGPmQcO+m/lO2kgRxxHHq2LSFdO54G28xoTFE6y5urk+XDA7KAATgK4d\nTuSIMhdFndaZGma/mWp8R4kpD4KV77A4SjkjIulALxA/HlXXOw84gcYrvToO60b9\nPDqxm5dYHTtlII5PI07DNf3KtR8EMCbVBsm32lnlBbRSaO4XLRsR6NeomDzN/ZKC\n0tgUbaq9LTidJR3uzCOBzJGafvqe8sytGPVpg0Iopg==\n=e6hp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f3dcbd2f77d5f87c2dfa47cabf8aeb1047381031\ntype commit\ntag 3.1.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1550139405 +0000\n\npython-cinderclient 3.1.1 release\n\nmeta:version: 3.1.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Commit: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Change-Id: I7d6dc0fd5eab902bb362483690bebf9021344651\nmeta:release:Code-Review+1: Jay Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

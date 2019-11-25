@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE1MzA4NjE6M2QwYzdlN2M1NDEwMjlmOTMxZjk3N2ZjODZhZjQwM2QxYWI4MmNjNw==",
+  "sha": "3d0c7e7c541029f931f977fc86af403d1ab82cc7",
+  "url": "https://api.github.com/repos/open-source-parsers/jsoncpp/git/tags/3d0c7e7c541029f931f977fc86af403d1ab82cc7",
+  "tagger": {
+    "name": "Christopher Dunn",
+    "email": "cdunn2001@gmail.com",
+    "date": "2014-11-20T14:46:21Z"
+  },
+  "object": {
+    "sha": "7165f6ac4c482e68475c9e1dac086f9e12fff0d0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/open-source-parsers/jsoncpp/git/commits/7165f6ac4c482e68475c9e1dac086f9e12fff0d0"
+  },
+  "tag": "1.0.0",
+  "message": "slight binary-incompatibility with 0.7.0\n\nThat change was actually introduced a few weeks back. If you\nrequire binary-compatibility, see pre-C++11 branch and 0.7.0 tag.\n\nMoving forward, we plan to support only C++11, but old compilers\nshould still work at this point.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

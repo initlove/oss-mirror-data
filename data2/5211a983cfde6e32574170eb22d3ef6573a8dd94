@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjM0NDA0NDQ6NTIxMWE5ODNjZmRlNmUzMjU3NDE3MGViMjJkM2VmNjU3M2E4ZGQ5NA==",
+  "sha": "5211a983cfde6e32574170eb22d3ef6573a8dd94",
+  "url": "https://api.github.com/repos/openstack/oslo.log/git/tags/5211a983cfde6e32574170eb22d3ef6573a8dd94",
+  "tagger": {
+    "name": "Davanum Srinivas",
+    "email": "davanum@gmail.com",
+    "date": "2016-06-10T01:25:40Z"
+  },
+  "object": {
+    "sha": "070cc7ae8de83ffa546fa49902a3a3b8da06466c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.log/git/commits/070cc7ae8de83ffa546fa49902a3a3b8da06466c"
+  },
+  "tag": "3.9.0",
+  "message": "oslo.log 3.9.0 release\n\nmeta:version: 3.9.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Commit: Davanum Srinivas <davanum@gmail.com>\nmeta:release:Change-Id: Ia9f8ba9188e546c9e107958dde2908415531b50c\nmeta:release:+    * Add policy registration and authorize method\n-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAldaFxQACgkQgNg6eWEDv1l/LgCgnqwlFM9503+VPoy6ZWTWHHvt\nMOQAoJYcy7l/796BSxKEESv7VoNOfG7J\n=Ukkj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAldaFxQACgkQgNg6eWEDv1l/LgCgnqwlFM9503+VPoy6ZWTWHHvt\nMOQAoJYcy7l/796BSxKEESv7VoNOfG7J\n=Ukkj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 070cc7ae8de83ffa546fa49902a3a3b8da06466c\ntype commit\ntag 3.9.0\ntagger Davanum Srinivas <davanum@gmail.com> 1465521940 -0400\n\noslo.log 3.9.0 release\n\nmeta:version: 3.9.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Commit: Davanum Srinivas <davanum@gmail.com>\nmeta:release:Change-Id: Ia9f8ba9188e546c9e107958dde2908415531b50c\nmeta:release:+    * Add policy registration and authorize method\n"
+  }
+}

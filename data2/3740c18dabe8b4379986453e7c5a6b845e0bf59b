@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkzNTI6Mzc0MGMxOGRhYmU4YjQzNzk5ODY0NTNlN2M1YTZiODQ1ZTBiZjU5Yg==",
+  "sha": "3740c18dabe8b4379986453e7c5a6b845e0bf59b",
+  "url": "https://api.github.com/repos/mikel/mail/git/tags/3740c18dabe8b4379986453e7c5a6b845e0bf59b",
+  "tagger": {
+    "name": "Jeremy Daer",
+    "email": "jeremydaer@gmail.com",
+    "date": "2018-03-01T20:56:27Z"
+  },
+  "object": {
+    "sha": "58f3bbf915c9631464003c5701af1c8a35d5d8b5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mikel/mail/git/commits/58f3bbf915c9631464003c5701af1c8a35d5d8b5"
+  },
+  "tag": "2.7.1.rc1",
+  "message": "Mail 2.7.1.rc1\n\nCompatibility:\n* Restore LF=>CRLF conversions for properly encoded non-binary emails. (rubys)\n* Gracefully parse certain invalid Content-Type headers. (rafbm)\n\nFeatures:\n* Expose Mail::Field#unparsed_value to read the raw field value, before parsing. (Tensho)\n\nPerformance:\n* Speed up message encoding, especially with large attachments. (dalibor)\n\nBugs:\n* Fix transfer encoding when message encoding is blank. (jakubonty, saks)\n* Fix UTF-8 attachment filename quoting. (ahorek)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

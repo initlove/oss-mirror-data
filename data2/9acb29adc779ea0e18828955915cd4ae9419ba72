@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNDo5YWNiMjlhZGM3NzllYTBlMTg4Mjg5NTU5MTVjZDRhZTk0MTliYTcy",
+  "sha": "9acb29adc779ea0e18828955915cd4ae9419ba72",
+  "url": "https://api.github.com/repos/openstack/heat/git/tags/9acb29adc779ea0e18828955915cd4ae9419ba72",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-09-06T19:19:01Z"
+  },
+  "object": {
+    "sha": "ed46562157d2f9983f5665394ec47d2e27aad0df",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/heat/git/commits/ed46562157d2f9983f5665394ec47d2e27aad0df"
+  },
+  "tag": "6.1.0",
+  "message": "heat 6.1.0 release\n\nmeta:version: 6.1.0\nmeta:diff-start: -\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Thomas Herve <therve@redhat.com>\nmeta:release:Commit: Thomas Herve <therve@redhat.com>\nmeta:release:Change-Id: Ia2870ee3c1cd739613379d837b73de7f829a944b\nmeta:release:Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXzxalAAoJENljH+rwzGIngrAIAIFSJj+7H7z/3YkRaQWvvC31\nvtuM0YBZeXhKEqGtT6TlXDLY1l4GsKeIVluoAZcdVI/yHA/BtkbfDwW8Ubr1FuyR\nIOr4yuOHsuxEvH7r+z5u6oedEdA7sGteho/4bqcOuMSsHoV3NhLdH8d1abAUXcLR\nmiLR+uWCZimaqbKuSVyGfmPdakW9tRz7xPqauDuRb3X7QLatWWarkfe/Pz9Kiwi5\nP7XEAao7QPWspt6WYD/rBeIMqVoKies/KhQS9AfwIQSLqAC62hxoDKB/4CMr8BEz\n/fPxVL2wtoR9j5TiQ+YAyOMsqwJlaCIOhYrf/SYVBUXblt6tm1PtBK3PZrs0xIc=\n=i77V\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXzxalAAoJENljH+rwzGIngrAIAIFSJj+7H7z/3YkRaQWvvC31\nvtuM0YBZeXhKEqGtT6TlXDLY1l4GsKeIVluoAZcdVI/yHA/BtkbfDwW8Ubr1FuyR\nIOr4yuOHsuxEvH7r+z5u6oedEdA7sGteho/4bqcOuMSsHoV3NhLdH8d1abAUXcLR\nmiLR+uWCZimaqbKuSVyGfmPdakW9tRz7xPqauDuRb3X7QLatWWarkfe/Pz9Kiwi5\nP7XEAao7QPWspt6WYD/rBeIMqVoKies/KhQS9AfwIQSLqAC62hxoDKB/4CMr8BEz\n/fPxVL2wtoR9j5TiQ+YAyOMsqwJlaCIOhYrf/SYVBUXblt6tm1PtBK3PZrs0xIc=\n=i77V\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ed46562157d2f9983f5665394ec47d2e27aad0df\ntype commit\ntag 6.1.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1473189541 +0000\n\nheat 6.1.0 release\n\nmeta:version: 6.1.0\nmeta:diff-start: -\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Thomas Herve <therve@redhat.com>\nmeta:release:Commit: Thomas Herve <therve@redhat.com>\nmeta:release:Change-Id: Ia2870ee3c1cd739613379d837b73de7f829a944b\nmeta:release:Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

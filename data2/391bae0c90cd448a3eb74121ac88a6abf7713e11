@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE1NTE1NzozOTFiYWUwYzkwY2Q0NDhhM2ViNzQxMjFhYzg4YTZhYmY3NzEzZTEx",
+  "sha": "391bae0c90cd448a3eb74121ac88a6abf7713e11",
+  "url": "https://api.github.com/repos/openstack/glance/git/tags/391bae0c90cd448a3eb74121ac88a6abf7713e11",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-18T15:36:18Z"
+  },
+  "object": {
+    "sha": "53fbfc8c635b778bc4731a352fc2fa3197328e3c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/glance/git/commits/53fbfc8c635b778bc4731a352fc2fa3197328e3c"
+  },
+  "tag": "19.0.0.0b1",
+  "message": "glance 19.0.0.0b1 development milestone\n\nmeta:version: 19.0.0.0b1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Commit: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Change-Id: I53be789764e013715d066f2db1ad55e543b49743\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2CTvIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JbpDACxU3Rpi2wQLe35SBRquhZJ\nb4zZSqsW2xUJKgsBI1dzyh9ok00VgfzSiLZ4ddS1oqmVSscipNwjAJ36KC7WDqyQ\ndIu7aAGM2At75J89etub3tUmqJ5V7zGqYpcuR6y5dJjEfJBtCEND0Ou9JHlSgLNm\nNVPQ/YSvZAVRBcCAg2/eA1pCct7y8yoThyGxVrhMUwlUi/B5YAr+hNHqmH8zK3Vo\nNy8xgFg55b//vzc7b+B90pXLZlUh7/QCLwgxzRbuU53QR/BK/PjibFFshuqjBUaG\nRz0C5J6xragQP6rZa6cSC00RwosPhu6bkEhoANT/78+HD19eX9+5yJDOPdH1wER5\npv5P53FAbIDzUoEwu8TCSA44R0BOKtrkUCW4RK7tYlsSA4O6JpvAn2T/uC1i31Rr\ncmbnleFcnWOqGaPsycCAsPKFIui5WeQ40nqwwWbQLVV8SLVkPxOknFDEdAdyvokW\nY1Y9Hp4BLs8NOe+LID0hLF5wXeW5iPTQKwED2xNQ7rI=\n=Qc9z\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2CTvIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JbpDACxU3Rpi2wQLe35SBRquhZJ\nb4zZSqsW2xUJKgsBI1dzyh9ok00VgfzSiLZ4ddS1oqmVSscipNwjAJ36KC7WDqyQ\ndIu7aAGM2At75J89etub3tUmqJ5V7zGqYpcuR6y5dJjEfJBtCEND0Ou9JHlSgLNm\nNVPQ/YSvZAVRBcCAg2/eA1pCct7y8yoThyGxVrhMUwlUi/B5YAr+hNHqmH8zK3Vo\nNy8xgFg55b//vzc7b+B90pXLZlUh7/QCLwgxzRbuU53QR/BK/PjibFFshuqjBUaG\nRz0C5J6xragQP6rZa6cSC00RwosPhu6bkEhoANT/78+HD19eX9+5yJDOPdH1wER5\npv5P53FAbIDzUoEwu8TCSA44R0BOKtrkUCW4RK7tYlsSA4O6JpvAn2T/uC1i31Rr\ncmbnleFcnWOqGaPsycCAsPKFIui5WeQ40nqwwWbQLVV8SLVkPxOknFDEdAdyvokW\nY1Y9Hp4BLs8NOe+LID0hLF5wXeW5iPTQKwED2xNQ7rI=\n=Qc9z\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 53fbfc8c635b778bc4731a352fc2fa3197328e3c\ntype commit\ntag 19.0.0.0b1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1568820978 +0000\n\nglance 19.0.0.0b1 development milestone\n\nmeta:version: 19.0.0.0b1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Commit: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Change-Id: I53be789764e013715d066f2db1ad55e543b49743\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTg2NzQ5OjFlMTU5MjBmODhkZDM1NjE0MWMyN2QwYzQxYWUwMmFjMzFjYTExZWI=",
+  "sha": "1e15920f88dd356141c27d0c41ae02ac31ca11eb",
+  "url": "https://api.github.com/repos/nodejs/http-parser/git/tags/1e15920f88dd356141c27d0c41ae02ac31ca11eb",
+  "tagger": {
+    "name": "Ben Noordhuis",
+    "email": "info@bnoordhuis.nl",
+    "date": "2013-03-26T22:36:11Z"
+  },
+  "object": {
+    "sha": "80819384450b5511a3d1c424dd92a5843c891364",
+    "type": "commit",
+    "url": "https://api.github.com/repos/nodejs/http-parser/git/commits/80819384450b5511a3d1c424dd92a5843c891364"
+  },
+  "tag": "v2.1",
+  "message": "Ben Noordhuis (11):\n      build: compile strict and non-strict tests\n      build: add default build flags to gyp script\n      gitignore: ignore gyp build dir\n      Remove HTTP_PARSER_DEBUG macro.\n      test: use error-checking strncat/strncpy replacements\n      test: fix buffer overflow in large header test\n      Update AUTHORS\n      Update AUTHORS and .mailmap\n      Move url_parser.c to contrib/\n      Update AUTHORS and .mailmap\n      Bump to version 2.1\n\nCorey Richardson (4):\n      Fix IPv6 address parsing.\n      Fix unmatched quote in dump_url output.\n      Add a simple utility to dump events as they happen\n      doc: add travis build status link\n\nJames McLaughlin (1):\n      Fix MSVS 2005 and 2008 missing size_t typdef.\n\nPeter Faiman (1):\n      fix old references to on_path\n\nThomas LE ROUX (1):\n      Update AUTHORS\n\nTóth Tamás (1):\n      Add on_status_complete callback.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

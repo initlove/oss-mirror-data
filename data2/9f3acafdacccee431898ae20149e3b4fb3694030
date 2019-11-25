@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzIwNDA5Mzo5ZjNhY2FmZGFjY2NlZTQzMTg5OGFlMjAxNDllM2I0ZmIzNjk0MDMw",
+  "sha": "9f3acafdacccee431898ae20149e3b4fb3694030",
+  "url": "https://api.github.com/repos/openstack/python-neutronclient/git/tags/9f3acafdacccee431898ae20149e3b4fb3694030",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-11-15T14:21:27Z"
+  },
+  "object": {
+    "sha": "d8cb1472c867d2a308e26abea0b0a01f1d6629a1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-neutronclient/git/commits/d8cb1472c867d2a308e26abea0b0a01f1d6629a1"
+  },
+  "tag": "6.11.0",
+  "message": "python-neutronclient 6.11.0 release\n\nmeta:version: 6.11.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Commit: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Change-Id: Ie7061caf412359c3480484703af0bbe87efc7801\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJb7YDnAAoJEBpUEUgFTp44K7YL/RMXQ5/oC2g0MlEIWdrRFZTg\n/63Af7gkm1EPfIrvMRu9IYmlh2SHX92MGJHr/e5qjLNJVrf/UXaQ96I6xXrviHZg\nYIw48ThXUuYDDRPGgNrCDank7CaWZWqBUZEAI1IJJstpbXEJ0v7bkmYzNLa7xr6J\n2XthLzMRySAwpxCyGiSGabwTSMjRjmcKxYIJVo+W+VaEk2EAOMQGhupXoOoVtjE7\nRKN9gx24KkfjXKrJKo/BM5HiYcpItQzI1oYsw/kOPH5gYVhqrAHZY+5ZQDnbI2e/\nIJJ7hYcJN5XWMFbpuzr13U7QUtwxE8mnNVrbkSTkDCU1sIVOswfYPdLaTN7qVagc\nlPolfkcQbPGjhrKAnS/Tzrb7WfqxZd5f2HGNOhCf29jf+ioezNybQaVhJkufaghb\nRHfAdVyusYfHOqJnRcee7CD0qFtI+u5wvMRAAZnN8mdrVi66F1ggCeqdSgAj4rSz\ny5pr+Wvt2QM1i8QViG9CuDBgb5Q0JC9l8XuPJsVW/A==\n=EUGX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJb7YDnAAoJEBpUEUgFTp44K7YL/RMXQ5/oC2g0MlEIWdrRFZTg\n/63Af7gkm1EPfIrvMRu9IYmlh2SHX92MGJHr/e5qjLNJVrf/UXaQ96I6xXrviHZg\nYIw48ThXUuYDDRPGgNrCDank7CaWZWqBUZEAI1IJJstpbXEJ0v7bkmYzNLa7xr6J\n2XthLzMRySAwpxCyGiSGabwTSMjRjmcKxYIJVo+W+VaEk2EAOMQGhupXoOoVtjE7\nRKN9gx24KkfjXKrJKo/BM5HiYcpItQzI1oYsw/kOPH5gYVhqrAHZY+5ZQDnbI2e/\nIJJ7hYcJN5XWMFbpuzr13U7QUtwxE8mnNVrbkSTkDCU1sIVOswfYPdLaTN7qVagc\nlPolfkcQbPGjhrKAnS/Tzrb7WfqxZd5f2HGNOhCf29jf+ioezNybQaVhJkufaghb\nRHfAdVyusYfHOqJnRcee7CD0qFtI+u5wvMRAAZnN8mdrVi66F1ggCeqdSgAj4rSz\ny5pr+Wvt2QM1i8QViG9CuDBgb5Q0JC9l8XuPJsVW/A==\n=EUGX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d8cb1472c867d2a308e26abea0b0a01f1d6629a1\ntype commit\ntag 6.11.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1542291687 +0000\n\npython-neutronclient 6.11.0 release\n\nmeta:version: 6.11.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Commit: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Change-Id: Ie7061caf412359c3480484703af0bbe87efc7801\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

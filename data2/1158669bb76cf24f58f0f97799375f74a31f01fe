@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNToxMTU4NjY5YmI3NmNmMjRmNThmMGY5Nzc5OTM3NWY3NGEzMWYwMWZl",
+  "sha": "1158669bb76cf24f58f0f97799375f74a31f01fe",
+  "url": "https://api.github.com/repos/openstack/python-heatclient/git/tags/1158669bb76cf24f58f0f97799375f74a31f01fe",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-22T23:26:26Z"
+  },
+  "object": {
+    "sha": "eca16376563c2b0249d5b2aba1f6283a5aebbe98",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-heatclient/git/commits/eca16376563c2b0249d5b2aba1f6283a5aebbe98"
+  },
+  "tag": "1.18.0",
+  "message": "python-heatclient 1.18.0 release\n\nmeta:version: 1.18.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: Icc057b1b9e02232fa45f012da7c6b6aee73cf1a5\nmeta:release:Code-Review+1: Rico Lin <rico.lin.guanyu@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1fJKIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2KsHDACqY2vTOT9dFivP4sczK8II\nlvMNUHiZbZ6MymQGbNiIbLW13c+9NqL5CAdO8Lnjg3dZocEYhXsxE4saf7/AAbfU\nZh/ywKYzHqux4/subwOzD0McC+BKOZ7CD3O1CQKSp1QdjEqzH4VeZ6RqumtAa9aX\nTTkhae09cyXC3oiu7UaR+l2LUTUhZ01FMOQow0TGKtrRzUmG3wIa4LXAiaIVB4re\n65edoqfXdwpNunY3inf4BqVHA+ZHm3ofyvmeihO8Or+1/7kScY/pF28E6r/AY90V\nJGgaaxrbQSX+B2J5CPtaiEG1mgsUflXHeH1nDKpUKRihoqvk2gsYde5Tl9i3Lv2m\n/qT0/HVr7OadrlZcH0smfC3CYy4JqzmXtiseu9Vuwa1nW9MR+aDGXzQFKgHy81ls\niKzGjCgBgVB518p0TM7IlKb104Mmq5eplJbPakPTl7IwF36cva6U26kqjo30OJKs\n/NWlQkJntMBIGijvZzXGzVwbOOOQDyWs/oea+NcaEdU=\n=f9XT\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1fJKIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2KsHDACqY2vTOT9dFivP4sczK8II\nlvMNUHiZbZ6MymQGbNiIbLW13c+9NqL5CAdO8Lnjg3dZocEYhXsxE4saf7/AAbfU\nZh/ywKYzHqux4/subwOzD0McC+BKOZ7CD3O1CQKSp1QdjEqzH4VeZ6RqumtAa9aX\nTTkhae09cyXC3oiu7UaR+l2LUTUhZ01FMOQow0TGKtrRzUmG3wIa4LXAiaIVB4re\n65edoqfXdwpNunY3inf4BqVHA+ZHm3ofyvmeihO8Or+1/7kScY/pF28E6r/AY90V\nJGgaaxrbQSX+B2J5CPtaiEG1mgsUflXHeH1nDKpUKRihoqvk2gsYde5Tl9i3Lv2m\n/qT0/HVr7OadrlZcH0smfC3CYy4JqzmXtiseu9Vuwa1nW9MR+aDGXzQFKgHy81ls\niKzGjCgBgVB518p0TM7IlKb104Mmq5eplJbPakPTl7IwF36cva6U26kqjo30OJKs\n/NWlQkJntMBIGijvZzXGzVwbOOOQDyWs/oea+NcaEdU=\n=f9XT\n-----END PGP SIGNATURE-----\n",
+    "payload": "object eca16376563c2b0249d5b2aba1f6283a5aebbe98\ntype commit\ntag 1.18.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1566516386 +0000\n\npython-heatclient 1.18.0 release\n\nmeta:version: 1.18.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: Icc057b1b9e02232fa45f012da7c6b6aee73cf1a5\nmeta:release:Code-Review+1: Rico Lin <rico.lin.guanyu@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

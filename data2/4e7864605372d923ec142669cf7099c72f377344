@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjI0ODk4OTQ6NGU3ODY0NjA1MzcyZDkyM2VjMTQyNjY5Y2Y3MDk5YzcyZjM3NzM0NA==",
+  "sha": "4e7864605372d923ec142669cf7099c72f377344",
+  "url": "https://api.github.com/repos/openstack/oslo.middleware/git/tags/4e7864605372d923ec142669cf7099c72f377344",
+  "tagger": {
+    "name": "Davanum Srinivas",
+    "email": "davanum@gmail.com",
+    "date": "2016-06-10T01:29:18Z"
+  },
+  "object": {
+    "sha": "549be72d688f838a85e2c664b9911546f52c758d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.middleware/git/commits/549be72d688f838a85e2c664b9911546f52c758d"
+  },
+  "tag": "3.12.0",
+  "message": "oslo.middleware 3.12.0 release\n\nmeta:version: 3.12.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Commit: Davanum Srinivas <davanum@gmail.com>\nmeta:release:Change-Id: Ia9f8ba9188e546c9e107958dde2908415531b50c\nmeta:release:+    * Add policy registration and authorize method\n-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAldaF+4ACgkQgNg6eWEDv1lX/QCgmZpbJRNO0gNFEXnzVLu2/eS2\nvvsAnRpyj4u8AarndRbhxxUpaesa6ZMy\n=MsfI\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAldaF+4ACgkQgNg6eWEDv1lX/QCgmZpbJRNO0gNFEXnzVLu2/eS2\nvvsAnRpyj4u8AarndRbhxxUpaesa6ZMy\n=MsfI\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 549be72d688f838a85e2c664b9911546f52c758d\ntype commit\ntag 3.12.0\ntagger Davanum Srinivas <davanum@gmail.com> 1465522158 -0400\n\noslo.middleware 3.12.0 release\n\nmeta:version: 3.12.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Commit: Davanum Srinivas <davanum@gmail.com>\nmeta:release:Change-Id: Ia9f8ba9188e546c9e107958dde2908415531b50c\nmeta:release:+    * Add policy registration and authorize method\n"
+  }
+}

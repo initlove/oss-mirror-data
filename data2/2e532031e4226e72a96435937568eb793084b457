@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ4Mjk5NzoyZTUzMjAzMWU0MjI2ZTcyYTk2NDM1OTM3NTY4ZWI3OTMwODRiNDU3",
+  "sha": "2e532031e4226e72a96435937568eb793084b457",
+  "url": "https://api.github.com/repos/phpredis/phpredis/git/tags/2e532031e4226e72a96435937568eb793084b457",
+  "tagger": {
+    "name": "michael-grunder",
+    "email": "michael.grunder@gmail.com",
+    "date": "2016-06-08T20:07:35Z"
+  },
+  "object": {
+    "sha": "bd610ee22e8a8fe7ee22c620a786e5f01597b335",
+    "type": "commit",
+    "url": "https://api.github.com/repos/phpredis/phpredis/git/commits/bd610ee22e8a8fe7ee22c620a786e5f01597b335"
+  },
+  "tag": "2.2.8",
+  "message": "phpredis 2.2.8\n\nThe main improvement in this version of phpredis is support for Redis\nCluster.  This version of phpredis is intended for versions of php older\nthan 7.\n\nIn addition there have been many bug fixes and improvements to non cluster\nrelated commands, which are listed below.\n\nI've attempted to include everyone who contribued to the project in each fix\ndescription and have included names or github user ids.\n\nThanks to everyone for submitting bug reports and pull requests.  A special\nthanks to Remi Collet for helping with any and all packaging related issues\n\n\\o/\n\n--- Improvements ---\n\n* Added randomization to our seed nodes to balance which instance is used\n  to map the keyspace (Vitaliy Stepanyuk) [32eb1c5f]\n* Added support for IPv6 addresses\n\n--- Fixes ---\n\n* PHP liveness checking workaround (Shafreeck Sea) [c18d58b9]\n* Various documentation and code formatting and style fixes (ares333,\n  sanpili, Bryan Nelson, linfangrong, Romero Malaquias, Viktor Szépe)\n* Fix scan reply processing to use long instead of int to avoid overflow\n  (mixiaojiong).\n* Fix potential segfault in Redis Cluster session storage (Sergei Lomakov)\n  [cc15aae]\n* Fixed memory leak in discard function [17b1f427]\n* Sanity check for igbinary unserialization (Maurus Cuelenaere) [3266b222,\n  5528297a]\n* Fix segfault occuring from unclosed socket connection for Redis Cluster\n  (CatKang) [04196aee]\n* Case insensitive zRangeByScore options\n* Fixed dreaded size_t vs long long compiler warning\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

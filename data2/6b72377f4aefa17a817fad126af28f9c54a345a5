@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY2MjY5NTg6NmI3MjM3N2Y0YWVmYTE3YTgxN2ZhZDEyNmFmMjhmOWM1NGEzNDVhNQ==",
+  "sha": "6b72377f4aefa17a817fad126af28f9c54a345a5",
+  "url": "https://api.github.com/repos/openstack/stevedore/git/tags/6b72377f4aefa17a817fad126af28f9c54a345a5",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-07-20T01:05:26Z"
+  },
+  "object": {
+    "sha": "64f70f245a1439138757910810873a0e3134ab53",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/stevedore/git/commits/64f70f245a1439138757910810873a0e3134ab53"
+  },
+  "tag": "1.29.0",
+  "message": "stevedore 1.29.0 release\n\nmeta:version: 1.29.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Ia69502d9f15e98b99c56957d88537adf44567a47\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbUTVWAAoJEMNs3LTfAMaMohgIALO9vTuUqLpn4grHGkkMLmnB\nK9YCFYqcJ8fPQ2GAPtJdKTc4E3DdtUWBeQ6NDjQm9THtmZ87372ApZH1Ld3iK6Op\namxPIzHrhf99jreVSonVQseOSR6k5gRUWX5atFi1Ev9gccDZyi0JuX5HM85GEjft\nVtBurIdCP5DeWt7vBP853FHh3FcLqTjoXvGpanBIaWmzDtBuwCO306KGrkVmRKh6\nrjJL8FPdutCn+YsnsvZngMZhwetzPrQotlL6RpjL9OnglbNfZnNTVpaHTQBztAPp\nMolNatGMMOhoAEH3ydWGAiF3KBFi0vNXqDEiDHNeT+WFoXVzJK1yr0Tb0Yt8Zrg=\n=IK1p\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbUTVWAAoJEMNs3LTfAMaMohgIALO9vTuUqLpn4grHGkkMLmnB\nK9YCFYqcJ8fPQ2GAPtJdKTc4E3DdtUWBeQ6NDjQm9THtmZ87372ApZH1Ld3iK6Op\namxPIzHrhf99jreVSonVQseOSR6k5gRUWX5atFi1Ev9gccDZyi0JuX5HM85GEjft\nVtBurIdCP5DeWt7vBP853FHh3FcLqTjoXvGpanBIaWmzDtBuwCO306KGrkVmRKh6\nrjJL8FPdutCn+YsnsvZngMZhwetzPrQotlL6RpjL9OnglbNfZnNTVpaHTQBztAPp\nMolNatGMMOhoAEH3ydWGAiF3KBFi0vNXqDEiDHNeT+WFoXVzJK1yr0Tb0Yt8Zrg=\n=IK1p\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 64f70f245a1439138757910810873a0e3134ab53\ntype commit\ntag 1.29.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1532048726 +0000\n\nstevedore 1.29.0 release\n\nmeta:version: 1.29.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Ia69502d9f15e98b99c56957d88537adf44567a47\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

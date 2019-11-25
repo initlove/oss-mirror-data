@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ4Mjk5Nzo3Y2VjNTU4OGQ5NzI0YzgzYjE0YjM1YzNiNzFlY2ZlMDg3ZGRiNzhk",
+  "sha": "7cec5588d9724c83b14b35c3b71ecfe087ddb78d",
+  "url": "https://api.github.com/repos/phpredis/phpredis/git/tags/7cec5588d9724c83b14b35c3b71ecfe087ddb78d",
+  "tagger": {
+    "name": "michael-grunder",
+    "email": "michael.grunder@gmail.com",
+    "date": "2016-06-03T20:21:07Z"
+  },
+  "object": {
+    "sha": "64479400a0b3c7b8b006e5de905836e4d764a763",
+    "type": "commit",
+    "url": "https://api.github.com/repos/phpredis/phpredis/git/commits/64479400a0b3c7b8b006e5de905836e4d764a763"
+  },
+  "tag": "3.0.0-rc1",
+  "message": "phpredis 3.0.0\n\nThis version of phpredis supports cluster and is intended for php versions\n7.0.0 and higher.  To compile cluster-enabled phpredis for older versions\nof php, please use the 2.2.8 pecl package.\n\nA huge thanks goes out to Sean DuBois for doing all the work required to get\nphpredis working in php 7.0!\n\n--- Improvements ---\n\n* PHP 7 Support (Sean DuBois) [3159bd2, 567dc2f, daa4d9f, f2711e3, 9cb9d07,\n  9d51c89, 9ff8f49, 33bb629, cbdf65a, f30b7fd, c687a51, 6b3e773, 2bf8241,\n  771bd3d, 9221ca4, 4e00df6, e2407ca, 97fcfe6, 77e6200]\n* Redis Cluster support\n* Allow SINTERSTORE to take a single array argument again\n* IPv6 support\n\n--- Fixes ---\n\n* config.w32 fix (Jan-E) [495d308, c9e0b682]\n* Exception handling improvement (Jan-E) [314a2c3c]\n* Unit test fix for max int value (Jan-E) [659ea2aa]\n* unsigned long -> zend_ulong fix (Jan-E) [4d66e3d4]\n* Visual Stuio 14 fixes (Jan-E) [ea98401c]\n* Segfault fix when looking up our socket (ephemeralsnow) [0126481a]\n* Allow '-' and '+' in ZRANGEBYLEX (Patrick Pokatilo) [8bfa2188]\n* Documentation fixes (Ares) [54b9a0ec]\n* php7 related memory leak fix (Stuart Carnie) [b75bf3b4]\n* Potential segfault fix in cluster session (Sergei Lomakov) [661fb5b1]\n* php7 related serialization leak fix (Adam Harvey) [c40fc1d8]\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

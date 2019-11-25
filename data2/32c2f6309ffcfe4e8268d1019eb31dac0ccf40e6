@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDozMmMyZjYzMDlmZmNmZTRlODI2OGQxMDE5ZWIzMWRhYzBjY2Y0MGU2",
+  "sha": "32c2f6309ffcfe4e8268d1019eb31dac0ccf40e6",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/32c2f6309ffcfe4e8268d1019eb31dac0ccf40e6",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-04-14T11:44:51Z"
+  },
+  "object": {
+    "sha": "6f8e5b001f76e1b10c83fde871030f253d924aee",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/commits/6f8e5b001f76e1b10c83fde871030f253d924aee"
+  },
+  "tag": "librepo-1.7.15",
+  "message": "v1.7.15\n- Do not inlude header in the body output (RhBug: 1207685)\n- metalink: Proper error handling\n- New LRR_RPMMD_* contants\n- Support for client certificates\n- Use 'metadata in the rpm-md format' instead of 'yum metadata' (Issue #51)\n- CMakeLists.txt: do not check for CXX\n- build: Use solely pkg-config to find glib\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

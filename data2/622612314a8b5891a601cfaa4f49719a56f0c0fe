@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI5ODI1MTI1OjYyMjYxMjMxNGE4YjU4OTFhNjAxY2ZhYTRmNDk3MTlhNTZmMGMwZmU=",
+  "sha": "622612314a8b5891a601cfaa4f49719a56f0c0fe",
+  "url": "https://api.github.com/repos/projectcalico/node/git/tags/622612314a8b5891a601cfaa4f49719a56f0c0fe",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "casey@tigera.io",
+    "date": "2019-03-09T20:29:01Z"
+  },
+  "object": {
+    "sha": "a58698102b347658f58e429331fcc349d232d678",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/node/git/commits/a58698102b347658f58e429331fcc349d232d678"
+  },
+  "tag": "v3.5.3",
+  "message": "- 84bb64b4da7827fc269f1dda850d05bae8ad266e Merge pull request #163 from lwr20/lwr-hosted-etcd\n- c74ead6f01cce21682925cb5f54d38c17885cd4f Backporting changes from master for bird readiness check to avoid aggresive update.\n- bbb31ae684390b17e3251416695a742b0f634b13 Added code to handle BIRD readiness if no BGP peers exist.\n- a480ec7d05894892e219e9dedef2604ed01680c0 Update libcalico-go to 3d935c3b8b860224bcedf1aaa02bedaadf0a180c\n- 678e11b33f0f011e2af558eee5eaecbe6f7762da Update libcalico-go to 3d935c3b8b860224bcedf1aaa02bedaadf0a180c\n- 8fff23527fc57639c86901679f3248f87923dc2f Fix makefile for v3.5 releases\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE5OTMzNDc6NzdmYjEzYmM1NDA2MzVmMGViY2Y2M2RkNmFjZjZmN2M0ZDZjOWVlMA==",
+  "sha": "77fb13bc540635f0ebcf63dd6acf6f7c4d6c9ee0",
+  "url": "https://api.github.com/repos/Netflix/spectator/git/tags/77fb13bc540635f0ebcf63dd6acf6f7c4d6c9ee0",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-03-12T15:01:04Z"
+  },
+  "object": {
+    "sha": "9d980858c44ceb67633e0316e5a975c816ec66d6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/spectator/git/commits/9d980858c44ceb67633e0316e5a975c816ec66d6"
+  },
+  "tag": "v0.21.0",
+  "message": "Release of 0.21.0\n\n- 9d980858c44ceb67633e0316e5a975c816ec66d6: Merge pull request #136 from brharrington/use-shadowed-rxhttp\n- 76720b19c0119c222342d45ae32ac938a4157a97: switch to shadowed version of rxhttp\n- 9d41e482af4420142e46c5835a8b06380a9b146b: Merge pull request #135 from brharrington/fat-jar\n- 6f7b043de5729b1d3ec43ca9337a5bdbfd0ee7ec: create single jar to make the package easier\n- 774b9f7ea56a74f4fcd927a15ebebe3ccf3e9980: Merge pull request #134 from brharrington/spark-sink\n- 1b46002f840d0e10c7d9f85845bc2a18e73e5940: stop using isFinite (added in java8)\n- b472911b1d124ed7620d0a2395adc6925d572d08: remove unused dependencies\n- 6366ef8e097aa11d4f57d1445e479524a6b78430: initial version of spark sink\n- 698e62edee293c2ea7301061684631972fa357a0: Merge pull request #133 from brharrington/impl-util\n- 5e311bf4d15f34a8d919eb32e4d0596ea2e59b57: run license formatter\n- 28680b678e132d530b9288c87b330756ccc987a0: add utility classes for working with doubles\n- 14fbcb822e1247697acb56da4a5f10907b060711: add StepLong utility to impl package\n- 5e978420af2b2f938de290b85db4f7c02574c506: Merge pull request #132 from brharrington/dep-updates\n- 5f422f06ad7e610bf7ff4c0c6374e6045b5bb648: update dependency versions\n- 43a0f8448bf8c28cf6eb45902aa0ee30d698d25e: Merge pull request #131 from brharrington/step-digest-test\n- 614865c6b226bc608c332e60b84d43736716fdbc: add test case for digest\n- 305a745f9d6d00d3a3c869c0442252ed5bbf8df0: Merge pull request #129 from brharrington/concurrent-update\n- 1ae4d7df771fa751e974f5dc395dcc586fbcf3df: prevent concurrent updates of the digest\n- 6ff11aaa45724692a2f3b0ba306bac4be0fee581: Merge pull request #128 from brharrington/issue-126\n- 94ab08891cc3b448a4f3b9f074b13db557ad6e0f: increase the allowed deviation amount\n- 668691ef10103a237b6e18b301e23bc0ecb28590: add test cases for writer\n- e909ac41a7e424e8fb650655cdb673f31fa36950: Merge pull request #127 from brharrington/skip-bad-records\n- 8e150a4ffbbac2b4b9bdabfeabb28a1b0382a85c: skip bad records\n- bbfa4e585436787f09e414e3c940a28417666fb7: Merge pull request #124 from brharrington/tdigest-experiment\n- 67f86e276692ce8ba13acc4580a69ca470859d66: registry for reporting t-digests\n- 20c38434ab63c2b139cba3415506cde1bd5ae0bd: Merge pull request #123 from brharrington/autobind\n- ea851d52c0cc32276410a612cae174710c90c29d: fix auto bind plugin\n- 62eafd9b939d82cb5eb3850c01b62ef398b61010: Merge pull request #122 from brharrington/rm-http\n- b75c6eae793fc541c96258bae504eaa9005e03cc: iep-rxhttp-0.1.10\n- c4f01d019d03550380feed95eb024f6b81cad5f3: use http helper from iep-rxhttp\n- b6e3e0d7d5b6ac65fb06071d64d41ef628faf5a3: Merge pull request #121 from brharrington/readme-version\n- 2eabfdf0e00eb0e4233c4a058a4e94566e25e9dd: update version recommended in readme\n- 126e026a0d6082e2b24f6512054e03017781c6f1: Merge pull request #120 from rspieldenner/disable_pull_request\n- f54967108f02f1d6298889cc79cb5a275edb2cd7: Disable cloudbees pullrequest job creation/existence\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

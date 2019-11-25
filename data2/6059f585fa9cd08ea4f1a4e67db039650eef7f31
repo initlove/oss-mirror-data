@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzA4NjA2NDU6NjA1OWY1ODVmYTljZDA4ZWE0ZjFhNGU2N2RiMDM5NjUwZWVmN2YzMQ==",
+  "sha": "6059f585fa9cd08ea4f1a4e67db039650eef7f31",
+  "url": "https://api.github.com/repos/openstack/os-brick/git/tags/6059f585fa9cd08ea4f1a4e67db039650eef7f31",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-02-06T22:06:14Z"
+  },
+  "object": {
+    "sha": "f821a87ef0fd59cb1b48a85eed16b1f3f16e7467",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/os-brick/git/commits/f821a87ef0fd59cb1b48a85eed16b1f3f16e7467"
+  },
+  "tag": "1.15.7",
+  "message": "os-brick 1.15.7 release\n\nmeta:version: 1.15.7\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Walter A. Boring IV <waboring@hemna.com>\nmeta:release:Commit: Walter A. Boring IV <waboring@hemna.com>\nmeta:release:Change-Id: I0dda714f5c7580b5617e12d838fe28f8343b4cd4\nmeta:release:Code-Review+1: Keith Berger <keith.berger@suse.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+1: Jay Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcW1pWAAoJEBpUEUgFTp44MJcL/RmNdbIg7ehT9JOpX6wEZO1i\nPBEBcBdxqhVAqPWmUAnhp8pi6xkrOIwC3ALcbfMNoDucK3f7cqfj5/nVCdB5dAso\nfapQC51nloh6mAW1lnmRCX+W/Z8SL7TczOlYpG0seWck/Gl7i5Q5m7q7B/enY7YP\nU1TmQ/1w/KkfOsTY60BgLPuM2/uUTmUacql+L3rsW2xdgzn4exMtco9jZXMXN/Or\nERD0kWv6ZaCnNKu/tLQ+Gee11qnL51apSIfLFSwngsBfTkbOoCxHp67/TIyKVU1i\nekk0Zn81Y2d4vgzuEDMUZA6gMHACsGaT9b4BIOJoBG90vnfl9CnmCVzZeJSScv2k\no6sJHb7KFvOlB/GAhFgTJcN9LvMgxx1VykBVijD0/HeZ7ssImOsNJW0XjAv6GGo9\nOq4NjecaM3m5O9BmXYFOnw/xG3j3ueQCOvFOkdFde0e3TpfslfA9MLsCMq0v0uEK\n1SkFwYd2sG9+pe5GxkIKUQiv9CVKZJCp2DQwRPD9bg==\n=pkAc\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcW1pWAAoJEBpUEUgFTp44MJcL/RmNdbIg7ehT9JOpX6wEZO1i\nPBEBcBdxqhVAqPWmUAnhp8pi6xkrOIwC3ALcbfMNoDucK3f7cqfj5/nVCdB5dAso\nfapQC51nloh6mAW1lnmRCX+W/Z8SL7TczOlYpG0seWck/Gl7i5Q5m7q7B/enY7YP\nU1TmQ/1w/KkfOsTY60BgLPuM2/uUTmUacql+L3rsW2xdgzn4exMtco9jZXMXN/Or\nERD0kWv6ZaCnNKu/tLQ+Gee11qnL51apSIfLFSwngsBfTkbOoCxHp67/TIyKVU1i\nekk0Zn81Y2d4vgzuEDMUZA6gMHACsGaT9b4BIOJoBG90vnfl9CnmCVzZeJSScv2k\no6sJHb7KFvOlB/GAhFgTJcN9LvMgxx1VykBVijD0/HeZ7ssImOsNJW0XjAv6GGo9\nOq4NjecaM3m5O9BmXYFOnw/xG3j3ueQCOvFOkdFde0e3TpfslfA9MLsCMq0v0uEK\n1SkFwYd2sG9+pe5GxkIKUQiv9CVKZJCp2DQwRPD9bg==\n=pkAc\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f821a87ef0fd59cb1b48a85eed16b1f3f16e7467\ntype commit\ntag 1.15.7\ntagger OpenStack Release Bot <infra-root@openstack.org> 1549490774 +0000\n\nos-brick 1.15.7 release\n\nmeta:version: 1.15.7\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Walter A. Boring IV <waboring@hemna.com>\nmeta:release:Commit: Walter A. Boring IV <waboring@hemna.com>\nmeta:release:Change-Id: I0dda714f5c7580b5617e12d838fe28f8343b4cd4\nmeta:release:Code-Review+1: Keith Berger <keith.berger@suse.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+1: Jay Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

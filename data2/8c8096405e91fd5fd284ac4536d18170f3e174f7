@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNDo4YzgwOTY0MDVlOTFmZDVmZDI4NGFjNDUzNmQxODE3MGYzZTE3NGY3",
+  "sha": "8c8096405e91fd5fd284ac4536d18170f3e174f7",
+  "url": "https://api.github.com/repos/openstack/heat/git/tags/8c8096405e91fd5fd284ac4536d18170f3e174f7",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-09T20:09:43Z"
+  },
+  "object": {
+    "sha": "36b72241226a86eb3f597c71bfb68bf0e8345daf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/heat/git/commits/36b72241226a86eb3f597c71bfb68bf0e8345daf"
+  },
+  "tag": "13.0.0.0rc2",
+  "message": "heat 13.0.0.0rc2 release candidate\n\nmeta:version: 13.0.0.0rc2\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: ricolin <rico.lin.guanyu@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I532ad8bf7d459cd3de36c617950caa0cb971df2a\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2ePocZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2PY+C/43St0/ftIXN/NLMICEvGRm\nXMpFXJOP+2PCKV0Y2ca92yYRlj6DSBmWTOmvE+jwkkG2U790+MC7tbwLxuCZP9eR\nnPKtLGs2vNSL1Ot49/tiI/Q3YwfDOmRII9Yd7Q4AdxREyLu6xHEJlhibNFliv06U\nv1YGSP2OHQ8h4jxzaVtQtrlN45cox1UkQi/891bvk6k6tUrH70XJlM3gVPo5OcxJ\nfdwW/DIlR5hl4dQXcl2XbsdAJUnwJ2LS3Si7QXV7/G9Li+JngiZjgtTEr6CiTLzc\njO1dEZXsL53QvVhkqRNQ9qyAyXEsK/YvamdddyTswcp4W9knvUQb+6uHA8ongZwi\njcAyROvNRwfU33vtiUy958AmLu78SqMMrUIJkwqMOiT5vHDT/oO57SR5v9kESxaL\nPT3c3kZAKh7a6w3ErXKCbTlLr4owXBUi3cg6RKNl1amUf8k3mdYolSthoGqfweSq\nJGBXJyiMly5tGQ0FIJ0McqZRaRQ81/OaEAjeARpL5OY=\n=SwQT\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2ePocZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2PY+C/43St0/ftIXN/NLMICEvGRm\nXMpFXJOP+2PCKV0Y2ca92yYRlj6DSBmWTOmvE+jwkkG2U790+MC7tbwLxuCZP9eR\nnPKtLGs2vNSL1Ot49/tiI/Q3YwfDOmRII9Yd7Q4AdxREyLu6xHEJlhibNFliv06U\nv1YGSP2OHQ8h4jxzaVtQtrlN45cox1UkQi/891bvk6k6tUrH70XJlM3gVPo5OcxJ\nfdwW/DIlR5hl4dQXcl2XbsdAJUnwJ2LS3Si7QXV7/G9Li+JngiZjgtTEr6CiTLzc\njO1dEZXsL53QvVhkqRNQ9qyAyXEsK/YvamdddyTswcp4W9knvUQb+6uHA8ongZwi\njcAyROvNRwfU33vtiUy958AmLu78SqMMrUIJkwqMOiT5vHDT/oO57SR5v9kESxaL\nPT3c3kZAKh7a6w3ErXKCbTlLr4owXBUi3cg6RKNl1amUf8k3mdYolSthoGqfweSq\nJGBXJyiMly5tGQ0FIJ0McqZRaRQ81/OaEAjeARpL5OY=\n=SwQT\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 36b72241226a86eb3f597c71bfb68bf0e8345daf\ntype commit\ntag 13.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1570651783 +0000\n\nheat 13.0.0.0rc2 release candidate\n\nmeta:version: 13.0.0.0rc2\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: ricolin <rico.lin.guanyu@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I532ad8bf7d459cd3de36c617950caa0cb971df2a\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo5NzYwZmI5MTcxNGY5OTFiODY0N2NiYjUwMWQ0NDY1MWNjNTQzNzc5",
+  "sha": "9760fb91714f991b8647cbb501d44651cc543779",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/9760fb91714f991b8647cbb501d44651cc543779",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-09-24T20:40:40Z"
+  },
+  "object": {
+    "sha": "9670e0a93540c2f0d86c84a375f2303383c11e7e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/9670e0a93540c2f0d86c84a375f2303383c11e7e"
+  },
+  "tag": "v0.10.17",
+  "message": "2013.09.25, Version 0.10.17 (Stable)\n\nChanges since version 0.10.16:\n\n* build: remove GCC_WARN_ABOUT_MISSING_NEWLINE (Ben Noordhuis)\n\n* darwin: fix 10.6 build error in fsevents.c (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlJB+MwACgkQfTP/nQJGQG0cqQCdFwYleusajju2yfBKZ/9CvJsJ\nL40AoONsq0QV7a1f8jOt2+IF1gKYJoRm\n=CKvU\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlJB+MwACgkQfTP/nQJGQG0cqQCdFwYleusajju2yfBKZ/9CvJsJ\nL40AoONsq0QV7a1f8jOt2+IF1gKYJoRm\n=CKvU\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9670e0a93540c2f0d86c84a375f2303383c11e7e\ntype commit\ntag v0.10.17\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1380055240 -0700\n\n2013.09.25, Version 0.10.17 (Stable)\n\nChanges since version 0.10.16:\n\n* build: remove GCC_WARN_ABOUT_MISSING_NEWLINE (Ben Noordhuis)\n\n* darwin: fix 10.6 build error in fsevents.c (Ben Noordhuis)\n"
+  }
+}

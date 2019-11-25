@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA2OTg1ODQ6NjA3NWM1MjZmOWRmODViMzIwZjdlMzMwMzNhNWU3YTk2OWY3ZjY3ZQ==",
+  "sha": "6075c526f9df85b320f7e33033a5e7a969f7f67e",
+  "url": "https://api.github.com/repos/openstack/python-troveclient/git/tags/6075c526f9df85b320f7e33033a5e7a969f7f67e",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-07-28T13:18:07Z"
+  },
+  "object": {
+    "sha": "97dd5908f80ab7bb4b2e36c8bbf0c37739938439",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-troveclient/git/commits/97dd5908f80ab7bb4b2e36c8bbf0c37739938439"
+  },
+  "tag": "2.12.0",
+  "message": "python-troveclient 2.12.0 release\n\nmeta:version: 2.12.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Amrith Kumar <amrith@amrith.org>\nmeta:release:Commit: Amrith Kumar <amrith@amrith.org>\nmeta:release:Change-Id: I160193a3fead151c51b974c7cb71bcc8e9a756e8\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZezmPAAoJEOtsyhSD+nTstYoH/2VxlaECTNtH2b6vIJIO/qUu\ngoKYXrtt1pnkfRocipZZu2TFR8AJROVvpH7xGkcZLRvRyGoe5au2SEQFva9wxAS4\nL/F4qsSCzXFBI75JzLRQKyS9/VMvkEB8hgDsVlhrl5E2W0xQDMtWLrTwZiYu1LsA\nNTLophlT+CcUm8h/hMIKgkX57uwjNUvhRD41wfdWAd7tm0+jOlRSiyGNkIIej1G/\nj5N9LHbNH17fyR6GOag3s77x6qLlv8PyROge5hNg7ivtZBcdl2z3y0jDJgW3kLxM\n5wcYy65ixJkV5qTK81nMz+D8jTtzg5y4rMOPejplzVcyo5WSEx6JIz/ssTw5JSI=\n=DRbn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZezmPAAoJEOtsyhSD+nTstYoH/2VxlaECTNtH2b6vIJIO/qUu\ngoKYXrtt1pnkfRocipZZu2TFR8AJROVvpH7xGkcZLRvRyGoe5au2SEQFva9wxAS4\nL/F4qsSCzXFBI75JzLRQKyS9/VMvkEB8hgDsVlhrl5E2W0xQDMtWLrTwZiYu1LsA\nNTLophlT+CcUm8h/hMIKgkX57uwjNUvhRD41wfdWAd7tm0+jOlRSiyGNkIIej1G/\nj5N9LHbNH17fyR6GOag3s77x6qLlv8PyROge5hNg7ivtZBcdl2z3y0jDJgW3kLxM\n5wcYy65ixJkV5qTK81nMz+D8jTtzg5y4rMOPejplzVcyo5WSEx6JIz/ssTw5JSI=\n=DRbn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 97dd5908f80ab7bb4b2e36c8bbf0c37739938439\ntype commit\ntag 2.12.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1501247887 +0000\n\npython-troveclient 2.12.0 release\n\nmeta:version: 2.12.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Amrith Kumar <amrith@amrith.org>\nmeta:release:Commit: Amrith Kumar <amrith@amrith.org>\nmeta:release:Change-Id: I160193a3fead151c51b974c7cb71bcc8e9a756e8\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

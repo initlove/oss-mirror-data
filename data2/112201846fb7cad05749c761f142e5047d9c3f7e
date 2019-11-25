@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTA4ODkzOjExMjIwMTg0NmZiN2NhZDA1NzQ5Yzc2MWYxNDJlNTA0N2Q5YzNmN2U=",
+  "sha": "112201846fb7cad05749c761f142e5047d9c3f7e",
+  "url": "https://api.github.com/repos/NodeRedis/node_redis/git/tags/112201846fb7cad05749c761f142e5047d9c3f7e",
+  "tagger": {
+    "name": "Matt Ranney",
+    "email": "mjr@ranney.com",
+    "date": "2011-06-30T20:30:20Z"
+  },
+  "object": {
+    "sha": "886b3355e1ff278d5c070ea01d72fb03c2035fcb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/NodeRedis/node_redis/git/commits/886b3355e1ff278d5c070ea01d72fb03c2035fcb"
+  },
+  "tag": "v0.6.2",
+  "message": "Bugs fixed:\n\n*  authentication retry while server is loading db (danmaz74) [GH-101]\n*  command arguments processing issue with arrays\n\nNew features:\n\n*  Auto update of new commands from redis.io (Dave Hoover)\n*  Performance improvements and backpressure controls.\n*  Commands now return the true/false value from the underlying socket write(s).\n*  Implement command_queue high water and low water for more better control of queueing.\n\nSee `examples/backpressure_drain.js` for more information.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

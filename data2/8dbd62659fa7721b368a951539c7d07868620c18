@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjI5OTE0NzQ6OGRiZDYyNjU5ZmE3NzIxYjM2OGE5NTE1MzljN2QwNzg2ODYyMGMxOA==",
+  "sha": "8dbd62659fa7721b368a951539c7d07868620c18",
+  "url": "https://api.github.com/repos/rails/globalid/git/tags/8dbd62659fa7721b368a951539c7d07868620c18",
+  "tagger": {
+    "name": "Jeremy Kemper",
+    "email": "jeremykemper@gmail.com",
+    "date": "2014-09-12T16:28:15Z"
+  },
+  "object": {
+    "sha": "e4cc3643b3dd1e46d8f8525140a81fc1edfb4595",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rails/globalid/git/commits/e4cc3643b3dd1e46d8f8525140a81fc1edfb4595"
+  },
+  "tag": "v0.3.0",
+  "message": "Release 0.3.0\n\n* Rename model.gid -> model.to_gid so we don't collide with existing methods\n  https://github.com/rails/globalid/pull/36\n* Customize gid locator per gid://appname\n  https://github.com/rails/globalid/pull/15\n* Signed Global IDs now have expiry timestamps and a specific purpose\n  https://github.com/rails/globalid/pull/20\n  https://github.com/rails/globalid/pull/29\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

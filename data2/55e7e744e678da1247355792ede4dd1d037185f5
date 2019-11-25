@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE1NTE1Nzo1NWU3ZTc0NGU2NzhkYTEyNDczNTU3OTJlZGU0ZGQxZDAzNzE4NWY1",
+  "sha": "55e7e744e678da1247355792ede4dd1d037185f5",
+  "url": "https://api.github.com/repos/openstack/glance/git/tags/55e7e744e678da1247355792ede4dd1d037185f5",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-04-07T07:34:17Z"
+  },
+  "object": {
+    "sha": "02ef2ab8e833df6f46b0a47b19c98b397687f73b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/glance/git/commits/02ef2ab8e833df6f46b0a47b19c98b397687f73b"
+  },
+  "tag": "12.0.0",
+  "message": "glance 12.0.0 release\n\nmeta:version: 12.0.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: yes\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXBg15AAoJEDttBqDEKEN6kycIAIvzngVh2btQASFB/1IiEDB/\nVLXsRGM+QNQUbe7z2xHiGmQyWY4yuzE9Th4JYp5gx8QeVzCgkZvgBCOo8LoD8ib/\nD+00weZ812OfbTpFLSq3St/rkcgGjOgqxgUeGqZKFA04FkPFIRov4RJflv7+DzEd\nliwzLUf/dsKa1s5NRXYV4tAkOxMXuyXpzzoTP188i1OkND5sFFVs9OZD8GpspSJu\nnRxLOD9RXlLAOmIl1cTFhf5Sq7MqGvUgiuiZ5joNe8ntmG0lCRWTlNfLXTIR6oQe\n8pRMv3TWvGmtXEsCmlznd0J66nAe9BKBLaeNpBgVxtFyG6VCNd85GzMHJNkhA84=\n=IHjQ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXBg15AAoJEDttBqDEKEN6kycIAIvzngVh2btQASFB/1IiEDB/\nVLXsRGM+QNQUbe7z2xHiGmQyWY4yuzE9Th4JYp5gx8QeVzCgkZvgBCOo8LoD8ib/\nD+00weZ812OfbTpFLSq3St/rkcgGjOgqxgUeGqZKFA04FkPFIRov4RJflv7+DzEd\nliwzLUf/dsKa1s5NRXYV4tAkOxMXuyXpzzoTP188i1OkND5sFFVs9OZD8GpspSJu\nnRxLOD9RXlLAOmIl1cTFhf5Sq7MqGvUgiuiZ5joNe8ntmG0lCRWTlNfLXTIR6oQe\n8pRMv3TWvGmtXEsCmlznd0J66nAe9BKBLaeNpBgVxtFyG6VCNd85GzMHJNkhA84=\n=IHjQ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 02ef2ab8e833df6f46b0a47b19c98b397687f73b\ntype commit\ntag 12.0.0\ntagger Doug Hellmann <doug@doughellmann.com> 1460014457 -0400\n\nglance 12.0.0 release\n\nmeta:version: 12.0.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: yes\n"
+  }
+}

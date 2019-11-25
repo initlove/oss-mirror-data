@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNDoxNjJhYjc3YjQxZTIxMDRlMDU2MzAyYjE5YTI5ZTIwMzFlM2ZjNzg2",
+  "sha": "162ab77b41e2104e056302b19a29e2031e3fc786",
+  "url": "https://api.github.com/repos/openstack/heat/git/tags/162ab77b41e2104e056302b19a29e2031e3fc786",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-20T13:47:52Z"
+  },
+  "object": {
+    "sha": "acce80a2579f8757a5f853a956a2bbcffbff03fb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/heat/git/commits/acce80a2579f8757a5f853a956a2bbcffbff03fb"
+  },
+  "tag": "12.0.0.0rc1",
+  "message": "heat 12.0.0.0rc1 release candidate\n\nmeta:version: 12.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: ricolin <rico.lin.guanyu@gmail.com>\nmeta:release:Change-Id: Id2203a7cbe9eef0569ded4a3286746ef2c98e77e\nmeta:release:Code-Review+1: Rico Lin <rico.lin.guanyu@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlySRIgZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOOPEC/4h12uLjuL09NhI8Agxo+x9\nRT6WlvD63UHbu3Z1auX4EjeFPbrRamMOEw5SivFfe3gV0zqcNHnYLQqwt4t8k/Zz\nBIE1vVML3dt4UJ8lSFhe7dqEgqVffaz4FsZGbMsjOSjBrr89ErWvLZA8op8KW2WV\nqgSXwKnFwPhuT4ZriF/MRln0bAL6Nl9rJFWPs2JPoKCH6lbzanM8gF5FUd8ImQGL\nRMVjX3IXRGWwLDtVk0T+re70vJyy9ce0Tpg10kcsbEuO9xIIeAP9Ysn3aZdsqsIa\nSS9jGURMWHEn6lYxBkGOuzbZP71ZrSpWPRE/1ylRIzWNSeBNOnfxQEKc3vSLSW2B\nmtfFLr5iA7KfVeUqxaMwuF0xtzh8G0dHFTgr3VLKZCHkeynZ4VjMfRbK73gN+jQs\nMFLoAOYdIpS2yiOIQgqB4gUCg9JDUCCa5Hd8logJY1Pp54eX2WAtafyKJXssLZYq\nwhqkW9UjBonGLMOTSdidxAWtwhy1q0PWDxtmax264EI=\n=tlkM\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlySRIgZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOOPEC/4h12uLjuL09NhI8Agxo+x9\nRT6WlvD63UHbu3Z1auX4EjeFPbrRamMOEw5SivFfe3gV0zqcNHnYLQqwt4t8k/Zz\nBIE1vVML3dt4UJ8lSFhe7dqEgqVffaz4FsZGbMsjOSjBrr89ErWvLZA8op8KW2WV\nqgSXwKnFwPhuT4ZriF/MRln0bAL6Nl9rJFWPs2JPoKCH6lbzanM8gF5FUd8ImQGL\nRMVjX3IXRGWwLDtVk0T+re70vJyy9ce0Tpg10kcsbEuO9xIIeAP9Ysn3aZdsqsIa\nSS9jGURMWHEn6lYxBkGOuzbZP71ZrSpWPRE/1ylRIzWNSeBNOnfxQEKc3vSLSW2B\nmtfFLr5iA7KfVeUqxaMwuF0xtzh8G0dHFTgr3VLKZCHkeynZ4VjMfRbK73gN+jQs\nMFLoAOYdIpS2yiOIQgqB4gUCg9JDUCCa5Hd8logJY1Pp54eX2WAtafyKJXssLZYq\nwhqkW9UjBonGLMOTSdidxAWtwhy1q0PWDxtmax264EI=\n=tlkM\n-----END PGP SIGNATURE-----\n",
+    "payload": "object acce80a2579f8757a5f853a956a2bbcffbff03fb\ntype commit\ntag 12.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1553089672 +0000\n\nheat 12.0.0.0rc1 release candidate\n\nmeta:version: 12.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: ricolin <rico.lin.guanyu@gmail.com>\nmeta:release:Change-Id: Id2203a7cbe9eef0569ded4a3286746ef2c98e77e\nmeta:release:Code-Review+1: Rico Lin <rico.lin.guanyu@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNDo2OTUzODVjZWYyNGM0OTQ2MDU0ZGE2MjdjOTM1OWI2ZThiNGM5OWFm",
+  "sha": "695385cef24c4946054da627c9359b6e8b4c99af",
+  "url": "https://api.github.com/repos/openstack/heat/git/tags/695385cef24c4946054da627c9359b6e8b4c99af",
+  "tagger": {
+    "name": "Chris Alfonso",
+    "email": "calfonso@redhat.com",
+    "date": "2012-05-14T18:51:14Z"
+  },
+  "object": {
+    "sha": "0cd65f8cac2cb79ea469cd3473d56ecc3df33dd7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/heat/git/commits/0cd65f8cac2cb79ea469cd3473d56ecc3df33dd7"
+  },
+  "tag": "v3.release",
+  "message": "Added unit tests, and test framework.  Made db setup work for deb and rpm. DB session bug fixes. Created cfn-hup tool. Added file and sources support for cfn-init. Added Wordpress HA template support. Implemented runas for cfn-hup. Refactoring of classes to make them suitable for unit testing. Removed all pep8 violations. Added heat metadata server. Support for WaitConditions. Added rails template support. Many bug f\nixes and usability improvements. Getting started guide is now in the source repository.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

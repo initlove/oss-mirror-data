@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA5ODE5OTQ6MGM5YmVhZTAyY2RmNDkyOGQyMTA3YzI5NGVjN2RkNGQwMTAyYThlOQ==",
+  "sha": "0c9beae02cdf4928d2107c294ec7dd4d0102a8e9",
+  "url": "https://api.github.com/repos/OpenFeign/feign/git/tags/0c9beae02cdf4928d2107c294ec7dd4d0102a8e9",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-01-26T18:33:53Z"
+  },
+  "object": {
+    "sha": "a638a4d802310c2e66abc260ae0a521ba5743cf7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/OpenFeign/feign/git/commits/a638a4d802310c2e66abc260ae0a521ba5743cf7"
+  },
+  "tag": "v7.1.0",
+  "message": "Release of 7.1.0\n\n- a638a4d802310c2e66abc260ae0a521ba5743cf7: Removes unused imports in OkHttpClientTest\n- c5eb7d8a9fee6d35c23556e0fba1631e4c5e0db5: Supports custom expansion of template parameters via Param.Expander\n- e4ff819f6e66b50bcca9a34519b8de780eadf0ab: Merge pull request #151 from rspieldenner/7x_upgrade_netflixoss\n- 3051b2d4ba80db1e652f2971ad209fd19ed35f88: Move netflixoss to 2.2.5\n- f253448222465d52c5ab75222c8b2a89dd13439e: Ensures Accept headers default to */*\n- 310904fb4447914322706a0ca0c94f100d1e6051: Adds OkHttp integration\n- 03bf40a50f7b1c89199ef8f3001e217914d17f81: Allows multiple headers with the same name; Backfills default client tests.\n- a4e7289d727bd9b475f729059297f5e3bf57e7d7: Introduces feign.@Param to annotate template parameters\n- c4ad90b08bfda769b02942d03f23c9125f573494: Removes guava test dependency in favor of AssertJ\n- e66b60e565aba8b4618f22ed1e88f5fadd58adbf: Replace TestNG with JUnit + Rules\n- 81781694a91c6a763e542228b13af83eabb96f1c: Adds toString to Targets. Normalizes equals/hashCode.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

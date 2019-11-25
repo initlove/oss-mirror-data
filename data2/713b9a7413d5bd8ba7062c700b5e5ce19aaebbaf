@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTYyMjMzNzg6NzEzYjlhNzQxM2Q1YmQ4YmE3MDYyYzcwMGI1ZTVjZTE5YWFlYmJhZg==",
+  "sha": "713b9a7413d5bd8ba7062c700b5e5ce19aaebbaf",
+  "url": "https://api.github.com/repos/openstack/openstacksdk/git/tags/713b9a7413d5bd8ba7062c700b5e5ce19aaebbaf",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-14T16:17:50Z"
+  },
+  "object": {
+    "sha": "fc8efc7664b60f3d816c636ccf5196cdf012b04c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/openstacksdk/git/commits/fc8efc7664b60f3d816c636ccf5196cdf012b04c"
+  },
+  "tag": "0.34.0",
+  "message": "openstacksdk 0.34.0 release\n\nmeta:version: 0.34.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Eric Fried <openstack@fried.cc>\nmeta:release:Commit: Eric Fried <openstack@fried.cc>\nmeta:release:Change-Id: Ida9b63cdcd3f88fd3ed0a27cb0335e73058ba795\nmeta:release:Code-Review+1: Monty Taylor <mordred@inaugust.com>\nmeta:release:Code-Review+1: Dustin Cowles <dustin.cowles@intel.com>\nmeta:release:Code-Review+1: Artem Goncharov <artem.goncharov@gmail.com>\nmeta:release:Code-Review+1: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Code-Review+1: Vieri <15050873171@163.com>\nmeta:release:Code-Review+1: Filippo Inzaghi <zhao.daqing@99cloud.net>\nmeta:release:Code-Review+1: David Shrewsbury <dshrewsb@redhat.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1UNC4ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2EnSC/4uAXMsDAKcjZhWkW4FLS+v\n9+Fgjl53t0jdt/OvU0OMCDUUw6YuyidyaD8/ou3dGF3il7mu7uaW6mKw0EOcVAYQ\nlEYZsxUkAnaBK6VQFhyyCe/1JbLWo2QB7k5gApmLURFpkGPvfNNNZx/tiiGEehlH\nuPjdNRF/DOTuIheeO02FWT+b9ZsNL4OijcPY1pB7ov+u5HXS/84JFOEckne1km1h\nTp+GLOn9HyEw8p03hTQwVRfxq0SvFxaN1xOpgrKT/NIgZimoLD8XYOCbeQWiCKa1\nqOCwLjdJeja1sWIWkk8ONjkMOtuWXHz8/EAh9rygZvfwYoCXcnQHnW38ds9cA9au\nqc5dBuP/Li6RH3qWvT3EFj8N4FDF24BZ9DZ3ZQalPHGnpOpDevZ1yhZdS2aJ1aIr\n4fvu9DyF+gEKOsrzft68FoiRyu4hZ1HxXuP6kO4Jhl6bJ6rvGlF5sSAiMJtC/SO2\nRWV4ng1jK9+FtFJxps8h3+gTna9+kEc/DCZ+vHBJmFo=\n=f3xW\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1UNC4ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2EnSC/4uAXMsDAKcjZhWkW4FLS+v\n9+Fgjl53t0jdt/OvU0OMCDUUw6YuyidyaD8/ou3dGF3il7mu7uaW6mKw0EOcVAYQ\nlEYZsxUkAnaBK6VQFhyyCe/1JbLWo2QB7k5gApmLURFpkGPvfNNNZx/tiiGEehlH\nuPjdNRF/DOTuIheeO02FWT+b9ZsNL4OijcPY1pB7ov+u5HXS/84JFOEckne1km1h\nTp+GLOn9HyEw8p03hTQwVRfxq0SvFxaN1xOpgrKT/NIgZimoLD8XYOCbeQWiCKa1\nqOCwLjdJeja1sWIWkk8ONjkMOtuWXHz8/EAh9rygZvfwYoCXcnQHnW38ds9cA9au\nqc5dBuP/Li6RH3qWvT3EFj8N4FDF24BZ9DZ3ZQalPHGnpOpDevZ1yhZdS2aJ1aIr\n4fvu9DyF+gEKOsrzft68FoiRyu4hZ1HxXuP6kO4Jhl6bJ6rvGlF5sSAiMJtC/SO2\nRWV4ng1jK9+FtFJxps8h3+gTna9+kEc/DCZ+vHBJmFo=\n=f3xW\n-----END PGP SIGNATURE-----\n",
+    "payload": "object fc8efc7664b60f3d816c636ccf5196cdf012b04c\ntype commit\ntag 0.34.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1565799470 +0000\n\nopenstacksdk 0.34.0 release\n\nmeta:version: 0.34.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Eric Fried <openstack@fried.cc>\nmeta:release:Commit: Eric Fried <openstack@fried.cc>\nmeta:release:Change-Id: Ida9b63cdcd3f88fd3ed0a27cb0335e73058ba795\nmeta:release:Code-Review+1: Monty Taylor <mordred@inaugust.com>\nmeta:release:Code-Review+1: Dustin Cowles <dustin.cowles@intel.com>\nmeta:release:Code-Review+1: Artem Goncharov <artem.goncharov@gmail.com>\nmeta:release:Code-Review+1: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Code-Review+1: Vieri <15050873171@163.com>\nmeta:release:Code-Review+1: Filippo Inzaghi <zhao.daqing@99cloud.net>\nmeta:release:Code-Review+1: David Shrewsbury <dshrewsb@redhat.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

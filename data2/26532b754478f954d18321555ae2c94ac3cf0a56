@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjAxMTU3MzA6MjY1MzJiNzU0NDc4Zjk1NGQxODMyMTU1NWFlMmM5NGFjM2NmMGE1Ng==",
+  "sha": "26532b754478f954d18321555ae2c94ac3cf0a56",
+  "url": "https://api.github.com/repos/openstack/python-barbicanclient/git/tags/26532b754478f954d18321555ae2c94ac3cf0a56",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-13T14:58:07Z"
+  },
+  "object": {
+    "sha": "9c0e02d367b86eb5bdebda4e0ff1434d70db5f61",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-barbicanclient/git/commits/9c0e02d367b86eb5bdebda4e0ff1434d70db5f61"
+  },
+  "tag": "4.9.0",
+  "message": "python-barbicanclient 4.9.0 release\n\nmeta:version: 4.9.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Change-Id: Ia5f913ee0cee4415c4a7fe24d2c60ae146373264\nmeta:release:Code-Review+1: Douglas Mendizábal <dmendiza@redhat.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl17rn8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2AVcDACT80xPqGJvUFZiA4X+vIik\nAqucqD+S9lNlWXVAIoGrJigJQa+YVppCmUYsZeh3i+7pXnvMz7jhWrh44tqF9iaw\n8L6D+Se28T/C3dkhz4OtUAQvTX9ZN2XN1Al/ZCAS0oswFQO7hiVyaj/KUF0nTt7R\nL/QksRf5sosQrlBy4N5pKdPxD3+FoItlYtjZnhnh/HTOOdNbxlC1rbfb3TXhF7d5\nCn3xvb6ELrWyTkgmgejj81m0meyCR2Xbm+xqA1L3vKnMB3cQVPseryyC/Vpsd5ir\nQy7qo5OhbboV5iydi53VOoVI/nrbeEkisYt/R8+DSmthn5CZ/+Dh8TqgOSg/6urf\n38szTJgJgdn1HXLMQevWGZgpH2Q5QQxgUyJSDvOGcAkX5niVZRzPb27U6MNIwvTI\nY87WBnn8dBiL7xWmdPuqYKTY58l8xTzNdfLvTZdGzYY9ehrXD7FNL4N4jcAibcTC\nVxAZLQDe8yHjMwsYyOQyeNh5hG1eU4Ad1OwI8nAjWak=\n=QQOE\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl17rn8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2AVcDACT80xPqGJvUFZiA4X+vIik\nAqucqD+S9lNlWXVAIoGrJigJQa+YVppCmUYsZeh3i+7pXnvMz7jhWrh44tqF9iaw\n8L6D+Se28T/C3dkhz4OtUAQvTX9ZN2XN1Al/ZCAS0oswFQO7hiVyaj/KUF0nTt7R\nL/QksRf5sosQrlBy4N5pKdPxD3+FoItlYtjZnhnh/HTOOdNbxlC1rbfb3TXhF7d5\nCn3xvb6ELrWyTkgmgejj81m0meyCR2Xbm+xqA1L3vKnMB3cQVPseryyC/Vpsd5ir\nQy7qo5OhbboV5iydi53VOoVI/nrbeEkisYt/R8+DSmthn5CZ/+Dh8TqgOSg/6urf\n38szTJgJgdn1HXLMQevWGZgpH2Q5QQxgUyJSDvOGcAkX5niVZRzPb27U6MNIwvTI\nY87WBnn8dBiL7xWmdPuqYKTY58l8xTzNdfLvTZdGzYY9ehrXD7FNL4N4jcAibcTC\nVxAZLQDe8yHjMwsYyOQyeNh5hG1eU4Ad1OwI8nAjWak=\n=QQOE\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9c0e02d367b86eb5bdebda4e0ff1434d70db5f61\ntype commit\ntag 4.9.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1568386687 +0000\n\npython-barbicanclient 4.9.0 release\n\nmeta:version: 4.9.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Commit: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Change-Id: Ia5f913ee0cee4415c4a7fe24d2c60ae146373264\nmeta:release:Code-Review+1: Douglas Mendizábal <dmendiza@redhat.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTIwOTU1NjQ6MjBlYmYzNjhmMTA5ZDdkYjE5MDUzNjBjN2E3NTVjOTAxYTNkMDM1Mw==",
+  "sha": "20ebf368f109d7db1905360c7a755c901a3d0353",
+  "url": "https://api.github.com/repos/openid/AppAuth-Android/git/tags/20ebf368f109d7db1905360c7a755c901a3d0353",
+  "tagger": {
+    "name": "Iain McGinniss",
+    "email": "iainmcgin@google.com",
+    "date": "2017-04-19T02:18:41Z"
+  },
+  "object": {
+    "sha": "8aafde94e7cade42a2285e28f252e45eb0ffab33",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openid/AppAuth-Android/git/commits/8aafde94e7cade42a2285e28f252e45eb0ffab33"
+  },
+  "tag": "0.6.0",
+  "message": "0.6.0 release\n\n- ClientAuthentication can be specified explicitly for performActionWithFreshTokens\n- client_id is only passed on a token request if no other client authentication\n  method is in use\n- CustomTabManager is now easier to use, enabling:\n  - Priming a custom tab session for multiple URLs\n  - Adding event listeners for the tab\n- Fixed leak of browser connection for custom tabs\n- Javadoc is now built and bundled with releases\n\nAdditionally, the demo app has been mostly rewritten to focus on the single IDP\nuse case, and should be much easier to read as a result. All Google specific\ncode has been removed.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

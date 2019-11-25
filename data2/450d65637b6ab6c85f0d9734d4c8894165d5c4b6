@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc5MTM0ODo0NTBkNjU2MzdiNmFiNmM4NWYwZDk3MzRkNGM4ODk0MTY1ZDVjNGI2",
+  "sha": "450d65637b6ab6c85f0d9734d4c8894165d5c4b6",
+  "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/tags/450d65637b6ab6c85f0d9734d4c8894165d5c4b6",
+  "tagger": {
+    "name": "JP Richardson",
+    "email": "jprichardson@gmail.com",
+    "date": "2015-06-19T14:57:42Z"
+  },
+  "object": {
+    "sha": "de1fc65a4b581fa4eecf256863f7277cf7072625",
+    "type": "commit",
+    "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/commits/de1fc65a4b581fa4eecf256863f7277cf7072625"
+  },
+  "tag": "0.20.0",
+  "message": "0.20.0 / 2015-06-19\n-------------------\n- removed `jsonfile` aliases with `File` in the name, they weren't documented and probably weren't in use e.g.\nthis package had both `fs.readJsonFile` and `fs.readJson` that were aliases to each other, now use `fs.readJson`.\n- preliminary walker created. Intentionally not documented. If you use it, it will almost certainly change and break your code.\n- started moving tests inline\n- upgraded to `jsonfile@2.1.0`, can now pass JSON revivers/replacers to `readJson()`, `writeJson()`, `outputJson()`\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

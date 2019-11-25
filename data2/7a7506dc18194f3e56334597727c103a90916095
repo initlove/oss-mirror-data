@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNTo3YTc1MDZkYzE4MTk0ZjNlNTYzMzQ1OTc3MjdjMTAzYTkwOTE2MDk1",
+  "sha": "7a7506dc18194f3e56334597727c103a90916095",
+  "url": "https://api.github.com/repos/openstack/python-heatclient/git/tags/7a7506dc18194f3e56334597727c103a90916095",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-01-15T01:33:45Z"
+  },
+  "object": {
+    "sha": "8af5deb458d51f4ec16e769d7fd6c94655f82f5f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-heatclient/git/commits/8af5deb458d51f4ec16e769d7fd6c94655f82f5f"
+  },
+  "tag": "1.17.0",
+  "message": "python-heatclient 1.17.0 release\n\nmeta:version: 1.17.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I50be2fe1b195bd4ca7c602952c906e26d4ed536f\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Rico Lin <rico.lin.guanyu@gmail.com>\nmeta:release:Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+1: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcPTh5AAoJEBpUEUgFTp44Hi4L/0D5PSPAS6BuRbdlXi7pimOP\nLPkXjg4RkWgcAaLO6xS1/759SAKNNcFGoNeEYHV9hjO7HzXAw81byg4lnx+Zv7Nv\n3pShVlGPDT9Swv/1aRt50iqFoLF+9gpBw6BpC5IdsS/WVYwoNZmN8nJU5ptWHGMa\ngzTkPM5ok2rSD5gVUgxJ1gS2I3D+xPQ1IgGA4HeIg/57ZMl7gFVQNiDhhxzCh+Id\nzPSbyn9CNMoBldeZCDEsGuuJ+MauvBLoX+uzxNAcT6u8mMxM+UnrxcKf1P+i2kU0\ngLr09z3O4MlfLqU7Q1qZx/0Lbh3xF8oaOJQfceVGPtyoaR2vxIe5lABi/CWw1LTb\nCQstR1C3yp7+AGCJjhNikgJjsIH5t15zTTFGrNzL+XZLRCeiz7OR1ghMcX9CeZXp\nSajYxdurj4BMjPfvjb6D4jxnGLB9BC3rxYLvz2WIWfaR3P5LTMWZHQTwhQdrSnfw\nhgeTBmNaifB+L8WSRLjjq3YlE7Xmb80/Luv75hMH0Q==\n=tFgu\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcPTh5AAoJEBpUEUgFTp44Hi4L/0D5PSPAS6BuRbdlXi7pimOP\nLPkXjg4RkWgcAaLO6xS1/759SAKNNcFGoNeEYHV9hjO7HzXAw81byg4lnx+Zv7Nv\n3pShVlGPDT9Swv/1aRt50iqFoLF+9gpBw6BpC5IdsS/WVYwoNZmN8nJU5ptWHGMa\ngzTkPM5ok2rSD5gVUgxJ1gS2I3D+xPQ1IgGA4HeIg/57ZMl7gFVQNiDhhxzCh+Id\nzPSbyn9CNMoBldeZCDEsGuuJ+MauvBLoX+uzxNAcT6u8mMxM+UnrxcKf1P+i2kU0\ngLr09z3O4MlfLqU7Q1qZx/0Lbh3xF8oaOJQfceVGPtyoaR2vxIe5lABi/CWw1LTb\nCQstR1C3yp7+AGCJjhNikgJjsIH5t15zTTFGrNzL+XZLRCeiz7OR1ghMcX9CeZXp\nSajYxdurj4BMjPfvjb6D4jxnGLB9BC3rxYLvz2WIWfaR3P5LTMWZHQTwhQdrSnfw\nhgeTBmNaifB+L8WSRLjjq3YlE7Xmb80/Luv75hMH0Q==\n=tFgu\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8af5deb458d51f4ec16e769d7fd6c94655f82f5f\ntype commit\ntag 1.17.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1547516025 +0000\n\npython-heatclient 1.17.0 release\n\nmeta:version: 1.17.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I50be2fe1b195bd4ca7c602952c906e26d4ed536f\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Rico Lin <rico.lin.guanyu@gmail.com>\nmeta:release:Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+1: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

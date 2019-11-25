@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc0ODk5NjY6OGI0NDc0NDIyYTYwZTk3NjVjZDRlNmJlN2QxNjVmNmMzZWVkOTFkMg==",
+  "sha": "8b4474422a60e9765cd4e6be7d165f6c3eed91d2",
+  "url": "https://api.github.com/repos/openstack/neutron-lbaas/git/tags/8b4474422a60e9765cd4e6be7d165f6c3eed91d2",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-22T01:24:11Z"
+  },
+  "object": {
+    "sha": "a4c4944d568e4c01da0f7d1a7afdaf1b8ebbe45c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-lbaas/git/commits/a4c4944d568e4c01da0f7d1a7afdaf1b8ebbe45c"
+  },
+  "tag": "14.0.0.0rc1",
+  "message": "neutron-lbaas 14.0.0.0rc1 release candidate\n\nmeta:version: 14.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: Michael Johnson <johnsomor@gmail.com>\nmeta:release:Change-Id: I3a6c6f8017379b80dcec490a86fbfe1e2e702a87\nmeta:release:Code-Review+1: Michael Johnson <johnsomor@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyUOTsZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOBLCC/97zQ4KWcUtIGHQTZI3aBOu\n3UJ1HVqkzw12Ck2r1UJ9go3IqmVSx/ApJ9oJ32fIgfF0ibBaHDUgBZpoABtGhRoI\nOr4eAdFpJw+E3kkV5Kjhrw7o9Zxc7nDjOjj1WQA3Xb6j02G8hDmVKnrY+udtMe5W\n4IyHk0wksuwSfIYalJqMUSmuHazbkjFpPzTU7505u/wX54qVETBDEOSXEiEvZkO4\nAlhG8zacWt70m6B801KrtdSmfsg/9bGOylFzkhyWbU4y+MV5kzcHiYlozihgh8QW\nwMnmI1pKWxVVFQ+MxDBSRK0HrNE6Pf2IAOaIWrnv++hwX9kI7I8IL+bqKRauisaX\nE492fKFeiiX0P0u3kGP6ffXzFmQGaI0UyZ3aAEKB2vixH6AqUMqr+pzV+u7hwS2R\nsBcj6OharbCqOv2VKVaB+JeN156ci+iT9eX0e2dXRHUli63/hXE5m6qimXvNIiw/\nFgIDw+DEGrjLOCAfFdkQi7ztC0Gs+quzSpD0a8JhPeo=\n=UrTz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyUOTsZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOBLCC/97zQ4KWcUtIGHQTZI3aBOu\n3UJ1HVqkzw12Ck2r1UJ9go3IqmVSx/ApJ9oJ32fIgfF0ibBaHDUgBZpoABtGhRoI\nOr4eAdFpJw+E3kkV5Kjhrw7o9Zxc7nDjOjj1WQA3Xb6j02G8hDmVKnrY+udtMe5W\n4IyHk0wksuwSfIYalJqMUSmuHazbkjFpPzTU7505u/wX54qVETBDEOSXEiEvZkO4\nAlhG8zacWt70m6B801KrtdSmfsg/9bGOylFzkhyWbU4y+MV5kzcHiYlozihgh8QW\nwMnmI1pKWxVVFQ+MxDBSRK0HrNE6Pf2IAOaIWrnv++hwX9kI7I8IL+bqKRauisaX\nE492fKFeiiX0P0u3kGP6ffXzFmQGaI0UyZ3aAEKB2vixH6AqUMqr+pzV+u7hwS2R\nsBcj6OharbCqOv2VKVaB+JeN156ci+iT9eX0e2dXRHUli63/hXE5m6qimXvNIiw/\nFgIDw+DEGrjLOCAfFdkQi7ztC0Gs+quzSpD0a8JhPeo=\n=UrTz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a4c4944d568e4c01da0f7d1a7afdaf1b8ebbe45c\ntype commit\ntag 14.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1553217851 +0000\n\nneutron-lbaas 14.0.0.0rc1 release candidate\n\nmeta:version: 14.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: Michael Johnson <johnsomor@gmail.com>\nmeta:release:Change-Id: I3a6c6f8017379b80dcec490a86fbfe1e2e702a87\nmeta:release:Code-Review+1: Michael Johnson <johnsomor@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

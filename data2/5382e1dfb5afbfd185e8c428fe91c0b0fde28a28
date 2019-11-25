@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc4OTM3MDo1MzgyZTFkZmI1YWZiZmQxODVlOGM0MjhmZTkxYzBiMGZkZTI4YTI4",
+  "sha": "5382e1dfb5afbfd185e8c428fe91c0b0fde28a28",
+  "url": "https://api.github.com/repos/openstack/python-novaclient/git/tags/5382e1dfb5afbfd185e8c428fe91c0b0fde28a28",
+  "tagger": {
+    "name": "Thierry Carrez",
+    "email": "thierry@openstack.org",
+    "date": "2016-08-31T09:20:12Z"
+  },
+  "object": {
+    "sha": "25117fa866b5b80f81fcb559b21525d2b107b2f7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-novaclient/git/commits/25117fa866b5b80f81fcb559b21525d2b107b2f7"
+  },
+  "tag": "6.0.0",
+  "message": "python-novaclient 6.0.0 release\n\nmeta:version: 6.0.0\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org,openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Commit: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Change-Id: I7e8800e07e98863978d25ebaf2fb1e336cff1649\nmeta:release:Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXxqFMAAoJEFB6+JAlsQQjapAP/RmctB1FOV6x82SpZPRgde5E\nuVXiJWAbh49Y2/SdBK1OIZVw2N59dgHsCfCNGLMMRVSmtESxawNb7ep1qkX/2nxY\nL6qS5m13IlLRV5kUjeFC7f7Ze/3OMI/cn3T+HlgcWoPFORamkgAUDhhuxahD411C\nluqCdC4dWOl0HP1bdc3/5p/C1Veyz7Pd6O60WBBETJxzI2jSGpdimGVTVvrr+pUM\nzngVtHbRJ1bysD+8pV2rsz1J7DxXGnlMlcaONg73AXdafeVtzYgHpx818U6OXCte\nxcNrUT/Kgs/rIJxgP1hV8hhGT+7maLjafTV21hPJhzHyHQW2JyHtR7z1IiWyQPPO\n4bhndCDqyZtfmAlh3D4R7cbc5yYFttOVpVGDpphgRrXflqqIpFzJbaffCAsQkoM2\nH7Dt02M5L2/HEBufa9E4GIarlPQFEkjdYEDIInkfU78TA1cnfYrHK0V3wR7gfhL+\nSPitdsSJ+MJHBBIPZO+nGGSmHsLWIqKogXADbJ7i4DLy45nsPUwjjpJWkTRcCOxN\nbsztUh81YCPSDReod7WJZdbdWdz0Krxq+rPIO0PCwZr1+edfGVgfCrVni3JKHtXT\nFGoxJma9cm1Y7YlLgRRoYyruyyGr/5/H2uD4BasGMAOWZH9X7f6lTxXpqvMKVhK5\nnZp5fVeJ6aZ5gg2nw7H3\n=y5nI\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXxqFMAAoJEFB6+JAlsQQjapAP/RmctB1FOV6x82SpZPRgde5E\nuVXiJWAbh49Y2/SdBK1OIZVw2N59dgHsCfCNGLMMRVSmtESxawNb7ep1qkX/2nxY\nL6qS5m13IlLRV5kUjeFC7f7Ze/3OMI/cn3T+HlgcWoPFORamkgAUDhhuxahD411C\nluqCdC4dWOl0HP1bdc3/5p/C1Veyz7Pd6O60WBBETJxzI2jSGpdimGVTVvrr+pUM\nzngVtHbRJ1bysD+8pV2rsz1J7DxXGnlMlcaONg73AXdafeVtzYgHpx818U6OXCte\nxcNrUT/Kgs/rIJxgP1hV8hhGT+7maLjafTV21hPJhzHyHQW2JyHtR7z1IiWyQPPO\n4bhndCDqyZtfmAlh3D4R7cbc5yYFttOVpVGDpphgRrXflqqIpFzJbaffCAsQkoM2\nH7Dt02M5L2/HEBufa9E4GIarlPQFEkjdYEDIInkfU78TA1cnfYrHK0V3wR7gfhL+\nSPitdsSJ+MJHBBIPZO+nGGSmHsLWIqKogXADbJ7i4DLy45nsPUwjjpJWkTRcCOxN\nbsztUh81YCPSDReod7WJZdbdWdz0Krxq+rPIO0PCwZr1+edfGVgfCrVni3JKHtXT\nFGoxJma9cm1Y7YlLgRRoYyruyyGr/5/H2uD4BasGMAOWZH9X7f6lTxXpqvMKVhK5\nnZp5fVeJ6aZ5gg2nw7H3\n=y5nI\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 25117fa866b5b80f81fcb559b21525d2b107b2f7\ntype commit\ntag 6.0.0\ntagger Thierry Carrez <thierry@openstack.org> 1472635212 +0200\n\npython-novaclient 6.0.0 release\n\nmeta:version: 6.0.0\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org,openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Commit: Matt Riedemann <mriedem@us.ibm.com>\nmeta:release:Change-Id: I7e8800e07e98863978d25ebaf2fb1e336cff1649\nmeta:release:Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

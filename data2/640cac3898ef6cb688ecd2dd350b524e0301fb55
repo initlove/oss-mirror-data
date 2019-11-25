@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOjY0MGNhYzM4OThlZjZjYjY4OGVjZDJkZDM1MGI1MjRlMDMwMWZiNTU=",
+  "sha": "640cac3898ef6cb688ecd2dd350b524e0301fb55",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/640cac3898ef6cb688ecd2dd350b524e0301fb55",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2016-04-25T15:48:24Z"
+  },
+  "object": {
+    "sha": "cab3589e53a20c004cb4528c712aa4e88cc28e09",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/cab3589e53a20c004cb4528c712aa4e88cc28e09"
+  },
+  "tag": "3.0.0",
+  "message": "Version 3.0.0\n\n- `close` and `disconnect` events no longer call `removeAllListeners` and removes your event listeners. This was particularly bad for the `error` event. This is the only change and if you didn't have a special code to deal with this behavior you should probably upgrade from v2.1.2\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc4OTM3MDo3YTJiN2Y0ZTYwMWM3Yjg4MWM1OTE0NGIxOTdjOTAzNGVkNDJiMTM0",
+  "sha": "7a2b7f4e601c7b881c59144b197c9034ed42b134",
+  "url": "https://api.github.com/repos/openstack/python-novaclient/git/tags/7a2b7f4e601c7b881c59144b197c9034ed42b134",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-11-12T11:35:12Z"
+  },
+  "object": {
+    "sha": "c7e793c22e72d4d426a6d10e9c2cfa426fedd365",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-novaclient/git/commits/c7e793c22e72d4d426a6d10e9c2cfa426fedd365"
+  },
+  "tag": "13.0.2",
+  "message": "python-novaclient 13.0.2 release\n\nmeta:version: 13.0.2\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: Ic6e481abd78a1d5633d1da611bac66b0f97ba1fd\nmeta:release:Code-Review+1: Eric Fried <openstack@fried.cc>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl3KmPAZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHGftDACTPOm3dAj4qa5oqTvpW9Pz\nlQkRpnxmTGRQJ0EROClisMd5HaBo3bSksz60fzAN3jQBidAB1j9QqcoWCRcoEBy2\nY/xhFutNZyClzl7qjFLjksgpmZY1NYvOXUQ0GCmfSN1g/fZ2AaGtLQULtbnfplrp\n2gXNf+arRgDnwDvIeipzAg5mOSM3II/qXHGA/O1xJM7+hKPHqcmvFsxNIySIY1s3\nXYG1R42Of4CHvzuZDtYNYXKGdP0KQKAMmbhNpSwAdmTZ6aNWctSk4Sux6loDXYDg\n0+3d6ccMMIvesZmBSu7sOjQdFlosvlIHuob9ZpErDy47odBjZTnzZT1xzB+5boe6\nMQUX4BGoJfSOpLKR/NCSCBf/7jAW3XNRgzqfq2FnSXycHA7M4EBPEhLwcRmFChLW\npNYDQA1QDmraSPNiQNCvgjuBPh5fJaa2su8ZIPDNqE8tdMp753beq1BbO2Y7saif\ngzWNrQxr+oNK7q16jLx3kh7hNOomrUS8Pjv8XhdtPxE=\n=DBaf\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl3KmPAZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHGftDACTPOm3dAj4qa5oqTvpW9Pz\nlQkRpnxmTGRQJ0EROClisMd5HaBo3bSksz60fzAN3jQBidAB1j9QqcoWCRcoEBy2\nY/xhFutNZyClzl7qjFLjksgpmZY1NYvOXUQ0GCmfSN1g/fZ2AaGtLQULtbnfplrp\n2gXNf+arRgDnwDvIeipzAg5mOSM3II/qXHGA/O1xJM7+hKPHqcmvFsxNIySIY1s3\nXYG1R42Of4CHvzuZDtYNYXKGdP0KQKAMmbhNpSwAdmTZ6aNWctSk4Sux6loDXYDg\n0+3d6ccMMIvesZmBSu7sOjQdFlosvlIHuob9ZpErDy47odBjZTnzZT1xzB+5boe6\nMQUX4BGoJfSOpLKR/NCSCBf/7jAW3XNRgzqfq2FnSXycHA7M4EBPEhLwcRmFChLW\npNYDQA1QDmraSPNiQNCvgjuBPh5fJaa2su8ZIPDNqE8tdMp753beq1BbO2Y7saif\ngzWNrQxr+oNK7q16jLx3kh7hNOomrUS8Pjv8XhdtPxE=\n=DBaf\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c7e793c22e72d4d426a6d10e9c2cfa426fedd365\ntype commit\ntag 13.0.2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1573558512 +0000\n\npython-novaclient 13.0.2 release\n\nmeta:version: 13.0.2\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: Ic6e481abd78a1d5633d1da611bac66b0f97ba1fd\nmeta:release:Code-Review+1: Eric Fried <openstack@fried.cc>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

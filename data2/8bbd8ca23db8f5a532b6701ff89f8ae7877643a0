@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY5NTg4OTE6OGJiZDhjYTIzZGI4ZjVhNTMyYjY3MDFmZjg5ZjhhZTc4Nzc2NDNhMA==",
+  "sha": "8bbd8ca23db8f5a532b6701ff89f8ae7877643a0",
+  "url": "https://api.github.com/repos/openstack/automaton/git/tags/8bbd8ca23db8f5a532b6701ff89f8ae7877643a0",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-04-16T19:03:07Z"
+  },
+  "object": {
+    "sha": "e6ef0fa15ac12e41a350bcfa1672ada4364798fd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/automaton/git/commits/e6ef0fa15ac12e41a350bcfa1672ada4364798fd"
+  },
+  "tag": "1.12.2",
+  "message": "automaton 1.12.2 release\n\nmeta:version: 1.12.2\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Ifcb051db33bffbfe7c183b726e7c54c310c488e1\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly2JusZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOCyDC/wPpYspjHyl8f8JWyI603U3\nQTMn9lZJNTDt0GVMHfRqaHKgOJjvAr/tfHBFkSqIL/jUHwyJF9cf9hiyWM3xT5Sf\nh1oN6zXt5VwSnhKOWQmOhtapT/MUI6CnZkatBLlrCuMdcSPUlels1yht5Nvay7L8\n7UMh+tsWMkMFMCl1xsKMNUNILhzKFQcnwl4QYNiwny8JEryLhxjVRFES5JTCpFKS\nckNU+t699cXtrQF3itOG0mTmjNV317KRyBDn6vH1Zk3hJqIh7DCb3bcpTkTBGNzc\nK52wM5qL2D5Y16ulYcCALlI7HwdlH4kEs+jBKrtO7SP6LRkmTvxuEM//ZxomX4PN\nM7GfhJ1gmSbAZp/Qn54kImpyhF3XgmPxN9mlepxbqrvvjA8uTCQfUsdQpDZl8DkL\nO9F6a762r8VvueoqxazQsuslBB6VuRA09sdmvuoii0vddu8N26lgm3DYwzlkYcKz\ndVG5agRp7sNFIP22MpQtWtnnJa1fnlyaeJFwl61Z15g=\n=tWvQ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly2JusZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOCyDC/wPpYspjHyl8f8JWyI603U3\nQTMn9lZJNTDt0GVMHfRqaHKgOJjvAr/tfHBFkSqIL/jUHwyJF9cf9hiyWM3xT5Sf\nh1oN6zXt5VwSnhKOWQmOhtapT/MUI6CnZkatBLlrCuMdcSPUlels1yht5Nvay7L8\n7UMh+tsWMkMFMCl1xsKMNUNILhzKFQcnwl4QYNiwny8JEryLhxjVRFES5JTCpFKS\nckNU+t699cXtrQF3itOG0mTmjNV317KRyBDn6vH1Zk3hJqIh7DCb3bcpTkTBGNzc\nK52wM5qL2D5Y16ulYcCALlI7HwdlH4kEs+jBKrtO7SP6LRkmTvxuEM//ZxomX4PN\nM7GfhJ1gmSbAZp/Qn54kImpyhF3XgmPxN9mlepxbqrvvjA8uTCQfUsdQpDZl8DkL\nO9F6a762r8VvueoqxazQsuslBB6VuRA09sdmvuoii0vddu8N26lgm3DYwzlkYcKz\ndVG5agRp7sNFIP22MpQtWtnnJa1fnlyaeJFwl61Z15g=\n=tWvQ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e6ef0fa15ac12e41a350bcfa1672ada4364798fd\ntype commit\ntag 1.12.2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1555441387 +0000\n\nautomaton 1.12.2 release\n\nmeta:version: 1.12.2\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Ifcb051db33bffbfe7c183b726e7c54c310c488e1\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

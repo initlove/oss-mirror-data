@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTc5OTM5NTM6NjhkM2FlY2VkZjJiMTJmMjdkMzcxNDFhMjhlNjU1OTRkNGIzNTg5OA==",
+  "sha": "68d3aecedf2b12f27d37141a28e65594d4b35898",
+  "url": "https://api.github.com/repos/openstack/ironic-python-agent/git/tags/68d3aecedf2b12f27d37141a28e65594d4b35898",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-25T09:01:51Z"
+  },
+  "object": {
+    "sha": "74c8cd581bee2da059845bb95de5160774b5f191",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic-python-agent/git/commits/74c8cd581bee2da059845bb95de5160774b5f191"
+  },
+  "tag": "5.0.0",
+  "message": "ironic-python-agent 5.0.0 release\n\nmeta:version: 5.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Mark Goddard <mark@stackhpc.com>\nmeta:release:Commit: Mark Goddard <mark@stackhpc.com>\nmeta:release:Change-Id: I64eb58d4a17d48a788a505271ac16ed88e4cecf3\nmeta:release:Code-Review+1: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2LLP8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2CtpC/49wVxadSazvwFKQZwGe7Bp\nwkA2jDaKlDbJEkP8vVIngjyd86jSyAd3WkYHdMpng24yMDBULZjquNa5Eh+HdM3t\n2I4/Val8hzN0QWx6Z/fkj4QjEGIOy3ZUMeTyYAUvQSfsX8plHLNCCfA9UuRdtKv7\n/9sDFO3n/12xDAS9GyBsm8DD6O5wmpqiyKDXqBxG8Si+sV1WvpHYR5adZEc+xFqA\nmTFnewIB0HYwpN2VPnLjAJARtt9t8BcPyJFIt5JBPsmA5cot3gsO2L+tPt3iD0eM\n/uzBF5thxyKKJCLYx5WovJXWPD1z9M4WbM9UODFrnxDALKMXASizuziTYJziu5RS\noSGz6BT4mAJqb8xAkCEljoeSeBlTgPLtRigqU1sYFOKj2L1UJ01Rhdf+l0wK40Ho\njkRK/mEHA0TA2kJva8SVxNmijYb3zMLiyIubB8orhSwcVRuPiGrTn10BTOPHUbe8\n7jlEybHlzX/Jds7CXaGRsAaXaDm96imAUACBTNX/N6A=\n=KIiV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2LLP8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2CtpC/49wVxadSazvwFKQZwGe7Bp\nwkA2jDaKlDbJEkP8vVIngjyd86jSyAd3WkYHdMpng24yMDBULZjquNa5Eh+HdM3t\n2I4/Val8hzN0QWx6Z/fkj4QjEGIOy3ZUMeTyYAUvQSfsX8plHLNCCfA9UuRdtKv7\n/9sDFO3n/12xDAS9GyBsm8DD6O5wmpqiyKDXqBxG8Si+sV1WvpHYR5adZEc+xFqA\nmTFnewIB0HYwpN2VPnLjAJARtt9t8BcPyJFIt5JBPsmA5cot3gsO2L+tPt3iD0eM\n/uzBF5thxyKKJCLYx5WovJXWPD1z9M4WbM9UODFrnxDALKMXASizuziTYJziu5RS\noSGz6BT4mAJqb8xAkCEljoeSeBlTgPLtRigqU1sYFOKj2L1UJ01Rhdf+l0wK40Ho\njkRK/mEHA0TA2kJva8SVxNmijYb3zMLiyIubB8orhSwcVRuPiGrTn10BTOPHUbe8\n7jlEybHlzX/Jds7CXaGRsAaXaDm96imAUACBTNX/N6A=\n=KIiV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 74c8cd581bee2da059845bb95de5160774b5f191\ntype commit\ntag 5.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1569402111 +0000\n\nironic-python-agent 5.0.0 release\n\nmeta:version: 5.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Mark Goddard <mark@stackhpc.com>\nmeta:release:Commit: Mark Goddard <mark@stackhpc.com>\nmeta:release:Change-Id: I64eb58d4a17d48a788a505271ac16ed88e4cecf3\nmeta:release:Code-Review+1: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

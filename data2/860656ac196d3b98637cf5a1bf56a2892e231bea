@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE1NTE1Nzo4NjA2NTZhYzE5NmQzYjk4NjM3Y2Y1YTFiZjU2YTI4OTJlMjMxYmVh",
+  "sha": "860656ac196d3b98637cf5a1bf56a2892e231bea",
+  "url": "https://api.github.com/repos/openstack/glance/git/tags/860656ac196d3b98637cf5a1bf56a2892e231bea",
+  "tagger": {
+    "name": "Thierry Carrez",
+    "email": "thierry@openstack.org",
+    "date": "2016-03-03T13:17:51Z"
+  },
+  "object": {
+    "sha": "9a6a4807aada5bb1cf3e05db96ca345ae1397bfb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/glance/git/commits/9a6a4807aada5bb1cf3e05db96ca345ae1397bfb"
+  },
+  "tag": "12.0.0.0b3",
+  "message": "glance 12.0.0.0b3 development milestone\n\nmeta:version: 12.0.0.0b3\nmeta:series: mitaka\nmeta:release-type: development milestone\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJW2Dl/AAoJEFB6+JAlsQQj0LIP/0aQisWzKGn1FfLQuo38piSQ\nfL8/vBMGYroOW3Sm3V9/p27PTL0ENaxIBetyRRxiNAsn1gK6/ghTdwnb1pOnaWUu\nWy6TmN3j/X+Is0Bq91hmID5tRemhh9Zs5gmc6jBg8ZwEvr4Svd+pjwmM75vtyDvw\nmhedpaXQeOxKVaENn17AydBfBgnrCUtTSwjIw7NDRb5cBTjGayz9tkzKWSwBBHXW\nf72hHlRYJ8I2G622ku1LkB7h74W6hCxFyy38nuW/4WFBppsqxeq7wVR0GtNzZy3m\nvuRauUJzJE0xnK1qe2BJE0qyoJs6nN9cQa82a+ov+NrZdq/5ywQFibzpKZ1NPJAl\nogTmWc4MRuA3MlDs4U4myPiMkNmBjMKOM9UJdiWXLaNURZWX020IdaE5WkuNGs6u\ncH3OjMQQV2W7IXAo8oW64x7lkOu1/JnGYtd5ibzCIK4H4LVNPJo+aJDmQh5M4eIX\nZe4cRefFOBSZdwhztdMO5cY74zJF9Q2ZGrqfpN+j5w0Wtf+P6BXA9OHpYAsvn3KI\nUaswTo7PLYRrLvVe8SRgda/9bewJLg2Io02JBg2udnotAEfmTOPv5LiY3vhL3uzk\nBX+jeOvdEWuJI/374fTwnWv9q05SlgdUfNbRQ2JWpfWMwKG1aCNIR7z9ZKFt7Kvq\n73Hs0dADCyxAI7+YAjEK\n=Wvah\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJW2Dl/AAoJEFB6+JAlsQQj0LIP/0aQisWzKGn1FfLQuo38piSQ\nfL8/vBMGYroOW3Sm3V9/p27PTL0ENaxIBetyRRxiNAsn1gK6/ghTdwnb1pOnaWUu\nWy6TmN3j/X+Is0Bq91hmID5tRemhh9Zs5gmc6jBg8ZwEvr4Svd+pjwmM75vtyDvw\nmhedpaXQeOxKVaENn17AydBfBgnrCUtTSwjIw7NDRb5cBTjGayz9tkzKWSwBBHXW\nf72hHlRYJ8I2G622ku1LkB7h74W6hCxFyy38nuW/4WFBppsqxeq7wVR0GtNzZy3m\nvuRauUJzJE0xnK1qe2BJE0qyoJs6nN9cQa82a+ov+NrZdq/5ywQFibzpKZ1NPJAl\nogTmWc4MRuA3MlDs4U4myPiMkNmBjMKOM9UJdiWXLaNURZWX020IdaE5WkuNGs6u\ncH3OjMQQV2W7IXAo8oW64x7lkOu1/JnGYtd5ibzCIK4H4LVNPJo+aJDmQh5M4eIX\nZe4cRefFOBSZdwhztdMO5cY74zJF9Q2ZGrqfpN+j5w0Wtf+P6BXA9OHpYAsvn3KI\nUaswTo7PLYRrLvVe8SRgda/9bewJLg2Io02JBg2udnotAEfmTOPv5LiY3vhL3uzk\nBX+jeOvdEWuJI/374fTwnWv9q05SlgdUfNbRQ2JWpfWMwKG1aCNIR7z9ZKFt7Kvq\n73Hs0dADCyxAI7+YAjEK\n=Wvah\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9a6a4807aada5bb1cf3e05db96ca345ae1397bfb\ntype commit\ntag 12.0.0.0b3\ntagger Thierry Carrez <thierry@openstack.org> 1457011071 +0100\n\nglance 12.0.0.0b3 development milestone\n\nmeta:version: 12.0.0.0b3\nmeta:series: mitaka\nmeta:release-type: development milestone\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n"
+  }
+}

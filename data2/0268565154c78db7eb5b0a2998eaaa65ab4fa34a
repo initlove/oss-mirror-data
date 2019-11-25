@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNDowMjY4NTY1MTU0Yzc4ZGI3ZWI1YjBhMjk5OGVhYWE2NWFiNGZhMzRh",
+  "sha": "0268565154c78db7eb5b0a2998eaaa65ab4fa34a",
+  "url": "https://api.github.com/repos/openstack/heat/git/tags/0268565154c78db7eb5b0a2998eaaa65ab4fa34a",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-09-04T19:55:55Z"
+  },
+  "object": {
+    "sha": "1f08105fbd17f8f51999689f8b0113201870475c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/heat/git/commits/1f08105fbd17f8f51999689f8b0113201870475c"
+  },
+  "tag": "10.0.2",
+  "message": "heat 10.0.2 release\n\nmeta:version: 10.0.2\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: ricolin <rico.lin@easystack.cn>\nmeta:release:Commit: ricolin <rico.lin@easystack.cn>\nmeta:release:Change-Id: I4aa92d51482dfe892c0023f03b8dc29d1fae4b64\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Zane Bitter <zbitter@redhat.com>\nmeta:release:Code-Review+1: melissaml <ma.lei@99cloud.net>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbjuNLAAoJEMNs3LTfAMaMPtsH/RecJ9+Up4DE5lB+ZivUqvtS\nqF4FGlRHPOvHI3VcBA6sp8vZ6ehc8/o/r9X/VlsSnE+tYeixy6SIJ806DcZ27Md3\nViFO7/OkGeoO1VaHWTYvB3UtNxf2YzHtmUiQFvvLbEw2/1+ZbnV1RGJdBLfR3uf7\n+/gRkdDgBu7S8BidF0cegG3Oshe1eB2BJ71V5S4/TypdlGjh1gb6vXBF8WHzfQP7\nhmPhP/z9zwhGSKX6qyFIGnX+MaJdroncMu2YarVLx7K6rxJWaqFCN0N39BKdw6h8\nSlG5BEBwyxYQvR3/KHjvx9tuOZqN/hIWNJZ3NliNzMEhE2jMTI9K9dmhTZbpB1U=\n=fVQt\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbjuNLAAoJEMNs3LTfAMaMPtsH/RecJ9+Up4DE5lB+ZivUqvtS\nqF4FGlRHPOvHI3VcBA6sp8vZ6ehc8/o/r9X/VlsSnE+tYeixy6SIJ806DcZ27Md3\nViFO7/OkGeoO1VaHWTYvB3UtNxf2YzHtmUiQFvvLbEw2/1+ZbnV1RGJdBLfR3uf7\n+/gRkdDgBu7S8BidF0cegG3Oshe1eB2BJ71V5S4/TypdlGjh1gb6vXBF8WHzfQP7\nhmPhP/z9zwhGSKX6qyFIGnX+MaJdroncMu2YarVLx7K6rxJWaqFCN0N39BKdw6h8\nSlG5BEBwyxYQvR3/KHjvx9tuOZqN/hIWNJZ3NliNzMEhE2jMTI9K9dmhTZbpB1U=\n=fVQt\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1f08105fbd17f8f51999689f8b0113201870475c\ntype commit\ntag 10.0.2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1536090955 +0000\n\nheat 10.0.2 release\n\nmeta:version: 10.0.2\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: ricolin <rico.lin@easystack.cn>\nmeta:release:Commit: ricolin <rico.lin@easystack.cn>\nmeta:release:Change-Id: I4aa92d51482dfe892c0023f03b8dc29d1fae4b64\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Zane Bitter <zbitter@redhat.com>\nmeta:release:Code-Review+1: melissaml <ma.lei@99cloud.net>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

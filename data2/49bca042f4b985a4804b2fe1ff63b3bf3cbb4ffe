@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2Nzo0OWJjYTA0MmY0Yjk4NWE0ODA0YjJmZTFmZjYzYjNiZjNjYmI0ZmZl",
+  "sha": "49bca042f4b985a4804b2fe1ff63b3bf3cbb4ffe",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/49bca042f4b985a4804b2fe1ff63b3bf3cbb4ffe",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2015-05-23T00:14:47Z"
+  },
+  "object": {
+    "sha": "b2c8fb9f2cd994441a0b6e7d9256ae8b306e6426",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/b2c8fb9f2cd994441a0b6e7d9256ae8b306e6426"
+  },
+  "tag": "7.0.1",
+  "message": "Released v7.0.1\n\n* Don't build and cache wheels for non-editable installations from VCSs.\n* Allow ``--allow-all-external`` inside of a requirements.txt file, fixing a\n  regression in 7.0.\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJVX8aFAAoJEG48vOkzctz6z/kP/iGx3YHQO5sx8fsq0Fpp5PXP\ncIvxyyoxevlbo1I7u+tpn/XiUqDtkYkLk11oeHxn8GZWPf0tTY09G0Nm6psE4k0n\n3fO83LR4ggfXXRpcZpM2vY8kgR7rQggZpZYlg/o2/vqQWFSRqKlF/bB9wbcpVB6L\nqSX1wE8rFjwOlY/MyADhsfPN+MBBhyskf0JFmfU7mWVc0dRSWTPxjcjJGRRBm4VZ\n0NStOztKW99EnQ6e009cnEktjQkIGjFKIEmXBvSAXIajiLvo4Y///mOIFktudwQZ\n20I2RYtwTRnztn0p+ACofdat6jwtumVVLr0cPXm8TiwqwSitiWXTZ6Rpb85WHYJY\n6nE268qVD8NtcGhjt+TgsBBy4p0wsPAyWBREVlFwJ7OAOiyeXJpxmb7vJnIjYeIy\noO1r2KPqeomXxs08w5Ztuw9v25w6uohR84IfLQ5a+y59yOFe72sewxqNRtz37Shi\nEH8T59u7Si/08bAMmz9EWadXYSTN65d2G8FlTS9L6ELelDdrAwkUKHEdoIf2afNe\n4JLvSfVGt/4ZDHvoKE/WJWRmusiMgawQPtDGE1nA7AHVwCZ6u2ok4j3E/xYrzZt7\nnshHck0nLxFLNUTyW0h/eAJFlTLNM1LOA5Y/ZrBmpDpYehRd9jnrS8L6fr7wuhsD\nkqkxEHSfTZMN3xvpRY4Z\n=VTBw\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJVX8aFAAoJEG48vOkzctz6z/kP/iGx3YHQO5sx8fsq0Fpp5PXP\ncIvxyyoxevlbo1I7u+tpn/XiUqDtkYkLk11oeHxn8GZWPf0tTY09G0Nm6psE4k0n\n3fO83LR4ggfXXRpcZpM2vY8kgR7rQggZpZYlg/o2/vqQWFSRqKlF/bB9wbcpVB6L\nqSX1wE8rFjwOlY/MyADhsfPN+MBBhyskf0JFmfU7mWVc0dRSWTPxjcjJGRRBm4VZ\n0NStOztKW99EnQ6e009cnEktjQkIGjFKIEmXBvSAXIajiLvo4Y///mOIFktudwQZ\n20I2RYtwTRnztn0p+ACofdat6jwtumVVLr0cPXm8TiwqwSitiWXTZ6Rpb85WHYJY\n6nE268qVD8NtcGhjt+TgsBBy4p0wsPAyWBREVlFwJ7OAOiyeXJpxmb7vJnIjYeIy\noO1r2KPqeomXxs08w5Ztuw9v25w6uohR84IfLQ5a+y59yOFe72sewxqNRtz37Shi\nEH8T59u7Si/08bAMmz9EWadXYSTN65d2G8FlTS9L6ELelDdrAwkUKHEdoIf2afNe\n4JLvSfVGt/4ZDHvoKE/WJWRmusiMgawQPtDGE1nA7AHVwCZ6u2ok4j3E/xYrzZt7\nnshHck0nLxFLNUTyW0h/eAJFlTLNM1LOA5Y/ZrBmpDpYehRd9jnrS8L6fr7wuhsD\nkqkxEHSfTZMN3xvpRY4Z\n=VTBw\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b2c8fb9f2cd994441a0b6e7d9256ae8b306e6426\ntype commit\ntag 7.0.1\ntagger Donald Stufft <donald@stufft.io> 1432340087 -0400\n\nReleased v7.0.1\n\n* Don't build and cache wheels for non-editable installations from VCSs.\n* Allow ``--allow-all-external`` inside of a requirements.txt file, fixing a\n  regression in 7.0.\n"
+  }
+}

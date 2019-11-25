@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAzMDk4Njo2NDA2NjAzYzc2MDM5MmY2YzhiY2NhM2ExNzcwN2ViYjgzNjBjMjcz",
+  "sha": "6406603c760392f6c8bcca3a17707ebb8360c273",
+  "url": "https://api.github.com/repos/openstack/python-keystoneclient/git/tags/6406603c760392f6c8bcca3a17707ebb8360c273",
+  "tagger": {
+    "name": "Joe Heck",
+    "email": "heckj@mac.com",
+    "date": "2012-11-16T23:17:51Z"
+  },
+  "object": {
+    "sha": "27f0c721174b149c64cc67ff718d007d94fe79aa",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-keystoneclient/git/commits/27f0c721174b149c64cc67ff718d007d94fe79aa"
+  },
+  "tag": "0.2.0",
+  "message": "0.2.0\n\n* auth_token moved into keystoneclient\n* tech preview of V3 API enabled in keystoneclient.v3\n* client now supports command line override of endpoint\n* solidification of internal API for other clients to use\n  * can cache token and reinitialize with cached token\n  * AccessInfo to provide consistent API to get token information\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJQpsowAAoJEDXX+C7hSKCbrDIH/Rrf0cmYGea2YkGSB87flzMo\natafQ9NKFJBVq5zj8WdN9rnsSzMJwkfRQ8bMJqoN4yUo03GuU0PFka6UEtKBPQ0v\nESZm1lWlK5fOFqsI+iU+2kx/YzcphXO6BD/g083gMmuTkQaf2HHwvKWo8pg39qOa\nLL7viCw8jVqL3BSg9Z9hnS3aNQ8Gycmkghk0I9md/Ud4n5rR1DOo1nxB4sPBHxR7\nzsHxNtXVeHPk1Gfq1+ALLBL634vr9osFA6cEFp201xCZzVY8DRiWAwhCJqkgFFhk\nLOhZH5pfK6SfZA7vbUbdhh0GXA20Ocjk4p2etHDHWHrKZNg4C/zK6p2sYgUUMb8=\n=n0NP\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJQpsowAAoJEDXX+C7hSKCbrDIH/Rrf0cmYGea2YkGSB87flzMo\natafQ9NKFJBVq5zj8WdN9rnsSzMJwkfRQ8bMJqoN4yUo03GuU0PFka6UEtKBPQ0v\nESZm1lWlK5fOFqsI+iU+2kx/YzcphXO6BD/g083gMmuTkQaf2HHwvKWo8pg39qOa\nLL7viCw8jVqL3BSg9Z9hnS3aNQ8Gycmkghk0I9md/Ud4n5rR1DOo1nxB4sPBHxR7\nzsHxNtXVeHPk1Gfq1+ALLBL634vr9osFA6cEFp201xCZzVY8DRiWAwhCJqkgFFhk\nLOhZH5pfK6SfZA7vbUbdhh0GXA20Ocjk4p2etHDHWHrKZNg4C/zK6p2sYgUUMb8=\n=n0NP\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 27f0c721174b149c64cc67ff718d007d94fe79aa\ntype commit\ntag 0.2.0\ntagger Joe Heck <heckj@mac.com> 1353107871 +0000\n\n0.2.0\n\n* auth_token moved into keystoneclient\n* tech preview of V3 API enabled in keystoneclient.v3\n* client now supports command line override of endpoint\n* solidification of internal API for other clients to use\n  * can cache token and reinitialize with cached token\n  * AccessInfo to provide consistent API to get token information\n"
+  }
+}

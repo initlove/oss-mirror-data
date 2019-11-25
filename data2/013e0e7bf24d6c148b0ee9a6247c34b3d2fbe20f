@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDowMTNlMGU3YmYyNGQ2YzE0OGIwZWU5YTYyNDdjMzRiM2QyZmJlMjBm",
+  "sha": "013e0e7bf24d6c148b0ee9a6247c34b3d2fbe20f",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/013e0e7bf24d6c148b0ee9a6247c34b3d2fbe20f",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2014-11-25T09:47:36Z"
+  },
+  "object": {
+    "sha": "4ad97f654343513be279309f863435b30106e9ad",
+    "type": "tag",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/4ad97f654343513be279309f863435b30106e9ad"
+  },
+  "tag": "librepo-1.5.0",
+  "message": "v1.5.0\n- Extend C example\n- Add LRR_YUM_TIMESTAMP (GitHub issue #25)\n- Close the correct file when using a metalink.xml file\n- Add lr_check_packages()\n- Enable checksum caching for already existing local packages\n- Library: Call LR_PROGRESSCB with zeroized values, when total_to_download\n  value is changed\n- Skip fastestmirror detection of only one mirror is present\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

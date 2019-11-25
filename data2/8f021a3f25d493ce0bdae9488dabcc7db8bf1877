@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo4ZjAyMWEzZjI1ZDQ5M2NlMGJkYWU5NDg4ZGFiY2M3ZGI4YmYxODc3",
+  "sha": "8f021a3f25d493ce0bdae9488dabcc7db8bf1877",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/8f021a3f25d493ce0bdae9488dabcc7db8bf1877",
+  "tagger": {
+    "name": "Bert Belder",
+    "email": "bertbelder@gmail.com",
+    "date": "2013-05-14T23:50:19Z"
+  },
+  "object": {
+    "sha": "028baaf0846b686a81e992cb2f2f5a9b8e841fcf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/028baaf0846b686a81e992cb2f2f5a9b8e841fcf"
+  },
+  "tag": "v0.10.7",
+  "message": "2013.05.15, Version 0.10.7 (Stable)\n\nChanges since version 0.10.6:\n\n* windows: kill child processes when the parent dies (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUZLNu3p3iHsuLtRhAQL3RwgAqth41wa+bhKW/fxXfLNI6eX/jaGQ8Vex\ncZrrXOwqzke+Gvk3b4KFDUem0zp7pZFI1zfsrJSu23VBv9Dqd6Pm9Zur+NumOS7H\nLzjFXHJ6aP2U1bbOGdJEwBh4jCfp5soguydjjb/v1goWxGBA9OAqPjbEkBikqANN\nhP9ibgju2Vx5vst1OdMykvgWdGkGwDXXUT0PX6A5/SEPR1cDI1tSYebMsc7bGYnM\n28ChfDsx/2FWNek6H8Ws4aiRW7k+4KCfWxQDgljZ8mNaRqajD+f/7B8S3grdOQ8l\ntLtyfJsfOq4Fkage2RZ8NrFmVAzzRa63Knj82LnEcXhs5o3rt+qEgg==\n=ZEQr\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUZLNu3p3iHsuLtRhAQL3RwgAqth41wa+bhKW/fxXfLNI6eX/jaGQ8Vex\ncZrrXOwqzke+Gvk3b4KFDUem0zp7pZFI1zfsrJSu23VBv9Dqd6Pm9Zur+NumOS7H\nLzjFXHJ6aP2U1bbOGdJEwBh4jCfp5soguydjjb/v1goWxGBA9OAqPjbEkBikqANN\nhP9ibgju2Vx5vst1OdMykvgWdGkGwDXXUT0PX6A5/SEPR1cDI1tSYebMsc7bGYnM\n28ChfDsx/2FWNek6H8Ws4aiRW7k+4KCfWxQDgljZ8mNaRqajD+f/7B8S3grdOQ8l\ntLtyfJsfOq4Fkage2RZ8NrFmVAzzRa63Knj82LnEcXhs5o3rt+qEgg==\n=ZEQr\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 028baaf0846b686a81e992cb2f2f5a9b8e841fcf\ntype commit\ntag v0.10.7\ntagger Bert Belder <bertbelder@gmail.com> 1368575419 -0700\n\n2013.05.15, Version 0.10.7 (Stable)\n\nChanges since version 0.10.6:\n\n* windows: kill child processes when the parent dies (Bert Belder)\n"
+  }
+}

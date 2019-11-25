@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTYyMjMzNzg6M2Y4OGJkOGYxOGI3MWUzY2IyODM3NTM5MDQ3NWIyNGFlY2VkMWE3Mw==",
+  "sha": "3f88bd8f18b71e3cb28375390475b24aeced1a73",
+  "url": "https://api.github.com/repos/openstack/openstacksdk/git/tags/3f88bd8f18b71e3cb28375390475b24aeced1a73",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-07-18T02:48:06Z"
+  },
+  "object": {
+    "sha": "3c7dfb3d190e6d14d36cce4bbc3e38280761a788",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/openstacksdk/git/commits/3c7dfb3d190e6d14d36cce4bbc3e38280761a788"
+  },
+  "tag": "0.17.3",
+  "message": "openstacksdk 0.17.3 release\n\nmeta:version: 0.17.3\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Guang Yee <guang.yee@suse.com>\nmeta:release:Commit: Guang Yee <guang.yee@suse.com>\nmeta:release:Change-Id: I46851ef9328532131ad06bbb99bef8d38000fa76\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+1: Monty Taylor <mordred@inaugust.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0v3eYZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JH0DAC6Ad2scpIKhaAeeZX5fXXV\nSDcvTJFk8ViqPb1DcPY52s19VSCMJeAcJYEQ99ISk8Zd4dhTnjd7Y5ocgSDPkQ3p\n6gwrq4O1RNycLodukL7R1G//ZG/h6snhfdHXDKGLA8lxhmFWcEe5FaN1yyh2yRkv\nNZghuMzbBoxYhPYYOgx7fcjhyqQ36gPILPSl+mQvlco1e8ow90ZECbn9lYSq1cAJ\nXuN/wKN7N+yaPcasoeAjEj1L1jZkLI4P0HfIhTEF1yW85fbHRrfnJ3J8c/mxybv3\ndTdUEn+zsxMxBDYoQ38M5h+xBOGRgJR8A23sxFrJ9gt2aEhL3R1ATwSQSohW0UZa\nWQOZMY6Ss1IJJpGxTVpm9DT4QJDnZOZMjoFM64xS7DkyApmf4gu2e5LZnohuHBLB\niywaMLPAYIlEx4CMDcVcupGE4V9XWLxcam3uYA0YKlmDLZ5YaBMoZjmoGyRJdAVk\nJ9fkQzecdlxL1Gk/tlnJvS3b4KubQXzTdbKZ+DxTF1I=\n=+Hxb\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0v3eYZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JH0DAC6Ad2scpIKhaAeeZX5fXXV\nSDcvTJFk8ViqPb1DcPY52s19VSCMJeAcJYEQ99ISk8Zd4dhTnjd7Y5ocgSDPkQ3p\n6gwrq4O1RNycLodukL7R1G//ZG/h6snhfdHXDKGLA8lxhmFWcEe5FaN1yyh2yRkv\nNZghuMzbBoxYhPYYOgx7fcjhyqQ36gPILPSl+mQvlco1e8ow90ZECbn9lYSq1cAJ\nXuN/wKN7N+yaPcasoeAjEj1L1jZkLI4P0HfIhTEF1yW85fbHRrfnJ3J8c/mxybv3\ndTdUEn+zsxMxBDYoQ38M5h+xBOGRgJR8A23sxFrJ9gt2aEhL3R1ATwSQSohW0UZa\nWQOZMY6Ss1IJJpGxTVpm9DT4QJDnZOZMjoFM64xS7DkyApmf4gu2e5LZnohuHBLB\niywaMLPAYIlEx4CMDcVcupGE4V9XWLxcam3uYA0YKlmDLZ5YaBMoZjmoGyRJdAVk\nJ9fkQzecdlxL1Gk/tlnJvS3b4KubQXzTdbKZ+DxTF1I=\n=+Hxb\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3c7dfb3d190e6d14d36cce4bbc3e38280761a788\ntype commit\ntag 0.17.3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1563418086 +0000\n\nopenstacksdk 0.17.3 release\n\nmeta:version: 0.17.3\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Guang Yee <guang.yee@suse.com>\nmeta:release:Commit: Guang Yee <guang.yee@suse.com>\nmeta:release:Change-Id: I46851ef9328532131ad06bbb99bef8d38000fa76\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+1: Monty Taylor <mordred@inaugust.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

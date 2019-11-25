@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjoxZjRjZWRlZThjYTAyOTUzODMyZmM2OGE4NzU1YjllMjIwYzJhYjQy",
+  "sha": "1f4cedee8ca02953832fc68a8755b9e220c2ab42",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/1f4cedee8ca02953832fc68a8755b9e220c2ab42",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:29:47Z"
+  },
+  "object": {
+    "sha": "6a2c3b4c65160469e2ed658e19dc99e72d6444b4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/6a2c3b4c65160469e2ed658e19dc99e72d6444b4"
+  },
+  "tag": "0.1.15",
+  "message": "v0.1.15\n- Fix bug in final move from .repodata/ -> repodata/\n- Fix warnings from RPM library. RPM library is thread-unsafe. This\nincludes also reading headers. Use of empty keyring for rpm transaction\nshould work around the problem.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

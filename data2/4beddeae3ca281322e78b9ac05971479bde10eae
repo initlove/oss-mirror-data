@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjo0YmVkZGVhZTNjYTI4MTMyMmU3OGI5YWMwNTk3MTQ3OWJkZTEwZWFl",
+  "sha": "4beddeae3ca281322e78b9ac05971479bde10eae",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/4beddeae3ca281322e78b9ac05971479bde10eae",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:25:42Z"
+  },
+  "object": {
+    "sha": "49b15820a762de24c0ae0ab3f469c796257f5aff",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/49b15820a762de24c0ae0ab3f469c796257f5aff"
+  },
+  "tag": "0.1.3",
+  "message": "v0.1.3\n- Set RelWithDebInfo as default cmake build type\n- fix make_tarball_from_git.sh\n- Tarball by xz instead bz2\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

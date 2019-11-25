@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY5MjEzNzE6MjgwMThlMDVmOGZhNTE3MGQxOTRlMWM2MGU4MjUwZjU2MTkxOTAyYg==",
+  "sha": "28018e05f8fa5170d194e1c60e8250f56191902b",
+  "url": "https://api.github.com/repos/openstack/oslo.vmware/git/tags/28018e05f8fa5170d194e1c60e8250f56191902b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-03-14T17:23:57Z"
+  },
+  "object": {
+    "sha": "a331a289b0c8e3e070f7ffc15774cf150dfd0094",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.vmware/git/commits/a331a289b0c8e3e070f7ffc15774cf150dfd0094"
+  },
+  "tag": "2.27.0",
+  "message": "oslo.vmware 2.27.0 release\n\nmeta:version: 2.27.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Iff899a9bc68f30a4e8107d09350c402bc8539776\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaqVqtAAoJEEIeZHKBH5qBeJwIALTRgddTRk+gen9kBSw0LR05\nhkNrDwExIfqAuYqF9KlqQB7qs1A96AlaKr1I5wI3o9MSj+gJM4vDTNvD3uEpXptu\nZkvSbTggtgjUqA06F1gl/lEFzDYCVobEieOoZOl9f850TCGf2YTXB0ZSpMqwA5/r\nfyYrBOgcHksptJ4YhErfZalUOi+HGDYVqu2iNQgns2Titcg0G7N/IOuzIwd0haPD\n22bcOHsncjSktdNdJRIOviS+x9HpbIsz+8xO+oJP4xFMvjpLWAKeNWJNXYWVkJ9w\nRIykoq+S0WvzZCs1XBulGspVjPfxQNwspa5TpXiCMz2RJZ8/oCon48BUt2OUPhs=\n=BcXd\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaqVqtAAoJEEIeZHKBH5qBeJwIALTRgddTRk+gen9kBSw0LR05\nhkNrDwExIfqAuYqF9KlqQB7qs1A96AlaKr1I5wI3o9MSj+gJM4vDTNvD3uEpXptu\nZkvSbTggtgjUqA06F1gl/lEFzDYCVobEieOoZOl9f850TCGf2YTXB0ZSpMqwA5/r\nfyYrBOgcHksptJ4YhErfZalUOi+HGDYVqu2iNQgns2Titcg0G7N/IOuzIwd0haPD\n22bcOHsncjSktdNdJRIOviS+x9HpbIsz+8xO+oJP4xFMvjpLWAKeNWJNXYWVkJ9w\nRIykoq+S0WvzZCs1XBulGspVjPfxQNwspa5TpXiCMz2RJZ8/oCon48BUt2OUPhs=\n=BcXd\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a331a289b0c8e3e070f7ffc15774cf150dfd0094\ntype commit\ntag 2.27.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1521048237 +0000\n\noslo.vmware 2.27.0 release\n\nmeta:version: 2.27.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Iff899a9bc68f30a4e8107d09350c402bc8539776\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

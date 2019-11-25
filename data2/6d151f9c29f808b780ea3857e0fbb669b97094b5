@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjk5NzcwMTo2ZDE1MWY5YzI5ZjgwOGI3ODBlYTM4NTdlMGZiYjY2OWI5NzA5NGI1",
+  "sha": "6d151f9c29f808b780ea3857e0fbb669b97094b5",
+  "url": "https://api.github.com/repos/Netflix/servo/git/tags/6d151f9c29f808b780ea3857e0fbb669b97094b5",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-01-30T20:36:15Z"
+  },
+  "object": {
+    "sha": "e14a018d10cd0890df534f8174181b7500e6ed31",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/servo/git/commits/e14a018d10cd0890df534f8174181b7500e6ed31"
+  },
+  "tag": "v0.8.2",
+  "message": "Release of 0.8.2\n\n- e14a018d10cd0890df534f8174181b7500e6ed31: Merge pull request #305 from brharrington/cloudwatch\n- 3da3961e31d1dd9ffe8c325e2b1736c6cff61612: use static counter/timer where dynamic tags aren't needed\n- 351bf3e6e6387e49fcfb7721c4a3b5ba4e05fdb7: add monitors around cloudwatch put call\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

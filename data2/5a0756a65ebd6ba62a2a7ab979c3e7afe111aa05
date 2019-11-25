@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjo1YTA3NTZhNjVlYmQ2YmE2MmEyYTdhYjk3OWMzZTdhZmUxMTFhYTA1",
+  "sha": "5a0756a65ebd6ba62a2a7ab979c3e7afe111aa05",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/5a0756a65ebd6ba62a2a7ab979c3e7afe111aa05",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:38:13Z"
+  },
+  "object": {
+    "sha": "71da671a6ba7d09acc860590ec918a22a494ac55",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/71da671a6ba7d09acc860590ec918a22a494ac55"
+  },
+  "tag": "0.8.2",
+  "message": "v0.8.2\n- doc: Add man pages for sqliterepo and update manpages for other tools\n- mergerepo: Work only with noarch packages if --koji is used and\n  no archlist is specified\n- mergerepo: Use file:// protocol in local baseurl\n- mergerepo: Do not include baseurl for first repo if --koji is specified (RhBug: 1220082)\n- mergerepo_c: Support multilib arch for --koji repos\n- mergerepo_c: Refactoring\n- Print debug message with version in each tool when --verbose is used\n- modifyrepo: Don't override file with itself (RhBug: 1215229)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

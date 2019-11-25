@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzODQ5OTM6NjI3NTI2MzlhZTM2YzRjYThkMDIyMDQ1ODVmYzI3MWVlZTI2NzQ5MQ==",
+  "sha": "62752639ae36c4ca8d02204585fc271eee267491",
+  "url": "https://api.github.com/repos/openstack/keystone/git/tags/62752639ae36c4ca8d02204585fc271eee267491",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-05-26T19:33:55Z"
+  },
+  "object": {
+    "sha": "6bf21f3660658c8916365aa51bfd6fc61fbd7121",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystone/git/commits/6bf21f3660658c8916365aa51bfd6fc61fbd7121"
+  },
+  "tag": "8.1.2",
+  "message": "keystone 8.1.2 release\n\nmeta:version: 8.1.2\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Brant Knudson <bknudson@us.ibm.com>\nmeta:release:Commit: Brant Knudson <bknudson@us.ibm.com>\nmeta:release:Change-Id: I8362fbf5910e43d59bb430e3adcbd638a010a62d\nmeta:release:Code-Review+1: Matthew Thode <mthode@mthode.org>\nmeta:release:Code-Review+1: Steve Martinelli <s.martinelli@gmail.com>\nmeta:release:Code-Review+1: Haïkel Guémar <hguemar@fedoraproject.org>\nmeta:release:Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXR0+jAAoJEDttBqDEKEN6bvAH/jySX30GPXh6BLvWxjUjglOC\n9EAXJ6PH5VovkdZlV/Gf/2SqD1KXhRqn8xEwlPPVIzA+Wb7+zpQuQYloDaB0DPBv\nLTj47WbmYFGhb4sYITvXAX7HlhZM9MedL6kt7DAhZe59qFqZF4RJ0EvjmlaKC/6x\nGT7rHKZ1/Ow59/4AXNt+3N6J7JYDcAG4Qbm/IMBBbAtzUjk7SowVmRCLUM4IpfOn\nqypBBF4qjPmNTHMbXS+c/leDkBmEbPBAGzIycfzL4kqPs2YZ7GxyuGca1PPTeczo\nnf5lx76H1R/v+M5y3dz6n5tiP0Tb9FFv8TnvvKVdEDOu4z79axr6f4pnOmbyNaE=\n=8qn2\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXR0+jAAoJEDttBqDEKEN6bvAH/jySX30GPXh6BLvWxjUjglOC\n9EAXJ6PH5VovkdZlV/Gf/2SqD1KXhRqn8xEwlPPVIzA+Wb7+zpQuQYloDaB0DPBv\nLTj47WbmYFGhb4sYITvXAX7HlhZM9MedL6kt7DAhZe59qFqZF4RJ0EvjmlaKC/6x\nGT7rHKZ1/Ow59/4AXNt+3N6J7JYDcAG4Qbm/IMBBbAtzUjk7SowVmRCLUM4IpfOn\nqypBBF4qjPmNTHMbXS+c/leDkBmEbPBAGzIycfzL4kqPs2YZ7GxyuGca1PPTeczo\nnf5lx76H1R/v+M5y3dz6n5tiP0Tb9FFv8TnvvKVdEDOu4z79axr6f4pnOmbyNaE=\n=8qn2\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6bf21f3660658c8916365aa51bfd6fc61fbd7121\ntype commit\ntag 8.1.2\ntagger Doug Hellmann <doug@doughellmann.com> 1464291235 -0400\n\nkeystone 8.1.2 release\n\nmeta:version: 8.1.2\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Brant Knudson <bknudson@us.ibm.com>\nmeta:release:Commit: Brant Knudson <bknudson@us.ibm.com>\nmeta:release:Change-Id: I8362fbf5910e43d59bb430e3adcbd638a010a62d\nmeta:release:Code-Review+1: Matthew Thode <mthode@mthode.org>\nmeta:release:Code-Review+1: Steve Martinelli <s.martinelli@gmail.com>\nmeta:release:Code-Review+1: Haïkel Guémar <hguemar@fedoraproject.org>\nmeta:release:Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

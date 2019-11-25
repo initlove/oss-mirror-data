@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTo1NzAxMWY4NmM5ZDQzZTQ5MjI4YzRlNGFiODk3NmE2ZTE4ODM4MGRk",
+  "sha": "57011f86c9d43e49228c4e4ab8976a6e188380dd",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/57011f86c9d43e49228c4e4ab8976a6e188380dd",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-07-25T17:34:38Z"
+  },
+  "object": {
+    "sha": "381312e1fe6fecbabc943ccd56f0e7d114b3d064",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/381312e1fe6fecbabc943ccd56f0e7d114b3d064"
+  },
+  "tag": "v0.10.13",
+  "message": "2013.07.26, Version 0.10.13 (Stable)\n\nChanges since version 0.10.12:\n\n* unix, windows: fix uv_fs_chown() function prototype (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlHxYbEACgkQfTP/nQJGQG0XtwCeO7rSPootEiwXcpafBUna2TP9\nI6gAoMefyDuEGMiPTyEF1f13mQ5+cWPG\n=oTvi\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlHxYbEACgkQfTP/nQJGQG0XtwCeO7rSPootEiwXcpafBUna2TP9\nI6gAoMefyDuEGMiPTyEF1f13mQ5+cWPG\n=oTvi\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 381312e1fe6fecbabc943ccd56f0e7d114b3d064\ntype commit\ntag v0.10.13\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1374773678 -0700\n\n2013.07.26, Version 0.10.13 (Stable)\n\nChanges since version 0.10.12:\n\n* unix, windows: fix uv_fs_chown() function prototype (Ben Noordhuis)\n"
+  }
+}

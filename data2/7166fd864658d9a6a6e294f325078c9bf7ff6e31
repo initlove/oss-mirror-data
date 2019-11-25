@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODc1OTEzMzo3MTY2ZmQ4NjQ2NThkOWE2YTZlMjk0ZjMyNTA3OGM5YmY3ZmY2ZTMx",
+  "sha": "7166fd864658d9a6a6e294f325078c9bf7ff6e31",
+  "url": "https://api.github.com/repos/Netflix/zuul/git/tags/7166fd864658d9a6a6e294f325078c9bf7ff6e31",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-06-12T19:16:14Z"
+  },
+  "object": {
+    "sha": "d5cbd037d44d4e7bdb24c6474b9f1a7e2dd666c7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/zuul/git/commits/d5cbd037d44d4e7bdb24c6474b9f1a7e2dd666c7"
+  },
+  "tag": "v1.1.0-rc.1",
+  "message": "Release of 1.1.0-rc.1\n\n- d5cbd037d44d4e7bdb24c6474b9f1a7e2dd666c7: Added recording of time taken to buffer request bodies in HttpServletRequestWrapper.\n- d5c09a1d7f41068f38e98159ad846441dc1e0925: Bugfix for POST requests with a body, but no Content-Type header.\n- 803615ba7e43835e498ad860f34d4abbad1e899e: Merge pull request #122 from mhawthorne/1.x\n- 02aa84eeb98411df6175ea0d929beac99b352b10: only parses params from body for POSTS with form bodies\n- 3378b35cbc633061cd05c132062c1c058826b6d1: Merge branch 'truncated-post-fix' into 1.x\n- b3c886acf59cb40b3fdb249691a25bb9426288ce: - Removed unnecessary warn log statement.\n- 09fe03d487a6d68a2cc65812f45a1e5ec464d0ba: Merge pull request #118 from Netflix/truncated-post-fix\n- a05152e5ea90bc893eb03d3c96fa959f16b2538d: Merge branch '1.x' into truncated-post-fix\n- dd38704c3f1a37fd05da674497fae6a2c16c1e6d: - Change HttpServletRequestWrapper to buffer chunked as well as non-chunked request bodies. -- And allow all request buffering to be disabled using a Servlet or ServletFilter init parameter.\n- 64d60884e3e91a99ff6044dcdd0c5faaa2a00aab: Merge pull request #98 from kpacha/uniform_manipulation_of_headers\n- 707fd076a1a924494b05f609c81792a6b16e5129: Merge pull request #63 from timmc/utf8-encode-response\n- dab12e3000cca2ddcf466f299ca2838295a0d5f4: Merge pull request #57 from pmotyka/1.x\n- aac4547ea37131fb68d78107c23caf7a220f12dd: Merge pull request #103 from aandriyc/bugfix/thread_local_leak\n- 6b535799a8fe56e6369b9be40f9027e2ec7e9c4e: Merge pull request #116 from rspieldenner/netflixoss_1.x\n- 851f4b13775537aa3c5c9eb28c6c8241e982d6f3: Merge pull request #114 from manuelcorrea/ssl_support\n- 195d0d6805a65c1c323ebca638d201734ff8f4c3: - Catching SocketTimeoutException when copying request body inputstream and treating as empty body, with a log statement. This is to more gracefully handle the case of truncated post bodies when using tomcat APR connector (which fails differently to BIO connector).\n- 91698a95f7e215ff889ff10c214ceccf06bfd401: Remove unneeded files\n- a764853549facfbcbc8596029f8c23b7fd300586: New nebula.netflixoss build\n- 026e99d7505583ad3a3c85d2ecba7f03a37b40b6: adding ssl scheme\n- a2d6ecf2a6ce9bec9336212437c7d2ec2f632bcd: Fixed thread local leak\n- 92242957040c00ac84e312363cd9f55727d1ec75: Merge pull request #100 from redmar/add-travis-ci-configuration\n- 005ef1bdf7d3b3a295d209679ac67e6447a3eedc: Merge pull request #99 from redmar/add-junit-4.10-dependency\n- 8266783d131fa30fde3f298c7f5046d1f0b34c2f: first attempt at adding a .travis.yml config.\n- 12601f4a979c5c48940e4cce9e0d27f5fc7bc890: add junit dependency in build.gradle\n- 6676593e30f9f2784b37ee7570e21728f9544f3a: force the request headers to be lower-case, just like the ones added by Zuul\n- b0a175d53912400fb1126ddd5c0ff75f8341dc4e: Merge pull request #94 from pataprogramming/1.x\n- cf7ed9d8c2c337e80bdbb094f6e0ae6ef44c4d7a: Fix local httpRequest shadowing httpRequest() method\n- d8a53e8c08bbd558d6c9fc7c397f22387805ee05: UTF-8 encode response body when converting to bytes\n- 0adbea8f1baa8f56caa2dee434327a26f5e1592d: check if query string is null before string concatenation\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY5NjAzMjE6OWY5MmEwZDU0ODM2MTZjNWRjMTA5YzY0Y2Q5YzQ1OTg5OTY3ZGVlOQ==",
+  "sha": "9f92a0d5483616c5dc109c64cd9c45989967dee9",
+  "url": "https://api.github.com/repos/opencontainers/runc/git/tags/9f92a0d5483616c5dc109c64cd9c45989967dee9",
+  "tagger": {
+    "name": "Aleksa Sarai",
+    "email": "asarai@suse.de",
+    "date": "2019-04-26T05:05:48Z"
+  },
+  "object": {
+    "sha": "425e105d5a03fabd737a126ad93d62a9eeede87f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/opencontainers/runc/git/commits/425e105d5a03fabd737a126ad93d62a9eeede87f"
+  },
+  "tag": "v1.0.0-rc8",
+  "message": "v1.0.0~rc8\n\nThis is a hot-fix for v1.0.0-rc7, and fixes a regression on old kernels\n(which don't support keycreate labeling). Users are strongly encouraged\nto update, as this regression was introduced in 1.0.0-rc7 and has\nblocked many users from updating to mitigate CVE-2019-5736.\n\nBugs: #2032 #2031 #2043\n\nAt the moment the only outlying issue before we can release 1.0.0 is\nsome spec discussions we are having about OCI hooks and how to handle\nthe integration with existing NVIDIA hooks. We will do our best to\nfinish this work as soon as we can.\n\nThanks to the following people who made this release possible:\n\n * Aleksa Sarai <asarai@suse.de>\n * Daniel J Walsh <dwalsh@redhat.com>\n * lifubang <lifubang@acmcoder.com>\n * Michael Crosby <crosbymichael@gmail.com>\n * Mrunal Patel <mrunal@me.com>\n\nVote: +4 -0 #1\nSigned-off-by: Aleksa Sarai <asarai@suse.de>\n-----BEGIN PGP SIGNATURE-----\n\niQJDBAABCAAtFiEEXzbGxhtUYBJKdfWmnhiqJn3bjbQFAlzCkgoPHGFzYXJhaUBz\ndXNlLmRlAAoJEJ4YqiZ92420cVcP/j8FnkzvEK0WkPQvpgXZ8p/VyqiE4ktjn/F4\nfk+zDQ7MikTS7BuWdaLT8Leb80jKtUYc8jji72AM9YbbJ52Q6ZezbK7Je5qqi/gg\n5fE6WdL9Vc9s1M6+mUU+9xxQtN334pJhRk+vWXy9xGwHUPU68aEsnAmWyMTCbBen\nPrSvzRh+925ZocGxqsDzP7PsId0kX3LoM5VdW+WHtGMyf6P/yA/Wvavtw3K7lmdB\nl21MtEriSNM1PoqXbb8n4FegP4FXyvGy45iiPZekiii5l1s9d5IYcApfkyIIaMs3\nGpEOO3ml1Cf4ManlwvzcsJX/+5INcZO16mgzHP/0W5m3t/6f7YVlnUjBTWXe8BDN\nnSlPFqiXcUDxYgNSNvs1EwWrWql9IVfeVHhRKkyBVhOxrq2u89wIdOBhOnCQnjZU\nHSJqt+EvblC3wIntnUvNFEt6GJrg7XEg68gp3XFjA9rtDW47yzi/1/4e9EYPjS/t\n0tNGHiix/b0cbGmm6vmj+FWl+0bSy21jFXp1N1rr7tda2ePIz5LZ0DIeV34hU0XO\nO7ncGg/5SHuxa8AokCkMxu6WDgt0+jobPnS2Hv1kJA0fnALYE8iFpHG5YLmHWuTb\n0Epu2EQfif0voyrHLQmxCjBHQOqZ2HBg0VgoFqDe2uk8Rob9iSxYJmWobBDh3HKk\nioeffgPv\n=+O/c\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQJDBAABCAAtFiEEXzbGxhtUYBJKdfWmnhiqJn3bjbQFAlzCkgoPHGFzYXJhaUBz\ndXNlLmRlAAoJEJ4YqiZ92420cVcP/j8FnkzvEK0WkPQvpgXZ8p/VyqiE4ktjn/F4\nfk+zDQ7MikTS7BuWdaLT8Leb80jKtUYc8jji72AM9YbbJ52Q6ZezbK7Je5qqi/gg\n5fE6WdL9Vc9s1M6+mUU+9xxQtN334pJhRk+vWXy9xGwHUPU68aEsnAmWyMTCbBen\nPrSvzRh+925ZocGxqsDzP7PsId0kX3LoM5VdW+WHtGMyf6P/yA/Wvavtw3K7lmdB\nl21MtEriSNM1PoqXbb8n4FegP4FXyvGy45iiPZekiii5l1s9d5IYcApfkyIIaMs3\nGpEOO3ml1Cf4ManlwvzcsJX/+5INcZO16mgzHP/0W5m3t/6f7YVlnUjBTWXe8BDN\nnSlPFqiXcUDxYgNSNvs1EwWrWql9IVfeVHhRKkyBVhOxrq2u89wIdOBhOnCQnjZU\nHSJqt+EvblC3wIntnUvNFEt6GJrg7XEg68gp3XFjA9rtDW47yzi/1/4e9EYPjS/t\n0tNGHiix/b0cbGmm6vmj+FWl+0bSy21jFXp1N1rr7tda2ePIz5LZ0DIeV34hU0XO\nO7ncGg/5SHuxa8AokCkMxu6WDgt0+jobPnS2Hv1kJA0fnALYE8iFpHG5YLmHWuTb\n0Epu2EQfif0voyrHLQmxCjBHQOqZ2HBg0VgoFqDe2uk8Rob9iSxYJmWobBDh3HKk\nioeffgPv\n=+O/c\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 425e105d5a03fabd737a126ad93d62a9eeede87f\ntype commit\ntag v1.0.0-rc8\ntagger Aleksa Sarai <asarai@suse.de> 1556255148 +1000\n\nv1.0.0~rc8\n\nThis is a hot-fix for v1.0.0-rc7, and fixes a regression on old kernels\n(which don't support keycreate labeling). Users are strongly encouraged\nto update, as this regression was introduced in 1.0.0-rc7 and has\nblocked many users from updating to mitigate CVE-2019-5736.\n\nBugs: #2032 #2031 #2043\n\nAt the moment the only outlying issue before we can release 1.0.0 is\nsome spec discussions we are having about OCI hooks and how to handle\nthe integration with existing NVIDIA hooks. We will do our best to\nfinish this work as soon as we can.\n\nThanks to the following people who made this release possible:\n\n * Aleksa Sarai <asarai@suse.de>\n * Daniel J Walsh <dwalsh@redhat.com>\n * lifubang <lifubang@acmcoder.com>\n * Michael Crosby <crosbymichael@gmail.com>\n * Mrunal Patel <mrunal@me.com>\n\nVote: +4 -0 #1\nSigned-off-by: Aleksa Sarai <asarai@suse.de>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTc5OTM5NTM6M2YzNjBhZjRhZGEzNWIwMDU5NjMyYmExOTc4NzY3NzQ1Nzc1MjYwMA==",
+  "sha": "3f360af4ada35b0059632ba19787677457752600",
+  "url": "https://api.github.com/repos/openstack/ironic-python-agent/git/tags/3f360af4ada35b0059632ba19787677457752600",
+  "tagger": {
+    "name": "Thierry Carrez",
+    "email": "thierry@openstack.org",
+    "date": "2016-06-22T13:38:13Z"
+  },
+  "object": {
+    "sha": "b1471eaf0eaff4187097da2db862b1971c9c67f1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic-python-agent/git/commits/b1471eaf0eaff4187097da2db862b1971c9c67f1"
+  },
+  "tag": "1.0.4",
+  "message": "ironic-python-agent 1.0.4 release\n\nmeta:version: 1.0.4\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Commit: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Change-Id: I2440970fd5a8e740f8263c9bdfd5871fdfcc1058\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXapTFAAoJEFB6+JAlsQQjSj0P/iXmCbyEtrPhZlJtKPGwEwN+\nDk/asqzKge6D0occ3rRByN2JI4idGXkanXAbJ2R70BNaaDPvkRv/K4VJrss/B5HE\nb0bqLwIZRmIeK6dXWIn1rqrUNzpw/jGHxUkzmgVdILGOcFMi/dL/9ci1CcrDeBln\nx0i6z7f9KxGUI5M2IIADuK4jf15bMmJa4tNpkXFvSoVTy3GOtuLFJy2kipaXjB8L\nhdRh3+OyICXDF3eiRvdWRmBe8Pm4dGkVek1C9i1FrdVtvT1QrqLGQvBbxAfJBNYK\nwfz6ljfn59F/cDBpT19cZs5OpQLeuXp5YDJJddjH8qx8zxdY/t07JiRq7yi2+/z5\n8miBNuNapOfmQ1h4f19sIygzQIaho0BDkh3vApCS+CAx6f7swoSfyVX1gA3FK/FU\ndnEY0VUPvLMQnU0Pk3cpOnC5Vi/2GXLODhCS2RcRf6mknu4eq925qXH9WAyCWQNh\nm9dXqajFyxzFcY+IMKw+REj49UR0pV+/e+om4n3wTf/U/9teGixmuGhC/c4uPw6W\nsYB54oRM9aoQlduZLG2AkEqVmEzenmSO3GalRjCPz7SfhiMWXZ4znimopaYB+0Gf\nG11CkzHmDpP44gLBaf+WDaSCn0Fd96VOJC9u9bpXba342Oc+OIdIhAKwvNpuBvyC\ngJ+7eLFd2kDYgqtHtBoR\n=W/Yq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXapTFAAoJEFB6+JAlsQQjSj0P/iXmCbyEtrPhZlJtKPGwEwN+\nDk/asqzKge6D0occ3rRByN2JI4idGXkanXAbJ2R70BNaaDPvkRv/K4VJrss/B5HE\nb0bqLwIZRmIeK6dXWIn1rqrUNzpw/jGHxUkzmgVdILGOcFMi/dL/9ci1CcrDeBln\nx0i6z7f9KxGUI5M2IIADuK4jf15bMmJa4tNpkXFvSoVTy3GOtuLFJy2kipaXjB8L\nhdRh3+OyICXDF3eiRvdWRmBe8Pm4dGkVek1C9i1FrdVtvT1QrqLGQvBbxAfJBNYK\nwfz6ljfn59F/cDBpT19cZs5OpQLeuXp5YDJJddjH8qx8zxdY/t07JiRq7yi2+/z5\n8miBNuNapOfmQ1h4f19sIygzQIaho0BDkh3vApCS+CAx6f7swoSfyVX1gA3FK/FU\ndnEY0VUPvLMQnU0Pk3cpOnC5Vi/2GXLODhCS2RcRf6mknu4eq925qXH9WAyCWQNh\nm9dXqajFyxzFcY+IMKw+REj49UR0pV+/e+om4n3wTf/U/9teGixmuGhC/c4uPw6W\nsYB54oRM9aoQlduZLG2AkEqVmEzenmSO3GalRjCPz7SfhiMWXZ4znimopaYB+0Gf\nG11CkzHmDpP44gLBaf+WDaSCn0Fd96VOJC9u9bpXba342Oc+OIdIhAKwvNpuBvyC\ngJ+7eLFd2kDYgqtHtBoR\n=W/Yq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object b1471eaf0eaff4187097da2db862b1971c9c67f1\ntype commit\ntag 1.0.4\ntagger Thierry Carrez <thierry@openstack.org> 1466602693 +0200\n\nironic-python-agent 1.0.4 release\n\nmeta:version: 1.0.4\nmeta:series: liberty\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Commit: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Change-Id: I2440970fd5a8e740f8263c9bdfd5871fdfcc1058\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

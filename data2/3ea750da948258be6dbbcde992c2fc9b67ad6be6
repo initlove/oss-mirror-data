@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjA2NDYzNTk6M2VhNzUwZGE5NDgyNThiZTZkYmJjZGU5OTJjMmZjOWI2N2FkNmJlNg==",
+  "sha": "3ea750da948258be6dbbcde992c2fc9b67ad6be6",
+  "url": "https://api.github.com/repos/openstack/osprofiler/git/tags/3ea750da948258be6dbbcde992c2fc9b67ad6be6",
+  "tagger": {
+    "name": "Boris Pavlovic",
+    "email": "boris@pavlovic.me",
+    "date": "2014-08-07T00:37:59Z"
+  },
+  "object": {
+    "sha": "bbe39b517263017c9db56ae1d904d08846eacff7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/osprofiler/git/commits/bbe39b517263017c9db56ae1d904d08846eacff7"
+  },
+  "tag": "0.3.0",
+  "message": "* Add support of multiple HMAC keys in WSGI middleware\n  this feature allows to change HMAC key without downtime\n\n  e.g.\n  1) Add new HMAC key to all services\n  2) Switch tool to new HMAC key\n  3) Remove old HMAC keys from all services\n\n* Add osprofiler entry point\n\n  We add osprofiler trace trace_id --html/--json command\n  that fetches, parse and present trace information.\n\n* Added Docs\n  Now you can build docs locally or read them on\n  http://osprofiler.readthedocs.org/en/latest/\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJT4ssrAAoJEDvpPTuJuon0xaAIAIDG3sjhXU0LGOd87XmB109q\nvUPqPDo9DwRLovkCbN/q656cP0k0kT4wf/W5Ak5gBwgmcwMG5GNbE4Mukbm7rBRK\nZcqImCw4A2fAW9L+Om1uLsZUHrY5g4ZTQx0fUj5YhpInrbiSPkF9NbwLPfCyLVhw\nO8is5tloCdUVWrv5TkAovdda0jWBwK7wI/gdmwb20B18O8avi4wnl9jPCjNkLTEk\nizjf1FZdaORsj93GWJRwO/Lq602k4AHfAW/1th+4edu2FNqFO+q6d+p/iUo7v5Dd\nuw6DTdcMVFLSml7VG7pzo5yp1DH7sar0ZYYot4+X0eYzRYx6JKaf7mPvFErQ9BA=\n=fo5F\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJT4ssrAAoJEDvpPTuJuon0xaAIAIDG3sjhXU0LGOd87XmB109q\nvUPqPDo9DwRLovkCbN/q656cP0k0kT4wf/W5Ak5gBwgmcwMG5GNbE4Mukbm7rBRK\nZcqImCw4A2fAW9L+Om1uLsZUHrY5g4ZTQx0fUj5YhpInrbiSPkF9NbwLPfCyLVhw\nO8is5tloCdUVWrv5TkAovdda0jWBwK7wI/gdmwb20B18O8avi4wnl9jPCjNkLTEk\nizjf1FZdaORsj93GWJRwO/Lq602k4AHfAW/1th+4edu2FNqFO+q6d+p/iUo7v5Dd\nuw6DTdcMVFLSml7VG7pzo5yp1DH7sar0ZYYot4+X0eYzRYx6JKaf7mPvFErQ9BA=\n=fo5F\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bbe39b517263017c9db56ae1d904d08846eacff7\ntype commit\ntag 0.3.0\ntagger Boris Pavlovic <boris@pavlovic.me> 1407371879 +0400\n\n* Add support of multiple HMAC keys in WSGI middleware\n  this feature allows to change HMAC key without downtime\n\n  e.g.\n  1) Add new HMAC key to all services\n  2) Switch tool to new HMAC key\n  3) Remove old HMAC keys from all services\n\n* Add osprofiler entry point\n\n  We add osprofiler trace trace_id --html/--json command\n  that fetches, parse and present trace information.\n\n* Added Docs\n  Now you can build docs locally or read them on\n  http://osprofiler.readthedocs.org/en/latest/\n"
+  }
+}

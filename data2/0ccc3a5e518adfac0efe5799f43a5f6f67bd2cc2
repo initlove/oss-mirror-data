@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjExNzQ1MDA6MGNjYzNhNWU1MThhZGZhYzBlZmU1Nzk5ZjQzYTVmNmY2N2JkMmNjMg==",
+  "sha": "0ccc3a5e518adfac0efe5799f43a5f6f67bd2cc2",
+  "url": "https://api.github.com/repos/openstack/keystonemiddleware/git/tags/0ccc3a5e518adfac0efe5799f43a5f6f67bd2cc2",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-07-22T20:56:42Z"
+  },
+  "object": {
+    "sha": "3183b3d2fc28e36efab7c19f13abe7146cf6b93b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystonemiddleware/git/commits/3183b3d2fc28e36efab7c19f13abe7146cf6b93b"
+  },
+  "tag": "7.0.0",
+  "message": "keystonemiddleware 7.0.0 release\n\nmeta:version: 7.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Colleen Murphy <colleen.murphy@suse.de>\nmeta:release:Commit: Colleen Murphy <colleen.murphy@suse.de>\nmeta:release:Change-Id: I71acd5de3f21f1e29621d480d44e8f7783fd864b\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl02IwoZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2GjQC/9TzhDKirZ7GEU8iaGDugo1\nZo4Bnj7VD9SXLcNUw5pBihXNWqwzc5o5h3xsQHyd32BwOHz/2kRTN4isTAyEG/a7\n5aD3ifIF2E3hLCu15FCiWGzlkebOhhf6FZSISEhnHIZWiTn1xqaxj6x/uvputNtF\n7CoCQiT1tedPkjwwEDQva58lSjLbEk33CGjhFt6qEZhbyc4dzUa59lQDEJyLJ0T0\nnzqSrc8AtFJOobaB5quDm1Bngwpr4tj6pO6bJ6JtEGIcgW/I1R2M2sZJHRqQNjxt\nmm9tEOi6dZQyMojF2WQMwTlu9z3Ftea9vKbHx48zwsQwWKo0eJzlxK+23sTudEwA\nBkDiDbKqS6JKV6VgGOdmLiF7KJ1ggbh4ZZcwxAn3clqFkSyyjgP64ItKX1HkO1v6\ncCh1pFu8Pwb3jsqBVNd8ZVf0e57OEV2NF6GBOxBj7IVOpAb2qixMsYcWkNZ6DoBp\n7G0hd6rt9tmL4iMyttsNX9kPQzAHbkZcph28i/+Omgc=\n=zNoV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl02IwoZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2GjQC/9TzhDKirZ7GEU8iaGDugo1\nZo4Bnj7VD9SXLcNUw5pBihXNWqwzc5o5h3xsQHyd32BwOHz/2kRTN4isTAyEG/a7\n5aD3ifIF2E3hLCu15FCiWGzlkebOhhf6FZSISEhnHIZWiTn1xqaxj6x/uvputNtF\n7CoCQiT1tedPkjwwEDQva58lSjLbEk33CGjhFt6qEZhbyc4dzUa59lQDEJyLJ0T0\nnzqSrc8AtFJOobaB5quDm1Bngwpr4tj6pO6bJ6JtEGIcgW/I1R2M2sZJHRqQNjxt\nmm9tEOi6dZQyMojF2WQMwTlu9z3Ftea9vKbHx48zwsQwWKo0eJzlxK+23sTudEwA\nBkDiDbKqS6JKV6VgGOdmLiF7KJ1ggbh4ZZcwxAn3clqFkSyyjgP64ItKX1HkO1v6\ncCh1pFu8Pwb3jsqBVNd8ZVf0e57OEV2NF6GBOxBj7IVOpAb2qixMsYcWkNZ6DoBp\n7G0hd6rt9tmL4iMyttsNX9kPQzAHbkZcph28i/+Omgc=\n=zNoV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3183b3d2fc28e36efab7c19f13abe7146cf6b93b\ntype commit\ntag 7.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1563829002 +0000\n\nkeystonemiddleware 7.0.0 release\n\nmeta:version: 7.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Colleen Murphy <colleen.murphy@suse.de>\nmeta:release:Commit: Colleen Murphy <colleen.murphy@suse.de>\nmeta:release:Change-Id: I71acd5de3f21f1e29621d480d44e8f7783fd864b\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

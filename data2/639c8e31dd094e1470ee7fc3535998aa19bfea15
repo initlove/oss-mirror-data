@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTk3MTg1Mjo2MzljOGUzMWRkMDk0ZTE0NzBlZTdmYzM1MzU5OThhYTE5YmZlYTE1",
+  "sha": "639c8e31dd094e1470ee7fc3535998aa19bfea15",
+  "url": "https://api.github.com/repos/openstack/murano/git/tags/639c8e31dd094e1470ee7fc3535998aa19bfea15",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-09-15T18:25:12Z"
+  },
+  "object": {
+    "sha": "62f1a0fcf2ae193b6afc440fc68dda04c42ff0ec",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/murano/git/commits/62f1a0fcf2ae193b6afc440fc68dda04c42ff0ec"
+  },
+  "tag": "3.0.0.0rc1",
+  "message": "murano 3.0.0.0rc1 release candidate\n\nmeta:version: 3.0.0.0rc1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kirill Zaitsev <k.zaitsev@me.com>\nmeta:release:Commit: Kirill Zaitsev <k.zaitsev@me.com>\nmeta:release:Change-Id: I2450f1a919ffcbfaaafad608fa606ffa7428f201\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX2ueIAAoJENljH+rwzGInOl8IAJzFfniEnndeK8vb7duRxpjI\n+ByCUhFpVNhB89ExdrOQh4CjzVpQ4TB071fCkTjoLJ8rM5taBf0zdTOWYnkdmPif\nRsdoGI+bNlu4cA4g6SSjomkzLKJmHJQNHHhe7XDT4BxbiV9vgZNyS43QmkkhRBgb\nfBiBTbfRKPCMZKqEjgRk5A1V3bE34+zRS61gopNTB3uiSjYFwzZrtZ4NrzizXpP4\n4BNJfAWDzBaFC7f1vfu2GdXmZsauuDRj2qjoAemRL2cKjHfqpjOwbuvNUr5CUrtr\nPdBQAek/3VimtqsAgQ8pGM87A5L8M6bhqN7+0isfx3hSLUj5I9+NRvJhmDs830E=\n=Ruaf\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX2ueIAAoJENljH+rwzGInOl8IAJzFfniEnndeK8vb7duRxpjI\n+ByCUhFpVNhB89ExdrOQh4CjzVpQ4TB071fCkTjoLJ8rM5taBf0zdTOWYnkdmPif\nRsdoGI+bNlu4cA4g6SSjomkzLKJmHJQNHHhe7XDT4BxbiV9vgZNyS43QmkkhRBgb\nfBiBTbfRKPCMZKqEjgRk5A1V3bE34+zRS61gopNTB3uiSjYFwzZrtZ4NrzizXpP4\n4BNJfAWDzBaFC7f1vfu2GdXmZsauuDRj2qjoAemRL2cKjHfqpjOwbuvNUr5CUrtr\nPdBQAek/3VimtqsAgQ8pGM87A5L8M6bhqN7+0isfx3hSLUj5I9+NRvJhmDs830E=\n=Ruaf\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 62f1a0fcf2ae193b6afc440fc68dda04c42ff0ec\ntype commit\ntag 3.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1473963912 +0000\n\nmurano 3.0.0.0rc1 release candidate\n\nmeta:version: 3.0.0.0rc1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kirill Zaitsev <k.zaitsev@me.com>\nmeta:release:Commit: Kirill Zaitsev <k.zaitsev@me.com>\nmeta:release:Change-Id: I2450f1a919ffcbfaaafad608fa606ffa7428f201\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

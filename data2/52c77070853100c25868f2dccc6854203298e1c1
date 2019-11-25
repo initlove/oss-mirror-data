@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ5MDk2ODQ6NTJjNzcwNzA4NTMxMDBjMjU4NjhmMmRjY2M2ODU0MjAzMjk4ZTFjMQ==",
+  "sha": "52c77070853100c25868f2dccc6854203298e1c1",
+  "url": "https://api.github.com/repos/openstack/tooz/git/tags/52c77070853100c25868f2dccc6854203298e1c1",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-01-12T09:39:26Z"
+  },
+  "object": {
+    "sha": "9ad740fa1e0bd435844e7d7831199f37e9646847",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/tooz/git/commits/9ad740fa1e0bd435844e7d7831199f37e9646847"
+  },
+  "tag": "1.47.0",
+  "message": "tooz 1.47.0 release\n\nmeta:version: 1.47.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Julien Danjou <julien@danjou.info>\nmeta:release:Change-Id: I92cc54ef7afe4a512334fe12fdef6396e5bc2d81\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+1: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYd07OAAoJELkGmxM1cAzcjHgIAKgmcKzU8oVyJ6417riFjG18\neMhbRRIH1Cg6QklKQc1xJotqEEmhbrPi9tSzjCjogyFVmwMiagw6igTuwkM+6uFm\ncslkq83nwjJEOvHJikKtcxf21Iw9Rfj8uJ2+hGhuZ/0XYuAIlsFVq/Fts+s+SKzN\nrwIx7sz7VACLYCmDvoAYxSSeGLYfBdFC2XTJaSycELnMoy6mt1AphcKoBV/SA/15\nsc2bKTt/6SvUxhs6GXH2/k81kGxe2TONpgUNVW8VJrh9Q/7dxtTGbZ0XVVE745yD\n1EWbYJnPz7qjq3v2xU582+DxOBQ5lwqTxXEPm++Ku8ZhER68xn8kBFMpRiA9cuw=\n=xOfr\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYd07OAAoJELkGmxM1cAzcjHgIAKgmcKzU8oVyJ6417riFjG18\neMhbRRIH1Cg6QklKQc1xJotqEEmhbrPi9tSzjCjogyFVmwMiagw6igTuwkM+6uFm\ncslkq83nwjJEOvHJikKtcxf21Iw9Rfj8uJ2+hGhuZ/0XYuAIlsFVq/Fts+s+SKzN\nrwIx7sz7VACLYCmDvoAYxSSeGLYfBdFC2XTJaSycELnMoy6mt1AphcKoBV/SA/15\nsc2bKTt/6SvUxhs6GXH2/k81kGxe2TONpgUNVW8VJrh9Q/7dxtTGbZ0XVVE745yD\n1EWbYJnPz7qjq3v2xU582+DxOBQ5lwqTxXEPm++Ku8ZhER68xn8kBFMpRiA9cuw=\n=xOfr\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9ad740fa1e0bd435844e7d7831199f37e9646847\ntype commit\ntag 1.47.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1484213966 +0000\n\ntooz 1.47.0 release\n\nmeta:version: 1.47.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Julien Danjou <julien@danjou.info>\nmeta:release:Change-Id: I92cc54ef7afe4a512334fe12fdef6396e5bc2d81\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+1: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

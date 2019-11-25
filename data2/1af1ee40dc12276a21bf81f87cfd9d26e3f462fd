@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MToxYWYxZWU0MGRjMTIyNzZhMjFiZjgxZjg3Y2ZkOWQyNmUzZjQ2MmZk",
+  "sha": "1af1ee40dc12276a21bf81f87cfd9d26e3f462fd",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/1af1ee40dc12276a21bf81f87cfd9d26e3f462fd",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-06-26T23:39:43Z"
+  },
+  "object": {
+    "sha": "0d7c1b1a420291804f3df8090031d5211399adb2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/0d7c1b1a420291804f3df8090031d5211399adb2"
+  },
+  "tag": "v1.1.158",
+  "message": "Release of 1.1.158\n\n- 0d7c1b1a420291804f3df8090031d5211399adb2: Merge pull request #563 from qiangdavidliu/master\n- 9b9586c4da8aed766a8a343d9665b53d0ca87398: Adding configurable awsAsg cache expiry time\n- bac3649d5d4d0661d1f63b38d20055d4f8f3d052: Merge pull request #557 from kukgini/master\n- 011c5f96313e83c32b9746b8bfecee4a9080e8b2: Merge pull request #556 from qiangdavidliu/master\n- b33a368cd784ab8b7fe105b700ae60faae5d1253: AwsAsg refresh fixes (avoid extra calls to aws api + fix potential classCastException)\n- 539ea4b4f4fa43061f90c836d759ddf7e733ebf8: fix package name of serializer\n- 365ae3a2b4235f1fbb809bf4f0acb53555f0ee46: touch file to force a rebuild\n- 5f57e111f27bcab9720532971985a8ee18b0a1d5: Fixing a flaky unit test\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

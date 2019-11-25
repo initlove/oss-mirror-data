@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ5MDk2ODQ6OWRkOTgyZWQwZjQ0MTBlNjgxMzlmYjdhNjczZDgxNjNjM2FkN2E3ZA==",
+  "sha": "9dd982ed0f4410e68139fb7a673d8163c3ad7a7d",
+  "url": "https://api.github.com/repos/openstack/tooz/git/tags/9dd982ed0f4410e68139fb7a673d8163c3ad7a7d",
+  "tagger": {
+    "name": "Davanum Srinivas",
+    "email": "davanum@gmail.com",
+    "date": "2016-06-10T01:33:47Z"
+  },
+  "object": {
+    "sha": "7f15e34c5269bc9ad3ecb56c9dedccd55e31032e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/tooz/git/commits/7f15e34c5269bc9ad3ecb56c9dedccd55e31032e"
+  },
+  "tag": "1.38.0",
+  "message": "tooz 1.38.0 release\n\nmeta:version: 1.38.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Commit: Davanum Srinivas <davanum@gmail.com>\nmeta:release:Change-Id: Ia9f8ba9188e546c9e107958dde2908415531b50c\nmeta:release:+    * Add policy registration and authorize method\n-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAldaGPsACgkQgNg6eWEDv1mAQQCfduJWjLGnxtxw0gJk/khydnoT\n2bMAoMr3swoNvef5f050ye7g7Oz89HqC\n=GHsb\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAldaGPsACgkQgNg6eWEDv1mAQQCfduJWjLGnxtxw0gJk/khydnoT\n2bMAoMr3swoNvef5f050ye7g7Oz89HqC\n=GHsb\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7f15e34c5269bc9ad3ecb56c9dedccd55e31032e\ntype commit\ntag 1.38.0\ntagger Davanum Srinivas <davanum@gmail.com> 1465522427 -0400\n\ntooz 1.38.0 release\n\nmeta:version: 1.38.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Commit: Davanum Srinivas <davanum@gmail.com>\nmeta:release:Change-Id: Ia9f8ba9188e546c9e107958dde2908415531b50c\nmeta:release:+    * Add policy registration and authorize method\n"
+  }
+}

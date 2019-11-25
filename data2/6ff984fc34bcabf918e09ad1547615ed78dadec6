@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjo2ZmY5ODRmYzM0YmNhYmY5MThlMDlhZDE1NDc2MTVlZDc4ZGFkZWM2",
+  "sha": "6ff984fc34bcabf918e09ad1547615ed78dadec6",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/6ff984fc34bcabf918e09ad1547615ed78dadec6",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:36:19Z"
+  },
+  "object": {
+    "sha": "3ff1d059f12cad6a25d19dd09a72824344dbc30f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/3ff1d059f12cad6a25d19dd09a72824344dbc30f"
+  },
+  "tag": "0.7.3",
+  "message": "v0.7.3\n- xml_parser: Add file path into error messages\n- Refactor: Replace g_error() with g_critical() (RhBug: 1162102)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

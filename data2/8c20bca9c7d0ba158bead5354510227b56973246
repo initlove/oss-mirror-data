@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEwNzQxMTY6OGMyMGJjYTljN2QwYmExNThiZWFkNTM1NDUxMDIyN2I1Njk3MzI0Ng==",
+  "sha": "8c20bca9c7d0ba158bead5354510227b56973246",
+  "url": "https://api.github.com/repos/openstack/oslo.messaging/git/tags/8c20bca9c7d0ba158bead5354510227b56973246",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-04T13:00:55Z"
+  },
+  "object": {
+    "sha": "86976f4a45b45a6cdfa16454c011518dd85cbd7a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.messaging/git/commits/86976f4a45b45a6cdfa16454c011518dd85cbd7a"
+  },
+  "tag": "5.35.6",
+  "message": "oslo.messaging 5.35.6 release\n\nmeta:version: 5.35.6\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Commit: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Change-Id: I97a9ce144f0da090bfa50d6b3c8e63df61dee0e3\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2XQocZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OIADADMwnEWAbfudZKW3mOqfLRj\nJba75tlWbfL9Ic2hTgZ6dZG0Q5mH3sluhIu6nAkhdD7+frgg++y3sbYBA/tLpBn1\nlDCC1RK/MKhjZA3zDkIyT4suXuap9tVgjRC452+VStm4dxyZXGFelzFLqAHITYnU\nKUUXX/YwJeIYzMq9+ayO3TFLsPQK6asMZ9tZnsFC88fopTXUt7Anf4Xw8iNPRPCC\nt04DivkhH8uUHpudJUqmchY37uWISylb7KHnQZ8pv8THGmmA5PxuHaXmKcizL6+U\n5bI+u7sEATV6CeuompcpHcfmBMJvO4c0av3xnu4dlolYTj1XecAlYoUjmJA2aLPo\nvOGWSrTYxTG6BIIWUNv9Sam34s1pqURX6CSSUuap0GwGjyRYyV56laQGJoehpxZL\n4gPvVI5EQq4b1GE+IG8ErXxi2HSc9Zu0geB6lqzsIBAKpdT+oclHwgi8ZNlO5WL8\nhobL8Bqt3R95R3Et+JQaZC5DdSSbeDUk7QQr8oWchgQ=\n=hE+H\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2XQocZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OIADADMwnEWAbfudZKW3mOqfLRj\nJba75tlWbfL9Ic2hTgZ6dZG0Q5mH3sluhIu6nAkhdD7+frgg++y3sbYBA/tLpBn1\nlDCC1RK/MKhjZA3zDkIyT4suXuap9tVgjRC452+VStm4dxyZXGFelzFLqAHITYnU\nKUUXX/YwJeIYzMq9+ayO3TFLsPQK6asMZ9tZnsFC88fopTXUt7Anf4Xw8iNPRPCC\nt04DivkhH8uUHpudJUqmchY37uWISylb7KHnQZ8pv8THGmmA5PxuHaXmKcizL6+U\n5bI+u7sEATV6CeuompcpHcfmBMJvO4c0av3xnu4dlolYTj1XecAlYoUjmJA2aLPo\nvOGWSrTYxTG6BIIWUNv9Sam34s1pqURX6CSSUuap0GwGjyRYyV56laQGJoehpxZL\n4gPvVI5EQq4b1GE+IG8ErXxi2HSc9Zu0geB6lqzsIBAKpdT+oclHwgi8ZNlO5WL8\nhobL8Bqt3R95R3Et+JQaZC5DdSSbeDUk7QQr8oWchgQ=\n=hE+H\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 86976f4a45b45a6cdfa16454c011518dd85cbd7a\ntype commit\ntag 5.35.6\ntagger OpenStack Release Bot <infra-root@openstack.org> 1570194055 +0000\n\noslo.messaging 5.35.6 release\n\nmeta:version: 5.35.6\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Commit: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Change-Id: I97a9ce144f0da090bfa50d6b3c8e63df61dee0e3\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\n"
+  }
+}

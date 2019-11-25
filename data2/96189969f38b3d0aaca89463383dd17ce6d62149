@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY2MDA3ODA6OTYxODk5NjlmMzhiM2QwYWFjYTg5NDYzMzgzZGQxN2NlNmQ2MjE0OQ==",
+  "sha": "96189969f38b3d0aaca89463383dd17ce6d62149",
+  "url": "https://api.github.com/repos/openstack/ironic-inspector/git/tags/96189969f38b3d0aaca89463383dd17ce6d62149",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-25T16:38:55Z"
+  },
+  "object": {
+    "sha": "17c796b49171b6133e988f78c92d7c9b7ed3fcf3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic-inspector/git/commits/17c796b49171b6133e988f78c92d7c9b7ed3fcf3"
+  },
+  "tag": "queens-em",
+  "message": "ironic-inspector queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I1ba948e6df3ffd4e625adf7455f75bd0e3b7ba5d\nmeta:release:Code-Review+1: Mark Goddard <mark@stackhpc.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2zJR8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2DroC/91+ScCWCVwTKJ5EKwmTZs6\ncAVYM5aWhoA2SXi29MT9g/TaeFm4GMiBr3z+dHHfKIsTrGOSViwk0ALXqav5E0zd\n+mB6GfGAEDf6VaTwijwt3818P7FQ6nLThhIJztiO0ornzhigiIoipiDCX6HPUdNa\nhqkYMGi+TqhXgVGboY8q7XQZ/T2fXg7S2n8S/EOdN59F3mpsHMfDFF6ggOOJ3g5k\nY7pxKfWqRCKvU2p3e+C7dFO93ThiCKo3rcY8Qo/VTkeqDDmDQhoKPZgTdmO7cLB9\nJoq5jwmqfgcACAbdQxoZwT5GG9TIf5FhwBx+FBgQjIODv1OhUAv3SHI/Y+43yP7H\nbSccEOvVRweeFKfp0RQvaP875lWQVoiO1r3DnFczT4MAt6Oyx3ZSOITna7K7GXVs\ne92YAg/C/oxd1Dvp+iGxWnpTFm6dDOKu6YDY4/rsj2XjcHC+84hUABrIjfVHTnbG\nwJ5ym1UNAUF7cu4GkitNu0YGuNyGFXmP5Hi7jSQ8FrI=\n=84HX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2zJR8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2DroC/91+ScCWCVwTKJ5EKwmTZs6\ncAVYM5aWhoA2SXi29MT9g/TaeFm4GMiBr3z+dHHfKIsTrGOSViwk0ALXqav5E0zd\n+mB6GfGAEDf6VaTwijwt3818P7FQ6nLThhIJztiO0ornzhigiIoipiDCX6HPUdNa\nhqkYMGi+TqhXgVGboY8q7XQZ/T2fXg7S2n8S/EOdN59F3mpsHMfDFF6ggOOJ3g5k\nY7pxKfWqRCKvU2p3e+C7dFO93ThiCKo3rcY8Qo/VTkeqDDmDQhoKPZgTdmO7cLB9\nJoq5jwmqfgcACAbdQxoZwT5GG9TIf5FhwBx+FBgQjIODv1OhUAv3SHI/Y+43yP7H\nbSccEOvVRweeFKfp0RQvaP875lWQVoiO1r3DnFczT4MAt6Oyx3ZSOITna7K7GXVs\ne92YAg/C/oxd1Dvp+iGxWnpTFm6dDOKu6YDY4/rsj2XjcHC+84hUABrIjfVHTnbG\nwJ5ym1UNAUF7cu4GkitNu0YGuNyGFXmP5Hi7jSQ8FrI=\n=84HX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 17c796b49171b6133e988f78c92d7c9b7ed3fcf3\ntype commit\ntag queens-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572021535 +0000\n\nironic-inspector queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I1ba948e6df3ffd4e625adf7455f75bd0e3b7ba5d\nmeta:release:Code-Review+1: Mark Goddard <mark@stackhpc.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

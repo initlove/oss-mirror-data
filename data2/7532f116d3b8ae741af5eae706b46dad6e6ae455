@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI5ODI1MTI1Ojc1MzJmMTE2ZDNiOGFlNzQxYWY1ZWFlNzA2YjQ2ZGFkNmU2YWU0NTU=",
+  "sha": "7532f116d3b8ae741af5eae706b46dad6e6ae455",
+  "url": "https://api.github.com/repos/projectcalico/node/git/tags/7532f116d3b8ae741af5eae706b46dad6e6ae455",
+  "tagger": {
+    "name": "Karthik Ramasubramanian",
+    "email": "karthik@tigera.io",
+    "date": "2018-11-09T04:24:55Z"
+  },
+  "object": {
+    "sha": "6b4f639d8b1af1a99156e1c5fcf44eda01b53942",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/node/git/commits/6b4f639d8b1af1a99156e1c5fcf44eda01b53942"
+  },
+  "tag": "v3.3.1",
+  "message": "- d2f4efca880558c11bb542e84077bc9ac705fcfa Fix #88 : Needs to clear NodeNetworkUnavailable flag on Kubernetes\n- 2ce788c7a1a7e480c926989e570348d1a2019c98 Update libcalico-go to 489a4d4fcdf275caca1edf59e95054b6e8601555\n- c713a2768cfd2d8b59ca0cad518568ff592f33fa Update libcalico-go, confd, and felix\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

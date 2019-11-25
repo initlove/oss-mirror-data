@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQxMzIxOTI6NzBhNGViZWQyNjgyNzRhZTY2ZGE2YjZiOWM0MGY0OTM2NmE0YTFhOQ==",
+  "sha": "70a4ebed268274ae66da6b6b9c40f49366a4a1a9",
+  "url": "https://api.github.com/repos/pkg/sftp/git/tags/70a4ebed268274ae66da6b6b9c40f49366a4a1a9",
+  "tagger": {
+    "name": "John Eikenberry",
+    "email": "jae@zhar.net",
+    "date": "2019-02-05T21:09:28Z"
+  },
+  "object": {
+    "sha": "a713b07e6d90e1831d7fefcb69f1310edb3783ae",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pkg/sftp/git/commits/a713b07e6d90e1831d7fefcb69f1310edb3783ae"
+  },
+  "tag": "v1.10.0",
+  "message": "client can now detect sftp connection close\n\nImplments a clintConn.Wait() method.\nFixes: #278\n\nThanks @wutzx for the PR.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlxZ/IEACgkQPZqeWROp\nRaJ2dwf9Em3rr2Qx0bfMMNiKDXBu4LCWG0zZJb1U93D9nf01UssNPlwjWr/J+dX4\nU2vGw740Uncs4T4T2iYczx1K+GER5xuU6PSbfaKSRmHksJ9+ng+Pj+P8FuPWOlDq\nRFVWkwMtMYFZHtwUENxQBF84UoVTudAYTRxre+sjKatVqXtrULl6msM9Sw69GZM9\nOMktX/04W1CFl8OgNUMfV3FMrIb+tFxRvC3eKg3/6ia4IybHGTVKbpeRhY0vkdUi\nP/Jznc+h089Pvn3/TLo6/EtGp78fN0effS+DqrxdRMRzMVE/CLTFE2rEFFYE+bAa\nfRaMOtHrdArgzMhoynpqoftyUly2Yw==\n=2gKF\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlxZ/IEACgkQPZqeWROp\nRaJ2dwf9Em3rr2Qx0bfMMNiKDXBu4LCWG0zZJb1U93D9nf01UssNPlwjWr/J+dX4\nU2vGw740Uncs4T4T2iYczx1K+GER5xuU6PSbfaKSRmHksJ9+ng+Pj+P8FuPWOlDq\nRFVWkwMtMYFZHtwUENxQBF84UoVTudAYTRxre+sjKatVqXtrULl6msM9Sw69GZM9\nOMktX/04W1CFl8OgNUMfV3FMrIb+tFxRvC3eKg3/6ia4IybHGTVKbpeRhY0vkdUi\nP/Jznc+h089Pvn3/TLo6/EtGp78fN0effS+DqrxdRMRzMVE/CLTFE2rEFFYE+bAa\nfRaMOtHrdArgzMhoynpqoftyUly2Yw==\n=2gKF\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a713b07e6d90e1831d7fefcb69f1310edb3783ae\ntype commit\ntag v1.10.0\ntagger John Eikenberry <jae@zhar.net> 1549400968 -0800\n\nclient can now detect sftp connection close\n\nImplments a clintConn.Wait() method.\nFixes: #278\n\nThanks @wutzx for the PR.\n"
+  }
+}

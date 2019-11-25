@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOjkyOTkwNWIyNjRjYWM2M2ZmOGQ3ODkxMjQ1MzI2ZjM1N2I3Y2Y5MzA=",
+  "sha": "929905b264cac63ff8d7891245326f357b7cf930",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/929905b264cac63ff8d7891245326f357b7cf930",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2017-07-17T13:28:51Z"
+  },
+  "object": {
+    "sha": "6f3d5e1caeee135364a4f3beb7d22472b731137a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/6f3d5e1caeee135364a4f3beb7d22472b731137a"
+  },
+  "tag": "5.0.0-beta8",
+  "message": "Version 5.0.0-beta8\n\nIf we're lucky this will be the last of the betas. The remaining potentially blocking issues have to do with improving `SerialPort.list` which would change their output. The two issues are #1220 and #1084. I need help on those two issues, if I'm not able to close them soon, I'll release anyway, and they'll be fixed for 6x. This release is large enough. -@reconbot\n\n- [linux] Add the `ttyAP` subsystem to serialport list thanks to @fly19890211 for reporting it\n- [all] Have drain wait for pending JS write operations before calling system drain thanks to @digitalhack for reporting it\n- [unix] Move setting up the baudrate to the end of the open() to better support custom baudrates\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

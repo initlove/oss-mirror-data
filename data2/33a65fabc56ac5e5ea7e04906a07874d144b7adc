@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzA1NTQ4ODY6MzNhNjVmYWJjNTZhYzVlNWVhN2UwNDkwNmEwNzg3NGQxNDRiN2FkYw==",
+  "sha": "33a65fabc56ac5e5ea7e04906a07874d144b7adc",
+  "url": "https://api.github.com/repos/openstack/oslo.versionedobjects/git/tags/33a65fabc56ac5e5ea7e04906a07874d144b7adc",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-10-04T13:59:59Z"
+  },
+  "object": {
+    "sha": "6165add04281e9d277cda35e3266623237db1beb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.versionedobjects/git/commits/6165add04281e9d277cda35e3266623237db1beb"
+  },
+  "tag": "1.28.0",
+  "message": "oslo.versionedobjects 1.28.0 release\n\nmeta:version: 1.28.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@huawei.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@huawei.com>\nmeta:release:Change-Id: I828398197705b6dd0eeb657d56bd140c1aa5a1a5\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZ1OlfAAoJEEIeZHKBH5qBmggIAIoc03bNnRSNMU7UGZuXh5+M\n/GWlw7cQ0Ov3cws4SyFafPZaWmVyZLao5umegFZTH3/3eRsMSaoxJV5xnNOgWY15\nTKYaUPkvkdgNJOQvV0a8adDbghdNN8YTRh954ImWhL3rJWXA9BXTOPydwXIt6oO2\nT8otK1JgcVZeJktjgOYVqLlLzbIFVGPW6Bh5BTNiqMkN4KPyCK9L6wBoLeRw9BrQ\nMPKTegpWAwkc3BSMnnz06z3ruIcts/gNlUONGDCF+JZfbo9hdfbna17rP0q8wfLp\nClyBwJPXn+AXXBSZmNbJU4a6byWx1NWl0g02T65IuQ/q7u4lIHcoCuaU+V+Tz80=\n=hxoE\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZ1OlfAAoJEEIeZHKBH5qBmggIAIoc03bNnRSNMU7UGZuXh5+M\n/GWlw7cQ0Ov3cws4SyFafPZaWmVyZLao5umegFZTH3/3eRsMSaoxJV5xnNOgWY15\nTKYaUPkvkdgNJOQvV0a8adDbghdNN8YTRh954ImWhL3rJWXA9BXTOPydwXIt6oO2\nT8otK1JgcVZeJktjgOYVqLlLzbIFVGPW6Bh5BTNiqMkN4KPyCK9L6wBoLeRw9BrQ\nMPKTegpWAwkc3BSMnnz06z3ruIcts/gNlUONGDCF+JZfbo9hdfbna17rP0q8wfLp\nClyBwJPXn+AXXBSZmNbJU4a6byWx1NWl0g02T65IuQ/q7u4lIHcoCuaU+V+Tz80=\n=hxoE\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6165add04281e9d277cda35e3266623237db1beb\ntype commit\ntag 1.28.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1507125599 +0000\n\noslo.versionedobjects 1.28.0 release\n\nmeta:version: 1.28.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@huawei.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@huawei.com>\nmeta:release:Change-Id: I828398197705b6dd0eeb657d56bd140c1aa5a1a5\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQwMDI4OTo5ZDI4NDA4MGRmYzg1NDI0OWM4MzE3MDE3Y2FmZWJlZDA2YjhkOTU4",
+  "sha": "9d284080dfc854249c8317017cafebed06b8d958",
+  "url": "https://api.github.com/repos/openstack/neutron/git/tags/9d284080dfc854249c8317017cafebed06b8d958",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-09-25T14:32:15Z"
+  },
+  "object": {
+    "sha": "6790b5c70b988d48f7f5518c24a8fe2234ac05ef",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron/git/commits/6790b5c70b988d48f7f5518c24a8fe2234ac05ef"
+  },
+  "tag": "11.0.1",
+  "message": "neutron 11.0.1 release\n\nmeta:version: 11.0.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Commit: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Change-Id: I67b33a5fb7fe6c667c52b6112bb54d70976855d1\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZyRNvAAoJEEIeZHKBH5qBTA4H/1AzcVDFu6lrL7ybLkeaGLTN\nXjUXJoyil4b9uBuY6uPfRpgZ1SQSwNbsNRFW4jBOjMHhGEyzYgDufuFzCJNQzoeP\nJ7OrPZVzP+qrGCelq2WcUym+aUwxqe5I/utSltGCpOI/twFVlUvyQbzkywmtfiJB\n2xukYmUXvj8Zhz2IqT9ZkcpHdRr7HEcA20X6w2f9Afd0y8Fa4JEmCtQZCGLPNsfw\n7OEqDiBLV3XZSSB846R9FuLWnH8E1NCjyL4WIQma08DZ89DSlG01KvuroJGepfxd\nnVVbr26h6dFIlUhU4hh4IltrC8F0+Y11MUjyhNBFAfTupx7AW177SLFZIDbpVZI=\n=ZLth\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZyRNvAAoJEEIeZHKBH5qBTA4H/1AzcVDFu6lrL7ybLkeaGLTN\nXjUXJoyil4b9uBuY6uPfRpgZ1SQSwNbsNRFW4jBOjMHhGEyzYgDufuFzCJNQzoeP\nJ7OrPZVzP+qrGCelq2WcUym+aUwxqe5I/utSltGCpOI/twFVlUvyQbzkywmtfiJB\n2xukYmUXvj8Zhz2IqT9ZkcpHdRr7HEcA20X6w2f9Afd0y8Fa4JEmCtQZCGLPNsfw\n7OEqDiBLV3XZSSB846R9FuLWnH8E1NCjyL4WIQma08DZ89DSlG01KvuroJGepfxd\nnVVbr26h6dFIlUhU4hh4IltrC8F0+Y11MUjyhNBFAfTupx7AW177SLFZIDbpVZI=\n=ZLth\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6790b5c70b988d48f7f5518c24a8fe2234ac05ef\ntype commit\ntag 11.0.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1506349935 +0000\n\nneutron 11.0.1 release\n\nmeta:version: 11.0.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Commit: Ihar Hrachyshka <ihrachys@redhat.com>\nmeta:release:Change-Id: I67b33a5fb7fe6c667c52b6112bb54d70976855d1\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

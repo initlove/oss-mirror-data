@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2Nzo5N2JiNDg1NjUyOGQwZjM5MTM5MjU1MGQ2NDliMzFlZDIwYTY4NmRh",
+  "sha": "97bb4856528d0f391392550d649b31ed20a686da",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/97bb4856528d0f391392550d649b31ed20a686da",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2016-05-11T00:39:19Z"
+  },
+  "object": {
+    "sha": "281eb61b09d87765d7c2b92f6982b3fe76ccb0af",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/281eb61b09d87765d7c2b92f6982b3fe76ccb0af"
+  },
+  "tag": "8.1.2",
+  "message": "Released v8.1.2\n\n* Fix a regression on systems with uninitialized locale (:issue:`3575`).\n* Use environment markers to filter packages before determining if a\n  required wheel is supported. Solves (:issue:`3254`).\n* Make glibc parsing for `manylinux1` support more robust for the variety of\n  glibc versions found in the wild (:issue:`3588`).\n* Update environment marker support to fully support PEP 508 and legacy\n  environment markers (:issue:`3624`).\n* Always use debug logging to the ``--log`` file (:issue:`3351`).\n* Don't attempt to wrap search results for extremely narrow terminal windows\n  (:issue:`3655`).\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJXMn9SAAoJEG48vOkzctz6fvoP/3xW76zD5LF7xaGiWAs52yIS\nIfXDwOuBkxt5yWyl2tQIXCfB8qdtGiFiwq1PKCI6zDeCHPPOJz2NwRf3UjzxxlbI\nfx78BKoF0o+Z13Zmb2xJfEA1A0PkPvObdawWKaq5+TyLy7fAB4gv9apriORmniTa\n/dHftxcNPcJgyEQqXPUV1cqok4U3x/CKQze7haYvluvk8q+ZVgxbJhCLK1cErN+n\nQNYz4fR2WDujPJtREyzc/8/zjuiY5Qit11ii0l2QLwUL5wF2dE1x/obVff8lWC+o\nUCPkXu8yzzyRH3tK8zQFzm3QRWYP08DFVQpRQCvvhEFDsDdl3vYIrUhqUWweKBPo\n/IuxO/loJ58HERzzr49IKAPZU7ZbtTrOG/edmcxihGiLqhZpjQW/xuk7TIXPBOaK\nZwsQfp+z80dqS7ZoSv5E6cieH2QShwnFqRFQmMYw/Abd+MM81XqaKuWa562h8dNk\nLm5YcmGPbqdGBgHyFHqHjf7lZ2++KQRo1dBjJbZksjWZwELhATA63d/8Mdpu/2La\n83N7veWthRNmvOZy1jOQPOXNLK7Zx9iBl9kodw9Me9nWVH9ofxNn7u2W2fVF0mXE\nvINP244oT4SSV5rva6ZqgY76GkG7vE3m94YgJoDHO80zSgZu6dyotmk9tGf9eN4O\njZsKRcXDHEGo+7Dh5uZh\n=NMh/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJXMn9SAAoJEG48vOkzctz6fvoP/3xW76zD5LF7xaGiWAs52yIS\nIfXDwOuBkxt5yWyl2tQIXCfB8qdtGiFiwq1PKCI6zDeCHPPOJz2NwRf3UjzxxlbI\nfx78BKoF0o+Z13Zmb2xJfEA1A0PkPvObdawWKaq5+TyLy7fAB4gv9apriORmniTa\n/dHftxcNPcJgyEQqXPUV1cqok4U3x/CKQze7haYvluvk8q+ZVgxbJhCLK1cErN+n\nQNYz4fR2WDujPJtREyzc/8/zjuiY5Qit11ii0l2QLwUL5wF2dE1x/obVff8lWC+o\nUCPkXu8yzzyRH3tK8zQFzm3QRWYP08DFVQpRQCvvhEFDsDdl3vYIrUhqUWweKBPo\n/IuxO/loJ58HERzzr49IKAPZU7ZbtTrOG/edmcxihGiLqhZpjQW/xuk7TIXPBOaK\nZwsQfp+z80dqS7ZoSv5E6cieH2QShwnFqRFQmMYw/Abd+MM81XqaKuWa562h8dNk\nLm5YcmGPbqdGBgHyFHqHjf7lZ2++KQRo1dBjJbZksjWZwELhATA63d/8Mdpu/2La\n83N7veWthRNmvOZy1jOQPOXNLK7Zx9iBl9kodw9Me9nWVH9ofxNn7u2W2fVF0mXE\nvINP244oT4SSV5rva6ZqgY76GkG7vE3m94YgJoDHO80zSgZu6dyotmk9tGf9eN4O\njZsKRcXDHEGo+7Dh5uZh\n=NMh/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 281eb61b09d87765d7c2b92f6982b3fe76ccb0af\ntype commit\ntag 8.1.2\ntagger Donald Stufft <donald@stufft.io> 1462927159 -0400\n\nReleased v8.1.2\n\n* Fix a regression on systems with uninitialized locale (:issue:`3575`).\n* Use environment markers to filter packages before determining if a\n  required wheel is supported. Solves (:issue:`3254`).\n* Make glibc parsing for `manylinux1` support more robust for the variety of\n  glibc versions found in the wild (:issue:`3588`).\n* Update environment marker support to fully support PEP 508 and legacy\n  environment markers (:issue:`3624`).\n* Always use debug logging to the ``--log`` file (:issue:`3351`).\n* Don't attempt to wrap search results for extremely narrow terminal windows\n  (:issue:`3655`).\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDg2ODM3NToxMmFhNDk0OTYzNTNkZjkxOTc4ZmExNzE4NGEzOTViZDhjM2I5YmQ5",
+  "sha": "12aa49496353df91978fa17184a395bd8c3b9bd9",
+  "url": "https://api.github.com/repos/openstack/python-cinderclient/git/tags/12aa49496353df91978fa17184a395bd8c3b9bd9",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-01-24T22:01:56Z"
+  },
+  "object": {
+    "sha": "1de605cdd3c52795d3d6649515807239596f3054",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-cinderclient/git/commits/1de605cdd3c52795d3d6649515807239596f3054"
+  },
+  "tag": "3.5.0",
+  "message": "python-cinderclient 3.5.0 release\n\nmeta:version: 3.5.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Jay S. Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Commit: Jay S. Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Change-Id: I2179f74fffe25032f385bbea330ee4cf3074e74c\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaaQJUAAoJEEIeZHKBH5qB6cAH/1pmeRQgekRxo/3nakojZbHY\nWsXyRHNfyBTEG8Fu1HGHioeovthLzVG52CtimKHbwlx+FDoHPqPxfgfvBTtkkRan\n6sns5qh6alHPH6BKjUGPjNTzaiJjQh5HEIm3u7WsZw6UOYEDzaSIUjwl5PXHQS65\nAk0xzBvuK1ddafl1qOV1SOFgv+4yWGwwAEF6EksM+u3lj6MzlVweDgBT9RKwWzBt\n+sBKF1zBpxtKB7jDNCTIShqK29CqbWTsKh5rhTd1e0u1doXudhZZOkxWF9kcscgZ\nn0SOSWiJczYzpZUTDWuqicNCsMcov7Xzuh7ICvKQ+l9UHDxmX0cD7egt3gqEvks=\n=wm+y\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaaQJUAAoJEEIeZHKBH5qB6cAH/1pmeRQgekRxo/3nakojZbHY\nWsXyRHNfyBTEG8Fu1HGHioeovthLzVG52CtimKHbwlx+FDoHPqPxfgfvBTtkkRan\n6sns5qh6alHPH6BKjUGPjNTzaiJjQh5HEIm3u7WsZw6UOYEDzaSIUjwl5PXHQS65\nAk0xzBvuK1ddafl1qOV1SOFgv+4yWGwwAEF6EksM+u3lj6MzlVweDgBT9RKwWzBt\n+sBKF1zBpxtKB7jDNCTIShqK29CqbWTsKh5rhTd1e0u1doXudhZZOkxWF9kcscgZ\nn0SOSWiJczYzpZUTDWuqicNCsMcov7Xzuh7ICvKQ+l9UHDxmX0cD7egt3gqEvks=\n=wm+y\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1de605cdd3c52795d3d6649515807239596f3054\ntype commit\ntag 3.5.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1516831316 +0000\n\npython-cinderclient 3.5.0 release\n\nmeta:version: 3.5.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Jay S. Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Commit: Jay S. Bryant <jungleboyj@electronicjungle.net>\nmeta:release:Change-Id: I2179f74fffe25032f385bbea330ee4cf3074e74c\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

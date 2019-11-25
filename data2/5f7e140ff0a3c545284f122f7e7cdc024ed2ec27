@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDE3MDMxMDo1ZjdlMTQwZmYwYTNjNTQ1Mjg0ZjEyMmY3ZTdjZGMwMjRlZDJlYzI3",
+  "sha": "5f7e140ff0a3c545284f122f7e7cdc024ed2ec27",
+  "url": "https://api.github.com/repos/openstack/python-openstackclient/git/tags/5f7e140ff0a3c545284f122f7e7cdc024ed2ec27",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-04-16T19:03:02Z"
+  },
+  "object": {
+    "sha": "f750ff452d82edf65d693214d542f6c1106e4e9c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-openstackclient/git/commits/f750ff452d82edf65d693214d542f6c1106e4e9c"
+  },
+  "tag": "3.12.2",
+  "message": "python-openstackclient 3.12.2 release\n\nmeta:version: 3.12.2\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Change-Id: Id510eb5767775defdb903c5f7ecc887361699a04\nmeta:release:Code-Review+1: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly2JuYZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOCAhC/0YrUBei6psna6VIN+0HEoZ\nORVpnHMvUlqnHASbjEvj1+CEe0K3+PrRxfjV0W1Xc88v0YzMXFItUmBpmqVKlKxJ\nr6JELQ2XL3+VJ4pIidTUWHd6TKTV2SNccePGw6cGMVWQ/JDSX5rT13g4rG75BGys\ncMXw30o0Hlz/USUTrRqPpTea64WEe/RAyEiUl/KT9xKjaB/JLqNw1TvH7uWKEt4x\nJDciRcS6Oax46H3cVuJN8CcHLduU+9cUdBbbvhv8UgTpU6H6OMD6I5M8uzasR+XG\njk2XdvSL3AgNbuldsJOG3MnvygmXOa0hYBBei5Z3ZG+ORhsFuuEPtsk5XKP1oywG\nMs1DNh9LZuv7X7ubUUE8IWJ8fd/B0lI9LpbrVjhYgJQs/nGOJK2vOWHyt3ct21hH\nA09BrJ8HRZTJSeyCSMeAyM6o7b5KlR9ncJYwz0Q5hOXu8pTGO7OXMGltkREZoKYi\nO53+BH0apSCu/PNnkUg8dRo32mkqr10xudObFDW5eu0=\n=gOmv\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly2JuYZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOCAhC/0YrUBei6psna6VIN+0HEoZ\nORVpnHMvUlqnHASbjEvj1+CEe0K3+PrRxfjV0W1Xc88v0YzMXFItUmBpmqVKlKxJ\nr6JELQ2XL3+VJ4pIidTUWHd6TKTV2SNccePGw6cGMVWQ/JDSX5rT13g4rG75BGys\ncMXw30o0Hlz/USUTrRqPpTea64WEe/RAyEiUl/KT9xKjaB/JLqNw1TvH7uWKEt4x\nJDciRcS6Oax46H3cVuJN8CcHLduU+9cUdBbbvhv8UgTpU6H6OMD6I5M8uzasR+XG\njk2XdvSL3AgNbuldsJOG3MnvygmXOa0hYBBei5Z3ZG+ORhsFuuEPtsk5XKP1oywG\nMs1DNh9LZuv7X7ubUUE8IWJ8fd/B0lI9LpbrVjhYgJQs/nGOJK2vOWHyt3ct21hH\nA09BrJ8HRZTJSeyCSMeAyM6o7b5KlR9ncJYwz0Q5hOXu8pTGO7OXMGltkREZoKYi\nO53+BH0apSCu/PNnkUg8dRo32mkqr10xudObFDW5eu0=\n=gOmv\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f750ff452d82edf65d693214d542f6c1106e4e9c\ntype commit\ntag 3.12.2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1555441382 +0000\n\npython-openstackclient 3.12.2 release\n\nmeta:version: 3.12.2\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Change-Id: Id510eb5767775defdb903c5f7ecc887361699a04\nmeta:release:Code-Review+1: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

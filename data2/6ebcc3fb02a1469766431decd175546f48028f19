@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTAwNjUwNjo2ZWJjYzNmYjAyYTE0Njk3NjY0MzFkZWNkMTc1NTQ2ZjQ4MDI4ZjE5",
+  "sha": "6ebcc3fb02a1469766431decd175546f48028f19",
+  "url": "https://api.github.com/repos/openstack/pbr/git/tags/6ebcc3fb02a1469766431decd175546f48028f19",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-06-14T03:55:25Z"
+  },
+  "object": {
+    "sha": "17f9439e9f9026dd3e8cae1e917a78e80195152c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/pbr/git/commits/17f9439e9f9026dd3e8cae1e917a78e80195152c"
+  },
+  "tag": "5.3.0",
+  "message": "pbr 5.3.0 release\n\nmeta:version: 5.3.0\nmeta:diff-start: -\nmeta:series: independent\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Ic36a8a77f83f5513bd95781e445231cfb55edd3a\nmeta:release:Code-Review+1: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0DGq0ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2AhuC/91FYWbRpWI8ycqUHU6DWiL\nLPmKyuP6ewjLeotr4/PCrsKeAmVBuGFBkrjx6fwjPHtr2+j0j9mm/cwK9djudIju\nTNkbGl1OVu5YO0wxO4HHg6m+2QnoNpSFqy8Sksh6xt5ZDUAmCXU4nKSmV+4cm6jS\ndRtbjvvSzIILSfFVSNAwNb+vDbO3W0VzPHEhsmLxEMzrDdIkou1YkN0mGStqAvJR\nB0k/WR+2E3FnYe6pBzbr3nKgMXdJJ/ljRXqc9xgiF478eP3FdQ3H07gPNFoyk3zx\nyibucpz5LXExInKy4ii5Q05/L4+6F2d5ollIgtcX6CuC0Je+VugIRLUoU7FRu8H6\nokPi70P/ZtbqteReFEoGvc1CkMGhkA0xZtib0WJwRWxdCcgjfpufybUHV0KaJ05o\n7wh60ZcEP42S54LDajJ//VKKeRR3rmjkOq950pBCv3BMG+ZlDmcTsuvgOy7pdwH1\n7AegNK5IXI7gbRuRfF2SDPj7NP5YZ+ZLcDoCgg2J8m4=\n=/NKo\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0DGq0ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2AhuC/91FYWbRpWI8ycqUHU6DWiL\nLPmKyuP6ewjLeotr4/PCrsKeAmVBuGFBkrjx6fwjPHtr2+j0j9mm/cwK9djudIju\nTNkbGl1OVu5YO0wxO4HHg6m+2QnoNpSFqy8Sksh6xt5ZDUAmCXU4nKSmV+4cm6jS\ndRtbjvvSzIILSfFVSNAwNb+vDbO3W0VzPHEhsmLxEMzrDdIkou1YkN0mGStqAvJR\nB0k/WR+2E3FnYe6pBzbr3nKgMXdJJ/ljRXqc9xgiF478eP3FdQ3H07gPNFoyk3zx\nyibucpz5LXExInKy4ii5Q05/L4+6F2d5ollIgtcX6CuC0Je+VugIRLUoU7FRu8H6\nokPi70P/ZtbqteReFEoGvc1CkMGhkA0xZtib0WJwRWxdCcgjfpufybUHV0KaJ05o\n7wh60ZcEP42S54LDajJ//VKKeRR3rmjkOq950pBCv3BMG+ZlDmcTsuvgOy7pdwH1\n7AegNK5IXI7gbRuRfF2SDPj7NP5YZ+ZLcDoCgg2J8m4=\n=/NKo\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 17f9439e9f9026dd3e8cae1e917a78e80195152c\ntype commit\ntag 5.3.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1560484525 +0000\n\npbr 5.3.0 release\n\nmeta:version: 5.3.0\nmeta:diff-start: -\nmeta:series: independent\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Ic36a8a77f83f5513bd95781e445231cfb55edd3a\nmeta:release:Code-Review+1: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

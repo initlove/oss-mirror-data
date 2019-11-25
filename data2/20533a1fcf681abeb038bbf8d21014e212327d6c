@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAzMDk4NjoyMDUzM2ExZmNmNjgxYWJlYjAzOGJiZjhkMjEwMTRlMjEyMzI3ZDZj",
+  "sha": "20533a1fcf681abeb038bbf8d21014e212327d6c",
+  "url": "https://api.github.com/repos/openstack/python-keystoneclient/git/tags/20533a1fcf681abeb038bbf8d21014e212327d6c",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-02-28T18:13:00Z"
+  },
+  "object": {
+    "sha": "6c4bb8b529edc2e619fdda212f21dca8160decad",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-keystoneclient/git/commits/6c4bb8b529edc2e619fdda212f21dca8160decad"
+  },
+  "tag": "3.19.0",
+  "message": "python-keystoneclient 3.19.0 release\n\nmeta:version: 3.19.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Colleen Murphy <colleen.murphy@suse.de>\nmeta:release:Commit: Colleen Murphy <colleen.murphy@suse.de>\nmeta:release:Change-Id: Ie9bfa5123fe09d840f3001ab93e7fed23fb202f8\nmeta:release:Code-Review+1: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJceCSsAAoJEBpUEUgFTp44RA8MAKepNJCkKOWnpCW37wbjxDug\ntM/cigDssorhlZS9nNBxcpg9xabSykIdC3RIB/GCCP2YWwp4i/KaYg0uGDDQgfMl\nFn60SPNJlYgDrbJdPSMWgBZ14pk0m3OUeIROnBB5KDKMPqZXMFzcXfB8LsnF4/9p\nEH6oXChBI/uLBjeM6n5U2qqqqOT+49yMo0WLPmZxtWmMk2Hgzc9sWjy9XwQmlcev\nFxSMIGc5aljn17DQ7uWtc6uffTU/herCvbZl/6ePM417mBmdjfO+LUQvhdZemPF8\nXGqWJXaCdrkbzMMKeF8L93Vh7aNwLRKMvcQgUEV0LgXYZJkvJZ6tEFmvl8ZtuNg1\n0mzyz4w7gx+1pZOMWEhWfig8WPkBI5ukS0K+UC15gfejulFb7i4mUzxcN/Uk6ajI\nH584VhRsEvBmzijxwW6UX22MH/u6lxdyoRYWqKoXmN/7L9zaueS/03upGoVpt0ls\nAX6+4alct5zu9bSqTjUKuprLwH7I6ZsI7RJI5wI14g==\n=zL+V\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJceCSsAAoJEBpUEUgFTp44RA8MAKepNJCkKOWnpCW37wbjxDug\ntM/cigDssorhlZS9nNBxcpg9xabSykIdC3RIB/GCCP2YWwp4i/KaYg0uGDDQgfMl\nFn60SPNJlYgDrbJdPSMWgBZ14pk0m3OUeIROnBB5KDKMPqZXMFzcXfB8LsnF4/9p\nEH6oXChBI/uLBjeM6n5U2qqqqOT+49yMo0WLPmZxtWmMk2Hgzc9sWjy9XwQmlcev\nFxSMIGc5aljn17DQ7uWtc6uffTU/herCvbZl/6ePM417mBmdjfO+LUQvhdZemPF8\nXGqWJXaCdrkbzMMKeF8L93Vh7aNwLRKMvcQgUEV0LgXYZJkvJZ6tEFmvl8ZtuNg1\n0mzyz4w7gx+1pZOMWEhWfig8WPkBI5ukS0K+UC15gfejulFb7i4mUzxcN/Uk6ajI\nH584VhRsEvBmzijxwW6UX22MH/u6lxdyoRYWqKoXmN/7L9zaueS/03upGoVpt0ls\nAX6+4alct5zu9bSqTjUKuprLwH7I6ZsI7RJI5wI14g==\n=zL+V\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6c4bb8b529edc2e619fdda212f21dca8160decad\ntype commit\ntag 3.19.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1551377580 +0000\n\npython-keystoneclient 3.19.0 release\n\nmeta:version: 3.19.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Colleen Murphy <colleen.murphy@suse.de>\nmeta:release:Commit: Colleen Murphy <colleen.murphy@suse.de>\nmeta:release:Change-Id: Ie9bfa5123fe09d840f3001ab93e7fed23fb202f8\nmeta:release:Code-Review+1: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

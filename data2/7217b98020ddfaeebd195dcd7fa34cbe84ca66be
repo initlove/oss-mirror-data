@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDQ6NzIxN2I5ODAyMGRkZmFlZWJkMTk1ZGNkN2ZhMzRjYmU4NGNhNjZiZQ==",
+  "sha": "7217b98020ddfaeebd195dcd7fa34cbe84ca66be",
+  "url": "https://api.github.com/repos/openstack/python-ironicclient/git/tags/7217b98020ddfaeebd195dcd7fa34cbe84ca66be",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-25T14:44:26Z"
+  },
+  "object": {
+    "sha": "04ef2d7b04caad162e299c52542b2cb581552ea3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironicclient/git/commits/04ef2d7b04caad162e299c52542b2cb581552ea3"
+  },
+  "tag": "3.1.0",
+  "message": "python-ironicclient 3.1.0 release\n\nmeta:version: 3.1.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Mark Goddard <mark@stackhpc.com>\nmeta:release:Commit: Mark Goddard <mark@stackhpc.com>\nmeta:release:Change-Id: Iad6efa59a0aff402bbc519388778893ba7a57418\nmeta:release:Code-Review+1: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Code-Review+1: Riccardo Pittau <elfosardo@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+1: Matthew Thode <mthode@mthode.org>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2LfUoZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2C/+DADDOMeqQJDxn4HvbygFDYr9\nmDeKLhpvu0BdcvkHdwEN/Re/HjSCGUR0rxCF7Q6Oe7+3QnpmupmFC1r+jEmwXu+c\nqLBqStrNMhNG3/zaMfIk5t9OHtnKVUFTDX4CJf3WGB6AlxdyzyMzTC7KR702oNiu\nbfJG4rJkK/O4xdatrJp1vBGrZKnZMfnR0tatzR0ulxEXWSfY+uYMfLZfsKI8MAG3\nHcKGhTO4heoamLJBthe2318LRPog3oSH/G3HfPf9HNiANGZUKp9eQD7Bd1J43LWB\nOHXids25IATEmJWUY0mEKYvuhNtiy0TtbJjaQUYM13RLyE5GW8yt7036CPRq2gO+\nvsHtjQAbyA5XF/Bam2bnBa2XVtOdhWCUfZFWJJKeNWJ/u7ud8yMcI3CYQERE+qsS\nr9kqZY++jPpLkEVJ3GjXmAXoxZGLPx+dW0Skldqh1lJ+fK3FQqdU6Db3GJgIy76p\n/jakM2Es0EcLBwVZbcV/1R/uetHw6n8UNokNXL6t8c4=\n=CE3R\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2LfUoZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2C/+DADDOMeqQJDxn4HvbygFDYr9\nmDeKLhpvu0BdcvkHdwEN/Re/HjSCGUR0rxCF7Q6Oe7+3QnpmupmFC1r+jEmwXu+c\nqLBqStrNMhNG3/zaMfIk5t9OHtnKVUFTDX4CJf3WGB6AlxdyzyMzTC7KR702oNiu\nbfJG4rJkK/O4xdatrJp1vBGrZKnZMfnR0tatzR0ulxEXWSfY+uYMfLZfsKI8MAG3\nHcKGhTO4heoamLJBthe2318LRPog3oSH/G3HfPf9HNiANGZUKp9eQD7Bd1J43LWB\nOHXids25IATEmJWUY0mEKYvuhNtiy0TtbJjaQUYM13RLyE5GW8yt7036CPRq2gO+\nvsHtjQAbyA5XF/Bam2bnBa2XVtOdhWCUfZFWJJKeNWJ/u7ud8yMcI3CYQERE+qsS\nr9kqZY++jPpLkEVJ3GjXmAXoxZGLPx+dW0Skldqh1lJ+fK3FQqdU6Db3GJgIy76p\n/jakM2Es0EcLBwVZbcV/1R/uetHw6n8UNokNXL6t8c4=\n=CE3R\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 04ef2d7b04caad162e299c52542b2cb581552ea3\ntype commit\ntag 3.1.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1569422666 +0000\n\npython-ironicclient 3.1.0 release\n\nmeta:version: 3.1.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Mark Goddard <mark@stackhpc.com>\nmeta:release:Commit: Mark Goddard <mark@stackhpc.com>\nmeta:release:Change-Id: Iad6efa59a0aff402bbc519388778893ba7a57418\nmeta:release:Code-Review+1: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Code-Review+1: Riccardo Pittau <elfosardo@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+1: Matthew Thode <mthode@mthode.org>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}
