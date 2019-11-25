@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjM0NDA0NDQ6YjFjNDcwYWZiNGM3MjBiNTFhYjliN2Y5OTEyMmUwMWMzNmY4ZDc3Mg==",
+  "sha": "b1c470afb4c720b51ab9b7f99122e01c36f8d772",
+  "url": "https://api.github.com/repos/openstack/oslo.log/git/tags/b1c470afb4c720b51ab9b7f99122e01c36f8d772",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-12-06T23:00:38Z"
+  },
+  "object": {
+    "sha": "92f87422ad1f013b96ffdca51e6dad1737e9905f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.log/git/commits/92f87422ad1f013b96ffdca51e6dad1737e9905f"
+  },
+  "tag": "3.19.0",
+  "message": "oslo.log 3.19.0 release\n\nmeta:version: 3.19.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Commit: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Change-Id: Ie2ee55221d9fe25206af412b46af979fc98340f5\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYR0MWAAoJELkGmxM1cAzcUXIIAIJfAKJX2Qs9nUyxXadqo560\nlRcN3GhX7ukAAyVC6Qq8lWUjOhfNeCGfwb27aNlmTmzAiZ0+BbdAMPPB3iZ0Tjcd\njm1IfnVxXaESVX+iRtvmCM1KcZheB0PwwgL2EJCwZMXeDtU/go5KQ75vgOyC12tX\njRsd54F+n4QPYYz1hFUokc5sTAfwB4ZsV6M/EAmaQW0VT2wc/36sovSAKXqehBWK\nJNFJ7Ud7fa7uhzjmH9UYIF0kI3Jper7Q09RDRbECD7sfjpHx1ZsdXXv0NWXeXZVx\nkR0SZWE5xLZT6eDOHSGrqTrk+FHtrRQhdS2bBq4jemOhmr23zE6j6K3un3RDPpg=\n=yL6o\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYR0MWAAoJELkGmxM1cAzcUXIIAIJfAKJX2Qs9nUyxXadqo560\nlRcN3GhX7ukAAyVC6Qq8lWUjOhfNeCGfwb27aNlmTmzAiZ0+BbdAMPPB3iZ0Tjcd\njm1IfnVxXaESVX+iRtvmCM1KcZheB0PwwgL2EJCwZMXeDtU/go5KQ75vgOyC12tX\njRsd54F+n4QPYYz1hFUokc5sTAfwB4ZsV6M/EAmaQW0VT2wc/36sovSAKXqehBWK\nJNFJ7Ud7fa7uhzjmH9UYIF0kI3Jper7Q09RDRbECD7sfjpHx1ZsdXXv0NWXeXZVx\nkR0SZWE5xLZT6eDOHSGrqTrk+FHtrRQhdS2bBq4jemOhmr23zE6j6K3un3RDPpg=\n=yL6o\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 92f87422ad1f013b96ffdca51e6dad1737e9905f\ntype commit\ntag 3.19.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1481065238 +0000\n\noslo.log 3.19.0 release\n\nmeta:version: 3.19.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Commit: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Change-Id: Ie2ee55221d9fe25206af412b46af979fc98340f5\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

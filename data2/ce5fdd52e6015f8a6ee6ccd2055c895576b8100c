@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc0ODk5NjY6Y2U1ZmRkNTJlNjAxNWY4YTZlZTZjY2QyMDU1Yzg5NTU3NmI4MTAwYw==",
+  "sha": "ce5fdd52e6015f8a6ee6ccd2055c895576b8100c",
+  "url": "https://api.github.com/repos/openstack/neutron-lbaas/git/tags/ce5fdd52e6015f8a6ee6ccd2055c895576b8100c",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-11-07T01:54:47Z"
+  },
+  "object": {
+    "sha": "4cf67c4898ba104c430a6c0da4b5e13801e6722e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-lbaas/git/commits/4cf67c4898ba104c430a6c0da4b5e13801e6722e"
+  },
+  "tag": "queens-em",
+  "message": "neutron-lbaas queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Ib9c0fb75258fa4490f59ffe16fae1dfbc0161f6f\nmeta:release:Code-Review+1: Carlos Goncalves <cgoncalves@redhat.com>\nmeta:release:Code-Review+1: Ajay Kumar <ajay.k@india.nec.com>\nmeta:release:Code-Review+1: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl3DeWcZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHL38C/0SuRcgRLU9nyvmM4rDhoKO\nKB2bWm0SowYW+oUc9PEsFBcVR3ZEHJxV0c3kSjjQPsKZHIw/ugJTJE+I7Tbo07nh\n4eA0xgRURoT2MY45PKylqFNuglJ++VXK0B67/8fKJ6WoGklgA0fL3J1mJfTDJZFJ\nVTqdFz7prMUjYQ4MY2GZcgrbhE/7IRvME0pwMW/eUWARMi7noD+kQrowQqPptG7m\nO4uVOHI2Mon8Ap5t4oHIxu9gUZNs85Z1z7RNAddDsPNtnEmqbxEjWPnkCmL0TEUP\nZ9MR3WsF0bw3s64djl6nToCdOAE+nbzDSziCGNEb79tDbOOPKYe3xSLj3ZGJ/W9b\nvcXis77CKZupuLgFNsQq/lKubrwTBF1Ha+6PtTC4iuhs81MI9MbHE4dbzr5/HoRU\nGcQNcG2tARLAtmHV+I7Y2g2Nq/WTa/1RITdofRYHz59MQhC6Hw7FQHvxvyMrSVQQ\nBY6+wk0geva8iXqLiAbX3S51Bk3bu4ujMcO+ThE1RDk=\n=C2mq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl3DeWcZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHL38C/0SuRcgRLU9nyvmM4rDhoKO\nKB2bWm0SowYW+oUc9PEsFBcVR3ZEHJxV0c3kSjjQPsKZHIw/ugJTJE+I7Tbo07nh\n4eA0xgRURoT2MY45PKylqFNuglJ++VXK0B67/8fKJ6WoGklgA0fL3J1mJfTDJZFJ\nVTqdFz7prMUjYQ4MY2GZcgrbhE/7IRvME0pwMW/eUWARMi7noD+kQrowQqPptG7m\nO4uVOHI2Mon8Ap5t4oHIxu9gUZNs85Z1z7RNAddDsPNtnEmqbxEjWPnkCmL0TEUP\nZ9MR3WsF0bw3s64djl6nToCdOAE+nbzDSziCGNEb79tDbOOPKYe3xSLj3ZGJ/W9b\nvcXis77CKZupuLgFNsQq/lKubrwTBF1Ha+6PtTC4iuhs81MI9MbHE4dbzr5/HoRU\nGcQNcG2tARLAtmHV+I7Y2g2Nq/WTa/1RITdofRYHz59MQhC6Hw7FQHvxvyMrSVQQ\nBY6+wk0geva8iXqLiAbX3S51Bk3bu4ujMcO+ThE1RDk=\n=C2mq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4cf67c4898ba104c430a6c0da4b5e13801e6722e\ntype commit\ntag queens-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1573091687 +0000\n\nneutron-lbaas queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Ib9c0fb75258fa4490f59ffe16fae1dfbc0161f6f\nmeta:release:Code-Review+1: Carlos Goncalves <cgoncalves@redhat.com>\nmeta:release:Code-Review+1: Ajay Kumar <ajay.k@india.nec.com>\nmeta:release:Code-Review+1: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDpjYmFjYTkzODBiNWI5ZTkxOGNhNDg2YmNmOWU1MWM1ODg1NjdjODUy",
+  "sha": "cbaca9380b5b9e918ca486bcf9e51c588567c852",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/cbaca9380b5b9e918ca486bcf9e51c588567c852",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-09-22T11:13:32Z"
+  },
+  "object": {
+    "sha": "d9bed0d9f96b505fb86a1adc50b3d6f8275fab93",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/commits/d9bed0d9f96b505fb86a1adc50b3d6f8275fab93"
+  },
+  "tag": "librepo-1.7.16",
+  "message": "v1.7.16\n- Add LRI_LOWSPEEDTIME and LRI_LOWSPEEDLIMIT\n- downloader: Don't consider CURLE_RECV_ERROR and CURLE_SEND_ERROR as fatal errors (RhBug: 1219817)\n- test_repoconf: Fix SIGSEGV in repoconf_assert_na (RhBug: 1222471)\n- repoconf: Proper handling of gint64 and guint64 types\n- build: Be compatible with cmake 2.8\n- handle: Do not free temporary error msg if there is no one (RhBug: 1219822)\n- utils/make_rpm.sh: Accept rpmbuild options as second argument (Issue #49)\n- Python: call lr_global_init() during module initialization\n- Add global function log_set_file that allow user to set a file where logs will be written (Issue #53)\n- util: Honor RFC 3986 (Issue #55)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

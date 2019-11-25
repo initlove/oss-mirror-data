@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDE5OmI0MTQyMDk5MzQzZmI3ZGUwNDVmNDBjMGRmN2M1Y2Q0ZGIyYTBmZDM=",
+  "sha": "b4142099343fb7de045f40c0df7c5cd4db2a0fd3",
+  "url": "https://api.github.com/repos/openstack/swift/git/tags/b4142099343fb7de045f40c0df7c5cd4db2a0fd3",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-02-16T09:58:10Z"
+  },
+  "object": {
+    "sha": "11bd6c82ecac8572cf9538a4d92a0361b382f1de",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/swift/git/commits/11bd6c82ecac8572cf9538a4d92a0361b382f1de"
+  },
+  "tag": "2.13.0",
+  "message": "swift 2.13.0 release\n\nmeta:version: 2.13.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: John Dickinson <me@not.mn>\nmeta:release:Commit: John Dickinson <me@not.mn>\nmeta:release:Change-Id: I997c1321350fd1ad42aa66fc5bdbc5493b466ad0\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYpXeyAAoJELkGmxM1cAzcSlgH/1VL2Y/yMFBbH5V796pRUSyu\nCrS/S0M7MpYt4Nqel0JujYFuCVqigwP4pQvZvXnxMIc5mP21aKczIGofec5//MDj\nlZ2fxBVctqByvROU3B0q5bH3FVoXXVAdxHtctfkPF2uSzSctLtMinJoKw9cEAs9z\n7ZzdnywFzJsiJ7TPhEeoRRW0jYA8nVcDDy9jZ0prdsFKadAYuv7vnysRIKx6071q\n+whj/3n6NhbSH0Pj1DMisJMZ42PU2TeNwOR9an6RUJjj6XQnurTJweB4ptDZp3Nm\nTE7vRiKE07lsm0a3PTmyJfON+8u890b2Low/1ZVcJgiW3vxLiEtsW+U6PH7kW3k=\n=ul37\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYpXeyAAoJELkGmxM1cAzcSlgH/1VL2Y/yMFBbH5V796pRUSyu\nCrS/S0M7MpYt4Nqel0JujYFuCVqigwP4pQvZvXnxMIc5mP21aKczIGofec5//MDj\nlZ2fxBVctqByvROU3B0q5bH3FVoXXVAdxHtctfkPF2uSzSctLtMinJoKw9cEAs9z\n7ZzdnywFzJsiJ7TPhEeoRRW0jYA8nVcDDy9jZ0prdsFKadAYuv7vnysRIKx6071q\n+whj/3n6NhbSH0Pj1DMisJMZ42PU2TeNwOR9an6RUJjj6XQnurTJweB4ptDZp3Nm\nTE7vRiKE07lsm0a3PTmyJfON+8u890b2Low/1ZVcJgiW3vxLiEtsW+U6PH7kW3k=\n=ul37\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 11bd6c82ecac8572cf9538a4d92a0361b382f1de\ntype commit\ntag 2.13.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1487239090 +0000\n\nswift 2.13.0 release\n\nmeta:version: 2.13.0\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: John Dickinson <me@not.mn>\nmeta:release:Commit: John Dickinson <me@not.mn>\nmeta:release:Change-Id: I997c1321350fd1ad42aa66fc5bdbc5493b466ad0\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

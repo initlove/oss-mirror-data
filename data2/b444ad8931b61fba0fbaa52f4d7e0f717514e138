@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDE6YjQ0NGFkODkzMWI2MWZiYTBmYmFhNTJmNGQ3ZTBmNzE3NTE0ZTEzOA==",
+  "sha": "b444ad8931b61fba0fbaa52f4d7e0f717514e138",
+  "url": "https://api.github.com/repos/openstack/ironic/git/tags/b444ad8931b61fba0fbaa52f4d7e0f717514e138",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-04-05T10:00:43Z"
+  },
+  "object": {
+    "sha": "d78b971654c016bec8938f61234a82c56b0c382e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic/git/commits/d78b971654c016bec8938f61234a82c56b0c382e"
+  },
+  "tag": "8.0.0",
+  "message": "ironic 8.0.0 release\n\nmeta:version: 8.0.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Commit: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Change-Id: I844fbc51b80987b757afd5d077d3622bb29a7950\nmeta:release:Code-Review+1: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY5MBLAAoJEOtsyhSD+nTsXt8H/iK427qSo0UqwYu1nMLHa5Rl\n8LV00TrQ7K38wW2ICiQFQ9OtIgR4LwUhueQlZ0wb30SlghPMaS036RDAS0UgBjR3\nNAe7N2GRPyLeTICvSZCQ9kTmOQ8yg21ogcPYUwPltketRpf2B1c2GYMMiRmOjQ5U\nbd3x0cNaSAPJGx5NkmHtEiDI++h4Ych8cWf1AwBCpbQvoeghnrysF55yVKuZ2wvH\nYiiZlf7XlOZ38b8TKpltzWfy1eyzEBxKBxBTq+8PooZt+ZDIj6+NFZNfOSDY2XXo\nimqXbk1jXWO6IKQsWXutOCQ9B9x4QeXzmcLhBPgz4AJQaxtWtVnLsuy0K9pMBDA=\n=bOjL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY5MBLAAoJEOtsyhSD+nTsXt8H/iK427qSo0UqwYu1nMLHa5Rl\n8LV00TrQ7K38wW2ICiQFQ9OtIgR4LwUhueQlZ0wb30SlghPMaS036RDAS0UgBjR3\nNAe7N2GRPyLeTICvSZCQ9kTmOQ8yg21ogcPYUwPltketRpf2B1c2GYMMiRmOjQ5U\nbd3x0cNaSAPJGx5NkmHtEiDI++h4Ych8cWf1AwBCpbQvoeghnrysF55yVKuZ2wvH\nYiiZlf7XlOZ38b8TKpltzWfy1eyzEBxKBxBTq+8PooZt+ZDIj6+NFZNfOSDY2XXo\nimqXbk1jXWO6IKQsWXutOCQ9B9x4QeXzmcLhBPgz4AJQaxtWtVnLsuy0K9pMBDA=\n=bOjL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d78b971654c016bec8938f61234a82c56b0c382e\ntype commit\ntag 8.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1491386443 +0000\n\nironic 8.0.0 release\n\nmeta:version: 8.0.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Commit: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Change-Id: I844fbc51b80987b757afd5d077d3622bb29a7950\nmeta:release:Code-Review+1: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

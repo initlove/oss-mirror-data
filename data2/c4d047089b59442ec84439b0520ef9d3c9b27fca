@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjA2NDYzNTk6YzRkMDQ3MDg5YjU5NDQyZWM4NDQzOWIwNTIwZWY5ZDNjOWIyN2ZjYQ==",
+  "sha": "c4d047089b59442ec84439b0520ef9d3c9b27fca",
+  "url": "https://api.github.com/repos/openstack/osprofiler/git/tags/c4d047089b59442ec84439b0520ef9d3c9b27fca",
+  "tagger": {
+    "name": "Boris Pavlovic",
+    "email": "boris@pavlovic.me",
+    "date": "2015-11-12T10:38:36Z"
+  },
+  "object": {
+    "sha": "cabf79d44c77a9259481cabfa888e99730fb40b0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/osprofiler/git/commits/cabf79d44c77a9259481cabfa888e99730fb40b0"
+  },
+  "tag": "0.3.1",
+  "message": "OSprofiler 0.3.1 version\n\n* Improved error message in case if trace was not found\n* Make api-paste.ini configuraiton optional\n* Remove hardcoded versions in setup.cfg\n* Add specs related to roadmap\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWRG1aAAoJEDvpPTuJuon068EIAIZywk0mo+Gzw4YtiYd7ny4r\nF/SBXN8t7TMSZQ1legS3wUDcP01VglBu6Uw2RCxV7TqazkwXjmgce+NkR4Q8KKdP\nhf0huCV+nrJWOIP33twzekaYlzLUpL8e+kBPvdoc7t8e76MRkUvGFUwSJz8PivI9\nabqL7uqytg1rYuVgjC1Ny4HxOG0JozQIjZktyFKnoUd+1aDGdJfiZ/0LzAzbYmZI\niXiYPYVTup+ujhchcYOqg8XD3S7b6mORvfW9MbZ9TvD4NGoDZxaCvQnwsAdM7gj6\natnw0WF5i51cdxfIQ++PlR8Dif2Vwg7MxEajStRhcZ7RZC1aYuiiQKa33EjZ1jw=\n=tcFY\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWRG1aAAoJEDvpPTuJuon068EIAIZywk0mo+Gzw4YtiYd7ny4r\nF/SBXN8t7TMSZQ1legS3wUDcP01VglBu6Uw2RCxV7TqazkwXjmgce+NkR4Q8KKdP\nhf0huCV+nrJWOIP33twzekaYlzLUpL8e+kBPvdoc7t8e76MRkUvGFUwSJz8PivI9\nabqL7uqytg1rYuVgjC1Ny4HxOG0JozQIjZktyFKnoUd+1aDGdJfiZ/0LzAzbYmZI\niXiYPYVTup+ujhchcYOqg8XD3S7b6mORvfW9MbZ9TvD4NGoDZxaCvQnwsAdM7gj6\natnw0WF5i51cdxfIQ++PlR8Dif2Vwg7MxEajStRhcZ7RZC1aYuiiQKa33EjZ1jw=\n=tcFY\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cabf79d44c77a9259481cabfa888e99730fb40b0\ntype commit\ntag 0.3.1\ntagger Boris Pavlovic <boris@pavlovic.me> 1447324716 -0800\n\nOSprofiler 0.3.1 version\n\n* Improved error message in case if trace was not found\n* Make api-paste.ini configuraiton optional\n* Remove hardcoded versions in setup.cfg\n* Add specs related to roadmap\n"
+  }
+}

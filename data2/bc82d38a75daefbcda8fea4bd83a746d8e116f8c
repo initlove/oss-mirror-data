@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzQ3OTE4NDA6YmM4MmQzOGE3NWRhZWZiY2RhOGZlYTRiZDgzYTc0NmQ4ZTExNmY4Yw==",
+  "sha": "bc82d38a75daefbcda8fea4bd83a746d8e116f8c",
+  "url": "https://api.github.com/repos/openstack/keystoneauth/git/tags/bc82d38a75daefbcda8fea4bd83a746d8e116f8c",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-22T19:32:37Z"
+  },
+  "object": {
+    "sha": "de53f90bf93376f0259f9579d8cf8aac3bdb05da",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystoneauth/git/commits/de53f90bf93376f0259f9579d8cf8aac3bdb05da"
+  },
+  "tag": "3.18.0",
+  "message": "keystoneauth 3.18.0 release\n\nmeta:version: 3.18.0\nmeta:diff-start: -\nmeta:series: ussuri\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: I430030fa7367bd904db4969ba3ee1d632fa3aa52\nmeta:release:Code-Review+1: Eric Fried <openstack@fried.cc>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+1: Kristi Nikolla <kristi@nikolla.me>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2vWVUZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2EDNC/sHvr7DjPnK8jIbwrUlPpF6\nF0DOp/g/x0kREhr6uly1bU7NRdmrCq0P9nthp2Qom6panndAUdHrro6O0YWV0t9t\nYm9rynzu5JgWoomHISzScpBY6SzswgOqCin4fD+gGmNzepkO8uROELPlRrVaRLSf\nXxX8tA4ML7aQyySQSPH22NrO1jKpdrXxU8kzhorQcFUGyT0WHspsBO3bbNNEM/Yk\naQzuX1b35hKL//1Dvz8cn31hrseM3NyllW4G9I9ajqfH03uPP88CZzaZlVvNy2Jf\nzHOL9oKoJ8cEjNUKcDPK4EgPhXFQl5oYx2EVMcTPBa7nd6SQ3At8NLryzmXvdBkD\ncUwHvSlZ0t3c+Veu7gBaIdZ/I35+kA6S7hlosUXYqAA4LmgIamOlh5Jvj7P/7CKU\n/2MVUlHd3Luz0DufMiq4OHCrCd0BYKhUpcQGmycaqWz6WYu3Dubyap62G4fw0x4B\nZNVuK/lvts/9PBnONOKMMkaYBRLFjBS7yuQL3slF6No=\n=lliB\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2vWVUZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2EDNC/sHvr7DjPnK8jIbwrUlPpF6\nF0DOp/g/x0kREhr6uly1bU7NRdmrCq0P9nthp2Qom6panndAUdHrro6O0YWV0t9t\nYm9rynzu5JgWoomHISzScpBY6SzswgOqCin4fD+gGmNzepkO8uROELPlRrVaRLSf\nXxX8tA4ML7aQyySQSPH22NrO1jKpdrXxU8kzhorQcFUGyT0WHspsBO3bbNNEM/Yk\naQzuX1b35hKL//1Dvz8cn31hrseM3NyllW4G9I9ajqfH03uPP88CZzaZlVvNy2Jf\nzHOL9oKoJ8cEjNUKcDPK4EgPhXFQl5oYx2EVMcTPBa7nd6SQ3At8NLryzmXvdBkD\ncUwHvSlZ0t3c+Veu7gBaIdZ/I35+kA6S7hlosUXYqAA4LmgIamOlh5Jvj7P/7CKU\n/2MVUlHd3Luz0DufMiq4OHCrCd0BYKhUpcQGmycaqWz6WYu3Dubyap62G4fw0x4B\nZNVuK/lvts/9PBnONOKMMkaYBRLFjBS7yuQL3slF6No=\n=lliB\n-----END PGP SIGNATURE-----\n",
+    "payload": "object de53f90bf93376f0259f9579d8cf8aac3bdb05da\ntype commit\ntag 3.18.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1571772757 +0000\n\nkeystoneauth 3.18.0 release\n\nmeta:version: 3.18.0\nmeta:diff-start: -\nmeta:series: ussuri\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: I430030fa7367bd904db4969ba3ee1d632fa3aa52\nmeta:release:Code-Review+1: Eric Fried <openstack@fried.cc>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+1: Kristi Nikolla <kristi@nikolla.me>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

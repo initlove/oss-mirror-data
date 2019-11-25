@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTk4MzQzMTQ6YjYyMzdhYTUzZGUyYzU1MDA0MTYzYjczNjY4OTBlNWZiMDI4YjUxNQ==",
+  "sha": "b6237aa53de2c55004163b7366890e5fb028b515",
+  "url": "https://api.github.com/repos/spinnaker/orca/git/tags/b6237aa53de2c55004163b7366890e5fb028b515",
+  "tagger": {
+    "name": "Bob T Builder",
+    "email": "builds@netflix.com",
+    "date": "2015-11-19T18:27:59Z"
+  },
+  "object": {
+    "sha": "d57e78433cba92c3bd42761b604ec42034c24fb8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/spinnaker/orca/git/commits/d57e78433cba92c3bd42761b604ec42034c24fb8"
+  },
+  "tag": "v1.23.0",
+  "message": "Release of 1.23.0\n\n- d57e78433cba92c3bd42761b604ec42034c24fb8: Merge pull request #645 from spinnaker/parallel-failures\n- bb3eb0c352cc1cc627524ea3b9fef76979f86908: fixed incorrect batch exit status on cancelled job – I don't think it actually matters but seems more correct\n- e6b46ecd0e25e0829a51d6860ecdc62d827c3d18: Merge branch 'master' of github.com:spinnaker/orca into parallel-failures\n- 1d2b8ff00ec47a0ef7a6cf7e0b7ab3f591cc0e3c: tidy comment\n- 5b1c0624122b7c6a2965eccfac3f826c1cb981f7: Polish based on comments by @ajordens\n- b3999b789bfcfbef531839776f76098896857359: Stops inconsistent failures between parallel pipeline branches\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

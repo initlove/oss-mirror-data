@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc4OTM3MDpjNTlhYjg0MmRhMzI5MmMwMTkzZGVmZWM5ZmNhMzQzY2I5YjY3MGE0",
+  "sha": "c59ab842da3292c0193defec9fca343cb9b670a4",
+  "url": "https://api.github.com/repos/openstack/python-novaclient/git/tags/c59ab842da3292c0193defec9fca343cb9b670a4",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-22T14:48:26Z"
+  },
+  "object": {
+    "sha": "380fc0851387bd4c875afaebc0858646d061beb5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-novaclient/git/commits/380fc0851387bd4c875afaebc0858646d061beb5"
+  },
+  "tag": "16.0.0",
+  "message": "python-novaclient 16.0.0 release\n\nmeta:version: 16.0.0\nmeta:diff-start: -\nmeta:series: ussuri\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: zhangbailin <zhangbailin@inspur.com>\nmeta:release:Commit: Brin Zhang <zhangbailin@inspur.com>\nmeta:release:Change-Id: I5d2a039ba3f60d81a67b35592a2e4cbf2be555ca\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Dan Smith <dms@danplanet.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2vFroZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2BpjC/9iipPgj8/Ud6ovswFXvUxg\nAqdNh/LM7L9kwqhBibgLgM6ZlsOZFshuEP7ti/Ra3VfrWjd576zfOc/fB9vtSJX6\nIs3wLAeEDjox6iL/JUHjddfX0k8RoR17L2GkMRpQ5zgzByClsJNOjeLqLtgakZc8\nHvmzyaHayxk/WT0r96o1kqA2Ws4rv9QxLqZhpOCqv7cZE1zIsN8A9AwxELJXq0Rs\nqYtt8FvYzYaU2aqHukYgCKm3lkoGWkJOqUm77zTbdLA8jisG2cKUkNoDQswG/YAe\nwAx6v9Jv3goReW96X7p7lQ3o0KwWFcJ9LSE2+4HvXc4nEvJbG1MYQWVyn0tARwOt\neW1I7Jx6EFTkCW6AO2dgwdpWg6nkJbHQu4Zx4AjCOxWqAHUcCtYBwizqewex/gGg\nPCFC9QnvtoQosZvdLQLHu5GShtxI5qBMzFTKBdNIzicy8siUsm7DI3fAJKeRrWg/\ndheKwyB7Xtn/uthh0sstlncBnJbWP3brfmtn7AF9Rvw=\n=jbr+\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2vFroZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2BpjC/9iipPgj8/Ud6ovswFXvUxg\nAqdNh/LM7L9kwqhBibgLgM6ZlsOZFshuEP7ti/Ra3VfrWjd576zfOc/fB9vtSJX6\nIs3wLAeEDjox6iL/JUHjddfX0k8RoR17L2GkMRpQ5zgzByClsJNOjeLqLtgakZc8\nHvmzyaHayxk/WT0r96o1kqA2Ws4rv9QxLqZhpOCqv7cZE1zIsN8A9AwxELJXq0Rs\nqYtt8FvYzYaU2aqHukYgCKm3lkoGWkJOqUm77zTbdLA8jisG2cKUkNoDQswG/YAe\nwAx6v9Jv3goReW96X7p7lQ3o0KwWFcJ9LSE2+4HvXc4nEvJbG1MYQWVyn0tARwOt\neW1I7Jx6EFTkCW6AO2dgwdpWg6nkJbHQu4Zx4AjCOxWqAHUcCtYBwizqewex/gGg\nPCFC9QnvtoQosZvdLQLHu5GShtxI5qBMzFTKBdNIzicy8siUsm7DI3fAJKeRrWg/\ndheKwyB7Xtn/uthh0sstlncBnJbWP3brfmtn7AF9Rvw=\n=jbr+\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 380fc0851387bd4c875afaebc0858646d061beb5\ntype commit\ntag 16.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1571755706 +0000\n\npython-novaclient 16.0.0 release\n\nmeta:version: 16.0.0\nmeta:diff-start: -\nmeta:series: ussuri\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: zhangbailin <zhangbailin@inspur.com>\nmeta:release:Commit: Brin Zhang <zhangbailin@inspur.com>\nmeta:release:Change-Id: I5d2a039ba3f60d81a67b35592a2e4cbf2be555ca\nmeta:release:Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Dan Smith <dms@danplanet.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

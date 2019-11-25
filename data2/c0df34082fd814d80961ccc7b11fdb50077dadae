@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6YzBkZjM0MDgyZmQ4MTRkODA5NjFjY2M3YjExZmRiNTAwNzdkYWRhZQ==",
+  "sha": "c0df34082fd814d80961ccc7b11fdb50077dadae",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/c0df34082fd814d80961ccc7b11fdb50077dadae",
+  "tagger": {
+    "name": "lkorth",
+    "email": "luke@lukekorth.com",
+    "date": "2017-01-14T19:59:29Z"
+  },
+  "object": {
+    "sha": "df34e05054b5b71c53074e355783de98359f4074",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/df34e05054b5b71c53074e355783de98359f4074"
+  },
+  "tag": "2.4.0",
+  "message": "2.4.0\n\n* Fix back button during PayPal browser switch on Samsung devices (fixes [#137](https://github.com/braintree/braintree_android/issues/137))\n* Add new intent option to `PayPalRequest`\n* Fix crash when excluding the PayPal dependency\n* Increase `minSdkVersion` to 16\n  * API 16 is the first version of Android that supports TLSv1.2. For more information on Braintree's upgrade to TLSv1.2 see [the blog post](https://www.braintreepayments.com/blog/updating-your-production-environment-to-support-tlsv1-2/).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

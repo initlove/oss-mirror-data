@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU4ODU4OTE6Y2EzNDNhYmZjNjliOWRhNjY3ZTFiZTNkNzA2NTA3NTM2ODVkMjUxMg==",
+  "sha": "ca343abfc69b9da667e1be3d70650753685d2512",
+  "url": "https://api.github.com/repos/openstack/python-mistralclient/git/tags/ca343abfc69b9da667e1be3d70650753685d2512",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-30T17:15:44Z"
+  },
+  "object": {
+    "sha": "1008e4e4cbd58465226a54c261b1d73021fcd2ed",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-mistralclient/git/commits/1008e4e4cbd58465226a54c261b1d73021fcd2ed"
+  },
+  "tag": "queens-em",
+  "message": "python-mistralclient queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I1543981cfba56abf59e98df1a8d64d5078e8b317\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl25xUAZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHBXQDAC4kZUUIyF7Rz+pPirEy3Q6\n/+oaoIf1QSTSqe3R9cOTE/+WFid9b4ptfOn8mfc9Kv1bpAcBJ/1Ud3veLo4bUdMB\nZfLbLB+xIkhfqfOnCw9g6yGuOkRVhKvc2ItZTyYEWh1L+EtpW8L7c3VirC/DrYQM\nHrXVRmUyuya9VMWO3hFkUG/uGfecnfNxdjO/d6HKggwgmGLauaDFKYCAxAZy41kF\nOcmJaFRNBAUJxHDBbPXaE2E4PAD9GcWmabRU1dzOjwkn9YJ9xnN9n5snHicttyeR\n9YRgZp49ICuv7N9045Oqe2GAKHT+ssnqIkNkYCHKFZLNJL5mD4CeUfBatrP5Hf6f\nU9OI3kV58qQReKPv7W6wMaz1J+ajywz6csbjeCMXPuOe2ItZE4S099PbVS8RcjLE\nfAxvs24a3N0+Di62LjIQgJSYVXDF18PbM0Mbs9LVvr/I/hm6upIViSdUt58ku/9C\n9QKzR1JhE0zQb+bqObq7OEKdB0UaL3rkBwqs7JJGdFE=\n=7kAU\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl25xUAZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHBXQDAC4kZUUIyF7Rz+pPirEy3Q6\n/+oaoIf1QSTSqe3R9cOTE/+WFid9b4ptfOn8mfc9Kv1bpAcBJ/1Ud3veLo4bUdMB\nZfLbLB+xIkhfqfOnCw9g6yGuOkRVhKvc2ItZTyYEWh1L+EtpW8L7c3VirC/DrYQM\nHrXVRmUyuya9VMWO3hFkUG/uGfecnfNxdjO/d6HKggwgmGLauaDFKYCAxAZy41kF\nOcmJaFRNBAUJxHDBbPXaE2E4PAD9GcWmabRU1dzOjwkn9YJ9xnN9n5snHicttyeR\n9YRgZp49ICuv7N9045Oqe2GAKHT+ssnqIkNkYCHKFZLNJL5mD4CeUfBatrP5Hf6f\nU9OI3kV58qQReKPv7W6wMaz1J+ajywz6csbjeCMXPuOe2ItZE4S099PbVS8RcjLE\nfAxvs24a3N0+Di62LjIQgJSYVXDF18PbM0Mbs9LVvr/I/hm6upIViSdUt58ku/9C\n9QKzR1JhE0zQb+bqObq7OEKdB0UaL3rkBwqs7JJGdFE=\n=7kAU\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1008e4e4cbd58465226a54c261b1d73021fcd2ed\ntype commit\ntag queens-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572455744 +0000\n\npython-mistralclient queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I1543981cfba56abf59e98df1a8d64d5078e8b317\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

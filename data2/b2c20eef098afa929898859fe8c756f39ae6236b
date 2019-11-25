@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzQyOTQyODM6YjJjMjBlZWYwOThhZmE5Mjk4OTg4NTlmZThjNzU2ZjM5YWU2MjM2Yg==",
+  "sha": "b2c20eef098afa929898859fe8c756f39ae6236b",
+  "url": "https://api.github.com/repos/openstack/oslo.cache/git/tags/b2c20eef098afa929898859fe8c756f39ae6236b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-01-29T09:47:42Z"
+  },
+  "object": {
+    "sha": "5f42092e2cba1d9e9711d819a2792dd264a887fd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.cache/git/commits/5f42092e2cba1d9e9711d819a2792dd264a887fd"
+  },
+  "tag": "1.30.3",
+  "message": "oslo.cache 1.30.3 release\n\nmeta:version: 1.30.3\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Iaeab523ce825ddc6fa0f64accc322f4efed23177\nmeta:release:Code-Review+1: Matthew Thode <mthode@mthode.org>\nmeta:release:Code-Review+1: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcUCE+AAoJEBpUEUgFTp44ZDML/2m5HZ01KDvo4sVjIcWb3rV9\n7IE89FJ79LuRDiMFk7ltVMX4MfVGkr2qI6GIKQaCn45avD14qa9hZ5Zw+iN4Z+a8\nPR8soMw2cHq1UEkaHHB+LMSptMPnQ5xQWDQRoD6zfnmp0k0WlHqaIy6trSlaTlAQ\nQrah2rShvxJ71phetsf86yriA5CB+CfDi2L/v4tfD3d7ZqwyY4fYUQQ2cFaHewSK\nRsKRNsDug17aSrgbyn5BGR99T35v4LIkrA1NiSD197uoIyNqD630FXb26J2mmPdr\nVLHbnNLtnKNOXmJK/Purt/5xb2xz7iboR1Ywu+p3uJmyqiksSiqCfJtebvggpo1b\nhrUZdo+1QR0pYfSsJXTwUT0Y7eELNJQj5JZOYxyRz5sc0MQBqVTdp0nuIJLbquOk\nzSncbBNO0Uh0YkMKUrd4ElJnZ7d/WWTTVcZ6SLxbQiGHj/FxqDdNl75zF1qVG5Vk\n5l2vzyJDqK4bQxjFBRYwah1/cOovM4biuwPzQxeIhQ==\n=BU7s\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcUCE+AAoJEBpUEUgFTp44ZDML/2m5HZ01KDvo4sVjIcWb3rV9\n7IE89FJ79LuRDiMFk7ltVMX4MfVGkr2qI6GIKQaCn45avD14qa9hZ5Zw+iN4Z+a8\nPR8soMw2cHq1UEkaHHB+LMSptMPnQ5xQWDQRoD6zfnmp0k0WlHqaIy6trSlaTlAQ\nQrah2rShvxJ71phetsf86yriA5CB+CfDi2L/v4tfD3d7ZqwyY4fYUQQ2cFaHewSK\nRsKRNsDug17aSrgbyn5BGR99T35v4LIkrA1NiSD197uoIyNqD630FXb26J2mmPdr\nVLHbnNLtnKNOXmJK/Purt/5xb2xz7iboR1Ywu+p3uJmyqiksSiqCfJtebvggpo1b\nhrUZdo+1QR0pYfSsJXTwUT0Y7eELNJQj5JZOYxyRz5sc0MQBqVTdp0nuIJLbquOk\nzSncbBNO0Uh0YkMKUrd4ElJnZ7d/WWTTVcZ6SLxbQiGHj/FxqDdNl75zF1qVG5Vk\n5l2vzyJDqK4bQxjFBRYwah1/cOovM4biuwPzQxeIhQ==\n=BU7s\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5f42092e2cba1d9e9711d819a2792dd264a887fd\ntype commit\ntag 1.30.3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1548755262 +0000\n\noslo.cache 1.30.3 release\n\nmeta:version: 1.30.3\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Iaeab523ce825ddc6fa0f64accc322f4efed23177\nmeta:release:Code-Review+1: Matthew Thode <mthode@mthode.org>\nmeta:release:Code-Review+1: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

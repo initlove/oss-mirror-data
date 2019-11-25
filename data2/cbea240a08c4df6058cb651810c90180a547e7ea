@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkyMTcwNTQ6Y2JlYTI0MGEwOGM0ZGY2MDU4Y2I2NTE4MTBjOTAxODBhNTQ3ZTdlYQ==",
+  "sha": "cbea240a08c4df6058cb651810c90180a547e7ea",
+  "url": "https://api.github.com/repos/micro/go-micro/git/tags/cbea240a08c4df6058cb651810c90180a547e7ea",
+  "tagger": {
+    "name": "Asim Aslam",
+    "email": "asim@aslam.me",
+    "date": "2019-05-22T16:13:58Z"
+  },
+  "object": {
+    "sha": "6de3d9eb245ff536f4eeaa81a39ec26b938d0847",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micro/go-micro/git/commits/6de3d9eb245ff536f4eeaa81a39ec26b938d0847"
+  },
+  "tag": "v1.2.0",
+  "message": "- Update go mod\n- Fix mock client\n- Fix retries logic\n- Fix consul api change\n- Use consul client for watcher\n- Fix gossip data races\n- Add registry check function\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

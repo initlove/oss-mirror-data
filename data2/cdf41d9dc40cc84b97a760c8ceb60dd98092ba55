@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjczNzI5Nzc6Y2RmNDFkOWRjNDBjYzg0Yjk3YTc2MGM4Y2ViNjBkZDk4MDkyYmE1NQ==",
+  "sha": "cdf41d9dc40cc84b97a760c8ceb60dd98092ba55",
+  "url": "https://api.github.com/repos/citusdata/pg_cron/git/tags/cdf41d9dc40cc84b97a760c8ceb60dd98092ba55",
+  "tagger": {
+    "name": "Marco Slot",
+    "email": "marco@citusdata.com",
+    "date": "2017-10-04T09:12:28Z"
+  },
+  "object": {
+    "sha": "39d467e0a6728e60e96a345c06ec0d25518d27b3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/citusdata/pg_cron/git/commits/39d467e0a6728e60e96a345c06ec0d25518d27b3"
+  },
+  "tag": "v1.0.1",
+  "message": "* Fixes a memory leak that occurs when a connection fails immediately\n* Fixes a memory leak due to switching memory context when loading metadata\n* Fixes a segmentation fault that can occur when using an error message after PQclear\n-----BEGIN PGP SIGNATURE-----\n\niQFIBAABCgAyFiEEUYqWDWqNRiIVlveLrUotgKzoXNUFAlnUpgkUHG1hcmNvQGNp\ndHVzZGF0YS5jb20ACgkQrUotgKzoXNVJKwf8Drz9/F6bClol25bmGM+tzOh3tmng\nPjDFr9fWvYz2T9LbCCX2aL6nLV6J5v9eEsF2rM3zEP3QJs5tH5ezRoWrv3roZAx8\nb+b7pj81pBVLoM+GvuHtjarbzJ3gq6QWzEZ6lH0jnnS82GIck7BuQ6mpPqETIlEy\n4Cfq7D1CjEvunR8thTTjnbesen6ngzTSuU9RdzSNdftoIwwLdt+OyPUo6Wk1dUjv\n/iH9zkWL+K/glsJNoKiahrLxnKVQJ3Qn2RIM0lPHsJEriPrVFlCmjkmc4ljRs96T\nMs+GJnzojlSyZWzEHOn4u4jFerfgFkh+F4vxj7baQQRxGbccE12GfMpXqQ==\n=hhLt\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFIBAABCgAyFiEEUYqWDWqNRiIVlveLrUotgKzoXNUFAlnUpgkUHG1hcmNvQGNp\ndHVzZGF0YS5jb20ACgkQrUotgKzoXNVJKwf8Drz9/F6bClol25bmGM+tzOh3tmng\nPjDFr9fWvYz2T9LbCCX2aL6nLV6J5v9eEsF2rM3zEP3QJs5tH5ezRoWrv3roZAx8\nb+b7pj81pBVLoM+GvuHtjarbzJ3gq6QWzEZ6lH0jnnS82GIck7BuQ6mpPqETIlEy\n4Cfq7D1CjEvunR8thTTjnbesen6ngzTSuU9RdzSNdftoIwwLdt+OyPUo6Wk1dUjv\n/iH9zkWL+K/glsJNoKiahrLxnKVQJ3Qn2RIM0lPHsJEriPrVFlCmjkmc4ljRs96T\nMs+GJnzojlSyZWzEHOn4u4jFerfgFkh+F4vxj7baQQRxGbccE12GfMpXqQ==\n=hhLt\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 39d467e0a6728e60e96a345c06ec0d25518d27b3\ntype commit\ntag v1.0.1\ntagger Marco Slot <marco@citusdata.com> 1507108348 +0200\n\n* Fixes a memory leak that occurs when a connection fails immediately\n* Fixes a memory leak due to switching memory context when loading metadata\n* Fixes a segmentation fault that can occur when using an error message after PQclear\n"
+  }
+}

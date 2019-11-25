@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzg3NzkxMzpiYjM0ZTc5Y2ZkZmYyZTUzNTlhOGZlNDUyMjAxMDIwM2M5Njk3ZDNl",
+  "sha": "bb34e79cfdff2e5359a8fe4522010203c9697d3e",
+  "url": "https://api.github.com/repos/openstack/oslo.config/git/tags/bb34e79cfdff2e5359a8fe4522010203c9697d3e",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-01-20T20:15:14Z"
+  },
+  "object": {
+    "sha": "9db24a4d9a42df27ba7c9dc8afbf9348c7912178",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.config/git/commits/9db24a4d9a42df27ba7c9dc8afbf9348c7912178"
+  },
+  "tag": "3.3.0",
+  "message": "oslo.config 3.3.0 release\n\nmeta:version: 3.3.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWn+rSAAoJEDttBqDEKEN6ZQYH/0nXwV1kAhXyOpcVGSFfvclT\nDKcZMKdtTrhYTXTCV6Y72WKpWfL4s5seMeR7VRAr9f4CTrFQukWHb5qQ1df7QaGt\n+ebhDC/L7M+3/iilcgp3TGrE/XT3sxH3u+kfuagM9gTd4Nb2Zxg+ZIPb7++nOoIK\nqXgq2hk5iST4EaJKe2xDfdSLhq504JoES9W5zq7XWffA3QFbww/FKrnSRsyBGOrW\nWha2x1wGbgpZb8SzTHMyg1KhZHboNtcS8HiK8QBHzQW/GBAzey06WdflbfCujOQi\njfjGY9bOwLq+27aWSvh+x+Nmadu3b131aQWK50V4OuMLxEOlv+Q7zzaIW1Te45c=\n=Bh/F\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWn+rSAAoJEDttBqDEKEN6ZQYH/0nXwV1kAhXyOpcVGSFfvclT\nDKcZMKdtTrhYTXTCV6Y72WKpWfL4s5seMeR7VRAr9f4CTrFQukWHb5qQ1df7QaGt\n+ebhDC/L7M+3/iilcgp3TGrE/XT3sxH3u+kfuagM9gTd4Nb2Zxg+ZIPb7++nOoIK\nqXgq2hk5iST4EaJKe2xDfdSLhq504JoES9W5zq7XWffA3QFbww/FKrnSRsyBGOrW\nWha2x1wGbgpZb8SzTHMyg1KhZHboNtcS8HiK8QBHzQW/GBAzey06WdflbfCujOQi\njfjGY9bOwLq+27aWSvh+x+Nmadu3b131aQWK50V4OuMLxEOlv+Q7zzaIW1Te45c=\n=Bh/F\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9db24a4d9a42df27ba7c9dc8afbf9348c7912178\ntype commit\ntag 3.3.0\ntagger Doug Hellmann <doug@doughellmann.com> 1453320914 -0500\n\noslo.config 3.3.0 release\n\nmeta:version: 3.3.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\n"
+  }
+}

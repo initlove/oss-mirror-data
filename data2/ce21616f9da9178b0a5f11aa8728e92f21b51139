@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTpjZTIxNjE2ZjlkYTkxNzhiMGE1ZjExYWE4NzI4ZTkyZjIxYjUxMTM5",
+  "sha": "ce21616f9da9178b0a5f11aa8728e92f21b51139",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/ce21616f9da9178b0a5f11aa8728e92f21b51139",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-10-18T20:17:48Z"
+  },
+  "object": {
+    "sha": "9ec52963b585e822e87bdc5de28d6143aff0d2e5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/9ec52963b585e822e87bdc5de28d6143aff0d2e5"
+  },
+  "tag": "v0.10.18",
+  "message": "2013.10.19, Version 0.10.18 (Stable)\n\nChanges since version 0.10.17:\n\n* unix: fix uv_spawn() NULL pointer deref on ENOMEM (Ben Noordhuis)\n\n* unix: don't close inherited fds on uv_spawn() fail (Ben Noordhuis)\n\n* unix: revert recent FSEvent changes (Ben Noordhuis)\n\n* unix: fix non-synchronized access in signal.c (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlJhl28ACgkQfTP/nQJGQG0zLgCfTmWnhG1ol6NbIE3Y5aQ9dPYm\nOkYAn16eDbw4B/spWtVXFBIoSH2iXSmh\n=Y56/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlJhl28ACgkQfTP/nQJGQG0zLgCfTmWnhG1ol6NbIE3Y5aQ9dPYm\nOkYAn16eDbw4B/spWtVXFBIoSH2iXSmh\n=Y56/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9ec52963b585e822e87bdc5de28d6143aff0d2e5\ntype commit\ntag v0.10.18\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1382127468 -0700\n\n2013.10.19, Version 0.10.18 (Stable)\n\nChanges since version 0.10.17:\n\n* unix: fix uv_spawn() NULL pointer deref on ENOMEM (Ben Noordhuis)\n\n* unix: don't close inherited fds on uv_spawn() fail (Ben Noordhuis)\n\n* unix: revert recent FSEvent changes (Ben Noordhuis)\n\n* unix: fix non-synchronized access in signal.c (Ben Noordhuis)\n"
+  }
+}

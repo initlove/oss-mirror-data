@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDE6YzAxZmRiNTg3ZjA1ZWY2MzBiMWM4Y2RjNWM2ZjI4Y2JlMjE3NzVjNA==",
+  "sha": "c01fdb587f05ef630b1c8cdc5c6f28cbe21775c4",
+  "url": "https://api.github.com/repos/openstack/ironic/git/tags/c01fdb587f05ef630b1c8cdc5c6f28cbe21775c4",
+  "tagger": {
+    "name": "Thierry Carrez",
+    "email": "thierry@openstack.org",
+    "date": "2016-03-23T13:15:40Z"
+  },
+  "object": {
+    "sha": "797e6f20e0f875e663320aee3f05a5491c3c784d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic/git/commits/797e6f20e0f875e663320aee3f05a5491c3c784d"
+  },
+  "tag": "5.1.0",
+  "message": "ironic 5.1.0 release\n\nmeta:version: 5.1.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJW8pb8AAoJEFB6+JAlsQQj4CQP/ilNqPumRRCwS+aTAJEAyyFw\n4XObsIL3GQg0JzYTzLIOCvGczociBqiXpOnzFk0/gxWK77m5ZGUPX6h0YrtNF64y\nkQN6Wz7M46QcScrn0p1N6ClU6KGNezL+R8R7FKKz9CfTz0GwO6px3XcJjmfJ5ErJ\nqiCvFwan1WPxyM9iLdF5ujM+VoS4Wu6okmkIY0WLbGIfVh1kKVQXEi8Qh3foBnYx\nWeTsfzadELNUHQ6KAGXTQfZPR/He/JtpM4eLp2xr01EYuDCv6EbB3kjvS9bv1TFK\n6XEsGRr3fDXkmLSe0R2A8u0TDWHVKmfrxFkS/NCZ63wOG7GVAVDyZjHbwBHPdQgK\nbJkf+nyRK7fgyZPHKAlJe3jBp6LXDYuB81JC+65iYeLqOPbhO8QBLzBjpN1+ZTy0\nB3aGJe3iV6kTqCkDmc0LNMNoEicLANsFuJYkhj0eUCfbYAOlLJ9FHfTEDvNwqZp8\nNR36V9sFKBdqR/dnibWAUg8AANwPTSgpKcV1XKw+k5qnP+IbVMIGt8r4k8BCllUk\nDkFhM6C5zX4NKt4/XXPAr7v/wDbroqNmW2Ytz4AMKXU9OG/bH1iHnZrm7DSGPAdD\n+8QLylQuJ4DD4h6MW/mPJkcQ4V8BxmsMFvIDOILfsjPy1BLEcm+5p3opKCImDksh\nGxGqQOt5Qp74e8laKGBG\n=t+mD\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJW8pb8AAoJEFB6+JAlsQQj4CQP/ilNqPumRRCwS+aTAJEAyyFw\n4XObsIL3GQg0JzYTzLIOCvGczociBqiXpOnzFk0/gxWK77m5ZGUPX6h0YrtNF64y\nkQN6Wz7M46QcScrn0p1N6ClU6KGNezL+R8R7FKKz9CfTz0GwO6px3XcJjmfJ5ErJ\nqiCvFwan1WPxyM9iLdF5ujM+VoS4Wu6okmkIY0WLbGIfVh1kKVQXEi8Qh3foBnYx\nWeTsfzadELNUHQ6KAGXTQfZPR/He/JtpM4eLp2xr01EYuDCv6EbB3kjvS9bv1TFK\n6XEsGRr3fDXkmLSe0R2A8u0TDWHVKmfrxFkS/NCZ63wOG7GVAVDyZjHbwBHPdQgK\nbJkf+nyRK7fgyZPHKAlJe3jBp6LXDYuB81JC+65iYeLqOPbhO8QBLzBjpN1+ZTy0\nB3aGJe3iV6kTqCkDmc0LNMNoEicLANsFuJYkhj0eUCfbYAOlLJ9FHfTEDvNwqZp8\nNR36V9sFKBdqR/dnibWAUg8AANwPTSgpKcV1XKw+k5qnP+IbVMIGt8r4k8BCllUk\nDkFhM6C5zX4NKt4/XXPAr7v/wDbroqNmW2Ytz4AMKXU9OG/bH1iHnZrm7DSGPAdD\n+8QLylQuJ4DD4h6MW/mPJkcQ4V8BxmsMFvIDOILfsjPy1BLEcm+5p3opKCImDksh\nGxGqQOt5Qp74e8laKGBG\n=t+mD\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 797e6f20e0f875e663320aee3f05a5491c3c784d\ntype commit\ntag 5.1.0\ntagger Thierry Carrez <thierry@openstack.org> 1458738940 +0100\n\nironic 5.1.0 release\n\nmeta:version: 5.1.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n"
+  }
+}

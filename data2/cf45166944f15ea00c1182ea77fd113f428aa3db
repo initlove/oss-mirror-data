@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDpjZjQ1MTY2OTQ0ZjE1ZWEwMGMxMTgyZWE3N2ZkMTEzZjQyOGFhM2Ri",
+  "sha": "cf45166944f15ea00c1182ea77fd113f428aa3db",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/cf45166944f15ea00c1182ea77fd113f428aa3db",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2014-11-25T09:46:43Z"
+  },
+  "object": {
+    "sha": "fda26fede13132685fc04c8c7fbbc1d728055c62",
+    "type": "tag",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/fda26fede13132685fc04c8c7fbbc1d728055c62"
+  },
+  "tag": "librepo-1.2.0",
+  "message": "v1.2.0\n- Better detection of bad content of repomd.xml\n- Close files properly (RhBug: 1012290)\n- Add fastestmirror module + LRO_FASTESTMIRROR option\n- downloader: Fix uninitialized total to download variable (GitHub issue 22)\n- Add LRO_MIRRORLISTURL and LRO_METALINKURL. LRO_MIRRORLIST is deprecated.\n- Few other small fixes\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

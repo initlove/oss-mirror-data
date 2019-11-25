@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzODQ5OTM6YjlkMDA1OGM2N2ZkODZkYjI5MDc5ZGFiMzY5Zjk3MWE4MzNlZTM0ZQ==",
+  "sha": "b9d0058c67fd86db29079dab369f971a833ee34e",
+  "url": "https://api.github.com/repos/openstack/keystone/git/tags/b9d0058c67fd86db29079dab369f971a833ee34e",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-04-17T23:38:10Z"
+  },
+  "object": {
+    "sha": "f5a41c44bf1bb5dd90cb872f7a37f00f53baa81a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystone/git/commits/f5a41c44bf1bb5dd90cb872f7a37f00f53baa81a"
+  },
+  "tag": "12.0.3",
+  "message": "keystone 12.0.3 release\n\nmeta:version: 12.0.3\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Change-Id: I0ea3e30572fb745950c0eca0770f96bb87e0a53b\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly3uOIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOEyiC/9P04fIF9HAC65TdpIGFGfx\ndCByNDMa9mWc6bd+MgAWOkggMSSAPBA9hOHBBj/gyDeNVGvC/NWn+43D2iZAuO3Q\nRKEy3JCp/0m/UB2C9PcHZbDD9peLvQQ+1ufP7wLy7mieT3TovvpSXLSzvpN4+9fn\nHKHem6pn/7jvtSZyIirdjHMsi+Sy2T4q5KBUE2aQUgN8J2/c3EFtCsh3Z7uPYH4I\np8B4PcA2sdN07L2TYZulxnSwwHcu1DV34w+vd0BoB70A53NWowF2J41ALDspm0eQ\nyQW6PBTggIHkNbZ2JVzvkXUlAZ8zDHoexfSZ4T+4Clq79CgMIYcNmZi+mTfhHJBg\nmQnYP0Z0C6HsUzzRjNC+GaBLdEbLOqnSTtzuKCT//bWrynLZEQ5+FgctUvwYSjYn\nIRzmNBGXF4zTHMuck48/73+RTprXj+FRCbUe7XRxrCPYUZnk0s3wWSlHS2oMycuw\nJ6ss+mlEVkWSdR52SnUQhIkdb5XJ7DCjDRGHXIvJV48=\n=/4sA\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly3uOIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOEyiC/9P04fIF9HAC65TdpIGFGfx\ndCByNDMa9mWc6bd+MgAWOkggMSSAPBA9hOHBBj/gyDeNVGvC/NWn+43D2iZAuO3Q\nRKEy3JCp/0m/UB2C9PcHZbDD9peLvQQ+1ufP7wLy7mieT3TovvpSXLSzvpN4+9fn\nHKHem6pn/7jvtSZyIirdjHMsi+Sy2T4q5KBUE2aQUgN8J2/c3EFtCsh3Z7uPYH4I\np8B4PcA2sdN07L2TYZulxnSwwHcu1DV34w+vd0BoB70A53NWowF2J41ALDspm0eQ\nyQW6PBTggIHkNbZ2JVzvkXUlAZ8zDHoexfSZ4T+4Clq79CgMIYcNmZi+mTfhHJBg\nmQnYP0Z0C6HsUzzRjNC+GaBLdEbLOqnSTtzuKCT//bWrynLZEQ5+FgctUvwYSjYn\nIRzmNBGXF4zTHMuck48/73+RTprXj+FRCbUe7XRxrCPYUZnk0s3wWSlHS2oMycuw\nJ6ss+mlEVkWSdR52SnUQhIkdb5XJ7DCjDRGHXIvJV48=\n=/4sA\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f5a41c44bf1bb5dd90cb872f7a37f00f53baa81a\ntype commit\ntag 12.0.3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1555544290 +0000\n\nkeystone 12.0.3 release\n\nmeta:version: 12.0.3\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Change-Id: I0ea3e30572fb745950c0eca0770f96bb87e0a53b\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

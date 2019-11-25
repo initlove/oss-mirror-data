@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDE6YmY5YjNkNmNmYzYyOTVhMDQwMjk5MWYxOTA4Mjg4NGEyZDgwMTUwYQ==",
+  "sha": "bf9b3d6cfc6295a0402991f19082884a2d80150a",
+  "url": "https://api.github.com/repos/openstack/ironic/git/tags/bf9b3d6cfc6295a0402991f19082884a2d80150a",
+  "tagger": {
+    "name": "Thierry Carrez",
+    "email": "thierry@openstack.org",
+    "date": "2016-06-22T09:34:11Z"
+  },
+  "object": {
+    "sha": "8006ec8a519fdbb34e310e785d7647ee94f68c49",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic/git/commits/8006ec8a519fdbb34e310e785d7647ee94f68c49"
+  },
+  "tag": "6.0.0",
+  "message": "ironic 6.0.0 release\n\nmeta:version: 6.0.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Commit: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Change-Id: Iba492bca3bd542d9a24f148d159e7b50302f3c3b\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXaluTAAoJEFB6+JAlsQQjO1oQAKhbnzWJSMSm9cp+USox5Erl\nZ4pqrQc1/0MYQkaCKOJC4JOlfPxqajZWoP9GAhbo883NricgeVpOzdw2BzaOydFD\nXiTYl0ke9ZvhVTMk5vPgGc8pgkX/nP1gVgVu8NwfjsVnnp2Gz9pppMs5DH8ujeoM\nNG+WBJ3BoeN8ZqKuB9BURSWfG18Uhvuep5K+2qbRhwKr8dhGXFmjMVoaPgdc1K3j\nT/Rg7YbHn1kwtwCz1isGHYLjfnWI3RpYl+cNOsPfwYfoIuDpgYJVnBMStSX936vq\nIbDMXxCXFTis+kaVmSK066Jw9TkK3MwW50YTCAtq//J5Sj+Mkx+QrcWYwuBY4cNX\nhrAb7a/0D/axNjFQ9k15WQ7BtoJhompH0jXXgnHWZDxJcy9Q8cYfTE+kStWiJT/P\nDyRbgy92iyxbM4C8RidIUd1FaO/ChzBMv/axFanse+dUZSS8hZhQGkWebXYq/pWt\n+aG3GdHL53tvqspEG5dRyYBlU9UnXQ8B+VN0sb4KZt8cYkGnIaIVkTSUxk1J7SSu\nP1PGwMTEill9mQt3/4yWDQWO9ksJW1Ka5GlKNoGWCQ5H1xphWJMQVk/yEqgSvPFc\nMEq/gVyudNo75ozZwJHpNxBB0ykeguORLvyhix77nNYLpTfjIXXrueAeaKqVJLro\n5Tc/glDiCtRX0YHIzKrH\n=2hGL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJXaluTAAoJEFB6+JAlsQQjO1oQAKhbnzWJSMSm9cp+USox5Erl\nZ4pqrQc1/0MYQkaCKOJC4JOlfPxqajZWoP9GAhbo883NricgeVpOzdw2BzaOydFD\nXiTYl0ke9ZvhVTMk5vPgGc8pgkX/nP1gVgVu8NwfjsVnnp2Gz9pppMs5DH8ujeoM\nNG+WBJ3BoeN8ZqKuB9BURSWfG18Uhvuep5K+2qbRhwKr8dhGXFmjMVoaPgdc1K3j\nT/Rg7YbHn1kwtwCz1isGHYLjfnWI3RpYl+cNOsPfwYfoIuDpgYJVnBMStSX936vq\nIbDMXxCXFTis+kaVmSK066Jw9TkK3MwW50YTCAtq//J5Sj+Mkx+QrcWYwuBY4cNX\nhrAb7a/0D/axNjFQ9k15WQ7BtoJhompH0jXXgnHWZDxJcy9Q8cYfTE+kStWiJT/P\nDyRbgy92iyxbM4C8RidIUd1FaO/ChzBMv/axFanse+dUZSS8hZhQGkWebXYq/pWt\n+aG3GdHL53tvqspEG5dRyYBlU9UnXQ8B+VN0sb4KZt8cYkGnIaIVkTSUxk1J7SSu\nP1PGwMTEill9mQt3/4yWDQWO9ksJW1Ka5GlKNoGWCQ5H1xphWJMQVk/yEqgSvPFc\nMEq/gVyudNo75ozZwJHpNxBB0ykeguORLvyhix77nNYLpTfjIXXrueAeaKqVJLro\n5Tc/glDiCtRX0YHIzKrH\n=2hGL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8006ec8a519fdbb34e310e785d7647ee94f68c49\ntype commit\ntag 6.0.0\ntagger Thierry Carrez <thierry@openstack.org> 1466588051 +0200\n\nironic 6.0.0 release\n\nmeta:version: 6.0.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Commit: Jim Rollenhagen <jim@jimrollenhagen.com>\nmeta:release:Change-Id: Iba492bca3bd542d9a24f148d159e7b50302f3c3b\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

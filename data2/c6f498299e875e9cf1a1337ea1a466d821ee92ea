@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6YzZmNDk4Mjk5ZTg3NWU5Y2YxYTEzMzdlYTFhNDY2ZDgyMWVlOTJlYQ==",
+  "sha": "c6f498299e875e9cf1a1337ea1a466d821ee92ea",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/c6f498299e875e9cf1a1337ea1a466d821ee92ea",
+  "tagger": {
+    "name": "lkorth",
+    "email": "luke@lukekorth.com",
+    "date": "2016-08-26T20:13:31Z"
+  },
+  "object": {
+    "sha": "89ed52fc56d6d87ed7a93f487b8d524d3f36a36d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/89ed52fc56d6d87ed7a93f487b8d524d3f36a36d"
+  },
+  "tag": "2.3.7",
+  "message": "2.3.7\n\n* Update exception message when Android Manifest setup is invalid\n* Fix unclosed `InputStream` (fixes [#115](https://github.com/braintree/braintree_android/issues/115))\n* Post exception to error listener instead of throwing `IllegalStateException` when `BraintreeFragment` is not attached to an `Activity`\n* Restore url when `BraintreeFragment` is recreated (fixes [#117](https://github.com/braintree/braintree_android/issues/117))\n* Upgrade gradle build tools to 2.1.3\n* Parse and return errors when Android Pay tokenization fails\n* Add support for changing the backing card for Android Pay in Drop-In\n* Call configuration callback whenever a new Activity is attached to `BraintreeFragment`\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

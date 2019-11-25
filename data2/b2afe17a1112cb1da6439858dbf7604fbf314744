@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc0ODk5NjY6YjJhZmUxN2ExMTEyY2IxZGE2NDM5ODU4ZGJmNzYwNGZiZjMxNDc0NA==",
+  "sha": "b2afe17a1112cb1da6439858dbf7604fbf314744",
+  "url": "https://api.github.com/repos/openstack/neutron-lbaas/git/tags/b2afe17a1112cb1da6439858dbf7604fbf314744",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-02-08T14:33:17Z"
+  },
+  "object": {
+    "sha": "4cf67c4898ba104c430a6c0da4b5e13801e6722e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-lbaas/git/commits/4cf67c4898ba104c430a6c0da4b5e13801e6722e"
+  },
+  "tag": "12.0.0.0rc1",
+  "message": "neutron-lbaas 12.0.0.0rc1 release candidate\n\nmeta:version: 12.0.0.0rc1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Michael Johnson <johnsomor@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@huawei.com>\nmeta:release:Change-Id: I81dd5da89a3ed4fd0d8075a199e6f90e75a31528\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\nmeta:release:+    significantly improved load balancer detail pages and workflows compared\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJafF+tAAoJEEIeZHKBH5qBwJIH/itxMfP7bn4BQM2TLUBSv/25\nX2KojMyLTFq9MlQuUf27ONV3b5fky+F/CenCQAcugGNZWpWb51c3Mw3WNoGr6CmL\nQPacY5aNcAu18SBQleeEQCKX6rlT2LKwuq433ZQYJExpeyhjYzr4BqjX/aEcrM41\nZbyf9lkrNsag36BAy2Qji8L2WajdPyCxtISYxTCrBxhZn0UTVM99/x6ERg5r8uR1\nRLW3YmJZhi+lWZKUE9yCjbM/qK5vHo0GVSoqe+aC5eqoyLuMOKq+tmudIBIJo/Da\nUIQvU9b93qdl4v945PVqSZ6ZTVlhu4rGOSo01ACJlsAgYS7oNm5yydCMhaOIkBo=\n=whb9\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJafF+tAAoJEEIeZHKBH5qBwJIH/itxMfP7bn4BQM2TLUBSv/25\nX2KojMyLTFq9MlQuUf27ONV3b5fky+F/CenCQAcugGNZWpWb51c3Mw3WNoGr6CmL\nQPacY5aNcAu18SBQleeEQCKX6rlT2LKwuq433ZQYJExpeyhjYzr4BqjX/aEcrM41\nZbyf9lkrNsag36BAy2Qji8L2WajdPyCxtISYxTCrBxhZn0UTVM99/x6ERg5r8uR1\nRLW3YmJZhi+lWZKUE9yCjbM/qK5vHo0GVSoqe+aC5eqoyLuMOKq+tmudIBIJo/Da\nUIQvU9b93qdl4v945PVqSZ6ZTVlhu4rGOSo01ACJlsAgYS7oNm5yydCMhaOIkBo=\n=whb9\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4cf67c4898ba104c430a6c0da4b5e13801e6722e\ntype commit\ntag 12.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1518100397 +0000\n\nneutron-lbaas 12.0.0.0rc1 release candidate\n\nmeta:version: 12.0.0.0rc1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Michael Johnson <johnsomor@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@huawei.com>\nmeta:release:Change-Id: I81dd5da89a3ed4fd0d8075a199e6f90e75a31528\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\nmeta:release:+    significantly improved load balancer detail pages and workflows compared\n"
+  }
+}

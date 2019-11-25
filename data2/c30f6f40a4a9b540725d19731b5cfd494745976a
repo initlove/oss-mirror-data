@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ5MDk2ODQ6YzMwZjZmNDBhNGE5YjU0MDcyNWQxOTczMWI1Y2ZkNDk0NzQ1OTc2YQ==",
+  "sha": "c30f6f40a4a9b540725d19731b5cfd494745976a",
+  "url": "https://api.github.com/repos/openstack/tooz/git/tags/c30f6f40a4a9b540725d19731b5cfd494745976a",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-02-13T19:12:57Z"
+  },
+  "object": {
+    "sha": "17b9e9d42c7d79e1a6e4fd60312ed39108eebab6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/tooz/git/commits/17b9e9d42c7d79e1a6e4fd60312ed39108eebab6"
+  },
+  "tag": "1.64.1",
+  "message": "tooz 1.64.1 release\n\nmeta:version: 1.64.1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I58c895fde3c7bab5aa5888d35a57fc94f15f29b3\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcZGw5AAoJEBpUEUgFTp44g9QL/j7dBopFu0eeP/U5bMKYRYU0\n0gzT3NTVYc2Wjg8QKGU/QQzFD4+ZYfs2LfljWaD01+JrviDDIEoKuyfHF2nspGU5\nqeJhVtFjC6hdSwuflw2OgckQwPDOChXAm4YfcMn5StRrNzs5BW7oBqk9FrwIB80t\n1OkeMJ/cs/9PWN9ncDYK+Zeb9VreHACpRmD4iCX7dY8ykU3OKoQavnuBPQI9TrA6\n3R/vz6rDetPFPzyTtnV4RqwdEYv2fhJ5dFxswH41i5EvfTkRukz2NrxyFRwMRgPp\nUPV5LRejke3T67kB+BuFwS4WWw6ogHi/A2+si6qMNWO3s3WfnOwU+rOMpeGCNhN7\nQ/qA3FxxOdXV6/ELuq81qd/JJwjyLgxMhAUWcP8A9CsbI17pBh9EJ7Qs2XJC260H\nuXSKUvOxhtLgzeQsBmbULyg7pyDeEDXHrk3Ii5LxEIu48/NxW9y2IBK1IPQ+n4jg\n5rxcvO74z4uwDSnkqpUw5MMROcjE0EbAbYGW8R+kkw==\n=nwCd\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcZGw5AAoJEBpUEUgFTp44g9QL/j7dBopFu0eeP/U5bMKYRYU0\n0gzT3NTVYc2Wjg8QKGU/QQzFD4+ZYfs2LfljWaD01+JrviDDIEoKuyfHF2nspGU5\nqeJhVtFjC6hdSwuflw2OgckQwPDOChXAm4YfcMn5StRrNzs5BW7oBqk9FrwIB80t\n1OkeMJ/cs/9PWN9ncDYK+Zeb9VreHACpRmD4iCX7dY8ykU3OKoQavnuBPQI9TrA6\n3R/vz6rDetPFPzyTtnV4RqwdEYv2fhJ5dFxswH41i5EvfTkRukz2NrxyFRwMRgPp\nUPV5LRejke3T67kB+BuFwS4WWw6ogHi/A2+si6qMNWO3s3WfnOwU+rOMpeGCNhN7\nQ/qA3FxxOdXV6/ELuq81qd/JJwjyLgxMhAUWcP8A9CsbI17pBh9EJ7Qs2XJC260H\nuXSKUvOxhtLgzeQsBmbULyg7pyDeEDXHrk3Ii5LxEIu48/NxW9y2IBK1IPQ+n4jg\n5rxcvO74z4uwDSnkqpUw5MMROcjE0EbAbYGW8R+kkw==\n=nwCd\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 17b9e9d42c7d79e1a6e4fd60312ed39108eebab6\ntype commit\ntag 1.64.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1550085177 +0000\n\ntooz 1.64.1 release\n\nmeta:version: 1.64.1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I58c895fde3c7bab5aa5888d35a57fc94f15f29b3\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

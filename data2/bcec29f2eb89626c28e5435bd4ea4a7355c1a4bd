@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDpiY2VjMjlmMmViODk2MjZjMjhlNTQzNWJkNGVhNGE3MzU1YzFhNGJk",
+  "sha": "bcec29f2eb89626c28e5435bd4ea4a7355c1a4bd",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/bcec29f2eb89626c28e5435bd4ea4a7355c1a4bd",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2014-11-25T09:47:24Z"
+  },
+  "object": {
+    "sha": "a48c99c30fb1cdca338b9bde52b2182c7d520960",
+    "type": "tag",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/a48c99c30fb1cdca338b9bde52b2182c7d520960"
+  },
+  "tag": "librepo-1.4.0",
+  "message": "v1.4.0\n- Add LRO_FASTESTMIRRORCB\n- Add LRO_LOWSPEEDTIME and LRO_LOWSPEEDLIMIT options. (RhBug: 1028444)\n- Default connection timeout changed to 30sec instead of 300sec.\n- unittests: Fix expired key (RhBug: 1031825)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

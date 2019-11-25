@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDQ6Y2Q1OTU5ZmFhMDQ5YTA3YmVmNWNmNDhkNTU2Njk5NzdkZmU4ODkyMA==",
+  "sha": "cd5959faa049a07bef5cf48d55669977dfe88920",
+  "url": "https://api.github.com/repos/openstack/python-ironicclient/git/tags/cd5959faa049a07bef5cf48d55669977dfe88920",
+  "tagger": {
+    "name": "Devananda van der Veen",
+    "email": "devananda.vdv@gmail.com",
+    "date": "2015-04-06T14:51:12Z"
+  },
+  "object": {
+    "sha": "20117dca60dbebe069e147c7e97b55cafb263e4f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironicclient/git/commits/20117dca60dbebe069e147c7e97b55cafb263e4f"
+  },
+  "tag": "0.5.0",
+  "message": "Release 0.5.0\n\nThis is the first client release which supports passing a version header\n(X-OpenStack-Ironic-API-Version). Clients prior to this version did not\npass any header; the server handles that case as \"v1.1\".\n\nThis version of the client passes a version header of 1.6, corresponding\nto the Kilo release of the Ironic API service.\n\nAdditionally, this release includes the following changes:\n\n* Adds 'inspection' support to node-set-provision-state\n* Adds 'manage' support to node-set-provision-state\n* Adds support for Node logical names in output, and via the \"-n\" / \"--name\"\n  option when creating Nodes.\n* Adds support for creating a configdrive automatically, if --config-drive\n  specifies a directory path instead of a file name.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlUinWsACgkQhFvuBniJg6fOCgCg5z4LpZkuZbCsbwS4MI4HvWHf\nD48AoKkaV3bz1KzYcSBsY1JBFxVbC39n\n=X6Os\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlUinWsACgkQhFvuBniJg6fOCgCg5z4LpZkuZbCsbwS4MI4HvWHf\nD48AoKkaV3bz1KzYcSBsY1JBFxVbC39n\n=X6Os\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 20117dca60dbebe069e147c7e97b55cafb263e4f\ntype commit\ntag 0.5.0\ntagger Devananda van der Veen <devananda.vdv@gmail.com> 1428331872 -0700\n\nRelease 0.5.0\n\nThis is the first client release which supports passing a version header\n(X-OpenStack-Ironic-API-Version). Clients prior to this version did not\npass any header; the server handles that case as \"v1.1\".\n\nThis version of the client passes a version header of 1.6, corresponding\nto the Kilo release of the Ironic API service.\n\nAdditionally, this release includes the following changes:\n\n* Adds 'inspection' support to node-set-provision-state\n* Adds 'manage' support to node-set-provision-state\n* Adds support for Node logical names in output, and via the \"-n\" / \"--name\"\n  option when creating Nodes.\n* Adds support for creating a configdrive automatically, if --config-drive\n  specifies a directory path instead of a file name.\n"
+  }
+}

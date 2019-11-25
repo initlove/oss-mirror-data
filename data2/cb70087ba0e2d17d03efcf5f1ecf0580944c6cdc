@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY2MjY5NTg6Y2I3MDA4N2JhMGUyZDE3ZDAzZWZjZjVmMWVjZjA1ODA5NDRjNmNkYw==",
+  "sha": "cb70087ba0e2d17d03efcf5f1ecf0580944c6cdc",
+  "url": "https://api.github.com/repos/openstack/stevedore/git/tags/cb70087ba0e2d17d03efcf5f1ecf0580944c6cdc",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-07-05T08:27:44Z"
+  },
+  "object": {
+    "sha": "72e7df283f5fc947370d47850a38b48af2cde7df",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/stevedore/git/commits/72e7df283f5fc947370d47850a38b48af2cde7df"
+  },
+  "tag": "1.20.1",
+  "message": "stevedore 1.20.1 release\n\nmeta:version: 1.20.1\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Change-Id: I349378dcbba1ab968c01c747cb3a54e9595cde1e\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZXKMAAAoJEOtsyhSD+nTsxFAH/1YTqIrRo/fAnXWqvINT2cg+\neIEbQJvlBnki29fk9OB7X4lYvFW7tR8tWvNO39gIrC/Ci2ilyBm/ClZb+tLqXRQD\nOhrRbXNMBQvxNT6jsR9cwkDjE/Q+OfoolTpkvKgrFEWdEcVJTPDkJxW9gEMrzctQ\nn73z5QPY2AYKlgXCoL09SgEXTy+LGRNREABt3rcvihf2tYjAnKmNCVZmZscyDT1r\nQaAJC771e649OdfEmAV6Sk5UnzeVeMT7TdqVr+7xNYzZrAFVjrftva06F3qgor5f\nTyWtc3gkHrgOuh7MNm2h7wC8X0yH4w1pDzoon78OMd0vR1Udo2S3LOycYAAQki4=\n=BBgc\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZXKMAAAoJEOtsyhSD+nTsxFAH/1YTqIrRo/fAnXWqvINT2cg+\neIEbQJvlBnki29fk9OB7X4lYvFW7tR8tWvNO39gIrC/Ci2ilyBm/ClZb+tLqXRQD\nOhrRbXNMBQvxNT6jsR9cwkDjE/Q+OfoolTpkvKgrFEWdEcVJTPDkJxW9gEMrzctQ\nn73z5QPY2AYKlgXCoL09SgEXTy+LGRNREABt3rcvihf2tYjAnKmNCVZmZscyDT1r\nQaAJC771e649OdfEmAV6Sk5UnzeVeMT7TdqVr+7xNYzZrAFVjrftva06F3qgor5f\nTyWtc3gkHrgOuh7MNm2h7wC8X0yH4w1pDzoon78OMd0vR1Udo2S3LOycYAAQki4=\n=BBgc\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 72e7df283f5fc947370d47850a38b48af2cde7df\ntype commit\ntag 1.20.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1499243264 +0000\n\nstevedore 1.20.1 release\n\nmeta:version: 1.20.1\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Change-Id: I349378dcbba1ab968c01c747cb3a54e9595cde1e\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

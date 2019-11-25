@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTpjMjI1NmMyNDM1NWZkNDc0M2MyMzkyOGQxOTNiNWY2NDhkZmE2MDQx",
+  "sha": "c2256c24355fd4743c23928d193b5f648dfa6041",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/c2256c24355fd4743c23928d193b5f648dfa6041",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-01-07T22:03:15Z"
+  },
+  "object": {
+    "sha": "f526c90eeff271d9323a9107b9a64a4671fd3103",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/f526c90eeff271d9323a9107b9a64a4671fd3103"
+  },
+  "tag": "v0.10.22",
+  "message": "2014.01.08, Version 0.10.22 (Stable)\n\nChanges since version 0.10.21:\n\n* windows: avoid assertion failure when pipe server is closed (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlLMeaYACgkQfTP/nQJGQG1q0gCgzNi72ya5AviMoCthV5s5vW4x\nyv0AoN9odO2rqovpBuHZ1O39R3ohkmQs\n=kmdn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlLMeaYACgkQfTP/nQJGQG1q0gCgzNi72ya5AviMoCthV5s5vW4x\nyv0AoN9odO2rqovpBuHZ1O39R3ohkmQs\n=kmdn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f526c90eeff271d9323a9107b9a64a4671fd3103\ntype commit\ntag v0.10.22\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1389132195 -0800\n\n2014.01.08, Version 0.10.22 (Stable)\n\nChanges since version 0.10.21:\n\n* windows: avoid assertion failure when pipe server is closed (Bert Belder)\n"
+  }
+}

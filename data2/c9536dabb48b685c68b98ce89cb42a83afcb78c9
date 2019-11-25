@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOmM5NTM2ZGFiYjQ4YjY4NWM2OGI5OGNlODljYjQyYTgzYWZjYjc4Yzk=",
+  "sha": "c9536dabb48b685c68b98ce89cb42a83afcb78c9",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/c9536dabb48b685c68b98ce89cb42a83afcb78c9",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2016-06-17T03:57:35Z"
+  },
+  "object": {
+    "sha": "59321cb4058c3733ab68f1ceeccd99cad8cc266b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/59321cb4058c3733ab68f1ceeccd99cad8cc266b"
+  },
+  "tag": "4.0.0-rc1",
+  "message": "Version 4.0.0-rc1\n\n - Requiring `serialport` now returns the SerialPort constructor function instead of a factory object. `SerialPort.SerialPort` is now depreciated.\n - `SerialPort` constructor now throws on argument errors immediately.\n - Removed `openImmediately` from the constructor's api, the functionality is now named `autoOpen` on the options object.\n - Removed extraneous flow control settings from the `flowControl` option, use the specific options to set these flags now.\n - Removed undocumented callbacks from the options object `disconnectedCallback` and `dataCallback`\n - `.write(writeCallback)` now only calls it's callback once after the entire write operation, it used to be called for each write cycle and return the bytes written. This reduces the number of callbacks by hundreds of thousands over a megabyte at low bandwidth.\n - All callbacks are called in the context of the port, `this` now equals the port.\n - Disconnections now always attempt to close the port, and you'll always get a `close` event after a `disconnect` event\n - Reanmed `serialportlist` to `serialport-list`\n - Renamed `serialportterm` to `serialport-term`\n - [unix] `.drain` and `.set` now properly report errors\n - [unix] Ports are now locked by default with the new `lock` options matches windows default behavior\n - [windows] `.update()` now supports windows for changing baud rates\n - [windows] Fixed a bug where we weren't properly opening ports (provides better support virtual com ports too) thanks to @RogerHardiman\n - [windows] known issue `lock: false` doesn't work (no change in behavior)\n - Added our first arduino required integration tests\n - Added a contributors guide\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

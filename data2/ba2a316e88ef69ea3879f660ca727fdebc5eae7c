@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjpiYTJhMzE2ZTg4ZWY2OWVhMzg3OWY2NjBjYTcyN2ZkZWJjNWVhZTdj",
+  "sha": "ba2a316e88ef69ea3879f660ca727fdebc5eae7c",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/ba2a316e88ef69ea3879f660ca727fdebc5eae7c",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:34:00Z"
+  },
+  "object": {
+    "sha": "20068e8c49016e0f3735000f048e58b500a95ecf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/20068e8c49016e0f3735000f048e58b500a95ecf"
+  },
+  "tag": "0.7.0",
+  "message": "v0.7.0\n- deltarpms: Update module to work with current version of drpm\n- mergerepo_c: Add --omit-baseurl option\n- craterepo_c: Gen empty repo if empty pkglist is used\n- Docs: Output python docs to separate directory\n- Several small fixes\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjk5NzcwMTpiOTI3NzIzMzdkNWNlYzA2OGM5MGU0NGQ4YTRhNjUyMGM5N2RiNDhk",
+  "sha": "b92772337d5cec068c90e44d8a4a6520c97db48d",
+  "url": "https://api.github.com/repos/Netflix/servo/git/tags/b92772337d5cec068c90e44d8a4a6520c97db48d",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-03-24T22:11:36Z"
+  },
+  "object": {
+    "sha": "71203a4b4c65f132f64258ac9db554e2e1bd9fd1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/servo/git/commits/71203a4b4c65f132f64258ac9db554e2e1bd9fd1"
+  },
+  "tag": "v0.9.0",
+  "message": "Release of 0.9.0\n\n- 71203a4b4c65f132f64258ac9db554e2e1bd9fd1: Merge pull request #312 from dmuino/tomcat\n- 4e80a27ef1eab839935fb07cb0ed72ab8701c62c: Only add metrics if the threadpool/executor is used. Better naming\n- d42ee9c12a7fa06c6b995caaa4d974358fb2ea74: Add extra executor attributes. Normalize metric names\n- c1e4f0764e23f60e5ea43bb214de429b84e35e26: Fix some pmd and checkstyle warnings\n- 35083fc34971e1122589dc0b7d66023e824c9d60: Add servo-tomcat subproject: generate metrics related to tomcat\n- 18023ccc0671dc2a71456f1764fc35e06923c5d7: Merge pull request #309 from kafkapre/kafkapre-graphiteMonitorConsidersStatisticTag\n- 1a7e7c101f38c7464aa387709af6ea02e6700306: Tag with key \"statistic\" is propagated in namespace\n- e48ce32b314726a25c2aa2e28332820a9d630f04: Revert to original GraphiteMetricObserver\n- 392ae6056e8f44ad39664c26869d813e2413eafc: Merge pull request #311 from sslavic/310\n- 7e58a948879f70f293f9e8412be1f668815a724d: Logging warning when mbean query doesn't match any mbeans in JmxMetricPoller poll\n- 6ff59f7eac85419778fbe57c719b7559b9ecad8d: Tag with key \"statistic\" is propagated in namespace of grapthite when data are sent\n- 46e80037fae9480ab964aace0f30636cf033580a: Merge pull request #306 from adriancole/adrian.jmx-race\n- 4556673b9451bd5ab772e57f6c88097c4515c774: Removes race condition in JmxMonitorRegistry.register\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

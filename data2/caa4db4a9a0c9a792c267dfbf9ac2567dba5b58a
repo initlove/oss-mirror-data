@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzQ3OTE4NDA6Y2FhNGRiNGE5YTBjOWE3OTJjMjY3ZGZiZjlhYzI1NjdkYmE1YjU4YQ==",
+  "sha": "caa4db4a9a0c9a792c267dfbf9ac2567dba5b58a",
+  "url": "https://api.github.com/repos/openstack/keystoneauth/git/tags/caa4db4a9a0c9a792c267dfbf9ac2567dba5b58a",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-07-15T14:53:22Z"
+  },
+  "object": {
+    "sha": "3fd9ce7007208b8d59fa36f89a74769b33a8a803",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystoneauth/git/commits/3fd9ce7007208b8d59fa36f89a74769b33a8a803"
+  },
+  "tag": "3.15.0",
+  "message": "keystoneauth 3.15.0 release\n\nmeta:version: 3.15.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Eric Fried <openstack@fried.cc>\nmeta:release:Commit: Eric Fried <openstack@fried.cc>\nmeta:release:Change-Id: Ie11383ac5c0dd2ee9b8a1730b7e365362e7c0084\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Andriy Shevchenko <huang.zhiping@99cloud.net>\nmeta:release:Code-Review+1: 98k <18552437190@163.com>\nmeta:release:Code-Review+1: Vieri <15050873171@163.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0sk2IZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JNZDAC65wutLZhy52PEwhSVyBdE\nkjIicVZg/dbL3vmsXn5BZjqrUaxMNInS1JnN0dB/1RgVynlRd+J0h2DMpOzYpzta\nRlFwZ0UG5CZZ+5iC3nflEBOIY9qMkDQmu2jQGXKQ3GqB9QTa7osbTbV25fBbEt0E\nJTDY40lghlJyb85MGt+HgwfIIIfYQ07jYDjSLG/AmaA1murViLrUjE0oGrnMWyIe\n/iEtuhoHVdj2lQrqYfxI9pcjZbkecAV9BFpjubk9IsTJhH4L71/Zkgx9VtOmpmcQ\n344BTblJZ8kpSWE77tVRSqkdFZ0OEAkBG9sCtAFfWK5eM0cAW9DJ/gZPTBqCUBDC\nZ4Fc4djxvOCy2EMmy7RNXynY3RS5w7zOj/xk+6Wh0ZXWmJlfwMmarp4q876Two1l\nEqLU5F04tj0idTXM1kQxeIM7sDejaV4l5B0e8gidJ+I3ERbaVVdZjFdPbRQbzhDT\nPSdZ3cpZ++qchSM/zry4ffYA8VNwnF5/KjRmFml1Zi0=\n=x5NF\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0sk2IZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JNZDAC65wutLZhy52PEwhSVyBdE\nkjIicVZg/dbL3vmsXn5BZjqrUaxMNInS1JnN0dB/1RgVynlRd+J0h2DMpOzYpzta\nRlFwZ0UG5CZZ+5iC3nflEBOIY9qMkDQmu2jQGXKQ3GqB9QTa7osbTbV25fBbEt0E\nJTDY40lghlJyb85MGt+HgwfIIIfYQ07jYDjSLG/AmaA1murViLrUjE0oGrnMWyIe\n/iEtuhoHVdj2lQrqYfxI9pcjZbkecAV9BFpjubk9IsTJhH4L71/Zkgx9VtOmpmcQ\n344BTblJZ8kpSWE77tVRSqkdFZ0OEAkBG9sCtAFfWK5eM0cAW9DJ/gZPTBqCUBDC\nZ4Fc4djxvOCy2EMmy7RNXynY3RS5w7zOj/xk+6Wh0ZXWmJlfwMmarp4q876Two1l\nEqLU5F04tj0idTXM1kQxeIM7sDejaV4l5B0e8gidJ+I3ERbaVVdZjFdPbRQbzhDT\nPSdZ3cpZ++qchSM/zry4ffYA8VNwnF5/KjRmFml1Zi0=\n=x5NF\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3fd9ce7007208b8d59fa36f89a74769b33a8a803\ntype commit\ntag 3.15.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1563202402 +0000\n\nkeystoneauth 3.15.0 release\n\nmeta:version: 3.15.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Eric Fried <openstack@fried.cc>\nmeta:release:Commit: Eric Fried <openstack@fried.cc>\nmeta:release:Change-Id: Ie11383ac5c0dd2ee9b8a1730b7e365362e7c0084\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Andriy Shevchenko <huang.zhiping@99cloud.net>\nmeta:release:Code-Review+1: 98k <18552437190@163.com>\nmeta:release:Code-Review+1: Vieri <15050873171@163.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

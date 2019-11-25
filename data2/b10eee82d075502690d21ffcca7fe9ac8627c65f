@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDQ6YjEwZWVlODJkMDc1NTAyNjkwZDIxZmZjY2E3ZmU5YWM4NjI3YzY1Zg==",
+  "sha": "b10eee82d075502690d21ffcca7fe9ac8627c65f",
+  "url": "https://api.github.com/repos/openstack/python-ironicclient/git/tags/b10eee82d075502690d21ffcca7fe9ac8627c65f",
+  "tagger": {
+    "name": "Devananda van der Veen",
+    "email": "devananda.vdv@gmail.com",
+    "date": "2014-04-30T19:46:55Z"
+  },
+  "object": {
+    "sha": "7183512cbc58832d8d50d6d33852522736126126",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironicclient/git/commits/7183512cbc58832d8d50d6d33852522736126126"
+  },
+  "tag": "0.1.4",
+  "message": "Tag 0.1.4\n\n* 'node list' shows the maintenance field\n* 'node get-console' handles returned JSON document\n* minor doc string fixes\n* add developer and CLI documentation\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlNhU80ACgkQhFvuBniJg6cHsgCgl0OniaSgYaq55R9pqSadUaIt\ncIIAoM13EN0lgTUvN6QoVFva6YHbDpNc\n=XAlM\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlNhU80ACgkQhFvuBniJg6cHsgCgl0OniaSgYaq55R9pqSadUaIt\ncIIAoM13EN0lgTUvN6QoVFva6YHbDpNc\n=XAlM\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7183512cbc58832d8d50d6d33852522736126126\ntype commit\ntag 0.1.4\ntagger Devananda van der Veen <devananda.vdv@gmail.com> 1398887215 -0700\n\nTag 0.1.4\n\n* 'node list' shows the maintenance field\n* 'node get-console' handles returned JSON document\n* minor doc string fixes\n* add developer and CLI documentation\n"
+  }
+}

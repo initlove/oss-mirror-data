@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2NzpiODQzYTlkMmRmNmUxZTdiOWE0NzJmODZmM2U4MGQ2NjcxYzc3OTM4",
+  "sha": "b843a9d2df6e1e7b9a472f86f3e80d6671c77938",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/b843a9d2df6e1e7b9a472f86f3e80d6671c77938",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2015-06-01T23:37:40Z"
+  },
+  "object": {
+    "sha": "e0a57053a35158fa5634ac4b8789b4f1c48c2b8d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/e0a57053a35158fa5634ac4b8789b4f1c48c2b8d"
+  },
+  "tag": "7.0.2",
+  "message": "Released v7.0.2\n\n* **BACKWARD INCOMPATIBLE** Revert the change (released in v7.0.0) that\n  required quoting in requirements files around specifiers containing\n  environment markers. (:pull:`2841`)\n\n* **BACKWARD INCOMPATIBLE** Revert the accidental introduction of support for\n  options interleaved with requirements, version specifiers etc in\n  ``requirements`` files. (:pull:`2841`)\n\n* Expand ``~`` in the cache directory when caching wheels, fixes :issue:`2816`.\n\n* Use ``python -m pip`` instead of ``pip`` when recommending an upgrade command\n  to Windows users.\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJVbOzQAAoJEG48vOkzctz6Wt0P/2BY0rjZ7dLNGPg2gmoeLF7w\nKgcTfHKVNsBlUwvSftwttb2LW8AryOzt547k+sQToFYO+CQSzUE18eR1hg+zccNE\n6mBn3oyxUzL7m2repHespnndyd3ACrlDNRwhNXlhd98J9wTT7efNqyc1PkNl46FI\nU8X104RNT2mS0fB9vuaIADjp2abV5gUJbqsA7hYjQU1r7B7uRLdkzgbq0Ng0b9PP\nP+/EmDe8WBAmqy54IP2pdMDTcU+/+8IZqXhCYVypobTSP8PxDHrTppx6YCikk4Ga\nWiBpTehCBVEz961V9A3/rb8FMjtdazo0cWVRZsx/SsFgp3b7f5zbgWpJKk+hDf3f\nD//aW46SA96eADptjGmVuddSstNzqfFMDxQxNj09kmMi7oiJHnaCwYASAtSMj5lP\nHxUlZSm5k5/bhnw2YRrIAjh2V1zoRYcz3r6QsYnxgzrxRVgAClbw0+y7flYI7Q+T\nCLvZKpui8kIkuWjgR9gGIwqFqmJJDIIu8oIlhgp4vODDY4tR5r1Yl7Hi3vzmoKHP\n9CmH7oCwhXMih56C3zIC1S1oXwZe5ygPLRDPYR4wClzBOFwNV4E4sO9j6BprXdBy\nK/sNi4nJGD7tz241fQK1fDO65bbAhHS2MACkhT6OVjtp5rcTzjKK5sS5FZ9qTvwF\nhXF5FDafY2u3DoMQ20zI\n=zrhi\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJVbOzQAAoJEG48vOkzctz6Wt0P/2BY0rjZ7dLNGPg2gmoeLF7w\nKgcTfHKVNsBlUwvSftwttb2LW8AryOzt547k+sQToFYO+CQSzUE18eR1hg+zccNE\n6mBn3oyxUzL7m2repHespnndyd3ACrlDNRwhNXlhd98J9wTT7efNqyc1PkNl46FI\nU8X104RNT2mS0fB9vuaIADjp2abV5gUJbqsA7hYjQU1r7B7uRLdkzgbq0Ng0b9PP\nP+/EmDe8WBAmqy54IP2pdMDTcU+/+8IZqXhCYVypobTSP8PxDHrTppx6YCikk4Ga\nWiBpTehCBVEz961V9A3/rb8FMjtdazo0cWVRZsx/SsFgp3b7f5zbgWpJKk+hDf3f\nD//aW46SA96eADptjGmVuddSstNzqfFMDxQxNj09kmMi7oiJHnaCwYASAtSMj5lP\nHxUlZSm5k5/bhnw2YRrIAjh2V1zoRYcz3r6QsYnxgzrxRVgAClbw0+y7flYI7Q+T\nCLvZKpui8kIkuWjgR9gGIwqFqmJJDIIu8oIlhgp4vODDY4tR5r1Yl7Hi3vzmoKHP\n9CmH7oCwhXMih56C3zIC1S1oXwZe5ygPLRDPYR4wClzBOFwNV4E4sO9j6BprXdBy\nK/sNi4nJGD7tz241fQK1fDO65bbAhHS2MACkhT6OVjtp5rcTzjKK5sS5FZ9qTvwF\nhXF5FDafY2u3DoMQ20zI\n=zrhi\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e0a57053a35158fa5634ac4b8789b4f1c48c2b8d\ntype commit\ntag 7.0.2\ntagger Donald Stufft <donald@stufft.io> 1433201860 -0400\n\nReleased v7.0.2\n\n* **BACKWARD INCOMPATIBLE** Revert the change (released in v7.0.0) that\n  required quoting in requirements files around specifiers containing\n  environment markers. (:pull:`2841`)\n\n* **BACKWARD INCOMPATIBLE** Revert the accidental introduction of support for\n  options interleaved with requirements, version specifiers etc in\n  ``requirements`` files. (:pull:`2841`)\n\n* Expand ``~`` in the cache directory when caching wheels, fixes :issue:`2816`.\n\n* Use ``python -m pip`` instead of ``pip`` when recommending an upgrade command\n  to Windows users.\n"
+  }
+}

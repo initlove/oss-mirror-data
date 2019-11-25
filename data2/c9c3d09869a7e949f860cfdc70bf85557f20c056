@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTpjOWMzZDA5ODY5YTdlOTQ5Zjg2MGNmZGM3MGJmODU1NTdmMjBjMDU2",
+  "sha": "c9c3d09869a7e949f860cfdc70bf85557f20c056",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/c9c3d09869a7e949f860cfdc70bf85557f20c056",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-04-11T16:00:06Z"
+  },
+  "object": {
+    "sha": "85827e26403ac6dfa331af8ec9916ea7e27bd833",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/85827e26403ac6dfa331af8ec9916ea7e27bd833"
+  },
+  "tag": "v0.10.4",
+  "message": "2013.04.12, Version 0.10.4 (Stable)\n\nChanges since version 0.10.3:\n\n* include: update uv_backend_fd() documentation (Ben Noordhuis)\n\n* unix: include uv.h in src/version.c (Ben Noordhuis)\n\n* unix: don't write more than IOV_MAX iovecs (Fedor Indutny)\n\n* mingw-w64: don't call _set_invalid_parameter_handler (Nils Maier)\n\n* build: gyp disable thin archives (Timothy J. Fontaine)\n\n* sunos: re-export entire library when static (Timothy J. Fontaine)\n\n* unix: dtrace probes for tick-start and tick-stop (Timothy J. Fontaine)\n\n* windows: fix memory leak in fs__sendfile (Shannen Saez)\n\n* windows: remove double initialization in uv_tty_init (Shannen Saez)\n\n* build: fix dtrace-enabled out of tree build (Ben Noordhuis)\n\n* build: squelch -Wdollar-in-identifier-extension warnings (Ben Noordhuis)\n\n* inet: snprintf returns int, not size_t (Brian White)\n\n* win: refactor uv_cpu_info (Bert Belder)\n\n* build: add support for Visual Studio 2012 (Nicholas Vavilov)\n\n* build: -Wno-dollar-in-identifier-extension is clang only (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEbBAABAgAGBQJRZt4GAAoJELCniwpsSBz2RjgH9RxUkRGrMsKzxxclMRhN5DIL\nIBSgbxRhBKO/IUBqj7N4QM0zxZJ1jl86oZtjQ1A/IuZeNf3kf5j9RBhKZX0SgOYv\nc7Kks7tHSwV78LcsV3m8AMsByMlqQ3ac3A5+tFKBAynEq3XYBD0msoHgBg3bqehw\nr7g0x2jmU3SCYzWayeAvUtzp2PDniDtqeimHhslyyVCBbzJh9UHADYPrAkeXJlEC\nh2WHXT46M1VRvA66qRb77j+izq0o6O6CMbZ3778zfYlbfp3MCY0/dp3/N3Tq6U+o\n10E3beXItm2o1D63RvBLyjAdJzNifjCPI7TvjOM7SgGb0ZSmmDpbm1KmhvrGRA==\n=Q3n3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEbBAABAgAGBQJRZt4GAAoJELCniwpsSBz2RjgH9RxUkRGrMsKzxxclMRhN5DIL\nIBSgbxRhBKO/IUBqj7N4QM0zxZJ1jl86oZtjQ1A/IuZeNf3kf5j9RBhKZX0SgOYv\nc7Kks7tHSwV78LcsV3m8AMsByMlqQ3ac3A5+tFKBAynEq3XYBD0msoHgBg3bqehw\nr7g0x2jmU3SCYzWayeAvUtzp2PDniDtqeimHhslyyVCBbzJh9UHADYPrAkeXJlEC\nh2WHXT46M1VRvA66qRb77j+izq0o6O6CMbZ3778zfYlbfp3MCY0/dp3/N3Tq6U+o\n10E3beXItm2o1D63RvBLyjAdJzNifjCPI7TvjOM7SgGb0ZSmmDpbm1KmhvrGRA==\n=Q3n3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 85827e26403ac6dfa331af8ec9916ea7e27bd833\ntype commit\ntag v0.10.4\ntagger isaacs <i@izs.me> 1365696006 -0700\n\n2013.04.12, Version 0.10.4 (Stable)\n\nChanges since version 0.10.3:\n\n* include: update uv_backend_fd() documentation (Ben Noordhuis)\n\n* unix: include uv.h in src/version.c (Ben Noordhuis)\n\n* unix: don't write more than IOV_MAX iovecs (Fedor Indutny)\n\n* mingw-w64: don't call _set_invalid_parameter_handler (Nils Maier)\n\n* build: gyp disable thin archives (Timothy J. Fontaine)\n\n* sunos: re-export entire library when static (Timothy J. Fontaine)\n\n* unix: dtrace probes for tick-start and tick-stop (Timothy J. Fontaine)\n\n* windows: fix memory leak in fs__sendfile (Shannen Saez)\n\n* windows: remove double initialization in uv_tty_init (Shannen Saez)\n\n* build: fix dtrace-enabled out of tree build (Ben Noordhuis)\n\n* build: squelch -Wdollar-in-identifier-extension warnings (Ben Noordhuis)\n\n* inet: snprintf returns int, not size_t (Brian White)\n\n* win: refactor uv_cpu_info (Bert Belder)\n\n* build: add support for Visual Studio 2012 (Nicholas Vavilov)\n\n* build: -Wno-dollar-in-identifier-extension is clang only (Ben Noordhuis)\n"
+  }
+}

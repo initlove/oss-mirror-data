@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6Y2M4Y2E4NjUwNzY2OWFhYjE0NWRlZDhhOWEyMTk0OTdiNTk0ZTFjYg==",
+  "sha": "cc8ca86507669aab145ded8a9a219497b594e1cb",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/cc8ca86507669aab145ded8a9a219497b594e1cb",
+  "tagger": {
+    "name": "lkorth",
+    "email": "luke@lukekorth.com",
+    "date": "2016-11-16T02:53:35Z"
+  },
+  "object": {
+    "sha": "62c5d1582a73aef16374d96c892efbf07c00b380",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/62c5d1582a73aef16374d96c892efbf07c00b380"
+  },
+  "tag": "2.3.12",
+  "message": "2.3.12\n\n* Improve PayPal address validations\n* Work around `NullPointerException` in `BraintreeFragment#newInstance` (fixes [#125](https://github.com/braintree/braintree_android/issues/125))\n* Document supported locales for PayPal\n* Fix rare `NullPointerException` ([#128](https://github.com/braintree/braintree_android/pull/128))\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDg0ODkzMzM6YjYyODkxMzAyNTk4ZjZlNDFhOGY3MzFmMzUwZmNkZDU5NDgwMTUyMg==",
+  "sha": "b62891302598f6e41a8f731f350fcdd594801522",
+  "url": "https://api.github.com/repos/openstack/python-aodhclient/git/tags/b62891302598f6e41a8f731f350fcdd594801522",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-19T14:59:31Z"
+  },
+  "object": {
+    "sha": "a8651ec642058a17cd7a6b3648d8250450a73efb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-aodhclient/git/commits/a8651ec642058a17cd7a6b3648d8250450a73efb"
+  },
+  "tag": "1.3.0",
+  "message": "python-aodhclient 1.3.0 release\n\nmeta:version: 1.3.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: I10c34bab1541b22818cc3294d9f13d2117665620\nmeta:release:Code-Review+1: Trinh Nguyen <dangtrinhnt@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1auVMZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JGGC/9SonrA6N4/G9UanXmFPZMl\nWNL5vVqMiLGCj2YDc6Irln3+aIidT7rmaWLmCtx6Mcn5jCovSGPP3YsHZCHKswe4\ncRyRc3C07mkAnbeIwlmPcEl8h2glcocASJgmI+NVVqqyQb6w470NDI1nUFbg67Em\noST+d/se/q01sebDdyO6Zo4zoMkIppFNsub5rMzPTDQMutjpBUuFcGQstTvDt/BT\nCtpXQGku4P4CrvDcbO5hCs8HPgz4SU1zzkVG/YYrPYqI3UwIr47loJtwOQwHaYEj\nn6nZIlPuq8QakZ/NibuO3IEwDLrkzHlGRXWc4DCz7VItD6wpAnn/UZCE1pqBdqIF\nu9eTvaYWiHMS+lAKhfc9yp+tekPJbmyQPweduEAmxXAZinsHaC+W6MuBgZt73gW1\nW+jO451I9wZBE1ZnSMLvC3Fpq047vCB0E9dYViYZkgY4eq515k2pre35JBx1zYrv\ngEQo6ig/wGjAngqSNxrb4Jy3Dn+fm8SqnmaXZrCPgLs=\n=1nRN\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1auVMZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JGGC/9SonrA6N4/G9UanXmFPZMl\nWNL5vVqMiLGCj2YDc6Irln3+aIidT7rmaWLmCtx6Mcn5jCovSGPP3YsHZCHKswe4\ncRyRc3C07mkAnbeIwlmPcEl8h2glcocASJgmI+NVVqqyQb6w470NDI1nUFbg67Em\noST+d/se/q01sebDdyO6Zo4zoMkIppFNsub5rMzPTDQMutjpBUuFcGQstTvDt/BT\nCtpXQGku4P4CrvDcbO5hCs8HPgz4SU1zzkVG/YYrPYqI3UwIr47loJtwOQwHaYEj\nn6nZIlPuq8QakZ/NibuO3IEwDLrkzHlGRXWc4DCz7VItD6wpAnn/UZCE1pqBdqIF\nu9eTvaYWiHMS+lAKhfc9yp+tekPJbmyQPweduEAmxXAZinsHaC+W6MuBgZt73gW1\nW+jO451I9wZBE1ZnSMLvC3Fpq047vCB0E9dYViYZkgY4eq515k2pre35JBx1zYrv\ngEQo6ig/wGjAngqSNxrb4Jy3Dn+fm8SqnmaXZrCPgLs=\n=1nRN\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a8651ec642058a17cd7a6b3648d8250450a73efb\ntype commit\ntag 1.3.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1566226771 +0000\n\npython-aodhclient 1.3.0 release\n\nmeta:version: 1.3.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: I10c34bab1541b22818cc3294d9f13d2117665620\nmeta:release:Code-Review+1: Trinh Nguyen <dangtrinhnt@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

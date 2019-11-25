@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjkyMTQ2OmJhNGUxZDExNzI4YWNkODc3YmVjZGQzMGQyZDhmZDQ4M2Q3ODE2OTM=",
+  "sha": "ba4e1d11728acd877becdd30d2d8fd483d781693",
+  "url": "https://api.github.com/repos/Python-Markdown/markdown/git/tags/ba4e1d11728acd877becdd30d2d8fd483d781693",
+  "tagger": {
+    "name": "Waylan Limberg",
+    "email": "waylan@gmail.com",
+    "date": "2008-04-29T03:12:29Z"
+  },
+  "object": {
+    "sha": "4f63b9542f360d25cbcc7195c35f47c1baaf4b07",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Python-Markdown/markdown/git/commits/4f63b9542f360d25cbcc7195c35f47c1baaf4b07"
+  },
+  "tag": "1.7_Final",
+  "message": "Python-Makrdown 1.7 Final.\n\nNote that various features marked as depreciated in 1.6 have\nbeen removed, so this release is somewhat backward\nincompatible. Most notably, `str(md)` will no longer work.\n`md.convert(text)` should be used instead. The `toString`\nand `toUnicode` methods no longer exist. The `__unicode__`\nmethod calls `convert` and `__str__` returns some info about\nthe instance rather than the converted output (although I'm\nopen for suggestions for improvment in the info provided).\nAdditionally, the `encoding` argument has been removed from\nboth `markdown` and `Markdown`. Markdown expects unicode (or\nascii) input and it is the users responsibility to ensure\nthat's what is provided. Therefore, all output is in\nunicode. Only `markdownFromFile` accepts an encoding.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

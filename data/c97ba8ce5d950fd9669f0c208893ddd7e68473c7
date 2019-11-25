@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDAyMTc5MDQ6Yzk3YmE4Y2U1ZDk1MGZkOTY2OWYwYzIwODg5M2RkZDdlNjg0NzNjNw==",
+  "sha": "c97ba8ce5d950fd9669f0c208893ddd7e68473c7",
+  "url": "https://api.github.com/repos/swaywm/sway/git/tags/c97ba8ce5d950fd9669f0c208893ddd7e68473c7",
+  "tagger": {
+    "name": "Drew DeVault",
+    "email": "sir@cmpwn.com",
+    "date": "2019-05-11T17:36:45Z"
+  },
+  "object": {
+    "sha": "56b7d8936ad4f62d43d6ac1989b90b8b1b5a8731",
+    "type": "commit",
+    "url": "https://api.github.com/repos/swaywm/sway/git/commits/56b7d8936ad4f62d43d6ac1989b90b8b1b5a8731"
+  },
+  "tag": "1.1-rc2",
+  "message": "sway 1.1-rc2\n\nThis is the second release candidate for sway 1.1. Only changes from\nsway 1.1-rc1 are listed here.\n\nBrian Ashworth (2):\n      Destroy swaybg client on reload\n      config/output: fix typo in merge_id_on_name\n\nSimon Ser (1):\n      Fix xdg-decoration unconfigured if set before first commit\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

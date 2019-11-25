@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTM4NjgxOmM4YmFjOTk5MzIxMGY3ZTgxM2RkMjA2OGU2MzA4MjdlODUzYzFkYjY=",
+  "sha": "c8bac9993210f7e813dd2068e630827e853c1db6",
+  "url": "https://api.github.com/repos/hierynomus/sshj/git/tags/c8bac9993210f7e813dd2068e630827e853c1db6",
+  "tagger": {
+    "name": "Jeroen van Erp",
+    "email": "jeroen@hierynomus.com",
+    "date": "2017-02-10T12:23:52Z"
+  },
+  "object": {
+    "sha": "f4b71941a3633a22167f7ec12523172be089fd7e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/hierynomus/sshj/git/commits/f4b71941a3633a22167f7ec12523172be089fd7e"
+  },
+  "tag": "v0.20.0",
+  "message": "Release of 0.20.0\n\n- Updated release notes for 0.20.0\n- Cleaned up some code\n- Merge pull request #301 from adagios/master\n- adds current version to exported classes\n- Merge pull request #295 from adagios/master\n- Update build.gradle\n- Merge branch 'master' into master\n- Added TODO\n- More code cleanup\n- Fixed more warnings\n- Cleaned up more PMD/Codacy warnings\n- Fixed a few warnings\n- More cleaning up\n- Upgraded to mina sshd 1.2.0\n- Cleaning up unused code\n- Merge pull request #296 from hierynomus/new-dhgroups\n- Suppressing Method naming conventions for Factory classes\n- Organized imports\n- Added new DH groups\n- re-adding Export-Package of com.hierynomus.sshj.*\n- converts bouncycastle OSGi dep from Import-Bundle to Import-Package\n- Updated OSGi bundling (Fixes #255 again)\n- Added bettercodehub config\n- Merge pull request #294 from joval/master\n- Merge pull request #293 from adagios/osgi-fix\n- Reference the EdDSANamedCurveTable constant instead of its value, for forward-compatibility with the ed25519-java project on Github. See: https://github.com/str4d/ed25519-java/commit/abdee146c302e2e26976519de8b6413079960171\n- excludes net.i2p.crypto.eddsa.math from OSGI Import-Package\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

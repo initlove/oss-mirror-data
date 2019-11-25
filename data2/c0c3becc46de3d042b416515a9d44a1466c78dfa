@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY0MTU2MDg6YzBjM2JlY2M0NmRlM2QwNDJiNDE2NTE1YTlkNDRhMTQ2NmM3OGRmYQ==",
+  "sha": "c0c3becc46de3d042b416515a9d44a1466c78dfa",
+  "url": "https://api.github.com/repos/openstack/oslo.service/git/tags/c0c3becc46de3d042b416515a9d44a1466c78dfa",
+  "tagger": {
+    "name": "Davanum Srinivas",
+    "email": "davanum@gmail.com",
+    "date": "2016-03-28T03:05:29Z"
+  },
+  "object": {
+    "sha": "427b8ad90d711443a062c7b110d670307e57ce5c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.service/git/commits/427b8ad90d711443a062c7b110d670307e57ce5c"
+  },
+  "tag": "1.8.0",
+  "message": "oslo.service 1.8.0 release\n\nmeta:version: 1.8.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\n-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAlb4n3kACgkQgNg6eWEDv1kNpgCeLLoI9EODHYFI+tX57ZmyV4CB\nDdoAoOG5zr6vl1ZbWSrrWWPVuGBxiaBl\n=6veM\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAlb4n3kACgkQgNg6eWEDv1kNpgCeLLoI9EODHYFI+tX57ZmyV4CB\nDdoAoOG5zr6vl1ZbWSrrWWPVuGBxiaBl\n=6veM\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 427b8ad90d711443a062c7b110d670307e57ce5c\ntype commit\ntag 1.8.0\ntagger Davanum Srinivas <davanum@gmail.com> 1459134329 -0400\n\noslo.service 1.8.0 release\n\nmeta:version: 1.8.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\n"
+  }
+}

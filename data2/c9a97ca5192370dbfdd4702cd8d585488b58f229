@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTYyMjMzNzg6YzlhOTdjYTUxOTIzNzBkYmZkZDQ3MDJjZDhkNTg1NDg4YjU4ZjIyOQ==",
+  "sha": "c9a97ca5192370dbfdd4702cd8d585488b58f229",
+  "url": "https://api.github.com/repos/openstack/openstacksdk/git/tags/c9a97ca5192370dbfdd4702cd8d585488b58f229",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-22T20:05:13Z"
+  },
+  "object": {
+    "sha": "3b9f3694101f92965ab421cc45554edd16eca99b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/openstacksdk/git/commits/3b9f3694101f92965ab421cc45554edd16eca99b"
+  },
+  "tag": "0.11.4",
+  "message": "openstacksdk 0.11.4 release\n\nmeta:version: 0.11.4\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Brian Haley <bhaley@redhat.com>\nmeta:release:Commit: Brian Haley <bhaley@redhat.com>\nmeta:release:Change-Id: I57b69d29820c21ca959048c51c7de33a082f4a0b\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Code-Review+1: Artem Goncharov <artem.goncharov@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2vYPkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2HhrC/sHnVQAJj1V16RBVCgJ1YYG\nQcHoRBo5AEact1tBO9xAzLDR9I5QsQgNZ4A58JOW72kFmOxUhCPMeqpV5U9aPbW7\nRZ+Hqofuofxtm1uoMAiOseZ3EDkDq4S24J43CVDEIGr5bNVcnNfWgZloDfPzGV0M\neJrHBtnsgl9mrJmPOW+vfJm12NofeDBjl9VFBtitjh83g6ix84wTMsYQaP8Hsgjg\n/erXJAZj4ChzmRhauXR6b1jkAFmRZc51cmFlEoDRG5xXhODAxgFUzPOWc83QABUI\nc41ALt0OwHgvV0nqZIGBNgAKVj+8qeJHnE3YtIKwNRHbuE6C5XTWbYHWWqet66W2\nwNELBcju09woKv5wjmq9HFCxIs5Rb1cYqehLKVfF2blvdw0i/IYZtwgozqSzigY3\nJUseEhA2kKVUz4olOA+7OaOLj9qjLyv11qwPQzrfq5qb+ueijKC8Y9Kcjr4918Bd\nTwN9ai51XOeOS5N980EbjOldCK7raByEHSTVjk2y6I0=\n=cmwp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2vYPkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2HhrC/sHnVQAJj1V16RBVCgJ1YYG\nQcHoRBo5AEact1tBO9xAzLDR9I5QsQgNZ4A58JOW72kFmOxUhCPMeqpV5U9aPbW7\nRZ+Hqofuofxtm1uoMAiOseZ3EDkDq4S24J43CVDEIGr5bNVcnNfWgZloDfPzGV0M\neJrHBtnsgl9mrJmPOW+vfJm12NofeDBjl9VFBtitjh83g6ix84wTMsYQaP8Hsgjg\n/erXJAZj4ChzmRhauXR6b1jkAFmRZc51cmFlEoDRG5xXhODAxgFUzPOWc83QABUI\nc41ALt0OwHgvV0nqZIGBNgAKVj+8qeJHnE3YtIKwNRHbuE6C5XTWbYHWWqet66W2\nwNELBcju09woKv5wjmq9HFCxIs5Rb1cYqehLKVfF2blvdw0i/IYZtwgozqSzigY3\nJUseEhA2kKVUz4olOA+7OaOLj9qjLyv11qwPQzrfq5qb+ueijKC8Y9Kcjr4918Bd\nTwN9ai51XOeOS5N980EbjOldCK7raByEHSTVjk2y6I0=\n=cmwp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3b9f3694101f92965ab421cc45554edd16eca99b\ntype commit\ntag 0.11.4\ntagger OpenStack Release Bot <infra-root@openstack.org> 1571774713 +0000\n\nopenstacksdk 0.11.4 release\n\nmeta:version: 0.11.4\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Brian Haley <bhaley@redhat.com>\nmeta:release:Commit: Brian Haley <bhaley@redhat.com>\nmeta:release:Change-Id: I57b69d29820c21ca959048c51c7de33a082f4a0b\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Code-Review+1: Artem Goncharov <artem.goncharov@gmail.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

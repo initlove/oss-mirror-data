@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzIwNDA5MzpjZmZjNDJiZDNhODE4ZWEzYWJjOWU0MDFlZTQ0MjY2OWNhZTExYmVi",
+  "sha": "cffc42bd3a818ea3abc9e401ee442669cae11beb",
+  "url": "https://api.github.com/repos/openstack/python-neutronclient/git/tags/cffc42bd3a818ea3abc9e401ee442669cae11beb",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-21T13:11:30Z"
+  },
+  "object": {
+    "sha": "1a8fdf355de233ccbc7aa0beb588fb02d436aa5c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-neutronclient/git/commits/1a8fdf355de233ccbc7aa0beb588fb02d436aa5c"
+  },
+  "tag": "6.13.0",
+  "message": "python-neutronclient 6.13.0 release\n\nmeta:version: 6.13.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: I21a6981a70ba5290fe951f36ddb3800ab25632cd\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1dQwIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OOhDADce1PynQnKW+4nXz+d7Xq6\n4C0urKRnJeHqxuv4V+onvg20jApOnrBWYnOiGT1MkXjULdxsuYQzpbGtj94aRUxV\nu2wJrgAoRBtAKRYRbIvVJC5LJbIo+SZyniMuHbjQKhM7eEm4GoiOsn5iGSfb7LWT\nd1v0f1MWs6IT9zw0kHEdlDzEIkmGxW2bHoBJ8i08gijzIrJEbiejqj0noJAwPTy1\nd0PaZ4HbARUPG73zPs8Vxn2MANtEKTcePXa6qG/VyW8RxzqMeOcAF13y5erRihXu\nECL2ptaonIMG4OHc98BaKYivpJBveUV/sozntGafL8KZCxUySttBil4Owsf4HMLO\n2UFe4x0AAHZJ26qOPhQ760zdvvI6nqFx0/LVaTQsb1RUgpTyrqGnBwzGhwIjAiBN\nOy3xacaDLGe+SA1OHky/6gFd8vBU11UrEZoJGCshhGKusFt1S67B9Gw3gfPrNwj4\nj8lzqgUz7Be5CfolTWqtsYrhkbZsU/IvKW9A0ig3KaM=\n=m5no\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1dQwIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OOhDADce1PynQnKW+4nXz+d7Xq6\n4C0urKRnJeHqxuv4V+onvg20jApOnrBWYnOiGT1MkXjULdxsuYQzpbGtj94aRUxV\nu2wJrgAoRBtAKRYRbIvVJC5LJbIo+SZyniMuHbjQKhM7eEm4GoiOsn5iGSfb7LWT\nd1v0f1MWs6IT9zw0kHEdlDzEIkmGxW2bHoBJ8i08gijzIrJEbiejqj0noJAwPTy1\nd0PaZ4HbARUPG73zPs8Vxn2MANtEKTcePXa6qG/VyW8RxzqMeOcAF13y5erRihXu\nECL2ptaonIMG4OHc98BaKYivpJBveUV/sozntGafL8KZCxUySttBil4Owsf4HMLO\n2UFe4x0AAHZJ26qOPhQ760zdvvI6nqFx0/LVaTQsb1RUgpTyrqGnBwzGhwIjAiBN\nOy3xacaDLGe+SA1OHky/6gFd8vBU11UrEZoJGCshhGKusFt1S67B9Gw3gfPrNwj4\nj8lzqgUz7Be5CfolTWqtsYrhkbZsU/IvKW9A0ig3KaM=\n=m5no\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1a8fdf355de233ccbc7aa0beb588fb02d436aa5c\ntype commit\ntag 6.13.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1566393090 +0000\n\npython-neutronclient 6.13.0 release\n\nmeta:version: 6.13.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Thierry Carrez <thierry@openstack.org>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: I21a6981a70ba5290fe951f36ddb3800ab25632cd\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

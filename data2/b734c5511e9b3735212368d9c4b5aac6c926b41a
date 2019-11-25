@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkzNTI6YjczNGM1NTExZTliMzczNTIxMjM2OGQ5YzRiNWFhYzZjOTI2YjQxYQ==",
+  "sha": "b734c5511e9b3735212368d9c4b5aac6c926b41a",
+  "url": "https://api.github.com/repos/mikel/mail/git/tags/b734c5511e9b3735212368d9c4b5aac6c926b41a",
+  "tagger": {
+    "name": "Jeremy Daer",
+    "email": "jeremydaer@gmail.com",
+    "date": "2017-10-24T20:01:52Z"
+  },
+  "object": {
+    "sha": "d8dda1a69c5d19b5bf2fca8f0b1cc1a75633e249",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mikel/mail/git/commits/d8dda1a69c5d19b5bf2fca8f0b1cc1a75633e249"
+  },
+  "tag": "2.7.0.rc1",
+  "message": "Mail 2.7.0.rc1\n\nFeatures:\n* #804 - Configurable SMTP open_timeout and read_timeout. (ankane)\n* #853 - `Mail::Message#set_sort_order` overrides the default message part sort order. (rafbm)\n* #650 - UTF-7 charset support. (johngrimes)\n* #1065 - Require STARTTLS using :enable_starttls. (bk2204)\n* #1002 - Transcoding replaces invalid chars with \"�\" instead of discarding them. (kjg)\n* #1094 - Core extensions removal: Drop `String#at`, `from`, `last` and `is_utf8?` since they are no longer used by Mail internals. (metcalf)\n* #1095 - Core extensions removal: Drop `String#mb_chars`, `not_ascii_only?`, `constantize`, `first`, `to` to avoid monkey patching the standard library. (metcalf)\n\nPerformance:\n* #1059 - Switch from mime-types to mini_mime for a much smaller memory footprint. (SamSaffron)\n\nCompatibility:\n* #464 - Improve attachment filename detection by preferring Content-Disposition filename. (lawrencepit)\n* #655 - Sort attachments to the end of the parts list to work around email clients that may mistake a text attachment for the message body. (npickens)\n* #982 – Faithfully preserve unfolded whitespace rather than collapsing to a single space. (jeremy)\n\nBugs:\n* #539 - Fix that whitespace-only continued headers would be incorrectly parsed as the break between headers and body. (ConradIrwin)\n* #876 - Strip valid RFC-1342 separator characters between non-matching encoded-words (Caleb W. Corliss)\n* #978 - Fix for invalid chars being left in a string for invalid b_value from encoding. (kjg)\n* #996 - Fix that multipart/mixed emails with a delivery-status part could be interpreted as bounces. (kjg)\n* #998 - Fix header parameter parsing (such as attachment names) for values encoded with a blank charset or language code. (kjg)\n* #1000 - Fix header parameter parsing (such as attachment names) to transcode to UTF-8 (kjg)\n* #1020 - Don't set SMTP verify mode to nil when config was not provided. (jhass)\n* #1032 - Fix that comparing messages changed their raw Message-ID to their parsed message_id. (bobjflong)\n* #1074 - Fix that the first address in a list is dropped when a subsequent address has non-US-ASCII characters. (domininik)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

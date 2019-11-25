@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTg4NTc2MTg6Y2NlYmQwNjE4YzE1OTRiZmZjMWIzZmRjZGQ3MTQ5N2EwNzliMmUyNg==",
+  "sha": "ccebd0618c1594bffc1b3fdcdd71497a079b2e26",
+  "url": "https://api.github.com/repos/openstack/osc-lib/git/tags/ccebd0618c1594bffc1b3fdcdd71497a079b2e26",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-04-16T19:02:57Z"
+  },
+  "object": {
+    "sha": "2a8ec5399d40b5daa2810d2ec3626c1d1444e9f7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/osc-lib/git/commits/2a8ec5399d40b5daa2810d2ec3626c1d1444e9f7"
+  },
+  "tag": "1.7.1",
+  "message": "osc-lib 1.7.1 release\n\nmeta:version: 1.7.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Change-Id: Id510eb5767775defdb903c5f7ecc887361699a04\nmeta:release:Code-Review+1: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly2JuEZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOGunC/0ZqtDwfeXU9SRe/1zAghae\nHTazo7Eq4Fa3s2ypBrS3strGhXCY1iAo/fegHTrn9pHY9Hgfaewe/sXx3v7BRysZ\nh8nXQnaRx3ECyJkkS+l/IQChWhn3HQaNmzt2Wmn8CSPvoVssHgXOPcj4wkAyTqcV\nEerV3QMr6w1TrxbY9lzHy0naVVewG6ceC8KGFjt+8r+Sv9Q88e9J0IcQBv5iFfQE\naxY4SyLJ7TEX38WJJCuNgVnT4Tb1e1t6ZJfwtRLVbe7xHs4wbuRVT0XRNjQt4dTp\nOLYaglPz4Dvh9LptdnosHoStj/sDbeEQNtXEmvYiCCbMSpTL04Zdp8ZTC9UMVtvt\n7Usr25+JacBLnhZBsAyK9fj48W/Sioobod4XqRsh5bV2+1zNOwsxyEfp1VR2D9iu\nCv9ZMQepMbImMkJpNAvzjVySOmwd5GRhA78suTfcbipfO+qVWcbTTPHGVKJINH7b\n0Dn/JMFJCdOH/U3RHbVf5AS9nnX0qWmzcZ9xacoUQCY=\n=wWvh\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly2JuEZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOGunC/0ZqtDwfeXU9SRe/1zAghae\nHTazo7Eq4Fa3s2ypBrS3strGhXCY1iAo/fegHTrn9pHY9Hgfaewe/sXx3v7BRysZ\nh8nXQnaRx3ECyJkkS+l/IQChWhn3HQaNmzt2Wmn8CSPvoVssHgXOPcj4wkAyTqcV\nEerV3QMr6w1TrxbY9lzHy0naVVewG6ceC8KGFjt+8r+Sv9Q88e9J0IcQBv5iFfQE\naxY4SyLJ7TEX38WJJCuNgVnT4Tb1e1t6ZJfwtRLVbe7xHs4wbuRVT0XRNjQt4dTp\nOLYaglPz4Dvh9LptdnosHoStj/sDbeEQNtXEmvYiCCbMSpTL04Zdp8ZTC9UMVtvt\n7Usr25+JacBLnhZBsAyK9fj48W/Sioobod4XqRsh5bV2+1zNOwsxyEfp1VR2D9iu\nCv9ZMQepMbImMkJpNAvzjVySOmwd5GRhA78suTfcbipfO+qVWcbTTPHGVKJINH7b\n0Dn/JMFJCdOH/U3RHbVf5AS9nnX0qWmzcZ9xacoUQCY=\n=wWvh\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2a8ec5399d40b5daa2810d2ec3626c1d1444e9f7\ntype commit\ntag 1.7.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1555441377 +0000\n\nosc-lib 1.7.1 release\n\nmeta:version: 1.7.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Change-Id: Id510eb5767775defdb903c5f7ecc887361699a04\nmeta:release:Code-Review+1: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

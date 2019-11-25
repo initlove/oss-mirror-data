@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQwMDI4OTpjMTg1OGU2ODNjZjU1NmUyODNiYTAzZjk4YzRkMWQxMWUwNzlkN2Nj",
+  "sha": "c1858e683cf556e283ba03f98c4d1d11e079d7cc",
+  "url": "https://api.github.com/repos/openstack/neutron/git/tags/c1858e683cf556e283ba03f98c4d1d11e079d7cc",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-06-18T13:26:49Z"
+  },
+  "object": {
+    "sha": "9eef1db160521076d8243f1980e681f0f04ecbc6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron/git/commits/9eef1db160521076d8243f1980e681f0f04ecbc6"
+  },
+  "tag": "12.0.3",
+  "message": "neutron 12.0.3 release\n\nmeta:version: 12.0.3\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Brian Haley <bhaley@redhat.com>\nmeta:release:Commit: Brian Haley <bhaley@redhat.com>\nmeta:release:Change-Id: Ife1affee0220172890f47eefb68ee19614279950\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@huawei.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+1: melissaml <ma.lei@99cloud.net>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbJ7MZAAoJEMNs3LTfAMaMkocH/2MdUNm/zYk8Fqfo8s6oeKlM\nACgIkFs2bHcQucfk3F6C0iN26fPN7YVVcRquR9nYcZHFyIxY6w9gDTENxRo7mil9\nzBqAkSae8XdIgOiOKtofb/K+o3OypnpWAs1CrAwI15A/YsXUvAhcws9L7VypEH5p\nrfBsc89eCNGTbron2MrCCo7cbQxctUsZldJ7JX6LQthgaKu/08Gw5BEjj9oNlfRK\nJjzk5f6nqRqpqVjquevhChMoO1c+vF89vwfEmO3+vfCsEwzG6BDfUM6UZVdUuoIm\n/PXYDGdpVv+60ymVDx29ctW+Dhtsde4CUDYA64MA30SwypIKwryx8MfZxJVIUGM=\n=JHEc\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbJ7MZAAoJEMNs3LTfAMaMkocH/2MdUNm/zYk8Fqfo8s6oeKlM\nACgIkFs2bHcQucfk3F6C0iN26fPN7YVVcRquR9nYcZHFyIxY6w9gDTENxRo7mil9\nzBqAkSae8XdIgOiOKtofb/K+o3OypnpWAs1CrAwI15A/YsXUvAhcws9L7VypEH5p\nrfBsc89eCNGTbron2MrCCo7cbQxctUsZldJ7JX6LQthgaKu/08Gw5BEjj9oNlfRK\nJjzk5f6nqRqpqVjquevhChMoO1c+vF89vwfEmO3+vfCsEwzG6BDfUM6UZVdUuoIm\n/PXYDGdpVv+60ymVDx29ctW+Dhtsde4CUDYA64MA30SwypIKwryx8MfZxJVIUGM=\n=JHEc\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9eef1db160521076d8243f1980e681f0f04ecbc6\ntype commit\ntag 12.0.3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1529328409 +0000\n\nneutron 12.0.3 release\n\nmeta:version: 12.0.3\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Brian Haley <bhaley@redhat.com>\nmeta:release:Commit: Brian Haley <bhaley@redhat.com>\nmeta:release:Change-Id: Ife1affee0220172890f47eefb68ee19614279950\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@huawei.com>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+1: melissaml <ma.lei@99cloud.net>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

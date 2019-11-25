@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTYyMjMzNzg6YjJhZjdhMjM5ZmM5OGU2OGRjZTI0NGE4MjQ4YmY5NjM4NmQyNGE4Ng==",
+  "sha": "b2af7a239fc98e68dce244a8248bf96386d24a86",
+  "url": "https://api.github.com/repos/openstack/openstacksdk/git/tags/b2af7a239fc98e68dce244a8248bf96386d24a86",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-04-01T18:01:58Z"
+  },
+  "object": {
+    "sha": "41740827c4702e8fcaebdf6adf7a2d49a557ec14",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/openstacksdk/git/commits/41740827c4702e8fcaebdf6adf7a2d49a557ec14"
+  },
+  "tag": "0.27.0",
+  "message": "openstacksdk 0.27.0 release\n\nmeta:version: 0.27.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: I64db0f0978967788ed0abce48b58b5b0d779e13d\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+1: Duc Truong <dtruong@blizzard.com>\nmeta:release:Code-Review+1: Erik Olof Gunnar Andersson <eandersson@blizzard.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyiUhYZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOEfiC/4l+Faeuut81kr5b4OXVS+U\n8iom6rTwhDL+FnjhCSeNQBTPehPrcSf6/TeyNizPrOq2NzbwAt+K5UilwXZEOXrC\nXwkZqfeaQO0ANWOV0XDcO5AN6fPJBWHncrfoAZZyf/Br+K481VMQxKkPmeIgK04l\nrBau8gOaMIWC23rmcl6g8HwYnAH23Wox19IXZ5DCoXN8o71bmvH2rMnOH0Dt8mZG\ndkFi4VwDMAngUToT0fT3RaWMyBQTjKPSIBzsr1g0XFDeoClic4iXDa1QfeHVggsd\n1mv8MgIgtopHGO5LWJzytdRtfHYSd2bcrsGHBdcz6yVF/N2LfnpChNA1VLjY09b6\n1+/jm6GcaxkOU6TNGQ7y/gYwJZbSne8VzDN3AdZ2NcHGs7uHohYv80Uel8nNz/aW\n2CgBx+u8e9WT26+AAvOaxCnwWzdH7fsF9Ff0tHLetNlD5NpFv7dv4g6ardbyVkYV\nrYMmHLCBu2dkOS3ybnv/ZFEgxCLei5EkpW0Q61eNWqk=\n=2L3t\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyiUhYZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOEfiC/4l+Faeuut81kr5b4OXVS+U\n8iom6rTwhDL+FnjhCSeNQBTPehPrcSf6/TeyNizPrOq2NzbwAt+K5UilwXZEOXrC\nXwkZqfeaQO0ANWOV0XDcO5AN6fPJBWHncrfoAZZyf/Br+K481VMQxKkPmeIgK04l\nrBau8gOaMIWC23rmcl6g8HwYnAH23Wox19IXZ5DCoXN8o71bmvH2rMnOH0Dt8mZG\ndkFi4VwDMAngUToT0fT3RaWMyBQTjKPSIBzsr1g0XFDeoClic4iXDa1QfeHVggsd\n1mv8MgIgtopHGO5LWJzytdRtfHYSd2bcrsGHBdcz6yVF/N2LfnpChNA1VLjY09b6\n1+/jm6GcaxkOU6TNGQ7y/gYwJZbSne8VzDN3AdZ2NcHGs7uHohYv80Uel8nNz/aW\n2CgBx+u8e9WT26+AAvOaxCnwWzdH7fsF9Ff0tHLetNlD5NpFv7dv4g6ardbyVkYV\nrYMmHLCBu2dkOS3ybnv/ZFEgxCLei5EkpW0Q61eNWqk=\n=2L3t\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 41740827c4702e8fcaebdf6adf7a2d49a557ec14\ntype commit\ntag 0.27.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1554141718 +0000\n\nopenstacksdk 0.27.0 release\n\nmeta:version: 0.27.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: I64db0f0978967788ed0abce48b58b5b0d779e13d\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+1: Duc Truong <dtruong@blizzard.com>\nmeta:release:Code-Review+1: Erik Olof Gunnar Andersson <eandersson@blizzard.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

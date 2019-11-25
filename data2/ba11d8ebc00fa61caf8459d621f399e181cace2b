@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjA2NDYzNTk6YmExMWQ4ZWJjMDBmYTYxY2FmODQ1OWQ2MjFmMzk5ZTE4MWNhY2UyYg==",
+  "sha": "ba11d8ebc00fa61caf8459d621f399e181cace2b",
+  "url": "https://api.github.com/repos/openstack/osprofiler/git/tags/ba11d8ebc00fa61caf8459d621f399e181cace2b",
+  "tagger": {
+    "name": "Boris Pavlovic",
+    "email": "boris@pavlovic.me",
+    "date": "2016-01-12T09:21:54Z"
+  },
+  "object": {
+    "sha": "d75fa8911586f4769679e36424305f76e58250a1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/osprofiler/git/commits/d75fa8911586f4769679e36424305f76e58250a1"
+  },
+  "tag": "0.4.0",
+  "message": "OSprofiler 0.4.0\n\n- Introduce new profile.TracedMeta meta class which can be used\nto trace all methods of all children class of this class\n\n- HTML reports performance was improved\n\n- osprofiler trace show <filepath> --html\n\n  will generate HTML report from json formated results\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWlMZZAAoJEDvpPTuJuon0NUMH/1mQdSOFBzqeCvmiJofoGxlt\n4B/BsxFKXhMZbBfNF82zPxR/yFWQeU/0wQz6ITXhob5kB7bJNQISV2uTLdahSrsd\nxzY8d62lXMlvYqtKQdtDeaplAS80mxfuEAOjpTzk4l/JgVruISitbFZQwgmGqe56\nRUsnvYbI+b4QWLjXDj6cn7myGUXUcxgf1NRXZMZW2s/7m6BnQ7q5k+n0xy0CCprG\nIU3qJ5GiCkJ3f6B7MWaWWD9YpugC3q/1+dCBJXmux9fBn9jXGpbUyAnK7g+zxtGl\nY8rzl3cxfpF7AGll42N391fkirxjMEiaIyQkAwys+E+WeM/TNmUqpcn4dJzvrJ0=\n=B6I0\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWlMZZAAoJEDvpPTuJuon0NUMH/1mQdSOFBzqeCvmiJofoGxlt\n4B/BsxFKXhMZbBfNF82zPxR/yFWQeU/0wQz6ITXhob5kB7bJNQISV2uTLdahSrsd\nxzY8d62lXMlvYqtKQdtDeaplAS80mxfuEAOjpTzk4l/JgVruISitbFZQwgmGqe56\nRUsnvYbI+b4QWLjXDj6cn7myGUXUcxgf1NRXZMZW2s/7m6BnQ7q5k+n0xy0CCprG\nIU3qJ5GiCkJ3f6B7MWaWWD9YpugC3q/1+dCBJXmux9fBn9jXGpbUyAnK7g+zxtGl\nY8rzl3cxfpF7AGll42N391fkirxjMEiaIyQkAwys+E+WeM/TNmUqpcn4dJzvrJ0=\n=B6I0\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d75fa8911586f4769679e36424305f76e58250a1\ntype commit\ntag 0.4.0\ntagger Boris Pavlovic <boris@pavlovic.me> 1452590514 -0800\n\nOSprofiler 0.4.0\n\n- Introduce new profile.TracedMeta meta class which can be used\nto trace all methods of all children class of this class\n\n- HTML reports performance was improved\n\n- osprofiler trace show <filepath> --html\n\n  will generate HTML report from json formated results\n"
+  }
+}

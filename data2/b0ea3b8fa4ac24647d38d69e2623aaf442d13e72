@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzE2NDUwMDU6YjBlYTNiOGZhNGFjMjQ2NDdkMzhkNjllMjYyM2FhZjQ0MmQxM2U3Mg==",
+  "sha": "b0ea3b8fa4ac24647d38d69e2623aaf442d13e72",
+  "url": "https://api.github.com/repos/openstack/ironic-lib/git/tags/b0ea3b8fa4ac24647d38d69e2623aaf442d13e72",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-09-24T14:57:38Z"
+  },
+  "object": {
+    "sha": "712da6c465e8794b3575b34a6eb1c5d3061a9b44",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic-lib/git/commits/712da6c465e8794b3575b34a6eb1c5d3061a9b44"
+  },
+  "tag": "2.15.0",
+  "message": "ironic-lib 2.15.0 release\n\nmeta:version: 2.15.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Yolanda Robla <yroblamo@redhat.com>\nmeta:release:Commit: Yolanda Robla <yroblamo@redhat.com>\nmeta:release:Change-Id: I1144303ea89d7c0ac3661a8434413ecb8a2ec6c6\nmeta:release:Code-Review+1: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbqPtiAAoJEBpUEUgFTp44mq0L/19RN9PLdnz+oHWV9mJ2K/+C\nTwoAFEhMmUbsH61UROQr9RydoEC4LJyXFs696kRIRWsUxZMHiYtf3T1hl3+L81jv\n73y9qZX/Q7LFCUJTBzywdSPt4mdek+RaGmkuG3B0rvQc7S2Z1q3U/s01kG19Mt8/\ngSGb4GM8JI7kSTOUjsdcPK/IvhU2HV6wA0eZj5N98W7h87E5ZJ3FRQJkI1iL5hsN\nFDVQhBLU5X7DoE6UnliZrhps5yUEN862oGfeb4vMc3BHQ933UtadJqxhAaqMrCLv\nT/pVJePw/AL4v5iOg7++NM4MD4kAcG258btghKkE8pn5E7TCjKP22jgBZTLtpL/h\ntwsk6jfcmKN5gQyJE7AB9DBzT0I2oXSSAswLmx6fa2CdDLFJmL10CPXc44btEg8A\nDBBFG6utVmCjC9EYmwxDo+w4O6EIU4qSfXWh3TT8cDRGyMxk0hx03N20KNDGpMw+\n6lbVynThY3hcMxvlArl1fpRWb504mmFUNgz2yIz/sg==\n=AgFK\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbqPtiAAoJEBpUEUgFTp44mq0L/19RN9PLdnz+oHWV9mJ2K/+C\nTwoAFEhMmUbsH61UROQr9RydoEC4LJyXFs696kRIRWsUxZMHiYtf3T1hl3+L81jv\n73y9qZX/Q7LFCUJTBzywdSPt4mdek+RaGmkuG3B0rvQc7S2Z1q3U/s01kG19Mt8/\ngSGb4GM8JI7kSTOUjsdcPK/IvhU2HV6wA0eZj5N98W7h87E5ZJ3FRQJkI1iL5hsN\nFDVQhBLU5X7DoE6UnliZrhps5yUEN862oGfeb4vMc3BHQ933UtadJqxhAaqMrCLv\nT/pVJePw/AL4v5iOg7++NM4MD4kAcG258btghKkE8pn5E7TCjKP22jgBZTLtpL/h\ntwsk6jfcmKN5gQyJE7AB9DBzT0I2oXSSAswLmx6fa2CdDLFJmL10CPXc44btEg8A\nDBBFG6utVmCjC9EYmwxDo+w4O6EIU4qSfXWh3TT8cDRGyMxk0hx03N20KNDGpMw+\n6lbVynThY3hcMxvlArl1fpRWb504mmFUNgz2yIz/sg==\n=AgFK\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 712da6c465e8794b3575b34a6eb1c5d3061a9b44\ntype commit\ntag 2.15.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1537801058 +0000\n\nironic-lib 2.15.0 release\n\nmeta:version: 2.15.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Yolanda Robla <yroblamo@redhat.com>\nmeta:release:Commit: Yolanda Robla <yroblamo@redhat.com>\nmeta:release:Change-Id: I1144303ea89d7c0ac3661a8434413ecb8a2ec6c6\nmeta:release:Code-Review+1: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>\n"
+  }
+}

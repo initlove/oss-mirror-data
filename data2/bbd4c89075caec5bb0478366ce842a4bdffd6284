@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY5MjEzNzE6YmJkNGM4OTA3NWNhZWM1YmIwNDc4MzY2Y2U4NDJhNGJkZmZkNjI4NA==",
+  "sha": "bbd4c89075caec5bb0478366ce842a4bdffd6284",
+  "url": "https://api.github.com/repos/openstack/oslo.vmware/git/tags/bbd4c89075caec5bb0478366ce842a4bdffd6284",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-07-10T20:09:58Z"
+  },
+  "object": {
+    "sha": "c5aed4fe30a3e3d9e82ca57015668cedc1394ed1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.vmware/git/commits/c5aed4fe30a3e3d9e82ca57015668cedc1394ed1"
+  },
+  "tag": "2.22.1",
+  "message": "oslo.vmware 2.22.1 release\n\nmeta:version: 2.22.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: I7f5c51c16b586e1a0057613c380e5cdd7f920841\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZY98WAAoJEOtsyhSD+nTsBGwIAIyIuzbEmT7v7OXrkymYEAT8\ndDNTG2LVucR80vG60dEmnO/qP2a+AEPxfySdpXI6IrRyi65S6UIMPUWfGlOHumr8\nwrZER17RqQE/L5zt5W5bxAq98/1SKrYuF4EtkWK8zdI3UKPDGuxhN0vPNRMYHZvk\ntwLA//6vKHpmFVO2GBArggisnFD5q+2Oofr0uEYok7eVPlDKz3WfmABrcZF2BOhv\nCr1vhXt1SkxyBj9c/7UuYD59h08OpUlM5K64WzMqgcEjMqvxg5Lu//+SOO196R4N\nKdvYBzABglV6+e/8V0aseobNRdp3ypT7UysZxf07I94kX59i+9AIvImgz88FT5k=\n=xtWi\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZY98WAAoJEOtsyhSD+nTsBGwIAIyIuzbEmT7v7OXrkymYEAT8\ndDNTG2LVucR80vG60dEmnO/qP2a+AEPxfySdpXI6IrRyi65S6UIMPUWfGlOHumr8\nwrZER17RqQE/L5zt5W5bxAq98/1SKrYuF4EtkWK8zdI3UKPDGuxhN0vPNRMYHZvk\ntwLA//6vKHpmFVO2GBArggisnFD5q+2Oofr0uEYok7eVPlDKz3WfmABrcZF2BOhv\nCr1vhXt1SkxyBj9c/7UuYD59h08OpUlM5K64WzMqgcEjMqvxg5Lu//+SOO196R4N\nKdvYBzABglV6+e/8V0aseobNRdp3ypT7UysZxf07I94kX59i+9AIvImgz88FT5k=\n=xtWi\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c5aed4fe30a3e3d9e82ca57015668cedc1394ed1\ntype commit\ntag 2.22.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1499717398 +0000\n\noslo.vmware 2.22.1 release\n\nmeta:version: 2.22.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: I7f5c51c16b586e1a0057613c380e5cdd7f920841\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

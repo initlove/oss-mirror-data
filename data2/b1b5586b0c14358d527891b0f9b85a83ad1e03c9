@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTpiMWI1NTg2YjBjMTQzNThkNTI3ODkxYjBmOWI4NWE4M2FkMWUwM2M5",
+  "sha": "b1b5586b0c14358d527891b0f9b85a83ad1e03c9",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/b1b5586b0c14358d527891b0f9b85a83ad1e03c9",
+  "tagger": {
+    "name": "Ben Noordhuis",
+    "email": "info@bnoordhuis.nl",
+    "date": "2013-09-04T12:45:18Z"
+  },
+  "object": {
+    "sha": "f5b6db6c1d7f93d28281207fd47c3841c9a9792e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/f5b6db6c1d7f93d28281207fd47c3841c9a9792e"
+  },
+  "tag": "v0.11.13",
+  "message": "2013.09.05, Version 0.11.13 (Unstable)\n\nChanges since version 0.11.12:\n\n* unix: define _GNU_SOURCE, exposes glibc-isms (Ben Noordhuis)\n\n* windows: check for nonconforming swprintf arguments (Brent Cook)\n\n* build: include internal headers in source list (Brent Cook)\n\n* include: merge uv_tcp_bind and uv_tcp_bind6 (Ben Noordhuis)\n\n* include: merge uv_tcp_connect and uv_tcp_connect6 (Ben Noordhuis)\n\n* include: merge uv_udp_bind and uv_udp_bind6 (Ben Noordhuis)\n\n* include: merge uv_udp_send and uv_udp_send6 (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.14 (Darwin)\n\niQIcBAABAgAGBQJSJyteAAoJEE9VyMhGq4m5CB4P/ifMYlkJ4D5pZqsF9wJG11RN\nnWFtEpWLEWCrZrF07XmhQ4H1gfwmx298i+TiKhTdL78KAKKIo0uSO5JF49IqiqBn\n7J/8z83EToqOE2E2zvMjnDh8p75faXwBdTEpMxydja3WwTBAe3wPsdOgY9VCrbhs\ny1YzvMQ03H7gZ9WwwFLFV29yn0hsdxcU5g0BqWJb29lObf9cmaHLeapLqSYVAYSi\nXOD/DPQhaKo4w7ecjN02OdkAefyAWhIhW2QgK5mAcnjcS91amQB9BGKG/Tj/6V4z\nfgUr92S+BP/LoG5z3O35/KrVSkz09iL/+I2LqBlens8IodTvNcPoIAetBucHYThM\n+Qa4fLiZKh7kG2d1mbIrk8peB9wdw+9wq3bkj0/o1fmzKMeK+t9JansGf2YXl3df\na1tCgJZd3GpWqQXckhFA7TIi3+CgLzcvoQkCPYGSfi02MM7ejaSU1q4dvPJfc9Qp\n/ue7ZQmXiD+K0dYL76BYdDJbhHLAOg8hyaZT8dcAaSIMfiXxwtZIdK9u7Nv/LxfP\nqMRQksRPtvycZU06NsNZlA17nMIqU1nat+OEnt/RlhZK4hK13HvyY+75w0InFn9r\nzctuTscedu4Y2zVtDVfp77eHtNaZxkO19arPS9lYP++jy1/gTKMb3AM8H3CrH1TP\nW+DGU6ucWN7lx6U7idr9\n=1R8X\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.14 (Darwin)\n\niQIcBAABAgAGBQJSJyteAAoJEE9VyMhGq4m5CB4P/ifMYlkJ4D5pZqsF9wJG11RN\nnWFtEpWLEWCrZrF07XmhQ4H1gfwmx298i+TiKhTdL78KAKKIo0uSO5JF49IqiqBn\n7J/8z83EToqOE2E2zvMjnDh8p75faXwBdTEpMxydja3WwTBAe3wPsdOgY9VCrbhs\ny1YzvMQ03H7gZ9WwwFLFV29yn0hsdxcU5g0BqWJb29lObf9cmaHLeapLqSYVAYSi\nXOD/DPQhaKo4w7ecjN02OdkAefyAWhIhW2QgK5mAcnjcS91amQB9BGKG/Tj/6V4z\nfgUr92S+BP/LoG5z3O35/KrVSkz09iL/+I2LqBlens8IodTvNcPoIAetBucHYThM\n+Qa4fLiZKh7kG2d1mbIrk8peB9wdw+9wq3bkj0/o1fmzKMeK+t9JansGf2YXl3df\na1tCgJZd3GpWqQXckhFA7TIi3+CgLzcvoQkCPYGSfi02MM7ejaSU1q4dvPJfc9Qp\n/ue7ZQmXiD+K0dYL76BYdDJbhHLAOg8hyaZT8dcAaSIMfiXxwtZIdK9u7Nv/LxfP\nqMRQksRPtvycZU06NsNZlA17nMIqU1nat+OEnt/RlhZK4hK13HvyY+75w0InFn9r\nzctuTscedu4Y2zVtDVfp77eHtNaZxkO19arPS9lYP++jy1/gTKMb3AM8H3CrH1TP\nW+DGU6ucWN7lx6U7idr9\n=1R8X\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f5b6db6c1d7f93d28281207fd47c3841c9a9792e\ntype commit\ntag v0.11.13\ntagger Ben Noordhuis <info@bnoordhuis.nl> 1378298718 +0200\n\n2013.09.05, Version 0.11.13 (Unstable)\n\nChanges since version 0.11.12:\n\n* unix: define _GNU_SOURCE, exposes glibc-isms (Ben Noordhuis)\n\n* windows: check for nonconforming swprintf arguments (Brent Cook)\n\n* build: include internal headers in source list (Brent Cook)\n\n* include: merge uv_tcp_bind and uv_tcp_bind6 (Ben Noordhuis)\n\n* include: merge uv_tcp_connect and uv_tcp_connect6 (Ben Noordhuis)\n\n* include: merge uv_udp_bind and uv_udp_bind6 (Ben Noordhuis)\n\n* include: merge uv_udp_send and uv_udp_send6 (Ben Noordhuis)\n"
+  }
+}

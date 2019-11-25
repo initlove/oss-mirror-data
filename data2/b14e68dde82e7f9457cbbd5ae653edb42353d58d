@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDpiMTRlNjhkZGU4MmU3Zjk0NTdjYmJkNWFlNjUzZWRiNDIzNTNkNThk",
+  "sha": "b14e68dde82e7f9457cbbd5ae653edb42353d58d",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/b14e68dde82e7f9457cbbd5ae653edb42353d58d",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2014-11-25T09:49:19Z"
+  },
+  "object": {
+    "sha": "f50a15454fb0450ced318ea4c4cd981c3d962759",
+    "type": "tag",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/f50a15454fb0450ced318ea4c4cd981c3d962759"
+  },
+  "tag": "librepo-1.7.6",
+  "message": "v1.7.6\n- New option LRO_ADAPTIVEMIRRORSORTING\n- Increase limits to make librepo more robust (RhBug: 1124349)\n- New option LRO_ALLOWEDMIRRORFAILURES\n- Refactoring\n- Default value of LRO_MAXDOWNLOADSPERMIRROR changed from 2 to 3\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

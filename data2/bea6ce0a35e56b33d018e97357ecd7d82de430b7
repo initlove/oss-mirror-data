@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTpiZWE2Y2UwYTM1ZTU2YjMzZDAxOGU5NzM1N2VjZDdkODJkZTQzMGI3",
+  "sha": "bea6ce0a35e56b33d018e97357ecd7d82de430b7",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/bea6ce0a35e56b33d018e97357ecd7d82de430b7",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-08-19T15:03:51Z"
+  },
+  "object": {
+    "sha": "35451fed830807095bbae8ef981af004a4b9259e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/35451fed830807095bbae8ef981af004a4b9259e"
+  },
+  "tag": "v0.11.29",
+  "message": "2014.08.20, Version 0.11.29 (Unstable)\n\nChanges since version 0.11.28:\n\n* windows: make uv_read_stop immediately stop reading (Jameson Nash)\n\n* windows: fix uv__getaddrinfo_translate_error (Alexis Campailla)\n\n* netbsd: fix build (Saúl Ibarra Corretgé)\n\n* unix, windows: add uv_recv_buffer_size and uv_send_buffer_size (Andrius\n  Bentkus)\n\n* windows: add support for UNC paths on uv_spawn (Paul Goldsmith)\n\n* windows: replace use of inet_addr with uv_inet_pton (Saúl Ibarra Corretgé)\n\n* unix: replace some asserts with returning errors (Andrius Bentkus)\n\n* windows: use OpenBSD implementation for uv_fs_mkdtemp (Pavel Platto)\n\n* windows: fix GetNameInfoW error handling (Alexis Campailla)\n\n* fs: introduce uv_readdir_next() and report types (Fedor Indutny)\n\n* fs: extend reported types in uv_fs_readdir_next (Saúl Ibarra Corretgé)\n\n* unix: read on stream even when UV__POLLHUP set. (Julien Gilli)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlPzZ1oACgkQfTP/nQJGQG301ACgyVIs3NEis2L9pSnJo0/v5H+O\n1JkAoL0rXDjHhA7HO6lesjysHUAStae8\n=Ijy0\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlPzZ1oACgkQfTP/nQJGQG301ACgyVIs3NEis2L9pSnJo0/v5H+O\n1JkAoL0rXDjHhA7HO6lesjysHUAStae8\n=Ijy0\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 35451fed830807095bbae8ef981af004a4b9259e\ntype commit\ntag v0.11.29\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1408460631 -0400\n\n2014.08.20, Version 0.11.29 (Unstable)\n\nChanges since version 0.11.28:\n\n* windows: make uv_read_stop immediately stop reading (Jameson Nash)\n\n* windows: fix uv__getaddrinfo_translate_error (Alexis Campailla)\n\n* netbsd: fix build (Saúl Ibarra Corretgé)\n\n* unix, windows: add uv_recv_buffer_size and uv_send_buffer_size (Andrius\n  Bentkus)\n\n* windows: add support for UNC paths on uv_spawn (Paul Goldsmith)\n\n* windows: replace use of inet_addr with uv_inet_pton (Saúl Ibarra Corretgé)\n\n* unix: replace some asserts with returning errors (Andrius Bentkus)\n\n* windows: use OpenBSD implementation for uv_fs_mkdtemp (Pavel Platto)\n\n* windows: fix GetNameInfoW error handling (Alexis Campailla)\n\n* fs: introduce uv_readdir_next() and report types (Fedor Indutny)\n\n* fs: extend reported types in uv_fs_readdir_next (Saúl Ibarra Corretgé)\n\n* unix: read on stream even when UV__POLLHUP set. (Julien Gilli)\n"
+  }
+}

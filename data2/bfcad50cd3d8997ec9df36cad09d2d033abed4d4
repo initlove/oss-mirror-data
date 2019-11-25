@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjk0ODU3MTY6YmZjYWQ1MGNkM2Q4OTk3ZWM5ZGYzNmNhZDA5ZDJkMDMzYWJlZDRkNA==",
+  "sha": "bfcad50cd3d8997ec9df36cad09d2d033abed4d4",
+  "url": "https://api.github.com/repos/openstack/oslo.policy/git/tags/bfcad50cd3d8997ec9df36cad09d2d033abed4d4",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-12-05T14:05:34Z"
+  },
+  "object": {
+    "sha": "cc3b1cc673817ef9040351d57c1a650a9f402fae",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.policy/git/commits/cc3b1cc673817ef9040351d57c1a650a9f402fae"
+  },
+  "tag": "1.32.0",
+  "message": "oslo.policy 1.32.0 release\n\nmeta:version: 1.32.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Commit: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Change-Id: I24fc6b7bf66be29c7c3efd7f46db0c46f63bcbd6\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaJqeuAAoJEEIeZHKBH5qBVZUH/0aWydLuCer1U2R09a7XvFZx\nX7dm6o9bOqBjn7PBfI297iFYpuJg/zI/qfdG+NcTv8hAn6mFPdZgsqivk3k+N6Nd\nzGiZJuoFrdiSEwI05+780d50pYZQd6dcVkqGymlBQTujD43C4L0hSbgEOGeukl1u\n4mKQB74mT60fydnp1v+qvzGcSmUeQ5PWYg23vqfw+/4qTEBAgfZ5SV7z9qHkQ9hw\n54FnFf+36iKqK5UTJEPBgdmsUtyqNx6lqtGZnd7CNCx1bIn779wqrrdtVTVkzpQu\nQh7BpctYerYhrsAwpxlNeVx7TONZY725PTtv9nFHMzxuwHiswcENpYekiyBZ2Zk=\n=28mV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaJqeuAAoJEEIeZHKBH5qBVZUH/0aWydLuCer1U2R09a7XvFZx\nX7dm6o9bOqBjn7PBfI297iFYpuJg/zI/qfdG+NcTv8hAn6mFPdZgsqivk3k+N6Nd\nzGiZJuoFrdiSEwI05+780d50pYZQd6dcVkqGymlBQTujD43C4L0hSbgEOGeukl1u\n4mKQB74mT60fydnp1v+qvzGcSmUeQ5PWYg23vqfw+/4qTEBAgfZ5SV7z9qHkQ9hw\n54FnFf+36iKqK5UTJEPBgdmsUtyqNx6lqtGZnd7CNCx1bIn779wqrrdtVTVkzpQu\nQh7BpctYerYhrsAwpxlNeVx7TONZY725PTtv9nFHMzxuwHiswcENpYekiyBZ2Zk=\n=28mV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cc3b1cc673817ef9040351d57c1a650a9f402fae\ntype commit\ntag 1.32.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1512482734 +0000\n\noslo.policy 1.32.0 release\n\nmeta:version: 1.32.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Commit: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Change-Id: I24fc6b7bf66be29c7c3efd7f46db0c46f63bcbd6\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

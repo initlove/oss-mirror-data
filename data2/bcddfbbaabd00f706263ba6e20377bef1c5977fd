@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE1NTE1NzpiY2RkZmJiYWFiZDAwZjcwNjI2M2JhNmUyMDM3N2JlZjFjNTk3N2Zk",
+  "sha": "bcddfbbaabd00f706263ba6e20377bef1c5977fd",
+  "url": "https://api.github.com/repos/openstack/glance/git/tags/bcddfbbaabd00f706263ba6e20377bef1c5977fd",
+  "tagger": {
+    "name": "Thierry Carrez",
+    "email": "thierry@openstack.org",
+    "date": "2016-03-16T13:17:26Z"
+  },
+  "object": {
+    "sha": "c5dcf9021af609b81edc4a22c38ddf7bdd440cee",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/glance/git/commits/c5dcf9021af609b81edc4a22c38ddf7bdd440cee"
+  },
+  "tag": "12.0.0.0rc1",
+  "message": "glance 12.0.0.0rc1 release candidate\n\nmeta:version: 12.0.0.0rc1\nmeta:series: mitaka\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJW6VzmAAoJEFB6+JAlsQQjrgoP+wYsKz1O/kjKQ9rPx2lvsoYX\nxpKx0zAbtguUDYYSIlV/Jqshtl99RHIRWBNaTdjReTq2E4dUFsgP4FceYZ0MZrr5\n8PxiJfXvCCqNpq7l/Dvy86Ow2UdNvXsnEBofM2fdrEc8b5VVgmpzmmBnOKecsEtm\nygvk4guYPzqL0SWuUKIoI+Mudxm3Y4Sj+17sBt/U9tT3xZ/TrZ4vnWrI0jS1I+Fo\nyY0dwQfSPunM9kWT+gD5cJgisxJsCGXpi615YJpRRt47I2MDA5iV3wJif6m/Ib4J\nqyPkU5vwd1rUTh2gZn8YK8GY2B89aRau1YDQEpbw+LYU7+SLuqpgO8TJ6Sw0nFKt\n/ncz/AfpT8sWTp1SwruTJHF7WZwWgSp3L/VlW7RUtLzhJoCdePaNwNtCEebH28bP\nXWG7G5SOEXxMDgIEDfTvfJXHAY1oA+TVsaeWEcoqbQxuZ639V5knqmqyPRVq7ExH\n4asnGivDZhalWaVsU6vvISIjU+IvIaX8Qe0QdDX6BcFLiHFtQtvVQMxxZ5N8gZtW\n8vFS4sZk1sXqhhoqfBTeeuGBpL1nIA/s+L6Kx/wnO3PRspTU+JctaP8UdSRltiDb\nvSq0k0mY4rebZNK0dS3zURw2hT8K58q6PkEVhMdtK8IWzbb4zwbgWOhni9BEOyNu\n0kn7At++0kgYQeahIhvc\n=0pBX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJW6VzmAAoJEFB6+JAlsQQjrgoP+wYsKz1O/kjKQ9rPx2lvsoYX\nxpKx0zAbtguUDYYSIlV/Jqshtl99RHIRWBNaTdjReTq2E4dUFsgP4FceYZ0MZrr5\n8PxiJfXvCCqNpq7l/Dvy86Ow2UdNvXsnEBofM2fdrEc8b5VVgmpzmmBnOKecsEtm\nygvk4guYPzqL0SWuUKIoI+Mudxm3Y4Sj+17sBt/U9tT3xZ/TrZ4vnWrI0jS1I+Fo\nyY0dwQfSPunM9kWT+gD5cJgisxJsCGXpi615YJpRRt47I2MDA5iV3wJif6m/Ib4J\nqyPkU5vwd1rUTh2gZn8YK8GY2B89aRau1YDQEpbw+LYU7+SLuqpgO8TJ6Sw0nFKt\n/ncz/AfpT8sWTp1SwruTJHF7WZwWgSp3L/VlW7RUtLzhJoCdePaNwNtCEebH28bP\nXWG7G5SOEXxMDgIEDfTvfJXHAY1oA+TVsaeWEcoqbQxuZ639V5knqmqyPRVq7ExH\n4asnGivDZhalWaVsU6vvISIjU+IvIaX8Qe0QdDX6BcFLiHFtQtvVQMxxZ5N8gZtW\n8vFS4sZk1sXqhhoqfBTeeuGBpL1nIA/s+L6Kx/wnO3PRspTU+JctaP8UdSRltiDb\nvSq0k0mY4rebZNK0dS3zURw2hT8K58q6PkEVhMdtK8IWzbb4zwbgWOhni9BEOyNu\n0kn7At++0kgYQeahIhvc\n=0pBX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c5dcf9021af609b81edc4a22c38ddf7bdd440cee\ntype commit\ntag 12.0.0.0rc1\ntagger Thierry Carrez <thierry@openstack.org> 1458134246 +0100\n\nglance 12.0.0.0rc1 release candidate\n\nmeta:version: 12.0.0.0rc1\nmeta:series: mitaka\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n"
+  }
+}

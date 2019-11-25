@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc5MTM0ODpiNTkyNzJkOTMyOTc4NTNkYzc1ZDhlOWM4NmRhMDJlMTcyNDVlOGE5",
+  "sha": "b59272d93297853dc75d8e9c86da02e17245e8a9",
+  "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/tags/b59272d93297853dc75d8e9c86da02e17245e8a9",
+  "tagger": {
+    "name": "JP Richardson",
+    "email": "jprichardson@gmail.com",
+    "date": "2015-03-03T00:43:33Z"
+  },
+  "object": {
+    "sha": "98a0956e113feec0458c80939840d06b1d170a38",
+    "type": "commit",
+    "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/commits/98a0956e113feec0458c80939840d06b1d170a38"
+  },
+  "tag": "0.16.4",
+  "message": "0.16.4 / 2015-03-01\n-------------------\n- `fs.mkdirs` fix infinite loop on Windows. See: See https://github.com/substack/node-mkdirp/pull/74 and https://github.com/substack/node-mkdirp/issues/66\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

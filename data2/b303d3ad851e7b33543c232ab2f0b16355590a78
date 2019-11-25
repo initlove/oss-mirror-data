@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjpiMzAzZDNhZDg1MWU3YjMzNTQzYzIzMmFiMmYwYjE2MzU1NTkwYTc4",
+  "sha": "b303d3ad851e7b33543c232ab2f0b16355590a78",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/b303d3ad851e7b33543c232ab2f0b16355590a78",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:26:36Z"
+  },
+  "object": {
+    "sha": "44de98ad112f0ad427a852951b661827c854c93a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/44de98ad112f0ad427a852951b661827c854c93a"
+  },
+  "tag": "0.1.4",
+  "message": "v0.1.4\n- Man pageupdate\n- New mergerepo params: --all, --noarch-repo and --method\n- Fix segfault when more than one --excludes param used\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

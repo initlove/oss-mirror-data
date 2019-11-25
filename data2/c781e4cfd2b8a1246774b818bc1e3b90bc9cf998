@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6Yzc4MWU0Y2ZkMmI4YTEyNDY3NzRiODE4YmMxZTNiOTBiYzljZjk5OA==",
+  "sha": "c781e4cfd2b8a1246774b818bc1e3b90bc9cf998",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/c781e4cfd2b8a1246774b818bc1e3b90bc9cf998",
+  "tagger": {
+    "name": "lkorth and stevecoffey",
+    "email": "code@getbraintree.com",
+    "date": "2016-04-11T23:10:43Z"
+  },
+  "object": {
+    "sha": "464da8d16cb85a907ec4210b163b9267d86b0924",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/464da8d16cb85a907ec4210b163b9267d86b0924"
+  },
+  "tag": "2.2.4",
+  "message": "2.2.4\n\n* Update PayPalDataCollector to 3.1.1\n* Fixes\n  * Update device collector to 2.6.1 (fixes [#87](https://github.com/braintree/braintree_android/issues/87))\n  * Fix crash when `BraintreeFragment` has not been attached to an `Activity`\n* Feature\n  * Add `PaymentRequest#defaultFirst` option\n  * Add support for Chrome Custom tabs when browser switching\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

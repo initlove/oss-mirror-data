@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDAyMTc5MDQ6Yzk2NzdlYmIyZjdjNjBmNzZmMjM2ZjA2MDZjMGYwNDJiMWI4YmM0Yw==",
+  "sha": "c9677ebb2f7c60f76f236f0606c0f042b1b8bc4c",
+  "url": "https://api.github.com/repos/swaywm/sway/git/tags/c9677ebb2f7c60f76f236f0606c0f042b1b8bc4c",
+  "tagger": {
+    "name": "Drew DeVault",
+    "email": "sir@cmpwn.com",
+    "date": "2019-02-03T14:10:53Z"
+  },
+  "object": {
+    "sha": "bbfe13a24893bac6a5c41ac39115288d1d6e025f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/swaywm/sway/git/commits/bbfe13a24893bac6a5c41ac39115288d1d6e025f"
+  },
+  "tag": "1.0-rc1",
+  "message": "Sway 1.0-rc1 contains 311 changes from 32 contributors since 1.0-beta2.\nThe release candidates are considered complete and will receive no new\nfeatures, only bug fixes. Once a release candidate sees a week of\ntesting without turning up any new bugs, it will become a stable\nrelease.\n\nThe recommended wlroots version to use with this sway release is\n[XXX](https://github.com/swaywm/wlroots/commit/TODO).\n\nPackage maintainers: **please do not package this release**.\n\n- [swayidle](https://github.com/swaywm/swayidle) and\n[swaylock](https://github.com/swaywm/swaylock) are now standalone\nprojects and must be installed separately. These no longer depend on\nwlroots or sway's internals and can be used with other Wayland\ncompositors.\n- The minimum required scdoc version is now 1.8.1 (for generating man\npages)\n- The minimum required systemd version (for optional systemd\nintegration) is now 239\n\n- Add tray support to swaybar. Note: this is limited to the SNI\nprotocol. The legacy Xembed protocol is not yet supported, nor is the\ncanonical dbus menu.\n- Pointer constraints (necessary for locking the pointer in video games)\nis now supported\n- Add `hide_cursor <timeout>` to hide the cursor when not in use\n- Support for clipboard managers such as\n[wl-clipboard](https://github.com/bugaevc/wl-clipboard) via the\ndata-control-v1 protocol\n- Tiling containers can now be stickied\n- i3's `fullscreen global` command has been implemented\n- Seat commands can now refer to seat \"-\" to affect the current seat\n- Add a new `xwayland` command to disable Xwayland in the config file\n- Add a new `tiling_drag_threshold` command\n\n- swaylock: clear password buffer on Ctrl-C, submit password on Ctrl-D\n- Use meson feature options for build configuration\n- Allow output ids and wildcard for workspace output\n- Add option to bindsym/bindcode to suppress warning on override\n- Add relative coordinates in JSON for i3bar click events\n- swaybar: handle block->urgent\n- Add `fullscreen_mode` to get_tree output\n- Allow tiling views to be dragged by the titlebar\n- Change mouse buttons to x11 map and libevdev names\n- Revamp seat configs\n- swaylock: Add caps lock state to indicator\n- swaybar: add status_padding command\n- swaybar: add status_edge_padding command\n- cursor: allow mapping to all outputs\n- cursor: allow scrolling tabs/stack on title border\n- bind{code,sym}, seat_cmd_cursor, bar_cmd_bind,\ninput_cmd_scroll_button: improve mouse button parsing\n- input_cmd_events: implement toggle\n- get_inputs: add libinput send events mode\n- Extend `input <identifier> events toggle` with a list of modes to\ntoggle through\n\nThis release is mostly bug fixes.\n\n- Various shell completion improvements and fixes\n- Fix the error result of the fullscreen command\n- Fix outputs that are never enabled\n- Keep focus when destroying containers on non-visible workspace\n- swaybar: fix seperator block width for mixed scales\n- swaybar: fix cursor scale\n- swaynag: damage the cursor surface on update\n- Terminate swaybg in output_disable\n- Fix crash when scratchpad contains split containers\n- Set font options when computing text width\n- seat: unhide the cursor if it is warped to focus\n- swaybar: fix rendering of border and background\n- swaybar: obey height if given\n- Handle empty $XDG_CONFIG_HOME better, without setting it\n- Remove 'input' field of IPC command return json\n- Disarm key repeat on reload\n- Resize only current and immediate siblings rather than all siblings\n- Handle hidden scratchpad containers in commands\n- Permit resizing hidden scratchpad containers in some cases\n- Don't abort when creating layer surfaces with zero outputs\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

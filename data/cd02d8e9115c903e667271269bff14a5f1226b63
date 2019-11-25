@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzc0OTI3OmNkMDJkOGU5MTE1YzkwM2U2NjcyNzEyNjliZmYxNGE1ZjEyMjZiNjM=",
+  "sha": "cd02d8e9115c903e667271269bff14a5f1226b63",
+  "url": "https://api.github.com/repos/erlang/otp/git/tags/cd02d8e9115c903e667271269bff14a5f1226b63",
+  "tagger": {
+    "name": "Erlang/OTP",
+    "email": "otp@erlang.org",
+    "date": "2017-11-15T13:40:27Z"
+  },
+  "object": {
+    "sha": "70213bdf6cfa2e61c7e9013c4c217a1857b9df2e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/erlang/otp/git/commits/70213bdf6cfa2e61c7e9013c4c217a1857b9df2e"
+  },
+  "tag": "OTP-18.3.4.6",
+  "message": "=== OTP-18.3.4.6 ===\n\nChanged Applications:\n- compiler-6.0.3.1\n- eldap-1.2.1.1\n- erts-7.3.1.4\n- ssh-4.2.2.4\n\nUnchanged Applications:\n- asn1-4.0.2\n- common_test-1.12.1.1\n- cosEvent-2.2\n- cosEventDomain-1.2\n- cosFileTransfer-1.2\n- cosNotification-1.2.1\n- cosProperty-1.2\n- cosTime-1.2.1\n- cosTransactions-1.3.1\n- crypto-3.6.3.1\n- debugger-4.1.2\n- dialyzer-2.9\n- diameter-1.11.2\n- edoc-0.7.18\n- erl_docgen-0.4.2\n- erl_interface-3.8.2\n- et-1.5.1\n- eunit-2.2.13\n- gs-1.6\n- hipe-3.15\n- ic-4.4\n- inets-6.2.4.1\n- jinterface-1.6.1\n- kernel-4.2\n- megaco-3.18\n- mnesia-4.13.4\n- observer-2.1.2\n- odbc-2.11.1\n- orber-3.8.1\n- os_mon-2.4\n- ose-1.1\n- otp_mibs-1.1\n- parsetools-2.1.1\n- percept-0.8.11\n- public_key-1.1.1\n- reltool-0.7\n- runtime_tools-1.9.3\n- sasl-2.7\n- snmp-5.2.2\n- ssl-7.3.3.1\n- stdlib-2.8\n- syntax_tools-1.7\n- test_server-3.10\n- tools-2.8.3\n- typer-0.9.10\n- webtool-0.9.1\n- wx-1.6.1\n- xmerl-1.3.10\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc3Mjk5MDc6YzVkMDk2NDhlODA3MDM0NDRjNmUyZDU1NzNjYWM3ZDRhNDhiZTkzNA==",
+  "sha": "c5d09648e80703444c6e2d5573cac7d4a48be934",
+  "url": "https://api.github.com/repos/grpc/grpc-go/git/tags/c5d09648e80703444c6e2d5573cac7d4a48be934",
+  "tagger": {
+    "name": "Menghan Li",
+    "email": "menghanl@google.com",
+    "date": "2016-10-17T23:18:18Z"
+  },
+  "object": {
+    "sha": "b7f1379d3cbbbeb2ca3405852012e237aa05459e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/grpc/grpc-go/git/commits/b7f1379d3cbbbeb2ca3405852012e237aa05459e"
+  },
+  "tag": "v1.0.3",
+  "message": "API changes:\n* ServerStream interface\n - Add SetHeader()\n\nBehavior changes:\n* Concurrent Server.GracefulStop() calls all behave equivalently\n* Server.Serve() won't exit when lis.Accept fails with temporary errors\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

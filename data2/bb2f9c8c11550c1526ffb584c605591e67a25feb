@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOmJiMmY5YzhjMTE1NTBjMTUyNmZmYjU4NGM2MDU1OTFlNjdhMjVmZWI=",
+  "sha": "bb2f9c8c11550c1526ffb584c605591e67a25feb",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/bb2f9c8c11550c1526ffb584c605591e67a25feb",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2016-05-17T01:35:59Z"
+  },
+  "object": {
+    "sha": "0bda906ac18ef75f069a612e65e6d720ec1e181f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/0bda906ac18ef75f069a612e65e6d720ec1e181f"
+  },
+  "tag": "3.2.0-beta1",
+  "message": "Version 3.2.0-beta1\n\n - Fix bug where write callback was being called multiple times when write operations blocked\n - [windows] refactored write code to be less complex\n - [unix] refactored write code to be less complex\n - added arduino required integration tests\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

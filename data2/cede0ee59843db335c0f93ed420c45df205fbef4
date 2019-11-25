@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzk5NjQ3NjpjZWRlMGVlNTk4NDNkYjMzNWMwZjkzZWQ0MjBjNDVkZjIwNWZiZWY0",
+  "sha": "cede0ee59843db335c0f93ed420c45df205fbef4",
+  "url": "https://api.github.com/repos/rhboot/shim/git/tags/cede0ee59843db335c0f93ed420c45df205fbef4",
+  "tagger": {
+    "name": "Peter Jones",
+    "email": "pjones@redhat.com",
+    "date": "2017-09-29T15:11:48Z"
+  },
+  "object": {
+    "sha": "5e827007b3d95c4ce999422462248f5e7d3f270f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rhboot/shim/git/commits/5e827007b3d95c4ce999422462248f5e7d3f270f"
+  },
+  "tag": "13",
+  "message": "shim 13:\n\n- OpenSSL reverted to 1.0.2k to make the cert chaining of existing\n  deployments stay working\n- Better PCR usage for TPM\n- TPM documentation in README.tpm\n- More configurable build via make variables:\n  ENABLE_SHIM_CERT\n  ENABLE_SHIM_HASH\n  ENABLE_SBSIGN\n  LIBDIR\n  EFIDIR\n  VENDOR_CERT_FILE\n  VENDOR_DB_FILE\n- Better MoK documentation in MokVars.txt\n- Better debuginfo generation\n- Lots of minor bug fixes.\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJZzmLtAAoJEO7SZrcPT+8Q1JsP/3zoVNqFZ1XMl1DTYuZhkEl/\nmfFTOSiVQ0YjN9uVx0OJqHMnwmDFgO0Oiu////oTr7AyugEbTGw+0viTP3RLg4hf\n5rpuasQz+6J7phewWmG2GwhWRzkaDateN+LjITQQPcnf/qLXEkG0xSx1KiycmnIM\n9gOg9EKP4p6XGCO95azei1n4tYrhnUySs0Ipr/b0NqZx4NY0AaErYulj81xShbSp\n/jDswGsOHk5TsMtSHlhP6Euk4muZo02bwIrf61YKf0VIRcsIlDHJCZKmoqWv4395\nMsm1wcoBngcGKBl94meY785awfKflwQHucHs7OkstGnddE8vhjo25tSlMHxljs/I\nNnwDghB7L3CjOlv9DUW1RIavohI0HYcsWKwHb5UpJYKJu0GXwgWMIVXlDt9pmycP\nL4b7hQqkXuRJQye9d/KYRXvt186X15SpyEdWjr/Iq2au6Q3w694YCQrfiKousOQu\ncmKFTVRPEGDsF9gPKbiU616RFTQJ+UFirl7TMFabAayGZSSTXXi1prMeWm7A+/jQ\nMUuw2Y329x6KpMPD4T3Yt/cL9KgoNrG1UwPh2Nr7cjgi030pLWl19SeRaWs2ngwH\nA4pwCSlc4dUBP70JqKVNLQQ8mxGleKV8QVDZDyBgtPJw+doy4tRtHlx/WuuqGu+v\n5AH+fawwmWZ6srUEjoJI\n=ftFn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABCgAGBQJZzmLtAAoJEO7SZrcPT+8Q1JsP/3zoVNqFZ1XMl1DTYuZhkEl/\nmfFTOSiVQ0YjN9uVx0OJqHMnwmDFgO0Oiu////oTr7AyugEbTGw+0viTP3RLg4hf\n5rpuasQz+6J7phewWmG2GwhWRzkaDateN+LjITQQPcnf/qLXEkG0xSx1KiycmnIM\n9gOg9EKP4p6XGCO95azei1n4tYrhnUySs0Ipr/b0NqZx4NY0AaErYulj81xShbSp\n/jDswGsOHk5TsMtSHlhP6Euk4muZo02bwIrf61YKf0VIRcsIlDHJCZKmoqWv4395\nMsm1wcoBngcGKBl94meY785awfKflwQHucHs7OkstGnddE8vhjo25tSlMHxljs/I\nNnwDghB7L3CjOlv9DUW1RIavohI0HYcsWKwHb5UpJYKJu0GXwgWMIVXlDt9pmycP\nL4b7hQqkXuRJQye9d/KYRXvt186X15SpyEdWjr/Iq2au6Q3w694YCQrfiKousOQu\ncmKFTVRPEGDsF9gPKbiU616RFTQJ+UFirl7TMFabAayGZSSTXXi1prMeWm7A+/jQ\nMUuw2Y329x6KpMPD4T3Yt/cL9KgoNrG1UwPh2Nr7cjgi030pLWl19SeRaWs2ngwH\nA4pwCSlc4dUBP70JqKVNLQQ8mxGleKV8QVDZDyBgtPJw+doy4tRtHlx/WuuqGu+v\n5AH+fawwmWZ6srUEjoJI\n=ftFn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5e827007b3d95c4ce999422462248f5e7d3f270f\ntype commit\ntag 13\ntagger Peter Jones <pjones@redhat.com> 1506697908 -0400\n\nshim 13:\n\n- OpenSSL reverted to 1.0.2k to make the cert chaining of existing\n  deployments stay working\n- Better PCR usage for TPM\n- TPM documentation in README.tpm\n- More configurable build via make variables:\n  ENABLE_SHIM_CERT\n  ENABLE_SHIM_HASH\n  ENABLE_SBSIGN\n  LIBDIR\n  EFIDIR\n  VENDOR_CERT_FILE\n  VENDOR_DB_FILE\n- Better MoK documentation in MokVars.txt\n- Better debuginfo generation\n- Lots of minor bug fixes.\n"
+  }
+}

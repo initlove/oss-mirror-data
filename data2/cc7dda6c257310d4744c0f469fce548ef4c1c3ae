@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNDpjYzdkZGE2YzI1NzMxMGQ0NzQ0YzBmNDY5ZmNlNTQ4ZWY0YzFjM2Fl",
+  "sha": "cc7dda6c257310d4744c0f469fce548ef4c1c3ae",
+  "url": "https://api.github.com/repos/openstack/heat/git/tags/cc7dda6c257310d4744c0f469fce548ef4c1c3ae",
+  "tagger": {
+    "name": "Ian Main",
+    "email": "imain@redhat.com",
+    "date": "2012-06-27T16:53:48Z"
+  },
+  "object": {
+    "sha": "038a65947c8a6fdb13328c6555ba148330a0a7cc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/heat/git/commits/038a65947c8a6fdb13328c6555ba148330a0a7cc"
+  },
+  "tag": "v4.release",
+  "message": "The Heat developers are pleased to announce the release of the Heat API\nversion 4.  We have added many new features including Ubuntu Precise\nhost support.\n\nHeat is a project designed to work with OpenStack that provides a\nprogrammable interface to orchestrate multiple cloud applications\nimplementing CloudFormation.\n\nTo give it a spin on Fedora 17:\n\nhttps://github.com/heat-api/heat/blob/master/docs/GettingStarted.rst#readme\n\nOr on Ubuntu 12.04:\n\nhttps://github.com/heat-api/heat/wiki/Getting-Started-with-Heat-using-Master-on-Ubuntu\n\nEnhancements in version 4:\n\n+ Cloud Watch.\n  cfn-push-stats can be used on the guest to send statistics to the heat\n  metadata server which can use rules defined in the template to\n  execute actions.\n\n+ High Availability using CloudWatch\n  - cfn-hup has been modified to be able to check and restart services\n    (any other monitoring tool could also be used).\n  - cfn-push-stats is used to send a service-failure event to CloudWatch.\n  - Service escalation can be achieved by using the Restarter Resource\n    as an action.\n  https://github.com/heat-api/heat/wiki/Roadmap-Feature:-High-Availability\n\n+ Authentication and identification.\n  Heat now performs proper authentication on all API calls, identifying\n  individual users, and creating stacks on a per-user basis.  Heat now\n  also supports AWS style keys as well as keystone username/password or\n  token authentication.\n  https://github.com/heat-api/heat/wiki/Roadmap-Feature:-Associate-users-with-templates-using-keystone\n\n+ Nested stack support.\n  Heat templates can now reference other templates enabling you to use\n  them as building blocks to create larger deployments.\n  https://github.com/heat-api/heat/wiki/Roadmap-Feature:-Nested-stacks\n\n+ IAM::User support.\n  https://github.com/heat-api/heat/wiki/Roadmap-Feature:-AWS-template-support-parity\n\n+ API rework to align with AWS.\n  This is part of an ongoing effort to conform to Amazons API and to\n  move towards using boto as our client.\n  https://github.com/heat-api/heat/wiki/Heat-CLI-Boto-migration-&-API-rework\n\n+ Ubuntu 12.04 host support and Ubuntu 10.04 and 12.04 guest support.\n  https://github.com/heat-api/heat/wiki/Roadmap-Feature:-Debian-Ubuntu-support\n\n+ heat-jeos now a separate command.\n  Heat JEOS image creation changed from 'heat jeos_create' to a separate\n  repo and command called heat-jeos.\n  https://github.com/heat-api/heat-jeos\n\n+ Various manual pages added for heat commands.\n\n+ Implemented describe stack resource commands.\n\nHeat website:\n\nhttp://heat-api.org/\n\nOur mailing list:\n\nhttp://lists.heat-api.org/mailman/listinfo\n\nDownload Heat API:\n\nhttps://github.com/heat-api/heat/tags\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

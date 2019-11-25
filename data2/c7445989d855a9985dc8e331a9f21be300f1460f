@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTg4NTc2MTg6Yzc0NDU5ODlkODU1YTk5ODVkYzhlMzMxYTlmMjFiZTMwMGYxNDYwZg==",
+  "sha": "c7445989d855a9985dc8e331a9f21be300f1460f",
+  "url": "https://api.github.com/repos/openstack/osc-lib/git/tags/c7445989d855a9985dc8e331a9f21be300f1460f",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-11T14:21:46Z"
+  },
+  "object": {
+    "sha": "a0d9746eb5ec8d646bb40507a138a2e8176bebda",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/osc-lib/git/commits/a0d9746eb5ec8d646bb40507a138a2e8176bebda"
+  },
+  "tag": "1.14.1",
+  "message": "osc-lib 1.14.1 release\n\nmeta:version: 1.14.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Commit: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Change-Id: I627b938fcb822999f95dfaeaad2589b5456f0a67\nmeta:release:Code-Review+1: Matthew Thode <mthode@mthode.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl15AvoZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2FGNC/49eIkH084ZQK9Cs4U0mUUC\n3nqchL7ZLmUCQQvDjo0imjSd5pkFUl26fDDLaeBwskbRhQMXglaezu2MS9HRXEKL\n0v4sa+Pk1JsEkhqgOhY0/1fcCoqNbhADqOX1T0s19Rjk2988JRblfkWJ0Utnm5iy\n8cPHaL9JPP/T0HlyPekbuWfFlCpjyXHCcy6zUEfdUGxcU7TkKg8ID0tIbH0siC8u\nJIiHFViRfeaNMFEBVYL9/U1tVgyxTz0oNlkgTflUtrO3WRbHNDnm0c76TZmfufZO\nRRkx9zCba4DaFEw96Qz63ep6n0dRwox332sLAnzt8w4+CK57omoZ+Rigbwz8sdYp\n3V/oG+Ay3YqPeE4ShoBSeLWeejcOW/DPj1Vip3ZTYG1C2aEYQQmVLj03lJ4BswMy\ne/QDci3p32c8/XAdhdmGpSaaUfYD1e/njOrotZrPFdoW5zgqNVKSXIUmDCfShDii\n0koEjQLYlEp1oZxTaV+Gb1h61PHs8JQ/UNHz34NT6do=\n=5XpI\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl15AvoZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2FGNC/49eIkH084ZQK9Cs4U0mUUC\n3nqchL7ZLmUCQQvDjo0imjSd5pkFUl26fDDLaeBwskbRhQMXglaezu2MS9HRXEKL\n0v4sa+Pk1JsEkhqgOhY0/1fcCoqNbhADqOX1T0s19Rjk2988JRblfkWJ0Utnm5iy\n8cPHaL9JPP/T0HlyPekbuWfFlCpjyXHCcy6zUEfdUGxcU7TkKg8ID0tIbH0siC8u\nJIiHFViRfeaNMFEBVYL9/U1tVgyxTz0oNlkgTflUtrO3WRbHNDnm0c76TZmfufZO\nRRkx9zCba4DaFEw96Qz63ep6n0dRwox332sLAnzt8w4+CK57omoZ+Rigbwz8sdYp\n3V/oG+Ay3YqPeE4ShoBSeLWeejcOW/DPj1Vip3ZTYG1C2aEYQQmVLj03lJ4BswMy\ne/QDci3p32c8/XAdhdmGpSaaUfYD1e/njOrotZrPFdoW5zgqNVKSXIUmDCfShDii\n0koEjQLYlEp1oZxTaV+Gb1h61PHs8JQ/UNHz34NT6do=\n=5XpI\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a0d9746eb5ec8d646bb40507a138a2e8176bebda\ntype commit\ntag 1.14.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1568211706 +0000\n\nosc-lib 1.14.1 release\n\nmeta:version: 1.14.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Commit: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Change-Id: I627b938fcb822999f95dfaeaad2589b5456f0a67\nmeta:release:Code-Review+1: Matthew Thode <mthode@mthode.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6YjcyZDc3ODU0NzA4NzJjMDI2MjcxZTQ3MTM2NzM3ODI3NDhjN2NiYQ==",
+  "sha": "b72d7785470872c026271e4713673782748c7cba",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/b72d7785470872c026271e4713673782748c7cba",
+  "tagger": {
+    "name": "lkorth",
+    "email": "luke@lukekorth.com",
+    "date": "2016-10-24T15:39:32Z"
+  },
+  "object": {
+    "sha": "196c7c53218f76812ef4e8e399302ae41b0aa1e4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/196c7c53218f76812ef4e8e399302ae41b0aa1e4"
+  },
+  "tag": "2.3.11",
+  "message": "2.3.11\n\n* Fix ProGuard rules (fixes [#124](https://github.com/braintree/braintree_android/issues/124))\n* Fix `NullPointerException` when using deprecated DataCollector methods\n* Update compile and target SDK versions to 25\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6YjY2MWFjZWNmZmU5MzRiZGE3MjhkZDcxYzkzODIxOTYyZTNkMjgzMQ==",
+  "sha": "b661acecffe934bda728dd71c93821962e3d2831",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/b661acecffe934bda728dd71c93821962e3d2831",
+  "tagger": {
+    "name": "quinnjn",
+    "email": "quinn.neumiiller@getbraintree.com",
+    "date": "2016-05-03T19:26:52Z"
+  },
+  "object": {
+    "sha": "8d5fa6b9dd4083443f793a9a356525c9488ac57d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/8d5fa6b9dd4083443f793a9a356525c9488ac57d"
+  },
+  "tag": "2.3.0",
+  "message": "2.3.0\n\n* UnionPay Beta *Please note*: this API is in beta and subject to change\n* Add support for fetching a customer's payment methods\n* Return a `RateLimitException` when a merchant account is being rate limited\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

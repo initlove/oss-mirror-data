@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6YmEyNDU1M2E4OTBjNjFkZDJiZDFmNTk1ZGE4YmE1YWUzYjFhODk4Ng==",
+  "sha": "ba24553a890c61dd2bd1f595da8ba5ae3b1a8986",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/ba24553a890c61dd2bd1f595da8ba5ae3b1a8986",
+  "tagger": {
+    "name": "lkorth",
+    "email": "luke@lukekorth.com",
+    "date": "2016-09-09T17:03:36Z"
+  },
+  "object": {
+    "sha": "2854f7700960fd958ccb59927e352059d6ccb50e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/2854f7700960fd958ccb59927e352059d6ccb50e"
+  },
+  "tag": "2.3.8",
+  "message": "2.3.8\n\n* Support changing user call to action in PayPal flows, see `PayPalRequest#userAction`\n* Fix validate option not being sent when set to false in `PaymentMethodBuilder`\n* Add merchant supported card types to `Configuration`\n* Expose methods on `BraintreeFragment` for getting cached payment methods\n* Update `paypal-data-collector` to 3.1.2\n* Move Drop-In to [it's own repo](https://github.com/braintree/braintree-android-drop-in)\n*\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc0ODk5NDc6YjllODg5ZTE2NzY2ZGUzYmNjMmNhNGFmYjc0NmZmNzc4M2QyNjUyYQ==",
+  "sha": "b9e889e16766de3bcc2ca4afb746ff7783d2652a",
+  "url": "https://api.github.com/repos/openstack/neutron-fwaas/git/tags/b9e889e16766de3bcc2ca4afb746ff7783d2652a",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-22T00:22:24Z"
+  },
+  "object": {
+    "sha": "4a8687e3f36061735064a89a2f9401bfa94e992e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-fwaas/git/commits/4a8687e3f36061735064a89a2f9401bfa94e992e"
+  },
+  "tag": "14.0.0.0rc1",
+  "message": "neutron-fwaas 14.0.0.0rc1 release candidate\n\nmeta:version: 14.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: Miguel Lavalle <miguel.lavalle@verizonmedia.com>\nmeta:release:Change-Id: I2c402e2408620072c63ab10d7bbb975227bd8db2\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@verizonmedia.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyUKsAZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOLC8DACazs2JDNFQmNZAtwaX4ykk\n9h8XG4o8YfzfJ4TB/iQiXSQevQxbbaZXjumtIzI4bByJPWxQfMu0pVP+ft6G0qYI\naIP75DXCPAl9HeQxMtVnDSCTev6vZVpduwrpcqa7CP5xQaG4hrSjLOh0vJaitVgb\n/hwFcAVMFbTAdOhl8QxINIFKgKIN3zDerkTzB+5adFVejGGsBZl/IvDcW6qG8vyN\ne9bmQnmGUM3jp57U3RuR2dzx7XjlGNF2JzxW7JwEXGQnUW+Y331lrANd08Pybt+h\n7KulFzWJT7bwN5xQg/5kF0EozSpp43Kx3/u9XtxvVA+3jUFytTiqtM1zo7fW5JlG\nnspx2MneYYo886ttNjCx8l/OqGzYRZEGLthyuRk9gvQU63EItbL3IWdCjcrFDT3G\nsIbIbfAU1hvrA02tAq0BjKhxxfqGKSVBrfk2sCbiU1naGvKCKvrOK8NhLG3mj+V4\naSHbL7X4ODaDGVnkt/DpNJMK1MNFvQsMMYE3Islq0mo=\n=60Yu\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyUKsAZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOLC8DACazs2JDNFQmNZAtwaX4ykk\n9h8XG4o8YfzfJ4TB/iQiXSQevQxbbaZXjumtIzI4bByJPWxQfMu0pVP+ft6G0qYI\naIP75DXCPAl9HeQxMtVnDSCTev6vZVpduwrpcqa7CP5xQaG4hrSjLOh0vJaitVgb\n/hwFcAVMFbTAdOhl8QxINIFKgKIN3zDerkTzB+5adFVejGGsBZl/IvDcW6qG8vyN\ne9bmQnmGUM3jp57U3RuR2dzx7XjlGNF2JzxW7JwEXGQnUW+Y331lrANd08Pybt+h\n7KulFzWJT7bwN5xQg/5kF0EozSpp43Kx3/u9XtxvVA+3jUFytTiqtM1zo7fW5JlG\nnspx2MneYYo886ttNjCx8l/OqGzYRZEGLthyuRk9gvQU63EItbL3IWdCjcrFDT3G\nsIbIbfAU1hvrA02tAq0BjKhxxfqGKSVBrfk2sCbiU1naGvKCKvrOK8NhLG3mj+V4\naSHbL7X4ODaDGVnkt/DpNJMK1MNFvQsMMYE3Islq0mo=\n=60Yu\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4a8687e3f36061735064a89a2f9401bfa94e992e\ntype commit\ntag 14.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1553214144 +0000\n\nneutron-fwaas 14.0.0.0rc1 release candidate\n\nmeta:version: 14.0.0.0rc1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Commit: Miguel Lavalle <miguel.lavalle@verizonmedia.com>\nmeta:release:Change-Id: I2c402e2408620072c63ab10d7bbb975227bd8db2\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@verizonmedia.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

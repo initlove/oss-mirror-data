@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTk4MzQzMTQ6YzFiNDczMTY5MThiMjU1Y2Y3NGVkMzliZjEyZDRjZmM3M2JhZDFhZg==",
+  "sha": "c1b47316918b255cf74ed39bf12d4cfc73bad1af",
+  "url": "https://api.github.com/repos/spinnaker/orca/git/tags/c1b47316918b255cf74ed39bf12d4cfc73bad1af",
+  "tagger": {
+    "name": "Bob T Builder",
+    "email": "builds@netflix.com",
+    "date": "2015-11-17T23:35:12Z"
+  },
+  "object": {
+    "sha": "09f59688406e6d291cd21f50ee27879e45133cab",
+    "type": "commit",
+    "url": "https://api.github.com/repos/spinnaker/orca/git/commits/09f59688406e6d291cd21f50ee27879e45133cab"
+  },
+  "tag": "v1.20.0",
+  "message": "Release of 1.20.0\n\n- 09f59688406e6d291cd21f50ee27879e45133cab: Get deploy and modify ASG tasks to look at previous stage output for AMI before using one from global context\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

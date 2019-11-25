@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTI5ODI1MTI1OmMyZDhiM2M2NmY4ZDE3NmQ0YzkzMDM2NTRiNjY4M2E2NDdlMTA4NTg=",
+  "sha": "c2d8b3c66f8d176d4c9303654b6683a647e10858",
+  "url": "https://api.github.com/repos/projectcalico/node/git/tags/c2d8b3c66f8d176d4c9303654b6683a647e10858",
+  "tagger": {
+    "name": "Casey Davenport",
+    "email": "davenport.cas@gmail.com",
+    "date": "2018-09-24T18:14:58Z"
+  },
+  "object": {
+    "sha": "3e0d8a61054ca0729a658c75612050281e83c1c2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/projectcalico/node/git/commits/3e0d8a61054ca0729a658c75612050281e83c1c2"
+  },
+  "tag": "v3.2.2",
+  "message": "- f7d90aa06fe5c508f5a110a5e48b424abbfcd9c8 Fix projectcalico.org -> projectcalico-org\n- b8a35fe1cc11e33ce23630162092bb37c2c342e4 Add support for multi-arch manifest, with default arch on quay.io\n- a20d4416f8ea97b6b62c79f7bcb172c733e1575d Add explicit noop for non-amd64 for non-manifest so the target works\n- b954dda33487f2f0b02b55f2b740c3bff18571e3 Makefile: Use correct location for docker config.json\n- cad534461139ae071a8fa99220b06aee84f0c99e Makefile: Update release to include all arches\n- 665c8d56d71b051c66287821f6389917b4b61425 Provide build info to felix\n- 45112f4ba31396c9e3d2d9f8318d20a7b2e338b9 Image: Add ca-certificates package\n- 119c6bb02384f5f40681da70889bb87cf68e879b Fix release\n- ee3c25aea49b73261cac6f56be5a032d5f170b4a Update deps\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

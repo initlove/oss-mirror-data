@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTc5OTM5NTM6YjQ0YTU0Y2JhMzIyZjQ1MmIzNmQ2YzhiMmJlOGQ4YzVhNzFiODI0Yg==",
+  "sha": "b44a54cba322f452b36d6c8b2be8d8c5a71b824b",
+  "url": "https://api.github.com/repos/openstack/ironic-python-agent/git/tags/b44a54cba322f452b36d6c8b2be8d8c5a71b824b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-07-09T14:41:46Z"
+  },
+  "object": {
+    "sha": "e33744ac2d28d23e1e7951c50deaf07806665023",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic-python-agent/git/commits/e33744ac2d28d23e1e7951c50deaf07806665023"
+  },
+  "tag": "4.0.0",
+  "message": "ironic-python-agent 4.0.0 release\n\nmeta:version: 4.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Commit: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Change-Id: I365e242cad93f76aa5ad88ec420008afa40d1f29\nmeta:release:Code-Review+1: Riccardo Pittau <elfosardo@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0kp6oZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2LbNDACYZ8kF4CW2L8o6q2tzLcgg\nZ9dWm7oo7N1KgTJbhgmlFAh1eB7/dIJRmYUt5Zo1UM4soMO+LT4yABSUPZyeoMV0\neY5VPkSPo0pSaN8oS1ryArntyikFOLVzKq+iPP7pasUeTvGbuJj/uYxAaU9kocUA\nOSBl24gGq19zx8+fmE8cm1m+EFj2DncIgqzt+v6jgPJo9o1iFZlmV8XeKzVORPDf\ntCDdBLLhqxqlDX4eroxfdokWUhfU0iTnBuSj5z2pAnmhHKE+VqpWCsHDKocb1YjR\nG38PE78Qw43p8zyr2Oxzv0R3gjEl49znn2RpdZ+NuTkHCgr7/sFyR6xMNlyukGeD\nGGyhdjsi5Uu01jSE3BVItSKE9JYPSGwczJNL78lmrZ60srhP/nq3HNp3AmEDlmS+\noOYMqXTpi+G6QU7gWSQm8Y5hwByYW5Kl36sL4zh75pCNkgPM/6IsYKfNt7oSNcVP\nPkG8YIAXRP61NccjpqgkMcfmEykxMWeoI84tMw3gWhU=\n=+oBO\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0kp6oZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2LbNDACYZ8kF4CW2L8o6q2tzLcgg\nZ9dWm7oo7N1KgTJbhgmlFAh1eB7/dIJRmYUt5Zo1UM4soMO+LT4yABSUPZyeoMV0\neY5VPkSPo0pSaN8oS1ryArntyikFOLVzKq+iPP7pasUeTvGbuJj/uYxAaU9kocUA\nOSBl24gGq19zx8+fmE8cm1m+EFj2DncIgqzt+v6jgPJo9o1iFZlmV8XeKzVORPDf\ntCDdBLLhqxqlDX4eroxfdokWUhfU0iTnBuSj5z2pAnmhHKE+VqpWCsHDKocb1YjR\nG38PE78Qw43p8zyr2Oxzv0R3gjEl49znn2RpdZ+NuTkHCgr7/sFyR6xMNlyukGeD\nGGyhdjsi5Uu01jSE3BVItSKE9JYPSGwczJNL78lmrZ60srhP/nq3HNp3AmEDlmS+\noOYMqXTpi+G6QU7gWSQm8Y5hwByYW5Kl36sL4zh75pCNkgPM/6IsYKfNt7oSNcVP\nPkG8YIAXRP61NccjpqgkMcfmEykxMWeoI84tMw3gWhU=\n=+oBO\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e33744ac2d28d23e1e7951c50deaf07806665023\ntype commit\ntag 4.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1562683306 +0000\n\nironic-python-agent 4.0.0 release\n\nmeta:version: 4.0.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Commit: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Change-Id: I365e242cad93f76aa5ad88ec420008afa40d1f29\nmeta:release:Code-Review+1: Riccardo Pittau <elfosardo@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}
