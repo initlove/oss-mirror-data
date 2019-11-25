@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTAwNjUwNjphZmQ5ZWMxNTIyNWQ4OGIyZmQxYWRiYzJlYjVhNzEwNWZiODAzNjVm",
+  "sha": "afd9ec15225d88b2fd1adbc2eb5a7105fb80365f",
+  "url": "https://api.github.com/repos/openstack/pbr/git/tags/afd9ec15225d88b2fd1adbc2eb5a7105fb80365f",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-07-23T22:17:08Z"
+  },
+  "object": {
+    "sha": "6f5c1ee8e4e9c1c05f16b7dfe57c3245ad38b0cf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/pbr/git/commits/6f5c1ee8e4e9c1c05f16b7dfe57c3245ad38b0cf"
+  },
+  "tag": "4.2.0",
+  "message": "pbr 4.2.0 release\n\nmeta:version: 4.2.0\nmeta:diff-start: -\nmeta:series: independent\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Iadc390834197dde366b842857f98912a5a1c8a7c\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbVlPkAAoJEMNs3LTfAMaM5L4H/33Hgn23F+DJG0U6p0RYWV7c\nJQ1ir9vnM605uhTMfa7f7TzLyCXQP+XQJxdziLVbY9iF98A4vdje3hWdUcC2ThSg\nKSMSffEeKzU183UJBkIownF2+EoxOa9QpnE+VQb6juS0sygVKC36Vy8/kujyz7JT\nVrYwDGtNFTIREeuWgCzFIVZWarXc3PO0xBIGDpbkyA1H3L7RvRHUXxxf9O67VIkx\n5mrgcMyaQIiUEkFVOe/XfyJ5JOpRoy1QU3zGe49N9C39NNm4acXeZsVlcjlblP3R\ne60fmFMxjweVBabg4CAn2FrgPalOyNF5en+dS4msyM3+b5FEeRSKA9P/cxN/m2I=\n=18GX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbVlPkAAoJEMNs3LTfAMaM5L4H/33Hgn23F+DJG0U6p0RYWV7c\nJQ1ir9vnM605uhTMfa7f7TzLyCXQP+XQJxdziLVbY9iF98A4vdje3hWdUcC2ThSg\nKSMSffEeKzU183UJBkIownF2+EoxOa9QpnE+VQb6juS0sygVKC36Vy8/kujyz7JT\nVrYwDGtNFTIREeuWgCzFIVZWarXc3PO0xBIGDpbkyA1H3L7RvRHUXxxf9O67VIkx\n5mrgcMyaQIiUEkFVOe/XfyJ5JOpRoy1QU3zGe49N9C39NNm4acXeZsVlcjlblP3R\ne60fmFMxjweVBabg4CAn2FrgPalOyNF5en+dS4msyM3+b5FEeRSKA9P/cxN/m2I=\n=18GX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6f5c1ee8e4e9c1c05f16b7dfe57c3245ad38b0cf\ntype commit\ntag 4.2.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1532384228 +0000\n\npbr 4.2.0 release\n\nmeta:version: 4.2.0\nmeta:diff-start: -\nmeta:series: independent\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Iadc390834197dde366b842857f98912a5a1c8a7c\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

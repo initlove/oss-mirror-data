@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDg0ODkzMzM6YTUzNjc2ZmNmMWUxNzAwNzlmNjY5ODY1YjU4YTI5NWFmMjdmZmQyMQ==",
+  "sha": "a53676fcf1e170079f669865b58a295af27ffd21",
+  "url": "https://api.github.com/repos/openstack/python-aodhclient/git/tags/a53676fcf1e170079f669865b58a295af27ffd21",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-30T14:21:54Z"
+  },
+  "object": {
+    "sha": "ec0ee160cffccfda07609e44e0eb998238031204",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-aodhclient/git/commits/ec0ee160cffccfda07609e44e0eb998238031204"
+  },
+  "tag": "1.4.0",
+  "message": "python-aodhclient 1.4.0 release\n\nmeta:version: 1.4.0\nmeta:diff-start: -\nmeta:series: ussuri\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Simon Merrick <simonmerrick@catalyst.net.nz>\nmeta:release:Commit: Simon Merrick <simonmerrick@catalyst.net.nz>\nmeta:release:Change-Id: Ib14db0c2344db6f1c664fd22235303eb9c7c6f29\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl25nIIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHGvtDADAZTGWPZ2MnHOf8u41B5fW\nSiC/1732ZPHrXBusor8OFJlm2+ll0np4c8oCv6/eM+b0GFd3/S7KpxqH2bR3+n/+\nH7v41sQdSfm79b8TsHADF7fr3j7NzDVWa3qqAXKcz/dZ/TPLw0NiMUfLGzVv67ve\n+pi8vtI5JMKBIwm/EwYe2C4neRiSDUWoYB8sPwqlvjnLRE2zBqxLPgCKr6M8uUny\nctIdYVUsl5cRGsM+2xxlLqKgu/xgTjGcAIt0mC/Il/P6zublTeLvHbuxjGULLoVr\nq4YpDAA/osEcGQfQpWNSRaCCs+SUjm5xg+YtCopTE0unvsH+ffu8nBMhXK8zy260\n2pOXm9GSeQOjc2IWqu6/JCSmZp2EMug8dST6gHP/hMiYtkLCaSk10oqqYdfqds9R\nbLQWeSaulFUwQHirdQ0ewI7u0T6xLCeFA7EqinpHf5mbZZAWpnUOw+MC55bA+rZo\nDsmyoIlXQkyhMgHevv9/daC00uSmIgGHlqkbTyeZlco=\n=piPL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl25nIIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHGvtDADAZTGWPZ2MnHOf8u41B5fW\nSiC/1732ZPHrXBusor8OFJlm2+ll0np4c8oCv6/eM+b0GFd3/S7KpxqH2bR3+n/+\nH7v41sQdSfm79b8TsHADF7fr3j7NzDVWa3qqAXKcz/dZ/TPLw0NiMUfLGzVv67ve\n+pi8vtI5JMKBIwm/EwYe2C4neRiSDUWoYB8sPwqlvjnLRE2zBqxLPgCKr6M8uUny\nctIdYVUsl5cRGsM+2xxlLqKgu/xgTjGcAIt0mC/Il/P6zublTeLvHbuxjGULLoVr\nq4YpDAA/osEcGQfQpWNSRaCCs+SUjm5xg+YtCopTE0unvsH+ffu8nBMhXK8zy260\n2pOXm9GSeQOjc2IWqu6/JCSmZp2EMug8dST6gHP/hMiYtkLCaSk10oqqYdfqds9R\nbLQWeSaulFUwQHirdQ0ewI7u0T6xLCeFA7EqinpHf5mbZZAWpnUOw+MC55bA+rZo\nDsmyoIlXQkyhMgHevv9/daC00uSmIgGHlqkbTyeZlco=\n=piPL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ec0ee160cffccfda07609e44e0eb998238031204\ntype commit\ntag 1.4.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572445314 +0000\n\npython-aodhclient 1.4.0 release\n\nmeta:version: 1.4.0\nmeta:diff-start: -\nmeta:series: ussuri\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Simon Merrick <simonmerrick@catalyst.net.nz>\nmeta:release:Commit: Simon Merrick <simonmerrick@catalyst.net.nz>\nmeta:release:Change-Id: Ib14db0c2344db6f1c664fd22235303eb9c7c6f29\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

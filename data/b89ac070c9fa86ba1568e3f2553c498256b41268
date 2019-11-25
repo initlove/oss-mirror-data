@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzc0OTI3OmI4OWFjMDcwYzlmYTg2YmExNTY4ZTNmMjU1M2M0OTgyNTZiNDEyNjg=",
+  "sha": "b89ac070c9fa86ba1568e3f2553c498256b41268",
+  "url": "https://api.github.com/repos/erlang/otp/git/tags/b89ac070c9fa86ba1568e3f2553c498256b41268",
+  "tagger": {
+    "name": "Erlang/OTP",
+    "email": "otp@erlang.org",
+    "date": "2016-12-09T10:45:24Z"
+  },
+  "object": {
+    "sha": "3473ecd83a7bbe7e0bebb865f25dddb93e3bf10f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/erlang/otp/git/commits/3473ecd83a7bbe7e0bebb865f25dddb93e3bf10f"
+  },
+  "tag": "OTP-19.2",
+  "message": "=== OTP-19.2 ===\n\nChanged Applications:\n- common_test-1.13\n- compiler-7.0.3\n- crypto-3.7.2\n- dialyzer-3.0.3\n- edoc-0.8.1\n- erl_docgen-0.6.1\n- erl_interface-3.9.2\n- erts-8.2\n- eunit-2.3.2\n- hipe-3.15.3\n- inets-6.3.4\n- kernel-5.1.1\n- mnesia-4.14.2\n- observer-2.3\n- odbc-2.12\n- parsetools-2.1.4\n- public_key-1.3\n- runtime_tools-1.11\n- sasl-3.0.2\n- ssh-4.4\n- ssl-8.1\n- stdlib-3.2\n- syntax_tools-2.1.1\n- tools-2.9\n- wx-1.8\n\nUnchanged Applications:\n- asn1-4.0.4\n- cosEvent-2.2.1\n- cosEventDomain-1.2.1\n- cosFileTransfer-1.2.1\n- cosNotification-1.2.2\n- cosProperty-1.2.1\n- cosTime-1.2.2\n- cosTransactions-1.3.2\n- debugger-4.2.1\n- diameter-1.12.1\n- eldap-1.2.2\n- et-1.6\n- gs-1.6.2\n- ic-4.4.2\n- jinterface-1.7.1\n- megaco-3.18.1\n- orber-3.8.2\n- os_mon-2.4.1\n- otp_mibs-1.1.1\n- percept-0.9\n- reltool-0.7.2\n- snmp-5.2.4\n- typer-0.9.11\n- xmerl-1.3.12\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

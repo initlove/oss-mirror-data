@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA2OTg1ODQ6YTllNzJjZTViY2Q5ZjBkYTA0MmI2YzA2ZTE0MGE3MTU1ZmRiM2I3Nw==",
+  "sha": "a9e72ce5bcd9f0da042b6c06e140a7155fdb3b77",
+  "url": "https://api.github.com/repos/openstack/python-troveclient/git/tags/a9e72ce5bcd9f0da042b6c06e140a7155fdb3b77",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-26T12:55:54Z"
+  },
+  "object": {
+    "sha": "e30e8db7e7e79e6409c22d4ea8c80e0ff5cc4672",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-troveclient/git/commits/e30e8db7e7e79e6409c22d4ea8c80e0ff5cc4672"
+  },
+  "tag": "queens-em",
+  "message": "python-troveclient queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I4aadd645aac3553264a44a56780b2eec194a316b\nmeta:release:Code-Review+1: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl20QloZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2ODCDADRCQXWR6iQs4AxIQkMkrG4\nHre3ToUQuT+miGlesCnxaK6Fc9mjtJUsX5LQjtQs1gMh2Ob0kLtjhu67Fj5Ya4f/\n5Hvy9HuYuISxpkUkOvXr4OTl4Uh6wFmA1NVoig1z+l6jDNBXul25E55AddYyArz8\nk6uwyPSVY6/2/gslDnejRxOv5b8hSPR+/TiNTH1r0doAzX+8CxCXcwAzb7NZB1HJ\nh70CWbXBzb9PHK8iM1N+UJPy5rwQXSpKO7jKQwgZSqjaFqEsHNOC8fjxajTyIr/G\nkDXJzybLuAntjDLGLkwnCBa854EqsCgZ1Mm7QnAAAmbPo8RwUUxnL9BjNOj1GTzu\n1//j3XnAxhRZlGgmory/yzS2FwTL8azlMFoK75TptVXjI1wflUwXY9qG4dymAHQA\nyMjPyOEFxBMYeQ0BSedmleuHYSpydCIQT6HdeoAUKcXWBxwj8u2x9KFWIAUFBw1N\nhK8uHzlCM1pBrJyCJHgg5VjY/oeQxNTrqLUlvp78Sxs=\n=Nc40\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl20QloZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2ODCDADRCQXWR6iQs4AxIQkMkrG4\nHre3ToUQuT+miGlesCnxaK6Fc9mjtJUsX5LQjtQs1gMh2Ob0kLtjhu67Fj5Ya4f/\n5Hvy9HuYuISxpkUkOvXr4OTl4Uh6wFmA1NVoig1z+l6jDNBXul25E55AddYyArz8\nk6uwyPSVY6/2/gslDnejRxOv5b8hSPR+/TiNTH1r0doAzX+8CxCXcwAzb7NZB1HJ\nh70CWbXBzb9PHK8iM1N+UJPy5rwQXSpKO7jKQwgZSqjaFqEsHNOC8fjxajTyIr/G\nkDXJzybLuAntjDLGLkwnCBa854EqsCgZ1Mm7QnAAAmbPo8RwUUxnL9BjNOj1GTzu\n1//j3XnAxhRZlGgmory/yzS2FwTL8azlMFoK75TptVXjI1wflUwXY9qG4dymAHQA\nyMjPyOEFxBMYeQ0BSedmleuHYSpydCIQT6HdeoAUKcXWBxwj8u2x9KFWIAUFBw1N\nhK8uHzlCM1pBrJyCJHgg5VjY/oeQxNTrqLUlvp78Sxs=\n=Nc40\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e30e8db7e7e79e6409c22d4ea8c80e0ff5cc4672\ntype commit\ntag queens-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572094554 +0000\n\npython-troveclient queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I4aadd645aac3553264a44a56780b2eec194a316b\nmeta:release:Code-Review+1: Lingxian Kong <anlin.kong@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

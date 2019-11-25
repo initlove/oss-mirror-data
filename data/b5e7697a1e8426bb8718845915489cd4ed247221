@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDY5MTgxMTY6YjVlNzY5N2ExZTg0MjZiYjg3MTg4NDU5MTU0ODljZDRlZDI0NzIyMQ==",
+  "sha": "b5e7697a1e8426bb8718845915489cd4ed247221",
+  "url": "https://api.github.com/repos/microsoft/CNTK/git/tags/b5e7697a1e8426bb8718845915489cd4ed247221",
+  "tagger": {
+    "name": "Spandan Tiwari",
+    "email": "sptiwari@microsoft.com",
+    "date": "2018-08-10T21:45:54Z"
+  },
+  "object": {
+    "sha": "b7811d3549a8b7c97841bbc5ef475241ff03139d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/microsoft/CNTK/git/commits/b7811d3549a8b7c97841bbc5ef475241ff03139d"
+  },
+  "tag": "onnx1.0",
+  "message": "Create checkpoint for ONNX.\\n\\nBefore this commit ONNX importer created input variables with batch axis.\\n\\nAfter this commit ONNX code moved on to using input variables without batch axis.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

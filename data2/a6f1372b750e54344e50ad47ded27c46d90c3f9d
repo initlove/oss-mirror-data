@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkwMDE5OmE2ZjEzNzJiNzUwZTU0MzQ0ZTUwYWQ0N2RlZDI3YzQ2ZDkwYzNmOWQ=",
+  "sha": "a6f1372b750e54344e50ad47ded27c46d90c3f9d",
+  "url": "https://api.github.com/repos/openstack/swift/git/tags/a6f1372b750e54344e50ad47ded27c46d90c3f9d",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-12-17T20:51:44Z"
+  },
+  "object": {
+    "sha": "184fdf17ef7490038e89fe92a92de0fe4f2b36b7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/swift/git/commits/184fdf17ef7490038e89fe92a92de0fe4f2b36b7"
+  },
+  "tag": "2.20.0",
+  "message": "swift 2.20.0 release\n\nmeta:version: 2.20.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: John Dickinson <me@not.mn>\nmeta:release:Commit: John Dickinson <me@not.mn>\nmeta:release:Change-Id: I1d3f4d29376eddde6aaf9b52f3361c5909d283b7\nmeta:release:Code-Review+1: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Code-Review+1: Jeremy Stanley <fungi@yuggoth.org>\nmeta:release:Code-Review+1: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+1: foundjem <foundjem@ieee.org>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcGAxgAAoJEBpUEUgFTp44A7cL/jTMy5AHgifNdaC3qgFxm0Qc\nxv+1d6cSJmxfI+WAUf6YX1XOuTyrw56DNkpZUBYYP51ikYg72OiiMVQ7UhGmjb9n\nFEIZRIwP3/H+6N6l5x7UJ3W50YFfx4Gu+aF35uRPivOOgPixzIFPrG1vlahDGBIz\n4/7XMDx2fZpWpqMOGDdSDdWGQmspu71wjGO7MPS49xGexpMPopFPfWAoJPgX34Qs\nb6BHz/utSuFYF8rMu4SnOLvjEtx5xWispSxf8xeQgPz7zJFJ3O9o0fIX7czaoXl0\nLwRLUEX8a1mhDYtJCpRrbjpR1gDpGDETO3EQgulw8pRCdJHPOAGYClCIb8SN9zX+\n2YkZcltSWcbG74K8UCNxEILiTAgu6LhUgX/+QaDZbyiKsBvLsaPR855k+RsLZHju\nFcaZ73a2WaYl1xpHSoTWb6aI2JfLqDp00ty6yf7nyGk+XXuD0Zg7dY2ILsYhfTRz\nsUVXUmPJDtZzvD0SKlb2Ib7dp7Xpr6Xm69rxk52loQ==\n=HZ9D\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcGAxgAAoJEBpUEUgFTp44A7cL/jTMy5AHgifNdaC3qgFxm0Qc\nxv+1d6cSJmxfI+WAUf6YX1XOuTyrw56DNkpZUBYYP51ikYg72OiiMVQ7UhGmjb9n\nFEIZRIwP3/H+6N6l5x7UJ3W50YFfx4Gu+aF35uRPivOOgPixzIFPrG1vlahDGBIz\n4/7XMDx2fZpWpqMOGDdSDdWGQmspu71wjGO7MPS49xGexpMPopFPfWAoJPgX34Qs\nb6BHz/utSuFYF8rMu4SnOLvjEtx5xWispSxf8xeQgPz7zJFJ3O9o0fIX7czaoXl0\nLwRLUEX8a1mhDYtJCpRrbjpR1gDpGDETO3EQgulw8pRCdJHPOAGYClCIb8SN9zX+\n2YkZcltSWcbG74K8UCNxEILiTAgu6LhUgX/+QaDZbyiKsBvLsaPR855k+RsLZHju\nFcaZ73a2WaYl1xpHSoTWb6aI2JfLqDp00ty6yf7nyGk+XXuD0Zg7dY2ILsYhfTRz\nsUVXUmPJDtZzvD0SKlb2Ib7dp7Xpr6Xm69rxk52loQ==\n=HZ9D\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 184fdf17ef7490038e89fe92a92de0fe4f2b36b7\ntype commit\ntag 2.20.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1545079904 +0000\n\nswift 2.20.0 release\n\nmeta:version: 2.20.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: John Dickinson <me@not.mn>\nmeta:release:Commit: John Dickinson <me@not.mn>\nmeta:release:Change-Id: I1d3f4d29376eddde6aaf9b52f3361c5909d283b7\nmeta:release:Code-Review+1: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Code-Review+1: Jeremy Stanley <fungi@yuggoth.org>\nmeta:release:Code-Review+1: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+1: foundjem <foundjem@ieee.org>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTA4ODkzOmFjNzVlZWMyNDg4ODE5MjcxN2NmZWEyNWU3N2E0NGU5OTZhYjRiYTQ=",
+  "sha": "ac75eec24888192717cfea25e77a44e996ab4ba4",
+  "url": "https://api.github.com/repos/NodeRedis/node_redis/git/tags/ac75eec24888192717cfea25e77a44e996ab4ba4",
+  "tagger": {
+    "name": "Matt Ranney",
+    "email": "mjr@ranney.com",
+    "date": "2011-11-15T06:41:57Z"
+  },
+  "object": {
+    "sha": "a4e8c748dfca77b67d351401d1bc37bcdddbf163",
+    "type": "commit",
+    "url": "https://api.github.com/repos/NodeRedis/node_redis/git/commits/a4e8c748dfca77b67d351401d1bc37bcdddbf163"
+  },
+  "tag": "v0.7.0",
+  "message": "Many contributed fixes. Thanks everybody.\n\n* [GH-127] - properly re-initialize parser on reconnect\n* [GH-136] - handle passing undefined as callback (Ian Babrou)\n* [GH-139] - properly handle exceptions thrown in pub/sub event handlers (Felix Geisendörfer)\n* [GH-141] - detect closing state on stream error (Felix Geisendörfer)\n* [GH-142] - re-select database on reconnection (Jean-Hugues Pinson)\n* [GH-146] - add sort example (Maksim Lin)\n\nSome more goodies:\n\n* Fix bugs with node 0.6\n* Performance improvements\n* New version of `multi_bench.js` that tests more realistic scenarios\n* [GH-140] - support optional callback for subscribe commands\n* Properly flush and error out command queue when connection fails\n* Initial work on reconnection thresholds\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

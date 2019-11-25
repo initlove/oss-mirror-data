@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjY2MDA3ODA6YTA3OTFjZjhjNzUxNjcwOTE3NWUwNWQ5NWI0YjFkOWIxYWYwN2I3Mg==",
+  "sha": "a0791cf8c7516709175e05d95b4b1d9b1af07b72",
+  "url": "https://api.github.com/repos/openstack/ironic-inspector/git/tags/a0791cf8c7516709175e05d95b4b1d9b1af07b72",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-20T14:49:31Z"
+  },
+  "object": {
+    "sha": "171cc5b52f9776fbed00f06ab3c5e860048c753b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic-inspector/git/commits/171cc5b52f9776fbed00f06ab3c5e860048c753b"
+  },
+  "tag": "8.2.0",
+  "message": "ironic-inspector 8.2.0 release\n\nmeta:version: 8.2.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Commit: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Change-Id: I8370e4378e3b1a8126efd0a4976b2d12b032e365\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlySUvsZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOI2jDACpLiv1stiSDJPZRIti7kxo\nE8xSLKVB9c9cnohhB+5Tln1e+ou1NsAwMnJCDGgRozikvYY5fdoH7od3OZCOLxmN\niObGcB2PMzgR56/33yIRMEwj9kEc36ZN7UCv07qiaHrhosuVGBFEbZKgzvX6K2Wb\nmP4ggLmUx3dApNPFxHZVbHimoKzLEgOjgAxXw0MH4DNPAXzaNguvo33abAKvr6Gm\n6zgUP7jD0nQBaDu3h5X5XU8b15D4epQx/wbOGI0EhjNEF6xQo3r9YgEGWx7bx7ml\nH273sdjccLuKVBBOJmDmLeBdS+ohPP1WDWZlvn+YCird4ixC/355uCFIBRe6LB7U\nKflCiX7wUtDSFzNOAwZ9iUpEfqkQof89YD1s89SyX2nE5E57/3/x9r1um3pTDKOK\naHPucOwPOQX90bydQUVfJXsekQyHEgsnFNZxOm8G9jYxcPjuUIP0bD/qRQ+mi5F/\nbCP+UZv52homBz3VsYTdpBWmydZJNOCAoFVrD/q1QhA=\n=VLfp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlySUvsZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOI2jDACpLiv1stiSDJPZRIti7kxo\nE8xSLKVB9c9cnohhB+5Tln1e+ou1NsAwMnJCDGgRozikvYY5fdoH7od3OZCOLxmN\niObGcB2PMzgR56/33yIRMEwj9kEc36ZN7UCv07qiaHrhosuVGBFEbZKgzvX6K2Wb\nmP4ggLmUx3dApNPFxHZVbHimoKzLEgOjgAxXw0MH4DNPAXzaNguvo33abAKvr6Gm\n6zgUP7jD0nQBaDu3h5X5XU8b15D4epQx/wbOGI0EhjNEF6xQo3r9YgEGWx7bx7ml\nH273sdjccLuKVBBOJmDmLeBdS+ohPP1WDWZlvn+YCird4ixC/355uCFIBRe6LB7U\nKflCiX7wUtDSFzNOAwZ9iUpEfqkQof89YD1s89SyX2nE5E57/3/x9r1um3pTDKOK\naHPucOwPOQX90bydQUVfJXsekQyHEgsnFNZxOm8G9jYxcPjuUIP0bD/qRQ+mi5F/\nbCP+UZv52homBz3VsYTdpBWmydZJNOCAoFVrD/q1QhA=\n=VLfp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 171cc5b52f9776fbed00f06ab3c5e860048c753b\ntype commit\ntag 8.2.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1553093371 +0000\n\nironic-inspector 8.2.0 release\n\nmeta:version: 8.2.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Commit: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Change-Id: I8370e4378e3b1a8126efd0a4976b2d12b032e365\nmeta:release:Code-Review+2: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkyMTcwNTQ6YWIzNDA5ZWRlYmVjNGU0YzJlZDBmOTBmZTVhYjMxZjRjYTE3ODE1ZQ==",
+  "sha": "ab3409edebec4e4c2ed0f90fe5ab31f4ca17815e",
+  "url": "https://api.github.com/repos/micro/go-micro/git/tags/ab3409edebec4e4c2ed0f90fe5ab31f4ca17815e",
+  "tagger": {
+    "name": "Asim Aslam",
+    "email": "asim@aslam.me",
+    "date": "2019-06-03T15:07:08Z"
+  },
+  "object": {
+    "sha": "fe060b2d0b4af39dd5827f981a3d525507b819ea",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micro/go-micro/git/commits/fe060b2d0b4af39dd5827f981a3d525507b819ea"
+  },
+  "tag": "v1.3.1",
+  "message": "- Fix broken pipe bug. Don't send message when client closed connection.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzAyNTIxNDphYTFkYWI3NTAyMWJiNzMwMzgwMmEzYzA4MWUxNGEzOTI2ZWJjZGU1",
+  "sha": "aa1dab75021bb7303802a3c081e14a3926ebcde5",
+  "url": "https://api.github.com/repos/openstack/python-ceilometerclient/git/tags/aa1dab75021bb7303802a3c081e14a3926ebcde5",
+  "tagger": {
+    "name": "Eoghan Glynn",
+    "email": "eglynn@redhat.com",
+    "date": "2013-12-02T15:08:54Z"
+  },
+  "object": {
+    "sha": "35e20cbfb27b7df86a88ca6f106ee4d690fb2679",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ceilometerclient/git/commits/35e20cbfb27b7df86a88ca6f106ee4d690fb2679"
+  },
+  "tag": "1.0.8",
+  "message": "python-ceilometerclient 1.0.8\n\nIncludes the following changes:\n\n * sync with oslo-incubator\n * Change OpenStack Metering to OpenStack Telemetry\n * Add HTTP proxy support to ceilometer client\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.13 (GNU/Linux)\n\niQEcBAABAgAGBQJSnKKSAAoJEDhh/+3vk6grY3QH/R3agIE9PP01H8yRVVp2Sgb1\ngUIqp6I5YTkzM8VAWJi1zFIneQjrGcYI9wp2uXRuEaGQvW38wclTSwTt1U3cZzX4\nborQSw5ErJ3HELOYt9hCToTbwgR208tADlSK5VRldYYN4Fxid91K/hFDDu9W9V/P\nRwBgrjBoqeq/Wwtgj99BPJQkzMF3R085YrbX1zKHYS0+Z4SJahDscR920SKYsMms\nMHR+G1C4fWNQ57NAO+98D1bLvd+fN8imV93uRUEKzz/nzGvr8zo3cQb5NB8TOkBY\nloDcr1BQBHQd2lojp1j6L8u9rCd+9uiPvVeB2ue9f+vveADcGq2PatdcQCoZ1cI=\n=nS+6\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.13 (GNU/Linux)\n\niQEcBAABAgAGBQJSnKKSAAoJEDhh/+3vk6grY3QH/R3agIE9PP01H8yRVVp2Sgb1\ngUIqp6I5YTkzM8VAWJi1zFIneQjrGcYI9wp2uXRuEaGQvW38wclTSwTt1U3cZzX4\nborQSw5ErJ3HELOYt9hCToTbwgR208tADlSK5VRldYYN4Fxid91K/hFDDu9W9V/P\nRwBgrjBoqeq/Wwtgj99BPJQkzMF3R085YrbX1zKHYS0+Z4SJahDscR920SKYsMms\nMHR+G1C4fWNQ57NAO+98D1bLvd+fN8imV93uRUEKzz/nzGvr8zo3cQb5NB8TOkBY\nloDcr1BQBHQd2lojp1j6L8u9rCd+9uiPvVeB2ue9f+vveADcGq2PatdcQCoZ1cI=\n=nS+6\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 35e20cbfb27b7df86a88ca6f106ee4d690fb2679\ntype commit\ntag 1.0.8\ntagger Eoghan Glynn <eglynn@redhat.com> 1385996934 +0000\n\npython-ceilometerclient 1.0.8\n\nIncludes the following changes:\n\n * sync with oslo-incubator\n * Change OpenStack Metering to OpenStack Telemetry\n * Add HTTP proxy support to ceilometer client\n"
+  }
+}

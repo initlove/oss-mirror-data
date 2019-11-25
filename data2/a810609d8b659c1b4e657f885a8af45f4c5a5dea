@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2NzphODEwNjA5ZDhiNjU5YzFiNGU2NTdmODg1YThhZjQ1ZjRjNWE1ZGVh",
+  "sha": "a810609d8b659c1b4e657f885a8af45f4c5a5dea",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/a810609d8b659c1b4e657f885a8af45f4c5a5dea",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2016-02-25T17:17:19Z"
+  },
+  "object": {
+    "sha": "01026756a45db4c83d2928bfbf6cae9913947a18",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/01026756a45db4c83d2928bfbf6cae9913947a18"
+  },
+  "tag": "8.0.3",
+  "message": "Released v8.0.3\n\n* Make ``install --quiet`` really quiet. See :issue:`3418`.\n\n* Fix a bug when removing packages in python 3: disable INI-style parsing of the\n  entry_point.txt file to allow entry point names with colons (:pull:`3434`)\n\n* Normalize generated script files path in RECORD files. (:pull:`3448`)\n\n* Fix bug introduced in 8.0.0 where subcommand output was not shown,\n  even when the user specified ``-v`` / ``--verbose``. :issue:`3486`.\n\n* Enable python -W with respect to PipDeprecationWarning. (:pull:`3455`)\n\n* Upgrade distlib to 0.2.2 (fix :issue:`3467`):\n\n  * Improved support for Jython when quoting executables in output scripts.\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJWzzdcAAoJEG48vOkzctz63z8P/1upLZ2r5UGrIp51yxhqm9R8\nK2JBiph1lF5ozaQan41WUm+pGos+5lIFPW+ca8PnOu1WkPjE3VzElCqVPewQU5jL\neRG0HZhyn36Axul//stAtkhCENKfLKyZuFJZVLdTULmmXlidbHQr/PmPLdIUtRFB\nLac0gmzxBEtkG14j3MuLT6CkGroAd2zNyXbbqSwYKwY0ajkzJSn4tx86FA5NRL4g\nQDGc+ZayJEmbQ33albuQYm7JQD0mCe/9CgIMIQOa68qylAeG4Dz3o1oxLcOJ6DcS\n2QT06mxB9ygOBd6R8RDqmhJNL9+0lTPkh1jdj7annujqBvEPVJL4PI3UWFmBCa99\nDqP1D+yYY2P0jGJNmVCySbSMy5qsYtyKXH37ACKd5UZXGbOChw5YshMxCiY7/59y\nyygla+lfylTnHdhyT2mUK270ZvcKUh8spu2FVLQ/fDz1+wW3kOtk96YjLMC1T8G+\nO5+lYWqY76uG+u/oVJxumjfMmGy2nyEizTzWwccl0G3HMlzRfNFtbdEZJ8K9ByTF\n3siPztEXu40gs/fB15qVxh3Ln+6lnPcIlW2XuWF+C89E3hpoPakpytDlcYlhieqS\nOWLZayUkp0hSZ9zIJdL5y4SU6oeDiqirh1d1XBwNQhPn6fdJ1DbI9cAP2sABsL+5\nezb3iw9roit3+2N7n270\n=Hb38\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJWzzdcAAoJEG48vOkzctz63z8P/1upLZ2r5UGrIp51yxhqm9R8\nK2JBiph1lF5ozaQan41WUm+pGos+5lIFPW+ca8PnOu1WkPjE3VzElCqVPewQU5jL\neRG0HZhyn36Axul//stAtkhCENKfLKyZuFJZVLdTULmmXlidbHQr/PmPLdIUtRFB\nLac0gmzxBEtkG14j3MuLT6CkGroAd2zNyXbbqSwYKwY0ajkzJSn4tx86FA5NRL4g\nQDGc+ZayJEmbQ33albuQYm7JQD0mCe/9CgIMIQOa68qylAeG4Dz3o1oxLcOJ6DcS\n2QT06mxB9ygOBd6R8RDqmhJNL9+0lTPkh1jdj7annujqBvEPVJL4PI3UWFmBCa99\nDqP1D+yYY2P0jGJNmVCySbSMy5qsYtyKXH37ACKd5UZXGbOChw5YshMxCiY7/59y\nyygla+lfylTnHdhyT2mUK270ZvcKUh8spu2FVLQ/fDz1+wW3kOtk96YjLMC1T8G+\nO5+lYWqY76uG+u/oVJxumjfMmGy2nyEizTzWwccl0G3HMlzRfNFtbdEZJ8K9ByTF\n3siPztEXu40gs/fB15qVxh3Ln+6lnPcIlW2XuWF+C89E3hpoPakpytDlcYlhieqS\nOWLZayUkp0hSZ9zIJdL5y4SU6oeDiqirh1d1XBwNQhPn6fdJ1DbI9cAP2sABsL+5\nezb3iw9roit3+2N7n270\n=Hb38\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 01026756a45db4c83d2928bfbf6cae9913947a18\ntype commit\ntag 8.0.3\ntagger Donald Stufft <donald@stufft.io> 1456420639 -0500\n\nReleased v8.0.3\n\n* Make ``install --quiet`` really quiet. See :issue:`3418`.\n\n* Fix a bug when removing packages in python 3: disable INI-style parsing of the\n  entry_point.txt file to allow entry point names with colons (:pull:`3434`)\n\n* Normalize generated script files path in RECORD files. (:pull:`3448`)\n\n* Fix bug introduced in 8.0.0 where subcommand output was not shown,\n  even when the user specified ``-v`` / ``--verbose``. :issue:`3486`.\n\n* Enable python -W with respect to PipDeprecationWarning. (:pull:`3455`)\n\n* Upgrade distlib to 0.2.2 (fix :issue:`3467`):\n\n  * Improved support for Jython when quoting executables in output scripts.\n"
+  }
+}

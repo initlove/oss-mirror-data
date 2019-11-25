@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY5NTg4OTE6YTZiYmVhMDA0YzU3ZTBhOTMwNmRjNDU3MWZjZGIzMzhmMmVhZTY0Zg==",
+  "sha": "a6bbea004c57e0a9306dc4571fcdb338f2eae64f",
+  "url": "https://api.github.com/repos/openstack/automaton/git/tags/a6bbea004c57e0a9306dc4571fcdb338f2eae64f",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-06-19T19:00:35Z"
+  },
+  "object": {
+    "sha": "f33976e904237c5d65438a12166d85e070484ccf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/automaton/git/commits/f33976e904237c5d65438a12166d85e070484ccf"
+  },
+  "tag": "1.10.0",
+  "message": "automaton 1.10.0 release\n\nmeta:version: 1.10.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Change-Id: I3d02741451684f171611963e7eac5537b91dd6fa\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZSB9TAAoJEOtsyhSD+nTsat8H/169Erwqp4Y5jQ4ZjPsFhxdo\n6TzZptj+rvjkVgH5eKa/kT25YzBHJFNoit20HhK1ovPlwyK7HU5eyw/3kkWUWbPd\nLu90qenhkqqZBnpGrhchtUJnIos0Cwif4bnx+inSsFxSiEaySCnT5kHefpp9q5Pm\n9Zc2SODMNzSz94/duik366BV0Lrs/CRQmwHojScg5vky4lFlIwXdjIfBap/Xigt8\nfQBOxLShouN/Hae5o8Hulxr2BzGijvWUsiVOhV5/u4/f1ggzb3J4pQ8+LYJlI1sI\nOIn/72VovKOFRbOi/OlX68zCiV2DM8CZOyizq8MwIC/WJGgiHogtaz9d/MJKf5s=\n=sy2n\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZSB9TAAoJEOtsyhSD+nTsat8H/169Erwqp4Y5jQ4ZjPsFhxdo\n6TzZptj+rvjkVgH5eKa/kT25YzBHJFNoit20HhK1ovPlwyK7HU5eyw/3kkWUWbPd\nLu90qenhkqqZBnpGrhchtUJnIos0Cwif4bnx+inSsFxSiEaySCnT5kHefpp9q5Pm\n9Zc2SODMNzSz94/duik366BV0Lrs/CRQmwHojScg5vky4lFlIwXdjIfBap/Xigt8\nfQBOxLShouN/Hae5o8Hulxr2BzGijvWUsiVOhV5/u4/f1ggzb3J4pQ8+LYJlI1sI\nOIn/72VovKOFRbOi/OlX68zCiV2DM8CZOyizq8MwIC/WJGgiHogtaz9d/MJKf5s=\n=sy2n\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f33976e904237c5d65438a12166d85e070484ccf\ntype commit\ntag 1.10.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1497898835 +0000\n\nautomaton 1.10.0 release\n\nmeta:version: 1.10.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Change-Id: I3d02741451684f171611963e7eac5537b91dd6fa\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

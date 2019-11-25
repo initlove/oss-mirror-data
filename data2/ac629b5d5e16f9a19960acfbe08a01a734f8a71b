@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTphYzYyOWI1ZDVlMTZmOWExOTk2MGFjZmJlMDhhMDFhNzM0ZjhhNzFi",
+  "sha": "ac629b5d5e16f9a19960acfbe08a01a734f8a71b",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/ac629b5d5e16f9a19960acfbe08a01a734f8a71b",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-07-01T18:37:34Z"
+  },
+  "object": {
+    "sha": "329d104ceab914d186a54f3a8e61c23246cc5f2a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/329d104ceab914d186a54f3a8e61c23246cc5f2a"
+  },
+  "tag": "v1.1.159",
+  "message": "Release of 1.1.159\n\n- 329d104ceab914d186a54f3a8e61c23246cc5f2a: Merge pull request #542 from tbak/features/replication_batching\n- 4999bebdd5a02a5b35243af528d3387cf6e939b1: Merge remote-tracking branch 'remotes/netflix/master' into features/replication_batching\n- 7c9f6ea9f86d880a6aafb97a51850489878bbde3: Merge remote-tracking branch 'remotes/netflix/master' into features/replication_batching\n- 6ad03398450e873f795ba6490239b8d68d0a2ca3: Asg expiry time update\n- 1b3d9be1763c1a353ffa9f887b9d7f77b945f11b: Additional logging.\n- 14324a4c27927765ae3de28b9face9fd8a35d1d4: Merge remote-tracking branch 'remotes/netflix/master' into features/replication_batching\n- 575c896dfeb0bb95eda24a8af950aa7a4019916b: Fix status update batch replication.\n- 493b27de91b24a3fd5735afb2a27020ecfb109e0: Merge remote-tracking branch 'remotes/netflix/master' into features/replication_batching\n- 491cca0a5482727904ed89900585f0bdb17ba4c3: Heartbeat replication bug fix\n- 9bf51669248b70b1fee36f8c379c4d99be5f1025: Add omitted in the last merge update from master\n- 5344e8234774bf3b8441fa87316ee06c6af4f20b: Merge remote-tracking branch 'remotes/netflix/master' into features/replication_batching\n- 81aaebd412de6ee0377e5e7e945f539ba7ea734a: Check for null status in PeerReplicationResource.\n- 1475b3b6b9cb6a9a31f01b287a58c1c699fc91d4: Support dynamic change of gzip request encoding.\n- ef330737bc691eeb7af9f9627fabbacf53a9e145: Merge branch 'master' into features/replication_batching\n- 7ac504a97e62ae7d19240251909266d8ca0ab5cc: Bug fixes and minor updates.\n- 4e10b9a6bc26185fc4ee3da664a3b1e0690dbd6b: Fix gradle build (eureka-server test task depends on war).\n- 04d2caa9cde4e6856ea701ed0206e21a70e24d7a: Serialization code cleanup + REST layer integration tests.\n- 7926a6564b6c95184279a4dfdd7a18588efb141c: Merge remote-tracking branch 'remotes/netflix/master' into features/replication_batching\n- b2766563f4b103f2f3f134a65a846d8caa7dbfae: Refactor replication component - cnt.\n- 1fcd932bfb3f1dfab7abe6396150e1bbaaeb1d68: Refactor replication component.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

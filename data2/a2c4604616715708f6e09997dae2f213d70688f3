@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTphMmM0NjA0NjE2NzE1NzA4ZjZlMDk5OTdkYWUyZjIxM2Q3MDY4OGYz",
+  "sha": "a2c4604616715708f6e09997dae2f213d70688f3",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/a2c4604616715708f6e09997dae2f213d70688f3",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-03-01T01:37:11Z"
+  },
+  "object": {
+    "sha": "f8dc873c30050b62438af3528e9bd8f3cb33d4c0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/f8dc873c30050b62438af3528e9bd8f3cb33d4c0"
+  },
+  "tag": "v1.4.3-rc.2",
+  "message": "Release of 1.4.3-rc.2\n\n- f8dc873c30050b62438af3528e9bd8f3cb33d4c0: Merge pull request #759 from qiangdavidliu/master\n- afc770e73e846235ceee19660aa7fe037354355d: Add null check\n- 9c92b316d79d8b1529ab61c1f309ea6a5ede3332: Adding an ondemand instanceInfo update trigger when new HealthCheckHandlers are registered with EurekaClient\n- e3d23bda54eb0d6c1ab9f84790d555a299ecde2e: Merge pull request #757 from qiangdavidliu/master\n- fde5e6b789e2205d83fe65e7fbe3c44649e0da51: set instance status using applicationInfoManager instead of directly\n- 4faa3d9a2cf54fd8f83f74ff0e2cc04057d46074: Merge pull request #754 from william-tran/issue-753\n- edc94a78f904fc51c59b9261e988617657479c21: Sleep during syncUp only if necessary\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

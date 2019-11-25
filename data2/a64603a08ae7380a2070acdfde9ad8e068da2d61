@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTphNjQ2MDNhMDhhZTczODBhMjA3MGFjZGZkZTlhZDhlMDY4ZGEyZDYx",
+  "sha": "a64603a08ae7380a2070acdfde9ad8e068da2d61",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/a64603a08ae7380a2070acdfde9ad8e068da2d61",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-11-02T19:57:03Z"
+  },
+  "object": {
+    "sha": "e1e3d3dea3a8beacf174689fa29e1077d846659a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/e1e3d3dea3a8beacf174689fa29e1077d846659a"
+  },
+  "tag": "v1.3.4-rc.1",
+  "message": "Release of 1.3.4-rc.1\n\n- e1e3d3dea3a8beacf174689fa29e1077d846659a: Merge pull request #695 from tbak/master\n- da83372ab75cd2756c4c1861ecdb74715168ec8f: Remote data not fetched on the reconciliation path\n- d4d13aa5aa3aaacfa002e53078232cb3a8fa2797: Merge pull request #693 from tbak/master\n- 3aa8085a803fc36b22a9d8cdd19bc86753538506: Fix CLOSE_WAIT issue in new transport (use existing connection cleaner).\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

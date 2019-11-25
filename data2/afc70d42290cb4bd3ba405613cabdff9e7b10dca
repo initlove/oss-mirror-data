@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDE6YWZjNzBkNDIyOTBjYjRiZDNiYTQwNTYxM2NhYmRmZjllN2IxMGRjYQ==",
+  "sha": "afc70d42290cb4bd3ba405613cabdff9e7b10dca",
+  "url": "https://api.github.com/repos/openstack/ironic/git/tags/afc70d42290cb4bd3ba405613cabdff9e7b10dca",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-11-15T14:55:23Z"
+  },
+  "object": {
+    "sha": "0d944da575b8d493e5fef9ee63262b8ea5da44b8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic/git/commits/0d944da575b8d493e5fef9ee63262b8ea5da44b8"
+  },
+  "tag": "9.2.0",
+  "message": "ironic 9.2.0 release\n\nmeta:version: 9.2.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Commit: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Change-Id: I12a6fb8d9182fa0fa301e485a8367b69e14d997f\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaDFVbAAoJEEIeZHKBH5qB5PIH/1dqVmW90+7V2sJ+FkazQHa+\nJAsMy+Uet49H+2kFxRufyCyQ1dt24gmtMuQEVsmZLjiDock/JJFhsHc8/FM42mFF\nqHu2OPnfeblSCLWz/KIKKDHWoWMfTDT//wgfIpOFSuGedtotj9+TSRlyU2gvB7ut\nMqzsqr0myMAA2lVXN0ZNAdoeykpdRkSuwDjakN3n5wBP6o0lQP8FOwpgCrL8tnRi\ng3oxHKhs+Caj5xgOyKmgFBdkcgspw8SyuMod4q0g98aR57p+e3ckJCqmnyRj7BHQ\nFvYQhQqimlBbPeGBdW+dotJsH6R2PsxX4hUv7ZUVltKGQErl1Yaotbv8tbQiqh0=\n=TGO4\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaDFVbAAoJEEIeZHKBH5qB5PIH/1dqVmW90+7V2sJ+FkazQHa+\nJAsMy+Uet49H+2kFxRufyCyQ1dt24gmtMuQEVsmZLjiDock/JJFhsHc8/FM42mFF\nqHu2OPnfeblSCLWz/KIKKDHWoWMfTDT//wgfIpOFSuGedtotj9+TSRlyU2gvB7ut\nMqzsqr0myMAA2lVXN0ZNAdoeykpdRkSuwDjakN3n5wBP6o0lQP8FOwpgCrL8tnRi\ng3oxHKhs+Caj5xgOyKmgFBdkcgspw8SyuMod4q0g98aR57p+e3ckJCqmnyRj7BHQ\nFvYQhQqimlBbPeGBdW+dotJsH6R2PsxX4hUv7ZUVltKGQErl1Yaotbv8tbQiqh0=\n=TGO4\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0d944da575b8d493e5fef9ee63262b8ea5da44b8\ntype commit\ntag 9.2.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1510757723 +0000\n\nironic 9.2.0 release\n\nmeta:version: 9.2.0\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Commit: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Change-Id: I12a6fb8d9182fa0fa301e485a8367b69e14d997f\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

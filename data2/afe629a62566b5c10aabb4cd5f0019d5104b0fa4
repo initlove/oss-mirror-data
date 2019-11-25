@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTM4NjgxOmFmZTYyOWE2MjU2NmI1YzEwYWFiYjRjZDVmMDAxOWQ1MTA0YjBmYTQ=",
+  "sha": "afe629a62566b5c10aabb4cd5f0019d5104b0fa4",
+  "url": "https://api.github.com/repos/hierynomus/sshj/git/tags/afe629a62566b5c10aabb4cd5f0019d5104b0fa4",
+  "tagger": {
+    "name": "Jeroen van Erp",
+    "email": "jeroen@hierynomus.com",
+    "date": "2016-04-11T14:18:46Z"
+  },
+  "object": {
+    "sha": "fddc943565d78d5410f1178fea9f0c9a09d3ef63",
+    "type": "commit",
+    "url": "https://api.github.com/repos/hierynomus/sshj/git/commits/fddc943565d78d5410f1178fea9f0c9a09d3ef63"
+  },
+  "tag": "v0.16.0",
+  "message": "Release of 0.16.0\n\n- updated release notes\n- Release task depends on build and uploadArchives\n- Added gradle release and license plugins, and updated all license headers\n- Updated README with release notes.\n- Some cleanup\n- Fixed bug in Forward lookup in which we did not deal with the special cases (Fixes #239)\n- Added OSGI manifest to -sources.jar (Fixes #242)\n- Fixed javadoc warning\n- Attempt to fix race condition if a packet is received from the server immediately after successful auth (Fixes #237)\n- Fixed some Java7 warnings\n- Added callback to request updated password for a user in case of USERAUTH_PASSWD_CHANGEREQ (Fixes #193)\n- Added javadoc to indicate that close() should always be called on a Command, before inspecting the result(s) (Fixes #114)\n- Implemented switch for waiting on server ident before sending client ident. (Fixes #118)\n- Fixed potential race condition identified in #203\n- JavaDoc fixes\n- Organised some imports\n- Dropped Java6 support (Fixes #234)\n- Upgraded gradle to 2.12\n- Merge pull request #238 from hierynomus/issue-236\n- Fixed race condition in global request response handling\n- Added reproducing testcase\n- Added settings.gradle with project name\n- Ingoring integration test\n- Set to snapshot\n- Fixed typo in README\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

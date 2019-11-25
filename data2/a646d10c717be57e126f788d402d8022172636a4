@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2NzphNjQ2ZDEwYzcxN2JlNTdlMTI2Zjc4OGQ0MDJkODAyMjE3MjYzNmE0",
+  "sha": "a646d10c717be57e126f788d402d8022172636a4",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/a646d10c717be57e126f788d402d8022172636a4",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2016-01-21T19:34:11Z"
+  },
+  "object": {
+    "sha": "024cfe17e6685483a5a6abfc8983c086267a5a47",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/024cfe17e6685483a5a6abfc8983c086267a5a47"
+  },
+  "tag": "8.0.1",
+  "message": "Released v8.0.1\n\n* Detect CAPaths in addition to CAFiles on platforms that provide them.\n* Installing argparse or wsgiref will no longer warn or error - pip will allow\n  the installation even though it may be useless (since the installed thing\n  will be shadowed by the standard library).\n* Upgrading a distutils installed item that is installed outside of a virtual\n  environment, while inside of a virtual environment will no longer warn or\n  error.\n* Fix a bug where pre-releases were showing up in ``pip list --outdated``\n  without the ``--pre`` flag.\n* Switch the SOABI emulation from using RuntimeWarnings to debug logging.\n* Rollback the removal of the ability to uninstall distutils installed items\n  until a future date.\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJWoTLQAAoJEG48vOkzctz6X7EQAIoSzKjCh/gZ0zCxz5NtDHKG\nuwwbxTBXuIW+uTzGAR9y+nmgz7eLcTBNCN+Fhlwoih4/Wji2DXRKYxgixJzOIqNN\nI6snVhpsnd6b5RFVwH2aztC9qDCAi8kDxSleChPgTyJgt4G7qSZcNWL6B0xZFhy5\ntHr9r4cAEe/ROegJUg9lMpUkrEFIZcMXcPpZGmt7w62e9J8LnxPAadyXE4yt7sB3\nAlSLXvxrTR5x0+CF8Q2hNNxaI6Wyan/Vyk29AkMBuWR4qjK7mX4MN1qFrSc9LFeE\n8xHWP+RdabESlKYwa6BZHuFUqJBdZA42V7EgGAbJTHLAmJXplwwcLCy+9Pb7kDdk\n9atTxfte2YajLMx6TDAglmJTrZwYZ2HRDi1hjHwhA1rfvlLk9oQFQEKYnI49dekS\nFksby0PW9LfsNYXlzKvd7kQNynkiPYhOzEflCld/wJ19/+0b93LBSI77bVPagj6W\n/1hT7Pvj3SNPlU7kPNoeWGf+as0ppWAcfqg+BUhVl9AhPVQWIUu56J4+vzoh0lAd\nTjZhyHLeBPbIvc9K22mhyl8jMNJeamegsgkSCb5QYNSkYJIZBKmGiZ8fOkwPylWg\nXoFBgWHS3oZS1fpuhwXwtbPNxcGFrluk4Y0hJI9WQ3xeLd0GKS2nwXgD+XFqCI6A\ntKg7Xktsu1LjZG2t7nhB\n=2Nl3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJWoTLQAAoJEG48vOkzctz6X7EQAIoSzKjCh/gZ0zCxz5NtDHKG\nuwwbxTBXuIW+uTzGAR9y+nmgz7eLcTBNCN+Fhlwoih4/Wji2DXRKYxgixJzOIqNN\nI6snVhpsnd6b5RFVwH2aztC9qDCAi8kDxSleChPgTyJgt4G7qSZcNWL6B0xZFhy5\ntHr9r4cAEe/ROegJUg9lMpUkrEFIZcMXcPpZGmt7w62e9J8LnxPAadyXE4yt7sB3\nAlSLXvxrTR5x0+CF8Q2hNNxaI6Wyan/Vyk29AkMBuWR4qjK7mX4MN1qFrSc9LFeE\n8xHWP+RdabESlKYwa6BZHuFUqJBdZA42V7EgGAbJTHLAmJXplwwcLCy+9Pb7kDdk\n9atTxfte2YajLMx6TDAglmJTrZwYZ2HRDi1hjHwhA1rfvlLk9oQFQEKYnI49dekS\nFksby0PW9LfsNYXlzKvd7kQNynkiPYhOzEflCld/wJ19/+0b93LBSI77bVPagj6W\n/1hT7Pvj3SNPlU7kPNoeWGf+as0ppWAcfqg+BUhVl9AhPVQWIUu56J4+vzoh0lAd\nTjZhyHLeBPbIvc9K22mhyl8jMNJeamegsgkSCb5QYNSkYJIZBKmGiZ8fOkwPylWg\nXoFBgWHS3oZS1fpuhwXwtbPNxcGFrluk4Y0hJI9WQ3xeLd0GKS2nwXgD+XFqCI6A\ntKg7Xktsu1LjZG2t7nhB\n=2Nl3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 024cfe17e6685483a5a6abfc8983c086267a5a47\ntype commit\ntag 8.0.1\ntagger Donald Stufft <donald@stufft.io> 1453404851 -0500\n\nReleased v8.0.1\n\n* Detect CAPaths in addition to CAFiles on platforms that provide them.\n* Installing argparse or wsgiref will no longer warn or error - pip will allow\n  the installation even though it may be useless (since the installed thing\n  will be shadowed by the standard library).\n* Upgrading a distutils installed item that is installed outside of a virtual\n  environment, while inside of a virtual environment will no longer warn or\n  error.\n* Fix a bug where pre-releases were showing up in ``pip list --outdated``\n  without the ``--pre`` flag.\n* Switch the SOABI emulation from using RuntimeWarnings to debug logging.\n* Rollback the removal of the ability to uninstall distutils installed items\n  until a future date.\n"
+  }
+}

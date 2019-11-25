@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTphZTY0YjljYjc2NWY0MjMxNzRjOWQwZTg4MTk2ZDgxOTBmYzZlZmZm",
+  "sha": "ae64b9cb765f423174c9d0e88196d8190fc6efff",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/ae64b9cb765f423174c9d0e88196d8190fc6efff",
+  "tagger": {
+    "name": "Bert Belder",
+    "email": "bertbelder@gmail.com",
+    "date": "2013-08-23T16:57:10Z"
+  },
+  "object": {
+    "sha": "221078a8fdd9b853c6b557b3d9a5dd744b4fdd6b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/221078a8fdd9b853c6b557b3d9a5dd744b4fdd6b"
+  },
+  "tag": "v0.10.15",
+  "message": "2013.08.24, Version 0.10.15 (Stable)\n\nChanges since version 0.10.14:\n\n* fsevents: create FSEvents thread on demand (Ben Noordhuis)\n\n* fsevents: use a single thread for interacting with FSEvents, because it's not\n  thread-safe. (Fedor Indutny)\n\n* fsevents: share FSEventStream between multiple FS watchers, which removes a\n  limit on the maximum number of file watchers that can be created on OS X.\n  (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUheUZnp3iHsuLtRhAQIDDQf/X3Qv4YwJJuM8FP07RCjsEX2S17xYIxPC\nWT+nVd8hHi8t/YqDyWj0D8DrxkB0UP89WFFnm+UGA0v4XTp2y7kz+fLlTFBccDrU\nmUViyBp3t9tT+9c4FqJ6R1iivEnv2J9B0nOqGQ53VCCpHOi0FFrfKWGQS0dxl6KH\nUT1o65/q4xwBq7UKovL5VLa0jZK488F6CmetCw8ukWIdqw3oi94TeGiTR5vZ8/Af\n9Jg+IiK0GsGCRFKvJWGm0rLI7KtzJAFhT632Xj00PscQlr8FU3mS5LoxZDaEDgTX\ns8D3A/zoSYYm+AhtBWBfhwjw0f7QnJYPa48Ifn1ASNFPiupxJDzYvQ==\n=Zlbm\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUheUZnp3iHsuLtRhAQIDDQf/X3Qv4YwJJuM8FP07RCjsEX2S17xYIxPC\nWT+nVd8hHi8t/YqDyWj0D8DrxkB0UP89WFFnm+UGA0v4XTp2y7kz+fLlTFBccDrU\nmUViyBp3t9tT+9c4FqJ6R1iivEnv2J9B0nOqGQ53VCCpHOi0FFrfKWGQS0dxl6KH\nUT1o65/q4xwBq7UKovL5VLa0jZK488F6CmetCw8ukWIdqw3oi94TeGiTR5vZ8/Af\n9Jg+IiK0GsGCRFKvJWGm0rLI7KtzJAFhT632Xj00PscQlr8FU3mS5LoxZDaEDgTX\ns8D3A/zoSYYm+AhtBWBfhwjw0f7QnJYPa48Ifn1ASNFPiupxJDzYvQ==\n=Zlbm\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 221078a8fdd9b853c6b557b3d9a5dd744b4fdd6b\ntype commit\ntag v0.10.15\ntagger Bert Belder <bertbelder@gmail.com> 1377277030 +0200\n\n2013.08.24, Version 0.10.15 (Stable)\n\nChanges since version 0.10.14:\n\n* fsevents: create FSEvents thread on demand (Ben Noordhuis)\n\n* fsevents: use a single thread for interacting with FSEvents, because it's not\n  thread-safe. (Fedor Indutny)\n\n* fsevents: share FSEventStream between multiple FS watchers, which removes a\n  limit on the maximum number of file watchers that can be created on OS X.\n  (Fedor Indutny)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzM2NTA0OmExZjQxYmY2MmUzNDRjZjEyYzM3MWI3ZmY0ZTllYzc0ZmE4NWI4YTc=",
+  "sha": "a1f41bf62e344cf12c371b7ff4e9ec74fa85b8a7",
+  "url": "https://api.github.com/repos/resque/redis-namespace/git/tags/a1f41bf62e344cf12c371b7ff4e9ec74fa85b8a7",
+  "tagger": {
+    "name": "Ryan Biesemeyer",
+    "email": "ryan@yaauie.com",
+    "date": "2014-06-24T08:02:08Z"
+  },
+  "object": {
+    "sha": "96957722a23df56bb34c75f7d9916342993075c7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/resque/redis-namespace/git/commits/96957722a23df56bb34c75f7d9916342993075c7"
+  },
+  "tag": "v1.5.0",
+  "message": "v1.5.0\n\n - Fix `brpop`\n - Relax dependency of redis-rb to enable users to use redis-rb 3.1\n - Add support for HyperLogLog family of commands (`PFADD`, `PFCOUNT`,\n   `PFMERGE`)\n - Add (1.x -> 2.x) deprecations and ability to enforce them before upgrading.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

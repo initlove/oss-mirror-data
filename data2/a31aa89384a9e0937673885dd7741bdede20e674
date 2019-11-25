@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDphMzFhYTg5Mzg0YTllMDkzNzY3Mzg4NWRkNzc0MWJkZWRlMjBlNjc0",
+  "sha": "a31aa89384a9e0937673885dd7741bdede20e674",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/a31aa89384a9e0937673885dd7741bdede20e674",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2014-11-25T09:46:57Z"
+  },
+  "object": {
+    "sha": "a070c11e53b9fde1db9d4c7957c92668bf74f49b",
+    "type": "tag",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/a070c11e53b9fde1db9d4c7957c92668bf74f49b"
+  },
+  "tag": "librepo-1.2.1",
+  "message": "v1.2.1\n- Open fd right before downloading and close them immediately after\n  download. (RhBug: 1015957)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

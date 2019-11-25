@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2NzphYzlhODU3MTM4YWNjOWNkOWMzMTk3MTc2NTg4NDU2NTc3NTRhZTg2",
+  "sha": "ac9a857138acc9cd9c319717658845657754ae86",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/ac9a857138acc9cd9c319717658845657754ae86",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2016-01-21T23:48:38Z"
+  },
+  "object": {
+    "sha": "81dd4a07859f4078008f22f0358ed6b2e8fb119b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/81dd4a07859f4078008f22f0358ed6b2e8fb119b"
+  },
+  "tag": "8.0.2",
+  "message": "Released v8.0.2\n\n* Stop attempting to trust the system CA trust store because it's extremely\n  common for them to be broken, often in incompatible ways. See #3416.\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJWoW5vAAoJEG48vOkzctz6m5kQAIBN0q191KpuW8KF02v/5n8z\nlIyrmP2exzc6INQE2IeiSgPdF1l7pHVPH/5YwDo21apWufi2/q3XxplLU+r0M9V2\nPzcnD5zB+YFNG/xUayZeWF7lZEt4QJlXUujyb9Vy85n82MZ8/BOByVN5SbVG72Kp\ngMfste2G9tY5cLYEQ+WY7ns+UT3W4lqADnclPAhZwgrVVjbxDMbCmBuPxU+4bCdo\nTLDG0fKuO2pleLQbECH7EgFu04mIQO45uQ7pH/dUD70wtDKDaOnKvzY/6qQVpHgD\n6MQCan03LLtotF56eXyDqr6uiwwQ2i8Etm++2QiCe6PB7XdCZDjULS+T9J/1Vp66\nT+XFgdH+dVjKPfUZhs6p1d6auIldM/VOzDmwVACTCoLVlxObrimOBQByGCgE4GQe\n62bZ9yZE5Ca5e3TR81nGJJsSjlTbX/L8VgqIYGoSMAGMVskfbdpYZbUGfbWIpMMR\n5fgbMhHnF4c/rL4UN5nXWg/KoXeQVTjf6+0H/sZUdOKV8vgq42DCajNmA0JPBDsQ\nUUVYj6/SnLEHdghCem+4J8lps9PXu8V0RM9z/tbKB2PIKx+kdkffqiKmKO+DPUZ8\n1vjc31o99qWY2fg31/j4wTUEsBbaTLu5wWYQha8zyTlji4yTqFKqcEkMakKD6yt9\nnVBzri06c3lbZv7mpEhy\n=7KIf\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - https://gpgtools.org\n\niQIcBAABCgAGBQJWoW5vAAoJEG48vOkzctz6m5kQAIBN0q191KpuW8KF02v/5n8z\nlIyrmP2exzc6INQE2IeiSgPdF1l7pHVPH/5YwDo21apWufi2/q3XxplLU+r0M9V2\nPzcnD5zB+YFNG/xUayZeWF7lZEt4QJlXUujyb9Vy85n82MZ8/BOByVN5SbVG72Kp\ngMfste2G9tY5cLYEQ+WY7ns+UT3W4lqADnclPAhZwgrVVjbxDMbCmBuPxU+4bCdo\nTLDG0fKuO2pleLQbECH7EgFu04mIQO45uQ7pH/dUD70wtDKDaOnKvzY/6qQVpHgD\n6MQCan03LLtotF56eXyDqr6uiwwQ2i8Etm++2QiCe6PB7XdCZDjULS+T9J/1Vp66\nT+XFgdH+dVjKPfUZhs6p1d6auIldM/VOzDmwVACTCoLVlxObrimOBQByGCgE4GQe\n62bZ9yZE5Ca5e3TR81nGJJsSjlTbX/L8VgqIYGoSMAGMVskfbdpYZbUGfbWIpMMR\n5fgbMhHnF4c/rL4UN5nXWg/KoXeQVTjf6+0H/sZUdOKV8vgq42DCajNmA0JPBDsQ\nUUVYj6/SnLEHdghCem+4J8lps9PXu8V0RM9z/tbKB2PIKx+kdkffqiKmKO+DPUZ8\n1vjc31o99qWY2fg31/j4wTUEsBbaTLu5wWYQha8zyTlji4yTqFKqcEkMakKD6yt9\nnVBzri06c3lbZv7mpEhy\n=7KIf\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 81dd4a07859f4078008f22f0358ed6b2e8fb119b\ntype commit\ntag 8.0.2\ntagger Donald Stufft <donald@stufft.io> 1453420118 -0500\n\nReleased v8.0.2\n\n* Stop attempting to trust the system CA trust store because it's extremely\n  common for them to be broken, often in incompatible ways. See #3416.\n"
+  }
+}

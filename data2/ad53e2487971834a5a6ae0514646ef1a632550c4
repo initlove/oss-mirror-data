@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDM5MzY5NjphZDUzZTI0ODc5NzE4MzRhNWE2YWUwNTE0NjQ2ZWYxYTYzMjU1MGM0",
+  "sha": "ad53e2487971834a5a6ae0514646ef1a632550c4",
+  "url": "https://api.github.com/repos/openstack/python-swiftclient/git/tags/ad53e2487971834a5a6ae0514646ef1a632550c4",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-04-16T18:42:43Z"
+  },
+  "object": {
+    "sha": "74a4a19b714a9496bf0967cb3482a59335803c82",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-swiftclient/git/commits/74a4a19b714a9496bf0967cb3482a59335803c82"
+  },
+  "tag": "3.4.1",
+  "message": "python-swiftclient 3.4.1 release\n\nmeta:version: 3.4.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Change-Id: Iefee6ab04e297fe52e4e8eae77e7bf7889ca8763\nmeta:release:Code-Review+1: Tim Burke <tim@swiftstack.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly2IiMZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOHa1DACWaa+7bAMp6+F/QyWu50a8\nNgcbN7RgJAxrQ1ZJcVmOWM56cKXBPrMll2e0S72r2Mc4YZ25AuiVUr/WCda6DMVI\nz/sJF9hZVSMneNMJ7rujdusrYURjFEARaZqW56Hubx9YcMcaNLiv+xc9UM/noes/\nyYdbJaNWWAFeBLLeo9QyWebb/7+i9VSzu3Db50aOl4gb3ssmdXGGfiXE5LZ2tKj+\noQ7DOrPSig0f9CXnP+nHiyeYW8NVjcBkSNFz7Fp7wM7HporQ4u17al79i0fxWKHf\nQ0ATRI5VFFIKui3iAA8HPSbCOXaDfRZQAveTGzuU8YNqpashYEBvoavjMlluaOoY\nWnVO9AC8nZig/6LH2ylEWdUg35iUzBoNkAWr+e7p9Uvvu5MNNiCQU+EvVfaAZfAb\nGES+DYt2iIAl5fImJ9BYLG7F3vMy8smEj/UjfK5ZsA+gNh5a05Avt8/YwnPnYn8P\nLiwDkKPIEQqhrcnwXmtgarrfNYDQYW0z30aF1lszfJY=\n=x6lb\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAly2IiMZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOHa1DACWaa+7bAMp6+F/QyWu50a8\nNgcbN7RgJAxrQ1ZJcVmOWM56cKXBPrMll2e0S72r2Mc4YZ25AuiVUr/WCda6DMVI\nz/sJF9hZVSMneNMJ7rujdusrYURjFEARaZqW56Hubx9YcMcaNLiv+xc9UM/noes/\nyYdbJaNWWAFeBLLeo9QyWebb/7+i9VSzu3Db50aOl4gb3ssmdXGGfiXE5LZ2tKj+\noQ7DOrPSig0f9CXnP+nHiyeYW8NVjcBkSNFz7Fp7wM7HporQ4u17al79i0fxWKHf\nQ0ATRI5VFFIKui3iAA8HPSbCOXaDfRZQAveTGzuU8YNqpashYEBvoavjMlluaOoY\nWnVO9AC8nZig/6LH2ylEWdUg35iUzBoNkAWr+e7p9Uvvu5MNNiCQU+EvVfaAZfAb\nGES+DYt2iIAl5fImJ9BYLG7F3vMy8smEj/UjfK5ZsA+gNh5a05Avt8/YwnPnYn8P\nLiwDkKPIEQqhrcnwXmtgarrfNYDQYW0z30aF1lszfJY=\n=x6lb\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 74a4a19b714a9496bf0967cb3482a59335803c82\ntype commit\ntag 3.4.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1555440163 +0000\n\npython-swiftclient 3.4.1 release\n\nmeta:version: 3.4.1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Commit: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Change-Id: Iefee6ab04e297fe52e4e8eae77e7bf7889ca8763\nmeta:release:Code-Review+1: Tim Burke <tim@swiftstack.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

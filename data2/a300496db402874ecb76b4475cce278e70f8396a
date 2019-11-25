@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzIwNDA5MzphMzAwNDk2ZGI0MDI4NzRlY2I3NmI0NDc1Y2NlMjc4ZTcwZjgzOTZh",
+  "sha": "a300496db402874ecb76b4475cce278e70f8396a",
+  "url": "https://api.github.com/repos/openstack/python-neutronclient/git/tags/a300496db402874ecb76b4475cce278e70f8396a",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-06-11T15:54:18Z"
+  },
+  "object": {
+    "sha": "d090ea27510db3903e3256ca518b645987edfdc7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-neutronclient/git/commits/d090ea27510db3903e3256ca518b645987edfdc7"
+  },
+  "tag": "6.9.0",
+  "message": "python-neutronclient 6.9.0 release\n\nmeta:version: 6.9.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: I977ad5122d38441efe9af6d89be0fb1743ad1c1c\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbHpsqAAoJEMNs3LTfAMaMsVMIAIFYqMDVF7X7len71qL86t2e\nSFp0gP0XjJ4akX9D24m7XxPjZi559sknhf5uiN4IhGI9Du7sIXj3VOPPynBTsiFi\n1mp9k1f0hiSDkGb67qonvzHzIbIEh/QHPrvJtuIO8m/MMXVWk69Z153IJZ2duDP3\niv6d1D9799GHqtYrx2taLQRQyVaQAs9pDp03zh8wiOYdbYgz9mEH8c5zqyuLzZVq\nvG4onO+I//5Dt+wp85MmmJ05A425nUJvCe5VJD8Z0YjlcgT8tkZU/NoQ9ijVewsn\nyW2xYIvXysU/AqWptZz8AFtJNJZZoPAXBQTUshz02E0yYgOCRaAIu+L7MxLz3zc=\n=dfFI\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbHpsqAAoJEMNs3LTfAMaMsVMIAIFYqMDVF7X7len71qL86t2e\nSFp0gP0XjJ4akX9D24m7XxPjZi559sknhf5uiN4IhGI9Du7sIXj3VOPPynBTsiFi\n1mp9k1f0hiSDkGb67qonvzHzIbIEh/QHPrvJtuIO8m/MMXVWk69Z153IJZ2duDP3\niv6d1D9799GHqtYrx2taLQRQyVaQAs9pDp03zh8wiOYdbYgz9mEH8c5zqyuLzZVq\nvG4onO+I//5Dt+wp85MmmJ05A425nUJvCe5VJD8Z0YjlcgT8tkZU/NoQ9ijVewsn\nyW2xYIvXysU/AqWptZz8AFtJNJZZoPAXBQTUshz02E0yYgOCRaAIu+L7MxLz3zc=\n=dfFI\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d090ea27510db3903e3256ca518b645987edfdc7\ntype commit\ntag 6.9.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1528732458 +0000\n\npython-neutronclient 6.9.0 release\n\nmeta:version: 6.9.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: I977ad5122d38441efe9af6d89be0fb1743ad1c1c\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

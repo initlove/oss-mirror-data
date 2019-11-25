@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY1NzMyNDE6YmYyNjYzM2NjNGE3YzJlMGNiN2I0YjhmZjU2ZmUxYTgzMGM2YWE1NA==",
+  "sha": "bf26633cc4a7c2e0cb7b4b8ff56fe1a830c6aa54",
+  "url": "https://api.github.com/repos/hyperledger/fabric/git/tags/bf26633cc4a7c2e0cb7b4b8ff56fe1a830c6aa54",
+  "tagger": {
+    "name": "David Enyeart",
+    "email": "enyeart@us.ibm.com",
+    "date": "2018-03-01T19:51:46Z"
+  },
+  "object": {
+    "sha": "8352cb867e1202ba07bc82a7dde08b2873e3a41b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/hyperledger/fabric/git/commits/8352cb867e1202ba07bc82a7dde08b2873e3a41b"
+  },
+  "tag": "v1.1.0-rc1",
+  "message": "v1.1.0-rc1 March 1, 2018\n-------------------------------\n\nRelease Notes\n-------------\nThe v1.1 release candidate 1 (rc1) includes all of the features delivered in v1.1.0-preview\nand v1.1.0-alpha.\n\nAdditionally, there are feature improvements, bug fixes, documentation and test\ncoverage improvements, UX improvements based on user feedback and changes to address a\nvariety of static scan findings (unused code, static security scanning, spelling,\nlinting and more).\n\nKnown Vulnerabilities\n---------------------\nnone\n\nResolved Vulnerabilities\n------------------------\nnone\n\nKnown Issues & Workarounds\n--------------------------\nThe fabric-ccenv image which is used to build chaincode, currently includes\nthe github.com/hyperledger/fabric/core/chaincode/shim (\"shim\") package.\nThis is convenient, as it provides the ability to package chaincode\nwithout the need to include the \"shim\". However, this may cause issues in future\nreleases (and/or when trying to use packages which are included by the \"shim\").\n\nIn order to avoid any issues, users are advised to manually vendor the \"shim\"\npackage with their chaincode prior to using the peer CLI for packaging and/or\nfor installing chaincode.\n\nPlease refer to https://jira.hyperledger.org/browse/FAB-5177 for more details,\nand kindly be aware that given the above, we may end up changing the\nfabric-ccenv in the future.\n\nChange Log\n----------\nhttps://github.com/hyperledger/fabric/blob/master/CHANGELOG.md#v110-rc1\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

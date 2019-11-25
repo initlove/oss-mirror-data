@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjk0ODU3MTY6YTViNTI4OGJmNzhjNjNlMGEyYjcyYTRhY2JiNGU5MjVmMTQ0ZjJiMg==",
+  "sha": "a5b5288bf78c63e0a2b72a4acbb4e925f144f2b2",
+  "url": "https://api.github.com/repos/openstack/oslo.policy/git/tags/a5b5288bf78c63e0a2b72a4acbb4e925f144f2b2",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-07-20T01:05:13Z"
+  },
+  "object": {
+    "sha": "0fc941f2802b787956c07e5aaf20f6272e689cf7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.policy/git/commits/0fc941f2802b787956c07e5aaf20f6272e689cf7"
+  },
+  "tag": "1.38.1",
+  "message": "oslo.policy 1.38.1 release\n\nmeta:version: 1.38.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Ia69502d9f15e98b99c56957d88537adf44567a47\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbUTVJAAoJEMNs3LTfAMaMqk8H/1TYWlWkjYAfhJyxIYiTyoRU\n1V8Q7IhWqbe640MtSXTg4r39E8CmPfGbanYrbQ4WxDezAojxkg2liK6FIwzwsTvP\n06hne+YgO0+UXIaVnvnc8hbXAMKaBzP6lLyOEBPrMPMeBY3ohnzqhey79qcX2gaI\nIl+5XmYE+CZcUH6wXS9S+1crRmp0RFQvX4HLBvvt17YWqSOibYWOYvKMq+S8XO68\nU5q0zaFmSYByQKPlTRbws/FWsDkNtS/XNYIE/5h0h5hkGFAnPIMHw5Sy52i0AFUR\nqiI39pFh4df0rimIiwFhqNPlz5c5KYFefE0apNnMOKRZnC9WFWY3uQl3Cgv2RjI=\n=1ty/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbUTVJAAoJEMNs3LTfAMaMqk8H/1TYWlWkjYAfhJyxIYiTyoRU\n1V8Q7IhWqbe640MtSXTg4r39E8CmPfGbanYrbQ4WxDezAojxkg2liK6FIwzwsTvP\n06hne+YgO0+UXIaVnvnc8hbXAMKaBzP6lLyOEBPrMPMeBY3ohnzqhey79qcX2gaI\nIl+5XmYE+CZcUH6wXS9S+1crRmp0RFQvX4HLBvvt17YWqSOibYWOYvKMq+S8XO68\nU5q0zaFmSYByQKPlTRbws/FWsDkNtS/XNYIE/5h0h5hkGFAnPIMHw5Sy52i0AFUR\nqiI39pFh4df0rimIiwFhqNPlz5c5KYFefE0apNnMOKRZnC9WFWY3uQl3Cgv2RjI=\n=1ty/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 0fc941f2802b787956c07e5aaf20f6272e689cf7\ntype commit\ntag 1.38.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1532048713 +0000\n\noslo.policy 1.38.1 release\n\nmeta:version: 1.38.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Ia69502d9f15e98b99c56957d88537adf44567a47\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc5MTM0ODphZTE0NDY4ODRiODAxZGU4NTk3MjBjNDRjMzgxZTk4MzhlNzA0Yjk1",
+  "sha": "ae1446884b801de859720c44c381e9838e704b95",
+  "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/tags/ae1446884b801de859720c44c381e9838e704b95",
+  "tagger": {
+    "name": "JP Richardson",
+    "email": "jprichardson@gmail.com",
+    "date": "2015-01-28T08:45:45Z"
+  },
+  "object": {
+    "sha": "757863933b6651b0a264d4523bba1021b0da001f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/commits/757863933b6651b0a264d4523bba1021b0da001f"
+  },
+  "tag": "0.16.0",
+  "message": "0.16.0 / 2015-01-28\n-------------------\n- bugfix `fs.move()` into itself. Closes #104\n- bugfix `fs.move()` moving directory across device. Closes #108\n- added coveralls support\n- bugfix: nasty multiple callback `fs.copy()` bug. Closes #98\n- misc fs.copy code cleanups\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

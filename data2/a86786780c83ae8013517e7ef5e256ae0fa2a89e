@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjphODY3ODY3ODBjODNhZTgwMTM1MTdlN2VmNWUyNTZhZTBmYTJhODll",
+  "sha": "a86786780c83ae8013517e7ef5e256ae0fa2a89e",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/a86786780c83ae8013517e7ef5e256ae0fa2a89e",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:30:05Z"
+  },
+  "object": {
+    "sha": "31cfc5a63e41fa9ff31fcc30ec2b7207d74b6cd3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/31cfc5a63e41fa9ff31fcc30ec2b7207d74b6cd3"
+  },
+  "tag": "0.1.16",
+  "message": "v0.1.16\n- Fix usage of rpm keyring (RhBug:918645)\n- More generic interface of repomd module\n- Code refactoring\n- Add some usage examples into the doxygen documentation and .h files\n- Rename version constants in version.h\n- New function cr_package_nevra (returns package nevra string)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

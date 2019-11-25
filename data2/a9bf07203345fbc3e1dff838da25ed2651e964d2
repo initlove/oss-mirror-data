@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ5MDk2ODQ6YTliZjA3MjAzMzQ1ZmJjM2UxZGZmODM4ZGEyNWVkMjY1MWU5NjRkMg==",
+  "sha": "a9bf07203345fbc3e1dff838da25ed2651e964d2",
+  "url": "https://api.github.com/repos/openstack/tooz/git/tags/a9bf07203345fbc3e1dff838da25ed2651e964d2",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-05-01T21:03:43Z"
+  },
+  "object": {
+    "sha": "2ac3ef36d2687f820cb44f6b27dd81ebf1c4165b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/tooz/git/commits/2ac3ef36d2687f820cb44f6b27dd81ebf1c4165b"
+  },
+  "tag": "1.62.0",
+  "message": "tooz 1.62.0 release\n\nmeta:version: 1.62.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I0c2f524da300cb97da526367c7eec389eac55bab\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa6NYvAAoJEMNs3LTfAMaMWPgH/A8uA+JT+qri3+LRmWDqqptc\nXbD/kEGjFIOkDhM9jpr9Jy9HCA9NCLCqhsc2bKGQjFOu7FxOkXLeFzPcAtTGXXpf\nBIoh+Nmuq/pLgktODk1iRNuCjj+26JgUf2gl58DMFZQvQBrUAYfm0ybh5NNvkgRw\nCYB31gdjDIFZut8jiuyqNToCGzpV02RlMIEo8vgQXkJgSDgHhXhXO61jNNbbewS/\nrcTXt8NioMP5Tj5PfSEHItk+JSO5gm7nNftANpxCcBVujS2M9e63EzqXsxp6eslH\nmvH7tIR4ccS4rh8YoQcU5oagWk2GHYr3VFRoCojRAn3l/nohPPaqsPGVyIXkJWM=\n=Kpcf\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa6NYvAAoJEMNs3LTfAMaMWPgH/A8uA+JT+qri3+LRmWDqqptc\nXbD/kEGjFIOkDhM9jpr9Jy9HCA9NCLCqhsc2bKGQjFOu7FxOkXLeFzPcAtTGXXpf\nBIoh+Nmuq/pLgktODk1iRNuCjj+26JgUf2gl58DMFZQvQBrUAYfm0ybh5NNvkgRw\nCYB31gdjDIFZut8jiuyqNToCGzpV02RlMIEo8vgQXkJgSDgHhXhXO61jNNbbewS/\nrcTXt8NioMP5Tj5PfSEHItk+JSO5gm7nNftANpxCcBVujS2M9e63EzqXsxp6eslH\nmvH7tIR4ccS4rh8YoQcU5oagWk2GHYr3VFRoCojRAn3l/nohPPaqsPGVyIXkJWM=\n=Kpcf\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2ac3ef36d2687f820cb44f6b27dd81ebf1c4165b\ntype commit\ntag 1.62.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1525208623 +0000\n\ntooz 1.62.0 release\n\nmeta:version: 1.62.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I0c2f524da300cb97da526367c7eec389eac55bab\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

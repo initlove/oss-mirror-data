@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTphYThhMDdiNDIyNjAxMzgwM2QxYjg0ZWI0ZDY2MzJmNTNmYjY4Yjkx",
+  "sha": "aa8a07b4226013803d1b84eb4d6632f53fb68b91",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/aa8a07b4226013803d1b84eb4d6632f53fb68b91",
+  "tagger": {
+    "name": "Saúl Ibarra Corretgé",
+    "email": "saghul@gmail.com",
+    "date": "2014-11-20T18:34:12Z"
+  },
+  "object": {
+    "sha": "feb2a9e6947d892f449b2770c4090f7d8c88381b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/feb2a9e6947d892f449b2770c4090f7d8c88381b"
+  },
+  "tag": "v1.0.0",
+  "message": "2014.11.21, Version 1.0.0 (Stable)\n\nChanges since version 1.0.0-rc2:\n\n* doc: fix git/svn url for gyp repo in README (Emmanuel Odeke)\n\n* windows: fix fs_read with nbufs > 1 and offset (Unknown W. Brackets)\n\n* win: add missing IP_ADAPTER_UNICAST_ADDRESS_LH definition for MinGW\n  (huxingyi)\n\n* doc: mention homebrew in README (Mikhail Mukovnikov)\n\n* doc: add learnuv workshop to README (Thorsten Lorenz)\n\n* doc: fix parameter name in uv_fs_access (Saúl Ibarra Corretgé)\n\n* unix: use cfmakeraw() for setting raw TTY mode (Yuri D'Elia)\n\n* win: fix uv_thread_self() (Alexis Campailla)\n\n* build: add x32 support to gyp build (Ben Noordhuis)\n\n* build: remove dtrace probes (Ben Noordhuis)\n\n* doc: fix link in misc.rst (Manos Nikolaidis)\n\n* mailmap: remove duplicated entries (Saúl Ibarra Corretgé)\n\n* gyp: fix comment regarding version info location (Saúl Ibarra Corretgé)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUbjQkAAoJEEEOVVOum8BZdEQP/28jwAC3YdMd+7t1M8et7ena\nx8z2LIpD4zzoQYKny0BOCXYwbpIR0Mc6jfiRxZldok0ah1UFLWaJeN5A6lcl28Ak\nFXrHeqZ3xiEuE9ou6lf1ROKngX7QGA8y+cUVe8EvtW3+YCBGWm1kWA8SQ/10Kxhv\nMOMEdFdGEwuuojYaDONeKW4yDXl5/8xXfCAXvAcChlcM4Y3nUZDN07IP3Vari3B0\nnYcnvYqi3CzERSNJp4AQBko+ZUnt5hwAv+0uYDlOVjGxHSWE5/3wzgxh8s6cV1Or\nCCAF79M7a6gFZjA/bzfcSA8v9mzh2NbLdNhPlBUteE0sTvecOvk4k51OUDeyvl8Y\nUvopoTy/Mc+v+z5KSQUSkmgoD7d22hVoVsNK69+MQK9Bblry1iFSx0/QUUVb2Ana\nkA6owwvZH/XBO7FwBEAAfQ34wEBNOemsSgJ7tAPPFMIXXv2tbaG8gEWar1y8pDwH\nOyN+f2w9B46/NGQgdegli5zW6hGpnZZ337Kuhn3yEhg0/LBn02Y9b11oP0RJFBny\nn/zCj8p+iPWAINkxnqH8ptFQesH9Dtyedxo3U/hsfMP6ffRc/hR6DDxGtHHln1VE\nvgrmPk82mGquBJLwRxse851sUZ2l5NOeMRFZGsfNilFwmO0TQVEqfk4bXLJuvll3\ng1WULegcb1LlUjW3/GSr\n=MGHZ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUbjQkAAoJEEEOVVOum8BZdEQP/28jwAC3YdMd+7t1M8et7ena\nx8z2LIpD4zzoQYKny0BOCXYwbpIR0Mc6jfiRxZldok0ah1UFLWaJeN5A6lcl28Ak\nFXrHeqZ3xiEuE9ou6lf1ROKngX7QGA8y+cUVe8EvtW3+YCBGWm1kWA8SQ/10Kxhv\nMOMEdFdGEwuuojYaDONeKW4yDXl5/8xXfCAXvAcChlcM4Y3nUZDN07IP3Vari3B0\nnYcnvYqi3CzERSNJp4AQBko+ZUnt5hwAv+0uYDlOVjGxHSWE5/3wzgxh8s6cV1Or\nCCAF79M7a6gFZjA/bzfcSA8v9mzh2NbLdNhPlBUteE0sTvecOvk4k51OUDeyvl8Y\nUvopoTy/Mc+v+z5KSQUSkmgoD7d22hVoVsNK69+MQK9Bblry1iFSx0/QUUVb2Ana\nkA6owwvZH/XBO7FwBEAAfQ34wEBNOemsSgJ7tAPPFMIXXv2tbaG8gEWar1y8pDwH\nOyN+f2w9B46/NGQgdegli5zW6hGpnZZ337Kuhn3yEhg0/LBn02Y9b11oP0RJFBny\nn/zCj8p+iPWAINkxnqH8ptFQesH9Dtyedxo3U/hsfMP6ffRc/hR6DDxGtHHln1VE\nvgrmPk82mGquBJLwRxse851sUZ2l5NOeMRFZGsfNilFwmO0TQVEqfk4bXLJuvll3\ng1WULegcb1LlUjW3/GSr\n=MGHZ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object feb2a9e6947d892f449b2770c4090f7d8c88381b\ntype commit\ntag v1.0.0\ntagger Saúl Ibarra Corretgé <saghul@gmail.com> 1416508452 +0100\n\n2014.11.21, Version 1.0.0 (Stable)\n\nChanges since version 1.0.0-rc2:\n\n* doc: fix git/svn url for gyp repo in README (Emmanuel Odeke)\n\n* windows: fix fs_read with nbufs > 1 and offset (Unknown W. Brackets)\n\n* win: add missing IP_ADAPTER_UNICAST_ADDRESS_LH definition for MinGW\n  (huxingyi)\n\n* doc: mention homebrew in README (Mikhail Mukovnikov)\n\n* doc: add learnuv workshop to README (Thorsten Lorenz)\n\n* doc: fix parameter name in uv_fs_access (Saúl Ibarra Corretgé)\n\n* unix: use cfmakeraw() for setting raw TTY mode (Yuri D'Elia)\n\n* win: fix uv_thread_self() (Alexis Campailla)\n\n* build: add x32 support to gyp build (Ben Noordhuis)\n\n* build: remove dtrace probes (Ben Noordhuis)\n\n* doc: fix link in misc.rst (Manos Nikolaidis)\n\n* mailmap: remove duplicated entries (Saúl Ibarra Corretgé)\n\n* gyp: fix comment regarding version info location (Saúl Ibarra Corretgé)\n"
+  }
+}

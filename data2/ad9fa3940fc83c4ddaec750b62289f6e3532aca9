@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkyMTcwNTQ6YWQ5ZmEzOTQwZmM4M2M0ZGRhZWM3NTBiNjIyODlmNmUzNTMyYWNhOQ==",
+  "sha": "ad9fa3940fc83c4ddaec750b62289f6e3532aca9",
+  "url": "https://api.github.com/repos/micro/go-micro/git/tags/ad9fa3940fc83c4ddaec750b62289f6e3532aca9",
+  "tagger": {
+    "name": "Asim Aslam",
+    "email": "asim@aslam.me",
+    "date": "2019-01-14T08:48:35Z"
+  },
+  "object": {
+    "sha": "c17d0fcc0f5d4f06b953f42202b2818dc692303c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micro/go-micro/git/commits/c17d0fcc0f5d4f06b953f42202b2818dc692303c"
+  },
+  "tag": "v0.20.0",
+  "message": "BREAKING CHANGES\n\nDo not move to this tag unless you're willing to incur the breaking changes.\nThis changes the default codec to raw protobuf and switches the content-type\napplication/octet-stream to use the bytes codec also. This breaking change\naffects any previous use.\n\nTo explicitly be backwards compatible do the following.\n\nIn the server\n\n```\n// Process octet-stream as proto-rpc in the old ways\nserver.DefaultCodecs[\"application/octet-stream\"] = protorpc.NewCodec\n// Process json in the old way\nserver.DefaultCodecs[\"application/json\"] = jsonrpc.NewCodec\n// Process protobuf in the old way\nserver.DefaultCodecs[\"application/protobuf\"] = protorpc.NewCodec\n```\n\nIn the client\n\n```\n// In the client send proto-rpc to be forwards compatible\nclient.DefaultContentType = \"application/proto-rpc\"\n```\n\nThere are changes to application/json and application/protobuf to use raw formats\nrather than json-rpc or proto-rpc. This will likely break behaviour via the api.\nThe easiest way to resolve this is to reset these as well but it causes further issue.\n\nI would advise finding a common rolling path forward e.g a common compatible content-type/codec.\n\nThis is an unfortunate change that has to be made so we can process raw formats.\n\nMethod now moves to endpoint. In most places we have Endpoint specified except in the client/server abstractions.\nThis has now moved. Most should be unaffected. But be aware of the change. Any wrappers may break.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

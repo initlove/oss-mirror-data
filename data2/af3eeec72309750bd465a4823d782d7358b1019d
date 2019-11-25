@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcxMTYyOmFmM2VlZWM3MjMwOTc1MGJkNDY1YTQ4MjNkNzgyZDczNThiMTAxOWQ=",
+  "sha": "af3eeec72309750bd465a4823d782d7358b1019d",
+  "url": "https://api.github.com/repos/enkessler/childprocess/git/tags/af3eeec72309750bd465a4823d782d7358b1019d",
+  "tagger": {
+    "name": "Shane da Silva",
+    "email": "shane@dasilva.io",
+    "date": "2019-09-20T13:30:17Z"
+  },
+  "object": {
+    "sha": "446c4f1b104ed2fc8d8f17f0887806be4beda7cf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/enkessler/childprocess/git/commits/446c4f1b104ed2fc8d8f17f0887806be4beda7cf"
+  },
+  "tag": "v3.0.0",
+  "message": "Version 3.0.0 / 2019-09-20\n\n* [#156](https://github.com/enkessler/childprocess/pull/156)Remove unused `rubyforge_project` from gemspec\n* [#160](https://github.com/enkessler/childprocess/pull/160): Remove extension to conditionally install `ffi` gem on Windows platforms\n* [#160](https://github.com/enkessler/childprocess/pull/160): Remove runtime dependency on `rake` gem\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEvyyWKCEqX199bPgCGMweZQeyMwoFAl2E1IUACgkQGMweZQey\nMwqdohAAwu3YB4oFmIFVobzsS+v5yP5gMONsMgaasMce0UO3KRv3hYDwvVxKpEhu\nueaEW8H01+qrhvKKLjHRv/1wSodHWxwQqtLcQEDKEoL1Isdan3ym3QnwgZ6lfQLt\nhmNWK2nO+y73cYN6neSSnap4WhoEMwX7kgANkEEqk3Oz84/SSb1JM/UR+2nl8GQK\nDDJe9L8bMFbxpCS4IPMkl0cf1CLjosoY1clhi/7mD/Ln+YJBYZo53BlbDf+pQ5iA\n3xR2d3T5htPs+euB6L+xchYH5rqafS8L7htr576CriyES8j2oB06k36I1aLzzp4w\nXYm0SYJJr1zNrUaqBodPEHHF3UNjdZakHpeYHihpaiX7HaqLqjfdzHKAGp4I/5tp\nGnqXTP5ZhPRXjARqNPbtARvpfC6Z17yTleo7F0a8Bo4qE1+9RKXzGps9zglSNrBt\nfCr16VmIU2J4IKdoLQXfYLghVq8cfEyBNk7CJHIwAdPUpMmSb+dlU6Bcw1U/gM44\nMq8Mo7bZ49WfueNfP7JdWx6vzzh/pPp+3sXpTr6g/rbu4cHJ44YEA+Y92j0FFWf+\nBCav/mtOqZQtKKpe+aDUr/O8xmGEtGKs+l6RoV4ei2OJBxOUPWgLimLaLeCkWRTa\nlbZ2uVUunc7z0XkYrb56M//7bECKrbGF4iAy7PeeIan0/VHwmj0=\n=3vPJ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEvyyWKCEqX199bPgCGMweZQeyMwoFAl2E1IUACgkQGMweZQey\nMwqdohAAwu3YB4oFmIFVobzsS+v5yP5gMONsMgaasMce0UO3KRv3hYDwvVxKpEhu\nueaEW8H01+qrhvKKLjHRv/1wSodHWxwQqtLcQEDKEoL1Isdan3ym3QnwgZ6lfQLt\nhmNWK2nO+y73cYN6neSSnap4WhoEMwX7kgANkEEqk3Oz84/SSb1JM/UR+2nl8GQK\nDDJe9L8bMFbxpCS4IPMkl0cf1CLjosoY1clhi/7mD/Ln+YJBYZo53BlbDf+pQ5iA\n3xR2d3T5htPs+euB6L+xchYH5rqafS8L7htr576CriyES8j2oB06k36I1aLzzp4w\nXYm0SYJJr1zNrUaqBodPEHHF3UNjdZakHpeYHihpaiX7HaqLqjfdzHKAGp4I/5tp\nGnqXTP5ZhPRXjARqNPbtARvpfC6Z17yTleo7F0a8Bo4qE1+9RKXzGps9zglSNrBt\nfCr16VmIU2J4IKdoLQXfYLghVq8cfEyBNk7CJHIwAdPUpMmSb+dlU6Bcw1U/gM44\nMq8Mo7bZ49WfueNfP7JdWx6vzzh/pPp+3sXpTr6g/rbu4cHJ44YEA+Y92j0FFWf+\nBCav/mtOqZQtKKpe+aDUr/O8xmGEtGKs+l6RoV4ei2OJBxOUPWgLimLaLeCkWRTa\nlbZ2uVUunc7z0XkYrb56M//7bECKrbGF4iAy7PeeIan0/VHwmj0=\n=3vPJ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 446c4f1b104ed2fc8d8f17f0887806be4beda7cf\ntype commit\ntag v3.0.0\ntagger Shane da Silva <shane@dasilva.io> 1568986217 -0700\n\nVersion 3.0.0 / 2019-09-20\n\n* [#156](https://github.com/enkessler/childprocess/pull/156)Remove unused `rubyforge_project` from gemspec\n* [#160](https://github.com/enkessler/childprocess/pull/160): Remove extension to conditionally install `ffi` gem on Windows platforms\n* [#160](https://github.com/enkessler/childprocess/pull/160): Remove runtime dependency on `rake` gem\n"
+  }
+}

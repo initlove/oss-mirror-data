@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzA1NTQ4ODY6YWExMTIzNjEzMGM0NGYxZWZiNWMwNGM0NThmNzlkOTNmMjE5ZGViOA==",
+  "sha": "aa11236130c44f1efb5c04c458f79d93f219deb8",
+  "url": "https://api.github.com/repos/openstack/oslo.versionedobjects/git/tags/aa11236130c44f1efb5c04c458f79d93f219deb8",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-02-14T18:05:27Z"
+  },
+  "object": {
+    "sha": "8c989ebc6433a60c50def9183f832d57abdc1c91",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.versionedobjects/git/commits/8c989ebc6433a60c50def9183f832d57abdc1c91"
+  },
+  "tag": "1.35.0",
+  "message": "oslo.versionedobjects 1.35.0 release\n\nmeta:version: 1.35.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I2760d5f3f69b577a6b96242f4f408820afbeef19\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcZa3nAAoJEBpUEUgFTp44D7wL/0/QRPJlfe0c/spkffa2eH3d\nj6LviwBlcWGITjyVw/iGt1DULtaOb3uOhLt3+SJGWKxNtToR3sAG1bMNyuErlSTc\nvKEs7zerVOFSj6o45Lgr3ZlVkDJIXO7gv5FRIuK/TOWMw7946E4XPgD5x0CvsDeR\nHpWBlOEtilQMqOz6chwfemSFLLGfFq2nXpS9MkVea0vbB4x330nzW2ButsY89M9O\nj1m1bq6Txzy8ASERmNvdwqPuI1t/0L5JhWJW9Mr2WGaUFZFeRYgqGS6icfPqxdJf\nkw/qCadoH6blzQswvy2t2XD2p8qw6m8cxFelZGmH38AHB7GJx1x5jg/7egPR9dbM\nc9rVu03v5bMAxwF6MdRyL537MCoc35NlFrTEHdA7Kj/vTpUjIzWcuckG0uNIk2cl\noStt7B8jWo0d/MUPConEIiQK29Ww6bc+abJnPNzGgQqGNfttD1A8WOJE9fZSI80x\nHrhlCrPWSaKvyVGSDgca7zk8ZGA82m9/LOe1Ip1UMg==\n=SG8D\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcZa3nAAoJEBpUEUgFTp44D7wL/0/QRPJlfe0c/spkffa2eH3d\nj6LviwBlcWGITjyVw/iGt1DULtaOb3uOhLt3+SJGWKxNtToR3sAG1bMNyuErlSTc\nvKEs7zerVOFSj6o45Lgr3ZlVkDJIXO7gv5FRIuK/TOWMw7946E4XPgD5x0CvsDeR\nHpWBlOEtilQMqOz6chwfemSFLLGfFq2nXpS9MkVea0vbB4x330nzW2ButsY89M9O\nj1m1bq6Txzy8ASERmNvdwqPuI1t/0L5JhWJW9Mr2WGaUFZFeRYgqGS6icfPqxdJf\nkw/qCadoH6blzQswvy2t2XD2p8qw6m8cxFelZGmH38AHB7GJx1x5jg/7egPR9dbM\nc9rVu03v5bMAxwF6MdRyL537MCoc35NlFrTEHdA7Kj/vTpUjIzWcuckG0uNIk2cl\noStt7B8jWo0d/MUPConEIiQK29Ww6bc+abJnPNzGgQqGNfttD1A8WOJE9fZSI80x\nHrhlCrPWSaKvyVGSDgca7zk8ZGA82m9/LOe1Ip1UMg==\n=SG8D\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8c989ebc6433a60c50def9183f832d57abdc1c91\ntype commit\ntag 1.35.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1550167527 +0000\n\noslo.versionedobjects 1.35.0 release\n\nmeta:version: 1.35.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Commit: Matt Riedemann <mriedem.os@gmail.com>\nmeta:release:Change-Id: I2760d5f3f69b577a6b96242f4f408820afbeef19\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

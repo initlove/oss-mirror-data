@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjA2NDYzNTk6YWI4MmU3MWJhZDkzZjhjNDZkMTc4MzZlMjJlZWY1NWEyOWIyMzljYg==",
+  "sha": "ab82e71bad93f8c46d17836e22eef55a29b239cb",
+  "url": "https://api.github.com/repos/openstack/osprofiler/git/tags/ab82e71bad93f8c46d17836e22eef55a29b239cb",
+  "tagger": {
+    "name": "Boris Pavlovic",
+    "email": "boris@pavlovic.me",
+    "date": "2014-07-09T20:17:26Z"
+  },
+  "object": {
+    "sha": "988909f112ffe79f8855c4713c2c791dd274bb8d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/osprofiler/git/commits/988909f112ffe79f8855c4713c2c791dd274bb8d"
+  },
+  "tag": "0.2.4",
+  "message": "Improve tracing for sqlalchemy:\n1) Make it work during migrations with custom types\n2) It works more optimal (we don't need to render\n2 times sql expressions)\n\nAdd alternative way to turn of wsgi middleware via python\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJTvaORAAoJEDvpPTuJuon05a4H/iEXdk52r2gDuk6ujdtON7Gg\ntbiGS2Ya6qh0Wag8L28/8HRO5zzrIFtl0PNLjg7lMJzbF8OXXgnMG5NcAa2eI+SM\n4p1aEeP55LwuPMGhdg3058iXqUn3S8MBi2sLq6Elw9OTTL9EN2mDhDJrxqsEjR+b\nUhmOYvgKxZr5TNYjPj2bSnAMYho6Sx3K3Srlg2aFOL+BXOlf66HiW8iecEKIScp9\nnzSbqHppwBOFLb4ek7j6TMPRU7a9t+JSsE/iKKkHBxGDFNM8pugvGUVm+EZW2Dv3\nqbyLNg671uM7VVJBBMSYrMGQol6gU9OIR2DZfsrBzhO5lrWK5PiiOR/3GVo47QA=\n=zzXz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJTvaORAAoJEDvpPTuJuon05a4H/iEXdk52r2gDuk6ujdtON7Gg\ntbiGS2Ya6qh0Wag8L28/8HRO5zzrIFtl0PNLjg7lMJzbF8OXXgnMG5NcAa2eI+SM\n4p1aEeP55LwuPMGhdg3058iXqUn3S8MBi2sLq6Elw9OTTL9EN2mDhDJrxqsEjR+b\nUhmOYvgKxZr5TNYjPj2bSnAMYho6Sx3K3Srlg2aFOL+BXOlf66HiW8iecEKIScp9\nnzSbqHppwBOFLb4ek7j6TMPRU7a9t+JSsE/iKKkHBxGDFNM8pugvGUVm+EZW2Dv3\nqbyLNg671uM7VVJBBMSYrMGQol6gU9OIR2DZfsrBzhO5lrWK5PiiOR/3GVo47QA=\n=zzXz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 988909f112ffe79f8855c4713c2c791dd274bb8d\ntype commit\ntag 0.2.4\ntagger Boris Pavlovic <boris@pavlovic.me> 1404937046 +0400\n\nImprove tracing for sqlalchemy:\n1) Make it work during migrations with custom types\n2) It works more optimal (we don't need to render\n2 times sql expressions)\n\nAdd alternative way to turn of wsgi middleware via python\n"
+  }
+}

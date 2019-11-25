@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTphZjkyZTg3NTJmMTAzY2MzMzY1NjQ5NTViYmJjZTI3YzEyNGU0MGFj",
+  "sha": "af92e8752f103cc336564955bbbce27c124e40ac",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/af92e8752f103cc336564955bbbce27c124e40ac",
+  "tagger": {
+    "name": "Saúl Ibarra Corretgé",
+    "email": "saghul@gmail.com",
+    "date": "2014-08-07T10:21:33Z"
+  },
+  "object": {
+    "sha": "fc9e2a0bc487b299c0cd3b2c9a23aeb554b5d8d1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/fc9e2a0bc487b299c0cd3b2c9a23aeb554b5d8d1"
+  },
+  "tag": "v0.11.28",
+  "message": "2014.08.08, Version 0.11.28 (Unstable)\n\nChanges since version 0.11.27:\n\n* unix, windows: const-ify handle in uv_udp_getsockname (Rasmus Pedersen)\n\n* windows: use UV_ECANCELED for aborted TCP writes (Saúl Ibarra Corretgé)\n\n* windows: add more required environment variables (Jameson Nash)\n\n* windows: sort environment variables before calling CreateProcess (Jameson\n  Nash)\n\n* unix, windows: move uv_loop_close out of assert (John Firebaugh)\n\n* windows: fix buffer overflow on uv__getnameinfo_work() (lilohuang)\n\n* windows: add uv_backend_timeout (Jameson Nash)\n\n* test: disable tcp_close_accept on Windows (Saúl Ibarra Corretgé)\n\n* windows: read the PATH env var of the child (Alex Crichton)\n\n* include: avoid using C++ 'template' reserved word (Iñaki Baz Castillo)\n\n* include: fix version number (Saúl Ibarra Corretgé)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJT41MtAAoJEEEOVVOum8BZ3egP/3chpoNZ+LyL7Qtw9qoq1TkK\ndDwyG1SN4k5+0JCT4JngJcKuVx7VkIpUIe7sDnAHlPMzPzRN1f/mgBIu7ahTY+VI\nx3rAHCjIw+qQJIGRLzX8VR4/Eippuq0dl/7DPA6xcEmnsCGb95xssB/A3Y1nzOtY\nHKNOMv+qx2+5D1RF8TJutfSwqzYbYNLZhgQCrEl1hWl02FZffKXKGwKinu5wmda9\nPd05uxv3bWZBPC7p5qtSGivupIc+H8Z1nY9s7NGcVb3ohnuKq2p2AcKQ7EI1GqtL\nMZ5e/9yk80maTU/IGdzYkGRYDLGnM6X/Y2tuN7CEiYBsMvNuihdDNNJpjjSwMMJZ\n69go5rhxuhD9Kn201Dc1ddUp2IOs6txIBej7bR+cnQYahMqgSc4Q4e0uthoPOaf6\nXbDUfBOyvfILQxwXmjg9WC7XmQDoNNYjWpH1L+lKzDHiuhhMvRHI3hHg4RzquIrE\n+HfI+PGIzxd5SCLddM1zjuPqVstsnARkE7N9fCPuGulcyFMS7RTJmIrgb4uLdYR0\n0T+KuZl0BCpYC31wcWGl5ThW48E1Wus6K/Kuj/LPIzw8ExNuNFS7q+3Mohr1hosR\nJKpNCHSXf0PFo7x5snBYToTnHVRFEAY3RlVeRCw+4TOWvvSKyQxEZp1fwWJ3U0rp\nkAE1hWD7D2Fy5eCf6EmP\n=JLAc\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJT41MtAAoJEEEOVVOum8BZ3egP/3chpoNZ+LyL7Qtw9qoq1TkK\ndDwyG1SN4k5+0JCT4JngJcKuVx7VkIpUIe7sDnAHlPMzPzRN1f/mgBIu7ahTY+VI\nx3rAHCjIw+qQJIGRLzX8VR4/Eippuq0dl/7DPA6xcEmnsCGb95xssB/A3Y1nzOtY\nHKNOMv+qx2+5D1RF8TJutfSwqzYbYNLZhgQCrEl1hWl02FZffKXKGwKinu5wmda9\nPd05uxv3bWZBPC7p5qtSGivupIc+H8Z1nY9s7NGcVb3ohnuKq2p2AcKQ7EI1GqtL\nMZ5e/9yk80maTU/IGdzYkGRYDLGnM6X/Y2tuN7CEiYBsMvNuihdDNNJpjjSwMMJZ\n69go5rhxuhD9Kn201Dc1ddUp2IOs6txIBej7bR+cnQYahMqgSc4Q4e0uthoPOaf6\nXbDUfBOyvfILQxwXmjg9WC7XmQDoNNYjWpH1L+lKzDHiuhhMvRHI3hHg4RzquIrE\n+HfI+PGIzxd5SCLddM1zjuPqVstsnARkE7N9fCPuGulcyFMS7RTJmIrgb4uLdYR0\n0T+KuZl0BCpYC31wcWGl5ThW48E1Wus6K/Kuj/LPIzw8ExNuNFS7q+3Mohr1hosR\nJKpNCHSXf0PFo7x5snBYToTnHVRFEAY3RlVeRCw+4TOWvvSKyQxEZp1fwWJ3U0rp\nkAE1hWD7D2Fy5eCf6EmP\n=JLAc\n-----END PGP SIGNATURE-----\n",
+    "payload": "object fc9e2a0bc487b299c0cd3b2c9a23aeb554b5d8d1\ntype commit\ntag v0.11.28\ntagger Saúl Ibarra Corretgé <saghul@gmail.com> 1407406893 +0200\n\n2014.08.08, Version 0.11.28 (Unstable)\n\nChanges since version 0.11.27:\n\n* unix, windows: const-ify handle in uv_udp_getsockname (Rasmus Pedersen)\n\n* windows: use UV_ECANCELED for aborted TCP writes (Saúl Ibarra Corretgé)\n\n* windows: add more required environment variables (Jameson Nash)\n\n* windows: sort environment variables before calling CreateProcess (Jameson\n  Nash)\n\n* unix, windows: move uv_loop_close out of assert (John Firebaugh)\n\n* windows: fix buffer overflow on uv__getnameinfo_work() (lilohuang)\n\n* windows: add uv_backend_timeout (Jameson Nash)\n\n* test: disable tcp_close_accept on Windows (Saúl Ibarra Corretgé)\n\n* windows: read the PATH env var of the child (Alex Crichton)\n\n* include: avoid using C++ 'template' reserved word (Iñaki Baz Castillo)\n\n* include: fix version number (Saúl Ibarra Corretgé)\n"
+  }
+}
