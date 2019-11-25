@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAzMDk4NjpmNWNmMzdmNjE3ODEwYmRkMjVkNWE1NWQ4NGRlNDZlNjk2ODZkM2Vi",
+  "sha": "f5cf37f617810bdd25d5a55d84de46e69686d3eb",
+  "url": "https://api.github.com/repos/openstack/python-keystoneclient/git/tags/f5cf37f617810bdd25d5a55d84de46e69686d3eb",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-05-19T19:38:45Z"
+  },
+  "object": {
+    "sha": "1c701864fc90ba010f189697a751806755468c70",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-keystoneclient/git/commits/1c701864fc90ba010f189697a751806755468c70"
+  },
+  "tag": "3.1.0",
+  "message": "python-keystoneclient 3.1.0 release\n\nmeta:version: 3.1.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXPhZFAAoJEDttBqDEKEN6ONMH/ih4xCSaDpIHGNDLYARrzXNF\nogyhJDhpdvrO7RAi1De8OmQZHoCOvPkNeY7D2K1tNPrVhPX5T5gX5AiUZVZR71p5\nVjeEQz/kvfYthJXxT0XObFW6z4efPYdX1RDFYopmKEVc4uxZCLVw/oSsl/EKAdU4\nNNrCY3BOBsu4qWUXribg7komWe9XRDSQtYakAJk3LLz9SCy4Xxtc0+iZ2M7c2IDd\nRRVvWv+kD+7CuQuD6U9AYCUPEysqJd7Mc/ZM53UQUmPo1/ibHK21CD/e/p4lCVmP\nyqndiNhcFHlWpRoYLPfKZCLcReJUYm6UGh4fp1GOYfOj5+LZnElj64RxVXE8kLs=\n=c/0s\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJXPhZFAAoJEDttBqDEKEN6ONMH/ih4xCSaDpIHGNDLYARrzXNF\nogyhJDhpdvrO7RAi1De8OmQZHoCOvPkNeY7D2K1tNPrVhPX5T5gX5AiUZVZR71p5\nVjeEQz/kvfYthJXxT0XObFW6z4efPYdX1RDFYopmKEVc4uxZCLVw/oSsl/EKAdU4\nNNrCY3BOBsu4qWUXribg7komWe9XRDSQtYakAJk3LLz9SCy4Xxtc0+iZ2M7c2IDd\nRRVvWv+kD+7CuQuD6U9AYCUPEysqJd7Mc/ZM53UQUmPo1/ibHK21CD/e/p4lCVmP\nyqndiNhcFHlWpRoYLPfKZCLcReJUYm6UGh4fp1GOYfOj5+LZnElj64RxVXE8kLs=\n=c/0s\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1c701864fc90ba010f189697a751806755468c70\ntype commit\ntag 3.1.0\ntagger Doug Hellmann <doug@doughellmann.com> 1463686725 -0400\n\npython-keystoneclient 3.1.0 release\n\nmeta:version: 3.1.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\n"
+  }
+}

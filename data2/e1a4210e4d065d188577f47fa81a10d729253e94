@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDE6ZTFhNDIxMGU0ZDA2NWQxODg1NzdmNDdmYTgxYTEwZDcyOTI1M2U5NA==",
+  "sha": "e1a4210e4d065d188577f47fa81a10d729253e94",
+  "url": "https://api.github.com/repos/openstack/ironic/git/tags/e1a4210e4d065d188577f47fa81a10d729253e94",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-04-12T23:32:01Z"
+  },
+  "object": {
+    "sha": "6c107103790b52e11e9d6029fd3e948bd0ce33d6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic/git/commits/6c107103790b52e11e9d6029fd3e948bd0ce33d6"
+  },
+  "tag": "ocata-em",
+  "message": "ironic ocata-em release\n\nmeta:version: ocata-em\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Ibac7f787950bf23e9a75fce37a6b82ec45d7df89\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyxH/EZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOJXcC/9ldkfhlbvhIj9pj0Gzf4bB\nL9mnWFxBRLCUnlxoVO4ToFuJK7VVEMn+d0ORg1SeJnQT39yqxzOfqU5GVtEY2ixz\n+1AZ/1Ei+0KaDO34FvgLUpOCKXs5ufqCoH6XaiSN+bqwlVjtLAnaAUVtDrzqV60b\ndYoYbFM1/gnqynwz3AlPKeaEBygXcMxkr/IDCHZMfw9LHryp99ZK96p80rdPguKG\nqb7BnYknbtDYKHcV88LNC/3hKU6bg5lhK4IDrI2rZGmGPL8tHUG+jwQdg9Q+h6Zb\na/9AE1uu1dLzJ4UcNOXQNIJktvVkiUPTrTauYeMWzjlrWnro+732kZ4QrssZRteN\nuZHGT+m1QcvoP7ctuW680Rx+bAbW4KZsynnWDnShXCXCc75EhESjbeGq9WekiG7n\nI3yNZwVxF5TxS7eFLSYSelDw5mtJZR/vmQvoxDsx2KGS+paO8mxAOD/1tJJsMOyq\nqdEZfgZovJ5Wes+z0hiVm3Clv/JfwF3yEkANXgSwj7A=\n=lYAJ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyxH/EZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOJXcC/9ldkfhlbvhIj9pj0Gzf4bB\nL9mnWFxBRLCUnlxoVO4ToFuJK7VVEMn+d0ORg1SeJnQT39yqxzOfqU5GVtEY2ixz\n+1AZ/1Ei+0KaDO34FvgLUpOCKXs5ufqCoH6XaiSN+bqwlVjtLAnaAUVtDrzqV60b\ndYoYbFM1/gnqynwz3AlPKeaEBygXcMxkr/IDCHZMfw9LHryp99ZK96p80rdPguKG\nqb7BnYknbtDYKHcV88LNC/3hKU6bg5lhK4IDrI2rZGmGPL8tHUG+jwQdg9Q+h6Zb\na/9AE1uu1dLzJ4UcNOXQNIJktvVkiUPTrTauYeMWzjlrWnro+732kZ4QrssZRteN\nuZHGT+m1QcvoP7ctuW680Rx+bAbW4KZsynnWDnShXCXCc75EhESjbeGq9WekiG7n\nI3yNZwVxF5TxS7eFLSYSelDw5mtJZR/vmQvoxDsx2KGS+paO8mxAOD/1tJJsMOyq\nqdEZfgZovJ5Wes+z0hiVm3Clv/JfwF3yEkANXgSwj7A=\n=lYAJ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6c107103790b52e11e9d6029fd3e948bd0ce33d6\ntype commit\ntag ocata-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1555111921 +0000\n\nironic ocata-em release\n\nmeta:version: ocata-em\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Ibac7f787950bf23e9a75fce37a6b82ec45d7df89\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

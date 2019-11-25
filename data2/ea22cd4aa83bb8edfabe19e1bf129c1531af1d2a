@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY0MTU2MDg6ZWEyMmNkNGFhODNiYjhlZGZhYmUxOWUxYmYxMjljMTUzMWFmMWQyYQ==",
+  "sha": "ea22cd4aa83bb8edfabe19e1bf129c1531af1d2a",
+  "url": "https://api.github.com/repos/openstack/oslo.service/git/tags/ea22cd4aa83bb8edfabe19e1bf129c1531af1d2a",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-01-21T21:31:50Z"
+  },
+  "object": {
+    "sha": "3c645a77ec04a36e999bb985dbe0116588b81ef0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.service/git/commits/3c645a77ec04a36e999bb985dbe0116588b81ef0"
+  },
+  "tag": "1.36.0",
+  "message": "oslo.service 1.36.0 release\n\nmeta:version: 1.36.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Commit: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Change-Id: I7ac3640cff8cc0ba9e49ce603ebf730235979946\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcRjpGAAoJEBpUEUgFTp44lO4MAJ7uBAWYLSn76K60fu0i7yAF\nzBLKUHkHlnpnBCYIJrTvefdK+1G0RoXbnMhr6GUqDi3bvAno0EG7GlH/k93wqpbw\nytdN8zpfKQkZWRvsM7/T5iaZ6U3Oc2cFwP2vQbyYgRwly6ZO7WS6Rj09aiKDaLAX\nfW+fYmRiHGdq8vc1AYy6JaDerBAf/rhhjizZ3RcRgYuNrCxNcWJCi6FS5MaBMZgV\nnYPtmcI3ccUGFv2bmipCVCVVb6o/U/jwby3RrVSqdXQbqPZ9MZjVQiZL5zlLS+xO\n46Pud/fBHy+DUoz0qOckKJdNO8sHcbEfn1xXK8kHHj9rSiFUj+xBUtYdQOQ3+QLe\nuGUj/FXmb2e19PDSM4v+mB2oaXiMYF1dSzN3zLAK9KXtAS6t2CSk87XkaFnzw6qs\nB1lflgOCnM+MWR51tHDbYV6t8owAepvJC8dSuPvNce8mm/c7WclHCUE5gnx/xsxC\nX7c4k1Rtkrm9i5Uc1tlGWYuNfIFHibALZBKG3WTRIg==\n=4BH/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcRjpGAAoJEBpUEUgFTp44lO4MAJ7uBAWYLSn76K60fu0i7yAF\nzBLKUHkHlnpnBCYIJrTvefdK+1G0RoXbnMhr6GUqDi3bvAno0EG7GlH/k93wqpbw\nytdN8zpfKQkZWRvsM7/T5iaZ6U3Oc2cFwP2vQbyYgRwly6ZO7WS6Rj09aiKDaLAX\nfW+fYmRiHGdq8vc1AYy6JaDerBAf/rhhjizZ3RcRgYuNrCxNcWJCi6FS5MaBMZgV\nnYPtmcI3ccUGFv2bmipCVCVVb6o/U/jwby3RrVSqdXQbqPZ9MZjVQiZL5zlLS+xO\n46Pud/fBHy+DUoz0qOckKJdNO8sHcbEfn1xXK8kHHj9rSiFUj+xBUtYdQOQ3+QLe\nuGUj/FXmb2e19PDSM4v+mB2oaXiMYF1dSzN3zLAK9KXtAS6t2CSk87XkaFnzw6qs\nB1lflgOCnM+MWR51tHDbYV6t8owAepvJC8dSuPvNce8mm/c7WclHCUE5gnx/xsxC\nX7c4k1Rtkrm9i5Uc1tlGWYuNfIFHibALZBKG3WTRIg==\n=4BH/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3c645a77ec04a36e999bb985dbe0116588b81ef0\ntype commit\ntag 1.36.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1548106310 +0000\n\noslo.service 1.36.0 release\n\nmeta:version: 1.36.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Commit: Hervé Beraud <hberaud@redhat.com>\nmeta:release:Change-Id: I7ac3640cff8cc0ba9e49ce603ebf730235979946\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

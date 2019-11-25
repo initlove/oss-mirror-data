@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ5MDk2ODQ6ZWRmMzM5NmM5OGY2Yzk1MWFhMjA2NGIzZmUwNDA5ZDkwNjc2MDBmZg==",
+  "sha": "edf3396c98f6c951aa2064b3fe0409d9067600ff",
+  "url": "https://api.github.com/repos/openstack/tooz/git/tags/edf3396c98f6c951aa2064b3fe0409d9067600ff",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-07-05T08:28:55Z"
+  },
+  "object": {
+    "sha": "bc11f09b831dd5811d42f4845117aea2581c194e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/tooz/git/commits/bc11f09b831dd5811d42f4845117aea2581c194e"
+  },
+  "tag": "1.43.1",
+  "message": "tooz 1.43.1 release\n\nmeta:version: 1.43.1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Change-Id: I90ab5f8d316fc0882e4c4388829d2d34845aea21\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZXKNHAAoJEOtsyhSD+nTslyQH/RAuwulnBQo+rxlK6yTFYhl0\n+7G3Noox9sslhXoUHgqkmVcXkbVyEHbJR0F665awWWBBvNNRymfqPAHrXbiU80mQ\nPswEeVHb7tg1bJCtWtBwYs7qDuey9w374p+K/5pCi+NWp3agE6xAcTA+05RAdWZf\nj50yq/MbslvfikZLA/YaCR4VuN0wUJIp774QQaQ5EfK6J83/M6ICGRaSuGw0de5w\n3+s0sn4P7QH8XvPiUeCyitq0MS5FMAMdLgOmPi9uxLapqnTq5gywIegE6vrbwkDj\nmpWN2rtr3HjuBvTGC/limTo6bG2KB0F27VRfafIepk2+RpGSdmy9fqWCHJLyA/0=\n=TODP\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZXKNHAAoJEOtsyhSD+nTslyQH/RAuwulnBQo+rxlK6yTFYhl0\n+7G3Noox9sslhXoUHgqkmVcXkbVyEHbJR0F665awWWBBvNNRymfqPAHrXbiU80mQ\nPswEeVHb7tg1bJCtWtBwYs7qDuey9w374p+K/5pCi+NWp3agE6xAcTA+05RAdWZf\nj50yq/MbslvfikZLA/YaCR4VuN0wUJIp774QQaQ5EfK6J83/M6ICGRaSuGw0de5w\n3+s0sn4P7QH8XvPiUeCyitq0MS5FMAMdLgOmPi9uxLapqnTq5gywIegE6vrbwkDj\nmpWN2rtr3HjuBvTGC/limTo6bG2KB0F27VRfafIepk2+RpGSdmy9fqWCHJLyA/0=\n=TODP\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bc11f09b831dd5811d42f4845117aea2581c194e\ntype commit\ntag 1.43.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1499243335 +0000\n\ntooz 1.43.1 release\n\nmeta:version: 1.43.1\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Commit: ChangBo Guo(gcb) <eric.guo@easystack.cn>\nmeta:release:Change-Id: I90ab5f8d316fc0882e4c4388829d2d34845aea21\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

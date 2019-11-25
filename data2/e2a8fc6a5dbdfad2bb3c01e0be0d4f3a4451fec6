@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA2OTg1ODQ6ZTJhOGZjNmE1ZGJkZmFkMmJiM2MwMWUwYmUwZDRmM2E0NDUxZmVjNg==",
+  "sha": "e2a8fc6a5dbdfad2bb3c01e0be0d4f3a4451fec6",
+  "url": "https://api.github.com/repos/openstack/python-troveclient/git/tags/e2a8fc6a5dbdfad2bb3c01e0be0d4f3a4451fec6",
+  "tagger": {
+    "name": "Nikhil Manchanda",
+    "email": "SlickNik@gmail.com",
+    "date": "2013-10-25T21:02:13Z"
+  },
+  "object": {
+    "sha": "00507ae54fcb17a442fcaf6908d333ef05578879",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-troveclient/git/commits/00507ae54fcb17a442fcaf6908d333ef05578879"
+  },
+  "tag": "1.0.3",
+  "message": "Releasing v1.0.3 of python-troveclient\n\nAdded support for --bypass-url to use a different trove endpoint\nthan the one specified in the catalog.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJSat0bAAoJEJaSdX6809ZsrW0IANkPndmzOYH+hMmTcHDpY6eC\n3FwJkT5s99v51khJ93GsNCet+ILxopPIYQ67M3LaKPTXzCS8kRdMeAs7ncL9fcCf\nLbSP3Fw8SjNVj6GpGnJE6iL6uoecpIYMES7k2h7IAs+fpwDTcPbf1/iKsiEm8spu\nk+K1x3NOiQbO63RaAr3KVbMSSU8b3TN+tUqLvUnqr1nza1acLiN6FWWZz2ZpfO0n\n5EJKHdXXl7GzxJYBZvJGff+sw5DFgeJUS+5NoE4FbuxVOYBx2k935+bofzWu21C4\nkwYe/+X0O+yu5JRPtKkPVxhEgt3LLA17Cl+SberCaowIRLLX2KNiI5mMoYrsHL8=\n=vwer\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJSat0bAAoJEJaSdX6809ZsrW0IANkPndmzOYH+hMmTcHDpY6eC\n3FwJkT5s99v51khJ93GsNCet+ILxopPIYQ67M3LaKPTXzCS8kRdMeAs7ncL9fcCf\nLbSP3Fw8SjNVj6GpGnJE6iL6uoecpIYMES7k2h7IAs+fpwDTcPbf1/iKsiEm8spu\nk+K1x3NOiQbO63RaAr3KVbMSSU8b3TN+tUqLvUnqr1nza1acLiN6FWWZz2ZpfO0n\n5EJKHdXXl7GzxJYBZvJGff+sw5DFgeJUS+5NoE4FbuxVOYBx2k935+bofzWu21C4\nkwYe/+X0O+yu5JRPtKkPVxhEgt3LLA17Cl+SberCaowIRLLX2KNiI5mMoYrsHL8=\n=vwer\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 00507ae54fcb17a442fcaf6908d333ef05578879\ntype commit\ntag 1.0.3\ntagger Nikhil Manchanda <SlickNik@gmail.com> 1382734933 -0700\n\nReleasing v1.0.3 of python-troveclient\n\nAdded support for --bypass-url to use a different trove endpoint\nthan the one specified in the catalog.\n"
+  }
+}

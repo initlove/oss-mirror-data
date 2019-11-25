@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNDpmZTUyZGMwMDg1YjUwYjc4OGM3ZDY2YTc3ZWFjOWI0MTQ4ODQ4M2Zi",
+  "sha": "fe52dc0085b50b788c7d66a77eac9b41488483fb",
+  "url": "https://api.github.com/repos/openstack/heat/git/tags/fe52dc0085b50b788c7d66a77eac9b41488483fb",
+  "tagger": {
+    "name": "Thierry Carrez",
+    "email": "thierry@openstack.org",
+    "date": "2016-03-29T15:54:53Z"
+  },
+  "object": {
+    "sha": "cdc2bfe2af2a2b57c2f902edd41032516b2608fb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/heat/git/commits/cdc2bfe2af2a2b57c2f902edd41032516b2608fb"
+  },
+  "tag": "6.0.0.0rc2",
+  "message": "heat 6.0.0.0rc2 release candidate\n\nmeta:version: 6.0.0.0rc2\nmeta:series: mitaka\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJW+qVNAAoJEFB6+JAlsQQjA+YQAJqjRqnF5Or52YX5drwgngV4\nKN6HkMmPRCTJ/CdCjy7FuXQPNKBNrLBEpJw3o6ZLLREhYLnc30wKvOt30yQS+eLJ\ntHqJGTG2+hQ/plv4mDVWMJgPx/QDrLEYst8uw7poNZVf6/RtyA1K4vA6N6ILDoi+\nYlIzK6Oud0RqqGtpNtNP2TWGLkCr1xMZHH4Rwjkg0zfaHWLJOyG4gyrFFvKl+56z\nB3UKlMuN31dHR0xuFhzxKNQ6/nFhieIRBDXN9qarw05XOHE7kYT1YvlzOrP/B7pD\nMUqLskGtLSEcOwC+u7Ea/56qyJHuyL3N/MwtJLgrE5nDNRD9hoVT/SrARFsw7uC+\n7ogvh3d07/B1JQYwpnX/XWrWE2ppt67n686931lERkt2U0wj+275xLsMqj94xfZ/\noYn52FFju/YC7s6I72yM/SusvOkeTDTrg4UhiEG7IFs5NgVbKUQmYQpNKSh0Vfl0\nW2y7gmx7gAXYaMn6MOT+bK8eW11ef23dSmz+YMrvXjjUYt/axv52vWiu9ffG0dqB\nNvD1k6uHhqXNfATN6bLWX4LSmnCGrwW3QRhBMgp2dzANHT26oQeol+ggzVGIvWBx\nTPN8/Y/DuLi01qExY9m/0Y+7Q+8DN8Yp0UJxHqoR8L84LU4azpxmtfORixHJAVKv\n5FXr9T0LiINFVsG513Lu\n=cpU+\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJW+qVNAAoJEFB6+JAlsQQjA+YQAJqjRqnF5Or52YX5drwgngV4\nKN6HkMmPRCTJ/CdCjy7FuXQPNKBNrLBEpJw3o6ZLLREhYLnc30wKvOt30yQS+eLJ\ntHqJGTG2+hQ/plv4mDVWMJgPx/QDrLEYst8uw7poNZVf6/RtyA1K4vA6N6ILDoi+\nYlIzK6Oud0RqqGtpNtNP2TWGLkCr1xMZHH4Rwjkg0zfaHWLJOyG4gyrFFvKl+56z\nB3UKlMuN31dHR0xuFhzxKNQ6/nFhieIRBDXN9qarw05XOHE7kYT1YvlzOrP/B7pD\nMUqLskGtLSEcOwC+u7Ea/56qyJHuyL3N/MwtJLgrE5nDNRD9hoVT/SrARFsw7uC+\n7ogvh3d07/B1JQYwpnX/XWrWE2ppt67n686931lERkt2U0wj+275xLsMqj94xfZ/\noYn52FFju/YC7s6I72yM/SusvOkeTDTrg4UhiEG7IFs5NgVbKUQmYQpNKSh0Vfl0\nW2y7gmx7gAXYaMn6MOT+bK8eW11ef23dSmz+YMrvXjjUYt/axv52vWiu9ffG0dqB\nNvD1k6uHhqXNfATN6bLWX4LSmnCGrwW3QRhBMgp2dzANHT26oQeol+ggzVGIvWBx\nTPN8/Y/DuLi01qExY9m/0Y+7Q+8DN8Yp0UJxHqoR8L84LU4azpxmtfORixHJAVKv\n5FXr9T0LiINFVsG513Lu\n=cpU+\n-----END PGP SIGNATURE-----\n",
+    "payload": "object cdc2bfe2af2a2b57c2f902edd41032516b2608fb\ntype commit\ntag 6.0.0.0rc2\ntagger Thierry Carrez <thierry@openstack.org> 1459266893 +0200\n\nheat 6.0.0.0rc2 release candidate\n\nmeta:version: 6.0.0.0rc2\nmeta:series: mitaka\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n"
+  }
+}

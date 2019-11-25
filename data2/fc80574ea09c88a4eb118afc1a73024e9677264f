@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTk3MTg2ODpmYzgwNTc0ZWEwOWM4OGE0ZWIxMThhZmMxYTczMDI0ZTk2NzcyNjRm",
+  "sha": "fc80574ea09c88a4eb118afc1a73024e9677264f",
+  "url": "https://api.github.com/repos/openstack/python-muranoclient/git/tags/fc80574ea09c88a4eb118afc1a73024e9677264f",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-09T13:24:34Z"
+  },
+  "object": {
+    "sha": "2f501776a607db3862ce89dbaf22c9d48e7e7f87",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-muranoclient/git/commits/2f501776a607db3862ce89dbaf22c9d48e7e7f87"
+  },
+  "tag": "1.3.0",
+  "message": "python-muranoclient 1.3.0 release\n\nmeta:version: 1.3.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Commit: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Change-Id: Ice0469fc690b75099af66b18217750b861c85726\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1NdBIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JeFC/wL8gHMDYfTjQMOrYWIZnOF\nAB+EQLCZjJYukvlgUyWnwzHXrwJdqA6hWY/dPpi3CaAJjK3Cf25Hrzl3NFtwfVbG\n4kN8h7ujdIhWX8/Dn1QsHQ7MvnLYoYwhnecG/8ESwpCCKwmHyF8sHK0uVr/uxKii\nF7U+ALCRiJ8jYHj7lTvlq+YRNRTx8tAMUk5/Y8YGbxJEjswRMt+mrRdfnMGFwtmA\nsFNQZk+3z2dMtS/kMLMbTgK/sLiR9X3aCps78GKagtNEty/JOY3pqIM285mAIXtQ\n3ww0r/zZvKD5a6bhQj3mclIP//xTDuarG2ix/DNg3a9O21wWSOA/LzrosEz6NRXY\nMQA641p4tb7gi3LnK6yKoskjX6j8KAkvR9iz9n3MyOF7oXSlEt73ZPuJTt4T/eAl\nsC5Dc7R+42/7mJEUo9sc3KsCYPY6g36wb420E4BBQSZ7EOUMsg0IrsFvD9tcUJxt\nj158ktEFxTtxyOrqIclbtqL6Tw9+syCRQYfxP8g6aTI=\n=bNib\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1NdBIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JeFC/wL8gHMDYfTjQMOrYWIZnOF\nAB+EQLCZjJYukvlgUyWnwzHXrwJdqA6hWY/dPpi3CaAJjK3Cf25Hrzl3NFtwfVbG\n4kN8h7ujdIhWX8/Dn1QsHQ7MvnLYoYwhnecG/8ESwpCCKwmHyF8sHK0uVr/uxKii\nF7U+ALCRiJ8jYHj7lTvlq+YRNRTx8tAMUk5/Y8YGbxJEjswRMt+mrRdfnMGFwtmA\nsFNQZk+3z2dMtS/kMLMbTgK/sLiR9X3aCps78GKagtNEty/JOY3pqIM285mAIXtQ\n3ww0r/zZvKD5a6bhQj3mclIP//xTDuarG2ix/DNg3a9O21wWSOA/LzrosEz6NRXY\nMQA641p4tb7gi3LnK6yKoskjX6j8KAkvR9iz9n3MyOF7oXSlEt73ZPuJTt4T/eAl\nsC5Dc7R+42/7mJEUo9sc3KsCYPY6g36wb420E4BBQSZ7EOUMsg0IrsFvD9tcUJxt\nj158ktEFxTtxyOrqIclbtqL6Tw9+syCRQYfxP8g6aTI=\n=bNib\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2f501776a607db3862ce89dbaf22c9d48e7e7f87\ntype commit\ntag 1.3.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1565357074 +0000\n\npython-muranoclient 1.3.0 release\n\nmeta:version: 1.3.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Commit: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Change-Id: Ice0469fc690b75099af66b18217750b861c85726\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

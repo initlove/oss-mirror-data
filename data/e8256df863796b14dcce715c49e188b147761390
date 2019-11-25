@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6ZTgyNTZkZjg2Mzc5NmIxNGRjY2U3MTVjNDllMTg4YjE0Nzc2MTM5MA==",
+  "sha": "e8256df863796b14dcce715c49e188b147761390",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/e8256df863796b14dcce715c49e188b147761390",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2016-06-09T15:17:34Z"
+  },
+  "object": {
+    "sha": "7cb4451a38e28f9e179b75c08cfa6a9b3d85db68",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/7cb4451a38e28f9e179b75c08cfa6a9b3d85db68"
+  },
+  "tag": "v0.4.30",
+  "message": "v0.4.30\n\n- Support 'preexec_fn' and 'restore_signals' arguments for\n  loop.subprocess_run and loop.subprocess_exec methods.\n\n- loop.sock_connect does not require a fully resolved address\n  anymore.  If the address is not an IP address, it will be\n  resolved with getaddrinfo.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

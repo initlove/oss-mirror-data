@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDplYmJjZDM2NGE1MzA3NWU1N2U2YzdhODc1MjYwMmM5OTVmOTcwNjJi",
+  "sha": "ebbcd364a53075e57e6c7a8752602c995f97062b",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/ebbcd364a53075e57e6c7a8752602c995f97062b",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2016-08-24T10:06:07Z"
+  },
+  "object": {
+    "sha": "98efd069384d3c505260b69ebb00811cc4b2dda1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/commits/98efd069384d3c505260b69ebb00811cc4b2dda1"
+  },
+  "tag": "librepo-1.7.19",
+  "message": "v1.7.19\n- Add yumrecord substitution mechanism (mluscon)\n- Fix a memory leak in signature verification (cwalters)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

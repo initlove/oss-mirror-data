@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQwMDI4OTplMTQyMzg1MTViNWViMDRjOThhZTFlY2EwNjcyNmNlMTIxNzZjOTFl",
+  "sha": "e14238515b5eb04c98ae1eca06726ce12176c91e",
+  "url": "https://api.github.com/repos/openstack/neutron/git/tags/e14238515b5eb04c98ae1eca06726ce12176c91e",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-08-11T08:57:07Z"
+  },
+  "object": {
+    "sha": "d225b86738a9db56bc643dfe637b1f21393ad27e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron/git/commits/d225b86738a9db56bc643dfe637b1f21393ad27e"
+  },
+  "tag": "11.0.0.0rc1",
+  "message": "neutron 11.0.0.0rc1 release candidate\n\nmeta:version: 11.0.0.0rc1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Armando Migliaccio <armamig@gmail.com>\nmeta:release:Commit: Kevin Benton <kevin@benton.pub>\nmeta:release:Change-Id: I24d919d321ccef9b9ad5073dfbb3856cca6ce8bc\nmeta:release:Code-Review+1: Kevin Benton <kevin@benton.pub>\nmeta:release:Code-Review+1: Thomas Morin <tmmorin.orange@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZjXFjAAoJEOtsyhSD+nTsXSMH/jNE71ksBGLwG3d4WYQ0qBz9\nFzIFfTAFrNXjluZWCqX4MU64VTNBQPhCkqqw9IqRCN731h8nY3U5WA5XZrR0q/IP\njf1PCPB9z8mQa40F015Fraq9PrRQDEf5jgKYZJwU+oEdLwzvmCAr/SH84UVn3xAO\nxaAhGpkg3VsEl8EZATXYCll3r5Jf7rVLl8BEkfMDLJnkKoJUSkwacg8/LxVryrYS\nhTLogfj2r/g04WdWHJGuQnamYx06jqe3Y6vS+h2nGSIfbCZGEEAl+JLo7CEQTcg7\ngTX8qiAVokDMQsqIoF141stzxdkOgZIJ28Hm5rpubanCN6qPvhEcflwPDyqQdz4=\n=doCa\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZjXFjAAoJEOtsyhSD+nTsXSMH/jNE71ksBGLwG3d4WYQ0qBz9\nFzIFfTAFrNXjluZWCqX4MU64VTNBQPhCkqqw9IqRCN731h8nY3U5WA5XZrR0q/IP\njf1PCPB9z8mQa40F015Fraq9PrRQDEf5jgKYZJwU+oEdLwzvmCAr/SH84UVn3xAO\nxaAhGpkg3VsEl8EZATXYCll3r5Jf7rVLl8BEkfMDLJnkKoJUSkwacg8/LxVryrYS\nhTLogfj2r/g04WdWHJGuQnamYx06jqe3Y6vS+h2nGSIfbCZGEEAl+JLo7CEQTcg7\ngTX8qiAVokDMQsqIoF141stzxdkOgZIJ28Hm5rpubanCN6qPvhEcflwPDyqQdz4=\n=doCa\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d225b86738a9db56bc643dfe637b1f21393ad27e\ntype commit\ntag 11.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1502441827 +0000\n\nneutron 11.0.0.0rc1 release candidate\n\nmeta:version: 11.0.0.0rc1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Armando Migliaccio <armamig@gmail.com>\nmeta:release:Commit: Kevin Benton <kevin@benton.pub>\nmeta:release:Change-Id: I24d919d321ccef9b9ad5073dfbb3856cca6ce8bc\nmeta:release:Code-Review+1: Kevin Benton <kevin@benton.pub>\nmeta:release:Code-Review+1: Thomas Morin <tmmorin.orange@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

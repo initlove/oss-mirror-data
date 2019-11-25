@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDQ6ZTA4NTU3MzMzYWRlMzdlMDBhMDFmZmQ1Y2VjMDVmNGYwMTU2ZWY3ZQ==",
+  "sha": "e08557333ade37e00a01ffd5cec05f4f0156ef7e",
+  "url": "https://api.github.com/repos/openstack/python-ironicclient/git/tags/e08557333ade37e00a01ffd5cec05f4f0156ef7e",
+  "tagger": {
+    "name": "Devananda van der Veen",
+    "email": "devananda.vdv@gmail.com",
+    "date": "2015-01-19T17:17:53Z"
+  },
+  "object": {
+    "sha": "16ff4e5852ad9f38b932f411c24217fd3902c485",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironicclient/git/commits/16ff4e5852ad9f38b932f411c24217fd3902c485"
+  },
+  "tag": "0.3.3",
+  "message": "Release 0.3.3\n\nThis release contains the following fixes:\n- Fix to properly issue an Unauthorized exception, bug 1402840\n- Removed http proxy environment variable so that httpretty can work, bug 1403046\n- Support setting non-string fields, bug 1403491\n- ironicclient handle faultstring when using SessionClient, bug 1402893\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlS9PMEACgkQhFvuBniJg6dCTwCgzvPEA9ToOPQtsBQ4Hw04zyTN\nub4AoKqDfq6bdXflQQq8+q5hYcyh6vyI\n=HMOu\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlS9PMEACgkQhFvuBniJg6dCTwCgzvPEA9ToOPQtsBQ4Hw04zyTN\nub4AoKqDfq6bdXflQQq8+q5hYcyh6vyI\n=HMOu\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 16ff4e5852ad9f38b932f411c24217fd3902c485\ntype commit\ntag 0.3.3\ntagger Devananda van der Veen <devananda.vdv@gmail.com> 1421687873 -0800\n\nRelease 0.3.3\n\nThis release contains the following fixes:\n- Fix to properly issue an Unauthorized exception, bug 1402840\n- Removed http proxy environment variable so that httpretty can work, bug 1403046\n- Support setting non-string fields, bug 1403491\n- ironicclient handle faultstring when using SessionClient, bug 1402893\n"
+  }
+}

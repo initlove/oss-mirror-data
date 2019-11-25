@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzUwODQxMTplOWFkMGFhMGM0N2MzODMwMjQwNmJlY2ExN2M2NGVkZjYwOGJmZDA1",
+  "sha": "e9ad0aa0c47c38302406beca17c64edf608bfd05",
+  "url": "https://api.github.com/repos/ReactiveX/RxJava/git/tags/e9ad0aa0c47c38302406beca17c64edf608bfd05",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2014-12-02T06:32:34Z"
+  },
+  "object": {
+    "sha": "e2c6ced6c2049e86746070bc35f35177acb4386f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/ReactiveX/RxJava/git/commits/e2c6ced6c2049e86746070bc35f35177acb4386f"
+  },
+  "tag": "v1.0.2",
+  "message": "Release of 1.0.2\n\n- Merge pull request #1918 from ReactiveX/revert-1916-experimentalOnBackpressureBufferWithCapacity\n- Revert \"Experimental onBackpressureBufferWithCapacity\"\n- Merge pull request #1916 from benjchristensen/experimentalOnBackpressureBufferWithCapacity\n- rx.internal.* warning\n- BufferOverflowException -> MissingBackpressureException\n- javadocs: add \"since\" reminder; minor text changes\n- Mark onBackpressureBuffer(count) as Beta\n- Use Action instead of Func0<Void>\n- Merge branch '1.x' of github.com:srvaroa/RxJava into experimentalOnBackpressureBufferWithCapacity\n- Merge pull request #1907 from benjchristensen/onBackpressureBlock\n- Merge pull request #1912 from akarnokd/RetryWithBackpressureFix\n- Merge pull request #1911 from akarnokd/AtomicPerf\n- Fixed retry without backpressure & test function to support bp.\n- getAndSet benchmarks\n- Atomic operations JMH benchmarks\n- Marking OnBackpressureBlock as @Experimental\n- Merge branch 'OnBackpressureBlock' of github.com:akarnokd/RxJava into onBackpressureBlock\n- Merge pull request #1905 from benjchristensen/lifecycle-annotations\n- Merge pull request #1904 from zsxwing/fix-scan\n- Beta & Experimental Annotations\n- Version and Lifecycle Annotations\n- Merge pull request #1898 from akarnokd/ScheduledActionNoInterrupt\n- Fix the bug that Scan may request 0 when n is 1\n- Merge pull request #1903 from benjchristensen/testscheduler-1790\n- Version 1.0.1\n- Fix TestScheduler Handling of Immediate vs Virtual Time\n- Fixed typo.\n- Do not leave drain if queue has data and downstream doesn't do backpressure.\n- Fixed accidental import * expansion.\n- Operator OnBackpressureBlock\n- Add optional bound to onBackpressureBuffer\n- Some class simplifications.\n- Perf profile & simplifications.\n- Simplified the memory footprint.\n- Cleanup the worker.\n- Avoid self-interrupting of a completing ScheduledAction.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNDpmZDlmY2FlODY5ZWM0ODlhNTg1MDgyZDlhNmMzNzg5OGI3YTc4ZWI4",
+  "sha": "fd9fcae869ec489a585082d9a6c37898b7a78eb8",
+  "url": "https://api.github.com/repos/openstack/heat/git/tags/fd9fcae869ec489a585082d9a6c37898b7a78eb8",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-01-31T20:54:17Z"
+  },
+  "object": {
+    "sha": "32fefb75ffc175053aef0d65bc41ae9f978639b2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/heat/git/commits/32fefb75ffc175053aef0d65bc41ae9f978639b2"
+  },
+  "tag": "6.1.1",
+  "message": "heat 6.1.1 release\n\nmeta:version: 6.1.1\nmeta:diff-start: -\nmeta:series: mitaka\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: rabi <ramishra@redhat.com>\nmeta:release:Commit: rabi <ramishra@redhat.com>\nmeta:release:Change-Id: I4541bdcedb2b902e0810ae52bbfa8fb5df66f739\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYkPl5AAoJELkGmxM1cAzc450H/RhIoElnio1Qt49PAV5tFcen\nG2764MVUfGB/U6/5gBD6MJxdJUoRkGLXwqpF2ekrZdv33FvyoWO+eKtmrODkNdke\nbHa+H/nKmNBdm+641eevteG0H6KCbYmUnX5bB9av/TpS/l4TJ8BCOYlv3LbjdGlS\nhGl5EM4/peLsGzGl8p2aTSPeICsFCP03VEjhMlEdx3OuqsELP3a1fa/yzf8Y8yTc\nMF7FvCkCtr8yLfCgdG4t0W6aaTrpreSGTurghSzEAp78+ZKu9k8pOXGmelOef86L\nWOGJLbVUPAbw01PrzEz31SZK3/o8mmfkrhy8QAnTy1O/4EFkMPiDqZ/8EYfduFE=\n=uMa3\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYkPl5AAoJELkGmxM1cAzc450H/RhIoElnio1Qt49PAV5tFcen\nG2764MVUfGB/U6/5gBD6MJxdJUoRkGLXwqpF2ekrZdv33FvyoWO+eKtmrODkNdke\nbHa+H/nKmNBdm+641eevteG0H6KCbYmUnX5bB9av/TpS/l4TJ8BCOYlv3LbjdGlS\nhGl5EM4/peLsGzGl8p2aTSPeICsFCP03VEjhMlEdx3OuqsELP3a1fa/yzf8Y8yTc\nMF7FvCkCtr8yLfCgdG4t0W6aaTrpreSGTurghSzEAp78+ZKu9k8pOXGmelOef86L\nWOGJLbVUPAbw01PrzEz31SZK3/o8mmfkrhy8QAnTy1O/4EFkMPiDqZ/8EYfduFE=\n=uMa3\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 32fefb75ffc175053aef0d65bc41ae9f978639b2\ntype commit\ntag 6.1.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1485896057 +0000\n\nheat 6.1.1 release\n\nmeta:version: 6.1.1\nmeta:diff-start: -\nmeta:series: mitaka\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: rabi <ramishra@redhat.com>\nmeta:release:Commit: rabi <ramishra@redhat.com>\nmeta:release:Change-Id: I4541bdcedb2b902e0810ae52bbfa8fb5df66f739\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

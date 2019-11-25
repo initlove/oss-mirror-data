@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc0ODk5NDc6ZjdjMDdiMDljOTA1YTcyNGFkMWM4MTQ1MGFlMDlkZDI0NGFhNWJjZg==",
+  "sha": "f7c07b09c905a724ad1c81450ae09dd244aa5bcf",
+  "url": "https://api.github.com/repos/openstack/neutron-fwaas/git/tags/f7c07b09c905a724ad1c81450ae09dd244aa5bcf",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-07-08T10:43:46Z"
+  },
+  "object": {
+    "sha": "ea7590e4e19e5ef0bb8731d6ed1374084feeddad",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-fwaas/git/commits/ea7590e4e19e5ef0bb8731d6ed1374084feeddad"
+  },
+  "tag": "13.0.2",
+  "message": "neutron-fwaas 13.0.2 release\n\nmeta:version: 13.0.2\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: I1bf2617eb69107a84cdcc18ef68939fef9b0a24f\nmeta:release:Code-Review+1: Édouard Thuleau <ethuleau@juniper.net>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0jHmIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2MzqC/4vyFy9l4F7iizypsE+BzNm\nr4wIuXhsOU7LR6H9KRiCREcsRJss1KbGprt3mFjkLdFntZ7OWiWZeTb5nyCfY099\nbeg8obY3y7jsD3bOKdoqp7YsmXQKTsc24fJrrzLVP6yEB+5T5NefojauPjTPcsXZ\n6TMa78oL98BiQzNDWko9wNpGKnI+OpS6R/A1HngH2NeNGb+FZ+o5LIekr2qy8g7o\nmhKHNzSL2fxy5eGUNlzUz6SIPYc4T3Bogh2pP/zJ9ogtc68V5hZnUvRMguWKvocC\nSxVujbJ62qggH5QszisauZ97SkySuHhuhduAwI1qpiCKus7Vmb3k1Aq/XSI8Vkr5\n4/qGtKxtEkjAx/zINjcnbf5VCYzwG0H7zZShEhaqYKVqmoPMPN3qGY7cyUzuXJeJ\nKxFcnbn3q+Np7JFGTj4VPnS+mqeesxmOENNKdpp1Vdl6XQZIns/IXmNzK6htrcng\noqkMxYhGyXsgQyC+ymVx3SP0Sy/LZdjZAYVzUwLyAk8=\n=1UK0\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl0jHmIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2MzqC/4vyFy9l4F7iizypsE+BzNm\nr4wIuXhsOU7LR6H9KRiCREcsRJss1KbGprt3mFjkLdFntZ7OWiWZeTb5nyCfY099\nbeg8obY3y7jsD3bOKdoqp7YsmXQKTsc24fJrrzLVP6yEB+5T5NefojauPjTPcsXZ\n6TMa78oL98BiQzNDWko9wNpGKnI+OpS6R/A1HngH2NeNGb+FZ+o5LIekr2qy8g7o\nmhKHNzSL2fxy5eGUNlzUz6SIPYc4T3Bogh2pP/zJ9ogtc68V5hZnUvRMguWKvocC\nSxVujbJ62qggH5QszisauZ97SkySuHhuhduAwI1qpiCKus7Vmb3k1Aq/XSI8Vkr5\n4/qGtKxtEkjAx/zINjcnbf5VCYzwG0H7zZShEhaqYKVqmoPMPN3qGY7cyUzuXJeJ\nKxFcnbn3q+Np7JFGTj4VPnS+mqeesxmOENNKdpp1Vdl6XQZIns/IXmNzK6htrcng\noqkMxYhGyXsgQyC+ymVx3SP0Sy/LZdjZAYVzUwLyAk8=\n=1UK0\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ea7590e4e19e5ef0bb8731d6ed1374084feeddad\ntype commit\ntag 13.0.2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1562582626 +0000\n\nneutron-fwaas 13.0.2 release\n\nmeta:version: 13.0.2\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: I1bf2617eb69107a84cdcc18ef68939fef9b0a24f\nmeta:release:Code-Review+1: Édouard Thuleau <ethuleau@juniper.net>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

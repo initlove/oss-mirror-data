@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTpmM2U0MTM5NDhlMzQxODAxMzBmOTI3ZDQwMmNlYmQ1YWUyYmZjYzk0",
+  "sha": "f3e413948e34180130f927d402cebd5ae2bfcc94",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/f3e413948e34180130f927d402cebd5ae2bfcc94",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-02-17T23:00:14Z"
+  },
+  "object": {
+    "sha": "4533935b66e7740c5efc92f199a619f1b7280d4b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/4533935b66e7740c5efc92f199a619f1b7280d4b"
+  },
+  "tag": "v1.4.2-rc.1",
+  "message": "Release of 1.4.2-rc.1\n\n- 4533935b66e7740c5efc92f199a619f1b7280d4b: Merge pull request #744 from tbak/master\n- 53c225bcc5b7379e4554e02f3accea01a0831203: Merge pull request #749 from elandau/master\n- efacc02d0bcefeaddcc4b48770d1b424784ce591: more cleanup based on PR comments\n- bd2e63e9acb1d9d8766861ca6d43412f664c5efd: Update based on PR comments\n- 9f6b89c56e092864124a44668e2357430bdc1002: Cleanup from manual merge\n- 927264423de69c9017957e7ae4ea4e15ffa0c0b5: Merge branch 'master' of https://github.com/Netflix/eureka\n- 51a90f7ea32af6d6f6f40dba71c35013636f97be: Expose EurekaClient events via a new EurekaEventListener API.\n- f8e1b19a737d93652697285e7c6534cacfc1ae78: Fix for issue #702 (handle charset provided in Content-Type header) This PR (compared to the previouse, undone one #739) checks for entity types and is applied only to eureka specific data structures.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

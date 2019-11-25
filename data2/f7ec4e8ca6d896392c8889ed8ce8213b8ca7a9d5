@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc0ODk5ODI6ZjdlYzRlOGNhNmQ4OTYzOTJjODg4OWVkOGNlODIxM2I4Y2E3YTlkNQ==",
+  "sha": "f7ec4e8ca6d896392c8889ed8ce8213b8ca7a9d5",
+  "url": "https://api.github.com/repos/openstack/neutron-vpnaas/git/tags/f7ec4e8ca6d896392c8889ed8ce8213b8ca7a9d5",
+  "tagger": {
+    "name": "YAMAMOTO Takashi",
+    "email": "yamamoto@midokura.com",
+    "date": "2017-08-11T01:05:31Z"
+  },
+  "object": {
+    "sha": "8278615c1f35f98447a3f9692a78ab45e90ee8c6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-vpnaas/git/commits/8278615c1f35f98447a3f9692a78ab45e90ee8c6"
+  },
+  "tag": "11.0.0.0rc1",
+  "message": "neutron-vpnaas 11.0.0.0rc1 release candidate\n\nmeta:version: 11.0.0.0rc1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJZjQLbAAoJEConfk+8oFnIlrAQAIDTIS8k6SXtiq4geQjm2UR3\nW8xV5TREROtS11c8FriaA5uTP/HZxtXUwn/kuFTrNsa4OU9b7oFcDmUTRDk6CebL\nOBaV4UPo0R840sKK4EpQBv1/g2gVdUnP9acoVChaZvqEs5kq8BfaWMT0bE57kLwx\n249rzKnMuSBOReE22oblZam6diYAYJixXOEHCslKYDczbtLp9Eck8PQhgG3scyYT\nIHtcMvyAM3OvEPLCovvJoSUPIleTP/tIW9LYF9YmXwVPusu6MQpR3rMbf0rlWtVZ\n+8mrQE82DhFqz5yfeCGTR+WApyXpVHlLr1fLMPwRPiChBKpo6OMFZ+IEJZfnuryS\n6SEN+u2LqVeZQsuB/ZCIhAOIhxio4bOa1x7bRqM4twfnWhd7dX3LCXKleRfhChnO\nidatBtbJOLRLAYRp3HrLvKr1WiHdzNpkNO49TfX5s4gZ8/ltVuCPJr+URi82HGqC\n1rYE+6gticdIpEeDzbiNWoVGn5UFd0drZHREml1YoNLyHYVI0FWc45idfwDgz5uU\ngt0tqL5ksD8i4Qk9X4mFCN0i9GZGZwj13pDFt6wquqI8fkNvPk9+s9VcN9nf4k9r\n5k6kwmfW/7nJz+nyAmTHdIpbHc0bTNAvF9Qn9S2H3egOpBcIaQNLs+UV+BPVnS8M\nmfXRsgH9fDnrYY87oXEr\n=purE\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJZjQLbAAoJEConfk+8oFnIlrAQAIDTIS8k6SXtiq4geQjm2UR3\nW8xV5TREROtS11c8FriaA5uTP/HZxtXUwn/kuFTrNsa4OU9b7oFcDmUTRDk6CebL\nOBaV4UPo0R840sKK4EpQBv1/g2gVdUnP9acoVChaZvqEs5kq8BfaWMT0bE57kLwx\n249rzKnMuSBOReE22oblZam6diYAYJixXOEHCslKYDczbtLp9Eck8PQhgG3scyYT\nIHtcMvyAM3OvEPLCovvJoSUPIleTP/tIW9LYF9YmXwVPusu6MQpR3rMbf0rlWtVZ\n+8mrQE82DhFqz5yfeCGTR+WApyXpVHlLr1fLMPwRPiChBKpo6OMFZ+IEJZfnuryS\n6SEN+u2LqVeZQsuB/ZCIhAOIhxio4bOa1x7bRqM4twfnWhd7dX3LCXKleRfhChnO\nidatBtbJOLRLAYRp3HrLvKr1WiHdzNpkNO49TfX5s4gZ8/ltVuCPJr+URi82HGqC\n1rYE+6gticdIpEeDzbiNWoVGn5UFd0drZHREml1YoNLyHYVI0FWc45idfwDgz5uU\ngt0tqL5ksD8i4Qk9X4mFCN0i9GZGZwj13pDFt6wquqI8fkNvPk9+s9VcN9nf4k9r\n5k6kwmfW/7nJz+nyAmTHdIpbHc0bTNAvF9Qn9S2H3egOpBcIaQNLs+UV+BPVnS8M\nmfXRsgH9fDnrYY87oXEr\n=purE\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8278615c1f35f98447a3f9692a78ab45e90ee8c6\ntype commit\ntag 11.0.0.0rc1\ntagger YAMAMOTO Takashi <yamamoto@midokura.com> 1502413531 +0900\n\nneutron-vpnaas 11.0.0.0rc1 release candidate\n\nmeta:version: 11.0.0.0rc1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\n"
+  }
+}

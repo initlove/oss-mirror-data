@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA2OTg1ODQ6ZWQ5OGIxNzg5ZTMzY2ZkMmZiZjk1YzRlOWRiMWVkNGFjMDM0NzNlNQ==",
+  "sha": "ed98b1789e33cfd2fbf95c4e9db1ed4ac03473e5",
+  "url": "https://api.github.com/repos/openstack/python-troveclient/git/tags/ed98b1789e33cfd2fbf95c4e9db1ed4ac03473e5",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-04-12T23:52:08Z"
+  },
+  "object": {
+    "sha": "1ac7647c6f9ccf6b31bbc74f76d1d79eddd1b2ce",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-troveclient/git/commits/1ac7647c6f9ccf6b31bbc74f76d1d79eddd1b2ce"
+  },
+  "tag": "ocata-em",
+  "message": "python-troveclient ocata-em release\n\nmeta:version: ocata-em\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Ibac7f787950bf23e9a75fce37a6b82ec45d7df89\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyxJKgZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eONY/DACoT23P/Hxb1H2Teepac7I8\nmzJl1IgoisZR9wRRpo3PRcn6O2TswAR5v50n2H5g/JOsmvUZ8dp5KGrw+7nLPUYQ\ng8oIKiQS93POZECZSySCQww6GpVP2RCVN4wWfJbxvGI24XT/GkarMUsYiiiAcpeT\n3OVgGgg/gIuzvkoVZO+vwcFcJnejmgUrXMLY1D4XB3Ec+MOLvLXMFO4svtMrO9KK\n9h3AXCtLEbJicfFdSAfIOwNKiwEjB49mGtlRaQdMWqQbg9nBgVS9KJIClTxTGtgL\ny6p3aOdvnvqEZL9ehP5gWM8fp5Fvbqgx6YpN1SbAo2NNK28mGw2at09FovgGKLEj\nGYQZs1KthLK8IO7JPnqO0+djJ7yEKLlzHkcqXk31fuHYI9kcwtHNIZrmgLkvTElw\nKXSPcUUA+20q1amHBy6pPKosAuYz+ZLqDkOuI3Ew30cYTdYfPttoQp6dwIG61mbR\nwkpS0tWRbEPA+Ox9JmNxiHy3H4GmATRGYOaztuFQeI0=\n=vbvO\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyxJKgZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eONY/DACoT23P/Hxb1H2Teepac7I8\nmzJl1IgoisZR9wRRpo3PRcn6O2TswAR5v50n2H5g/JOsmvUZ8dp5KGrw+7nLPUYQ\ng8oIKiQS93POZECZSySCQww6GpVP2RCVN4wWfJbxvGI24XT/GkarMUsYiiiAcpeT\n3OVgGgg/gIuzvkoVZO+vwcFcJnejmgUrXMLY1D4XB3Ec+MOLvLXMFO4svtMrO9KK\n9h3AXCtLEbJicfFdSAfIOwNKiwEjB49mGtlRaQdMWqQbg9nBgVS9KJIClTxTGtgL\ny6p3aOdvnvqEZL9ehP5gWM8fp5Fvbqgx6YpN1SbAo2NNK28mGw2at09FovgGKLEj\nGYQZs1KthLK8IO7JPnqO0+djJ7yEKLlzHkcqXk31fuHYI9kcwtHNIZrmgLkvTElw\nKXSPcUUA+20q1amHBy6pPKosAuYz+ZLqDkOuI3Ew30cYTdYfPttoQp6dwIG61mbR\nwkpS0tWRbEPA+Ox9JmNxiHy3H4GmATRGYOaztuFQeI0=\n=vbvO\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 1ac7647c6f9ccf6b31bbc74f76d1d79eddd1b2ce\ntype commit\ntag ocata-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1555113128 +0000\n\npython-troveclient ocata-em release\n\nmeta:version: ocata-em\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Ibac7f787950bf23e9a75fce37a6b82ec45d7df89\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

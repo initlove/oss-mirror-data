@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc4OTM3MDpmMTYzYTllZDQzZjIwZTNkYmU2Y2EyMDgxNWE2ZTMxODJmMGUwYTMx",
+  "sha": "f163a9ed43f20e3dbe6ca20815a6e3182f0e0a31",
+  "url": "https://api.github.com/repos/openstack/python-novaclient/git/tags/f163a9ed43f20e3dbe6ca20815a6e3182f0e0a31",
+  "tagger": {
+    "name": "Michael Still",
+    "email": "mikal@stillhq.com",
+    "date": "2014-07-10T23:56:12Z"
+  },
+  "object": {
+    "sha": "580c0aa61128b20aad77e2d43119463fc4d9f99e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-novaclient/git/commits/580c0aa61128b20aad77e2d43119463fc4d9f99e"
+  },
+  "tag": "2.18.0",
+  "message": "Release as requested on openstack-dev. Fixes released include resolving bug 1297796, which relates to process safety.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (GNU/Linux)\n\niEYEABECAAYFAlO/KHcACgkQlhS32Mrx372PUwCgg4VgqkT4dmUxxfAwGEXqH3pt\nFfYAoICBjz9B6ZanVWFbq4yw1ZiYmv8r\n=YB8c\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (GNU/Linux)\n\niEYEABECAAYFAlO/KHcACgkQlhS32Mrx372PUwCgg4VgqkT4dmUxxfAwGEXqH3pt\nFfYAoICBjz9B6ZanVWFbq4yw1ZiYmv8r\n=YB8c\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 580c0aa61128b20aad77e2d43119463fc4d9f99e\ntype commit\ntag 2.18.0\ntagger Michael Still <mikal@stillhq.com> 1405036572 +1000\n\nRelease as requested on openstack-dev. Fixes released include resolving bug 1297796, which relates to process safety.\n"
+  }
+}

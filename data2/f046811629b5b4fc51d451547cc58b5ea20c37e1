@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzM2NTA0OmYwNDY4MTE2MjliNWI0ZmM1MWQ0NTE1NDdjYzU4YjVlYTIwYzM3ZTE=",
+  "sha": "f046811629b5b4fc51d451547cc58b5ea20c37e1",
+  "url": "https://api.github.com/repos/resque/redis-namespace/git/tags/f046811629b5b4fc51d451547cc58b5ea20c37e1",
+  "tagger": {
+    "name": "Ryan Biesemeyer",
+    "email": "ryan@simplymeasured.com",
+    "date": "2013-12-04T03:08:28Z"
+  },
+  "object": {
+    "sha": "2d3067198bdec2d6de5ab780f7cd455f542c87d8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/resque/redis-namespace/git/commits/2d3067198bdec2d6de5ab780f7cd455f542c87d8"
+  },
+  "tag": "v1.4.0",
+  "message": "v1.4.0\n\n - Add support for `SCAN` family of commands (`HSCAN`, `SSCAN`, `ZSCAN`)\n - Add support for redis-rb's `scan_each` method and friends\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\n\niQIcBAABCgAGBQJSnpy6AAoJENsKO4td9bkLhGQP/jy251hY6JFNDqyOn9ndtr/z\nmKZdKsRkB2TPj5NH/bUkZt9q9ZSq1M3Ag+nY/gXOT8LPsUFKPzx0HCTE6sjkupJ6\nF2zZx+eNZnwHsDbvvGVShjOQ2v1pOQoGu4ToKGrYa5h0FEYeSYwKKKl+rnRiZvuj\n8qMVaYD6ie/PQ2ejl7Is3zKTqQBBFqzuzn1ScfFK112gtOslj6YRnY+DoeE3mPds\nmSIxm3CBufcBt+aEpRKvG/gmHM+UYEl/sSfBCjNBnP8KNlskNRSnQTwK7GJwGDHU\neuf8dHhLnCN4282CtwLq/4CYMd4K8S+owGmP2TXi8TxfnE4yOPJSnffMB6fxcWNA\nkmNF2n/s/dRCvRYxpQ2GxTdlWzTyHXPCpurmjlqX0u//UeRfcF+tIpJNSq0+19D0\ncvEj9QDkW9JO0+U5USbnL8eWXl+wW7YYdbZyIBy3jzxfYRZH65TCqrtaA188LkO5\nI5CGAf+9LogX2C6oINiMXLuZ80KixAd7YYJGt0mmEGKw17WQO1gKYsTXUFow2RJh\nmHmTGBkYzkAm+80dYrFX5BShdMvuaoO+NTJEdfPQ4YbDUGlh2Af9jE9PCU0AZrIK\nCsz41J3ASiZ7izeRBdPBbjFWU2TUB9GlT4v1rCOayEW2T7MrhCgftEOagJXz0iOJ\n1JigYPMp3GGhuaxTzqDX\n=UQ8S\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unverified_email",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\n\niQIcBAABCgAGBQJSnpy6AAoJENsKO4td9bkLhGQP/jy251hY6JFNDqyOn9ndtr/z\nmKZdKsRkB2TPj5NH/bUkZt9q9ZSq1M3Ag+nY/gXOT8LPsUFKPzx0HCTE6sjkupJ6\nF2zZx+eNZnwHsDbvvGVShjOQ2v1pOQoGu4ToKGrYa5h0FEYeSYwKKKl+rnRiZvuj\n8qMVaYD6ie/PQ2ejl7Is3zKTqQBBFqzuzn1ScfFK112gtOslj6YRnY+DoeE3mPds\nmSIxm3CBufcBt+aEpRKvG/gmHM+UYEl/sSfBCjNBnP8KNlskNRSnQTwK7GJwGDHU\neuf8dHhLnCN4282CtwLq/4CYMd4K8S+owGmP2TXi8TxfnE4yOPJSnffMB6fxcWNA\nkmNF2n/s/dRCvRYxpQ2GxTdlWzTyHXPCpurmjlqX0u//UeRfcF+tIpJNSq0+19D0\ncvEj9QDkW9JO0+U5USbnL8eWXl+wW7YYdbZyIBy3jzxfYRZH65TCqrtaA188LkO5\nI5CGAf+9LogX2C6oINiMXLuZ80KixAd7YYJGt0mmEGKw17WQO1gKYsTXUFow2RJh\nmHmTGBkYzkAm+80dYrFX5BShdMvuaoO+NTJEdfPQ4YbDUGlh2Af9jE9PCU0AZrIK\nCsz41J3ASiZ7izeRBdPBbjFWU2TUB9GlT4v1rCOayEW2T7MrhCgftEOagJXz0iOJ\n1JigYPMp3GGhuaxTzqDX\n=UQ8S\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2d3067198bdec2d6de5ab780f7cd455f542c87d8\ntype commit\ntag v1.4.0\ntagger Ryan Biesemeyer <ryan@simplymeasured.com> 1386126508 +0000\n\nv1.4.0\n\n - Add support for `SCAN` family of commands (`HSCAN`, `SSCAN`, `ZSCAN`)\n - Add support for redis-rb's `scan_each` method and friends\n"
+  }
+}

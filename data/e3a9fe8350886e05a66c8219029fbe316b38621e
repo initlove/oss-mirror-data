@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY1NzMyNDE6ZTNhOWZlODM1MDg4NmUwNWE2NmM4MjE5MDI5ZmJlMzE2YjM4NjIxZQ==",
+  "sha": "e3a9fe8350886e05a66c8219029fbe316b38621e",
+  "url": "https://api.github.com/repos/hyperledger/fabric/git/tags/e3a9fe8350886e05a66c8219029fbe316b38621e",
+  "tagger": {
+    "name": "Gari Singh",
+    "email": "gari.r.singh@gmail.com",
+    "date": "2018-07-08T17:18:13Z"
+  },
+  "object": {
+    "sha": "df84b5b3c3014c3f6cf469df21766dcd645ecb7e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/hyperledger/fabric/git/commits/df84b5b3c3014c3f6cf469df21766dcd645ecb7e"
+  },
+  "tag": "v1.1.1",
+  "message": "v1.1.1 July 5, 2018\n---------------------\n\nRelease Notes\n-------------\nBug fixes, documentation and test coverage improvements, UX improvements\nbased on user feedback and changes to address a variety of static scan\nfindings (unused code, static security scanning, spelling, linting and more).\n\nKnown Vulnerabilities\n---------------------\nnone\n\nResolved Vulnerabilities\n------------------------\nhttps://jira.hyperledger.org/browse/FAB-10537\nhttps://jira.hyperledger.org/browse/FAB-10577\n\nKnown Issues & Workarounds\n--------------------------\nThe fabric-ccenv image which is used to build chaincode, currently includes\nthe github.com/hyperledger/fabric/core/chaincode/shim (\"shim\") package.\nThis is convenient, as it provides the ability to package chaincode\nwithout the need to include the \"shim\". However, this may cause issues in future\nreleases (and/or when trying to use packages which are included by the \"shim\").\n\nIn order to avoid any issues, users are advised to manually vendor the \"shim\"\npackage with their chaincode prior to using the peer CLI for packaging and/or\nfor installing chaincode.\n\nPlease refer to https://jira.hyperledger.org/browse/FAB-5177 for more details,\nand kindly be aware that given the above, we may end up changing the\nfabric-ccenv in the future.\n\nChange Log\n----------\nhttps://github.com/hyperledger/fabric/blob/master/CHANGELOG.md#v111\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

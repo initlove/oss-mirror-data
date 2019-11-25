@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDQ6ZjZjODI3NzVmMzQ1NTViMjZhMzRmMWVkNmEwZTZjZGMyMTI0MGY2NA==",
+  "sha": "f6c82775f34555b26a34f1ed6a0e6cdc21240f64",
+  "url": "https://api.github.com/repos/openstack/python-ironicclient/git/tags/f6c82775f34555b26a34f1ed6a0e6cdc21240f64",
+  "tagger": {
+    "name": "Devananda van der Veen",
+    "email": "devananda.vdv@gmail.com",
+    "date": "2014-12-10T19:03:29Z"
+  },
+  "object": {
+    "sha": "8a07fdffb2a0ddcbe913e08364f0d41cd4b29699",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ironicclient/git/commits/8a07fdffb2a0ddcbe913e08364f0d41cd4b29699"
+  },
+  "tag": "0.3.2",
+  "message": "tag 0.3.2 release\n\n- Add keystone v3 CLI support\n- Add tty password entry to CLI\n- Add node-set-maintenance command to CLI\n- Include maintenance_reason in CLI output of node-show\n- Add option to specify node uuid in node-create subcommand\n- Add GET support for vendor_passthru to the library\n\nPlus several fixes to doc and help strings.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlSImQsACgkQhFvuBniJg6cD/gCdGe8XPZPW7VUwsDjw09K4doph\nblMAn2MoHV242PwJLrcI7zURYQWqP4Lw\n=Xvji\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlSImQsACgkQhFvuBniJg6cD/gCdGe8XPZPW7VUwsDjw09K4doph\nblMAn2MoHV242PwJLrcI7zURYQWqP4Lw\n=Xvji\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 8a07fdffb2a0ddcbe913e08364f0d41cd4b29699\ntype commit\ntag 0.3.2\ntagger Devananda van der Veen <devananda.vdv@gmail.com> 1418238209 -0800\n\ntag 0.3.2 release\n\n- Add keystone v3 CLI support\n- Add tty password entry to CLI\n- Add node-set-maintenance command to CLI\n- Include maintenance_reason in CLI output of node-show\n- Add option to specify node uuid in node-create subcommand\n- Add GET support for vendor_passthru to the library\n\nPlus several fixes to doc and help strings.\n"
+  }
+}

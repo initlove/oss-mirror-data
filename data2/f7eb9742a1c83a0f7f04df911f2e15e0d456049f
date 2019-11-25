@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOmY3ZWI5NzQyYTFjODNhMGY3ZjA0ZGY5MTFmMmUxNWUwZDQ1NjA0OWY=",
+  "sha": "f7eb9742a1c83a0f7f04df911f2e15e0d456049f",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/f7eb9742a1c83a0f7f04df911f2e15e0d456049f",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2016-07-02T16:01:09Z"
+  },
+  "object": {
+    "sha": "b5da11c0b36547c9a9cae5b85693a33143c3f354",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/b5da11c0b36547c9a9cae5b85693a33143c3f354"
+  },
+  "tag": "4.0.0",
+  "message": "Version 4.0.0\n\n - Requiring `serialport` now returns the SerialPort constructor function instead of a factory object. `SerialPort.SerialPort` is now depreciated.\n - `SerialPort` constructor now throws on argument errors immediately.\n - `.write(writeCallback)` now only calls it's callback once after the entire write operation, it used to be called for each write cycle and return the bytes written. This reduces the number of callbacks by hundreds of thousands over a megabyte at low bandwidth.\n - Disconnections now always attempt to close the port, and you'll always get a `close` event after a `disconnect` event\n - All callbacks are called in the context of the port, `this` now equals the port.\n - Removed `openImmediately` from the constructor's api, the functionality is now named `autoOpen` on the options object.\n - Removed extraneous flow control settings from the `flowControl` option, use the specific options to set these flags now.\n - Removed undocumented callbacks from the options object `disconnectedCallback` and `dataCallback`\n - Renamed `serialportlist` to `serialport-list`\n - Renamed `serialportterm` to `serialport-term`\n - Added a contributors guide\n - Added our first Arduino required integration tests\n - [unix] `.drain` and `.set` now properly report errors\n - [unix] Ports are now locked by default with the new `lock` options matches windows default behavior\n - [windows] `.update()` now supports windows for changing baud rates\n - [windows] Fixed a bug where we weren't properly opening ports (provides better support virtual com ports too) thanks to @RogerHardiman\n - [windows] known issue `lock: false` doesn't work (no change in behavior)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

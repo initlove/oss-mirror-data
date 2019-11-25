@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTIwOTU1NjQ6ZTc2YzIxNzRiYTYyNmEyNGY1NGNiOGFkZTRhNTc4OGZhMDhiMjU1NQ==",
+  "sha": "e76c2174ba626a24f54cb8ade4a5788fa08b2555",
+  "url": "https://api.github.com/repos/openid/AppAuth-Android/git/tags/e76c2174ba626a24f54cb8ade4a5788fa08b2555",
+  "tagger": {
+    "name": "Iain McGinniss",
+    "email": "iain.mcginniss@wework.com",
+    "date": "2018-08-09T03:49:02Z"
+  },
+  "object": {
+    "sha": "5a58643ea10a0445e4f0877d7d2dbfd02b0e62a1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openid/AppAuth-Android/git/commits/5a58643ea10a0445e4f0877d7d2dbfd02b0e62a1"
+  },
+  "tag": "0.7.1",
+  "message": "Minor bug fixes:\n\n- Synchronizes multiple actions when requiring token refresh (#332)\n- Make handling of non-standard expires_at more tolerant (#336)\n- Changes related to Android tool changes between v25 and v27 (#341, #363)\n- Fix encoding of client ids and secrets for auth (#345)\n- Handle CustomTabsSession.newSession failures (#362)\n- Do not automatically pass scope on token exchange request (#364)\n- Do not override tab title setting (#365)\n- Respect default browser of the user correctly (#379)\n- Updated custom tab definitions, including Firefox (#378, #383)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

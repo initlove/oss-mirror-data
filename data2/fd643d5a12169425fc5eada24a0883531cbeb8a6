@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODkzNTIyOmZkNjQzZDVhMTIxNjk0MjVmYzVlYWRhMjRhMDg4MzUzMWNiZWI4YTY=",
+  "sha": "fd643d5a12169425fc5eada24a0883531cbeb8a6",
+  "url": "https://api.github.com/repos/serialport/node-serialport/git/tags/fd643d5a12169425fc5eada24a0883531cbeb8a6",
+  "tagger": {
+    "name": "Francis Gulotta",
+    "email": "wizard@roborooter.com",
+    "date": "2016-06-16T04:30:31Z"
+  },
+  "object": {
+    "sha": "fb76ef6d434dc71e67ae94181653e25ae9da0c6e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/serialport/node-serialport/git/commits/fb76ef6d434dc71e67ae94181653e25ae9da0c6e"
+  },
+  "tag": "4.0.0-beta4",
+  "message": "Version 4.0.0-beta4\n\n - All callbacks now have the port as `this`\n - Disconnections now always attempt to close the port, and you'll always get a `close` event after a `disconnect` event\n - [unix] Ports are now locked by default with the new `lock` options matches windows default behavior\n - [windows] known issue `lock` false doesn't work (no change in behavior)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

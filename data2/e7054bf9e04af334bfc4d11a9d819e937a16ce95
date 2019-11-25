@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTA4ODkzOmU3MDU0YmY5ZTA0YWYzMzRiZmM0ZDExYTlkODE5ZTkzN2ExNmNlOTU=",
+  "sha": "e7054bf9e04af334bfc4d11a9d819e937a16ce95",
+  "url": "https://api.github.com/repos/NodeRedis/node_redis/git/tags/e7054bf9e04af334bfc4d11a9d819e937a16ce95",
+  "tagger": {
+    "name": "Matt Ranney",
+    "email": "mjr@ranney.com",
+    "date": "2010-12-09T00:16:14Z"
+  },
+  "object": {
+    "sha": "b81da6d8fc34e8afa80c3ec4f865c5497f3baca9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/NodeRedis/node_redis/git/commits/b81da6d8fc34e8afa80c3ec4f865c5497f3baca9"
+  },
+  "tag": "v0.4.0",
+  "message": "Support for multiple response parsers and hiredis C library from Pieter Noordhuis.\nReturn Strings instead of Buffers by default.\nEmpty nested mb reply bug fix.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

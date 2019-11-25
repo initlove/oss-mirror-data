@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDY1MTY2Njc6ZmIyMjhjZTUyOGEzMGZkNmU0MGY1MjYwNDQxOTEwZmY2YjgyY2NlYw==",
+  "sha": "fb228ce528a30fd6e40f5260441910ff6b82ccec",
+  "url": "https://api.github.com/repos/openstack/neutron-lib/git/tags/fb228ce528a30fd6e40f5260441910ff6b82ccec",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-02-13T19:17:31Z"
+  },
+  "object": {
+    "sha": "e9dd3871f96eed26774a0dfce8c08c0dac5af6b6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-lib/git/commits/e9dd3871f96eed26774a0dfce8c08c0dac5af6b6"
+  },
+  "tag": "1.24.0",
+  "message": "neutron-lib 1.24.0 release\n\nmeta:version: 1.24.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Bence Romsics <bence.romsics@ericsson.com>\nmeta:release:Commit: Bence Romsics <bence.romsics@ericsson.com>\nmeta:release:Change-Id: Ia6d64133e2deef783360289c4087b7159a82483a\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@verizonmedia.com>\nmeta:release:Code-Review+1: Lajos Katona <lajos.katona@ericsson.com>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+1: Ryan Tidwell <rtidwell@suse.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcZG1LAAoJEBpUEUgFTp44hrIMAI5Lf/kOnKInTUGOb0YgnTEZ\niUFkULBo9uFCaH2xn/DO3L1837FWrzIj1bIfzHbx4+nHf+c0ldjGef65evmUcHYu\nnH5TV/MMikjNrx9LmsuLKP60pQZKLz485gCsmRkW+P0frciqwrA8GrMLHmo+QIM6\nS66Z/vF3Bwuece4uMCjpNLxmP805Yq7M0Xydt0DH7B8sJZ9u8AOi9L1lVfH6XGs8\nu9ROpAoFob2feC8XnUH7XI6iekTwG/ufyq6zVpdojDoMpRmoQgNwPQ1MsqlupOLf\nMMCcEuYpGc+2qW0duI1x4358kpEANgkGwUCl+kRMSx/8p7NkOiCDxiolvni+3Xyz\nrvhdB17lXP7F3071cHDc8Lo0rWQf9R5JOx5Rx1PU/NElJ/nalxBUOtr31UEZepYx\nWZ8DDNFVHv5zubt2//lOFa6ewDDa8yLlkho+ThKNDr9+sJzEslDwhQ6Zsf6HqegU\nAujRhdVCrIeeUNl30BNvGK75cADpw+g61Si/fV/fwQ==\n=KUKL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcZG1LAAoJEBpUEUgFTp44hrIMAI5Lf/kOnKInTUGOb0YgnTEZ\niUFkULBo9uFCaH2xn/DO3L1837FWrzIj1bIfzHbx4+nHf+c0ldjGef65evmUcHYu\nnH5TV/MMikjNrx9LmsuLKP60pQZKLz485gCsmRkW+P0frciqwrA8GrMLHmo+QIM6\nS66Z/vF3Bwuece4uMCjpNLxmP805Yq7M0Xydt0DH7B8sJZ9u8AOi9L1lVfH6XGs8\nu9ROpAoFob2feC8XnUH7XI6iekTwG/ufyq6zVpdojDoMpRmoQgNwPQ1MsqlupOLf\nMMCcEuYpGc+2qW0duI1x4358kpEANgkGwUCl+kRMSx/8p7NkOiCDxiolvni+3Xyz\nrvhdB17lXP7F3071cHDc8Lo0rWQf9R5JOx5Rx1PU/NElJ/nalxBUOtr31UEZepYx\nWZ8DDNFVHv5zubt2//lOFa6ewDDa8yLlkho+ThKNDr9+sJzEslDwhQ6Zsf6HqegU\nAujRhdVCrIeeUNl30BNvGK75cADpw+g61Si/fV/fwQ==\n=KUKL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e9dd3871f96eed26774a0dfce8c08c0dac5af6b6\ntype commit\ntag 1.24.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1550085451 +0000\n\nneutron-lib 1.24.0 release\n\nmeta:version: 1.24.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Bence Romsics <bence.romsics@ericsson.com>\nmeta:release:Commit: Bence Romsics <bence.romsics@ericsson.com>\nmeta:release:Change-Id: Ia6d64133e2deef783360289c4087b7159a82483a\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@verizonmedia.com>\nmeta:release:Code-Review+1: Lajos Katona <lajos.katona@ericsson.com>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+1: Ryan Tidwell <rtidwell@suse.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

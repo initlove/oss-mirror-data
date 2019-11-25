@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU4ODU4OTE6ZThlNDU3YmViYjQ5NjUwZjZkZTI4YmQxOGZmOTA4ZGQ3MzBjOTdhZg==",
+  "sha": "e8e457bebb49650f6de28bd18ff908dd730c97af",
+  "url": "https://api.github.com/repos/openstack/python-mistralclient/git/tags/e8e457bebb49650f6de28bd18ff908dd730c97af",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-04-20T16:14:02Z"
+  },
+  "object": {
+    "sha": "72a6cd9b91ad1544f040052131a3b116e2dee8c3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-mistralclient/git/commits/72a6cd9b91ad1544f040052131a3b116e2dee8c3"
+  },
+  "tag": "3.4.0",
+  "message": "python-mistralclient 3.4.0 release\n\nmeta:version: 3.4.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Dougal Matthews <dougal@redhat.com>\nmeta:release:Commit: Dougal Matthews <dougal@redhat.com>\nmeta:release:Change-Id: I27359cab20dbf0e3a63c92ae534883326b48e932\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa2hHKAAoJEMNs3LTfAMaMZ00H/1ywJabD5zna26wwwx0GpwOl\noX9535o2Voga/TiBtvR+lPbkDJ+fhE4pllLsgTu3bw0oOZELNWvUOjQTWGNgt6Af\n39Zc3v7JHgsYd2KMmXoXhTftt82zDJ6dS6VptHerDRKKR7NAibEvyB+t5gzopP1R\ntEKBH4pvl6k+1DrhFihEICuoBgjPQBO40r2RYKicjRRpMEdr60SgQ490SXmfETFj\nlRJBftogsLpuA6ghKmZygzKMXlwxStmIocM1uA1Ld9rwal72AheTO5QmHlpcG7Gq\nAtakJnUETlMpgZg2oAKlvYLtdbiUIIL/jHfB/MXK3eIQg9TnR15WL89HCFG9WAo=\n=uySa\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa2hHKAAoJEMNs3LTfAMaMZ00H/1ywJabD5zna26wwwx0GpwOl\noX9535o2Voga/TiBtvR+lPbkDJ+fhE4pllLsgTu3bw0oOZELNWvUOjQTWGNgt6Af\n39Zc3v7JHgsYd2KMmXoXhTftt82zDJ6dS6VptHerDRKKR7NAibEvyB+t5gzopP1R\ntEKBH4pvl6k+1DrhFihEICuoBgjPQBO40r2RYKicjRRpMEdr60SgQ490SXmfETFj\nlRJBftogsLpuA6ghKmZygzKMXlwxStmIocM1uA1Ld9rwal72AheTO5QmHlpcG7Gq\nAtakJnUETlMpgZg2oAKlvYLtdbiUIIL/jHfB/MXK3eIQg9TnR15WL89HCFG9WAo=\n=uySa\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 72a6cd9b91ad1544f040052131a3b116e2dee8c3\ntype commit\ntag 3.4.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1524240842 +0000\n\npython-mistralclient 3.4.0 release\n\nmeta:version: 3.4.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Dougal Matthews <dougal@redhat.com>\nmeta:release:Commit: Dougal Matthews <dougal@redhat.com>\nmeta:release:Change-Id: I27359cab20dbf0e3a63c92ae534883326b48e932\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

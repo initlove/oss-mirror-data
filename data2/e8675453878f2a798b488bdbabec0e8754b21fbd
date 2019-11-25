@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTk3MTg1NzplODY3NTQ1Mzg3OGYyYTc5OGI0ODhiZGJhYmVjMGU4NzU0YjIxZmJk",
+  "sha": "e8675453878f2a798b488bdbabec0e8754b21fbd",
+  "url": "https://api.github.com/repos/openstack/murano-dashboard/git/tags/e8675453878f2a798b488bdbabec0e8754b21fbd",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-25T09:50:47Z"
+  },
+  "object": {
+    "sha": "22d76c1da5705faeafe30adc956e7f62561b0435",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/murano-dashboard/git/commits/22d76c1da5705faeafe30adc956e7f62561b0435"
+  },
+  "tag": "8.0.0.0rc1",
+  "message": "murano-dashboard 8.0.0.0rc1 release candidate\n\nmeta:version: 8.0.0.0rc1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Commit: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Change-Id: Ieb1f028e5704f634c0bef3e71d4cc3be2c4ae836\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2LOHcZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2EOMDAC4n5vOro+kaL/u1nUO0eT9\nrM4TwAiAo1T0D6y4KCwyesBdBk82XAk2JAviqzvncaYCZpCkNgXhQgAF77AktJlW\nOsQTNAewYV5wYSmi7byUz6zHAMNveI2l0iGVxuB4D7sHtPmjyoQSM0PlOTLH/tZF\nuHsCPv+sVP0MJSWAy9KUzaUAkO7Vzi9khd8zP5Vko+ncyIuHDd6TD8A0iJWaOpZJ\n+R3cGDTU/nRqsQy12DiKTrr3BwnMGgb3azLQQ3dAeLEVWpnEbZOlSTuhd1fBsU0q\nRsBXY0FdWtKMmXGLT+53MlvrvaMN8gD0XRgjskapeLTYLQUtwQb/80/qoYlJ7Les\nrVHzaDRhD3JJ+uwS8wjstlCeU+CalTQIpZn2fQ+94FOYGop6UxhlbMJs7E7JNU2b\ncnyljAqPBdXchfmm06/0TQA/2I+rY1HfiFR1ahmns/O5UygdU/U9LZAP5VEZseh4\n7KPDcsCeQgyKj5SFInoc9dYGvwE9XaBy/aEe3oSj0LA=\n=KnC/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2LOHcZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2EOMDAC4n5vOro+kaL/u1nUO0eT9\nrM4TwAiAo1T0D6y4KCwyesBdBk82XAk2JAviqzvncaYCZpCkNgXhQgAF77AktJlW\nOsQTNAewYV5wYSmi7byUz6zHAMNveI2l0iGVxuB4D7sHtPmjyoQSM0PlOTLH/tZF\nuHsCPv+sVP0MJSWAy9KUzaUAkO7Vzi9khd8zP5Vko+ncyIuHDd6TD8A0iJWaOpZJ\n+R3cGDTU/nRqsQy12DiKTrr3BwnMGgb3azLQQ3dAeLEVWpnEbZOlSTuhd1fBsU0q\nRsBXY0FdWtKMmXGLT+53MlvrvaMN8gD0XRgjskapeLTYLQUtwQb/80/qoYlJ7Les\nrVHzaDRhD3JJ+uwS8wjstlCeU+CalTQIpZn2fQ+94FOYGop6UxhlbMJs7E7JNU2b\ncnyljAqPBdXchfmm06/0TQA/2I+rY1HfiFR1ahmns/O5UygdU/U9LZAP5VEZseh4\n7KPDcsCeQgyKj5SFInoc9dYGvwE9XaBy/aEe3oSj0LA=\n=KnC/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 22d76c1da5705faeafe30adc956e7f62561b0435\ntype commit\ntag 8.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1569405047 +0000\n\nmurano-dashboard 8.0.0.0rc1 release candidate\n\nmeta:version: 8.0.0.0rc1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Commit: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Change-Id: Ieb1f028e5704f634c0bef3e71d4cc3be2c4ae836\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\n"
+  }
+}

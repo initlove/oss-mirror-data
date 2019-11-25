@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkyMTcwNTQ6ZWFjYzg2ZWEyYjY5MzFiOWIxN2ZhZTIxZTZiZmE1NTFjN2E3ZjkzNA==",
+  "sha": "eacc86ea2b6931b9b17fae21e6bfa551c7a7f934",
+  "url": "https://api.github.com/repos/micro/go-micro/git/tags/eacc86ea2b6931b9b17fae21e6bfa551c7a7f934",
+  "tagger": {
+    "name": "Asim Aslam",
+    "email": "asim@chuhnk.me",
+    "date": "2018-07-26T08:38:21Z"
+  },
+  "object": {
+    "sha": "88505388c1d32136d5203876218f5f54d53a0e46",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micro/go-micro/git/commits/88505388c1d32136d5203876218f5f54d53a0e46"
+  },
+  "tag": "v0.10.0",
+  "message": "- Fix broker locking\n- Add RetryOnError as default retry policy\n- Fix mock client reflection\n- Support dialtimeout only above 0\n- Add verbose client errors\n- Allow client retries to be 0\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

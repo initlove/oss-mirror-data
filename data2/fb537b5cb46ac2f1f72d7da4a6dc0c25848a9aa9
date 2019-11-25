@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzQ3OTE4NDA6ZmI1MzdiNWNiNDZhYzJmMWY3MmQ3ZGE0YTZkYzBjMjU4NDhhOWFhOQ==",
+  "sha": "fb537b5cb46ac2f1f72d7da4a6dc0c25848a9aa9",
+  "url": "https://api.github.com/repos/openstack/keystoneauth/git/tags/fb537b5cb46ac2f1f72d7da4a6dc0c25848a9aa9",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-10-25T21:55:36Z"
+  },
+  "object": {
+    "sha": "72288d3b18e66da3e04c35f60ab43c916b92c59a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystoneauth/git/commits/72288d3b18e66da3e04c35f60ab43c916b92c59a"
+  },
+  "tag": "3.11.1",
+  "message": "keystoneauth 3.11.1 release\n\nmeta:version: 3.11.1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: I7310d5a8e4d740c16480ffa5332ab69572525a89\nmeta:release:Code-Review+1: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Code-Review+1: Morgan Fainberg <morgan.fainberg@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJb0jvYAAoJEBpUEUgFTp44GF4L/0FkmoZ+OHzbNKlgYtP+EVFp\n3TF3KT7VVLLvIRMS1A0RTJHJvSOynqPWTz2pq1FIFYBjGy39+c8ShuCX40jRJfds\nLAGKJBfmt8/USY/kltpcb7yKH1aBT8ZiGgme72gEVNZNnhSAkneFIiN852rjxfGw\n/fd7NNjgcH188lzDs/OUmnnCP5dxXkrub1ItDf7IZmH+NoTQEXD9MqnrpgrBxzfa\nQ0VFUb35GTRUKye0fgKs3zf/tRXcnkip+5R5xseG6tvZylBbignjL9NcZuOY8+DG\nLVEG5EeqKTG5EJula4C8JUi2THvQDIE3kRALxQ48VRFfBxQ8EShzYmRRyPEi71vM\nvU10D6WF97r6armaHNKsxmq2Tpe88weTKmnFDK22BgY3n70XHPZEWukyokpiB8ok\nXX4qw0YD/PZ0aIwCAzSpr9sUJipvow3XtQ/+BjZ4ligLjCnNIkFjRH1032Vfl7cW\neR2USL8/97WUAt76qs8BJqmCRpNEyQ+WBY4xjdQOuQ==\n=qghb\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJb0jvYAAoJEBpUEUgFTp44GF4L/0FkmoZ+OHzbNKlgYtP+EVFp\n3TF3KT7VVLLvIRMS1A0RTJHJvSOynqPWTz2pq1FIFYBjGy39+c8ShuCX40jRJfds\nLAGKJBfmt8/USY/kltpcb7yKH1aBT8ZiGgme72gEVNZNnhSAkneFIiN852rjxfGw\n/fd7NNjgcH188lzDs/OUmnnCP5dxXkrub1ItDf7IZmH+NoTQEXD9MqnrpgrBxzfa\nQ0VFUb35GTRUKye0fgKs3zf/tRXcnkip+5R5xseG6tvZylBbignjL9NcZuOY8+DG\nLVEG5EeqKTG5EJula4C8JUi2THvQDIE3kRALxQ48VRFfBxQ8EShzYmRRyPEi71vM\nvU10D6WF97r6armaHNKsxmq2Tpe88weTKmnFDK22BgY3n70XHPZEWukyokpiB8ok\nXX4qw0YD/PZ0aIwCAzSpr9sUJipvow3XtQ/+BjZ4ligLjCnNIkFjRH1032Vfl7cW\neR2USL8/97WUAt76qs8BJqmCRpNEyQ+WBY4xjdQOuQ==\n=qghb\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 72288d3b18e66da3e04c35f60ab43c916b92c59a\ntype commit\ntag 3.11.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1540504536 +0000\n\nkeystoneauth 3.11.1 release\n\nmeta:version: 3.11.1\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: I7310d5a8e4d740c16480ffa5332ab69572525a89\nmeta:release:Code-Review+1: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Code-Review+1: Morgan Fainberg <morgan.fainberg@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

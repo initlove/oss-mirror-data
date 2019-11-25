@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODc1OTEzMzpmNWNmZGI4MjllZWE2ZGU5MDg1MjA2MDQxMmM0ZDkzM2MzN2Y2NGFm",
+  "sha": "f5cfdb829eea6de90852060412c4d933c37f64af",
+  "url": "https://api.github.com/repos/Netflix/zuul/git/tags/f5cfdb829eea6de90852060412c4d933c37f64af",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-04-06T20:54:41Z"
+  },
+  "object": {
+    "sha": "862283fb9cacb89513c51b47cfc02f6c32408818",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/zuul/git/commits/862283fb9cacb89513c51b47cfc02f6c32408818"
+  },
+  "tag": "v1.2.0",
+  "message": "Release of 1.2.0\n\n- 862283fb9cacb89513c51b47cfc02f6c32408818: Trying to resolve some unit-test failures\n- 5bc0d5644d50806f906491fcc9f34209a3dec1c9: Merge branch 'alexpanov-1.x' into 1.x\n- 4e94d0ace86583a8b5e5540e2bd782ee4ea16aee: Merge branch '1.x' of git://github.com/alexpanov/zuul into alexpanov-1.x\n- 70bae0becc33c82ba0552164dbb20a83db534010: Merge pull request #199 from ausmith/1.x\n- 80eb6da038f10902134d1bc70e20f69fba6fd386: Merge pull request #214 from spencergibb/1.x\n- d5aa760e24d899dcba0daff6151289744059260b: Zuul HttpServletRequestWrapper now extends javax HttpServletRequestWrapper.\n- fc9bc71d761a47eb3b77d39b4906f21e5989a615: Merge pull request #212 from ghenkes/remove-turbine\n- 65484cc46c28989059f98a3efe6b8313271d317b: Remove unused turbine dependency\n- 0b3ae9cdc826cdf8f2e448d2b84b47a54cbe677e: Merge pull request #204 from VijithaEkanayake/1.x\n- 1a24fc6d25b15400b378bb636fb723576aa025b6: Fixing Zuul-Simple-Webapp to route POST request to RouteHost\n- 262271981a6001d2afaca69d7559b848d88bc5ef: Fixing issue of cleaning expired connections\n- 11ae37f5928a7c81e374bb0ba64e6ead91f665df: Handle query params without an `=`\n- 53bdeb07e9948d2bfafa31f03686d32495e701e1: Merge pull request #198 from ausmith/1.x\n- f9a462b81946e288b8dce776702bb90e44a648b0: Specially handle encoded ampersands in query string\n- b8e6002a624f2f04327bf812569f429d72f0d5dd: Merge pull request #192 from iamjarvo/typo\n- b879c403966c5264f77a2e51a4b12ca7cb0540c8: Fix typo\n- fd26806b246d6d76a161b5fba508941c8cc7c062: Merge pull request #190 from tbreitkopf/1.x\n- 305e53486afa76d0ecbb7f4f81dc86f67c8459c2: implemented updated AstyanaxContext methods\n- 5449df3623ad7d119e84e17f069d874f4882a098: Move to gradle 2.6 and nebula.netflixoss 3.0.0\n- 9ae803c28372438e4724dd68e5607a15ab60ad02: Setup keys for travis builds\n- 15169e4dffefaa79ca34bc04d7b1888358c6d3ae: [1.x] Setting up travis.\n- db6dda581c81cb77ce2ce7ef2a00159657b5cc57: Make FilterFileManager related classes non final\n- 8238f2501cac88aed3d201e1e19906c2dc40f84d: Simplify action validation in FilterScriptManagerServlet\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

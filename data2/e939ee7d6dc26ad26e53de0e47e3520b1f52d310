@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjEyMzYyOTI6ZTkzOWVlN2Q2ZGMyNmFkMjZlNTNkZTBlNDdlMzUyMGIxZjUyZDMxMA==",
+  "sha": "e939ee7d6dc26ad26e53de0e47e3520b1f52d310",
+  "url": "https://api.github.com/repos/openstack/panko/git/tags/e939ee7d6dc26ad26e53de0e47e3520b1f52d310",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-01-23T12:11:51Z"
+  },
+  "object": {
+    "sha": "f335d59a3b2919e41594ff2499cf83e6d327ef3f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/panko/git/commits/f335d59a3b2919e41594ff2499cf83e6d327ef3f"
+  },
+  "tag": "3.1.0",
+  "message": "panko 3.1.0 release\n\nmeta:version: 3.1.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: gord chung <gord@live.ca>\nmeta:release:Commit: gord chung <gord@live.ca>\nmeta:release:Change-Id: I10e6923379e3acc59f65ecc920517bee3b01a101\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaZyaHAAoJEEIeZHKBH5qB3zwH/RQbokiYeDZ8vGOr9lto8JoK\n4/Bgo2RJfVASJZciPBl/lsr2cTmr/bXecH7iu19GSYjDn2Hbj/M8cboQAj+cq/SY\nRVzjjQKzyJtLouOFdmsY8n5evIC6dZHc2ggLzAumrtZIz0LvZnNqsBu7rH/W+636\nKKFHMxWsB3azr00F44cWzPXDhVG559tfL5Nf1bNGDXSdD5FhYG/ezb8axThBXdeJ\nmRY3qS4b63/1da8r8pf70LFWaIm8kQ6q7AqFiU/U3jXllBOVOd6LgLCdXPrOItWV\nQ1Vo6sUmD91RNAf91E9HfDqltRtVCNDn+7YN7Kfx0vxiOGkS2aKuk+gCfRoxeHA=\n=1rZ7\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaZyaHAAoJEEIeZHKBH5qB3zwH/RQbokiYeDZ8vGOr9lto8JoK\n4/Bgo2RJfVASJZciPBl/lsr2cTmr/bXecH7iu19GSYjDn2Hbj/M8cboQAj+cq/SY\nRVzjjQKzyJtLouOFdmsY8n5evIC6dZHc2ggLzAumrtZIz0LvZnNqsBu7rH/W+636\nKKFHMxWsB3azr00F44cWzPXDhVG559tfL5Nf1bNGDXSdD5FhYG/ezb8axThBXdeJ\nmRY3qS4b63/1da8r8pf70LFWaIm8kQ6q7AqFiU/U3jXllBOVOd6LgLCdXPrOItWV\nQ1Vo6sUmD91RNAf91E9HfDqltRtVCNDn+7YN7Kfx0vxiOGkS2aKuk+gCfRoxeHA=\n=1rZ7\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f335d59a3b2919e41594ff2499cf83e6d327ef3f\ntype commit\ntag 3.1.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1516709511 +0000\n\npanko 3.1.0 release\n\nmeta:version: 3.1.0\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: gord chung <gord@live.ca>\nmeta:release:Commit: gord chung <gord@live.ca>\nmeta:release:Change-Id: I10e6923379e3acc59f65ecc920517bee3b01a101\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

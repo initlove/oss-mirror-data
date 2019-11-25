@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6ZTYxZDJmNTNkNTU3NDlkMWJmNTFlMWM2YTY2NGQ0N2Q4ZTA1MDU3Mg==",
+  "sha": "e61d2f53d55749d1bf51e1c6a664d47d8e050572",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/e61d2f53d55749d1bf51e1c6a664d47d8e050572",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2019-03-20T20:18:11Z"
+  },
+  "object": {
+    "sha": "88608b8e6ab686e85a9fea2acd309c0a7c2f3e01",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/88608b8e6ab686e85a9fea2acd309c0a7c2f3e01"
+  },
+  "tag": "v0.12.2",
+  "message": "v0.12.2\n\n* Fix circular references in SSL implementation to reduce\n  the need for GC.\n  (by @fantix in 3070ec85)\n\n* Fix a memory leak in `call_later()` and `call_at()`.\n  The leak occurred when a callback argument had a reference to\n  the event loop.\n  (by @1st1 in 1a5dbc28 for #239)\n\n* Fix compilation warnings.\n  (by @JelleZijlstra in d9a111be)\n\n* Round (instead of flooring) delay in `call_later()`.\n  This ensures that the callback is never called slightly *before*\n  the specified time.\n  (by @fantix in 8f037a68 for #233)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQwMDI4OTplZDA4Mjk3YjY1ZDhlNGQzNDk1YzFkZDA5M2M1Y2U1MjA5MzkyNzk1",
+  "sha": "ed08297b65d8e4d3495c1dd093c5ce5209392795",
+  "url": "https://api.github.com/repos/openstack/neutron/git/tags/ed08297b65d8e4d3495c1dd093c5ce5209392795",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-08-09T21:53:43Z"
+  },
+  "object": {
+    "sha": "5226e50c68084dd3d76861d1247f9f292949b616",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron/git/commits/5226e50c68084dd3d76861d1247f9f292949b616"
+  },
+  "tag": "13.0.0.0rc1",
+  "message": "neutron 13.0.0.0rc1 release candidate\n\nmeta:version: 13.0.0.0rc1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Miguel Lavalle <miguel.lavalle@huawei.com>\nmeta:release:Change-Id: I678380219ac71013a55e8350541b06171c339424\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@huawei.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbbLfnAAoJEMNs3LTfAMaM6lgH/2BGvVDgXwZ7jmz0fa0IWk2K\nM8Lz23QJ8PL3m0G/kzawEcDfCSZffx+i0wvVOFpwPETBFkcjmfOhNrNasBUZLp2q\nCreYwq2rW0KstC08qfP670f0rA1dYH0VuOlYILeGw6qcr1/jYxxzM0X684laNESG\nX1kG7JyNQB7Rl6OBSS2oXCGjHEkgaqn9L+uaIrBC0PaJchqGrQykAZR/NvzUcwYK\nMkXA6pfw52XWVDg131ef3ySQjH7G9z+Dz1OBRynWk3AQzGgo50Jz1tZSx/ZqyFaL\nxflVz1us/yGNi8pwNCkjMd0coJj3Eb/z37ginFBfVbsi+hlhQu8xhJ7oru53eXc=\n=oQCG\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbbLfnAAoJEMNs3LTfAMaM6lgH/2BGvVDgXwZ7jmz0fa0IWk2K\nM8Lz23QJ8PL3m0G/kzawEcDfCSZffx+i0wvVOFpwPETBFkcjmfOhNrNasBUZLp2q\nCreYwq2rW0KstC08qfP670f0rA1dYH0VuOlYILeGw6qcr1/jYxxzM0X684laNESG\nX1kG7JyNQB7Rl6OBSS2oXCGjHEkgaqn9L+uaIrBC0PaJchqGrQykAZR/NvzUcwYK\nMkXA6pfw52XWVDg131ef3ySQjH7G9z+Dz1OBRynWk3AQzGgo50Jz1tZSx/ZqyFaL\nxflVz1us/yGNi8pwNCkjMd0coJj3Eb/z37ginFBfVbsi+hlhQu8xhJ7oru53eXc=\n=oQCG\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5226e50c68084dd3d76861d1247f9f292949b616\ntype commit\ntag 13.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1533851623 +0000\n\nneutron 13.0.0.0rc1 release candidate\n\nmeta:version: 13.0.0.0rc1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Miguel Lavalle <miguel.lavalle@huawei.com>\nmeta:release:Change-Id: I678380219ac71013a55e8350541b06171c339424\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@huawei.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6ZjBkNmU4MjI5ZjhhMDA1MTI5NThhYTg3OTU3OTZlODdkMzNhMDZkNQ==",
+  "sha": "f0d6e8229f8a00512958aa8795796e87d33a06d5",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/f0d6e8229f8a00512958aa8795796e87d33a06d5",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2018-06-01T22:31:03Z"
+  },
+  "object": {
+    "sha": "b643cf85831979057f264850cd54070d963bb055",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/b643cf85831979057f264850cd54070d963bb055"
+  },
+  "tag": "v0.10.1",
+  "message": "v0.10.1\n\n* Bump Cython from 0.28.2 to 0.28.3.\n  (by @1st1 in 5044d240)\n\n* Increase default SSL handshake timeout to 60 seconds.\n  (by @1st1 in 70c332cf)\n\n* Add `ssl_handshake_timeout` parameter to `loop.create_connection()`,\n  `loop.create_server()`, `loop.create_unix_connection()`,\n  `loop.create_unix_server()`, `loop.connect_accepted_socket()`.\n  (by @1st1 in 68dd7337)\n\n* Consistently close transports if create_server/create_connection/etc\n  timeout or cancelled.\n  (by @1st1 in ac90d8bd and 77ee4f96)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

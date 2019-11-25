@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTk3MTg2ODpmMDA1ZjI3MWZmNjUxNGNjMTE1NDg2NDE3MTAyYzA1YmE0MTY0OWNj",
+  "sha": "f005f271ff6514cc115486417102c05ba41649cc",
+  "url": "https://api.github.com/repos/openstack/python-muranoclient/git/tags/f005f271ff6514cc115486417102c05ba41649cc",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-28T10:51:43Z"
+  },
+  "object": {
+    "sha": "294480075de1bde296953eaa54916d75cbfb40f5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-muranoclient/git/commits/294480075de1bde296953eaa54916d75cbfb40f5"
+  },
+  "tag": "queens-em",
+  "message": "python-muranoclient queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I7f4dfb05a36d093a4cd9123cb6912e0959aba587\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl22yD8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2PRAC/9KfIYRBW/vyc+n8Zdh262/\nCwBp4mRF+hfARapV0eBcBzqm4Dv8zZkKmf1Ac3VvNEKj5DJtAkRYi1N19hLdi90I\nw1mRhWVICHJ6buhONP0XtErKwN9Ms8I8/9ynlAbpi9HBY/VFZO9Pp5Pp6qgBCUX2\n1KMmRoaFc6Qqpv431Kaeqzf7L1+lYhkBN7XLnryr8ewNc3Sk43wJrRvTMqmHr1PI\nlQsmy0ZGG5npf1Yu5Rq9tvT3q8dldH8Mfi2S9+JjMZEbEdFH7nWIY8hCsW2g4Vmz\nvTE3TwTCF+vG0+ZxZFtzkgnKFbJBndvxH9dp14H80Ku2mSbePF7X8BP7sthXGty+\n6JwL8Or0vTaycpZzW3xwVjz6U/rMIa/zhJD/DJXztsmd6NP6azDOuCy/wLUMD/Pi\niBAqEYtyHnBb/awxVO38M3BZvLGksIIPbxMpd6UJ7i0vQZXC1A+5gtxCw1DvlwIe\ndpIV68LGPeeB90JvVRvDJxIfQppL5AdWt4vM25+8nmY=\n=+n/j\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl22yD8ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2PRAC/9KfIYRBW/vyc+n8Zdh262/\nCwBp4mRF+hfARapV0eBcBzqm4Dv8zZkKmf1Ac3VvNEKj5DJtAkRYi1N19hLdi90I\nw1mRhWVICHJ6buhONP0XtErKwN9Ms8I8/9ynlAbpi9HBY/VFZO9Pp5Pp6qgBCUX2\n1KMmRoaFc6Qqpv431Kaeqzf7L1+lYhkBN7XLnryr8ewNc3Sk43wJrRvTMqmHr1PI\nlQsmy0ZGG5npf1Yu5Rq9tvT3q8dldH8Mfi2S9+JjMZEbEdFH7nWIY8hCsW2g4Vmz\nvTE3TwTCF+vG0+ZxZFtzkgnKFbJBndvxH9dp14H80Ku2mSbePF7X8BP7sthXGty+\n6JwL8Or0vTaycpZzW3xwVjz6U/rMIa/zhJD/DJXztsmd6NP6azDOuCy/wLUMD/Pi\niBAqEYtyHnBb/awxVO38M3BZvLGksIIPbxMpd6UJ7i0vQZXC1A+5gtxCw1DvlwIe\ndpIV68LGPeeB90JvVRvDJxIfQppL5AdWt4vM25+8nmY=\n=+n/j\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 294480075de1bde296953eaa54916d75cbfb40f5\ntype commit\ntag queens-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572259903 +0000\n\npython-muranoclient queens-em release\n\nmeta:version: queens-em\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: I7f4dfb05a36d093a4cd9123cb6912e0959aba587\nmeta:release:Code-Review+1: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

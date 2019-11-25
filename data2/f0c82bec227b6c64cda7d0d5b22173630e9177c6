@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEwNzQxMTY6ZjBjODJiZWMyMjdiNmM2NGNkYTdkMGQ1YjIyMTczNjMwZTkxNzdjNg==",
+  "sha": "f0c82bec227b6c64cda7d0d5b22173630e9177c6",
+  "url": "https://api.github.com/repos/openstack/oslo.messaging/git/tags/f0c82bec227b6c64cda7d0d5b22173630e9177c6",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2014-09-23T15:07:41Z"
+  },
+  "object": {
+    "sha": "bf436c80ba6daeaeb48ec55e2d91b9d05e7d68d7",
+    "type": "tag",
+    "url": "https://api.github.com/repos/openstack/oslo.messaging/git/tags/bf436c80ba6daeaeb48ec55e2d91b9d05e7d68d7"
+  },
+  "tag": "1.4.1",
+  "message": "retag 1.4.0 to resolve debian package version conflict\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJUIYy9AAoJEDttBqDEKEN6jxUH/jDeFOmasGLjz8IxDpeMSM5e\ngn7xkmAgzXRb+CdNW/eG7778fGI5NhZDcCwrCUUEQRZKjWAd/BlKKMEbm8RMsGK0\njS5pSt1DLHRtyI1Qtub349w7TsIPQT8uYKNJ12jljvupLDraqNbESZiEcFZrrv36\ncWSjJTMVYsnKAnT6z6oE2wW1/8xkPoIiDTvgB73WfAzIMcIaMWb+wMxFxST2utGY\njlC/XIXoHeAovtkXn1TDVdv92+DiUHsWPNzkmMIFRS8vi+Y/v8R0n2fZ+Sre/0+K\n1zP7pGhRfsmhXxLjAqXnxteYKVpxmFaykzDOecHJ0a/U/GcTMNpAgC1FC1cIL3o=\n=i9OZ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJUIYy9AAoJEDttBqDEKEN6jxUH/jDeFOmasGLjz8IxDpeMSM5e\ngn7xkmAgzXRb+CdNW/eG7778fGI5NhZDcCwrCUUEQRZKjWAd/BlKKMEbm8RMsGK0\njS5pSt1DLHRtyI1Qtub349w7TsIPQT8uYKNJ12jljvupLDraqNbESZiEcFZrrv36\ncWSjJTMVYsnKAnT6z6oE2wW1/8xkPoIiDTvgB73WfAzIMcIaMWb+wMxFxST2utGY\njlC/XIXoHeAovtkXn1TDVdv92+DiUHsWPNzkmMIFRS8vi+Y/v8R0n2fZ+Sre/0+K\n1zP7pGhRfsmhXxLjAqXnxteYKVpxmFaykzDOecHJ0a/U/GcTMNpAgC1FC1cIL3o=\n=i9OZ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bf436c80ba6daeaeb48ec55e2d91b9d05e7d68d7\ntype tag\ntag 1.4.1\ntagger Doug Hellmann <doug@doughellmann.com> 1411484861 -0400\n\nretag 1.4.0 to resolve debian package version conflict\n"
+  }
+}

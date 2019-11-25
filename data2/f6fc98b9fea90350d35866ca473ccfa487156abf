@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQxMzIxOTI6ZjZmYzk4YjlmZWE5MDM1MGQzNTg2NmNhNDczY2NmYTQ4NzE1NmFiZg==",
+  "sha": "f6fc98b9fea90350d35866ca473ccfa487156abf",
+  "url": "https://api.github.com/repos/pkg/sftp/git/tags/f6fc98b9fea90350d35866ca473ccfa487156abf",
+  "tagger": {
+    "name": "John Eikenberry",
+    "email": "jae@zhar.net",
+    "date": "2018-01-07T23:29:40Z"
+  },
+  "object": {
+    "sha": "49c117d57a90733021893ab13d0e3fa331d57f84",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pkg/sftp/git/commits/49c117d57a90733021893ab13d0e3fa331d57f84"
+  },
+  "tag": "1.1.2",
+  "message": "New bugfix release. Mainly bug w/ windows volumes.\n\nFixes issue #217; Fix volume name mangling on windows\n\nOpen-packet's pflags (file opening flags) now saved in Request.Flags\nsince in cases of SSH_FXF_CREAT being set a 0 len Write call is made.\n\nAlso continuing some refactoring to simplify and clean up the request\nbased code. In this case I removed an unnecessary data structure storing\npacket data.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlpSr0wACgkQPZqeWROp\nRaJZmwf/a3V7aNANCiuLsfGo3kRv+jdji/wfzhZxEpquy+xsI2eWraUV60iQgOlI\nenNDHEe6DvW4HQHQ7CO8vEXROc2N/tjoBut1zVKh6rXHE1VkLPnZC5Uh9I8hd4Mz\nPQguqq9x4TftETUXOYx9Bn1dfNmXwzmQm/mXiy/wiXldV5LVE1EbvSmsPg4v3E8f\nZ7NH1X6W7OBo55DSM/ZlhqiKckINZwAiu2Pw6KuuR3Xt8KOvyRGK48aThDPqcKDD\nmJdoZPyczsqb9OCUxz1Tt3r28WMIkRW1Q4KYP337eZCzzDEHCVOoi61TMcTuX6Nf\n6xfvBSG1xNssvPr39e+4C5mOhQ11sg==\n=Frjl\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlpSr0wACgkQPZqeWROp\nRaJZmwf/a3V7aNANCiuLsfGo3kRv+jdji/wfzhZxEpquy+xsI2eWraUV60iQgOlI\nenNDHEe6DvW4HQHQ7CO8vEXROc2N/tjoBut1zVKh6rXHE1VkLPnZC5Uh9I8hd4Mz\nPQguqq9x4TftETUXOYx9Bn1dfNmXwzmQm/mXiy/wiXldV5LVE1EbvSmsPg4v3E8f\nZ7NH1X6W7OBo55DSM/ZlhqiKckINZwAiu2Pw6KuuR3Xt8KOvyRGK48aThDPqcKDD\nmJdoZPyczsqb9OCUxz1Tt3r28WMIkRW1Q4KYP337eZCzzDEHCVOoi61TMcTuX6Nf\n6xfvBSG1xNssvPr39e+4C5mOhQ11sg==\n=Frjl\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 49c117d57a90733021893ab13d0e3fa331d57f84\ntype commit\ntag 1.1.2\ntagger John Eikenberry <jae@zhar.net> 1515367780 -0800\n\nNew bugfix release. Mainly bug w/ windows volumes.\n\nFixes issue #217; Fix volume name mangling on windows\n\nOpen-packet's pflags (file opening flags) now saved in Request.Flags\nsince in cases of SSH_FXF_CREAT being set a 0 len Write call is made.\n\nAlso continuing some refactoring to simplify and clean up the request\nbased code. In this case I removed an unnecessary data structure storing\npacket data.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTplMGRjOTEzZWY2Y2FhNGE3OWI4MjNmNzE0MmQ3NDIyMzljNGI4ZTVk",
+  "sha": "e0dc913ef6caa4a79b823f7142d742239c4b8e5d",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/e0dc913ef6caa4a79b823f7142d742239c4b8e5d",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-11-20T16:22:25Z"
+  },
+  "object": {
+    "sha": "bfe645ed7e99ca5670d9279ad472b604c129d2e5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/bfe645ed7e99ca5670d9279ad472b604c129d2e5"
+  },
+  "tag": "v0.11.15",
+  "message": "2013.11.21, Version 0.11.15 (Unstable)\n\nChanges since version 0.11.14:\n\n* fsevents: report errors to user (Fedor Indutny)\n\n* include: UV_FS_EVENT_RECURSIVE is a flag (Fedor Indutny)\n\n* linux: use CLOCK_MONOTONIC_COARSE if available (Ben Noordhuis)\n\n* build: make systemtap probes work with gyp build (Ben Noordhuis)\n\n* unix: update events from pevents between polls (Fedor Indutny)\n\n* fsevents: support japaneese characters in path (Chris Bank)\n\n* linux: don't turn on SO_REUSEPORT socket option (Ben Noordhuis)\n\n* queue: strengthen type checks (Ben Noordhuis)\n\n* include: remove uv_strlcat() and uv_strlcpy() (Ben Noordhuis)\n\n* build: fix windows smp build with gyp (Geert Jansen)\n\n* unix: return exec errors from uv_spawn, not async (Alex Crichton)\n\n* fsevents: use native character encoding file paths (Ben Noordhuis)\n\n* linux: handle EPOLLHUP without EPOLLIN/EPOLLOUT (Ben Noordhuis)\n\n* windows: use _snwprintf(), not swprintf() (Ben Noordhuis)\n\n* fsevents: use FlagNoDefer for FSEventStreamCreate (Fedor Indutny)\n\n* unix: fix reopened fd bug (Fedor Indutny)\n\n* core: fix fake watcher list and count preservation (Fedor Indutny)\n\n* unix: set close-on-exec flag on received fds (Ben Noordhuis)\n\n* netbsd, openbsd: enable futimes() wrapper (Ben Noordhuis)\n\n* unix: nicer error message when kqueue() fails (Ben Noordhuis)\n\n* samples: add socks5 proxy sample application (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlKM4cQACgkQfTP/nQJGQG2eXACcDckwCsJn1BkgE03Nc/kclQkl\nWoIAoKCQE/Cgowmvxi3LfbvVlPjM8IC3\n=ckbq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlKM4cQACgkQfTP/nQJGQG2eXACcDckwCsJn1BkgE03Nc/kclQkl\nWoIAoKCQE/Cgowmvxi3LfbvVlPjM8IC3\n=ckbq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bfe645ed7e99ca5670d9279ad472b604c129d2e5\ntype commit\ntag v0.11.15\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1384964545 -0800\n\n2013.11.21, Version 0.11.15 (Unstable)\n\nChanges since version 0.11.14:\n\n* fsevents: report errors to user (Fedor Indutny)\n\n* include: UV_FS_EVENT_RECURSIVE is a flag (Fedor Indutny)\n\n* linux: use CLOCK_MONOTONIC_COARSE if available (Ben Noordhuis)\n\n* build: make systemtap probes work with gyp build (Ben Noordhuis)\n\n* unix: update events from pevents between polls (Fedor Indutny)\n\n* fsevents: support japaneese characters in path (Chris Bank)\n\n* linux: don't turn on SO_REUSEPORT socket option (Ben Noordhuis)\n\n* queue: strengthen type checks (Ben Noordhuis)\n\n* include: remove uv_strlcat() and uv_strlcpy() (Ben Noordhuis)\n\n* build: fix windows smp build with gyp (Geert Jansen)\n\n* unix: return exec errors from uv_spawn, not async (Alex Crichton)\n\n* fsevents: use native character encoding file paths (Ben Noordhuis)\n\n* linux: handle EPOLLHUP without EPOLLIN/EPOLLOUT (Ben Noordhuis)\n\n* windows: use _snwprintf(), not swprintf() (Ben Noordhuis)\n\n* fsevents: use FlagNoDefer for FSEventStreamCreate (Fedor Indutny)\n\n* unix: fix reopened fd bug (Fedor Indutny)\n\n* core: fix fake watcher list and count preservation (Fedor Indutny)\n\n* unix: set close-on-exec flag on received fds (Ben Noordhuis)\n\n* netbsd, openbsd: enable futimes() wrapper (Ben Noordhuis)\n\n* unix: nicer error message when kqueue() fails (Ben Noordhuis)\n\n* samples: add socks5 proxy sample application (Ben Noordhuis)\n"
+  }
+}

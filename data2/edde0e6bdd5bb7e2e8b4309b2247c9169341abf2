@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzODQ5OTM6ZWRkZTBlNmJkZDViYjdlMmU4YjQzMDliMjI0N2M5MTY5MzQxYWJmMg==",
+  "sha": "edde0e6bdd5bb7e2e8b4309b2247c9169341abf2",
+  "url": "https://api.github.com/repos/openstack/keystone/git/tags/edde0e6bdd5bb7e2e8b4309b2247c9169341abf2",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-04-12T18:49:18Z"
+  },
+  "object": {
+    "sha": "968575a0e5ae3945e473f442488e3701fb30e6cf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/keystone/git/commits/968575a0e5ae3945e473f442488e3701fb30e6cf"
+  },
+  "tag": "12.0.0.0b1",
+  "message": "keystone 12.0.0.0b1 development milestone\n\nmeta:version: 12.0.0.0b1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Commit: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Change-Id: I381cbdc7a98ab12f48a50ea7bea44fea168aa41d\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY7nauAAoJEOtsyhSD+nTs58AIAKWwgZcCX1DBGccJuRHCHK/B\nhQSQ9tM7348aMrOyMUZHMrm33rgUbpwKYsiYl1uCiEOa/wA5t6IgD8SQLEyqTLX7\nlAuISV4t10gGGaeScKEuVgcOLP4cbUjvdsKJuv9RAM98NB1Eipxf0vhLId2XseSR\nGPsTiuKQzsDKJpPdYuJj3jwP2qMOxVgpn4tkF8vBXQG7ib5a6zuPgHId9Ift61vE\nYdK7BZZjQHNTQg9STWC7VihSnYHLv8bFQdS7RAj/nrFYlODjVUmHASjrvJHxJ8XF\nJl+MZj90gdJLtDojJN46HfFtM0Mqgyj+iyccFjbgs9VccMFGwqyV+lvJaCaD1gs=\n=PaG7\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY7nauAAoJEOtsyhSD+nTs58AIAKWwgZcCX1DBGccJuRHCHK/B\nhQSQ9tM7348aMrOyMUZHMrm33rgUbpwKYsiYl1uCiEOa/wA5t6IgD8SQLEyqTLX7\nlAuISV4t10gGGaeScKEuVgcOLP4cbUjvdsKJuv9RAM98NB1Eipxf0vhLId2XseSR\nGPsTiuKQzsDKJpPdYuJj3jwP2qMOxVgpn4tkF8vBXQG7ib5a6zuPgHId9Ift61vE\nYdK7BZZjQHNTQg9STWC7VihSnYHLv8bFQdS7RAj/nrFYlODjVUmHASjrvJHxJ8XF\nJl+MZj90gdJLtDojJN46HfFtM0Mqgyj+iyccFjbgs9VccMFGwqyV+lvJaCaD1gs=\n=PaG7\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 968575a0e5ae3945e473f442488e3701fb30e6cf\ntype commit\ntag 12.0.0.0b1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1492022958 +0000\n\nkeystone 12.0.0.0b1 development milestone\n\nmeta:version: 12.0.0.0b1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Commit: Lance Bragstad <lbragstad@gmail.com>\nmeta:release:Change-Id: I381cbdc7a98ab12f48a50ea7bea44fea168aa41d\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

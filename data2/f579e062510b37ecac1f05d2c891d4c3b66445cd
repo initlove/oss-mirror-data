@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTA2OTg1ODQ6ZjU3OWUwNjI1MTBiMzdlY2FjMWYwNWQyYzg5MWQ0YzNiNjY0NDVjZA==",
+  "sha": "f579e062510b37ecac1f05d2c891d4c3b66445cd",
+  "url": "https://api.github.com/repos/openstack/python-troveclient/git/tags/f579e062510b37ecac1f05d2c891d4c3b66445cd",
+  "tagger": {
+    "name": "Nikhil Manchanda",
+    "email": "SlickNik@gmail.com",
+    "date": "2014-09-02T17:59:59Z"
+  },
+  "object": {
+    "sha": "33c76fab16b80f32a04f83e1653d4f809c22d3bd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-troveclient/git/commits/33c76fab16b80f32a04f83e1653d4f809c22d3bd"
+  },
+  "tag": "1.0.6",
+  "message": "Releasing python-troveclient version 1.0.6\n\nMajor changes since version 1.0.5:\n- Added support for replication\n- Made port-id and net-id keys mutually exclusive\n- Renamed resize-flavor subcommand to resize-instance\n- Added optional marker/limit to list command\n- Fixed shell view for secgroup-* commands\n- Added datatore/version name into configuration view\n- Added a drop config-group command in update instance\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJUBgXJAAoJEJaSdX6809ZsYiIH/05PWvbDCDYS2FMGVXhMefTE\nUulqPsFV0F6TW6hCws+PNEDGL1PnBon+gtYVKzOCgu9wQ/jk98NYdLX7KoNUv8bZ\njp7i6JZelfoo2fBrNhNWxkVmHkJHFjJvff41V1K43Naa5DIJ8z88r5W2Bf/tGAXI\nQT4E99WNqCYiwcFhQacapEMGBIWplDBtkA0kS82MN9xDoIPKCLS14pOLfaJW7NLi\nSGFTeR3qPuDi5tPurAvaKJumIjKewykrKCvQFCwTB/D8xtKAh1eFkzaXMOh2sXyv\nDJd+MjTOde7R3UEqDxEg+7a4TU81EP+qCJHnvrCVBO/aukayy6OCllxk33hSbKU=\n=9ev/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJUBgXJAAoJEJaSdX6809ZsYiIH/05PWvbDCDYS2FMGVXhMefTE\nUulqPsFV0F6TW6hCws+PNEDGL1PnBon+gtYVKzOCgu9wQ/jk98NYdLX7KoNUv8bZ\njp7i6JZelfoo2fBrNhNWxkVmHkJHFjJvff41V1K43Naa5DIJ8z88r5W2Bf/tGAXI\nQT4E99WNqCYiwcFhQacapEMGBIWplDBtkA0kS82MN9xDoIPKCLS14pOLfaJW7NLi\nSGFTeR3qPuDi5tPurAvaKJumIjKewykrKCvQFCwTB/D8xtKAh1eFkzaXMOh2sXyv\nDJd+MjTOde7R3UEqDxEg+7a4TU81EP+qCJHnvrCVBO/aukayy6OCllxk33hSbKU=\n=9ev/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 33c76fab16b80f32a04f83e1653d4f809c22d3bd\ntype commit\ntag 1.0.6\ntagger Nikhil Manchanda <SlickNik@gmail.com> 1409680799 -0700\n\nReleasing python-troveclient version 1.0.6\n\nMajor changes since version 1.0.5:\n- Added support for replication\n- Made port-id and net-id keys mutually exclusive\n- Renamed resize-flavor subcommand to resize-instance\n- Added optional marker/limit to list command\n- Fixed shell view for secgroup-* commands\n- Added datatore/version name into configuration view\n- Added a drop config-group command in update instance\n"
+  }
+}

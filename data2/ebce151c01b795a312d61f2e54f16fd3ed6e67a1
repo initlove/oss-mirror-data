@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzg3NzkxMzplYmNlMTUxYzAxYjc5NWEzMTJkNjFmMmU1NGYxNmZkM2VkNmU2N2Ex",
+  "sha": "ebce151c01b795a312d61f2e54f16fd3ed6e67a1",
+  "url": "https://api.github.com/repos/openstack/oslo.config/git/tags/ebce151c01b795a312d61f2e54f16fd3ed6e67a1",
+  "tagger": {
+    "name": "Davanum Srinivas",
+    "email": "davanum@gmail.com",
+    "date": "2016-06-10T01:24:19Z"
+  },
+  "object": {
+    "sha": "bb0f7e3880bd83dbb9088f3f8045152ce8e7897b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.config/git/commits/bb0f7e3880bd83dbb9088f3f8045152ce8e7897b"
+  },
+  "tag": "3.11.0",
+  "message": "oslo.config 3.11.0 release\n\nmeta:version: 3.11.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Commit: Davanum Srinivas <davanum@gmail.com>\nmeta:release:Change-Id: Ia9f8ba9188e546c9e107958dde2908415531b50c\nmeta:release:+    * Add policy registration and authorize method\n-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAldaFsMACgkQgNg6eWEDv1n/CACfbSTPx+sX0rxz7S6f/9E1Pqzu\nYHoAoJX2LxnoQYG2YClzqQEun50GdD9E\n=+7pX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAldaFsMACgkQgNg6eWEDv1n/CACfbSTPx+sX0rxz7S6f/9E1Pqzu\nYHoAoJX2LxnoQYG2YClzqQEun50GdD9E\n=+7pX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bb0f7e3880bd83dbb9088f3f8045152ce8e7897b\ntype commit\ntag 3.11.0\ntagger Davanum Srinivas <davanum@gmail.com> 1465521859 -0400\n\noslo.config 3.11.0 release\n\nmeta:version: 3.11.0\nmeta:series: newton\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Joshua Harlow <jxharlow@godaddy.com>\nmeta:release:Commit: Davanum Srinivas <davanum@gmail.com>\nmeta:release:Change-Id: Ia9f8ba9188e546c9e107958dde2908415531b50c\nmeta:release:+    * Add policy registration and authorize method\n"
+  }
+}

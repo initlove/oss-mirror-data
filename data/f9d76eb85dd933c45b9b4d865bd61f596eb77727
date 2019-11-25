@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDExMjYzMzI6ZjlkNzZlYjg1ZGQ5MzNjNDViOWI0ZDg2NWJkNjFmNTk2ZWI3NzcyNw==",
+  "sha": "f9d76eb85dd933c45b9b4d865bd61f596eb77727",
+  "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/tags/f9d76eb85dd933c45b9b4d865bd61f596eb77727",
+  "tagger": {
+    "name": "William Roberts",
+    "email": "william.c.roberts@intel.com",
+    "date": "2019-06-19T17:38:22Z"
+  },
+  "object": {
+    "sha": "a17daa948fc67685651bf3b7a589ed341080ddd3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/commits/a17daa948fc67685651bf3b7a589ed341080ddd3"
+  },
+  "tag": "3.2.0",
+  "message": "3.2.0 - 2019-06-19\n\n* fix configure bug for linking against libmu.\n* tpm2_changeauth: Support changing platform hierarchy auth.\n* tpm2_flushcontext: Introduce new tool for flushing handles from the TPM.\n* tpm2_checkquote: Introduce new tool for checking validity of quotes.\n* tpm2_quote: Add ability to output PCR values for quotes.\n* tpm2_makecredential: add support for executing tool off-TPM.\n* tpm2_pcrreset: introduce new tool for resetting PCRs.\n* tpm2_quote: Fix AK auth password not being used.\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEW0grjj4Z2nyXjh0BbeLpB44fUMEFAl0KcykACgkQbeLpB44f\nUMFdkxAAiHh/cQWouDEY1n5FxdO88ky+/JIhuaV8M4NGqghulCi364sfoiOszCbl\nFuSEt+DXfIiJfbgrJ5Wa/uowwnS69cwtdfbazCbC0i4aWdVqMP8gV61dA19u6J/b\n+w9wcVXX7qIy5Izlu6fLGRaNpKn1WS79QS1RW9YKK9rtLzySlvhYVhMpyUCvcqS5\nC7MFcv++Vl1AJ1ClwQZzL+VNKNgGn1cyoY2M9ALHH7tEC8f+roOAwVSZPK/IAtI9\nsFJKPFroFPUzdIGpTqRxtyaXjhMyj2V+xiL1QaQgLRP0x8xB9MPilOZlJPI5RbTR\n6ZLP3jklpr48F6+JraRkC7rRBzWYeg9bAa9OIF9mnzreQ3/rz0svBMvt+DxAXlQz\nr3nKYlM/36pZShXxR4as7E6SQ4LlucsF3HJj5M07NySYbkkful6RZAtJqRNp2Mik\nz2rXp3krrup1+WsM/fBEEbHV0ut/s1s4O68o4uZm10yC7fusBQF15zHgpcBFh0AZ\nE5wvo0DOFGqY+Y+ng2K97kk1+jEd4zTdfVS7OKfXWOmRjURwrnQD65aaFTB36O4e\n739z/b7/My1WECSbiBTnPybwtAKVWMgkB6okC7vbKs6g+NXcBY3CZxtf+l463nF+\nvm0TxN0IvNunRH4eF8yNEbZBQ3sBVZHnie5u0BuwyTs/Ti+iuII=\n=KtOq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEW0grjj4Z2nyXjh0BbeLpB44fUMEFAl0KcykACgkQbeLpB44f\nUMFdkxAAiHh/cQWouDEY1n5FxdO88ky+/JIhuaV8M4NGqghulCi364sfoiOszCbl\nFuSEt+DXfIiJfbgrJ5Wa/uowwnS69cwtdfbazCbC0i4aWdVqMP8gV61dA19u6J/b\n+w9wcVXX7qIy5Izlu6fLGRaNpKn1WS79QS1RW9YKK9rtLzySlvhYVhMpyUCvcqS5\nC7MFcv++Vl1AJ1ClwQZzL+VNKNgGn1cyoY2M9ALHH7tEC8f+roOAwVSZPK/IAtI9\nsFJKPFroFPUzdIGpTqRxtyaXjhMyj2V+xiL1QaQgLRP0x8xB9MPilOZlJPI5RbTR\n6ZLP3jklpr48F6+JraRkC7rRBzWYeg9bAa9OIF9mnzreQ3/rz0svBMvt+DxAXlQz\nr3nKYlM/36pZShXxR4as7E6SQ4LlucsF3HJj5M07NySYbkkful6RZAtJqRNp2Mik\nz2rXp3krrup1+WsM/fBEEbHV0ut/s1s4O68o4uZm10yC7fusBQF15zHgpcBFh0AZ\nE5wvo0DOFGqY+Y+ng2K97kk1+jEd4zTdfVS7OKfXWOmRjURwrnQD65aaFTB36O4e\n739z/b7/My1WECSbiBTnPybwtAKVWMgkB6okC7vbKs6g+NXcBY3CZxtf+l463nF+\nvm0TxN0IvNunRH4eF8yNEbZBQ3sBVZHnie5u0BuwyTs/Ti+iuII=\n=KtOq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a17daa948fc67685651bf3b7a589ed341080ddd3\ntype commit\ntag 3.2.0\ntagger William Roberts <william.c.roberts@intel.com> 1560965902 -0700\n\n3.2.0 - 2019-06-19\n\n* fix configure bug for linking against libmu.\n* tpm2_changeauth: Support changing platform hierarchy auth.\n* tpm2_flushcontext: Introduce new tool for flushing handles from the TPM.\n* tpm2_checkquote: Introduce new tool for checking validity of quotes.\n* tpm2_quote: Add ability to output PCR values for quotes.\n* tpm2_makecredential: add support for executing tool off-TPM.\n* tpm2_pcrreset: introduce new tool for resetting PCRs.\n* tpm2_quote: Fix AK auth password not being used.\n"
+  }
+}

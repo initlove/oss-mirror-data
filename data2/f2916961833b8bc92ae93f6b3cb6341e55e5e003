@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE0MzQzODM6ZjI5MTY5NjE4MzNiOGJjOTJhZTkzZjZiM2NiNjM0MWU1NWU1ZTAwMw==",
+  "sha": "f2916961833b8bc92ae93f6b3cb6341e55e5e003",
+  "url": "https://api.github.com/repos/openstack/python-congressclient/git/tags/f2916961833b8bc92ae93f6b3cb6341e55e5e003",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-06-07T14:15:44Z"
+  },
+  "object": {
+    "sha": "2d55e1f26e80c5b0b31c53c4cae0c971cb0f08e3",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-congressclient/git/commits/2d55e1f26e80c5b0b31c53c4cae0c971cb0f08e3"
+  },
+  "tag": "1.10.0",
+  "message": "python-congressclient 1.10.0 release\n\nmeta:version: 1.10.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Eric K <ekcs.openstack@gmail.com>\nmeta:release:Commit: Eric K <ekcs.openstack@gmail.com>\nmeta:release:Change-Id: I6cf729057baeafbb9cf3a832e4645eac94b62d6c\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbGT4QAAoJEMNs3LTfAMaMBZ0H/3447+1gOpF621lpsTiGMR04\nGcCSquagWAd+yIKZxygfXi29PkFVou2oZUly+Ys/YNHcNTeCKKyvd8pJ8SsODTHc\n7EPrXrt0rI4dDSUAz24UZtyR/O2JlqAW1+G2mDXIWj3UatW6bZMgb8L2dsoqBlkr\n690B4ADUds5A8I3WLJ0ikr7bb9kQPl06WaMZcAdXMxdB38457ik2H5xYogfHPdIW\nqMfeI+LrpiIdu1CpGBvXaI6MiJckA+IR58F13Bh55JuyB2xro2ZcF5fD8EfvAAro\n3IGCOcM0RsNYIDIxk2Y4sBaGpF2g2vLqU64PJx1wYULoFYkGzqBxe/Exd1l52Fc=\n=r3Wx\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbGT4QAAoJEMNs3LTfAMaMBZ0H/3447+1gOpF621lpsTiGMR04\nGcCSquagWAd+yIKZxygfXi29PkFVou2oZUly+Ys/YNHcNTeCKKyvd8pJ8SsODTHc\n7EPrXrt0rI4dDSUAz24UZtyR/O2JlqAW1+G2mDXIWj3UatW6bZMgb8L2dsoqBlkr\n690B4ADUds5A8I3WLJ0ikr7bb9kQPl06WaMZcAdXMxdB38457ik2H5xYogfHPdIW\nqMfeI+LrpiIdu1CpGBvXaI6MiJckA+IR58F13Bh55JuyB2xro2ZcF5fD8EfvAAro\n3IGCOcM0RsNYIDIxk2Y4sBaGpF2g2vLqU64PJx1wYULoFYkGzqBxe/Exd1l52Fc=\n=r3Wx\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2d55e1f26e80c5b0b31c53c4cae0c971cb0f08e3\ntype commit\ntag 1.10.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1528380944 +0000\n\npython-congressclient 1.10.0 release\n\nmeta:version: 1.10.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Eric K <ekcs.openstack@gmail.com>\nmeta:release:Commit: Eric K <ekcs.openstack@gmail.com>\nmeta:release:Change-Id: I6cf729057baeafbb9cf3a832e4645eac94b62d6c\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzAyNTIxNDpmMDk5ZTlhNzMwOWYwNDQ2ZTQ2OWMxZmU3NmFkOTQwNDMxZTQ3MmYz",
+  "sha": "f099e9a7309f0446e469c1fe76ad940431e472f3",
+  "url": "https://api.github.com/repos/openstack/python-ceilometerclient/git/tags/f099e9a7309f0446e469c1fe76ad940431e472f3",
+  "tagger": {
+    "name": "Eoghan Glynn",
+    "email": "eglynn@redhat.com",
+    "date": "2013-11-28T13:57:55Z"
+  },
+  "object": {
+    "sha": "2950b30089ab7f38b70a9dd6b40cf0823d4ade3a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ceilometerclient/git/commits/2950b30089ab7f38b70a9dd6b40cf0823d4ade3a"
+  },
+  "tag": "1.0.7",
+  "message": "python-ceilometerclient 1.0.7\n\nIncludes the following changes:\n\n * Allow alarm-threshold-update to upate generic attributes\n * Enable pep8 E711/E712/E721/H302 checking\n * Enable pep8 E128 checking\n * Enable pep8 E121/E122/E123 checking\n * Allow specifying a timestamp when creating a sample\n * Avoid reset of repeat_actions attribute on alarm update\n * Ensure basic logging config is applied\n * Support building wheels (PEP-427)\n * Add six to requirements.txt\n * Updated from global requirements\n * Ceilometer UnicodeEncodeError when update or show alarm fix\n * Adds the 'limit' parameter to sample list command in V2 API\n * Fix order of sample list\n * add cliutils from oslo-incubator\n * update oslo libraries\n * Updated from global requirements\n * Fix cacert argument to HTTPS connection\n * Updated from global requirements\n * Replace mox3 with mock in unit test\n * Updated from global requirements\n * Fix missed Pep8 error with 1.4.6\n * Updated from global requirements\n * Replace mox with mox3\n * align the order of parameters for urlencode()\n * replace basetring/xrange\n * Replace unicode() with six.u()\n * replace dict.keys() with list(dict)\n * Import urlutils to substitute urllib\n * Use six.iteritems() for dict\n * Translate print statement to print function\n * Fix module importing issues for Python 3\n * Import six.StringIO\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.13 (GNU/Linux)\n\niQEcBAABAgAGBQJSl0vsAAoJEDhh/+3vk6gr9lUH/RWOsk3F4zs148HNNwXyPnYo\neOjC/tgimTdpkVZI//NTHgCgZ1lqJY2JGTkmsd/EEpEBJeml6eG0xDYN8cgS4ANG\nzsl0R64dCbodgblXga8IX+7HJqKxy/GMWduyIeHZDSmziCCzcf8ms7945LTeUp9m\nxr8tICPfNBdQ5k86derBhpexiAm5GAcyVjwqGpX3Fs9oclftbVbRetydZvPBPUPk\nQg1Mv7Ee43lopqISg/Dm1znZmmZV61EuTUz/LrwaBpPdO3KJJrydrq3qZeKsgxFI\n+V6PZ5cogqOEBMkZB6NWZ1lgBDr4EbO9N+cWs28mDgG4LuEXLPg7xCFvltboDBQ=\n=Ni+t\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.13 (GNU/Linux)\n\niQEcBAABAgAGBQJSl0vsAAoJEDhh/+3vk6gr9lUH/RWOsk3F4zs148HNNwXyPnYo\neOjC/tgimTdpkVZI//NTHgCgZ1lqJY2JGTkmsd/EEpEBJeml6eG0xDYN8cgS4ANG\nzsl0R64dCbodgblXga8IX+7HJqKxy/GMWduyIeHZDSmziCCzcf8ms7945LTeUp9m\nxr8tICPfNBdQ5k86derBhpexiAm5GAcyVjwqGpX3Fs9oclftbVbRetydZvPBPUPk\nQg1Mv7Ee43lopqISg/Dm1znZmmZV61EuTUz/LrwaBpPdO3KJJrydrq3qZeKsgxFI\n+V6PZ5cogqOEBMkZB6NWZ1lgBDr4EbO9N+cWs28mDgG4LuEXLPg7xCFvltboDBQ=\n=Ni+t\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2950b30089ab7f38b70a9dd6b40cf0823d4ade3a\ntype commit\ntag 1.0.7\ntagger Eoghan Glynn <eglynn@redhat.com> 1385647075 +0000\n\npython-ceilometerclient 1.0.7\n\nIncludes the following changes:\n\n * Allow alarm-threshold-update to upate generic attributes\n * Enable pep8 E711/E712/E721/H302 checking\n * Enable pep8 E128 checking\n * Enable pep8 E121/E122/E123 checking\n * Allow specifying a timestamp when creating a sample\n * Avoid reset of repeat_actions attribute on alarm update\n * Ensure basic logging config is applied\n * Support building wheels (PEP-427)\n * Add six to requirements.txt\n * Updated from global requirements\n * Ceilometer UnicodeEncodeError when update or show alarm fix\n * Adds the 'limit' parameter to sample list command in V2 API\n * Fix order of sample list\n * add cliutils from oslo-incubator\n * update oslo libraries\n * Updated from global requirements\n * Fix cacert argument to HTTPS connection\n * Updated from global requirements\n * Replace mox3 with mock in unit test\n * Updated from global requirements\n * Fix missed Pep8 error with 1.4.6\n * Updated from global requirements\n * Replace mox with mox3\n * align the order of parameters for urlencode()\n * replace basetring/xrange\n * Replace unicode() with six.u()\n * replace dict.keys() with list(dict)\n * Import urlutils to substitute urllib\n * Use six.iteritems() for dict\n * Translate print statement to print function\n * Fix module importing issues for Python 3\n * Import six.StringIO\n"
+  }
+}

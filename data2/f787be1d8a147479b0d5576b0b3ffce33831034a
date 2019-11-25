@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjU5MjM3Nzc6Zjc4N2JlMWQ4YTE0NzQ3OWIwZDU1NzZiMGIzZmZjZTMzODMxMDM0YQ==",
+  "sha": "f787be1d8a147479b0d5576b0b3ffce33831034a",
+  "url": "https://api.github.com/repos/openstack/deb-ryu/git/tags/f787be1d8a147479b0d5576b0b3ffce33831034a",
+  "tagger": {
+    "name": "Karthik Ramasubramanian",
+    "email": "karthik@ntti3.com",
+    "date": "2014-03-21T02:37:03Z"
+  },
+  "object": {
+    "sha": "df35e357036661b6239aa2d9d71b9330b6f1569d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/deb-ryu/git/commits/df35e357036661b6239aa2d9d71b9330b6f1569d"
+  },
+  "tag": "2.3.0",
+  "message": "Ryu version 2.3.0\n\nImprovements :\n- Revert back to just syslog based logging\n\nBug Fixes:\n- fix port status mask to enable port status message reception\n- fix packet_in mask to enable invalid_TTL packets to the controller\n- OFConfig timeout + retry mechanisim\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

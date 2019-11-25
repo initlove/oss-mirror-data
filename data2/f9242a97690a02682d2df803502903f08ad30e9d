@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTkzNDkzODI6ZjkyNDJhOTc2OTBhMDI2ODJkMmRmODAzNTAyOTAzZjA4YWQzMGU5ZA==",
+  "sha": "f9242a97690a02682d2df803502903f08ad30e9d",
+  "url": "https://api.github.com/repos/jlblancoc/nanoflann/git/tags/f9242a97690a02682d2df803502903f08ad30e9d",
+  "tagger": {
+    "name": "Jose Luis Blanco Claraco",
+    "email": "joseluisblancoc@gmail.com",
+    "date": "2018-08-28T11:13:37Z"
+  },
+  "object": {
+    "sha": "fa9e95faeeeeb5a7595f1090726897845b7ac798",
+    "type": "commit",
+    "url": "https://api.github.com/repos/jlblancoc/nanoflann/git/commits/fa9e95faeeeeb5a7595f1090726897845b7ac798"
+  },
+  "tag": "v1.3.0",
+  "message": "Release of v1.3.0\n\nChangelog:\n  * Instructions for `make install` for Linux and Windows (Closes #87).\n  * Fix all (?) MSVC conversion warnings (Closes: #95).\n  * Avoid need for _USE_MATH_DEFINES in MSVC (Closes: #96)\n  * Eigen::Matrix datasets: now uses std::cref() to store a reference to matrix.\n  * GSOC2017 contributions by Pranjal Kumar Rai:\n    * Support for dynamic datasets.\n    * Support for non-Euclidean spaces: SO(2), SO(3)\n-----BEGIN PGP SIGNATURE-----\n\niQJOBAABCgA4FiEEd/ad5CMYo7cBrYRk1EMwT71wpkEFAluFLn8aHGpvc2VsdWlz\nYmxhbmNvY0BnbWFpbC5jb20ACgkQ1EMwT71wpkFISxAAnopd4YXDE7W1KaIM1SeU\nhvjqpOaLn+TjJ0m3cb1qVMvJI/rl8w19LJKvR+ZLpYZwDBzuS1OfraVcQHer+O+/\ne3xbzTekiQTFqn/srNW4tR6mUY46j0RfKLTPlQltr0WfUoZbG6bXUWoR3Phf8E3N\n3A1bZny/B2LlzATHKsps2gcjmbTjrUKMNS2Tzuqmwy6lXSquqm9xn0j9QkPvszRH\nxV2F4v1GUHnvOIyI2bOE+WcmQcu40jYBV4aMr+iWizavQUjXVTM17gW1EFXqIj+l\n0J/1aS+l6ltEYZtQLsfNoPB8v5CEFxrH1f2YKgwtGrow1C1Yy0FXbm/hgpgVXkSA\nimV46nb8jLusLjndiXsH57hH+H5bzLA5MQBAR4v5GZGP1cHMI7EPcFEizPZ5csnV\nGqNxCRUJRS0w6FLN815IJ4RorkGWXPb9G3aS4b6dNAAPyoc0zG5z4zY+X6zZ7Afp\n9abYuQL0PZ3lfxQSs0ePzIvI6wIXsk5BNQP3//CzUfAbnDgxO4ujg6CH8wGm/9MJ\nBH5MSyEbX7cdt2i4rFkFfojeeTZDnYkyBLGKtvwxqfZIptNJB57gtrka90/ATzD4\nE+0w/72ETXcK6uFyb2VcStrDdaTNBS91wtaIg33DiPOdObLx8n2qtjqi9voIIR5s\n0ppZPkVZMx2Zx+JVyx1KIW8=\n=RvOV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQJOBAABCgA4FiEEd/ad5CMYo7cBrYRk1EMwT71wpkEFAluFLn8aHGpvc2VsdWlz\nYmxhbmNvY0BnbWFpbC5jb20ACgkQ1EMwT71wpkFISxAAnopd4YXDE7W1KaIM1SeU\nhvjqpOaLn+TjJ0m3cb1qVMvJI/rl8w19LJKvR+ZLpYZwDBzuS1OfraVcQHer+O+/\ne3xbzTekiQTFqn/srNW4tR6mUY46j0RfKLTPlQltr0WfUoZbG6bXUWoR3Phf8E3N\n3A1bZny/B2LlzATHKsps2gcjmbTjrUKMNS2Tzuqmwy6lXSquqm9xn0j9QkPvszRH\nxV2F4v1GUHnvOIyI2bOE+WcmQcu40jYBV4aMr+iWizavQUjXVTM17gW1EFXqIj+l\n0J/1aS+l6ltEYZtQLsfNoPB8v5CEFxrH1f2YKgwtGrow1C1Yy0FXbm/hgpgVXkSA\nimV46nb8jLusLjndiXsH57hH+H5bzLA5MQBAR4v5GZGP1cHMI7EPcFEizPZ5csnV\nGqNxCRUJRS0w6FLN815IJ4RorkGWXPb9G3aS4b6dNAAPyoc0zG5z4zY+X6zZ7Afp\n9abYuQL0PZ3lfxQSs0ePzIvI6wIXsk5BNQP3//CzUfAbnDgxO4ujg6CH8wGm/9MJ\nBH5MSyEbX7cdt2i4rFkFfojeeTZDnYkyBLGKtvwxqfZIptNJB57gtrka90/ATzD4\nE+0w/72ETXcK6uFyb2VcStrDdaTNBS91wtaIg33DiPOdObLx8n2qtjqi9voIIR5s\n0ppZPkVZMx2Zx+JVyx1KIW8=\n=RvOV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object fa9e95faeeeeb5a7595f1090726897845b7ac798\ntype commit\ntag v1.3.0\ntagger Jose Luis Blanco Claraco <joseluisblancoc@gmail.com> 1535454817 +0200\n\nRelease of v1.3.0\n\nChangelog:\n  * Instructions for `make install` for Linux and Windows (Closes #87).\n  * Fix all (?) MSVC conversion warnings (Closes: #95).\n  * Avoid need for _USE_MATH_DEFINES in MSVC (Closes: #96)\n  * Eigen::Matrix datasets: now uses std::cref() to store a reference to matrix.\n  * GSOC2017 contributions by Pranjal Kumar Rai:\n    * Support for dynamic datasets.\n    * Support for non-Euclidean spaces: SO(2), SO(3)\n"
+  }
+}

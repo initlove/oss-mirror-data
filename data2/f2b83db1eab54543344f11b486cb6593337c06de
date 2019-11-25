@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNDpmMmI4M2RiMWVhYjU0NTQzMzQ0ZjExYjQ4NmNiNjU5MzMzN2MwNmRl",
+  "sha": "f2b83db1eab54543344f11b486cb6593337c06de",
+  "url": "https://api.github.com/repos/openstack/heat/git/tags/f2b83db1eab54543344f11b486cb6593337c06de",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2016-09-27T14:56:53Z"
+  },
+  "object": {
+    "sha": "dd707bc997715365dc76a3decea7b4f8d658375f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/heat/git/commits/dd707bc997715365dc76a3decea7b4f8d658375f"
+  },
+  "tag": "7.0.0.0rc2",
+  "message": "heat 7.0.0.0rc2 release candidate\n\nmeta:version: 7.0.0.0rc2\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Thomas Herve <therve@redhat.com>\nmeta:release:Commit: Thomas Herve <therve@redhat.com>\nmeta:release:Change-Id: Ife537fdb7af84a6aadf3b1c355703b9f6a6b3e7a\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX6oi1AAoJENljH+rwzGInWScIAK94n+3iV77eKp++60gDhGLL\nyqqelDDMVBQxAbKBLBEl4NJSrdfDI1FCpTAxH/c8OJCw9iUf638LPkzEiwEdupct\nMqR5Oc/B7CpcS6NzOAYwaoJhessCHWIaZJeqJ8SOciJh4cVbmoAN39DXYNXBcwzy\nTzTVOV4Io3V7qlo5Ag0oE3o8y3VFGR1ni89RHZtT+fq8txNOCnUy/2ntPSenRAWt\noPmurUrqypNAlFSUw0seFRYNRroDcilTm9LGIHOmhkSXHNEaf6EsUuZuMPjHZkNp\nrUOu8oXSdTjn/UoBVKEeWVrTTxIov3NCXX3vaV1tyKd/lBy0EXDszNbqlfL4J6c=\n=DD79\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX6oi1AAoJENljH+rwzGInWScIAK94n+3iV77eKp++60gDhGLL\nyqqelDDMVBQxAbKBLBEl4NJSrdfDI1FCpTAxH/c8OJCw9iUf638LPkzEiwEdupct\nMqR5Oc/B7CpcS6NzOAYwaoJhessCHWIaZJeqJ8SOciJh4cVbmoAN39DXYNXBcwzy\nTzTVOV4Io3V7qlo5Ag0oE3o8y3VFGR1ni89RHZtT+fq8txNOCnUy/2ntPSenRAWt\noPmurUrqypNAlFSUw0seFRYNRroDcilTm9LGIHOmhkSXHNEaf6EsUuZuMPjHZkNp\nrUOu8oXSdTjn/UoBVKEeWVrTTxIov3NCXX3vaV1tyKd/lBy0EXDszNbqlfL4J6c=\n=DD79\n-----END PGP SIGNATURE-----\n",
+    "payload": "object dd707bc997715365dc76a3decea7b4f8d658375f\ntype commit\ntag 7.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1474988213 +0000\n\nheat 7.0.0.0rc2 release candidate\n\nmeta:version: 7.0.0.0rc2\nmeta:diff-start: -\nmeta:series: newton\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Thomas Herve <therve@redhat.com>\nmeta:release:Commit: Thomas Herve <therve@redhat.com>\nmeta:release:Change-Id: Ife537fdb7af84a6aadf3b1c355703b9f6a6b3e7a\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

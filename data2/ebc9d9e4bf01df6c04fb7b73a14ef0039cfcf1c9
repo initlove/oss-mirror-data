@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc5MTM0ODplYmM5ZDllNGJmMDFkZjZjMDRmYjdiNzNhMTRlZjAwMzljZmNmMWM5",
+  "sha": "ebc9d9e4bf01df6c04fb7b73a14ef0039cfcf1c9",
+  "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/tags/ebc9d9e4bf01df6c04fb7b73a14ef0039cfcf1c9",
+  "tagger": {
+    "name": "JP Richardson",
+    "email": "jprichardson@gmail.com",
+    "date": "2015-07-09T15:08:01Z"
+  },
+  "object": {
+    "sha": "f97bc45a2c24b58815192a118c4591d8f763e499",
+    "type": "commit",
+    "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/commits/f97bc45a2c24b58815192a118c4591d8f763e499"
+  },
+  "tag": "0.22.1",
+  "message": "0.22.1 / 2015-07-09\n-------------------\n- Prevent calling `hasMillisResSync()` on module load. See: https://github.com/jprichardson/node-fs-extra/issues/149.\nFixes regression that was introduced in `0.21.0`.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

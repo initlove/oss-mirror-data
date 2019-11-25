@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDY1MTY2Njc6ZTkwNzBiNGVhNzllZGI5ZTM2NDg4OTdkZjg2ODQ5Y2IyZWQ3MGY0OA==",
+  "sha": "e9070b4ea79edb9e3648897df86849cb2ed70f48",
+  "url": "https://api.github.com/repos/openstack/neutron-lib/git/tags/e9070b4ea79edb9e3648897df86849cb2ed70f48",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-06-04T15:19:13Z"
+  },
+  "object": {
+    "sha": "96b82602fb4885747989b0914e823773dca5691e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-lib/git/commits/96b82602fb4885747989b0914e823773dca5691e"
+  },
+  "tag": "1.27.0",
+  "message": "neutron-lib 1.27.0 release\n\nmeta:version: 1.27.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Matthew Thode <mthode@mthode.org>\nmeta:release:Commit: Matthew Thode <mthode@mthode.org>\nmeta:release:Change-Id: Id3880e4a35a1f1c82d0d3ae5c18d17d02575a239\nmeta:release:Code-Review+1: boden <bodenvmw@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@verizonmedia.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlz2i/EZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOC/WC/wM5+hAzYjKlumlmWjshczB\nFeV36kwDEO+ME52xfJJad8gQZczB+M9CaFnlcQUrdvJZDYI7ghdcPgKKbQ2Ge92f\nI7ScOg/Xk0pdaH8WhtvRtmC970TEHYCAUChp7bU+SQx3SphHFrZ366LoC5fa5pn9\nCGzsTsgteZ7+5VzHj0x133KZIA0BVJnw3OG/htIru9Zr9Ytw/tcbEhnz0a1kV4tl\nqypAitpA2nNkwsOo32zlvEe4tKwTZtEcFXeZ8/U5JiPeW8dG3TEzI30jmMwJhxoZ\ncQaHP4Wfc+LiS3s03i9U18O28lgucgmcmCw45TcY8AdO9ZSudb5lLL0B0UxGI21j\nOgUyDTO+FOWl3fYWBRB0Ob7guKF5HGrU95dzkrxVcFmZGh4Vbu0yjdYlvZ6OSRuu\na+CkJViaIGOa1oSRDbzTklgBijLlL7Uxbev41yr0PCxmkJXIIFb2H+DVB+gbTeNK\nKCDNJhAP7cYNBRGX5GoCSmvWXVxWpCCwZuPDIz68Vio=\n=e/u6\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlz2i/EZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOC/WC/wM5+hAzYjKlumlmWjshczB\nFeV36kwDEO+ME52xfJJad8gQZczB+M9CaFnlcQUrdvJZDYI7ghdcPgKKbQ2Ge92f\nI7ScOg/Xk0pdaH8WhtvRtmC970TEHYCAUChp7bU+SQx3SphHFrZ366LoC5fa5pn9\nCGzsTsgteZ7+5VzHj0x133KZIA0BVJnw3OG/htIru9Zr9Ytw/tcbEhnz0a1kV4tl\nqypAitpA2nNkwsOo32zlvEe4tKwTZtEcFXeZ8/U5JiPeW8dG3TEzI30jmMwJhxoZ\ncQaHP4Wfc+LiS3s03i9U18O28lgucgmcmCw45TcY8AdO9ZSudb5lLL0B0UxGI21j\nOgUyDTO+FOWl3fYWBRB0Ob7guKF5HGrU95dzkrxVcFmZGh4Vbu0yjdYlvZ6OSRuu\na+CkJViaIGOa1oSRDbzTklgBijLlL7Uxbev41yr0PCxmkJXIIFb2H+DVB+gbTeNK\nKCDNJhAP7cYNBRGX5GoCSmvWXVxWpCCwZuPDIz68Vio=\n=e/u6\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 96b82602fb4885747989b0914e823773dca5691e\ntype commit\ntag 1.27.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1559661553 +0000\n\nneutron-lib 1.27.0 release\n\nmeta:version: 1.27.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Matthew Thode <mthode@mthode.org>\nmeta:release:Commit: Matthew Thode <mthode@mthode.org>\nmeta:release:Change-Id: Id3880e4a35a1f1c82d0d3ae5c18d17d02575a239\nmeta:release:Code-Review+1: boden <bodenvmw@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Miguel Lavalle <miguel.lavalle@verizonmedia.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

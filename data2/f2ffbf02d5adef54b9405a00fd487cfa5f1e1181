@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjczNzI5Nzc6ZjJmZmJmMDJkNWFkZWY1NGI5NDA1YTAwZmQ0ODdjZmE1ZjFlMTE4MQ==",
+  "sha": "f2ffbf02d5adef54b9405a00fd487cfa5f1e1181",
+  "url": "https://api.github.com/repos/citusdata/pg_cron/git/tags/f2ffbf02d5adef54b9405a00fd487cfa5f1e1181",
+  "tagger": {
+    "name": "Marco Slot",
+    "email": "marco@citusdata.com",
+    "date": "2017-10-06T08:05:28Z"
+  },
+  "object": {
+    "sha": "c12e786950c070066b948e4dfe42fd1004f3af32",
+    "type": "commit",
+    "url": "https://api.github.com/repos/citusdata/pg_cron/git/commits/c12e786950c070066b948e4dfe42fd1004f3af32"
+  },
+  "tag": "v1.0.2",
+  "message": "- PostgreSQL 10 support\n- Restrict the maximum number of concurrent tasks\n- Ensure table locks on cron.job are kept after schedule/unschedule\n-----BEGIN PGP SIGNATURE-----\n\niQFIBAABCgAyFiEEUYqWDWqNRiIVlveLrUotgKzoXNUFAlnXOVUUHG1hcmNvQGNp\ndHVzZGF0YS5jb20ACgkQrUotgKzoXNXDQAgAsUTi5avGflhet+ZhLPMMXK0txDm2\nJQsi2SeQ0TSpmJvnX04jLcsC1kKQPVlbANNe35sLVblT6p/M1fJ7OPQojnkx/CjF\npO6NMvOBnrg5dvlBRIEdXDbpvVypwA1en/j7Lc+ERVhWBO/1kR61beZCfmI8uEmI\nmp6TMnAqABYRa9kne+49nIthSCEDdU19ejEO62fFlZY9tdgGfvTAKAI3zLhPJ/z/\nFP9AuFVJSwO2garcRP8BxMw7ZStn3/0MKnL8NOOmaBPWvIg0ap5YTOMjuSNCtI/a\nBG5lR+mYmP9wm7ouXSq2F4Nt7Fam4JytJO3YT2NhsGhEs4Kwyb+8DTT+LQ==\n=+5p4\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQFIBAABCgAyFiEEUYqWDWqNRiIVlveLrUotgKzoXNUFAlnXOVUUHG1hcmNvQGNp\ndHVzZGF0YS5jb20ACgkQrUotgKzoXNXDQAgAsUTi5avGflhet+ZhLPMMXK0txDm2\nJQsi2SeQ0TSpmJvnX04jLcsC1kKQPVlbANNe35sLVblT6p/M1fJ7OPQojnkx/CjF\npO6NMvOBnrg5dvlBRIEdXDbpvVypwA1en/j7Lc+ERVhWBO/1kR61beZCfmI8uEmI\nmp6TMnAqABYRa9kne+49nIthSCEDdU19ejEO62fFlZY9tdgGfvTAKAI3zLhPJ/z/\nFP9AuFVJSwO2garcRP8BxMw7ZStn3/0MKnL8NOOmaBPWvIg0ap5YTOMjuSNCtI/a\nBG5lR+mYmP9wm7ouXSq2F4Nt7Fam4JytJO3YT2NhsGhEs4Kwyb+8DTT+LQ==\n=+5p4\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c12e786950c070066b948e4dfe42fd1004f3af32\ntype commit\ntag v1.0.2\ntagger Marco Slot <marco@citusdata.com> 1507277128 +0200\n\n- PostgreSQL 10 support\n- Restrict the maximum number of concurrent tasks\n- Ensure table locks on cron.job are kept after schedule/unschedule\n"
+  }
+}

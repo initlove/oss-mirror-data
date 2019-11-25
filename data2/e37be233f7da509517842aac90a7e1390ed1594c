@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY2MjY5NTg6ZTM3YmUyMzNmN2RhNTA5NTE3ODQyYWFjOTBhN2UxMzkwZWQxNTk0Yw==",
+  "sha": "e37be233f7da509517842aac90a7e1390ed1594c",
+  "url": "https://api.github.com/repos/openstack/stevedore/git/tags/e37be233f7da509517842aac90a7e1390ed1594c",
+  "tagger": {
+    "name": "Davanum Srinivas",
+    "email": "davanum@gmail.com",
+    "date": "2016-02-09T23:16:35Z"
+  },
+  "object": {
+    "sha": "05c80a08f098bc2385ef68975d2cad4352586a0d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/stevedore/git/commits/05c80a08f098bc2385ef68975d2cad4352586a0d"
+  },
+  "tag": "1.11.0",
+  "message": "stevedore 1.11.0 release\n\nmeta:version: 1.11.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\n-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAla6c1MACgkQgNg6eWEDv1mJ+gCeIUCYYVra1BeJKwWpQgHMlv4u\nG3YAoNGr+qSTckn+oFZpNY4RbAU6+cvA\n=Kvep\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAla6c1MACgkQgNg6eWEDv1mJ+gCeIUCYYVra1BeJKwWpQgHMlv4u\nG3YAoNGr+qSTckn+oFZpNY4RbAU6+cvA\n=Kvep\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 05c80a08f098bc2385ef68975d2cad4352586a0d\ntype commit\ntag 1.11.0\ntagger Davanum Srinivas <davanum@gmail.com> 1455059795 -0500\n\nstevedore 1.11.0 release\n\nmeta:version: 1.11.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\n"
+  }
+}

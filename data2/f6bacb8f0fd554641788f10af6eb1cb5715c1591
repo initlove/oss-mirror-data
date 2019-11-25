@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTk3MTg1MDpmNmJhY2I4ZjBmZDU1NDY0MTc4OGYxMGFmNmViMWNiNTcxNWMxNTkx",
+  "sha": "f6bacb8f0fd554641788f10af6eb1cb5715c1591",
+  "url": "https://api.github.com/repos/openstack/murano-agent/git/tags/f6bacb8f0fd554641788f10af6eb1cb5715c1591",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-07-11T14:49:41Z"
+  },
+  "object": {
+    "sha": "d8cd0ceee7746b9fe5468b239784b3509b7c47bc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/murano-agent/git/commits/d8cd0ceee7746b9fe5468b239784b3509b7c47bc"
+  },
+  "tag": "3.5.0",
+  "message": "murano-agent 3.5.0 release\n\nmeta:version: 3.5.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Commit: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Change-Id: I45b4fd63467c4f17e139855ac19a3e204186673e\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbRhkFAAoJEMNs3LTfAMaMEhwH/iY/BciLGCBzO+Y/dpouz3+6\n/2sXo7vofwo6jDt+i3Gp6VeHqhUjbkoPjONyNFVutfNwz2b1NsftVwYgiOZFC/um\nWkd3j+Ax9fuoQ7HHaaIhSi+Zn3sTc9fxqk8yVkZe56LszznMDeDYICkbJBRjAaxn\nH60lx0JpI6Hh8nfnPtWCeGMg5pXXSWIfYDb6tYR8ifTXwp2ThQVblOKsbFUbMiKY\nodVbHvxiqHUWmlOoji0rC1Bq49XVYKfO/Ms4htJ7ic0jkgQxE453tWjQhZ1y+Ahv\nDpwDT33UTCjc+UQMiuZxFvNdHOV0Q6zaab2+5yLqPqwW+/stxXq3VJ4KF2LHj58=\n=qZSa\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbRhkFAAoJEMNs3LTfAMaMEhwH/iY/BciLGCBzO+Y/dpouz3+6\n/2sXo7vofwo6jDt+i3Gp6VeHqhUjbkoPjONyNFVutfNwz2b1NsftVwYgiOZFC/um\nWkd3j+Ax9fuoQ7HHaaIhSi+Zn3sTc9fxqk8yVkZe56LszznMDeDYICkbJBRjAaxn\nH60lx0JpI6Hh8nfnPtWCeGMg5pXXSWIfYDb6tYR8ifTXwp2ThQVblOKsbFUbMiKY\nodVbHvxiqHUWmlOoji0rC1Bq49XVYKfO/Ms4htJ7ic0jkgQxE453tWjQhZ1y+Ahv\nDpwDT33UTCjc+UQMiuZxFvNdHOV0Q6zaab2+5yLqPqwW+/stxXq3VJ4KF2LHj58=\n=qZSa\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d8cd0ceee7746b9fe5468b239784b3509b7c47bc\ntype commit\ntag 3.5.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1531320581 +0000\n\nmurano-agent 3.5.0 release\n\nmeta:version: 3.5.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Commit: zhurong <aaronzhu1121@gmail.com>\nmeta:release:Change-Id: I45b4fd63467c4f17e139855ac19a3e204186673e\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

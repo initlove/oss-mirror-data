@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6ZWJiYjhlM2EwMzJmODFlZmUyNzI4ZDFiNDE2ZGM1Y2E2N2ZkMDNjMg==",
+  "sha": "ebbb8e3a032f81efe2728d1b416dc5ca67fd03c2",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/ebbb8e3a032f81efe2728d1b416dc5ca67fd03c2",
+  "tagger": {
+    "name": "quinnjn",
+    "email": "quinn@neumiiller.com",
+    "date": "2019-01-16T19:03:30Z"
+  },
+  "object": {
+    "sha": "03fb9fa4ca6af867df38dfd670b5556f5b845f7d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/03fb9fa4ca6af867df38dfd670b5556f5b845f7d"
+  },
+  "tag": "2.20.1",
+  "message": "2.20.1\n\n* Fix null address properties on PayPalAccountNonce\n  * Those addresses should always be at least an empty PostalAddress\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

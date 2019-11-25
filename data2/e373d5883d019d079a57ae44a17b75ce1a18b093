@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjI0ODk4OTQ6ZTM3M2Q1ODgzZDAxOWQwNzlhNTdhZTQ0YTE3Yjc1Y2UxYTE4YjA5Mw==",
+  "sha": "e373d5883d019d079a57ae44a17b75ce1a18b093",
+  "url": "https://api.github.com/repos/openstack/oslo.middleware/git/tags/e373d5883d019d079a57ae44a17b75ce1a18b093",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-05T09:25:29Z"
+  },
+  "object": {
+    "sha": "9bae80ec0207d44c8bc467a11c837da9a98da007",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.middleware/git/commits/9bae80ec0207d44c8bc467a11c837da9a98da007"
+  },
+  "tag": "3.38.1",
+  "message": "oslo.middleware 3.38.1 release\n\nmeta:version: 3.38.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: If6af2137272cc18bf2d01f26c0bab65b803ae281\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1H9gkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OPvC/9AhDKGS6e6eAdTcAfSSpa2\ncpkJ7hecodjzPUv6rj3vWaMaxwANxutQ/5uy7fUlCOZtRRIQLCBDFoXFOUeD5FyR\nJ+MhUWTJXCKV6ESxF+EvKdN6lbIx1S42/mMgQVAAeDp0x51i29QOJbP19eQp4Ujf\nn9Jht3V+Y9CX6UR/Uz9oLGTkGgSWxT4xHXvX9gBbkfWFWA0FY5m6FNgqmUi+S2nV\niFVsOuvbZ6gynSVQUY0tet6ya8HSfTxFFMiCJ7GZht02zU9g5dzumAh8x7h6wU6o\nzqtxzN75xzNk61XqGnCteBVyq+zbnV2IIvtv1Avc59ERAxvDJvIWZsXjqejZ50bL\neCDtNECiH6I7NdWQn217GJ/ldEiTGVsCkjtkHzS31jKmJ8ozUBOmAmtpPHTcU7W4\nljVHXu1Y0WAZ3DfvR07dE5pRcFBrkyOfCummxlPO+1uFF8MWo/ksSBLrBC4OGDtj\nOD8ct9iu1bTP5JKLFKSlVC1HRR8jFL6ehCehIGmiAFk=\n=a75R\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1H9gkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2OPvC/9AhDKGS6e6eAdTcAfSSpa2\ncpkJ7hecodjzPUv6rj3vWaMaxwANxutQ/5uy7fUlCOZtRRIQLCBDFoXFOUeD5FyR\nJ+MhUWTJXCKV6ESxF+EvKdN6lbIx1S42/mMgQVAAeDp0x51i29QOJbP19eQp4Ujf\nn9Jht3V+Y9CX6UR/Uz9oLGTkGgSWxT4xHXvX9gBbkfWFWA0FY5m6FNgqmUi+S2nV\niFVsOuvbZ6gynSVQUY0tet6ya8HSfTxFFMiCJ7GZht02zU9g5dzumAh8x7h6wU6o\nzqtxzN75xzNk61XqGnCteBVyq+zbnV2IIvtv1Avc59ERAxvDJvIWZsXjqejZ50bL\neCDtNECiH6I7NdWQn217GJ/ldEiTGVsCkjtkHzS31jKmJ8ozUBOmAmtpPHTcU7W4\nljVHXu1Y0WAZ3DfvR07dE5pRcFBrkyOfCummxlPO+1uFF8MWo/ksSBLrBC4OGDtj\nOD8ct9iu1bTP5JKLFKSlVC1HRR8jFL6ehCehIGmiAFk=\n=a75R\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9bae80ec0207d44c8bc467a11c837da9a98da007\ntype commit\ntag 3.38.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1564997129 +0000\n\noslo.middleware 3.38.1 release\n\nmeta:version: 3.38.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: If6af2137272cc18bf2d01f26c0bab65b803ae281\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

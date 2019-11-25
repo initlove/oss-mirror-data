@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTM3ODA1OmZmYTE5MTQwMGRhNTg2ZDE1OGVlMDc0NWFhZjI0ZDA1YjllMmI5OTk=",
+  "sha": "ffa191400da586d158ee0745aaf24d05b9e2b999",
+  "url": "https://api.github.com/repos/redis/redis-rb/git/tags/ffa191400da586d158ee0745aaf24d05b9e2b999",
+  "tagger": {
+    "name": "Jan-Erik Rediger",
+    "email": "janerik@fnordig.de",
+    "date": "2016-07-16T15:57:55Z"
+  },
+  "object": {
+    "sha": "d75708f6e05d9bba7dfec65880f9a55252f3fd2a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/redis/redis-rb/git/commits/d75708f6e05d9bba7dfec65880f9a55252f3fd2a"
+  },
+  "tag": "v3.3.1",
+  "message": "Release v3.3.1\n\nThis includes a bug fix, removing use of Timeout::timeout.\nPreviously, each write caused a thread to be created, ultimatively leaking resources.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

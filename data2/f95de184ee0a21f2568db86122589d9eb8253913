@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzAyNTIxNDpmOTVkZTE4NGVlMGEyMWYyNTY4ZGI4NjEyMjU4OWQ5ZWI4MjUzOTEz",
+  "sha": "f95de184ee0a21f2568db86122589d9eb8253913",
+  "url": "https://api.github.com/repos/openstack/python-ceilometerclient/git/tags/f95de184ee0a21f2568db86122589d9eb8253913",
+  "tagger": {
+    "name": "Eoghan Glynn",
+    "email": "eglynn@redhat.com",
+    "date": "2013-10-04T07:52:01Z"
+  },
+  "object": {
+    "sha": "c3283ec1e861f29a53c59c1a09f2a1bc21a713e4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ceilometerclient/git/commits/c3283ec1e861f29a53c59c1a09f2a1bc21a713e4"
+  },
+  "tag": "1.0.6",
+  "message": "python-ceilometerclient 1.0.6\n\nIncludes the following changes:\n\n     * Add support for new alarm-history command\n     * Use standard CLI object-verb ordering for alarm-{g|s}set-state\n     * Fix shell.do_alarm_get_state to get as opposed to set\n     * Updated from global requirements\n     * Allow to update an alarm partially\n     * Added support to --os-cacert\n     * Help messages: specify which options are required\n     * Improve the CM shell client alarm visualisation\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.13 (GNU/Linux)\n\niQEcBAABAgAGBQJSTnPRAAoJEDhh/+3vk6grFPgH/2+mXPTtPbjvKqgUlHJAdUCA\nv+AVauOSxfnyY95q/5xNjLsRuDysUgXLrgynbDncnl5ffLA7fW+Z5w3eniupb5Wk\nIfsC3RZQuO5CMCL5ljC5khsDmbaQeDoTFB6Obipk/f2OwYU8jH/UFp2dfYaHmA7S\nSIdH5UwgXSxwRnrn73vdMEKGRZTXg4x9fgcD0XtzDHDV/QOwJo79E2tXT86uhCCo\n509M0ux0hbKKR/+r3SG2/Fu4l3G2GUqYBN6v1kpTTxLteY/+Bb72uKeYzY7tpUbI\nwuFIXQFnWXOoYU5Rh3EN34681iDMcVEuwOb22/A99pZvsnVLztQTjEIA6hWbsng=\n=IMsn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.13 (GNU/Linux)\n\niQEcBAABAgAGBQJSTnPRAAoJEDhh/+3vk6grFPgH/2+mXPTtPbjvKqgUlHJAdUCA\nv+AVauOSxfnyY95q/5xNjLsRuDysUgXLrgynbDncnl5ffLA7fW+Z5w3eniupb5Wk\nIfsC3RZQuO5CMCL5ljC5khsDmbaQeDoTFB6Obipk/f2OwYU8jH/UFp2dfYaHmA7S\nSIdH5UwgXSxwRnrn73vdMEKGRZTXg4x9fgcD0XtzDHDV/QOwJo79E2tXT86uhCCo\n509M0ux0hbKKR/+r3SG2/Fu4l3G2GUqYBN6v1kpTTxLteY/+Bb72uKeYzY7tpUbI\nwuFIXQFnWXOoYU5Rh3EN34681iDMcVEuwOb22/A99pZvsnVLztQTjEIA6hWbsng=\n=IMsn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c3283ec1e861f29a53c59c1a09f2a1bc21a713e4\ntype commit\ntag 1.0.6\ntagger Eoghan Glynn <eglynn@redhat.com> 1380873121 +0100\n\npython-ceilometerclient 1.0.6\n\nIncludes the following changes:\n\n     * Add support for new alarm-history command\n     * Use standard CLI object-verb ordering for alarm-{g|s}set-state\n     * Fix shell.do_alarm_get_state to get as opposed to set\n     * Updated from global requirements\n     * Allow to update an alarm partially\n     * Added support to --os-cacert\n     * Help messages: specify which options are required\n     * Improve the CM shell client alarm visualisation\n"
+  }
+}

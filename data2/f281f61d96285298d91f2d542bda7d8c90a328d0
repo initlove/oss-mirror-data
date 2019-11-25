@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQxMzIxOTI6ZjI4MWY2MWQ5NjI4NTI5OGQ5MWYyZDU0MmJkYTdkOGM5MGEzMjhkMA==",
+  "sha": "f281f61d96285298d91f2d542bda7d8c90a328d0",
+  "url": "https://api.github.com/repos/pkg/sftp/git/tags/f281f61d96285298d91f2d542bda7d8c90a328d0",
+  "tagger": {
+    "name": "John Eikenberry",
+    "email": "jae@zhar.net",
+    "date": "2018-04-05T04:14:25Z"
+  },
+  "object": {
+    "sha": "43ec6c679d353f6e077d3965dc74f6d996eb4a09",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pkg/sftp/git/commits/43ec6c679d353f6e077d3965dc74f6d996eb4a09"
+  },
+  "tag": "1.5.1",
+  "message": "small bugfix release\n\nFixes issue with unsupported extended packets causing the server to\nabort the session instead of returning an unsupported error packet.\n\nFix ordering issue with Request.close calls that canceled the context\nbefore trying to close the reader and writer.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlrFo38ACgkQPZqeWROp\nRaKCjQgAt0bL9uBQFx72J+Es1i2CYeILSr9NC0ABiHl5jI0+JxaQyP+wpC9pTB42\nS4wgMbb50qecC+EZPjZFFOt9sLEamaoiotM9R4Y7yhW4JrMsl73zp+ElLkQNa59e\ngyuM1falXmLioxTyTMr+kfWKdmGYyvJ2FeqEBR064fIMLV9Z3PXjzeXpy59zF7hv\ntL8uHRRaUGKURxV7YC4Og0GrCL5ETlo8M2xAvNRduV62QlmnXiWTWWTy6P/hfuNm\nt2/bNs4nUZTkCt5D21CWIcIHbhHTuoczVCKpDX46zHyNYYAPnoJC6g7N/2/L57uE\nzfxZYpj+wALVB0G10IOcyT19gSs7Sw==\n=B3Qk\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAlrFo38ACgkQPZqeWROp\nRaKCjQgAt0bL9uBQFx72J+Es1i2CYeILSr9NC0ABiHl5jI0+JxaQyP+wpC9pTB42\nS4wgMbb50qecC+EZPjZFFOt9sLEamaoiotM9R4Y7yhW4JrMsl73zp+ElLkQNa59e\ngyuM1falXmLioxTyTMr+kfWKdmGYyvJ2FeqEBR064fIMLV9Z3PXjzeXpy59zF7hv\ntL8uHRRaUGKURxV7YC4Og0GrCL5ETlo8M2xAvNRduV62QlmnXiWTWWTy6P/hfuNm\nt2/bNs4nUZTkCt5D21CWIcIHbhHTuoczVCKpDX46zHyNYYAPnoJC6g7N/2/L57uE\nzfxZYpj+wALVB0G10IOcyT19gSs7Sw==\n=B3Qk\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 43ec6c679d353f6e077d3965dc74f6d996eb4a09\ntype commit\ntag 1.5.1\ntagger John Eikenberry <jae@zhar.net> 1522901665 -0700\n\nsmall bugfix release\n\nFixes issue with unsupported extended packets causing the server to\nabort the session instead of returning an unsupported error packet.\n\nFix ordering issue with Request.close calls that canceled the context\nbefore trying to close the reader and writer.\n"
+  }
+}

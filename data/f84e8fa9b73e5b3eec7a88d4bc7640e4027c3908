@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAzNzM1Mjk6Zjg0ZThmYTliNzNlNWIzZWVjN2E4OGQ0YmM3NjQwZTQwMjdjMzkwOA==",
+  "sha": "f84e8fa9b73e5b3eec7a88d4bc7640e4027c3908",
+  "url": "https://api.github.com/repos/ugorji/go/git/tags/f84e8fa9b73e5b3eec7a88d4bc7640e4027c3908",
+  "tagger": {
+    "name": "Ugorji Nwoke",
+    "email": "ugorji@gmail.com",
+    "date": "2019-07-02T15:00:54Z"
+  },
+  "object": {
+    "sha": "23ab95ef5dc3b70286760af84ce2327a2b64ed62",
+    "type": "commit",
+    "url": "https://api.github.com/repos/ugorji/go/git/commits/23ab95ef5dc3b70286760af84ce2327a2b64ed62"
+  },
+  "tag": "codec/v1.1.7",
+  "message": "Release 1.1.7\n\nThis is a production release of go-codec.\n\nThe main benefits are a clean up and refactoring of the codebase to\n\n- provide more consistent performance\n- streamline the use of sync.Pool vs free lists\n- Use more optimized helpers when not in safe mode\n- Smoothen rough edges across the board\n- and many more ...\n\nThe main goal has always been to provide the most feature-rich and performant package\nfor encoding and decoding of multiple popular binary and text formats in a consistent way.\n\nWe believe we have achieved that!\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

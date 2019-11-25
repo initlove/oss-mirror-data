@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzAyNTIxNDplM2IwODM5ZWY3OTI0Nzc4ZjUwZDc1YTJkYmI0Y2IwOGRkNjBlZjRl",
+  "sha": "e3b0839ef7924778f50d75a2dbb4cb08dd60ef4e",
+  "url": "https://api.github.com/repos/openstack/python-ceilometerclient/git/tags/e3b0839ef7924778f50d75a2dbb4cb08dd60ef4e",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-04-12T23:48:35Z"
+  },
+  "object": {
+    "sha": "f5d596623cddef1534a66ae0971da76e5e66cbcb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ceilometerclient/git/commits/f5d596623cddef1534a66ae0971da76e5e66cbcb"
+  },
+  "tag": "ocata-em",
+  "message": "python-ceilometerclient ocata-em release\n\nmeta:version: ocata-em\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Ibac7f787950bf23e9a75fce37a6b82ec45d7df89\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyxI9MZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOOG0C/wNnHl/gz5fuSfEikF8GWqC\nKOLFilTqGMoIZxma1febkyMpp8R1uMyzhFJCXAB1Ig8fHmiAGAtQOBCIoptmHUlA\nVxuQCUiymdHTYC6I2RFHe3LIA0pi3YzeSGzSpa1TbdGdxE7qih2tm5AufKwKZY0M\ntKAqgzaoBcO5HP6r9X35UiAZfuOcQYQ1CA0bZWenvscGVS+82H6K11ynGMdaR/lJ\ndgFesQVF2PdKxPvZvN+fO18cKHb00pmpPYPIGHFc95ESvQgC1H2fgTnuNwZkOct7\nvT0NJ7tW9pIi1PnE6thyQmXbxR+Ep9w0dUZd1tXDVLXuw/wAsjo2HySrsyyYV0Lb\nv4wS/RvP9HwQJl9rX/IAoCkmHAxSGoyUrhtUqUprnX08qnHQHrgXTpVnSmfYXdtN\nm1fnEslnB0CfS4QRlzvX2zndyc4ZFuItDUgKpZaaRz/VBxJakZXFTgZg1XwYzuME\nRsgvc0cJ9PNYu4x/hrtd9ABAy77G3tNn68MQ5zYSdrs=\n=TJPE\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEHn67Lc2mDL2wfyd8GlQRSAVOnjgFAlyxI9MZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRAaVBFIBU6eOOG0C/wNnHl/gz5fuSfEikF8GWqC\nKOLFilTqGMoIZxma1febkyMpp8R1uMyzhFJCXAB1Ig8fHmiAGAtQOBCIoptmHUlA\nVxuQCUiymdHTYC6I2RFHe3LIA0pi3YzeSGzSpa1TbdGdxE7qih2tm5AufKwKZY0M\ntKAqgzaoBcO5HP6r9X35UiAZfuOcQYQ1CA0bZWenvscGVS+82H6K11ynGMdaR/lJ\ndgFesQVF2PdKxPvZvN+fO18cKHb00pmpPYPIGHFc95ESvQgC1H2fgTnuNwZkOct7\nvT0NJ7tW9pIi1PnE6thyQmXbxR+Ep9w0dUZd1tXDVLXuw/wAsjo2HySrsyyYV0Lb\nv4wS/RvP9HwQJl9rX/IAoCkmHAxSGoyUrhtUqUprnX08qnHQHrgXTpVnSmfYXdtN\nm1fnEslnB0CfS4QRlzvX2zndyc4ZFuItDUgKpZaaRz/VBxJakZXFTgZg1XwYzuME\nRsgvc0cJ9PNYu4x/hrtd9ABAy77G3tNn68MQ5zYSdrs=\n=TJPE\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f5d596623cddef1534a66ae0971da76e5e66cbcb\ntype commit\ntag ocata-em\ntagger OpenStack Release Bot <infra-root@openstack.org> 1555112915 +0000\n\npython-ceilometerclient ocata-em release\n\nmeta:version: ocata-em\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Commit: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Change-Id: Ibac7f787950bf23e9a75fce37a6b82ec45d7df89\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>\nmeta:release:Workflow+1: Tony Breeds <tony@bakeyournoodle.com>\n"
+  }
+}

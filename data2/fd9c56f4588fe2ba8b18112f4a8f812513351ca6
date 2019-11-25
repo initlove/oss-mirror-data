@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQyNDUyMzg6ZmQ5YzU2ZjQ1ODhmZTJiYThiMTgxMTJmNGE4ZjgxMjUxMzM1MWNhNg==",
+  "sha": "fd9c56f4588fe2ba8b18112f4a8f812513351ca6",
+  "url": "https://api.github.com/repos/openstack/manila/git/tags/fd9c56f4588fe2ba8b18112f4a8f812513351ca6",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-11-12T11:39:30Z"
+  },
+  "object": {
+    "sha": "7543bd8bdeb42315b2cc61401e4c7ae4410c8fec",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/manila/git/commits/7543bd8bdeb42315b2cc61401e4c7ae4410c8fec"
+  },
+  "tag": "7.4.0",
+  "message": "manila 7.4.0 release\n\nmeta:version: 7.4.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Goutham Pacha Ravi <gouthampravi@gmail.com>\nmeta:release:Commit: Goutham Pacha Ravi <gouthampravi@gmail.com>\nmeta:release:Change-Id: I8d735a5f9e393b80f2944b42b6b3517d423e3a89\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Tom Barron <tpb@dyncloud.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl3KmfIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHBFeC/45BEkTDhWWpWSzxGWvLmsM\nWm8iobzZanYFpoYlOhIAKF+tlIVytHu9XGknt6nU2QA3xPu+igMUeopve6F8p+44\nBkchJHe5dcjbLbtFIACNPJA3f4M+1+TNft6qerzs7Zkwie7yOoKmR5p38ouEJjN3\nUiWkTxvAMyjQ86gzHmJVCrkQ3aJeWDOTHvyLVxd/jXpePMQqMQe1TKHXT7a1qpP/\n1WFztE81SQD+K/gM+vbW7fWr67Q3zzsJLoWFrxgL+Oidn0CEc7IsY/GVvrEoWkBR\nrP8Ez9MSIJfjwDLmplhx10n8biycbk0cVBPYDHZU9XjdZD55aC/yrGFIZaBbzv7C\n/Du/2ZnQOgI6g3sOyPJnllIQ56kk8YAvDP0tiH84oCWNhIBUTaMYuLN+mPpk86bI\nczMqpOFTA1my+JIY/zvwF9CmSFcLJN5xaFEZCGV8BmNhzL7ymM//4aaP0nZmuSM+\nwdlfVsUgwFqVmIrpAo2QxWSVRCFrqWn9DmNPMgGiEws=\n=ccZZ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl3KmfIZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHBFeC/45BEkTDhWWpWSzxGWvLmsM\nWm8iobzZanYFpoYlOhIAKF+tlIVytHu9XGknt6nU2QA3xPu+igMUeopve6F8p+44\nBkchJHe5dcjbLbtFIACNPJA3f4M+1+TNft6qerzs7Zkwie7yOoKmR5p38ouEJjN3\nUiWkTxvAMyjQ86gzHmJVCrkQ3aJeWDOTHvyLVxd/jXpePMQqMQe1TKHXT7a1qpP/\n1WFztE81SQD+K/gM+vbW7fWr67Q3zzsJLoWFrxgL+Oidn0CEc7IsY/GVvrEoWkBR\nrP8Ez9MSIJfjwDLmplhx10n8biycbk0cVBPYDHZU9XjdZD55aC/yrGFIZaBbzv7C\n/Du/2ZnQOgI6g3sOyPJnllIQ56kk8YAvDP0tiH84oCWNhIBUTaMYuLN+mPpk86bI\nczMqpOFTA1my+JIY/zvwF9CmSFcLJN5xaFEZCGV8BmNhzL7ymM//4aaP0nZmuSM+\nwdlfVsUgwFqVmIrpAo2QxWSVRCFrqWn9DmNPMgGiEws=\n=ccZZ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7543bd8bdeb42315b2cc61401e4c7ae4410c8fec\ntype commit\ntag 7.4.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1573558770 +0000\n\nmanila 7.4.0 release\n\nmeta:version: 7.4.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Goutham Pacha Ravi <gouthampravi@gmail.com>\nmeta:release:Commit: Goutham Pacha Ravi <gouthampravi@gmail.com>\nmeta:release:Change-Id: I8d735a5f9e393b80f2944b42b6b3517d423e3a89\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Tom Barron <tpb@dyncloud.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

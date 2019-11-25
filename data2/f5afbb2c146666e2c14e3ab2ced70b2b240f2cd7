@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQ0NjQ2NzpmNWFmYmIyYzE0NjY2NmUyYzE0ZTNhYjJjZWQ3MGIyYjI0MGYyY2Q3",
+  "sha": "f5afbb2c146666e2c14e3ab2ced70b2b240f2cd7",
+  "url": "https://api.github.com/repos/pypa/pip/git/tags/f5afbb2c146666e2c14e3ab2ced70b2b240f2cd7",
+  "tagger": {
+    "name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "date": "2019-04-24T02:29:07Z"
+  },
+  "object": {
+    "sha": "307410c24b82be7bc2e59ff642430bd1d7b4d718",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pypa/pip/git/commits/307410c24b82be7bc2e59ff642430bd1d7b4d718"
+  },
+  "tag": "19.1",
+  "message": "Released v19.1\n\nFeatures\n--------\n\n- Configuration files may now also be stored under ``sys.prefix``.\n- Avoid creating an unnecessary local clone of a Bazaar branch when exporting.\n- Include in pip's User-Agent string whether it looks like pip is running\n  under CI.\n- A custom (JSON-encoded) string can now be added to pip's User-Agent\n  using the ``PIP_USER_AGENT_USER_DATA`` environment variable.\n- For consistency, passing ``--no-cache-dir`` no longer affects whether wheels\n  will be built.  In this case, a temporary directory is used.\n- Command arguments in ``subprocess`` log messages are now quoted using\n  ``shlex.quote()``.\n- Prefix warning and error messages in log output with `WARNING` and `ERROR`.\n- Using ``--build-options`` in a PEP 517 build now fails with an error,\n  rather than silently ignoring the option.\n- Error out with an informative message if one tries to install a\n  ``pyproject.toml``-style (PEP 517) source tree using ``--editable`` mode.\n- When downloading a package, the ETA and average speed now only update once per second\n  for better legibility.\n\nBug Fixes\n---------\n\n- The stdout and stderr from VCS commands run by pip as subprocesses (e.g.\n  ``git``, ``hg``, etc.) no longer pollute pip's stdout.\n- Fix handling of requests exceptions when dependencies are debundled.\n- Make pip's self version check avoid recommending upgrades to prereleases if the\n  currently-installed version is stable.\n- Fixed crash when installing a requirement from a URL that comes from a\n  dependency without a URL.\n- Improve handling of file URIs: correctly handle `file://localhost/...` and don't\n  try to use UNC paths on Unix.\n- Fix ``utils.encoding.auto_decode()`` ``LookupError`` with invalid encodings.\n  ``utils.encoding.auto_decode()`` was broken when decoding Big Endian BOM\n  byte-strings on Little Endian or vice versa.\n- Fix incorrect URL quoting of IPv6 addresses.\n- Redact the password from the extra index URL when using ``pip -v``.\n- The spinner no longer displays a completion message after subprocess calls\n  not needing a spinner. It also no longer incorrectly reports an error after\n  certain subprocess calls to Git that succeeded.\n- Fix the handling of editable mode during installs when ``pyproject.toml`` is\n  present but PEP 517 doesn't require the source tree to be treated as\n  ``pyproject.toml``-style.\n- Fix ``NameError`` when handling an invalid requirement.\n\nVendored Libraries\n------------------\n\n- Updated certifi to 2019.3.9\n- Updated distro to 1.4.0\n- Update progress to 1.5\n- Updated pyparsing to 2.4.0\n- Updated pkg_resources to 41.0.1 (via setuptools)\n\nImproved Documentation\n----------------------\n\n- Make dashes render correctly when displaying long options like\n  ``--find-links`` in the text.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

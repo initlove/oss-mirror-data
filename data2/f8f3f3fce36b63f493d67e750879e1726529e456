@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY2MjY5NjE6ZjhmM2YzZmNlMzZiNjNmNDkzZDY3ZTc1MDg3OWUxNzI2NTI5ZTQ1Ng==",
+  "sha": "f8f3f3fce36b63f493d67e750879e1726529e456",
+  "url": "https://api.github.com/repos/openstack/taskflow/git/tags/f8f3f3fce36b63f493d67e750879e1726529e456",
+  "tagger": {
+    "name": "Davanum Srinivas",
+    "email": "davanum@gmail.com",
+    "date": "2016-02-25T06:06:44Z"
+  },
+  "object": {
+    "sha": "057d1da5d4e31009ad1517fdbc2eda5cfd22daba",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/taskflow/git/commits/057d1da5d4e31009ad1517fdbc2eda5cfd22daba"
+  },
+  "tag": "1.30.0",
+  "message": "taskflow 1.30.0 release\n\nmeta:version: 1.30.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\n-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAlbOmfQACgkQgNg6eWEDv1k6OACgnwcOD8iFMslE60rnLr+mTa9b\n6WMAoOHnngqabWENWOTlaz9fg7UNWmhz\n=+xNt\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAlbOmfQACgkQgNg6eWEDv1k6OACgnwcOD8iFMslE60rnLr+mTa9b\n6WMAoOHnngqabWENWOTlaz9fg7UNWmhz\n=+xNt\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 057d1da5d4e31009ad1517fdbc2eda5cfd22daba\ntype commit\ntag 1.30.0\ntagger Davanum Srinivas <davanum@gmail.com> 1456380404 -0800\n\ntaskflow 1.30.0 release\n\nmeta:version: 1.30.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\n"
+  }
+}

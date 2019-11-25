@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzE2NDUwMDU6ZTdlZGU5ODVhMDQ2NTE4MGQ5MGJkNTBkNmRkOWIyODYxNDhlOTZkMA==",
+  "sha": "e7ede985a0465180d90bd50d6dd9b286148e96d0",
+  "url": "https://api.github.com/repos/openstack/ironic-lib/git/tags/e7ede985a0465180d90bd50d6dd9b286148e96d0",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-22T08:34:00Z"
+  },
+  "object": {
+    "sha": "18f775b7ab67b82c793354919097d76988715e29",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic-lib/git/commits/18f775b7ab67b82c793354919097d76988715e29"
+  },
+  "tag": "2.20.0",
+  "message": "ironic-lib 2.20.0 release\n\nmeta:version: 2.20.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Commit: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Change-Id: I5a152eaf2d0a61bc66b4b1de1ea7bc0a0bfa8133\nmeta:release:Code-Review+1: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1eU3gZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2KFUDACTwGokwHlHwwaEUnU+2LG4\n8yN8uM4/DcRQJqjiGRTLY7p6/1RD4KHZgS/3cOzpnQSW3OeWKnMGVZw1vrTol0Ze\nX2Hrv5l1Ar7sgjroCgzq4zA6w48k4TFODfxjDLYF8oYxxubz1gGiBG8KsDy28AIs\nqkOupaa2jkWl9l0/jNDS7o+nyuxc7WiZJ+o1tHaFmx7i/psjW5O0XK2HBNzIcYIN\n3PRs6QheQ9dk1aoOBIBG2WcXv6E5RQ1Z6TsM98iZ1XbGrGOOuTuY1n/aAWHWMoYQ\nVBcwL2aur650qNtyYqhRjQVrw2e/lSh7lgwvn+TmpIbnSvO7pNaOTRNTPrq/MS7V\nZ6Om2SZENt4AmIB+xGJrQO5GTXM7JhE27++C4dROG+yNbeQwselnDj4eeLeSMiJH\n4Lzf9bpGu9/QfNXZmLOBVsY0a58jEJqja2SVKsDD0dWx/l5IgWyJAA8tF3HzLmpo\nRMhh1IXK7TictU8ck+i4vgn4+TQvKb2Okf+dKG/2EwY=\n=UtmF\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1eU3gZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2KFUDACTwGokwHlHwwaEUnU+2LG4\n8yN8uM4/DcRQJqjiGRTLY7p6/1RD4KHZgS/3cOzpnQSW3OeWKnMGVZw1vrTol0Ze\nX2Hrv5l1Ar7sgjroCgzq4zA6w48k4TFODfxjDLYF8oYxxubz1gGiBG8KsDy28AIs\nqkOupaa2jkWl9l0/jNDS7o+nyuxc7WiZJ+o1tHaFmx7i/psjW5O0XK2HBNzIcYIN\n3PRs6QheQ9dk1aoOBIBG2WcXv6E5RQ1Z6TsM98iZ1XbGrGOOuTuY1n/aAWHWMoYQ\nVBcwL2aur650qNtyYqhRjQVrw2e/lSh7lgwvn+TmpIbnSvO7pNaOTRNTPrq/MS7V\nZ6Om2SZENt4AmIB+xGJrQO5GTXM7JhE27++C4dROG+yNbeQwselnDj4eeLeSMiJH\n4Lzf9bpGu9/QfNXZmLOBVsY0a58jEJqja2SVKsDD0dWx/l5IgWyJAA8tF3HzLmpo\nRMhh1IXK7TictU8ck+i4vgn4+TQvKb2Okf+dKG/2EwY=\n=UtmF\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 18f775b7ab67b82c793354919097d76988715e29\ntype commit\ntag 2.20.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1566462840 +0000\n\nironic-lib 2.20.0 release\n\nmeta:version: 2.20.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Commit: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Change-Id: I5a152eaf2d0a61bc66b4b1de1ea7bc0a0bfa8133\nmeta:release:Code-Review+1: Dmitry Tantsur <dtantsur@protonmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

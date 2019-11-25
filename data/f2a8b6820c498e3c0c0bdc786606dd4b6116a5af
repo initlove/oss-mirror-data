@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY1NzMyNDE6ZjJhOGI2ODIwYzQ5OGUzYzBjMGJkYzc4NjYwNmRkNGI2MTE2YTVhZg==",
+  "sha": "f2a8b6820c498e3c0c0bdc786606dd4b6116a5af",
+  "url": "https://api.github.com/repos/hyperledger/fabric/git/tags/f2a8b6820c498e3c0c0bdc786606dd4b6116a5af",
+  "tagger": {
+    "name": "Christopher Ferris",
+    "email": "chrisfer@us.ibm.com",
+    "date": "2017-11-01T19:23:22Z"
+  },
+  "object": {
+    "sha": "132daddf1156a0c70429af2e8c3ca86bbdbf8c31",
+    "type": "commit",
+    "url": "https://api.github.com/repos/hyperledger/fabric/git/commits/132daddf1156a0c70429af2e8c3ca86bbdbf8c31"
+  },
+  "tag": "v1.1.0-preview",
+  "message": "v1.1.0-preview November 1, 2017\n-------------------------------\n\nRelease Notes\n-------------\nThis is a *preview* release of the up-coming 1.1 release. We are not feature\ncomplete for 1.1 just yet, but we wanted to get the following functionality\npublished to gain some early community feedback on the following features:\n\n  - https://jira.hyperledger.org/browse/FAB-2331- Node.js Chaincode\n  - https://jira.hyperledger.org/browse/FAB-5363 - Node.js SDK Connection Profile\n  - https://jira.hyperledger.org/browse/FAB-830 - Encryption library for chaincode\n  - https://jira.hyperledger.org/browse/FAB-5346 - Attribute-based Access Control\n  - https://jira.hyperledger.org/browse/FAB-6089 - Chaincode APIs to retrieve\n    creator cert info\n  - https://jira.hyperledger.org/browse/FAB-6421 - Performance improvements\n\nAdditionally, there are the usual bug fixes, documentation and test coverage\nimprovements, UX improvements based on user feedback and changes to address a\nvariety of static scan findings (unused code, static security scanning, spelling,\nlinting and more).\n\nKnown Vulnerabilities\n---------------------\nnone\n\nResolved Vulnerabilities\n------------------------\nnone\n\nKnown Issues & Workarounds\n--------------------------\nThe fabric-ccenv image which is used to build chaincode, currently includes\nthe github.com/hyperledger/fabric/core/chaincode/shim (\"shim\") package.\nThis is convenient, as it provides the ability to package chaincode\nwithout the need to include the \"shim\". However, this may cause issues in future\nreleases (and/or when trying to use packages which are included by the \"shim\").\n\nIn order to avoid any issues, users are advised to manually vendor the \"shim\"\npackage with their chaincode prior to using the peer CLI for packaging and/or\nfor installing chaincode.\n\nPlease refer to https://jira.hyperledger.org/browse/FAB-5177 for more details,\nand kindly be aware that given the above, we may end up changing the\nfabric-ccenv in the future.\n\nChange Log\n----------\nhttps://github.com/hyperledger/fabric/blob/master/CHANGELOG.md#v110-preview\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

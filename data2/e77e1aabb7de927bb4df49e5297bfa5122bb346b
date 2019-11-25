@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjplNzdlMWFhYmI3ZGU5MjdiYjRkZjQ5ZTUyOTdiZmE1MTIyYmIzNDZi",
+  "sha": "e77e1aabb7de927bb4df49e5297bfa5122bb346b",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/e77e1aabb7de927bb4df49e5297bfa5122bb346b",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:30:41Z"
+  },
+  "object": {
+    "sha": "e5984293032755f06424dfee4149e3db315b33d7",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/e5984293032755f06424dfee4149e3db315b33d7"
+  },
+  "tag": "0.2.0",
+  "message": "v0.2.0\n- Speedup (More parallelization)\n- Changed C API\n- Add python bindings\n- A lot of bugfixes\n- Add new make targets: tests (make tests - builds c tests) and test\n  (make test - runs c and python test suits).\n- Changed interface of most of C modules - Better error reporting\n  (Add GError ** param).\n- Experimental Python bindings (Beware: The interface is not final yet!).\n- package: Add cr_package_copy method.\n- sqlite: Do not recreate tables and triggers while opening existing db.\n- mergerepo_c: Implicitly use --all with --koji.\n- Man page update.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

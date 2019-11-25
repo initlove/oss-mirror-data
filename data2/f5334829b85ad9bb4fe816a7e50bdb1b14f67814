@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTAwNjUwNjpmNTMzNDgyOWI4NWFkOWJiNGZlODE2YTdlNTBiZGIxYjE0ZjY3ODE0",
+  "sha": "f5334829b85ad9bb4fe816a7e50bdb1b14f67814",
+  "url": "https://api.github.com/repos/openstack/pbr/git/tags/f5334829b85ad9bb4fe816a7e50bdb1b14f67814",
+  "tagger": {
+    "name": "Clark Boylan",
+    "email": "clark.boylan@gmail.com",
+    "date": "2013-06-07T17:10:07Z"
+  },
+  "object": {
+    "sha": "a65e8ee654c623fa360ef9e2b4c9b72039a32b39",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/pbr/git/commits/a65e8ee654c623fa360ef9e2b4c9b72039a32b39"
+  },
+  "tag": "0.5.13",
+  "message": "Remove jinja2 version pin to fix version conflicts.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJRshQEAAoJEA77lD6eDAE8rJ4IAKq9/Ee6os7yPCTfzLp7yzsh\nAfiQIQyecTo4+EDpAC3P0PEPv+X3CtQajNWFVCQabgO2dIY0ZZpR6kXfilPL1et5\nnHET8nurE9aXFf1uqf2rZ84dJGfRpCMV6cWK8g9dsCIffHUrx+frtxpvOtjCLFn5\nhA/nJhDKQmv+mqbz5Vv4Y7Y3vtt3WcmRkcTm/BnOVAdBXFG/cDddQU4g+dkbKDwk\nC24qQTGfNzzJ5WPZalTXRpb9R0c6SCWqBfr/wP00qrBucvIYGZcj0xWeoDT/1tiK\nvVgYq2l+zv1/kSUFw7IL7LCqUCFX6xEvuJXjJHUT5wnoT2ixFsohpDByosKWUrU=\n=5O12\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJRshQEAAoJEA77lD6eDAE8rJ4IAKq9/Ee6os7yPCTfzLp7yzsh\nAfiQIQyecTo4+EDpAC3P0PEPv+X3CtQajNWFVCQabgO2dIY0ZZpR6kXfilPL1et5\nnHET8nurE9aXFf1uqf2rZ84dJGfRpCMV6cWK8g9dsCIffHUrx+frtxpvOtjCLFn5\nhA/nJhDKQmv+mqbz5Vv4Y7Y3vtt3WcmRkcTm/BnOVAdBXFG/cDddQU4g+dkbKDwk\nC24qQTGfNzzJ5WPZalTXRpb9R0c6SCWqBfr/wP00qrBucvIYGZcj0xWeoDT/1tiK\nvVgYq2l+zv1/kSUFw7IL7LCqUCFX6xEvuJXjJHUT5wnoT2ixFsohpDByosKWUrU=\n=5O12\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a65e8ee654c623fa360ef9e2b4c9b72039a32b39\ntype commit\ntag 0.5.13\ntagger Clark Boylan <clark.boylan@gmail.com> 1370625007 -0700\n\nRemove jinja2 version pin to fix version conflicts.\n"
+  }
+}

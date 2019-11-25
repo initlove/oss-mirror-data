@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTcyNzcwNjplNDBiNzAzNjRlMjA1NTljMDkwNjU1MzczYTJhNGExMWM2YTlmYTlj",
+  "sha": "e40b70364e20559c090655373a2a4a11c6a9fa9c",
+  "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/tags/e40b70364e20559c090655373a2a4a11c6a9fa9c",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2015-10-20T10:27:40Z"
+  },
+  "object": {
+    "sha": "0c9a6840b15ea33199d3dbaffa5df75d04089f49",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/createrepo_c/git/commits/0c9a6840b15ea33199d3dbaffa5df75d04089f49"
+  },
+  "tag": "0.1.8",
+  "message": "v0.1.8\n- New interface of repomd module\n- New cmd options: --repo --revision --distro --content --basedir\n- New createrepo_c specific cmd option --keep-all-metadata\n- Few bugfixes\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

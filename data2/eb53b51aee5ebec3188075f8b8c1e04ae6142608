@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjA2NDYzNTk6ZWI1M2I1MWFlZTVlYmVjMzE4ODA3NWY4YjhjMWUwNGFlNjE0MjYwOA==",
+  "sha": "eb53b51aee5ebec3188075f8b8c1e04ae6142608",
+  "url": "https://api.github.com/repos/openstack/osprofiler/git/tags/eb53b51aee5ebec3188075f8b8c1e04ae6142608",
+  "tagger": {
+    "name": "Boris Pavlovic",
+    "email": "boris@pavlovic.me",
+    "date": "2014-07-03T21:19:22Z"
+  },
+  "object": {
+    "sha": "25eeb78cfe7688b3f91c6ec67bda54faaf8809a5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/osprofiler/git/commits/25eeb78cfe7688b3f91c6ec67bda54faaf8809a5"
+  },
+  "tag": "0.2.0",
+  "message": "1) Private methods now start with \"_\"\n\n2) Make osprofiler.utils private\n\n3) Add plugin support for notifiers, as well\n   add implementaion based on oslo.messaging\n   Seems like this solution will be much flexible\n\n4) Add new decorator @profiler.trace\n\n5) get_trace_id_headers() instead of add_trace_id_headers()\n   The reason is that it's insecure to send headers to thrid party lib.\n   So it's better just to get new headers and deal with them.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJTtcpTAAoJEDvpPTuJuon091UH/3P1WYEfcIFoR5VYzh3pm7rs\nf5LuJBAcL+o2JzqRkr63BHTndbmFnLmWAjI4gqwQaU1GxdKwpASShfQunmBgmpqg\nxPzwWb1QdQTSfY+k8x0yW3kaM/eIEPERqedPTqj+K57ocAavBINfY4wOtLVXld+g\n/SxY+dEasR9E+2oZMHLIieFilXgp0xxgzajRvrw2G1c9OtsGHJhxyyJpaZhPb3Nc\nNcFfAts2ch1xpwKQelLW1h2YPUO+3Q+Zn4Iyq0c1nT9yOmGaEECtvdh1rRNlHpcT\n7qEgKB1J3urMh7K4+aPzq7+JN9btvo15AWFfxAM43niKL3/6WfWHsvPGIaK2PGM=\n=3e9b\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJTtcpTAAoJEDvpPTuJuon091UH/3P1WYEfcIFoR5VYzh3pm7rs\nf5LuJBAcL+o2JzqRkr63BHTndbmFnLmWAjI4gqwQaU1GxdKwpASShfQunmBgmpqg\nxPzwWb1QdQTSfY+k8x0yW3kaM/eIEPERqedPTqj+K57ocAavBINfY4wOtLVXld+g\n/SxY+dEasR9E+2oZMHLIieFilXgp0xxgzajRvrw2G1c9OtsGHJhxyyJpaZhPb3Nc\nNcFfAts2ch1xpwKQelLW1h2YPUO+3Q+Zn4Iyq0c1nT9yOmGaEECtvdh1rRNlHpcT\n7qEgKB1J3urMh7K4+aPzq7+JN9btvo15AWFfxAM43niKL3/6WfWHsvPGIaK2PGM=\n=3e9b\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 25eeb78cfe7688b3f91c6ec67bda54faaf8809a5\ntype commit\ntag 0.2.0\ntagger Boris Pavlovic <boris@pavlovic.me> 1404422362 +0400\n\n1) Private methods now start with \"_\"\n\n2) Make osprofiler.utils private\n\n3) Add plugin support for notifiers, as well\n   add implementaion based on oslo.messaging\n   Seems like this solution will be much flexible\n\n4) Add new decorator @profiler.trace\n\n5) get_trace_id_headers() instead of add_trace_id_headers()\n   The reason is that it's insecure to send headers to thrid party lib.\n   So it's better just to get new headers and deal with them.\n"
+  }
+}

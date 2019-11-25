@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY2MjY5NTc6ZmFjMzVlNzY1NGNhNzkzODU3YzBjODM2OTNiMjZiOWY5NmZkMjUxNg==",
+  "sha": "fac35e7654ca793857c0c83693b26b9f96fd2516",
+  "url": "https://api.github.com/repos/openstack/pycadf/git/tags/fac35e7654ca793857c0c83693b26b9f96fd2516",
+  "tagger": {
+    "name": "Gordon Chung",
+    "email": "chungg@ca.ibm.com",
+    "date": "2013-10-29T21:57:06Z"
+  },
+  "object": {
+    "sha": "52b891fc87c48027d10ac4a760ede98ecbe75441",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/pycadf/git/commits/52b891fc87c48027d10ac4a760ede98ecbe75441"
+  },
+  "tag": "0.2.2",
+  "message": "Release 0.2.2\n\n- update requirements/oslo\n- do not set typeURI in resource shortform\n- add namespace to all ids\n- improve model validation\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJScC/PAAoJEAzpARzcBN43imoIAJD6MPpHsLN0Eb67mfE47aOX\nwz9fRGHCoHNZfFQYpNjQuUCieML5lQV89iR8haM/KC4dSSrm5BupeIxiikpV8pIf\nGr2T0yIEqdOGPNUuKZHvCdGPhah+3fejMNBS1PT5hi3IHlGjVXOBbD0/9Ns6QrBm\njHuHpj78oAJoErauX3ZMWoBjkyDCwH/DvUyE0yWGZ0u1vEfdlNRhVvOcA9xPmxnB\n6nW2vV0RY6bCST2PTMQkRFjTBOBT3uom8u92YZL3ZCmGi0EQzy44GRPUmAj27NE4\nxWhBnGL1LeP//j8QcV0fBhxdDhGnFHyabudzduZDTz7bMFbU1XPh0hbG74uaq+A=\n=TSk/\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (GNU/Linux)\n\niQEcBAABAgAGBQJScC/PAAoJEAzpARzcBN43imoIAJD6MPpHsLN0Eb67mfE47aOX\nwz9fRGHCoHNZfFQYpNjQuUCieML5lQV89iR8haM/KC4dSSrm5BupeIxiikpV8pIf\nGr2T0yIEqdOGPNUuKZHvCdGPhah+3fejMNBS1PT5hi3IHlGjVXOBbD0/9Ns6QrBm\njHuHpj78oAJoErauX3ZMWoBjkyDCwH/DvUyE0yWGZ0u1vEfdlNRhVvOcA9xPmxnB\n6nW2vV0RY6bCST2PTMQkRFjTBOBT3uom8u92YZL3ZCmGi0EQzy44GRPUmAj27NE4\nxWhBnGL1LeP//j8QcV0fBhxdDhGnFHyabudzduZDTz7bMFbU1XPh0hbG74uaq+A=\n=TSk/\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 52b891fc87c48027d10ac4a760ede98ecbe75441\ntype commit\ntag 0.2.2\ntagger Gordon Chung <chungg@ca.ibm.com> 1383083826 -0400\n\nRelease 0.2.2\n\n- update requirements/oslo\n- do not set typeURI in resource shortform\n- add namespace to all ids\n- improve model validation\n"
+  }
+}

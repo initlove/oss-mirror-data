@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzg1NzEyMzpmZmEzMTdhYTM3YWIyNjdmYTJkMjZmMjFhZmZmOWVjZGIxYTI4NzNi",
+  "sha": "ffa317aa37ab267fa2d26f21afff9ecdb1a2873b",
+  "url": "https://api.github.com/repos/openstack/python-glanceclient/git/tags/ffa317aa37ab267fa2d26f21afff9ecdb1a2873b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-03-08T00:19:30Z"
+  },
+  "object": {
+    "sha": "44a4dbd6ce2642daeaca9f45ac99e2d1b39e805a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-glanceclient/git/commits/44a4dbd6ce2642daeaca9f45ac99e2d1b39e805a"
+  },
+  "tag": "2.16.0",
+  "message": "python-glanceclient 2.16.0 release\n\nmeta:version: 2.16.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Commit: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Change-Id: Ia9d77ef01a0f75a00e752eb4a590fb7d385caf81\nmeta:release:Code-Review+1: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcgbUSAAoJEBpUEUgFTp448boL/0MLuDsehFYTX+UjrguqlHQ1\nZzhd3XY7l9GGeHCXU2VNCURG/keTXmG2r/FAw73Kwwl9q3rSpJvXt5zZJTitT5G7\nhS3Z+SffROG6KjKnlfY4Sy0/7sQjtviFaiNGS02lkW+xXtcjHyxn9xWOyv5ABgZt\nZUngFkeS2Yx7vSR4QxcnSZbLPi9h84eFi5gW9V+/WmLRO0utRkf4kz6GSAdzDzfM\nyb5yI6yXC8O1m2thAIjbY8/EFuxcLNxNLb2hMtDcmtrnpFcEh23cwHAiONdkDpG3\nsIN19CIZvw9eD8wBgzT463fQTOQRCejzoJGfdRLIQ/wWCn/5Vd4otVVbsDY83Fcm\ne6hh+XMaMw3LNAie5kDXdSoVTQpByR70tu/Hq/zP0rp24cQ49GIejbp+iR08emTH\n+wD28Jca2VqEgJvQlB6RdBySWmFohfU4A6IDs/zTs5u3M9uqyReIy3MsyknULH2M\nwHmHMYaJoFCWByhk6+ZifzA6+BCk9udSYGLlodq0iQ==\n=mcsj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcgbUSAAoJEBpUEUgFTp448boL/0MLuDsehFYTX+UjrguqlHQ1\nZzhd3XY7l9GGeHCXU2VNCURG/keTXmG2r/FAw73Kwwl9q3rSpJvXt5zZJTitT5G7\nhS3Z+SffROG6KjKnlfY4Sy0/7sQjtviFaiNGS02lkW+xXtcjHyxn9xWOyv5ABgZt\nZUngFkeS2Yx7vSR4QxcnSZbLPi9h84eFi5gW9V+/WmLRO0utRkf4kz6GSAdzDzfM\nyb5yI6yXC8O1m2thAIjbY8/EFuxcLNxNLb2hMtDcmtrnpFcEh23cwHAiONdkDpG3\nsIN19CIZvw9eD8wBgzT463fQTOQRCejzoJGfdRLIQ/wWCn/5Vd4otVVbsDY83Fcm\ne6hh+XMaMw3LNAie5kDXdSoVTQpByR70tu/Hq/zP0rp24cQ49GIejbp+iR08emTH\n+wD28Jca2VqEgJvQlB6RdBySWmFohfU4A6IDs/zTs5u3M9uqyReIy3MsyknULH2M\nwHmHMYaJoFCWByhk6+ZifzA6+BCk9udSYGLlodq0iQ==\n=mcsj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 44a4dbd6ce2642daeaca9f45ac99e2d1b39e805a\ntype commit\ntag 2.16.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1552004370 +0000\n\npython-glanceclient 2.16.0 release\n\nmeta:version: 2.16.0\nmeta:diff-start: -\nmeta:series: stein\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Commit: Erno Kuvaja <jokke@usr.fi>\nmeta:release:Change-Id: Ia9d77ef01a0f75a00e752eb4a590fb7d385caf81\nmeta:release:Code-Review+1: Brian Rosmaita <rosmaita.fossdev@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

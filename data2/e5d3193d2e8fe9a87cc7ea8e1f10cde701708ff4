@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTAwNjUwNjplNWQzMTkzZDJlOGZlOWE4N2NjN2VhOGUxZjEwY2RlNzAxNzA4ZmY0",
+  "sha": "e5d3193d2e8fe9a87cc7ea8e1f10cde701708ff4",
+  "url": "https://api.github.com/repos/openstack/pbr/git/tags/e5d3193d2e8fe9a87cc7ea8e1f10cde701708ff4",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-05-17T20:55:47Z"
+  },
+  "object": {
+    "sha": "c02406601a7d7c453c77318ff5b5af6d760e80ae",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/pbr/git/commits/c02406601a7d7c453c77318ff5b5af6d760e80ae"
+  },
+  "tag": "3.0.1",
+  "message": "pbr 3.0.1 release\n\nmeta:version: 3.0.1\nmeta:diff-start: -\nmeta:series: independent\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Julien Danjou <julien@danjou.info>\nmeta:release:Change-Id: Idcc26f932c4abbdb4e9ce9313731a5f1b5bd8110\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZHLjTAAoJEOtsyhSD+nTsclkIALVFKvoAhwCBRAygRcsoTTx3\nMPp/2MNxtbDndPfh4jj/sN0S45SmipUlV/NYXNpdeiMbrOfcUFgCvCDsNlZB6Chd\npRD4c1q9tyjfM1fAn2LuITpV7qg2uFeWiIEbVb0lEhdIzFXcc51zU56QwX6dX5Xw\ncRayK9Ryydb3/+2hFeMosR0092hi2SBGYRhZOF1x7W/NsULr5PxU+9H1gKq/NpBN\noTLy7YpaRSfs2mwCWo8safPYwO/1CUXFOD2OWlnOsGSy6VzUTZO4qR5V7F9p8qW6\nn9h2lEyVw0G06sOkC0Ti/UTNWdkHAZRRM3J0l80pFGFDS/7vzKybueMUYYYf7xc=\n=1ajr\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZHLjTAAoJEOtsyhSD+nTsclkIALVFKvoAhwCBRAygRcsoTTx3\nMPp/2MNxtbDndPfh4jj/sN0S45SmipUlV/NYXNpdeiMbrOfcUFgCvCDsNlZB6Chd\npRD4c1q9tyjfM1fAn2LuITpV7qg2uFeWiIEbVb0lEhdIzFXcc51zU56QwX6dX5Xw\ncRayK9Ryydb3/+2hFeMosR0092hi2SBGYRhZOF1x7W/NsULr5PxU+9H1gKq/NpBN\noTLy7YpaRSfs2mwCWo8safPYwO/1CUXFOD2OWlnOsGSy6VzUTZO4qR5V7F9p8qW6\nn9h2lEyVw0G06sOkC0Ti/UTNWdkHAZRRM3J0l80pFGFDS/7vzKybueMUYYYf7xc=\n=1ajr\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c02406601a7d7c453c77318ff5b5af6d760e80ae\ntype commit\ntag 3.0.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1495054547 +0000\n\npbr 3.0.1 release\n\nmeta:version: 3.0.1\nmeta:diff-start: -\nmeta:series: independent\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Julien Danjou <julien@danjou.info>\nmeta:release:Commit: Julien Danjou <julien@danjou.info>\nmeta:release:Change-Id: Idcc26f932c4abbdb4e9ce9313731a5f1b5bd8110\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

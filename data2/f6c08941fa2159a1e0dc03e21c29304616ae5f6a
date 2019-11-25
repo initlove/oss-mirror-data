@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzkzNTI6ZjZjMDg5NDFmYTIxNTlhMWUwZGMwM2UyMWMyOTMwNDYxNmFlNWY2YQ==",
+  "sha": "f6c08941fa2159a1e0dc03e21c29304616ae5f6a",
+  "url": "https://api.github.com/repos/mikel/mail/git/tags/f6c08941fa2159a1e0dc03e21c29304616ae5f6a",
+  "tagger": {
+    "name": "Jeremy Daer",
+    "email": "jeremydaer@gmail.com",
+    "date": "2017-06-09T20:57:18Z"
+  },
+  "object": {
+    "sha": "3d1e8fe7033c6db3b32faf5403e9cad3e104d73a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/mikel/mail/git/commits/3d1e8fe7033c6db3b32faf5403e9cad3e104d73a"
+  },
+  "tag": "2.6.6",
+  "message": "Mail 2.6.6\n\nSecurity:\n* #1097 – SMTP security: prevent command injection via To/From addresses. (jeremy)\n\nBugs:\n* #689 - Fix Exim delivery method broken by #477 in 2.5.4. (jethrogb)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY1NzMyNDE6ZWJkM2MxZmNmZTkyMGE3N2FkMWYzMzllOTdhOWMyYjI3NjRmNjZkZA==",
+  "sha": "ebd3c1fcfe920a77ad1f339e97a9c2b2764f66dd",
+  "url": "https://api.github.com/repos/hyperledger/fabric/git/tags/ebd3c1fcfe920a77ad1f339e97a9c2b2764f66dd",
+  "tagger": {
+    "name": "David Enyeart",
+    "email": "enyeart@us.ibm.com",
+    "date": "2019-04-10T05:07:33Z"
+  },
+  "object": {
+    "sha": "be235fd3a236f792a525353d9f9586c8b0d4a61a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/hyperledger/fabric/git/commits/be235fd3a236f792a525353d9f9586c8b0d4a61a"
+  },
+  "tag": "v2.0.0-alpha",
+  "message": "v2.0.0-alpha Release Notes - April 9, 2019\n------------------------------------------\n\nWhat's New in Hyperledger Fabric v2.0\n-------------------------------------\n\nThe following major features are included in the v2.0.0 Alpha release:\n\nFAB-11237 - Improved chaincode lifecycle\nThe Fabric 2.0 Alpha introduces decentralized governance for chaincode, with a\nnew process for installing a chaincode on your peers and starting it on a\nchannel. The new Fabric chaincode lifecycle allows multiple organizations to\ncome to agreement on the parameters of a chaincode, such as the chaincode\nendorsement policy, before it can be used to interact with the ledger.\n\nFAB-11144 - Native token support\nThe Fabric 2.0 Alpha provides users the ability to easily represent assets\nas tokens on Fabric channels. FabToken is a token management system that uses\nan Unspent Transaction Output (UTXO) model to issue, transfer, and redeem tokens\nusing the identity and membership infrastructure provided by Hyperledger Fabric.\nA new 'token' command line interface is included as a way to drive token transactions\nwithout an application.\n\nFAB-6135 - Raft Consensus\nIntroduced in v1.4.1 and v2.0.0 Alpha, the ordering service now provides\nan option to use the Raft Consensus algorithm. Raft is a crash fault tolerant\n(CFT) ordering service based on an implementation of Raft protocol in etcd.\n\nFAB-11096 - Docker images with Alpine Linux\nHyperledger Fabric Docker images will now use Alpine Linux,\na security-oriented, lightweight Linux distribution.\n\nNew operational metrics and health checks\nFAB-13088 Endorser metrics\nFAB-14077 Orderer communication metrics\nFAB-11937 Raft metrics\nFAB-13237 Metrics for log records\nFAB-12727 Gossip metrics\nFAB-13341 Kafka health check\nFAB-12908 CouchDB health check\n\nChanges, Known Issues, and Workarounds\n--------------------------------------\n\nFAB-11237 - Improved chaincode lifecycle\nThe new Fabric chaincode lifecycle in the v2.0.0 Alpha release is not yet feature\ncomplete. Specifically, be aware of the following limitations in the Alpha release:\n- CouchDB indexes are not yet supported\n- Chaincodes defined with the new lifecycle are not yet discoverable via service discovery\nThese limitations will be resolved after the Alpha release.\n\nFAB-11096 - Docker images with Alpine Linux\nBash is no longer available in Fabric images. Utilize Alpine's built-in\nsh or ash instead.\n\nFAB-12075 - Duplicate Go Client identity library removed\nIf vendoring the Client identity library (CID) in chaincode, import\ngithub.com/hyperledger/fabric/core/chaincode/shim/ext/cid\nrather than\ngithub.com/hyperledger/fabriccore/chaincode/lib/cid/cid.go\n\nFAB-12088 - Java chaincode support on s390x architecture\nJava chaincode support is not yet available on s390x architecture.\n\nFAB-12134 Same chaincode source receiving fingerprint mismatch error\nChaincode installed in different ways may result in \"chaincode fingerprint\nmismatch data mismatch\" error upon instantiation.  This may happen when\ninstalling chaincode by using different SDKs. To workaround the problem,\npackage the chaincode prior to installation and instantiation, by using\nthe \"peer chaincode package\" command.\n\nKnown Vulnerabilities\n---------------------\nFAB-8664 - Peer should detect and react when its org has been removed\nThis is a relatively low severity problem, because it requires a significant\nconspiracy of network admins, but it will be addressed in a future release.\n\nResolved Vulnerabilities\n------------------------\nNone.\n\nOther improvements and fixes\n----------------------------\nFAB-13471 - Fix for multiple chaincode upgrades in a single block\nFAB-14687 - Fix memory leak in gossip message store\nUpdated to Go version 1.11.5\nUpdated baseimage version to 0.4.15 for third party dependencies.\n\nFor the full list of improvements and fixes, refer to the release change log:\nhttps://github.com/hyperledger/fabric/blob/master/CHANGELOG.md#v200-alpha\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzg3NzkxMzpmN2U3YWM1NTNiN2UwMGQyOGRmNTlkMWJjOGQ2NTQ4OGE3NjBjOTI0",
+  "sha": "f7e7ac553b7e00d28df59d1bc8d65488a760c924",
+  "url": "https://api.github.com/repos/openstack/oslo.config/git/tags/f7e7ac553b7e00d28df59d1bc8d65488a760c924",
+  "tagger": {
+    "name": "Doug Hellmann",
+    "email": "doug@doughellmann.com",
+    "date": "2016-02-22T17:06:47Z"
+  },
+  "object": {
+    "sha": "7bc49da472d2e441bf90b777c55cbe181f5d5f75",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.config/git/commits/7bc49da472d2e441bf90b777c55cbe181f5d5f75"
+  },
+  "tag": "3.8.0",
+  "message": "oslo.config 3.8.0 release\n\nmeta:version: 3.8.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\n-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWy0AnAAoJEDttBqDEKEN62gEH/3OPg6dXvzrlugIcXqOqeclg\n/QA0kiHUHuSOfxRD2UqX5T/qvz+l8i07DNc3i9TJ6R8uyDsJrpagKHnimrGjY9ts\nsbaNPi4MQPE5X6jOTyJ8bLgHMoBYQ2IpCnHGmLKXRMMKjPisI3579H2sX/roIa/8\nc6OmxO33UiFoqi1TY4Y2gDOe1XJLnEoQpU6RSJYs/jLbMvqJPBvG7qN0ot4p7zFH\nY4mFsnB6s8cfNfjIXp0H0wPIshL1+go5TJH5Jtug2Q6Z3ViR65Y4bjq26aNBRJwn\n8STic9o+2GhtypBVZ4/oEUuAUAFRx4Ad0pe1uZVb15EwjRgum+ixQ0q6Rxcea38=\n=2hzx\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nComment: GPGTools - http://gpgtools.org\n\niQEcBAABAgAGBQJWy0AnAAoJEDttBqDEKEN62gEH/3OPg6dXvzrlugIcXqOqeclg\n/QA0kiHUHuSOfxRD2UqX5T/qvz+l8i07DNc3i9TJ6R8uyDsJrpagKHnimrGjY9ts\nsbaNPi4MQPE5X6jOTyJ8bLgHMoBYQ2IpCnHGmLKXRMMKjPisI3579H2sX/roIa/8\nc6OmxO33UiFoqi1TY4Y2gDOe1XJLnEoQpU6RSJYs/jLbMvqJPBvG7qN0ot4p7zFH\nY4mFsnB6s8cfNfjIXp0H0wPIshL1+go5TJH5Jtug2Q6Z3ViR65Y4bjq26aNBRJwn\n8STic9o+2GhtypBVZ4/oEUuAUAFRx4Ad0pe1uZVb15EwjRgum+ixQ0q6Rxcea38=\n=2hzx\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7bc49da472d2e441bf90b777c55cbe181f5d5f75\ntype commit\ntag 3.8.0\ntagger Doug Hellmann <doug@doughellmann.com> 1456160807 -0500\n\noslo.config 3.8.0 release\n\nmeta:version: 3.8.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\nmeta:pypi: yes\n"
+  }
+}

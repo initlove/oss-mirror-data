@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjkyMTcwNTQ6ZmE2ODliMzdjZDU4MzRiZjA4M2E2NWM4MTQwNDQ5YjI3MmMwYTZkMQ==",
+  "sha": "fa689b37cd5834bf083a65c8140449b272c0a6d1",
+  "url": "https://api.github.com/repos/micro/go-micro/git/tags/fa689b37cd5834bf083a65c8140449b272c0a6d1",
+  "tagger": {
+    "name": "Asim Aslam",
+    "email": "asim@aslam.me",
+    "date": "2019-01-29T14:07:41Z"
+  },
+  "object": {
+    "sha": "89c8e1f4a750716e6988a4acdc651593c1b00a68",
+    "type": "commit",
+    "url": "https://api.github.com/repos/micro/go-micro/git/commits/89c8e1f4a750716e6988a4acdc651593c1b00a68"
+  },
+  "tag": "v0.23.0",
+  "message": "- Move headers from X-Micro to Micro-\n- Remove Register/Deregister methods from server\n- Move register_interval to be internal\n- Add subscriber context option\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

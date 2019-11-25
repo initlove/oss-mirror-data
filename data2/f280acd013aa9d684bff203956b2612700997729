@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDE6ZjI4MGFjZDAxM2FhOWQ2ODRiZmYyMDM5NTZiMjYxMjcwMDk5NzcyOQ==",
+  "sha": "f280acd013aa9d684bff203956b2612700997729",
+  "url": "https://api.github.com/repos/openstack/ironic/git/tags/f280acd013aa9d684bff203956b2612700997729",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-12-20T16:14:12Z"
+  },
+  "object": {
+    "sha": "f261743c0f68654ce1b0b32e8ed6db3cf10cfb95",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic/git/commits/f261743c0f68654ce1b0b32e8ed6db3cf10cfb95"
+  },
+  "tag": "9.1.6",
+  "message": "ironic 9.1.6 release\n\nmeta:version: 9.1.6\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: If6397454c89eddf53cde7651efe91752ea977e07\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+1: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcG7/UAAoJEBpUEUgFTp44pD0L/RnQfcLFDzRxxqy5i2P8BaiN\nJRiBWNFKYsWnkdVF/vPl/6R5dXHaCix92HYpVYSD6GipnpB1k/P6eyRIPz4cQ93o\nehaLfP6jmbaDba6hTTU9sqm6WVuZzQ0cGVyRx7vICknU+kCuIX5dHONlPzYlWLl3\niP3AkiOPCjQTdQA6ycdICUE2KuF/vA13tpl3CpEEaS4eqbcjNA/KKXPKK0V0nxXG\nwfhte0uxlqp5KOkGuUNCJUUDYPurDFfuEIQeJu2KAEVPCkKzq0kcJlIA7/RpougT\nm+PtqYi6mTYquwPP6nCNl6+BnzKuFm3iUni4TSVhsF0O3lU+eaRAjkqIbvK5FbEK\ntBfqgaS/jf6GnU7oQvF2eiJJP5bA8bbHCIUGZnSWcLAsrznjXyRWf6/+25Hfo8ok\nD7H6p+qHxXsX7JsnefazhQ9zO4lBT7dqrJ3edD7OpW/XHMciPY2z08OYsJqRxr/2\nBJcgi7hNhnB3PnbXF2ZVfZB4MMnRagTYcmwInZ9fug==\n=9b3I\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJcG7/UAAoJEBpUEUgFTp44pD0L/RnQfcLFDzRxxqy5i2P8BaiN\nJRiBWNFKYsWnkdVF/vPl/6R5dXHaCix92HYpVYSD6GipnpB1k/P6eyRIPz4cQ93o\nehaLfP6jmbaDba6hTTU9sqm6WVuZzQ0cGVyRx7vICknU+kCuIX5dHONlPzYlWLl3\niP3AkiOPCjQTdQA6ycdICUE2KuF/vA13tpl3CpEEaS4eqbcjNA/KKXPKK0V0nxXG\nwfhte0uxlqp5KOkGuUNCJUUDYPurDFfuEIQeJu2KAEVPCkKzq0kcJlIA7/RpougT\nm+PtqYi6mTYquwPP6nCNl6+BnzKuFm3iUni4TSVhsF0O3lU+eaRAjkqIbvK5FbEK\ntBfqgaS/jf6GnU7oQvF2eiJJP5bA8bbHCIUGZnSWcLAsrznjXyRWf6/+25Hfo8ok\nD7H6p+qHxXsX7JsnefazhQ9zO4lBT7dqrJ3edD7OpW/XHMciPY2z08OYsJqRxr/2\nBJcgi7hNhnB3PnbXF2ZVfZB4MMnRagTYcmwInZ9fug==\n=9b3I\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f261743c0f68654ce1b0b32e8ed6db3cf10cfb95\ntype commit\ntag 9.1.6\ntagger OpenStack Release Bot <infra-root@openstack.org> 1545322452 +0000\n\nironic 9.1.6 release\n\nmeta:version: 9.1.6\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: If6397454c89eddf53cde7651efe91752ea977e07\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+1: Kendall Nelson <kennelson11@gmail.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

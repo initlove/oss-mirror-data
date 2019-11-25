@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNDpmZDI3YzQzNTk3ZDBiNWM3ZTlhMzY2NWZiZGMxNDQyZTAzMjhjOGY3",
+  "sha": "fd27c43597d0b5c7e9a3665fbdc1442e0328c8f7",
+  "url": "https://api.github.com/repos/openstack/heat/git/tags/fd27c43597d0b5c7e9a3665fbdc1442e0328c8f7",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-08-22T13:40:34Z"
+  },
+  "object": {
+    "sha": "207498dea1e9ca23485511cadbbdda85079e391f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/heat/git/commits/207498dea1e9ca23485511cadbbdda85079e391f"
+  },
+  "tag": "11.0.0.0rc2",
+  "message": "heat 11.0.0.0rc2 release candidate\n\nmeta:version: 11.0.0.0rc2\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: ricolin <rico.lin@easystack.cn>\nmeta:release:Commit: ricolin <rico.lin@easystack.cn>\nmeta:release:Change-Id: I7b9e511fded1098adf11522a6f026605227c2ba4\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbfWfSAAoJEMNs3LTfAMaMc6gIAI4MWc85UN1OKaFeprfFCcsc\n27Z4Vx6Mm6gcZkx0OuWFuMN17qgtL0O3rdKCje1E5jTlZoJqsUI0HfnHNLGE9rVq\nWuiO/DngHguCEdL1z9+VCXgkXih2my70gt/YU+xxDlM/0omojcxa+L7KM9NPqy6w\nVasndbQ33OPgZB1zEJHINIp8YLRnHvnohxT1oZVBASOnLBJnTD8CRTO0f36y3TIg\nFOt8l2ALoeakkmLP+H7vXNr6UejEbV241a+es13ajbpye2aS0JHQpqSjDmmF+K9X\nyjCxJT+vC6Nq1FrCINTan41li3NMh9WihQuIZwm2RtVqL+QYCoyv1dlMyWQPR1A=\n=q5XJ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbfWfSAAoJEMNs3LTfAMaMc6gIAI4MWc85UN1OKaFeprfFCcsc\n27Z4Vx6Mm6gcZkx0OuWFuMN17qgtL0O3rdKCje1E5jTlZoJqsUI0HfnHNLGE9rVq\nWuiO/DngHguCEdL1z9+VCXgkXih2my70gt/YU+xxDlM/0omojcxa+L7KM9NPqy6w\nVasndbQ33OPgZB1zEJHINIp8YLRnHvnohxT1oZVBASOnLBJnTD8CRTO0f36y3TIg\nFOt8l2ALoeakkmLP+H7vXNr6UejEbV241a+es13ajbpye2aS0JHQpqSjDmmF+K9X\nyjCxJT+vC6Nq1FrCINTan41li3NMh9WihQuIZwm2RtVqL+QYCoyv1dlMyWQPR1A=\n=q5XJ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 207498dea1e9ca23485511cadbbdda85079e391f\ntype commit\ntag 11.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1534945234 +0000\n\nheat 11.0.0.0rc2 release candidate\n\nmeta:version: 11.0.0.0rc2\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: ricolin <rico.lin@easystack.cn>\nmeta:release:Commit: ricolin <rico.lin@easystack.cn>\nmeta:release:Change-Id: I7b9e511fded1098adf11522a6f026605227c2ba4\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

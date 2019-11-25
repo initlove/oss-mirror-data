@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE5OTMzNDc6ZjMwZDBlYzJlYmVmYWUxMDMzNmRmMjM5MDk0OGI0MTMwYTljNzQ2OA==",
+  "sha": "f30d0ec2ebefae10336df2390948b4130a9c7468",
+  "url": "https://api.github.com/repos/Netflix/spectator/git/tags/f30d0ec2ebefae10336df2390948b4130a9c7468",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-08-06T20:05:51Z"
+  },
+  "object": {
+    "sha": "be2f94f269f8a08b3d7512930f9c76c3b1c616e0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/spectator/git/commits/be2f94f269f8a08b3d7512930f9c76c3b1c616e0"
+  },
+  "tag": "v0.28.0",
+  "message": "Release of 0.28.0\n\n- be2f94f269f8a08b3d7512930f9c76c3b1c616e0: use jdk 1.8\n- 32af5f320a99efaffd7cf61594612faed794f4ba: Merge pull request #187 from brharrington/deprecate-extendedregistry\n- 5d7b04e81bb9a20ece4f26a419fa01781328845f: deprecate ExtendedRegistry\n- dd01d038fee09a340fe9bc07a0ac744f616b9615: Merge pull request #186 from brharrington/simplify-registry\n- b75af2f17e1c276ac9bf8dabd72c0c133fa19598: update checkstyle to support java 8 syntax\n- 371ab530191c8f350d41b144b98bdfc2cecc3c38: simplify computeIfAbsent calls in AbstractRegistry\n- e38e287448bf66f7e62c3412b2279ea9547841b0: Merge pull request #185 from brharrington/java-8\n- 8a1d4e8cc8f2825800fb218548a4c75720a5f88a: require java 8 instead of java 7\n- c5ead787cd3e15f1692280dab56585b7f4364de8: Merge pull request #184 from brharrington/defaultid-package-private\n- 6163d1f6712485f54ab7f67b877f1056881312dd: change access of DefaultId to package private\n- 5d2a1d1aad31ce35d4a993520619ea651729d8ce: Merge pull request #183 from brharrington/readall-cleanup\n- 9e6e6763e9935ce3a4f38d278d84d65979f124d0: move readAll helper into test case\n- 718e95eaeb776c93c15ad73147f9396196f6408d: Merge pull request #182 from brharrington/use-registry-for-id\n- 133d18208b41790257e83ed501ff992b24ee362c: fix DefaultId usage in test cases\n- 8215860570ecd821e7b18660ecd29bd3337867fd: use registry for creating the ids\n- 39342f1e7f244ef8a8a0c7ac2899fd213b85cc81: Merge pull request #181 from pstout/pds-spark-defaultid-clean-up\n- 61ecf7a3aba57a26beec834b8f2f7013161b371b: Use registry to create Ids rather than explicitly using DefaultId constructor.\n- 98ce5f04b8a9d03cc2a1560dc261799301199113: Merge pull request #179 from brharrington/gc-memtype-value\n- c2dd18bd71f7a468eb9cf307f05ffcd543e4db12: fix value for memtype tag on memory pool metrics\n- 37e936d3079293ed6b8f306ce2d73a676793f44b: Merge pull request #177 from pstout/pds-change-rollup-behavior\n- e521997dff7b3eb2659510f714390e4f3645e6a6: Merge pull request #178 from brharrington/use-collections-emptySet\n- dee94221694c3ea0cfd20203845d2bfbf1953a96: use `Collections.<String>emptySet()`\n- a34f55cd5dffbc557e4ee29aaea246fc796b089d: Change the behavior of rollup method to use first/newest value for duplicated tag names. Add unit test to verify the behavior.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

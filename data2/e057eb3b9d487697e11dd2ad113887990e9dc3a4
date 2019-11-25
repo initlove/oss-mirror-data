@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTplMDU3ZWIzYjlkNDg3Njk3ZTExZGQyYWQxMTM4ODc5OTBlOWRjM2E0",
+  "sha": "e057eb3b9d487697e11dd2ad113887990e9dc3a4",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/e057eb3b9d487697e11dd2ad113887990e9dc3a4",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-08-25T15:47:39Z"
+  },
+  "object": {
+    "sha": "fcffccb4f40a12cfbcffb6d638fcebfe3f9c6ead",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/fcffccb4f40a12cfbcffb6d638fcebfe3f9c6ead"
+  },
+  "tag": "v1.2.1",
+  "message": "Release of 1.2.1\n\n- fcffccb4f40a12cfbcffb6d638fcebfe3f9c6ead: Merge pull request #623 from tbak/master\n- 997679b800bf218ad321c69583c053b20500bb12: Refactor EurekaJerseyClient. Add more metrics.\n- 101bc92bcf0ca79959f910fb90cc7e326afa1486: Replace Apache client User-Agent with Eureka specific one\n- 5bd37c04b8dbd626d3b1509c3a1106e23ee9c918: Change default executor thread pool size to 5.\n- 715390bc595b2c7122e1f1e96f49e9ea23ac7885: Add filter enforcing gzip reply encoding for all REST GET requests.\n- 5421400d9459f16be215bf70d8a2158dc17267c8: Merge pull request #614 from elandau/master\n- 2ddcce4ca22768c602524c09958d7689587d5737: Revert DefaultEurekaClientConfigProvider singleton changes\n- d1367d10806aceb0012487540f28e992af5d5378: Fix a bunch of silly mistakes\n- 6c44cee29d85636b3859f24f087b5f02726a7b6b: Fix support for using an externally provided namespace in (Ec2)EurekaArchaius2InstanceConfig\n- 19d7f6d2eca05bb097f964dc0c6a4006af376d31: Re-add archaius-core to eureka-client/build.gradle\n- 3ab144216dab7a619f987c2d71ba24ea65ac62a7: Remove Karyon from class names\n- b13d13a9c3243ded68a242cab9477ff0c7ff1b71: New sub-project to configure eureka using archaius2\n- 1c2989d1a8a57783bfd10782a2b092818acd18f8: Merge pull request #601 from elandau/master\n- 22f40665d6a1be21ec8c7c677f6a6b236e4447c4: Remove unused reference to DynamicPropertyFactory\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

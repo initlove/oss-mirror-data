@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQ0MzAxMzc6ZTQwODZiZGEwNDViOTMxNWJlMWUwOTg2YzE4ZGJmZDE0NTMxYmY1Mw==",
+  "sha": "e4086bda045b9315be1e0986c18dbfd14531bf53",
+  "url": "https://api.github.com/repos/openstack/os-client-config/git/tags/e4086bda045b9315be1e0986c18dbfd14531bf53",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-05-04T18:27:04Z"
+  },
+  "object": {
+    "sha": "a21123c384e6ff11269b7e6056f940de48413cab",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/os-client-config/git/commits/a21123c384e6ff11269b7e6056f940de48413cab"
+  },
+  "tag": "1.31.1",
+  "message": "os-client-config 1.31.1 release\n\nmeta:version: 1.31.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: If0cd1422591bb80dd164ad2cdca7178a1a834ff1\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa7KX4AAoJEMNs3LTfAMaMtYIIAIikYOdsnpHeil6K34sN+5oG\nOdEfrEwLZ3WtQyYEAIoOktWwDMIpxDIi24i4Dbr5Dm69JTo1J9J3dogo8B5hji9I\n5JzX0WC+Oo91nvSf2v6nfvFNLDcK1dRX/+wVCspiHcwPdWfUMeDi6lwhnkZaLxII\nDYXA8AZZeGGHBzEg11QtEnpVRbHPk+6Ja5qmv/DG2O2nHOYISvyqSPvdyW5zw1H1\nScVjeG2bzBFwFrmuz7iVCPPoZLzXlA3OE5mg42VqQa59kgQVdE8p6xMZTRnNtWNc\n653QekvLp15sopb6QE2CQaLM5zXaDgkH0ZKZkc9Jd6p89TBSqS0QG5v1swSs/uI=\n=yc1c\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJa7KX4AAoJEMNs3LTfAMaMtYIIAIikYOdsnpHeil6K34sN+5oG\nOdEfrEwLZ3WtQyYEAIoOktWwDMIpxDIi24i4Dbr5Dm69JTo1J9J3dogo8B5hji9I\n5JzX0WC+Oo91nvSf2v6nfvFNLDcK1dRX/+wVCspiHcwPdWfUMeDi6lwhnkZaLxII\nDYXA8AZZeGGHBzEg11QtEnpVRbHPk+6Ja5qmv/DG2O2nHOYISvyqSPvdyW5zw1H1\nScVjeG2bzBFwFrmuz7iVCPPoZLzXlA3OE5mg42VqQa59kgQVdE8p6xMZTRnNtWNc\n653QekvLp15sopb6QE2CQaLM5zXaDgkH0ZKZkc9Jd6p89TBSqS0QG5v1swSs/uI=\n=yc1c\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a21123c384e6ff11269b7e6056f940de48413cab\ntype commit\ntag 1.31.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1525458424 +0000\n\nos-client-config 1.31.1 release\n\nmeta:version: 1.31.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Monty Taylor <mordred@inaugust.com>\nmeta:release:Commit: Monty Taylor <mordred@inaugust.com>\nmeta:release:Change-Id: If0cd1422591bb80dd164ad2cdca7178a1a834ff1\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

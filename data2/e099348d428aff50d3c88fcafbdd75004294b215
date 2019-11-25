@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTplMDk5MzQ4ZDQyOGFmZjUwZDNjODhmY2FmYmRkNzUwMDQyOTRiMjE1",
+  "sha": "e099348d428aff50d3c88fcafbdd75004294b215",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/e099348d428aff50d3c88fcafbdd75004294b215",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-11-12T18:54:25Z"
+  },
+  "object": {
+    "sha": "33959f7524090b8d2c6c41e2400ca77e31755059",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/33959f7524090b8d2c6c41e2400ca77e31755059"
+  },
+  "tag": "v0.10.19",
+  "message": "2013.11.13, Version 0.10.19 (Stable)\n\nChanges since version 0.10.18:\n\n* darwin: avoid calling GetCurrentProcess (Fedor Indutny)\n\n* unix: update events from pevents between polls (Fedor Indutny)\n\n* fsevents: support japaneese characters in path (Chris Bank)\n\n* linux: don't turn on SO_REUSEPORT socket option (Ben Noordhuis)\n\n* build: fix windows smp build with gyp (Geert Jansen)\n\n* linux: handle EPOLLHUP without EPOLLIN/EPOLLOUT (Ben Noordhuis)\n\n* unix: fix reopened fd bug (Fedor Indutny)\n\n* core: fix fake watcher list and count preservation (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlKCeWUACgkQfTP/nQJGQG0QeQCg7l1HRjBuogQunHkxWHsH5ehc\nAlAAmwVwlmXXXEqTfx4TVsDMSVEXYYio\n=15Ji\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlKCeWUACgkQfTP/nQJGQG0QeQCg7l1HRjBuogQunHkxWHsH5ehc\nAlAAmwVwlmXXXEqTfx4TVsDMSVEXYYio\n=15Ji\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 33959f7524090b8d2c6c41e2400ca77e31755059\ntype commit\ntag v0.10.19\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1384282465 -0800\n\n2013.11.13, Version 0.10.19 (Stable)\n\nChanges since version 0.10.18:\n\n* darwin: avoid calling GetCurrentProcess (Fedor Indutny)\n\n* unix: update events from pevents between polls (Fedor Indutny)\n\n* fsevents: support japaneese characters in path (Chris Bank)\n\n* linux: don't turn on SO_REUSEPORT socket option (Ben Noordhuis)\n\n* build: fix windows smp build with gyp (Geert Jansen)\n\n* linux: handle EPOLLHUP without EPOLLIN/EPOLLOUT (Ben Noordhuis)\n\n* unix: fix reopened fd bug (Fedor Indutny)\n\n* core: fix fake watcher list and count preservation (Fedor Indutny)\n"
+  }
+}

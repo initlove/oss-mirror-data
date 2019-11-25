@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDE3MDMxMDplZDdmMDEwMzgwNmViZjgxMjAyZDlhNzEwNjI2NjQ3ZWQyMWNhOTE5",
+  "sha": "ed7f0103806ebf81202d9a710626647ed21ca919",
+  "url": "https://api.github.com/repos/openstack/python-openstackclient/git/tags/ed7f0103806ebf81202d9a710626647ed21ca919",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-09-05T19:28:03Z"
+  },
+  "object": {
+    "sha": "3e5a2d227c813937ad7ea23d334f7d23c1f8a2cc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-openstackclient/git/commits/3e5a2d227c813937ad7ea23d334f7d23c1f8a2cc"
+  },
+  "tag": "3.16.1",
+  "message": "python-openstackclient 3.16.1 release\n\nmeta:version: 3.16.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ghanshyam <gmann@ghanshyammann.com>\nmeta:release:Commit: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Change-Id: Ib4c36251fb5a08940760a9e90b3e0cf5dec5f78a\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbkC5DAAoJEBpUEUgFTp44ZMsL/1463XpR5gT932lMCYVUaIBz\n2NydBzQssa0F45yTk8EtPdPk01ilgQmx7h/gd1PLWeoKJDe3bMIEyNnCqLt5dicL\nX4ZR39jACJ3fEjDXk+0DGpoV9sdG6DFCBbpAQIjV4i3XCFHTXO7PMQEq9b7huUn/\nf/aheB0dw8U4n8ZC7Q9+y1OnJG1jipZW+NSNrH+lXqgN9nqF09UKkmDbk1z3roXB\nevaBuP+YhnDQMMthEj7iKcqeTuWqL0sL+W4/6IMkztWDmBovxAClxWmKSpqRBRco\nPGiAHMu9Ne3Dh6oa9NkkDEUi47Qz23shVYUDP/L6fDm+NtS/uQzjpU6U5ioyxfQe\nNO0ZZiK5iQ4W0Iwyx0BVTIpMWlvMzSYmrQ9Ly2trsnC2NkaugSSEO//S0IHVbTjy\nzg6QWDZisAvQdEx92ouFlOJulz69P43ZdPUF0Rs5dj7adJtRmCrhfoO0TQivWM17\nYjmmXh+Od+vHVJpJfcQCSp2qKI8sWEn1wtTSZ/OHZw==\n=wQ+7\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbkC5DAAoJEBpUEUgFTp44ZMsL/1463XpR5gT932lMCYVUaIBz\n2NydBzQssa0F45yTk8EtPdPk01ilgQmx7h/gd1PLWeoKJDe3bMIEyNnCqLt5dicL\nX4ZR39jACJ3fEjDXk+0DGpoV9sdG6DFCBbpAQIjV4i3XCFHTXO7PMQEq9b7huUn/\nf/aheB0dw8U4n8ZC7Q9+y1OnJG1jipZW+NSNrH+lXqgN9nqF09UKkmDbk1z3roXB\nevaBuP+YhnDQMMthEj7iKcqeTuWqL0sL+W4/6IMkztWDmBovxAClxWmKSpqRBRco\nPGiAHMu9Ne3Dh6oa9NkkDEUi47Qz23shVYUDP/L6fDm+NtS/uQzjpU6U5ioyxfQe\nNO0ZZiK5iQ4W0Iwyx0BVTIpMWlvMzSYmrQ9Ly2trsnC2NkaugSSEO//S0IHVbTjy\nzg6QWDZisAvQdEx92ouFlOJulz69P43ZdPUF0Rs5dj7adJtRmCrhfoO0TQivWM17\nYjmmXh+Od+vHVJpJfcQCSp2qKI8sWEn1wtTSZ/OHZw==\n=wQ+7\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 3e5a2d227c813937ad7ea23d334f7d23c1f8a2cc\ntype commit\ntag 3.16.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1536175683 +0000\n\npython-openstackclient 3.16.1 release\n\nmeta:version: 3.16.1\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: ghanshyam <gmann@ghanshyammann.com>\nmeta:release:Commit: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Change-Id: Ib4c36251fb5a08940760a9e90b3e0cf5dec5f78a\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Code-Review+1: Dean Troyer <dtroyer@gmail.com>\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

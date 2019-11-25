@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTplYzI4YzI1ZDNhYjIwNDdlZjY2MDkxNjUzZDFjOGRkYWZlNWQ0NjY5",
+  "sha": "ec28c25d3ab2047ef66091653d1c8ddafe5d4669",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/ec28c25d3ab2047ef66091653d1c8ddafe5d4669",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-12-13T18:32:32Z"
+  },
+  "object": {
+    "sha": "ae0ed8c49d0d313c935c22077511148b6e8408a4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/ae0ed8c49d0d313c935c22077511148b6e8408a4"
+  },
+  "tag": "v0.11.16",
+  "message": "2013.12.14, Version 0.11.16 (Unstable)\n\nChanges since version 0.11.15:\n\n* fsevents: remove kFSEventStreamCreateFlagNoDefer polyfill (ci-innoq)\n\n* libuv: add more getaddrinfo errors (Steven Kabbes)\n\n* unix: fix accept() EMFILE error handling (Ben Noordhuis)\n\n* linux: fix up SO_REUSEPORT back-port (Ben Noordhuis)\n\n* fsevents: fix subfolder check (Fedor Indutny)\n\n* fsevents: fix invalid memory access (huxingyi)\n\n* windows/timer: fix uv_hrtime discontinuity (Bert Belder)\n\n* unix: fix various memory leaks and undef behavior (Fedor Indutny)\n\n* unix, windows: always update loop time (Saúl Ibarra Corretgé)\n\n* windows: translate system errors in uv_spawn (Alexis Campailla)\n\n* windows: uv_spawn code refactor (Alexis Campailla)\n\n* unix, windows: detect errors in uv_ip4/6_addr (Yorkie)\n\n* stream: introduce uv_try_write(...) (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlKrUsMACgkQfTP/nQJGQG3TYgCggE8PCymvcI2/BHriu7dJFyU/\n6oIAn2umMyFrhmVtx21Yd1lFYk6Ybh4b\n=kh9n\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.20 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlKrUsMACgkQfTP/nQJGQG3TYgCggE8PCymvcI2/BHriu7dJFyU/\n6oIAn2umMyFrhmVtx21Yd1lFYk6Ybh4b\n=kh9n\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ae0ed8c49d0d313c935c22077511148b6e8408a4\ntype commit\ntag v0.11.16\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1386959552 -0800\n\n2013.12.14, Version 0.11.16 (Unstable)\n\nChanges since version 0.11.15:\n\n* fsevents: remove kFSEventStreamCreateFlagNoDefer polyfill (ci-innoq)\n\n* libuv: add more getaddrinfo errors (Steven Kabbes)\n\n* unix: fix accept() EMFILE error handling (Ben Noordhuis)\n\n* linux: fix up SO_REUSEPORT back-port (Ben Noordhuis)\n\n* fsevents: fix subfolder check (Fedor Indutny)\n\n* fsevents: fix invalid memory access (huxingyi)\n\n* windows/timer: fix uv_hrtime discontinuity (Bert Belder)\n\n* unix: fix various memory leaks and undef behavior (Fedor Indutny)\n\n* unix, windows: always update loop time (Saúl Ibarra Corretgé)\n\n* windows: translate system errors in uv_spawn (Alexis Campailla)\n\n* windows: uv_spawn code refactor (Alexis Campailla)\n\n* unix, windows: detect errors in uv_ip4/6_addr (Yorkie)\n\n* stream: introduce uv_try_write(...) (Fedor Indutny)\n"
+  }
+}

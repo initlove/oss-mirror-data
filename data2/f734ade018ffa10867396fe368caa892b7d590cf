@@ -1,0 +1,16 @@
+{
+  "node_id": "MDM6VGFnNzAyNTIxNDpmNzM0YWRlMDE4ZmZhMTA4NjczOTZmZTM2OGNhYTg5MmI3ZDU5MGNm",
+  "sha": "f734ade018ffa10867396fe368caa892b7d590cf",
+  "url": "https://api.github.com/repos/openstack/python-ceilometerclient/git/tags/f734ade018ffa10867396fe368caa892b7d590cf",
+  "tagger": {
+    "name": "Eoghan Glynn",
+    "email": "eglynn@redhat.com",
+    "date": "2014-09-22T10:29:44Z"
+  },
+  "object": {
+    "sha": "ae69fb0f975c485d14fc039ff4389439aa78e7eb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ceilometerclient/git/commits/ae69fb0f975c485d14fc039ff4389439aa78e7eb"
+  },
+  "tag": "1.0.11",
+  "message": "python-ceilometerclient 1.0.11\n\nIncludes the following changes:\n\n * Reduce redundant parameter of some commands in CLI\n * Fix AuthPlugin authentification\n * Stop using intersphinx\n * Updated from global requirements\n * Fix sample-create in v2 api calls\n * keystone discovery fallback support\n * Fix a help string nit for statistics command\n * Verify alarm found before modifying\n * Revamp documentation, add module references\n * Check if the alarm has time constraints field before displaying\n * Removed undefined method in install_env.py file\n * Replace assertTrue with assertIsNotNone for check an object\n * Add endpoint opt into auth_plugin\n * Use HTTPClient from common Oslo code\n * Update developer docs template\n * Add doc/build to .gitignore\n * Add docs job to tox.ini\n * Don't expose X-Auth-Token in ceilometer CLI\n * Calculate a suitable column width for positional arguments\n * Improve --debug logging output\n * Update python-ceilometerclient to support Keystone V3 API

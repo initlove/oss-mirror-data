@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTpmNjdlMjYwYTM0NGQyYjgyZTlkOTE1ZWRkYzRmYjY3NGRmYmYyNzFh",
+  "sha": "f67e260a344d2b82e9d915eddc4fb674dfbf271a",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/f67e260a344d2b82e9d915eddc4fb674dfbf271a",
+  "tagger": {
+    "name": "Bert Belder",
+    "email": "bertbelder@gmail.com",
+    "date": "2013-08-24T17:45:59Z"
+  },
+  "object": {
+    "sha": "742dadcb7154cc7bb89c0c228a223b767a36cf0d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/742dadcb7154cc7bb89c0c228a223b767a36cf0d"
+  },
+  "tag": "v0.11.10",
+  "message": "2013.08.25, Version 0.11.10 (Unstable)\n\n* windows: Re-implement uv_fs_stat. The st_ctime field now contains the change\n  time, not the creation time, like on unix systems. st_dev, st_ino, st_blocks\n  and st_blksize are now also filled out. (Bert Belder)\n\n* linux: fix setsockopt(SO_REUSEPORT) error handling (Ben Noordhuis)\n\n* windows: report uv_process_t exit code correctly (Bert Belder)\n\n* windows: make uv_fs_chmod() report errors correctly (Bert Belder)\n\n* windows: make some more NT apis available for libuv's internal use (Bert\n  Belder)\n\n* windows: squelch some compiler warnings (Bert Belder)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUhjxV3p3iHsuLtRhAQLeDgf+Kr6x6miRbz5iSkQ2p6ejeJvHDAG6Hm9I\nzQ1xYmHQWIzeMelFDXB2ptkfAHVuVgA1ajWCGNn5mnUWTW+y2tL8INjKYY56wVYG\nVm+vz+defwX/igUrWMJU2cE5xjbHq3p+DqmycE4dYNUeAa0Y5fqBFEz7afFLpMOE\nQjgRH+395qAL1F/EzUNTh73urbQNwJh4pOa7lzq0fbX5Vz7qoHlQF865m6brqNa1\nKyZ+bs+IMsMAvJkGVlVo5AMwrMGneKausf5vSjDVs52MWpbO9xJ+9Q+MH0tAzmlM\nTWrZc/GRxfwst2cllzqbTaUfipzMrD59H/+fMYwsZEK6a13b1kbfrg==\n=eVkW\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.7 (MingW32)\n\niQEVAwUAUhjxV3p3iHsuLtRhAQLeDgf+Kr6x6miRbz5iSkQ2p6ejeJvHDAG6Hm9I\nzQ1xYmHQWIzeMelFDXB2ptkfAHVuVgA1ajWCGNn5mnUWTW+y2tL8INjKYY56wVYG\nVm+vz+defwX/igUrWMJU2cE5xjbHq3p+DqmycE4dYNUeAa0Y5fqBFEz7afFLpMOE\nQjgRH+395qAL1F/EzUNTh73urbQNwJh4pOa7lzq0fbX5Vz7qoHlQF865m6brqNa1\nKyZ+bs+IMsMAvJkGVlVo5AMwrMGneKausf5vSjDVs52MWpbO9xJ+9Q+MH0tAzmlM\nTWrZc/GRxfwst2cllzqbTaUfipzMrD59H/+fMYwsZEK6a13b1kbfrg==\n=eVkW\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 742dadcb7154cc7bb89c0c228a223b767a36cf0d\ntype commit\ntag v0.11.10\ntagger Bert Belder <bertbelder@gmail.com> 1377366359 +0200\n\n2013.08.25, Version 0.11.10 (Unstable)\n\n* windows: Re-implement uv_fs_stat. The st_ctime field now contains the change\n  time, not the creation time, like on unix systems. st_dev, st_ino, st_blocks\n  and st_blksize are now also filled out. (Bert Belder)\n\n* linux: fix setsockopt(SO_REUSEPORT) error handling (Ben Noordhuis)\n\n* windows: report uv_process_t exit code correctly (Bert Belder)\n\n* windows: make uv_fs_chmod() report errors correctly (Bert Belder)\n\n* windows: make some more NT apis available for libuv's internal use (Bert\n  Belder)\n\n* windows: squelch some compiler warnings (Bert Belder)\n"
+  }
+}

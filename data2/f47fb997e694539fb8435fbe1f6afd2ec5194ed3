@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTpmNDdmYjk5N2U2OTQ1MzlmYjg0MzVmYmUxZjZhZmQyZWM1MTk0ZWQz",
+  "sha": "f47fb997e694539fb8435fbe1f6afd2ec5194ed3",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/f47fb997e694539fb8435fbe1f6afd2ec5194ed3",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-09-15T23:24:24Z"
+  },
+  "object": {
+    "sha": "b7d96aee25d53e0f62819c4698046dd84e2d31dd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/b7d96aee25d53e0f62819c4698046dd84e2d31dd"
+  },
+  "tag": "v1.2.4",
+  "message": "Release of 1.2.4\n\n- b7d96aee25d53e0f62819c4698046dd84e2d31dd: Merge pull request #640 from tbak/master\n- 79e4dcd93ab2d186d366ffc60ebf7d38c954b676: Merge remote-tracking branch 'remotes/netflix/master'\n- 9fe7120d8da9f6a634b92d299dc81ba871b02223: Merge pull request #630 from jaume-pinyol/master\n- e41dfa90faf32aa6ea8a78d45dc5896944cbbbe5: Bug fixes and minor cleanups\n- 709dbcda1b27211fe0c4e1a745004ac830f14a19: Merge pull request #639 from brenuart/gh638\n- ce1077c85fdd0f832ab4531fc1650b77f45652e5: Fix for gh638: use monitor.getName() instead of monitor.name() when unregister monitor\n- 19cd51de3ade2f8f34927b4e4c814733da2f972d: Merge pull request #637 from qiangdavidliu/master\n- 39f5334ba73e45403f6d62a61bb50bc14db57bdf: Adding replication client shutdown in PeerEurekaNode\n- 96a189e5045d46810301113abfe86a4ef8224f0f: fix a flaky test\n- 67568f7d1096c049ff72d73249633323c54e0368: EurekaNameSpace not used in eureka.region\n- 371de2bed7e7a9e7b497813e1a34d735692c99fb: Merge pull request #636 from qiangdavidliu/master\n- 131b9841fecc56042e1971cbe54c902ae634198e: Making serverCodecs public and using a builder instead\n- f62dab18529f3c2e11ebc33f1839a38fc5aa27a2: Merge pull request #635 from qiangdavidliu/master\n- bd4de3dd8ebc8de2e48bd2f93745f6e4ace9f2a4: remove accidental check-in\n- b430851e8b8e779e0e6339d752cb7d7985322bf1: Adding (some) extensibility to define custom codecs for client and server\n- 6994e8252251fcc65c44381ff2cd631659787002: Adding content-type for gziped responses\n- c99698da2a38f218e183488a72a4f5d28c19ea46: EurekaNameSpace not used in eureka.region\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

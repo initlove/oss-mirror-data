@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc5MTM0ODpmNzBkN2RlZDg1ZjU3ZGZlODhkYjM5NjdjYTlhZmEwOTIzZWY2ZTdl",
+  "sha": "f70d7ded85f57dfe88db3967ca9afa0923ef6e7e",
+  "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/tags/f70d7ded85f57dfe88db3967ca9afa0923ef6e7e",
+  "tagger": {
+    "name": "JP Richardson",
+    "email": "jprichardson@gmail.com",
+    "date": "2015-01-28T19:32:08Z"
+  },
+  "object": {
+    "sha": "1dfd9691c8eb505af71f08112d322574588504c5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/commits/1dfd9691c8eb505af71f08112d322574588504c5"
+  },
+  "tag": "0.16.1",
+  "message": "0.16.1 / 2015-01-28\n-------------------\n- if `setImmediate` is not available, fall back to `process.nextTick`\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

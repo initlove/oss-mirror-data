@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY2OTM3NzQ6Zjk1MTA1ZWUxN2FjMmUyODliYzhkZDAyNjFjYjViZWNjNzRlOTM2Yg==",
+  "sha": "f95105ee17ac2e289bc8dd0261cb5becc74e936b",
+  "url": "https://api.github.com/repos/openstack/futurist/git/tags/f95105ee17ac2e289bc8dd0261cb5becc74e936b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-04T14:17:20Z"
+  },
+  "object": {
+    "sha": "25ffb8f1545b11becbbfcff13b4530fb15f3849f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/futurist/git/commits/25ffb8f1545b11becbbfcff13b4530fb15f3849f"
+  },
+  "tag": "1.9.0",
+  "message": "futurist 1.9.0 release\n\nmeta:version: 1.9.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Iae495750fe9d18b3dc8bce3e34e8ccd57851fe83\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1vx3AZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JECDACoUvx6T5nC0aYk5M8D1i6c\nO6pyjnOlREkSZu2o7TBBwAg9nawX6bLWy68nx55GUeIjSevr22RgKkzta4OJtDJ+\nfccT/0bgROGn0aH1bYp2wUyMqFXY9GSHRkKLuveHf8LhTOfotPSgJSWzIrJ2i9UT\nJh82qzGVEw0uUW/bcs6P91rrlcau/TiOy/L6jh0Hxt8QeRXJx+4TWuoTklnUEmmC\nXw31RdpFwvHhxcf7jQEFVOWC12vgm0xF3v++dR+sIEHzm7k0JZB892MROFV8c9eP\nJqjMDchmMz0zCm+ryr3bY5806JrnhQaEeZP2WXtUygmTLiCqznLKSFcJo5K77xiF\nCfizf9WvP06Mz/xk+Er7DYeH2vAkh19jn8qOLwnalfPhaYNvTslqiJ4Ckqo4NXwr\nYXRVFmS5TjfJcliiLZ2yS3Yk5hmqCtb19HrZIM9Dx9/mwm/ladVVG9i6gKlN4J0F\nKFfIMONZ8lOBs+AYd7f67V2oiFbBVl+OIBywxc1NX9E=\n=/9dS\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1vx3AZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2JECDACoUvx6T5nC0aYk5M8D1i6c\nO6pyjnOlREkSZu2o7TBBwAg9nawX6bLWy68nx55GUeIjSevr22RgKkzta4OJtDJ+\nfccT/0bgROGn0aH1bYp2wUyMqFXY9GSHRkKLuveHf8LhTOfotPSgJSWzIrJ2i9UT\nJh82qzGVEw0uUW/bcs6P91rrlcau/TiOy/L6jh0Hxt8QeRXJx+4TWuoTklnUEmmC\nXw31RdpFwvHhxcf7jQEFVOWC12vgm0xF3v++dR+sIEHzm7k0JZB892MROFV8c9eP\nJqjMDchmMz0zCm+ryr3bY5806JrnhQaEeZP2WXtUygmTLiCqznLKSFcJo5K77xiF\nCfizf9WvP06Mz/xk+Er7DYeH2vAkh19jn8qOLwnalfPhaYNvTslqiJ4Ckqo4NXwr\nYXRVFmS5TjfJcliiLZ2yS3Yk5hmqCtb19HrZIM9Dx9/mwm/ladVVG9i6gKlN4J0F\nKFfIMONZ8lOBs+AYd7f67V2oiFbBVl+OIBywxc1NX9E=\n=/9dS\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 25ffb8f1545b11becbbfcff13b4530fb15f3849f\ntype commit\ntag 1.9.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1567606640 +0000\n\nfuturist 1.9.0 release\n\nmeta:version: 1.9.0\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: Iae495750fe9d18b3dc8bce3e34e8ccd57851fe83\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Jean-Philippe Evrard <jean-philippe@evrard.me>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

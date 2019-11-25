@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTgxODQ4ODU6ZThhZWU0MzI2OGUwZTI5NjE2N2E1YTJlNTc4ODMzZGE3MDdhNWRhNw==",
+  "sha": "e8aee43268e0e296167a5a2e578833da707a5da7",
+  "url": "https://api.github.com/repos/kubernetes/kube-state-metrics/git/tags/e8aee43268e0e296167a5a2e578833da707a5da7",
+  "tagger": {
+    "name": "Frederic Branczyk",
+    "email": "fbranczyk@gmail.com",
+    "date": "2016-10-18T12:22:22Z"
+  },
+  "object": {
+    "sha": "1af012d826d017dd455a6caa09ac9f241638ab90",
+    "type": "commit",
+    "url": "https://api.github.com/repos/kubernetes/kube-state-metrics/git/commits/1af012d826d017dd455a6caa09ac9f241638ab90"
+  },
+  "tag": "v0.3.0",
+  "message": "* [FEATURE] Add pod metrics: `kube_pod_status_scheduled`, `kube_pod_container_requested_cpu_cores` and `kube_pod_container_requested_memory_bytes`\n* [FEATURE] Add deployment metric `kube_deployment_metadata_generation`\n* [FEATURE] Add node metric `kube_node_spec_unschedulable`\n* [CHANGE] Rename `kube_node_status_allocateable_*` to `kube_node_status_allocatable_*`\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

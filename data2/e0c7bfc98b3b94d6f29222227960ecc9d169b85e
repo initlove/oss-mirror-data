@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTplMGM3YmZjOThiM2I5NGQ2ZjI5MjIyMjI3OTYwZWNjOWQxNjliODVl",
+  "sha": "e0c7bfc98b3b94d6f29222227960ecc9d169b85e",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/e0c7bfc98b3b94d6f29222227960ecc9d169b85e",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2014-04-14T16:56:49Z"
+  },
+  "object": {
+    "sha": "ed948c29f6e8c290f79325a6f0bc9ef35bcde644",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/ed948c29f6e8c290f79325a6f0bc9ef35bcde644"
+  },
+  "tag": "v0.11.24",
+  "message": "2014.04.15, Version 0.11.24 (Unstable)\n\nChanges since version 0.11.23:\n\n* linux: reduce file descriptor count of async pipe (Ben Noordhuis)\n\n* sunos: support IPv6 qualified link-local addresses (Saúl Ibarra Corretgé)\n\n* windows: fix opening of read-only stdin pipes (Alexis Campailla)\n\n* windows: Fix an infinite loop in uv_spawn (Alex Crichton)\n\n* windows: fix console signal handler refcount (李港平)\n\n* inet: allow scopeid in uv_inet_pton (Fedor Indutny)\n\n* win: always leave crit section in get_proc_title (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlNME1QACgkQfTP/nQJGQG1+ZgCaAu/SUAx+bAHIrfOI2/7K3114\nI9kAoPKCaA9mMhhXBsjSVvu8Ig0VkP+m\n=cmfC\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.22 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlNME1QACgkQfTP/nQJGQG1+ZgCaAu/SUAx+bAHIrfOI2/7K3114\nI9kAoPKCaA9mMhhXBsjSVvu8Ig0VkP+m\n=cmfC\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ed948c29f6e8c290f79325a6f0bc9ef35bcde644\ntype commit\ntag v0.11.24\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1397494609 -0700\n\n2014.04.15, Version 0.11.24 (Unstable)\n\nChanges since version 0.11.23:\n\n* linux: reduce file descriptor count of async pipe (Ben Noordhuis)\n\n* sunos: support IPv6 qualified link-local addresses (Saúl Ibarra Corretgé)\n\n* windows: fix opening of read-only stdin pipes (Alexis Campailla)\n\n* windows: Fix an infinite loop in uv_spawn (Alex Crichton)\n\n* windows: fix console signal handler refcount (李港平)\n\n* inet: allow scopeid in uv_inet_pton (Fedor Indutny)\n\n* win: always leave crit section in get_proc_title (Fedor Indutny)\n"
+  }
+}

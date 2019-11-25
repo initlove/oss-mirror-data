@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzAyNTIxNDpmMWQzODFlMDNkNDE5MmJhZjFhYWM5MGE0ODVkYTc5ODEyODUzYzc3",
+  "sha": "f1d381e03d4192baf1aac90a485da79812853c77",
+  "url": "https://api.github.com/repos/openstack/python-ceilometerclient/git/tags/f1d381e03d4192baf1aac90a485da79812853c77",
+  "tagger": {
+    "name": "Eoghan Glynn",
+    "email": "eglynn@redhat.com",
+    "date": "2014-04-01T12:25:21Z"
+  },
+  "object": {
+    "sha": "defbb95855443047c3fb0a90ca4a9c9d1a51180b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-ceilometerclient/git/commits/defbb95855443047c3fb0a90ca4a9c9d1a51180b"
+  },
+  "tag": "1.0.10",
+  "message": "python-ceilometerclient 1.0.9\n\nIncludes the following changes:\n\n * Ensure statistics aggregates are ordered with parameterized first\n * Implementation of statistics aggregators\n * Adds alarm time constraint support to ceilometer CLI\n * Updated from global requirements\n * Fix temporary pypy gate issue with setuptools\n * Add complex query support for alarm history\n * Add complex query support for alarms\n * Checking the type of auth_token, and fixing it if necessary\n * Deprecate 'alarm-update'\n * Add complex query support for samples\n * test created virtual env directory should git ignored\n * Updated from global requirements\n * Updated from global requirements\n * py3kcompat: remove in python-ceilometerclient\n * Python 3 compatibility\n * Fix a typo in a comment in v2 client\n * test_url_generation_with_proxy: do not use contextlib.nested()\n * Ensure url sent to proxy don't have redundant /\n * Remove unused mock in v2/test_shell.py\n * fix help message of deprecated command\n * Sync with Oslo\n * Python 3: fix format_nested_list_of_dict()\n * Remove tox locale overrides\n * Improve help strings\n * Updated from global requirements\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.13 (GNU/Linux)\n\niQEcBAABAgAGBQJTOrAxAAoJEDhh/+3vk6grUr0H/AkAC7IiQvWhNSQR7IxWoDX9\nx3L8gsWawX4rcT1s2XOX4bQWHnRfeDpR5JCP+ty2lOFxrMKSc7hruOtnLkoHKF3s\nsib5zPzz4T+/RR6TPiD+5F3H5XtVurzaZZaPUwj97y3M0MLf9YKT8sJt3QO5L7s/\nZqA5y1ZW+HUUSiiEbrJ4dszkrmIwtDJ02rjgD9j0dLD+NILDZB5k3JkcbsfA2qdv\nh/YMrsBHH/5W+kuEc5RFru2fdJW6XoXUOoAaMPJZKcVQNAGiXC29FIzx/QprY1Y4\nKmrlRK/N/7wHe/IB1rJu/w7cFZfa2UVcGgdH4YjZ+xAl7+bZ1ShGdHP0i1pdqd0=\n=vP16\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.13 (GNU/Linux)\n\niQEcBAABAgAGBQJTOrAxAAoJEDhh/+3vk6grUr0H/AkAC7IiQvWhNSQR7IxWoDX9\nx3L8gsWawX4rcT1s2XOX4bQWHnRfeDpR5JCP+ty2lOFxrMKSc7hruOtnLkoHKF3s\nsib5zPzz4T+/RR6TPiD+5F3H5XtVurzaZZaPUwj97y3M0MLf9YKT8sJt3QO5L7s/\nZqA5y1ZW+HUUSiiEbrJ4dszkrmIwtDJ02rjgD9j0dLD+NILDZB5k3JkcbsfA2qdv\nh/YMrsBHH/5W+kuEc5RFru2fdJW6XoXUOoAaMPJZKcVQNAGiXC29FIzx/QprY1Y4\nKmrlRK/N/7wHe/IB1rJu/w7cFZfa2UVcGgdH4YjZ+xAl7+bZ1ShGdHP0i1pdqd0=\n=vP16\n-----END PGP SIGNATURE-----\n",
+    "payload": "object defbb95855443047c3fb0a90ca4a9c9d1a51180b\ntype commit\ntag 1.0.10\ntagger Eoghan Glynn <eglynn@redhat.com> 1396355121 +0100\n\npython-ceilometerclient 1.0.9\n\nIncludes the following changes:\n\n * Ensure statistics aggregates are ordered with parameterized first\n * Implementation of statistics aggregators\n * Adds alarm time constraint support to ceilometer CLI\n * Updated from global requirements\n * Fix temporary pypy gate issue with setuptools\n * Add complex query support for alarm history\n * Add complex query support for alarms\n * Checking the type of auth_token, and fixing it if necessary\n * Deprecate 'alarm-update'\n * Add complex query support for samples\n * test created virtual env directory should git ignored\n * Updated from global requirements\n * Updated from global requirements\n * py3kcompat: remove in python-ceilometerclient\n * Python 3 compatibility\n * Fix a typo in a comment in v2 client\n * test_url_generation_with_proxy: do not use contextlib.nested()\n * Ensure url sent to proxy don't have redundant /\n * Remove unused mock in v2/test_shell.py\n * fix help message of deprecated command\n * Sync with Oslo\n * Python 3: fix format_nested_list_of_dict()\n * Remove tox locale overrides\n * Improve help strings\n * Updated from global requirements\n"
+  }
+}

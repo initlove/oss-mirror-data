@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQyNDUyMzg6ZWIwYjY5ZDIxMzUzZjZlMmJmMGEwYmI3MmQ1NDg2MjZiNzg4MWRiNw==",
+  "sha": "eb0b69d21353f6e2bf0a0bb72d548626b7881db7",
+  "url": "https://api.github.com/repos/openstack/manila/git/tags/eb0b69d21353f6e2bf0a0bb72d548626b7881db7",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-08-11T22:59:42Z"
+  },
+  "object": {
+    "sha": "80fe5f1fe4eb2f9d63c36fbfed3dcc388e4a931b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/manila/git/commits/80fe5f1fe4eb2f9d63c36fbfed3dcc388e4a931b"
+  },
+  "tag": "5.0.0.0rc1",
+  "message": "manila 5.0.0.0rc1 release candidate\n\nmeta:version: 5.0.0.0rc1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ben Swartzlander <ben@swartzlander.org>\nmeta:release:Commit: Ben Swartzlander <ben@swartzlander.org>\nmeta:release:Change-Id: I0f9cc61b746300078ba844abb6041b33f3ddd19d\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZjjbeAAoJEOtsyhSD+nTs7vEIAIps9mUJfWu/hsIrxK1109jr\nPcvmlWNLZYQpyGkH4VIFVyaq7uM1qoIqsfv+/UIya02ThiQrMG+jn9YAc3w4mwNu\nXaAgykliGFfw4jrbRGRSTSHzmwFpp6u9OhtoHM+jToXo9sZHywFBPEMR6YSmYXLP\nEvoRG+BrvHBRTEjARcARimwOZyl3tl76Q9e2jtob7PqC6+s4WkmRFWqtramYnU8g\nZAV3+2+CqvSAJbG1GRr4U5wWn4xjGxRFXT5tumcpnsf/tUlYF2rRaI3diYEHiy/o\nm6XjVP8I4f0kV7JN4MmMsKVyHDjaejGGQbS+Mte90FlfSGvoskErYOiaT6TD+9g=\n=GlSq\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJZjjbeAAoJEOtsyhSD+nTs7vEIAIps9mUJfWu/hsIrxK1109jr\nPcvmlWNLZYQpyGkH4VIFVyaq7uM1qoIqsfv+/UIya02ThiQrMG+jn9YAc3w4mwNu\nXaAgykliGFfw4jrbRGRSTSHzmwFpp6u9OhtoHM+jToXo9sZHywFBPEMR6YSmYXLP\nEvoRG+BrvHBRTEjARcARimwOZyl3tl76Q9e2jtob7PqC6+s4WkmRFWqtramYnU8g\nZAV3+2+CqvSAJbG1GRr4U5wWn4xjGxRFXT5tumcpnsf/tUlYF2rRaI3diYEHiy/o\nm6XjVP8I4f0kV7JN4MmMsKVyHDjaejGGQbS+Mte90FlfSGvoskErYOiaT6TD+9g=\n=GlSq\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 80fe5f1fe4eb2f9d63c36fbfed3dcc388e4a931b\ntype commit\ntag 5.0.0.0rc1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1502492382 +0000\n\nmanila 5.0.0.0rc1 release candidate\n\nmeta:version: 5.0.0.0rc1\nmeta:diff-start: -\nmeta:series: pike\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ben Swartzlander <ben@swartzlander.org>\nmeta:release:Commit: Ben Swartzlander <ben@swartzlander.org>\nmeta:release:Change-Id: I0f9cc61b746300078ba844abb6041b33f3ddd19d\nmeta:release:Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>\nmeta:release:Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>\n"
+  }
+}

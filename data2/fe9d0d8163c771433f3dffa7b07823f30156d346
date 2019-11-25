@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzk1NDYwODk6ZmU5ZDBkODE2M2M3NzE0MzNmM2RmZmE3YjA3ODIzZjMwMTU2ZDM0Ng==",
+  "sha": "fe9d0d8163c771433f3dffa7b07823f30156d346",
+  "url": "https://api.github.com/repos/rt2zz/redux-persist/git/tags/fe9d0d8163c771433f3dffa7b07823f30156d346",
+  "tagger": {
+    "name": "Zack Story",
+    "email": "ztstory@gmail.com",
+    "date": "2016-05-05T06:10:46Z"
+  },
+  "object": {
+    "sha": "b7bc43d1d35bd82f985587e7fe104b6439c09546",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rt2zz/redux-persist/git/commits/b7bc43d1d35bd82f985587e7fe104b6439c09546"
+  },
+  "tag": "v3.0.0",
+  "message": "v3.0.0\n\nNew Features:\n- createTransform method\n- getStoredState returns a promise\n- createPersistor method\n- localForage support\n- migrations via redux-persist-migrate\n\nBreaking Changes:\n- autoRehydrate no longer implement action buffer\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}
