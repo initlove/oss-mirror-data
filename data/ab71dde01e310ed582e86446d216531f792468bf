@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY1MDI6YWI3MWRkZTAxZTMxMGVkNTgyZTg2NDQ2ZDIxNjUzMWY3OTI0NjhiZg==",
+  "sha": "ab71dde01e310ed582e86446d216531f792468bf",
+  "url": "https://api.github.com/repos/git/git/git/tags/ab71dde01e310ed582e86446d216531f792468bf",
+  "tagger": {
+    "name": "Junio C Hamano",
+    "email": "junkio@cox.net",
+    "date": "2006-10-17T04:30:39Z"
+  },
+  "object": {
+    "sha": "9de0834663f28bee9e6b2c4647ed6128241ed26f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/git/git/git/commits/9de0834663f28bee9e6b2c4647ed6128241ed26f"
+  },
+  "tag": "v1.4.2.4",
+  "message": "GIT 1.4.2.4\n\nThis is to fix performance bug of xdiff on 64-bit architectures.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.5 (GNU/Linux)\n\niD8DBQBFNFxzwMbZpPMRm5oRAl+0AJ9X9BNQuSXhTSbiO6pBfoB+LiKAawCfZJQc\neZwS3gHG21x2Tte6VNW1QnE=\n=90xG\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.5 (GNU/Linux)\n\niD8DBQBFNFxzwMbZpPMRm5oRAl+0AJ9X9BNQuSXhTSbiO6pBfoB+LiKAawCfZJQc\neZwS3gHG21x2Tte6VNW1QnE=\n=90xG\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 9de0834663f28bee9e6b2c4647ed6128241ed26f\ntype commit\ntag v1.4.2.4\ntagger Junio C Hamano <junkio@cox.net> 1161059439 -0700\n\nGIT 1.4.2.4\n\nThis is to fix performance bug of xdiff on 64-bit architectures.\n"
+  }
+}
