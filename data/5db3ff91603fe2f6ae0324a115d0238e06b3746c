@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDExMjYzMzI6NWRiM2ZmOTE2MDNmZTJmNmFlMDMyNGExMTVkMDIzOGUwNmIzNzQ2Yw==",
+  "sha": "5db3ff91603fe2f6ae0324a115d0238e06b3746c",
+  "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/tags/5db3ff91603fe2f6ae0324a115d0238e06b3746c",
+  "tagger": {
+    "name": "Joshua Lock",
+    "email": "joshua.g.lock@intel.com",
+    "date": "2018-06-11T11:08:25Z"
+  },
+  "object": {
+    "sha": "da418d932d0fc64e2835900e25d5ab0f76dd70b0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/commits/da418d932d0fc64e2835900e25d5ab0f76dd70b0"
+  },
+  "tag": "3.1.0-rc0",
+  "message": "3.1.0-rc0 - 2018-06-11\n  * Update to use TSS version 2.0\n  * When user supplies nv attributes use those exclusively, not in addition to the defaults\n  * When user supplies object attributes use those exclusively, not in addition to the defaults\n  * Load TCTI's by SONAME, not raw .so file\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJbHlnXAAoJEEm8rlRD//w0hOcP/2BIHGkt36e+EjH8cZZ1UoXV\nqJasqMb31qXpzC1YVaxRs+IXDAK4qCxMp9oCvQjlVZN6s4VItz8GqCn+btyEbnxb\ndGic7Ch5VXW3eQp7SmCmfD1RU0drS4jDj7BV24E//+IqvknK6RlHpTlV2e0o3l2p\nrljq+GYGXrw/KvNS6Cgypw37lmT47ayj7iqcwC7hOvyF32zYEIGSAiBB58CG2E2U\nGdAQHC+LDh/hXP846ep3j/zLXBrkSXiZakjt2xKt9+TTCFYbdVEy8PrurSirEyLM\nLt051v0n735Xx5RNkzuI1kdUnI2jLndc/4RhaAau5yPY4bcZ96+8tziGkJSwJU9S\nbiL7OgO0UsLFpO6UOEtmk7GVyMETfz6z7VA3yXfQMSOqL9GwrI0k7bGNviwuFzA/\nB+hDFTtM6aPuJr/I9kVP9LauC+PjW2FZVOeJFHl3PFmzeuWWtNSD08xSCxGCG2lD\nm/zQVY6dRPyDVYXpUPwt3MfKeiqd9g91wHVU83CgSHw3x56TXzhRP2+sKn18iVl+\na0Zkdkw9vhCA+LK/ei52b5cFZEVxPQurblvZ7AbblAw0HbIZtOTUeECaWhDlpyvi\nHDoHsYfPhj2cgXRin3hp16veAeQcvGI5Bbsx08uHqhpM+3OwQd5CNL4SfUJPyiRZ\nU2u/FOqfW+gD8HkpBCYT\n=UnQX\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJbHlnXAAoJEEm8rlRD//w0hOcP/2BIHGkt36e+EjH8cZZ1UoXV\nqJasqMb31qXpzC1YVaxRs+IXDAK4qCxMp9oCvQjlVZN6s4VItz8GqCn+btyEbnxb\ndGic7Ch5VXW3eQp7SmCmfD1RU0drS4jDj7BV24E//+IqvknK6RlHpTlV2e0o3l2p\nrljq+GYGXrw/KvNS6Cgypw37lmT47ayj7iqcwC7hOvyF32zYEIGSAiBB58CG2E2U\nGdAQHC+LDh/hXP846ep3j/zLXBrkSXiZakjt2xKt9+TTCFYbdVEy8PrurSirEyLM\nLt051v0n735Xx5RNkzuI1kdUnI2jLndc/4RhaAau5yPY4bcZ96+8tziGkJSwJU9S\nbiL7OgO0UsLFpO6UOEtmk7GVyMETfz6z7VA3yXfQMSOqL9GwrI0k7bGNviwuFzA/\nB+hDFTtM6aPuJr/I9kVP9LauC+PjW2FZVOeJFHl3PFmzeuWWtNSD08xSCxGCG2lD\nm/zQVY6dRPyDVYXpUPwt3MfKeiqd9g91wHVU83CgSHw3x56TXzhRP2+sKn18iVl+\na0Zkdkw9vhCA+LK/ei52b5cFZEVxPQurblvZ7AbblAw0HbIZtOTUeECaWhDlpyvi\nHDoHsYfPhj2cgXRin3hp16veAeQcvGI5Bbsx08uHqhpM+3OwQd5CNL4SfUJPyiRZ\nU2u/FOqfW+gD8HkpBCYT\n=UnQX\n-----END PGP SIGNATURE-----\n",
+    "payload": "object da418d932d0fc64e2835900e25d5ab0f76dd70b0\ntype commit\ntag 3.1.0-rc0\ntagger Joshua Lock <joshua.g.lock@intel.com> 1528715305 +0100\n\n3.1.0-rc0 - 2018-06-11\n  * Update to use TSS version 2.0\n  * When user supplies nv attributes use those exclusively, not in addition to the defaults\n  * When user supplies object attributes use those exclusively, not in addition to the defaults\n  * Load TCTI's by SONAME, not raw .so file\n"
+  }
+}

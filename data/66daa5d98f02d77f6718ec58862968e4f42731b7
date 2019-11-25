@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6NjZkYWE1ZDk4ZjAyZDc3ZjY3MThlYzU4ODYyOTY4ZTRmNDI3MzFiNw==",
+  "sha": "66daa5d98f02d77f6718ec58862968e4f42731b7",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/66daa5d98f02d77f6718ec58862968e4f42731b7",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@edgedb.com",
+    "date": "2019-10-25T21:05:04Z"
+  },
+  "object": {
+    "sha": "679fde69f22648c943a72b5c5fb2629b4b33ae07",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/679fde69f22648c943a72b5c5fb2629b4b33ae07"
+  },
+  "tag": "v0.14.0rc1",
+  "message": "New Features\n\n* Add support for Python 3.8.\n  (by @1st1 in 5f48dab8, 51636f7b)\n\nBug Fixes\n\n* Multiple fixes in the SSL/TLS layer.\n  (by @fantix in 82104fb6 for #263, 7fcbfed1 for #255)\n\n* Restore `signal.wakeup_fd` after the event loop is closed.\n  (by @vladima in 48d376d3)\n\n* Handle large timeouts in `loop.call_later()`.\n  (by @1st1 in 1a0d6578 for #259)\n\n* Fix possible feezing of uvloop on `os.fork`.\n  (by @grungy-ado in fde5d14f)\n\n* Better handle Unix sockets for datagram transports.\n  (by @mosquito and @1st1 in dd4cb7ac for #269)\n\n* Avoid double connecting to `remote_addr` for datagram transports.\n  (by @1st1 in bed926c5 for #276)\n\nBuild\n\n* Bump Cython to 0.29.13.\n  (by @1st1 in 65c1a045)\n\n* Bump libuv to v1.33.1.\n  (by @1st1 in 34fd827e)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

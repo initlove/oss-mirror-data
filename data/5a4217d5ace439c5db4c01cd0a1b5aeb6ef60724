@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6NWE0MjE3ZDVhY2U0MzljNWRiNGMwMWNkMGExYjVhZWI2ZWY2MDcyNA==",
+  "sha": "5a4217d5ace439c5db4c01cd0a1b5aeb6ef60724",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/5a4217d5ace439c5db4c01cd0a1b5aeb6ef60724",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2018-10-31T04:55:31Z"
+  },
+  "object": {
+    "sha": "a9ac618962f85211bb77030fababd07ae5c55851",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/a9ac618962f85211bb77030fababd07ae5c55851"
+  },
+  "tag": "v0.11.3",
+  "message": "v0.11.3\n\nBug Fixes\n\n* Use new PyOS_BeforeFork and PyOS_AfterFork_* 3.7 APIs when available\n  (by @1st1 in 75e7c32a)\n\n* Fix async generators finalization to work correctly in debug mode\n  (by @1st1 in dcbb1f4f for #200)\n\n* Pass `backlog` should be passed to `loop.create_unix_server` when a\n  server is created via `loop.create_server(sock=unix_sock, backlog=backlog)`.\n  (by @hikoz in 40ad257b)\n\n* Don't raise \"requires a DNS lookup\" error on Unix Domain Socket (#204)\n  (by @pax0r in 9fc3ca2a for #204)\n\n* Fix use of PyContext* APIs in 3.7.1\n  (by @1st1 in 74748005)\n\nBuild\n\n* Bump Cython to 0.28.5\n  (by @1st1 in 1bbd6a82)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6NDYyYTIwOTJkZTMxMDkzYWNlMDQ5OThlMDljODc1NTNjNmViZDM5Mg==",
+  "sha": "462a2092de31093ace04998e09c87553c6ebd392",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/462a2092de31093ace04998e09c87553c6ebd392",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2016-07-19T06:08:38Z"
+  },
+  "object": {
+    "sha": "08880225f6b914e7d0f2135bfb3704b88f7d8279",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/08880225f6b914e7d0f2135bfb3704b88f7d8279"
+  },
+  "tag": "v0.5.0",
+  "message": "v0.5.0\n\n- Fix transport.get_extra_info('socket') on closed transports;\n\n- Make sure connection_lost is called when connection_made\n  had an exception.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6MmFlZWIwNjVjYTcyZGNjN2ViNGM4YjA1ZTRjMDg2MGFlMTc0ZGVkNA==",
+  "sha": "2aeeb065ca72dcc7eb4c8b05e4c0860ae174ded4",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/2aeeb065ca72dcc7eb4c8b05e4c0860ae174ded4",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2016-05-05T17:07:06Z"
+  },
+  "object": {
+    "sha": "b6fa37a1419845995d4ef4345c86236043f8ec8c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/b6fa37a1419845995d4ef4345c86236043f8ec8c"
+  },
+  "tag": "v0.4.12",
+  "message": "v0.4.12\n\n- loop.getaddrinfo() is fixed to behave more like socket.getaddrinfo()\n  in edge cases.\n\n- libuv is now packaged with configure script, so there is no\n  requirement to have autotools installed to build uvloop.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

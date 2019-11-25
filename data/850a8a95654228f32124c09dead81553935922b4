@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6ODUwYThhOTU2NTQyMjhmMzIxMjRjMDlkZWFkODE1NTM5MzU5MjJiNA==",
+  "sha": "850a8a95654228f32124c09dead81553935922b4",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/850a8a95654228f32124c09dead81553935922b4",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2016-05-16T00:40:37Z"
+  },
+  "object": {
+    "sha": "19afc973284a1a1a7775814ff8e38d66f05f85de",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/19afc973284a1a1a7775814ff8e38d66f05f85de"
+  },
+  "tag": "v0.4.24",
+  "message": "v0.4.24\n\n- Fixed create_server to bind to ipv6 addresses with\n  the TCP_IPV6ONLY flag.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

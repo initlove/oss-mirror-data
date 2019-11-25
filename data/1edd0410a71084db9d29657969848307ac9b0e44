@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6MWVkZDA0MTBhNzEwODRkYjlkMjk2NTc5Njk4NDgzMDdhYzliMGU0NA==",
+  "sha": "1edd0410a71084db9d29657969848307ac9b0e44",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/1edd0410a71084db9d29657969848307ac9b0e44",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2016-07-05T21:23:38Z"
+  },
+  "object": {
+    "sha": "034c3cc3caf075a2dcfe9ffc43a9a5a6ced5de2f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/034c3cc3caf075a2dcfe9ffc43a9a5a6ced5de2f"
+  },
+  "tag": "v0.4.33",
+  "message": "v0.4.33\n\n- uvloop is now dual-licensed under Apache 2.0 and MIT\n\n- Fix transport.get_extra_info() to return a duplicate\n  of the internal socket\n\n- Fix memory leak in UVTimer handle; stop using dynamic\n  memory allocation for libuv handles/requests.  This\n  should also positively affect uvloop performance.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

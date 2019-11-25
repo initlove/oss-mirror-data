@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDAyMTc5MDQ6MjU5NjUwMjA1MTFkYzNiZGMyZDFiMDdhZTZiYWQ5ZDBhNDE2MGVhYQ==",
+  "sha": "25965020511dc3bdc2d1b07ae6bad9d0a4160eaa",
+  "url": "https://api.github.com/repos/swaywm/sway/git/tags/25965020511dc3bdc2d1b07ae6bad9d0a4160eaa",
+  "tagger": {
+    "name": "Drew DeVault",
+    "email": "sir@cmpwn.com",
+    "date": "2019-02-25T22:14:22Z"
+  },
+  "object": {
+    "sha": "c129767bc05ad5c98c1fa73f261cf30ff59346dd",
+    "type": "commit",
+    "url": "https://api.github.com/repos/swaywm/sway/git/commits/c129767bc05ad5c98c1fa73f261cf30ff59346dd"
+  },
+  "tag": "1.0-rc4",
+  "message": "sway 1.0-rc4\n\nBrian Ashworth (7):\n      output_evacuate: call workspace_consider_destroy\n      output_get_active_workspace: check workspaces length\n      Handle NULL from output_get_active_workspace\n      move scratchpad: hide visible scratchpad container\n      input/cursor: allow whole-window bindings on ws\n      handle_layer_shell_surface: do not use noop output\n      handle_seat_node_destroy: update seat->workspace\n\nCaleb Bassi (1):\n      ipc: add missing fields to disabled outputs\n\nCarlo Abelli (1):\n      fix smart_borders description in manual\n\nConnor E (1):\n      Make load_include_configs void. Fix some cases where WD would not be restored.\n\nEric Drechsel (1):\n      layout cmd: always operate on parent container, like i3Fixes #3724\n\nRouven Czerwinski (4):\n      ipc-client: free payload after sending it over the socket\n      run_as_ipc_client: free response after running the IPC command\n      commands/move: reintroduce wrongly removed NULL check\n      view: set xdg_decoration->view to NULL, check decoration destroy\n\nYorick van Pelt (1):\n      Add 'visible' key to view json response\n\nemersion (3):\n      Fix drag icon map listener not removed\n      Don't use SOCK_CLOEXEC\n      Update for swaywm/wlroots#1517\n\nminus (1):\n      Fix crash exiting fullscreened floating container\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

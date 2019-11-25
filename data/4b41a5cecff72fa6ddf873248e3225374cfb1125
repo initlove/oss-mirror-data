@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6NGI0MWE1Y2VjZmY3MmZhNmRkZjg3MzI0OGUzMjI1Mzc0Y2ZiMTEyNQ==",
+  "sha": "4b41a5cecff72fa6ddf873248e3225374cfb1125",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/4b41a5cecff72fa6ddf873248e3225374cfb1125",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2017-11-29T02:56:06Z"
+  },
+  "object": {
+    "sha": "d27b45c7dd097fbb05c0ec8d3f3bda05d901e67f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/d27b45c7dd097fbb05c0ec8d3f3bda05d901e67f"
+  },
+  "tag": "v0.9.1",
+  "message": "v0.9.1\n\n* Stop using malloc for `uv_request*` handlers.\n\n* Fix `loop.add_reader()`, `loop.add_writer()`, `loop.remove_reader()`,\n  and `loop.remove_writer()` to better track socket objects.\n\n* Fix `loop.sock_recv()`, `loop.sock_sendall()`, `loop.sock_recv_into()`,\n  and `loop.sock_connect()` to correctly handle `Task.cancel()`.\n\n* Better handle immediate cancellation of `loop.create_connection()`.\n\n* Make unit tests stricter: ensure `loop.call_exception_handler()`\n  does not get called, unless it's expected.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

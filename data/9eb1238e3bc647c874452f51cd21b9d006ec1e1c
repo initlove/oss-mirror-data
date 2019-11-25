@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6OWViMTIzOGUzYmM2NDdjODc0NDUyZjUxY2QyMWI5ZDAwNmVjMWUxYw==",
+  "sha": "9eb1238e3bc647c874452f51cd21b9d006ec1e1c",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/9eb1238e3bc647c874452f51cd21b9d006ec1e1c",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2019-02-12T16:12:20Z"
+  },
+  "object": {
+    "sha": "274e25ce9ae884e53ebaf5bede019098021bfcb1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/274e25ce9ae884e53ebaf5bede019098021bfcb1"
+  },
+  "tag": "v0.12.1",
+  "message": "v0.12.1\n\n* Fix circular references case in SSL implementation.\n  (by @fantix in a2e0dd8e for #220)\n\n* Cleanup refs to canceled callback handles.\n\n  This removes potential reference cycles between bound methods\n  and cancelled `Handle` / `TimerHandle` objects.\n\n  (by @1st1 in f0a945df)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

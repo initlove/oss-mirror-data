@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDAyMTc5MDQ6MWNjZWZjYTMyNDA2YTM1MDQwMmRiODdhMmVjM2I3YjFjYjcyYWIwOQ==",
+  "sha": "1ccefca32406a350402db87a2ec3b7b1cb72ab09",
+  "url": "https://api.github.com/repos/swaywm/sway/git/tags/1ccefca32406a350402db87a2ec3b7b1cb72ab09",
+  "tagger": {
+    "name": "Drew DeVault",
+    "email": "sir@cmpwn.com",
+    "date": "2019-02-11T15:26:11Z"
+  },
+  "object": {
+    "sha": "e4e579ea3687342d06915be0df0093987e0e0314",
+    "type": "commit",
+    "url": "https://api.github.com/repos/swaywm/sway/git/commits/e4e579ea3687342d06915be0df0093987e0e0314"
+  },
+  "tag": "1.0-rc2",
+  "message": "sway 1.0-rc2\n\nSway 1.0-rc2 contains 28 changes from 7 contributors since 1.0-rc1, and\nonly contains bug fixes.\n\nThe recommended wlroots version to use with this sway release is 0.3.\n\nPackage maintainers: please do not package this release.\n\nBrian Ashworth (19):\n      seat_cmd_cursor: do not create non-existing seat\n      load_include_configs: fix wordexp fail condition\n      swaynag: remove trailing newlines in config\n      execute_command: dont strip quotes for exec_always\n      IPC_COMMAND: split on newline\n      cmd_workspace_gaps: fix double free on bad amount\n      output_cmd_background: fix no file + valid mode\n      load_main_config: add realpath to config_chain\n      Clarify error for options and positional args\n      load_main_config: use given path, store realpath\n      seat_configure_tablet_tool: configure xcursor\n      bar_cmd_modifier: add support for none\n      container_at_stacked: skip titles when zero pixels\n      input/keyboard: respect solo repeat_{rate,delay}\n      view: remove pointer constraints on unmap\n      ipc: handle unnamed xkb_active_layout_name\n      fix misc memory leaks\n      Abort early when XDG_RUNTIME_DIR is not set\n      workspace_get_initial_output: handle focused layer\n\nConnor E (2):\n      If validating the config, do it as early as possible.\n      Initialize server so input manager is available.\n\nDaniel Eklöf (1):\n      ipc_has_event_listeners: fix inverted check of subscribed_events\n\nMichael Vetter (1):\n      Set version in project file\n\nRouven Czerwinski (1):\n      fix double free for mode toggle if bar was invisible\n\nemersion (2):\n      Fix quote stripping\n      Fix close_popups for xdg-shell\n\nvilhalmer (1):\n      Focus ws inactive node with focus_follows_mouse\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

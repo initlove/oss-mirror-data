@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6NDgxZDg1MDQ0M2E4MjY3YjNjODI2YWVmYWZmOGU0ZjdkMzMwY2ZjNA==",
+  "sha": "481d850443a8267b3c826aefaff8e4f7d330cfc4",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/481d850443a8267b3c826aefaff8e4f7d330cfc4",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2016-11-06T22:40:59Z"
+  },
+  "object": {
+    "sha": "fb0801a36a5c55917565408e95cc6c356b6312f2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/fb0801a36a5c55917565408e95cc6c356b6312f2"
+  },
+  "tag": "v0.6.0",
+  "message": "v0.6.0\n\n- compatibility with Python 3.6b3;\n\n- use new asyncio.isfuture() when available;\n\n- concurrent.futures threadpool uses default number\n  of workers (number of cores) instead of a hardcoded\n  number;\n\n- low-level socket APIs such as loop.add_writer don't\n  accept sockets from Transports anymore;\n\n- add Transport.get_protocol() and\n  Transport.set_protocol();\n\n- ^C tracebacks are more consise now;\n\n- create_unix_server and create_unix_connection only\n  accept UNIX sockets now.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

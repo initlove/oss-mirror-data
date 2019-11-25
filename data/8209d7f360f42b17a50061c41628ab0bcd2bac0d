@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6ODIwOWQ3ZjM2MGY0MmIxN2E1MDA2MWM0MTYyOGFiMGJjZDJiYWMwZA==",
+  "sha": "8209d7f360f42b17a50061c41628ab0bcd2bac0d",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/8209d7f360f42b17a50061c41628ab0bcd2bac0d",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2018-06-25T17:36:58Z"
+  },
+  "object": {
+    "sha": "0564df1ba9d2dc3da8cd28b089fc74d25e23e566",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/0564df1ba9d2dc3da8cd28b089fc74d25e23e566"
+  },
+  "tag": "v0.10.2",
+  "message": "v0.10.2\n\n* ssl: Sync SSL error messages with CPython's SSL implementation.\n  (by @1st1 in c3aeff2a)\n\n* `SSLTransport.abort()` marks the transport as closed.\n  (by @1st1 in ba25d8be)\n\n* Detect if libuv submodule has not been checked out in `setup.py`.\n  (by @1st1 in dd8060d2)\n\n* Use a proper type for the thread indent (fixes 32-bit build for 3.7.)\n  (by @1st1 in 700582a9 for #172)\n\n* Fix cancellation race in `loop.sock_recv()` and `loop.sock_recv_into()`\n  methods.  (by @andr-04 and @1st1 in 298851bf for #169)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY1MDI6NzM4ZGVjMGVhZDZhOTZmODdjZjcxOTg5YTFkYWQ3YmI1ZDFmYWJhNA==",
+  "sha": "738dec0ead6a96f87cf71989a1dad7bb5d1faba4",
+  "url": "https://api.github.com/repos/git/git/git/tags/738dec0ead6a96f87cf71989a1dad7bb5d1faba4",
+  "tagger": {
+    "name": "Junio C Hamano",
+    "email": "junkio@cox.net",
+    "date": "2006-06-22T19:10:57Z"
+  },
+  "object": {
+    "sha": "bf9e9542f94bc39e8bc653065d477bd25e79010e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/git/git/git/commits/bf9e9542f94bc39e8bc653065d477bd25e79010e"
+  },
+  "tag": "v1.4.1-rc1",
+  "message": "GIT 1.4.1-rc1\n\nAs promised, 1.4.X series will be managed slightly differently,\nand this is in preparation of the first installment of it.  The\nreleases will come from the \"master\" branch to contain both\nfixes and enhancements from now on.  Hotfix releases when\nnecessary would have 1.4.X.Y revision numbers, but I am hoping\nthat we do not have to do that very often.\n\nSince all the exciting and potentially risky developments are to\nhappen on the \"next\" branch and they are supposed to graduate to\n\"master\" branch after they are reasonably well cooked, this\nchange will help the end-users to stay reasonably current\nwithout hopefully not introducing unexpected problems.  The\nolder scheme left out all the enhancements if people followed\npackaged versions, and gave big surprises when upgrading from\nversion X.Y.Z to X.(Y+1).0 which was not so nice.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.3 (GNU/Linux)\n\niD8DBQBEmu0ewMbZpPMRm5oRAn28AJ9FjgwgUM3a5KKmQnUwas+69Q7saQCgnfsi\nwdIaZSiEFCBZoWvx6G6mQsk=\n=dyjV\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.3 (GNU/Linux)\n\niD8DBQBEmu0ewMbZpPMRm5oRAn28AJ9FjgwgUM3a5KKmQnUwas+69Q7saQCgnfsi\nwdIaZSiEFCBZoWvx6G6mQsk=\n=dyjV\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bf9e9542f94bc39e8bc653065d477bd25e79010e\ntype commit\ntag v1.4.1-rc1\ntagger Junio C Hamano <junkio@cox.net> 1151003457 -0700\n\nGIT 1.4.1-rc1\n\nAs promised, 1.4.X series will be managed slightly differently,\nand this is in preparation of the first installment of it.  The\nreleases will come from the \"master\" branch to contain both\nfixes and enhancements from now on.  Hotfix releases when\nnecessary would have 1.4.X.Y revision numbers, but I am hoping\nthat we do not have to do that very often.\n\nSince all the exciting and potentially risky developments are to\nhappen on the \"next\" branch and they are supposed to graduate to\n\"master\" branch after they are reasonably well cooked, this\nchange will help the end-users to stay reasonably current\nwithout hopefully not introducing unexpected problems.  The\nolder scheme left out all the enhancements if people followed\npackaged versions, and gave big surprises when upgrading from\nversion X.Y.Z to X.(Y+1).0 which was not so nice.\n"
+  }
+}

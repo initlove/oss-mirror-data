@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDAyMTc5MDQ6NjJhODhkNWM5M2UxZWNlMTkwODY3NDkzYWJkNzU2MTI2NGYwM2EzZg==",
+  "sha": "62a88d5c93e1ece190867493abd7561264f03a3f",
+  "url": "https://api.github.com/repos/swaywm/sway/git/tags/62a88d5c93e1ece190867493abd7561264f03a3f",
+  "tagger": {
+    "name": "Drew DeVault",
+    "email": "sir@cmpwn.com",
+    "date": "2019-08-20T05:57:31Z"
+  },
+  "object": {
+    "sha": "d6846ad3afc4a77efe79443e939bb3a79708790c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/swaywm/sway/git/commits/d6846ad3afc4a77efe79443e939bb3a79708790c"
+  },
+  "tag": "1.2-rc2",
+  "message": "sway 1.2-rc2\n\nAntonin Décimo (5):\n      ipc-client: remove useless free for failed malloc\n      input: check pointer against nullptr\n      view_update_size: fix surface_width/height mismatch\n      Fix memory leaks\n      Remove redundant checks\n\nBrian Ashworth (7):\n      handle_seat_node_destroy: do not focus own node\n      workspace: do not destroy if any seat is focusing\n      swaymsg.1: add tip about two hyphens for commands\n      container_replace: copy {width,height}_fraction\n      workspace_split: focus middle if workspace focused\n      sway{,-bar}.5: add link to pango font description\n      input/seatop_down: add axis handler\n\nDrew DeVault (1):\n      layer-shell: add support for popups\n\nIlia Bozhinov (1):\n      properly check pixman_region32_contains_rectangle return\n\nSebastian Krzyszkowiak (1):\n      layer_shell: Guard against negative exclusive zone\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

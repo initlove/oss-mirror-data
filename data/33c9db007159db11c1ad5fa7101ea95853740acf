@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY1MDI6MzNjOWRiMDA3MTU5ZGIxMWMxYWQ1ZmE3MTAxZWE5NTg1Mzc0MGFjZg==",
+  "sha": "33c9db007159db11c1ad5fa7101ea95853740acf",
+  "url": "https://api.github.com/repos/git/git/git/tags/33c9db007159db11c1ad5fa7101ea95853740acf",
+  "tagger": {
+    "name": "Junio C Hamano",
+    "email": "junkio@cox.net",
+    "date": "2006-06-29T06:21:20Z"
+  },
+  "object": {
+    "sha": "abc02670169cee9541793a86324a014272ca8ed5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/git/git/git/commits/abc02670169cee9541793a86324a014272ca8ed5"
+  },
+  "tag": "v1.4.1-rc2",
+  "message": "GIT 1.4.1-rc2\n\nMany fixes since v1.4.1-rc1 was issued.  Notable are:\n\n - git-cvsimport to manage multiple branches are (hopefully)\n   fixed now (Martin and Johannes).\n\n - git-rebase learned how to use 3-way merge backends by\n   \"git-rebase --merge\" (Eric Wong).\n\n - git-svn updates (Eric Wong).\n\n - \"git-commit -m\" breakage was fixed (me).\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.3 (GNU/Linux)\n\niD8DBQBEo3FjwMbZpPMRm5oRAvYRAJ4zJ04hCbI0o2dF+Q0YPPlEllqXNACZAek2\nfq1zhOwTkeEeEUcdmtJW/Ig=\n=xK0i\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.3 (GNU/Linux)\n\niD8DBQBEo3FjwMbZpPMRm5oRAvYRAJ4zJ04hCbI0o2dF+Q0YPPlEllqXNACZAek2\nfq1zhOwTkeEeEUcdmtJW/Ig=\n=xK0i\n-----END PGP SIGNATURE-----\n",
+    "payload": "object abc02670169cee9541793a86324a014272ca8ed5\ntype commit\ntag v1.4.1-rc2\ntagger Junio C Hamano <junkio@cox.net> 1151562080 -0700\n\nGIT 1.4.1-rc2\n\nMany fixes since v1.4.1-rc1 was issued.  Notable are:\n\n - git-cvsimport to manage multiple branches are (hopefully)\n   fixed now (Martin and Johannes).\n\n - git-rebase learned how to use 3-way merge backends by\n   \"git-rebase --merge\" (Eric Wong).\n\n - git-svn updates (Eric Wong).\n\n - \"git-commit -m\" breakage was fixed (me).\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDExMjYzMzI6NDcyMjMzNmU2MmJhMDJmZDRiMjRkM2NiNjk5NzU5YmQwYzhjODNkZQ==",
+  "sha": "4722336e62ba02fd4b24d3cb699759bd0c8c83de",
+  "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/tags/4722336e62ba02fd4b24d3cb699759bd0c8c83de",
+  "tagger": {
+    "name": "Joshua Lock",
+    "email": "joshua.g.lock@intel.com",
+    "date": "2018-08-14T22:05:39Z"
+  },
+  "object": {
+    "sha": "5e2f1aafc58e60c5050f85147a14914561f28ad9",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/commits/5e2f1aafc58e60c5050f85147a14914561f28ad9"
+  },
+  "tag": "3.1.2",
+  "message": "3.1.2 - 2018-08-14\n  * Revert the change to use user supplied object attributes exclusively. This is an inappropriate behavioural change for a MINOR version number increment.\n  * Fix inclusion of object attribute specifiers section in tpm2_create and tpm2_createprimary man pages.\n  * Use better object attribute defaults for authentication, preventing an empty password being used for authentication when a policy is set.\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJbc1KSAAoJEEm8rlRD//w0/cYP/01xLx+2/ylQjtXRb34z0fcU\nVqJmU8O1ABTVdR8IfnB5zhEhE3zznYZE9Sg7ofM5QW9bg5XjwbxIjz0v69mVeONA\nYn7LSwdUlC0Awt67i3Q5l0jWorE5OWa29/w3N9AMe9Z60Pn/kphFoRV7cD+PsnhI\nA6pLXLZYEsFIRXLsjzvwajLeFJVjjwxG1YbLWCxzIs9I3u294kgNoq3YkAYrN141\nQeCHqQRJYKPYgQHopVsH9Y431LA0I836ktM5TBUhzWUkasDZW6XHM3IXNNGkY8XL\nJuFlUDDI+84EeDf12J/lnfq0X1r7ytcvh76JXlwBv9wybTc6PvEw0a1/jd2m+hhI\n0k5JRZkE8Z6UWxPN9sWb84f1FPE+4Qb/pDUFKLMZEAr50o70LNQ/M2AT8LvKA6uG\nyOyBpa7ZftmhL1KVW4GZYvD/QNFF5EdpSxUiZDZSQe3uNUnoQr4N+5HW6HavS/sX\nfbT9sBhA257M3KzgU4BBpMnMpO3RJA6kAin9NIvBDrdSu2JKsAYHhObXQ/lQaQwJ\ns0tCcv/V3IFQkXw6BWEE3xmjsJUlMudXMVhKydaYwLTBo1/QazYhr5eHhUtH5cH/\nd++omuYtM1fZnHW0kdrnUph0+hwdpEOuEL9yv36IEQHgbxKR5sRfYn9/F+gAwc8W\nGyw5Cm1rduds12P+Zh5Y\n=/puF\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJbc1KSAAoJEEm8rlRD//w0/cYP/01xLx+2/ylQjtXRb34z0fcU\nVqJmU8O1ABTVdR8IfnB5zhEhE3zznYZE9Sg7ofM5QW9bg5XjwbxIjz0v69mVeONA\nYn7LSwdUlC0Awt67i3Q5l0jWorE5OWa29/w3N9AMe9Z60Pn/kphFoRV7cD+PsnhI\nA6pLXLZYEsFIRXLsjzvwajLeFJVjjwxG1YbLWCxzIs9I3u294kgNoq3YkAYrN141\nQeCHqQRJYKPYgQHopVsH9Y431LA0I836ktM5TBUhzWUkasDZW6XHM3IXNNGkY8XL\nJuFlUDDI+84EeDf12J/lnfq0X1r7ytcvh76JXlwBv9wybTc6PvEw0a1/jd2m+hhI\n0k5JRZkE8Z6UWxPN9sWb84f1FPE+4Qb/pDUFKLMZEAr50o70LNQ/M2AT8LvKA6uG\nyOyBpa7ZftmhL1KVW4GZYvD/QNFF5EdpSxUiZDZSQe3uNUnoQr4N+5HW6HavS/sX\nfbT9sBhA257M3KzgU4BBpMnMpO3RJA6kAin9NIvBDrdSu2JKsAYHhObXQ/lQaQwJ\ns0tCcv/V3IFQkXw6BWEE3xmjsJUlMudXMVhKydaYwLTBo1/QazYhr5eHhUtH5cH/\nd++omuYtM1fZnHW0kdrnUph0+hwdpEOuEL9yv36IEQHgbxKR5sRfYn9/F+gAwc8W\nGyw5Cm1rduds12P+Zh5Y\n=/puF\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5e2f1aafc58e60c5050f85147a14914561f28ad9\ntype commit\ntag 3.1.2\ntagger Joshua Lock <joshua.g.lock@intel.com> 1534284339 +0100\n\n3.1.2 - 2018-08-14\n  * Revert the change to use user supplied object attributes exclusively. This is an inappropriate behavioural change for a MINOR version number increment.\n  * Fix inclusion of object attribute specifiers section in tpm2_create and tpm2_createprimary man pages.\n  * Use better object attribute defaults for authentication, preventing an empty password being used for authentication when a policy is set.\n"
+  }
+}

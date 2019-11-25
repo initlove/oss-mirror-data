@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzc0OTI3Ojc3NWUzNmM1ZWIyYjNjN2ZmZmRhZTQ3MzljMWJlYzkwNWI5MmJmNDQ=",
+  "sha": "775e36c5eb2b3c7fffdae4739c1bec905b92bf44",
+  "url": "https://api.github.com/repos/erlang/otp/git/tags/775e36c5eb2b3c7fffdae4739c1bec905b92bf44",
+  "tagger": {
+    "name": "Erlang/OTP",
+    "email": "otp@erlang.org",
+    "date": "2019-06-03T09:35:00Z"
+  },
+  "object": {
+    "sha": "9127de8d0204755a7a95b674e77c6aa0583efce0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/erlang/otp/git/commits/9127de8d0204755a7a95b674e77c6aa0583efce0"
+  },
+  "tag": "OTP-21.3.8.3",
+  "message": "=== OTP-21.3.8.3 ===\n\nChanged Applications:\n- erts-10.3.5.2\n- kernel-6.3.1.1\n- ssl-9.2.3.2\n- stdlib-3.8.2.1\n\nUnchanged Applications:\n- asn1-5.0.8\n- common_test-1.17.2\n- compiler-7.3.2\n- crypto-4.4.2\n- debugger-4.2.6\n- dialyzer-3.3.2\n- diameter-2.2.1\n- edoc-0.10\n- eldap-1.2.7\n- erl_docgen-0.9\n- erl_interface-3.11.3\n- et-1.6.4\n- eunit-2.3.7\n- ftp-1.0.2\n- hipe-3.18.3\n- inets-7.0.7\n- jinterface-1.9.1\n- megaco-3.18.4\n- mnesia-4.15.6\n- observer-2.9\n- odbc-2.12.3\n- os_mon-2.4.7\n- otp_mibs-1.2.1\n- parsetools-2.1.8\n- public_key-1.6.6\n- reltool-0.7.8\n- runtime_tools-1.13.2\n- sasl-3.3\n- snmp-5.2.12\n- ssh-4.7.6\n- syntax_tools-2.1.7\n- tftp-1.0.1\n- tools-3.1.0.1\n- wx-1.8.7\n- xmerl-1.3.20.1\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

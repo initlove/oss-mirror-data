@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6MjE1YTQ4MjdmMTRiMTVmYjA1OWZiZmMzMDJkZmFiMTIyYjIzNmUxNg==",
+  "sha": "215a4827f14b15fb059fbfc302dfab122b236e16",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/215a4827f14b15fb059fbfc302dfab122b236e16",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2018-08-02T14:41:05Z"
+  },
+  "object": {
+    "sha": "09eaf153e28c25428fe3e63049f122cba10216d0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/09eaf153e28c25428fe3e63049f122cba10216d0"
+  },
+  "tag": "v0.11.1",
+  "message": "v0.11.1\n\nBug Fixes\n\n* Fix server to shutdown when persistent connections exist\n  (by @ciscorn in 5f71e29f for #180 in PR #181)\n\n* Fix a few bugs and crashes in UDP\n  (by @1st1 in e0b5ea03, 5eef2d5f for #190)\n\n* Fix FD leakage if spawning a subprocess fails\n  (by @1st1 in 4f6621eb for #185, #186)\n\n* Fix process handles leak when uv_spawn() fails\n  (by @1st1 in 92ea5179 for #187)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDQzNzU2MTk6MmFkNjg3OWYyZWQzNTk4ZDViYzUyZDg4NjZiOGE2OWNjYThlNTViMQ==",
+  "sha": "2ad6879f2ed3598d5bc52d8866b8a69cca8e55b1",
+  "url": "https://api.github.com/repos/XQuartz/xorg-server/git/tags/2ad6879f2ed3598d5bc52d8866b8a69cca8e55b1",
+  "tagger": {
+    "name": "Eric Anholt",
+    "email": "anholt@FreeBSD.org",
+    "date": "2006-07-07T23:09:01Z"
+  },
+  "object": {
+    "sha": "5c2560d47ff79afb96b1304d3995706403bfea35",
+    "type": "commit",
+    "url": "https://api.github.com/repos/XQuartz/xorg-server/git/commits/5c2560d47ff79afb96b1304d3995706403bfea35"
+  },
+  "tag": "xorg-server-1_1_0",
+  "message": "xserver 1.1.0 release tag (commit missing from CVS history)\n\nThis is a relocation of the original tag in the git repository, which was placed\nat the right commit along the wrong branch.  The difference between the contents\nat this tag and the 1.1.0 tarball is the updating of the version in configure.ac\nand the ChangeLog message for that change.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.3 (FreeBSD)\n\niD8DBQBErumaHUdvYGzw6vcRAi6+AJ4xR/G6oClcCF3joHrb6oeQvHr3TACgkLCA\nEcSLCzH+VCx3j9i8HJAn6yU=\n=5giM\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.3 (FreeBSD)\n\niD8DBQBErumaHUdvYGzw6vcRAi6+AJ4xR/G6oClcCF3joHrb6oeQvHr3TACgkLCA\nEcSLCzH+VCx3j9i8HJAn6yU=\n=5giM\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5c2560d47ff79afb96b1304d3995706403bfea35\ntype commit\ntag xorg-server-1_1_0\ntagger Eric Anholt <anholt@FreeBSD.org> 1152313741 -0700\n\nxserver 1.1.0 release tag (commit missing from CVS history)\n\nThis is a relocation of the original tag in the git repository, which was placed\nat the right commit along the wrong branch.  The difference between the contents\nat this tag and the 1.1.0 tarball is the updating of the version in configure.ac\nand the ChangeLog message for that change.\n"
+  }
+}

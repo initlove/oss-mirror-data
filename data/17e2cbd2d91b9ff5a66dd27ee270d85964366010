@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDAyMTc5MDQ6MTdlMmNiZDJkOTFiOWZmNWE2NmRkMjdlZTI3MGQ4NTk2NDM2NjAxMA==",
+  "sha": "17e2cbd2d91b9ff5a66dd27ee270d85964366010",
+  "url": "https://api.github.com/repos/swaywm/sway/git/tags/17e2cbd2d91b9ff5a66dd27ee270d85964366010",
+  "tagger": {
+    "name": "Drew DeVault",
+    "email": "sir@cmpwn.com",
+    "date": "2019-05-21T14:18:36Z"
+  },
+  "object": {
+    "sha": "e12b3667a94ce78adb974cb4f94d0ffbe58c4290",
+    "type": "commit",
+    "url": "https://api.github.com/repos/swaywm/sway/git/commits/e12b3667a94ce78adb974cb4f94d0ffbe58c4290"
+  },
+  "tag": "1.1-rc3",
+  "message": "sway 1.1-rc3\n\nThis is the third release candidate for sway 1.1. Only changes from sway\n1.1-rc2 are listed here.\n\nAlyssa Ross (1):\n      bar: fix segfault with missing or invalid bar id\n\nBrian Ashworth (1):\n      input/keyboard: attempt default keymap on failure\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

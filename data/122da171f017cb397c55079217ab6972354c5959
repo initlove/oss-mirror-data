@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDAyMTc5MDQ6MTIyZGExNzFmMDE3Y2IzOTdjNTUwNzkyMTdhYjY5NzIzNTRjNTk1OQ==",
+  "sha": "122da171f017cb397c55079217ab6972354c5959",
+  "url": "https://api.github.com/repos/swaywm/sway/git/tags/122da171f017cb397c55079217ab6972354c5959",
+  "tagger": {
+    "name": "Drew DeVault",
+    "email": "sir@cmpwn.com",
+    "date": "2019-06-03T13:54:58Z"
+  },
+  "object": {
+    "sha": "e1c4104d020d0cc3f07c618706fbddd05f4daf9a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/swaywm/sway/git/commits/e1c4104d020d0cc3f07c618706fbddd05f4daf9a"
+  },
+  "tag": "1.1.1",
+  "message": "sway 1.1.1\n\nThis release removes two commits which were mistakenly included in sway\n1.1, but are incompatible with wlroots 0.6.0.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

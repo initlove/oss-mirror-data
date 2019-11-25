@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDExMjYzMzI6Njg0YjEzNDM4NGIxMDFhM2YwZTljNDZkMWJlMGJhOWM2ZTIxYjU2MQ==",
+  "sha": "684b134384b101a3f0e9c46d1be0ba9c6e21b561",
+  "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/tags/684b134384b101a3f0e9c46d1be0ba9c6e21b561",
+  "tagger": {
+    "name": "William Roberts",
+    "email": "william.c.roberts@intel.com",
+    "date": "2017-12-04T16:19:18Z"
+  },
+  "object": {
+    "sha": "4ab96a4e76e498d826a8f67906bf30556effcf2b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/commits/4ab96a4e76e498d826a8f67906bf30556effcf2b"
+  },
+  "tag": "3.0-rc2",
+  "message": "3.0-rc2\n\nChanges:\n4ab96a4 man/tpm2_unseal: correct manpage\nab82b35 tpm2_createprimary: stop using strcasecmp\n1423b9d tpm2_evictcontrol: stop using strcasecmp\n0a81589 tpm2_encryptdecrypt: remove magic size calculation\n69769d4 tpm2_encryptdecrypt: drop -D YES|NO argument\n76a4c6e tpm2_rsaencrypt: fix file argument\n55f5400 tpm2_hash: properly serialize to disk\nfc4e06b tpm2_create: fix serialization of structures to disk\neae05cd tpm2_verifysignature: fix validation ticket serialization\nee0c477 tpm2_getmanufec: fix TPM2B_PUBLIC tss disk serialization\n49e0562 conversion: fix TPMT_SIGNATURE tss disk serialization\n8355849 tpm2_getpubak: fix serialization to disk with public\neeccb68 public: marshall the tss version of public\n48ed854 lib: mask TPM_RC to only get the bits set by the TPM\n11c7840 tpm2_listpersistent: add integration test\nd45afa8 tpm2_rc_decode: add support for Resource Manager level errors\n13a62dc lib: sort TPM2_RC entries for base response code values\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJaJXXFAAoJEG3i6QeOH1DB4bcP/0x5ueGiZInz32W14efN2Yd+\nhYU3ukJnWc+ZXuh0ETOmjz2KDKPkzVhNSKvd8s4VbmhsFjImZmTyP2lFKYiQPh/x\n2D0XpKzk07JVNxzgd2Lu+DMs4P9VAHQxBVzbZ8djYy2I3Q9XPozjFzhxBQbveVtf\nmSs7SE2Blr9AoAwA8qvBPFdJw1oSXRrigKgRMeERoOumkhNFa8XhWr1xAbXfpbCJ\nQoQVIZpEeVtibmCCWlT5CIeRlb9eA9ebWzVhBBmXw+e8JrAkyrUs0WJ+Zrgm30ER\nhhMnVB6OfxtzsJWDC0B6QjAnWnPFvc8yCGsCDeHZFs/fuTm0Ei3EDb8C9irjbLlv\nsluS3Pz0qb/q3LczUfCLGcy6TKuMtiMuHB24r/KrmvRSyVUiEdlJJnxAgFlf1aKv\n+HnmKtJFcYCZWtp/TFcI0MFOH9Nj5D6/7MSHzzebsGp5vVy6Lgy9yWJyS7D0kEbE\nyHJTZpGEMEXh0elXbkxneubdkowQQz1bQ+blYyfzbXdjfbWTds4xkHIsZBWKQ8Zj\nzYt3Ya64XLNvc2kVuubcSNRtzoiGDkVzxZlSOD1N4MaJppbd0RxXcaayMPk1aHDu\n/0TNWiSiQXgmvOvXAVGmnvo3GI6cI2xA6+dBGk1sRTwX5Gmg1HZQ7RUdfvtNm4PH\nh/L9xlI5Ww6d3VO2Nn0U\n=3Q5H\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJaJXXFAAoJEG3i6QeOH1DB4bcP/0x5ueGiZInz32W14efN2Yd+\nhYU3ukJnWc+ZXuh0ETOmjz2KDKPkzVhNSKvd8s4VbmhsFjImZmTyP2lFKYiQPh/x\n2D0XpKzk07JVNxzgd2Lu+DMs4P9VAHQxBVzbZ8djYy2I3Q9XPozjFzhxBQbveVtf\nmSs7SE2Blr9AoAwA8qvBPFdJw1oSXRrigKgRMeERoOumkhNFa8XhWr1xAbXfpbCJ\nQoQVIZpEeVtibmCCWlT5CIeRlb9eA9ebWzVhBBmXw+e8JrAkyrUs0WJ+Zrgm30ER\nhhMnVB6OfxtzsJWDC0B6QjAnWnPFvc8yCGsCDeHZFs/fuTm0Ei3EDb8C9irjbLlv\nsluS3Pz0qb/q3LczUfCLGcy6TKuMtiMuHB24r/KrmvRSyVUiEdlJJnxAgFlf1aKv\n+HnmKtJFcYCZWtp/TFcI0MFOH9Nj5D6/7MSHzzebsGp5vVy6Lgy9yWJyS7D0kEbE\nyHJTZpGEMEXh0elXbkxneubdkowQQz1bQ+blYyfzbXdjfbWTds4xkHIsZBWKQ8Zj\nzYt3Ya64XLNvc2kVuubcSNRtzoiGDkVzxZlSOD1N4MaJppbd0RxXcaayMPk1aHDu\n/0TNWiSiQXgmvOvXAVGmnvo3GI6cI2xA6+dBGk1sRTwX5Gmg1HZQ7RUdfvtNm4PH\nh/L9xlI5Ww6d3VO2Nn0U\n=3Q5H\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4ab96a4e76e498d826a8f67906bf30556effcf2b\ntype commit\ntag 3.0-rc2\ntagger William Roberts <william.c.roberts@intel.com> 1512404358 -0800\n\n3.0-rc2\n\nChanges:\n4ab96a4 man/tpm2_unseal: correct manpage\nab82b35 tpm2_createprimary: stop using strcasecmp\n1423b9d tpm2_evictcontrol: stop using strcasecmp\n0a81589 tpm2_encryptdecrypt: remove magic size calculation\n69769d4 tpm2_encryptdecrypt: drop -D YES|NO argument\n76a4c6e tpm2_rsaencrypt: fix file argument\n55f5400 tpm2_hash: properly serialize to disk\nfc4e06b tpm2_create: fix serialization of structures to disk\neae05cd tpm2_verifysignature: fix validation ticket serialization\nee0c477 tpm2_getmanufec: fix TPM2B_PUBLIC tss disk serialization\n49e0562 conversion: fix TPMT_SIGNATURE tss disk serialization\n8355849 tpm2_getpubak: fix serialization to disk with public\neeccb68 public: marshall the tss version of public\n48ed854 lib: mask TPM_RC to only get the bits set by the TPM\n11c7840 tpm2_listpersistent: add integration test\nd45afa8 tpm2_rc_decode: add support for Resource Manager level errors\n13a62dc lib: sort TPM2_RC entries for base response code values\n"
+  }
+}

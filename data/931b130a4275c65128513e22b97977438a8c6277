@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6OTMxYjEzMGE0Mjc1YzY1MTI4NTEzZTIyYjk3OTc3NDM4YThjNjI3Nw==",
+  "sha": "931b130a4275c65128513e22b97977438a8c6277",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/931b130a4275c65128513e22b97977438a8c6277",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2016-05-07T01:05:15Z"
+  },
+  "object": {
+    "sha": "db68cec9e1139dc18c0642ad68290772335b3ce1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/db68cec9e1139dc18c0642ad68290772335b3ce1"
+  },
+  "tag": "v0.4.14",
+  "message": "v0.4.14\n- add_signal_handler will raise a similar error if the user\n  tries to add a handler for SIGKILL;\n\n- few small fixes.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

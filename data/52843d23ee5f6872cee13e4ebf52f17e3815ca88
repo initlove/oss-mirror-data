@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDAyMTc5MDQ6NTI4NDNkMjNlZTVmNjg3MmNlZTEzZTRlYmY1MmYxN2UzODE1Y2E4OA==",
+  "sha": "52843d23ee5f6872cee13e4ebf52f17e3815ca88",
+  "url": "https://api.github.com/repos/swaywm/sway/git/tags/52843d23ee5f6872cee13e4ebf52f17e3815ca88",
+  "tagger": {
+    "name": "Drew DeVault",
+    "email": "sir@cmpwn.com",
+    "date": "2019-03-11T15:01:07Z"
+  },
+  "object": {
+    "sha": "3ede5983b9f39e5f110c5540d136945bc66d2fc0",
+    "type": "commit",
+    "url": "https://api.github.com/repos/swaywm/sway/git/commits/3ede5983b9f39e5f110c5540d136945bc66d2fc0"
+  },
+  "tag": "1.0",
+  "message": "sway 1.0\n\nBen Challenor (1):\n      Make raw keysyms take precedence over translated\n\nBrian Ashworth (10):\n      ipc: change {,deco_}rect to match i3\n      ipc: fix rect for stacked children\n      ipc: fix fullscreen deco_rect\n      ipc: describe libinput device configuration\n      output_damage_whole_container: damage subsurfaces\n      damage: remove output_damage_view\n      arrange: use int not size_t for title offsets\n      fullscreen: init floating on disable without size\n      detect_proprietary: use strncmp\n      sway_view_child: add listener for view unmap\n\nDrew DeVault (1):\n      Update language in sway.desktop & sway(1)\n\nIan Fan (3):\n      stringop.c: remove unused functions\n      stringop.c: clean up headers\n      stringop.c: refactor a few functions\n\nJeff Peeler (1):\n      fix \"directive argument is null\" errors\n\nPeter Grayson (2):\n      Add -p/--pretty option to swaymsg\n      Add missing swaymsg completions\n\nRyan Dwyer (2):\n      Don't send button events to surfaces when dragging or resizing\n      Fix click behaviour\n\nemersion (4):\n      Set DISPLAY after initializing Xwayland\n      Fix container_parent_layout for scratchpad windows\n      Fix crash in cmd_workspace when layer surface has focus\n      meson: use pkg-config var for scdoc path\n\nminus (1):\n      Fix crash when moving window to scratchpad\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

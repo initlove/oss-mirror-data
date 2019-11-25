@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY1MDI6M2ExYzc0NDA0ZDU0NGQyMGMwZDFmMGI5YzA3MmI0NzFhMjBiMDRjMA==",
+  "sha": "3a1c74404d544d20c0d1f0b9c072b471a20b04c0",
+  "url": "https://api.github.com/repos/git/git/git/tags/3a1c74404d544d20c0d1f0b9c072b471a20b04c0",
+  "tagger": {
+    "name": "Junio C Hamano",
+    "email": "gitster@pobox.com",
+    "date": "2014-11-20T23:12:15Z"
+  },
+  "object": {
+    "sha": "7214aea37915ee2c4f6369eb9dea520aec7d855b",
+    "type": "blob",
+    "url": "https://api.github.com/repos/git/git/git/blobs/7214aea37915ee2c4f6369eb9dea520aec7d855b"
+  },
+  "tag": "junio-gpg-pub",
+  "message": "GPG key to sign git.git archive\n\nThis blob contains the GPG public key I use to sign git.git archive.\n\nTo use it to verify tags I signed, do:\n\n  $ git-cat-file blob junio-gpg-pub | gpg --import\n\nto import it into your keyring, and then\n\n  $ git-tag -v $tag_to_be_verified\n\nThe fingerprint information for the key is as follows:\n\n$ gpg --fingerprint -k 96AFE6CB\\!\npub   4096R/713660A7 2011-10-01\n      Key fingerprint = 96E0 7AF2 5771 9559 80DA  D100 20D0 4E5A\n      7136 60A7\nuid                  Junio C Hamano <gitster@pobox.com>\nuid                  Junio C Hamano <junio@pobox.com>\nuid                  Junio C Hamano <jch@google.com>\nsub   4096R/833262C4 2011-10-01\nsub   4096R/96AFE6CB 2011-10-03 [expires: 2015-09-21]\nsub   4096R/B3F7CAC9 2014-09-20 [expires: 2017-09-19]\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUbnV7AAoJELC16IaWr+bLvjYP+wSOG8rp1y77ExHDJQj7HBLm\n9PVQIb70tkiBxAGUpVNNbaoJQBuMAgFdT4Baj8CIo2jdzDeeqbjtcdy/XsHZ3IMl\n7VRm9cI8Veh5nPc9U3z6XYTMmDhxxSsnCONQECYYFEJ5QGhnwkpOUTDYPRmnghWu\n4JSDyWX0RLNXVPZkoP/zwVbv74Exx1Gz24p6fPlc4iETrKNHzzSM07CPKlAmXRHT\nOzh/NXfiE3OZSFDUNKkzHQJHtyFEPpVw/aUIyObvOcSYy6ZxQ+56U9h24D1mW8kY\nw8BPdhzQ5d9nB/zpX83/cqsv6IXsK62ls8Qj51MfNM902D0pghVBInjR2xekWx+b\nAO5VMaRiC+hgHvyzAM2nXuDfTUssd9ryYIx/plfw0gcKZ41S3HzHTiXYqRqd4O4I\nlkFlWL11no7od+T9T2nap5wfdLliQpMxxZFLsqH67LzAvHxg/NjtIMXDxUfo++tV\nqBR153FxcJX8AOcQo3zY7WotbmgS+8JPron3XvjXNOlz9HAxR2+orxhEC3pTVfeC\n/aEZzs+ub9pV6ZQzVdfHzRZbtiN4Zw2ycW+EoXvlUCwNy72efaBRpKjQl4zJHKfD\nLAwljdrenm8X6RjBKd/vPyTPSHx1AtSoXqseVw8Ly+qqoXnhsh2N0Xe2Ozx3D0lk\nPtscHvD+diDMRLbLgK/k\n=Sxgg\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJUbnV7AAoJELC16IaWr+bLvjYP+wSOG8rp1y77ExHDJQj7HBLm\n9PVQIb70tkiBxAGUpVNNbaoJQBuMAgFdT4Baj8CIo2jdzDeeqbjtcdy/XsHZ3IMl\n7VRm9cI8Veh5nPc9U3z6XYTMmDhxxSsnCONQECYYFEJ5QGhnwkpOUTDYPRmnghWu\n4JSDyWX0RLNXVPZkoP/zwVbv74Exx1Gz24p6fPlc4iETrKNHzzSM07CPKlAmXRHT\nOzh/NXfiE3OZSFDUNKkzHQJHtyFEPpVw/aUIyObvOcSYy6ZxQ+56U9h24D1mW8kY\nw8BPdhzQ5d9nB/zpX83/cqsv6IXsK62ls8Qj51MfNM902D0pghVBInjR2xekWx+b\nAO5VMaRiC+hgHvyzAM2nXuDfTUssd9ryYIx/plfw0gcKZ41S3HzHTiXYqRqd4O4I\nlkFlWL11no7od+T9T2nap5wfdLliQpMxxZFLsqH67LzAvHxg/NjtIMXDxUfo++tV\nqBR153FxcJX8AOcQo3zY7WotbmgS+8JPron3XvjXNOlz9HAxR2+orxhEC3pTVfeC\n/aEZzs+ub9pV6ZQzVdfHzRZbtiN4Zw2ycW+EoXvlUCwNy72efaBRpKjQl4zJHKfD\nLAwljdrenm8X6RjBKd/vPyTPSHx1AtSoXqseVw8Ly+qqoXnhsh2N0Xe2Ozx3D0lk\nPtscHvD+diDMRLbLgK/k\n=Sxgg\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 7214aea37915ee2c4f6369eb9dea520aec7d855b\ntype blob\ntag junio-gpg-pub\ntagger Junio C Hamano <gitster@pobox.com> 1416525135 -0800\n\nGPG key to sign git.git archive\n\nThis blob contains the GPG public key I use to sign git.git archive.\n\nTo use it to verify tags I signed, do:\n\n  $ git-cat-file blob junio-gpg-pub | gpg --import\n\nto import it into your keyring, and then\n\n  $ git-tag -v $tag_to_be_verified\n\nThe fingerprint information for the key is as follows:\n\n$ gpg --fingerprint -k 96AFE6CB\\!\npub   4096R/713660A7 2011-10-01\n      Key fingerprint = 96E0 7AF2 5771 9559 80DA  D100 20D0 4E5A\n      7136 60A7\nuid                  Junio C Hamano <gitster@pobox.com>\nuid                  Junio C Hamano <junio@pobox.com>\nuid                  Junio C Hamano <jch@google.com>\nsub   4096R/833262C4 2011-10-01\nsub   4096R/96AFE6CB 2011-10-03 [expires: 2015-09-21]\nsub   4096R/B3F7CAC9 2014-09-20 [expires: 2017-09-19]\n"
+  }
+}

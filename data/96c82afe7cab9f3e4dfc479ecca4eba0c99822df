@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY1MDI6OTZjODJhZmU3Y2FiOWYzZTRkZmM0NzllY2NhNGViYTBjOTk4MjJkZg==",
+  "sha": "96c82afe7cab9f3e4dfc479ecca4eba0c99822df",
+  "url": "https://api.github.com/repos/git/git/git/tags/96c82afe7cab9f3e4dfc479ecca4eba0c99822df",
+  "tagger": {
+    "name": "Junio C Hamano",
+    "email": "junkio@cox.net",
+    "date": "2006-04-04T21:14:55Z"
+  },
+  "object": {
+    "sha": "72fdfb50f721460e4cdff16fbe9c72d4ce6c668c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/git/git/git/commits/72fdfb50f721460e4cdff16fbe9c72d4ce6c668c"
+  },
+  "tag": "v1.2.5",
+  "message": "GIT 1.2.5\n\nThis is primarily to fix pack-objects (hence cloning) on platforms\nwith IO system calls that needs to be explicitly told to restart\nupon signal.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.2.2 (GNU/Linux)\n\niD8DBQBEMuI0wMbZpPMRm5oRAlWVAKCN4kXWtCvKbJEL33bMTwdKNcPghgCfTs7m\niDlGJJe6tML7Wjo+CB07uJs=\n=V9nh\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.2.2 (GNU/Linux)\n\niD8DBQBEMuI0wMbZpPMRm5oRAlWVAKCN4kXWtCvKbJEL33bMTwdKNcPghgCfTs7m\niDlGJJe6tML7Wjo+CB07uJs=\n=V9nh\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 72fdfb50f721460e4cdff16fbe9c72d4ce6c668c\ntype commit\ntag v1.2.5\ntagger Junio C Hamano <junkio@cox.net> 1144185295 -0700\n\nGIT 1.2.5\n\nThis is primarily to fix pack-objects (hence cloning) on platforms\nwith IO system calls that needs to be explicitly told to restart\nupon signal.\n"
+  }
+}

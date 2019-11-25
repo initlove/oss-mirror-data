@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY1NzMyNDE6NTljM2FlZDg5YjlhMTc4MDQ1MjhiNDhhMGJmZDc0ZWIwNGZlM2MxZA==",
+  "sha": "59c3aed89b9a17804528b48a0bfd74eb04fe3c1d",
+  "url": "https://api.github.com/repos/hyperledger/fabric/git/tags/59c3aed89b9a17804528b48a0bfd74eb04fe3c1d",
+  "tagger": {
+    "name": "David Enyeart",
+    "email": "enyeart@us.ibm.com",
+    "date": "2018-03-15T22:06:44Z"
+  },
+  "object": {
+    "sha": "523f644b909d5699fbd992a011e7ed6031e96a9a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/hyperledger/fabric/git/commits/523f644b909d5699fbd992a011e7ed6031e96a9a"
+  },
+  "tag": "v1.1.0",
+  "message": "v1.1.0 March 15, 2018\n---------------------\n\nRelease Notes\n-------------\nThe v1.1 release includes all of the features delivered in v1.1.0-preview\nand v1.1.0-alpha.\n\nAdditionally, there are feature improvements, bug fixes, documentation and test\ncoverage improvements, UX improvements based on user feedback and changes to address a\nvariety of static scan findings (unused code, static security scanning, spelling,\nlinting and more).\n\nUpdated to Go version 1.9.2.\nUpdated baseimage version to 0.4.6.\n\nKnown Vulnerabilities\n---------------------\nnone\n\nResolved Vulnerabilities\n------------------------\nhttps://jira.hyperledger.org/browse/FAB-4824\nhttps://jira.hyperledger.org/browse/FAB-5406\n\nKnown Issues & Workarounds\n--------------------------\nThe fabric-ccenv image which is used to build chaincode, currently includes\nthe github.com/hyperledger/fabric/core/chaincode/shim (\"shim\") package.\nThis is convenient, as it provides the ability to package chaincode\nwithout the need to include the \"shim\". However, this may cause issues in future\nreleases (and/or when trying to use packages which are included by the \"shim\").\n\nIn order to avoid any issues, users are advised to manually vendor the \"shim\"\npackage with their chaincode prior to using the peer CLI for packaging and/or\nfor installing chaincode.\n\nPlease refer to https://jira.hyperledger.org/browse/FAB-5177 for more details,\nand kindly be aware that given the above, we may end up changing the\nfabric-ccenv in the future.\n\nChange Log\n----------\nhttps://github.com/hyperledger/fabric/blob/master/CHANGELOG.md#v110\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

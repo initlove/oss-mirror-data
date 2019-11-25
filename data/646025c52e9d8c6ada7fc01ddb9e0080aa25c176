@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDAyMTc5MDQ6NjQ2MDI1YzUyZTlkOGM2YWRhN2ZjMDFkZGI5ZTAwODBhYTI1YzE3Ng==",
+  "sha": "646025c52e9d8c6ada7fc01ddb9e0080aa25c176",
+  "url": "https://api.github.com/repos/swaywm/sway/git/tags/646025c52e9d8c6ada7fc01ddb9e0080aa25c176",
+  "tagger": {
+    "name": "Drew DeVault",
+    "email": "sir@cmpwn.com",
+    "date": "2019-03-04T17:51:19Z"
+  },
+  "object": {
+    "sha": "e8eab3b82584290e8e22808c3af30e45f701c6e5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/swaywm/sway/git/commits/e8eab3b82584290e8e22808c3af30e45f701c6e5"
+  },
+  "tag": "1.0-rc5",
+  "message": "sway 1.0-rc5\n\nSway 1.0-rc5 contains 19 changes from 7 contributors since 1.0-rc4, and only\ncontains bug fixes.\n\nThe recommended wlroots version to use with this sway release is 0.4.\n\nPackage maintainers: please do not package this release.\n\nBrian Ashworth (7):\n      execute_command: do not strip qoutes for cmd_mode\n      Add sway-ipc.7.scd to document IPC protocol\n      sway-ipc.7: clarify window_rect omits decorations\n      floating_maximum_size: change default behavior\n      render_floating: skip fullscreen floaters\n      sway.1.scd: document environment vars set by sway\n      meson: update scdoc requirement to >= 1.9.2\n\nIan Fan (1):\n      tray: fix pixmap colors\n\nNoam Preil (1):\n      Fixes crash in spawn_swaybg (closes #3733)\n\nRouven Czerwinski (3):\n      cursor: remove unused node assignement\n      cursor: intitialize sx and sy to zero\n      config: remove double assignement to result in get_output_config\n\nRyan Dwyer (1):\n      Allow concurrent clicks\n\nemersion (5):\n      Set minimum wlroots version\n      Print Meson features\n      Add output dpms to manpage\n      seat: don't send button release when not pressed\n      meson: check scdoc version\n\nhugbubby (1):\n      Minor fix of code duplication.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

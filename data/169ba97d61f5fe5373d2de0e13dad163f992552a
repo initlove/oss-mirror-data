@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6MTY5YmE5N2Q2MWY1ZmU1MzczZDJkZTBlMTNkYWQxNjNmOTkyNTUyYQ==",
+  "sha": "169ba97d61f5fe5373d2de0e13dad163f992552a",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/169ba97d61f5fe5373d2de0e13dad163f992552a",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2019-04-25T15:06:16Z"
+  },
+  "object": {
+    "sha": "7a0f8fb7672f666f3c5bc0a9ccd8389880cbc492",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/7a0f8fb7672f666f3c5bc0a9ccd8389880cbc492"
+  },
+  "tag": "v0.13.0rc1",
+  "message": "New Features\n\n* Implement `Server.start_serving()` and related APIs.\n  (by @jlaine in 7a4f00a3)\n\n* Make `Server` an asynchronous context manager.\n  (by @jlaine in d6c67e7a for #221)\n\nPerformance\n\n* Start using high-performance uv_udp_t handle again.\n  (by @1st1 in c2b65bc8)\n\n* Make address validation faster in `udp.sendto()`.\n  (by @1st1 in 46c5e9eb)\n\nBuild\n\n* Upgrade to libuv v1.28.0.\n  (by @1st1 in c2b65bc8)\n\n* Use `manylinux-2010`.  This means we no longer provide\n  32bit builds for Linux.\n  (by @1st1 in 3174b7d3)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

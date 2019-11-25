@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjAxNDkyOTozOGQyY2M4YjNlNTY5MWVmMjAzZjgzZWJmYmE5YjYyMGEyYzU5MjUy",
+  "sha": "38d2cc8b3e5691ef203f83ebfba9b620a2c59252",
+  "url": "https://api.github.com/repos/scikit-image/scikit-image/git/tags/38d2cc8b3e5691ef203f83ebfba9b620a2c59252",
+  "tagger": {
+    "name": "Stefan van der Walt",
+    "email": "stefan@sun.ac.za",
+    "date": "2015-03-05T19:58:39Z"
+  },
+  "object": {
+    "sha": "aa964efd599cf47c3345a2123b1686959f2ee87c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scikit-image/scikit-image/git/commits/aa964efd599cf47c3345a2123b1686959f2ee87c"
+  },
+  "tag": "0.11.1",
+  "message": "Point release to allow new OSX wheels upload to PyPi\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJU+LWAAAoJEOX+vKSgNN1lTBUIAIt+cnOkS5gmY+JJOKwwpFLy\ncVLRHFpm97w4H8C717BwgQ4+M7ZjCjZrsd0Et9zE5hwWpg09mr0WKDaCQfzj+B1f\n8Mpzx29nV1nzQh6ICjVQgou19LeI01UA4POYpzbeLyXYgw3NImw+if7V8GJDRRbi\n2vVRtMY3DEKSryhPTtNaHQMyuAJi6rOTL8QFOJQp9RtmkC1V7PVlVID0ngI/qhUN\n1cD8RdiHdxv9+Mv9uORs5uqh/CXbKScN2JpUaVafYN7xXJA9ghJn9DcAInpn7TDQ\nmu+IAzhWwXWTTnGx9+oFE1Xev2FcxXToJOhM/EKIT6xqzcDAdW9onmFrMbFIC30=\n=s2nK\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJU+LWAAAoJEOX+vKSgNN1lTBUIAIt+cnOkS5gmY+JJOKwwpFLy\ncVLRHFpm97w4H8C717BwgQ4+M7ZjCjZrsd0Et9zE5hwWpg09mr0WKDaCQfzj+B1f\n8Mpzx29nV1nzQh6ICjVQgou19LeI01UA4POYpzbeLyXYgw3NImw+if7V8GJDRRbi\n2vVRtMY3DEKSryhPTtNaHQMyuAJi6rOTL8QFOJQp9RtmkC1V7PVlVID0ngI/qhUN\n1cD8RdiHdxv9+Mv9uORs5uqh/CXbKScN2JpUaVafYN7xXJA9ghJn9DcAInpn7TDQ\nmu+IAzhWwXWTTnGx9+oFE1Xev2FcxXToJOhM/EKIT6xqzcDAdW9onmFrMbFIC30=\n=s2nK\n-----END PGP SIGNATURE-----\n",
+    "payload": "object aa964efd599cf47c3345a2123b1686959f2ee87c\ntype commit\ntag 0.11.1\ntagger Stefan van der Walt <stefan@sun.ac.za> 1425585519 -0800\n\nPoint release to allow new OSX wheels upload to PyPi\n"
+  }
+}

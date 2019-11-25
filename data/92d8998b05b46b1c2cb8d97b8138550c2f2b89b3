@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6OTJkODk5OGIwNWI0NmIxYzJjYjhkOTdiODEzODU1MGMyZjJiODliMw==",
+  "sha": "92d8998b05b46b1c2cb8d97b8138550c2f2b89b3",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/92d8998b05b46b1c2cb8d97b8138550c2f2b89b3",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2017-11-26T22:43:19Z"
+  },
+  "object": {
+    "sha": "6033f09422c05f7cb9ec390b14fa4f320a40d208",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/6033f09422c05f7cb9ec390b14fa4f320a40d208"
+  },
+  "tag": "v0.9.0",
+  "message": "v0.9.0\n\nTCP & UDP\n\n* `transport.get_extra_info('socket')` now returns a socket-like\n  object.  It supports socket methods like `setsockopts()`, but\n  prohibits `send()`, `recv()`, `close()` and any other calls that\n  can interfere with the transport that ultimately owns this file\n  descriptor.\n\n* `TCP_NODELAY` is used by default for all TCP connections.\n\n* Make `Transport.resume_reading()` and `pause_reading()` idempotent.\n  This will match asyncio in Python 3.7.  Issue #93.\n\n* `loop.create_server()` keeps a strong reference to the `Server`\n  object it returns until its closed.  Fixes #81.\n\n* Fix `loop.connect_accepted_socket()` to return correct SSL\n  transport.\n\n* The UDP transport layer was rewritten from scratch.  Now it uses\n  `uv_poll_*` libuv APIs, instead of high-level `uv_udp_*` ones.\n  This could mean a slight performance regression, and will be\n  reverted when we port uvloop to Windows.  For now this is\n  the only viable option to make uvloop fully compatible with asyncio.\n  When libuv gets an API to connect UDP sockets, `uv_udp_connect()`,\n  we'll be able to switch to a better UDP implementation.  Issue #109.\n\n* `UDPTransport.sendto(data, addr)` will raise an exception if\n  `addr` requires a name resolution.  Issue #91.\n\nLow-level sockets\n\n* `loop.add_reader()` and `loop.add_writer()` accept file-like\n  objects.  Issue #97.\n\n* `loop.sock_connect()` supports 4 element address tuples for\n  IPv6 sockets.  Issue #99.\n\n* Protect sockets from closing while they are in use by\n  `loop.sock_*()` methods.  Close all reader/writer sockets the\n  loop owns when it closes.  Issue #100.\n\nOther event loop APIs\n\n* `loop.run_until_complete()` cleans up done callbacks in all\n  situations.  By @jimmylai in 804364cd, dc3b77b9.\n  See also Python issue: https://bugs.python.org/issue30423.\n\n* New `uv_loop_fork()` libuv API is used in `loop.subprocess_shell()`\n  and `loop.subprocess_exec()` making them more stable.  Issue #39.\n\n* `loop.call_later()` accepts infinite time `float('inf')`.\n  Issue #102.\n\n* `loop.subprocess_exec()` accepts `pathlib.Path` objects for its\n  `cwd` parameter.  Issue #90.\n\n* Support `pathlib.Path` objects in `loop.create_unix_connection()`\n  and `loop.create_unix_server()`.\n\n* Try removing existing stale Unix socket paths in\n  `loop.create_unix_server()`.\n\n* `ascii` encoding is tried before encoding with `idna`.\n  Issue #95.\n\n* Fix `slow_callback_duration` repr in warnings for callback handles\n  and Tasks.  Issue #103.\n\nPython 3.7\n\nSome APIs that will be available in Python 3.7 in vanilla asyncio,\nbut can be used with uvloop today.\n\n* Implement `.cancelled()` method for callback and timer handles.\n\n* Add `Transport.is_reading()`.\n\n* Implement `loop.sock_recv_into()`.\n\nMiscellaneous\n\n* Drop custom uvloop Future and Task implementations.  This means\n  that there will be a tiny performance regression for Python 3.5\n  deploys.\n\n* Limit stack traces in debug mode to make it faster.\n\n* `signal.siginterrupt` is now used by signals machinery to let\n  system calls to be repeated by default, instead of raising an\n  `EINTR`.\n\nBuild\n\n* libuv in uvloop has been upgraded from v1.11.0 to v1.17.0.  Aside\n  from bug fixes and performance improvements, libuv survives\n  `fork`.\n\n* `LIBUV_CONFIGURE_HOST` environment variable can be used to\n  cross-compile uvloop/libuv.  By @cmcqueen, for issue #104.\n\n* uvloop is now compatible with Python 3.7.0a1.  Issue #110.\n\n* Cyhton was upgraded from 0.25.2 to 0.27.3.\n\n* uvloop binary is linked with `pthread`.  By @frederikaalund,\n  for issue #87.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

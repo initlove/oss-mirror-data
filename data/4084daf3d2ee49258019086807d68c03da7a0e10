@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6NDA4NGRhZjNkMmVlNDkyNTgwMTkwODY4MDdkNjhjMDNkYTdhMGUxMA==",
+  "sha": "4084daf3d2ee49258019086807d68c03da7a0e10",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/4084daf3d2ee49258019086807d68c03da7a0e10",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2016-05-21T20:59:23Z"
+  },
+  "object": {
+    "sha": "756d0c1e17fe7fa209e2fbe302d5c517e185f89e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/756d0c1e17fe7fa209e2fbe302d5c517e185f89e"
+  },
+  "tag": "v0.4.26",
+  "message": "v0.4.26\n\n- loop.create_future() and loop.create_task() now return\n  optimized versions of Future and Task, which are much\n  faster.  The performance improvements on some benchmarks\n  are up to 35% faster.\n\n- create_unix_server() (similarly to asyncio) now doesn't\n  clenup the UNIX socket file after server is closed.\n\n- loop.time() forces libuv loop to always update its\n  internal time, so uvloop now behaves exactly like\n  asyncio.\n\n- In debug mode callback handles now store tracebacks\n  to where they were created.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

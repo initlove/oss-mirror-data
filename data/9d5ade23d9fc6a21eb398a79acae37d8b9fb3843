@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDExMjYzMzI6OWQ1YWRlMjNkOWZjNmEyMWViMzk4YTc5YWNhZTM3ZDhiOWZiMzg0Mw==",
+  "sha": "9d5ade23d9fc6a21eb398a79acae37d8b9fb3843",
+  "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/tags/9d5ade23d9fc6a21eb398a79acae37d8b9fb3843",
+  "tagger": {
+    "name": "Joshua Lock",
+    "email": "joshua.g.lock@intel.com",
+    "date": "2018-07-16T19:50:01Z"
+  },
+  "object": {
+    "sha": "2eb9d884c0e2dbdf670867b9c82c3d1a8cbacb94",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/commits/2eb9d884c0e2dbdf670867b9c82c3d1a8cbacb94"
+  },
+  "tag": "3.1.2-rc0",
+  "message": "  * Revert the change to use user supplied object attributes exclusively. This is an inappropriate behavioural change for a MINOR version number increment.\n-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJbTPdkAAoJEEm8rlRD//w0iYsQAJNvIF3VIhj5+zB331908UgM\nEA+BYFPy9FXCcndP8mgW2OWG/zBQdI1crANEb48UkkY0TVBrZCtqkBNAfGTagYrm\nnHpPcbJsc7mKtpEL5rQDgdPhqXhfhxXeKo+6VdRl1VzVm4AuvBbucH3xYWohfYQn\nAp/5k/5VaJM18nrgkyMUUJCB06JK+kKIQPb7GS/qyZJCE0pzImAgRIdqnaKM8y3I\nUNlADw80UP1dk8tHrUwTauTkJQYpg4Je/CgLFwmO6WYMLnCILzhjA3NG7ag6h5+Z\n32M0x/t6CRvDyMbhk7BqbnFCe78Tc4SI9zmCuvSviBGpyIJZZPULh3hGwCCrUHGt\n9eoOQUnXqJ9eLmjQ4lHzjVfvaqAMVF4oo+7oDxWfXhvv31s7SIsKb246b9GVkm7y\nQqdWcgbng1kmEusLWYkWo0j275T2digzni3TdPKvocUPh9gVO0m2iDruUIjiDu1n\nCXdJX24KlvO1i2SUrt2RY+whsBMSib9EtPLeX4kq/6gExPh57myHWvfmpQFN4Ldw\nBUCoy+2DcbevEtFr5E/hw2glFeHQOb10hU+TIxoi0F6Mw+l7F3mpxu0HTPmS0Z6v\nrAe7TPTP0NCueL8lE9hJH4E/zjVxd1itBiURuH/9SHgKsrwVyg0MCCgDoUTnLfRI\nz1Qb3HmPM6raMfZLDOf/\n=UnQ0\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIcBAABAgAGBQJbTPdkAAoJEEm8rlRD//w0iYsQAJNvIF3VIhj5+zB331908UgM\nEA+BYFPy9FXCcndP8mgW2OWG/zBQdI1crANEb48UkkY0TVBrZCtqkBNAfGTagYrm\nnHpPcbJsc7mKtpEL5rQDgdPhqXhfhxXeKo+6VdRl1VzVm4AuvBbucH3xYWohfYQn\nAp/5k/5VaJM18nrgkyMUUJCB06JK+kKIQPb7GS/qyZJCE0pzImAgRIdqnaKM8y3I\nUNlADw80UP1dk8tHrUwTauTkJQYpg4Je/CgLFwmO6WYMLnCILzhjA3NG7ag6h5+Z\n32M0x/t6CRvDyMbhk7BqbnFCe78Tc4SI9zmCuvSviBGpyIJZZPULh3hGwCCrUHGt\n9eoOQUnXqJ9eLmjQ4lHzjVfvaqAMVF4oo+7oDxWfXhvv31s7SIsKb246b9GVkm7y\nQqdWcgbng1kmEusLWYkWo0j275T2digzni3TdPKvocUPh9gVO0m2iDruUIjiDu1n\nCXdJX24KlvO1i2SUrt2RY+whsBMSib9EtPLeX4kq/6gExPh57myHWvfmpQFN4Ldw\nBUCoy+2DcbevEtFr5E/hw2glFeHQOb10hU+TIxoi0F6Mw+l7F3mpxu0HTPmS0Z6v\nrAe7TPTP0NCueL8lE9hJH4E/zjVxd1itBiURuH/9SHgKsrwVyg0MCCgDoUTnLfRI\nz1Qb3HmPM6raMfZLDOf/\n=UnQ0\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2eb9d884c0e2dbdf670867b9c82c3d1a8cbacb94\ntype commit\ntag 3.1.2-rc0\ntagger Joshua Lock <joshua.g.lock@intel.com> 1531770601 +0100\n\n  * Revert the change to use user supplied object attributes exclusively. This is an inappropriate behavioural change for a MINOR version number increment.\n"
+  }
+}

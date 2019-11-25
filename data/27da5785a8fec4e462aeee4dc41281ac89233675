@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY1MDI6MjdkYTU3ODVhOGZlYzRlNDYyYWVlZTRkYzQxMjgxYWM4OTIzMzY3NQ==",
+  "sha": "27da5785a8fec4e462aeee4dc41281ac89233675",
+  "url": "https://api.github.com/repos/git/git/git/tags/27da5785a8fec4e462aeee4dc41281ac89233675",
+  "tagger": {
+    "name": "Junio C Hamano",
+    "email": "junkio@cox.net",
+    "date": "2006-09-30T05:56:25Z"
+  },
+  "object": {
+    "sha": "82ca50556471eadfc3212cb478161c3da5c4d02a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/git/git/git/commits/82ca50556471eadfc3212cb478161c3da5c4d02a"
+  },
+  "tag": "v1.4.2.2",
+  "message": "GIT 1.4.2.2\n\nFixes since 1.4.2.1\n\n - \"git-am --skip\" did not work without its stdin connected to tty.\n\n - \"git-diff -B\" produced complete-rewrite diff without usual a/ and b/\n   prefix by mistake.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.5 (GNU/Linux)\n\niD8DBQBFHgemwMbZpPMRm5oRAuvIAJ4h1KlVxX8s1gF4ePjUEk2AAD+ElQCfV+Jt\nsFlJsRBXwu/dpK5K2fPtiDI=\n=LAbt\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.5 (GNU/Linux)\n\niD8DBQBFHgemwMbZpPMRm5oRAuvIAJ4h1KlVxX8s1gF4ePjUEk2AAD+ElQCfV+Jt\nsFlJsRBXwu/dpK5K2fPtiDI=\n=LAbt\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 82ca50556471eadfc3212cb478161c3da5c4d02a\ntype commit\ntag v1.4.2.2\ntagger Junio C Hamano <junkio@cox.net> 1159595785 -0700\n\nGIT 1.4.2.2\n\nFixes since 1.4.2.1\n\n - \"git-am --skip\" did not work without its stdin connected to tty.\n\n - \"git-diff -B\" produced complete-rewrite diff without usual a/ and b/\n   prefix by mistake.\n"
+  }
+}

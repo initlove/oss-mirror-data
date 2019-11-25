@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQxMzkzMjo4MGY5MGYxZTBkNzc4ZTI5OTY2MmY0MTdjOTgzYjk4YTE2OTc5N2Q3",
+  "sha": "80f90f1e0d778e299662f417c983b98a169797d7",
+  "url": "https://api.github.com/repos/john-kurkowski/tldextract/git/tags/80f90f1e0d778e299662f417c983b98a169797d7",
+  "tagger": {
+    "name": "John Kurkowski",
+    "email": "john.kurkowski@gmail.com",
+    "date": "2013-10-10T16:28:56Z"
+  },
+  "object": {
+    "sha": "9a387704bcebc0a840c4696823b8fdd67639beeb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/john-kurkowski/tldextract/git/commits/9a387704bcebc0a840c4696823b8fdd67639beeb"
+  },
+  "tag": "1.2.2",
+  "message": "Unforeseeable errors with fetching the PSL url should no longer crash tldextract, but simply be logged, while falling back to the bundled PSL.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

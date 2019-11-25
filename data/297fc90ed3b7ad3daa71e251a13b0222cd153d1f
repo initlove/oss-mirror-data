@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6Mjk3ZmM5MGVkM2I3YWQzZGFhNzFlMjUxYTEzYjAyMjJjZDE1M2QxZg==",
+  "sha": "297fc90ed3b7ad3daa71e251a13b0222cd153d1f",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/297fc90ed3b7ad3daa71e251a13b0222cd153d1f",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2018-05-30T20:21:24Z"
+  },
+  "object": {
+    "sha": "33cb17e02a83b810e06aa68c8e0579cbc9cca6e5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/33cb17e02a83b810e06aa68c8e0579cbc9cca6e5"
+  },
+  "tag": "v0.10.0",
+  "message": "v0.10.0\n\nNew Features\n------------\n\n* Support Python 3.7.\n  (by @pfreixes in c3a5ec8e for #138)\n\n* Implement PEP 567 support (contextvars module) for Python 3.7.\n  (by @1st1 in 2a4fab44, 878e4163, and b2bdaae3 for #155)\n\n* Add uvloop's own version of `asyncio/sslproto.py`. SSL is now ~50% faster.\n  (by @1st1 in 4d912643)\n\n* Convert Future-returning loop methods to coroutines.\n  (by @1st1 in 7384b22f)\n\n* Allow file objects to be passed to `loop.subprocess*` functions.\n  (by @1st1 in f0830901 for #136)\n\n* Make signals processing more reliable.\n  (by @1st1 in 6e03e513)\n\n* Prohibit adding a signal handler for `SIGCHLD`.\n  (by @1st1 in cd53b7f5 for #156)\n\n* Add `uvloop.__version__`.\n  (by @1st1 in 740cb7f3 for #137)\n\nBug Fixes\n---------\n\n* Upgrade to Cython 0.28.2.\n  (by @1st1 in 98bdb553 for #122)\n\n* Update libuv from v1.17.0 to v1.20.3.\n  (by @1st1 in 572524a6)\n\n* Make sure UDP handles are cleaned-up properly.\n  (by @1st1 in 13f63e00)\n\n* Fix `subprocess.close()` to let its processes die gracefully.\n  (by @1st1 in a78e4d27 and a455af3d for #128)\n\n* Fix `sock_connect()` to resolve addresses for correct socket family.\n  (by @1st1 in ce2bd4fb for #139)\n\n* Fix a race condition in SSL handshake.\n  (by @1st1 in 447e124f)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

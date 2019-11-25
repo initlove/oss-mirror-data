@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY1NzMyNDE6NjQ5MmI3NmE3ZmU2ZTRkMmI2ZjRmZDc0NDQ3YWJlN2Y0ZDFlYjVjNw==",
+  "sha": "6492b76a7fe6e4d2b6f4fd74447abe7f4d1eb5c7",
+  "url": "https://api.github.com/repos/hyperledger/fabric/git/tags/6492b76a7fe6e4d2b6f4fd74447abe7f4d1eb5c7",
+  "tagger": {
+    "name": "Gari Singh",
+    "email": "gari.r.singh@gmail.com",
+    "date": "2017-09-01T22:45:24Z"
+  },
+  "object": {
+    "sha": "5fb31ddd24d6441b0d499b9bb211632800044512",
+    "type": "commit",
+    "url": "https://api.github.com/repos/hyperledger/fabric/git/commits/5fb31ddd24d6441b0d499b9bb211632800044512"
+  },
+  "tag": "v1.0.2",
+  "message": "v1.0.2 August 31, 2017\n------------------------\n\nRelease Notes\n-------------\nBug fixes, documentation and test coverage improvements, UX improvements\nbased on user feedback and changes to address a variety of static scan\nfindings (unused code, static security scanning, spelling, linting and more).\n\nKnown Vulnerabilities\n---------------------\nnone\n\nResolved Vulnerabilities\n------------------------\nhttps://jira.hyperledger.org/browse/FAB-5753\nhttps://jira.hyperledger.org/browse/FAB-5899\n\nKnown Issues & Workarounds\n--------------------------\nThe fabric-ccenv image which is used to build chaincode, currently includes\nthe github.com/hyperledger/fabric/core/chaincode/shim (\"shim\") package.\nThis is convenient, as it provides the ability to package chaincode\nwithout the need to include the \"shim\". However, this may cause issues in future\nreleases (and/or when trying to use packages which are included by the \"shim\").\n\nIn order to avoid any issues, users are advised to manually vendor the \"shim\"\npackage with their chaincode prior to using the peer CLI for packaging and/or\nfor installing chaincode.\n\nPlease refer to https://jira.hyperledger.org/browse/FAB-5177 for more details,\nand kindly be aware that given the above, we may end up changing the\nfabric-ccenv in the future.\n\nChange Log\n----------\nhttps://github.com/hyperledger/fabric/blob/master/CHANGELOG.md#v102\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

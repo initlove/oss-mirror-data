@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6ODI4NDhjZjFjY2ZmMDU4YWIxMzk1ODhkMzNhZmVmMDU1MWVmZDg5Zg==",
+  "sha": "82848cf1ccff058ab139588d33afef0551efd89f",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/82848cf1ccff058ab139588d33afef0551efd89f",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2017-09-12T19:07:54Z"
+  },
+  "object": {
+    "sha": "b6e825569edbb5676fbc8732e27ce19657a55b1a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/b6e825569edbb5676fbc8732e27ce19657a55b1a"
+  },
+  "tag": "v0.8.1",
+  "message": "v0.8.1\n\n* Fix create_datagram_endpoint to work with AF_INET6 and no local_addr\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDExMjYzMzI6NTgzMWI2ZThkYTU5OWJiNTI5NzQ2MWYyYTU0YjM1NDY3NmNhOTY0OQ==",
+  "sha": "5831b6e8da599bb5297461f2a54b354676ca9649",
+  "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/tags/5831b6e8da599bb5297461f2a54b354676ca9649",
+  "tagger": {
+    "name": "Javier Martinez Canillas",
+    "email": "javierm@redhat.com",
+    "date": "2018-08-03T16:15:49Z"
+  },
+  "object": {
+    "sha": "5a6ea5bc32df293761717803d7de2fb996a3cc97",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/commits/5a6ea5bc32df293761717803d7de2fb996a3cc97"
+  },
+  "tag": "3.0.5-rc0",
+  "message": "3.0.5-rc0 - 2018-08-03\n  * Fix inclusion of object attribute specifiers section in tpm2_create and tpm2_createprimary man pages.\n  * Use better object attribute defaults for authentication, preventing an empty password being used for authentication when a policy is set.\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEE117XqiTlDNZFxvRXx1HlkNY/PWkFAltkgA0ACgkQx1HlkNY/\nPWlH2RAAmD+agqzjFCjxLlmUHvF6xZhd8SDS2v1Ebwy3wsTTE9+oFNvXjLNRICUb\n+xDY7nFjTP0YTceEi/OK9RFP5Vk4I7kJgApQur+Qq3Gs55hJWl99Skz/9syVEMLL\n6gwdY6j31LA4X2uyYDWDjbZTilQmRL49ihFAY+F4aO0EjvuJHzRNyYfQdo6OoaSU\nMWPNnP7E+4EQVvvlnXPvQmSX2uIYsFIOiRqih0EXCvVNT6QoiD0D2/suv2a6cwJS\nUyK5ag94PCsZZWqzgEtwqMhncll/Ejb5UUJSMmofxRuQslWkZvrXvEmHZEP8dEiM\nScwgbOLzTbiCGWOTD3GcDzdeuiTuecUoqmdq2hQ0+eDFY1/UO7WH2GaWbdjLB0+c\nMsLhor36M9uhnzoSUFyPRXddwIF4dNGdMv8SpG5fB1TkPehtglvkvzISQmSAvnnQ\nzTySmf11ojUr/eErQGwHQLPRjQPGRWOw0gmYkjYAXas18NMKqZPj/glB6sPv1O9B\nogNF6eoy0TCPThRAMgadYqzSlqU2e1F6Lflx01544TymDrqoO1ePlRatNToQh2+I\na1tvFZ4H8qGQBHmMP0baOPp96H3bAnp4lJKWxJ2ik0eAkqpIH0bqKYbR0Qjzca+H\n8czEkqqHBafEUkG9O6s20oDODclCQ7BydTOa+SkOzZsZ/tfqAho=\n=8+nZ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEE117XqiTlDNZFxvRXx1HlkNY/PWkFAltkgA0ACgkQx1HlkNY/\nPWlH2RAAmD+agqzjFCjxLlmUHvF6xZhd8SDS2v1Ebwy3wsTTE9+oFNvXjLNRICUb\n+xDY7nFjTP0YTceEi/OK9RFP5Vk4I7kJgApQur+Qq3Gs55hJWl99Skz/9syVEMLL\n6gwdY6j31LA4X2uyYDWDjbZTilQmRL49ihFAY+F4aO0EjvuJHzRNyYfQdo6OoaSU\nMWPNnP7E+4EQVvvlnXPvQmSX2uIYsFIOiRqih0EXCvVNT6QoiD0D2/suv2a6cwJS\nUyK5ag94PCsZZWqzgEtwqMhncll/Ejb5UUJSMmofxRuQslWkZvrXvEmHZEP8dEiM\nScwgbOLzTbiCGWOTD3GcDzdeuiTuecUoqmdq2hQ0+eDFY1/UO7WH2GaWbdjLB0+c\nMsLhor36M9uhnzoSUFyPRXddwIF4dNGdMv8SpG5fB1TkPehtglvkvzISQmSAvnnQ\nzTySmf11ojUr/eErQGwHQLPRjQPGRWOw0gmYkjYAXas18NMKqZPj/glB6sPv1O9B\nogNF6eoy0TCPThRAMgadYqzSlqU2e1F6Lflx01544TymDrqoO1ePlRatNToQh2+I\na1tvFZ4H8qGQBHmMP0baOPp96H3bAnp4lJKWxJ2ik0eAkqpIH0bqKYbR0Qjzca+H\n8czEkqqHBafEUkG9O6s20oDODclCQ7BydTOa+SkOzZsZ/tfqAho=\n=8+nZ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 5a6ea5bc32df293761717803d7de2fb996a3cc97\ntype commit\ntag 3.0.5-rc0\ntagger Javier Martinez Canillas <javierm@redhat.com> 1533312949 +0200\n\n3.0.5-rc0 - 2018-08-03\n  * Fix inclusion of object attribute specifiers section in tpm2_create and tpm2_createprimary man pages.\n  * Use better object attribute defaults for authentication, preventing an empty password being used for authentication when a policy is set.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDExMjYzMzI6ODI4ZTEyMWMwZjBiYmJkOWNhMmI2YmZlZDM1OGFhMDc1ZGY2ZjljNw==",
+  "sha": "828e121c0f0bbbd9ca2b6bfed358aa075df6f9c7",
+  "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/tags/828e121c0f0bbbd9ca2b6bfed358aa075df6f9c7",
+  "tagger": {
+    "name": "William Roberts",
+    "email": "william.c.roberts@intel.com",
+    "date": "2017-10-30T15:01:04Z"
+  },
+  "object": {
+    "sha": "6525dd10b02520cee9df502b06a4df03a8021dc2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/commits/6525dd10b02520cee9df502b06a4df03a8021dc2"
+  },
+  "tag": "2.1.1",
+  "message": "v2.1.1 - 2017-10-30:\n* Potential memory leak fix when tcti/sapi initialization fails.\n* tpm2_listpcrs: use TPM2_GetCapability to determine PCRs to read\n* listpcrs: remove one redundant call to tpm get cap\n* listpcrs: fix for unsupported/disabled alg in -L\n* build: use supported comment to suppress GCC7 fallthrough warning\n* kdfa: allow to build with OpenSSL 1.1.x\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJZ9z7LAAoJEG3i6QeOH1DBaPsP/0v5n1KFKg9HGJkqDMB1LzCY\n+lR06NT2m5mCx+9mzEh1sr1MNiUgvaWBrAIhpuJ4JO7S+wGjQSedgE580iacfiNw\nQlmwT0lZHhC6WAM+kxy2LyxnSrb7CDEKx5wDdBPrMZo/le8gh9Ui/CaV/kSfP7Br\nwnaM7QwvuNlq0TKX2QTuHxLJgzGuNf+9qz+Qje2TT6n4YqCGoM0S9jTMXj/U1tU3\njqag1wi4NpwaWA9tPeRIjW25+S/AafBLhOouJp7sEiVgH7guywkmq2YmMt6KBNlG\nt+1T12iwp6vg5TmxaDGX6JrLO9yjaQQ2RDAcIKUNTGyqMj0y2z00hvVelzZaPA7L\nivLfUj3/8kjZlq9TNy+LAhs5nO+hImm6ohmzgNZwhxEwPp8/LnMb/F7Ox9+GE0at\nK36+t3/MJTp/YTITqTAiFJTgncpNUPMmu4acRIFu9YzyMc1qy6ljJBYg+O/nTpLr\nnPZ5U+rAmsOb2iuZi1/CUwuE2qb0fa7z9UYGFFQQGLgvbnK2qqSLgoVbrD1YXSB3\n8VPBIQTirNATC1wUaaRALQItCPS1BubYba1wTFStz7M1wTUMrg+oIP+3eOAXe9pv\nZJHQTXm4zoDhBlLnAAFzJGnCSFJCXbxlcLXO9sCbYldWdvled1PWDUCO9e6YmzUw\nU+CoKrz899gzpKL3vhNx\n=aTfY\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJZ9z7LAAoJEG3i6QeOH1DBaPsP/0v5n1KFKg9HGJkqDMB1LzCY\n+lR06NT2m5mCx+9mzEh1sr1MNiUgvaWBrAIhpuJ4JO7S+wGjQSedgE580iacfiNw\nQlmwT0lZHhC6WAM+kxy2LyxnSrb7CDEKx5wDdBPrMZo/le8gh9Ui/CaV/kSfP7Br\nwnaM7QwvuNlq0TKX2QTuHxLJgzGuNf+9qz+Qje2TT6n4YqCGoM0S9jTMXj/U1tU3\njqag1wi4NpwaWA9tPeRIjW25+S/AafBLhOouJp7sEiVgH7guywkmq2YmMt6KBNlG\nt+1T12iwp6vg5TmxaDGX6JrLO9yjaQQ2RDAcIKUNTGyqMj0y2z00hvVelzZaPA7L\nivLfUj3/8kjZlq9TNy+LAhs5nO+hImm6ohmzgNZwhxEwPp8/LnMb/F7Ox9+GE0at\nK36+t3/MJTp/YTITqTAiFJTgncpNUPMmu4acRIFu9YzyMc1qy6ljJBYg+O/nTpLr\nnPZ5U+rAmsOb2iuZi1/CUwuE2qb0fa7z9UYGFFQQGLgvbnK2qqSLgoVbrD1YXSB3\n8VPBIQTirNATC1wUaaRALQItCPS1BubYba1wTFStz7M1wTUMrg+oIP+3eOAXe9pv\nZJHQTXm4zoDhBlLnAAFzJGnCSFJCXbxlcLXO9sCbYldWdvled1PWDUCO9e6YmzUw\nU+CoKrz899gzpKL3vhNx\n=aTfY\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6525dd10b02520cee9df502b06a4df03a8021dc2\ntype commit\ntag 2.1.1\ntagger William Roberts <william.c.roberts@intel.com> 1509375664 -0700\n\nv2.1.1 - 2017-10-30:\n* Potential memory leak fix when tcti/sapi initialization fails.\n* tpm2_listpcrs: use TPM2_GetCapability to determine PCRs to read\n* listpcrs: remove one redundant call to tpm get cap\n* listpcrs: fix for unsupported/disabled alg in -L\n* build: use supported comment to suppress GCC7 fallthrough warning\n* kdfa: allow to build with OpenSSL 1.1.x\n"
+  }
+}

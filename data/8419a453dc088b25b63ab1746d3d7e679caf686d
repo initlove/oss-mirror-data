@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY1MDI6ODQxOWE0NTNkYzA4OGIyNWI2M2FiMTc0NmQzZDdlNjc5Y2FmNjg2ZA==",
+  "sha": "8419a453dc088b25b63ab1746d3d7e679caf686d",
+  "url": "https://api.github.com/repos/git/git/git/tags/8419a453dc088b25b63ab1746d3d7e679caf686d",
+  "tagger": {
+    "name": "Junio C Hamano",
+    "email": "junkio@cox.net",
+    "date": "2006-07-25T01:37:45Z"
+  },
+  "object": {
+    "sha": "a0764cb838c2f1885fb58ca794c21523fb05c825",
+    "type": "commit",
+    "url": "https://api.github.com/repos/git/git/git/commits/a0764cb838c2f1885fb58ca794c21523fb05c825"
+  },
+  "tag": "v1.4.1.1",
+  "message": "GIT 1.4.1.1\n\nThis is an emergency fix to put the server side update for the\nproblem of git-daemon timing out on a big transfer everybody seems\nto be having.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.3 (GNU/Linux)\n\niD8DBQBExXXswMbZpPMRm5oRArd4AJ0R1v63LieAlF1G8JPXD2s/CFSxBgCghOso\n08dMqWkXg9VFBldqu7QWG5I=\n=0zlp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.3 (GNU/Linux)\n\niD8DBQBExXXswMbZpPMRm5oRArd4AJ0R1v63LieAlF1G8JPXD2s/CFSxBgCghOso\n08dMqWkXg9VFBldqu7QWG5I=\n=0zlp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a0764cb838c2f1885fb58ca794c21523fb05c825\ntype commit\ntag v1.4.1.1\ntagger Junio C Hamano <junkio@cox.net> 1153791465 -0700\n\nGIT 1.4.1.1\n\nThis is an emergency fix to put the server side update for the\nproblem of git-daemon timing out on a big transfer everybody seems\nto be having.\n"
+  }
+}

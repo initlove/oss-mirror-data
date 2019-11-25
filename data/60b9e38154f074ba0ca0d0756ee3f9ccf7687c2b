@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6NjBiOWUzODE1NGYwNzRiYTBjYTBkMDc1NmVlM2Y5Y2NmNzY4N2MyYg==",
+  "sha": "60b9e38154f074ba0ca0d0756ee3f9ccf7687c2b",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/60b9e38154f074ba0ca0d0756ee3f9ccf7687c2b",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2018-08-07T18:29:35Z"
+  },
+  "object": {
+    "sha": "43bfbaeec417d1d3e67a2224455e5e59cb0cc666",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/43bfbaeec417d1d3e67a2224455e5e59cb0cc666"
+  },
+  "tag": "v0.10.3",
+  "message": "v0.10.3\n\nNote: this is a bugfix release for 0.10.x branch. It's recommended\nto upgrade to 0.11.x.\n\nBug Fixes\n\n* Fix memory leak in contextvars support.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

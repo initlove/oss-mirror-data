@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY1NzMyNDE6NmQ1YTBiNTIxMWJiYjc1Y2E5YWNjNmZlZGM1Njg5Y2Y4ZTlkYjU4NA==",
+  "sha": "6d5a0b5211bbb75ca9acc6fedc5689cf8e9db584",
+  "url": "https://api.github.com/repos/hyperledger/fabric/git/tags/6d5a0b5211bbb75ca9acc6fedc5689cf8e9db584",
+  "tagger": {
+    "name": "Gari Singh",
+    "email": "gari.r.singh@gmail.com",
+    "date": "2017-12-06T17:04:24Z"
+  },
+  "object": {
+    "sha": "014d6befcf67f3787bb3d67ff34e1a98dc6aec5f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/hyperledger/fabric/git/commits/014d6befcf67f3787bb3d67ff34e1a98dc6aec5f"
+  },
+  "tag": "v1.0.5",
+  "message": "v1.0.5 December 4, 2017\n------------------------\n\nRelease Notes\n-------------\nBug fixes, documentation and test coverage improvements, UX improvements\nbased on user feedback and changes to address a variety of static scan\nfindings (unused code, static security scanning, spelling, linting and more).\n\nKnown Vulnerabilities\n---------------------\nnone\n\nResolved Vulnerabilities\n------------------------\nnone\n\nKnown Issues & Workarounds\n--------------------------\nThe fabric-ccenv image which is used to build chaincode, currently includes\nthe github.com/hyperledger/fabric/core/chaincode/shim (\"shim\") package.\nThis is convenient, as it provides the ability to package chaincode\nwithout the need to include the \"shim\". However, this may cause issues in future\nreleases (and/or when trying to use packages which are included by the \"shim\").\n\nIn order to avoid any issues, users are advised to manually vendor the \"shim\"\npackage with their chaincode prior to using the peer CLI for packaging and/or\nfor installing chaincode.\n\nPlease refer to https://jira.hyperledger.org/browse/FAB-5177 for more details,\nand kindly be aware that given the above, we may end up changing the\nfabric-ccenv in the future.\n\nChange Log\n----------\nhttps://github.com/hyperledger/fabric/blob/v1.0.5/CHANGELOG.md#v105\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

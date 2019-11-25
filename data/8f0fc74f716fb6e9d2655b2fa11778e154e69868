@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6OGYwZmM3NGY3MTZmYjZlOWQyNjU1YjJmYTExNzc4ZTE1NGU2OTg2OA==",
+  "sha": "8f0fc74f716fb6e9d2655b2fa11778e154e69868",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/8f0fc74f716fb6e9d2655b2fa11778e154e69868",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2016-05-09T02:52:31Z"
+  },
+  "object": {
+    "sha": "291f3cd9d4bba77c3fa74d61f7471f04ba8ff736",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/291f3cd9d4bba77c3fa74d61f7471f04ba8ff736"
+  },
+  "tag": "v0.4.15",
+  "message": "v0.4.15\n\n- Fix exceptions to be raised instead of being logged in\n  some cases (to be consistent with asyncio);\n\n- loop.create_server now fails if it can't bind to the\n  address.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY1MDI6NDNjN2Q0MGJhOWM2MDRmZGU0OGZjMGY0ZjQ3YzJmODQ5OGQwOWVkNQ==",
+  "sha": "43c7d40ba9c604fde48fc0f4f47c2f8498d09ed5",
+  "url": "https://api.github.com/repos/git/git/git/tags/43c7d40ba9c604fde48fc0f4f47c2f8498d09ed5",
+  "tagger": {
+    "name": "Junio C Hamano",
+    "email": "gitster@pobox.com",
+    "date": "2008-07-16T16:50:44Z"
+  },
+  "object": {
+    "sha": "fedc7d5458bd8e2e9589567041228a24a8d7eb4c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/git/git/git/commits/fedc7d5458bd8e2e9589567041228a24a8d7eb4c"
+  },
+  "tag": "v1.4.4.5",
+  "message": "GIT 1.4.4.5\n\nThis adds minimum support to read the version 2 pack idx file format\nto the ancient 1.4.4.X codebase.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.6 (GNU/Linux)\n\niD8DBQBIfibnwMbZpPMRm5oRApTOAJ9OO40MI3pf8tk8C4PQFybmFQOXTACeMLTD\nDPla6ubG4/+z8vfW/wbEOFU=\n=w3w0\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.6 (GNU/Linux)\n\niD8DBQBIfibnwMbZpPMRm5oRApTOAJ9OO40MI3pf8tk8C4PQFybmFQOXTACeMLTD\nDPla6ubG4/+z8vfW/wbEOFU=\n=w3w0\n-----END PGP SIGNATURE-----\n",
+    "payload": "object fedc7d5458bd8e2e9589567041228a24a8d7eb4c\ntype commit\ntag v1.4.4.5\ntagger Junio C Hamano <gitster@pobox.com> 1216227044 -0700\n\nGIT 1.4.4.5\n\nThis adds minimum support to read the version 2 pack idx file format\nto the ancient 1.4.4.X codebase.\n"
+  }
+}

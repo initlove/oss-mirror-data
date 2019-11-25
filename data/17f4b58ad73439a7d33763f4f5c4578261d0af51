@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDAyMTc5MDQ6MTdmNGI1OGFkNzM0MzlhN2QzMzc2M2Y0ZjVjNDU3ODI2MWQwYWY1MQ==",
+  "sha": "17f4b58ad73439a7d33763f4f5c4578261d0af51",
+  "url": "https://api.github.com/repos/swaywm/sway/git/tags/17f4b58ad73439a7d33763f4f5c4578261d0af51",
+  "tagger": {
+    "name": "Drew DeVault",
+    "email": "sir@cmpwn.com",
+    "date": "2019-08-27T04:46:22Z"
+  },
+  "object": {
+    "sha": "be138dab4419d3e76a7742428d9ec85bce06116b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/swaywm/sway/git/commits/be138dab4419d3e76a7742428d9ec85bce06116b"
+  },
+  "tag": "1.2",
+  "message": "sway 1.2\n\nBrian Ashworth (4):\n      input/keyboard: send released only if pressed sent\n      sway.5: remove mention of floating_scroll\n      cmd_move: fix move to scratchpad hidden container\n      cmd_mode: don't reset to default after subcommand\n\nDark (1):\n      Update titlebar borders to match i3's current behavior.\n\nDrew DeVault (3):\n      Add _incr_version to contrib/\n      chmod +x contrib/_incr_version\n      Further refinements to _incr_version script\n\nLaurent Bonnans (1):\n      ipc: collapse multi-container command results\n\nMichael Aquilina (1):\n      Fix formatting for title_format in man 5 sway Use explicit linebreaks to make scdoc use a separate line for each entry listed\n\nasdfjkluiop (1):\n      A layer-shell will only be focused if it is non-null\n\nlbonn (1):\n      Allow moving a container hidden in scratchpad\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}
