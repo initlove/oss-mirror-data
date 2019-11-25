@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc0ODk5NDc6ZDY0ZmIxNGNkZjcyM2VkNTllZGY5OGU3OTQwNGQzOWQ0YjRjODE0Mg==",
+  "sha": "d64fb14cdf723ed59edf98e79404d39d4b4c8142",
+  "url": "https://api.github.com/repos/openstack/neutron-fwaas/git/tags/d64fb14cdf723ed59edf98e79404d39d4b4c8142",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-28T14:46:13Z"
+  },
+  "object": {
+    "sha": "4c05f1f6617b49f6cc2dfb6c976e93c2a54d41bf",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-fwaas/git/commits/4c05f1f6617b49f6cc2dfb6c976e93c2a54d41bf"
+  },
+  "tag": "12.0.2",
+  "message": "neutron-fwaas 12.0.2 release\n\nmeta:version: 12.0.2\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Commit: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Change-Id: I539ea7967ed4dafcf661b73033a5be1a40805d06\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl22/zUZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2HkeDACDK/S9ZJpnyE8PCOLSydWW\nlJ5VjcSBeRZaAPtiSLFP9goRWMY1fv42zTeftui8inxf67mA1voZlJNSt3HvfaX4\nXzZ7msSip0p86TxB+PhXt1wZgMvcc7LYCE5d4+GEkdKd0mKm8bZwURHPwOK7menr\n+zrHBFtxlvW6kWYcIXAvqKrRERQQrEWTnHGW/p8GqAdqGeqrUNgVI6CEnMddQBqP\nSsyJXFssrqeDaXk9NpEM639b0mNvsNKtXY5O5wtxRPQEf1EVkrPeGIf/aKyxH/c7\nHcWy4t43GZmRiFIDHE+Mx9eiH6DkbTn20DiR7H1twbBdrKAwkeDUC7eQepzXF3fv\ntUMn15Q3kCezDuPWnwl9lIrJyJO8Tpr0vucKNfWh6qVn6RU3Pftj9JWUG4b4/25r\nt85BVk9my3HzWDcbpvhi2e5amvOp9ealxmrB4clWKKqFCKuLraomT3z8UAL59tzt\nERoF47woxHukPQlUiAQsNGbuNydikOnDH3PBT1fGl0Q=\n=EQmJ\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl22/zUZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2HkeDACDK/S9ZJpnyE8PCOLSydWW\nlJ5VjcSBeRZaAPtiSLFP9goRWMY1fv42zTeftui8inxf67mA1voZlJNSt3HvfaX4\nXzZ7msSip0p86TxB+PhXt1wZgMvcc7LYCE5d4+GEkdKd0mKm8bZwURHPwOK7menr\n+zrHBFtxlvW6kWYcIXAvqKrRERQQrEWTnHGW/p8GqAdqGeqrUNgVI6CEnMddQBqP\nSsyJXFssrqeDaXk9NpEM639b0mNvsNKtXY5O5wtxRPQEf1EVkrPeGIf/aKyxH/c7\nHcWy4t43GZmRiFIDHE+Mx9eiH6DkbTn20DiR7H1twbBdrKAwkeDUC7eQepzXF3fv\ntUMn15Q3kCezDuPWnwl9lIrJyJO8Tpr0vucKNfWh6qVn6RU3Pftj9JWUG4b4/25r\nt85BVk9my3HzWDcbpvhi2e5amvOp9ealxmrB4clWKKqFCKuLraomT3z8UAL59tzt\nERoF47woxHukPQlUiAQsNGbuNydikOnDH3PBT1fGl0Q=\n=EQmJ\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 4c05f1f6617b49f6cc2dfb6c976e93c2a54d41bf\ntype commit\ntag 12.0.2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572273973 +0000\n\nneutron-fwaas 12.0.2 release\n\nmeta:version: 12.0.2\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Commit: Slawek Kaplonski <skaplons@redhat.com>\nmeta:release:Change-Id: I539ea7967ed4dafcf661b73033a5be1a40805d06\nmeta:release:Code-Review+1: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

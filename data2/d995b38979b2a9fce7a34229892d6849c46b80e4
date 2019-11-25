@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjE2MzE1Mjg6ZDk5NWIzODk3OWIyYTlmY2U3YTM0MjI5ODkyZDY4NDljNDZiODBlNA==",
+  "sha": "d995b38979b2a9fce7a34229892d6849c46b80e4",
+  "url": "https://api.github.com/repos/braintree/braintree_android/git/tags/d995b38979b2a9fce7a34229892d6849c46b80e4",
+  "tagger": {
+    "name": "lkorth",
+    "email": "luke@lukekorth.com",
+    "date": "2017-03-31T00:16:15Z"
+  },
+  "object": {
+    "sha": "bcec6cbafc262f799930ec28fcd6c970f5b91458",
+    "type": "commit",
+    "url": "https://api.github.com/repos/braintree/braintree_android/git/commits/bcec6cbafc262f799930ec28fcd6c970f5b91458"
+  },
+  "tag": "2.5.0",
+  "message": "2.5.0\n\n* Add option to set display name in `PayPalRequest`\n* Add option to set landing page type in `PayPalRequest`\n* Add option to enable PayPal Credit in `PayPalRequest`\n* Add Visa Checkout as a payment method\n* Prevent dependency resolution of alpha major versions of support libraries\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

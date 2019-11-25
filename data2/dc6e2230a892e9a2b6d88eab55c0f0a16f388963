@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTpkYzZlMjIzMGE4OTJlOWEyYjZkODhlYWI1NWMwZjBhMTZmMzg4OTYz",
+  "sha": "dc6e2230a892e9a2b6d88eab55c0f0a16f388963",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/dc6e2230a892e9a2b6d88eab55c0f0a16f388963",
+  "tagger": {
+    "name": "Fedor Indutny",
+    "email": "fedor@indutny.com",
+    "date": "2014-06-27T00:41:00Z"
+  },
+  "object": {
+    "sha": "115281a1058c4034d5c5ccedacb667fe3f6327ea",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/115281a1058c4034d5c5ccedacb667fe3f6327ea"
+  },
+  "tag": "v0.11.26",
+  "message": "2014.06.28, Version 0.11.26 (Unstable)\n\nChanges since version 0.11.25:\n\n* windows: add VT100 codes ?25l and ?25h (JD Ballard)\n\n* windows: add invert ANSI (7 / 27) emulation (JD Ballard)\n\n* unix: fix handling error on UDP socket creation (Saúl Ibarra Corretgé)\n\n* unix, windows: getnameinfo implementation (Rasmus Pedersen)\n\n* heap: fix `heap_remove()` (Fedor Indutny)\n\n* unix, windows: fix parsing scoped IPv6 addresses (Saúl Ibarra Corretgé)\n\n* windows: fix handling closed socket while poll handle is closing (Saúl Ibarra\n  Corretgé)\n\n* thread: barrier functions (Ben Noordhuis)\n\n* windows: fix PYTHON environment variable usage (Jay Satiro)\n\n* unix, windows: return system error on EAI_SYSTEM (Saúl Ibarra Corretgé)\n\n* windows: fix handling closed socket while poll handle is closing (Saúl Ibarra\n  Corretgé)\n\n* unix: don't run i/o callbacks after prepare callbacks (Saúl Ibarra Corretgé)\n\n* windows: add tty unicode support for input (Peter Atashian)\n\n* header: introduce `uv_loop_size()` (Andrius Bentkus)\n\n* darwin: invoke `mach_timebase_info` only once (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJTrL2cAAoJEPsOEJWxeXmZktEP/0J3Vsx60uVD1Eae24KNzL7K\nnp5JQIq9OKK+7ktgo0bpKfaRUvAFsKz8a/rw/Z0JBBfWHXHlUop8k0ZEmdhAJlUG\nN6jBTTP4JzNINqNycpqE0xgAb6UI92BozTtbi0U5zfrbQYH4KbiM7Yqboc5LNqER\nijs6hwffp4Or0DymPLMeNVgYJPSlErTy+EdRLDJMMIMCbz1pDRXXiuG3vyAfe/Hp\nZ4wLZ3k8NT1hoegTclBKqggoZp46dUxhZ+GGD5qNunsl62d/17N3xJT74q+JIWM0\n3RldEmXCKrK2Zz6ddrASoVtzFSGThj8kl3wSrI5n4HyvUYIpNDF99UmBwF4ea4c4\nXTlVnJMwiteC7zNTJtzbeZFJMqXLmmF5nglQhN8fd5wmmPdfSQg+KKbFF+OiAS4z\n0y03pvvnZt1dsex5zjthB6KDuSgrolmQtOMh77OohXUVrogSYo/u7VttXMK/stGg\ntyaFeyi7ZfocHBSVlspBa9x5Cf86NnC6j2JrIVpuip4Zd8og/2wXijJIRpkM4wcX\n4weRlgRg0AnYtaNWAJvX5Bfmt+3BbXFsZnwZ1q82+cXmUkPMmKZgLBxzf+eNaVqf\n4MCnAUv62WQOAiiCXK68BL0OsBNhV8N3Vh3P8fkwlD9tJch8frH77L1rMw2JurHe\nZ7scVLxbDeuXHI0WXnBI\n=xCgz\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJTrL2cAAoJEPsOEJWxeXmZktEP/0J3Vsx60uVD1Eae24KNzL7K\nnp5JQIq9OKK+7ktgo0bpKfaRUvAFsKz8a/rw/Z0JBBfWHXHlUop8k0ZEmdhAJlUG\nN6jBTTP4JzNINqNycpqE0xgAb6UI92BozTtbi0U5zfrbQYH4KbiM7Yqboc5LNqER\nijs6hwffp4Or0DymPLMeNVgYJPSlErTy+EdRLDJMMIMCbz1pDRXXiuG3vyAfe/Hp\nZ4wLZ3k8NT1hoegTclBKqggoZp46dUxhZ+GGD5qNunsl62d/17N3xJT74q+JIWM0\n3RldEmXCKrK2Zz6ddrASoVtzFSGThj8kl3wSrI5n4HyvUYIpNDF99UmBwF4ea4c4\nXTlVnJMwiteC7zNTJtzbeZFJMqXLmmF5nglQhN8fd5wmmPdfSQg+KKbFF+OiAS4z\n0y03pvvnZt1dsex5zjthB6KDuSgrolmQtOMh77OohXUVrogSYo/u7VttXMK/stGg\ntyaFeyi7ZfocHBSVlspBa9x5Cf86NnC6j2JrIVpuip4Zd8og/2wXijJIRpkM4wcX\n4weRlgRg0AnYtaNWAJvX5Bfmt+3BbXFsZnwZ1q82+cXmUkPMmKZgLBxzf+eNaVqf\n4MCnAUv62WQOAiiCXK68BL0OsBNhV8N3Vh3P8fkwlD9tJch8frH77L1rMw2JurHe\nZ7scVLxbDeuXHI0WXnBI\n=xCgz\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 115281a1058c4034d5c5ccedacb667fe3f6327ea\ntype commit\ntag v0.11.26\ntagger Fedor Indutny <fedor@indutny.com> 1403829660 +0400\n\n2014.06.28, Version 0.11.26 (Unstable)\n\nChanges since version 0.11.25:\n\n* windows: add VT100 codes ?25l and ?25h (JD Ballard)\n\n* windows: add invert ANSI (7 / 27) emulation (JD Ballard)\n\n* unix: fix handling error on UDP socket creation (Saúl Ibarra Corretgé)\n\n* unix, windows: getnameinfo implementation (Rasmus Pedersen)\n\n* heap: fix `heap_remove()` (Fedor Indutny)\n\n* unix, windows: fix parsing scoped IPv6 addresses (Saúl Ibarra Corretgé)\n\n* windows: fix handling closed socket while poll handle is closing (Saúl Ibarra\n  Corretgé)\n\n* thread: barrier functions (Ben Noordhuis)\n\n* windows: fix PYTHON environment variable usage (Jay Satiro)\n\n* unix, windows: return system error on EAI_SYSTEM (Saúl Ibarra Corretgé)\n\n* windows: fix handling closed socket while poll handle is closing (Saúl Ibarra\n  Corretgé)\n\n* unix: don't run i/o callbacks after prepare callbacks (Saúl Ibarra Corretgé)\n\n* windows: add tty unicode support for input (Peter Atashian)\n\n* header: introduce `uv_loop_size()` (Andrius Bentkus)\n\n* darwin: invoke `mach_timebase_info` only once (Fedor Indutny)\n"
+  }
+}

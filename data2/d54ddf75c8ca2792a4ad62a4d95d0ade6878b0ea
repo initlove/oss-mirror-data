@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzUwODQxMTpkNTRkZGY3NWM4Y2EyNzkyYTRhZDYyYTRkOTVkMGFkZTY4NzhiMGVh",
+  "sha": "d54ddf75c8ca2792a4ad62a4d95d0ade6878b0ea",
+  "url": "https://api.github.com/repos/ReactiveX/RxJava/git/tags/d54ddf75c8ca2792a4ad62a4d95d0ade6878b0ea",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2014-11-29T05:24:16Z"
+  },
+  "object": {
+    "sha": "37314b0f138dd49a9f8863ecd2159470f62ca245",
+    "type": "commit",
+    "url": "https://api.github.com/repos/ReactiveX/RxJava/git/commits/37314b0f138dd49a9f8863ecd2159470f62ca245"
+  },
+  "tag": "v1.0.1",
+  "message": "Release of 1.0.1\n\n- Merge pull request #1901 from akarnokd/RedoRequestFix\n- Restore timeout on the test.\n- Fixed redo & groupBy backpressure management\n- Merge pull request #1893 from akarnokd/MergeDelayErrorFix\n- Avoid request(0) to trigger a recursive call.\n- The backpressure exception might cut ahead of all onNext events.\n- Fixed incorrect error merging.\n- Version 1.0.0\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

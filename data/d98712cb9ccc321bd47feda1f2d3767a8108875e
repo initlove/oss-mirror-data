@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQxMzkzMjpkOTg3MTJjYjljY2MzMjFiZDQ3ZmVkYTFmMmQzNzY3YTgxMDg4NzVl",
+  "sha": "d98712cb9ccc321bd47feda1f2d3767a8108875e",
+  "url": "https://api.github.com/repos/john-kurkowski/tldextract/git/tags/d98712cb9ccc321bd47feda1f2d3767a8108875e",
+  "tagger": {
+    "name": "John Kurkowski",
+    "email": "john.kurkowski@gmail.com",
+    "date": "2015-03-22T20:47:58Z"
+  },
+  "object": {
+    "sha": "0d496b888ec6d2ba753f1db042df47a7e65ca129",
+    "type": "commit",
+    "url": "https://api.github.com/repos/john-kurkowski/tldextract/git/commits/0d496b888ec6d2ba753f1db042df47a7e65ca129"
+  },
+  "tag": "1.6",
+  "message": "1.6\n\n* Features\n    * Pass `extra_suffixes` directly to constructor\n* Bugfixes\n    * Punycode URLs were returned decoded, rather than left alone\n    * Things that look like Punycode to tldextract, but aren't, shouldn't raise\n    * Print unified diff to debug log, rather than inconsistent stderr\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnOTk3MTg1MjpkNDFmZWQ2Y2UxNmNmOTYxN2M1NDM0Y2UyZjNiYTYyMTBkNGQxYmZh",
+  "sha": "d41fed6ce16cf9617c5434ce2f3ba6210d4d1bfa",
+  "url": "https://api.github.com/repos/openstack/murano/git/tags/d41fed6ce16cf9617c5434ce2f3ba6210d4d1bfa",
+  "tagger": {
+    "name": "Kirill Zaitsev",
+    "email": "k.zaitsev@me.com",
+    "date": "2016-03-31T17:45:50Z"
+  },
+  "object": {
+    "sha": "c9c8662d8253b40eaeb85cf93e9cb86247520efa",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/murano/git/commits/c9c8662d8253b40eaeb85cf93e9cb86247520efa"
+  },
+  "tag": "2.0.0.0rc3",
+  "message": "murano 2.0.0.0rc3 release candidate\n\nmeta:version: 2.0.0.0rc3\nmeta:series: mitaka\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJW/WJqAAoJEHrozOPeCWIUgcUQAKak04FeSiESMXuznTrMfoRx\ngYwVZUIm/5ijTLpoUAyaGKr4gF4Yor2T20xdLOZbi6Bite6pnXYyRipKYxAUb1yT\nv2PtSdO9Xsyzvmc9YMkthhOFusj5mV5undM8mhmko7rw7net3SHoHM5l+/1Zrs5K\n1LWZEVklB/uMMfabzPDLWaxbm6416RbJbljsBYPAqMqVxlbkyXSwQhpM0Iw30Idh\npNnbA6TYYwGI89GcUKbU/L/jvCGj2uc3rgOJESa2z7lEpzY1iJvCeEHqedvniiDL\n+KX/OHoOj0oSeERybeJfzff+bpkSMu3Z/71nrL/cxOSqOzg1KWLjJmyoh8naOF1L\naEA8htfCIBt+iLcECjP+SFv/ZEsaKh3tA3Igg4Y0g+6WMFIQ1efqrD5qsuyXjjB3\nwvH9VJcWq5EKAHMpJaXKro326lwrjJyfK4wuzBlm8RZROi6ytwV1S/FvdY31SiXc\n8tbdRwLpbwK8k0nBcprpDdY7BRPqwwh9VWV/ievf0AJ714z2Uya3EdYYqBmxKwUT\ndCIi5mnvAzlGYgRwYP1keuIHkB3r3WqFFBJaqhLVnE4+90WcwA1Gh9WO5sMBNTqE\nhIwcGQk0lLkZt3THYSsciJXMGZIMemdAoyE3oQ8AztBJGGFSfEOYcx0twmKCvU1E\n3Unr988CakHAxyXKq8Am\n=9Ntj\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJW/WJqAAoJEHrozOPeCWIUgcUQAKak04FeSiESMXuznTrMfoRx\ngYwVZUIm/5ijTLpoUAyaGKr4gF4Yor2T20xdLOZbi6Bite6pnXYyRipKYxAUb1yT\nv2PtSdO9Xsyzvmc9YMkthhOFusj5mV5undM8mhmko7rw7net3SHoHM5l+/1Zrs5K\n1LWZEVklB/uMMfabzPDLWaxbm6416RbJbljsBYPAqMqVxlbkyXSwQhpM0Iw30Idh\npNnbA6TYYwGI89GcUKbU/L/jvCGj2uc3rgOJESa2z7lEpzY1iJvCeEHqedvniiDL\n+KX/OHoOj0oSeERybeJfzff+bpkSMu3Z/71nrL/cxOSqOzg1KWLjJmyoh8naOF1L\naEA8htfCIBt+iLcECjP+SFv/ZEsaKh3tA3Igg4Y0g+6WMFIQ1efqrD5qsuyXjjB3\nwvH9VJcWq5EKAHMpJaXKro326lwrjJyfK4wuzBlm8RZROi6ytwV1S/FvdY31SiXc\n8tbdRwLpbwK8k0nBcprpDdY7BRPqwwh9VWV/ievf0AJ714z2Uya3EdYYqBmxKwUT\ndCIi5mnvAzlGYgRwYP1keuIHkB3r3WqFFBJaqhLVnE4+90WcwA1Gh9WO5sMBNTqE\nhIwcGQk0lLkZt3THYSsciJXMGZIMemdAoyE3oQ8AztBJGGFSfEOYcx0twmKCvU1E\n3Unr988CakHAxyXKq8Am\n=9Ntj\n-----END PGP SIGNATURE-----\n",
+    "payload": "object c9c8662d8253b40eaeb85cf93e9cb86247520efa\ntype commit\ntag 2.0.0.0rc3\ntagger Kirill Zaitsev <k.zaitsev@me.com> 1459446350 +0300\n\nmurano 2.0.0.0rc3 release candidate\n\nmeta:version: 2.0.0.0rc3\nmeta:series: mitaka\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n"
+  }
+}

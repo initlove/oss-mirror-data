@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNzYxNjE1ODpkNjMwYWJkNzc1YmUwNjI5YzI2ZmMxMDkwNTQyNDAyOWM4MTA0MGU3",
+  "sha": "d630abd775be0629c26fc10905424029c81040e7",
+  "url": "https://api.github.com/repos/Netflix/ribbon/git/tags/d630abd775be0629c26fc10905424029c81040e7",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-04-12T17:49:06Z"
+  },
+  "object": {
+    "sha": "1a4fbcc99da3e376c3e17469bc25caa6cf91fa4f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/ribbon/git/commits/1a4fbcc99da3e376c3e17469bc25caa6cf91fa4f"
+  },
+  "tag": "v2.2.0-rc.1",
+  "message": "Release of 2.2.0-rc.1\n\n- 1a4fbcc99da3e376c3e17469bc25caa6cf91fa4f: Merge pull request #276 from qiangdavidliu/eureka-notification-lb-take2\n- abe999f19a004456b83253c769e0799d8d5a20f6: Merge remote-tracking branch 'upstream/master' into eureka-notification-lb-take2\n- d98a891f54e1d15421fa373b42304d96399c55f8: CR comments\n- d5e5e0d90b9f6bcce948e24ac0cc320cf7ef2b12: clean up\n- 7eef72f33e3585ba052c35429a96539afaffe66b: (take 2 of) Adding eureka aware Loadbalancers that make use of new notification mechanism from eurekClient\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzIwNDA5MzpkMTYwODc0MDdiYTFhYjZmZjA5MGUxMTdmMWE2NjY5NzZmNzlhYTk0",
+  "sha": "d16087407ba1ab6ff090e117f1a666976f79aa94",
+  "url": "https://api.github.com/repos/openstack/python-neutronclient/git/tags/d16087407ba1ab6ff090e117f1a666976f79aa94",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-04-03T22:14:04Z"
+  },
+  "object": {
+    "sha": "d8df387b9c058fd69f40f6bac50c81ee89abb707",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-neutronclient/git/commits/d8df387b9c058fd69f40f6bac50c81ee89abb707"
+  },
+  "tag": "6.8.0",
+  "message": "python-neutronclient 6.8.0 release\n\nmeta:version: 6.8.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: I3ec9c54fd11cbe1c00f506fb78b08c2088f449a8\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaw/ysAAoJEMNs3LTfAMaMZvIH/2i88Cw23Wxcdfs+x6WDB8kp\ngjya99+377ZZsN0IZoa1qtIYfldbgKP1zxHslTdlT9BWRMdG5xohrjFNQcTC4+BP\ndKkyOu7gSwI5AqlmKFlwYnJcQ4qEIT07RNETQvTMUn4y5RNXhW0JkFa4J4686MAk\nwMxzoL7t4XqefHMKcZseyNJ8yypqDPvK7PbaF1zXn/2mHn7dcUAz0ewM3tAxxte7\n+eWr0PF1UixNMDX2SLFXz8nyKI3ZmlUer0+tkKNW+MglDk+lmNmHsc8rWp88Aj71\nCrtlubT7Rzk6v19AfJJn8sZANAlkE0JIzlRQHtRpuqtjmV7+5E2nLn4TuOYLThk=\n=ioFk\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaw/ysAAoJEMNs3LTfAMaMZvIH/2i88Cw23Wxcdfs+x6WDB8kp\ngjya99+377ZZsN0IZoa1qtIYfldbgKP1zxHslTdlT9BWRMdG5xohrjFNQcTC4+BP\ndKkyOu7gSwI5AqlmKFlwYnJcQ4qEIT07RNETQvTMUn4y5RNXhW0JkFa4J4686MAk\nwMxzoL7t4XqefHMKcZseyNJ8yypqDPvK7PbaF1zXn/2mHn7dcUAz0ewM3tAxxte7\n+eWr0PF1UixNMDX2SLFXz8nyKI3ZmlUer0+tkKNW+MglDk+lmNmHsc8rWp88Aj71\nCrtlubT7Rzk6v19AfJJn8sZANAlkE0JIzlRQHtRpuqtjmV7+5E2nLn4TuOYLThk=\n=ioFk\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d8df387b9c058fd69f40f6bac50c81ee89abb707\ntype commit\ntag 6.8.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1522793644 +0000\n\npython-neutronclient 6.8.0 release\n\nmeta:version: 6.8.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: yes\nmeta:release:Author: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Commit: Akihiro Motoki <amotoki@gmail.com>\nmeta:release:Change-Id: I3ec9c54fd11cbe1c00f506fb78b08c2088f449a8\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

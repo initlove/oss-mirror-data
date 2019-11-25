@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc0ODk5NjY6ZDdiMTY4ZGE3ZjFjZmQzZjBiMzlhOWYyMGExMzM3NGVhYzFlYTliOA==",
+  "sha": "d7b168da7f1cfd3f0b39a9f20a13374eac1ea9b8",
+  "url": "https://api.github.com/repos/openstack/neutron-lbaas/git/tags/d7b168da7f1cfd3f0b39a9f20a13374eac1ea9b8",
+  "tagger": {
+    "name": "Thierry Carrez",
+    "email": "thierry@openstack.org",
+    "date": "2016-03-25T15:17:33Z"
+  },
+  "object": {
+    "sha": "a29a6013ebaf2b9a11ae734f5fa9926d56a4718d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/neutron-lbaas/git/commits/a29a6013ebaf2b9a11ae734f5fa9926d56a4718d"
+  },
+  "tag": "8.0.0.0rc2",
+  "message": "neutron-lbaas 8.0.0.0rc2 release candidate\n\nmeta:version: 8.0.0.0rc2\nmeta:series: mitaka\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJW9VaNAAoJEFB6+JAlsQQjpwAP/107JCDe1oCxe+BMsK5R4bR/\nqIbRiXHu7XPK4tIQUcsErEJU29Ckc9YDh8pSeBjtU502WfuzEHN/wt3HyeIRcXbc\nGLCfUtQwPZ5Hs9ThW9AdRCeR94mQkwdwXdz7kUbvaQYoHMGj3VoCD39UDiSTlq8h\np2wqZO7VB4rcEtAKbnIqtLZdyy5WVcBJ76br3EgvYyTeTxm+R/IyvaXj+ExOVtF9\nytBU/waUPwAHteoCmMwB/jIx2j/EK+K/MKLs/rxoJsORDmLIJGlcuXksqkSfAypk\n8whRrCQdXJNHrc1ZSQxUx5DCklMPaNZqV1vGadJ04d+DqVh5O+O6mBCumA22mp2Z\nngYDzr4gJpJl0oXYOEAV33QeL2G7iCbnc7H+gkOqAW2c5PAEC9AjfMz3gwPSEBGt\nhIeIH+7mi9V4B33GivTscTNjfaGBTN9Q9UGoedNatmi/c9FBgRUQFy+d0dLhfi2V\n6/LmiPmYo4VKFTwoO9O2KdezxuEUPuOxpZLvUr58TNA1EJ1Xgil1gNHzPSp2dIoo\njRP5kjG4l/5W13Ov1YvhkeBRkWNHd31cZF5i3ED5wNbemd4Tnn3Uiu0eX4epSzYY\ns2OKkCO6f6Ovf4kgZruwtsSGdh1a/JfIbvtwJNsHjqMjHSytB1B/Ka/tlsaxLYiO\nTwliF/3WT7QvGAAeth40\n=gr2L\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABCAAGBQJW9VaNAAoJEFB6+JAlsQQjpwAP/107JCDe1oCxe+BMsK5R4bR/\nqIbRiXHu7XPK4tIQUcsErEJU29Ckc9YDh8pSeBjtU502WfuzEHN/wt3HyeIRcXbc\nGLCfUtQwPZ5Hs9ThW9AdRCeR94mQkwdwXdz7kUbvaQYoHMGj3VoCD39UDiSTlq8h\np2wqZO7VB4rcEtAKbnIqtLZdyy5WVcBJ76br3EgvYyTeTxm+R/IyvaXj+ExOVtF9\nytBU/waUPwAHteoCmMwB/jIx2j/EK+K/MKLs/rxoJsORDmLIJGlcuXksqkSfAypk\n8whRrCQdXJNHrc1ZSQxUx5DCklMPaNZqV1vGadJ04d+DqVh5O+O6mBCumA22mp2Z\nngYDzr4gJpJl0oXYOEAV33QeL2G7iCbnc7H+gkOqAW2c5PAEC9AjfMz3gwPSEBGt\nhIeIH+7mi9V4B33GivTscTNjfaGBTN9Q9UGoedNatmi/c9FBgRUQFy+d0dLhfi2V\n6/LmiPmYo4VKFTwoO9O2KdezxuEUPuOxpZLvUr58TNA1EJ1Xgil1gNHzPSp2dIoo\njRP5kjG4l/5W13Ov1YvhkeBRkWNHd31cZF5i3ED5wNbemd4Tnn3Uiu0eX4epSzYY\ns2OKkCO6f6Ovf4kgZruwtsSGdh1a/JfIbvtwJNsHjqMjHSytB1B/Ka/tlsaxLYiO\nTwliF/3WT7QvGAAeth40\n=gr2L\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a29a6013ebaf2b9a11ae734f5fa9926d56a4718d\ntype commit\ntag 8.0.0.0rc2\ntagger Thierry Carrez <thierry@openstack.org> 1458919053 +0100\n\nneutron-lbaas 8.0.0.0rc2 release candidate\n\nmeta:version: 8.0.0.0rc2\nmeta:series: mitaka\nmeta:release-type: release candidate\nmeta:announce: openstack-announce@lists.openstack.org\nmeta:pypi: no\nmeta:first: no\n"
+  }
+}

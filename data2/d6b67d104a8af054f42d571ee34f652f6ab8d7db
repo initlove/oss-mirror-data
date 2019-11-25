@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjk5NzcwMTpkNmI2N2QxMDRhOGFmMDU0ZjQyZDU3MWVlMzRmNjUyZjZhYjhkN2Ri",
+  "sha": "d6b67d104a8af054f42d571ee34f652f6ab8d7db",
+  "url": "https://api.github.com/repos/Netflix/servo/git/tags/d6b67d104a8af054f42d571ee34f652f6ab8d7db",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-04-16T21:17:03Z"
+  },
+  "object": {
+    "sha": "bf91263c7e37c77ecebc806facb110ebb4a8d688",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/servo/git/commits/bf91263c7e37c77ecebc806facb110ebb4a8d688"
+  },
+  "tag": "v0.9.1",
+  "message": "Release of 0.9.1\n\n- bf91263c7e37c77ecebc806facb110ebb4a8d688: remove redundant throws. no longer supported in checkstlye 6.2\n- 15060a32e55c9808173487f84c8ee2060029c696: Merge pull request #317 from dmuino/tagList\n- ac3987345d9bd4420c1a3088257977157ee841fb: Use binarySearch over the sorted array instead of hash lookup for SmallTagMap\n- 9906be99d9614959248aef4efbccd265787b4d9f: Better implementation of SmallTagMap that avoids creating a HashSet when equals is called.\n- 3e6ebfc327978cfd47bf6097467245862390e9ed: This fixes #316. SmallTagMap#equals was not thread safe\n- a1320241c5ca33cbcbc5f6ebde92d974ec7e371e: Merge pull request #314 from copperlight/patch-readme\n- 67d99495b6823a3b6aa10c8ce263961e10c182a2: RATEs are really COUNTERs\n- d72cdc3e930e2ef8fba2363dcc18f997aa41ab14: Merge pull request #313 from copperlight/add-poller-readmes\n- eb124c3e59b8769cef2e3df523afe850c472a890: add READMEs\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

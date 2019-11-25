@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNDpkYzIzNTA2N2E5ZGQ4MmFjMzQ5OGVhN2E4ODU3YTRjMGYwNWQ3YjE2",
+  "sha": "dc235067a9dd82ac3498ea7a8857a4c0f05d7b16",
+  "url": "https://api.github.com/repos/openstack/heat/git/tags/dc235067a9dd82ac3498ea7a8857a4c0f05d7b16",
+  "tagger": {
+    "name": "Tomas Sedovic",
+    "email": "tomas@sedovic.cz",
+    "date": "2012-07-31T12:46:54Z"
+  },
+  "object": {
+    "sha": "2779760de5d47d7368e541a5a631b041ca4eda1b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/heat/git/commits/2779760de5d47d7368e541a5a631b041ca4eda1b"
+  },
+  "tag": "v5.release",
+  "message": "The heat developers are happy to announce the release of new version of Heat.\n\nHeat is a project designed for OpenStack that implements AWS CloudFormation.  CloudFormation is a programmable interface and tempalting system for orchestrating multiple cloud applications.\n\nTry it out on Fedora 17:\n\nhttps://github.com/heat-api/heat/blob/master/docs/GettingStarted.rst#readme\n\nOr Ubuntu 12.04:\n\nhttps://github.com/heat-api/heat/wiki/Getting-Started-with-Heat-using-Master-on-Ubuntu\n\nWhat's new in version 5:\n\n* Load balancing and Autoscaling\n    Heat can now use CloudWatch to monitor instances and cause stacks to scale up and down.\n\n* Per-tenant stacks\n    Stacks are now accessed per-tenant rather than per-user. If two users belong to the same tenant, they can see and modify the same stacks.\n\n* Update stack\n    A running stack can now be updated by sending a new template via the `UpdateStack` API call.\n\n* Remote Database Storage\n    Heat now supports RDS::DBInstance which is: a preconfigured MySQL instance that other resources can use. Support for multiple availability zones and database snapshots is not yet implemented.\n\n* Improved API compatibility\n    Heat API is now fully aligned with AWS CloudFormation API spec.  Heat developers have produced a port of the heat CLI tool which uses the Boto AWS client library.\n    https://github.com/heat-api/heat/wiki/Heat-CLI-Boto-migration-&-API-rework\n\n* Integration tests\n    Heat now has scripts for running integration tests using Beaker:\n    https://github.com/heat-api/heat-integration-tests#heat-integration-tests\n\n* Usability improvements for heat-jeos\n    The command line tool for generating OS images is now more flexible and easier to use.\n\nHeat website:\n\nhttp://heat-api.org/\n\nDownload Heat API:\n\nhttps://github.com/heat-api/heat/tags\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

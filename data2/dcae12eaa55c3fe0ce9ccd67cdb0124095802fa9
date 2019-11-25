@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTE5ODA0MTpkY2FlMTJlYWE1NWMzZmUwY2U5Y2NkNjdjZGIwMTI0MDk1ODAyZmE5",
+  "sha": "dcae12eaa55c3fe0ce9ccd67cdb0124095802fa9",
+  "url": "https://api.github.com/repos/Netflix/eureka/git/tags/dcae12eaa55c3fe0ce9ccd67cdb0124095802fa9",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2015-05-19T01:42:06Z"
+  },
+  "object": {
+    "sha": "46e96b2f0773f5ddbab85c7f01be97a3f5537a64",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/eureka/git/commits/46e96b2f0773f5ddbab85c7f01be97a3f5537a64"
+  },
+  "tag": "v1.1.154",
+  "message": "Release of 1.1.154\n\n- 46e96b2f0773f5ddbab85c7f01be97a3f5537a64: Merge pull request #520 from qiangdavidliu/master\n- 0068c1a948fbd3ead4f6a967ae1f94a44ccbe351: Adding comments\n- 01d71b2dd4166dd4eac32d48aec2e15769b37085: Re-adding @LazySingleton to EurekaInstanceInfoProvider to ensure InstanceInfo singleton for injection into DiscoveryClient and ApplicationInfoManager.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

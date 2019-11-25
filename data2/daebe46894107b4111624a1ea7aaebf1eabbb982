@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjk3MDAwNDpkYWViZTQ2ODk0MTA3YjQxMTE2MjRhMWVhN2FhZWJmMWVhYmJiOTgy",
+  "sha": "daebe46894107b4111624a1ea7aaebf1eabbb982",
+  "url": "https://api.github.com/repos/openstack/heat/git/tags/daebe46894107b4111624a1ea7aaebf1eabbb982",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-02-16T09:59:29Z"
+  },
+  "object": {
+    "sha": "2dd83353c086a8ee3ee8aefb99b06832782d8cab",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/heat/git/commits/2dd83353c086a8ee3ee8aefb99b06832782d8cab"
+  },
+  "tag": "8.0.0.0rc2",
+  "message": "heat 8.0.0.0rc2 release candidate\n\nmeta:version: 8.0.0.0rc2\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: rabi <ramishra@redhat.com>\nmeta:release:Commit: rabi <ramishra@redhat.com>\nmeta:release:Change-Id: Ia3140b154154d0eb9906dd805595dbcfe24a494c\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYpXgBAAoJELkGmxM1cAzcXe8H/3jLTf2vxNgETfLKesQetgZw\nuQ436n710Pe5J9chwtj9LQGEvVnpoUqjkHC/4o6Ly2wJPz3lkoCT0slhVgY5yAs1\nkvc2GUA2d25YYJlZ7MEEoUY7VNnpwWYrcnx22vWoXznMuRrTHjrEAZBJ5uRpChRd\nz56gNkprfsiygJfggtqVcpgxoqA8aXR4sFrO6HLR8ixqt/M47zB8SA9SMJWpSHtb\ncp1ljEkOHs7088b4m9QgvS1KASs7I9sukk49WnP4vRLa2qyv1TwXlBrGF1oQtO6S\nck9/QfjgXWrl6it7D4KIxpuyXN0zqK9hmr0i/vMegCQIxmh4YXc0UzCa+5ONi8s=\n=i3TS\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJYpXgBAAoJELkGmxM1cAzcXe8H/3jLTf2vxNgETfLKesQetgZw\nuQ436n710Pe5J9chwtj9LQGEvVnpoUqjkHC/4o6Ly2wJPz3lkoCT0slhVgY5yAs1\nkvc2GUA2d25YYJlZ7MEEoUY7VNnpwWYrcnx22vWoXznMuRrTHjrEAZBJ5uRpChRd\nz56gNkprfsiygJfggtqVcpgxoqA8aXR4sFrO6HLR8ixqt/M47zB8SA9SMJWpSHtb\ncp1ljEkOHs7088b4m9QgvS1KASs7I9sukk49WnP4vRLa2qyv1TwXlBrGF1oQtO6S\nck9/QfjgXWrl6it7D4KIxpuyXN0zqK9hmr0i/vMegCQIxmh4YXc0UzCa+5ONi8s=\n=i3TS\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 2dd83353c086a8ee3ee8aefb99b06832782d8cab\ntype commit\ntag 8.0.0.0rc2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1487239169 +0000\n\nheat 8.0.0.0rc2 release candidate\n\nmeta:version: 8.0.0.0rc2\nmeta:diff-start: -\nmeta:series: ocata\nmeta:release-type: release candidate\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: rabi <ramishra@redhat.com>\nmeta:release:Commit: rabi <ramishra@redhat.com>\nmeta:release:Change-Id: Ia3140b154154d0eb9906dd805595dbcfe24a494c\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

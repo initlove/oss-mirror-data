@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDUzNzExODpkOWU3MWNmNDc0NGQ1MjdiNmYyN2VmM2I4ZjUxYWZhODE1NWNhOTI0",
+  "sha": "d9e71cf4744d527b6f27ef3b8f51afa8155ca924",
+  "url": "https://api.github.com/repos/GNOME/libxml2/git/tags/d9e71cf4744d527b6f27ef3b8f51afa8155ca924",
+  "tagger": {
+    "name": "Daniel Veillard",
+    "email": "veillard@src.gnome.org",
+    "date": "2008-10-03T07:58:23Z"
+  },
+  "object": {
+    "sha": "7f4547cdbd76a2931553759fb433df88b8b99452",
+    "type": "commit",
+    "url": "https://api.github.com/repos/GNOME/libxml2/git/commits/7f4547cdbd76a2931553759fb433df88b8b99452"
+  },
+  "tag": "LIBXML2.7.2",
+  "message": "* configure.in doc/* NEWS: preparing the release of 2.7.2\n* dict.c: fix the Solaris portability issue\n* parser.c: additional cleanup on #554660 fix\n* test/ent13 result/ent13* result/noent/ent13*: added the\n  example in the regression test suite.\n* HTMLparser.c: handle leading BOM in htmlParseElement()\nDaniel\n\nsvn path=/trunk/; revision=3799\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY1MDI6ZGEzMGM2YzM5Y2QzYjA0ODk1MmExNTkyOWM1NDQwYWNmZDcxYjkxMg==",
+  "sha": "da30c6c39cd3b048952a15929c5440acfd71b912",
+  "url": "https://api.github.com/repos/git/git/git/tags/da30c6c39cd3b048952a15929c5440acfd71b912",
+  "tagger": {
+    "name": "Junio C Hamano",
+    "email": "junkio@cox.net",
+    "date": "2005-09-23T05:55:59Z"
+  },
+  "object": {
+    "sha": "990f856a62a24bfd56bac1f5e4581381369e4ede",
+    "type": "commit",
+    "url": "https://api.github.com/repos/git/git/git/commits/990f856a62a24bfd56bac1f5e4581381369e4ede"
+  },
+  "tag": "v0.99.7b",
+  "message": "GIT 0.99.7b\n\nContains the following post-0.99.7a fixes:\n\n - commit walker performance fix, mostly during walking commits in a\n   downloaded packfile, thanks to Sergey Vlasov.\n - squelch unnecessary alarming error message from fetch and clone over\n   rsync transport, when remote repository does not borrow anything from\n   other repositories.\n - documentation was not rebuilt before installation, noticed by Randal L\n   Schwartz.\n - fetching of objects over http transport got a bit safer.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.1 (GNU/Linux)\n\niD8DBQBDM5nTwMbZpPMRm5oRAiwsAKCdkFpzqb06ERQXat4lJskdISoO5gCdHa+j\nNzLVHcoaLoehjdWvnnao1KY=\n=UgLp\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "no_user",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.1 (GNU/Linux)\n\niD8DBQBDM5nTwMbZpPMRm5oRAiwsAKCdkFpzqb06ERQXat4lJskdISoO5gCdHa+j\nNzLVHcoaLoehjdWvnnao1KY=\n=UgLp\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 990f856a62a24bfd56bac1f5e4581381369e4ede\ntype commit\ntag v0.99.7b\ntagger Junio C Hamano <junkio@cox.net> 1127454959 -0700\n\nGIT 0.99.7b\n\nContains the following post-0.99.7a fixes:\n\n - commit walker performance fix, mostly during walking commits in a\n   downloaded packfile, thanks to Sergey Vlasov.\n - squelch unnecessary alarming error message from fetch and clone over\n   rsync transport, when remote repository does not borrow anything from\n   other repositories.\n - documentation was not rebuilt before installation, noticed by Randal L\n   Schwartz.\n - fetching of objects over http transport got a bit safer.\n"
+  }
+}

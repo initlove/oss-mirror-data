@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY1NzMyNDE6ZDRjZjMwMGY5YWIwYjljMTcxMTY2ZjZiNTczZjg1YWIyZTcxMmY5Mg==",
+  "sha": "d4cf300f9ab0b9c171166f6b573f85ab2e712f92",
+  "url": "https://api.github.com/repos/hyperledger/fabric/git/tags/d4cf300f9ab0b9c171166f6b573f85ab2e712f92",
+  "tagger": {
+    "name": "David Enyeart",
+    "email": "enyeart@us.ibm.com",
+    "date": "2019-04-11T17:58:07Z"
+  },
+  "object": {
+    "sha": "87074a73f3f6fcdff7e82707c9b476596d030d04",
+    "type": "commit",
+    "url": "https://api.github.com/repos/hyperledger/fabric/git/commits/87074a73f3f6fcdff7e82707c9b476596d030d04"
+  },
+  "tag": "v1.4.1",
+  "message": "v1.4.1 Release Notes - April 11, 2019\n-------------------------------------\n\nWhat's New in Hyperledger Fabric v1.4.1\n---------------------------------------\n\nThe following features are included in this release:\n\nFAB-6135 - Raft Consensus\nThe ordering service now provides an option to use the Raft Consensus\nalgorithm.\nSee https://raft.github.io/ for details on the Raft algorithm.\n\nAdditional operational metrics and health checks\nFAB-13088 Endorser metrics\nFAB-14077 Orderer communication metrics\nFAB-11937 Raft metrics\nFAB-13237 Metrics for log records\nFAB-13341 Kafka health check\nFAB-12908 CouchDB health check\n\nChanges, Known Issues, and Workarounds\n--------------------------------------\n\nFAB-14723 - Deprecate CAR package format\nSupport for packaging chaincode using the CAR format will be removed in\nv2.0.0.\n\nFAB-12088 - Java chaincode support on s390x architecture\nJava chaincode support is not yet available on s390x architecture.\n\nFAB-12134 - Same chaincode source receiving fingerprint mismatch error\nChaincode installed in different ways may result in \"chaincode fingerprint\nmismatch data mismatch\" error upon instantiation.  This may happen when\ninstalling chaincode by using different SDKs. To workaround the problem,\npackage the chaincode prior to installation and instantiation, by using\nthe \"peer chaincode package\" command.\n\nKnown Vulnerabilities\n---------------------\nFAB-8664 - Peer should detect and react when its org has been removed\nThis is a relatively low severity problem, because it requires a significant\nconspiracy of network admins, but it will be addressed in a future release.\n\nResolved Vulnerabilities\n------------------------\nNone.\n\nOther noteworthy improvements and fixes\n---------------------------------------\nFAB-14420 - Allow statically configured CAs for TLS communication with orderers\nFAB-13471 - Fix for multiple chaincode upgrades in a single block\nFAB-14687 - Fix memory leak in gossip message store\n\nUpdated to Go version 1.11.5\nUpdated baseimage version to 0.4.15\n\nFor the full list of improvements and fixes, refer to the release change log:\nhttps://github.com/hyperledger/fabric/blob/release-1.4/CHANGELOG.md#v141\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

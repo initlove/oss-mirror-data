@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY1NzMyNDE6ZGM4ZTM5M2IzZmI2YzVjNzY1Y2VjYzZiN2JjNWViMTE2ZGNkNGQ5NA==",
+  "sha": "dc8e393b3fb6c5c765cecc6b7bc5eb116dcd4d94",
+  "url": "https://api.github.com/repos/hyperledger/fabric/git/tags/dc8e393b3fb6c5c765cecc6b7bc5eb116dcd4d94",
+  "tagger": {
+    "name": "Christopher Ferris",
+    "email": "chrisfer@us.ibm.com",
+    "date": "2017-06-08T17:09:34Z"
+  },
+  "object": {
+    "sha": "85ef08326fcf6cfb5dbbf389633ba7ea394fcbd4",
+    "type": "commit",
+    "url": "https://api.github.com/repos/hyperledger/fabric/git/commits/85ef08326fcf6cfb5dbbf389633ba7ea394fcbd4"
+  },
+  "tag": "v1.0.0-beta",
+  "message": "v1.0.0-beta June 8, 2017\n\nRelease Notes\n-------------\nBug fixes, documentation and test coverage improvements, UX improvements\nbased on user feedback and changes to address a variety of static scan\nfindings (unused code, static security scanning, spelling, linting and more).\n\nUpgraded to latest version [1] (a precursor to 1.4.0) of gRPC-go and\nimplemented keep-alive feature for improved resiliency.\n\nAdded a new tool `configtxlator` [2] to enable users to translate the\ncontents of a channel configuration transaction into a human readable form.\n\nKnown Vulnerabilities\n---------------------\nnone\n\nResolved Vulnerabilities\n------------------------\nnone\n\nKnown Issues & Workarounds\n--------------------------\nBCCSP content in the configtx.yaml has been removed. This change will cause\na panic when running `configtxgen` tool with a configtx.yaml file that\nincludes the removed BCCSP content.\n\nJava Chaincode support has been disabled until post 1.0.0 as it is not yet\nfully mature. It may be re-enabled for experimentation by cloning the\nhyperledger/fabric repository, reversing this commit [4] and building your\nown fork.\n\nChange Log\n----------\nA detailed change log can be found here [5].\n\n[1] https://github.com/grpc/grpc-go/releases/\n[2] https://github.com/hyperledger/fabric/tree/master/examples/configtxupdate\n[3] https://github.com/hyperledger/fabric/commit/a997c30\n[4] https://github.com/hyperledger/fabric/commit/29e0c40\n[5] https://github.com/hyperledger/fabric/blob/master/CHANGELOG.md#v100-beta\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

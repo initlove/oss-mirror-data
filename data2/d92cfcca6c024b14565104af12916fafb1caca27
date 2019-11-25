@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnODc1OTEzMzpkOTJjZmNjYTZjMDI0YjE0NTY1MTA0YWYxMjkxNmZhZmIxY2FjYTI3",
+  "sha": "d92cfcca6c024b14565104af12916fafb1caca27",
+  "url": "https://api.github.com/repos/Netflix/zuul/git/tags/d92cfcca6c024b14565104af12916fafb1caca27",
+  "tagger": {
+    "name": "CloudBees DEV@Cloud",
+    "email": "nobody@cloudbees.com",
+    "date": "2016-06-07T23:47:32Z"
+  },
+  "object": {
+    "sha": "d084b1bf6c35c709050571acd051d7e7b4328fb2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/Netflix/zuul/git/commits/d084b1bf6c35c709050571acd051d7e7b4328fb2"
+  },
+  "tag": "v1.2.1",
+  "message": "Release of 1.2.1\n\n- d084b1bf6c35c709050571acd051d7e7b4328fb2: Change the default origin in zuul-simple-webapp to be http://httpbin.org as it's more useful for testing than the previous http://apache.org\n- e5aaa555520875a159274bf80c1d4d67ac5e1021: Fix the asm mismatch errors when for gradle jettyRun task\n- c4af3a0a767b763df0c2bce2b801810d4f19f14b: Merge pull request #222 from mattnelson/daemon_threads\n- bfe7e199a94a3c1323f59c15e936bad691eb0c71: Updated Bintray API key\n- af12f5bc56205c4177c7afbf13d9e02ef8199d3b: Use daemon threads for filter pollers\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

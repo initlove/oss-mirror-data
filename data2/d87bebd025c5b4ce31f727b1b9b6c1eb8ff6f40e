@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0ODAwNjc6ZDg3YmViZDAyNWM1YjRjZTMxZjcyN2IxYjliNmMxZWI4ZmY2ZjQwZQ==",
+  "sha": "d87bebd025c5b4ce31f727b1b9b6c1eb8ff6f40e",
+  "url": "https://api.github.com/repos/react-bootstrap/react-bootstrap/git/tags/d87bebd025c5b4ce31f727b1b9b6c1eb8ff6f40e",
+  "tagger": {
+    "name": "Jimmy Jia",
+    "email": "tesrin@gmail.com",
+    "date": "2015-11-16T18:42:39Z"
+  },
+  "object": {
+    "sha": "a09181884c0ef7268a64a51159d89fea57bfd61b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/react-bootstrap/react-bootstrap/git/commits/a09181884c0ef7268a64a51159d89fea57bfd61b"
+  },
+  "tag": "v0.28.0",
+  "message": "v0.28.0 - Mon, 16 Nov 2015 18:42:39 GMT\n---------------------------------------\n\n- [21cab20](../../commit/21cab20) [changed] dropdown props are passed through to the dropdown Button\n- [f9ea411](../../commit/f9ea411) [changed] navbar `navExpanded` to `expanded`\n- [0be007f](../../commit/0be007f) [removed] Nav `right` prop in favor of `pullRight`\n- [5dbafd3](../../commit/5dbafd3) [changed] Split the Navbar component into sub-components\n- [59c9571](../../commit/59c9571) [changed] remove extra wrapping `<nav>` element in Nav components\n- [229cb2c](../../commit/229cb2c) [fixed] aria-label properly passed to the Modal header button\n- [345f4b4](../../commit/345f4b4) [changed] Only add the `navigation` role to navbar when not using a <nav>\n- [44b3b9e](../../commit/44b3b9e) [fixed] when overlay animation is false the transition prop passed to base overlay should be null so that it does not trigger a React PropTypes warning\n- [0f3ee3e](../../commit/0f3ee3e) [removed] bootstrap mixin\n- [df2f1a3](../../commit/df2f1a3) [fixed] Don't clone children in ResponsiveEmbed\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjc5NDc0MDpkOGNmZDcxMjA0Njg5ZGVjNjg4OTVlYmIxN2Q4MjU5ZmIxYWFmZTRi",
+  "sha": "d8cfd71204689dec68895ebb17d8259fb1aafe4b",
+  "url": "https://api.github.com/repos/rpm-software-management/librepo/git/tags/d8cfd71204689dec68895ebb17d8259fb1aafe4b",
+  "tagger": {
+    "name": "Tomas Mlcoch",
+    "email": "tmlcoch@redhat.com",
+    "date": "2014-12-02T10:02:58Z"
+  },
+  "object": {
+    "sha": "310893190831331dc714e5fbcf4edcade67774bc",
+    "type": "commit",
+    "url": "https://api.github.com/repos/rpm-software-management/librepo/git/commits/310893190831331dc714e5fbcf4edcade67774bc"
+  },
+  "tag": "librepo-1.7.10",
+  "message": "v1.7.10\n- repomd: Add error reporting support to lr_yum_repomd_get_highest_timestamp()\n  (RhBug: 1149436)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

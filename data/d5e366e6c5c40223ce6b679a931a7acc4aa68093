@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDExMjYzMzI6ZDVlMzY2ZTZjNWM0MDIyM2NlNmI2NzlhOTMxYTdhY2M0YWE2ODA5Mw==",
+  "sha": "d5e366e6c5c40223ce6b679a931a7acc4aa68093",
+  "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/tags/d5e366e6c5c40223ce6b679a931a7acc4aa68093",
+  "tagger": {
+    "name": "William Roberts",
+    "email": "william.c.roberts@intel.com",
+    "date": "2018-01-15T22:05:50Z"
+  },
+  "object": {
+    "sha": "6b4385f098bd5d39e1cfc6cd2b038b68c960413f",
+    "type": "commit",
+    "url": "https://api.github.com/repos/tpm2-software/tpm2-tools/git/commits/6b4385f098bd5d39e1cfc6cd2b038b68c960413f"
+  },
+  "tag": "3.0.3",
+  "message": "3.0.3 - 2017-15-18\n  * Tools that don't need a TPM to work no longer request\n    a TPM connection. Namely, tpm2_rc_decode\n  * Fix undefined references in libmarshal port.\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJaXSXnAAoJEG3i6QeOH1DBpNIQAJok2a6EUeT1YCqeoFV42sAA\nS6BwiUOnmQwwD/5Z8Xy0qDauW0J6hYPoms/nfbmpJbcgIfvYdoV59dq5IKGF8xFz\nSG0YZQ3aJloAcuLAQGpTmaz5zVElFA3yraxZKKqM2ygsSJ28VPIluMCip/4Nhrs/\nrEbUWSNtp7KwPQlHsDi1qnz/brpYlTyfQhw0D1q0BhONHNR3Vv3amacwRtmm+2tB\nGfgAr92q8mPfefos3GRgeoNsyLGTdQnT19Qrb66+fRqQ1JrR2LxltJtJiBvngrib\ncXHbnxq0+BpPOrX+UHH2q7Sk22C/T0gOo3idpd+dNZhU9tHcjJ4RrvZ4BRtoU8ON\n76CrRBIpNEhytOkVqUaOR73q8iVvzLfc/o70e6A08Ouq2JWnLYy+5eQ8y/zBjXbA\nHg5PEA7X9hHc7FS4mn2ALPDLRYUuMtSTbyEU9s6MFraGUwfA/kDJpFr6TZQBCzih\nAY+svWEVVFCIcfyEdom2ivBOHBNt+UFqs1eWR0R46ou9j3pNqwRCgI8zyfoX+X/i\nDiPHO9X+nKWzD4HspLzHTiuCCPvVfaIpHdW7l/9AdyrWwWij0G6jlx+jaehYjp/R\nFyjn6YikzozjzkDQuYBreTwqmxAVL0VIC1PXDmC1uxr2v+IratkY4R4hlJy675Wu\nu2DROWp+C5/OXmopaIto\n=P3my\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJaXSXnAAoJEG3i6QeOH1DBpNIQAJok2a6EUeT1YCqeoFV42sAA\nS6BwiUOnmQwwD/5Z8Xy0qDauW0J6hYPoms/nfbmpJbcgIfvYdoV59dq5IKGF8xFz\nSG0YZQ3aJloAcuLAQGpTmaz5zVElFA3yraxZKKqM2ygsSJ28VPIluMCip/4Nhrs/\nrEbUWSNtp7KwPQlHsDi1qnz/brpYlTyfQhw0D1q0BhONHNR3Vv3amacwRtmm+2tB\nGfgAr92q8mPfefos3GRgeoNsyLGTdQnT19Qrb66+fRqQ1JrR2LxltJtJiBvngrib\ncXHbnxq0+BpPOrX+UHH2q7Sk22C/T0gOo3idpd+dNZhU9tHcjJ4RrvZ4BRtoU8ON\n76CrRBIpNEhytOkVqUaOR73q8iVvzLfc/o70e6A08Ouq2JWnLYy+5eQ8y/zBjXbA\nHg5PEA7X9hHc7FS4mn2ALPDLRYUuMtSTbyEU9s6MFraGUwfA/kDJpFr6TZQBCzih\nAY+svWEVVFCIcfyEdom2ivBOHBNt+UFqs1eWR0R46ou9j3pNqwRCgI8zyfoX+X/i\nDiPHO9X+nKWzD4HspLzHTiuCCPvVfaIpHdW7l/9AdyrWwWij0G6jlx+jaehYjp/R\nFyjn6YikzozjzkDQuYBreTwqmxAVL0VIC1PXDmC1uxr2v+IratkY4R4hlJy675Wu\nu2DROWp+C5/OXmopaIto\n=P3my\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6b4385f098bd5d39e1cfc6cd2b038b68c960413f\ntype commit\ntag 3.0.3\ntagger William Roberts <william.c.roberts@intel.com> 1516053950 -0800\n\n3.0.3 - 2017-15-18\n  * Tools that don't need a TPM to work no longer request\n    a TPM connection. Namely, tpm2_rc_decode\n  * Fix undefined references in libmarshal port.\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTk5NzE1Mjg6ZDk5MjliM2JhYjUzYTFhZTNlNWNlNmE5Zjc0ZWJlNjUzYjc3MGZmYw==",
+  "sha": "d9929b3bab53a1ae3e5ce6a9f74ebe653b770ffc",
+  "url": "https://api.github.com/repos/eea/odfpy/git/tags/d9929b3bab53a1ae3e5ce6a9f74ebe653b770ffc",
+  "tagger": {
+    "name": "Søren Roug",
+    "email": "soren.roug@eea.europa.eu",
+    "date": "2017-12-11T16:53:16Z"
+  },
+  "object": {
+    "sha": "d7671fd39fe9d52bc2e3a4d63356689efb577e8e",
+    "type": "commit",
+    "url": "https://api.github.com/repos/eea/odfpy/git/commits/d7671fd39fe9d52bc2e3a4d63356689efb577e8e"
+  },
+  "tag": "release-1.3.6",
+  "message": "Changes:\n- Proper import of load\n- Escaping: replace xml-1.0-illegal characters with question marks\n- ODT merge example\n- Changed the path to save images. Now image of the subobject is stored in a folder of subobject\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

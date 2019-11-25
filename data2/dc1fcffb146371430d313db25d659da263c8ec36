@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTEwNzQxMTY6ZGMxZmNmZmIxNDYzNzE0MzBkMzEzZGIyNWQ2NTlkYTI2M2M4ZWMzNg==",
+  "sha": "dc1fcffb146371430d313db25d659da263c8ec36",
+  "url": "https://api.github.com/repos/openstack/oslo.messaging/git/tags/dc1fcffb146371430d313db25d659da263c8ec36",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-09-25T19:34:27Z"
+  },
+  "object": {
+    "sha": "95bcaca4b9775afa9aab62406c0e28b7793f25a6",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.messaging/git/commits/95bcaca4b9775afa9aab62406c0e28b7793f25a6"
+  },
+  "tag": "5.35.3",
+  "message": "oslo.messaging 5.35.3 release\n\nmeta:version: 5.35.3\nmeta:diff-start: 5.35.1\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: Iaea87ebe23bcad27d4422f3c477bf2fa37cf5bc5\nmeta:release:Code-Review+1: Alex Schultz <aschultz@redhat.com>\nmeta:release:Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Code-Review+1: Sergii Golovatiuk <sgolovat@redhat.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbqo3DAAoJEBpUEUgFTp44iJYL/0Nza/XCHjqsnpB6bbbmzdXU\n3u/alOX5bbCnXOUC0wt1BtQ5707A1KsrVShN+v9GT0wS8J/MxkFNY1o6JXCcZp4Q\nLM3VuVDccI6T6dzNjl45WIA71duWhkgH8Kxsip0TTI8yg/3hpD4DbLXjrEpcxMYS\n+VDWw2v1Fbmj3GcD2niRwCrk2Zo8bMNJxI/g49y0eiVMXcPPCvgQakrKIJpHDJ0G\n0VTWEuKtuYVTrSbHFkgbzU0MnJ1SA3shhSNCS6FEy0KysHwJP3DPT8dOJd8/xWIz\nQlVllzECrKE1Rc8LYOmfko4f5wqltsftsjGhYKdkul6M29dqvytsdLiQob5Crpjh\na1i1noJYR+lcNv/mBtOUGdRzTFYMIPMrk+SukqDFsRrFQweOeXwEZwlkeSdNUpG+\nNvDFvJnfJlenB4fkIZmj8Kmh6ADJSwrcIjvIrYb4qQq4ExS5E/Om60VaQGiuyMve\nk0fO1wFe1t35haJDI5eJHh4zPCoHLj+iin6XcdGJ6Q==\n=pF5k\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQGcBAABAgAGBQJbqo3DAAoJEBpUEUgFTp44iJYL/0Nza/XCHjqsnpB6bbbmzdXU\n3u/alOX5bbCnXOUC0wt1BtQ5707A1KsrVShN+v9GT0wS8J/MxkFNY1o6JXCcZp4Q\nLM3VuVDccI6T6dzNjl45WIA71duWhkgH8Kxsip0TTI8yg/3hpD4DbLXjrEpcxMYS\n+VDWw2v1Fbmj3GcD2niRwCrk2Zo8bMNJxI/g49y0eiVMXcPPCvgQakrKIJpHDJ0G\n0VTWEuKtuYVTrSbHFkgbzU0MnJ1SA3shhSNCS6FEy0KysHwJP3DPT8dOJd8/xWIz\nQlVllzECrKE1Rc8LYOmfko4f5wqltsftsjGhYKdkul6M29dqvytsdLiQob5Crpjh\na1i1noJYR+lcNv/mBtOUGdRzTFYMIPMrk+SukqDFsRrFQweOeXwEZwlkeSdNUpG+\nNvDFvJnfJlenB4fkIZmj8Kmh6ADJSwrcIjvIrYb4qQq4ExS5E/Om60VaQGiuyMve\nk0fO1wFe1t35haJDI5eJHh4zPCoHLj+iin6XcdGJ6Q==\n=pF5k\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 95bcaca4b9775afa9aab62406c0e28b7793f25a6\ntype commit\ntag 5.35.3\ntagger OpenStack Release Bot <infra-root@openstack.org> 1537904067 +0000\n\noslo.messaging 5.35.3 release\n\nmeta:version: 5.35.3\nmeta:diff-start: 5.35.1\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Commit: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Change-Id: Iaea87ebe23bcad27d4422f3c477bf2fa37cf5bc5\nmeta:release:Code-Review+1: Alex Schultz <aschultz@redhat.com>\nmeta:release:Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>\nmeta:release:Code-Review+1: Sergii Golovatiuk <sgolovat@redhat.com>\nmeta:release:Code-Review+2: Doug Hellmann <doug@doughellmann.com>\nmeta:release:Workflow+1: Doug Hellmann <doug@doughellmann.com>\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjEyNTk5NDY6ZGMzMDE4ODdkZjU1MDJiNjkzOTI0YWMzMmY2YTA3YTVkYzEzNzJiZA==",
+  "sha": "dc301887df5502b693924ac32f6a07a5dc1372bd",
+  "url": "https://api.github.com/repos/openstack/python-tackerclient/git/tags/dc301887df5502b693924ac32f6a07a5dc1372bd",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-27T00:46:18Z"
+  },
+  "object": {
+    "sha": "ad36c1f5b6bff35198b9bf1b06c8755fe14f080c",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-tackerclient/git/commits/ad36c1f5b6bff35198b9bf1b06c8755fe14f080c"
+  },
+  "tag": "0.16.1",
+  "message": "python-tackerclient 0.16.1 release\n\nmeta:version: 0.16.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: dharmendra <dharmendra.kushwaha@india.nec.com>\nmeta:release:Commit: dharmendra <dharmendra.kushwaha@india.nec.com>\nmeta:release:Change-Id: I449551b71c3081bab0f4a5b9684289a0e40e0873\nmeta:release:Code-Review+1: Matthew Thode <mthode@mthode.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2NW9oZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2HmVC/9p4NnlUSXeUju2U5MaVp63\nE9NFNuLORvpAYZlKit2WPBkJjC6kpt6J0OfONu8B2sUWq3M3JUSzP+eebnW69BG5\nTleNcHwdV8nUxNUgXI4sq4NmKKFz3nGG+JGVk/cp0TX6Vj8OmI6o7xrzR+bzc5Jm\n62cjzxvOu40ePDyjQ8o48M9znqbTbdWXpRNAnyQMk0Fzu+8SVQrzui6mbOO0SBN2\nDocZk9f2JBaoGKW3IZHccnCRTcGtDsjC3pm0XfaRl+0ULPb+7fUeqNrRahY2W7Cy\n4Udvx92bUmfoRsvEIb04oeFlxVZeB65mKEGe7x5SCHGxlyuUIDn6ezVwSM+H+Vz5\newJEvNB1f8wWoSA95XUVCijBbcLlXnhDj8KOuj9bFPPLzEN21xVARlbWXeHHYvy3\nPBITtxqCAc4pSF2IY3d3/oFI8enCn9hJa89kJQx5sOiqO7iOBaxzfinAr5A2FWiD\nFq0T+USe7K2g0DtewGsWiP3qM8B7IR9MnusMgw+KnOE=\n=KAAn\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl2NW9oZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2HmVC/9p4NnlUSXeUju2U5MaVp63\nE9NFNuLORvpAYZlKit2WPBkJjC6kpt6J0OfONu8B2sUWq3M3JUSzP+eebnW69BG5\nTleNcHwdV8nUxNUgXI4sq4NmKKFz3nGG+JGVk/cp0TX6Vj8OmI6o7xrzR+bzc5Jm\n62cjzxvOu40ePDyjQ8o48M9znqbTbdWXpRNAnyQMk0Fzu+8SVQrzui6mbOO0SBN2\nDocZk9f2JBaoGKW3IZHccnCRTcGtDsjC3pm0XfaRl+0ULPb+7fUeqNrRahY2W7Cy\n4Udvx92bUmfoRsvEIb04oeFlxVZeB65mKEGe7x5SCHGxlyuUIDn6ezVwSM+H+Vz5\newJEvNB1f8wWoSA95XUVCijBbcLlXnhDj8KOuj9bFPPLzEN21xVARlbWXeHHYvy3\nPBITtxqCAc4pSF2IY3d3/oFI8enCn9hJa89kJQx5sOiqO7iOBaxzfinAr5A2FWiD\nFq0T+USe7K2g0DtewGsWiP3qM8B7IR9MnusMgw+KnOE=\n=KAAn\n-----END PGP SIGNATURE-----\n",
+    "payload": "object ad36c1f5b6bff35198b9bf1b06c8755fe14f080c\ntype commit\ntag 0.16.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1569545178 +0000\n\npython-tackerclient 0.16.1 release\n\nmeta:version: 0.16.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: dharmendra <dharmendra.kushwaha@india.nec.com>\nmeta:release:Commit: dharmendra <dharmendra.kushwaha@india.nec.com>\nmeta:release:Change-Id: I449551b71c3081bab0f4a5b9684289a0e40e0873\nmeta:release:Code-Review+1: Matthew Thode <mthode@mthode.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

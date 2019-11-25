@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTpkNGI3NzU0MmM5YTA4NWVmY2ViYWI3NTU2MDRkMjEyNmI5NDdlMjc2",
+  "sha": "d4b77542c9a085efcebab755604d2126b947e276",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/d4b77542c9a085efcebab755604d2126b947e276",
+  "tagger": {
+    "name": "Fedor Indutny",
+    "email": "fedor@indutny.com",
+    "date": "2014-04-07T11:26:44Z"
+  },
+  "object": {
+    "sha": "d864907611c25ec986c5e77d4d6d6dee88f26926",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/d864907611c25ec986c5e77d4d6d6dee88f26926"
+  },
+  "tag": "v0.10.26",
+  "message": "2014.04.07, Version 0.10.26 (Stable)\n\nChanges since version 0.10.25:\n\n* process: don't close stdio fds during spawn (Tonis Tiigi)\n\n* build, windows: do not fail on Windows SDK Prompt (Marc Schlaich)\n\n* build, windows: fix x64 configuration issue (Marc Schlaich)\n\n* win: fix buffer leak on error in pipe.c (Fedor Indutny)\n\n* kqueue: invalidate fd in uv_fs_event_t (Fedor Indutny)\n\n* linux: always deregister closing fds from epoll (Geoffry Song)\n\n* error: add ENXIO for O_NONBLOCK FIFO open() (Fedor Indutny)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJTQouxAAoJEPsOEJWxeXmZ4/kP/ic0EAxQaX1P6/g74J4rfpl3\nSY07YyyR+wIGA15wmsEgt9QUvCVqXEXAmBgwy9EUpdJ8I0y0J1zCGpZHLeGC0imn\njd+/w0FfLeV7p96a1lqgx/DV7FQDKLhRLS1tgHg2OIdHCgp77VdwgpSWV5dBHbok\ncIdAPeWvvti1+ikTTQNOLh/YuVNoTvtH1/wW3zglkOIYxTJ2CVP1/axSLjTtOfZy\n7uLqXpALudWv34mVJ0in3paFJenrINmlGEDrqV7P8uMwT/mb0s9HneD+MYPhILOD\nZRHXbF6/Bfp0QdcQiFPwejnnFioErAExRzAqjF1v5LQImYtCg/G+0TU3R5IXNo4v\nIuYy5Qa4FivY6JK/MwXJxRTrzhuiHoWROWyYrEuskOnPFeCtcxtkIsrkuJr1nxJv\nLIMWEQsj7s1XRmmXoKpu+lpHD3dEjXWEgdjgyCc+r57a4k9COa6fPbmyTf5rwGj4\nqQMBCbZ5emTZChrqO+bmAXVvGn3i/2YZwMbwLP7NJCW1uKGqgMHUcvGoMPWT0Fqh\nz4y0n+WyvjJCpX6EBM9Y47KQ98bKSaD3YlfttQBcf09yS8SX5QiWYjhuSswONRiW\nULULtX/VC6RgEWxG+o50km03AerSrqQ4vm9ove7YpuyP1SfisUPWfawWinkwAcFa\nzi2uSMmEXBCtIy7YLG4/\n=UG6q\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJTQouxAAoJEPsOEJWxeXmZ4/kP/ic0EAxQaX1P6/g74J4rfpl3\nSY07YyyR+wIGA15wmsEgt9QUvCVqXEXAmBgwy9EUpdJ8I0y0J1zCGpZHLeGC0imn\njd+/w0FfLeV7p96a1lqgx/DV7FQDKLhRLS1tgHg2OIdHCgp77VdwgpSWV5dBHbok\ncIdAPeWvvti1+ikTTQNOLh/YuVNoTvtH1/wW3zglkOIYxTJ2CVP1/axSLjTtOfZy\n7uLqXpALudWv34mVJ0in3paFJenrINmlGEDrqV7P8uMwT/mb0s9HneD+MYPhILOD\nZRHXbF6/Bfp0QdcQiFPwejnnFioErAExRzAqjF1v5LQImYtCg/G+0TU3R5IXNo4v\nIuYy5Qa4FivY6JK/MwXJxRTrzhuiHoWROWyYrEuskOnPFeCtcxtkIsrkuJr1nxJv\nLIMWEQsj7s1XRmmXoKpu+lpHD3dEjXWEgdjgyCc+r57a4k9COa6fPbmyTf5rwGj4\nqQMBCbZ5emTZChrqO+bmAXVvGn3i/2YZwMbwLP7NJCW1uKGqgMHUcvGoMPWT0Fqh\nz4y0n+WyvjJCpX6EBM9Y47KQ98bKSaD3YlfttQBcf09yS8SX5QiWYjhuSswONRiW\nULULtX/VC6RgEWxG+o50km03AerSrqQ4vm9ove7YpuyP1SfisUPWfawWinkwAcFa\nzi2uSMmEXBCtIy7YLG4/\n=UG6q\n-----END PGP SIGNATURE-----\n",
+    "payload": "object d864907611c25ec986c5e77d4d6d6dee88f26926\ntype commit\ntag v0.10.26\ntagger Fedor Indutny <fedor@indutny.com> 1396870004 +0400\n\n2014.04.07, Version 0.10.26 (Stable)\n\nChanges since version 0.10.25:\n\n* process: don't close stdio fds during spawn (Tonis Tiigi)\n\n* build, windows: do not fail on Windows SDK Prompt (Marc Schlaich)\n\n* build, windows: fix x64 configuration issue (Marc Schlaich)\n\n* win: fix buffer leak on error in pipe.c (Fedor Indutny)\n\n* kqueue: invalidate fd in uv_fs_event_t (Fedor Indutny)\n\n* linux: always deregister closing fds from epoll (Geoffry Song)\n\n* error: add ENXIO for O_NONBLOCK FIFO open() (Fedor Indutny)\n"
+  }
+}

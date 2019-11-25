@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTQxMzIxOTI6ZGI4YTcyMWEwZjkxNzkyOWU4ZjNkZDVlZTEyMjM5ZTg5ODBhMTg2Yg==",
+  "sha": "db8a721a0f917929e8f3dd5ee12239e8980a186b",
+  "url": "https://api.github.com/repos/pkg/sftp/git/tags/db8a721a0f917929e8f3dd5ee12239e8980a186b",
+  "tagger": {
+    "name": "John Eikenberry",
+    "email": "jae@zhar.net",
+    "date": "2018-08-01T20:38:48Z"
+  },
+  "object": {
+    "sha": "6b9fa10dea25176501bd80eb8a45a46d2afc97ad",
+    "type": "commit",
+    "url": "https://api.github.com/repos/pkg/sftp/git/commits/6b9fa10dea25176501bd80eb8a45a46d2afc97ad"
+  },
+  "tag": "v1.8.1",
+  "message": "Bugfix release.\n\nFixes #260; packet ordering bug with ws-ftp client\nAdds gcc-go AIX support.\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAltiGm0ACgkQPZqeWROp\nRaJNKAf8DdRecLwKMwxiOtIeB8q1WgFFOxvy1Tu1JM+WLFYbHdO+ovYVqdFDs8th\nSSAFklLH0uUsE6cWX8EdMK8xWIH+iZXOE/lRtJdys7h3EB1XrA+Pm11OYxx90V7E\nbTIuErSAAG74ESY+7bnvIRfsdZD31Do9YkI64ir4eXn1xS052k5sE58J1JSLTKgW\nQiN3/bB/hQp/FN98xIv45ZSIxYM7E614MRe7fxVc4IOnUEfPH4XRx8FqjvOU9Nfn\nJzQrNEgCkDsewDvGVxXV0vpQ2gGGo+YZBgJl4plRbMikwMkD/uB7Tq/QOGQb8b7V\nV3uk8UHHGyZn94ZuwvdC1UzNp+5FbQ==\n=UVOL\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEEzPhKluB/h4GYxGUCPZqeWROpRaIFAltiGm0ACgkQPZqeWROp\nRaJNKAf8DdRecLwKMwxiOtIeB8q1WgFFOxvy1Tu1JM+WLFYbHdO+ovYVqdFDs8th\nSSAFklLH0uUsE6cWX8EdMK8xWIH+iZXOE/lRtJdys7h3EB1XrA+Pm11OYxx90V7E\nbTIuErSAAG74ESY+7bnvIRfsdZD31Do9YkI64ir4eXn1xS052k5sE58J1JSLTKgW\nQiN3/bB/hQp/FN98xIv45ZSIxYM7E614MRe7fxVc4IOnUEfPH4XRx8FqjvOU9Nfn\nJzQrNEgCkDsewDvGVxXV0vpQ2gGGo+YZBgJl4plRbMikwMkD/uB7Tq/QOGQb8b7V\nV3uk8UHHGyZn94ZuwvdC1UzNp+5FbQ==\n=UVOL\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 6b9fa10dea25176501bd80eb8a45a46d2afc97ad\ntype commit\ntag v1.8.1\ntagger John Eikenberry <jae@zhar.net> 1533155928 -0700\n\nBugfix release.\n\nFixes #260; packet ordering bug with ws-ftp client\nAdds gcc-go AIX support.\n"
+  }
+}

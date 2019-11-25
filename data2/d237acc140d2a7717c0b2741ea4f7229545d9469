@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTAwNjYzMDE6ZDIzN2FjYzE0MGQyYTc3MTdjMGIyNzQxZWE0ZjcyMjk1NDVkOTQ2OQ==",
+  "sha": "d237acc140d2a7717c0b2741ea4f7229545d9469",
+  "url": "https://api.github.com/repos/openstack/ironic/git/tags/d237acc140d2a7717c0b2741ea4f7229545d9469",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2018-07-05T10:15:15Z"
+  },
+  "object": {
+    "sha": "e43cd0cc5bf0c13d6a70f873a8ce57f36b719a37",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ironic/git/commits/e43cd0cc5bf0c13d6a70f873a8ce57f36b719a37"
+  },
+  "tag": "11.0.0",
+  "message": "ironic 11.0.0 release\n\nmeta:version: 11.0.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Commit: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Change-Id: Ib488e2b972916013424c86f8cb60abab78ceb37f\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbPe+zAAoJEMNs3LTfAMaMSn8H/34Q1Sys2dtDZjxG0nKq7Z9G\nq6a8zT2JOFSVvYJSlp0WWrWOXAbxW4hQPOCfIwgeX/ChiKoQcmglCI72dp/8C3gR\n60UV4u97BnKgLmLRq12f613SioUlWBDQkqgSzeQnOufrFZELLGU0yYmfD+nlQrYA\nmUutlJN2fZ+CVVacdbwELqJ3YciEPH/74mK7NNKKFVEceBMs17hFGi4+jRh2s3UF\nGWuhUNJsg7oHnbUO0JOD6uWsrI7S8juFFoGt4/RUQXP7J9jKLXY/iKjrNgRRoNli\nmA5QHSNlvxv9ansDXFKxDg9cyiCxVG9O9O1A7DM4HI9CNpdb46kXsL58lVU5fxU=\n=euZk\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbPe+zAAoJEMNs3LTfAMaMSn8H/34Q1Sys2dtDZjxG0nKq7Z9G\nq6a8zT2JOFSVvYJSlp0WWrWOXAbxW4hQPOCfIwgeX/ChiKoQcmglCI72dp/8C3gR\n60UV4u97BnKgLmLRq12f613SioUlWBDQkqgSzeQnOufrFZELLGU0yYmfD+nlQrYA\nmUutlJN2fZ+CVVacdbwELqJ3YciEPH/74mK7NNKKFVEceBMs17hFGi4+jRh2s3UF\nGWuhUNJsg7oHnbUO0JOD6uWsrI7S8juFFoGt4/RUQXP7J9jKLXY/iKjrNgRRoNli\nmA5QHSNlvxv9ansDXFKxDg9cyiCxVG9O9O1A7DM4HI9CNpdb46kXsL58lVU5fxU=\n=euZk\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e43cd0cc5bf0c13d6a70f873a8ce57f36b719a37\ntype commit\ntag 11.0.0\ntagger OpenStack Release Bot <infra-root@openstack.org> 1530785715 +0000\n\nironic 11.0.0 release\n\nmeta:version: 11.0.0\nmeta:diff-start: -\nmeta:series: rocky\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: yes\nmeta:release:Author: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Commit: Dmitry Tantsur <divius.inside@gmail.com>\nmeta:release:Change-Id: Ib488e2b972916013424c86f8cb60abab78ceb37f\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

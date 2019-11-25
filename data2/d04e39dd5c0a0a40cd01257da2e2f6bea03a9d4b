@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzY0MTU2MDg6ZDA0ZTM5ZGQ1YzBhMGE0MGNkMDEyNTdkYTJlMmY2YmVhMDNhOWQ0Yg==",
+  "sha": "d04e39dd5c0a0a40cd01257da2e2f6bea03a9d4b",
+  "url": "https://api.github.com/repos/openstack/oslo.service/git/tags/d04e39dd5c0a0a40cd01257da2e2f6bea03a9d4b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-09-03T19:05:45Z"
+  },
+  "object": {
+    "sha": "046507db14ad48c6f085faa48f6e7d27eb6d45c1",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.service/git/commits/046507db14ad48c6f085faa48f6e7d27eb6d45c1"
+  },
+  "tag": "1.40.1",
+  "message": "oslo.service 1.40.1 release\n\nmeta:version: 1.40.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Eric Fried <openstack@fried.cc>\nmeta:release:Commit: Eric Fried <openstack@fried.cc>\nmeta:release:Change-Id: Iba3992f4f88b2007d135e6b05875b2ed17fcd93f\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1uuYkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2AH8DACn03VWvBczf0a/lL1iu15F\ngDOgTGodOWXjqS4+O3gHxGyoxKIyEsb/OeSqrzOiihY01Q4yU2jNqlyUH4DLlg7u\nd3xlhtWApDo3WsvAi10SsLqwWlfwGFBDWqWJ3gm7O9tQ34tPX/lbVMX3wBP4oCWl\nQ+AlmIWlB+trh64Ij8KO0BFbX9BVkTpiHcuzypMwCI1MZL3B/tdl/ofrITPjV8O/\ni5cZiiVp78obKShStbhFm8+ZLo5m2RVVWR/ld3i7H7bdn0J5SK0+h2qPJk99Bdi0\nksjKH/n7T/ceCL7sygIo6ppNqWChmB5mcBMDwPkmpUXXCC8U+Ys1Gs6LqSQmiGBX\nLlq2stU4fNafgaTI4uPGaOdVy5xhRo/VCBPEuMYj19QIl8wAlT5u71o4w0+J7s9Z\n4EXXKu/V8+wJRVWq+rjkw232Qha7nI/ZBliH6L2QoR8AYlKQ/Ql3oJa8dulMBz58\nRdeyYaofeatvk4+uVdFO+lmuj3FhaI0+bmSJNKBUvGk=\n=w8sb\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1uuYkZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2AH8DACn03VWvBczf0a/lL1iu15F\ngDOgTGodOWXjqS4+O3gHxGyoxKIyEsb/OeSqrzOiihY01Q4yU2jNqlyUH4DLlg7u\nd3xlhtWApDo3WsvAi10SsLqwWlfwGFBDWqWJ3gm7O9tQ34tPX/lbVMX3wBP4oCWl\nQ+AlmIWlB+trh64Ij8KO0BFbX9BVkTpiHcuzypMwCI1MZL3B/tdl/ofrITPjV8O/\ni5cZiiVp78obKShStbhFm8+ZLo5m2RVVWR/ld3i7H7bdn0J5SK0+h2qPJk99Bdi0\nksjKH/n7T/ceCL7sygIo6ppNqWChmB5mcBMDwPkmpUXXCC8U+Ys1Gs6LqSQmiGBX\nLlq2stU4fNafgaTI4uPGaOdVy5xhRo/VCBPEuMYj19QIl8wAlT5u71o4w0+J7s9Z\n4EXXKu/V8+wJRVWq+rjkw232Qha7nI/ZBliH6L2QoR8AYlKQ/Ql3oJa8dulMBz58\nRdeyYaofeatvk4+uVdFO+lmuj3FhaI0+bmSJNKBUvGk=\n=w8sb\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 046507db14ad48c6f085faa48f6e7d27eb6d45c1\ntype commit\ntag 1.40.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1567537545 +0000\n\noslo.service 1.40.1 release\n\nmeta:version: 1.40.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Eric Fried <openstack@fried.cc>\nmeta:release:Commit: Eric Fried <openstack@fried.cc>\nmeta:release:Change-Id: Iba3992f4f88b2007d135e6b05875b2ed17fcd93f\nmeta:release:Code-Review+1: Ben Nemec <openstack@nemebean.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

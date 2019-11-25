@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTpkOTljOTBjYWViZDdjMWE0NjNjNzgxZjViNTViNTE2NTQ3MmM3MTI2",
+  "sha": "d99c90caebd7c1a463c781f5b55b5165472c7126",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/d99c90caebd7c1a463c781f5b55b5165472c7126",
+  "tagger": {
+    "name": "isaacs",
+    "email": "i@izs.me",
+    "date": "2013-06-26T17:19:40Z"
+  },
+  "object": {
+    "sha": "e3c63ff1627a14e96f54c1c62b0d68b446d8425b",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/e3c63ff1627a14e96f54c1c62b0d68b446d8425b"
+  },
+  "tag": "v0.11.5",
+  "message": "2013.06.27, Version 0.11.5 (Unstable)\n\nChanges since version 0.11.4:\n\n* build: remove CSTDFLAG, use only CFLAGS (Ben Noordhuis)\n\n* unix: support for android builds (Linus Mårtensson)\n\n* unix: avoid extra read, short-circuit on POLLHUP (Ben Noordhuis)\n\n* uv: support android libuv standalone build (Linus Mårtensson)\n\n* src: make queue.h c++ compatible (Ben Noordhuis)\n\n* unix: s/ngx-queue.h/queue.h/ in checksparse.sh (Ben Noordhuis)\n\n* unix: unconditionally stop handle on close (Ben Noordhuis)\n\n* freebsd: don't enable dtrace if it's not available (Brian White)\n\n* build: make HAVE_DTRACE=0 should disable dtrace (Timothy J. Fontaine)\n\n* unix: remove overzealous assert (Ben Noordhuis)\n\n* unix: remove unused function uv_fatal_error() (Ben Noordhuis)\n\n* unix, windows: clean up uv_thread_create() (Ben Noordhuis)\n\n* queue: fix pointer truncation on LLP64 platforms (Bert Belder)\n\n* build: set OS==\"android\" for android builds (Linus Mårtensson)\n\n* windows: don't use uppercase in include filename (Ben Noordhuis)\n\n* stream: add an API to make streams do blocking writes (Henry Rawas)\n\n* windows: use WSAGetLastError(), not errno (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRyyKsAAoJELCniwpsSBz2EvMH/jgotwjyAIoaiglrgPbuAVha\nSZczgYXDcu5urnnOi54bkDTc1b1c8zDvqdB7zzQlwQnaHPBfmNFjtvzUocM06nB3\n2lZK/+3kPWVQCkJBdMMtzr6rC+92I2XkyRlnmYzh7oDgrMbZHUHTfM1Sft+dVxhY\nunQAFbPqegZ9ccbXUMDPIDVj115rFQMII5An3pKF+UeZUbwQEStceAB3SObDfOzp\nUEL99nzkIGAt7BHM+Mtm/G7Louse5q82+vZdiNDR3M23pEO4D98FjUiJ/zarjeet\nvibgm6LlOdEm4zrQ6dzSYYJKDpFN3Wuibla+NQ1BK1y0KMP8+QgnTgv74Fk1/Sw=\n=hbUD\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.11 (Darwin)\n\niQEcBAABAgAGBQJRyyKsAAoJELCniwpsSBz2EvMH/jgotwjyAIoaiglrgPbuAVha\nSZczgYXDcu5urnnOi54bkDTc1b1c8zDvqdB7zzQlwQnaHPBfmNFjtvzUocM06nB3\n2lZK/+3kPWVQCkJBdMMtzr6rC+92I2XkyRlnmYzh7oDgrMbZHUHTfM1Sft+dVxhY\nunQAFbPqegZ9ccbXUMDPIDVj115rFQMII5An3pKF+UeZUbwQEStceAB3SObDfOzp\nUEL99nzkIGAt7BHM+Mtm/G7Louse5q82+vZdiNDR3M23pEO4D98FjUiJ/zarjeet\nvibgm6LlOdEm4zrQ6dzSYYJKDpFN3Wuibla+NQ1BK1y0KMP8+QgnTgv74Fk1/Sw=\n=hbUD\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e3c63ff1627a14e96f54c1c62b0d68b446d8425b\ntype commit\ntag v0.11.5\ntagger isaacs <i@izs.me> 1372267180 -0700\n\n2013.06.27, Version 0.11.5 (Unstable)\n\nChanges since version 0.11.4:\n\n* build: remove CSTDFLAG, use only CFLAGS (Ben Noordhuis)\n\n* unix: support for android builds (Linus Mårtensson)\n\n* unix: avoid extra read, short-circuit on POLLHUP (Ben Noordhuis)\n\n* uv: support android libuv standalone build (Linus Mårtensson)\n\n* src: make queue.h c++ compatible (Ben Noordhuis)\n\n* unix: s/ngx-queue.h/queue.h/ in checksparse.sh (Ben Noordhuis)\n\n* unix: unconditionally stop handle on close (Ben Noordhuis)\n\n* freebsd: don't enable dtrace if it's not available (Brian White)\n\n* build: make HAVE_DTRACE=0 should disable dtrace (Timothy J. Fontaine)\n\n* unix: remove overzealous assert (Ben Noordhuis)\n\n* unix: remove unused function uv_fatal_error() (Ben Noordhuis)\n\n* unix, windows: clean up uv_thread_create() (Ben Noordhuis)\n\n* queue: fix pointer truncation on LLP64 platforms (Bert Belder)\n\n* build: set OS==\"android\" for android builds (Linus Mårtensson)\n\n* windows: don't use uppercase in include filename (Ben Noordhuis)\n\n* stream: add an API to make streams do blocking writes (Henry Rawas)\n\n* windows: use WSAGetLastError(), not errno (Ben Noordhuis)\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDU3NjY1NTA6ZGUxMGU3ZmMzNGJjNTBkM2M1MjVlMzdjY2UzZDc4N2FkZjQ3ODAwYg==",
+  "sha": "de10e7fc34bc50d3c525e37cce3d787adf47800b",
+  "url": "https://api.github.com/repos/MagicStack/uvloop/git/tags/de10e7fc34bc50d3c525e37cce3d787adf47800b",
+  "tagger": {
+    "name": "Yury Selivanov",
+    "email": "yury@magic.io",
+    "date": "2016-05-05T22:45:35Z"
+  },
+  "object": {
+    "sha": "25a6bca1ec2f1e733bb989fbcfb7f5be1fca5ad8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/MagicStack/uvloop/git/commits/25a6bca1ec2f1e733bb989fbcfb7f5be1fca5ad8"
+  },
+  "tag": "v0.4.13",
+  "message": "v0.4.13\n\n- Added support for reuse_port param for loop.create_server\n  and create_datagram_endpoint.\n\n- Use 'idna' encoding for getaddrinfo to support unicode\n  host names.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

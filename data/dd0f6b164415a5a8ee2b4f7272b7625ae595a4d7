@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNjY1NzMyNDE6ZGQwZjZiMTY0NDE1YTVhOGVlMmI0ZjcyNzJiNzYyNWFlNTk1YTRkNw==",
+  "sha": "dd0f6b164415a5a8ee2b4f7272b7625ae595a4d7",
+  "url": "https://api.github.com/repos/hyperledger/fabric/git/tags/dd0f6b164415a5a8ee2b4f7272b7625ae595a4d7",
+  "tagger": {
+    "name": "David Enyeart",
+    "email": "enyeart@us.ibm.com",
+    "date": "2018-09-25T19:38:19Z"
+  },
+  "object": {
+    "sha": "d5c1514db1755de3755cebb1f77081068464b275",
+    "type": "commit",
+    "url": "https://api.github.com/repos/hyperledger/fabric/git/commits/d5c1514db1755de3755cebb1f77081068464b275"
+  },
+  "tag": "v1.3.0-rc1",
+  "message": "v1.3.0-rc1 Release Notes - September 24, 2018\n---------------------------------------------\n\nWhat's New in Hyperledger Fabric v1.3\n-------------------------------------\n\nThe following features/epics are included in this release:\n\nFAB-10120 - Identity Mixer for anonymous transactions\nKeep client identities anonymous and unlinkable through the use of\nzero-knowledge proofs.\n\nFAB-8812 - State-based endorsement\nAllows the default chaincode-level endorsement policy to be overridden by a\nper-key endorsement policy.\n\nFAB-2809 - Chaincode pagination of query results\nClients can now page through result sets from chaincode queries, making it\nfeasible to support large result sets with high performance.\n\nFAB-8779 - Java chaincode support\nAs an addition to the current Fabric support for chaincode written in Go and\nNode.js, Java is now supported.\n\nChanges, Known Issues, and Workarounds\n--------------------------------------\n\nFAB-11122 - Removal of event hub\n\nThe 'old' event hub has been removed in Hyperledger Fabric v1.3.  It is\nreplaced by the peer channel-based event service which was introduced in\nFabric v1.1.\nApplications using the old event hub must switch over to the new\nchannel-based event service before upgrading to v1.3 peer or SDKs.\n\nFAB-12088 - Java chaincode support on s390 architecture\n\nJava chaincode support is not yet available on s390 architecture.\n\nFAB-12134 Same chaincode source receiving fingerprint mismatch error\n\nChaincode installed in different ways may result in \"chaincode fingerprint\nmismatch data mismatch\" error upon instantiation.  This may happen when\ninstalling chaincode by using different SDKs. To workaround the problem,\npackage the chaincode prior to installation and instantiation, by using\nthe \"peer chaincode package\" command.\n\nKnown Vulnerabilities\n---------------------\nFAB-8664 - Peer should detect and react when its org has been removed\nThis is a relatively low severity problem, because it requires a significant\nconspiracy of network admins, but it will be addressed in a future release.\n\nResolved Vulnerabilities\n------------------------\nNone.\n\nOther improvements and fixes\n----------------------------\nUpdated to Go version 1.10.4\nUpdated baseimage version to 0.4.12\n\nFor the full list of improvements and fixes, refer to the release change log:\nhttps://github.com/hyperledger/fabric/blob/master/CHANGELOG.md#v130-rc1\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

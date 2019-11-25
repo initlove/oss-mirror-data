@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjQyNDUyMzg6ZDRiNTUwYjkxYjIwZWY0Zjc5YjZhYzFhNzI3N2E5ODAxMzM3MzcwNg==",
+  "sha": "d4b550b91b20ef4f79b6ac1a7277a98013373706",
+  "url": "https://api.github.com/repos/openstack/manila/git/tags/d4b550b91b20ef4f79b6ac1a7277a98013373706",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2017-12-07T20:26:11Z"
+  },
+  "object": {
+    "sha": "128460ff83c213219711c4afc284993e105012b5",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/manila/git/commits/128460ff83c213219711c4afc284993e105012b5"
+  },
+  "tag": "6.0.0.0b2",
+  "message": "manila 6.0.0.0b2 development milestone\n\nmeta:version: 6.0.0.0b2\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ben Swartzlander <ben@swartzlander.org>\nmeta:release:Commit: Ben Swartzlander <ben@swartzlander.org>\nmeta:release:Change-Id: Ib82d64fe17961d21a8309276d328acbb3a586d66\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaKaPjAAoJEEIeZHKBH5qBtqMIAJd3yRC0O2QFXKC3q5bpGuib\nyp9DfOfwM23agRMoJcV7BneW3d0owAoFHhSRENaHZMIICSRz/j6J8UGLTnuKlBIx\najVWhCCmZNbfAbzBZ6UM5cJIR+M7vwu5CMmp5Erz1eBqoZuvIZcYrbEO6IrOqoxY\nLdPiWw+Od1GaQFUOGCa4tLX2fIIgIc05/Q2B2rKhtu5t7NIZTcxB1nDTeePJBFUi\nzXsJMm6fjtAPvoLaaoNnByB0pxKpo388oHc7fiw0mzoZfQ6v0Dg9cKw4QkVcIfgG\nZHatlF0nGTdxik7kkBdIa55ejven7ICuzblewoiacIffxzCfzQ1RdamgtwRr3jU=\n=fgRB\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaKaPjAAoJEEIeZHKBH5qBtqMIAJd3yRC0O2QFXKC3q5bpGuib\nyp9DfOfwM23agRMoJcV7BneW3d0owAoFHhSRENaHZMIICSRz/j6J8UGLTnuKlBIx\najVWhCCmZNbfAbzBZ6UM5cJIR+M7vwu5CMmp5Erz1eBqoZuvIZcYrbEO6IrOqoxY\nLdPiWw+Od1GaQFUOGCa4tLX2fIIgIc05/Q2B2rKhtu5t7NIZTcxB1nDTeePJBFUi\nzXsJMm6fjtAPvoLaaoNnByB0pxKpo388oHc7fiw0mzoZfQ6v0Dg9cKw4QkVcIfgG\nZHatlF0nGTdxik7kkBdIa55ejven7ICuzblewoiacIffxzCfzQ1RdamgtwRr3jU=\n=fgRB\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 128460ff83c213219711c4afc284993e105012b5\ntype commit\ntag 6.0.0.0b2\ntagger OpenStack Release Bot <infra-root@openstack.org> 1512678371 +0000\n\nmanila 6.0.0.0b2 development milestone\n\nmeta:version: 6.0.0.0b2\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: development milestone\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Ben Swartzlander <ben@swartzlander.org>\nmeta:release:Commit: Ben Swartzlander <ben@swartzlander.org>\nmeta:release:Change-Id: Ib82d64fe17961d21a8309276d328acbb3a586d66\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>\n"
+  }
+}

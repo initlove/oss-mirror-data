@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMzAzMDk4NjpkMjIyMDBkZTg3NDhhNWFlMTcwOWM3NWVlMzlmMTI4NDAxOTAyOTJh",
+  "sha": "d22200de8748a5ae1709c75ee39f12840190292a",
+  "url": "https://api.github.com/repos/openstack/python-keystoneclient/git/tags/d22200de8748a5ae1709c75ee39f12840190292a",
+  "tagger": {
+    "name": "Joe Heck",
+    "email": "heckj@mac.com",
+    "date": "2012-12-21T18:16:51Z"
+  },
+  "object": {
+    "sha": "e7fd4b9b5722d53c18837b44b41b25a323d9b44a",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/python-keystoneclient/git/commits/e7fd4b9b5722d53c18837b44b41b25a323d9b44a"
+  },
+  "tag": "0.2.1",
+  "message": "0.2.1\n\n * HTTPS support\n * underlying system now using requests instead of httplib2\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (Darwin)\n\niQEcBAABAgAGBQJQ1KeuAAoJEDXX+C7hSKCbPUAIAJz4fox0cV1UMy/16RqFXNFB\nv2dw1OSJULnwZoMerVl7pIv64jdlB7JifhZ7QGUmWzLnDwWwUbV5LOCKIjkUEJoB\nnp1NEg0wkaaCOmQdgU335oq7hTttuTRq1gWnDpeCMsRX6EZ/SuZR3MWQfluauEUt\n7f02G8cKXBFFciogDkN44yDbQL2sbpiG+ySptWhrXwqyL0Cvc9OjUXGYAAtXxucS\nxrCN1pXPRUBEpUCYfPb+ReN7u7CWes3nXbMitbO4mCdWn8jvvSx1ehKjjKT32xah\nNk3SaZUPk4hpU7BQwNuuL4wvp0TYY49mfckx2ulMAgpX1o9u3i/hsLasHCiGLqM=\n=4e2I\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.12 (Darwin)\n\niQEcBAABAgAGBQJQ1KeuAAoJEDXX+C7hSKCbPUAIAJz4fox0cV1UMy/16RqFXNFB\nv2dw1OSJULnwZoMerVl7pIv64jdlB7JifhZ7QGUmWzLnDwWwUbV5LOCKIjkUEJoB\nnp1NEg0wkaaCOmQdgU335oq7hTttuTRq1gWnDpeCMsRX6EZ/SuZR3MWQfluauEUt\n7f02G8cKXBFFciogDkN44yDbQL2sbpiG+ySptWhrXwqyL0Cvc9OjUXGYAAtXxucS\nxrCN1pXPRUBEpUCYfPb+ReN7u7CWes3nXbMitbO4mCdWn8jvvSx1ehKjjKT32xah\nNk3SaZUPk4hpU7BQwNuuL4wvp0TYY49mfckx2ulMAgpX1o9u3i/hsLasHCiGLqM=\n=4e2I\n-----END PGP SIGNATURE-----\n",
+    "payload": "object e7fd4b9b5722d53c18837b44b41b25a323d9b44a\ntype commit\ntag 0.2.1\ntagger Joe Heck <heckj@mac.com> 1356113811 -0800\n\n0.2.1\n\n * HTTPS support\n * underlying system now using requests instead of httplib2\n"
+  }
+}

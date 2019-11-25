@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTY2MjY5NjE6ZDc5Y2VmNWY2ODQ1Y2ZjNmU3MjllOGIzNzJiMjViNzI5ZDE1MjVkNA==",
+  "sha": "d79cef5f6845cfc6e729e8b372b25b729d1525d4",
+  "url": "https://api.github.com/repos/openstack/taskflow/git/tags/d79cef5f6845cfc6e729e8b372b25b729d1525d4",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-08-29T09:44:14Z"
+  },
+  "object": {
+    "sha": "f0eae2cc7c1222ee1bbc1a0018337fb2a2289de2",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/taskflow/git/commits/f0eae2cc7c1222ee1bbc1a0018337fb2a2289de2"
+  },
+  "tag": "3.7.1",
+  "message": "taskflow 3.7.1 release\n\nmeta:version: 3.7.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I797f3f75af1b5243fac8a8bdc7e1aada8e9f4082\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1nnm4ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2KMbDADqX8S3+tIkjO7REDUIUFiP\nCaZxlGSfT0mq3ogD+XUKOik7XNuM5ym7qWp1XwtZ2MV4zisLdyp6fU/VOn88pljb\n4Eiz2CdKqu+wuIhI2VzxhEja1roYUvdBrppBlOIFdSDZjWySYm5MOTjMJWB4twHg\nDFIK5h5HRNOPmraV9otIMKR9116l5FY0MxDhvR9vgR3LSQ99D7hCZx3ipZpnxtqe\nfEQFjD7HBKLGxy4ThNd2jMV17I4y/pgUAz7cM2t2gPjFMmR0/88xV5qDHA4Y4F6+\n23nk6P2R4IY0Mn+tMtFvHqn9TlftfI0/XVNCdadgcUyyBGzZo2N1wZUoLfqR+qyz\nX5R8htFQ6QmhtNl7YQptQvSYmYwCwoagMLYbEhRVMVRrWM+cRs5yfpZxJR7hu5U6\nrE6qfS47it9YMOJS4Lf55cmnQHHH7dMWWw9vUNe+gd6K5ytiTyS3FA3IRTIcg25P\ngYKt1ACDJYP/LBh4T+3+cIM53wRUsTG7GCBHhbPczQ0=\n=HAX6\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEocfnWZ2ULgRLJa46/EPw7iEd/tgFAl1nnm4ZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRD8Q/DuIR3+2KMbDADqX8S3+tIkjO7REDUIUFiP\nCaZxlGSfT0mq3ogD+XUKOik7XNuM5ym7qWp1XwtZ2MV4zisLdyp6fU/VOn88pljb\n4Eiz2CdKqu+wuIhI2VzxhEja1roYUvdBrppBlOIFdSDZjWySYm5MOTjMJWB4twHg\nDFIK5h5HRNOPmraV9otIMKR9116l5FY0MxDhvR9vgR3LSQ99D7hCZx3ipZpnxtqe\nfEQFjD7HBKLGxy4ThNd2jMV17I4y/pgUAz7cM2t2gPjFMmR0/88xV5qDHA4Y4F6+\n23nk6P2R4IY0Mn+tMtFvHqn9TlftfI0/XVNCdadgcUyyBGzZo2N1wZUoLfqR+qyz\nX5R8htFQ6QmhtNl7YQptQvSYmYwCwoagMLYbEhRVMVRrWM+cRs5yfpZxJR7hu5U6\nrE6qfS47it9YMOJS4Lf55cmnQHHH7dMWWw9vUNe+gd6K5ytiTyS3FA3IRTIcg25P\ngYKt1ACDJYP/LBh4T+3+cIM53wRUsTG7GCBHhbPczQ0=\n=HAX6\n-----END PGP SIGNATURE-----\n",
+    "payload": "object f0eae2cc7c1222ee1bbc1a0018337fb2a2289de2\ntype commit\ntag 3.7.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1567071854 +0000\n\ntaskflow 3.7.1 release\n\nmeta:version: 3.7.1\nmeta:diff-start: -\nmeta:series: train\nmeta:release-type: release\nmeta:pypi: yes\nmeta:first: no\nmeta:release:Author: Ben Nemec <bnemec@redhat.com>\nmeta:release:Commit: Ben Nemec <bnemec@redhat.com>\nmeta:release:Change-Id: I797f3f75af1b5243fac8a8bdc7e1aada8e9f4082\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

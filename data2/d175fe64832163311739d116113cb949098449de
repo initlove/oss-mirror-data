@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNDQ2NTQ1MTU6ZDE3NWZlNjQ4MzIxNjMzMTE3MzlkMTE2MTEzY2I5NDkwOTg0NDlkZQ==",
+  "sha": "d175fe64832163311739d116113cb949098449de",
+  "url": "https://api.github.com/repos/openstack/oslo.privsep/git/tags/d175fe64832163311739d116113cb949098449de",
+  "tagger": {
+    "name": "Davanum Srinivas",
+    "email": "davanum@gmail.com",
+    "date": "2016-01-14T03:40:14Z"
+  },
+  "object": {
+    "sha": "525a02801296956108acd9e6133217483e97f52d",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/oslo.privsep/git/commits/525a02801296956108acd9e6133217483e97f52d"
+  },
+  "tag": "0.3.0",
+  "message": "oslo.privsep 0.3.0 release\n\nmeta:version: 0.3.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\n-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAlaXGJ4ACgkQgNg6eWEDv1lycgCgnO9VSpIcSc+DGip0ZljaMQDu\nvJEAoKtz8IYuk5L3iLFhqEaG5v94AJsc\n=etIm\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": true,
+    "reason": "valid",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niEYEABECAAYFAlaXGJ4ACgkQgNg6eWEDv1lycgCgnO9VSpIcSc+DGip0ZljaMQDu\nvJEAoKtz8IYuk5L3iLFhqEaG5v94AJsc\n=etIm\n-----END PGP SIGNATURE-----\n",
+    "payload": "object 525a02801296956108acd9e6133217483e97f52d\ntype commit\ntag 0.3.0\ntagger Davanum Srinivas <davanum@gmail.com> 1452742814 -0500\n\noslo.privsep 0.3.0 release\n\nmeta:version: 0.3.0\nmeta:series: mitaka\nmeta:release-type: release\nmeta:announce: openstack-dev@lists.openstack.org\n"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMjc5MTM0ODpkODFhZjJjOTlhYzgyZmE3NDk2ZDkwNmJhNDIyYjU4MTI3MGYwNGQ5",
+  "sha": "d81af2c99ac82fa7496d906ba422b581270f04d9",
+  "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/tags/d81af2c99ac82fa7496d906ba422b581270f04d9",
+  "tagger": {
+    "name": "JP Richardson",
+    "email": "jprichardson@gmail.com",
+    "date": "2014-12-10T21:13:33Z"
+  },
+  "object": {
+    "sha": "760efd6c2cd75c598dc59c7095728e4cad385128",
+    "type": "commit",
+    "url": "https://api.github.com/repos/jprichardson/node-fs-extra/git/commits/760efd6c2cd75c598dc59c7095728e4cad385128"
+  },
+  "tag": "0.13.0",
+  "message": "0.13.0 / 2014-12-10\n-------------------\n- removed `touch` and `touchSync` methods\n- updated `\"ncp\": \"^0.6.0\"` to `\"ncp\": \"^1.0.1\"`\n- imported `mkdirp` => `minimist` and `mkdirp` are no longer dependences, should now appease people who wanted `mkdirp` to be `--use_strct` safe. See [#59](https://github.com/jprichardson/node-fs-extra/issues/59)\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}

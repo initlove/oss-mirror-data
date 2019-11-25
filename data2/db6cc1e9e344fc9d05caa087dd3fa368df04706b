@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnNTg2NjY0NDE6ZGI2Y2MxZTllMzQ0ZmM5ZDA1Y2FhMDg3ZGQzZmEzNjhkZjA0NzA2Yg==",
+  "sha": "db6cc1e9e344fc9d05caa087dd3fa368df04706b",
+  "url": "https://api.github.com/repos/openstack/ldappool/git/tags/db6cc1e9e344fc9d05caa087dd3fa368df04706b",
+  "tagger": {
+    "name": "OpenStack Release Bot",
+    "email": "infra-root@openstack.org",
+    "date": "2019-10-30T14:28:26Z"
+  },
+  "object": {
+    "sha": "bf7190e1faa6793bd2b2784ab9e993e381244e35",
+    "type": "commit",
+    "url": "https://api.github.com/repos/openstack/ldappool/git/commits/bf7190e1faa6793bd2b2784ab9e993e381244e35"
+  },
+  "tag": "2.2.1",
+  "message": "ldappool 2.2.1 release\n\nmeta:version: 2.2.1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kristi Nikolla <kristi@nikolla.me>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: I872ccd63bd4e1bfd197b9fc588113467f3e534b0\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl25ngoZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHBpUC/wMCnK9Ejo5kdNORyXrApdD\nePWIAmTSK1i3ogUh13rebxrklgi04uqA7M77PW8Fn3vY5lH8GmLAkk7YdR4bS+MA\nWdA2XmVEhVACULyVj+qxwv2pwIA05692apZft7lQlvmR1gXAGtnFEuE+wwW8pxBc\nvTDURNLNxjDnYrV6DRIOUM4MKlwrcAdDlM7lkwKczHzbosvb0se8BdrhpBrry2/t\ny626tw749KijnaR1u6SUWYlqgUEyhY4fKsQx/NFBY3vwC3n8W7CEyCHK+9+iR5Yk\nXzqTsUCCd1sjA1qCtR/hOPrkdO0aW280GQ5RzDSI68vTuDc5GRejB+DLbWi8a/4N\nF4nXtrIkov1hSK8FHnRIm3HeRuVsq7VljBCcHfJugmbhluLFxKCLQFKMEtTF3LNr\nIczR0aOjI2WLLCt8nd3b+sz9OH262H2WVdqSVq/0bJk47/laZObELY2dgguLEhzn\nkkIIldPp0i9Jj1xJSENf7cDeDkyU/ZIDYn9/LYY/Tj8=\n=g2N1\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\n\niQHNBAABCgA3FiEEKYA955DgHFw5QkS5TzmN6uRACRwFAl25ngoZHGluZnJhLXJv\nb3RAb3BlbnN0YWNrLm9yZwAKCRBPOY3q5EAJHBpUC/wMCnK9Ejo5kdNORyXrApdD\nePWIAmTSK1i3ogUh13rebxrklgi04uqA7M77PW8Fn3vY5lH8GmLAkk7YdR4bS+MA\nWdA2XmVEhVACULyVj+qxwv2pwIA05692apZft7lQlvmR1gXAGtnFEuE+wwW8pxBc\nvTDURNLNxjDnYrV6DRIOUM4MKlwrcAdDlM7lkwKczHzbosvb0se8BdrhpBrry2/t\ny626tw749KijnaR1u6SUWYlqgUEyhY4fKsQx/NFBY3vwC3n8W7CEyCHK+9+iR5Yk\nXzqTsUCCd1sjA1qCtR/hOPrkdO0aW280GQ5RzDSI68vTuDc5GRejB+DLbWi8a/4N\nF4nXtrIkov1hSK8FHnRIm3HeRuVsq7VljBCcHfJugmbhluLFxKCLQFKMEtTF3LNr\nIczR0aOjI2WLLCt8nd3b+sz9OH262H2WVdqSVq/0bJk47/laZObELY2dgguLEhzn\nkkIIldPp0i9Jj1xJSENf7cDeDkyU/ZIDYn9/LYY/Tj8=\n=g2N1\n-----END PGP SIGNATURE-----\n",
+    "payload": "object bf7190e1faa6793bd2b2784ab9e993e381244e35\ntype commit\ntag 2.2.1\ntagger OpenStack Release Bot <infra-root@openstack.org> 1572445706 +0000\n\nldappool 2.2.1 release\n\nmeta:version: 2.2.1\nmeta:diff-start: -\nmeta:series: queens\nmeta:release-type: release\nmeta:pypi: no\nmeta:first: no\nmeta:release:Author: Kristi Nikolla <kristi@nikolla.me>\nmeta:release:Commit: Thierry Carrez <thierry@openstack.org>\nmeta:release:Change-Id: I872ccd63bd4e1bfd197b9fc588113467f3e534b0\nmeta:release:Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>\nmeta:release:Code-Review+1: Colleen Murphy <colleen@gazlene.net>\nmeta:release:Code-Review+2: Thierry Carrez <thierry@openstack.org>\nmeta:release:Workflow+1: Thierry Carrez <thierry@openstack.org>\n"
+  }
+}

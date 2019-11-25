@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTU0MzQzMTpkZGQ1NjI2MjQ5ZjE4MjZhMTYxYzIwMTEwMjU5Zjc0YzE3MDI1YTQ5",
+  "sha": "ddd5626249f1826a161c20110259f74c17025a49",
+  "url": "https://api.github.com/repos/joyent/libuv/git/tags/ddd5626249f1826a161c20110259f74c17025a49",
+  "tagger": {
+    "name": "Timothy J Fontaine",
+    "email": "tjfontaine@gmail.com",
+    "date": "2013-08-21T17:25:37Z"
+  },
+  "object": {
+    "sha": "a5260462db80ab0deab6b9e6a8991dd8f5a9a2f8",
+    "type": "commit",
+    "url": "https://api.github.com/repos/joyent/libuv/git/commits/a5260462db80ab0deab6b9e6a8991dd8f5a9a2f8"
+  },
+  "tag": "v0.11.8",
+  "message": "2013.08.22, Version 0.11.8 (Unstable)\n\nChanges since version 0.11.7:\n\n* unix: fix missing return value warning in stream.c (Ben Noordhuis)\n\n* build: serial-tests was added in automake v1.12 (Ben Noordhuis)\n\n* windows: fix uninitialized local variable warning (Ben Noordhuis)\n\n* windows: fix missing return value warning (Ben Noordhuis)\n\n* build: fix string comparisons in autogen.sh (Ben Noordhuis)\n\n* windows: move INLINE macro, remove UNUSED (Ben Noordhuis)\n\n* unix: clean up __attribute__((quux)) usage (Ben Noordhuis)\n\n* sunos: remove futimes() macro (Ben Noordhuis)\n\n* unix: fix uv__signal_unlock() prototype (Ben Noordhuis)\n\n* unix, windows: allow NULL async callback (Ben Noordhuis)\n\n* build: apply dtrace -G to all object files (Timothy J. Fontaine)\n\n* darwin: fix indentation in uv__hrtime() (Ben Noordhuis)\n\n* darwin: create fsevents thread on demand (Ben Noordhuis)\n\n* darwin: reduce fsevents thread stack size (Ben Noordhuis)\n\n* darwin: call pthread_setname_np() if available (Ben Noordhuis)\n\n* build: fix automake serial-tests check again (Ben Noordhuis)\n\n* unix: retry waitpid() on EINTR (Ben Noordhuis)\n\n* darwin: fix ios build error (Ben Noordhuis)\n\n* darwin: fix ios compiler warning (Ben Noordhuis)\n\n* test: simplify test-ip6-addr.c (Ben Noordhuis)\n\n* unix, windows: fix ipv6 link-local address parsing (Ben Noordhuis)\n\n* fsevents: FSEvents is most likely not thread-safe (Fedor Indutny)\n\n* windows: omit stdint.h, fix msvc 2008 build error (Ben Noordhuis)\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlIU+BQACgkQfTP/nQJGQG35PQCdFfd6MVdXKPBhNcv+hvwzCcPU\n87oAn3w5zG73aXaDjlCjnFnJ19Sh7RKS\n=a5jM\n-----END PGP SIGNATURE-----\n",
+  "verification": {
+    "verified": false,
+    "reason": "unknown_key",
+    "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG/MacGPG2 v2.0.19 (Darwin)\nComment: GPGTools - http://gpgtools.org\n\niEYEABECAAYFAlIU+BQACgkQfTP/nQJGQG35PQCdFfd6MVdXKPBhNcv+hvwzCcPU\n87oAn3w5zG73aXaDjlCjnFnJ19Sh7RKS\n=a5jM\n-----END PGP SIGNATURE-----\n",
+    "payload": "object a5260462db80ab0deab6b9e6a8991dd8f5a9a2f8\ntype commit\ntag v0.11.8\ntagger Timothy J Fontaine <tjfontaine@gmail.com> 1377105937 -0700\n\n2013.08.22, Version 0.11.8 (Unstable)\n\nChanges since version 0.11.7:\n\n* unix: fix missing return value warning in stream.c (Ben Noordhuis)\n\n* build: serial-tests was added in automake v1.12 (Ben Noordhuis)\n\n* windows: fix uninitialized local variable warning (Ben Noordhuis)\n\n* windows: fix missing return value warning (Ben Noordhuis)\n\n* build: fix string comparisons in autogen.sh (Ben Noordhuis)\n\n* windows: move INLINE macro, remove UNUSED (Ben Noordhuis)\n\n* unix: clean up __attribute__((quux)) usage (Ben Noordhuis)\n\n* sunos: remove futimes() macro (Ben Noordhuis)\n\n* unix: fix uv__signal_unlock() prototype (Ben Noordhuis)\n\n* unix, windows: allow NULL async callback (Ben Noordhuis)\n\n* build: apply dtrace -G to all object files (Timothy J. Fontaine)\n\n* darwin: fix indentation in uv__hrtime() (Ben Noordhuis)\n\n* darwin: create fsevents thread on demand (Ben Noordhuis)\n\n* darwin: reduce fsevents thread stack size (Ben Noordhuis)\n\n* darwin: call pthread_setname_np() if available (Ben Noordhuis)\n\n* build: fix automake serial-tests check again (Ben Noordhuis)\n\n* unix: retry waitpid() on EINTR (Ben Noordhuis)\n\n* darwin: fix ios build error (Ben Noordhuis)\n\n* darwin: fix ios compiler warning (Ben Noordhuis)\n\n* test: simplify test-ip6-addr.c (Ben Noordhuis)\n\n* unix, windows: fix ipv6 link-local address parsing (Ben Noordhuis)\n\n* fsevents: FSEvents is most likely not thread-safe (Fedor Indutny)\n\n* windows: omit stdint.h, fix msvc 2008 build error (Ben Noordhuis)\n"
+  }
+}

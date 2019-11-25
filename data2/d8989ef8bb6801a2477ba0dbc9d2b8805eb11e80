@@ -1,0 +1,23 @@
+{
+  "node_id": "MDM6VGFnMTMzNzY1ODpkODk4OWVmOGJiNjgwMWEyNDc3YmEwZGJjOWQyYjg4MDVlYjExZTgw",
+  "sha": "d8989ef8bb6801a2477ba0dbc9d2b8805eb11e80",
+  "url": "https://api.github.com/repos/scottjehl/Respond/git/tags/d8989ef8bb6801a2477ba0dbc9d2b8805eb11e80",
+  "tagger": {
+    "name": "scottjehl",
+    "email": "scott@scottjehl.com",
+    "date": "2012-01-16T07:46:20Z"
+  },
+  "object": {
+    "sha": "30fe9622f31660eab338e4d16043ac20ee30d4bb",
+    "type": "commit",
+    "url": "https://api.github.com/repos/scottjehl/Respond/git/commits/30fe9622f31660eab338e4d16043ac20ee30d4bb"
+  },
+  "tag": "1.0.1",
+  "message": "Tagged as version 1.0.1. This version is mostly a bugfix update, including a crash fix for IE (when using background images on HTML element), and preserving attribute selector support in IE7+. Other fixes include syntax stability for @media statements, and the external inclusion of the window.matchMedia polyfill, rather than including a separate polyfill internally. If you're already including a window.matchMedia polyfill via Modernizr or otherwise, you can delete it from the top of Respond.js for file savings.\n",
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null
+  }
+}
